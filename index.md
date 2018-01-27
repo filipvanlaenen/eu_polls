@@ -793,3 +793,37 @@
 
 ## Technical Information
 
+The seats and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
+
+# Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/))
+
+The following countries haven't been included yet:
+
+# Austria
+# Belgium (French-speaking constituency and German-speaking constituency
+# Bulgaria
+# Cyprus
+# The Czech Republic
+# Denmark
+# Estonia
+# Finland
+# France
+# Germany
+# Greece
+# Hungary
+# Iceland
+# Ireland
+# Italy
+# Latvia
+# Lithuania
+# Luxemburg
+# Malta
+# The Netherlands
+# Poland
+# Portugal
+# Romania
+# Slovakia
+# Slovenia
+# Spain
+# Sweden
+# United Kingdom
