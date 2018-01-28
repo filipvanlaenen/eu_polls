@@ -1,4 +1,4 @@
-# Projections for the European Parliament
+# Seat Projection for the European Parliament
 
 <p align="center"><a href="#seats">Seats</a> | <a href="#voting-intentions">Voting Intentions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -793,7 +793,7 @@
 
 ## Technical Information
 
-The seats and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
+The seat and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
 
 1. Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/))
 
