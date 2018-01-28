@@ -10,14 +10,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | 2 | 2 |2–3 | 2–3 | 1–3 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 4–5 | 3–5 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 1 | 1 |1–2 | 1–2 | 1–2 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 1 |0–1 | 0–1 | 0–2 |
+| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
 
 ### European People’s Party
 
@@ -28,8 +28,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
-| 2 | 88% | 98% | Median |
-| 3 | 10% | 10% |  |
+| 2 | 72% | 98% | Median |
+| 3 | 25% | 25% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -253,8 +253,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 17% | 100% |  |
-| 2 | 83% | 83% | Median |
+| 1 | 16% | 100% |  |
+| 2 | 84% | 84% | Median |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
@@ -313,8 +313,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.9% | 100% |  |
-| 4 | 83% | 99.1% | Median |
+| 3 | 4% | 100% |  |
+| 4 | 79% | 96% | Median |
 | 5 | 17% | 17% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
@@ -394,9 +394,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 26% | 100% |  |
-| 2 | 74% | 74% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -471,8 +471,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Median |
-| 1 | 12% | 12% |  |
+| 0 | 86% | 100% | Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
@@ -533,8 +533,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Median |
-| 2 | 14% | 14% |  |
+| 1 | 93% | 100% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
@@ -732,8 +732,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 89% | 91% | Median |
+| 0 | 18% | 100% |  |
+| 1 | 80% | 82% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
