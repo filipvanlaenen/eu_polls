@@ -18,6 +18,7 @@
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | N/A | N/A |N/A | N/A | N/A |
 
 ### European People’s Party
 
@@ -788,6 +789,7 @@
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 
 
