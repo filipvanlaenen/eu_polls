@@ -10,16 +10,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 14–16 |13–16 | 13–17 | 13–17 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 5 | 4–6 |4–6 | 4–6 | 3–7 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 3 | 2–4 |2–4 | 2–4 | 1–4 |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 14–17 |14–17 | 13–17 | 13–18 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 4 | 4–6 |4–6 | 3–6 | 3–7 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
-| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
-| <a href="#unaffiliated">Unaffiliated</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 2–5 |2–5 | 2–5 | 2–5 |
+| <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0 |0 | 0 | 0 |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 3 | 2–4 |2–4 | 2–4 | 1–4 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | N/A | N/A |N/A | N/A | N/A |
 
 ### European People’s Party
 
@@ -30,12 +30,12 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 6% | 99.8% |  |
-| 14 | 37% | 94% |  |
-| 15 | 34% | 56% | Median |
-| 16 | 18% | 22% |  |
-| 17 | 4% | 4% |  |
-| 18 | 0% | 0% |  |
+| 13 | 5% | 99.9% |  |
+| 14 | 37% | 95% |  |
+| 15 | 29% | 59% | Median |
+| 16 | 17% | 30% |  |
+| 17 | 11% | 13% |  |
+| 18 | 2% | 2% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
@@ -236,286 +236,6 @@
 | 216 | 0% | 0% |  |
 | 217 | 0% | 0% | Last Result |
 
-### Greens–European Free Alliance
-
-*For a full overview of the results for this party, see the [Greens–European Free Alliance](party-greens–europeanfreealliance.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.3% | 100% |  |
-| 2 | 18% | 98.7% |  |
-| 3 | 63% | 80% | Median |
-| 4 | 17% | 17% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% | Last Result |
-
-### European Conservatives and Reformists
-
-*For a full overview of the results for this party, see the [European Conservatives and Reformists](party-europeanconservativesandreformists.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 4% | 100% |  |
-| 4 | 79% | 96% | Median |
-| 5 | 17% | 17% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
-| 71 | 0% | 0% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% | Last Result |
-
-### Alliance of Liberals and Democrats for Europe
-
-*For a full overview of the results for this party, see the [Alliance of Liberals and Democrats for Europe](party-allianceofliberalsanddemocratsforeurope.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% | Last Result |
-
-### European United Left–Nordic Green Left
-
-*For a full overview of the results for this party, see the [European United Left–Nordic Green Left](party-europeanunitedleft–nordicgreenleft.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Median |
-| 1 | 14% | 14% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% | Last Result |
-
 ### Progressive Alliance of Socialists and Democrats
 
 *For a full overview of the results for this party, see the [Progressive Alliance of Socialists and Democrats](party-progressiveallianceofsocialistsanddemocrats.html) page.*
@@ -524,11 +244,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.9% | 100% |  |
-| 4 | 37% | 99.1% |  |
-| 5 | 33% | 63% | Median |
-| 6 | 28% | 30% |  |
-| 7 | 2% | 2% |  |
+| 3 | 4% | 100% |  |
+| 4 | 48% | 96% | Median |
+| 5 | 27% | 48% |  |
+| 6 | 20% | 22% |  |
+| 7 | 1.5% | 1.5% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
@@ -768,7 +488,22 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
+| 15 | 0% | 0% | Last Result |
 
 ### Alliance of European National Movements
 
@@ -778,11 +513,292 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 20% | 100% |  |
-| 3 | 33% | 80% | Last Result, Median |
-| 4 | 47% | 47% |  |
-| 5 | 0.4% | 0.4% |  |
+| 2 | 14% | 100% |  |
+| 3 | 38% | 86% | Last Result, Median |
+| 4 | 35% | 48% |  |
+| 5 | 13% | 13% |  |
+| 6 | 0.2% | 0.2% |  |
+| 7 | 0% | 0% |  |
+
+### Alliance of Liberals and Democrats for Europe
+
+*For a full overview of the results for this party, see the [Alliance of Liberals and Democrats for Europe](party-allianceofliberalsanddemocratsforeurope.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
+| 15 | 0% | 0% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
+| 32 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
+| 34 | 0% | 0% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
+| 66 | 0% | 0% |  |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% | Last Result |
+
+### Greens–European Free Alliance
+
+*For a full overview of the results for this party, see the [Greens–European Free Alliance](party-greens–europeanfreealliance.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 2% | 100% |  |
+| 2 | 24% | 98% |  |
+| 3 | 59% | 74% | Median |
+| 4 | 15% | 15% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
+| 15 | 0% | 0% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
+| 32 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
+| 34 | 0% | 0% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% | Last Result |
+
+### European Conservatives and Reformists
+
+*For a full overview of the results for this party, see the [European Conservatives and Reformists](party-europeanconservativesandreformists.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 4% | 100% |  |
+| 4 | 79% | 96% | Median |
+| 5 | 17% | 17% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
+| 15 | 0% | 0% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
+| 32 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
+| 34 | 0% | 0% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
+| 66 | 0% | 0% |  |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% |  |
+| 72 | 0% | 0% |  |
+| 73 | 0% | 0% |  |
+| 74 | 0% | 0% | Last Result |
+
+### European United Left–Nordic Green Left
+
+*For a full overview of the results for this party, see the [European United Left–Nordic Green Left](party-europeanunitedleft–nordicgreenleft.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 86% | 100% | Median |
+| 1 | 14% | 14% |  |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
+| 15 | 0% | 0% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
+| 32 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
+| 34 | 0% | 0% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% | Last Result |
 
 
 ## Voting Intentions
@@ -793,16 +809,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#unaffiliated">Unaffiliated</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#european-people’s-party">European People’s Party</a> | 28.6% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 24.6% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 15.3% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 15.3% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#unaffiliated">Unaffiliated</a> | 15.3% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 7.9% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 6.5% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 6.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 6.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 5.1% | N/A | N/A |N/A | N/A | N/A |
 
 
 
@@ -811,6 +827,7 @@
 The seat and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
 
 1. Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/))
+1. [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)
 
 The following countries haven't been included yet:
 
@@ -825,7 +842,6 @@ The following countries haven't been included yet:
 1. France
 1. Germany
 1. Greece
-1. Hungary
 1. Iceland
 1. Ireland
 1. Italy
