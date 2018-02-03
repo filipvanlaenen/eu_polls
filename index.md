@@ -10,11 +10,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 14–16 |13–17 | 13–17 | 13–17 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 5 | 4–6 |4–6 | 3–6 | 3–7 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 14–17 |13–17 | 13–18 | 13–18 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 5 | 3–6 |3–6 | 3–6 | 3–7 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
-| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 3–5 |3–5 | 3–5 | 2–5 |
-| <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 3–4 |3–4 | 3–5 | 2–5 |
+| <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0 |0 | 0 | 0 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
@@ -30,13 +30,13 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.3% | 100% |  |
-| 13 | 8% | 99.7% |  |
-| 14 | 33% | 91% |  |
-| 15 | 28% | 58% | Median |
-| 16 | 23% | 30% |  |
-| 17 | 7% | 7% |  |
-| 18 | 0.3% | 0.3% |  |
-| 19 | 0% | 0% |  |
+| 13 | 9% | 99.7% |  |
+| 14 | 30% | 91% |  |
+| 15 | 29% | 61% | Median |
+| 16 | 16% | 32% |  |
+| 17 | 13% | 17% |  |
+| 18 | 4% | 4% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -244,10 +244,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% |  |
-| 4 | 43% | 97% |  |
-| 5 | 37% | 54% | Median |
-| 6 | 16% | 17% |  |
+| 3 | 13% | 100% |  |
+| 4 | 34% | 87% |  |
+| 5 | 36% | 52% | Median |
+| 6 | 15% | 17% |  |
 | 7 | 1.1% | 1.1% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -488,8 +488,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Median |
-| 1 | 0.7% | 0.7% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
@@ -513,12 +513,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% |  |
-| 3 | 60% | 98% | Last Result, Median |
-| 4 | 26% | 38% |  |
-| 5 | 12% | 12% |  |
-| 6 | 0.4% | 0.4% |  |
-| 7 | 0% | 0% |  |
+| 2 | 1.4% | 100% |  |
+| 3 | 55% | 98.6% | Last Result, Median |
+| 4 | 41% | 44% |  |
+| 5 | 3% | 3% |  |
+| 6 | 0% | 0% |  |
 
 ### Alliance of Liberals and Democrats for Europe
 
@@ -605,8 +604,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 14% | 99.8% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 14% | 99.9% |  |
 | 3 | 71% | 86% | Median |
 | 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
@@ -841,7 +840,7 @@ The following countries haven't been included yet:
 1. Estonia (6 seats)
 1. Finland (13 seats)
 1. France (74 seats)
-1. Germany (96 seats, Hare-Niemeyer method)
+1. Germany (96 seats, presumably the Hare-Niemeyer method)
 1. Greece (21 seats)
 1. Ireland (11 seats)
 1. Italy (73 seats)
