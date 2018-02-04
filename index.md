@@ -10,13 +10,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 14–17 |13–17 | 13–18 | 13–18 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 4 | 3–6 |3–6 | 3–6 | 3–7 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 13–17 |13–17 | 13–18 | 12–18 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 5 | 3–6 |3–6 | 3–6 | 3–7 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
-| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 4 | 3–5 |3–5 | 3–5 | 2–5 |
-| <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0 |0 | 0 | 0 |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 3–5 |3–5 | 3–5 | 2–6 |
+| <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 3 | 2–4 |2–4 | 2–4 | 1–4 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | N/A | N/A |N/A | N/A | N/A |
@@ -29,14 +29,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.3% | 100% |  |
-| 13 | 8% | 99.7% |  |
-| 14 | 35% | 92% |  |
-| 15 | 28% | 57% | Median |
-| 16 | 14% | 28% |  |
-| 17 | 11% | 15% |  |
-| 18 | 3% | 3% |  |
-| 19 | 0.1% | 0.1% |  |
+| 12 | 0.5% | 100% |  |
+| 13 | 12% | 99.5% |  |
+| 14 | 34% | 87% |  |
+| 15 | 26% | 54% | Median |
+| 16 | 13% | 28% |  |
+| 17 | 10% | 15% |  |
+| 18 | 4% | 4% |  |
+| 19 | 0.5% | 0.5% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -244,9 +244,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 12% | 100% |  |
-| 4 | 41% | 88% | Median |
-| 5 | 32% | 47% |  |
+| 3 | 14% | 100% |  |
+| 4 | 35% | 86% |  |
+| 5 | 36% | 51% | Median |
 | 6 | 14% | 15% |  |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
@@ -488,8 +488,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 98% | 100% | Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
@@ -513,11 +513,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.2% | 100% |  |
-| 3 | 48% | 98.8% | Last Result |
-| 4 | 36% | 51% | Median |
-| 5 | 15% | 15% |  |
-| 6 | 0% | 0% |  |
+| 2 | 1.4% | 100% |  |
+| 3 | 54% | 98.6% | Last Result, Median |
+| 4 | 32% | 45% |  |
+| 5 | 10% | 12% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 ### Alliance of Liberals and Democrats for Europe
 
@@ -604,10 +606,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 14% | 99.9% |  |
-| 3 | 73% | 86% | Median |
-| 4 | 13% | 13% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 15% | 99.5% |  |
+| 3 | 68% | 84% | Median |
+| 4 | 17% | 17% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
