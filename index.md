@@ -11,9 +11,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 217 | 15 | 14–17 |13–17 | 13–18 | 13–18 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 5 | 3–6 |3–6 | 3–6 | 3–7 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 4 | 3–6 |3–6 | 3–6 | 3–7 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 1 | 0–1 |0–1 | 0–1 | 0–2 |
-| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 3–4 |3–4 | 3–5 | 2–5 |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 4 | 3–5 |3–5 | 3–5 | 2–5 |
 | <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0 |0 | 0 | 0 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 3 | 2–4 |2–4 | 2–4 | 2–4 |
@@ -30,12 +30,12 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.3% | 100% |  |
-| 13 | 9% | 99.7% |  |
-| 14 | 30% | 91% |  |
-| 15 | 29% | 61% | Median |
-| 16 | 16% | 32% |  |
-| 17 | 13% | 17% |  |
-| 18 | 4% | 4% |  |
+| 13 | 8% | 99.7% |  |
+| 14 | 35% | 92% |  |
+| 15 | 28% | 57% | Median |
+| 16 | 14% | 28% |  |
+| 17 | 11% | 15% |  |
+| 18 | 3% | 3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
@@ -244,11 +244,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 13% | 100% |  |
-| 4 | 34% | 87% |  |
-| 5 | 36% | 52% | Median |
-| 6 | 15% | 17% |  |
-| 7 | 1.1% | 1.1% |  |
+| 3 | 12% | 100% |  |
+| 4 | 41% | 88% | Median |
+| 5 | 32% | 47% |  |
+| 6 | 14% | 15% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
@@ -488,8 +488,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0.1% | 0.1% |  |
+| 0 | 99.7% | 100% | Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
@@ -513,10 +513,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.4% | 100% |  |
-| 3 | 55% | 98.6% | Last Result, Median |
-| 4 | 41% | 44% |  |
-| 5 | 3% | 3% |  |
+| 2 | 1.2% | 100% |  |
+| 3 | 48% | 98.8% | Last Result |
+| 4 | 36% | 51% | Median |
+| 5 | 15% | 15% |  |
 | 6 | 0% | 0% |  |
 
 ### Alliance of Liberals and Democrats for Europe
@@ -606,8 +606,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 14% | 99.9% |  |
-| 3 | 71% | 86% | Median |
-| 4 | 15% | 15% |  |
+| 3 | 73% | 86% | Median |
+| 4 | 13% | 13% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
@@ -831,7 +831,7 @@ The seat and voting intentions projection for the European Parliament presented 
 The following countries haven't been included yet:
 
 1. Austria (18 seats)
-1. Belgium (French-speaking constituency (8 seats) and German-speaking constituency (1 seat))
+1. Belgium (French-speaking constituency (8 seats) and German-speaking constituency (1 seat)) (D'Hondt method)
 1. Bulgaria (17 seats)
 1. Croatia (11 seats)
 1. Cyprus (6 seats)
@@ -840,7 +840,7 @@ The following countries haven't been included yet:
 1. Estonia (6 seats)
 1. Finland (13 seats)
 1. France (74 seats)
-1. Germany (96 seats, presumably the Hare-Niemeyer method)
+1. Germany (96 seats, Sainte-Laguë method)
 1. Greece (21 seats)
 1. Ireland (11 seats)
 1. Italy (73 seats)
