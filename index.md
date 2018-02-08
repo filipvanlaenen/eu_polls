@@ -10,16 +10,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | 55 | 52–57 |51–58 | 51–59 | 50–60 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 28 | 26–30 |25–31 | 25–31 | 24–33 |
-| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 14 | 13–15 |13–15 | 13–16 | 13–16 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | 54 | 52–57 |51–58 | 50–59 | 49–61 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 28 | 26–30 |25–31 | 25–32 | 24–33 |
+| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 13 | 12–15 |12–15 | 12–16 | 11–16 |
 | <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 3 | 3–5 |3–5 | 3–5 | 2–6 |
-| <a href="#unaffiliated">Unaffiliated</a> | 15 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 33 | 31–35 |30–36 | 30–37 | 29–38 |
+| <a href="#unaffiliated">Unaffiliated</a> | 15 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 33 | 31–35 |30–36 | 29–36 | 28–37 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 18 | 16–20 |15–20 | 15–21 | 14–22 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 22 | 20–23 |19–24 | 18–24 | 17–25 |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | 19 | 17–21 |16–21 | 16–21 | 15–22 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 22 | 20–23 |19–24 | 19–24 | 18–25 |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 44 | 19 | 17–21 |17–22 | 16–22 | 16–23 |
 | <a href="#european-democratic-party">European Democratic Party</a> | 11 | 0 | 0 |0 | 0 | 0 |
 | <a href="#alliance-for-peace-and-freedom">Alliance for Peace and Freedom</a> | 4 | 0 | 0 |0 | 0 | 0 |
 
@@ -31,20 +31,21 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 49 | 0.3% | 100% |  |
-| 50 | 1.2% | 99.7% |  |
-| 51 | 4% | 98% |  |
-| 52 | 9% | 94% |  |
-| 53 | 14% | 85% |  |
-| 54 | 18% | 70% |  |
-| 55 | 18% | 53% | Median |
-| 56 | 15% | 34% |  |
-| 57 | 10% | 19% |  |
-| 58 | 6% | 9% |  |
+| 48 | 0.2% | 100% |  |
+| 49 | 0.7% | 99.8% |  |
+| 50 | 3% | 99.1% |  |
+| 51 | 6% | 97% |  |
+| 52 | 11% | 90% |  |
+| 53 | 15% | 80% |  |
+| 54 | 17% | 65% | Median |
+| 55 | 16% | 48% |  |
+| 56 | 13% | 32% |  |
+| 57 | 9% | 19% |  |
+| 58 | 5% | 10% |  |
 | 59 | 3% | 4% |  |
-| 60 | 0.9% | 1.2% |  |
-| 61 | 0.2% | 0.3% |  |
-| 62 | 0% | 0% |  |
+| 60 | 1.2% | 2% |  |
+| 61 | 0.4% | 0.5% |  |
+| 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
@@ -209,19 +210,18 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.4% | 99.9% |  |
-| 24 | 2% | 99.6% |  |
+| 23 | 0.2% | 100% |  |
+| 24 | 1.4% | 99.8% |  |
 | 25 | 5% | 98% |  |
-| 26 | 13% | 93% |  |
-| 27 | 20% | 80% |  |
-| 28 | 23% | 60% | Median |
-| 29 | 18% | 37% |  |
-| 30 | 11% | 19% |  |
-| 31 | 5% | 8% |  |
-| 32 | 2% | 2% |  |
-| 33 | 0.4% | 0.5% |  |
-| 34 | 0.1% | 0.1% |  |
+| 26 | 12% | 93% |  |
+| 27 | 19% | 81% |  |
+| 28 | 22% | 62% | Median |
+| 29 | 18% | 40% |  |
+| 30 | 12% | 22% |  |
+| 31 | 6% | 10% |  |
+| 32 | 2% | 3% |  |
+| 33 | 0.7% | 0.9% |  |
+| 34 | 0.2% | 0.2% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |
 | 37 | 0% | 0% |  |
@@ -387,12 +387,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
-| 13 | 16% | 99.8% |  |
-| 14 | 71% | 84% | Median |
-| 15 | 9% | 13% |  |
+| 11 | 1.2% | 100% |  |
+| 12 | 13% | 98.8% |  |
+| 13 | 43% | 86% | Median |
+| 14 | 23% | 43% |  |
+| 15 | 16% | 20% |  |
 | 16 | 4% | 4% |  |
-| 17 | 0.1% | 0.1% |  |
+| 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
@@ -422,10 +423,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Median |
-| 1 | 22% | 23% |  |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 12% | 100% |  |
+| 1 | 82% | 88% | Median |
+| 2 | 6% | 6% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
@@ -463,18 +464,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.1% | 100% |  |
-| 29 | 2% | 99.8% |  |
-| 30 | 7% | 98% |  |
-| 31 | 12% | 91% |  |
-| 32 | 20% | 79% |  |
-| 33 | 27% | 59% | Median |
-| 34 | 18% | 33% |  |
-| 35 | 7% | 15% |  |
-| 36 | 3% | 8% |  |
-| 37 | 3% | 5% |  |
-| 38 | 1.5% | 2% |  |
-| 39 | 0.3% | 0.3% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.6% | 99.9% |  |
+| 29 | 2% | 99.3% |  |
+| 30 | 5% | 97% |  |
+| 31 | 10% | 92% |  |
+| 32 | 16% | 82% |  |
+| 33 | 21% | 66% | Median |
+| 34 | 22% | 46% |  |
+| 35 | 15% | 23% |  |
+| 36 | 6% | 8% |  |
+| 37 | 2% | 2% |  |
+| 38 | 0.3% | 0.3% |  |
+| 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
@@ -513,15 +515,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 1.0% | 99.9% |  |
-| 15 | 6% | 98.9% |  |
-| 16 | 15% | 93% |  |
-| 17 | 22% | 78% |  |
-| 18 | 24% | 56% | Median |
-| 19 | 19% | 32% |  |
-| 20 | 9% | 13% |  |
-| 21 | 3% | 4% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 2% | 99.7% |  |
+| 15 | 8% | 98% |  |
+| 16 | 16% | 90% |  |
+| 17 | 22% | 74% |  |
+| 18 | 23% | 52% | Median |
+| 19 | 17% | 29% |  |
+| 20 | 8% | 12% |  |
+| 21 | 3% | 3% |  |
 | 22 | 0.6% | 0.6% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
@@ -642,18 +644,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.7% | 99.9% |  |
-| 18 | 2% | 99.2% |  |
-| 19 | 5% | 97% |  |
-| 20 | 12% | 92% |  |
-| 21 | 20% | 79% |  |
-| 22 | 27% | 59% | Median |
-| 23 | 23% | 32% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 1.2% | 99.9% |  |
+| 19 | 6% | 98.7% |  |
+| 20 | 15% | 93% |  |
+| 21 | 25% | 77% |  |
+| 22 | 26% | 52% | Median |
+| 23 | 17% | 26% |  |
 | 24 | 7% | 9% |  |
-| 25 | 1.2% | 1.4% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.4% | 0.5% |  |
+| 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
@@ -688,16 +689,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% |  |
-| 15 | 1.3% | 99.7% |  |
-| 16 | 4% | 98% |  |
-| 17 | 10% | 95% |  |
-| 18 | 22% | 85% |  |
-| 19 | 30% | 63% | Median |
-| 20 | 22% | 33% |  |
-| 21 | 10% | 11% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.1% | 0.1% |  |
+| 15 | 0.4% | 100% |  |
+| 16 | 3% | 99.6% |  |
+| 17 | 11% | 96% |  |
+| 18 | 21% | 85% |  |
+| 19 | 25% | 64% | Median |
+| 20 | 22% | 39% |  |
+| 21 | 12% | 17% |  |
+| 22 | 4% | 5% |  |
+| 23 | 0.7% | 0.7% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
@@ -801,7 +801,7 @@ The following countries haven't been included yet:
 1. Finland (13 seats)
 1. Greece (21 seats)
 1. Ireland (11 seats)
-1. Italy (73 seats)
+1. Italy (73 seats, Hare-Niemeyer method in five constituencies with a 4% threshold)
 1. Latvia (8 seats)
 1. Lithuania (11 seats)
 1. Luxemburg (6 seats)
