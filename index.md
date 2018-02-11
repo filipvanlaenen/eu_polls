@@ -725,48 +725,50 @@
 
 The seat and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
 
-| Country                                                                  | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
-|:-------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
-| Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/)) | 12                   | 1                      | D'Hondt                    | No        |
-| Germany                                                                  | 96                   | 1                      | Sainte-Laguë                | No        |
-| France²                                                                  | 74                   | <strike>10</strike> 1² | D'Hondt²                   | <strike>5%</strike> No²       |
-| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)          | 21                   | 1                      | D'Hondt                    | No        |
-| Italy                                                                    | 73                   | 1                      | Hare-Niemeyer               | 4%        |
-| **Total**                                                                | **276 / 751 (37%)**  |                        |                             |           |
+| Country                                                                 | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
+|:------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
+| Belgium: [Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/) | 12                   | 1                      | D'Hondt                    | No        |
+| Germany                                                                 | 96                   | 1                      | Sainte-Laguë                | No        |
+| France²                                                                 | 74                   | <strike>10</strike> 1² | D'Hondt²                   | <strike>5%</strike> No²       |
+| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)         | 21                   | 1                      | D'Hondt                    | No        |
+| Italy                                                                   | 73                   | 1                      | Hare-Niemeyer               | 4%        |
+| **Total**                                                               | **276 / 751 (37%)**  |                        |                             |           |
 
-¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election³.
+¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election.
+
 ² France has changed its electoral system since the last election; current assumption is that it will use the D'Hondt method without a threshold.
 
 The following countries haven't been included yet:
 
-| Country                                                                  | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
-|:-------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
-| Austria                                                                  | 18                   | 1                      | D'Hondt                    | 4%        |
-| Belgium (French-speaking constituency)                                   | 8                    | 1                      | D'Hondt                    | No        |
-| Belgium (German-speaking constituency)                                   | 1                    | 1                      | D'Hondt                    | No        |
-| Bulgaria                                                                 | 17                   | 1                      | Hare-Niemeyer               | 5%        |
-| Croatia                                                                  | 11                   |                        |                             |           |
-| Cyprus                                                                   | 6                    |                        |                             |           |
-| Czech Republic                                                           | 21                   | 1                      | D'Hondt                    | 5%        |
-| Denmark                                                                  | 13                   |                        |                             |           |
-| Estonia                                                                  | 6                    |                        |                             |           |
-| Finland                                                                  | 13                   | 1                      | D'Hondt                    | No        |
-| Greece                                                                   | 21                   | 1                      | Droop                       | 3%        |
-| Ireland                                                                  | 11                   | 3                      | Single transferable vote    | N/A       |
-| Latvia                                                                   | 8                    |                        |                             |           |
-| Lithuania                                                                | 11                   |                        |                             |           |
-| Luxembourg                                                               | 6                    | 1                      | Hagenbach-Bischoff/D'Hondt | No        |
-| Malta                                                                    | 6                    |                        |                             |           |
-| The Netherlands                                                          | 26                   | 1                      | D'Hondt                    | No        |
-| Poland                                                                   | 51                   | 13                     |                             |           |
-| Portugal                                                                 | 21                   | 1                      | D'Hondt                    | No        |
-| Romania                                                                  | 32                   | 1                      | D'Hondt                    | 5%        |
-| Slovakia                                                                 | 13                   | 1                      | Hagenbach-Bischoff/D'Hondt | 5%        |
-| Slovenia                                                                 | 8                    |                        |                             |           |
-| Spain                                                                    | 54                   | 1                      | D'Hondt                    | No        |
-| Sweden                                                                   | 20                   | 1                      | Modified Sainte-Laguë       | 4%        |
-| <strike>United Kingdom</strike>²                                         | <strike>73</strike>³ |                        |                             |           |
-| **Total**                                                                | **<strike>475 / 751</strike> 402 / 678** |    |                             |           |
+| Country                                                                 | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
+|:------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
+| Austria                                                                 | 18                   | 1                      | D'Hondt                    | 4%        |
+| Belgium: French-speaking constituency                                   | 8                    | 1                      | D'Hondt                    | No        |
+| Belgium: German-speaking constituency                                   | 1                    | 1                      | D'Hondt                    | No        |
+| Bulgaria                                                                | 17                   | 1                      | Hare-Niemeyer               | 5%        |
+| Croatia                                                                 | 11                   |                        |                             |           |
+| Cyprus                                                                  | 6                    |                        |                             |           |
+| Czech Republic                                                          | 21                   | 1                      | D'Hondt                    | 5%        |
+| Denmark                                                                 | 13                   |                        |                             |           |
+| Estonia                                                                 | 6                    |                        |                             |           |
+| Finland                                                                 | 13                   | 1                      | D'Hondt                    | No        |
+| Greece                                                                  | 21                   | 1                      | Droop                       | 3%        |
+| Ireland                                                                 | 11                   | 3                      | Single transferable vote    | N/A       |
+| Latvia                                                                  | 8                    |                        |                             |           |
+| Lithuania                                                               | 11                   |                        |                             |           |
+| Luxembourg                                                              | 6                    | 1                      | Hagenbach-Bischoff/D'Hondt | No        |
+| Malta                                                                   | 6                    |                        |                             |           |
+| The Netherlands                                                         | 26                   | 1                      | D'Hondt                    | No        |
+| Poland                                                                  | 51                   | 13                     |                             |           |
+| Portugal                                                                | 21                   | 1                      | D'Hondt                    | No        |
+| Romania                                                                 | 32                   | 1                      | D'Hondt                    | 5%        |
+| Slovakia                                                                | 13                   | 1                      | Hagenbach-Bischoff/D'Hondt | 5%        |
+| Slovenia                                                                | 8                    |                        |                             |           |
+| Spain                                                                   | 54                   | 1                      | D'Hondt                    | No        |
+| Sweden                                                                  | 20                   | 1                      | Modified Sainte-Laguë       | 4%        |
+| <strike>United Kingdom</strike>²                                        | <strike>73</strike>³ |                        |                             |           |
+| **Total**                                                               | **<strike>475 / 751</strike> 402 / 678** |    |                             |           |
 
 ¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election³.
+
 ³ The United Kingdom is set to leave the European Union before the next European election.
