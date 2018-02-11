@@ -725,11 +725,13 @@
 
 The seat and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
 
-1. Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/) (12 seats)) (D'Hondt method)
-1. Germany (96 seats, Sainte-Laguë method)
-1. France (74 seats, changed to 1 constituency and assumed to use the D'Hondt method)
-1. [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/) (21 seats, D'Hondt method)
-1. Italy (73 seats, Hare-Niemeyer method with a 4% threshold)
+| Country                                                                 | No of Seats | No of Constituencies | Method        | Threshold |
+|:-----------------------------------------------------------------------:|:-----------:|:--------------------:|:-------------:|:---------:|
+| Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/) | 12          | 1                    | D'Hondt      | No        |
+| Germany                                                                 | 96          | 1                    | Sainte-Laguë  | No        |
+| France                                                                  | 74          | 1                    | D'Hondt      | No        |
+| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)         | 21          | 1                    | D'Hondt      | No        |
+| Italy                                                                   | 73          | 1                    | Hare-Niemeyer | 4%        |
 
 These constituencies cover 276 out of 751 seats or 37 percent.
 
