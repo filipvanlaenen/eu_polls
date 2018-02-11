@@ -753,7 +753,7 @@ The following countries haven't been included yet:
 1. The Netherlands (26 seats, D'Hondt method)
 1. Poland (51 seats, 13 constituencies)
 1. Portugal (21 seats)
-1. Romania (32 seats)
+1. Romania (32 seats, 5% threshold)
 1. Slovakia (13 seats)
 1. Slovenia (8 seats)
 1. Spain (54 seats, D'Hondt method)
