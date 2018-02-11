@@ -726,21 +726,20 @@
 The seat and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
 
 | Country                                                                  | No of Seats          | No of Constituencies | Method                      | Threshold |
-|:------------------------------------------------------------------------:|:--------------------:|:--------------------:|:---------------------------:|:---------:|
+|:-------------------------------------------------------------------------|:--------------------:|:--------------------:|:---------------------------:|:---------:|
 | Belgium ([Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/)) | 12                   | 1                    | D'Hondt                    | No        |
 | Germany                                                                  | 96                   | 1                    | Sainte-Laguë                | No        |
 | France¹                                                                  | 74                   | 1                    | D'Hondt                    | No        |
 | [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)          | 21                   | 1                    | D'Hondt                    | No        |
 | Italy                                                                    | 73                   | 1                    | Hare-Niemeyer               | 4%        |
+| *Total*                                                                  | *276 / 751 (37%)*    |                      |                             |           |
 
 ¹ France has changed its electoral system since the last election; current assumption is that it will use the D'Hondt method without a threshold.
-
-These constituencies cover 276 out of 751 seats or 37 percent.
 
 The following countries haven't been included yet:
 
 | Country                                                                  | No of Seats          | No of Constituencies | Method                      | Threshold |
-|:------------------------------------------------------------------------:|:--------------------:|:--------------------:|:---------------------------:|:---------:|
+|:-------------------------------------------------------------------------|:--------------------:|:--------------------:|:---------------------------:|:---------:|
 | Austria                                                                  | 18                   | 1                    | D'Hondt                    | 4%        |
 | Belgium (French-speaking constituency)                                   | 8                    | 1                    | D'Hondt                    | No        |
 | Belgium (German-speaking constituency)                                   | 1                    | 1                    | D'Hondt                    | No        |
