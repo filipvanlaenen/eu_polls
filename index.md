@@ -13,8 +13,8 @@
 | <a href="#european-people’s-party">European People’s Party</a> | 217 | 68 | 65–71 |64–72 | 63–73 | 62–75 |
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 50 | 47–53 |46–54 | 46–55 | 44–56 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 25 | 23–27 |22–27 | 22–28 | 21–29 |
-| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 4 | 3–5 |3–5 | 3–5 | 2–6 |
-| <a href="#unaffiliated">Unaffiliated</a> | 15 | 5 | 4–6 |3–6 | 1–7 | 1–8 |
+| <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 4 | 3–5 |3–5 | 3–6 | 2–6 |
+| <a href="#unaffiliated">Unaffiliated</a> | 15 | 5 | 4–6 |3–6 | 1–7 | 0–8 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 33 | 31–35 |30–36 | 30–37 | 28–37 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 18 | 16–20 |15–20 | 15–21 | 14–22 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
@@ -31,21 +31,22 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.2% | 100% |  |
+| 60 | 0% | 100% |  |
+| 61 | 0.2% | 99.9% |  |
 | 62 | 0.8% | 99.7% |  |
 | 63 | 2% | 98.9% |  |
-| 64 | 5% | 97% |  |
-| 65 | 9% | 92% |  |
+| 64 | 5% | 96% |  |
+| 65 | 9% | 91% |  |
 | 66 | 12% | 83% |  |
 | 67 | 15% | 70% |  |
-| 68 | 15% | 56% | Median |
-| 69 | 13% | 41% |  |
-| 70 | 11% | 27% |  |
+| 68 | 15% | 55% | Median |
+| 69 | 13% | 40% |  |
+| 70 | 10% | 27% |  |
 | 71 | 7% | 17% |  |
 | 72 | 5% | 9% |  |
 | 73 | 3% | 5% |  |
 | 74 | 1.3% | 2% |  |
-| 75 | 0.6% | 1.0% |  |
+| 75 | 0.6% | 0.9% |  |
 | 76 | 0.2% | 0.4% |  |
 | 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0% |  |
@@ -198,15 +199,15 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 43 | 0.1% | 100% |  |
-| 44 | 0.5% | 99.8% |  |
+| 44 | 0.6% | 99.8% |  |
 | 45 | 2% | 99.3% |  |
 | 46 | 4% | 98% |  |
-| 47 | 8% | 94% |  |
-| 48 | 12% | 86% |  |
-| 49 | 15% | 74% |  |
-| 50 | 17% | 59% | Median |
-| 51 | 15% | 42% |  |
-| 52 | 12% | 27% |  |
+| 47 | 8% | 93% |  |
+| 48 | 12% | 85% |  |
+| 49 | 16% | 73% |  |
+| 50 | 17% | 58% | Median |
+| 51 | 15% | 41% |  |
+| 52 | 12% | 26% |  |
 | 53 | 8% | 15% |  |
 | 54 | 4% | 7% |  |
 | 55 | 2% | 3% |  |
@@ -355,8 +356,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.1% | 100% |  |
-| 21 | 1.4% | 99.9% |  |
-| 22 | 6% | 98% |  |
+| 21 | 1.4% | 99.8% |  |
+| 22 | 7% | 98% |  |
 | 23 | 16% | 92% |  |
 | 24 | 24% | 76% |  |
 | 25 | 23% | 52% | Median |
@@ -385,12 +386,12 @@
 | 1 | 3% | 99.5% |  |
 | 2 | 0.2% | 96% |  |
 | 3 | 2% | 96% |  |
-| 4 | 18% | 94% |  |
-| 5 | 50% | 76% | Median |
-| 6 | 23% | 26% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.7% | 1.0% |  |
-| 9 | 0.2% | 0.2% |  |
+| 4 | 17% | 94% |  |
+| 5 | 50% | 77% | Median |
+| 6 | 23% | 27% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.8% | 1.0% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
@@ -407,12 +408,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.4% | 100% |  |
-| 3 | 47% | 98.6% | Last Result |
+| 3 | 48% | 98.6% | Last Result |
 | 4 | 38% | 51% | Median |
-| 5 | 11% | 13% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 5 | 10% | 13% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0% | 0% |  |
 
 ### Alliance of Liberals and Democrats for Europe
 
@@ -653,13 +653,13 @@
 | 38 | 6% | 97% |  |
 | 39 | 12% | 91% |  |
 | 40 | 18% | 79% |  |
-| 41 | 21% | 60% | Median |
+| 41 | 21% | 61% | Median |
 | 42 | 18% | 40% |  |
-| 43 | 12% | 21% |  |
-| 44 | 6% | 9% | Last Result |
+| 43 | 12% | 22% |  |
+| 44 | 6% | 10% | Last Result |
 | 45 | 2% | 3% |  |
-| 46 | 0.7% | 0.8% |  |
-| 47 | 0.1% | 0.2% |  |
+| 46 | 0.7% | 0.9% |  |
+| 47 | 0.2% | 0.2% |  |
 | 48 | 0% | 0% |  |
 
 ### European Democratic Party
