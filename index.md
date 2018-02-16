@@ -14,7 +14,7 @@
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 190 | 50 | 47–53 |46–54 | 46–55 | 44–56 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 25 | 23–27 |22–27 | 22–28 | 21–29 |
 | <a href="#alliance-of-european-national-movements">Alliance of European National Movements</a> | 3 | 4 | 3–5 |3–5 | 3–6 | 2–6 |
-| <a href="#unaffiliated">Unaffiliated</a> | 15 | 5 | 4–6 |3–6 | 1–7 | 0–8 |
+| <a href="#unaffiliated">Unaffiliated</a> | 15 | 5 | 4–6 |3–6 | 1–7 | 1–8 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 33 | 31–35 |30–36 | 30–37 | 28–37 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 18 | 16–20 |15–20 | 15–21 | 14–22 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 4 | 4–5 |4–5 | 3–5 | 3–5 |
@@ -37,13 +37,13 @@
 | 63 | 2% | 98.9% |  |
 | 64 | 5% | 96% |  |
 | 65 | 9% | 91% |  |
-| 66 | 12% | 83% |  |
+| 66 | 13% | 82% |  |
 | 67 | 15% | 70% |  |
 | 68 | 15% | 55% | Median |
 | 69 | 13% | 40% |  |
 | 70 | 10% | 27% |  |
-| 71 | 7% | 17% |  |
-| 72 | 5% | 9% |  |
+| 71 | 7% | 16% |  |
+| 72 | 4% | 9% |  |
 | 73 | 3% | 5% |  |
 | 74 | 1.3% | 2% |  |
 | 75 | 0.6% | 0.9% |  |
@@ -205,7 +205,7 @@
 | 47 | 8% | 93% |  |
 | 48 | 12% | 86% |  |
 | 49 | 15% | 73% |  |
-| 50 | 17% | 58% | Median |
+| 50 | 16% | 58% | Median |
 | 51 | 15% | 41% |  |
 | 52 | 12% | 26% |  |
 | 53 | 8% | 15% |  |
@@ -384,11 +384,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% |  |
 | 1 | 3% | 99.5% |  |
-| 2 | 0.2% | 96% |  |
+| 2 | 0.3% | 96% |  |
 | 3 | 2% | 96% |  |
 | 4 | 17% | 94% |  |
 | 5 | 50% | 77% | Median |
-| 6 | 23% | 27% |  |
+| 6 | 24% | 27% |  |
 | 7 | 3% | 4% |  |
 | 8 | 0.8% | 1.0% |  |
 | 9 | 0.2% | 0.3% |  |
@@ -476,11 +476,11 @@
 | 13 | 0.3% | 100% |  |
 | 14 | 2% | 99.7% |  |
 | 15 | 7% | 98% |  |
-| 16 | 16% | 90% |  |
+| 16 | 15% | 91% |  |
 | 17 | 22% | 75% |  |
 | 18 | 23% | 53% | Median |
 | 19 | 17% | 30% |  |
-| 20 | 9% | 12% |  |
+| 20 | 9% | 13% |  |
 | 21 | 3% | 4% |  |
 | 22 | 0.6% | 0.7% |  |
 | 23 | 0.1% | 0.1% |  |
