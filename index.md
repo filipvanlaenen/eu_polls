@@ -1,4 +1,4 @@
-# Seat Projection for the European Parliament
+# Seat Projection for the European Parliament (EU27)
 
 <p align="center"><a href="#seats">Seats</a> | <a href="#voting-intentions">Voting Intentions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -390,13 +390,23 @@ The seat and voting intentions projection for the European Parliament presented 
 | Poland [⁰](https://github.com/filipvanlaenen/polish_ep_polls/blob/master/average.md)    | 51                   | 1                      | D'Hondt                    | 5%        |
 | Romania [⁰](https://github.com/filipvanlaenen/romanian_ep_polls/blob/master/average.md) | 32                   | 1                      | D'Hondt                    | 5%        |
 | Spain [⁰](https://github.com/filipvanlaenen/spanish_ep_polls/blob/master/average.md)    | 54                   | 1                      | D'Hondt                    | No        |
-| **Total**                                                                               | **413 / 751 (55%)**  |                        |                             |           |
+| **Total**                                                                               | **413 / 678 (61%)**  |                        |                             |           |
 
 ¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election.
 
 ² France has changed its electoral system since the last election; current assumption is that it will use the D'Hondt method without a threshold.
 
-The following countries haven't been included yet:
+The following countries haven't been included in the calculations yet,
+ and are therefore, except for the United Kingdom, represented with the fixed numbers
+ 82 seats for EPP,
+ 60 seats for S&D,
+ 21 seats for ECR,
+ 42 seats for ALDE,
+ 25 seats for GUE/NGL,
+ 18 seats for Greens/EFA,
+ 4 seats for EFDD,
+ 8 seats for ENF,
+ and 5 seats for NI in the results above:
 
 | Country                                                                 | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
 |:------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
@@ -421,7 +431,7 @@ The following countries haven't been included yet:
 | Slovakia                                                                | 13                   | 1                      | Hagenbach-Bischoff/D'Hondt | 5%        |
 | Slovenia                                                                | 8                    |                        |                             |           |
 | Sweden                                                                  | 20                   | 1                      | Modified Sainte-Laguë       | 4%        |
-| <strike>United Kingdom</strike>²                                        | <strike>73</strike>³ |                        |                             |           |
+| <strike>United Kingdom</strike>³                                        | <strike>73</strike>³ |                        |                             |           |
 | **Total**                                                               | **<strike>338 / 751</strike> 261 / 678** |    |                             |           |
 
 ¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election³.
