@@ -10,15 +10,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | 185 | 180–191 |179–192 | 178–193 | 176–196 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 189 | 138 | 134–143 |132–144 | 131–146 | 129–148 |
-| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 36 | 34–38 |33–39 | 33–40 | 32–41 |
-| <a href="#non-inscrits">Non-Inscrits</a> | 18 | 15 | 12–17 |11–18 | 10–19 | 9–20 |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 95 | 90–99 |89–100 | 88–100 | 86–102 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 37 | 35–39 |34–40 | 34–40 | 33–41 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 51 | 49–53 |49–54 | 49–54 | 48–55 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | 183 | 178–189 |177–190 | 176–191 | 174–194 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 189 | 137 | 133–142 |131–143 | 130–145 | 128–147 |
+| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 37 | 36 | 33–38 |33–39 | 32–39 | 31–40 |
+| <a href="#non-inscrits">Non-Inscrits</a> | 18 | 17 | 15–19 |14–20 | 13–21 | 11–23 |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | 97 | 92–101 |91–102 | 90–102 | 88–104 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 51 | 38 | 35–40 |35–40 | 34–41 | 33–42 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 74 | 50 | 48–52 |47–52 | 47–53 | 46–54 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | 55 | 53–58 |52–59 | 52–59 | 51–61 |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 45 | 45 | 42–48 |42–48 | 41–49 | 39–50 |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 45 | 45 | 42–48 |42–49 | 41–49 | 39–51 |
 
 ### European People’s Party
 
@@ -28,32 +28,34 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 174 | 0.1% | 100% |  |
-| 175 | 0.2% | 99.9% |  |
-| 176 | 0.5% | 99.7% |  |
-| 177 | 1.0% | 99.2% |  |
-| 178 | 2% | 98% |  |
-| 179 | 3% | 96% |  |
-| 180 | 4% | 94% |  |
-| 181 | 6% | 90% |  |
-| 182 | 7% | 84% |  |
-| 183 | 8% | 77% |  |
-| 184 | 9% | 69% |  |
-| 185 | 10% | 59% | Median |
-| 186 | 10% | 49% |  |
-| 187 | 9% | 40% |  |
-| 188 | 8% | 31% |  |
-| 189 | 7% | 23% |  |
-| 190 | 5% | 16% |  |
-| 191 | 4% | 11% |  |
-| 192 | 3% | 7% |  |
-| 193 | 2% | 4% |  |
-| 194 | 1.1% | 2% |  |
-| 195 | 0.6% | 1.3% |  |
-| 196 | 0.3% | 0.7% |  |
-| 197 | 0.2% | 0.3% |  |
-| 198 | 0.1% | 0.1% |  |
-| 199 | 0% | 0.1% |  |
+| 172 | 0.1% | 100% |  |
+| 173 | 0.3% | 99.9% |  |
+| 174 | 0.5% | 99.6% |  |
+| 175 | 1.0% | 99.1% |  |
+| 176 | 2% | 98% |  |
+| 177 | 3% | 96% |  |
+| 178 | 4% | 93% |  |
+| 179 | 6% | 89% |  |
+| 180 | 7% | 83% |  |
+| 181 | 9% | 76% |  |
+| 182 | 9% | 68% |  |
+| 183 | 10% | 58% | Median |
+| 184 | 10% | 48% |  |
+| 185 | 9% | 39% |  |
+| 186 | 8% | 30% |  |
+| 187 | 7% | 22% |  |
+| 188 | 5% | 15% |  |
+| 189 | 4% | 10% |  |
+| 190 | 3% | 6% |  |
+| 191 | 2% | 4% |  |
+| 192 | 1.0% | 2% |  |
+| 193 | 0.6% | 1.2% |  |
+| 194 | 0.3% | 0.6% |  |
+| 195 | 0.2% | 0.3% |  |
+| 196 | 0.1% | 0.1% |  |
+| 197 | 0% | 0.1% |  |
+| 198 | 0% | 0% |  |
+| 199 | 0% | 0% |  |
 | 200 | 0% | 0% |  |
 | 201 | 0% | 0% |  |
 | 202 | 0% | 0% |  |
@@ -81,30 +83,31 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 127 | 0.1% | 100% |  |
-| 128 | 0.2% | 99.9% |  |
-| 129 | 0.4% | 99.7% |  |
-| 130 | 0.9% | 99.3% |  |
-| 131 | 2% | 98% |  |
-| 132 | 3% | 97% |  |
-| 133 | 4% | 94% |  |
-| 134 | 6% | 90% |  |
-| 135 | 7% | 84% |  |
-| 136 | 9% | 77% |  |
-| 137 | 10% | 68% |  |
-| 138 | 10% | 58% | Median |
-| 139 | 10% | 48% |  |
-| 140 | 10% | 37% |  |
-| 141 | 8% | 28% |  |
-| 142 | 7% | 20% |  |
-| 143 | 5% | 13% |  |
-| 144 | 3% | 8% |  |
-| 145 | 2% | 5% |  |
-| 146 | 1.3% | 3% |  |
-| 147 | 0.7% | 1.3% |  |
-| 148 | 0.3% | 0.6% |  |
-| 149 | 0.2% | 0.3% |  |
-| 150 | 0.1% | 0.1% |  |
+| 126 | 0.1% | 100% |  |
+| 127 | 0.2% | 99.9% |  |
+| 128 | 0.4% | 99.7% |  |
+| 129 | 0.8% | 99.4% |  |
+| 130 | 2% | 98.5% |  |
+| 131 | 3% | 97% |  |
+| 132 | 4% | 94% |  |
+| 133 | 6% | 91% |  |
+| 134 | 7% | 85% |  |
+| 135 | 9% | 78% |  |
+| 136 | 10% | 69% |  |
+| 137 | 11% | 59% | Median |
+| 138 | 10% | 48% |  |
+| 139 | 10% | 38% |  |
+| 140 | 8% | 28% |  |
+| 141 | 7% | 20% |  |
+| 142 | 5% | 13% |  |
+| 143 | 3% | 8% |  |
+| 144 | 2% | 5% |  |
+| 145 | 1.3% | 3% |  |
+| 146 | 0.7% | 1.3% |  |
+| 147 | 0.3% | 0.6% |  |
+| 148 | 0.2% | 0.3% |  |
+| 149 | 0.1% | 0.1% |  |
+| 150 | 0% | 0% |  |
 | 151 | 0% | 0% |  |
 | 152 | 0% | 0% |  |
 | 153 | 0% | 0% |  |
@@ -153,17 +156,18 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.2% | 100% |  |
-| 32 | 1.3% | 99.7% |  |
-| 33 | 5% | 98% |  |
-| 34 | 10% | 94% |  |
-| 35 | 17% | 84% |  |
-| 36 | 22% | 66% | Median |
-| 37 | 21% | 44% | Last Result |
-| 38 | 14% | 23% |  |
-| 39 | 7% | 10% |  |
-| 40 | 2% | 3% |  |
-| 41 | 0.6% | 0.7% |  |
+| 30 | 0.2% | 100% |  |
+| 31 | 0.9% | 99.8% |  |
+| 32 | 3% | 98.9% |  |
+| 33 | 8% | 96% |  |
+| 34 | 14% | 88% |  |
+| 35 | 20% | 74% |  |
+| 36 | 21% | 53% | Median |
+| 37 | 16% | 32% | Last Result |
+| 38 | 10% | 16% |  |
+| 39 | 4% | 6% |  |
+| 40 | 1.4% | 2% |  |
+| 41 | 0.3% | 0.4% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 
@@ -175,22 +179,22 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% |  |
-| 9 | 1.0% | 99.8% |  |
-| 10 | 1.4% | 98.8% |  |
-| 11 | 3% | 97% |  |
-| 12 | 6% | 94% |  |
-| 13 | 11% | 88% |  |
-| 14 | 18% | 77% |  |
-| 15 | 26% | 59% | Median |
-| 16 | 18% | 33% |  |
-| 17 | 8% | 15% |  |
-| 18 | 4% | 6% | Last Result |
-| 19 | 2% | 3% |  |
-| 20 | 0.7% | 1.0% |  |
-| 21 | 0.2% | 0.3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.7% | 99.9% |  |
+| 12 | 1.3% | 99.2% |  |
+| 13 | 3% | 98% |  |
+| 14 | 5% | 95% |  |
+| 15 | 9% | 90% |  |
+| 16 | 16% | 81% |  |
+| 17 | 23% | 65% | Median |
+| 18 | 21% | 42% | Last Result |
+| 19 | 12% | 22% |  |
+| 20 | 5% | 9% |  |
+| 21 | 2% | 4% |  |
+| 22 | 1.0% | 2% |  |
+| 23 | 0.4% | 0.6% |  |
+| 24 | 0.1% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 ### Alliance of Liberals and Democrats for Europe
 
@@ -216,28 +220,30 @@
 | 81 | 0% | 100% |  |
 | 82 | 0% | 100% |  |
 | 83 | 0% | 100% |  |
-| 84 | 0.1% | 100% |  |
-| 85 | 0.2% | 99.9% |  |
-| 86 | 0.5% | 99.7% |  |
-| 87 | 0.9% | 99.2% |  |
-| 88 | 2% | 98% |  |
-| 89 | 3% | 97% |  |
-| 90 | 5% | 94% |  |
-| 91 | 6% | 89% |  |
-| 92 | 9% | 83% |  |
-| 93 | 10% | 74% |  |
-| 94 | 12% | 64% |  |
-| 95 | 12% | 52% | Median |
-| 96 | 12% | 40% |  |
-| 97 | 10% | 28% |  |
-| 98 | 8% | 18% |  |
-| 99 | 5% | 11% |  |
-| 100 | 3% | 5% |  |
-| 101 | 2% | 2% |  |
-| 102 | 0.6% | 0.9% |  |
-| 103 | 0.2% | 0.3% |  |
-| 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 100% |  |
+| 87 | 0.2% | 99.9% |  |
+| 88 | 0.5% | 99.7% |  |
+| 89 | 0.9% | 99.2% |  |
+| 90 | 2% | 98% |  |
+| 91 | 3% | 97% |  |
+| 92 | 4% | 94% |  |
+| 93 | 6% | 89% |  |
+| 94 | 9% | 83% |  |
+| 95 | 10% | 74% |  |
+| 96 | 12% | 64% |  |
+| 97 | 12% | 52% | Median |
+| 98 | 12% | 40% |  |
+| 99 | 10% | 28% |  |
+| 100 | 8% | 18% |  |
+| 101 | 5% | 10% |  |
+| 102 | 3% | 5% |  |
+| 103 | 1.4% | 2% |  |
+| 104 | 0.6% | 0.9% |  |
+| 105 | 0.2% | 0.3% |  |
+| 106 | 0.1% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 ### Greens–European Free Alliance
 
@@ -247,19 +253,18 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.9% |  |
-| 33 | 2% | 99.5% |  |
-| 34 | 5% | 98% |  |
-| 35 | 12% | 92% |  |
-| 36 | 20% | 81% |  |
-| 37 | 24% | 61% | Median |
-| 38 | 20% | 37% |  |
-| 39 | 11% | 17% |  |
-| 40 | 4% | 5% |  |
-| 41 | 1.1% | 1.3% |  |
-| 42 | 0.2% | 0.2% |  |
-| 43 | 0% | 0% |  |
+| 32 | 0.2% | 100% |  |
+| 33 | 0.8% | 99.8% |  |
+| 34 | 3% | 99.0% |  |
+| 35 | 7% | 96% |  |
+| 36 | 14% | 89% |  |
+| 37 | 21% | 76% |  |
+| 38 | 23% | 55% | Median |
+| 39 | 18% | 32% |  |
+| 40 | 10% | 15% |  |
+| 41 | 4% | 5% |  |
+| 42 | 1.0% | 1.2% |  |
+| 43 | 0.2% | 0.2% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
@@ -277,16 +282,18 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 0.2% | 100% |  |
-| 48 | 2% | 99.8% |  |
-| 49 | 8% | 98% |  |
-| 50 | 16% | 90% |  |
-| 51 | 34% | 74% | Median |
-| 52 | 23% | 40% |  |
-| 53 | 12% | 17% |  |
-| 54 | 4% | 6% |  |
-| 55 | 1.0% | 1.1% |  |
-| 56 | 0.1% | 0.1% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0.9% | 99.9% |  |
+| 47 | 5% | 98.9% |  |
+| 48 | 12% | 94% |  |
+| 49 | 24% | 83% |  |
+| 50 | 29% | 59% | Median |
+| 51 | 18% | 30% |  |
+| 52 | 9% | 12% |  |
+| 53 | 3% | 4% |  |
+| 54 | 0.6% | 0.7% |  |
+| 55 | 0.1% | 0.1% |  |
+| 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
@@ -314,17 +321,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 50 | 0.2% | 100% |  |
-| 51 | 1.3% | 99.7% |  |
+| 50 | 0.3% | 100% |  |
+| 51 | 2% | 99.6% |  |
 | 52 | 5% | 98% | Last Result |
-| 53 | 10% | 94% |  |
-| 54 | 16% | 84% |  |
-| 55 | 19% | 68% | Median |
-| 56 | 19% | 49% |  |
-| 57 | 15% | 30% |  |
-| 58 | 9% | 16% |  |
+| 53 | 10% | 93% |  |
+| 54 | 16% | 83% |  |
+| 55 | 19% | 67% | Median |
+| 56 | 19% | 48% |  |
+| 57 | 14% | 29% |  |
+| 58 | 8% | 15% |  |
 | 59 | 4% | 6% |  |
-| 60 | 2% | 2% |  |
+| 60 | 1.5% | 2% |  |
 | 61 | 0.5% | 0.6% |  |
 | 62 | 0.1% | 0.2% |  |
 | 63 | 0% | 0% |  |
@@ -343,14 +350,14 @@
 | 41 | 3% | 98% |  |
 | 42 | 6% | 95% |  |
 | 43 | 11% | 89% |  |
-| 44 | 16% | 78% |  |
-| 45 | 19% | 63% | Last Result, Median |
-| 46 | 18% | 44% |  |
-| 47 | 13% | 26% |  |
-| 48 | 8% | 13% |  |
-| 49 | 3% | 5% |  |
-| 50 | 1.1% | 2% |  |
-| 51 | 0.4% | 0.5% |  |
+| 44 | 15% | 79% |  |
+| 45 | 18% | 63% | Last Result, Median |
+| 46 | 17% | 45% |  |
+| 47 | 14% | 28% |  |
+| 48 | 8% | 14% |  |
+| 49 | 4% | 6% |  |
+| 50 | 1.4% | 2% |  |
+| 51 | 0.4% | 0.6% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
@@ -379,17 +386,18 @@
 
 The seat and voting intentions projection for the European Parliament presented on this page was based on the averages of the most recent polls for the following countries:
 
-| Country                                                                                 | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
-|:----------------------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
-| Belgium: [Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/)                 | 12                   | 1                      | D'Hondt                    | No        |
-| Germany [⁰](https://github.com/filipvanlaenen/german_ep_polls/blob/master/average.md)   | 96                   | 1                      | Sainte-Laguë                | No        |
-| France² [⁰](https://github.com/filipvanlaenen/french_ep_polls/blob/master/average.md)   | 74                   | <strike>10</strike> 1² | D'Hondt²                   | <strike>5%</strike> No² |
-| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)                         | 21                   | 1                      | D'Hondt                    | No        |
-| Italy [⁰](https://github.com/filipvanlaenen/italian_ep_polls/blob/master/average.md)    | 73                   | 1                      | Hare-Niemeyer               | 4%        |
-| Poland [⁰](https://github.com/filipvanlaenen/polish_ep_polls/blob/master/average.md)    | 51                   | 1                      | D'Hondt                    | 5%        |
-| Romania [⁰](https://github.com/filipvanlaenen/romanian_ep_polls/blob/master/average.md) | 32                   | 1                      | D'Hondt                    | 5%        |
-| Spain [⁰](https://github.com/filipvanlaenen/spanish_ep_polls/blob/master/average.md)    | 54                   | 1                      | D'Hondt                    | No        |
-| **Total**                                                                               | **413 / 678 (61%)**  |                        |                             |           |
+| Country                                                                                  | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
+|:-----------------------------------------------------------------------------------------|:--------------------:|:----------------------:|:---------------------------:|:---------:|
+| Belgium: [Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/)                  | 12                   | 1                      | D'Hondt                    | No        |
+| Germany [⁰](https://github.com/filipvanlaenen/german_ep_polls/blob/master/average.md)    | 96                   | 1                      | Sainte-Laguë                | No        |
+| France² [⁰](https://github.com/filipvanlaenen/french_ep_polls/blob/master/average.md)    | 74                   | <strike>10</strike> 1² | D'Hondt²                   | <strike>5%</strike> No² |
+| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)                          | 21                   | 1                      | D'Hondt                    | No        |
+| Italy [⁰](https://github.com/filipvanlaenen/italian_ep_polls/blob/master/average.md)     | 73                   | 1                      | Hare-Niemeyer               | 4%        |
+| Netherlands [⁰](https://github.com/filipvanlaenen/dutch_ep_polls/blob/master/average.md) | 26                   | 1                      | D'Hondt                    | 1/26      |
+| Poland [⁰](https://github.com/filipvanlaenen/polish_ep_polls/blob/master/average.md)     | 51                   | 1                      | D'Hondt                    | 5%        |
+| Romania [⁰](https://github.com/filipvanlaenen/romanian_ep_polls/blob/master/average.md)  | 32                   | 1                      | D'Hondt                    | 5%        |
+| Spain [⁰](https://github.com/filipvanlaenen/spanish_ep_polls/blob/master/average.md)     | 54                   | 1                      | D'Hondt                    | No        |
+| **Total**                                                                                | **439 / 678 (65%)**  |                        |                             |           |
 
 ¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election.
 
@@ -397,14 +405,14 @@ The seat and voting intentions projection for the European Parliament presented 
 
 The following countries haven't been included in the calculations yet,
  and are therefore, except for the United Kingdom, represented with the fixed numbers
- 82 seats for EPP,
- 60 seats for S&D,
- 21 seats for ECR,
- 42 seats for ALDE,
- 25 seats for GUE/NGL,
- 18 seats for Greens/EFA,
+ 77 seats for EPP,
+ 57 seats for S&D,
+ 19 seats for ECR,
+ 35 seats for ALDE,
+ 22 seats for GUE/NGL,
+ 16 seats for Greens/EFA,
  4 seats for EFDD,
- 8 seats for ENF,
+ 4 seats for ENF,
  and 5 seats for NI in the results above:
 
 | Country                                                                 | No of Seats¹         | No of Constituencies   | Method                      | Threshold |
@@ -425,13 +433,12 @@ The following countries haven't been included in the calculations yet,
 | Lithuania                                                               | 11                   |                        |                             |           |
 | Luxembourg                                                              | 6                    | 1                      | Hagenbach-Bischoff/D'Hondt | No        |
 | Malta                                                                   | 6                    |                        |                             |           |
-| The Netherlands                                                         | 26                   | 1                      | D'Hondt                    | No        |
 | Portugal                                                                | 21                   | 1                      | D'Hondt                    | No        |
 | Slovakia                                                                | 13                   | 1                      | Hagenbach-Bischoff/D'Hondt | 5%        |
 | Slovenia                                                                | 8                    |                        |                             |           |
 | Sweden                                                                  | 20                   | 1                      | Modified Sainte-Laguë       | 4%        |
 | <strike>United Kingdom</strike>³                                        | <strike>73</strike>³ |                        |                             |           |
-| **Total**                                                               | **<strike>338 / 751</strike> 261 / 678** |    |                             |           |
+| **Total**                                                               | **<strike>312 / 751</strike> 235 / 678** |    |                             |           |
 
 ¹ This table doesn't take into account the redistribution of seats planned for the 2019 European election³.
 
