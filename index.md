@@ -436,10 +436,10 @@ The following countries haven't been included in the calculations yet,
 | Finland                                            | 13                   | 1                    | D'Hondt                    | No        |
 | Ireland                                            | 11                   | 3                    | Single transferable vote    | N/A       |
 | Latvia                                             | 8                    | 1                    | Sainte-Laguë                | 5%        |
-| Lithuania                                          | 11                   | 1                    | Hare-Niemeyer               | 5%        |
+| Lithuania                                          | 11                   | 1                    | Hare–Niemeyer               | 5%        |
 | Luxembourg                                         | 6                    | 1                    | Hagenbach-Bischoff/D'Hondt | No        |
 | Malta                                              | 6                    | 1                    | Single transferable vote    | N/A       |
-| Slovakia                                           | 13                   | 1                    | Hagenbach-Bischoff/D'Hondt | 5%        |
+| Slovakia                                           | 13                   | 1                    | Hagenbach-Bischoff          | 5%        |
 | Slovenia                                           | 8                    | 1                    | D'Hondt                    | 5%        |
 | <strike>United Kingdom: Great Britain</strike>³    | <strike>70</strike>³ | 11                   | D'Hondt                    | No        |
 | <strike>United Kingdom: Northern Ireland</strike>³ | <strike>3</strike>³  | 1                    | Single transferable vote    | N/A       |
