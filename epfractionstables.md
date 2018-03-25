@@ -119,16 +119,28 @@ current EP fractions.
 
 ## France
 
-| Party Name                                                        | Abbreviation | EP Fraction | Rationale                                    |
-|:------------------------------------------------------------------|:-------------|:------------|:---------------------------------------------|
-| Parti communiste français                                         | PCF          | GUE/NGL     | Current member                               |
-| La France insoumise                                               | FI           | GUE/NGL     | Current member                               |
-| Parti socialiste                                                  | PS           | S&D         | Current member                               |
-| Europe Écologie Les Verts                                         | EEV          | Greens/EFA  | Current member                               |
-| La République en marche–Mouvement démocrate                       | LREM–MoDem   | ALDE        | Current member (MoDem)                              |
-| Agir, la droite constructive–Union des démocrates et indépendants | Agir–UDI     | ALDE        | Current member                               |
-| Les Républicains                                                  | LR           | EPP         | Current member                               |
-| Debout la France                                                  | DlF          | EFDD        | Current member                               |
-| Front national                                                    | FN           | ENF         | Current member                               |
-| Les Patriotes                                                     | LP           | EFDD        | Current member                               |
-| Union populaire républicaine                                      | UPR          | —           |                                |
+| Party Name                                                        | Abbreviation | EP Fraction | Rationale                                            |
+|:------------------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Parti communiste français                                         | PCF          | GUE/NGL     | Current member                                       |
+| La France insoumise                                               | FI           | GUE/NGL     | Current member                                       |
+| Parti socialiste                                                  | PS           | S&D         | Current member                                       |
+| Europe Écologie Les Verts                                         | EEV          | Greens/EFA  | Current member                                       |
+| La République en marche–Mouvement démocrate                       | LREM–MoDem   | ALDE        | Current member (MoDem)                               |
+| Agir, la droite constructive–Union des démocrates et indépendants | Agir–UDI     | ALDE        | Current member                                       |
+| Les Républicains                                                  | LR           | EPP         | Current member                                       |
+| Debout la France                                                  | DlF          | EFDD        | Current member                                       |
+| Front national                                                    | FN           | ENF         | Current member                                       |
+| Les Patriotes                                                     | LP           | EFDD        | Current member                                       |
+| Union populaire républicaine                                      | UPR          | *           | Currently not represented in the European Parliament |
+
+## Germany
+
+| Party Name                  | Abbreviation | EP Fraction | Rationale      |
+|:----------------------------|:-------------|:------------|:---------------|
+| CDU                         | CDU          | EPP         | Current member |
+| SPD                         | SPD          | S&D         | Current member |
+| BÜNDNIS 90/DIE GRÜNEN       | GRÜNEN       | Greens/EFA  | Current member |
+| DIE LINKE                   | LINKE        | GUE/NGL     | Current member |
+| Alternative für Deutschland | AfD          | EFDD        | Current member |
+| CSU                         | CSU          | EPP         | Current member |
+| FDP                         | FDP          | ALDE        | Current member |
