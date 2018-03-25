@@ -116,3 +116,19 @@ current EP fractions.
 | Svenska folkpartiet i Finland       | SFP          | ALDE        | Current member                               |
 | Vasemmistoliitto                    | VAS          | GUE/NGL     | Current member                               |
 | Vihreä liitto                       | VIHR         | Greens/EFA  | Current member                               |
+
+## France
+
+| Party Name                                                        | Abbreviation | EP Fraction | Rationale                                    |
+|:------------------------------------------------------------------|:-------------|:------------|:---------------------------------------------|
+| Parti communiste français                                         | PCF          | GUE/NGL     | Current member                               |
+| La France insoumise                                               | FI           | GUE/NGL     | Current member                               |
+| Parti socialiste                                                  | PS           | S&D         | Current member                               |
+| Europe Écologie Les Verts                                         | EEV          | Greens/EFA  | Current member                               |
+| La République en marche–Mouvement démocrate                       | LREM–MoDem   | ALDE        | Current member (MoDem)                              |
+| Agir, la droite constructive–Union des démocrates et indépendants | Agir–UDI     | ALDE        | Current member                               |
+| Les Républicains                                                  | LR           | EPP         | Current member                               |
+| Debout la France                                                  | DlF          | EFDD        | Current member                               |
+| Front national                                                    | FN           | ENF         | Current member                               |
+| Les Patriotes                                                     | LP           | EFDD        | Current member                               |
+| Union populaire républicaine                                      | UPR          | —           |                                |
