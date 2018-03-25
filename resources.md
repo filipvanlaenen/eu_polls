@@ -6,6 +6,7 @@ The following resources have been used in order to create this site:
 
 + [Flemish EP Polls](https://filipvanlaenen.github.io/flemish_ep_polls/)
 + [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
++ [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
 
 ## Other Resources
 
