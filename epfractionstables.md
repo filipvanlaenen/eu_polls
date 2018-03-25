@@ -102,3 +102,17 @@ current EP fractions.
 | Socialdemokraterne          | A            | S&D         | Current member                                                                  |
 | Socialistisk Folkeparti     | F            | Greens/EFA  | Current member                                                                  |
 | Venstre                     | V            | ALDE        | Current member                                                                  |
+
+## Finland
+
+| Party Name                          | Abbreviation | EP Fraction | Rationale                                    |
+|:------------------------------------|:-------------|:------------|:---------------------------------------------|
+| Kansallinen Kokoomus                | KOK          | EPP         | Current member                               |
+| Kristillisdemokraatit               | KD           | EPP         | Current member                               |
+| Perussuomalaiset                    | PS           | ECR         | Current member                               |
+| Sininen tulevaisuus                 | SIN          | *           | New party; split from Perussuomalaiset (ECR) |
+| Suomen Keskusta                     | KESK         | ALDE        | Current member                               |
+| Suomen Sosialidemokraattinen Puolue | SDP          | S&D         | Current member                               |
+| Svenska folkpartiet i Finland       | SFP          | ALDE        | Current member                               |
+| Vasemmistoliitto                    | VAS          | GUE/NGL     | Current member                               |
+| Vihreä liitto                       | VIHR         | Greens/EFA  | Current member                               |
