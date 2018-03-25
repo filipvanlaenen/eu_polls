@@ -70,3 +70,19 @@ current EP fractions.
 | Pametno                                      | P            | ALDE        | Current member                                       |
 | Socijaldemokratska partija Hrvatske          | SDP          | S&D         | Current member                                       |
 | Živi zid                                     | Živi zid     | *           | Currently not represented in the European Parliament |
+
+## Czech Republic
+
+| Party Name                                                  | Abbreviation | EP Fraction | Rationale                                                                   |
+|:------------------------------------------------------------|:-------------|:------------|:----------------------------------------------------------------------------|
+| ANO 2011                                                    | ANO          | ALDE        | Current member                                                              |
+| TOP 09                                                      | TOP 09       | EPP         | Current member                                                              |
+| Starostové a nezávislí                                      | STAN         | EPP         | Current member                                                              |
+| Česká strana sociálně demokratická                          | ČSSD         | S&D         | Current member                                                              |
+| Komunistická strana Čech a Moravy                           | KSČM         | GUE/NGL     | Current member                                                              |
+| Křesťanská a demokratická unie–Československá strana lidová | KDU–ČSL      | EPP         | Current member                                                              |
+| Občanská demokratická strana                                | ODS          | ECR         | Current member                                                              |
+| Strana svobodných občanů                                    | SVOBODNÍ     | EFDD        | Current member                                                              |
+| Česká pirátská strana                                       | Piráti       | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
+| Strana zelených                                             | ZELENÍ       | Greens/EFA  | Current member                                                              |
+| Svoboda a přímá demokracie                                  | SPD          | ENF         | Current member                                                              |
