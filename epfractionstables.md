@@ -76,13 +76,29 @@ current EP fractions.
 | Party Name                                                  | Abbreviation | EP Fraction | Rationale                                                                   |
 |:------------------------------------------------------------|:-------------|:------------|:----------------------------------------------------------------------------|
 | ANO 2011                                                    | ANO          | ALDE        | Current member                                                              |
-| TOP 09                                                      | TOP 09       | EPP         | Current member                                                              |
-| Starostové a nezávislí                                      | STAN         | EPP         | Current member                                                              |
+| Česká pirátská strana                                       | Piráti       | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
 | Česká strana sociálně demokratická                          | ČSSD         | S&D         | Current member                                                              |
 | Komunistická strana Čech a Moravy                           | KSČM         | GUE/NGL     | Current member                                                              |
 | Křesťanská a demokratická unie–Československá strana lidová | KDU–ČSL      | EPP         | Current member                                                              |
 | Občanská demokratická strana                                | ODS          | ECR         | Current member                                                              |
+| Starostové a nezávislí                                      | STAN         | EPP         | Current member                                                              |
 | Strana svobodných občanů                                    | SVOBODNÍ     | EFDD        | Current member                                                              |
-| Česká pirátská strana                                       | Piráti       | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
 | Strana zelených                                             | ZELENÍ       | Greens/EFA  | Current member                                                              |
 | Svoboda a přímá demokracie                                  | SPD          | ENF         | Current member                                                              |
+| TOP 09                                                      | TOP 09       | EPP         | Current member                                                              |
+
+## Denmark
+
+| Party Name                  | Abbreviation | EP Fraction | Rationale                                                                       |
+|:----------------------------|:-------------|:------------|:--------------------------------------------------------------------------------|
+| Alternativet                | Å            | Greens/EFA  | New party, but had declared to @EuropeElects that it intends to join Greens/EFA |
+| Dansk Folkeparti            | O            | ECR         | Current member                                                                  |
+| Det Konservative Folkeparti | C            | EPP         | Current member                                                                  |
+| Enhedslisten–De Rød-Grønne  | Ø            | GUE/NGL     | Current member                                                                  |
+| Kristendemokraterne         | K            | EPP         | Current member                                                                  |
+| Liberal Alliance            | I            | ALDE        | Current member                                                                  |
+| Nye Borgerlige              | D            | *           | New party                                                                       |
+| Radikale Venstre            | B            | ALDE        | Current member                                                                  |
+| Socialdemokraterne          | A            | S&D         | Current member                                                                  |
+| Socialistisk Folkeparti     | F            | Greens/EFA  | Current member                                                                  |
+| Venstre                     | V            | ALDE        | Current member                                                                  |
