@@ -1,4 +1,4 @@
-# EP Fractions Table
+# EP Fractions Tables
 
 The tables below list per country how parties have been associated with the
 current EP fractions.
