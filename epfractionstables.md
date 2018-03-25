@@ -56,3 +56,17 @@ current EP fractions.
 | Демократи за силна България                 | ДСБ          | EPP         | Current member                                       |
 | Обединени Патриоти                          | ОП           | ECR         | Current member                                       |
 | Реформаторски блок                          | РБ           | EPP         | Current member                                       |
+
+## Croatia
+
+| Party Name                                   | Abbreviation | EP Fraction | Rationale                                            |
+|:---------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Bandić Milan 365–Stranka rada i solidarnosti | BM 365       | *           | New party                                            |
+| Hrvatska demokratska zajednica               | HDZ          | EPP         | Current member                                       |
+| Hrvatska narodna stranka–liberalni demokrati | HNS          | ALDE        | Current member                                       |
+| Hrvatska seljačka stranka                    | HSS          | EPP         | Current member                                       |
+| Istarski demokratski sabor                   | IDS          | ALDE        | Current member                                       |
+| Most nezavisnih lista                        | Most         | *           | Currently not represented in the European Parliament |
+| Pametno                                      | P            | ALDE        | Current member                                       |
+| Socijaldemokratska partija Hrvatske          | SDP          | S&D         | Current member                                       |
+| Živi zid                                     | Živi zid     | *           | Currently not represented in the European Parliament |
