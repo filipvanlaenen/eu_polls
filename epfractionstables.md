@@ -43,3 +43,16 @@ current EP fractions.
 | PVDA           | PVDA         | GUE/NGL     | Current member                                                              |
 | sp.a           | SP.A         | S&D         | Current member                                                              |
 | Vlaams Belang  | VB           | ENF         | Current member                                                              |
+
+## Bulgaria
+
+| Party Name                                  | Abbreviation | EP Fraction | Rationale                                            |
+|:--------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Българска социалистическа партия            | БСП          | S&D         | Current member                                       |
+| Воля                                        | Воля         | *           | Currently not represented in the European Parliament |
+| Граждани за европейско развитие на България | ГЕРБ         | EPP         | Current member                                       |
+| Да, България!                               | Да           | *           | New party                                            |
+| Движение за права и свободи                 | ДПС          | ALDE        | Current member                                       |
+| Демократи за силна България                 | ДСБ          | EPP         | Current member                                       |
+| Обединени Патриоти                          | ОП           | ECR         | Current member                                       |
+| Реформаторски блок                          | РБ           | EPP         | Current member                                       |
