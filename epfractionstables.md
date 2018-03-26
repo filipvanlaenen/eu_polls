@@ -144,3 +144,18 @@ current EP fractions.
 | Alternative für Deutschland | AfD          | EFDD        | Current member |
 | CSU                         | CSU          | EPP         | Current member |
 | FDP                         | FDP          | ALDE        | Current member |
+
+## Greece
+
+| Party Name                          | Abbreviation | EP Fraction | Rationale      |
+|:------------------------------------|:-------------|:------------|:---------------|
+| Ανεξάρτητοι Έλληνες                 | ΑΝΕΛ         | ECR         | Current member |
+| Ένωση Κεντρώων                      | ΕΚ           | ALDE        | Current member |
+| Κίνημα Αλλαγής                      | ΚΑ           | S&D         | Current member |
+| Κομμουνιστικό Κόμμα Ελλάδας         | ΚΚΕ          | NI          | Current member |
+| Λαϊκή Ενότητα                       | ΛΑΕ          | GUE/NGL     | Current member |
+| Νέα Δημοκρατία                      | ΝΔ           | EPP         | Current member |
+| Πλεύση Ελευθερίας                   | ΠΕ           | GUE/NGL     | Current member |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | ΣΥΡΙΖΑ       | GUE/NGL     | Current member |
+| Το Ποτάμι                           | Ποτάμι       | S&D         | Current member |
+| Χρυσή Αυγή                          | ΧΑ           | NI          | Current member |
