@@ -192,3 +192,18 @@ current EP fractions.
 | Più Europa             | +E           | ALDE        | Current member                                       |
 | Potere al Popolo       | PaP          | GUE/NGL     | Current member                                       |
 | Südtiroler Volkspartei | SVP          | EPP         | Current member                                       |
+
+## Lithuania
+
+| Party Name                                      | Abbreviation | EP Fraction | Rationale                                            |
+|:------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | TS-LKD       | EPP         | Current member                                       |
+| Lietuvos socialdemokratų partija                | LSDP         | S&D         | Current member                                       |
+| Liberalų Sąjūdis                                | LRLS         | ALDE        | Current member                                       |
+| Partija tvarka ir teisingumas                   | TT           | EFDD        | Current member                                       |
+| Darbo Partija                                   | DP           | ALDE        | Current member                                       |
+| Lietuvos lenkų rinkimų akcija                   | LLRA         | ECR         | Current member                                       |
+| Lietuvos valstiečių ir žaliųjų sąjunga          | LVŽS         | Greens/EFA  | Current member                                       |
+| Lietuvos Žaliųjų Partija                        | LŽP          | *           | Currently not represented in the European Parliament |
+| Lietuvos Centro Partija                         | LCP          | *           | Currently not represented in the European Parliament |
+| Politinė partija “Lietuvos sąrašas”             | LS           | *           | Currently not represented in the European Parliament |
