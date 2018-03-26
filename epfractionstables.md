@@ -20,15 +20,15 @@ current EP fractions.
 
 ## Austria
 
-| Party Name                                   | Abbreviation | EP Fraction | Rationale                                                            |
-|:---------------------------------------------|:-------------|:------------|:---------------------------------------------------------------------|
-| Die Grünen–Die Grüne Alternative             | Grüne        | Greens/EFA  | Current member                                                       |
-| Freiheitliche Partei Österreichs             | FPÖ          | ENF         | Current member                                                       |
-| Liste Peter Pilz                             | PILZ         | *           | New party; split from Die Grünen–Die Grüne Alternative (Greens/EFA ) |
-| Meine Stimme Gilt!                           | GILT         | *           | New party                                                            |
-| NEOS–Das Neue Österreich und Liberales Forum | NEOS         | ALDE        | Current member                                                       |
-| Österreichische Volkspartei                  | ÖVP          | EPP         | Current member                                                       |
-| Sozialdemokratische Partei Österreichs       | SPÖ          | S&D         | Current member                                                       |
+| Party Name                                   | Abbreviation | EP Fraction | Rationale                                                           |
+|:---------------------------------------------|:-------------|:------------|:--------------------------------------------------------------------|
+| Die Grünen–Die Grüne Alternative             | Grüne        | Greens/EFA  | Current member                                                      |
+| Freiheitliche Partei Österreichs             | FPÖ          | ENF         | Current member                                                      |
+| Liste Peter Pilz                             | PILZ         | *           | New party; split from Die Grünen–Die Grüne Alternative (Greens/EFA) |
+| Meine Stimme Gilt!                           | GILT         | *           | New party                                                           |
+| NEOS–Das Neue Österreich und Liberales Forum | NEOS         | ALDE        | Current member                                                      |
+| Österreichische Volkspartei                  | ÖVP          | EPP         | Current member                                                      |
+| Sozialdemokratische Partei Österreichs       | SPÖ          | S&D         | Current member                                                      |
 
 ## Belgium: Flanders
 
@@ -197,13 +197,33 @@ current EP fractions.
 
 | Party Name                                      | Abbreviation | EP Fraction | Rationale                                            |
 |:------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | TS-LKD       | EPP         | Current member                                       |
-| Lietuvos socialdemokratų partija                | LSDP         | S&D         | Current member                                       |
-| Liberalų Sąjūdis                                | LRLS         | ALDE        | Current member                                       |
-| Partija tvarka ir teisingumas                   | TT           | EFDD        | Current member                                       |
 | Darbo Partija                                   | DP           | ALDE        | Current member                                       |
+| Liberalų Sąjūdis                                | LRLS         | ALDE        | Current member                                       |
+| Lietuvos Centro Partija                         | LCP          | *           | Currently not represented in the European Parliament |
 | Lietuvos lenkų rinkimų akcija                   | LLRA         | ECR         | Current member                                       |
+| Lietuvos socialdemokratų partija                | LSDP         | S&D         | Current member                                       |
 | Lietuvos valstiečių ir žaliųjų sąjunga          | LVŽS         | Greens/EFA  | Current member                                       |
 | Lietuvos Žaliųjų Partija                        | LŽP          | *           | Currently not represented in the European Parliament |
-| Lietuvos Centro Partija                         | LCP          | *           | Currently not represented in the European Parliament |
+| Partija tvarka ir teisingumas                   | TT           | EFDD        | Current member                                       |
 | Politinė partija “Lietuvos sąrašas”             | LS           | *           | Currently not represented in the European Parliament |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | TS-LKD       | EPP         | Current member                                       |
+
+## Netherlands
+
+| Party Name                              | Abbreviation | EP Fraction | Rationale                                                                   |
+|:----------------------------------------|:-------------|:------------|:----------------------------------------------------------------------------|
+| 50Plus                                  | 50+          | ALDE        | Current member                                                              |
+| Bij1                                    | B1           | *           | New party; split from Denk (*)                                              | 
+| Christen-Democratisch Appèl             | CDA          | EPP         | Current member                                                              |
+| ChristenUnie                            | CU           | ECR         | Current member                                                              |
+| Democraten 66                           | D66          | ALDE        | Current member                                                              |
+| Denk                                    | DENK         | *           | New party; split from Partij van de Arbeid (S&D)                            |
+| Forum voor Democratie                   | FvD          | *           | New party                                                                   |
+| GroenLinks                              | GL           | Greens/EFA  | Current member                                                              |
+| Partij van de Arbeid                    | PvdA         | S&D         | Current member                                                              |
+| Partij voor de Dieren                   | PvdD         | GUE/NGL     | Current member                                                              |
+| Partij voor de Vrijheid                 | PVV          | ENF         | Current member                                                              |
+| Piratenpartij                           | PP           | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
+| Socialistische Partij                   | SP           | GUE/NGL     | Current member                                                              |
+| Staatkundig Gereformeerde Partij        | SGP          | ECR         | Current member                                                              |
+| Volkspartij voor Vrijheid en Democratie | VVD          | ALDE        | Current member                                                              |
