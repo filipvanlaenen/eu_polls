@@ -159,3 +159,18 @@ current EP fractions.
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | ΣΥΡΙΖΑ       | GUE/NGL     | Current member |
 | Το Ποτάμι                           | Ποτάμι       | S&D         | Current member |
 | Χρυσή Αυγή                          | ΧΑ           | NI          | Current member |
+
+## Hungary
+
+| Party Name  | Abbreviation | EP Fraction | Rationale                                            |
+|:------------|:-------------|:------------|:-----------------------------------------------------|
+| DK          | DK           | S&D         | Current member                                       |
+| Együtt      | Együtt       | Greens/EFA  | Current member                                       |
+| Fidesz–KDNP | Fidesz–KDNP  | EPP         | Current member                                       |
+| Jobbik      | Jobbik       | NI          | Current member                                       |
+| LMP         | LMP          | Greens/EFA  | Current member                                       |
+| MKKP        | MKKP         | *           | Currently not represented in the European Parliament |
+| MLP         | MLP          | ALDE        | Current member                                       |
+| MM          | MM           | ALDE        | Current member                                       |
+| MSZP        | MSZP         | S&D         | Current member                                       |
+| Párbeszéd   | Párbeszéd    | Greens/EFA  | Current member                                       |
