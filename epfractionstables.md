@@ -240,3 +240,14 @@ current EP fractions.
 | Prawo i Sprawiedliwość       | PiS          | ECR         | Current member |
 | Sojusz Lewicy Demokratycznej | SLD          | S&D         | Current member |
 | Wolność                      | W            | EFDD        | Current member |
+
+## Portugal
+
+| Party Name                     | Abbreviation | EP Fraction | Rationale      |
+|:-------------------------------|:-------------|:------------|:---------------|
+| Partido Socialista             | PS           | S&D         | Current member |
+| Partido Social Democrata       | PSD          | EPP         | Current member |
+| CDS–Partido Popular            | CDS–PP       | EPP         | Current member |
+| Coligação Democrática Unitária | CDU          | Greens/EFA  | Current member |
+| Bloco de Esquerda              | BE           | GUE/NGL     | Current member |
+| Pessoas–Animais–Natureza       | PAN          | GUE/NGL     | Current member |
