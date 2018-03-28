@@ -251,3 +251,14 @@ current EP fractions.
 | Coligação Democrática Unitária | CDU          | Greens/EFA  | Current member |
 | Bloco de Esquerda              | BE           | GUE/NGL     | Current member |
 | Pessoas–Animais–Natureza       | PAN          | GUE/NGL     | Current member |
+
+## Romania
+
+| Party Name                                   | Abbreviation | EP Fraction | Rationale      |
+|:---------------------------------------------|:-------------|:------------|:---------------|
+| Partidul Alianța Liberalilor și Democraților | ALDE         | ALDE        | Current member |
+| Partidul Social Democrat                     | PSD          | S&D         | Current member |
+| Partidul Mișcarea Populară                   | PMP          | EPP         | Current member |
+| Partidul Național Liberal                    | PNL          | EPP         | Current member |
+| Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member |
+| Uniunea Salvați România                      | USR          | *           | New party      |
