@@ -257,8 +257,27 @@ current EP fractions.
 | Party Name                                   | Abbreviation | EP Fraction | Rationale      |
 |:---------------------------------------------|:-------------|:------------|:---------------|
 | Partidul Alianța Liberalilor și Democraților | ALDE         | ALDE        | Current member |
-| Partidul Social Democrat                     | PSD          | S&D         | Current member |
 | Partidul Mișcarea Populară                   | PMP          | EPP         | Current member |
 | Partidul Național Liberal                    | PNL          | EPP         | Current member |
+| Partidul Social Democrat                     | PSD          | S&D         | Current member |
 | Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member |
 | Uniunea Salvați România                      | USR          | *           | New party      |
+
+## Slovakia
+
+## Spain
+
+## Sweden
+
+| Party Name                                | Abbreviation | EP Fraction | Rationale      |
+|:------------------------------------------|:-------------|:------------|:---------------|
+| Sveriges socialdemokratiska arbetareparti | S  | S&D         | Current member |
+| Miljöpartiet de gröna                     | MP | Greens/EFA         | Current member |
+| Moderata samlingspartiet                  | M  | EPP         | Current member |
+| Liberalerna                               | L  | ALDE         | Current member |
+| Sverigedemokraterna                       | SD | EFDD         | Current member |
+| Centerpartiet                             | C  | ALDE         | Current member |
+| Vänsterpartiet                            | V  | GUE/NGL         | Current member |
+| Kristdemokraterna                         | KD | EPP         | Current member |
+| Feministiskt initiativ                    | Fi | S&D         | Current member |
+
