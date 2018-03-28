@@ -271,13 +271,13 @@ current EP fractions.
 
 | Party Name                                | Abbreviation | EP Fraction | Rationale      |
 |:------------------------------------------|:-------------|:------------|:---------------|
-| Sveriges socialdemokratiska arbetareparti | S  | S&D         | Current member |
-| Miljöpartiet de gröna                     | MP | Greens/EFA         | Current member |
-| Moderata samlingspartiet                  | M  | EPP         | Current member |
-| Liberalerna                               | L  | ALDE         | Current member |
-| Sverigedemokraterna                       | SD | EFDD         | Current member |
-| Centerpartiet                             | C  | ALDE         | Current member |
-| Vänsterpartiet                            | V  | GUE/NGL         | Current member |
-| Kristdemokraterna                         | KD | EPP         | Current member |
-| Feministiskt initiativ                    | Fi | S&D         | Current member |
+| Sveriges socialdemokratiska arbetareparti | S            | S&D         | Current member |
+| Miljöpartiet de gröna                     | MP           | Greens/EFA  | Current member |
+| Moderata samlingspartiet                  | M            | EPP         | Current member |
+| Liberalerna                               | L            | ALDE        | Current member |
+| Sverigedemokraterna                       | SD           | EFDD        | Current member |
+| Centerpartiet                             | C            | ALDE        | Current member |
+| Vänsterpartiet                            | V            | GUE/NGL     | Current member |
+| Kristdemokraterna                         | KD           | EPP         | Current member |
+| Feministiskt initiativ                    | Fi           | S&D         | Current member |
 
