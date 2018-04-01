@@ -265,6 +265,20 @@ current EP fractions.
 
 ## Slovakia
 
+| Party Name                                       | Abbreviation | EP Fraction | Rationale                                                                                                                                                               |
+|:-------------------------------------------------|:-------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kotleba–Ľudová strana Naše Slovensko             | Kotleba–ĽSNS | *           | Currently not represented in the European Parliament                                                                                                                    |
+| Kresťanskodemokratické hnutie                    | KDH          | EPP         | Current member                                                                                                                                                          |
+| MOST–HÍD                                         | MOST–HÍD     | EPP         | Current member                                                                                                                                                          |
+| NOVA                                             | NOVA         | ECR         | Current member                                                                                                                                                          |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti             | OĽaNO        | ECR         | Current member                                                                                                                                                          |
+| Progresívne Slovensko                            | PS           | ALDE        | Current member                                                                                                                                                          |
+| Sloboda a Solidarita                             | SaS          | ECR         | Current member                                                                                                                                                          |
+| Slovenská národná strana                         | SNS          | ENF         | Currently not represented in the European Parliament, but strong indications that it would have joined ENF if it would have a representation in the European Parliament |
+| SMER–sociálna demokracia                         | Smer–SD      | S&D         | Current member                                                                                                                                                          |
+| SME RODINA                                       | SME RODINA   | *           | New party                                                                                                                                                               |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SMK–MKP      | EPP         | Current member                                                                                                                                                          |
+
 ## Spain
 
 ## Sweden
