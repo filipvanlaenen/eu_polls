@@ -2,6 +2,46 @@
 
 ## Confidence Intervals
 
+## Medians
+
+The median is the value separating the higher half of a probability distribution
+from the lower half. One could therefore think of it as the "middle" value. 
+
+For a continuous probability distribution, the median is the value such that a
+number is equally likely to fall above or below it. Since the number of voters
+is usually rather large in the areas considered on these pages, the probability
+mass functions for the voting intentions behave a lot like continuous
+probability distributions. One can therefore say that for the medians of the
+voting intentions, the actual number of voting intentions for a particular party
+is equally likely to fall above or below it.
+
+For the number of seats, this doesn't hold true though. The number of seats is
+usually much too small for the probability mass functions to behave more or less
+like a continuous probability distribution. As a consequence, each of the values
+in the 99 percent confidence intervals will have a substantial probability,
+including the median itself. In these cases, the median is the value such that
+the probability that the value is equal to it or above it is at least fifty
+percent, and that the value is equal to it or below it at least fifty percent
+too. One could say that median is the value that pushes the accumulated
+probability above the fifty percent mark.
+
+Notice that often, the median will also be the most likely value. However, that
+doesn't need to be so, and in many cases, it won't be either.
+
+### Shoudn't the Medians Add Up to the Total Number of Seats?
+
+In most cases, the medians for the number of seats per party will add up to a
+number close to the total number of seats. But in many cases, the sum of the
+medians won't be exactly equal to the total number of seats. Here's an example
+illustrating why this isn't an error:
+
+Image three parties competing for a single seat in a constituency. All three
+parties have the same chance of winning seat, so the probability mass function
+is 33⅓ percent of getting 1 seat for each of them, and 66⅔ percent of getting no
+seat. This means that for all three parties, the median value for the number of
+seats is 0, with a 95 percent confidence interval of 0—1. The sum of the median
+values is 3 × 0 = 0, which is less than 1.
+
 ## Weighted Monte Carlo Simulations
 
 ## Projecting National Results on Electoral Districts
