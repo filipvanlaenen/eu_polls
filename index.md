@@ -15,7 +15,7 @@
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 36 | 44 | 41–48 |40–49 | 40–50 | 39–51 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 15 | 7 | 6–9 |6–10 | 6–10 | 5–11 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 101 | 96–106 |94–107 | 93–108 | 91–110 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 45 | 33 | 31–36 |30–37 | 30–38 | 29–41 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 45 | 33 | 31–36 |30–37 | 30–38 | 29–40 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 44 | 37–48 |36–49 | 35–50 | 34–51 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 51 | 57 | 54–60 |53–60 | 52–61 | 51–63 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 52 | 49–56 |48–57 | 46–58 | 44–60 |
@@ -174,9 +174,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
-| 6 | 22% | 98% |  |
-| 7 | 40% | 76% | Median |
-| 8 | 22% | 36% |  |
+| 6 | 21% | 98% |  |
+| 7 | 40% | 78% | Median |
+| 8 | 24% | 38% |  |
 | 9 | 8% | 14% |  |
 | 10 | 6% | 6% |  |
 | 11 | 0.7% | 0.7% |  |
@@ -250,14 +250,14 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.3% | 99.9% |  |
-| 29 | 1.5% | 99.6% |  |
-| 30 | 4% | 98% |  |
+| 28 | 0.4% | 99.9% |  |
+| 29 | 2% | 99.6% |  |
+| 30 | 5% | 98% |  |
 | 31 | 10% | 94% |  |
 | 32 | 16% | 84% |  |
-| 33 | 19% | 69% | Median |
+| 33 | 19% | 68% | Median |
 | 34 | 18% | 49% |  |
-| 35 | 14% | 31% |  |
+| 35 | 14% | 30% |  |
 | 36 | 8% | 17% |  |
 | 37 | 4% | 9% |  |
 | 38 | 2% | 4% |  |
