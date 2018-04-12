@@ -279,6 +279,24 @@ current EP fractions.
 | SME RODINA                                       | SME RODINA   | *           | New party                                                                                                                                                               |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SMK–MKP      | EPP         | Current member                                                                                                                                                          |
 
+## Slovenia
+
+| Party Name                                               | Abbreviation | EP Fraction | Rationale                                            |
+|:---------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Demokratična stranka upokojencev Slovenije               | DeSUS        | ALDE        | Current member                                       |
+| Državljanska lista                                       | DL           | ALDE        | Current member                                       |
+| Glas za otroke in družine–Nova ljudska stranka Slovenije | GOD–NLS      | *           | New parties                                          |
+| Levica                                                   | Levica       | GUE/NGL     | Current member                                       |
+| Lista Marjana Šarca                                      | LMŠ          | *           | New party                                            |
+| Nova Slovenija–Krščanski demokrati                       | NSi          | EPP         | Current member                                       |
+| Pozitivna Slovenija                                      | PS           | *           | Currently not represented in the European Parliament |
+| Slovenska demokratska stranka                            | SDS          | EPP         | Current member                                       |
+| Slovenska ljudska stranka                                | SLS          | EPP         | Current member                                       |
+| Slovenska nacionalna stranka                             | SNS          | *           | Currently not represented in the European Parliament |
+| Socialni demokrati                                       | SD           | S&D         | Current member                                       |
+| Stranka Alenke Bratušek                                  | PAB          | ALDE        | Current member                                       |
+| Stranka modernega centra                                 | SMC          | ALDE        | Current member                                       |
+
 ## Spain
 
 | Party Name                                         | Abbreviation | EP Fraction | Rationale                                                    |
