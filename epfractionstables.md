@@ -193,6 +193,23 @@ current EP fractions.
 | Potere al Popolo       | PaP          | GUE/NGL     | Current member                                       |
 | Südtiroler Volkspartei | SVP          | EPP         | Current member                                       |
 
+## Latvia
+
+| Party Name                                                       | Abbreviation | EP Fraction | Rationale                                            |
+|:-----------------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Vienotība                                                        | V            | EPP         | Current member                                       |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | NA           | ECR         | Current member                                       |
+| Sociāldemokrātiskā Partija “Saskaņa”                             | SDPS         | S&D         | Current member                                       |
+| Zaļo un Zemnieku savienība                                       | ZZS          | ALDE        | Current member                                       |
+| Latvijas Krievu savienība                                        | LKS          | Greens/EFA  | Current member                                       |
+| Latvijas Reģionu apvienība                                       | LRA          | *           | Currently not represented in the European Parliament |
+| Latvijas attīstībai                                              | LA           | ALDE        | Current member                                       |
+| No sirds Latvijai                                                | NSL          | *           | New party                                            |
+| Vienoti Latvijai                                                 | VL           | *           | New party                                            |
+| Jaunā konservatīvā partija                                       | JKP          | *           | New party                                            |
+| Kam pieder valsts?                                               | KPV          | *           | New party                                            |
+| Kustība Par!                                                     | PAR          | *           | New party                                            |
+
 ## Lithuania
 
 | Party Name                                      | Abbreviation | EP Fraction | Rationale                                            |
