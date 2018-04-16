@@ -458,7 +458,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | Country                                                                                     | No of Seats             | No of Constituencies   | Method                      | Threshold |
 |:--------------------------------------------------------------------------------------------|:-----------------------:|:----------------------:|:---------------------------:|:---------:|
 | Austria [⁰](https://github.com/filipvanlaenen/austrian_ep_polls/blob/master/average.md)     | <strike>18</strike> 19¹ | 1                      | D'Hondt                    | 4%        |
-| Belgium: [Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/)                     | 12                      | 1                      | D'Hondt                    | No        |
+| Belgium: [Flanders](https://filipvanlaenen.github.io/flemish_ep_polls/average.html)         | 12                      | 1                      | D'Hondt                    | No        |
 | Bulgaria [⁰](https://github.com/filipvanlaenen/bulgarian_ep_polls/blob/master/average.md)   | 17                      | 1                      | Hare-Niemeyer               | 5%        |
 | Croatia [⁰](https://github.com/filipvanlaenen/croatian_ep_polls/blob/master/average.md)     | <strike>11</strike> 12¹ | 1                      | D'Hondt                    | 5%        |
 | Czech Republic [⁰](https://github.com/filipvanlaenen/czech_ep_polls/blob/master/average.md) | 21                      | 1                      | D'Hondt                    | 5%        |
@@ -467,7 +467,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | France² [⁰](https://github.com/filipvanlaenen/french_ep_polls/blob/master/average.md)       | <strike>74</strike> 79¹ | <strike>10</strike> 1² | D'Hondt²                   | 5%²       |
 | Germany [⁰](https://github.com/filipvanlaenen/german_ep_polls/blob/master/average.md)       | 96                      | 1                      | Sainte-Laguë                | No        |
 | Greece [⁰](https://github.com/filipvanlaenen/greek_ep_polls/blob/master/average.md)         | 21                      | 1                      | Droop                       | 3%        |
-| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/)                             | 21                      | 1                      | D'Hondt                    | No        |
+| [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/average.html)                 | 21                      | 1                      | D'Hondt                    | No        |
 | Italy [⁰](https://github.com/filipvanlaenen/italian_ep_polls/blob/master/average.md)        | <strike>73</strike> 76¹ | 1                      | Hare-Niemeyer               | 4%        |
 | Latvia [⁰](https://github.com/filipvanlaenen/latvian_ep_polls/blob/master/average.md)       | 8                       | 1                      | Sainte-Laguë                | 5%        |
 | Lithuania [⁰](https://github.com/filipvanlaenen/lithuanian_ep_polls/blob/master/average.md) | 11                      | 1                      | Hare–Niemeyer               | 5%        |
@@ -478,7 +478,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | Slovakia [⁰](https://github.com/filipvanlaenen/slovakian_ep_polls/blob/master/average.md)   | <strike>13</strike> 14¹ | 1                      | Hagenbach-Bischoff          | 5%        |
 | Slovenia [⁰](https://github.com/filipvanlaenen/slovenian_ep_polls/blob/master/average.md)   | 8                       | 1                      | D'Hondt                    | 5%        |
 | Spain [⁰](https://github.com/filipvanlaenen/spanish_ep_polls/blob/master/average.md)        | <strike>54</strike> 59¹ | 1                      | D'Hondt                    | No        |
-| [Sweden](https://filipvanlaenen.github.io/swedish_ep_polls/)                                | <strike>20</strike> 21¹ | 1                      | Modified Sainte-Laguë       | 4%        |
+| [Sweden](https://filipvanlaenen.github.io/swedish_ep_polls/average.html)                    | <strike>20</strike> 21¹ | 1                      | Modified Sainte-Laguë       | 4%        |
 | **Total**                                                                                   | **<strike>634 / 678</strike> 658¹ / 705¹ (93%)** | |                           |           |
 
 ¹ Changed according to the [redistribution of seats](http://www.europarl.europa.eu/news/en/headlines/eu-affairs/20180126STO94114/eu-elections-how-many-meps-will-each-country-get-in-2019) planned for the 2019 European election.
