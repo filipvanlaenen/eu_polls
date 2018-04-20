@@ -277,7 +277,7 @@ current EP fractions.
 | Partido Socialista             | PS           | S&D         | Current member |
 | Partido Social Democrata       | PSD          | EPP         | Current member |
 | CDS–Partido Popular            | CDS–PP       | EPP         | Current member |
-| Coligação Democrática Unitária | CDU          | Greens/EFA  | Current member |
+| Coligação Democrática Unitária | CDU          | GUE/NGL     | Current member |
 | Bloco de Esquerda              | BE           | GUE/NGL     | Current member |
 | Pessoas–Animais–Natureza       | PAN          | GUE/NGL     | Current member |
 
