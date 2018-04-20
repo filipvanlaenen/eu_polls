@@ -105,15 +105,15 @@ current EP fractions.
 
 ## Estonia
 
-| Party Name                          | Abbreviation | EP Fraction | Rationale                                    |
-|:------------------------------------|:-------------|:------------|:---------------------------------------------|
-| Eesti Reformierakond (ALDE)             | Ref       | 
-| Eesti Keskerakond (ALDE)                | Kesk      | 
-| Isamaa ja Res Publica Liit (EPP)        | IRL       | 
-| Sotsiaaldemokraatlik Erakond (S&D)      | SDE       | 
-| Eesti Konservatiivne Rahvaerakond (*)   | EKRE      | 
-| Erakond Eestimaa Rohelised (Greens/EFA) | Rohelised | 
-| Eesti Vabaerakond (*)                   | EVA       | 
+| Party Name                        | Abbreviation | EP Fraction | Rationale                                            |
+|:----------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Eesti Keskerakond                 | Kesk         | ALDE        | Current member                                       |
+| Eesti Konservatiivne Rahvaerakond | EKRE         | *           | Currently not represented in the European Parliament |
+| Eesti Reformierakond              | Ref          | ALDE        | Current member                                       |
+| Eesti Vabaerakond                 | EVA          | *           | New party                                            |
+| Erakond Eestimaa Rohelised        | Rohelised    | Greens/EFA  | Current member                                       |
+| Isamaa ja Res Publica Liit        | IRL          | EPP         | Current member                                       |
+| Sotsiaaldemokraatlik Erakond      | SDE          | S&D         | Current member                                       |
 
 ## Finland
 
