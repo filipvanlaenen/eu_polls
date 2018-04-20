@@ -11,7 +11,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 217 | 179 | 172–185 |170–187 | 168–189 | 165–192 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 169 | 139 | 132–145 |131–147 | 129–148 | 127–151 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 169 | 139 | 132–145 |130–147 | 129–148 | 126–151 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 36 | 44 | 41–48 |41–49 | 40–50 | 39–52 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 15 | 7 | 6–9 |6–10 | 6–10 | 5–11 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 107 | 102–111 |100–113 | 99–114 | 96–116 |
@@ -95,37 +95,38 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 124 | 0.1% | 100% |  |
-| 125 | 0.1% | 99.9% |  |
-| 126 | 0.2% | 99.8% |  |
-| 127 | 0.4% | 99.5% |  |
-| 128 | 0.7% | 99.1% |  |
-| 129 | 1.2% | 98% |  |
+| 123 | 0% | 100% |  |
+| 124 | 0.1% | 99.9% |  |
+| 125 | 0.2% | 99.9% |  |
+| 126 | 0.3% | 99.7% |  |
+| 127 | 0.5% | 99.4% |  |
+| 128 | 0.8% | 98.9% |  |
+| 129 | 1.3% | 98% |  |
 | 130 | 2% | 97% |  |
-| 131 | 2% | 95% |  |
-| 132 | 3% | 93% |  |
-| 133 | 4% | 90% |  |
-| 134 | 5% | 86% |  |
-| 135 | 6% | 80% |  |
-| 136 | 7% | 74% |  |
-| 137 | 7% | 68% |  |
-| 138 | 8% | 60% |  |
-| 139 | 8% | 52% | Median |
-| 140 | 8% | 45% |  |
-| 141 | 7% | 37% |  |
-| 142 | 7% | 30% |  |
-| 143 | 6% | 23% |  |
-| 144 | 5% | 17% |  |
-| 145 | 4% | 13% |  |
-| 146 | 3% | 9% |  |
+| 131 | 3% | 95% |  |
+| 132 | 3% | 92% |  |
+| 133 | 4% | 89% |  |
+| 134 | 5% | 84% |  |
+| 135 | 6% | 79% |  |
+| 136 | 7% | 73% |  |
+| 137 | 8% | 66% |  |
+| 138 | 8% | 58% |  |
+| 139 | 8% | 51% | Median |
+| 140 | 8% | 43% |  |
+| 141 | 7% | 35% |  |
+| 142 | 6% | 28% |  |
+| 143 | 5% | 22% |  |
+| 144 | 5% | 16% |  |
+| 145 | 4% | 12% |  |
+| 146 | 3% | 8% |  |
 | 147 | 2% | 6% |  |
-| 148 | 1.5% | 4% |  |
-| 149 | 1.0% | 2% |  |
-| 150 | 0.6% | 1.4% |  |
-| 151 | 0.4% | 0.8% |  |
+| 148 | 1.4% | 4% |  |
+| 149 | 0.9% | 2% |  |
+| 150 | 0.6% | 1.2% |  |
+| 151 | 0.3% | 0.7% |  |
 | 152 | 0.2% | 0.4% |  |
 | 153 | 0.1% | 0.2% |  |
-| 154 | 0.1% | 0.1% |  |
+| 154 | 0% | 0.1% |  |
 | 155 | 0% | 0% |  |
 | 156 | 0% | 0% |  |
 | 157 | 0% | 0% |  |
@@ -227,22 +228,22 @@
 | 92 | 0% | 100% |  |
 | 93 | 0% | 100% |  |
 | 94 | 0.1% | 99.9% |  |
-| 95 | 0.1% | 99.9% |  |
+| 95 | 0.2% | 99.9% |  |
 | 96 | 0.3% | 99.7% |  |
-| 97 | 0.5% | 99.4% |  |
-| 98 | 0.9% | 98.9% |  |
+| 97 | 0.6% | 99.4% |  |
+| 98 | 1.0% | 98.9% |  |
 | 99 | 2% | 98% |  |
 | 100 | 2% | 96% |  |
 | 101 | 4% | 94% |  |
 | 102 | 5% | 90% |  |
-| 103 | 6% | 86% |  |
+| 103 | 6% | 85% |  |
 | 104 | 8% | 79% |  |
 | 105 | 9% | 71% |  |
 | 106 | 10% | 62% |  |
 | 107 | 10% | 52% | Median |
 | 108 | 10% | 42% |  |
 | 109 | 9% | 32% |  |
-| 110 | 8% | 23% |  |
+| 110 | 7% | 23% |  |
 | 111 | 6% | 15% |  |
 | 112 | 4% | 9% |  |
 | 113 | 3% | 5% |  |
@@ -464,6 +465,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | Croatia [⁰](https://github.com/filipvanlaenen/croatian_ep_polls/blob/master/average.md)     | <strike>11</strike> 12¹ | 1                      | D'Hondt                    | 5%        |
 | Czech Republic [⁰](https://github.com/filipvanlaenen/czech_ep_polls/blob/master/average.md) | 21                      | 1                      | D'Hondt                    | 5%        |
 | Denmark [⁰](https://github.com/filipvanlaenen/danish_ep_polls/blob/master/average.md)       | <strike>13</strike> 14¹ | 1                      | D'Hondt                    | No        |
+| Estonia [⁰](https://github.com/filipvanlaenen/estonian_ep_polls/blob/master/average.md)     | <strike>6</strike> 7¹   | 1                      | D'Hondt                    | No        |
 | Finland [⁰](https://github.com/filipvanlaenen/finnish_ep_polls/blob/master/average.md)      | <strike>13</strike> 14¹ | 1                      | D'Hondt                    | No        |
 | France² [⁰](https://github.com/filipvanlaenen/french_ep_polls/blob/master/average.md)       | <strike>74</strike> 79¹ | <strike>10</strike> 1² | D'Hondt²                   | 5%²       |
 | Germany [⁰](https://github.com/filipvanlaenen/german_ep_polls/blob/master/average.md)       | 96                      | 1                      | Sainte-Laguë                | No        |
@@ -480,7 +482,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | Slovenia [⁰](https://github.com/filipvanlaenen/slovenian_ep_polls/blob/master/average.md)   | 8                       | 1                      | D'Hondt                    | 5%        |
 | Spain [⁰](https://github.com/filipvanlaenen/spanish_ep_polls/blob/master/average.md)        | <strike>54</strike> 59¹ | 1                      | D'Hondt                    | No        |
 | [Sweden](https://filipvanlaenen.github.io/swedish_ep_polls/average.html)                    | <strike>20</strike> 21¹ | 1                      | Modified Sainte-Laguë       | 4%        |
-| **Total**                                                                                   | **<strike>634 / 678</strike> 658¹ / 705¹ (93%)** | |                           |           |
+| **Total**                                                                                   | **<strike>640 / 678</strike> 665¹ / 705¹ (94%)** | |                           |           |
 
 ¹ Changed according to the [redistribution of seats](http://www.europarl.europa.eu/news/en/headlines/eu-affairs/20180126STO94114/eu-elections-how-many-meps-will-each-country-get-in-2019) planned for the 2019 European election.
 
@@ -489,25 +491,23 @@ The seat and voting intentions projection for the European Parliament presented 
 The following countries haven't been included in the calculations yet,
  and are therefore, except for the United Kingdom, represented with the fixed numbers
  14 seats for EPP,
- 11 seats for S&D,
- 2 seats for ECR,
+ 9 seats for S&D,
  8 seats for ALDE,
  6 seats for GUE/NGL,
  3 seats for Greens/EFA,
- and none for EFDD, ENF and NI in the results above:
+ and none for ECR, EFDD, ENF and NI in the results above:
 
 | Country                                            | No of Seats             | No of Constituencies | Method                      | Threshold |
 |:---------------------------------------------------|:-----------------------:|:--------------------:|:---------------------------:|:---------:|
 | Belgium: French-speaking constituency              | 8                       | 1                    | D'Hondt                    | No        |
 | Belgium: German-speaking constituency              | 1                       | 1                    | D'Hondt                    | No        |
 | Cyprus                                             | 6                       | 1                    | Hare-Niemeyer               | No        |
-| Estonia                                            | <strike>6</strike> 7¹   | 1                    | D'Hondt                    | No        |
 | Ireland                                            | <strike>11</strike> 13¹ | 3                    | Single transferable vote    | N/A       |
 | Luxembourg                                         | 6                       | 1                    | Hagenbach-Bischoff/D'Hondt | No        |
 | Malta                                              | 6                       | 1                    | Single transferable vote    | N/A       |
 | <strike>United Kingdom: Great Britain</strike>³    | <strike>70</strike>³    | 11                   | D'Hondt                    | No        |
 | <strike>United Kingdom: Northern Ireland</strike>³ | <strike>3</strike>³     | 1                    | Single transferable vote    | N/A       |
-| **Total**                                          | **<strike>117 / 751</strike> 47¹ / 705¹** |   |                             |           |
+| **Total**                                          | **<strike>111 / 751</strike> 40¹ / 705¹** |   |                             |           |
 
 ¹ Changed according to the [redistribution of seats](http://www.europarl.europa.eu/news/en/headlines/eu-affairs/20180126STO94114/eu-elections-how-many-meps-will-each-country-get-in-2019) planned for the 2019 European election.
 
