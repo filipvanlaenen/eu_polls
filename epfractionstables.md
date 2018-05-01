@@ -309,6 +309,7 @@ current EP fractions.
 | Slovenská národná strana                         | SNS          | ENF         | Currently not represented in the European Parliament, but strong indications that it would have joined ENF if it would have a representation in the European Parliament |
 | SMER–sociálna demokracia                         | Smer–SD      | S&D         | Current member                                                                                                                                                          |
 | SME RODINA                                       | SME RODINA   | *           | New party                                                                                                                                                               |
+| SPOLU–Občianska Demokracia                       | SPOLU        | *           | New party                                                                                                                                                               |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SMK–MKP      | EPP         | Current member                                                                                                                                                          |
 
 ## Slovenia
