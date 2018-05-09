@@ -71,6 +71,19 @@ current EP fractions.
 | Socijaldemokratska partija Hrvatske          | SDP          | S&D         | Current member                                       |
 | Živi zid                                     | Živi zid     | *           | Currently not represented in the European Parliament |
 
+## Cyprus
+
+| Party Name                          | Abbreviation | EP Fraction | Rationale                                            |
+|:------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού   | ΑΚΕΛ         | GUE/NGL     | Current member                                       |
+| Δημοκρατικό Κόμμα                   | ΔΗΚΟ         | S&D         | Current member                                       |
+| Δημοκρατικός Συναγερμός             | ΔΗΣΥ         | EPP         | Current member                                       |
+| Εθνικό Λαϊκό Μέτωπο                 | ΕΛΑΜ         | *           | Currently not represented in the European Parliament |
+| Κίνημα Αλληλεγγύη                   | ΚΑ           | ECR         | Current member                                       |
+| Κίνημα Σοσιαλδημοκρατών             | ΕΔΕΚ         | S&D         | Current member                                       |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών | ΚΟ–ΣΠ        | Greens/EFA  | Current member                                       |
+| Συμμαχία Πολιτών                    | ΣΠ           | ALDE        | Current member                                       |
+
 ## Czech Republic
 
 | Party Name                                                  | Abbreviation | EP Fraction | Rationale                                                                   |
