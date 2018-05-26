@@ -54,6 +54,7 @@ current EP fractions.
 | Да, България!                               | Да           | *           | New party                                            |
 | Движение за права и свободи                 | ДПС          | ALDE        | Current member                                       |
 | Демократи за силна България                 | ДСБ          | EPP         | Current member                                       |
+| Демократична България                       | ДБ           | EPP         | New party, one of its constituents is member of EPP  |
 | Обединени Патриоти                          | ОП           | ECR         | Current member                                       |
 | Реформаторски блок                          | РБ           | EPP         | Current member                                       |
 
@@ -157,6 +158,25 @@ current EP fractions.
 | Parti communiste français                                         | PCF          | GUE/NGL     | Current member                                       |
 | Parti socialiste                                                  | PS           | S&D         | Current member                                       |
 | Union populaire républicaine                                      | UPR          | *           | Currently not represented in the European Parliament |
+
+## French Community of Belgium
+
+| Party Name        | Abbreviation | EP Fraction | Rationale                                                                   |
+|:------------------|:-------------|:------------|:----------------------------------------------------------------------------|
+| cdH               | CDH          | EPP         | Current member                                                              |
+| Debout les Belges | DLB          | *           | Currently not represented in the European Parliament                        |
+| DéFI              | DÉFI         | ALDE        | Current member                                                              |
+| Ecolo             | ECOLO        | Greens/EFA) | Current member                                                              |
+| FW                | FW           | *           | Currently not represented in the European Parliament                        |
+| La Droite         | DROITE       | *           | Currently not represented in the European Parliament                        |
+| ISLAM             | ISLAM        | *           | Currently not represented in the European Parliament                        |
+| MR                | MR           | ALDE        | Current member                                                              |
+| Parti Populaire   | PP           | EFDD        | Current member                                                              |
+| PIRATE            | PIRATE       | Greens/EFA) | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
+| PS                | PS           | S&D         | Current member                                                              |
+| PTB               | PTB          | GUE/NGL     | Current member                                                              |
+| R.W.F.            | RWF          | *           | Currently not represented in the European Parliament                        |
+| Wallonie d’Abord  | WDA          | *           | Currently not represented in the European Parliament                        |
 
 ## Germany
 
