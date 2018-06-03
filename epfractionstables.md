@@ -260,18 +260,19 @@ current EP fractions.
 
 ## Lithuania
 
-| Party Name                                      | Abbreviation | EP Fraction | Rationale                                            |
-|:------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
-| Darbo Partija                                   | DP           | ALDE        | Current member                                       |
-| Liberalų Sąjūdis                                | LRLS         | ALDE        | Current member                                       |
-| Lietuvos Centro Partija                         | LCP          | *           | Currently not represented in the European Parliament |
-| Lietuvos lenkų rinkimų akcija                   | LLRA         | ECR         | Current member                                       |
-| Lietuvos socialdemokratų partija                | LSDP         | S&D         | Current member                                       |
-| Lietuvos valstiečių ir žaliųjų sąjunga          | LVŽS         | Greens/EFA  | Current member                                       |
-| Lietuvos Žaliųjų Partija                        | LŽP          | *           | Currently not represented in the European Parliament |
-| Partija tvarka ir teisingumas                   | TT           | EFDD        | Current member                                       |
-| Politinė partija “Lietuvos sąrašas”             | LS           | *           | Currently not represented in the European Parliament |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | TS-LKD       | EPP         | Current member                                       |
+| Party Name                                      | Abbreviation | EP Fraction | Rationale                                                    |
+|:------------------------------------------------|:-------------|:------------|:-------------------------------------------------------------|
+| Darbo Partija                                   | DP           | ALDE        | Current member                                               |
+| Liberalų Sąjūdis                                | LRLS         | ALDE        | Current member                                               |
+| Lietuvos Centro Partija                         | LCP          | *           | Currently not represented in the European Parliament         |
+| Lietuvos lenkų rinkimų akcija                   | LLRA         | ECR         | Current member                                               |
+| Lietuvos socialdemokratų darbo partija          | LSDDP        | S&D         | New party; split from Lietuvos socialdemokratų partija (S&D) |
+| Lietuvos socialdemokratų partija                | LSDP         | S&D         | Current member                                               |
+| Lietuvos valstiečių ir žaliųjų sąjunga          | LVŽS         | Greens/EFA  | Current member                                               |
+| Lietuvos Žaliųjų Partija                        | LŽP          | *           | Currently not represented in the European Parliament         |
+| Partija tvarka ir teisingumas                   | TT           | EFDD        | Current member                                               |
+| Politinė partija “Lietuvos sąrašas”             | LS           | *           | Currently not represented in the European Parliament         |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | TS-LKD       | EPP         | Current member                                               |
 
 ## Netherlands
 
