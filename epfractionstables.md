@@ -320,14 +320,16 @@ current EP fractions.
 
 ## Romania
 
-| Party Name                                   | Abbreviation | EP Fraction | Rationale      |
-|:---------------------------------------------|:-------------|:------------|:---------------|
-| Partidul Alianța Liberalilor și Democraților | ALDE         | ALDE        | Current member |
-| Partidul Mișcarea Populară                   | PMP          | EPP         | Current member |
-| Partidul Național Liberal                    | PNL          | EPP         | Current member |
-| Partidul Social Democrat                     | PSD          | S&D         | Current member |
-| Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member |
-| Uniunea Salvați România                      | USR          | *           | New party      |
+| Party Name                                   | Abbreviation | EP Fraction | Rationale                                                                                  |
+|:---------------------------------------------|:-------------|:------------|:-------------------------------------------------------------------------------------------|
+| Mișcarea România Împreună                    | RO+          | EPP         | New party, founded by Dacian Cioloș, formerly supported by Partidul Național Liberal (EPP) |
+| Partidul Alianța Liberalilor și Democraților | ALDE         | ALDE        | Current member                                                                             |
+| Partidul Mișcarea Populară                   | PMP          | EPP         | Current member                                                                             |
+| Partidul Național Liberal                    | PNL          | EPP         | Current member                                                                             |
+| Partidul Social Democrat                     | PSD          | S&D         | Current member                                                                             |
+| PRO România                                  | PRO          | S&D         | New party, founded by Victor Ponta, formerly a member of Partidul Social Democrat (S&D)    |
+| Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member                                                                             |
+| Uniunea Salvați România                      | USR          | *           | New party                                                                                  |
 
 ## Slovakia
 
