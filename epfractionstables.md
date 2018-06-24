@@ -327,7 +327,7 @@ current EP fractions.
 | Partidul Mișcarea Populară                   | PMP          | EPP         | Current member                                                                             |
 | Partidul Național Liberal                    | PNL          | EPP         | Current member                                                                             |
 | Partidul Social Democrat                     | PSD          | S&D         | Current member                                                                             |
-| PRO România                                  | PRO          | S&D         | New party, founded by Victor Ponta, formerly a member of Partidul Social Democrat (S&D)    |
+| PRO România                                  | PRO          | ECR         | New party; has one MEP seated in the EP Fraction of ECR                                    |
 | Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member                                                                             |
 | Uniunea Salvați România                      | USR          | *           | New party                                                                                  |
 
