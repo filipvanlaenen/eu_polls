@@ -16,9 +16,9 @@
 | <a href="#non-inscrits">Non-Inscrits</a> | 15 | 8 | 7–9 |6–9 | 6–9 | 6–10 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 105 | 99–111 |98–113 | 97–114 | 94–117 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 45 | 34 | 28–39 |27–40 | 27–41 | 25–42 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 43 | 40–46 |39–46 | 38–47 | 37–48 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 47 | 44–51 |44–52 | 43–52 | 42–54 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 51 | 55 | 51–59 |50–60 | 49–61 | 47–63 |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 49 | 45–53 |43–54 | 42–55 | 40–57 |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 44 | 40–48 |38–49 | 37–50 | 35–52 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 22 | 19–26 |18–27 | 18–28 | 16–30 |
 
 ### European People’s Party
@@ -341,24 +341,23 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.1% | 100% |  |
-| 37 | 0.6% | 99.9% |  |
-| 38 | 2% | 99.3% |  |
-| 39 | 5% | 97% |  |
-| 40 | 10% | 92% |  |
-| 41 | 14% | 82% |  |
-| 42 | 17% | 68% |  |
-| 43 | 17% | 51% | Median |
-| 44 | 14% | 34% |  |
-| 45 | 10% | 20% |  |
-| 46 | 6% | 10% |  |
-| 47 | 3% | 4% |  |
-| 48 | 1.0% | 1.4% |  |
-| 49 | 0.3% | 0.4% |  |
-| 50 | 0.1% | 0.1% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% | Last Result |
+| 40 | 0% | 100% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 1.1% | 99.7% |  |
+| 43 | 3% | 98.6% |  |
+| 44 | 6% | 96% |  |
+| 45 | 10% | 89% |  |
+| 46 | 14% | 79% |  |
+| 47 | 16% | 66% | Median |
+| 48 | 16% | 50% |  |
+| 49 | 13% | 34% |  |
+| 50 | 10% | 21% |  |
+| 51 | 6% | 12% |  |
+| 52 | 3% | 5% |  |
+| 53 | 1.4% | 2% | Last Result |
+| 54 | 0.5% | 0.7% |  |
+| 55 | 0.2% | 0.2% |  |
+| 56 | 0% | 0% |  |
 
 ### Europe of Freedom and Direct Democracy
 
@@ -376,35 +375,29 @@
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
-| 33 | 0% | 100% |  |
-| 34 | 0% | 100% |  |
-| 35 | 0% | 100% |  |
-| 36 | 0% | 100% |  |
-| 37 | 0% | 100% |  |
-| 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 0.6% | 99.6% |  |
-| 41 | 1.0% | 99.1% |  |
-| 42 | 2% | 98% |  |
-| 43 | 2% | 97% |  |
-| 44 | 3% | 94% |  |
-| 45 | 5% | 91% |  |
-| 46 | 7% | 86% |  |
-| 47 | 9% | 80% |  |
-| 48 | 11% | 71% |  |
-| 49 | 12% | 61% | Median |
-| 50 | 12% | 49% |  |
-| 51 | 11% | 36% |  |
-| 52 | 9% | 25% |  |
-| 53 | 7% | 16% |  |
-| 54 | 4% | 9% |  |
-| 55 | 2% | 5% |  |
-| 56 | 1.3% | 2% |  |
-| 57 | 0.6% | 1.1% |  |
-| 58 | 0.3% | 0.4% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 33 | 0.1% | 100% |  |
+| 34 | 0.2% | 99.9% |  |
+| 35 | 0.5% | 99.7% |  |
+| 36 | 0.9% | 99.3% |  |
+| 37 | 1.5% | 98% |  |
+| 38 | 2% | 97% |  |
+| 39 | 3% | 95% |  |
+| 40 | 4% | 92% |  |
+| 41 | 6% | 87% |  |
+| 42 | 9% | 81% |  |
+| 43 | 11% | 73% |  |
+| 44 | 12% | 62% | Median |
+| 45 | 13% | 49% |  |
+| 46 | 12% | 37% |  |
+| 47 | 10% | 25% |  |
+| 48 | 7% | 15% |  |
+| 49 | 4% | 8% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.5% | 0.8% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 ### Parties currently not represented in the EP
 
