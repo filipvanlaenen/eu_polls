@@ -12,14 +12,14 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 217 | 177 | 170–183 |168–185 | 166–187 | 163–190 |
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 169 | 135 | 128–143 |125–145 | 123–146 | 120–149 |
-| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 36 | 53 | 48–58 |46–59 | 45–60 | 43–62 |
-| <a href="#non-inscrits">Non-Inscrits</a> | 15 | 8 | 7–9 |7–9 | 6–9 | 6–10 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 102 | 96–107 |94–109 | 93–110 | 91–113 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 45 | 35 | 30–41 |29–42 | 28–43 | 27–44 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 48 | 44–52 |43–53 | 43–54 | 42–55 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 51 | 56 | 52–61 |51–62 | 50–63 | 48–65 |
+| <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 36 | 53 | 48–58 |46–59 | 45–60 | 43–62 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 48 | 44–52 |43–53 | 43–54 | 42–55 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 46 | 41–49 |40–50 | 38–51 | 36–53 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 45 | 35 | 30–41 |29–42 | 28–43 | 27–44 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 23 | 19–26 |19–28 | 18–28 | 16–30 |
+| <a href="#non-inscrits">Non-Inscrits</a> | 15 | 8 | 7–9 |7–9 | 6–9 | 6–10 |
 
 ### European People’s Party
 
@@ -104,7 +104,7 @@
 | 120 | 0.3% | 99.6% |  |
 | 121 | 0.4% | 99.3% |  |
 | 122 | 0.6% | 98.9% |  |
-| 123 | 0.8% | 98% |  |
+| 123 | 0.9% | 98% |  |
 | 124 | 1.2% | 97% |  |
 | 125 | 2% | 96% |  |
 | 126 | 2% | 95% |  |
@@ -115,15 +115,15 @@
 | 131 | 5% | 79% |  |
 | 132 | 6% | 74% |  |
 | 133 | 6% | 69% |  |
-| 134 | 6% | 63% |  |
+| 134 | 6% | 62% |  |
 | 135 | 7% | 56% | Median |
-| 136 | 7% | 50% |  |
+| 136 | 7% | 49% |  |
 | 137 | 7% | 43% |  |
 | 138 | 6% | 36% |  |
 | 139 | 6% | 30% |  |
 | 140 | 5% | 24% |  |
 | 141 | 5% | 19% |  |
-| 142 | 4% | 15% |  |
+| 142 | 4% | 14% |  |
 | 143 | 3% | 11% |  |
 | 144 | 2% | 8% |  |
 | 145 | 2% | 5% |  |
@@ -291,7 +291,7 @@
 | 34 | 7% | 60% |  |
 | 35 | 6% | 53% | Median |
 | 36 | 7% | 47% |  |
-| 37 | 8% | 40% |  |
+| 37 | 8% | 41% |  |
 | 38 | 8% | 33% |  |
 | 39 | 8% | 25% |  |
 | 40 | 7% | 17% |  |
@@ -329,10 +329,10 @@
 | 61 | 5% | 10% |  |
 | 62 | 3% | 6% |  |
 | 63 | 2% | 3% |  |
-| 64 | 0.8% | 1.3% |  |
-| 65 | 0.3% | 0.6% |  |
+| 64 | 0.8% | 1.4% |  |
+| 65 | 0.4% | 0.6% |  |
 | 66 | 0.1% | 0.2% |  |
-| 67 | 0% | 0.1% |  |
+| 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 
 ### European Conservatives and Reformists
@@ -354,7 +354,7 @@
 | 48 | 12% | 53% | Median |
 | 49 | 11% | 41% |  |
 | 50 | 10% | 29% |  |
-| 51 | 8% | 19% |  |
+| 51 | 8% | 20% |  |
 | 52 | 5% | 12% |  |
 | 53 | 3% | 6% | Last Result |
 | 54 | 2% | 3% |  |
@@ -429,7 +429,7 @@
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
 | 16 | 0.4% | 99.8% |  |
-| 17 | 1.0% | 99.4% |  |
+| 17 | 1.1% | 99.4% |  |
 | 18 | 3% | 98% |  |
 | 19 | 6% | 96% |  |
 | 20 | 10% | 90% |  |
