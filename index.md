@@ -12,8 +12,8 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 217 | 179 | 173–185 |171–187 | 170–188 | 167–191 |
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 169 | 132 | 126–139 |124–141 | 122–143 | 119–145 |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 98 | 91–105 |90–106 | 89–107 | 87–110 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 51 | 58 | 55–62 |54–63 | 53–63 | 52–65 |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 98 | 91–105 |90–106 | 89–108 | 87–110 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 51 | 58 | 55–62 |54–63 | 53–63 | 51–65 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 36 | 54 | 50–58 |49–59 | 48–60 | 47–62 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 47 | 44–51 |43–52 | 42–53 | 41–55 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 47 | 44–50 |43–51 | 42–52 | 40–54 |
@@ -39,13 +39,13 @@
 | 171 | 2% | 97% |  |
 | 172 | 3% | 95% |  |
 | 173 | 4% | 92% |  |
-| 174 | 5% | 88% |  |
+| 174 | 5% | 89% |  |
 | 175 | 6% | 84% |  |
 | 176 | 7% | 78% |  |
-| 177 | 8% | 71% |  |
+| 177 | 8% | 72% |  |
 | 178 | 8% | 64% |  |
 | 179 | 8% | 56% | Median |
-| 180 | 8% | 47% |  |
+| 180 | 8% | 48% |  |
 | 181 | 8% | 39% |  |
 | 182 | 7% | 31% |  |
 | 183 | 6% | 24% |  |
@@ -53,7 +53,7 @@
 | 185 | 4% | 13% |  |
 | 186 | 3% | 9% |  |
 | 187 | 2% | 6% |  |
-| 188 | 1.4% | 4% |  |
+| 188 | 1.5% | 4% |  |
 | 189 | 0.9% | 2% |  |
 | 190 | 0.6% | 1.3% |  |
 | 191 | 0.3% | 0.7% |  |
@@ -97,29 +97,29 @@
 | 118 | 0.2% | 99.9% |  |
 | 119 | 0.3% | 99.7% |  |
 | 120 | 0.5% | 99.4% |  |
-| 121 | 0.7% | 99.0% |  |
+| 121 | 0.8% | 98.9% |  |
 | 122 | 1.1% | 98% |  |
 | 123 | 2% | 97% |  |
-| 124 | 2% | 96% |  |
+| 124 | 2% | 95% |  |
 | 125 | 3% | 93% |  |
 | 126 | 4% | 90% |  |
-| 127 | 5% | 87% |  |
+| 127 | 5% | 86% |  |
 | 128 | 5% | 82% |  |
 | 129 | 6% | 77% |  |
-| 130 | 7% | 71% |  |
+| 130 | 7% | 70% |  |
 | 131 | 7% | 64% |  |
 | 132 | 7% | 57% | Median |
-| 133 | 7% | 50% |  |
+| 133 | 7% | 49% |  |
 | 134 | 7% | 42% |  |
 | 135 | 7% | 35% |  |
-| 136 | 6% | 29% |  |
+| 136 | 6% | 28% |  |
 | 137 | 5% | 23% |  |
 | 138 | 4% | 17% |  |
 | 139 | 4% | 13% |  |
 | 140 | 3% | 9% |  |
 | 141 | 2% | 6% |  |
 | 142 | 2% | 4% |  |
-| 143 | 1.1% | 3% |  |
+| 143 | 1.0% | 3% |  |
 | 144 | 0.7% | 2% |  |
 | 145 | 0.4% | 0.9% |  |
 | 146 | 0.2% | 0.5% |  |
@@ -247,7 +247,7 @@
 | 96 | 6% | 65% |  |
 | 97 | 6% | 59% |  |
 | 98 | 6% | 53% | Median |
-| 99 | 6% | 46% |  |
+| 99 | 6% | 47% |  |
 | 100 | 6% | 40% |  |
 | 101 | 6% | 34% |  |
 | 102 | 6% | 27% |  |
@@ -256,9 +256,9 @@
 | 105 | 4% | 11% |  |
 | 106 | 3% | 7% |  |
 | 107 | 2% | 4% |  |
-| 108 | 1.2% | 2% |  |
+| 108 | 1.2% | 3% |  |
 | 109 | 0.7% | 1.3% |  |
-| 110 | 0.4% | 0.6% |  |
+| 110 | 0.4% | 0.7% |  |
 | 111 | 0.2% | 0.3% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
@@ -277,18 +277,18 @@
 | 28 | 2% | 98.8% |  |
 | 29 | 4% | 97% |  |
 | 30 | 7% | 92% |  |
-| 31 | 9% | 86% |  |
+| 31 | 9% | 85% |  |
 | 32 | 9% | 77% |  |
 | 33 | 8% | 68% |  |
-| 34 | 7% | 60% |  |
-| 35 | 6% | 54% | Median |
-| 36 | 7% | 48% |  |
+| 34 | 6% | 60% |  |
+| 35 | 6% | 53% | Median |
+| 36 | 7% | 47% |  |
 | 37 | 8% | 41% |  |
 | 38 | 9% | 33% |  |
 | 39 | 8% | 24% |  |
 | 40 | 7% | 16% |  |
-| 41 | 5% | 9% |  |
-| 42 | 3% | 5% |  |
+| 41 | 4% | 9% |  |
+| 42 | 3% | 4% |  |
 | 43 | 1.2% | 2% |  |
 | 44 | 0.5% | 0.7% |  |
 | 45 | 0.2% | 0.2% | Last Result |
@@ -306,16 +306,16 @@
 | 50 | 0.1% | 100% |  |
 | 51 | 0.4% | 99.9% | Last Result |
 | 52 | 1.0% | 99.5% |  |
-| 53 | 2% | 98.5% |  |
+| 53 | 2% | 98% |  |
 | 54 | 5% | 96% |  |
-| 55 | 8% | 92% |  |
-| 56 | 11% | 84% |  |
-| 57 | 14% | 73% |  |
+| 55 | 8% | 91% |  |
+| 56 | 11% | 83% |  |
+| 57 | 14% | 72% |  |
 | 58 | 15% | 59% | Median |
 | 59 | 14% | 44% |  |
 | 60 | 11% | 30% |  |
 | 61 | 8% | 19% |  |
-| 62 | 5% | 10% |  |
+| 62 | 5% | 11% |  |
 | 63 | 3% | 5% |  |
 | 64 | 1.4% | 2% |  |
 | 65 | 0.6% | 1.0% |  |
@@ -338,8 +338,8 @@
 | 44 | 9% | 93% |  |
 | 45 | 12% | 84% |  |
 | 46 | 13% | 72% |  |
-| 47 | 13% | 59% | Median |
-| 48 | 12% | 46% |  |
+| 47 | 12% | 59% | Median |
+| 48 | 12% | 47% |  |
 | 49 | 11% | 35% |  |
 | 50 | 9% | 24% |  |
 | 51 | 7% | 15% |  |
@@ -373,7 +373,7 @@
 | 37 | 0.1% | 100% |  |
 | 38 | 0.1% | 99.9% |  |
 | 39 | 0.2% | 99.8% |  |
-| 40 | 0.5% | 99.6% |  |
+| 40 | 0.5% | 99.5% |  |
 | 41 | 1.1% | 99.1% |  |
 | 42 | 3% | 98% |  |
 | 43 | 5% | 95% |  |
@@ -386,7 +386,7 @@
 | 50 | 8% | 17% |  |
 | 51 | 5% | 9% |  |
 | 52 | 3% | 4% |  |
-| 53 | 1.1% | 2% |  |
+| 53 | 1.2% | 2% |  |
 | 54 | 0.5% | 0.7% |  |
 | 55 | 0.2% | 0.2% |  |
 | 56 | 0% | 0.1% |  |
@@ -420,7 +420,7 @@
 | 17 | 0.7% | 99.6% |  |
 | 18 | 2% | 98.9% |  |
 | 19 | 4% | 97% |  |
-| 20 | 7% | 93% |  |
+| 20 | 8% | 93% |  |
 | 21 | 11% | 86% |  |
 | 22 | 14% | 74% |  |
 | 23 | 14% | 61% | Median |
@@ -469,7 +469,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | Bulgaria [⁰](https://github.com/filipvanlaenen/bulgarian_ep_polls/blob/master/average.md)                                    | 17                      | 1                      | Hare-Niemeyer               | 5%        |
 | Croatia [⁰](https://github.com/filipvanlaenen/croatian_ep_polls/blob/master/average.md)                                      | <strike>11</strike> 12¹ | 1                      | D'Hondt                    | 5%        |
 | Cyprus [⁰](https://github.com/filipvanlaenen/cypriot_ep_polls/blob/master/average.md)                                        | 6                       | 1                      | Hare-Niemeyer               | No        |
-| Czech Republic [⁰](https://github.com/filipvanlaenen/czech_ep_polls/blob/master/average.md)                                  | 21                      | 1                      | D'Hondt                    | 5%        |
+| Czech Republic [⁰](https://filipvanlaenen.github.io/czech_ep_polls/average.html)                                             | 21                      | 1                      | D'Hondt                    | 5%        |
 | Denmark [⁰](https://github.com/filipvanlaenen/danish_ep_polls/blob/master/average.md)                                        | <strike>13</strike> 14¹ | 1                      | D'Hondt                    | No        |
 | Estonia [⁰](https://github.com/filipvanlaenen/estonian_ep_polls/blob/master/average.md)                                      | <strike>6</strike> 7¹   | 1                      | D'Hondt                    | No        |
 | Finland [⁰](https://github.com/filipvanlaenen/finnish_ep_polls/blob/master/average.md)                                       | <strike>13</strike> 14¹ | 1                      | D'Hondt                    | No        |
