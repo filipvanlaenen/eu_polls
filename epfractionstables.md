@@ -225,21 +225,21 @@ current EP fractions.
 
 ## Italy
 
-| Party Name             | Abbreviation | EP Fraction | Rationale                                            |
-|:-----------------------|:-------------|:------------|:-----------------------------------------------------|
-| CasaPound Italia       | CPI          | *           | Currently not represented in the European Parliament |
-| Civica Popolare        | CP           | *           | New party                                            |
-| Forza Italia           | FI           | EPP         | Current member                                       |
-| Fratelli d’Italia      | FdI          | *           | Currently not represented in the European Parliament |
-| Insieme                | I            | *           | New party                                            |
-| Lega Nord              | LN           | ENF         | Current member                                       |
-| Liberi e Uguali        | LeU          | S&D         | Current member                                       |
-| Movimento 5 Stelle     | M5S          | EFDD        | Current member                                       |
-| Noi con l’Italia       | NcI          | EPP         | Current member                                       |
-| Partito Democratico    | PD           | S&D         | Current member                                       |
-| Più Europa             | +E           | ALDE        | Current member                                       |
-| Potere al Popolo       | PaP          | GUE/NGL     | Current member                                       |
-| Südtiroler Volkspartei | SVP          | EPP         | Current member                                       |
+| Party Name             | Abbreviation | EP Fraction | Rationale                                                                                          |
+|:-----------------------|:-------------|:------------|:---------------------------------------------------------------------------------------------------|
+| CasaPound Italia       | CPI          | *           | Currently not represented in the European Parliament                                               |
+| Civica Popolare        | CP           | *           | New party                                                                                          |
+| Forza Italia           | FI           | EPP         | Current member                                                                                     |
+| Fratelli d’Italia      | FdI          | ECR         | Currently not represented in the European Parliament, but strong indications that it will join ECR |
+| Insieme                | I            | *           | New party                                                                                          |
+| Lega Nord              | LN           | ENF         | Current member                                                                                     |
+| Liberi e Uguali        | LeU          | S&D         | Current member                                                                                     |
+| Movimento 5 Stelle     | M5S          | EFDD        | Current member                                                                                     |
+| Noi con l’Italia       | NcI          | EPP         | Current member                                                                                     |
+| Partito Democratico    | PD           | S&D         | Current member                                                                                     |
+| Più Europa             | +E           | ALDE        | Current member                                                                                     |
+| Potere al Popolo       | PaP          | GUE/NGL     | Current member                                                                                     |
+| Südtiroler Volkspartei | SVP          | EPP         | Current member                                                                                     |
 
 ## Latvia
 
