@@ -356,7 +356,7 @@ current EP fractions.
 | Državljanska lista                                       | DL           | ALDE        | Current member                                       |
 | Glas za otroke in družine–Nova ljudska stranka Slovenije | GOD–NLS      | *           | New parties                                          |
 | Levica                                                   | Levica       | GUE/NGL     | Current member                                       |
-| Lista Marjana Šarca                                      | LMŠ          | *           | New party                                            |
+| Lista Marjana Šarca                                      | LMŠ          | ALDE        | New party, but with intentions to join ALDE          |
 | Nova Slovenija–Krščanski demokrati                       | NSi          | EPP         | Current member                                       |
 | Pozitivna Slovenija                                      | PS           | *           | Currently not represented in the European Parliament |
 | Slovenska demokratska stranka                            | SDS          | EPP         | Current member                                       |
