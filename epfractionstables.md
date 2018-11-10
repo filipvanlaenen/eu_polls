@@ -284,7 +284,7 @@ current EP fractions.
 | ChristenUnie                            | CU           | ECR         | Current member                                                              |
 | Democraten 66                           | D66          | ALDE        | Current member                                                              |
 | Denk                                    | DENK         | *           | New party; split from Partij van de Arbeid (S&D)                            |
-| Forum voor Democratie                   | FvD          | *           | New party                                                                   |
+| Forum voor Democratie                   | FvD          | ECR         | New party; main candidate has been sitting with ECR                         |
 | GroenLinks                              | GL           | Greens/EFA  | Current member                                                              |
 | Partij van de Arbeid                    | PvdA         | S&D         | Current member                                                              |
 | Partij voor de Dieren                   | PvdD         | GUE/NGL     | Current member                                                              |
