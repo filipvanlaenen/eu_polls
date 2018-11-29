@@ -223,6 +223,21 @@ current EP fractions.
 | MSZP        | MSZP         | S&D         | Current member                                       |
 | Párbeszéd   | Párbeszéd    | Greens/EFA  | Current member                                       |
 
+## Ireland
+
+| Party Name                      | Abbreviation | EP Fraction | Rationale                                       |
+|:--------------------------------|:-------------|:------------|:------------------------------------------------|
+| Fianna Fáil                     | FF           | ALDE        | Current member                                  |
+| Fine Gael                       | FG           | EPP         | Current member                                  |
+| Green Party                     | GP           | Greens/EFA  | Current member                                  |
+| Independent Alliance            | IA           | *           | New party                                       |
+| Independents                    | I            | *           | Independent candidates may join any EP fraction |
+| Labour Party                    | Lab          | S&D         | Current member                                  |
+| Renua Ireland                   | RI           | *           | New party                                       |
+| Sinn Féin                       | SF           | GUE/NGL     | Current member                                  |
+| Social Democrats                | SD           | *           | New party                                       |
+| Solidarity–People Before Profit | S-PBP        | GUE/NGL     | Current member                                  |
+
 ## Italy
 
 | Party Name             | Abbreviation | EP Fraction | Rationale                                                                                          |
