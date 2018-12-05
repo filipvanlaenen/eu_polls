@@ -90,7 +90,7 @@ current EP fractions.
 | Party Name                                                  | Abbreviation | EP Fraction | Rationale                                                                   |
 |:------------------------------------------------------------|:-------------|:------------|:----------------------------------------------------------------------------|
 | ANO 2011                                                    | ANO          | ALDE        | Current member                                                              |
-| Česká pirátská strana                                       | Piráti       | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
+| Česká pirátská strana                                       | Piráti       | *           | Affiliated to the European Pirate Party, whose MEPs are free to join any EP fraction |
 | Česká strana sociálně demokratická                          | ČSSD         | S&D         | Current member                                                              |
 | Komunistická strana Čech a Moravy                           | KSČM         | GUE/NGL     | Current member                                                              |
 | Křesťanská a demokratická unie–Československá strana lidová | KDU–ČSL      | EPP         | Current member                                                              |
