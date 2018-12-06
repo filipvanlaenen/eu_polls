@@ -122,7 +122,7 @@ current EP fractions.
 | Party Name                        | Abbreviation | EP Fraction | Rationale                                            |
 |:----------------------------------|:-------------|:------------|:-----------------------------------------------------|
 | Eesti Keskerakond                 | Kesk         | ALDE        | Current member                                       |
-| Eesti Konservatiivne Rahvaerakond | EKRE         | *           | Currently not represented in the European Parliament |
+| Eesti Konservatiivne Rahvaerakond | EKRE         | NI          | Currently not represented in the European Parliament, but has ties to Jobbik (NI) |
 | Eesti Reformierakond              | Ref          | ALDE        | Current member                                       |
 | Eesti Vabaerakond                 | EVA          | *           | New party                                            |
 | Erakond Eestimaa Rohelised        | Rohelised    | Greens/EFA  | Current member                                       |
