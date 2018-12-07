@@ -260,18 +260,18 @@ current EP fractions.
 
 | Party Name                                                       | Abbreviation | EP Fraction | Rationale                                            |
 |:-----------------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
-| Vienotība                                                        | V            | EPP         | Current member                                       |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | NA           | ECR         | Current member                                       |
-| Sociāldemokrātiskā Partija “Saskaņa”                             | SDPS         | S&D         | Current member                                       |
-| Zaļo un Zemnieku savienība                                       | ZZS          | ALDE        | Current member                                       |
-| Latvijas Krievu savienība                                        | LKS          | Greens/EFA  | Current member                                       |
-| Latvijas Reģionu apvienība                                       | LRA          | *           | Currently not represented in the European Parliament |
-| Latvijas attīstībai                                              | LA           | ALDE        | Current member                                       |
-| No sirds Latvijai                                                | NSL          | *           | New party                                            |
-| Vienoti Latvijai                                                 | VL           | *           | New party                                            |
 | Jaunā konservatīvā partija                                       | JKP          | *           | New party                                            |
 | Kam pieder valsts?                                               | KPV          | *           | New party                                            |
 | Kustība Par!                                                     | PAR          | *           | New party                                            |
+| Latvijas attīstībai                                              | LA           | ALDE        | Current member                                       |
+| Latvijas Krievu savienība                                        | LKS          | Greens/EFA  | Current member                                       |
+| Latvijas Reģionu apvienība                                       | LRA          | *           | Currently not represented in the European Parliament |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | NA           | ECR         | Current member                                       |
+| No sirds Latvijai                                                | NSL          | *           | New party                                            |
+| Sociāldemokrātiskā Partija “Saskaņa”                             | SDPS         | S&D         | Current member                                       |
+| Vienotība                                                        | V            | EPP         | Current member                                       |
+| Vienoti Latvijai                                                 | VL           | *           | New party                                            |
+| Zaļo un Zemnieku savienība                                       | ZZS          | ALDE        | Current member                                       |
 
 ## Lithuania
 
@@ -326,11 +326,11 @@ current EP fractions.
 
 | Party Name                     | Abbreviation | EP Fraction | Rationale      |
 |:-------------------------------|:-------------|:------------|:---------------|
-| Partido Socialista             | PS           | S&D         | Current member |
-| Partido Social Democrata       | PSD          | EPP         | Current member |
+| Bloco de Esquerda              | BE           | GUE/NGL     | Current member |
 | CDS–Partido Popular            | CDS–PP       | EPP         | Current member |
 | Coligação Democrática Unitária | CDU          | GUE/NGL     | Current member |
-| Bloco de Esquerda              | BE           | GUE/NGL     | Current member |
+| Partido Social Democrata       | PSD          | EPP         | Current member |
+| Partido Socialista             | PS           | S&D         | Current member |
 | Pessoas–Animais–Natureza       | PAN          | GUE/NGL     | Current member |
 
 ## Romania
@@ -402,13 +402,13 @@ current EP fractions.
 
 | Party Name                                | Abbreviation | EP Fraction | Rationale      |
 |:------------------------------------------|:-------------|:------------|:---------------|
-| Sveriges socialdemokratiska arbetareparti | S            | S&D         | Current member |
+| Centerpartiet                             | C            | ALDE        | Current member |
+| Feministiskt initiativ                    | Fi           | S&D         | Current member |
+| Kristdemokraterna                         | KD           | EPP         | Current member |
+| Liberalerna                               | L            | ALDE        | Current member |
 | Miljöpartiet de gröna                     | MP           | Greens/EFA  | Current member |
 | Moderata samlingspartiet                  | M            | EPP         | Current member |
-| Liberalerna                               | L            | ALDE        | Current member |
 | Sverigedemokraterna                       | SD           | EFDD        | Current member |
-| Centerpartiet                             | C            | ALDE        | Current member |
+| Sveriges socialdemokratiska arbetareparti | S            | S&D         | Current member |
 | Vänsterpartiet                            | V            | GUE/NGL     | Current member |
-| Kristdemokraterna                         | KD           | EPP         | Current member |
-| Feministiskt initiativ                    | Fi           | S&D         | Current member |
 
