@@ -1,12 +1,48 @@
 # Greens–European Free Alliance
 
-<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+## Seats
 
-## Voting Intentions
-
-Last result: **6.5%** (General Election of 25 May 2014)
+Last result: **45** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
-| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Greens–European Free Alliance | 45 | 41 | 35–45 | 34–46 | 32–47 | 30–49 |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Greens–European Free Alliance.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 27 | 0.1% | 100% |  |
+| 28 | 0.1% | 99.9% |  |
+| 29 | 0.3% | 99.8% |  |
+| 30 | 0.4% | 99.5% |  |
+| 31 | 0.6% | 99.1% |  |
+| 32 | 1.0% | 98% |  |
+| 33 | 2% | 97% |  |
+| 34 | 3% | 96% |  |
+| 35 | 4% | 93% |  |
+| 36 | 6% | 89% |  |
+| 37 | 7% | 83% |  |
+| 38 | 8% | 76% |  |
+| 39 | 9% | 68% |  |
+| 40 | 9% | 59% |  |
+| 41 | 10% | 50% | Median |
+| 42 | 10% | 41% |  |
+| 43 | 9% | 31% |  |
+| 44 | 8% | 22% |  |
+| 45 | 6% | 14% | Last Result |
+| 46 | 4% | 8% |  |
+| 47 | 2% | 4% |  |
+| 48 | 1.0% | 2% |  |
+| 49 | 0.4% | 0.6% |  |
+| 50 | 0.1% | 0.2% |  |
+| 51 | 0% | 0.1% |  |
+| 52 | 0% | 0% |  |
+
+
