@@ -9,6 +9,14 @@ Last result: **25** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Freedom and Direct Democracy | 25 | 44 | 41–47 | 39–48 | 38–49 | 36–51 |
+| Movimento 5 Stelle (EFDD) | | 22 | 20–25 | 20–26 | 19–26 | 18–28 |
+| Alternative für Deutschland (EFDD) | | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
+| Debout la France (EFDD) | | 6 | 5–7 | 5–7 | 0–7 | 0–8 |
+| Partija tvarka ir teisingumas (EFDD) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Les Patriotes (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| Parti Populaire (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| Strana svobodných občanů (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| Wolność (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

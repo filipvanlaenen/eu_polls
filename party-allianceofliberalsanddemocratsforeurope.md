@@ -9,6 +9,52 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Alliance of Liberals and Democrats for Europe | 67 | 94 | 90–99 | 89–100 | 88–101 | 86–103 |
+| La République en marche–Mouvement démocrate (ALDE) | | 19 | 17–21 | 16–22 | 16–23 | 15–25 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
+| FDP (ALDE) | | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
+| ANO 2011 (ALDE) | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| Volkspartij voor Vrijheid en Democratie (ALDE) | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| Fianna Fáil (ALDE) | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Eesti Keskerakond (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Suomen Keskusta (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Venstre (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Centerpartiet (ALDE) | | 2 | 2 | 2 | 2 | 1–3 |
+| Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lista Marjana Šarca (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| MR (ALDE) | | 2 | 2 | 2 | 2 | 2–3 |
+| Open Vld (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Движение за права и свободи (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| 50Plus (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Darbo Partija (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| DéFI (ALDE) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| FREIE WÄHLER (ALDE) | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Latvijas attīstībai (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre (ALDE) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
+| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Istarski demokratski sabor (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Liberal Alliance (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MM (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
+| Progresívne Slovensko (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Stranka modernega centra (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Ένωση Κεντρώων (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Συμμαχία Πολιτών (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
