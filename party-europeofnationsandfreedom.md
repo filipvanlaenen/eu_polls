@@ -8,7 +8,7 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Nations and Freedom | 36 | 59 | 54–63 | 52–65 | 52–66 | 50–68 |
+| Europe of Nations and Freedom | 36 | 59 | 54–63 | 53–65 | 52–66 | 50–68 |
 | Lega Nord (ENF) | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Rassemblement national (ENF) | | 19 | 15–23 | 15–23 | 14–24 | 14–25 |
 | Freiheitliche Partei Österreichs (ENF) | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -39,7 +39,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 100% |  |
 | 49 | 0.2% | 99.9% |  |
-| 50 | 0.7% | 99.7% |  |
+| 50 | 0.6% | 99.7% |  |
 | 51 | 1.4% | 99.0% |  |
 | 52 | 3% | 98% |  |
 | 53 | 4% | 95% |  |
@@ -47,18 +47,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 7% | 85% |  |
 | 56 | 8% | 78% |  |
 | 57 | 9% | 70% |  |
-| 58 | 10% | 60% |  |
-| 59 | 10% | 50% | Median |
-| 60 | 10% | 40% |  |
-| 61 | 9% | 30% |  |
+| 58 | 10% | 61% |  |
+| 59 | 10% | 51% | Median |
+| 60 | 10% | 41% |  |
+| 61 | 9% | 31% |  |
 | 62 | 7% | 22% |  |
-| 63 | 5% | 14% |  |
+| 63 | 5% | 15% |  |
 | 64 | 4% | 9% |  |
-| 65 | 2% | 5% |  |
-| 66 | 1.4% | 3% |  |
+| 65 | 3% | 5% |  |
+| 66 | 1.5% | 3% |  |
 | 67 | 0.8% | 1.4% |  |
 | 68 | 0.4% | 0.6% |  |
-| 69 | 0.1% | 0.2% |  |
+| 69 | 0.2% | 0.2% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 
