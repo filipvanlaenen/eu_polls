@@ -8,8 +8,8 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 131 | 124–137 | 122–139 | 120–140 | 117–143 |
-| Partido Socialista Obrero Español (S&D) | | 16 | 14–19 | 14–20 | 13–20 | 13–21 |
+| Progressive Alliance of Socialists and Democrats | 169 | 130 | 123–137 | 121–139 | 120–140 | 116–143 |
+| Partido Socialista Obrero Español (S&D) | | 16 | 13–19 | 12–20 | 11–20 | 11–21 |
 | Partidul Social Democrat (S&D) | | 14 | 8–15 | 8–16 | 8–16 | 8–17 |
 | SPD (S&D) | | 14 | 13–17 | 12–18 | 12–19 | 11–20 |
 | Partito Democratico (S&D) | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
@@ -18,14 +18,14 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Българска социалистическа партия (S&D) | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Parti socialiste (S&D) | | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
 | Socialdemokraterne (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Partit Laburista (S&D) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | SMER–sociálna demokracia (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sojusz Lewicy Demokratycznej (S&D) | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | MSZP (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| PS (S&D) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| PS (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid (S&D) | | 2 | 2 | 2 | 2 | 1–3 |
 | Socialni demokrati (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 2 | 2 | 2 | 2 | 1–3 |
@@ -33,7 +33,6 @@ Last result: **169** seats (General Election of 25 May 2014)
 | DK (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Lietuvos socialdemokratų partija (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
-| Sotsiaaldemokraatlik Erakond (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | sp.a (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická (S&D) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Δημοκρατικό Κόμμα (S&D) | | 1 | 1 | 1 | 1 | 1 |
@@ -42,6 +41,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Labour Party (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali (S&D) | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
@@ -53,37 +53,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 113 | 0% | 100% |  |
+| 112 | 0% | 100% |  |
+| 113 | 0.1% | 99.9% |  |
 | 114 | 0.1% | 99.9% |  |
-| 115 | 0.1% | 99.9% |  |
-| 116 | 0.2% | 99.8% |  |
-| 117 | 0.3% | 99.6% |  |
-| 118 | 0.4% | 99.3% |  |
-| 119 | 0.7% | 98.9% |  |
-| 120 | 1.0% | 98% |  |
-| 121 | 1.4% | 97% |  |
-| 122 | 2% | 96% |  |
-| 123 | 3% | 94% |  |
-| 124 | 3% | 91% |  |
-| 125 | 4% | 88% |  |
-| 126 | 5% | 84% |  |
-| 127 | 6% | 79% |  |
-| 128 | 7% | 73% |  |
-| 129 | 7% | 66% |  |
-| 130 | 8% | 59% |  |
-| 131 | 8% | 52% | Median |
-| 132 | 8% | 44% |  |
-| 133 | 7% | 36% |  |
-| 134 | 7% | 29% |  |
-| 135 | 6% | 23% |  |
-| 136 | 5% | 17% |  |
+| 115 | 0.1% | 99.8% |  |
+| 116 | 0.2% | 99.7% |  |
+| 117 | 0.4% | 99.4% |  |
+| 118 | 0.6% | 99.0% |  |
+| 119 | 0.8% | 98% |  |
+| 120 | 1.2% | 98% |  |
+| 121 | 2% | 96% |  |
+| 122 | 2% | 95% |  |
+| 123 | 3% | 93% |  |
+| 124 | 4% | 90% |  |
+| 125 | 4% | 86% |  |
+| 126 | 5% | 82% |  |
+| 127 | 6% | 77% |  |
+| 128 | 7% | 71% |  |
+| 129 | 7% | 64% |  |
+| 130 | 7% | 57% | Median |
+| 131 | 8% | 50% |  |
+| 132 | 7% | 42% |  |
+| 133 | 7% | 35% |  |
+| 134 | 6% | 28% |  |
+| 135 | 5% | 21% |  |
+| 136 | 4% | 16% |  |
 | 137 | 4% | 12% |  |
 | 138 | 3% | 8% |  |
-| 139 | 2% | 6% |  |
-| 140 | 1.4% | 4% |  |
+| 139 | 2% | 5% |  |
+| 140 | 1.3% | 3% |  |
 | 141 | 0.9% | 2% |  |
-| 142 | 0.6% | 1.3% |  |
-| 143 | 0.3% | 0.8% |  |
+| 142 | 0.5% | 1.2% |  |
+| 143 | 0.3% | 0.7% |  |
 | 144 | 0.2% | 0.4% |  |
 | 145 | 0.1% | 0.2% |  |
 | 146 | 0.1% | 0.1% |  |
