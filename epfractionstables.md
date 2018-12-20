@@ -335,16 +335,16 @@ current EP fractions.
 
 ## Romania
 
-| Party Name                                   | Abbreviation | EP Fraction | Rationale                                                                                  |
-|:---------------------------------------------|:-------------|:------------|:-------------------------------------------------------------------------------------------|
-| Mișcarea România Împreună                    | RO+          | EPP         | New party, founded by Dacian Cioloș, formerly supported by Partidul Național Liberal (EPP) |
-| Partidul Alianța Liberalilor și Democraților | ALDE         | ALDE        | Current member                                                                             |
-| Partidul Mișcarea Populară                   | PMP          | EPP         | Current member                                                                             |
-| Partidul Național Liberal                    | PNL          | EPP         | Current member                                                                             |
-| Partidul Social Democrat                     | PSD          | S&D         | Current member                                                                             |
-| PRO România                                  | PRO          | ECR         | New party; has one MEP seated in the EP Fraction of ECR                                    |
-| Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member                                                                             |
-| Uniunea Salvați România                      | USR          | *           | New party                                                                                  |
+| Party Name                                   | Abbreviation | EP Fraction | Rationale                                                             |
+|:---------------------------------------------|:-------------|:------------|:----------------------------------------------------------------------|
+| Mișcarea România Împreună                    | RO+          | EPP         | New party; has announced that it will cooperate with the ALDE parties |
+| Partidul Alianța Liberalilor și Democraților | ALDE         | ALDE        | Current member                                                        |
+| Partidul Mișcarea Populară                   | PMP          | EPP         | Current member                                                        |
+| Partidul Național Liberal                    | PNL          | EPP         | Current member                                                        |
+| Partidul Social Democrat                     | PSD          | S&D         | Current member                                                        |
+| PRO România                                  | PRO          | ECR         | New party; has one MEP seated in the EP Fraction of ECR               |
+| Uniunea Democrată Maghiară din România       | UDMR         | EPP         | Current member                                                        |
+| Uniunea Salvați România                      | USR          | ALDE        | New party; has announced that it will cooperate with the ALDE parties |
 
 ## Slovakia
 
