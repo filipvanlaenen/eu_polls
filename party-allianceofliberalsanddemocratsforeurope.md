@@ -8,9 +8,9 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 91–104 | 90–106 | 88–109 |
+| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 91–104 | 90–106 | 88–108 |
 | La République en marche–Mouvement démocrate (ALDE) | | 19 | 17–21 | 16–22 | 16–23 | 15–25 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 12 | 11–15 | 11–15 | 11–17 | 10–18 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | ANO 2011 (ALDE) | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | FDP (ALDE) | | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -33,8 +33,10 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | FREIE WÄHLER (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Latvijas attīstībai (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| Liberal Alliance (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -45,12 +47,10 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Liberal Alliance (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Partit Demòcrata Europeu Català (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
 | Progresívne Slovensko (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -88,15 +88,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
 | 87 | 0.3% | 99.8% |  |
-| 88 | 0.6% | 99.6% |  |
-| 89 | 1.2% | 99.0% |  |
+| 88 | 0.6% | 99.5% |  |
+| 89 | 1.2% | 98.9% |  |
 | 90 | 2% | 98% |  |
 | 91 | 3% | 96% |  |
 | 92 | 5% | 92% |  |
-| 93 | 6% | 88% |  |
+| 93 | 6% | 87% |  |
 | 94 | 8% | 81% |  |
 | 95 | 9% | 73% |  |
-| 96 | 9% | 64% |  |
+| 96 | 9% | 65% |  |
 | 97 | 9% | 55% | Median |
 | 98 | 9% | 46% |  |
 | 99 | 8% | 37% |  |
@@ -107,12 +107,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 3% | 7% |  |
 | 105 | 2% | 5% |  |
 | 106 | 1.2% | 3% |  |
-| 107 | 0.7% | 2% |  |
-| 108 | 0.4% | 0.9% |  |
-| 109 | 0.2% | 0.5% |  |
-| 110 | 0.1% | 0.3% |  |
-| 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0.1% |  |
-| 113 | 0% | 0% |  |
+| 107 | 0.7% | 1.5% |  |
+| 108 | 0.4% | 0.8% |  |
+| 109 | 0.2% | 0.4% |  |
+| 110 | 0.1% | 0.2% |  |
+| 111 | 0% | 0.1% |  |
+| 112 | 0% | 0% |  |
 
 
