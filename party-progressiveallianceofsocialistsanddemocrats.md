@@ -8,19 +8,19 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 130 | 123–136 | 121–138 | 119–139 | 116–142 |
-| Partido Socialista Obrero Español (S&D) | | 16 | 13–19 | 12–20 | 11–20 | 11–20 |
+| Progressive Alliance of Socialists and Democrats | 169 | 130 | 123–137 | 121–138 | 120–140 | 116–142 |
+| Partido Socialista Obrero Español (S&D) | | 16 | 13–19 | 12–20 | 11–20 | 11–21 |
+| SPD (S&D) | | 15 | 13–16 | 13–17 | 12–17 | 11–18 |
 | Partidul Social Democrat (S&D) | | 14 | 8–15 | 8–16 | 8–16 | 8–17 |
-| SPD (S&D) | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Partito Democratico (S&D) | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Partido Socialista (S&D) | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | Sveriges socialdemokratiska arbetareparti (S&D) | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Българска социалистическа партия (S&D) | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Parti socialiste (S&D) | | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
-| Socialdemokraterne (S&D) | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Partit Laburista (S&D) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | SMER–sociálna demokracia (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Socialdemokraterne (S&D) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Sojusz Lewicy Demokratycznej (S&D) | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -34,7 +34,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Lietuvos socialdemokratų partija (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | sp.a (S&D) | | 1 | 1 | 1 | 1 | 1 |
-| Česká strana sociálně demokratická (S&D) | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Česká strana sociálně demokratická (S&D) | | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικό Κόμμα (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Feministiskt initiativ (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Génération·s, le mouvement (S&D) | | 0 | 0 | 0 | 0 | 0–5 |
@@ -54,39 +54,39 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 112 | 0% | 100% |  |
-| 113 | 0.1% | 99.9% |  |
+| 113 | 0% | 99.9% |  |
 | 114 | 0.1% | 99.9% |  |
-| 115 | 0.2% | 99.7% |  |
-| 116 | 0.3% | 99.5% |  |
-| 117 | 0.5% | 99.2% |  |
-| 118 | 0.7% | 98.7% |  |
-| 119 | 1.0% | 98% |  |
-| 120 | 1.5% | 97% |  |
-| 121 | 2% | 96% |  |
-| 122 | 3% | 94% |  |
-| 123 | 3% | 91% |  |
-| 124 | 4% | 87% |  |
-| 125 | 5% | 83% |  |
-| 126 | 6% | 78% |  |
-| 127 | 7% | 72% |  |
-| 128 | 7% | 66% |  |
-| 129 | 8% | 59% |  |
-| 130 | 8% | 51% | Median |
-| 131 | 8% | 44% |  |
-| 132 | 7% | 36% |  |
-| 133 | 7% | 29% |  |
-| 134 | 6% | 22% |  |
-| 135 | 5% | 16% |  |
-| 136 | 4% | 12% |  |
-| 137 | 3% | 8% |  |
-| 138 | 2% | 5% |  |
-| 139 | 1.3% | 3% |  |
-| 140 | 0.8% | 2% |  |
-| 141 | 0.5% | 1.1% |  |
-| 142 | 0.3% | 0.6% |  |
-| 143 | 0.2% | 0.3% |  |
-| 144 | 0.1% | 0.1% |  |
-| 145 | 0% | 0.1% |  |
+| 115 | 0.1% | 99.8% |  |
+| 116 | 0.2% | 99.7% |  |
+| 117 | 0.4% | 99.5% |  |
+| 118 | 0.5% | 99.1% |  |
+| 119 | 0.8% | 98.5% |  |
+| 120 | 1.2% | 98% |  |
+| 121 | 2% | 97% |  |
+| 122 | 2% | 95% |  |
+| 123 | 3% | 93% |  |
+| 124 | 4% | 90% |  |
+| 125 | 4% | 86% |  |
+| 126 | 5% | 82% |  |
+| 127 | 6% | 77% |  |
+| 128 | 7% | 71% |  |
+| 129 | 7% | 64% |  |
+| 130 | 8% | 57% | Median |
+| 131 | 8% | 49% |  |
+| 132 | 8% | 41% |  |
+| 133 | 7% | 34% |  |
+| 134 | 6% | 27% |  |
+| 135 | 6% | 20% |  |
+| 136 | 4% | 15% |  |
+| 137 | 3% | 10% |  |
+| 138 | 3% | 7% |  |
+| 139 | 2% | 4% |  |
+| 140 | 1.1% | 3% |  |
+| 141 | 0.7% | 2% |  |
+| 142 | 0.4% | 0.8% |  |
+| 143 | 0.2% | 0.4% |  |
+| 144 | 0.1% | 0.2% |  |
+| 145 | 0.1% | 0.1% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% |  |
 | 148 | 0% | 0% |  |
