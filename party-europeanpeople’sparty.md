@@ -9,11 +9,11 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | 217 | 176 | 170–182 | 168–184 | 167–186 | 164–189 |
-| CDU (EPP) | | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
+| CDU (EPP) | | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | Platforma Obywatelska (EPP) | | 16 | 12–18 | 12–19 | 11–19 | 11–20 |
 | Fidesz–KDNP (EPP) | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | Les Républicains (EPP) | | 13 | 12–15 | 12–16 | 10–17 | 10–17 |
-| Partido Popular (EPP) | | 13 | 11–17 | 11–17 | 11–17 | 10–18 |
+| Partido Popular (EPP) | | 13 | 11–16 | 11–17 | 11–17 | 10–18 |
 | Forza Italia (EPP) | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | Partidul Național Liberal (EPP) | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -42,7 +42,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -52,7 +52,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | SPOLU–Občianska Demokracia (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Starostové a nezávislí (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Starostové a nezávislí (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | TOP 09 (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -70,18 +70,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 0.1% | 99.9% |  |
 | 163 | 0.2% | 99.8% |  |
 | 164 | 0.3% | 99.7% |  |
-| 165 | 0.6% | 99.4% |  |
+| 165 | 0.5% | 99.4% |  |
 | 166 | 0.9% | 98.8% |  |
 | 167 | 1.4% | 98% |  |
-| 168 | 2% | 96% |  |
+| 168 | 2% | 97% |  |
 | 169 | 3% | 94% |  |
 | 170 | 4% | 92% |  |
 | 171 | 5% | 88% |  |
 | 172 | 6% | 83% |  |
 | 173 | 7% | 77% |  |
 | 174 | 8% | 70% |  |
-| 175 | 8% | 62% |  |
-| 176 | 8% | 54% | Median |
+| 175 | 8% | 63% |  |
+| 176 | 8% | 55% | Median |
 | 177 | 8% | 46% |  |
 | 178 | 8% | 38% |  |
 | 179 | 7% | 31% |  |
@@ -91,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 183 | 3% | 9% |  |
 | 184 | 2% | 6% |  |
 | 185 | 2% | 4% |  |
-| 186 | 1.0% | 3% |  |
+| 186 | 1.1% | 3% |  |
 | 187 | 0.7% | 2% |  |
 | 188 | 0.4% | 1.0% |  |
-| 189 | 0.3% | 0.5% |  |
+| 189 | 0.3% | 0.6% |  |
 | 190 | 0.1% | 0.3% |  |
 | 191 | 0.1% | 0.2% |  |
 | 192 | 0% | 0.1% |  |

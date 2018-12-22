@@ -23,7 +23,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
-| Vox (ECR) | | 1 | 0–6 | 0–6 | 0–6 | 0–7 |
+| Vox (ECR) | | 1 | 0–6 | 0–6 | 0–7 | 0–7 |
 | Обединени Патриоти (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Fratelli d’Italia (ECR) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -41,21 +41,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
 | 45 | 0.5% | 99.8% |  |
-| 46 | 1.0% | 99.3% |  |
+| 46 | 1.1% | 99.3% |  |
 | 47 | 2% | 98% |  |
 | 48 | 3% | 96% |  |
 | 49 | 5% | 93% |  |
 | 50 | 7% | 88% |  |
-| 51 | 8% | 82% |  |
-| 52 | 9% | 74% |  |
+| 51 | 8% | 81% |  |
+| 52 | 9% | 73% |  |
 | 53 | 10% | 64% | Last Result |
 | 54 | 10% | 54% | Median |
 | 55 | 10% | 44% |  |
-| 56 | 9% | 34% |  |
+| 56 | 8% | 34% |  |
 | 57 | 7% | 26% |  |
-| 58 | 6% | 19% |  |
+| 58 | 6% | 18% |  |
 | 59 | 4% | 13% |  |
-| 60 | 3% | 9% |  |
+| 60 | 3% | 8% |  |
 | 61 | 2% | 5% |  |
 | 62 | 1.4% | 3% |  |
 | 63 | 0.8% | 2% |  |
@@ -63,6 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0.3% | 0.6% |  |
 | 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
-| 68 | 0% | 0% |  |
+| 68 | 0% | 0.1% |  |
+| 69 | 0% | 0% |  |
 
 

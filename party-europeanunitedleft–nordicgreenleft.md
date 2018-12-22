@@ -8,7 +8,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 55 | 51–59 | 49–60 | 48–61 | 47–63 |
+| European United Left–Nordic Green Left | 51 | 55 | 51–59 | 50–60 | 49–61 | 47–63 |
 | La France insoumise (GUE/NGL) | | 11 | 9–13 | 8–14 | 7–14 | 7–15 |
 | Unidos Podemos (GUE/NGL) | | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
 | DIE LINKE (GUE/NGL) | | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
@@ -22,7 +22,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
-| Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partij voor de Dieren (GUE/NGL) | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,24 +45,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 45 | 0.1% | 100% |  |
 | 46 | 0.3% | 99.9% |  |
-| 47 | 0.7% | 99.6% |  |
-| 48 | 1.5% | 98.9% |  |
-| 49 | 3% | 97% |  |
+| 47 | 0.6% | 99.6% |  |
+| 48 | 1.3% | 99.0% |  |
+| 49 | 3% | 98% |  |
 | 50 | 4% | 95% |  |
-| 51 | 7% | 90% | Last Result |
-| 52 | 9% | 84% |  |
-| 53 | 11% | 75% |  |
-| 54 | 12% | 64% |  |
-| 55 | 12% | 51% | Median |
-| 56 | 11% | 39% |  |
-| 57 | 9% | 28% |  |
-| 58 | 7% | 18% |  |
-| 59 | 5% | 11% |  |
-| 60 | 3% | 6% |  |
-| 61 | 2% | 3% |  |
-| 62 | 0.9% | 2% |  |
-| 63 | 0.4% | 0.6% |  |
-| 64 | 0.2% | 0.2% |  |
+| 51 | 6% | 91% | Last Result |
+| 52 | 9% | 85% |  |
+| 53 | 11% | 76% |  |
+| 54 | 12% | 65% |  |
+| 55 | 12% | 53% | Median |
+| 56 | 12% | 41% |  |
+| 57 | 10% | 29% |  |
+| 58 | 7% | 19% |  |
+| 59 | 5% | 12% |  |
+| 60 | 3% | 7% |  |
+| 61 | 2% | 4% |  |
+| 62 | 1.0% | 2% |  |
+| 63 | 0.4% | 0.7% |  |
+| 64 | 0.2% | 0.3% |  |
 | 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
 
