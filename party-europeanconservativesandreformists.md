@@ -8,21 +8,22 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 52 | 47–57 | 46–58 | 45–60 | 43–62 |
+| European Conservatives and Reformists | 53 | 54 | 49–59 | 48–60 | 47–62 | 45–64 |
 | Prawo i Sprawiedliwość (ECR) | | 22 | 19–25 | 18–26 | 18–26 | 17–27 |
-| N-VA (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| N-VA (ECR) | | 4 | 4 | 4 | 3–4 | 3–5 |
+| Občanská demokratická strana (ECR) | | 4 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Občanská demokratická strana (ECR) | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Konservatiivne Rahvaerakond (ECR) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Forum voor Democratie (ECR) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | PRO România (ECR) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Sloboda a Solidarita (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Vox (ECR) | | 2 | 0–6 | 0–6 | 0–6 | 0–6 |
 | ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
-| Vox (ECR) | | 1 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Обединени Патриоти (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Fratelli d’Italia (ECR) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -37,31 +38,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.6% | 99.7% |  |
-| 44 | 1.2% | 99.2% |  |
-| 45 | 2% | 98% |  |
-| 46 | 4% | 96% |  |
-| 47 | 5% | 92% |  |
-| 48 | 7% | 87% |  |
-| 49 | 9% | 80% |  |
-| 50 | 10% | 71% |  |
-| 51 | 10% | 62% |  |
-| 52 | 10% | 51% | Median |
-| 53 | 9% | 41% | Last Result |
-| 54 | 8% | 32% |  |
-| 55 | 7% | 24% |  |
-| 56 | 5% | 17% |  |
-| 57 | 4% | 11% |  |
-| 58 | 3% | 7% |  |
-| 59 | 2% | 5% |  |
-| 60 | 1.2% | 3% |  |
-| 61 | 0.7% | 2% |  |
-| 62 | 0.4% | 0.9% |  |
-| 63 | 0.2% | 0.4% |  |
-| 64 | 0.1% | 0.2% |  |
-| 65 | 0.1% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0.2% | 99.9% |  |
+| 45 | 0.5% | 99.8% |  |
+| 46 | 1.0% | 99.3% |  |
+| 47 | 2% | 98% |  |
+| 48 | 3% | 96% |  |
+| 49 | 5% | 93% |  |
+| 50 | 7% | 88% |  |
+| 51 | 8% | 82% |  |
+| 52 | 9% | 74% |  |
+| 53 | 10% | 64% | Last Result |
+| 54 | 10% | 54% | Median |
+| 55 | 10% | 44% |  |
+| 56 | 9% | 34% |  |
+| 57 | 7% | 25% |  |
+| 58 | 6% | 18% |  |
+| 59 | 4% | 12% |  |
+| 60 | 3% | 8% |  |
+| 61 | 2% | 5% |  |
+| 62 | 1.3% | 3% |  |
+| 63 | 0.7% | 2% |  |
+| 64 | 0.4% | 0.8% |  |
+| 65 | 0.2% | 0.4% |  |
+| 66 | 0.1% | 0.2% |  |
+| 67 | 0% | 0.1% |  |
+| 68 | 0% | 0% |  |
 
 
