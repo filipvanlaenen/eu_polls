@@ -119,15 +119,16 @@ current EP fractions.
 
 ## Estonia
 
-| Party Name                        | Abbreviation | EP Fraction | Rationale                                            |
-|:----------------------------------|:-------------|:------------|:-----------------------------------------------------|
-| Eesti Keskerakond                 | Kesk         | ALDE        | Current member                                       |
-| Eesti Konservatiivne Rahvaerakond | EKRE         | NI          | Currently not represented in the European Parliament, but has ties to Jobbik (NI) |
-| Eesti Reformierakond              | Ref          | ALDE        | Current member                                       |
-| Eesti Vabaerakond                 | EVA          | *           | New party                                            |
-| Erakond Eestimaa Rohelised        | Rohelised    | Greens/EFA  | Current member                                       |
-| Isamaa ja Res Publica Liit        | IRL          | EPP         | Current member                                       |
-| Sotsiaaldemokraatlik Erakond      | SDE          | S&D         | Current member                                       |
+| Party Name                        | Abbreviation | EP Fraction | Rationale                                                                 |
+|:----------------------------------|:-------------|:------------|:--------------------------------------------------------------------------|
+| Eesti 200                         | E200         | ALDE        | New party; has ties to ALDE                                               |
+| Eesti Keskerakond                 | Kesk         | ALDE        | Current member                                                            |
+| Eesti Konservatiivne Rahvaerakond | EKRE         | ECR         | Currently not represented in the European Parliament, but has ties to ECR |
+| Eesti Reformierakond              | Ref          | ALDE        | Current member                                                            |
+| Eesti Vabaerakond                 | EVA          | *           | New party                                                                 |
+| Erakond Eestimaa Rohelised        | Rohelised    | Greens/EFA  | Current member                                                            |
+| Isamaa ja Res Publica Liit        | IRL          | EPP         | Current member                                                            |
+| Sotsiaaldemokraatlik Erakond      | SDE          | S&D         | Current member                                                            |
 
 ## Finland
 
