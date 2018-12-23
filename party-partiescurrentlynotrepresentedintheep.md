@@ -8,7 +8,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 16 | 13–19 | 12–20 | 11–20 | 10–22 |
+| Parties currently not represented in the EP | 0 | 16 | 13–19 | 12–19 | 11–20 | 10–22 |
 | Kukiz’15 (*) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
 | Česká pirátská strana (*) | | 3 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Živi zid (*) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -32,7 +32,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Partia Razem (*) | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
-| Résistons! (*) | | 0 | 0 | 0 | 0 | 0–5 |
+| Résistons! (*) | | 0 | 0 | 0 | 0 | 0 |
 | Sininen tulevaisuus (*) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Social Democrats (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -60,20 +60,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.3% | 100% |  |
 | 10 | 1.1% | 99.7% |  |
 | 11 | 2% | 98.6% |  |
-| 12 | 3% | 96% |  |
+| 12 | 3% | 97% |  |
 | 13 | 6% | 93% |  |
 | 14 | 12% | 87% |  |
-| 15 | 17% | 75% |  |
-| 16 | 19% | 58% | Median |
-| 17 | 16% | 39% |  |
-| 18 | 11% | 23% |  |
+| 15 | 17% | 76% |  |
+| 16 | 19% | 59% | Median |
+| 17 | 16% | 40% |  |
+| 18 | 12% | 23% |  |
 | 19 | 7% | 12% |  |
 | 20 | 3% | 5% |  |
-| 21 | 1.3% | 2% |  |
-| 22 | 0.5% | 0.9% |  |
-| 23 | 0.2% | 0.3% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 21 | 1.2% | 2% |  |
+| 22 | 0.4% | 0.5% |  |
+| 23 | 0.1% | 0.2% |  |
+| 24 | 0% | 0% |  |
 
 

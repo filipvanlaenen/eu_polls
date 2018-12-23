@@ -8,12 +8,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 173 | 167–180 | 165–182 | 164–183 | 160–186 |
+| European People’s Party | 217 | 173 | 167–180 | 165–182 | 164–183 | 161–186 |
 | CDU (EPP) | | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | Platforma Obywatelska (EPP) | | 16 | 12–18 | 12–19 | 11–19 | 11–20 |
 | Fidesz–KDNP (EPP) | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | Partido Popular (EPP) | | 13 | 11–16 | 10–16 | 10–17 | 10–17 |
-| Les Républicains (EPP) | | 11 | 8–13 | 7–14 | 7–15 | 5–15 |
+| Les Républicains (EPP) | | 11 | 7–13 | 7–14 | 7–15 | 6–15 |
 | Forza Italia (EPP) | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | Partidul Național Liberal (EPP) | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -38,6 +38,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Kristdemokraterna (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MOST–HÍD (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -46,7 +47,6 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Hrvatska seljačka stranka (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
-| Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -72,19 +72,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.2% | 99.7% |  |
 | 161 | 0.4% | 99.5% |  |
 | 162 | 0.6% | 99.1% |  |
-| 163 | 1.0% | 98% |  |
+| 163 | 0.9% | 98.5% |  |
 | 164 | 1.4% | 98% |  |
 | 165 | 2% | 96% |  |
 | 166 | 3% | 94% |  |
-| 167 | 4% | 91% |  |
+| 167 | 4% | 92% |  |
 | 168 | 4% | 88% |  |
-| 169 | 5% | 83% |  |
+| 169 | 5% | 84% |  |
 | 170 | 6% | 78% |  |
 | 171 | 7% | 72% |  |
 | 172 | 8% | 65% |  |
 | 173 | 8% | 57% | Median |
-| 174 | 8% | 49% |  |
-| 175 | 8% | 41% |  |
+| 174 | 8% | 50% |  |
+| 175 | 8% | 42% |  |
 | 176 | 7% | 34% |  |
 | 177 | 6% | 27% |  |
 | 178 | 5% | 21% |  |
@@ -92,9 +92,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 180 | 3% | 11% |  |
 | 181 | 3% | 8% |  |
 | 182 | 2% | 5% |  |
-| 183 | 1.3% | 3% |  |
+| 183 | 1.3% | 4% |  |
 | 184 | 0.9% | 2% |  |
-| 185 | 0.5% | 1.3% |  |
+| 185 | 0.6% | 1.3% |  |
 | 186 | 0.3% | 0.8% |  |
 | 187 | 0.2% | 0.4% |  |
 | 188 | 0.1% | 0.2% |  |
