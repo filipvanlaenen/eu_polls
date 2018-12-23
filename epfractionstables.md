@@ -5,18 +5,18 @@ current EP fractions.
 
 ## EP Fractions
 
-| EP Fraction Name                                                                                    | Abbreviation |
-|:----------------------------------------------------------------------------------------------------|:-------------|
-| [Alliance of Liberals and Democrats for Europe](party-allianceofliberalsanddemocratsforeurope.html) | ALDE         |
-| [European Conservatives and Reformists](party-europeanconservativesandreformists.html)              | ECR          |
-| European People’s Party                                                                             | EPP          |
-| [European United Left–Nordic Green Left](party-europeanunitedleft%E2%80%93nordicgreenleft.html)     | GUE/NGL      |
-| [Europe of Freedom and Direct Democracy](party-europeoffreedomanddirectdemocracy.html)              | EFDD         |
-| Europe of Nations and Freedom                                                                       | ENF          |
-| [Greens–European Free Alliance](party-greens%E2%80%93europeanfreealliance.html)                     | Greens/EFA   |
-| Progressive Alliance of Socialists and Democrats                                                    | S&D          |
-| Non-Inscrits                                                                                        | NI           |
-| [Parties currently not represented in the EP](party-partiescurrentlynotrepresentedintheep.html)     | *            |
+| EP Fraction Name                                                                                           | Abbreviation |
+|:-----------------------------------------------------------------------------------------------------------|:-------------|
+| [Alliance of Liberals and Democrats for Europe](party-allianceofliberalsanddemocratsforeurope.html)        | ALDE         |
+| [European Conservatives and Reformists](party-europeanconservativesandreformists.html)                     | ECR          |
+| [European People’s Party](party-europeanpeople%E2%80%99sparty.html)                                        | EPP          |
+| [European United Left–Nordic Green Left](party-europeanunitedleft%E2%80%93nordicgreenleft.html)            | GUE/NGL      |
+| [Europe of Freedom and Direct Democracy](party-europeoffreedomanddirectdemocracy.html)                     | EFDD         |
+| [Europe of Nations and Freedom](party-europeofnationsandfreedom.html)                                      | ENF          |
+| [Greens–European Free Alliance](party-greens%E2%80%93europeanfreealliance.html)                            | Greens/EFA   |
+| [Progressive Alliance of Socialists and Democrats](party-progressiveallianceofsocialistsanddemocrats.html) | S&D          |
+| [Non-Inscrits](party-non-inscrits.html)                                                                    | NI           |
+| [Parties currently not represented in the EP](party-partiescurrentlynotrepresentedintheep.html)            | *            |
 
 ## Austria
 
