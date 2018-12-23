@@ -8,9 +8,9 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 55 | 51–59 | 50–60 | 49–61 | 47–63 |
-| La France insoumise (GUE/NGL) | | 11 | 9–13 | 8–14 | 7–14 | 7–15 |
-| Unidos Podemos (GUE/NGL) | | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
+| European United Left–Nordic Green Left | 51 | 54 | 50–57 | 49–58 | 48–59 | 46–61 |
+| La France insoumise (GUE/NGL) | | 10 | 9–11 | 8–13 | 8–13 | 8–14 |
+| Unidos Podemos (GUE/NGL) | | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
 | DIE LINKE (GUE/NGL) | | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Sinn Féin (GUE/NGL) | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -23,13 +23,13 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partij voor de Dieren (GUE/NGL) | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vasemmistoliitto (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
+| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,27 +43,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0.1% | 100% |  |
-| 46 | 0.3% | 99.9% |  |
-| 47 | 0.6% | 99.6% |  |
-| 48 | 1.3% | 99.0% |  |
-| 49 | 3% | 98% |  |
-| 50 | 4% | 95% |  |
-| 51 | 6% | 91% | Last Result |
-| 52 | 9% | 85% |  |
-| 53 | 11% | 76% |  |
-| 54 | 12% | 65% |  |
-| 55 | 12% | 53% | Median |
-| 56 | 12% | 41% |  |
-| 57 | 10% | 29% |  |
-| 58 | 7% | 19% |  |
-| 59 | 5% | 12% |  |
-| 60 | 3% | 7% |  |
-| 61 | 2% | 4% |  |
-| 62 | 1.0% | 2% |  |
-| 63 | 0.4% | 0.7% |  |
-| 64 | 0.2% | 0.3% |  |
-| 65 | 0.1% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.2% | 99.9% |  |
+| 46 | 0.5% | 99.8% |  |
+| 47 | 1.2% | 99.3% |  |
+| 48 | 2% | 98% |  |
+| 49 | 4% | 96% |  |
+| 50 | 7% | 92% |  |
+| 51 | 9% | 85% | Last Result |
+| 52 | 12% | 76% |  |
+| 53 | 13% | 64% |  |
+| 54 | 13% | 50% | Median |
+| 55 | 12% | 37% |  |
+| 56 | 10% | 25% |  |
+| 57 | 7% | 15% |  |
+| 58 | 4% | 8% |  |
+| 59 | 2% | 4% |  |
+| 60 | 1.1% | 2% |  |
+| 61 | 0.5% | 0.8% |  |
+| 62 | 0.2% | 0.3% |  |
+| 63 | 0.1% | 0.1% |  |
+| 64 | 0% | 0% |  |
 
 

@@ -8,21 +8,21 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 91–105 | 90–106 | 88–109 |
-| La République en marche–Mouvement démocrate (ALDE) | | 19 | 17–21 | 16–22 | 16–23 | 15–25 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–102 | 90–104 | 89–105 | 87–108 |
+| La République en marche–Mouvement démocrate (ALDE) | | 18 | 17–22 | 17–22 | 17–22 | 16–25 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 13 | 11–14 | 11–14 | 10–15 | 10–15 |
 | ANO 2011 (ALDE) | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | FDP (ALDE) | | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Fianna Fáil (ALDE) | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Eesti Keskerakond (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| Suomen Keskusta (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Suomen Keskusta (ALDE) | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Salvați România (ALDE) | | 3 | 2–5 | 2–5 | 0–6 | 0–6 |
-| Venstre (ALDE) | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Venstre (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Reformierakond (ALDE) | | 2 | 2 | 2 | 2 | 1–3 |
+| Eesti Reformierakond (ALDE) | | 2 | 2 | 2 | 2 | 2–3 |
 | Lista Marjana Šarca (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | MR (ALDE) | | 2 | 2 | 2 | 2 | 2–3 |
 | Mișcarea România Împreună (ALDE) | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -36,13 +36,13 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Radikale Venstre (ALDE) | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Radikale Venstre (ALDE) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
-| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
-| Eesti 200 (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti 200 (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -55,7 +55,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Progresívne Slovensko (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Ένωση Κεντρώων (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Συμμαχία Πολιτών (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -85,34 +85,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 0% | 100% |  |
 | 83 | 0% | 100% |  |
 | 84 | 0% | 100% |  |
-| 85 | 0% | 100% |  |
-| 86 | 0.1% | 99.9% |  |
-| 87 | 0.2% | 99.9% |  |
-| 88 | 0.5% | 99.6% |  |
-| 89 | 1.0% | 99.1% |  |
-| 90 | 2% | 98% |  |
-| 91 | 3% | 96% |  |
-| 92 | 4% | 94% |  |
-| 93 | 6% | 89% |  |
-| 94 | 7% | 84% |  |
-| 95 | 8% | 77% |  |
-| 96 | 9% | 68% |  |
-| 97 | 9% | 59% | Median |
-| 98 | 9% | 50% |  |
-| 99 | 8% | 41% |  |
-| 100 | 8% | 32% |  |
-| 101 | 7% | 25% |  |
-| 102 | 5% | 18% |  |
-| 103 | 4% | 13% |  |
-| 104 | 3% | 9% |  |
-| 105 | 2% | 6% |  |
-| 106 | 1.4% | 3% |  |
-| 107 | 0.9% | 2% |  |
-| 108 | 0.5% | 1.0% |  |
-| 109 | 0.3% | 0.5% |  |
-| 110 | 0.1% | 0.3% |  |
-| 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0.1% |  |
-| 113 | 0% | 0% |  |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.4% | 99.8% |  |
+| 88 | 0.8% | 99.4% |  |
+| 89 | 1.5% | 98.6% |  |
+| 90 | 3% | 97% |  |
+| 91 | 4% | 95% |  |
+| 92 | 5% | 91% |  |
+| 93 | 7% | 85% |  |
+| 94 | 8% | 78% |  |
+| 95 | 9% | 70% |  |
+| 96 | 9% | 61% |  |
+| 97 | 9% | 52% | Median |
+| 98 | 9% | 43% |  |
+| 99 | 8% | 34% |  |
+| 100 | 7% | 26% |  |
+| 101 | 6% | 20% |  |
+| 102 | 4% | 14% |  |
+| 103 | 3% | 9% |  |
+| 104 | 2% | 6% |  |
+| 105 | 2% | 4% |  |
+| 106 | 1.0% | 2% |  |
+| 107 | 0.6% | 1.2% |  |
+| 108 | 0.3% | 0.6% |  |
+| 109 | 0.2% | 0.3% |  |
+| 110 | 0.1% | 0.1% |  |
+| 111 | 0% | 0% |  |
 
 
