@@ -23,7 +23,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Lietuvos lenkų rinkimų akcija (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Perussuomalaiset (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Perussuomalaiset (ECR) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Fratelli d’Italia (ECR) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -38,7 +38,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.1% | 100% |  |
+| 44 | 0% | 100% |  |
 | 45 | 0.1% | 99.9% |  |
 | 46 | 0.3% | 99.8% |  |
 | 47 | 0.6% | 99.5% |  |
@@ -51,17 +51,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 8% | 79% |  |
 | 55 | 9% | 71% |  |
 | 56 | 10% | 62% |  |
-| 57 | 10% | 52% | Median |
-| 58 | 10% | 42% |  |
+| 57 | 10% | 53% | Median |
+| 58 | 9% | 43% |  |
 | 59 | 9% | 33% |  |
-| 60 | 7% | 24% |  |
-| 61 | 6% | 17% |  |
-| 62 | 4% | 11% |  |
+| 60 | 7% | 25% |  |
+| 61 | 6% | 18% |  |
+| 62 | 4% | 12% |  |
 | 63 | 3% | 7% |  |
 | 64 | 2% | 4% |  |
-| 65 | 1.1% | 2% |  |
-| 66 | 0.6% | 1.0% |  |
-| 67 | 0.3% | 0.4% |  |
+| 65 | 1.2% | 2% |  |
+| 66 | 0.6% | 1.1% |  |
+| 67 | 0.3% | 0.5% |  |
 | 68 | 0.1% | 0.2% |  |
 | 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |

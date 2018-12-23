@@ -8,9 +8,9 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 43 | 39–50 | 37–52 | 36–53 | 34–55 |
+| Greens–European Free Alliance | 45 | 43 | 39–49 | 38–51 | 36–52 | 34–55 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 15–20 | 14–20 | 13–21 | 12–22 |
-| Europe Écologie Les Verts (Greens/EFA) | | 6 | 6–16 | 6–16 | 6–16 | 5–16 |
+| Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–13 | 5–13 | 5–16 | 5–16 |
 | GroenLinks (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Ecolo (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -43,28 +43,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.2% | 99.9% |  |
 | 34 | 0.4% | 99.8% |  |
 | 35 | 0.8% | 99.4% |  |
-| 36 | 1.4% | 98.6% |  |
+| 36 | 1.3% | 98.6% |  |
 | 37 | 2% | 97% |  |
-| 38 | 4% | 95% |  |
-| 39 | 6% | 91% |  |
+| 38 | 3% | 95% |  |
+| 39 | 5% | 92% |  |
 | 40 | 8% | 86% |  |
-| 41 | 10% | 78% |  |
-| 42 | 12% | 67% |  |
-| 43 | 12% | 56% | Median |
-| 44 | 10% | 44% |  |
-| 45 | 8% | 34% | Last Result |
+| 41 | 10% | 79% |  |
+| 42 | 12% | 69% |  |
+| 43 | 12% | 57% | Median |
+| 44 | 10% | 46% |  |
+| 45 | 8% | 35% | Last Result |
 | 46 | 6% | 27% |  |
-| 47 | 4% | 21% |  |
-| 48 | 3% | 17% |  |
-| 49 | 3% | 14% |  |
-| 50 | 3% | 11% |  |
-| 51 | 2% | 9% |  |
-| 52 | 2% | 7% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.3% | 2% |  |
-| 55 | 0.7% | 1.2% |  |
-| 56 | 0.3% | 0.5% |  |
-| 57 | 0.1% | 0.2% |  |
+| 47 | 5% | 21% |  |
+| 48 | 4% | 17% |  |
+| 49 | 3% | 13% |  |
+| 50 | 3% | 10% |  |
+| 51 | 2% | 7% |  |
+| 52 | 2% | 4% |  |
+| 53 | 1.2% | 2% |  |
+| 54 | 0.7% | 1.3% |  |
+| 55 | 0.4% | 0.6% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 
