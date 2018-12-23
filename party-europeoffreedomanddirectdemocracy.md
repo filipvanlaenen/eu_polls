@@ -11,7 +11,7 @@ Last result: **25** seats (General Election of 25 May 2014)
 | Europe of Freedom and Direct Democracy | 25 | 43 | 40–47 | 39–48 | 38–49 | 36–51 |
 | Movimento 5 Stelle (EFDD) | | 22 | 20–25 | 19–26 | 19–26 | 18–28 |
 | Alternative für Deutschland (EFDD) | | 13 | 12–16 | 11–16 | 11–17 | 10–19 |
-| Debout la France (EFDD) | | 6 | 5–8 | 5–8 | 5–8 | 0–11 |
+| Debout la France (EFDD) | | 6 | 5–8 | 5–8 | 5–9 | 0–9 |
 | Partija tvarka ir teisingumas (EFDD) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Patriotes (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -44,18 +44,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 7% | 93% |  |
 | 41 | 10% | 86% |  |
 | 42 | 13% | 76% |  |
-| 43 | 14% | 63% | Median |
-| 44 | 14% | 49% |  |
-| 45 | 12% | 36% |  |
-| 46 | 9% | 24% |  |
-| 47 | 6% | 15% |  |
-| 48 | 4% | 9% |  |
-| 49 | 2% | 5% |  |
-| 50 | 1.2% | 2% |  |
-| 51 | 0.6% | 1.1% |  |
-| 52 | 0.3% | 0.5% |  |
-| 53 | 0.1% | 0.2% |  |
-| 54 | 0% | 0.1% |  |
-| 55 | 0% | 0% |  |
+| 43 | 14% | 62% | Median |
+| 44 | 14% | 48% |  |
+| 45 | 12% | 34% |  |
+| 46 | 9% | 23% |  |
+| 47 | 6% | 14% |  |
+| 48 | 4% | 8% |  |
+| 49 | 2% | 4% |  |
+| 50 | 1.1% | 2% |  |
+| 51 | 0.5% | 0.9% |  |
+| 52 | 0.2% | 0.4% |  |
+| 53 | 0.1% | 0.1% |  |
+| 54 | 0% | 0% |  |
 
 

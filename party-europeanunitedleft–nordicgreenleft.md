@@ -19,7 +19,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -46,11 +46,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 100% |  |
 | 45 | 0.2% | 99.9% |  |
 | 46 | 0.6% | 99.7% |  |
-| 47 | 1.3% | 99.2% |  |
+| 47 | 1.4% | 99.1% |  |
 | 48 | 3% | 98% |  |
 | 49 | 5% | 95% |  |
-| 50 | 7% | 91% |  |
-| 51 | 10% | 84% | Last Result |
+| 50 | 7% | 90% |  |
+| 51 | 10% | 83% | Last Result |
 | 52 | 12% | 74% |  |
 | 53 | 13% | 62% | Median |
 | 54 | 13% | 49% |  |
@@ -59,10 +59,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 6% | 15% |  |
 | 58 | 4% | 9% |  |
 | 59 | 2% | 5% |  |
-| 60 | 1.2% | 2% |  |
+| 60 | 1.3% | 2% |  |
 | 61 | 0.6% | 1.0% |  |
 | 62 | 0.3% | 0.4% |  |
-| 63 | 0.1% | 0.1% |  |
-| 64 | 0% | 0% |  |
+| 63 | 0.1% | 0.2% |  |
+| 64 | 0% | 0.1% |  |
+| 65 | 0% | 0% |  |
 
 
