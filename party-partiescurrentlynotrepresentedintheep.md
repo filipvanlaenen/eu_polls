@@ -8,9 +8,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 16 | 13–19 | 12–19 | 11–20 | 10–22 |
+| Parties currently not represented in the EP | 0 | 16 | 13–19 | 12–20 | 11–20 | 10–22 |
 | Kukiz’15 (*) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
-| Česká pirátská strana (*) | | 3 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Živi zid (*) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Jaunā konservatīvā partija (*) | | 1 | 1 | 1 | 1 | 1 |
 | KPV LV (*) | | 1 | 1 | 1 | 1 | 1–2 |
@@ -59,7 +59,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.3% | 100% |  |
 | 10 | 1.0% | 99.7% |  |
-| 11 | 2% | 98.6% |  |
+| 11 | 2% | 98.7% |  |
 | 12 | 3% | 97% |  |
 | 13 | 6% | 93% |  |
 | 14 | 11% | 87% |  |
@@ -69,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 12% | 24% |  |
 | 19 | 7% | 12% |  |
 | 20 | 3% | 5% |  |
-| 21 | 1.2% | 2% |  |
-| 22 | 0.4% | 0.5% |  |
+| 21 | 1.3% | 2% |  |
+| 22 | 0.4% | 0.6% |  |
 | 23 | 0.1% | 0.2% |  |
 | 24 | 0% | 0% |  |
 

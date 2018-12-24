@@ -31,11 +31,11 @@ Last result: **67** seats (General Election of 25 May 2014)
 | 50Plus (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Darbo Partija (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| FREIE WÄHLER (ALDE) | | 1 | 1 | 1 | 0–2 | 0–2 |
+| FREIE WÄHLER (ALDE) | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Latvijas attīstībai (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0–4 | 0–4 | 0–4 |
@@ -88,26 +88,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.1% | 99.9% |  |
 | 86 | 0.3% | 99.8% |  |
 | 87 | 0.6% | 99.5% |  |
-| 88 | 1.1% | 98.9% |  |
+| 88 | 1.2% | 98.9% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 96% |  |
 | 91 | 4% | 93% |  |
-| 92 | 6% | 89% |  |
-| 93 | 7% | 83% |  |
-| 94 | 8% | 76% |  |
-| 95 | 9% | 68% |  |
-| 96 | 9% | 59% | Median |
-| 97 | 9% | 50% |  |
-| 98 | 8% | 41% |  |
-| 99 | 8% | 32% |  |
-| 100 | 7% | 25% |  |
-| 101 | 5% | 18% |  |
-| 102 | 4% | 13% |  |
-| 103 | 3% | 9% |  |
+| 92 | 6% | 88% |  |
+| 93 | 7% | 82% |  |
+| 94 | 8% | 75% |  |
+| 95 | 9% | 67% |  |
+| 96 | 9% | 58% | Median |
+| 97 | 9% | 48% |  |
+| 98 | 8% | 40% |  |
+| 99 | 7% | 31% |  |
+| 100 | 6% | 24% |  |
+| 101 | 5% | 17% |  |
+| 102 | 4% | 12% |  |
+| 103 | 3% | 8% |  |
 | 104 | 2% | 5% |  |
-| 105 | 1.5% | 3% |  |
-| 106 | 0.9% | 2% |  |
-| 107 | 0.5% | 0.9% |  |
+| 105 | 1.4% | 3% |  |
+| 106 | 0.8% | 2% |  |
+| 107 | 0.4% | 0.8% |  |
 | 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
 | 110 | 0% | 0.1% |  |

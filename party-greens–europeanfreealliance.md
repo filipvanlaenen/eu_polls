@@ -10,7 +10,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | 45 | 43 | 39–49 | 37–51 | 36–52 | 34–55 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 15–20 | 14–20 | 13–21 | 12–22 |
-| Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–13 | 5–13 | 5–16 | 0–16 |
+| Europe Écologie Les Verts (Greens/EFA) | | 6 | 6–13 | 5–13 | 5–16 | 0–16 |
 | GroenLinks (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Ecolo (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -44,18 +44,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.2% | 99.8% |  |
 | 34 | 0.5% | 99.6% |  |
 | 35 | 0.9% | 99.1% |  |
-| 36 | 1.4% | 98% |  |
+| 36 | 2% | 98% |  |
 | 37 | 2% | 97% |  |
-| 38 | 3% | 95% |  |
+| 38 | 4% | 94% |  |
 | 39 | 5% | 91% |  |
-| 40 | 7% | 86% |  |
-| 41 | 10% | 79% |  |
-| 42 | 11% | 69% |  |
-| 43 | 11% | 58% | Median |
-| 44 | 10% | 47% |  |
-| 45 | 8% | 36% | Last Result |
-| 46 | 6% | 28% |  |
-| 47 | 5% | 22% |  |
+| 40 | 8% | 85% |  |
+| 41 | 10% | 78% |  |
+| 42 | 11% | 68% |  |
+| 43 | 11% | 57% | Median |
+| 44 | 10% | 45% |  |
+| 45 | 8% | 35% | Last Result |
+| 46 | 6% | 27% |  |
+| 47 | 5% | 21% |  |
 | 48 | 4% | 17% |  |
 | 49 | 3% | 13% |  |
 | 50 | 3% | 10% |  |
