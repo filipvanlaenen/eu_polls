@@ -212,18 +212,20 @@ current EP fractions.
 
 ## Hungary
 
-| Party Name  | Abbreviation | EP Fraction | Rationale                                            |
-|:------------|:-------------|:------------|:-----------------------------------------------------|
-| DK          | DK           | S&D         | Current member                                       |
-| Együtt      | Együtt       | Greens/EFA  | Current member                                       |
-| Fidesz–KDNP | Fidesz–KDNP  | EPP         | Current member                                       |
-| Jobbik      | Jobbik       | NI          | Current member                                       |
-| LMP         | LMP          | Greens/EFA  | Current member                                       |
-| MKKP        | MKKP         | *           | Currently not represented in the European Parliament |
-| MLP         | MLP          | ALDE        | Current member                                       |
-| MM          | MM           | ALDE        | Current member                                       |
-| MSZP        | MSZP         | S&D         | Current member                                       |
-| Párbeszéd   | Párbeszéd    | Greens/EFA  | Current member                                       |
+| Party Name         | Abbreviation   | EP Fraction | Rationale                                                                    |
+|:-------------------|:---------------|:------------|:-----------------------------------------------------------------------------|
+| DK                 | DK             | S&D         | Current member                                                               |
+| Együtt             | Együtt         | Greens/EFA  | Current member                                                               |
+| Fidesz–KDNP        | Fidesz–KDNP    | EPP         | Current member                                                               |
+| Jobbik             | Jobbik         | NI          | Current member                                                               |
+| LMP                | LMP            | Greens/EFA  | Current member                                                               |
+| Mi Hazánk Mozgalom | Hazánk         | NI          | New party; has ties to Χρυσή Αυγή                                            |
+| MKKP               | MKKP           | NI          | Currently not represented in the European Parliament; has ties to Die PARTEI |
+| MLP                | MLP            | ALDE        | Current member                                                               |
+| MM                 | MM             | ALDE        | Current member                                                               |
+| MSZP               | MSZP           | S&D         | Current member                                                               |
+| MSZP–Párbeszéd     | MSZP–Párbeszéd | S&D         | Electoal alliance of MSZP and Párbeszéd                                      |
+| Párbeszéd          | Párbeszéd      | Greens/EFA  | Current member                                                               |
 
 ## Ireland
 
