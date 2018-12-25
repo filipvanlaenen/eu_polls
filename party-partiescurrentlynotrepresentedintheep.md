@@ -8,7 +8,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 16 | 13–19 | 12–19 | 11–20 | 10–21 |
+| Parties currently not represented in the EP | 0 | 16 | 13–18 | 12–19 | 11–20 | 10–21 |
 | Kukiz’15 (*) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
 | Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Živi zid (*) | | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -26,7 +26,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Centro Partija (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liste Peter Pilz (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| MKKP (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MKKP (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | No sirds Latvijai (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige (*) | | 0 | 0 | 0 | 0 | 0 |
 | Partia Razem (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 1.1% | 99.6% |  |
-| 11 | 2% | 98.5% |  |
-| 12 | 3% | 96% |  |
-| 13 | 6% | 93% |  |
-| 14 | 12% | 87% |  |
-| 15 | 17% | 75% |  |
-| 16 | 19% | 58% | Median |
-| 17 | 16% | 39% |  |
-| 18 | 11% | 22% |  |
-| 19 | 6% | 11% |  |
-| 20 | 3% | 5% |  |
-| 21 | 1.1% | 2% |  |
-| 22 | 0.3% | 0.5% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.4% | 99.9% |  |
+| 10 | 1.3% | 99.5% |  |
+| 11 | 2% | 98% |  |
+| 12 | 4% | 96% |  |
+| 13 | 7% | 92% |  |
+| 14 | 13% | 85% |  |
+| 15 | 18% | 72% |  |
+| 16 | 19% | 53% | Median |
+| 17 | 15% | 34% |  |
+| 18 | 10% | 19% |  |
+| 19 | 5% | 9% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.8% | 1.1% |  |
+| 22 | 0.2% | 0.3% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
