@@ -34,7 +34,6 @@ Last result: **67** seats (General Election of 25 May 2014)
 | FREIE WÄHLER (ALDE) | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Latvijas attīstībai (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -49,6 +48,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MM (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa (ALDE) | | 0 | 0 | 0 | 0 | 0–3 |
@@ -87,21 +87,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.7% |  |
+| 87 | 0.5% | 99.7% |  |
 | 88 | 0.9% | 99.2% |  |
 | 89 | 2% | 98% |  |
-| 90 | 2% | 97% |  |
+| 90 | 3% | 97% |  |
 | 91 | 4% | 94% |  |
-| 92 | 5% | 91% |  |
-| 93 | 7% | 86% |  |
+| 92 | 5% | 90% |  |
+| 93 | 7% | 85% |  |
 | 94 | 8% | 79% |  |
 | 95 | 9% | 71% |  |
-| 96 | 9% | 63% |  |
-| 97 | 9% | 54% | Median |
+| 96 | 9% | 62% |  |
+| 97 | 9% | 53% | Median |
 | 98 | 9% | 44% |  |
-| 99 | 8% | 36% |  |
-| 100 | 7% | 28% |  |
-| 101 | 6% | 21% |  |
+| 99 | 8% | 35% |  |
+| 100 | 7% | 27% |  |
+| 101 | 6% | 20% |  |
 | 102 | 5% | 15% |  |
 | 103 | 4% | 10% |  |
 | 104 | 3% | 7% |  |
