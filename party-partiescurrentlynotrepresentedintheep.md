@@ -8,13 +8,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 16 | 13–18 | 12–19 | 11–20 | 10–21 |
+| Parties currently not represented in the EP | 0 | 16 | 13–19 | 12–20 | 11–20 | 10–22 |
 | Kukiz’15 (*) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
 | Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Živi zid (*) | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Jaunā konservatīvā partija (*) | | 1 | 1 | 1 | 1 | 1 |
 | KPV LV (*) | | 1 | 1 | 1 | 1 | 1–2 |
 | Kustība Par! (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos Centro Partija (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA (*) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -24,7 +25,6 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Independents (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos Centro Partija (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liste Peter Pilz (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | No sirds Latvijai (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -55,22 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.1% | 100% |  |
-| 9 | 0.4% | 99.9% |  |
-| 10 | 1.4% | 99.5% |  |
-| 11 | 2% | 98% |  |
-| 12 | 4% | 96% |  |
-| 13 | 7% | 92% |  |
-| 14 | 13% | 85% |  |
-| 15 | 18% | 71% |  |
-| 16 | 19% | 53% | Median |
-| 17 | 15% | 34% |  |
-| 18 | 10% | 18% |  |
-| 19 | 5% | 8% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.7% | 1.0% |  |
-| 22 | 0.2% | 0.3% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 0.9% | 99.7% |  |
+| 11 | 2% | 98.8% |  |
+| 12 | 3% | 97% |  |
+| 13 | 6% | 94% |  |
+| 14 | 11% | 88% |  |
+| 15 | 16% | 77% |  |
+| 16 | 19% | 61% | Median |
+| 17 | 17% | 42% |  |
+| 18 | 12% | 25% |  |
+| 19 | 7% | 13% |  |
+| 20 | 3% | 5% |  |
+| 21 | 1.3% | 2% |  |
+| 22 | 0.4% | 0.6% |  |
+| 23 | 0.1% | 0.2% |  |
+| 24 | 0% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
