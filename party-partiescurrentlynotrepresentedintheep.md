@@ -8,16 +8,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 15 | 12–18 | 11–18 | 10–19 | 9–20 |
-| Kukiz’15 (*) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
+| Parties currently not represented in the EP | 0 | 13 | 10–16 | 9–17 | 9–17 | 8–18 |
 | Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Kukiz’15 (*) | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Živi zid (*) | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | KPV LV (*) | | 1 | 1 | 1 | 1 | 1–2 |
 | Lietuvos Centro Partija (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA (*) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0 |
-| Denk (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Denk (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independents (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -51,22 +51,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 0.4% | 99.9% |  |
-| 9 | 1.2% | 99.6% |  |
-| 10 | 2% | 98% |  |
-| 11 | 4% | 96% |  |
-| 12 | 7% | 93% |  |
-| 13 | 12% | 86% |  |
-| 14 | 17% | 73% |  |
-| 15 | 19% | 56% | Median |
-| 16 | 16% | 37% |  |
-| 17 | 11% | 22% |  |
-| 18 | 6% | 11% |  |
-| 19 | 3% | 4% |  |
-| 20 | 1.1% | 2% |  |
-| 21 | 0.3% | 0.5% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 2% | 99.7% |  |
+| 9 | 5% | 98% |  |
+| 10 | 8% | 92% |  |
+| 11 | 9% | 85% |  |
+| 12 | 11% | 76% |  |
+| 13 | 16% | 64% | Median |
+| 14 | 18% | 49% |  |
+| 15 | 15% | 30% |  |
+| 16 | 9% | 15% |  |
+| 17 | 4% | 6% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 

@@ -8,25 +8,25 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 57 | 52–62 | 50–64 | 49–65 | 47–67 |
-| Prawo i Sprawiedliwość (ECR) | | 22 | 19–25 | 18–26 | 18–26 | 17–27 |
+| European Conservatives and Reformists | 53 | 58 | 53–63 | 52–65 | 50–66 | 48–68 |
+| Prawo i Sprawiedliwość (ECR) | | 23 | 20–25 | 19–25 | 19–26 | 18–27 |
 | Vox (ECR) | | 5 | 2–6 | 0–7 | 0–7 | 0–7 |
 | N-VA (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Občanská demokratická strana (ECR) | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Forum voor Democratie (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| PRO România (ECR) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Forum voor Democratie (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| PRO România (ECR) | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Sloboda a Solidarita (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| ChristenUnie (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Fratelli d’Italia (ECR) | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες (ECR) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη (ECR) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -38,32 +38,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0% | 100% |  |
-| 45 | 0.1% | 99.9% |  |
-| 46 | 0.3% | 99.8% |  |
-| 47 | 0.5% | 99.6% |  |
-| 48 | 0.9% | 99.1% |  |
-| 49 | 1.4% | 98% |  |
-| 50 | 2% | 97% |  |
-| 51 | 3% | 95% |  |
-| 52 | 4% | 91% |  |
-| 53 | 6% | 87% | Last Result |
-| 54 | 7% | 81% |  |
-| 55 | 8% | 74% |  |
-| 56 | 9% | 66% |  |
-| 57 | 10% | 56% | Median |
-| 58 | 10% | 47% |  |
-| 59 | 9% | 37% |  |
-| 60 | 8% | 28% |  |
-| 61 | 6% | 20% |  |
-| 62 | 5% | 14% |  |
-| 63 | 4% | 9% |  |
-| 64 | 2% | 5% |  |
-| 65 | 1.5% | 3% |  |
-| 66 | 0.8% | 1.4% |  |
-| 67 | 0.4% | 0.6% |  |
-| 68 | 0.2% | 0.2% |  |
-| 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 46 | 0.1% | 100% |  |
+| 47 | 0.2% | 99.9% |  |
+| 48 | 0.4% | 99.7% |  |
+| 49 | 0.7% | 99.3% |  |
+| 50 | 1.2% | 98.5% |  |
+| 51 | 2% | 97% |  |
+| 52 | 3% | 95% |  |
+| 53 | 4% | 92% | Last Result |
+| 54 | 5% | 88% |  |
+| 55 | 7% | 83% |  |
+| 56 | 8% | 76% |  |
+| 57 | 9% | 68% |  |
+| 58 | 10% | 59% | Median |
+| 59 | 10% | 49% |  |
+| 60 | 9% | 39% |  |
+| 61 | 8% | 30% |  |
+| 62 | 7% | 22% |  |
+| 63 | 5% | 15% |  |
+| 64 | 4% | 10% |  |
+| 65 | 3% | 6% |  |
+| 66 | 2% | 3% |  |
+| 67 | 0.9% | 2% |  |
+| 68 | 0.4% | 0.7% |  |
+| 69 | 0.2% | 0.3% |  |
+| 70 | 0.1% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 
