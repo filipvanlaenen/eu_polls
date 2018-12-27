@@ -264,7 +264,9 @@ current EP fractions.
 
 | Party Name                                                       | Abbreviation | EP Fraction | Rationale                                            |
 |:-----------------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
-| Jaunā konservatīvā partija                                       | JKP          | *           | New party                                            |
+| Attīstībai/Par!                                                  | AP!          | ALDE        | Alliance of Kustība Par! and Latvijas attīstībai     |
+| Jaunā konservatīvā partija                                       | JKP          | EPP         | New party; has indicated it will join EPP            |
+| Jaunā Vienotība                                                  | JV           | EPP         | Current member                                       |
 | Kam pieder valsts?                                               | KPV          | *           | New party                                            |
 | Kustība Par!                                                     | PAR          | *           | New party                                            |
 | Latvijas attīstībai                                              | LA           | ALDE        | Current member                                       |
@@ -272,8 +274,8 @@ current EP fractions.
 | Latvijas Reģionu apvienība                                       | LRA          | *           | Currently not represented in the European Parliament |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | NA           | ECR         | Current member                                       |
 | No sirds Latvijai                                                | NSL          | *           | New party                                            |
+| Progresīvie                                                      | P            | S&D         | New party; has indicated it will join S&D            |
 | Sociāldemokrātiskā Partija “Saskaņa”                             | SDPS         | S&D         | Current member                                       |
-| Vienotība                                                        | V            | EPP         | Current member                                       |
 | Vienoti Latvijai                                                 | VL           | *           | New party                                            |
 | Zaļo un Zemnieku savienība                                       | ZZS          | ALDE        | Current member                                       |
 
