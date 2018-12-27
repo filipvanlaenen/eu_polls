@@ -16,10 +16,10 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Forum voor Democratie (ECR) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Forum voor Democratie (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | PRO România (ECR) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Sloboda a Solidarita (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| ChristenUnie (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -51,18 +51,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 7% | 81% |  |
 | 55 | 8% | 74% |  |
 | 56 | 9% | 66% |  |
-| 57 | 10% | 57% | Median |
+| 57 | 10% | 56% | Median |
 | 58 | 10% | 47% |  |
-| 59 | 9% | 38% |  |
-| 60 | 8% | 29% |  |
-| 61 | 7% | 21% |  |
+| 59 | 9% | 37% |  |
+| 60 | 8% | 28% |  |
+| 61 | 6% | 20% |  |
 | 62 | 5% | 14% |  |
 | 63 | 4% | 9% |  |
 | 64 | 2% | 5% |  |
 | 65 | 1.5% | 3% |  |
-| 66 | 0.8% | 1.5% |  |
+| 66 | 0.8% | 1.4% |  |
 | 67 | 0.4% | 0.6% |  |
-| 68 | 0.2% | 0.3% |  |
+| 68 | 0.2% | 0.2% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 

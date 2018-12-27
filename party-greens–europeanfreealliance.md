@@ -8,10 +8,10 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 44 | 39–50 | 38–52 | 37–53 | 34–55 |
+| Greens–European Free Alliance | 45 | 44 | 40–50 | 38–52 | 37–53 | 35–56 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 15–20 | 14–20 | 13–21 | 12–22 |
 | Europe Écologie Les Verts (Greens/EFA) | | 6 | 6–13 | 5–13 | 5–16 | 0–16 |
-| GroenLinks (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| GroenLinks (Greens/EFA) | | 4 | 4 | 4 | 4–5 | 4–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ecolo (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -25,7 +25,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Alternativet (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Alternattiva Demokratika (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Green Party (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | LMP (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Krievu savienība (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -39,33 +39,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0% | 100% |  |
-| 32 | 0.1% | 99.9% |  |
+| 32 | 0% | 100% |  |
 | 33 | 0.1% | 99.9% |  |
-| 34 | 0.3% | 99.7% |  |
-| 35 | 0.7% | 99.4% |  |
-| 36 | 1.2% | 98.7% |  |
-| 37 | 2% | 98% |  |
-| 38 | 3% | 96% |  |
-| 39 | 4% | 93% |  |
-| 40 | 6% | 88% |  |
-| 41 | 9% | 82% |  |
-| 42 | 11% | 73% |  |
-| 43 | 12% | 62% |  |
-| 44 | 11% | 51% | Median |
-| 45 | 9% | 40% | Last Result |
-| 46 | 7% | 31% |  |
-| 47 | 5% | 24% |  |
-| 48 | 4% | 19% |  |
-| 49 | 4% | 15% |  |
-| 50 | 3% | 11% |  |
-| 51 | 3% | 8% |  |
-| 52 | 2% | 5% |  |
-| 53 | 1.4% | 3% |  |
-| 54 | 0.9% | 2% |  |
-| 55 | 0.5% | 0.9% |  |
-| 56 | 0.2% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 34 | 0.2% | 99.8% |  |
+| 35 | 0.4% | 99.6% |  |
+| 36 | 0.9% | 99.2% |  |
+| 37 | 1.4% | 98% |  |
+| 38 | 2% | 97% |  |
+| 39 | 3% | 95% |  |
+| 40 | 5% | 91% |  |
+| 41 | 8% | 86% |  |
+| 42 | 10% | 79% |  |
+| 43 | 12% | 69% |  |
+| 44 | 12% | 57% | Median |
+| 45 | 10% | 45% | Last Result |
+| 46 | 8% | 35% |  |
+| 47 | 6% | 27% |  |
+| 48 | 5% | 21% |  |
+| 49 | 4% | 17% |  |
+| 50 | 3% | 13% |  |
+| 51 | 3% | 10% |  |
+| 52 | 2% | 7% |  |
+| 53 | 2% | 4% |  |
+| 54 | 1.2% | 2% |  |
+| 55 | 0.7% | 1.2% |  |
+| 56 | 0.3% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
