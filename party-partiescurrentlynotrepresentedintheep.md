@@ -8,7 +8,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 13 | 10–16 | 9–17 | 9–17 | 8–18 |
+| Parties currently not represented in the EP | 0 | 14 | 11–16 | 10–17 | 9–17 | 8–19 |
 | Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Kukiz’15 (*) | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Živi zid (*) | | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -30,7 +30,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! (*) | | 0 | 0 | 0 | 0 | 0 |
 | Sininen tulevaisuus (*) | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats (*) | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine (*) | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -51,20 +51,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.3% | 100% |  |
-| 8 | 2% | 99.7% |  |
-| 9 | 5% | 98% |  |
-| 10 | 8% | 92% |  |
-| 11 | 9% | 85% |  |
-| 12 | 11% | 76% |  |
-| 13 | 16% | 64% | Median |
-| 14 | 18% | 49% |  |
-| 15 | 15% | 30% |  |
-| 16 | 9% | 15% |  |
-| 17 | 4% | 6% |  |
-| 18 | 1.3% | 2% |  |
-| 19 | 0.3% | 0.4% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 0.7% | 99.9% |  |
+| 9 | 2% | 99.2% |  |
+| 10 | 3% | 97% |  |
+| 11 | 6% | 94% |  |
+| 12 | 12% | 88% |  |
+| 13 | 19% | 76% |  |
+| 14 | 22% | 57% | Median |
+| 15 | 18% | 35% |  |
+| 16 | 11% | 18% |  |
+| 17 | 5% | 7% |  |
+| 18 | 2% | 2% |  |
+| 19 | 0.4% | 0.6% |  |
+| 20 | 0.1% | 0.2% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
