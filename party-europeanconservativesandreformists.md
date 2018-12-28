@@ -8,12 +8,12 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 58 | 53–64 | 51–65 | 50–66 | 47–69 |
+| European Conservatives and Reformists | 53 | 59 | 53–65 | 52–66 | 51–67 | 48–70 |
 | Prawo i Sprawiedliwość (ECR) | | 22 | 19–26 | 19–26 | 18–27 | 18–28 |
 | Vox (ECR) | | 5 | 2–6 | 0–7 | 0–7 | 0–7 |
 | N-VA (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Občanská demokratická strana (ECR) | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
-| Sverigedemokraterna (ECR) | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond (ECR) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Forum voor Democratie (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -22,10 +22,11 @@ Last result: **53** seats (General Election of 25 May 2014)
 | ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 0–1 | 0–1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Fratelli d’Italia (ECR) | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Lietuvos Centro Partija (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες (ECR) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη (ECR) | | 0 | 0 | 0 | 0 | 0 |
@@ -38,33 +39,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0.1% | 100% |  |
-| 46 | 0.2% | 99.9% |  |
-| 47 | 0.4% | 99.7% |  |
-| 48 | 0.6% | 99.3% |  |
-| 49 | 1.0% | 98.7% |  |
-| 50 | 2% | 98% |  |
-| 51 | 2% | 96% |  |
-| 52 | 3% | 94% |  |
-| 53 | 5% | 90% | Last Result |
-| 54 | 6% | 86% |  |
-| 55 | 7% | 80% |  |
-| 56 | 8% | 73% |  |
-| 57 | 9% | 65% |  |
-| 58 | 9% | 56% | Median |
-| 59 | 9% | 47% |  |
-| 60 | 8% | 38% |  |
-| 61 | 8% | 30% |  |
-| 62 | 6% | 22% |  |
-| 63 | 5% | 16% |  |
-| 64 | 4% | 11% |  |
-| 65 | 3% | 7% |  |
-| 66 | 2% | 4% |  |
-| 67 | 1.1% | 2% |  |
-| 68 | 0.6% | 1.2% |  |
-| 69 | 0.3% | 0.5% |  |
-| 70 | 0.1% | 0.2% |  |
-| 71 | 0.1% | 0.1% |  |
-| 72 | 0% | 0% |  |
+| 46 | 0.1% | 100% |  |
+| 47 | 0.2% | 99.9% |  |
+| 48 | 0.4% | 99.7% |  |
+| 49 | 0.7% | 99.3% |  |
+| 50 | 1.1% | 98.6% |  |
+| 51 | 2% | 98% |  |
+| 52 | 3% | 96% |  |
+| 53 | 4% | 93% | Last Result |
+| 54 | 5% | 90% |  |
+| 55 | 6% | 85% |  |
+| 56 | 7% | 79% |  |
+| 57 | 8% | 72% |  |
+| 58 | 9% | 64% |  |
+| 59 | 9% | 55% | Median |
+| 60 | 9% | 46% |  |
+| 61 | 8% | 37% |  |
+| 62 | 7% | 29% |  |
+| 63 | 6% | 21% |  |
+| 64 | 5% | 15% |  |
+| 65 | 4% | 10% |  |
+| 66 | 3% | 6% |  |
+| 67 | 2% | 4% |  |
+| 68 | 1.1% | 2% |  |
+| 69 | 0.6% | 1.1% |  |
+| 70 | 0.3% | 0.5% |  |
+| 71 | 0.1% | 0.2% |  |
+| 72 | 0.1% | 0.1% |  |
+| 73 | 0% | 0% |  |
 
 

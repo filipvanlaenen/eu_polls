@@ -23,7 +23,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Fine Gael (EPP) | | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | CSU (EPP) | | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
-| Moderata samlingspartiet (EPP) | | 4 | 4 | 4 | 4 | 3–5 |
+| Moderata samlingspartiet (EPP) | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Christen-Democratisch Appèl (EPP) | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -38,22 +38,22 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| SPOLU–Občianska Demokracia (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MOST–HÍD (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
-| MOST–HÍD (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Nova Slovenija–Krščanski demokrati (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| SPOLU–Občianska Demokracia (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Starostové a nezávislí (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | TOP 09 (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Реформаторски блок (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -89,14 +89,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 6% | 24% |  |
 | 180 | 5% | 18% |  |
 | 181 | 4% | 13% |  |
-| 182 | 3% | 9% |  |
-| 183 | 2% | 6% |  |
+| 182 | 3% | 10% |  |
+| 183 | 2% | 7% |  |
 | 184 | 2% | 4% |  |
 | 185 | 1.1% | 3% |  |
 | 186 | 0.7% | 2% |  |
 | 187 | 0.4% | 1.0% |  |
 | 188 | 0.3% | 0.6% |  |
-| 189 | 0.1% | 0.3% |  |
+| 189 | 0.2% | 0.3% |  |
 | 190 | 0.1% | 0.2% |  |
 | 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |
