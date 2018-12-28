@@ -13,7 +13,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | SPD (S&D) | | 14 | 13–16 | 13–17 | 12–17 | 11–18 |
 | Partito Democratico (S&D) | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Partidul Social Democrat (S&D) | | 12 | 8–15 | 8–15 | 8–16 | 8–17 |
-| Partido Socialista (S&D) | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
+| Partido Socialista (S&D) | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | Sveriges socialdemokratiska arbetareparti (S&D) | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Българска социалистическа партия (S&D) | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Parti socialiste (S&D) | | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
@@ -40,7 +40,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Génération·s, le mouvement (S&D) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Labour Party (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali (S&D) | | 0 | 0 | 0 | 0–3 | 0–4 |
-| Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Progresīvie (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -57,8 +57,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 110 | 0.1% | 99.9% |  |
 | 111 | 0.1% | 99.9% |  |
 | 112 | 0.2% | 99.8% |  |
-| 113 | 0.3% | 99.6% |  |
-| 114 | 0.5% | 99.2% |  |
+| 113 | 0.4% | 99.6% |  |
+| 114 | 0.6% | 99.2% |  |
 | 115 | 0.8% | 98.7% |  |
 | 116 | 1.2% | 98% |  |
 | 117 | 2% | 97% |  |
@@ -73,12 +73,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 126 | 7% | 61% |  |
 | 127 | 7% | 54% | Median |
 | 128 | 7% | 47% |  |
-| 129 | 7% | 41% |  |
+| 129 | 7% | 40% |  |
 | 130 | 6% | 34% |  |
 | 131 | 6% | 28% |  |
 | 132 | 5% | 22% |  |
 | 133 | 4% | 17% |  |
-| 134 | 4% | 13% |  |
+| 134 | 3% | 13% |  |
 | 135 | 3% | 9% |  |
 | 136 | 2% | 6% |  |
 | 137 | 1.5% | 4% |  |
