@@ -16,7 +16,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Sinn Féin (GUE/NGL) | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Bloco de Esquerda (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -51,10 +51,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 5% | 95% |  |
 | 50 | 7% | 91% |  |
 | 51 | 10% | 84% | Last Result |
-| 52 | 12% | 73% |  |
+| 52 | 12% | 74% |  |
 | 53 | 14% | 61% | Median |
-| 54 | 13% | 47% |  |
-| 55 | 11% | 34% |  |
+| 54 | 13% | 48% |  |
+| 55 | 12% | 34% |  |
 | 56 | 9% | 23% |  |
 | 57 | 6% | 14% |  |
 | 58 | 4% | 8% |  |

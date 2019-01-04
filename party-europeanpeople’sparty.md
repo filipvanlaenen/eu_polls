@@ -23,7 +23,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Fine Gael (EPP) | | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | CSU (EPP) | | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
-| Moderata samlingspartiet (EPP) | | 4 | 4 | 4 | 4–5 | 3–5 |
+| Moderata samlingspartiet (EPP) | | 4 | 4 | 4 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl (EPP) | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
