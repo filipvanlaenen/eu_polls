@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 90–105 | 89–106 | 87–109 |
+| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 90–104 | 89–106 | 87–108 |
 | La République en marche–Mouvement démocrate (ALDE) | | 18 | 16–21 | 16–21 | 16–21 | 16–22 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
 | ANO 2011 (ALDE) | | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
@@ -18,7 +18,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Democraten 66 (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Suomen Keskusta (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Venstre (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Venstre (ALDE) | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond (ALDE) | | 2 | 2 | 2 | 2 | 2 |
@@ -36,7 +36,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresívne Slovensko (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Radikale Venstre (ALDE) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | .Nowoczesna (ALDE) | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0–4 | 0–4 | 0–4 |
@@ -87,22 +87,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.5% | 99.7% |  |
+| 87 | 0.5% | 99.6% |  |
 | 88 | 0.9% | 99.2% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 97% |  |
 | 91 | 4% | 94% |  |
-| 92 | 5% | 91% |  |
+| 92 | 5% | 90% |  |
 | 93 | 6% | 85% |  |
 | 94 | 8% | 79% |  |
-| 95 | 8% | 72% |  |
+| 95 | 8% | 71% |  |
 | 96 | 9% | 63% |  |
 | 97 | 9% | 54% | Median |
-| 98 | 8% | 46% |  |
+| 98 | 8% | 45% |  |
 | 99 | 8% | 37% |  |
 | 100 | 7% | 29% |  |
-| 101 | 6% | 23% |  |
-| 102 | 5% | 17% |  |
+| 101 | 6% | 22% |  |
+| 102 | 5% | 16% |  |
 | 103 | 4% | 12% |  |
 | 104 | 3% | 8% |  |
 | 105 | 2% | 5% |  |
@@ -112,7 +112,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 0.3% | 0.5% |  |
 | 110 | 0.1% | 0.2% |  |
 | 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0.1% |  |
-| 113 | 0% | 0% |  |
+| 112 | 0% | 0% |  |
 
 
