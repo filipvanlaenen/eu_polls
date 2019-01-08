@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 90–104 | 89–106 | 87–108 |
+| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 90–105 | 89–106 | 87–108 |
 | La République en marche–Mouvement démocrate (ALDE) | | 18 | 16–21 | 16–21 | 16–21 | 16–22 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
 | ANO 2011 (ALDE) | | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
@@ -93,12 +93,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 3% | 97% |  |
 | 91 | 4% | 94% |  |
 | 92 | 5% | 91% |  |
-| 93 | 6% | 85% |  |
+| 93 | 6% | 86% |  |
 | 94 | 8% | 79% |  |
-| 95 | 8% | 71% |  |
+| 95 | 8% | 72% |  |
 | 96 | 9% | 63% |  |
 | 97 | 9% | 54% | Median |
-| 98 | 8% | 45% |  |
+| 98 | 8% | 46% |  |
 | 99 | 8% | 37% |  |
 | 100 | 7% | 29% |  |
 | 101 | 6% | 22% |  |

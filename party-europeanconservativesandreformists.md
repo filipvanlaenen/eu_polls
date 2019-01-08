@@ -12,7 +12,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Prawo i Sprawiedliwość (ECR) | | 23 | 19–26 | 19–26 | 18–27 | 18–28 |
 | Vox (ECR) | | 5 | 2–6 | 0–7 | 0–7 | 0–7 |
 | N-VA (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Občanská demokratická strana (ECR) | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
+| Občanská demokratická strana (ECR) | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Dansk Folkeparti (ECR) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond (ECR) | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -55,7 +55,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 9% | 56% | Median |
 | 60 | 9% | 47% |  |
 | 61 | 8% | 38% |  |
-| 62 | 8% | 30% |  |
+| 62 | 7% | 30% |  |
 | 63 | 6% | 22% |  |
 | 64 | 5% | 16% |  |
 | 65 | 4% | 11% |  |
@@ -63,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 2% | 4% |  |
 | 68 | 1.1% | 2% |  |
 | 69 | 0.6% | 1.2% |  |
-| 70 | 0.3% | 0.6% |  |
+| 70 | 0.3% | 0.5% |  |
 | 71 | 0.1% | 0.2% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
