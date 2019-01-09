@@ -8,9 +8,9 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 90–105 | 89–106 | 87–108 |
+| Alliance of Liberals and Democrats for Europe | 67 | 97 | 92–103 | 90–104 | 89–106 | 87–108 |
 | La République en marche–Mouvement démocrate (ALDE) | | 18 | 16–21 | 16–21 | 16–21 | 16–22 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | ANO 2011 (ALDE) | | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
 | FDP (ALDE) | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
@@ -34,7 +34,6 @@ Last result: **67** seats (General Election of 25 May 2014)
 | FREIE WÄHLER (ALDE) | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresívne Slovensko (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | .Nowoczesna (ALDE) | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -52,6 +51,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | MM (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Partit Demòcrata Europeu Català (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa (ALDE) | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -87,29 +87,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.5% | 99.7% |  |
+| 87 | 0.4% | 99.7% |  |
 | 88 | 0.9% | 99.2% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 97% |  |
 | 91 | 4% | 94% |  |
-| 92 | 5% | 91% |  |
-| 93 | 6% | 86% |  |
+| 92 | 5% | 90% |  |
+| 93 | 6% | 85% |  |
 | 94 | 8% | 79% |  |
-| 95 | 8% | 72% |  |
+| 95 | 8% | 71% |  |
 | 96 | 9% | 63% |  |
 | 97 | 9% | 54% | Median |
-| 98 | 8% | 46% |  |
-| 99 | 8% | 37% |  |
+| 98 | 8% | 45% |  |
+| 99 | 8% | 36% |  |
 | 100 | 7% | 29% |  |
 | 101 | 6% | 22% |  |
 | 102 | 5% | 16% |  |
-| 103 | 4% | 12% |  |
+| 103 | 4% | 11% |  |
 | 104 | 3% | 8% |  |
 | 105 | 2% | 5% |  |
-| 106 | 1.3% | 3% |  |
+| 106 | 1.2% | 3% |  |
 | 107 | 0.8% | 2% |  |
-| 108 | 0.5% | 0.9% |  |
-| 109 | 0.2% | 0.5% |  |
+| 108 | 0.4% | 0.9% |  |
+| 109 | 0.2% | 0.4% |  |
 | 110 | 0.1% | 0.2% |  |
 | 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0% |  |
