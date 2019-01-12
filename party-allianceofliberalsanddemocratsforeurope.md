@@ -31,7 +31,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Attīstībai/Par! (ALDE) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Darbo Partija (ALDE) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| FREIE WÄHLER (ALDE) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| FREIE WÄHLER (ALDE) | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Liberalerna (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 5% | 90% |  |
 | 93 | 7% | 85% |  |
 | 94 | 8% | 78% |  |
-| 95 | 9% | 70% |  |
+| 95 | 9% | 69% |  |
 | 96 | 10% | 60% |  |
 | 97 | 10% | 50% | Median |
 | 98 | 9% | 40% |  |
@@ -106,7 +106,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 3% | 7% |  |
 | 104 | 2% | 4% |  |
 | 105 | 1.1% | 2% |  |
-| 106 | 0.7% | 1.4% |  |
+| 106 | 0.6% | 1.3% |  |
 | 107 | 0.4% | 0.7% |  |
 | 108 | 0.2% | 0.3% |  |
 | 109 | 0.1% | 0.2% |  |
