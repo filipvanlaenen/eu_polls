@@ -332,6 +332,7 @@ current EP fractions.
 
 | Party Name                     | Abbreviation | EP Fraction | Rationale      |
 |:-------------------------------|:-------------|:------------|:---------------|
+| Aliança                        | A            | *           | New party      |
 | Bloco de Esquerda              | BE           | GUE/NGL     | Current member |
 | CDS–Partido Popular            | CDS–PP       | EPP         | Current member |
 | Coligação Democrática Unitária | CDU          | GUE/NGL     | Current member |
