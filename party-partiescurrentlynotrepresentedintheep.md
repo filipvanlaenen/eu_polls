@@ -23,7 +23,6 @@ Last result: **0** seats (General Election of 25 May 2014)
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0 |
 | Liste Peter Pilz (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| No sirds Latvijai (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige (*) | | 0 | 0 | 0 | 0 | 0 |
 | Partia Razem (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -33,7 +32,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Social Democrats (*) | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine (*) | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Воля (*) | | 0 | 0 | 0 | 0 | 0 |
+| Воля (*) | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -51,17 +50,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 1.2% | 99.8% |  |
-| 9 | 3% | 98.6% |  |
+| 8 | 1.1% | 99.8% |  |
+| 9 | 3% | 98.7% |  |
 | 10 | 4% | 96% |  |
 | 11 | 7% | 92% |  |
 | 12 | 15% | 84% |  |
-| 13 | 22% | 70% | Median |
+| 13 | 21% | 70% | Median |
 | 14 | 22% | 48% |  |
 | 15 | 15% | 27% |  |
-| 16 | 8% | 11% |  |
+| 16 | 8% | 12% |  |
 | 17 | 3% | 4% |  |
-| 18 | 0.8% | 1.0% |  |
+| 18 | 0.8% | 1.1% |  |
 | 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
