@@ -8,13 +8,13 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 175 | 168–181 | 166–183 | 165–184 | 162–187 |
+| European People’s Party | 217 | 175 | 168–181 | 167–183 | 165–184 | 162–187 |
 | CDU (EPP) | | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | Platforma Obywatelska (EPP) | | 16 | 14–19 | 14–19 | 13–20 | 13–21 |
 | Fidesz–KDNP (EPP) | | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
 | Partido Popular (EPP) | | 12 | 11–15 | 10–16 | 10–16 | 10–17 |
 | Les Républicains (EPP) | | 10 | 7–13 | 7–14 | 7–15 | 6–15 |
-| Partidul Național Liberal (EPP) | | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
+| Partidul Național Liberal (EPP) | | 9 | 7–10 | 7–10 | 6–10 | 6–11 |
 | Forza Italia (EPP) | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Österreichische Volkspartei (EPP) | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 0.3% | 99.7% |  |
 | 163 | 0.5% | 99.4% |  |
 | 164 | 0.8% | 98.9% |  |
-| 165 | 1.3% | 98% |  |
+| 165 | 1.2% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 3% | 95% |  |
 | 168 | 3% | 92% |  |
@@ -81,8 +81,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 6% | 79% |  |
 | 172 | 7% | 73% |  |
 | 173 | 8% | 66% |  |
-| 174 | 8% | 59% |  |
-| 175 | 8% | 51% | Median |
+| 174 | 8% | 58% |  |
+| 175 | 8% | 50% | Median |
 | 176 | 8% | 43% |  |
 | 177 | 7% | 35% |  |
 | 178 | 6% | 28% |  |
@@ -91,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 4% | 12% |  |
 | 182 | 3% | 8% |  |
 | 183 | 2% | 6% |  |
-| 184 | 1.4% | 4% |  |
+| 184 | 1.3% | 4% |  |
 | 185 | 0.9% | 2% |  |
-| 186 | 0.6% | 1.4% |  |
-| 187 | 0.4% | 0.8% |  |
+| 186 | 0.6% | 1.3% |  |
+| 187 | 0.3% | 0.8% |  |
 | 188 | 0.2% | 0.4% |  |
 | 189 | 0.1% | 0.2% |  |
 | 190 | 0.1% | 0.1% |  |
