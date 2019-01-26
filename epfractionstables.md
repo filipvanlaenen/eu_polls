@@ -201,6 +201,7 @@ current EP fractions.
 |:------------------------------------|:-------------|:------------|:---------------|
 | Ανεξάρτητοι Έλληνες                 | ΑΝΕΛ         | ECR         | Current member |
 | Ένωση Κεντρώων                      | ΕΚ           | ALDE        | Current member |
+| Ελληνική Λύση                       | ΕΛ           | *           | New party      |
 | Κίνημα Αλλαγής                      | ΚΑ           | S&D         | Current member |
 | Κομμουνιστικό Κόμμα Ελλάδας         | ΚΚΕ          | NI          | Current member |
 | Λαϊκή Ενότητα                       | ΛΑΕ          | GUE/NGL     | Current member |
