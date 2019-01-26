@@ -8,13 +8,13 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 44 | 40–50 | 39–52 | 38–53 | 36–56 |
-| BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
-| Europe Écologie Les Verts (Greens/EFA) | | 6 | 6–13 | 5–13 | 5–16 | 0–16 |
+| Greens–European Free Alliance | 45 | 44 | 41–50 | 40–52 | 39–53 | 36–55 |
+| BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
+| Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–13 | 6–13 | 5–16 | 0–16 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ecolo (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Groen (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto (Greens/EFA) | | 2 | 2 | 2 | 2 | 2–3 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,30 +39,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
+| 33 | 0% | 100% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.2% | 99.8% |  |
-| 36 | 0.4% | 99.6% |  |
-| 37 | 0.8% | 99.2% |  |
-| 38 | 2% | 98% |  |
-| 39 | 3% | 97% |  |
-| 40 | 5% | 94% |  |
-| 41 | 8% | 88% |  |
-| 42 | 11% | 80% |  |
-| 43 | 12% | 70% |  |
-| 44 | 12% | 58% | Median |
-| 45 | 10% | 46% | Last Result |
-| 46 | 8% | 36% |  |
-| 47 | 6% | 28% |  |
-| 48 | 5% | 22% |  |
-| 49 | 4% | 17% |  |
-| 50 | 4% | 13% |  |
-| 51 | 3% | 10% |  |
-| 52 | 2% | 7% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.7% | 1.2% |  |
-| 56 | 0.3% | 0.6% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0.2% | 99.7% |  |
+| 37 | 0.5% | 99.5% |  |
+| 38 | 1.0% | 99.0% |  |
+| 39 | 2% | 98% |  |
+| 40 | 4% | 96% |  |
+| 41 | 7% | 92% |  |
+| 42 | 10% | 85% |  |
+| 43 | 12% | 75% |  |
+| 44 | 13% | 62% | Median |
+| 45 | 12% | 49% | Last Result |
+| 46 | 10% | 37% |  |
+| 47 | 7% | 27% |  |
+| 48 | 5% | 20% |  |
+| 49 | 4% | 15% |  |
+| 50 | 3% | 11% |  |
+| 51 | 3% | 8% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.5% | 3% |  |
+| 54 | 0.9% | 2% |  |
+| 55 | 0.5% | 1.0% |  |
+| 56 | 0.3% | 0.4% |  |
 | 57 | 0.1% | 0.2% |  |
 | 58 | 0% | 0.1% |  |
 | 59 | 0% | 0% |  |

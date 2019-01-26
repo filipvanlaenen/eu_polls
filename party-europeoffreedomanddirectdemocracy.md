@@ -8,10 +8,10 @@ Last result: **25** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 25 | 43 | 40–46 | 39–47 | 38–48 | 36–50 |
+| Europe of Freedom and Direct Democracy | 25 | 43 | 39–46 | 38–47 | 37–48 | 36–49 |
 | Movimento 5 Stelle (EFDD) | | 22 | 20–24 | 19–25 | 18–26 | 17–27 |
-| Alternative für Deutschland (EFDD) | | 13 | 12–15 | 11–15 | 10–15 | 10–16 |
-| Debout la France (EFDD) | | 7 | 5–8 | 5–8 | 5–9 | 0–9 |
+| Alternative für Deutschland (EFDD) | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| Debout la France (EFDD) | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Partija tvarka ir teisingumas (EFDD) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Patriotes (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -35,24 +35,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 0.1% | 99.9% |  |
-| 35 | 0.2% | 99.8% |  |
-| 36 | 0.5% | 99.6% |  |
-| 37 | 1.2% | 99.1% |  |
-| 38 | 3% | 98% |  |
-| 39 | 5% | 95% |  |
-| 40 | 8% | 90% |  |
-| 41 | 12% | 82% |  |
-| 42 | 15% | 70% |  |
-| 43 | 15% | 56% | Median |
-| 44 | 14% | 40% |  |
-| 45 | 11% | 26% |  |
-| 46 | 7% | 15% |  |
-| 47 | 4% | 8% |  |
-| 48 | 2% | 4% |  |
-| 49 | 0.9% | 1.5% |  |
-| 50 | 0.4% | 0.5% |  |
-| 51 | 0.1% | 0.2% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.2% | 99.9% |  |
+| 36 | 0.6% | 99.6% |  |
+| 37 | 2% | 99.0% |  |
+| 38 | 3% | 97% |  |
+| 39 | 6% | 94% |  |
+| 40 | 9% | 88% |  |
+| 41 | 12% | 79% |  |
+| 42 | 15% | 67% |  |
+| 43 | 15% | 52% | Median |
+| 44 | 13% | 37% |  |
+| 45 | 10% | 24% |  |
+| 46 | 7% | 14% |  |
+| 47 | 4% | 7% |  |
+| 48 | 2% | 3% |  |
+| 49 | 0.8% | 1.2% |  |
+| 50 | 0.3% | 0.4% |  |
+| 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
 
