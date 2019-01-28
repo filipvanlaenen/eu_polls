@@ -16,7 +16,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Partido Socialista (S&D) | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sveriges socialdemokratiska arbetareparti (S&D) | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Българска социалистическа партия (S&D) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| Parti socialiste (S&D) | | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
+| Parti socialiste (S&D) | | 5 | 0–6 | 0–7 | 0–7 | 0–8 |
 | Socialdemokraterne (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Partit Laburista (S&D) | | 4 | 4 | 4 | 4 | 3–4 |
@@ -69,17 +69,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 123 | 6% | 72% |  |
 | 124 | 7% | 66% |  |
 | 125 | 7% | 59% |  |
-| 126 | 7% | 53% | Median |
-| 127 | 7% | 46% |  |
+| 126 | 7% | 52% | Median |
+| 127 | 7% | 45% |  |
 | 128 | 6% | 39% |  |
-| 129 | 6% | 33% |  |
-| 130 | 5% | 27% |  |
+| 129 | 6% | 32% |  |
+| 130 | 5% | 26% |  |
 | 131 | 5% | 21% |  |
 | 132 | 4% | 16% |  |
 | 133 | 3% | 12% |  |
 | 134 | 3% | 9% |  |
 | 135 | 2% | 6% |  |
-| 136 | 1.5% | 4% |  |
+| 136 | 1.4% | 4% |  |
 | 137 | 1.0% | 3% |  |
 | 138 | 0.7% | 2% |  |
 | 139 | 0.4% | 0.9% |  |
