@@ -8,9 +8,9 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 174 | 168–181 | 167–182 | 165–184 | 162–187 |
+| European People’s Party | 217 | 175 | 169–181 | 167–183 | 165–184 | 162–187 |
 | CDU (EPP) | | 25 | 23–27 | 22–27 | 22–27 | 20–28 |
-| Platforma Obywatelska (EPP) | | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
+| Platforma Obywatelska (EPP) | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
 | Fidesz–KDNP (EPP) | | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
 | Partido Popular (EPP) | | 12 | 11–15 | 10–16 | 10–16 | 10–17 |
 | Les Républicains (EPP) | | 11 | 8–13 | 7–13 | 7–13 | 6–14 |
@@ -24,7 +24,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Fine Gael (EPP) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Moderata samlingspartiet (EPP) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| Christen-Democratisch Appèl (EPP) | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Christen-Democratisch Appèl (EPP) | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Polskie Stronnictwo Ludowe (EPP) | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -37,7 +37,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Kristdemokraterna (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | MOST–HÍD (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,34 +68,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 159 | 0% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.2% | 99.8% |  |
-| 162 | 0.3% | 99.7% |  |
-| 163 | 0.5% | 99.4% |  |
-| 164 | 0.8% | 99.0% |  |
-| 165 | 1.2% | 98% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.2% | 99.7% |  |
+| 163 | 0.4% | 99.5% |  |
+| 164 | 0.7% | 99.1% |  |
+| 165 | 1.1% | 98% |  |
 | 166 | 2% | 97% |  |
-| 167 | 2% | 95% |  |
+| 167 | 2% | 96% |  |
 | 168 | 3% | 93% |  |
-| 169 | 4% | 89% |  |
-| 170 | 5% | 85% |  |
-| 171 | 6% | 80% |  |
-| 172 | 7% | 73% |  |
-| 173 | 8% | 66% |  |
-| 174 | 8% | 58% | Median |
-| 175 | 8% | 50% |  |
-| 176 | 8% | 42% |  |
-| 177 | 7% | 34% |  |
-| 178 | 6% | 27% |  |
-| 179 | 5% | 20% |  |
-| 180 | 4% | 15% |  |
-| 181 | 3% | 11% |  |
-| 182 | 2% | 7% |  |
+| 169 | 4% | 90% |  |
+| 170 | 5% | 86% |  |
+| 171 | 6% | 81% |  |
+| 172 | 7% | 75% |  |
+| 173 | 8% | 68% |  |
+| 174 | 8% | 60% |  |
+| 175 | 8% | 52% | Median |
+| 176 | 8% | 43% |  |
+| 177 | 7% | 36% |  |
+| 178 | 7% | 28% |  |
+| 179 | 6% | 22% |  |
+| 180 | 5% | 16% |  |
+| 181 | 4% | 11% |  |
+| 182 | 3% | 8% |  |
 | 183 | 2% | 5% |  |
-| 184 | 1.2% | 3% |  |
+| 184 | 1.3% | 3% |  |
 | 185 | 0.8% | 2% |  |
-| 186 | 0.5% | 1.1% |  |
-| 187 | 0.3% | 0.6% |  |
-| 188 | 0.2% | 0.3% |  |
+| 186 | 0.5% | 1.2% |  |
+| 187 | 0.3% | 0.7% |  |
+| 188 | 0.2% | 0.4% |  |
 | 189 | 0.1% | 0.2% |  |
 | 190 | 0% | 0.1% |  |
 | 191 | 0% | 0% |  |
