@@ -318,16 +318,16 @@ current EP fractions.
 
 ## Poland
 
-| Party Name                   | Abbreviation | EP Fraction | Rationale      |
-|:-----------------------------|:-------------|:------------|:---------------|
-| Kukiz’15                     | K            | *           | New party      |
-| .Nowoczesna                  | .N           | ALDE        | Current member |
-| Partia Razem                 | R            | *           | New party      |
-| Platforma Obywatelska        | PO           | EPP         | Current member |
-| Polskie Stronnictwo Ludowe   | PSL          | EPP         | Current member |
-| Prawo i Sprawiedliwość       | PiS          | ECR         | Current member |
-| Sojusz Lewicy Demokratycznej | SLD          | S&D         | Current member |
-| Wolność                      | W            | EFDD        | Current member |
+| Party Name                   | Abbreviation | EP Fraction | Rationale                            |
+|:-----------------------------|:-------------|:------------|:-------------------------------------|
+| KORWiN                       | W            | EFDD        | Current member                       |
+| Kukiz’15                     | K            | EFDD        | New party; has informal ties to EFDD |
+| .Nowoczesna                  | .N           | ALDE        | Current member                       |
+| Partia Razem                 | R            | *           | New party                            |
+| Platforma Obywatelska        | PO           | EPP         | Current member                       |
+| Polskie Stronnictwo Ludowe   | PSL          | EPP         | Current member                       |
+| Prawo i Sprawiedliwość       | PiS          | ECR         | Current member                       |
+| Sojusz Lewicy Demokratycznej | SLD          | S&D         | Current member                       |
 
 ## Portugal
 
