@@ -40,7 +40,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | .Nowoczesna (ALDE) | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Amsterdamska koalicija (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Amsterdamska koalicija (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -87,7 +87,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0.1% | 99.9% |  |
 | 85 | 0.3% | 99.8% |  |
 | 86 | 0.5% | 99.5% |  |
-| 87 | 0.9% | 99.0% |  |
+| 87 | 1.0% | 99.0% |  |
 | 88 | 2% | 98% |  |
 | 89 | 2% | 96% |  |
 | 90 | 3% | 94% |  |
@@ -95,19 +95,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 6% | 86% |  |
 | 93 | 7% | 80% |  |
 | 94 | 8% | 73% |  |
-| 95 | 9% | 66% |  |
+| 95 | 9% | 65% |  |
 | 96 | 9% | 57% | Median |
 | 97 | 9% | 48% |  |
-| 98 | 8% | 40% |  |
+| 98 | 8% | 39% |  |
 | 99 | 7% | 31% |  |
 | 100 | 6% | 24% |  |
 | 101 | 5% | 18% |  |
-| 102 | 4% | 13% |  |
-| 103 | 3% | 9% |  |
+| 102 | 4% | 12% |  |
+| 103 | 3% | 8% |  |
 | 104 | 2% | 6% |  |
 | 105 | 1.4% | 3% |  |
 | 106 | 0.9% | 2% |  |
-| 107 | 0.5% | 1.2% |  |
+| 107 | 0.5% | 1.1% |  |
 | 108 | 0.3% | 0.6% |  |
 | 109 | 0.2% | 0.3% |  |
 | 110 | 0.1% | 0.2% |  |
