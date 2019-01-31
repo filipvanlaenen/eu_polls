@@ -8,51 +8,50 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 175 | 168–181 | 167–182 | 165–184 | 162–187 |
+| European People’s Party | 217 | 173 | 165–179 | 163–181 | 162–183 | 159–186 |
 | CDU (EPP) | | 25 | 23–27 | 22–27 | 22–27 | 20–28 |
-| Platforma Obywatelska (EPP) | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
+| Platforma Obywatelska (EPP) | | 17 | 15–18 | 14–18 | 14–18 | 14–18 |
 | Fidesz–KDNP (EPP) | | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
 | Partido Popular (EPP) | | 12 | 11–15 | 10–16 | 10–16 | 10–17 |
 | Les Républicains (EPP) | | 11 | 8–13 | 7–13 | 7–13 | 6–14 |
-| Partidul Național Liberal (EPP) | | 9 | 7–10 | 7–10 | 6–10 | 6–11 |
 | Forza Italia (EPP) | | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Partido Social Democrata (EPP) | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| Partidul Național Liberal (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | CSU (EPP) | | 5 | 4–5 | 4–6 | 3–6 | 3–7 |
 | Fine Gael (EPP) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Moderata samlingspartiet (EPP) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Moderata samlingspartiet (EPP) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl (EPP) | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Polskie Stronnictwo Ludowe (EPP) | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Polskie Stronnictwo Ludowe (EPP) | | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Slovenska demokratska stranka (EPP) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Kristdemokraterna (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Jaunā konservatīvā partija (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Kristdemokraterna (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| MOST–HÍD (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
+| MOST–HÍD (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| SPOLU–Občianska Demokracia (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| SPOLU–Občianska Demokracia (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Starostové a nezávislí (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Демократична България (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,38 +65,42 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
-| 160 | 0.1% | 99.9% |  |
-| 161 | 0.1% | 99.8% |  |
-| 162 | 0.3% | 99.7% |  |
-| 163 | 0.5% | 99.4% |  |
-| 164 | 0.7% | 99.0% |  |
-| 165 | 1.1% | 98% |  |
-| 166 | 2% | 97% |  |
-| 167 | 2% | 95% |  |
-| 168 | 3% | 93% |  |
-| 169 | 4% | 90% |  |
-| 170 | 5% | 85% |  |
-| 171 | 6% | 80% |  |
-| 172 | 7% | 74% |  |
-| 173 | 8% | 66% |  |
-| 174 | 8% | 59% |  |
-| 175 | 8% | 50% | Median |
-| 176 | 8% | 42% |  |
-| 177 | 7% | 34% |  |
-| 178 | 6% | 27% |  |
-| 179 | 5% | 21% |  |
-| 180 | 4% | 15% |  |
-| 181 | 3% | 11% |  |
-| 182 | 3% | 7% |  |
-| 183 | 2% | 5% |  |
-| 184 | 1.2% | 3% |  |
-| 185 | 0.8% | 2% |  |
-| 186 | 0.5% | 1.1% |  |
-| 187 | 0.3% | 0.6% |  |
-| 188 | 0.2% | 0.3% |  |
-| 189 | 0.1% | 0.2% |  |
-| 190 | 0% | 0.1% |  |
+| 155 | 0% | 100% |  |
+| 156 | 0.1% | 99.9% |  |
+| 157 | 0.1% | 99.9% |  |
+| 158 | 0.2% | 99.7% |  |
+| 159 | 0.3% | 99.5% |  |
+| 160 | 0.5% | 99.2% |  |
+| 161 | 0.8% | 98.6% |  |
+| 162 | 1.2% | 98% |  |
+| 163 | 2% | 97% |  |
+| 164 | 2% | 95% |  |
+| 165 | 3% | 93% |  |
+| 166 | 4% | 90% |  |
+| 167 | 4% | 86% |  |
+| 168 | 5% | 82% |  |
+| 169 | 6% | 77% |  |
+| 170 | 6% | 71% |  |
+| 171 | 7% | 65% |  |
+| 172 | 7% | 58% |  |
+| 173 | 7% | 50% | Median |
+| 174 | 7% | 43% |  |
+| 175 | 7% | 36% |  |
+| 176 | 6% | 30% |  |
+| 177 | 5% | 24% |  |
+| 178 | 5% | 18% |  |
+| 179 | 4% | 14% |  |
+| 180 | 3% | 10% |  |
+| 181 | 2% | 7% |  |
+| 182 | 2% | 5% |  |
+| 183 | 1.1% | 3% |  |
+| 184 | 0.8% | 2% |  |
+| 185 | 0.5% | 1.1% |  |
+| 186 | 0.3% | 0.6% |  |
+| 187 | 0.2% | 0.3% |  |
+| 188 | 0.1% | 0.2% |  |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
 | 191 | 0% | 0% |  |
 | 192 | 0% | 0% |  |
 | 193 | 0% | 0% |  |
