@@ -13,7 +13,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Vox (ECR) | | 6 | 3–8 | 2–8 | 2–8 | 2–9 |
 | N-VA (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Občanská demokratická strana (ECR) | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
-| Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Dansk Folkeparti (ECR) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Forum voor Democratie (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Fratelli d’Italia (ECR) | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
