@@ -11,7 +11,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Alliance of Liberals and Democrats for Europe | 67 | 96 | 91–101 | 89–103 | 88–104 | 86–106 |
 | La République en marche–Mouvement démocrate (ALDE) | | 19 | 16–23 | 16–23 | 16–24 | 16–25 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
-| FDP (ALDE) | | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| FDP (ALDE) | | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | ANO 2011 (ALDE) | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -31,7 +31,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Attīstībai/Par! (ALDE) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Darbo Partija (ALDE) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| FREIE WÄHLER (ALDE) | | 1 | 1 | 1 | 0–1 | 0–2 |
+| FREIE WÄHLER (ALDE) | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -100,14 +100,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 9% | 43% |  |
 | 98 | 8% | 34% |  |
 | 99 | 7% | 26% |  |
-| 100 | 6% | 19% |  |
+| 100 | 6% | 18% |  |
 | 101 | 4% | 13% |  |
-| 102 | 3% | 9% |  |
+| 102 | 3% | 8% |  |
 | 103 | 2% | 5% |  |
 | 104 | 1.4% | 3% |  |
 | 105 | 0.8% | 2% |  |
-| 106 | 0.5% | 1.0% |  |
-| 107 | 0.3% | 0.5% |  |
+| 106 | 0.5% | 0.9% |  |
+| 107 | 0.2% | 0.5% |  |
 | 108 | 0.1% | 0.2% |  |
 | 109 | 0.1% | 0.1% |  |
 | 110 | 0% | 0% |  |

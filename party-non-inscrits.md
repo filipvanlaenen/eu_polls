@@ -12,7 +12,7 @@ Last result: **15** seats (General Election of 25 May 2014)
 | Jobbik (NI) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Die PARTEI (NI) | | 1 | 1 | 1 | 1 | 0–2 |
+| Die PARTEI (NI) | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Kotleba–Ľudová strana Naše Slovensko (NI) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | MKKP (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom (NI) | | 0 | 0 | 0 | 0 | 0 |
