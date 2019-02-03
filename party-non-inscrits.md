@@ -12,7 +12,7 @@ Last result: **15** seats (General Election of 25 May 2014)
 | Jobbik (NI) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Die PARTEI (NI) | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Die PARTEI (NI) | | 1 | 1 | 1 | 1 | 0–2 |
 | Kotleba–Ľudová strana Naše Slovensko (NI) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | MKKP (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom (NI) | | 0 | 0 | 0 | 0 | 0 |
@@ -25,12 +25,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 2% | 99.9% |  |
+| 6 | 2% | 100% |  |
 | 7 | 12% | 98% |  |
 | 8 | 31% | 86% |  |
-| 9 | 37% | 56% | Median |
-| 10 | 16% | 18% |  |
+| 9 | 38% | 55% | Median |
+| 10 | 16% | 17% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
