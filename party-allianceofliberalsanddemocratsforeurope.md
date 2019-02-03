@@ -34,6 +34,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | FREIE WÄHLER (ALDE) | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Progresívne Slovensko (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,7 +53,6 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demòcrata Europeu Català (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| Progresívne Slovensko (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -88,26 +88,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.2% | 99.9% |  |
 | 86 | 0.4% | 99.7% |  |
 | 87 | 0.8% | 99.3% |  |
-| 88 | 1.5% | 98% |  |
+| 88 | 1.4% | 98.6% |  |
 | 89 | 2% | 97% |  |
 | 90 | 4% | 95% |  |
 | 91 | 5% | 91% |  |
-| 92 | 7% | 86% |  |
-| 93 | 8% | 79% |  |
-| 94 | 9% | 71% |  |
-| 95 | 10% | 62% |  |
-| 96 | 10% | 53% | Median |
-| 97 | 9% | 43% |  |
-| 98 | 8% | 34% |  |
+| 92 | 6% | 86% |  |
+| 93 | 8% | 80% |  |
+| 94 | 9% | 72% |  |
+| 95 | 10% | 63% |  |
+| 96 | 10% | 54% | Median |
+| 97 | 9% | 44% |  |
+| 98 | 8% | 35% |  |
 | 99 | 7% | 26% |  |
-| 100 | 6% | 18% |  |
-| 101 | 4% | 13% |  |
-| 102 | 3% | 8% |  |
+| 100 | 6% | 19% |  |
+| 101 | 5% | 13% |  |
+| 102 | 3% | 9% |  |
 | 103 | 2% | 5% |  |
 | 104 | 1.4% | 3% |  |
-| 105 | 0.8% | 2% |  |
-| 106 | 0.5% | 0.9% |  |
-| 107 | 0.2% | 0.5% |  |
+| 105 | 0.9% | 2% |  |
+| 106 | 0.5% | 1.0% |  |
+| 107 | 0.3% | 0.5% |  |
 | 108 | 0.1% | 0.2% |  |
 | 109 | 0.1% | 0.1% |  |
 | 110 | 0% | 0% |  |

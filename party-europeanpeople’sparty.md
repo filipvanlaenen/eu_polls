@@ -8,9 +8,9 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 171 | 164–179 | 162–181 | 160–183 | 157–186 |
+| European People’s Party | 217 | 172 | 164–179 | 162–181 | 160–183 | 157–186 |
 | CDU (EPP) | | 25 | 22–27 | 22–27 | 21–27 | 20–28 |
-| Platforma Obywatelska (EPP) | | 16 | 13–18 | 12–19 | 12–19 | 11–20 |
+| Platforma Obywatelska (EPP) | | 16 | 13–18 | 13–19 | 12–19 | 11–20 |
 | Fidesz–KDNP (EPP) | | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
 | Partido Popular (EPP) | | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
 | Les Républicains (EPP) | | 11 | 8–13 | 7–13 | 7–13 | 6–14 |
@@ -37,7 +37,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
+| Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MOST–HÍD (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -48,7 +48,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| SPOLU–Občianska Demokracia (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| SPOLU–Občianska Demokracia (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Starostové a nezávislí (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -70,33 +70,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 0.1% | 99.9% |  |
 | 156 | 0.2% | 99.8% |  |
 | 157 | 0.3% | 99.6% |  |
-| 158 | 0.5% | 99.3% |  |
-| 159 | 0.7% | 98.8% |  |
-| 160 | 1.0% | 98% |  |
-| 161 | 1.4% | 97% |  |
+| 158 | 0.4% | 99.4% |  |
+| 159 | 0.6% | 99.0% |  |
+| 160 | 0.9% | 98% |  |
+| 161 | 1.3% | 97% |  |
 | 162 | 2% | 96% |  |
 | 163 | 2% | 94% |  |
-| 164 | 3% | 91% |  |
-| 165 | 4% | 88% |  |
+| 164 | 3% | 92% |  |
+| 165 | 4% | 89% |  |
 | 166 | 4% | 85% |  |
-| 167 | 5% | 80% |  |
-| 168 | 6% | 75% |  |
-| 169 | 6% | 69% |  |
-| 170 | 7% | 63% |  |
-| 171 | 7% | 56% | Median |
-| 172 | 7% | 50% |  |
-| 173 | 7% | 43% |  |
-| 174 | 6% | 36% |  |
-| 175 | 6% | 30% |  |
-| 176 | 5% | 24% |  |
-| 177 | 4% | 19% |  |
+| 167 | 5% | 81% |  |
+| 168 | 6% | 76% |  |
+| 169 | 6% | 70% |  |
+| 170 | 7% | 64% |  |
+| 171 | 7% | 57% |  |
+| 172 | 7% | 51% | Median |
+| 173 | 7% | 44% |  |
+| 174 | 6% | 37% |  |
+| 175 | 6% | 31% |  |
+| 176 | 5% | 25% |  |
+| 177 | 5% | 20% |  |
 | 178 | 4% | 15% |  |
-| 179 | 3% | 11% |  |
+| 179 | 3% | 12% |  |
 | 180 | 2% | 8% |  |
 | 181 | 2% | 6% |  |
-| 182 | 1.3% | 4% |  |
+| 182 | 1.4% | 4% |  |
 | 183 | 1.0% | 3% |  |
-| 184 | 0.6% | 2% |  |
+| 184 | 0.7% | 2% |  |
 | 185 | 0.4% | 1.0% |  |
 | 186 | 0.3% | 0.6% |  |
 | 187 | 0.2% | 0.3% |  |

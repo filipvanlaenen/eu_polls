@@ -20,7 +20,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Socialdemokraterne (S&D) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Partit Laburista (S&D) | | 4 | 4 | 4 | 4 | 3–4 |
-| SMER–sociálna demokracia (S&D) | | 4 | 4 | 4 | 3–4 | 3–5 |
+| SMER–sociálna demokracia (S&D) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | MSZP–Párbeszéd (S&D) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sojusz Lewicy Demokratycznej (S&D) | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -55,9 +55,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 106 | 0% | 100% |  |
 | 107 | 0.1% | 99.9% |  |
-| 108 | 0.1% | 99.9% |  |
+| 108 | 0.2% | 99.9% |  |
 | 109 | 0.3% | 99.7% |  |
-| 110 | 0.5% | 99.5% |  |
+| 110 | 0.5% | 99.4% |  |
 | 111 | 0.7% | 99.0% |  |
 | 112 | 1.1% | 98% |  |
 | 113 | 1.5% | 97% |  |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 118 | 4% | 84% |  |
 | 119 | 5% | 80% |  |
 | 120 | 6% | 75% |  |
-| 121 | 6% | 70% |  |
+| 121 | 6% | 69% |  |
 | 122 | 6% | 64% |  |
 | 123 | 6% | 57% |  |
 | 124 | 6% | 51% | Median |
