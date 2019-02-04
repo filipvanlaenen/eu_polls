@@ -20,7 +20,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Venstre (ALDE) | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Keskerakond (ALDE) | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Eesti Keskerakond (ALDE) | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | MR (ALDE) | | 2 | 2 | 2 | 2 | 2–3 |
@@ -37,7 +37,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Progresívne Slovensko (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| 50Plus (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Amsterdamska koalicija (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 7% | 86% |  |
 | 93 | 8% | 80% |  |
 | 94 | 9% | 72% |  |
-| 95 | 10% | 63% |  |
+| 95 | 9% | 63% |  |
 | 96 | 10% | 53% | Median |
 | 97 | 9% | 44% |  |
 | 98 | 8% | 35% |  |

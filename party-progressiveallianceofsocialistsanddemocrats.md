@@ -25,7 +25,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | MSZP–Párbeszéd (S&D) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sojusz Lewicy Demokratycznej (S&D) | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | PS (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partij van de Arbeid (S&D) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Socialni demokrati (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socijaldemokratska partija Hrvatske (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 2 | 2 | 2 | 2–3 | 1–3 |

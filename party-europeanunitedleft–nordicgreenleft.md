@@ -16,14 +16,14 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Sinn Féin (GUE/NGL) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Socialistische Partij (GUE/NGL) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Bloco de Esquerda (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 2 | 1–3 |
+| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 2 | 1–2 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partij voor de Dieren (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partij voor de Dieren (GUE/NGL) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
@@ -34,7 +34,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Πλεύση Ελευθερίας (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
+| Πλεύση Ελευθερίας (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -52,17 +52,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 3% | 97% |  |
 | 48 | 5% | 94% |  |
 | 49 | 8% | 89% |  |
-| 50 | 11% | 81% |  |
-| 51 | 13% | 70% | Last Result |
-| 52 | 14% | 58% | Median |
-| 53 | 13% | 44% |  |
-| 54 | 11% | 31% |  |
-| 55 | 8% | 20% |  |
-| 56 | 5% | 12% |  |
+| 50 | 10% | 81% |  |
+| 51 | 13% | 71% | Last Result |
+| 52 | 13% | 59% | Median |
+| 53 | 13% | 45% |  |
+| 54 | 11% | 32% |  |
+| 55 | 8% | 21% |  |
+| 56 | 6% | 13% |  |
 | 57 | 3% | 7% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.9% | 2% |  |
-| 60 | 0.4% | 0.7% |  |
+| 58 | 2% | 4% |  |
+| 59 | 1.0% | 2% |  |
+| 60 | 0.5% | 0.8% |  |
 | 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |

@@ -8,8 +8,8 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 62 | 57–68 | 55–69 | 54–70 | 52–72 |
-| Prawo i Sprawiedliwość (ECR) | | 22 | 19–25 | 18–26 | 18–26 | 18–27 |
+| European Conservatives and Reformists | 53 | 62 | 57–67 | 56–69 | 54–70 | 52–72 |
+| Prawo i Sprawiedliwość (ECR) | | 22 | 19–25 | 19–26 | 18–26 | 17–27 |
 | Vox (ECR) | | 6 | 3–8 | 2–8 | 2–8 | 2–9 |
 | N-VA (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Občanská demokratická strana (ECR) | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
@@ -28,7 +28,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти (ECR) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
 | Ανεξάρτητοι Έλληνες (ECR) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη (ECR) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -44,7 +44,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0.2% | 99.9% |  |
 | 52 | 0.4% | 99.7% |  |
 | 53 | 0.8% | 99.3% | Last Result |
-| 54 | 1.4% | 98.5% |  |
+| 54 | 1.4% | 98.6% |  |
 | 55 | 2% | 97% |  |
 | 56 | 3% | 95% |  |
 | 57 | 5% | 92% |  |
@@ -52,15 +52,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 7% | 81% |  |
 | 60 | 8% | 74% |  |
 | 61 | 9% | 66% |  |
-| 62 | 9% | 56% | Median |
+| 62 | 9% | 57% | Median |
 | 63 | 9% | 47% |  |
 | 64 | 9% | 38% |  |
 | 65 | 8% | 29% |  |
-| 66 | 6% | 22% |  |
+| 66 | 6% | 21% |  |
 | 67 | 5% | 15% |  |
 | 68 | 4% | 10% |  |
 | 69 | 3% | 6% |  |
-| 70 | 2% | 4% |  |
+| 70 | 2% | 3% |  |
 | 71 | 1.0% | 2% |  |
 | 72 | 0.5% | 0.8% |  |
 | 73 | 0.2% | 0.3% |  |

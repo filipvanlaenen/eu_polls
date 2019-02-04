@@ -15,15 +15,15 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partido Popular (EPP) | | 12 | 10–15 | 9–15 | 9–16 | 8–17 |
 | Les Républicains (EPP) | | 11 | 8–13 | 7–13 | 7–13 | 6–14 |
 | Forza Italia (EPP) | | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
-| Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
+| Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Partido Social Democrata (EPP) | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Partidul Național Liberal (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | CSU (EPP) | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Fine Gael (EPP) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Moderata samlingspartiet (EPP) | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Moderata samlingspartiet (EPP) | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl (EPP) | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -84,12 +84,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 169 | 6% | 70% |  |
 | 170 | 7% | 64% |  |
 | 171 | 7% | 57% |  |
-| 172 | 7% | 51% | Median |
-| 173 | 7% | 44% |  |
+| 172 | 7% | 50% | Median |
+| 173 | 7% | 43% |  |
 | 174 | 6% | 37% |  |
-| 175 | 6% | 31% |  |
+| 175 | 6% | 30% |  |
 | 176 | 5% | 25% |  |
-| 177 | 5% | 20% |  |
+| 177 | 4% | 19% |  |
 | 178 | 4% | 15% |  |
 | 179 | 3% | 11% |  |
 | 180 | 2% | 8% |  |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 183 | 0.9% | 3% |  |
 | 184 | 0.6% | 2% |  |
 | 185 | 0.4% | 1.0% |  |
-| 186 | 0.3% | 0.6% |  |
+| 186 | 0.2% | 0.6% |  |
 | 187 | 0.1% | 0.3% |  |
 | 188 | 0.1% | 0.2% |  |
 | 189 | 0% | 0.1% |  |
