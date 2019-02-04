@@ -10,7 +10,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | 169 | 124 | 116–131 | 114–133 | 112–135 | 109–138 |
 | Partido Socialista Obrero Español (S&D) | | 15 | 13–17 | 13–19 | 12–19 | 12–20 |
-| SPD (S&D) | | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
+| SPD (S&D) | | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
 | Partito Democratico (S&D) | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Partido Socialista (S&D) | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Partidul Social Democrat (S&D) | | 9 | 6–13 | 6–13 | 6–13 | 5–14 |
@@ -58,7 +58,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 0.2% | 99.9% |  |
 | 109 | 0.3% | 99.7% |  |
 | 110 | 0.5% | 99.4% |  |
-| 111 | 0.7% | 98.9% |  |
+| 111 | 0.8% | 98.9% |  |
 | 112 | 1.1% | 98% |  |
 | 113 | 2% | 97% |  |
 | 114 | 2% | 96% |  |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 6% | 69% |  |
 | 122 | 6% | 63% |  |
 | 123 | 6% | 57% |  |
-| 124 | 6% | 51% | Median |
+| 124 | 6% | 50% | Median |
 | 125 | 6% | 44% |  |
 | 126 | 6% | 38% |  |
 | 127 | 6% | 32% |  |
@@ -82,9 +82,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 3% | 10% |  |
 | 133 | 2% | 7% |  |
 | 134 | 2% | 5% |  |
-| 135 | 1.2% | 3% |  |
+| 135 | 1.1% | 3% |  |
 | 136 | 0.8% | 2% |  |
-| 137 | 0.5% | 1.4% |  |
+| 137 | 0.5% | 1.3% |  |
 | 138 | 0.3% | 0.8% |  |
 | 139 | 0.2% | 0.5% |  |
 | 140 | 0.1% | 0.3% |  |

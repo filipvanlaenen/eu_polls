@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 172 | 164–179 | 162–181 | 161–183 | 157–186 |
+| European People’s Party | 217 | 172 | 164–179 | 162–181 | 160–183 | 157–186 |
 | CDU (EPP) | | 25 | 22–27 | 22–27 | 21–27 | 20–28 |
 | Platforma Obywatelska (EPP) | | 16 | 13–18 | 13–19 | 12–19 | 11–20 |
 | Fidesz–KDNP (EPP) | | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
@@ -42,7 +42,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | MOST–HÍD (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0 | 0 |
+| Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -69,21 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 0% | 99.9% |  |
 | 155 | 0.1% | 99.9% |  |
 | 156 | 0.2% | 99.8% |  |
-| 157 | 0.2% | 99.7% |  |
+| 157 | 0.3% | 99.7% |  |
 | 158 | 0.4% | 99.4% |  |
 | 159 | 0.6% | 99.0% |  |
 | 160 | 0.9% | 98% |  |
-| 161 | 1.3% | 98% |  |
+| 161 | 1.3% | 97% |  |
 | 162 | 2% | 96% |  |
 | 163 | 2% | 94% |  |
 | 164 | 3% | 92% |  |
 | 165 | 4% | 89% |  |
-| 166 | 4% | 86% |  |
+| 166 | 4% | 85% |  |
 | 167 | 5% | 81% |  |
 | 168 | 6% | 76% |  |
 | 169 | 6% | 70% |  |
 | 170 | 7% | 64% |  |
-| 171 | 7% | 58% |  |
+| 171 | 7% | 57% |  |
 | 172 | 7% | 51% | Median |
 | 173 | 7% | 44% |  |
 | 174 | 6% | 37% |  |
