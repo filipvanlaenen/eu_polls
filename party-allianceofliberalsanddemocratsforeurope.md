@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 96 | 91–101 | 89–103 | 88–104 | 86–107 |
+| Alliance of Liberals and Democrats for Europe | 67 | 96 | 91–101 | 90–103 | 89–104 | 86–107 |
 | La République en marche–Mouvement démocrate (ALDE) | | 19 | 16–23 | 16–23 | 16–24 | 16–25 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | FDP (ALDE) | | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
@@ -37,7 +37,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Progresívne Slovensko (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | .Nowoczesna (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| 50Plus (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Amsterdamska koalicija (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -84,31 +84,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 0% | 100% |  |
 | 82 | 0% | 100% |  |
 | 83 | 0% | 100% |  |
-| 84 | 0.1% | 100% |  |
-| 85 | 0.2% | 99.9% |  |
-| 86 | 0.4% | 99.7% |  |
-| 87 | 0.8% | 99.3% |  |
-| 88 | 1.4% | 98.5% |  |
-| 89 | 2% | 97% |  |
-| 90 | 4% | 95% |  |
-| 91 | 5% | 91% |  |
-| 92 | 7% | 86% |  |
-| 93 | 8% | 80% |  |
-| 94 | 9% | 72% |  |
-| 95 | 9% | 63% |  |
-| 96 | 10% | 53% | Median |
-| 97 | 9% | 44% |  |
-| 98 | 8% | 35% |  |
-| 99 | 7% | 26% |  |
-| 100 | 6% | 19% |  |
-| 101 | 4% | 13% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0.1% | 99.9% |  |
+| 86 | 0.3% | 99.8% |  |
+| 87 | 0.6% | 99.5% |  |
+| 88 | 1.2% | 98.9% |  |
+| 89 | 2% | 98% |  |
+| 90 | 3% | 96% |  |
+| 91 | 5% | 92% |  |
+| 92 | 6% | 88% |  |
+| 93 | 8% | 81% |  |
+| 94 | 9% | 74% |  |
+| 95 | 10% | 65% |  |
+| 96 | 10% | 55% | Median |
+| 97 | 9% | 45% |  |
+| 98 | 9% | 36% |  |
+| 99 | 7% | 28% |  |
+| 100 | 6% | 20% |  |
+| 101 | 5% | 14% |  |
 | 102 | 3% | 9% |  |
 | 103 | 2% | 6% |  |
-| 104 | 1.5% | 3% |  |
+| 104 | 2% | 4% |  |
 | 105 | 0.9% | 2% |  |
 | 106 | 0.5% | 1.1% |  |
 | 107 | 0.3% | 0.6% |  |
-| 108 | 0.1% | 0.3% |  |
+| 108 | 0.2% | 0.3% |  |
 | 109 | 0.1% | 0.1% |  |
 | 110 | 0% | 0.1% |  |
 | 111 | 0% | 0% |  |

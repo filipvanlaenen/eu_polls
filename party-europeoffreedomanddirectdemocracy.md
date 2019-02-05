@@ -9,7 +9,7 @@ Last result: **25** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Freedom and Direct Democracy | 25 | 48 | 43–52 | 42–53 | 40–54 | 38–56 |
-| Movimento 5 Stelle (EFDD) | | 22 | 20–24 | 19–25 | 18–26 | 17–27 |
+| Movimento 5 Stelle (EFDD) | | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
 | Alternative für Deutschland (EFDD) | | 13 | 11–15 | 10–15 | 10–16 | 10–16 |
 | Debout la France (EFDD) | | 7 | 5–8 | 0–9 | 0–9 | 0–9 |
 | Kukiz’15 (EFDD) | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
@@ -43,7 +43,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.2% | 99.8% |  |
 | 38 | 0.4% | 99.6% |  |
 | 39 | 0.7% | 99.2% |  |
-| 40 | 1.1% | 98% |  |
+| 40 | 1.1% | 98.5% |  |
 | 41 | 2% | 97% |  |
 | 42 | 2% | 96% |  |
 | 43 | 4% | 93% |  |

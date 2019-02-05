@@ -17,7 +17,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Sveriges socialdemokratiska arbetareparti (S&D) | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Българска социалистическа партия (S&D) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Parti socialiste (S&D) | | 5 | 0–6 | 0–7 | 0–7 | 0–8 |
-| Socialdemokraterne (S&D) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Socialdemokraterne (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Partit Laburista (S&D) | | 4 | 4 | 4 | 4 | 3–4 |
 | SMER–sociálna demokracia (S&D) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -25,7 +25,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | MSZP–Párbeszéd (S&D) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sojusz Lewicy Demokratycznej (S&D) | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | PS (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid (S&D) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Partij van de Arbeid (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialni demokrati (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socijaldemokratska partija Hrvatske (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 129 | 4% | 21% |  |
 | 130 | 4% | 17% |  |
 | 131 | 3% | 13% |  |
-| 132 | 3% | 10% |  |
+| 132 | 3% | 9% |  |
 | 133 | 2% | 7% |  |
 | 134 | 2% | 5% |  |
 | 135 | 1.1% | 3% |  |
