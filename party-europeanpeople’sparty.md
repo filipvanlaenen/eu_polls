@@ -39,7 +39,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Jaunā Vienotība (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| MOST–HÍD (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| MOST–HÍD (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -66,10 +66,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 153 | 0% | 100% |  |
-| 154 | 0% | 99.9% |  |
+| 154 | 0.1% | 99.9% |  |
 | 155 | 0.1% | 99.9% |  |
 | 156 | 0.2% | 99.8% |  |
-| 157 | 0.3% | 99.7% |  |
+| 157 | 0.3% | 99.6% |  |
 | 158 | 0.4% | 99.4% |  |
 | 159 | 0.6% | 99.0% |  |
 | 160 | 0.9% | 98% |  |
@@ -85,11 +85,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 7% | 64% |  |
 | 171 | 7% | 57% |  |
 | 172 | 7% | 50% | Median |
-| 173 | 7% | 44% |  |
+| 173 | 7% | 43% |  |
 | 174 | 6% | 37% |  |
-| 175 | 6% | 31% |  |
-| 176 | 5% | 25% |  |
-| 177 | 5% | 20% |  |
+| 175 | 6% | 30% |  |
+| 176 | 5% | 24% |  |
+| 177 | 4% | 19% |  |
 | 178 | 4% | 15% |  |
 | 179 | 3% | 11% |  |
 | 180 | 2% | 8% |  |
@@ -99,7 +99,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 184 | 0.6% | 2% |  |
 | 185 | 0.4% | 1.0% |  |
 | 186 | 0.3% | 0.6% |  |
-| 187 | 0.2% | 0.3% |  |
+| 187 | 0.1% | 0.3% |  |
 | 188 | 0.1% | 0.2% |  |
 | 189 | 0% | 0.1% |  |
 | 190 | 0% | 0% |  |

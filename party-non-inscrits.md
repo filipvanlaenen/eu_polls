@@ -13,7 +13,7 @@ Last result: **15** seats (General Election of 25 May 2014)
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI (NI) | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Kotleba–Ľudová strana Naše Slovensko (NI) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Kotleba–Ľudová strana Naše Slovensko (NI) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | MKKP (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom (NI) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -28,8 +28,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.1% | 100% |  |
 | 6 | 2% | 99.9% |  |
 | 7 | 12% | 98% |  |
-| 8 | 31% | 86% |  |
-| 9 | 37% | 55% | Median |
+| 8 | 30% | 86% |  |
+| 9 | 37% | 56% | Median |
 | 10 | 16% | 18% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.1% | 0.1% |  |
