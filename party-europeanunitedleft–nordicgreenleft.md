@@ -34,7 +34,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Πλεύση Ελευθερίας (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
+| Πλεύση Ελευθερίας (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -53,7 +53,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 5% | 94% |  |
 | 49 | 8% | 89% |  |
 | 50 | 10% | 81% |  |
-| 51 | 13% | 70% | Last Result |
+| 51 | 13% | 71% | Last Result |
 | 52 | 14% | 58% | Median |
 | 53 | 13% | 44% |  |
 | 54 | 11% | 31% |  |
