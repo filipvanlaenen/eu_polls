@@ -328,6 +328,7 @@ current EP fractions.
 | Polskie Stronnictwo Ludowe   | PSL          | EPP         | Current member                       |
 | Prawo i Sprawiedliwość       | PiS          | ECR         | Current member                       |
 | Sojusz Lewicy Demokratycznej | SLD          | S&D         | Current member                       |
+| Wiosna                       | Wi           | S&D         | New party; has informal ties to S&D  |
 
 ## Portugal
 
