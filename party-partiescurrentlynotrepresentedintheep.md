@@ -12,7 +12,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Independents (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KPV LV (*) | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista (*) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Aliança (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0 |
 | Denk (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -44,11 +44,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.2% | 100% |  |
-| 5 | 4% | 99.8% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 4% | 99.7% |  |
 | 6 | 16% | 96% |  |
-| 7 | 29% | 80% |  |
-| 8 | 28% | 51% | Median |
+| 7 | 29% | 79% |  |
+| 8 | 27% | 50% | Median |
 | 9 | 16% | 23% |  |
 | 10 | 6% | 7% |  |
 | 11 | 1.3% | 2% |  |
