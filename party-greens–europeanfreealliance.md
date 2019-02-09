@@ -12,7 +12,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–13 | 6–13 | 5–16 | 0–16 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Ecolo (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Groen (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -47,15 +47,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 2% | 98% |  |
 | 40 | 4% | 96% |  |
 | 41 | 7% | 92% |  |
-| 42 | 10% | 85% |  |
-| 43 | 12% | 75% |  |
+| 42 | 10% | 84% |  |
+| 43 | 12% | 74% |  |
 | 44 | 13% | 62% | Median |
 | 45 | 12% | 49% | Last Result |
 | 46 | 10% | 37% |  |
 | 47 | 7% | 27% |  |
 | 48 | 5% | 20% |  |
-| 49 | 4% | 15% |  |
-| 50 | 3% | 11% |  |
+| 49 | 4% | 14% |  |
+| 50 | 3% | 10% |  |
 | 51 | 2% | 7% |  |
 | 52 | 2% | 5% |  |
 | 53 | 1.3% | 3% |  |

@@ -31,7 +31,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | DK (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos socialdemokratų partija (S&D) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | sp.a (S&D) | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +40,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Génération·s, le mouvement (S&D) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Labour Party (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali (S&D) | | 0 | 0 | 0 | 0–3 | 0–4 |
-| Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0 | 0 | 0 | 0–1 |
+| Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι (S&D) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 6% | 67% |  |
 | 122 | 6% | 60% |  |
 | 123 | 6% | 54% | Median |
-| 124 | 6% | 47% |  |
+| 124 | 6% | 48% |  |
 | 125 | 6% | 41% |  |
 | 126 | 6% | 35% |  |
 | 127 | 5% | 29% |  |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 0.2% | 0.4% |  |
 | 140 | 0.1% | 0.2% |  |
 | 141 | 0.1% | 0.1% |  |
-| 142 | 0% | 0% |  |
+| 142 | 0% | 0.1% |  |
 | 143 | 0% | 0% |  |
 | 144 | 0% | 0% |  |
 | 145 | 0% | 0% |  |
