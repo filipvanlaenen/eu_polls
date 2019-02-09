@@ -8,7 +8,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 123 | 116–131 | 113–133 | 112–135 | 109–138 |
+| Progressive Alliance of Socialists and Democrats | 169 | 123 | 115–131 | 113–133 | 112–135 | 109–138 |
 | Partido Socialista Obrero Español (S&D) | | 15 | 13–17 | 13–19 | 13–19 | 12–20 |
 | SPD (S&D) | | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
 | Partito Democratico (S&D) | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
@@ -31,7 +31,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | DK (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos socialdemokratų partija (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija (S&D) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | sp.a (S&D) | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +40,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Génération·s, le mouvement (S&D) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Labour Party (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali (S&D) | | 0 | 0 | 0 | 0–3 | 0–4 |
-| Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos socialdemokratų darbo partija (S&D) | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών (S&D) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι (S&D) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -55,40 +55,40 @@ The following table shows the probability mass function per seat for the [poll a
 | 106 | 0% | 100% |  |
 | 107 | 0.1% | 99.9% |  |
 | 108 | 0.2% | 99.8% |  |
-| 109 | 0.3% | 99.6% |  |
+| 109 | 0.4% | 99.6% |  |
 | 110 | 0.6% | 99.3% |  |
 | 111 | 0.9% | 98.7% |  |
-| 112 | 1.2% | 98% |  |
+| 112 | 1.3% | 98% |  |
 | 113 | 2% | 97% |  |
 | 114 | 2% | 95% |  |
 | 115 | 3% | 93% |  |
 | 116 | 3% | 90% |  |
-| 117 | 4% | 87% |  |
-| 118 | 5% | 83% |  |
+| 117 | 4% | 86% |  |
+| 118 | 5% | 82% |  |
 | 119 | 5% | 78% |  |
-| 120 | 6% | 73% |  |
+| 120 | 6% | 72% |  |
 | 121 | 6% | 67% |  |
-| 122 | 6% | 61% |  |
-| 123 | 6% | 55% | Median |
-| 124 | 6% | 48% |  |
-| 125 | 6% | 42% |  |
-| 126 | 6% | 36% |  |
-| 127 | 5% | 30% |  |
+| 122 | 6% | 60% |  |
+| 123 | 6% | 54% | Median |
+| 124 | 6% | 47% |  |
+| 125 | 6% | 41% |  |
+| 126 | 6% | 35% |  |
+| 127 | 5% | 29% |  |
 | 128 | 5% | 24% |  |
 | 129 | 4% | 19% |  |
 | 130 | 4% | 15% |  |
-| 131 | 3% | 12% |  |
-| 132 | 2% | 9% |  |
+| 131 | 3% | 11% |  |
+| 132 | 2% | 8% |  |
 | 133 | 2% | 6% |  |
 | 134 | 1.4% | 4% |  |
 | 135 | 1.0% | 3% |  |
 | 136 | 0.7% | 2% |  |
-| 137 | 0.5% | 1.1% |  |
-| 138 | 0.3% | 0.7% |  |
+| 137 | 0.4% | 1.1% |  |
+| 138 | 0.3% | 0.6% |  |
 | 139 | 0.2% | 0.4% |  |
 | 140 | 0.1% | 0.2% |  |
 | 141 | 0.1% | 0.1% |  |
-| 142 | 0% | 0.1% |  |
+| 142 | 0% | 0% |  |
 | 143 | 0% | 0% |  |
 | 144 | 0% | 0% |  |
 | 145 | 0% | 0% |  |
