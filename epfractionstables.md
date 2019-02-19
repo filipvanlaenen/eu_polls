@@ -24,7 +24,7 @@ current EP fractions.
 |:---------------------------------------------|:-------------|:------------|:--------------------------------------------------------------------|
 | Die Grünen–Die Grüne Alternative             | Grüne        | Greens/EFA  | Current member                                                      |
 | Freiheitliche Partei Österreichs             | FPÖ          | ENF         | Current member                                                      |
-| Liste Peter Pilz                             | PILZ         | *           | New party; split from Die Grünen–Die Grüne Alternative (Greens/EFA) |
+| JETZT–Liste Pilz                             | JETZT        | Greens/EFA  | New party; split from Die Grünen–Die Grüne Alternative (Greens/EFA); has announced it will join Greens/EFA |
 | Meine Stimme Gilt!                           | GILT         | *           | New party                                                           |
 | NEOS–Das Neue Österreich und Liberales Forum | NEOS         | ALDE        | Current member                                                      |
 | Österreichische Volkspartei                  | ÖVP          | EPP         | Current member                                                      |
