@@ -8,15 +8,15 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Nations and Freedom | 36 | 60 | 56–65 | 55–66 | 54–67 | 52–69 |
-| Lega Nord (ENF) | | 26 | 23–29 | 23–30 | 22–30 | 21–31 |
+| Europe of Nations and Freedom | 36 | 61 | 56–65 | 55–66 | 54–67 | 52–69 |
+| Lega Nord (ENF) | | 26 | 24–29 | 23–30 | 23–30 | 22–32 |
 | Rassemblement national (ENF) | | 20 | 17–23 | 17–24 | 16–24 | 16–28 |
 | Freiheitliche Partei Österreichs (ENF) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Partij voor de Vrijheid (ENF) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | SME RODINA (ENF) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana (ENF) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie (ENF) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Vlaams Belang (ENF) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Vlaams Belang (ENF) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
@@ -40,26 +40,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
-| 50 | 0.1% | 100% |  |
-| 51 | 0.2% | 99.9% |  |
-| 52 | 0.5% | 99.7% |  |
-| 53 | 1.2% | 99.2% |  |
+| 50 | 0% | 100% |  |
+| 51 | 0.1% | 100% |  |
+| 52 | 0.4% | 99.8% |  |
+| 53 | 1.0% | 99.4% |  |
 | 54 | 2% | 98% |  |
 | 55 | 4% | 96% |  |
-| 56 | 5% | 92% |  |
-| 57 | 7% | 87% |  |
+| 56 | 5% | 93% |  |
+| 57 | 7% | 88% |  |
 | 58 | 9% | 80% |  |
-| 59 | 10% | 71% |  |
-| 60 | 11% | 61% | Median |
-| 61 | 11% | 50% |  |
-| 62 | 10% | 39% |  |
+| 59 | 10% | 72% |  |
+| 60 | 11% | 62% |  |
+| 61 | 11% | 51% | Median |
+| 62 | 10% | 40% |  |
 | 63 | 9% | 29% |  |
 | 64 | 7% | 20% |  |
 | 65 | 5% | 13% |  |
 | 66 | 3% | 8% |  |
 | 67 | 2% | 4% |  |
-| 68 | 1.1% | 2% |  |
-| 69 | 0.5% | 1.0% |  |
+| 68 | 1.2% | 2% |  |
+| 69 | 0.6% | 1.1% |  |
 | 70 | 0.3% | 0.5% |  |
 | 71 | 0.1% | 0.2% |  |
 | 72 | 0.1% | 0.1% |  |
