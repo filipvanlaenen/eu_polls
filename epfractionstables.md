@@ -340,7 +340,7 @@ current EP fractions.
 | Coligação Democrática Unitária | CDU          | GUE/NGL     | Current member |
 | Partido Social Democrata       | PSD          | EPP         | Current member |
 | Partido Socialista             | PS           | S&D         | Current member |
-| Pessoas–Animais–Natureza       | PAN          | GUE/NGL     | Current member |
+| Pessoas–Animais–Natureza       | PAN          | Greens/EFA  | Current member |
 
 ## Romania
 
