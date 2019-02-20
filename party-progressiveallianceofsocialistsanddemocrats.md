@@ -8,7 +8,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 133 | 125–141 | 123–143 | 122–145 | 119–148 |
+| Progressive Alliance of Socialists and Democrats | 169 | 133 | 126–141 | 124–143 | 122–145 | 119–148 |
 | Partido Socialista Obrero Español (S&D) | | 15 | 14–18 | 13–19 | 13–19 | 12–20 |
 | SPD (S&D) | | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
 | Partito Democratico (S&D) | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
@@ -35,7 +35,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Lietuvos socialdemokratų partija (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | sp.a (S&D) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Česká strana sociálně demokratická (S&D) | | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Česká strana sociálně demokratická (S&D) | | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | Δημοκρατικό Κόμμα (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Génération·s, le mouvement (S&D) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Labour Party (S&D) | | 0 | 0 | 0 | 0 | 0 |
@@ -56,9 +56,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 116 | 0.1% | 100% |  |
 | 117 | 0.1% | 99.9% |  |
 | 118 | 0.2% | 99.8% |  |
-| 119 | 0.4% | 99.6% |  |
-| 120 | 0.6% | 99.2% |  |
-| 121 | 0.9% | 98.6% |  |
+| 119 | 0.3% | 99.6% |  |
+| 120 | 0.6% | 99.3% |  |
+| 121 | 0.8% | 98.7% |  |
 | 122 | 1.2% | 98% |  |
 | 123 | 2% | 97% |  |
 | 124 | 2% | 95% |  |
@@ -68,24 +68,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 128 | 5% | 83% |  |
 | 129 | 5% | 78% |  |
 | 130 | 6% | 73% |  |
-| 131 | 6% | 67% |  |
-| 132 | 6% | 61% |  |
+| 131 | 6% | 68% |  |
+| 132 | 6% | 62% |  |
 | 133 | 6% | 55% | Median |
 | 134 | 6% | 49% |  |
-| 135 | 6% | 42% |  |
+| 135 | 6% | 43% |  |
 | 136 | 6% | 36% |  |
-| 137 | 5% | 30% |  |
+| 137 | 5% | 31% |  |
 | 138 | 5% | 25% |  |
 | 139 | 4% | 20% |  |
 | 140 | 4% | 16% |  |
 | 141 | 3% | 12% |  |
-| 142 | 2% | 9% |  |
-| 143 | 2% | 6% |  |
-| 144 | 1.5% | 4% |  |
+| 142 | 3% | 9% |  |
+| 143 | 2% | 7% |  |
+| 144 | 1.5% | 5% |  |
 | 145 | 1.1% | 3% |  |
-| 146 | 0.7% | 2% |  |
-| 147 | 0.5% | 1.2% |  |
-| 148 | 0.3% | 0.7% |  |
+| 146 | 0.8% | 2% |  |
+| 147 | 0.5% | 1.3% |  |
+| 148 | 0.3% | 0.8% |  |
 | 149 | 0.2% | 0.4% |  |
 | 150 | 0.1% | 0.2% |  |
 | 151 | 0.1% | 0.1% |  |

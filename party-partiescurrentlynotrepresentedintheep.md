@@ -8,8 +8,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–10 | 5–11 | 5–12 |
-| Česká pirátská strana (*) | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Parties currently not represented in the EP | 0 | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
+| Česká pirátská strana (*) | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Independents (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KPV LV (*) | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -19,7 +19,6 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Eesti Vabaerakond (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
-| Liste Peter Pilz (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nye Borgerlige (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partia Razem (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -46,14 +45,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
 | 5 | 3% | 99.8% |  |
-| 6 | 14% | 97% |  |
-| 7 | 26% | 83% |  |
-| 8 | 28% | 56% | Median |
-| 9 | 18% | 29% |  |
-| 10 | 8% | 10% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.4% | 0.6% |  |
-| 13 | 0.1% | 0.2% |  |
+| 6 | 15% | 96% |  |
+| 7 | 29% | 81% |  |
+| 8 | 28% | 52% | Median |
+| 9 | 16% | 24% |  |
+| 10 | 6% | 7% |  |
+| 11 | 1.2% | 2% |  |
+| 12 | 0.2% | 0.3% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
