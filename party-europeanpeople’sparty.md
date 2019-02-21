@@ -17,7 +17,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Forza Italia (EPP) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
-| Partido Social Democrata (EPP) | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| Partido Social Democrata (EPP) | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Partidul Național Liberal (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Fine Gael (EPP) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -31,10 +31,10 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Slovenska demokratska stranka (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kristdemokraterna (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2 |
+| CDS–Partido Popular (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0.1% | 99.9% |  |
 | 154 | 0.2% | 99.8% |  |
 | 155 | 0.3% | 99.6% |  |
-| 156 | 0.4% | 99.3% |  |
+| 156 | 0.4% | 99.4% |  |
 | 157 | 0.6% | 98.9% |  |
 | 158 | 0.9% | 98% |  |
 | 159 | 1.3% | 97% |  |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 3% | 89% |  |
 | 164 | 4% | 86% |  |
 | 165 | 5% | 82% |  |
-| 166 | 5% | 78% |  |
+| 166 | 5% | 77% |  |
 | 167 | 6% | 72% |  |
 | 168 | 6% | 67% |  |
 | 169 | 6% | 61% |  |
@@ -89,17 +89,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 172 | 6% | 41% |  |
 | 173 | 6% | 35% |  |
 | 174 | 6% | 29% |  |
-| 175 | 5% | 24% |  |
+| 175 | 5% | 23% |  |
 | 176 | 4% | 19% |  |
 | 177 | 4% | 14% |  |
 | 178 | 3% | 11% |  |
 | 179 | 2% | 8% |  |
-| 180 | 2% | 6% |  |
+| 180 | 2% | 5% |  |
 | 181 | 1.3% | 4% |  |
 | 182 | 0.9% | 2% |  |
 | 183 | 0.6% | 2% |  |
 | 184 | 0.4% | 0.9% |  |
-| 185 | 0.2% | 0.6% |  |
+| 185 | 0.2% | 0.5% |  |
 | 186 | 0.1% | 0.3% |  |
 | 187 | 0.1% | 0.2% |  |
 | 188 | 0% | 0.1% |  |

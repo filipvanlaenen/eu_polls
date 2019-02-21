@@ -28,6 +28,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | JETZT–Liste Pilz (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Miljöpartiet de gröna (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -51,7 +52,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 6% | 86% |  |
 | 42 | 8% | 80% |  |
 | 43 | 9% | 72% |  |
-| 44 | 10% | 62% |  |
+| 44 | 10% | 63% |  |
 | 45 | 11% | 52% | Last Result, Median |
 | 46 | 10% | 41% |  |
 | 47 | 8% | 31% |  |
@@ -65,7 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0.7% | 1.5% |  |
 | 56 | 0.4% | 0.8% |  |
 | 57 | 0.2% | 0.4% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 
