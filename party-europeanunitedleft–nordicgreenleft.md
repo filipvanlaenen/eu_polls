@@ -8,11 +8,11 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 51 | 47–55 | 46–56 | 45–57 | 43–59 |
+| European United Left–Nordic Green Left | 51 | 51 | 47–55 | 45–56 | 44–57 | 43–59 |
 | La France insoumise (GUE/NGL) | | 9 | 7–11 | 7–13 | 6–13 | 6–14 |
 | Unidos Podemos (GUE/NGL) | | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
-| DIE LINKE (GUE/NGL) | | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| DIE LINKE (GUE/NGL) | | 8 | 5–10 | 5–10 | 5–10 | 5–11 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Socialistische Partij (GUE/NGL) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Bloco de Esquerda (GUE/NGL) | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -44,20 +44,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.5% | 99.7% |  |
-| 44 | 1.1% | 99.2% |  |
-| 45 | 2% | 98% |  |
-| 46 | 4% | 96% |  |
-| 47 | 6% | 92% |  |
-| 48 | 8% | 87% |  |
-| 49 | 10% | 79% |  |
-| 50 | 12% | 68% |  |
-| 51 | 13% | 56% | Last Result, Median |
-| 52 | 12% | 44% |  |
-| 53 | 10% | 31% |  |
-| 54 | 8% | 21% |  |
-| 55 | 6% | 13% |  |
+| 42 | 0.3% | 99.8% |  |
+| 43 | 0.7% | 99.5% |  |
+| 44 | 2% | 98.8% |  |
+| 45 | 3% | 97% |  |
+| 46 | 4% | 95% |  |
+| 47 | 6% | 90% |  |
+| 48 | 9% | 84% |  |
+| 49 | 11% | 75% |  |
+| 50 | 12% | 65% |  |
+| 51 | 12% | 53% | Last Result, Median |
+| 52 | 11% | 41% |  |
+| 53 | 10% | 29% |  |
+| 54 | 7% | 20% |  |
+| 55 | 5% | 12% |  |
 | 56 | 3% | 7% |  |
 | 57 | 2% | 4% |  |
 | 58 | 1.0% | 2% |  |
