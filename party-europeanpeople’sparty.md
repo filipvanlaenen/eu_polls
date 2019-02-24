@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 169 | 162–177 | 159–179 | 158–181 | 154–184 |
+| European People’s Party | 217 | 169 | 161–177 | 159–179 | 157–180 | 154–184 |
 | CDU (EPP) | | 25 | 23–27 | 23–27 | 22–27 | 22–28 |
 | Platforma Obywatelska (EPP) | | 16 | 11–18 | 11–19 | 10–19 | 10–20 |
 | Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
@@ -28,11 +28,11 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Polskie Stronnictwo Ludowe (EPP) | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Slovenska demokratska stranka (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka (EPP) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Kristdemokraterna (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Kristdemokraterna (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -49,7 +49,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Nova Slovenija–Krščanski demokrati (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | SPOLU–Občianska Demokracia (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Starostové a nezávislí (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,40 +65,41 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0% | 100% |  |
+| 150 | 0% | 100% |  |
+| 151 | 0.1% | 99.9% |  |
 | 152 | 0.1% | 99.9% |  |
-| 153 | 0.1% | 99.8% |  |
-| 154 | 0.2% | 99.7% |  |
-| 155 | 0.4% | 99.5% |  |
-| 156 | 0.6% | 99.1% |  |
-| 157 | 0.8% | 98.6% |  |
-| 158 | 1.2% | 98% |  |
-| 159 | 2% | 97% |  |
-| 160 | 2% | 95% |  |
-| 161 | 3% | 93% |  |
-| 162 | 3% | 90% |  |
-| 163 | 4% | 87% |  |
-| 164 | 4% | 83% |  |
-| 165 | 5% | 79% |  |
-| 166 | 6% | 74% |  |
-| 167 | 6% | 68% |  |
-| 168 | 6% | 62% |  |
-| 169 | 7% | 56% | Median |
-| 170 | 7% | 49% |  |
-| 171 | 6% | 43% |  |
-| 172 | 6% | 36% |  |
-| 173 | 6% | 30% |  |
-| 174 | 5% | 25% |  |
-| 175 | 4% | 19% |  |
-| 176 | 4% | 15% |  |
-| 177 | 3% | 11% |  |
-| 178 | 2% | 8% |  |
-| 179 | 2% | 6% |  |
-| 180 | 1.3% | 4% |  |
-| 181 | 0.9% | 3% |  |
-| 182 | 0.6% | 2% |  |
-| 183 | 0.4% | 1.0% |  |
-| 184 | 0.3% | 0.6% |  |
+| 153 | 0.2% | 99.8% |  |
+| 154 | 0.3% | 99.6% |  |
+| 155 | 0.5% | 99.2% |  |
+| 156 | 0.7% | 98.8% |  |
+| 157 | 1.0% | 98% |  |
+| 158 | 1.4% | 97% |  |
+| 159 | 2% | 96% |  |
+| 160 | 2% | 94% |  |
+| 161 | 3% | 91% |  |
+| 162 | 3% | 89% |  |
+| 163 | 4% | 85% |  |
+| 164 | 5% | 81% |  |
+| 165 | 5% | 76% |  |
+| 166 | 6% | 71% |  |
+| 167 | 6% | 65% |  |
+| 168 | 6% | 59% |  |
+| 169 | 6% | 53% | Median |
+| 170 | 6% | 47% |  |
+| 171 | 6% | 40% |  |
+| 172 | 6% | 34% |  |
+| 173 | 5% | 28% |  |
+| 174 | 5% | 23% |  |
+| 175 | 4% | 18% |  |
+| 176 | 3% | 14% |  |
+| 177 | 3% | 10% |  |
+| 178 | 2% | 7% |  |
+| 179 | 2% | 5% |  |
+| 180 | 1.2% | 4% |  |
+| 181 | 0.9% | 2% |  |
+| 182 | 0.6% | 1.5% |  |
+| 183 | 0.4% | 0.9% |  |
+| 184 | 0.2% | 0.5% |  |
 | 185 | 0.1% | 0.3% |  |
 | 186 | 0.1% | 0.2% |  |
 | 187 | 0% | 0.1% |  |
