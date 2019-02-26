@@ -14,7 +14,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Ecolo (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
-| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Groen (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
 | Vihreä liitto (Greens/EFA) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,29 +43,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.2% | 99.8% |  |
+| 35 | 0.1% | 99.8% |  |
 | 36 | 0.4% | 99.7% |  |
-| 37 | 1.0% | 99.2% |  |
+| 37 | 0.9% | 99.3% |  |
 | 38 | 2% | 98% |  |
-| 39 | 3% | 96% |  |
-| 40 | 4% | 93% |  |
-| 41 | 6% | 89% |  |
-| 42 | 8% | 83% |  |
-| 43 | 9% | 75% |  |
-| 44 | 11% | 66% |  |
-| 45 | 11% | 55% | Last Result, Median |
-| 46 | 11% | 44% |  |
-| 47 | 9% | 33% |  |
-| 48 | 7% | 24% |  |
-| 49 | 5% | 17% |  |
-| 50 | 4% | 12% |  |
-| 51 | 3% | 8% |  |
+| 39 | 3% | 97% |  |
+| 40 | 4% | 94% |  |
+| 41 | 6% | 90% |  |
+| 42 | 7% | 84% |  |
+| 43 | 9% | 77% |  |
+| 44 | 11% | 67% |  |
+| 45 | 11% | 57% | Last Result, Median |
+| 46 | 11% | 46% |  |
+| 47 | 9% | 35% |  |
+| 48 | 7% | 25% |  |
+| 49 | 5% | 18% |  |
+| 50 | 4% | 13% |  |
+| 51 | 3% | 9% |  |
 | 52 | 2% | 6% |  |
-| 53 | 1.4% | 4% |  |
-| 54 | 1.0% | 2% |  |
-| 55 | 0.6% | 1.2% |  |
-| 56 | 0.3% | 0.6% |  |
-| 57 | 0.2% | 0.2% |  |
+| 53 | 2% | 4% |  |
+| 54 | 1.1% | 2% |  |
+| 55 | 0.7% | 1.3% |  |
+| 56 | 0.4% | 0.7% |  |
+| 57 | 0.2% | 0.3% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
