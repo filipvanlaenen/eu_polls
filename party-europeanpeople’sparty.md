@@ -12,7 +12,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | CDU (EPP) | | 25 | 23–27 | 23–27 | 22–27 | 22–28 |
 | Platforma Obywatelska (EPP) | | 16 | 11–18 | 11–19 | 10–19 | 10–20 |
 | Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| Partido Popular (EPP) | | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
+| Partido Popular (EPP) | | 12 | 10–15 | 9–15 | 9–16 | 8–16 |
 | Les Républicains (EPP) | | 10 | 8–13 | 7–13 | 7–13 | 6–14 |
 | Forza Italia (EPP) | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
@@ -23,7 +23,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Fine Gael (EPP) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | CSU (EPP) | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
-| Moderata samlingspartiet (EPP) | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Moderata samlingspartiet (EPP) | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -32,7 +32,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Kristdemokraterna (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0.1% | 99.8% |  |
 | 154 | 0.2% | 99.7% |  |
 | 155 | 0.4% | 99.4% |  |
-| 156 | 0.6% | 99.1% |  |
+| 156 | 0.6% | 99.0% |  |
 | 157 | 0.9% | 98% |  |
 | 158 | 1.2% | 98% |  |
 | 159 | 2% | 96% |  |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 0.9% | 3% |  |
 | 182 | 0.6% | 2% |  |
 | 183 | 0.4% | 1.0% |  |
-| 184 | 0.2% | 0.6% |  |
+| 184 | 0.3% | 0.6% |  |
 | 185 | 0.1% | 0.3% |  |
 | 186 | 0.1% | 0.2% |  |
 | 187 | 0% | 0.1% |  |
