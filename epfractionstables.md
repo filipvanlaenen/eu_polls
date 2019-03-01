@@ -346,7 +346,6 @@ current EP fractions.
 
 | Party Name                                                             | Abbreviation | EP Fraction | Rationale                                                                                             |
 |:-----------------------------------------------------------------------|:-------------|:------------|:------------------------------------------------------------------------------------------------------|
-| Mișcarea România Împreună                                              | RO+          | ALDE        | New party; has announced that it will cooperate with the ALDE parties                                 |
 | Partidul Alianța Liberalilor și Democraților                           | ALDE         | ALDE        | Current member                                                                                        |
 | Partidul Libertății, Unității și Solidarității                         | PLUS         | EPP         | Current member                                                                                        |
 | Partidul Mișcarea Populară                                             | PMP          | EPP         | Current member                                                                                        |
