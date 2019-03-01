@@ -318,17 +318,18 @@ current EP fractions.
 
 ## Poland
 
-| Party Name                   | Abbreviation | EP Fraction | Rationale                            |
-|:-----------------------------|:-------------|:------------|:-------------------------------------|
-| KORWiN                       | W            | EFDD        | Current member                       |
-| Kukiz’15                     | K            | EFDD        | New party; has informal ties to EFDD |
-| .Nowoczesna                  | .N           | ALDE        | Current member                       |
-| Partia Razem                 | R            | *           | New party                            |
-| Platforma Obywatelska        | PO           | EPP         | Current member                       |
-| Polskie Stronnictwo Ludowe   | PSL          | EPP         | Current member                       |
-| Prawo i Sprawiedliwość       | PiS          | ECR         | Current member                       |
-| Sojusz Lewicy Demokratycznej | SLD          | S&D         | Current member                       |
-| Wiosna                       | Wi           | S&D         | New party; has informal ties to S&D  |
+| Party Name                   | Abbreviation | EP Fraction | Rationale                                          |
+|:-----------------------------|:-------------|:------------|:---------------------------------------------------|
+| KORWiN                       | W            | EFDD        | Current member                                     |
+| Kukiz’15                     | K            | EFDD        | New party; has informal ties to EFDD               |
+| .Nowoczesna                  | .N           | ALDE        | Current member                                     |
+| Partia Razem                 | R            | *           | New party                                          |
+| Platforma Obywatelska        | PO           | EPP         | Current member                                     |
+| Polskie Stronnictwo Ludowe   | PSL          | EPP         | Current member                                     |
+| Prawo i Sprawiedliwość       | PiS          | ECR         | Current member                                     |
+| Sojusz Lewicy Demokratycznej | SLD          | S&D         | Current member                                     |
+| Wiosna                       | Wi           | S&D         | New party; has informal ties to S&D                |
+| Wiosna–Partia Razem          | Wi–R         | S&D         | Electoral alliance between Wiosna and Partia Razem |
 
 ## Portugal
 
