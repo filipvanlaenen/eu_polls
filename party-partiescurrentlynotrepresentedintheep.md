@@ -20,7 +20,6 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partia Razem (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! (*) | | 0 | 0 | 0 | 0 | 0 |
 | Sininen tulevaisuus (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -46,12 +45,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.2% | 100% |  |
 | 5 | 3% | 99.8% |  |
 | 6 | 12% | 97% |  |
-| 7 | 24% | 85% |  |
-| 8 | 27% | 61% | Median |
-| 9 | 20% | 33% |  |
-| 10 | 9% | 14% |  |
+| 7 | 25% | 85% |  |
+| 8 | 27% | 60% | Median |
+| 9 | 19% | 33% |  |
+| 10 | 9% | 13% |  |
 | 11 | 3% | 4% |  |
-| 12 | 0.9% | 1.1% |  |
+| 12 | 0.8% | 1.1% |  |
 | 13 | 0.2% | 0.3% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
