@@ -21,7 +21,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Perussuomalaiset (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita (ECR) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Eesti Konservatiivne Rahvaerakond (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond (ECR) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 1 | 1 |
@@ -47,19 +47,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 2% | 98% |  |
 | 51 | 3% | 96% |  |
 | 52 | 5% | 92% |  |
-| 53 | 6% | 88% | Last Result |
+| 53 | 7% | 88% | Last Result |
 | 54 | 8% | 81% |  |
 | 55 | 10% | 73% |  |
 | 56 | 11% | 63% |  |
-| 57 | 11% | 53% | Median |
+| 57 | 11% | 52% | Median |
 | 58 | 10% | 42% |  |
 | 59 | 9% | 31% |  |
 | 60 | 8% | 22% |  |
 | 61 | 6% | 14% |  |
 | 62 | 4% | 9% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.2% | 2% |  |
-| 65 | 0.5% | 0.8% |  |
+| 63 | 2% | 5% |  |
+| 64 | 1.3% | 2% |  |
+| 65 | 0.6% | 0.9% |  |
 | 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |

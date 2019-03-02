@@ -17,7 +17,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Groen (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
 | Vihreä liitto (Greens/EFA) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Die Grünen–Die Grüne Alternative (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Die Grünen–Die Grüne Alternative (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | LMP (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
@@ -26,7 +26,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Alternattiva Demokratika (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
-| JETZT–Liste Pilz (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| JETZT–Liste Pilz (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Miljöpartiet de gröna (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -44,15 +44,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
 | 35 | 0.2% | 99.8% |  |
-| 36 | 0.5% | 99.6% |  |
-| 37 | 1.1% | 99.1% |  |
+| 36 | 0.4% | 99.6% |  |
+| 37 | 1.0% | 99.2% |  |
 | 38 | 2% | 98% |  |
 | 39 | 3% | 96% |  |
-| 40 | 5% | 93% |  |
-| 41 | 6% | 88% |  |
-| 42 | 8% | 82% |  |
-| 43 | 9% | 74% |  |
-| 44 | 10% | 65% |  |
+| 40 | 4% | 93% |  |
+| 41 | 6% | 89% |  |
+| 42 | 8% | 83% |  |
+| 43 | 9% | 75% |  |
+| 44 | 11% | 65% |  |
 | 45 | 11% | 55% | Last Result, Median |
 | 46 | 10% | 44% |  |
 | 47 | 9% | 34% |  |
