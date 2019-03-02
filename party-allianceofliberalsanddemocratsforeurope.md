@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 102 | 95–108 | 94–110 | 93–111 | 90–114 |
+| Alliance of Liberals and Democrats for Europe | 67 | 102 | 96–108 | 94–110 | 93–111 | 90–114 |
 | La République en marche–Mouvement démocrate (ALDE) | | 19 | 16–22 | 16–23 | 16–24 | 16–26 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 11 | 8–12 | 8–13 | 8–13 | 7–14 |
 | ANO 2011 (ALDE) | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
@@ -51,7 +51,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demòcrata Europeu Català (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Più Europa (ALDE) | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0.1% | 100% |  |
 | 89 | 0.2% | 99.9% |  |
 | 90 | 0.4% | 99.7% |  |
-| 91 | 0.7% | 99.3% |  |
+| 91 | 0.6% | 99.3% |  |
 | 92 | 1.1% | 98.7% |  |
 | 93 | 2% | 98% |  |
 | 94 | 2% | 96% |  |
@@ -99,22 +99,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 5% | 86% |  |
 | 98 | 6% | 80% |  |
 | 99 | 7% | 74% |  |
-| 100 | 8% | 66% |  |
+| 100 | 8% | 67% |  |
 | 101 | 8% | 59% |  |
-| 102 | 8% | 50% | Median |
-| 103 | 8% | 42% |  |
-| 104 | 7% | 34% |  |
-| 105 | 6% | 27% |  |
+| 102 | 8% | 51% | Median |
+| 103 | 8% | 43% |  |
+| 104 | 7% | 35% |  |
+| 105 | 6% | 28% |  |
 | 106 | 5% | 21% |  |
-| 107 | 4% | 15% |  |
+| 107 | 4% | 16% |  |
 | 108 | 3% | 11% |  |
 | 109 | 3% | 8% |  |
 | 110 | 2% | 5% |  |
-| 111 | 1.2% | 3% |  |
+| 111 | 1.3% | 3% |  |
 | 112 | 0.8% | 2% |  |
-| 113 | 0.5% | 1.1% |  |
-| 114 | 0.3% | 0.6% |  |
-| 115 | 0.2% | 0.3% |  |
+| 113 | 0.5% | 1.2% |  |
+| 114 | 0.3% | 0.7% |  |
+| 115 | 0.2% | 0.4% |  |
 | 116 | 0.1% | 0.2% |  |
 | 117 | 0% | 0.1% |  |
 | 118 | 0% | 0% |  |
