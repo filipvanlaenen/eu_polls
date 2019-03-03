@@ -8,9 +8,9 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 45 | 40–50 | 39–52 | 38–53 | 36–56 |
-| BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 18 | 14–20 | 14–21 | 14–22 | 13–22 |
-| Europe Écologie Les Verts (Greens/EFA) | | 8 | 6–13 | 6–13 | 5–16 | 0–16 |
+| Greens–European Free Alliance | 45 | 44 | 39–48 | 38–49 | 37–50 | 35–52 |
+| BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 17 | 13–19 | 13–20 | 13–20 | 13–20 |
+| Europe Écologie Les Verts (Greens/EFA) | | 8 | 5–11 | 5–12 | 5–12 | 0–12 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Ecolo (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
@@ -30,7 +30,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Miljöpartiet de gröna (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -40,34 +40,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% |  |
-| 33 | 0% | 99.9% |  |
-| 34 | 0.1% | 99.9% |  |
-| 35 | 0.2% | 99.8% |  |
-| 36 | 0.4% | 99.6% |  |
-| 37 | 1.0% | 99.2% |  |
-| 38 | 2% | 98% |  |
-| 39 | 3% | 96% |  |
-| 40 | 4% | 93% |  |
-| 41 | 6% | 89% |  |
-| 42 | 8% | 83% |  |
-| 43 | 9% | 75% |  |
-| 44 | 11% | 65% |  |
-| 45 | 11% | 55% | Last Result, Median |
-| 46 | 10% | 44% |  |
-| 47 | 9% | 34% |  |
-| 48 | 7% | 25% |  |
-| 49 | 5% | 18% |  |
-| 50 | 4% | 13% |  |
-| 51 | 3% | 9% |  |
-| 52 | 2% | 6% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.0% | 2% |  |
-| 55 | 0.7% | 1.4% |  |
-| 56 | 0.4% | 0.8% |  |
-| 57 | 0.2% | 0.4% |  |
-| 58 | 0.1% | 0.2% |  |
-| 59 | 0% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0.1% | 99.9% |  |
+| 33 | 0.1% | 99.9% |  |
+| 34 | 0.2% | 99.8% |  |
+| 35 | 0.5% | 99.6% |  |
+| 36 | 1.1% | 99.1% |  |
+| 37 | 2% | 98% |  |
+| 38 | 3% | 96% |  |
+| 39 | 5% | 93% |  |
+| 40 | 7% | 88% |  |
+| 41 | 9% | 81% |  |
+| 42 | 10% | 72% |  |
+| 43 | 11% | 62% |  |
+| 44 | 11% | 51% | Median |
+| 45 | 11% | 39% | Last Result |
+| 46 | 9% | 28% |  |
+| 47 | 7% | 19% |  |
+| 48 | 5% | 12% |  |
+| 49 | 3% | 7% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.5% | 0.8% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 
