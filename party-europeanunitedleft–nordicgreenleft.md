@@ -15,7 +15,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,7 +45,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.5% | 99.8% |  |
+| 42 | 0.5% | 99.7% |  |
 | 43 | 1.1% | 99.3% |  |
 | 44 | 2% | 98% |  |
 | 45 | 4% | 96% |  |
@@ -56,8 +56,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 13% | 49% |  |
 | 51 | 11% | 36% | Last Result |
 | 52 | 9% | 24% |  |
-| 53 | 6% | 16% |  |
-| 54 | 4% | 10% |  |
+| 53 | 6% | 15% |  |
+| 54 | 4% | 9% |  |
 | 55 | 2% | 6% |  |
 | 56 | 1.4% | 3% |  |
 | 57 | 0.8% | 2% |  |
