@@ -30,7 +30,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Christen-Democratisch Appèl (EPP) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Christen-Democratisch Appèl (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Kristdemokraterna (EPP) | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.2% | 99.8% |  |
 | 161 | 0.3% | 99.7% |  |
 | 162 | 0.4% | 99.4% |  |
-| 163 | 0.7% | 98.9% |  |
+| 163 | 0.7% | 99.0% |  |
 | 164 | 1.0% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 2% | 96% |  |
@@ -81,14 +81,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 174 | 8% | 57% | Median |
 | 175 | 7% | 49% |  |
 | 176 | 7% | 42% |  |
-| 177 | 7% | 35% |  |
+| 177 | 7% | 34% |  |
 | 178 | 6% | 28% |  |
 | 179 | 5% | 22% |  |
 | 180 | 4% | 17% |  |
 | 181 | 3% | 13% |  |
 | 182 | 3% | 9% |  |
 | 183 | 2% | 7% |  |
-| 184 | 2% | 5% |  |
+| 184 | 1.5% | 4% |  |
 | 185 | 1.1% | 3% |  |
 | 186 | 0.7% | 2% |  |
 | 187 | 0.5% | 1.2% |  |

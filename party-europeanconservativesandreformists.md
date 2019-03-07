@@ -8,7 +8,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 57 | 52–61 | 51–63 | 50–64 | 48–65 |
+| European Conservatives and Reformists | 53 | 57 | 52–61 | 51–62 | 50–63 | 48–65 |
 | Prawo i Sprawiedliwość (ECR) | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Vox (ECR) | | 7 | 4–8 | 4–9 | 3–9 | 3–9 |
 | N-VA (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -27,7 +27,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Обединени Патриоти (ECR) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Lietuvos Centro Partija (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -46,20 +46,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 2% | 98% |  |
 | 51 | 3% | 96% |  |
 | 52 | 4% | 93% |  |
-| 53 | 6% | 89% | Last Result |
-| 54 | 8% | 83% |  |
-| 55 | 9% | 75% |  |
+| 53 | 6% | 88% | Last Result |
+| 54 | 8% | 82% |  |
+| 55 | 9% | 74% |  |
 | 56 | 10% | 65% |  |
-| 57 | 11% | 55% | Median |
+| 57 | 11% | 54% | Median |
 | 58 | 10% | 44% |  |
-| 59 | 10% | 34% |  |
-| 60 | 8% | 24% |  |
-| 61 | 6% | 16% |  |
-| 62 | 4% | 10% |  |
+| 59 | 10% | 33% |  |
+| 60 | 8% | 23% |  |
+| 61 | 6% | 15% |  |
+| 62 | 4% | 9% |  |
 | 63 | 3% | 5% |  |
-| 64 | 1.5% | 3% |  |
-| 65 | 0.7% | 1.1% |  |
-| 66 | 0.3% | 0.4% |  |
+| 64 | 1.4% | 2% |  |
+| 65 | 0.6% | 1.0% |  |
+| 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 
