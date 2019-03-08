@@ -114,6 +114,7 @@ current EP fractions.
 | Dansk Folkeparti            | O            | ECR         | Current member                                                                  |
 | Det Konservative Folkeparti | C            | EPP         | Current member                                                                  |
 | Enhedslisten–De Rød-Grønne  | Ø            | GUE/NGL     | Current member                                                                  |
+| Klaus Riskær Pedersen       | D            | *           | New party                                                                       |
 | Kristendemokraterne         | K            | EPP         | Current member                                                                  |
 | Liberal Alliance            | I            | ALDE        | Current member                                                                  |
 | Nye Borgerlige              | D            | *           | New party                                                                       |
