@@ -15,7 +15,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Εθνικό Λαϊκό Μέτωπο (*) | | 1 | 1 | 1 | 1 | 1 |
 | Aliança (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0–1 |
-| Denk (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Denk (*) | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Eesti Vabaerakond (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -49,12 +49,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 4% | 99.5% |  |
 | 6 | 13% | 96% |  |
 | 7 | 24% | 83% |  |
-| 8 | 27% | 59% | Median |
-| 9 | 19% | 32% |  |
-| 10 | 9% | 12% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.6% | 0.8% |  |
-| 13 | 0.1% | 0.2% |  |
+| 8 | 27% | 60% | Median |
+| 9 | 19% | 33% |  |
+| 10 | 9% | 13% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.7% | 0.9% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

@@ -8,19 +8,19 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 103 | 97–109 | 95–111 | 93–113 | 90–116 |
-| La République en marche–Mouvement démocrate (ALDE) | | 22 | 17–24 | 16–25 | 16–26 | 16–27 |
+| Alliance of Liberals and Democrats for Europe | 67 | 103 | 97–110 | 95–112 | 94–113 | 91–116 |
+| La République en marche–Mouvement démocrate (ALDE) | | 22 | 18–24 | 18–25 | 17–26 | 16–27 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 11 | 8–12 | 8–13 | 8–13 | 7–14 |
 | ANO 2011 (ALDE) | | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
 | FDP (ALDE) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
-| Volkspartij voor Vrijheid en Democratie (ALDE) | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–4 |
 | PRO România (ALDE) | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Venstre (ALDE) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Democraten 66 (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Eesti Keskerakond (ALDE) | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Eesti Reformierakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca (ALDE) | | 2 | 1–5 | 1–5 | 1–5 | 1–6 |
@@ -39,7 +39,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0–5 | 0–5 |
 | Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -86,38 +86,39 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
-| 88 | 0.1% | 100% |  |
+| 88 | 0% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
-| 90 | 0.3% | 99.7% |  |
-| 91 | 0.4% | 99.5% |  |
-| 92 | 0.7% | 99.0% |  |
-| 93 | 1.1% | 98% |  |
-| 94 | 2% | 97% |  |
-| 95 | 2% | 96% |  |
-| 96 | 3% | 93% |  |
-| 97 | 4% | 90% |  |
-| 98 | 5% | 86% |  |
-| 99 | 6% | 81% |  |
-| 100 | 7% | 75% |  |
-| 101 | 7% | 69% |  |
-| 102 | 8% | 61% |  |
-| 103 | 8% | 54% | Median |
-| 104 | 8% | 46% |  |
-| 105 | 7% | 38% |  |
-| 106 | 7% | 31% |  |
-| 107 | 6% | 24% |  |
-| 108 | 5% | 19% |  |
-| 109 | 4% | 14% |  |
-| 110 | 3% | 10% |  |
-| 111 | 2% | 7% |  |
+| 90 | 0.2% | 99.9% |  |
+| 91 | 0.3% | 99.7% |  |
+| 92 | 0.5% | 99.4% |  |
+| 93 | 0.9% | 98.9% |  |
+| 94 | 1.3% | 98% |  |
+| 95 | 2% | 97% |  |
+| 96 | 3% | 95% |  |
+| 97 | 4% | 92% |  |
+| 98 | 5% | 88% |  |
+| 99 | 6% | 84% |  |
+| 100 | 7% | 78% |  |
+| 101 | 7% | 71% |  |
+| 102 | 8% | 64% |  |
+| 103 | 8% | 56% | Median |
+| 104 | 8% | 48% |  |
+| 105 | 7% | 40% |  |
+| 106 | 7% | 33% |  |
+| 107 | 6% | 26% |  |
+| 108 | 5% | 20% |  |
+| 109 | 4% | 15% |  |
+| 110 | 3% | 11% |  |
+| 111 | 2% | 8% |  |
 | 112 | 2% | 5% |  |
-| 113 | 1.1% | 3% |  |
-| 114 | 0.8% | 2% |  |
-| 115 | 0.5% | 1.1% |  |
-| 116 | 0.3% | 0.7% |  |
+| 113 | 1.3% | 3% |  |
+| 114 | 0.9% | 2% |  |
+| 115 | 0.6% | 1.3% |  |
+| 116 | 0.3% | 0.8% |  |
 | 117 | 0.2% | 0.4% |  |
 | 118 | 0.1% | 0.2% |  |
 | 119 | 0.1% | 0.1% |  |
-| 120 | 0% | 0% |  |
+| 120 | 0% | 0.1% |  |
+| 121 | 0% | 0% |  |
 
 

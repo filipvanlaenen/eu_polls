@@ -8,10 +8,10 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 49 | 46–53 | 45–55 | 44–56 | 42–58 |
+| European United Left–Nordic Green Left | 51 | 49 | 45–53 | 44–55 | 42–56 | 39–58 |
 | Unidos Podemos (GUE/NGL) | | 9 | 7–10 | 7–10 | 6–11 | 5–11 |
-| DIE LINKE (GUE/NGL) | | 8 | 6–9 | 5–10 | 5–10 | 5–11 |
-| La France insoumise (GUE/NGL) | | 7 | 6–10 | 6–11 | 6–13 | 5–14 |
+| DIE LINKE (GUE/NGL) | | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
+| La France insoumise (GUE/NGL) | | 7 | 6–10 | 5–11 | 0–13 | 0–14 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -32,7 +32,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Parti communiste français (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -43,28 +43,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
-| 41 | 0.2% | 99.9% |  |
-| 42 | 0.4% | 99.8% |  |
-| 43 | 1.1% | 99.3% |  |
-| 44 | 2% | 98% |  |
-| 45 | 4% | 96% |  |
-| 46 | 7% | 92% |  |
-| 47 | 10% | 85% |  |
-| 48 | 12% | 76% |  |
-| 49 | 14% | 63% | Median |
-| 50 | 13% | 50% |  |
-| 51 | 12% | 36% | Last Result |
-| 52 | 9% | 25% |  |
-| 53 | 6% | 16% |  |
-| 54 | 4% | 10% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0.1% | 99.9% |  |
+| 38 | 0.2% | 99.9% |  |
+| 39 | 0.3% | 99.7% |  |
+| 40 | 0.4% | 99.4% |  |
+| 41 | 0.7% | 99.0% |  |
+| 42 | 1.0% | 98% |  |
+| 43 | 2% | 97% |  |
+| 44 | 3% | 96% |  |
+| 45 | 4% | 93% |  |
+| 46 | 7% | 89% |  |
+| 47 | 10% | 82% |  |
+| 48 | 12% | 72% |  |
+| 49 | 13% | 60% | Median |
+| 50 | 13% | 47% |  |
+| 51 | 11% | 34% | Last Result |
+| 52 | 8% | 23% |  |
+| 53 | 6% | 15% |  |
+| 54 | 4% | 9% |  |
 | 55 | 2% | 6% |  |
-| 56 | 1.5% | 3% |  |
+| 56 | 1.4% | 3% |  |
 | 57 | 0.9% | 2% |  |
-| 58 | 0.5% | 0.9% |  |
-| 59 | 0.2% | 0.4% |  |
+| 58 | 0.5% | 1.0% |  |
+| 59 | 0.3% | 0.5% |  |
 | 60 | 0.1% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
+| 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
 
