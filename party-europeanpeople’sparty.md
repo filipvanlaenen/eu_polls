@@ -8,11 +8,11 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 175 | 167–182 | 166–184 | 164–185 | 161–189 |
+| European People’s Party | 217 | 174 | 167–182 | 166–184 | 164–185 | 161–189 |
 | CDU (EPP) | | 25 | 22–27 | 22–28 | 22–28 | 21–29 |
 | Koalicja Europejska (EPP) | | 18 | 14–23 | 13–24 | 12–24 | 12–25 |
-| Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| Partido Popular (EPP) | | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
+| Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| Partido Popular (EPP) | | 12 | 10–14 | 9–15 | 9–16 | 8–16 |
 | Les Républicains (EPP) | | 10 | 8–13 | 7–13 | 7–14 | 6–15 |
 | Forza Italia (EPP) | | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
 | Partidul Național Liberal (EPP) | | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
@@ -76,11 +76,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 4% | 90% |  |
 | 169 | 4% | 86% |  |
 | 170 | 5% | 82% |  |
-| 171 | 6% | 77% |  |
-| 172 | 7% | 71% |  |
+| 171 | 6% | 76% |  |
+| 172 | 7% | 70% |  |
 | 173 | 7% | 64% |  |
-| 174 | 7% | 57% |  |
-| 175 | 7% | 50% | Median |
+| 174 | 7% | 57% | Median |
+| 175 | 7% | 50% |  |
 | 176 | 7% | 43% |  |
 | 177 | 6% | 36% |  |
 | 178 | 6% | 30% |  |
@@ -92,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 184 | 2% | 5% |  |
 | 185 | 1.2% | 4% |  |
 | 186 | 0.9% | 2% |  |
-| 187 | 0.6% | 2% |  |
+| 187 | 0.6% | 1.5% |  |
 | 188 | 0.4% | 0.9% |  |
 | 189 | 0.2% | 0.5% |  |
 | 190 | 0.1% | 0.3% |  |
