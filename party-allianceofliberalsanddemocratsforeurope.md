@@ -18,7 +18,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–4 |
 | PRO România (ALDE) | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Venstre (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Venstre (ALDE) | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Eesti Keskerakond (ALDE) | | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -37,7 +37,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Radikale Venstre (ALDE) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -51,7 +51,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demòcrata Europeu Català (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Più Europa (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -89,17 +89,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.2% | 99.8% |  |
-| 91 | 0.3% | 99.6% |  |
+| 91 | 0.3% | 99.7% |  |
 | 92 | 0.6% | 99.3% |  |
-| 93 | 1.0% | 98.7% |  |
-| 94 | 2% | 98% |  |
+| 93 | 1.0% | 98.8% |  |
+| 94 | 1.5% | 98% |  |
 | 95 | 2% | 96% |  |
 | 96 | 3% | 94% |  |
 | 97 | 4% | 91% |  |
 | 98 | 5% | 87% |  |
 | 99 | 6% | 82% |  |
 | 100 | 7% | 76% |  |
-| 101 | 7% | 69% |  |
+| 101 | 8% | 69% |  |
 | 102 | 8% | 62% |  |
 | 103 | 8% | 54% | Median |
 | 104 | 8% | 46% |  |

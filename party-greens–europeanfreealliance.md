@@ -22,7 +22,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Socialistisk Folkeparti (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
-| Alternativet (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Alternativet (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Alternattiva Demokratika (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -43,14 +43,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0.1% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.2% | 99.8% |  |
+| 35 | 0.3% | 99.8% |  |
 | 36 | 0.6% | 99.5% |  |
-| 37 | 1.2% | 98.9% |  |
-| 38 | 2% | 98% |  |
+| 37 | 1.3% | 98.9% |  |
+| 38 | 3% | 98% |  |
 | 39 | 4% | 95% |  |
 | 40 | 7% | 91% |  |
 | 41 | 9% | 84% |  |
-| 42 | 12% | 75% |  |
+| 42 | 12% | 74% |  |
 | 43 | 13% | 63% | Median |
 | 44 | 13% | 50% |  |
 | 45 | 12% | 36% | Last Result |
@@ -58,7 +58,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 7% | 15% |  |
 | 48 | 4% | 8% |  |
 | 49 | 2% | 4% |  |
-| 50 | 1.0% | 2% |  |
+| 50 | 1.1% | 2% |  |
 | 51 | 0.4% | 0.6% |  |
 | 52 | 0.1% | 0.2% |  |
 | 53 | 0% | 0% |  |
