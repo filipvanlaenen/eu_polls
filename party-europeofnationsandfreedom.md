@@ -10,7 +10,7 @@ Last result: **36** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Nations and Freedom | 36 | 60 | 56–65 | 55–66 | 55–67 | 53–70 |
 | Lega Nord (ENF) | | 27 | 24–30 | 24–31 | 23–32 | 22–33 |
-| Rassemblement national (ENF) | | 20 | 18–23 | 17–23 | 16–24 | 16–26 |
+| Rassemblement national (ENF) | | 19 | 18–23 | 17–23 | 16–24 | 16–26 |
 | Freiheitliche Partei Österreichs (ENF) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partij voor de Vrijheid (ENF) | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | SME RODINA (ENF) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0.1% | 100% |  |
 | 52 | 0.2% | 99.9% |  |
 | 53 | 0.6% | 99.7% |  |
-| 54 | 1.5% | 99.0% |  |
+| 54 | 1.4% | 99.1% |  |
 | 55 | 3% | 98% |  |
 | 56 | 5% | 95% |  |
 | 57 | 8% | 90% |  |

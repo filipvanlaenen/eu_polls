@@ -8,7 +8,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 43 | 40–47 | 39–48 | 38–49 | 36–51 |
+| Greens–European Free Alliance | 45 | 43 | 40–47 | 39–48 | 38–49 | 35–51 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 17 | 14–19 | 14–20 | 14–20 | 13–21 |
 | Europe Écologie Les Verts (Greens/EFA) | | 8 | 5–10 | 5–10 | 5–10 | 0–11 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -43,7 +43,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0.1% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.3% | 99.8% |  |
+| 35 | 0.3% | 99.7% |  |
 | 36 | 0.6% | 99.5% |  |
 | 37 | 1.3% | 98.9% |  |
 | 38 | 3% | 98% |  |
@@ -53,7 +53,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 12% | 74% |  |
 | 43 | 13% | 63% | Median |
 | 44 | 13% | 50% |  |
-| 45 | 12% | 36% | Last Result |
+| 45 | 12% | 37% | Last Result |
 | 46 | 10% | 25% |  |
 | 47 | 7% | 15% |  |
 | 48 | 4% | 8% |  |
