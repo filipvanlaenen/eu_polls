@@ -155,7 +155,7 @@ current EP fractions.
 | Party Name                                                        | Abbreviation | EP Fraction | Rationale                                            |
 |:------------------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
 | Agir, la droite constructive–Union des démocrates et indépendants | Agir–UDI     | ALDE        | Current member                                       |
-| Debout la France                                                  | DlF          | EFDD        | Current member                                       |
+| Debout la France                                                  | DlF          | ECR         | Current member                                       |
 | Europe Écologie Les Verts                                         | EEV          | Greens/EFA  | Current member                                       |
 | Front national                                                    | FN           | ENF         | Current member                                       |
 | La France insoumise                                               | FI           | GUE/NGL     | Current member                                       |
