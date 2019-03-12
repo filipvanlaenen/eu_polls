@@ -13,11 +13,11 @@
 | <a href="#european-people’s-party">European People’s Party</a> | 217 | 174 | 167–182 |166–184 | 164–185 | 161–189 |
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 169 | 132 | 125–139 |124–141 | 122–142 | 119–145 |
 | <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 67 | 103 | 97–109 |95–111 | 94–113 | 91–116 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 62 | 57–67 |55–69 | 54–70 | 51–72 |
 | <a href="#europe-of-nations-and-freedom">Europe of Nations and Freedom</a> | 36 | 60 | 56–65 |55–66 | 55–67 | 53–70 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 53 | 57 | 52–62 |51–63 | 50–64 | 48–66 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 51 | 50 | 46–54 |45–55 | 44–56 | 42–59 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 45 | 43 | 40–47 |39–48 | 38–49 | 35–51 |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 43 | 38–48 |36–50 | 35–51 | 32–54 |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 25 | 38 | 33–43 |32–44 | 31–46 | 29–48 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 15 | 9 | 8–10 |7–11 | 7–11 | 6–12 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 8 | 6–10 |6–10 | 5–11 | 4–12 |
 
@@ -357,31 +357,34 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0% | 100% |  |
-| 46 | 0.1% | 99.9% |  |
-| 47 | 0.3% | 99.8% |  |
-| 48 | 0.6% | 99.5% |  |
-| 49 | 1.1% | 98.9% |  |
-| 50 | 2% | 98% |  |
-| 51 | 3% | 96% |  |
-| 52 | 4% | 93% |  |
-| 53 | 6% | 88% | Last Result |
-| 54 | 8% | 82% |  |
-| 55 | 9% | 75% |  |
-| 56 | 10% | 66% |  |
-| 57 | 10% | 56% | Median |
-| 58 | 10% | 46% |  |
-| 59 | 9% | 36% |  |
-| 60 | 8% | 26% |  |
-| 61 | 6% | 18% |  |
-| 62 | 5% | 12% |  |
-| 63 | 3% | 7% |  |
-| 64 | 2% | 4% |  |
-| 65 | 1.1% | 2% |  |
-| 66 | 0.6% | 0.9% |  |
-| 67 | 0.2% | 0.4% |  |
-| 68 | 0.1% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.1% | 99.9% |  |
+| 50 | 0.2% | 99.8% |  |
+| 51 | 0.3% | 99.6% |  |
+| 52 | 0.6% | 99.3% |  |
+| 53 | 1.0% | 98.7% | Last Result |
+| 54 | 1.5% | 98% |  |
+| 55 | 2% | 96% |  |
+| 56 | 3% | 94% |  |
+| 57 | 4% | 91% |  |
+| 58 | 6% | 86% |  |
+| 59 | 7% | 81% |  |
+| 60 | 8% | 74% |  |
+| 61 | 9% | 66% |  |
+| 62 | 9% | 57% | Median |
+| 63 | 9% | 47% |  |
+| 64 | 9% | 38% |  |
+| 65 | 8% | 29% |  |
+| 66 | 7% | 21% |  |
+| 67 | 5% | 15% |  |
+| 68 | 4% | 9% |  |
+| 69 | 3% | 6% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.9% | 2% |  |
+| 72 | 0.4% | 0.8% |  |
+| 73 | 0.2% | 0.3% |  |
+| 74 | 0.1% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 ### Europe of Freedom and Direct Democracy
 
@@ -394,36 +397,30 @@
 | 25 | 0% | 100% | Last Result |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0% | 100% |  |
-| 29 | 0% | 100% |  |
-| 30 | 0.1% | 100% |  |
-| 31 | 0.1% | 99.9% |  |
-| 32 | 0.3% | 99.7% |  |
-| 33 | 0.5% | 99.5% |  |
-| 34 | 0.8% | 99.0% |  |
-| 35 | 1.3% | 98% |  |
-| 36 | 2% | 97% |  |
-| 37 | 3% | 95% |  |
-| 38 | 4% | 92% |  |
-| 39 | 6% | 87% |  |
-| 40 | 7% | 82% |  |
-| 41 | 9% | 74% |  |
-| 42 | 10% | 65% |  |
-| 43 | 10% | 56% | Median |
-| 44 | 10% | 45% |  |
-| 45 | 9% | 36% |  |
-| 46 | 7% | 27% |  |
-| 47 | 6% | 20% |  |
-| 48 | 5% | 14% |  |
-| 49 | 3% | 10% |  |
-| 50 | 2% | 6% |  |
-| 51 | 2% | 4% |  |
-| 52 | 1.0% | 2% |  |
-| 53 | 0.6% | 1.2% |  |
-| 54 | 0.3% | 0.6% |  |
-| 55 | 0.2% | 0.3% |  |
-| 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 28 | 0.1% | 99.9% |  |
+| 29 | 0.4% | 99.8% |  |
+| 30 | 0.8% | 99.5% |  |
+| 31 | 2% | 98.7% |  |
+| 32 | 3% | 97% |  |
+| 33 | 4% | 94% |  |
+| 34 | 6% | 90% |  |
+| 35 | 8% | 83% |  |
+| 36 | 10% | 75% |  |
+| 37 | 11% | 65% |  |
+| 38 | 11% | 54% | Median |
+| 39 | 10% | 43% |  |
+| 40 | 9% | 33% |  |
+| 41 | 7% | 24% |  |
+| 42 | 5% | 17% |  |
+| 43 | 4% | 12% |  |
+| 44 | 3% | 8% |  |
+| 45 | 2% | 5% |  |
+| 46 | 1.2% | 3% |  |
+| 47 | 0.7% | 1.4% |  |
+| 48 | 0.4% | 0.7% |  |
+| 49 | 0.2% | 0.3% |  |
+| 50 | 0.1% | 0.1% |  |
+| 51 | 0% | 0% |  |
 
 ### Parties currently not represented in the EP
 
@@ -488,7 +485,7 @@ The seat and voting intentions projection for the European Parliament presented 
 | [Denmark](https://filipvanlaenen.github.io/danish_ep_polls/average.html)                                                     | <strike>13</strike> 14¹ | 1                      | D'Hondt                    | No        |
 | [Estonia](https://filipvanlaenen.github.io/estonian_ep_polls/average.html)                                                   | <strike>6</strike> 7¹   | 1                      | D'Hondt                    | No        |
 | [Finland](https://filipvanlaenen.github.io/finnish_ep_polls/average.html)                                                    | <strike>13</strike> 14¹ | 1                      | D'Hondt                    | No        |
-| France² [⁰](https://github.com/filipvanlaenen/french_ep_polls/blob/master/average.md)                                        | <strike>74</strike> 79¹ | <strike>10</strike> 1² | D'Hondt²                   | 5%²       |
+| France² [⁰](https://filipvanlaenen.github.io/french_ep_polls/average.html)                                                   | <strike>74</strike> 79¹ | <strike>10</strike> 1² | D'Hondt²                   | 5%²       |
 | [Germany](https://filipvanlaenen.github.io/german_ep_polls/average.html)                                                     | 96                      | 1                      | Sainte-Laguë                | No        |
 | [Greece](https://filipvanlaenen.github.io/greek_ep_polls/average.html)                                                       | 21                      | 1                      | Droop                       | 3%        |
 | [Hungary](https://filipvanlaenen.github.io/hungarian_ep_polls/average.html)                                                  | 21                      | 1                      | D'Hondt                    | No        |
