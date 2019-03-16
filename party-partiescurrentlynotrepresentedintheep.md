@@ -11,10 +11,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–10 | 5–11 | 5–12 |
 | Česká pirátská strana (*) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Independents (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Most nezavisnih lista (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 1 | 1 | 1 | 1 | 1 |
 | Aliança (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0 |
 | Denk (*) | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Eesti Vabaerakond (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -22,7 +22,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Klaus Riskær Pedersen (*) | | 0 | 0 | 0 | 0 | 0 |
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0 |
-| Neovisni za Hrvatsku (*) | | 0 | 0 | 0 | 0 | 0 |
+| Neovisni za Hrvatsku (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nye Borgerlige (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -46,16 +46,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 3% | 99.5% |  |
-| 6 | 12% | 96% |  |
-| 7 | 23% | 84% |  |
-| 8 | 27% | 62% | Median |
-| 9 | 20% | 35% |  |
-| 10 | 10% | 15% |  |
-| 11 | 4% | 5% |  |
-| 12 | 0.9% | 1.1% |  |
-| 13 | 0.2% | 0.3% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 4% | 99.5% |  |
+| 6 | 13% | 96% |  |
+| 7 | 24% | 83% |  |
+| 8 | 27% | 59% | Median |
+| 9 | 19% | 31% |  |
+| 10 | 9% | 12% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.7% | 0.9% |  |
+| 13 | 0.1% | 0.2% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

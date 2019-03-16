@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 174 | 167–182 | 166–184 | 164–185 | 161–189 |
+| European People’s Party | 217 | 175 | 168–182 | 166–184 | 164–185 | 161–189 |
 | CDU (EPP) | | 25 | 22–27 | 22–28 | 22–28 | 21–29 |
 | Koalicja Europejska (EPP) | | 18 | 14–23 | 13–24 | 12–24 | 12–25 |
 | Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -22,7 +22,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | CSU (EPP) | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Fine Gael (EPP) | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Hrvatska demokratska zajednica (EPP) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Moderata samlingspartiet (EPP) | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -42,7 +42,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MOST–HÍD (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
-| Det Konservative Folkeparti (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -67,34 +67,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
 | 161 | 0.3% | 99.6% |  |
-| 162 | 0.5% | 99.2% |  |
+| 162 | 0.5% | 99.3% |  |
 | 163 | 0.8% | 98.7% |  |
-| 164 | 1.2% | 98% |  |
+| 164 | 1.1% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 2% | 95% |  |
 | 167 | 3% | 93% |  |
 | 168 | 4% | 90% |  |
-| 169 | 5% | 86% |  |
+| 169 | 4% | 86% |  |
 | 170 | 5% | 82% |  |
-| 171 | 6% | 76% |  |
-| 172 | 7% | 70% |  |
+| 171 | 6% | 77% |  |
+| 172 | 7% | 71% |  |
 | 173 | 7% | 64% |  |
-| 174 | 7% | 57% | Median |
-| 175 | 7% | 50% |  |
+| 174 | 7% | 57% |  |
+| 175 | 7% | 50% | Median |
 | 176 | 7% | 43% |  |
 | 177 | 6% | 36% |  |
-| 178 | 6% | 29% |  |
+| 178 | 6% | 30% |  |
 | 179 | 5% | 24% |  |
 | 180 | 4% | 19% |  |
 | 181 | 4% | 14% |  |
-| 182 | 3% | 10% |  |
+| 182 | 3% | 11% |  |
 | 183 | 2% | 8% |  |
 | 184 | 2% | 5% |  |
-| 185 | 1.2% | 4% |  |
+| 185 | 1.3% | 4% |  |
 | 186 | 0.9% | 2% |  |
-| 187 | 0.6% | 1.5% |  |
+| 187 | 0.6% | 2% |  |
 | 188 | 0.4% | 0.9% |  |
-| 189 | 0.2% | 0.5% |  |
+| 189 | 0.2% | 0.6% |  |
 | 190 | 0.1% | 0.3% |  |
 | 191 | 0.1% | 0.2% |  |
 | 192 | 0% | 0.1% |  |
