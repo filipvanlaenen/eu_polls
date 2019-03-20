@@ -8,7 +8,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 133 | 126–140 | 124–141 | 123–143 | 120–146 |
+| Progressive Alliance of Socialists and Democrats | 169 | 133 | 126–140 | 124–141 | 122–143 | 120–146 |
 | SPD (S&D) | | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
 | Partido Socialista Obrero Español (S&D) | | 16 | 14–19 | 14–19 | 13–19 | 13–20 |
 | Partito Democratico (S&D) | | 14 | 12–16 | 11–16 | 11–16 | 10–17 |
@@ -20,11 +20,11 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Parti socialiste (S&D) | | 5 | 0–6 | 0–7 | 0–7 | 0–8 |
 | Socialdemokraterne (S&D) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Partit Laburista (S&D) | | 4 | 4 | 4 | 4 | 3–4 |
+| Partit Laburista (S&D) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | MSZP–Párbeszéd (S&D) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia (S&D) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socijaldemokratska partija Hrvatske (S&D) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Socijaldemokratska partija Hrvatske (S&D) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | DK (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PS (S&D) | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -53,13 +53,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 117 | 0.1% | 100% |  |
+| 116 | 0% | 100% |  |
+| 117 | 0.1% | 99.9% |  |
 | 118 | 0.1% | 99.9% |  |
 | 119 | 0.2% | 99.8% |  |
 | 120 | 0.4% | 99.5% |  |
-| 121 | 0.6% | 99.1% |  |
-| 122 | 1.0% | 98.5% |  |
-| 123 | 1.5% | 98% |  |
+| 121 | 0.7% | 99.1% |  |
+| 122 | 1.0% | 98% |  |
+| 123 | 1.5% | 97% |  |
 | 124 | 2% | 96% |  |
 | 125 | 3% | 94% |  |
 | 126 | 3% | 91% |  |
@@ -81,11 +82,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 2% | 5% |  |
 | 143 | 1.2% | 3% |  |
 | 144 | 0.8% | 2% |  |
-| 145 | 0.5% | 1.1% |  |
+| 145 | 0.5% | 1.2% |  |
 | 146 | 0.3% | 0.7% |  |
 | 147 | 0.2% | 0.4% |  |
 | 148 | 0.1% | 0.2% |  |
-| 149 | 0% | 0.1% |  |
+| 149 | 0.1% | 0.1% |  |
 | 150 | 0% | 0% |  |
 | 151 | 0% | 0% |  |
 | 152 | 0% | 0% |  |
