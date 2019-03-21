@@ -162,6 +162,8 @@ current EP fractions.
 | La République en marche–Mouvement démocrate                       | LREM–MoDem   | ALDE        | Current member (MoDem)                               |
 | Les Patriotes                                                     | LP           | EFDD        | Current member                                       |
 | Les Républicains                                                  | LR           | EPP         | Current member                                       |
+| Lutte Ouvrière                                                    | LO           | *           | Currently not represented in the European Parliament |
+| Mouvement des gilets jaunes                                       | GJ           | *           | Hypothetical new party                               |
 | Parti communiste français                                         | PCF          | GUE/NGL     | Current member                                       |
 | Parti socialiste                                                  | PS           | S&D         | Current member                                       |
 | Union populaire républicaine                                      | UPR          | *           | Currently not represented in the European Parliament |
