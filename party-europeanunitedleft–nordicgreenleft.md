@@ -24,12 +24,12 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij voor de Dieren (GUE/NGL) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti communiste français (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
-| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -46,25 +46,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 99.9% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.4% | 99.7% |  |
-| 43 | 1.0% | 99.2% |  |
+| 42 | 0.5% | 99.7% |  |
+| 43 | 1.1% | 99.2% |  |
 | 44 | 2% | 98% |  |
 | 45 | 4% | 96% |  |
 | 46 | 7% | 92% |  |
 | 47 | 10% | 85% |  |
-| 48 | 12% | 76% |  |
-| 49 | 14% | 64% | Median |
-| 50 | 13% | 50% |  |
-| 51 | 11% | 37% | Last Result |
+| 48 | 12% | 75% |  |
+| 49 | 13% | 62% | Median |
+| 50 | 13% | 49% |  |
+| 51 | 11% | 36% | Last Result |
 | 52 | 9% | 25% |  |
 | 53 | 6% | 16% |  |
 | 54 | 4% | 10% |  |
-| 55 | 3% | 6% |  |
+| 55 | 2% | 6% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.0% | 2% |  |
-| 58 | 0.6% | 1.2% |  |
+| 58 | 0.6% | 1.1% |  |
 | 59 | 0.3% | 0.6% |  |
-| 60 | 0.2% | 0.3% |  |
+| 60 | 0.2% | 0.2% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
