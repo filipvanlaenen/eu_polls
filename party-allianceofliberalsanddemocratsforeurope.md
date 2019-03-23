@@ -51,7 +51,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Liberalerna (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa (ALDE) | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Più Europa (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 1.4% | 98% |  |
 | 95 | 2% | 97% |  |
 | 96 | 3% | 94% |  |
-| 97 | 4% | 92% |  |
+| 97 | 4% | 91% |  |
 | 98 | 5% | 88% |  |
 | 99 | 6% | 83% |  |
 | 100 | 7% | 77% |  |
@@ -103,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 8% | 63% |  |
 | 103 | 8% | 55% | Median |
 | 104 | 8% | 47% |  |
-| 105 | 7% | 40% |  |
+| 105 | 7% | 39% |  |
 | 106 | 7% | 32% |  |
-| 107 | 6% | 26% |  |
+| 107 | 6% | 25% |  |
 | 108 | 5% | 20% |  |
 | 109 | 4% | 15% |  |
 | 110 | 3% | 11% |  |
@@ -114,7 +114,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 113 | 1.3% | 4% |  |
 | 114 | 0.9% | 2% |  |
 | 115 | 0.6% | 1.4% |  |
-| 116 | 0.4% | 0.9% |  |
+| 116 | 0.4% | 0.8% |  |
 | 117 | 0.2% | 0.5% |  |
 | 118 | 0.1% | 0.3% |  |
 | 119 | 0.1% | 0.1% |  |
