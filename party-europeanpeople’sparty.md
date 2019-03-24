@@ -14,7 +14,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular (EPP) | | 12 | 10–14 | 9–15 | 9–16 | 8–16 |
 | Les Républicains (EPP) | | 10 | 8–13 | 7–13 | 7–14 | 6–15 |
-| Forza Italia (EPP) | | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| Forza Italia (EPP) | | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Partidul Național Liberal (EPP) | | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
 | 161 | 0.3% | 99.6% |  |
-| 162 | 0.5% | 99.3% |  |
+| 162 | 0.4% | 99.4% |  |
 | 163 | 0.7% | 98.9% |  |
 | 164 | 1.0% | 98% |  |
 | 165 | 1.5% | 97% |  |
@@ -75,13 +75,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 167 | 3% | 94% |  |
 | 168 | 3% | 91% |  |
 | 169 | 4% | 88% |  |
-| 170 | 5% | 83% |  |
-| 171 | 6% | 78% |  |
+| 170 | 5% | 84% |  |
+| 171 | 6% | 79% |  |
 | 172 | 6% | 73% |  |
-| 173 | 7% | 66% |  |
+| 173 | 7% | 67% |  |
 | 174 | 7% | 60% |  |
 | 175 | 7% | 53% | Median |
-| 176 | 7% | 45% |  |
+| 176 | 7% | 46% |  |
 | 177 | 7% | 39% |  |
 | 178 | 6% | 32% |  |
 | 179 | 5% | 26% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 185 | 1.4% | 4% |  |
 | 186 | 1.0% | 3% |  |
 | 187 | 0.7% | 2% |  |
-| 188 | 0.5% | 1.1% |  |
+| 188 | 0.5% | 1.2% |  |
 | 189 | 0.3% | 0.7% |  |
 | 190 | 0.2% | 0.4% |  |
 | 191 | 0.1% | 0.2% |  |
