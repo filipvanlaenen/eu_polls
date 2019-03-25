@@ -11,7 +11,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–10 | 5–11 | 4–12 |
 | Česká pirátská strana (*) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Independents (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 1 | 1 | 1 | 1 | 1 |
 | Aliança (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -46,11 +46,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 4% | 99.4% |  |
-| 6 | 13% | 96% |  |
-| 7 | 24% | 83% |  |
-| 8 | 27% | 59% | Median |
+| 4 | 0.7% | 100% |  |
+| 5 | 4% | 99.3% |  |
+| 6 | 13% | 95% |  |
+| 7 | 24% | 82% |  |
+| 8 | 26% | 58% | Median |
 | 9 | 19% | 32% |  |
 | 10 | 9% | 13% |  |
 | 11 | 3% | 4% |  |
