@@ -9,15 +9,15 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | 51 | 50 | 46–54 | 45–55 | 44–57 | 42–59 |
-| Unidos Podemos (GUE/NGL) | | 9 | 7–10 | 7–10 | 6–11 | 6–11 |
+| Unidos Podemos (GUE/NGL) | | 9 | 7–10 | 6–10 | 6–11 | 6–11 |
 | DIE LINKE (GUE/NGL) | | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
 | La France insoumise (GUE/NGL) | | 7 | 6–10 | 5–11 | 5–13 | 4–14 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Bloco de Esquerda (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Bloco de Esquerda (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -30,7 +30,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti communiste français (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza (GUE/NGL) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -44,28 +44,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% |  |
-| 40 | 0.1% | 99.9% |  |
+| 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
 | 42 | 0.4% | 99.7% |  |
-| 43 | 1.0% | 99.3% |  |
+| 43 | 0.9% | 99.4% |  |
 | 44 | 2% | 98% |  |
-| 45 | 4% | 96% |  |
-| 46 | 6% | 92% |  |
-| 47 | 9% | 86% |  |
-| 48 | 12% | 77% |  |
-| 49 | 13% | 65% |  |
-| 50 | 13% | 52% | Median |
-| 51 | 12% | 39% | Last Result |
-| 52 | 9% | 28% |  |
+| 45 | 4% | 97% |  |
+| 46 | 6% | 93% |  |
+| 47 | 9% | 87% |  |
+| 48 | 11% | 78% |  |
+| 49 | 13% | 67% |  |
+| 50 | 13% | 54% | Median |
+| 51 | 12% | 41% | Last Result |
+| 52 | 10% | 29% |  |
 | 53 | 7% | 19% |  |
 | 54 | 5% | 12% |  |
-| 55 | 3% | 7% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.1% | 3% |  |
-| 58 | 0.7% | 1.4% |  |
-| 59 | 0.4% | 0.7% |  |
-| 60 | 0.2% | 0.3% |  |
+| 55 | 3% | 8% |  |
+| 56 | 2% | 5% |  |
+| 57 | 1.2% | 3% |  |
+| 58 | 0.7% | 1.5% |  |
+| 59 | 0.4% | 0.8% |  |
+| 60 | 0.2% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0.1% |  |
 | 63 | 0% | 0% |  |
