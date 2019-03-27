@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 175 | 168–182 | 166–184 | 164–186 | 161–189 |
+| European People’s Party | 217 | 174 | 167–181 | 165–183 | 164–185 | 161–188 |
 | CDU (EPP) | | 25 | 22–27 | 22–28 | 22–28 | 21–29 |
 | Koalicja Europejska (EPP) | | 18 | 14–23 | 13–24 | 12–24 | 12–25 |
 | Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
@@ -26,12 +26,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Moderata samlingspartiet (EPP) | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Slovenska demokratska stranka (EPP) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Kristdemokraterna (EPP) | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Slovenska demokratska stranka (EPP) | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | CDS–Partido Popular (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -48,7 +48,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Uniunea Democrată Maghiară din România (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Демократична България (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,38 +65,38 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0% | 100% |  |
 | 158 | 0.1% | 99.9% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.3% | 99.6% |  |
-| 162 | 0.5% | 99.2% |  |
-| 163 | 0.8% | 98.7% |  |
+| 160 | 0.2% | 99.7% |  |
+| 161 | 0.4% | 99.5% |  |
+| 162 | 0.6% | 99.2% |  |
+| 163 | 0.9% | 98.6% |  |
 | 164 | 1.2% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 2% | 95% |  |
-| 167 | 3% | 93% |  |
-| 168 | 4% | 90% |  |
-| 169 | 4% | 86% |  |
-| 170 | 5% | 82% |  |
-| 171 | 6% | 77% |  |
-| 172 | 6% | 71% |  |
-| 173 | 7% | 65% |  |
-| 174 | 7% | 58% |  |
-| 175 | 7% | 51% | Median |
-| 176 | 7% | 44% |  |
-| 177 | 6% | 37% |  |
-| 178 | 6% | 30% |  |
-| 179 | 5% | 24% |  |
-| 180 | 4% | 19% |  |
-| 181 | 4% | 15% |  |
-| 182 | 3% | 11% |  |
-| 183 | 2% | 8% |  |
-| 184 | 2% | 6% |  |
-| 185 | 1.3% | 4% |  |
-| 186 | 0.9% | 3% |  |
-| 187 | 0.6% | 2% |  |
-| 188 | 0.4% | 1.0% |  |
-| 189 | 0.3% | 0.6% |  |
-| 190 | 0.2% | 0.3% |  |
-| 191 | 0.1% | 0.2% |  |
+| 167 | 3% | 92% |  |
+| 168 | 4% | 89% |  |
+| 169 | 5% | 86% |  |
+| 170 | 5% | 81% |  |
+| 171 | 6% | 75% |  |
+| 172 | 7% | 69% |  |
+| 173 | 7% | 63% |  |
+| 174 | 7% | 56% | Median |
+| 175 | 7% | 49% |  |
+| 176 | 7% | 42% |  |
+| 177 | 6% | 35% |  |
+| 178 | 6% | 28% |  |
+| 179 | 5% | 23% |  |
+| 180 | 4% | 18% |  |
+| 181 | 4% | 13% |  |
+| 182 | 3% | 10% |  |
+| 183 | 2% | 7% |  |
+| 184 | 2% | 5% |  |
+| 185 | 1.2% | 3% |  |
+| 186 | 0.8% | 2% |  |
+| 187 | 0.5% | 1.4% |  |
+| 188 | 0.3% | 0.8% |  |
+| 189 | 0.2% | 0.5% |  |
+| 190 | 0.1% | 0.3% |  |
+| 191 | 0.1% | 0.1% |  |
 | 192 | 0% | 0.1% |  |
 | 193 | 0% | 0% |  |
 | 194 | 0% | 0% |  |
