@@ -10,7 +10,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | 53 | 60 | 54–65 | 52–66 | 51–68 | 49–70 |
 | Prawo i Sprawiedliwość (ECR) | | 20 | 18–23 | 17–24 | 17–24 | 16–25 |
-| Vox (ECR) | | 7 | 5–8 | 4–8 | 4–9 | 3–9 |
+| Vox (ECR) | | 6 | 5–8 | 4–8 | 4–9 | 3–9 |
 | Debout la France (ECR) | | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Forum voor Democratie (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Fratelli d’Italia (ECR) | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -19,7 +19,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 | Občanská demokratická strana (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Dansk Folkeparti (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Perussuomalaiset (ECR) | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Perussuomalaiset (ECR) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Sloboda a Solidarita (ECR) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Eesti Konservatiivne Rahvaerakond (ECR) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -49,20 +49,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 5% | 87% |  |
 | 56 | 7% | 82% |  |
 | 57 | 8% | 75% |  |
-| 58 | 8% | 67% |  |
+| 58 | 8% | 68% |  |
 | 59 | 9% | 59% |  |
-| 60 | 9% | 50% | Median |
+| 60 | 9% | 51% | Median |
 | 61 | 8% | 42% |  |
-| 62 | 8% | 33% |  |
-| 63 | 7% | 25% |  |
-| 64 | 6% | 18% |  |
-| 65 | 5% | 12% |  |
+| 62 | 8% | 34% |  |
+| 63 | 7% | 26% |  |
+| 64 | 6% | 19% |  |
+| 65 | 5% | 13% |  |
 | 66 | 3% | 8% |  |
 | 67 | 2% | 5% |  |
-| 68 | 1.3% | 3% |  |
-| 69 | 0.7% | 1.3% |  |
-| 70 | 0.3% | 0.6% |  |
-| 71 | 0.1% | 0.2% |  |
+| 68 | 1.4% | 3% |  |
+| 69 | 0.8% | 1.4% |  |
+| 70 | 0.4% | 0.6% |  |
+| 71 | 0.2% | 0.3% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 

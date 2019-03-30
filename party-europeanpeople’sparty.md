@@ -13,7 +13,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Koalicja Europejska (EPP) | | 19 | 14–23 | 13–23 | 12–24 | 12–25 |
 | Fidesz–KDNP (EPP) | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | Les Républicains (EPP) | | 12 | 9–14 | 8–16 | 8–16 | 7–16 |
-| Partido Popular (EPP) | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
+| Partido Popular (EPP) | | 12 | 10–14 | 9–15 | 9–15 | 8–15 |
 | Forza Italia (EPP) | | 8 | 7–10 | 6–10 | 6–11 | 6–12 |
 | Partidul Național Liberal (EPP) | | 8 | 7–10 | 7–11 | 7–11 | 7–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
@@ -26,14 +26,14 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Moderata samlingspartiet (EPP) | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Christen-Democratisch Appèl (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
-| Kansallinen Kokoomus (EPP) | | 3 | 3 | 3 | 2–3 | 2–4 |
+| Kansallinen Kokoomus (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kristdemokraterna (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka (EPP) | | 2 | 2 | 2 | 2 | 2 |
-| TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -46,7 +46,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -68,20 +68,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.7% |  |
 | 165 | 0.4% | 99.5% |  |
-| 166 | 0.6% | 99.2% |  |
-| 167 | 0.9% | 98.6% |  |
+| 166 | 0.6% | 99.1% |  |
+| 167 | 0.9% | 98.5% |  |
 | 168 | 1.3% | 98% |  |
-| 169 | 2% | 97% |  |
+| 169 | 2% | 96% |  |
 | 170 | 2% | 95% |  |
 | 171 | 3% | 92% |  |
 | 172 | 4% | 89% |  |
 | 173 | 5% | 85% |  |
 | 174 | 6% | 80% |  |
-| 175 | 7% | 75% |  |
+| 175 | 7% | 74% |  |
 | 176 | 7% | 68% |  |
 | 177 | 8% | 61% |  |
 | 178 | 8% | 53% | Median |
-| 179 | 8% | 46% |  |
+| 179 | 8% | 45% |  |
 | 180 | 7% | 38% |  |
 | 181 | 7% | 31% |  |
 | 182 | 6% | 24% |  |
@@ -93,9 +93,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 188 | 1.1% | 3% |  |
 | 189 | 0.7% | 2% |  |
 | 190 | 0.4% | 1.0% |  |
-| 191 | 0.3% | 0.5% |  |
+| 191 | 0.3% | 0.6% |  |
 | 192 | 0.1% | 0.3% |  |
-| 193 | 0.1% | 0.1% |  |
+| 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
