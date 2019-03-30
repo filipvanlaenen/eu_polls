@@ -403,21 +403,23 @@ current EP fractions.
 
 ## Spain
 
-| Party Name                                                                       | Abbreviation     | EP Fraction | Rationale                                                                         |
-|:---------------------------------------------------------------------------------|:-----------------|:------------|:----------------------------------------------------------------------------------|
-| Bloque Nacionalista Galego                                                       | BNG              | Greens/EFA  | Current member                                                                    |
-| Ciudadanos–Partido de la Ciudadanía                                              | Cs               | ALDE        | Current member                                                                    |
-| Coalición Canaria                                                                | CC               | ALDE        | Current member                                                                    |
-| Esquerra Republicana de Catalunya                                                | ERC              | Greens/EFA  | Current member                                                                    |
-| Esquerra Republicana de Catalunya–Euskal Herria Bildu–Bloque Nacionalista Galego | ERC–EH Bildu–BNG | Greens/EFA  | Alliance; allocated to the EP group of the largest party                          |
-| Euskal Herria Bildu                                                              | EH Bildu         | GUE/NGL     | Current member                                                                    |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco                               | EAJ-PNV          | ALDE        | Current member                                                                    |
-| Partido Animalista Contra el Maltrato Animal                                     | PACMA            | GUE/NGL     | Affiliated to Euro Animal 7, whose MEPs usually join GUE/NGL                      |
-| Partido Popular                                                                  | PP               | EPP         | Current member                                                                    |
-| Partido Socialista Obrero Español                                                | PSOE             | S&D         | Current member                                                                    |
-| Partit Demòcrata Europeu Català                                                  | PDeCAT           | ALDE        | Current member                                                                    |
-| Unidos Podemos                                                                   | UP               | GUE/NGL     | Current member                                                                    |
-| Vox                                                                              | Vox              | ECR         | Currently not represented in the European Parliament, but with strong ties to ECR |
+| Party Name                                         | Abbreviation | EP Fraction | Rationale                                                                                                                                 |
+|:---------------------------------------------------|:-------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Ahora Repúblicas                                   | AR           | Greens/EFA  | Electoral alliance between a.o. Esquerra Republicana de Catalunya, Euskal Herria Bildu and Bloque Nacionalista Galego                     |
+| Bloque Nacionalista Galego                         | BNG          | Greens/EFA  | Current member                                                                                                                            |
+| Ciudadanos–Partido de la Ciudadanía                | Cs           | ALDE        | Current member                                                                                                                            |
+| Coalición Canaria                                  | CC           | ALDE        | Current member                                                                                                                            |
+| Coalición por Europa                               | CEU          | ALDE        | Electoral alliance between a.o. Partit Demòcrata Europeu Català, Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco and Coalición Canaria |
+| Esquerra Republicana de Catalunya                  | ERC          | Greens/EFA  | Current member                                                                                                                            |
+| Euskal Herria Bildu                                | EH Bildu     | GUE/NGL     | Current member                                                                                                                            |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | EAJ-PNV      | ALDE        | Current member                                                                                                                            |
+| Partido Animalista Contra el Maltrato Animal       | PACMA        | GUE/NGL     | Affiliated to Euro Animal 7, whose MEPs usually join GUE/NGL                                                                              |
+| Partido Popular                                    | PP           | EPP         | Current member                                                                                                                            |
+| Partido Socialista Obrero Español                  | PSOE         | S&D         | Current member                                                                                                                            |
+| Partit Demòcrata Europeu Català                    | PDeCAT       | ALDE        | Current member                                                                                                                            |
+| Primavera Europea                                  | PE           | Greens/EFA  | Current member                                                                                                                            |
+| Unidos Podemos                                     | UP           | GUE/NGL     | Current member                                                                                                                            |
+| Vox                                                | Vox          | ECR         | Currently not represented in the European Parliament, but with strong ties to ECR                                                         |
 
 ## Sweden
 
