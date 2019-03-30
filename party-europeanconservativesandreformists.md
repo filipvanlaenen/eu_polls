@@ -8,28 +8,27 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 62 | 57–68 | 55–69 | 54–70 | 51–72 |
-| Prawo i Sprawiedliwość (ECR) | | 20 | 17–23 | 16–24 | 15–24 | 14–25 |
-| Vox (ECR) | | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
-| Debout la France (ECR) | | 5 | 4–7 | 0–7 | 0–8 | 0–8 |
+| European Conservatives and Reformists | 53 | 60 | 54–65 | 52–66 | 51–68 | 49–70 |
+| Prawo i Sprawiedliwość (ECR) | | 20 | 18–23 | 17–24 | 17–24 | 16–25 |
+| Vox (ECR) | | 7 | 5–8 | 4–8 | 4–9 | 3–9 |
+| Debout la France (ECR) | | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| Forum voor Democratie (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Fratelli d’Italia (ECR) | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | N-VA (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Forum voor Democratie (ECR) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Fratelli d’Italia (ECR) | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Občanská demokratická strana (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Dansk Folkeparti (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Perussuomalaiset (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Perussuomalaiset (ECR) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Sloboda a Solidarita (ECR) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | ChristenUnie (ECR) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Eesti Konservatiivne Rahvaerakond (ECR) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | Обединени Патриоти (ECR) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Lietuvos Centro Partija (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ανεξάρτητοι Έλληνες (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
+| Ανεξάρτητοι Έλληνες (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -39,33 +38,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0.1% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.2% | 99.8% |  |
-| 51 | 0.3% | 99.6% |  |
-| 52 | 0.6% | 99.3% |  |
-| 53 | 0.9% | 98.7% | Last Result |
-| 54 | 1.4% | 98% |  |
-| 55 | 2% | 96% |  |
-| 56 | 3% | 94% |  |
-| 57 | 4% | 91% |  |
-| 58 | 5% | 87% |  |
-| 59 | 7% | 81% |  |
-| 60 | 8% | 75% |  |
-| 61 | 9% | 67% |  |
-| 62 | 9% | 58% | Median |
-| 63 | 9% | 49% |  |
-| 64 | 9% | 39% |  |
-| 65 | 8% | 30% |  |
-| 66 | 7% | 22% |  |
-| 67 | 5% | 15% |  |
-| 68 | 4% | 10% |  |
-| 69 | 3% | 6% |  |
-| 70 | 2% | 3% |  |
-| 71 | 0.9% | 2% |  |
-| 72 | 0.5% | 0.9% |  |
-| 73 | 0.2% | 0.4% |  |
-| 74 | 0.1% | 0.1% |  |
-| 75 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.4% | 99.7% |  |
+| 50 | 0.9% | 99.3% |  |
+| 51 | 1.5% | 98% |  |
+| 52 | 2% | 97% |  |
+| 53 | 3% | 95% | Last Result |
+| 54 | 4% | 92% |  |
+| 55 | 5% | 87% |  |
+| 56 | 7% | 82% |  |
+| 57 | 8% | 75% |  |
+| 58 | 8% | 67% |  |
+| 59 | 9% | 59% |  |
+| 60 | 9% | 50% | Median |
+| 61 | 8% | 42% |  |
+| 62 | 8% | 33% |  |
+| 63 | 7% | 25% |  |
+| 64 | 6% | 18% |  |
+| 65 | 5% | 12% |  |
+| 66 | 3% | 8% |  |
+| 67 | 2% | 5% |  |
+| 68 | 1.3% | 3% |  |
+| 69 | 0.7% | 1.3% |  |
+| 70 | 0.3% | 0.6% |  |
+| 71 | 0.1% | 0.2% |  |
+| 72 | 0.1% | 0.1% |  |
+| 73 | 0% | 0% |  |
 
 
