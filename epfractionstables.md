@@ -307,7 +307,7 @@ current EP fractions.
 
 | Party Name                              | Abbreviation | EP Fraction | Rationale                                                                   |
 |:----------------------------------------|:-------------|:------------|:----------------------------------------------------------------------------|
-| 50Plus                                  | 50+          | ALDE        | Current member                                                              |
+| 50Plus                                  | 50+          | *           | Currently not represented in the European Parliament                        |
 | Bij1                                    | B1           | *           | New party; split from Denk (*)                                              | 
 | Christen-Democratisch Appèl             | CDA          | EPP         | Current member                                                              |
 | ChristenUnie                            | CU           | ECR         | Current member                                                              |
@@ -318,7 +318,7 @@ current EP fractions.
 | Partij van de Arbeid                    | PvdA         | S&D         | Current member                                                              |
 | Partij voor de Dieren                   | PvdD         | GUE/NGL     | Current member                                                              |
 | Partij voor de Vrijheid                 | PVV          | ENF         | Current member                                                              |
-| Piratenpartij                           | PP           | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
+| Piratenpartij                           | PP           | *           | Currently not represented in the European Parliament                        |
 | Socialistische Partij                   | SP           | GUE/NGL     | Current member                                                              |
 | Staatkundig Gereformeerde Partij        | SGP          | ECR         | Current member                                                              |
 | Volkspartij voor Vrijheid en Democratie | VVD          | ALDE        | Current member                                                              |
