@@ -8,15 +8,15 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 136 | 130–142 | 128–144 | 126–145 | 123–148 |
-| Partido Socialista Obrero Español (S&D) | | 17 | 15–20 | 14–20 | 14–20 | 14–20 |
+| Progressive Alliance of Socialists and Democrats | 169 | 137 | 131–142 | 129–144 | 128–146 | 125–149 |
+| Partido Socialista Obrero Español (S&D) | | 17 | 14–20 | 14–20 | 14–20 | 13–20 |
+| Partito Democratico (S&D) | | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
 | SPD (S&D) | | 16 | 15–19 | 15–19 | 14–19 | 13–20 |
-| Partito Democratico (S&D) | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Partidul Social Democrat (S&D) | | 10 | 8–12 | 8–12 | 8–13 | 7–13 |
 | Partido Socialista (S&D) | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| Parti socialiste (S&D) | | 6 | 4–7 | 0–7 | 0–7 | 0–8 |
-| Sveriges socialdemokratiska arbetareparti (S&D) | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Wiosna–Partia Razem (S&D) | | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
+| Parti socialiste (S&D) | | 6 | 5–7 | 5–7 | 0–7 | 0–8 |
+| Sveriges socialdemokratiska arbetareparti (S&D) | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Wiosna–Partia Razem (S&D) | | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
 | Българска социалистическа партия (S&D) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Sozialdemokratische Partei Österreichs (S&D) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Partit Laburista (S&D) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -26,10 +26,10 @@ Last result: **169** seats (General Election of 25 May 2014)
 | SMER–sociálna demokracia (S&D) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske (S&D) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sociāldemokrātiskā Partija “Saskaņa” (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| DK (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | PS (S&D) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid (S&D) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| DK (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Lietuvos socialdemokratų partija (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati (S&D) | | 1 | 1 | 1 | 1 | 1 |
@@ -53,34 +53,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 120 | 0.1% | 100% |  |
-| 121 | 0.1% | 99.9% |  |
-| 122 | 0.2% | 99.8% |  |
-| 123 | 0.3% | 99.6% |  |
-| 124 | 0.5% | 99.4% |  |
-| 125 | 0.7% | 98.9% |  |
-| 126 | 1.0% | 98% |  |
-| 127 | 1.5% | 97% |  |
-| 128 | 2% | 96% |  |
-| 129 | 3% | 94% |  |
-| 130 | 4% | 91% |  |
-| 131 | 5% | 87% |  |
-| 132 | 6% | 82% |  |
-| 133 | 7% | 77% |  |
-| 134 | 8% | 70% |  |
-| 135 | 8% | 62% |  |
-| 136 | 8% | 54% | Median |
-| 137 | 8% | 46% |  |
-| 138 | 8% | 38% |  |
-| 139 | 7% | 30% |  |
-| 140 | 6% | 23% |  |
-| 141 | 5% | 18% |  |
-| 142 | 4% | 13% |  |
-| 143 | 3% | 9% |  |
-| 144 | 2% | 6% |  |
-| 145 | 1.5% | 4% |  |
-| 146 | 1.0% | 2% |  |
-| 147 | 0.6% | 2% |  |
+| 121 | 0% | 100% |  |
+| 122 | 0.1% | 99.9% |  |
+| 123 | 0.1% | 99.9% |  |
+| 124 | 0.2% | 99.7% |  |
+| 125 | 0.4% | 99.5% |  |
+| 126 | 0.6% | 99.2% |  |
+| 127 | 1.0% | 98.5% |  |
+| 128 | 2% | 98% |  |
+| 129 | 2% | 96% |  |
+| 130 | 3% | 94% |  |
+| 131 | 4% | 91% |  |
+| 132 | 5% | 87% |  |
+| 133 | 7% | 81% |  |
+| 134 | 8% | 75% |  |
+| 135 | 8% | 67% |  |
+| 136 | 9% | 59% |  |
+| 137 | 9% | 50% | Median |
+| 138 | 8% | 41% |  |
+| 139 | 7% | 33% |  |
+| 140 | 6% | 26% |  |
+| 141 | 5% | 19% |  |
+| 142 | 4% | 14% |  |
+| 143 | 3% | 10% |  |
+| 144 | 2% | 7% |  |
+| 145 | 2% | 4% |  |
+| 146 | 1.1% | 3% |  |
+| 147 | 0.7% | 2% |  |
 | 148 | 0.4% | 0.9% |  |
 | 149 | 0.2% | 0.5% |  |
 | 150 | 0.1% | 0.3% |  |
