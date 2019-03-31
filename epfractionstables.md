@@ -66,6 +66,7 @@ current EP fractions.
 | Bandić Milan 365–Stranka rada i solidarnosti      | BM 365       | *           | New party                                                                           |
 | Građansko-liberalni savez                         | GLAS         | ALDE        | Current member                                                                      |
 | Hrvatska demokratska zajednica                    | HDZ          | EPP         | Current member                                                                      |
+| Hrvatska konzervativna stranka                    | HKS          | ECR         | Current member                                                                      |
 | Hrvatska narodna stranka–liberalni demokrati      | HNS          | ALDE        | Current member                                                                      |
 | Hrvatska seljačka stranka                         | HSS          | EPP         | Current member                                                                      |
 | Istarski demokratski sabor                        | IDS          | ALDE        | Current member                                                                      |
