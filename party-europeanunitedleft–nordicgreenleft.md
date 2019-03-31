@@ -8,10 +8,10 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 49 | 45–52 | 44–53 | 44–53 | 42–55 |
+| European United Left–Nordic Green Left | 51 | 48 | 45–52 | 44–53 | 44–54 | 42–55 |
 | DIE LINKE (GUE/NGL) | | 8 | 6–9 | 6–10 | 5–10 | 5–10 |
-| La France insoumise (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
-| Unidos Podemos (GUE/NGL) | | 7 | 7–9 | 6–9 | 6–10 | 6–11 |
+| La France insoumise (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| Unidos Podemos (GUE/NGL) | | 7 | 7–9 | 6–11 | 6–11 | 6–11 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Bloco de Esquerda (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,20 +45,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
 | 42 | 0.5% | 99.8% |  |
-| 43 | 1.3% | 99.4% |  |
+| 43 | 1.5% | 99.3% |  |
 | 44 | 3% | 98% |  |
-| 45 | 6% | 95% |  |
-| 46 | 10% | 89% |  |
-| 47 | 13% | 79% |  |
-| 48 | 15% | 66% |  |
-| 49 | 15% | 50% | Median |
-| 50 | 13% | 35% |  |
-| 51 | 10% | 22% | Last Result |
+| 45 | 6% | 94% |  |
+| 46 | 10% | 88% |  |
+| 47 | 14% | 78% |  |
+| 48 | 15% | 64% | Median |
+| 49 | 15% | 49% |  |
+| 50 | 13% | 34% |  |
+| 51 | 9% | 21% | Last Result |
 | 52 | 6% | 12% |  |
 | 53 | 3% | 6% |  |
-| 54 | 2% | 2% |  |
-| 55 | 0.6% | 0.9% |  |
-| 56 | 0.2% | 0.3% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.7% | 1.1% |  |
+| 56 | 0.3% | 0.4% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
