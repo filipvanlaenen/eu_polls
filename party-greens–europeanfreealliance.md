@@ -8,7 +8,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 44 | 40–48 | 39–49 | 38–50 | 37–52 |
+| Greens–European Free Alliance | 45 | 44 | 40–48 | 39–49 | 38–50 | 37–51 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–8 | 5–9 | 5–10 | 5–10 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -22,7 +22,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Socialistisk Folkeparti (Greens/EFA) | | 1 | 1 | 1 | 1 | 0–1 |
 | Zaļo un Zemnieku savienība (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
-| Alternativet (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Alternativet (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Alternattiva Demokratika (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -47,19 +47,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 2% | 99.1% |  |
 | 39 | 4% | 97% |  |
 | 40 | 6% | 94% |  |
-| 41 | 9% | 88% |  |
+| 41 | 9% | 87% |  |
 | 42 | 11% | 79% |  |
-| 43 | 12% | 68% |  |
-| 44 | 13% | 55% | Median |
-| 45 | 12% | 43% | Last Result |
-| 46 | 10% | 30% |  |
-| 47 | 8% | 20% |  |
-| 48 | 5% | 12% |  |
-| 49 | 3% | 7% |  |
-| 50 | 2% | 4% |  |
-| 51 | 1.0% | 2% |  |
-| 52 | 0.4% | 0.6% |  |
-| 53 | 0.1% | 0.2% |  |
+| 43 | 13% | 67% |  |
+| 44 | 13% | 54% | Median |
+| 45 | 12% | 41% | Last Result |
+| 46 | 10% | 29% |  |
+| 47 | 8% | 19% |  |
+| 48 | 5% | 11% |  |
+| 49 | 3% | 6% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.8% | 1.2% |  |
+| 52 | 0.3% | 0.4% |  |
+| 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0% |  |
 
 
