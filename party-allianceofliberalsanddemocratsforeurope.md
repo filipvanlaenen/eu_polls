@@ -20,7 +20,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Lista Marjana Šarca (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | PRO România (ALDE) | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Venstre (ALDE) | | 3 | 3 | 3 | 3–4 | 2–4 |
+| Venstre (ALDE) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 101 | 0% | 100% |  |
 | 102 | 0.1% | 99.9% |  |
 | 103 | 0.3% | 99.8% |  |
-| 104 | 0.6% | 99.6% |  |
+| 104 | 0.6% | 99.5% |  |
 | 105 | 1.1% | 99.0% |  |
 | 106 | 2% | 98% |  |
 | 107 | 3% | 96% |  |
@@ -108,7 +108,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 8% | 75% |  |
 | 112 | 9% | 67% |  |
 | 113 | 9% | 58% | Median |
-| 114 | 9% | 49% |  |
+| 114 | 9% | 48% |  |
 | 115 | 8% | 39% |  |
 | 116 | 7% | 31% |  |
 | 117 | 6% | 24% |  |

@@ -19,7 +19,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Vihreä liitto (Greens/EFA) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti (Greens/EFA) | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialistisk Folkeparti (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -47,7 +47,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 2% | 99.1% |  |
 | 39 | 4% | 97% |  |
 | 40 | 6% | 94% |  |
-| 41 | 9% | 87% |  |
+| 41 | 9% | 88% |  |
 | 42 | 11% | 79% |  |
 | 43 | 13% | 67% |  |
 | 44 | 13% | 54% | Median |

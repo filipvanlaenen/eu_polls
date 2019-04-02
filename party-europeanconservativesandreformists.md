@@ -8,16 +8,16 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 60 | 55–66 | 53–67 | 52–69 | 50–71 |
+| European Conservatives and Reformists | 53 | 60 | 54–66 | 53–67 | 52–69 | 50–71 |
 | Prawo i Sprawiedliwość (ECR) | | 19 | 18–23 | 17–24 | 17–24 | 16–25 |
 | Vox (ECR) | | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Debout la France (ECR) | | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Fratelli d’Italia (ECR) | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | N-VA (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Dansk Folkeparti (ECR) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Forum voor Democratie (ECR) | | 3 | 3–6 | 3–6 | 3–6 | 2–6 |
 | Občanská demokratická strana (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Dansk Folkeparti (ECR) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset (ECR) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Sloboda a Solidarita (ECR) | | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -40,28 +40,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
+| 49 | 0.3% | 99.8% |  |
 | 50 | 0.6% | 99.6% |  |
-| 51 | 1.1% | 99.0% |  |
+| 51 | 1.1% | 98.9% |  |
 | 52 | 2% | 98% |  |
 | 53 | 3% | 96% | Last Result |
-| 54 | 4% | 94% |  |
+| 54 | 4% | 93% |  |
 | 55 | 5% | 90% |  |
-| 56 | 6% | 86% |  |
-| 57 | 7% | 80% |  |
-| 58 | 8% | 73% |  |
+| 56 | 6% | 85% |  |
+| 57 | 7% | 79% |  |
+| 58 | 8% | 72% |  |
 | 59 | 8% | 65% |  |
-| 60 | 9% | 57% | Median |
+| 60 | 9% | 56% | Median |
 | 61 | 9% | 48% |  |
-| 62 | 8% | 40% |  |
-| 63 | 8% | 31% |  |
-| 64 | 7% | 24% |  |
+| 62 | 8% | 39% |  |
+| 63 | 7% | 31% |  |
+| 64 | 6% | 23% |  |
 | 65 | 5% | 17% |  |
 | 66 | 4% | 12% |  |
 | 67 | 3% | 8% |  |
 | 68 | 2% | 5% |  |
 | 69 | 1.3% | 3% |  |
-| 70 | 0.8% | 1.5% |  |
+| 70 | 0.7% | 1.4% |  |
 | 71 | 0.4% | 0.7% |  |
 | 72 | 0.2% | 0.3% |  |
 | 73 | 0.1% | 0.1% |  |
