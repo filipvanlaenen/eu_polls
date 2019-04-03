@@ -8,7 +8,7 @@ Last result: **15** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | 15 | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| Non-Inscrits | 15 | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
 | Jobbik (NI) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Χρυσή Αυγή (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI (NI) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -31,7 +31,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 32% | 69% | Median |
 | 10 | 24% | 37% |  |
 | 11 | 10% | 13% |  |
-| 12 | 2% | 2% |  |
+| 12 | 2% | 3% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% | Last Result |
