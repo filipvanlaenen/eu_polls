@@ -11,9 +11,9 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Progressive Alliance of Socialists and Democrats | 169 | 136 | 129–142 | 127–144 | 126–145 | 123–148 |
 | Partido Socialista Obrero Español (S&D) | | 17 | 15–19 | 15–20 | 14–20 | 14–20 |
 | Partito Democratico (S&D) | | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
-| SPD (S&D) | | 16 | 15–19 | 15–19 | 14–19 | 13–20 |
+| SPD (S&D) | | 16 | 15–18 | 15–19 | 14–19 | 13–20 |
 | Partidul Social Democrat (S&D) | | 10 | 8–12 | 8–12 | 8–13 | 7–13 |
-| Partido Socialista (S&D) | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| Partido Socialista (S&D) | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Parti socialiste (S&D) | | 6 | 0–7 | 0–7 | 0–7 | 0–8 |
 | Sveriges socialdemokratiska arbetareparti (S&D) | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Wiosna–Partia Razem (S&D) | | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
@@ -32,7 +32,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | Κίνημα Αλλαγής (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos socialdemokratų partija (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
-| Socialni demokrati (S&D) | | 1 | 1 | 1 | 1 | 1 |
+| Socialni demokrati (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | sp.a (S&D) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická (S&D) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -56,13 +56,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 0% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
 | 121 | 0.1% | 99.9% |  |
-| 122 | 0.2% | 99.7% |  |
+| 122 | 0.2% | 99.8% |  |
 | 123 | 0.4% | 99.5% |  |
-| 124 | 0.6% | 99.1% |  |
-| 125 | 1.0% | 98% |  |
-| 126 | 1.4% | 98% |  |
+| 124 | 0.6% | 99.2% |  |
+| 125 | 0.9% | 98.6% |  |
+| 126 | 1.3% | 98% |  |
 | 127 | 2% | 96% |  |
-| 128 | 2% | 94% |  |
+| 128 | 2% | 95% |  |
 | 129 | 3% | 92% |  |
 | 130 | 4% | 89% |  |
 | 131 | 5% | 85% |  |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 136 | 8% | 52% | Median |
 | 137 | 8% | 44% |  |
 | 138 | 8% | 36% |  |
-| 139 | 7% | 29% |  |
+| 139 | 7% | 28% |  |
 | 140 | 6% | 22% |  |
 | 141 | 5% | 16% |  |
 | 142 | 4% | 11% |  |
