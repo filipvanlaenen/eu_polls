@@ -8,10 +8,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 11 | 9–14 | 9–16 | 8–17 | 7–18 |
+| Parties currently not represented in the EP | 0 | 11 | 9–14 | 9–16 | 9–17 | 8–19 |
 | Česká pirátská strana (*) | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | 50Plus (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents (*) | | 1 | 1 | 1 | 1 | 1 |
+| KPV LV (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -19,10 +20,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Denk (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen (*) | | 0 | 0 | 0 | 0 | 0 |
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Lutte Ouvrière (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes (*) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Neovisni za Hrvatsku (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,20 +52,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 3% | 99.5% |  |
-| 9 | 12% | 96% |  |
-| 10 | 23% | 84% |  |
-| 11 | 26% | 60% | Median |
-| 12 | 17% | 35% |  |
-| 13 | 7% | 18% |  |
-| 14 | 3% | 10% |  |
-| 15 | 2% | 8% |  |
-| 16 | 2% | 5% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.9% | 1.3% |  |
-| 19 | 0.3% | 0.4% |  |
-| 20 | 0.1% | 0.1% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 2% | 99.7% |  |
+| 9 | 8% | 98% |  |
+| 10 | 19% | 89% |  |
+| 11 | 25% | 71% | Median |
+| 12 | 21% | 46% |  |
+| 13 | 11% | 24% |  |
+| 14 | 4% | 13% |  |
+| 15 | 2% | 9% |  |
+| 16 | 2% | 6% |  |
+| 17 | 2% | 4% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.6% | 0.8% |  |
+| 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 
 
