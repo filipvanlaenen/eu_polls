@@ -14,7 +14,7 @@ Last result: **36** seats (General Election of 25 May 2014)
 | Freiheitliche Partei Österreichs (ENF) | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Partij voor de Vrijheid (ENF) | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | SME RODINA (ENF) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie (ENF) | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Svoboda a přímá demokracie (ENF) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Slovenská národná strana (ENF) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vlaams Belang (ENF) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 
