@@ -8,11 +8,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 11 | 10–14 | 9–16 | 9–17 | 8–19 |
+| Parties currently not represented in the EP | 0 | 12 | 10–14 | 9–16 | 9–17 | 8–19 |
 | Česká pirátská strana (*) | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | 50Plus (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents (*) | | 1 | 1 | 1 | 1 | 1 |
-| KPV LV (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -20,9 +19,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Denk (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance (*) | | 0 | 0 | 0 | 0 | 0 |
+| KPV LV (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen (*) | | 0 | 0 | 0 | 0 | 0 |
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu apvienība (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Latvijas Reģionu apvienība (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes (*) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Neovisni za Hrvatsku (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,19 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
-| 8 | 2% | 99.8% |  |
-| 9 | 8% | 98% |  |
-| 10 | 19% | 90% |  |
-| 11 | 26% | 72% | Median |
-| 12 | 22% | 46% |  |
-| 13 | 11% | 25% |  |
-| 14 | 4% | 13% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 1.2% | 99.9% |  |
+| 9 | 6% | 98.7% |  |
+| 10 | 16% | 93% |  |
+| 11 | 25% | 77% |  |
+| 12 | 24% | 51% | Median |
+| 13 | 13% | 28% |  |
+| 14 | 5% | 14% |  |
 | 15 | 2% | 9% |  |
-| 16 | 2% | 6% |  |
-| 17 | 2% | 4% |  |
-| 18 | 1.3% | 2% |  |
-| 19 | 0.6% | 0.8% |  |
+| 16 | 2% | 7% |  |
+| 17 | 2% | 5% |  |
+| 18 | 2% | 2% |  |
+| 19 | 0.7% | 0.9% |  |
 | 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 
