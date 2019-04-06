@@ -10,7 +10,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | 45 | 44 | 41–48 | 40–49 | 39–50 | 38–52 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
-| Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–8 | 5–9 | 5–10 | 5–10 |
+| Europe Écologie Les Verts (Greens/EFA) | | 7 | 5–8 | 5–9 | 5–10 | 5–10 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ahora Repúblicas (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -25,7 +25,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Alternativet (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Alternattiva Demokratika (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Green Party (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | JETZT–Liste Pilz (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | LMP (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Krievu savienība (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,23 +42,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.1% | 100% |  |
-| 37 | 0.3% | 99.9% |  |
-| 38 | 0.9% | 99.6% |  |
-| 39 | 2% | 98.7% |  |
+| 37 | 0.2% | 99.9% |  |
+| 38 | 0.7% | 99.7% |  |
+| 39 | 2% | 99.0% |  |
 | 40 | 4% | 97% |  |
-| 41 | 8% | 92% |  |
-| 42 | 11% | 84% |  |
-| 43 | 13% | 74% |  |
-| 44 | 14% | 60% | Median |
-| 45 | 14% | 46% | Last Result |
-| 46 | 11% | 32% |  |
-| 47 | 9% | 21% |  |
-| 48 | 6% | 12% |  |
-| 49 | 3% | 7% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.9% | 1.4% |  |
-| 52 | 0.4% | 0.5% |  |
-| 53 | 0.1% | 0.2% |  |
+| 41 | 7% | 93% |  |
+| 42 | 10% | 86% |  |
+| 43 | 13% | 76% |  |
+| 44 | 14% | 63% | Median |
+| 45 | 14% | 49% | Last Result |
+| 46 | 12% | 35% |  |
+| 47 | 9% | 23% |  |
+| 48 | 6% | 14% |  |
+| 49 | 4% | 7% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.0% | 2% |  |
+| 52 | 0.4% | 0.6% |  |
+| 53 | 0.2% | 0.2% |  |
 | 54 | 0% | 0.1% |  |
 | 55 | 0% | 0% |  |
 

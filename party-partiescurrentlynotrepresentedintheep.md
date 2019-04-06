@@ -11,7 +11,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Parties currently not represented in the EP | 0 | 11 | 10–14 | 9–16 | 9–17 | 8–19 |
 | Česká pirátská strana (*) | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | 50Plus (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Independents (*) | | 1 | 1 | 1 | 1 | 1 |
+| Independents (*) | | 1 | 1 | 1 | 1 | 0–1 |
 | Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -32,7 +32,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Sininen tulevaisuus (*) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka (*) | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats (*) | | 0 | 0 | 0 | 0 | 0 |
-| Stranka antikorupcije, razvoja i transparentnosti (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Stranka antikorupcije, razvoja i transparentnosti (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Воля (*) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -54,12 +54,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
 | 8 | 2% | 99.8% |  |
-| 9 | 7% | 98% |  |
+| 9 | 8% | 98% |  |
 | 10 | 18% | 91% |  |
-| 11 | 26% | 73% | Median |
+| 11 | 26% | 72% | Median |
 | 12 | 22% | 47% |  |
 | 13 | 12% | 25% |  |
-| 14 | 5% | 13% |  |
+| 14 | 4% | 13% |  |
 | 15 | 2% | 9% |  |
 | 16 | 2% | 7% |  |
 | 17 | 2% | 4% |  |

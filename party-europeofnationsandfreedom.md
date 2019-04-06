@@ -8,11 +8,11 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Nations and Freedom | 36 | 61 | 58–65 | 57–65 | 56–66 | 54–68 |
-| Lega Nord (ENF) | | 27 | 25–29 | 24–29 | 24–30 | 22–31 |
-| Rassemblement national (ENF) | | 22 | 19–23 | 19–23 | 18–24 | 17–25 |
+| Europe of Nations and Freedom | 36 | 62 | 58–65 | 57–66 | 56–67 | 54–68 |
+| Lega Nord (ENF) | | 27 | 25–29 | 24–30 | 23–30 | 22–32 |
+| Rassemblement national (ENF) | | 22 | 19–23 | 19–24 | 18–24 | 17–25 |
 | Freiheitliche Partei Österreichs (ENF) | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Partij voor de Vrijheid (ENF) | | 3 | 2–4 | 1–4 | 1–5 | 1–5 |
+| Partij voor de Vrijheid (ENF) | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | SME RODINA (ENF) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie (ENF) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Slovenská národná strana (ENF) | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -48,18 +48,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 1.1% | 99.2% |  |
 | 56 | 2% | 98% |  |
 | 57 | 4% | 96% |  |
-| 58 | 7% | 92% |  |
-| 59 | 10% | 85% |  |
-| 60 | 13% | 76% |  |
-| 61 | 15% | 63% | Median |
-| 62 | 15% | 48% |  |
-| 63 | 13% | 33% |  |
-| 64 | 10% | 20% |  |
-| 65 | 6% | 10% |  |
-| 66 | 3% | 4% |  |
-| 67 | 1.1% | 2% |  |
-| 68 | 0.4% | 0.6% |  |
-| 69 | 0.1% | 0.2% |  |
+| 58 | 6% | 92% |  |
+| 59 | 9% | 86% |  |
+| 60 | 12% | 77% |  |
+| 61 | 14% | 65% |  |
+| 62 | 14% | 52% | Median |
+| 63 | 13% | 37% |  |
+| 64 | 10% | 24% |  |
+| 65 | 7% | 14% |  |
+| 66 | 4% | 7% |  |
+| 67 | 2% | 3% |  |
+| 68 | 0.7% | 1.2% |  |
+| 69 | 0.3% | 0.4% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 
