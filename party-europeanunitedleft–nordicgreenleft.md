@@ -8,7 +8,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 49 | 45–52 | 44–52 | 43–53 | 42–55 |
+| European United Left–Nordic Green Left | 51 | 49 | 45–52 | 44–52 | 44–53 | 42–55 |
 | DIE LINKE (GUE/NGL) | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | La France insoumise (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Unidos Podemos (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -18,7 +18,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,8 +46,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
 | 42 | 0.6% | 99.7% |  |
-| 43 | 2% | 99.0% |  |
-| 44 | 3% | 97% |  |
+| 43 | 2% | 99.1% |  |
+| 44 | 3% | 98% |  |
 | 45 | 6% | 94% |  |
 | 46 | 9% | 88% |  |
 | 47 | 13% | 79% |  |

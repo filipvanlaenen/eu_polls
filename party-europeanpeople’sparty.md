@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 181 | 175–188 | 173–190 | 171–191 | 168–194 |
+| European People’s Party | 217 | 182 | 175–188 | 173–190 | 171–191 | 168–194 |
 | CDU (EPP) | | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
 | Koalicja Europejska (EPP) | | 20 | 16–23 | 15–24 | 14–24 | 13–25 |
 | Les Républicains (EPP) | | 13 | 11–15 | 11–16 | 11–16 | 10–16 |
@@ -27,24 +27,24 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christen-Democratisch Appèl (EPP) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partit Nazzjonalista (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Partit Nazzjonalista (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka (EPP) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Jaunā Vienotība (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā Vienotība (EPP) | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Jaunā konservatīvā partija (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MOST–HÍD (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară (EPP) | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
+| Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -69,33 +69,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 167 | 0.2% | 99.8% |  |
 | 168 | 0.3% | 99.6% |  |
 | 169 | 0.5% | 99.3% |  |
-| 170 | 0.8% | 98.8% |  |
+| 170 | 0.7% | 98.8% |  |
 | 171 | 1.1% | 98% |  |
 | 172 | 2% | 97% |  |
 | 173 | 2% | 95% |  |
 | 174 | 3% | 93% |  |
-| 175 | 4% | 90% |  |
+| 175 | 4% | 91% |  |
 | 176 | 4% | 87% |  |
-| 177 | 5% | 82% |  |
-| 178 | 6% | 77% |  |
-| 179 | 7% | 71% |  |
-| 180 | 7% | 64% |  |
-| 181 | 8% | 57% | Median |
-| 182 | 8% | 49% |  |
+| 177 | 5% | 83% |  |
+| 178 | 6% | 78% |  |
+| 179 | 7% | 72% |  |
+| 180 | 7% | 65% |  |
+| 181 | 8% | 58% |  |
+| 182 | 8% | 50% | Median |
 | 183 | 7% | 42% |  |
-| 184 | 7% | 34% |  |
-| 185 | 6% | 27% |  |
-| 186 | 5% | 21% |  |
+| 184 | 7% | 35% |  |
+| 185 | 6% | 28% |  |
+| 186 | 5% | 22% |  |
 | 187 | 4% | 16% |  |
-| 188 | 3% | 12% |  |
+| 188 | 4% | 12% |  |
 | 189 | 3% | 8% |  |
 | 190 | 2% | 6% |  |
-| 191 | 1.3% | 4% |  |
+| 191 | 1.4% | 4% |  |
 | 192 | 0.9% | 2% |  |
-| 193 | 0.6% | 1.4% |  |
-| 194 | 0.4% | 0.8% |  |
-| 195 | 0.2% | 0.4% |  |
-| 196 | 0.1% | 0.2% |  |
+| 193 | 0.6% | 1.5% |  |
+| 194 | 0.4% | 0.9% |  |
+| 195 | 0.2% | 0.5% |  |
+| 196 | 0.1% | 0.3% |  |
 | 197 | 0.1% | 0.1% |  |
 | 198 | 0% | 0.1% |  |
 | 199 | 0% | 0% |  |

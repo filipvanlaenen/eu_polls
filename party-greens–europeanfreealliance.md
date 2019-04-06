@@ -8,14 +8,14 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 44 | 41–48 | 40–49 | 39–50 | 37–51 |
+| Greens–European Free Alliance | 45 | 44 | 41–48 | 40–49 | 39–50 | 38–52 |
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts (Greens/EFA) | | 7 | 6–8 | 5–9 | 5–10 | 5–10 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ahora Repúblicas (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Ecolo (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
 | Groen (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
-| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative (Greens/EFA) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -42,23 +42,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.1% | 100% |  |
-| 37 | 0.4% | 99.9% |  |
-| 38 | 1.2% | 99.5% |  |
-| 39 | 3% | 98% |  |
-| 40 | 5% | 96% |  |
-| 41 | 8% | 90% |  |
-| 42 | 12% | 82% |  |
-| 43 | 14% | 70% |  |
-| 44 | 14% | 56% | Median |
-| 45 | 13% | 42% | Last Result |
-| 46 | 11% | 29% |  |
-| 47 | 8% | 18% |  |
-| 48 | 5% | 11% |  |
-| 49 | 3% | 6% |  |
+| 37 | 0.3% | 99.9% |  |
+| 38 | 0.9% | 99.6% |  |
+| 39 | 2% | 98.7% |  |
+| 40 | 4% | 97% |  |
+| 41 | 8% | 92% |  |
+| 42 | 11% | 84% |  |
+| 43 | 13% | 74% |  |
+| 44 | 14% | 60% | Median |
+| 45 | 14% | 46% | Last Result |
+| 46 | 11% | 32% |  |
+| 47 | 9% | 21% |  |
+| 48 | 6% | 12% |  |
+| 49 | 3% | 7% |  |
 | 50 | 2% | 3% |  |
-| 51 | 0.7% | 1.2% |  |
-| 52 | 0.3% | 0.4% |  |
-| 53 | 0.1% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 51 | 0.9% | 1.4% |  |
+| 52 | 0.4% | 0.5% |  |
+| 53 | 0.1% | 0.2% |  |
+| 54 | 0% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 

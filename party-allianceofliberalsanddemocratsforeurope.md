@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 113 | 108–118 | 107–120 | 105–121 | 103–124 |
+| Alliance of Liberals and Democrats for Europe | 67 | 113 | 108–118 | 106–120 | 105–121 | 103–124 |
 | La République en marche–Mouvement démocrate (ALDE) | | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
 | ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
@@ -16,7 +16,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 5 | 3–7 | 3–7 | 3–7 | 3–8 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–5 |
-| Lista Marjana Šarca (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Lista Marjana Šarca (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România (ALDE) | | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Venstre (ALDE) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -31,10 +31,9 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Amsterdamska koalicija (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Attīstībai/Par! (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Coalición por Europa (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Darbo Partija (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
+| Darbo Partija (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | FREIE WÄHLER (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Liberalų Sąjūdis (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -46,6 +45,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -96,22 +96,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 99 | 0% | 100% |  |
 | 100 | 0% | 100% |  |
 | 101 | 0.1% | 100% |  |
-| 102 | 0.1% | 99.9% |  |
-| 103 | 0.3% | 99.8% |  |
+| 102 | 0.2% | 99.9% |  |
+| 103 | 0.4% | 99.7% |  |
 | 104 | 0.7% | 99.4% |  |
-| 105 | 1.3% | 98.7% |  |
+| 105 | 1.4% | 98.6% |  |
 | 106 | 2% | 97% |  |
-| 107 | 3% | 95% |  |
-| 108 | 5% | 92% |  |
-| 109 | 6% | 87% |  |
+| 107 | 4% | 95% |  |
+| 108 | 5% | 91% |  |
+| 109 | 7% | 86% |  |
 | 110 | 8% | 80% |  |
 | 111 | 9% | 72% |  |
 | 112 | 10% | 63% |  |
-| 113 | 10% | 54% | Median |
+| 113 | 10% | 53% | Median |
 | 114 | 9% | 44% |  |
-| 115 | 8% | 35% |  |
-| 116 | 7% | 27% |  |
-| 117 | 6% | 20% |  |
+| 115 | 8% | 34% |  |
+| 116 | 7% | 26% |  |
+| 117 | 6% | 19% |  |
 | 118 | 4% | 14% |  |
 | 119 | 3% | 9% |  |
 | 120 | 2% | 6% |  |
