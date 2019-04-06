@@ -16,7 +16,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Sinn Féin (GUE/NGL) | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Bloco de Esquerda (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -25,7 +25,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Partij voor de Dieren (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partij voor de Dieren (GUE/NGL) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -54,7 +54,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 15% | 66% |  |
 | 49 | 16% | 51% | Median |
 | 50 | 14% | 35% |  |
-| 51 | 10% | 22% | Last Result |
+| 51 | 10% | 21% | Last Result |
 | 52 | 6% | 11% |  |
 | 53 | 3% | 5% |  |
 | 54 | 1.3% | 2% |  |
