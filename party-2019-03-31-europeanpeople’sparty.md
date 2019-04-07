@@ -19,7 +19,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Social Democrata (EPP) | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | CSU (EPP) | | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | Fine Gael (EPP) | | 4 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 192 | 1.0% | 3% |  |
 | 193 | 0.6% | 2% |  |
 | 194 | 0.4% | 1.0% |  |
-| 195 | 0.2% | 0.5% |  |
+| 195 | 0.2% | 0.6% |  |
 | 196 | 0.1% | 0.3% |  |
 | 197 | 0.1% | 0.2% |  |
 | 198 | 0% | 0.1% |  |
