@@ -19,7 +19,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Social Democrata (EPP) | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| Граждани за европейско развитие на България (EPP) | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Hrvatska demokratska zajednica (EPP) | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | CSU (EPP) | | 4 | 4–6 | 4–6 | 3–6 | 3–7 |
 | Fine Gael (EPP) | | 4 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -32,7 +32,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka (EPP) | | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
+| Slovenska demokratska stranka (EPP) | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -49,7 +49,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Демократична България (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,14 +69,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 169 | 0.3% | 99.6% |  |
 | 170 | 0.5% | 99.3% |  |
 | 171 | 0.8% | 98.8% |  |
-| 172 | 1.2% | 98% |  |
+| 172 | 1.3% | 98% |  |
 | 173 | 2% | 97% |  |
-| 174 | 2% | 95% |  |
+| 174 | 3% | 95% |  |
 | 175 | 3% | 92% |  |
 | 176 | 4% | 89% |  |
 | 177 | 5% | 85% |  |
 | 178 | 6% | 80% |  |
-| 179 | 7% | 74% |  |
+| 179 | 7% | 73% |  |
 | 180 | 8% | 67% |  |
 | 181 | 8% | 59% |  |
 | 182 | 8% | 51% | Median |
@@ -87,11 +87,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 187 | 4% | 16% |  |
 | 188 | 4% | 12% |  |
 | 189 | 3% | 8% |  |
-| 190 | 2% | 5% |  |
+| 190 | 2% | 6% |  |
 | 191 | 1.3% | 4% |  |
 | 192 | 0.9% | 2% |  |
-| 193 | 0.6% | 1.3% |  |
-| 194 | 0.3% | 0.8% |  |
+| 193 | 0.6% | 1.4% |  |
+| 194 | 0.4% | 0.8% |  |
 | 195 | 0.2% | 0.4% |  |
 | 196 | 0.1% | 0.2% |  |
 | 197 | 0.1% | 0.1% |  |

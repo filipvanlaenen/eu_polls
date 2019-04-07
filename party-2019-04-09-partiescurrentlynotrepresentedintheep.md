@@ -35,7 +35,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Stranka antikorupcije, razvoja i transparentnosti (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Воля (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Воля (*) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -53,8 +53,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 2% | 99.8% |  |
 | 6 | 8% | 98% |  |
 | 7 | 19% | 90% |  |
-| 8 | 26% | 71% | Median |
-| 9 | 22% | 44% |  |
+| 8 | 26% | 70% | Median |
+| 9 | 21% | 44% |  |
 | 10 | 11% | 23% |  |
 | 11 | 4% | 12% |  |
 | 12 | 2% | 8% |  |
