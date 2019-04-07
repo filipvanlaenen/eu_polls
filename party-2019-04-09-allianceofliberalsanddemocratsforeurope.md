@@ -8,11 +8,11 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 105 | 100–111 | 99–112 | 98–114 | 95–117 |
-| La République en marche–Mouvement démocrate (ALDE) | | 23 | 20–27 | 20–27 | 19–27 | 19–27 |
+| Alliance of Liberals and Democrats for Europe | 67 | 105 | 100–110 | 98–111 | 97–113 | 95–116 |
+| La République en marche–Mouvement démocrate (ALDE) | | 23 | 20–25 | 20–25 | 19–27 | 19–29 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
-| FDP (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| FDP (ALDE) | | 8 | 7–10 | 6–10 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–5 |
@@ -47,7 +47,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Liberalerna (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Più Europa (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -89,32 +89,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0% | 100% |  |
 | 93 | 0.1% | 100% |  |
 | 94 | 0.2% | 99.9% |  |
-| 95 | 0.3% | 99.8% |  |
-| 96 | 0.7% | 99.4% |  |
-| 97 | 1.2% | 98.7% |  |
-| 98 | 2% | 98% |  |
-| 99 | 3% | 96% |  |
-| 100 | 4% | 92% |  |
-| 101 | 6% | 88% |  |
-| 102 | 7% | 82% |  |
-| 103 | 8% | 75% |  |
-| 104 | 9% | 66% |  |
-| 105 | 9% | 57% | Median |
-| 106 | 9% | 48% |  |
-| 107 | 8% | 38% |  |
-| 108 | 7% | 30% |  |
-| 109 | 6% | 23% |  |
-| 110 | 5% | 16% |  |
-| 111 | 4% | 11% |  |
-| 112 | 3% | 8% |  |
-| 113 | 2% | 5% |  |
-| 114 | 1.2% | 3% |  |
-| 115 | 0.8% | 2% |  |
-| 116 | 0.5% | 1.1% |  |
-| 117 | 0.3% | 0.6% |  |
-| 118 | 0.2% | 0.3% |  |
-| 119 | 0.1% | 0.2% |  |
-| 120 | 0% | 0.1% |  |
-| 121 | 0% | 0% |  |
+| 95 | 0.4% | 99.7% |  |
+| 96 | 0.8% | 99.3% |  |
+| 97 | 1.5% | 98% |  |
+| 98 | 2% | 97% |  |
+| 99 | 4% | 95% |  |
+| 100 | 5% | 91% |  |
+| 101 | 7% | 86% |  |
+| 102 | 8% | 79% |  |
+| 103 | 9% | 71% |  |
+| 104 | 10% | 61% |  |
+| 105 | 10% | 51% | Median |
+| 106 | 9% | 41% |  |
+| 107 | 8% | 32% |  |
+| 108 | 7% | 24% |  |
+| 109 | 5% | 17% |  |
+| 110 | 4% | 12% |  |
+| 111 | 3% | 8% |  |
+| 112 | 2% | 5% |  |
+| 113 | 1.2% | 3% |  |
+| 114 | 0.8% | 2% |  |
+| 115 | 0.4% | 1.0% |  |
+| 116 | 0.2% | 0.5% |  |
+| 117 | 0.1% | 0.3% |  |
+| 118 | 0.1% | 0.1% |  |
+| 119 | 0% | 0.1% |  |
+| 120 | 0% | 0% |  |
 
 
