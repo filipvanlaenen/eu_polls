@@ -8,9 +8,9 @@ Last result: **25** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 25 | 33 | 30–36 | 29–37 | 28–38 | 27–39 |
-| Movimento 5 Stelle (EFDD) | | 18 | 16–19 | 15–20 | 14–20 | 14–21 |
-| Alternative für Deutschland (EFDD) | | 12 | 10–13 | 9–13 | 9–14 | 8–14 |
+| Europe of Freedom and Direct Democracy | 25 | 33 | 29–36 | 28–37 | 27–38 | 26–39 |
+| Movimento 5 Stelle (EFDD) | | 18 | 15–20 | 14–21 | 14–21 | 13–21 |
+| Alternative für Deutschland (EFDD) | | 12 | 9–13 | 9–13 | 9–13 | 8–14 |
 | Kukiz’15 (EFDD) | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partija tvarka ir teisingumas (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Živi zid (EFDD) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -27,23 +27,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% | Last Result |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 0.9% | 99.5% |  |
-| 28 | 2% | 98.6% |  |
-| 29 | 4% | 96% |  |
-| 30 | 7% | 92% |  |
-| 31 | 11% | 85% |  |
-| 32 | 13% | 74% |  |
-| 33 | 15% | 61% | Median |
-| 34 | 14% | 46% |  |
-| 35 | 13% | 32% |  |
-| 36 | 10% | 19% |  |
-| 37 | 6% | 9% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.4% | 99.9% | Last Result |
+| 26 | 0.7% | 99.5% |  |
+| 27 | 2% | 98.8% |  |
+| 28 | 3% | 97% |  |
+| 29 | 5% | 94% |  |
+| 30 | 8% | 88% |  |
+| 31 | 11% | 80% |  |
+| 32 | 13% | 69% |  |
+| 33 | 13% | 56% | Median |
+| 34 | 13% | 42% |  |
+| 35 | 12% | 29% |  |
+| 36 | 9% | 17% |  |
+| 37 | 5% | 8% |  |
 | 38 | 2% | 4% |  |
-| 39 | 0.8% | 1.1% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0% | 0.1% |  |
+| 39 | 0.9% | 1.3% |  |
+| 40 | 0.3% | 0.3% |  |
+| 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 
 
