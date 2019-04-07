@@ -8,12 +8,50 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–109 | 97–111 | 96–112 | 94–115 |
+| La République en marche–Mouvement démocrate (ALDE) | | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
+| ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| FDP (ALDE) | | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
+| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
+| Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–5 |
+| Partidul Alianța Liberalilor și Democraților (ALDE) | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Lista Marjana Šarca (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| PRO România (ALDE) | | 3 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Venstre (ALDE) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Keskerakond (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Eesti Reformierakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| MR (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
+| Open Vld (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Suomen Keskusta (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Движение за права и свободи (ALDE) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Amsterdamska koalicija (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Attīstībai/Par! (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| Coalición por Europa (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Darbo Partija (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
+| Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| FREIE WÄHLER (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
+| Radikale Venstre (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
+| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| DéFI (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Eesti 200 (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Liberal Alliance (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalerna (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Ένωση Κεντρώων (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -23,70 +61,58 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 11% | 100% |  |
-| 4 | 52% | 89% | Median |
-| 5 | 36% | 38% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% | Last Result |
+| 67 | 0% | 100% | Last Result |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0% | 100% |  |
+| 78 | 0% | 100% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0% | 100% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0% | 100% |  |
+| 87 | 0% | 100% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0% | 100% |  |
+| 92 | 0.1% | 100% |  |
+| 93 | 0.2% | 99.9% |  |
+| 94 | 0.5% | 99.6% |  |
+| 95 | 0.9% | 99.2% |  |
+| 96 | 2% | 98% |  |
+| 97 | 3% | 97% |  |
+| 98 | 4% | 94% |  |
+| 99 | 5% | 90% |  |
+| 100 | 7% | 85% |  |
+| 101 | 8% | 78% |  |
+| 102 | 9% | 70% |  |
+| 103 | 9% | 61% |  |
+| 104 | 9% | 52% | Median |
+| 105 | 9% | 42% |  |
+| 106 | 8% | 34% |  |
+| 107 | 7% | 26% |  |
+| 108 | 5% | 19% |  |
+| 109 | 4% | 14% |  |
+| 110 | 3% | 9% |  |
+| 111 | 2% | 6% |  |
+| 112 | 2% | 4% |  |
+| 113 | 1.0% | 2% |  |
+| 114 | 0.6% | 1.3% |  |
+| 115 | 0.3% | 0.7% |  |
+| 116 | 0.2% | 0.4% |  |
+| 117 | 0.1% | 0.2% |  |
+| 118 | 0.1% | 0.1% |  |
+| 119 | 0% | 0% |  |
 
 
