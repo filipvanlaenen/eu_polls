@@ -9,7 +9,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | 51 | 49 | 45–52 | 44–53 | 43–53 | 42–55 |
-| DIE LINKE (GUE/NGL) | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
+| DIE LINKE (GUE/NGL) | | 8 | 6–9 | 5–9 | 5–10 | 5–10 |
 | La France insoumise (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Unidos Podemos (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -23,7 +23,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
-| Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Dieren (GUE/NGL) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,7 +45,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.6% | 99.7% |  |
+| 42 | 0.7% | 99.7% |  |
 | 43 | 2% | 99.0% |  |
 | 44 | 3% | 97% |  |
 | 45 | 6% | 94% |  |
@@ -53,13 +53,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 13% | 79% |  |
 | 48 | 15% | 66% |  |
 | 49 | 16% | 51% | Median |
-| 50 | 14% | 36% |  |
+| 50 | 14% | 35% |  |
 | 51 | 10% | 22% | Last Result |
 | 52 | 6% | 12% |  |
 | 53 | 3% | 5% |  |
 | 54 | 1.4% | 2% |  |
 | 55 | 0.5% | 0.6% |  |
-| 56 | 0.1% | 0.1% |  |
+| 56 | 0.1% | 0.2% |  |
 | 57 | 0% | 0% |  |
 
 

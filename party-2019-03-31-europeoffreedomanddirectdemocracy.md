@@ -10,7 +10,7 @@ Last result: **25** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Freedom and Direct Democracy | 25 | 33 | 30–36 | 29–37 | 28–38 | 26–39 |
 | Movimento 5 Stelle (EFDD) | | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
-| Alternative für Deutschland (EFDD) | | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
+| Alternative für Deutschland (EFDD) | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | Kukiz’15 (EFDD) | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partija tvarka ir teisingumas (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Živi zid (EFDD) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
