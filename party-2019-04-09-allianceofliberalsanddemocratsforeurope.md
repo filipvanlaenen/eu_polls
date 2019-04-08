@@ -8,13 +8,13 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 105 | 100–110 | 99–112 | 98–113 | 96–116 |
+| Alliance of Liberals and Democrats for Europe | 67 | 105 | 100–110 | 99–112 | 98–113 | 95–116 |
 | La République en marche–Mouvement démocrate (ALDE) | | 23 | 20–24 | 20–25 | 19–26 | 19–29 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
 | ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | FDP (ALDE) | | 8 | 7–10 | 6–10 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–5 |
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Lista Marjana Šarca (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -87,20 +87,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 0% | 100% |  |
 | 91 | 0% | 100% |  |
 | 92 | 0% | 100% |  |
-| 93 | 0% | 100% |  |
+| 93 | 0.1% | 100% |  |
 | 94 | 0.1% | 99.9% |  |
 | 95 | 0.3% | 99.8% |  |
 | 96 | 0.6% | 99.5% |  |
 | 97 | 1.2% | 98.9% |  |
 | 98 | 2% | 98% |  |
 | 99 | 3% | 96% |  |
-| 100 | 5% | 93% |  |
+| 100 | 5% | 92% |  |
 | 101 | 6% | 88% |  |
-| 102 | 8% | 82% |  |
+| 102 | 8% | 81% |  |
 | 103 | 9% | 74% |  |
-| 104 | 10% | 65% |  |
-| 105 | 10% | 55% | Median |
-| 106 | 10% | 45% |  |
+| 104 | 10% | 64% |  |
+| 105 | 10% | 54% | Median |
+| 106 | 10% | 44% |  |
 | 107 | 9% | 35% |  |
 | 108 | 7% | 26% |  |
 | 109 | 6% | 19% |  |
