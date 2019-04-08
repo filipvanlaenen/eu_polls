@@ -23,7 +23,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
-| Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Dieren (GUE/NGL) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -49,7 +49,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 99.1% |  |
 | 44 | 3% | 98% |  |
 | 45 | 6% | 94% |  |
-| 46 | 9% | 89% |  |
+| 46 | 9% | 88% |  |
 | 47 | 13% | 79% |  |
 | 48 | 15% | 66% |  |
 | 49 | 16% | 51% | Median |
