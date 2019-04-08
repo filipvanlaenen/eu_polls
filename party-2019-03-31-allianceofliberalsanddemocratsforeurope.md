@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–110 | 98–111 | 96–113 | 94–115 |
+| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–109 | 98–111 | 96–112 | 94–115 |
 | La République en marche–Mouvement démocrate (ALDE) | | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
 | ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
@@ -47,7 +47,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Liberalerna (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Più Europa (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -95,24 +95,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 3% | 95% |  |
 | 99 | 5% | 92% |  |
 | 100 | 6% | 87% |  |
-| 101 | 8% | 81% |  |
-| 102 | 9% | 73% |  |
-| 103 | 9% | 64% |  |
-| 104 | 10% | 55% | Median |
-| 105 | 9% | 45% |  |
-| 106 | 8% | 36% |  |
-| 107 | 7% | 28% |  |
-| 108 | 6% | 21% |  |
-| 109 | 5% | 15% |  |
+| 101 | 8% | 80% |  |
+| 102 | 9% | 72% |  |
+| 103 | 10% | 63% |  |
+| 104 | 10% | 54% | Median |
+| 105 | 9% | 44% |  |
+| 106 | 8% | 35% |  |
+| 107 | 7% | 27% |  |
+| 108 | 6% | 20% |  |
+| 109 | 4% | 14% |  |
 | 110 | 3% | 10% |  |
-| 111 | 2% | 7% |  |
+| 111 | 2% | 6% |  |
 | 112 | 2% | 4% |  |
-| 113 | 1.1% | 3% |  |
-| 114 | 0.7% | 1.5% |  |
-| 115 | 0.4% | 0.8% |  |
+| 113 | 1.0% | 2% |  |
+| 114 | 0.6% | 1.3% |  |
+| 115 | 0.3% | 0.7% |  |
 | 116 | 0.2% | 0.4% |  |
 | 117 | 0.1% | 0.2% |  |
-| 118 | 0.1% | 0.1% |  |
+| 118 | 0% | 0.1% |  |
 | 119 | 0% | 0% |  |
 
 
