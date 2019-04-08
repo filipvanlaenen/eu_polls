@@ -420,7 +420,7 @@ current EP fractions.
 | Partit Demòcrata Europeu Català                    | PDeCAT       | ALDE        | Current member                                                                                                                            |
 | Primavera Europea                                  | PE           | Greens/EFA  | Current member                                                                                                                            |
 | Unidos Podemos                                     | UP           | GUE/NGL     | Current member                                                                                                                            |
-| Vox                                                | Vox          | ECR         | Currently not represented in the European Parliament, but with strong ties to ECR                                                         |
+| Vox                                                | Vox          | ENF         | Currently not represented in the European Parliament, but with strong ties to ENF                                                         |
 
 ## Sweden
 
