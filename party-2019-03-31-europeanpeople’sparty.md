@@ -27,7 +27,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christen-Democratisch Appèl (EPP) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
 | CD&V (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 174 | 3% | 94% |  |
 | 175 | 3% | 91% |  |
 | 176 | 4% | 88% |  |
-| 177 | 5% | 84% |  |
+| 177 | 5% | 83% |  |
 | 178 | 6% | 78% |  |
 | 179 | 7% | 72% |  |
 | 180 | 7% | 65% |  |

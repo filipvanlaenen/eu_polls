@@ -12,7 +12,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | BÜNDNIS 90/DIE GRÜNEN (Greens/EFA) | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts (Greens/EFA) | | 7 | 5–8 | 5–9 | 5–10 | 5–10 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Ahora Repúblicas (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Ecolo (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
 | Groen (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
