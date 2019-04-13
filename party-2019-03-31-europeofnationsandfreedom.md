@@ -8,7 +8,7 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Nations and Freedom | 36 | 67 | 63–72 | 62–73 | 61–74 | 59–76 |
+| Europe of Nations and Freedom | 36 | 68 | 63–72 | 62–73 | 61–74 | 59–76 |
 | Lega Nord (ENF) | | 27 | 24–30 | 23–31 | 23–31 | 22–33 |
 | Rassemblement national (ENF) | | 22 | 19–23 | 19–24 | 18–24 | 17–25 |
 | Vox (ENF) | | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
@@ -50,17 +50,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0% | 100% |  |
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
-| 59 | 0.5% | 99.7% |  |
-| 60 | 1.0% | 99.2% |  |
+| 59 | 0.4% | 99.7% |  |
+| 60 | 1.0% | 99.3% |  |
 | 61 | 2% | 98% |  |
 | 62 | 3% | 96% |  |
 | 63 | 5% | 93% |  |
 | 64 | 7% | 88% |  |
 | 65 | 9% | 81% |  |
 | 66 | 11% | 72% |  |
-| 67 | 12% | 61% | Median |
-| 68 | 11% | 50% |  |
-| 69 | 10% | 38% |  |
+| 67 | 12% | 62% |  |
+| 68 | 12% | 50% | Median |
+| 69 | 11% | 39% |  |
 | 70 | 9% | 28% |  |
 | 71 | 7% | 19% |  |
 | 72 | 5% | 12% |  |
