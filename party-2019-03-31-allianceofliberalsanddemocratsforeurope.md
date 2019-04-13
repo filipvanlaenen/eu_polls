@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–109 | 98–111 | 96–112 | 94–115 |
+| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–109 | 97–111 | 96–112 | 94–115 |
 | La République en marche–Mouvement démocrate (ALDE) | | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
 | Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
 | ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
@@ -19,10 +19,10 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Lista Marjana Šarca (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România (ALDE) | | 3 | 3–5 | 3–5 | 3–5 | 2–6 |
-| Venstre (ALDE) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Venstre (ALDE) | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Keskerakond (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Eesti Keskerakond (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | MR (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Open Vld (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -37,7 +37,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
-| Radikale Venstre (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
+| Radikale Venstre (ALDE) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -89,28 +89,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0.1% | 100% |  |
 | 93 | 0.2% | 99.9% |  |
 | 94 | 0.4% | 99.7% |  |
-| 95 | 0.7% | 99.4% |  |
+| 95 | 0.8% | 99.3% |  |
 | 96 | 1.4% | 98.6% |  |
 | 97 | 2% | 97% |  |
-| 98 | 3% | 95% |  |
-| 99 | 5% | 92% |  |
-| 100 | 7% | 87% |  |
+| 98 | 4% | 95% |  |
+| 99 | 5% | 91% |  |
+| 100 | 7% | 86% |  |
 | 101 | 8% | 80% |  |
 | 102 | 9% | 72% |  |
 | 103 | 10% | 63% |  |
-| 104 | 10% | 54% | Median |
-| 105 | 9% | 44% |  |
-| 106 | 8% | 35% |  |
-| 107 | 7% | 27% |  |
-| 108 | 6% | 20% |  |
+| 104 | 10% | 53% | Median |
+| 105 | 9% | 43% |  |
+| 106 | 8% | 34% |  |
+| 107 | 7% | 26% |  |
+| 108 | 6% | 19% |  |
 | 109 | 4% | 14% |  |
-| 110 | 3% | 10% |  |
+| 110 | 3% | 9% |  |
 | 111 | 2% | 6% |  |
 | 112 | 2% | 4% |  |
 | 113 | 1.0% | 2% |  |
 | 114 | 0.6% | 1.3% |  |
 | 115 | 0.3% | 0.7% |  |
-| 116 | 0.2% | 0.4% |  |
+| 116 | 0.2% | 0.3% |  |
 | 117 | 0.1% | 0.2% |  |
 | 118 | 0% | 0.1% |  |
 | 119 | 0% | 0% |  |
