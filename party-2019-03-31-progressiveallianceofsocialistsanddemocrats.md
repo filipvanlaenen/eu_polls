@@ -32,7 +32,7 @@ Last result: **169** seats (General Election of 25 May 2014)
 | DK (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija (S&D) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei (S&D) | | 1 | 1 | 1 | 1 | 1 |
-| Socialni demokrati (S&D) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | sp.a (S&D) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická (S&D) | | 1 | 1–3 | 1–3 | 0–3 | 0–3 |
@@ -59,7 +59,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 0.2% | 99.7% |  |
 | 120 | 0.4% | 99.5% |  |
 | 121 | 0.6% | 99.1% |  |
-| 122 | 0.9% | 98.5% |  |
+| 122 | 0.9% | 98% |  |
 | 123 | 1.3% | 98% |  |
 | 124 | 2% | 96% |  |
 | 125 | 2% | 95% |  |
