@@ -8,9 +8,9 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 49 | 45–52 | 44–52 | 44–53 | 42–55 |
+| European United Left–Nordic Green Left | 51 | 48 | 45–52 | 44–52 | 44–53 | 42–54 |
 | DIE LINKE (GUE/NGL) | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
-| Unidos Podemos (GUE/NGL) | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
+| Unidos Podemos (GUE/NGL) | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | La France insoumise (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -24,7 +24,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Partij voor de Dieren (GUE/NGL) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Partij voor de Dieren (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -49,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 99.1% |  |
 | 44 | 3% | 98% |  |
 | 45 | 6% | 94% |  |
-| 46 | 9% | 88% |  |
+| 46 | 10% | 88% |  |
 | 47 | 13% | 79% |  |
-| 48 | 16% | 66% |  |
-| 49 | 16% | 50% | Median |
+| 48 | 16% | 66% | Median |
+| 49 | 16% | 50% |  |
 | 50 | 14% | 34% |  |
-| 51 | 10% | 21% | Last Result |
-| 52 | 6% | 11% |  |
+| 51 | 10% | 20% | Last Result |
+| 52 | 6% | 10% |  |
 | 53 | 3% | 5% |  |
-| 54 | 1.2% | 2% |  |
+| 54 | 1.1% | 2% |  |
 | 55 | 0.4% | 0.5% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
