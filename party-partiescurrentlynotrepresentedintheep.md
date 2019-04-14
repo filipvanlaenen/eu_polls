@@ -30,7 +30,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! (*) | | 0 | 0 | 0 | 0 | 0 |
 | Sininen tulevaisuus (*) | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka (*) | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Social Democrats (*) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -39,9 +39,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-03-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-03-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -53,15 +53,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 2% | 99.8% |  |
 | 6 | 9% | 98% |  |
 | 7 | 20% | 89% |  |
-| 8 | 27% | 69% | Median |
-| 9 | 21% | 42% |  |
+| 8 | 26% | 68% | Median |
+| 9 | 20% | 42% |  |
 | 10 | 10% | 21% |  |
-| 11 | 3% | 11% |  |
+| 11 | 3% | 12% |  |
 | 12 | 2% | 8% |  |
 | 13 | 2% | 6% |  |
 | 14 | 2% | 4% |  |
 | 15 | 1.2% | 2% |  |
-| 16 | 0.4% | 0.6% |  |
+| 16 | 0.5% | 0.6% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
