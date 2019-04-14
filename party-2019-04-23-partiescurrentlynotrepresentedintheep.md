@@ -8,8 +8,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 8 | 6–11 | 6–13 | 6–14 | 5–16 |
-| Česká pirátská strana (*) | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–10 | 6–11 | 5–12 |
+| Česká pirátská strana (*) | | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | 50Plus (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents (*) | | 1 | 1 | 1 | 1 | 0–1 |
 | Most nezavisnih lista (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -24,7 +24,6 @@ Last result: **0** seats (General Election of 25 May 2014)
 | La Droite (*) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière (*) | | 0 | 0 | 0 | 0 | 0 |
-| Mouvement des gilets jaunes (*) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Neovisni za Hrvatsku (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nye Borgerlige (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Renua Ireland (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -51,18 +50,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
 | 5 | 2% | 99.8% |  |
-| 6 | 9% | 98% |  |
-| 7 | 20% | 89% |  |
-| 8 | 26% | 68% | Median |
-| 9 | 20% | 42% |  |
-| 10 | 10% | 21% |  |
-| 11 | 3% | 12% |  |
-| 12 | 2% | 8% |  |
-| 13 | 2% | 6% |  |
-| 14 | 2% | 4% |  |
-| 15 | 1.2% | 2% |  |
-| 16 | 0.5% | 0.6% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 6 | 8% | 98% |  |
+| 7 | 20% | 90% |  |
+| 8 | 29% | 69% | Median |
+| 9 | 24% | 41% |  |
+| 10 | 12% | 17% |  |
+| 11 | 4% | 5% |  |
+| 12 | 0.7% | 0.8% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 

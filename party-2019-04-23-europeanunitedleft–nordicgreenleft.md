@@ -8,19 +8,19 @@ Last result: **51** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 51 | 49 | 45–52 | 44–53 | 43–53 | 42–55 |
+| European United Left–Nordic Green Left | 51 | 48 | 45–51 | 44–52 | 43–53 | 41–54 |
 | DIE LINKE (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
 | Unidos Podemos (GUE/NGL) | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
-| La France insoumise (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| La France insoumise (GUE/NGL) | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin (GUE/NGL) | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Bloco de Esquerda (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Komunistická strana Čech a Moravy (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Socialistische Partij (GUE/NGL) | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Vänsterpartiet (GUE/NGL) | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Komunistická strana Čech a Moravy (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz (GUE/NGL) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -43,23 +43,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% |  |
-| 42 | 0.8% | 99.6% |  |
-| 43 | 2% | 98.8% |  |
-| 44 | 3% | 97% |  |
-| 45 | 6% | 94% |  |
-| 46 | 9% | 88% |  |
-| 47 | 12% | 79% |  |
-| 48 | 14% | 67% |  |
-| 49 | 15% | 52% | Median |
-| 50 | 14% | 37% |  |
-| 51 | 11% | 23% | Last Result |
-| 52 | 7% | 13% |  |
-| 53 | 4% | 6% |  |
-| 54 | 2% | 2% |  |
-| 55 | 0.5% | 0.7% |  |
-| 56 | 0.1% | 0.2% |  |
-| 57 | 0% | 0% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.5% | 99.8% |  |
+| 42 | 1.2% | 99.3% |  |
+| 43 | 3% | 98% |  |
+| 44 | 5% | 96% |  |
+| 45 | 8% | 91% |  |
+| 46 | 11% | 83% |  |
+| 47 | 14% | 72% |  |
+| 48 | 16% | 59% | Median |
+| 49 | 15% | 43% |  |
+| 50 | 12% | 28% |  |
+| 51 | 8% | 16% | Last Result |
+| 52 | 5% | 7% |  |
+| 53 | 2% | 3% |  |
+| 54 | 0.6% | 0.8% |  |
+| 55 | 0.2% | 0.2% |  |
+| 56 | 0% | 0% |  |
 
 
