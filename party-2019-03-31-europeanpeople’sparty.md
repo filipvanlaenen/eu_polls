@@ -8,13 +8,13 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 181 | 175–188 | 173–190 | 171–192 | 168–195 |
+| European People’s Party | 217 | 181 | 175–188 | 173–190 | 171–191 | 168–194 |
 | CDU (EPP) | | 25 | 23–27 | 22–28 | 21–28 | 21–29 |
 | Koalicja Europejska (EPP) | | 21 | 16–23 | 16–24 | 15–25 | 14–26 |
 | Les Républicains (EPP) | | 13 | 11–15 | 11–16 | 11–16 | 10–16 |
 | Fidesz–KDNP (EPP) | | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
 | Partido Popular (EPP) | | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
-| Partidul Național Liberal (EPP) | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
+| Partidul Național Liberal (EPP) | | 9 | 8–11 | 7–12 | 7–12 | 7–12 |
 | Forza Italia (EPP) | | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
@@ -43,12 +43,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Křesťanská a demokratická unie–Československá strana lidová (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MOST–HÍD (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Partidul Mișcarea Populară (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | cdH (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
 | Det Konservative Folkeparti (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Noi con l’Italia (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Mișcarea Populară (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Slovenska ljudska stranka (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Uniunea Democrată Maghiară din România (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -71,31 +71,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 0.7% | 98.9% |  |
 | 171 | 1.1% | 98% |  |
 | 172 | 2% | 97% |  |
-| 173 | 2% | 96% |  |
-| 174 | 3% | 94% |  |
-| 175 | 4% | 91% |  |
-| 176 | 4% | 87% |  |
-| 177 | 5% | 83% |  |
-| 178 | 6% | 77% |  |
-| 179 | 7% | 71% |  |
-| 180 | 7% | 64% |  |
-| 181 | 8% | 57% | Median |
-| 182 | 8% | 50% |  |
-| 183 | 7% | 42% |  |
-| 184 | 7% | 35% |  |
-| 185 | 6% | 28% |  |
-| 186 | 5% | 22% |  |
-| 187 | 4% | 17% |  |
-| 188 | 3% | 12% |  |
-| 189 | 3% | 9% |  |
-| 190 | 2% | 6% |  |
-| 191 | 1.4% | 4% |  |
-| 192 | 1.0% | 3% |  |
-| 193 | 0.6% | 2% |  |
-| 194 | 0.4% | 1.0% |  |
-| 195 | 0.2% | 0.6% |  |
+| 173 | 2% | 95% |  |
+| 174 | 3% | 93% |  |
+| 175 | 4% | 90% |  |
+| 176 | 5% | 87% |  |
+| 177 | 6% | 82% |  |
+| 178 | 6% | 76% |  |
+| 179 | 7% | 70% |  |
+| 180 | 7% | 63% |  |
+| 181 | 8% | 56% | Median |
+| 182 | 8% | 48% |  |
+| 183 | 7% | 40% |  |
+| 184 | 7% | 33% |  |
+| 185 | 6% | 26% |  |
+| 186 | 5% | 20% |  |
+| 187 | 4% | 15% |  |
+| 188 | 3% | 11% |  |
+| 189 | 2% | 8% |  |
+| 190 | 2% | 5% |  |
+| 191 | 1.3% | 4% |  |
+| 192 | 0.9% | 2% |  |
+| 193 | 0.6% | 1.4% |  |
+| 194 | 0.4% | 0.8% |  |
+| 195 | 0.2% | 0.5% |  |
 | 196 | 0.1% | 0.3% |  |
-| 197 | 0.1% | 0.2% |  |
+| 197 | 0.1% | 0.1% |  |
 | 198 | 0% | 0.1% |  |
 | 199 | 0% | 0% |  |
 | 200 | 0% | 0% |  |
