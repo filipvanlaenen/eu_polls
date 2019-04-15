@@ -14,7 +14,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Fidesz–KDNP (EPP) | | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
 | Les Républicains (EPP) | | 12 | 11–15 | 11–15 | 11–15 | 10–17 |
 | Partido Popular (EPP) | | 11 | 11–13 | 10–13 | 10–14 | 10–14 |
-| Partidul Național Liberal (EPP) | | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| Partidul Național Liberal (EPP) | | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
 | Forza Italia (EPP) | | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | Νέα Δημοκρατία (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei (EPP) | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
@@ -36,7 +36,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | TOP 09–Starostové a nezávislí–Strana zelených (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
 | Christlich-Soziale Partei (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Erakond Isamaa (EPP) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Erakond Isamaa (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā Vienotība (EPP) | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Jaunā konservatīvā partija (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie (EPP) | | 1 | 1 | 1 | 1 | 1–2 |
@@ -77,16 +77,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 176 | 5% | 85% |  |
 | 177 | 6% | 80% |  |
 | 178 | 7% | 74% |  |
-| 179 | 8% | 66% |  |
+| 179 | 8% | 67% |  |
 | 180 | 8% | 59% |  |
-| 181 | 8% | 50% | Median |
+| 181 | 8% | 51% | Median |
 | 182 | 8% | 42% |  |
 | 183 | 7% | 34% |  |
 | 184 | 6% | 27% |  |
-| 185 | 5% | 20% |  |
+| 185 | 5% | 21% |  |
 | 186 | 4% | 15% |  |
 | 187 | 3% | 11% |  |
-| 188 | 2% | 7% |  |
+| 188 | 3% | 7% |  |
 | 189 | 2% | 5% |  |
 | 190 | 1.2% | 3% |  |
 | 191 | 0.8% | 2% |  |
