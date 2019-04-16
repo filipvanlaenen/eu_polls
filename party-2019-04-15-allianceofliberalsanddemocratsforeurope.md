@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 59 | 55–63 | 54–64 | 53–65 | 51–67 |
+| Alliance of Liberals and Democrats for Europe | 67 | 63 | 58–67 | 57–69 | 56–70 | 54–72 |
 | La République en marche–Mouvement démocrate (ALDE) | | 23 | 20–23 | 20–24 | 19–24 | 19–25 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 6 | 4–7 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -18,6 +18,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Liberal Democrats (ALDE) | | 2 | 2–6 | 2–6 | 2–8 | 2–8 |
 | Amsterdamska koalicija (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Attīstībai/Par! (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
@@ -25,6 +26,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Alliance Party of Northern Ireland (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,27 +45,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 49 | 0% | 100% |  |
-| 50 | 0.2% | 99.9% |  |
-| 51 | 0.5% | 99.8% |  |
-| 52 | 1.2% | 99.3% |  |
-| 53 | 2% | 98% |  |
-| 54 | 4% | 96% |  |
-| 55 | 7% | 91% |  |
-| 56 | 10% | 85% |  |
-| 57 | 12% | 75% |  |
-| 58 | 13% | 63% |  |
-| 59 | 13% | 50% | Median |
-| 60 | 11% | 37% |  |
-| 61 | 9% | 26% |  |
-| 62 | 7% | 17% |  |
-| 63 | 5% | 10% |  |
-| 64 | 3% | 6% |  |
-| 65 | 2% | 3% |  |
-| 66 | 0.8% | 1.4% |  |
-| 67 | 0.4% | 0.6% | Last Result |
-| 68 | 0.2% | 0.3% |  |
-| 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 52 | 0.1% | 100% |  |
+| 53 | 0.2% | 99.9% |  |
+| 54 | 0.6% | 99.6% |  |
+| 55 | 1.2% | 99.1% |  |
+| 56 | 2% | 98% |  |
+| 57 | 4% | 96% |  |
+| 58 | 5% | 92% |  |
+| 59 | 7% | 87% |  |
+| 60 | 9% | 79% |  |
+| 61 | 10% | 71% |  |
+| 62 | 10% | 61% |  |
+| 63 | 10% | 50% | Median |
+| 64 | 10% | 40% |  |
+| 65 | 8% | 30% |  |
+| 66 | 7% | 21% |  |
+| 67 | 5% | 14% | Last Result |
+| 68 | 4% | 9% |  |
+| 69 | 2% | 6% |  |
+| 70 | 1.5% | 3% |  |
+| 71 | 0.8% | 2% |  |
+| 72 | 0.4% | 0.8% |  |
+| 73 | 0.2% | 0.4% |  |
+| 74 | 0.1% | 0.2% |  |
+| 75 | 0% | 0.1% |  |
+| 76 | 0% | 0% |  |
 
 

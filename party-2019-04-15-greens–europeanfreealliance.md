@@ -8,10 +8,12 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
+| Greens–European Free Alliance | 45 | 25 | 22–29 | 21–30 | 20–31 | 19–32 |
 | Europe Écologie Les Verts (Greens/EFA) | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | GroenLinks (Greens/EFA) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Scottish National Party (Greens/EFA) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Plaid Cymru (Greens/EFA) | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
@@ -29,27 +31,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 2% | 99.7% |  |
-| 15 | 7% | 98% |  |
-| 16 | 15% | 91% |  |
-| 17 | 22% | 76% |  |
-| 18 | 23% | 53% | Median |
-| 19 | 17% | 30% |  |
-| 20 | 8% | 12% |  |
-| 21 | 3% | 4% |  |
-| 22 | 0.8% | 1.0% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 0.8% | 99.8% |  |
+| 20 | 2% | 99.0% |  |
+| 21 | 5% | 97% |  |
+| 22 | 8% | 91% |  |
+| 23 | 11% | 83% |  |
+| 24 | 13% | 71% |  |
+| 25 | 14% | 58% | Median |
+| 26 | 12% | 45% |  |
+| 27 | 10% | 32% |  |
+| 28 | 8% | 22% |  |
+| 29 | 7% | 14% |  |
+| 30 | 4% | 7% |  |
+| 31 | 2% | 3% |  |
+| 32 | 0.7% | 0.9% |  |
+| 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |
