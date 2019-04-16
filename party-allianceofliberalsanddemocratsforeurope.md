@@ -8,19 +8,19 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–109 | 97–111 | 96–112 | 94–115 |
-| La République en marche–Mouvement démocrate (ALDE) | | 23 | 20–24 | 20–24 | 19–25 | 19–25 |
-| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 10 | 8–11 | 8–12 | 7–12 | 7–12 |
+| Alliance of Liberals and Democrats for Europe | 67 | 104 | 99–108 | 98–110 | 97–111 | 95–113 |
+| La République en marche–Mouvement démocrate (ALDE) | | 23 | 20–23 | 20–24 | 19–24 | 19–25 |
+| Ciudadanos–Partido de la Ciudadanía (ALDE) | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | ANO 2011 (ALDE) | | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
-| FDP (ALDE) | | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
-| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 6 | 4–7 | 3–7 | 3–7 | 3–8 |
+| FDP (ALDE) | | 8 | 6–10 | 6–10 | 6–10 | 6–11 |
+| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității (ALDE) | | 6 | 4–7 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie (ALDE) | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Fianna Fáil (ALDE) | | 4 | 4 | 4 | 4 | 3–5 |
 | Eesti Reformierakond (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| PRO România (ALDE) | | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
-| Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
-| Venstre (ALDE) | | 3 | 3 | 3 | 3–4 | 2–4 |
+| PRO România (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Partidul Alianța Liberalilor și Democraților (ALDE) | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Venstre (ALDE) | | 3 | 3 | 3 | 3 | 2–4 |
 | Centerpartiet (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Keskerakond (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -30,13 +30,13 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Движение за права и свободи (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Amsterdamska koalicija (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Attīstībai/Par! (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| Coalición por Europa (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Coalición por Europa (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| FREIE WÄHLER (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| FREIE WÄHLER (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | MM (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Radikale Venstre (ALDE) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -55,9 +55,9 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-03-31-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-03-31.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -86,33 +86,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0% | 100% |  |
 | 90 | 0% | 100% |  |
 | 91 | 0% | 100% |  |
-| 92 | 0.1% | 100% |  |
-| 93 | 0.2% | 99.9% |  |
-| 94 | 0.4% | 99.7% |  |
-| 95 | 0.7% | 99.4% |  |
-| 96 | 1.4% | 98.6% |  |
-| 97 | 2% | 97% |  |
-| 98 | 4% | 95% |  |
-| 99 | 5% | 91% |  |
-| 100 | 7% | 86% |  |
-| 101 | 8% | 80% |  |
-| 102 | 9% | 72% |  |
-| 103 | 10% | 62% |  |
-| 104 | 10% | 53% | Median |
-| 105 | 9% | 43% |  |
-| 106 | 8% | 34% |  |
-| 107 | 7% | 25% |  |
-| 108 | 6% | 19% |  |
-| 109 | 4% | 13% |  |
-| 110 | 3% | 9% |  |
-| 111 | 2% | 6% |  |
-| 112 | 1.4% | 3% |  |
-| 113 | 0.9% | 2% |  |
-| 114 | 0.5% | 1.1% |  |
-| 115 | 0.3% | 0.6% |  |
-| 116 | 0.2% | 0.3% |  |
-| 117 | 0.1% | 0.1% |  |
-| 118 | 0% | 0.1% |  |
-| 119 | 0% | 0% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0.1% | 99.9% |  |
+| 94 | 0.3% | 99.8% |  |
+| 95 | 0.6% | 99.6% |  |
+| 96 | 1.1% | 99.0% |  |
+| 97 | 2% | 98% |  |
+| 98 | 3% | 96% |  |
+| 99 | 5% | 93% |  |
+| 100 | 7% | 88% |  |
+| 101 | 9% | 81% |  |
+| 102 | 10% | 72% |  |
+| 103 | 11% | 61% |  |
+| 104 | 11% | 50% | Median |
+| 105 | 10% | 39% |  |
+| 106 | 9% | 29% |  |
+| 107 | 7% | 21% |  |
+| 108 | 5% | 14% |  |
+| 109 | 4% | 9% |  |
+| 110 | 2% | 5% |  |
+| 111 | 1.4% | 3% |  |
+| 112 | 0.8% | 2% |  |
+| 113 | 0.4% | 0.8% |  |
+| 114 | 0.2% | 0.4% |  |
+| 115 | 0.1% | 0.2% |  |
+| 116 | 0% | 0.1% |  |
+| 117 | 0% | 0% |  |
 
 

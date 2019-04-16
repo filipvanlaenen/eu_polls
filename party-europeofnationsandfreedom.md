@@ -8,22 +8,22 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Nations and Freedom | 36 | 68 | 64–72 | 62–73 | 61–74 | 59–76 |
-| Lega Nord (ENF) | | 27 | 24–30 | 23–31 | 23–31 | 22–33 |
-| Rassemblement national (ENF) | | 22 | 19–23 | 19–24 | 18–24 | 17–25 |
-| Vox (ENF) | | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
+| Europe of Nations and Freedom | 36 | 67 | 64–72 | 62–73 | 62–74 | 60–76 |
+| Lega Nord (ENF) | | 26 | 24–30 | 23–30 | 22–31 | 21–32 |
+| Rassemblement national (ENF) | | 22 | 20–23 | 20–24 | 20–24 | 18–25 |
+| Vox (ENF) | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | Freiheitliche Partei Österreichs (ENF) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Partij voor de Vrijheid (ENF) | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
+| Partij voor de Vrijheid (ENF) | | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
 | Svoboda a přímá demokracie (ENF) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | SME RODINA (ENF) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Slovenská národná strana (ENF) | | 1 | 1 | 1 | 1 | 0–2 |
+| Slovenská národná strana (ENF) | | 1 | 1 | 1 | 1 | 0–1 |
 | Vlaams Belang (ENF) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-03-31-seats-pmf-europeofnationsandfreedom.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeofnationsandfreedom.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-03-31.html) for Europe of Nations and Freedom.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Europe of Nations and Freedom.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -49,25 +49,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0% | 100% |  |
 | 56 | 0% | 100% |  |
 | 57 | 0% | 100% |  |
-| 58 | 0.1% | 99.9% |  |
-| 59 | 0.3% | 99.8% |  |
-| 60 | 0.7% | 99.5% |  |
-| 61 | 1.5% | 98.7% |  |
-| 62 | 3% | 97% |  |
-| 63 | 4% | 95% |  |
-| 64 | 6% | 90% |  |
-| 65 | 9% | 84% |  |
-| 66 | 11% | 75% |  |
-| 67 | 12% | 65% |  |
-| 68 | 12% | 53% | Median |
-| 69 | 11% | 41% |  |
-| 70 | 9% | 30% |  |
-| 71 | 7% | 21% |  |
-| 72 | 5% | 13% |  |
-| 73 | 4% | 8% |  |
-| 74 | 2% | 4% |  |
-| 75 | 1.1% | 2% |  |
-| 76 | 0.5% | 0.8% |  |
+| 58 | 0.1% | 100% |  |
+| 59 | 0.3% | 99.9% |  |
+| 60 | 0.6% | 99.6% |  |
+| 61 | 1.4% | 99.0% |  |
+| 62 | 3% | 98% |  |
+| 63 | 5% | 95% |  |
+| 64 | 7% | 90% |  |
+| 65 | 10% | 83% |  |
+| 66 | 12% | 74% |  |
+| 67 | 13% | 62% | Median |
+| 68 | 12% | 49% |  |
+| 69 | 11% | 37% |  |
+| 70 | 9% | 26% |  |
+| 71 | 7% | 17% |  |
+| 72 | 5% | 11% |  |
+| 73 | 3% | 6% |  |
+| 74 | 2% | 3% |  |
+| 75 | 0.9% | 2% |  |
+| 76 | 0.4% | 0.7% |  |
 | 77 | 0.2% | 0.3% |  |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0% |  |

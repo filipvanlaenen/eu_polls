@@ -29,7 +29,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Nouveau Parti anticapitaliste (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti communiste français (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
-| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partido Animalista Contra el Maltrato Animal (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Λαϊκή Ενότητα (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -45,19 +45,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.8% | 99.7% |  |
+| 42 | 0.7% | 99.7% |  |
 | 43 | 2% | 98.9% |  |
 | 44 | 4% | 97% |  |
 | 45 | 7% | 93% |  |
 | 46 | 11% | 86% |  |
-| 47 | 15% | 74% |  |
-| 48 | 17% | 59% | Median |
-| 49 | 16% | 42% |  |
-| 50 | 12% | 27% |  |
-| 51 | 8% | 14% | Last Result |
-| 52 | 4% | 6% |  |
+| 47 | 15% | 75% |  |
+| 48 | 17% | 60% | Median |
+| 49 | 16% | 43% |  |
+| 50 | 13% | 27% |  |
+| 51 | 8% | 15% | Last Result |
+| 52 | 4% | 7% |  |
 | 53 | 2% | 2% |  |
-| 54 | 0.5% | 0.7% |  |
+| 54 | 0.6% | 0.7% |  |
 | 55 | 0.1% | 0.2% |  |
 | 56 | 0% | 0% |  |
 
