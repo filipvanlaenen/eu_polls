@@ -8,26 +8,32 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 36 | 8 | 8–13 | 8–13 | 7–13 | 7–13 |
-| UK Independence Party (EAPN) | | 8 | 8–13 | 8–13 | 7–13 | 7–13 |
+| European Alliance of Peoples and Nations | 36 | 8 | 1–12 | 1–13 | 1–13 | 1–14 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 4% | 100% |  |
-| 8 | 50% | 96% | Median |
-| 9 | 4% | 46% |  |
-| 10 | 3% | 42% |  |
-| 11 | 13% | 40% |  |
-| 12 | 0.1% | 27% |  |
-| 13 | 26% | 27% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 13% | 99.9% |  |
+| 2 | 20% | 87% |  |
+| 3 | 0.1% | 67% |  |
+| 4 | 0.4% | 67% |  |
+| 5 | 0% | 67% |  |
+| 6 | 0% | 67% |  |
+| 7 | 3% | 67% |  |
+| 8 | 23% | 64% | Median |
+| 9 | 9% | 41% |  |
+| 10 | 10% | 32% |  |
+| 11 | 12% | 22% |  |
+| 12 | 5% | 11% |  |
+| 13 | 5% | 6% |  |
+| 14 | 0.4% | 0.9% |  |
+| 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
