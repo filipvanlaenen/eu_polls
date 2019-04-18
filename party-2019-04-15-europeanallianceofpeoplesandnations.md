@@ -8,7 +8,8 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 36 | 8 | 1–12 | 1–13 | 1–13 | 1–14 |
+| European Alliance of Peoples and Nations | 36 | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
+| UK Independence Party [GB-GBN] (EAPN) | | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
 
 ### Probability Mass Function
 
@@ -18,22 +19,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 13% | 99.9% |  |
-| 2 | 20% | 87% |  |
-| 3 | 0.1% | 67% |  |
-| 4 | 0.4% | 67% |  |
-| 5 | 0% | 67% |  |
-| 6 | 0% | 67% |  |
-| 7 | 3% | 67% |  |
-| 8 | 23% | 64% | Median |
-| 9 | 9% | 41% |  |
-| 10 | 10% | 32% |  |
-| 11 | 12% | 22% |  |
-| 12 | 5% | 11% |  |
-| 13 | 5% | 6% |  |
-| 14 | 0.4% | 0.9% |  |
-| 15 | 0.5% | 0.5% |  |
+| 1 | 14% | 100% |  |
+| 2 | 12% | 86% |  |
+| 3 | 4% | 73% |  |
+| 4 | 3% | 70% |  |
+| 5 | 3% | 66% |  |
+| 6 | 8% | 63% |  |
+| 7 | 7% | 55% | Median |
+| 8 | 17% | 48% |  |
+| 9 | 7% | 31% |  |
+| 10 | 7% | 24% |  |
+| 11 | 9% | 17% |  |
+| 12 | 4% | 8% |  |
+| 13 | 4% | 4% |  |
+| 14 | 0.3% | 0.6% |  |
+| 15 | 0.3% | 0.4% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
