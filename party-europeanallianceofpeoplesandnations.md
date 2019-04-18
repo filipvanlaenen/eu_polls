@@ -8,33 +8,32 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 36 | 2 | 1–10 | 1–11 | 0–11 | 0–12 |
-| UK Independence Party [GB-GBN] (EAPN) | | 2 | 1–10 | 1–11 | 0–11 | 0–12 |
+| European Alliance of Peoples and Nations | 36 | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
+| UK Independence Party [GB-GBN] (EAPN) | | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 24% | 96% |  |
-| 2 | 39% | 72% | Median |
-| 3 | 0.1% | 34% |  |
-| 4 | 0.1% | 34% |  |
-| 5 | 0% | 33% |  |
-| 6 | 0% | 33% |  |
-| 7 | 3% | 33% |  |
-| 8 | 13% | 31% |  |
-| 9 | 3% | 17% |  |
-| 10 | 6% | 14% |  |
-| 11 | 7% | 9% |  |
-| 12 | 1.0% | 1.5% |  |
-| 13 | 0.4% | 0.4% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 1 | 14% | 100% |  |
+| 2 | 12% | 86% |  |
+| 3 | 3% | 73% |  |
+| 4 | 3% | 70% |  |
+| 5 | 3% | 67% |  |
+| 6 | 9% | 64% |  |
+| 7 | 7% | 55% | Median |
+| 8 | 17% | 48% |  |
+| 9 | 7% | 31% |  |
+| 10 | 7% | 24% |  |
+| 11 | 9% | 17% |  |
+| 12 | 4% | 8% |  |
+| 13 | 4% | 4% |  |
+| 14 | 0.3% | 0.6% |  |
+| 15 | 0.3% | 0.4% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
