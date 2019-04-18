@@ -8,6 +8,7 @@ current EP fractions.
 | EP Fraction Name                                                                                           | Abbreviation |
 |:-----------------------------------------------------------------------------------------------------------|:-------------|
 | [Alliance of Liberals and Democrats for Europe](party-allianceofliberalsanddemocratsforeurope.html)        | ALDE         |
+| [European Alliance of Peoples and Nations](party-europeanallianceofpeoplesandnations.html)                 | EAPN         |
 | [European Conservatives and Reformists](party-europeanconservativesandreformists.html)                     | ECR          |
 | [European People’s Party](party-europeanpeople%E2%80%99sparty.html)                                        | EPP          |
 | [European United Left–Nordic Green Left](party-europeanunitedleft%E2%80%93nordicgreenleft.html)            | GUE/NGL      |
@@ -192,7 +193,7 @@ current EP fractions.
 
 | Party Name                  | Abbreviation | EP Fraction | Rationale      |
 |:----------------------------|:-------------|:------------|:---------------|
-| Alternative für Deutschland | AfD          | EFDD        | Current member |
+| Alternative für Deutschland | AfD          | EAPN        | Current member of EFDD, but has declared that it will join EAPN after the elections |
 | BÜNDNIS 90/DIE GRÜNEN       | GRÜNEN       | Greens/EFA  | Current member |
 | CDU                         | CDU          | EPP         | Current member |
 | CSU                         | CSU          | EPP         | Current member |
