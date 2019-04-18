@@ -8,7 +8,7 @@ Last result: **53** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 68 | 61–76 | 59–78 | 57–80 | 54–82 |
+| European Conservatives and Reformists | 53 | 68 | 60–76 | 59–78 | 57–80 | 54–82 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 18–24 | 17–24 | 17–25 | 17–25 |
 | Conservative Party [GB-GBN] (ECR) | | 14 | 10–20 | 10–20 | 9–20 | 9–22 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
@@ -64,12 +64,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 5% | 24% |  |
 | 74 | 4% | 19% |  |
 | 75 | 4% | 15% |  |
-| 76 | 3% | 12% |  |
-| 77 | 2% | 9% |  |
+| 76 | 3% | 11% |  |
+| 77 | 2% | 8% |  |
 | 78 | 2% | 6% |  |
 | 79 | 2% | 4% |  |
 | 80 | 1.1% | 3% |  |
-| 81 | 0.7% | 2% |  |
+| 81 | 0.7% | 1.5% |  |
 | 82 | 0.4% | 0.8% |  |
 | 83 | 0.2% | 0.4% |  |
 | 84 | 0.1% | 0.1% |  |
