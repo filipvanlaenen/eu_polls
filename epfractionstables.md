@@ -113,7 +113,7 @@ current EP fractions.
 | Party Name                  | Abbreviation | EP Fraction | Rationale                                                                       |
 |:----------------------------|:-------------|:------------|:--------------------------------------------------------------------------------|
 | Alternativet                | Å            | Greens/EFA  | New party, but had declared to @EuropeElects that it intends to join Greens/EFA |
-| Dansk Folkeparti            | O            | ECR         | Current member                                                                  |
+| Dansk Folkeparti            | O            | EAPN        | Currently a member of ECR, but has declared that it will join EAPN after the elections |
 | Det Konservative Folkeparti | C            | EPP         | Current member                                                                  |
 | Enhedslisten–De Rød-Grønne  | Ø            | GUE/NGL     | Current member                                                                  |
 | Klaus Riskær Pedersen       | D            | *           | New party                                                                       |
@@ -193,7 +193,7 @@ current EP fractions.
 
 | Party Name                  | Abbreviation | EP Fraction | Rationale      |
 |:----------------------------|:-------------|:------------|:---------------|
-| Alternative für Deutschland | AfD          | EAPN        | Current member of EFDD, but has declared that it will join EAPN after the elections |
+| Alternative für Deutschland | AfD          | EAPN        | Currently a member of EFDD, but has declared that it will join EAPN after the elections |
 | BÜNDNIS 90/DIE GRÜNEN       | GRÜNEN       | Greens/EFA  | Current member |
 | CDU                         | CDU          | EPP         | Current member |
 | CSU                         | CSU          | EPP         | Current member |
