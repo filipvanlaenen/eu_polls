@@ -131,7 +131,7 @@ current EP fractions.
 |:----------------------------------|:-------------|:------------|:--------------------------------------------------------------------------|
 | Eesti 200                         | E200         | ALDE        | New party; has ties to ALDE                                               |
 | Eesti Keskerakond                 | Kesk         | ALDE        | Current member                                                            |
-| Eesti Konservatiivne Rahvaerakond | EKRE         | ECR         | Currently not represented in the European Parliament, but has ties to ECR |
+| Eesti Konservatiivne Rahvaerakond | EKRE         | EAPN        | Currently not represented in the European Parliament, but has declared that it will join EAPN after the elections |
 | Eesti Reformierakond              | Ref          | ALDE        | Current member                                                            |
 | Eesti Vabaerakond                 | EVA          | *           | New party                                                                 |
 | Erakond Eestimaa Rohelised        | Rohelised    | Greens/EFA  | Current member                                                            |
