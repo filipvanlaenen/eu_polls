@@ -256,15 +256,15 @@ current EP fractions.
 
 | Party Name             | Abbreviation | EP Fraction | Rationale                                                                                          |
 |:-----------------------|:-------------|:------------|:---------------------------------------------------------------------------------------------------|
-| CasaPound Italia       | CPI          | *           | Currently not represented in the European Parliament                                               |
-| Civica Popolare        | CP           | *           | New party                                                                                          |
+| CasaPound Italia       | CPI          | NI          | Currently not represented in the European Parliament, but has strong ties to other parties currently member of NI |
+| Civica Popolare        | CP           | ALDE        | New party, but strong indications that it will join ALDE                                           |
 | Forza Italia           | FI           | EPP         | Current member                                                                                     |
 | Fratelli d’Italia      | FdI          | ECR         | Currently not represented in the European Parliament, but strong indications that it will join ECR |
 | Insieme                | I            | *           | New party                                                                                          |
-| Lega Nord              | LN           | ENF         | Current member                                                                                     |
+| Lega Nord              | LN           | EAPN        | Current member                                                                                     |
 | Liberi e Uguali        | LeU          | S&D         | Current member                                                                                     |
 | Movimento 5 Stelle     | M5S          | EFDD        | Current member                                                                                     |
-| Noi con l’Italia       | NcI          | EPP         | Current member                                                                                     |
+| Noi con l’Italia       | NcI          | ECR         | Currenly a member of EPP, but has declared that it will join ECR                                   |
 | Partito Democratico    | PD           | S&D         | Current member                                                                                     |
 | Più Europa             | +E           | ALDE        | Current member                                                                                     |
 | Potere al Popolo       | PaP          | GUE/NGL     | Current member                                                                                     |
