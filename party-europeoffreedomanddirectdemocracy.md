@@ -8,10 +8,9 @@ Last result: **25** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 25 | 39 | 32–46 | 30–48 | 29–49 | 27–51 |
+| Europe of Freedom and Direct Democracy | 25 | 27 | 24–30 | 23–31 | 22–32 | 21–33 |
 | Movimento 5 Stelle [IT] (EFDD) | | 17 | 14–19 | 14–20 | 14–20 | 13–21 |
-| Alternative für Deutschland [DE] (EFDD) | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
-| Brexit Party [GB-GBN] (EFDD) | | 8 | 6–13 | 6–14 | 6–15 | 6–15 |
+| Brexit Party [GB-GBN] (EFDD) | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Kukiz’15 [PL] (EFDD) | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Partija tvarka ir teisingumas [LT] (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 1 |
@@ -22,41 +21,27 @@ Last result: **25** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Europe of Freedom and Direct Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Europe of Freedom and Direct Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% | Last Result |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 0.6% | 99.6% |  |
-| 28 | 1.0% | 99.0% |  |
-| 29 | 2% | 98% |  |
-| 30 | 3% | 96% |  |
-| 31 | 3% | 94% |  |
-| 32 | 4% | 90% |  |
-| 33 | 4% | 87% |  |
-| 34 | 5% | 82% |  |
-| 35 | 5% | 78% |  |
-| 36 | 5% | 73% |  |
-| 37 | 6% | 68% |  |
-| 38 | 7% | 62% |  |
-| 39 | 8% | 55% | Median |
-| 40 | 8% | 48% |  |
-| 41 | 8% | 40% |  |
-| 42 | 7% | 32% |  |
-| 43 | 6% | 26% |  |
-| 44 | 5% | 20% |  |
-| 45 | 4% | 15% |  |
-| 46 | 3% | 11% |  |
-| 47 | 3% | 8% |  |
-| 48 | 2% | 5% |  |
-| 49 | 1.4% | 3% |  |
-| 50 | 0.8% | 2% |  |
-| 51 | 0.4% | 0.7% |  |
-| 52 | 0.2% | 0.3% |  |
-| 53 | 0.1% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.6% | 99.9% |  |
+| 22 | 2% | 99.3% |  |
+| 23 | 3% | 97% |  |
+| 24 | 7% | 94% |  |
+| 25 | 12% | 88% | Last Result |
+| 26 | 12% | 75% |  |
+| 27 | 15% | 63% | Median |
+| 28 | 18% | 48% |  |
+| 29 | 14% | 31% |  |
+| 30 | 9% | 16% |  |
+| 31 | 5% | 8% |  |
+| 32 | 2% | 3% |  |
+| 33 | 0.6% | 0.7% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 

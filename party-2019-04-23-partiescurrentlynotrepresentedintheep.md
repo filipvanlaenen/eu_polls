@@ -29,7 +29,6 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Sininen tulevaisuus [FI] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka [SI] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -55,7 +54,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 25% | 80% |  |
 | 8 | 25% | 56% | Median |
 | 9 | 17% | 31% |  |
-| 10 | 9% | 13% |  |
+| 10 | 9% | 14% |  |
 | 11 | 4% | 5% |  |
 | 12 | 1.0% | 1.2% |  |
 | 13 | 0.2% | 0.2% |  |
