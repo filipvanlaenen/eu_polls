@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 101 | 96–106 | 94–108 | 93–109 | 91–111 |
+| Alliance of Liberals and Democrats for Europe | 67 | 101 | 96–106 | 94–108 | 93–109 | 91–112 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 20–23 | 19–23 | 18–23 | 18–23 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
 | FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
@@ -23,7 +23,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–4 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2 | 2–4 | 1–5 | 1–5 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 2–3 |
@@ -57,9 +57,9 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -87,7 +87,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.2% | 99.9% |  |
-| 91 | 0.4% | 99.7% |  |
+| 91 | 0.4% | 99.6% |  |
 | 92 | 0.8% | 99.2% |  |
 | 93 | 1.5% | 98% |  |
 | 94 | 2% | 97% |  |
@@ -97,20 +97,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 8% | 79% |  |
 | 99 | 9% | 71% |  |
 | 100 | 10% | 62% |  |
-| 101 | 10% | 52% | Median |
+| 101 | 10% | 53% | Median |
 | 102 | 9% | 43% |  |
-| 103 | 8% | 33% |  |
-| 104 | 7% | 25% |  |
-| 105 | 6% | 18% |  |
+| 103 | 8% | 34% |  |
+| 104 | 7% | 26% |  |
+| 105 | 6% | 19% |  |
 | 106 | 4% | 13% |  |
-| 107 | 3% | 8% |  |
+| 107 | 3% | 9% |  |
 | 108 | 2% | 5% |  |
-| 109 | 1.3% | 3% |  |
-| 110 | 0.8% | 2% |  |
-| 111 | 0.5% | 0.9% |  |
-| 112 | 0.2% | 0.5% |  |
-| 113 | 0.1% | 0.2% |  |
+| 109 | 1.4% | 3% |  |
+| 110 | 0.9% | 2% |  |
+| 111 | 0.5% | 1.0% |  |
+| 112 | 0.3% | 0.5% |  |
+| 113 | 0.1% | 0.3% |  |
 | 114 | 0.1% | 0.1% |  |
-| 115 | 0% | 0% |  |
+| 115 | 0% | 0.1% |  |
+| 116 | 0% | 0% |  |
 
 

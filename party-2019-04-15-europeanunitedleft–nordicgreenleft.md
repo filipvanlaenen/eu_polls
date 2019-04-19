@@ -18,7 +18,7 @@ Last result: **51** seats (General Election of 25 May 2014)
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica [SI] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
@@ -54,11 +54,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 17% | 67% | Median |
 | 47 | 17% | 49% |  |
 | 48 | 14% | 32% |  |
-| 49 | 9% | 18% |  |
+| 49 | 9% | 19% |  |
 | 50 | 5% | 9% |  |
-| 51 | 2% | 4% | Last Result |
-| 52 | 1.0% | 1.4% |  |
-| 53 | 0.3% | 0.4% |  |
+| 51 | 3% | 4% | Last Result |
+| 52 | 1.0% | 1.5% |  |
+| 53 | 0.3% | 0.5% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
