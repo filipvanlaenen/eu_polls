@@ -8,8 +8,8 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 169 | 158 | 147–168 | 145–170 | 143–172 | 139–176 |
-| Labour Party [GB-GBN] (S&D) | | 29 | 19–38 | 19–38 | 19–38 | 17–39 |
+| Progressive Alliance of Socialists and Democrats | 169 | 158 | 149–168 | 147–170 | 145–172 | 141–176 |
+| Labour Party [GB-GBN] (S&D) | | 28 | 22–38 | 21–38 | 19–38 | 19–39 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 16 | 14–18 | 13–18 | 13–18 | 13–19 |
 | SPD [DE] (S&D) | | 16 | 14–18 | 14–18 | 13–19 | 12–20 |
 | Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
@@ -49,52 +49,50 @@ Last result: **169** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 135 | 0% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
-| 137 | 0.1% | 99.9% |  |
-| 138 | 0.2% | 99.7% |  |
-| 139 | 0.3% | 99.6% |  |
-| 140 | 0.4% | 99.3% |  |
-| 141 | 0.6% | 98.9% |  |
-| 142 | 0.8% | 98% |  |
-| 143 | 1.1% | 98% |  |
-| 144 | 1.4% | 96% |  |
-| 145 | 2% | 95% |  |
-| 146 | 2% | 93% |  |
-| 147 | 2% | 91% |  |
-| 148 | 3% | 89% |  |
-| 149 | 3% | 86% |  |
-| 150 | 3% | 83% |  |
-| 151 | 3% | 80% |  |
-| 152 | 4% | 77% |  |
-| 153 | 4% | 73% |  |
-| 154 | 4% | 70% |  |
-| 155 | 4% | 66% |  |
-| 156 | 5% | 61% |  |
-| 157 | 5% | 57% |  |
-| 158 | 5% | 52% | Median |
-| 159 | 5% | 47% |  |
-| 160 | 5% | 42% |  |
+| 137 | 0% | 100% |  |
+| 138 | 0.1% | 99.9% |  |
+| 139 | 0.1% | 99.9% |  |
+| 140 | 0.1% | 99.8% |  |
+| 141 | 0.2% | 99.6% |  |
+| 142 | 0.3% | 99.4% |  |
+| 143 | 0.5% | 99.1% |  |
+| 144 | 0.7% | 98.6% |  |
+| 145 | 0.9% | 98% |  |
+| 146 | 1.2% | 97% |  |
+| 147 | 2% | 96% |  |
+| 148 | 2% | 94% |  |
+| 149 | 2% | 92% |  |
+| 150 | 3% | 90% |  |
+| 151 | 3% | 87% |  |
+| 152 | 4% | 84% |  |
+| 153 | 4% | 80% |  |
+| 154 | 5% | 75% |  |
+| 155 | 5% | 70% |  |
+| 156 | 6% | 65% |  |
+| 157 | 6% | 60% |  |
+| 158 | 6% | 54% | Median |
+| 159 | 5% | 48% |  |
+| 160 | 5% | 43% |  |
 | 161 | 5% | 38% |  |
 | 162 | 4% | 33% |  |
-| 163 | 4% | 29% |  |
-| 164 | 4% | 25% |  |
-| 165 | 4% | 21% |  |
-| 166 | 3% | 18% |  |
+| 163 | 4% | 28% |  |
+| 164 | 4% | 24% |  |
+| 165 | 3% | 21% |  |
+| 166 | 3% | 17% |  |
 | 167 | 3% | 14% |  |
-| 168 | 3% | 11% |  |
+| 168 | 2% | 11% |  |
 | 169 | 2% | 9% | Last Result |
-| 170 | 2% | 7% |  |
+| 170 | 2% | 6% |  |
 | 171 | 1.4% | 5% |  |
 | 172 | 1.1% | 3% |  |
 | 173 | 0.8% | 2% |  |
-| 174 | 0.6% | 2% |  |
+| 174 | 0.5% | 1.5% |  |
 | 175 | 0.4% | 0.9% |  |
 | 176 | 0.2% | 0.6% |  |
 | 177 | 0.1% | 0.3% |  |

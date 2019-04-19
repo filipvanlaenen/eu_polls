@@ -10,7 +10,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | 0 | 8 | 6–10 | 5–10 | 5–11 | 4–12 |
 | Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
-| Independents [IE] (*) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Independents [IE] (*) | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista [HR] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -25,13 +25,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Latvijas Reģionu apvienība [LV] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Neovisni za Hrvatsku [HR] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Neovisni za Hrvatsku [HR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka [SI] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Воля [BG] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -49,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.7% | 100% |  |
-| 5 | 5% | 99.2% |  |
-| 6 | 14% | 95% |  |
-| 7 | 25% | 80% |  |
-| 8 | 25% | 56% | Median |
-| 9 | 17% | 31% |  |
-| 10 | 9% | 14% |  |
-| 11 | 4% | 5% |  |
-| 12 | 1.0% | 1.2% |  |
-| 13 | 0.2% | 0.2% |  |
+| 5 | 5% | 99.3% |  |
+| 6 | 17% | 95% |  |
+| 7 | 28% | 78% |  |
+| 8 | 25% | 50% | Median |
+| 9 | 15% | 25% |  |
+| 10 | 7% | 10% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.5% | 0.6% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 

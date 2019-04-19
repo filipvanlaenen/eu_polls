@@ -8,7 +8,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 102 | 96–107 | 95–109 | 94–110 | 91–113 |
+| Alliance of Liberals and Democrats for Europe | 67 | 101 | 96–107 | 94–109 | 93–110 | 91–113 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–23 | 19–23 | 18–23 | 18–23 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
 | FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
@@ -16,7 +16,6 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 4–7 | 4–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fianna Fáil [IE] (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 3 | 2–5 | 2–6 | 2–6 | 2–7 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România [RO] (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -25,6 +24,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2–5 | 2–6 | 1–6 | 1–7 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -57,9 +57,9 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -85,34 +85,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
-| 90 | 0.2% | 99.9% |  |
-| 91 | 0.3% | 99.7% |  |
-| 92 | 0.6% | 99.4% |  |
-| 93 | 1.1% | 98.8% |  |
-| 94 | 2% | 98% |  |
-| 95 | 3% | 96% |  |
-| 96 | 4% | 93% |  |
-| 97 | 5% | 90% |  |
-| 98 | 6% | 85% |  |
-| 99 | 8% | 78% |  |
-| 100 | 9% | 71% |  |
-| 101 | 9% | 62% |  |
-| 102 | 9% | 53% | Median |
-| 103 | 9% | 44% |  |
-| 104 | 8% | 35% |  |
-| 105 | 7% | 27% |  |
-| 106 | 6% | 20% |  |
-| 107 | 5% | 14% |  |
-| 108 | 3% | 10% |  |
-| 109 | 2% | 6% |  |
-| 110 | 2% | 4% |  |
-| 111 | 1.0% | 2% |  |
-| 112 | 0.6% | 1.2% |  |
-| 113 | 0.3% | 0.6% |  |
-| 114 | 0.2% | 0.3% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 0.2% | 99.8% |  |
+| 91 | 0.5% | 99.6% |  |
+| 92 | 0.8% | 99.1% |  |
+| 93 | 1.4% | 98% |  |
+| 94 | 2% | 97% |  |
+| 95 | 3% | 95% |  |
+| 96 | 5% | 91% |  |
+| 97 | 6% | 87% |  |
+| 98 | 7% | 81% |  |
+| 99 | 8% | 74% |  |
+| 100 | 9% | 66% |  |
+| 101 | 9% | 57% | Median |
+| 102 | 9% | 48% |  |
+| 103 | 8% | 39% |  |
+| 104 | 7% | 31% |  |
+| 105 | 6% | 23% |  |
+| 106 | 5% | 17% |  |
+| 107 | 4% | 12% |  |
+| 108 | 3% | 8% |  |
+| 109 | 2% | 5% |  |
+| 110 | 1.3% | 3% |  |
+| 111 | 0.8% | 2% |  |
+| 112 | 0.5% | 1.0% |  |
+| 113 | 0.3% | 0.5% |  |
+| 114 | 0.1% | 0.2% |  |
 | 115 | 0.1% | 0.1% |  |
-| 116 | 0% | 0.1% |  |
-| 117 | 0% | 0% |  |
+| 116 | 0% | 0% |  |
 
 

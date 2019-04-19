@@ -8,12 +8,12 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 50 | 45–56 | 44–57 | 43–58 | 42–60 |
+| Greens–European Free Alliance | 45 | 49 | 45–54 | 44–56 | 43–57 | 42–59 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | GroenLinks [NL] (Greens/EFA) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| Scottish National Party [GB-GBN] (Greens/EFA) | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
@@ -27,7 +27,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
+| Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | LMP [HU] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -38,35 +38,34 @@ Last result: **45** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% |  |
-| 42 | 0.8% | 99.6% |  |
-| 43 | 2% | 98.8% |  |
-| 44 | 3% | 97% |  |
-| 45 | 5% | 93% | Last Result |
-| 46 | 8% | 88% |  |
-| 47 | 9% | 80% |  |
-| 48 | 10% | 71% |  |
-| 49 | 10% | 61% |  |
-| 50 | 9% | 51% | Median |
-| 51 | 8% | 42% |  |
-| 52 | 7% | 34% |  |
-| 53 | 6% | 27% |  |
-| 54 | 5% | 21% |  |
-| 55 | 5% | 16% |  |
-| 56 | 4% | 11% |  |
-| 57 | 3% | 7% |  |
-| 58 | 2% | 4% |  |
-| 59 | 1.3% | 2% |  |
-| 60 | 0.7% | 1.1% |  |
-| 61 | 0.3% | 0.4% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
+| 41 | 0.4% | 99.9% |  |
+| 42 | 1.0% | 99.5% |  |
+| 43 | 2% | 98.6% |  |
+| 44 | 4% | 96% |  |
+| 45 | 6% | 93% | Last Result |
+| 46 | 8% | 87% |  |
+| 47 | 10% | 79% |  |
+| 48 | 11% | 69% |  |
+| 49 | 11% | 58% | Median |
+| 50 | 10% | 48% |  |
+| 51 | 9% | 38% |  |
+| 52 | 8% | 28% |  |
+| 53 | 6% | 21% |  |
+| 54 | 5% | 14% |  |
+| 55 | 4% | 9% |  |
+| 56 | 2% | 5% |  |
+| 57 | 1.5% | 3% |  |
+| 58 | 0.8% | 1.4% |  |
+| 59 | 0.4% | 0.6% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 
