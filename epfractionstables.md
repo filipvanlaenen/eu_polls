@@ -24,7 +24,7 @@ current EP fractions.
 | Party Name                                   | Abbreviation | EP Fraction | Rationale                                                           |
 |:---------------------------------------------|:-------------|:------------|:--------------------------------------------------------------------|
 | Die Grünen–Die Grüne Alternative             | Grüne        | Greens/EFA  | Current member                                                      |
-| Freiheitliche Partei Österreichs             | FPÖ          | ENF         | Current member                                                      |
+| Freiheitliche Partei Österreichs             | FPÖ          | EAPN        | Current member                                                      |
 | JETZT–Liste Pilz                             | JETZT        | Greens/EFA  | New party; split from Die Grünen–Die Grüne Alternative (Greens/EFA); has announced it will join Greens/EFA |
 | Meine Stimme Gilt!                           | GILT         | *           | New party                                                           |
 | NEOS–Das Neue Österreich und Liberales Forum | NEOS         | ALDE        | Current member                                                      |
@@ -43,7 +43,7 @@ current EP fractions.
 | Piratenpartij  | PIRAAT       | Greens/EFA  | Affiliated to the European Pirate Party, whose MEPs usually join Greens/EFA |
 | PVDA           | PVDA         | GUE/NGL     | Current member                                                              |
 | sp.a           | SP.A         | S&D         | Current member                                                              |
-| Vlaams Belang  | VB           | ENF         | Current member                                                              |
+| Vlaams Belang  | VB           | EAPN        | Current member                                                              |
 
 ## Bulgaria
 
@@ -104,7 +104,7 @@ current EP fractions.
 | Starostové a nezávislí                                      | STAN               | EPP         | Current member                                                                       |
 | Strana svobodných občanů                                    | SVOBODNÍ           | EFDD        | Current member                                                                       |
 | Strana zelených                                             | ZELENÍ             | Greens/EFA  | Current member                                                                       |
-| Svoboda a přímá demokracie                                  | SPD                | ENF         | Current member                                                                       |
+| Svoboda a přímá demokracie                                  | SPD                | EAPN        | Current member                                                                       |
 | TOP 09                                                      | TOP 09             | EPP         | Current member                                                                       |
 | TOP 09–Starostové a nezávislí–Strana zelených               | TOP 09–STAN–ZELENÍ | EPP         | Electoral alliance between TOP 09, Starostové a nezávislí and Strana zelených        |
 
@@ -159,7 +159,6 @@ current EP fractions.
 | Agir, la droite constructive–Union des démocrates et indépendants | Agir–UDI     | ALDE        | Current member                                       |
 | Debout la France                                                  | DlF          | ECR         | Current member                                       |
 | Europe Écologie Les Verts                                         | EEV          | Greens/EFA  | Current member                                       |
-| Front national                                                    | FN           | ENF         | Current member                                       |
 | La France insoumise                                               | FI           | GUE/NGL     | Current member                                       |
 | La République en marche–Mouvement démocrate                       | LREM–MoDem   | ALDE        | Current member (MoDem)                               |
 | Les Patriotes                                                     | LP           | EFDD        | Current member                                       |
@@ -168,6 +167,7 @@ current EP fractions.
 | Mouvement des gilets jaunes                                       | GJ           | *           | Hypothetical new party                               |
 | Parti communiste français                                         | PCF          | GUE/NGL     | Current member                                       |
 | Parti socialiste                                                  | PS           | S&D         | Current member                                       |
+| Rassemblement national                                            | FN           | EAPN        | Current member                                       |
 | Union populaire républicaine                                      | UPR          | *           | Currently not represented in the European Parliament |
 
 ## French Community of Belgium
@@ -319,7 +319,7 @@ current EP fractions.
 | GroenLinks                              | GL           | Greens/EFA  | Current member                                                              |
 | Partij van de Arbeid                    | PvdA         | S&D         | Current member                                                              |
 | Partij voor de Dieren                   | PvdD         | GUE/NGL     | Current member                                                              |
-| Partij voor de Vrijheid                 | PVV          | ENF         | Current member                                                              |
+| Partij voor de Vrijheid                 | PVV          | EAPN        | Current member                                                              |
 | Piratenpartij                           | PP           | *           | Currently not represented in the European Parliament                        |
 | Socialistische Partij                   | SP           | GUE/NGL     | Current member                                                              |
 | Staatkundig Gereformeerde Partij        | SGP          | ECR         | Current member                                                              |
@@ -379,9 +379,9 @@ current EP fractions.
 | Progresívne Slovensko                            | PS           | ALDE        | Current member                                                                                                                                                          |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | PS–SPOLU     | ALDE–EPP    | Electoral alliance between Progresívne Slovensko and SPOLU–Občianska Demokracia                                                                                         |
 | Sloboda a Solidarita                             | SaS          | ECR         | Current member                                                                                                                                                          |
-| Slovenská národná strana                         | SNS          | ENF         | Currently not represented in the European Parliament, but strong indications that it would have joined ENF if it would have a representation in the European Parliament |
+| Slovenská národná strana                         | SNS          | EAPN        | Currently not represented in the European Parliament, but strong indications that it would have joined EAPN if it would have a representation in the European Parliament |
 | SMER–sociálna demokracia                         | Smer–SD      | S&D         | Current member                                                                                                                                                          |
-| SME RODINA                                       | SME RODINA   | ENF         | New party; has informal ties to ENF                                                                                                                                     |
+| SME RODINA                                       | SME RODINA   | EAPN        | New party; has informal ties to EAPN                                                                                                                                     |
 | SPOLU–Občianska Demokracia                       | SPOLU        | EPP         | New party; has announced that it will join the EPP                                                                                                                      |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SMK–MKP      | EPP         | Current member                                                                                                                                                          |
 
@@ -421,7 +421,7 @@ current EP fractions.
 | Partit Demòcrata Europeu Català                    | PDeCAT       | ALDE        | Current member                                                                                                                            |
 | Primavera Europea                                  | PE           | Greens/EFA  | Current member                                                                                                                            |
 | Unidos Podemos                                     | UP           | GUE/NGL     | Current member                                                                                                                            |
-| Vox                                                | Vox          | ENF         | Currently not represented in the European Parliament, but with strong ties to ENF                                                         |
+| Vox                                                | Vox          | EAPN        | Currently not represented in the European Parliament, but with strong ties to EAPN                                                        |
 
 ## Sweden
 
