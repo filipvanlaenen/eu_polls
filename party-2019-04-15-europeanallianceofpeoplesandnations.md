@@ -8,9 +8,10 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 36 | 22 | 17–28 | 17–30 | 16–31 | 15–32 |
+| European Alliance of Peoples and Nations | 36 | 49 | 42–54 | 41–56 | 40–57 | 38–59 |
+| Lega Nord [IT] (EAPN) | | 25 | 23–28 | 23–29 | 22–30 | 21–30 |
 | Alternative für Deutschland [DE] (EAPN) | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
-| UK Independence Party [GB-GBN] (EAPN) | | 6 | 1–11 | 1–13 | 1–13 | 1–14 |
+| UK Independence Party [GB-GBN] (EAPN) | | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Perussuomalaiset [FI] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1–2 |
@@ -23,28 +24,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.3% | 100% |  |
-| 15 | 1.3% | 99.7% |  |
-| 16 | 3% | 98% |  |
-| 17 | 7% | 95% |  |
-| 18 | 10% | 89% |  |
-| 19 | 10% | 79% |  |
-| 20 | 8% | 69% |  |
-| 21 | 7% | 60% |  |
-| 22 | 7% | 54% | Median |
-| 23 | 7% | 47% |  |
-| 24 | 8% | 39% |  |
-| 25 | 7% | 32% |  |
-| 26 | 6% | 24% |  |
-| 27 | 5% | 18% |  |
-| 28 | 4% | 13% |  |
-| 29 | 4% | 9% |  |
-| 30 | 3% | 5% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.7% | 1.1% |  |
-| 33 | 0.2% | 0.3% |  |
-| 34 | 0.1% | 0.1% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% | Last Result |
+| 36 | 0% | 100% | Last Result |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.4% | 99.8% |  |
+| 39 | 1.0% | 99.4% |  |
+| 40 | 2% | 98% |  |
+| 41 | 3% | 96% |  |
+| 42 | 5% | 93% |  |
+| 43 | 5% | 88% |  |
+| 44 | 6% | 83% |  |
+| 45 | 6% | 78% |  |
+| 46 | 6% | 72% |  |
+| 47 | 7% | 65% |  |
+| 48 | 8% | 58% |  |
+| 49 | 8% | 51% | Median |
+| 50 | 8% | 43% |  |
+| 51 | 8% | 34% |  |
+| 52 | 7% | 26% |  |
+| 53 | 6% | 19% |  |
+| 54 | 5% | 13% |  |
+| 55 | 3% | 9% |  |
+| 56 | 2% | 5% |  |
+| 57 | 1.4% | 3% |  |
+| 58 | 0.8% | 2% |  |
+| 59 | 0.4% | 0.8% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 179 | 172–185 | 170–187 | 168–189 | 165–192 |
+| European People’s Party | 217 | 177 | 171–183 | 169–185 | 167–187 | 164–190 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 15–24 | 13–24 | 13–24 |
 | Fidesz–KDNP [HU] (EPP) | | 12 | 11–14 | 11–14 | 11–14 | 11–14 |
@@ -43,7 +43,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
-| Change UK [GB-GBN] (EPP) | | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
+| Change UK [GB-GBN] (EPP) | | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -57,46 +57,47 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 0% | 100% |  |
+| 161 | 0% | 100% |  |
+| 162 | 0.1% | 99.9% |  |
 | 163 | 0.1% | 99.9% |  |
-| 164 | 0.2% | 99.8% |  |
-| 165 | 0.3% | 99.6% |  |
-| 166 | 0.5% | 99.3% |  |
-| 167 | 0.8% | 98.8% |  |
-| 168 | 1.1% | 98% |  |
-| 169 | 2% | 97% |  |
-| 170 | 2% | 95% |  |
-| 171 | 3% | 93% |  |
-| 172 | 4% | 91% |  |
-| 173 | 4% | 87% |  |
-| 174 | 5% | 83% |  |
-| 175 | 6% | 78% |  |
-| 176 | 7% | 72% |  |
-| 177 | 7% | 65% |  |
-| 178 | 7% | 58% |  |
-| 179 | 7% | 51% | Median |
-| 180 | 7% | 43% |  |
-| 181 | 7% | 36% |  |
-| 182 | 6% | 29% |  |
-| 183 | 5% | 23% |  |
-| 184 | 5% | 18% |  |
-| 185 | 4% | 13% |  |
-| 186 | 3% | 9% |  |
-| 187 | 2% | 7% |  |
-| 188 | 2% | 4% |  |
-| 189 | 1.1% | 3% |  |
-| 190 | 0.7% | 2% |  |
-| 191 | 0.5% | 1.1% |  |
-| 192 | 0.3% | 0.6% |  |
-| 193 | 0.2% | 0.3% |  |
-| 194 | 0.1% | 0.2% |  |
-| 195 | 0% | 0.1% |  |
+| 164 | 0.3% | 99.7% |  |
+| 165 | 0.4% | 99.5% |  |
+| 166 | 0.7% | 99.0% |  |
+| 167 | 1.1% | 98% |  |
+| 168 | 2% | 97% |  |
+| 169 | 2% | 96% |  |
+| 170 | 3% | 93% |  |
+| 171 | 4% | 91% |  |
+| 172 | 5% | 87% |  |
+| 173 | 5% | 82% |  |
+| 174 | 6% | 77% |  |
+| 175 | 7% | 71% |  |
+| 176 | 8% | 64% |  |
+| 177 | 8% | 56% | Median |
+| 178 | 8% | 48% |  |
+| 179 | 8% | 40% |  |
+| 180 | 7% | 33% |  |
+| 181 | 6% | 26% |  |
+| 182 | 5% | 19% |  |
+| 183 | 4% | 14% |  |
+| 184 | 3% | 10% |  |
+| 185 | 2% | 7% |  |
+| 186 | 2% | 4% |  |
+| 187 | 1.1% | 3% |  |
+| 188 | 0.7% | 2% |  |
+| 189 | 0.4% | 0.9% |  |
+| 190 | 0.2% | 0.5% |  |
+| 191 | 0.1% | 0.3% |  |
+| 192 | 0.1% | 0.1% |  |
+| 193 | 0% | 0.1% |  |
+| 194 | 0% | 0% |  |
+| 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
 | 197 | 0% | 0% |  |
 | 198 | 0% | 0% |  |
