@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 178 | 171–185 | 170–186 | 168–188 | 165–191 |
+| European People’s Party | 217 | 177 | 171–183 | 169–185 | 168–186 | 165–189 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | Koalicja Europejska [PL] (EPP) | | 20 | 16–23 | 15–24 | 15–24 | 14–25 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
@@ -16,7 +16,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partido Popular [ES] (EPP) | | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
 | Forza Italia [IT] (EPP) | | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
-| Νέα Δημοκρατία [GR] (EPP) | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -45,7 +45,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
-| Change UK [GB-GBN] (EPP) | | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
+| Change UK [GB-GBN] (EPP) | | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -57,46 +57,46 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 162 | 0% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.8% |  |
-| 165 | 0.3% | 99.7% |  |
-| 166 | 0.5% | 99.4% |  |
-| 167 | 0.8% | 98.9% |  |
-| 168 | 1.2% | 98% |  |
-| 169 | 2% | 97% |  |
-| 170 | 2% | 95% |  |
-| 171 | 3% | 93% |  |
-| 172 | 4% | 90% |  |
-| 173 | 5% | 86% |  |
-| 174 | 6% | 81% |  |
-| 175 | 7% | 75% |  |
-| 176 | 7% | 69% |  |
-| 177 | 8% | 61% |  |
-| 178 | 8% | 54% | Median |
-| 179 | 8% | 46% |  |
-| 180 | 7% | 38% |  |
-| 181 | 7% | 31% |  |
-| 182 | 6% | 25% |  |
-| 183 | 5% | 19% |  |
-| 184 | 4% | 14% |  |
-| 185 | 3% | 10% |  |
-| 186 | 2% | 7% |  |
-| 187 | 2% | 5% |  |
-| 188 | 1.2% | 3% |  |
-| 189 | 0.8% | 2% |  |
-| 190 | 0.5% | 1.2% |  |
-| 191 | 0.3% | 0.7% |  |
-| 192 | 0.2% | 0.4% |  |
-| 193 | 0.1% | 0.2% |  |
-| 194 | 0.1% | 0.1% |  |
-| 195 | 0% | 0.1% |  |
+| 165 | 0.4% | 99.6% |  |
+| 166 | 0.6% | 99.3% |  |
+| 167 | 1.0% | 98.7% |  |
+| 168 | 1.4% | 98% |  |
+| 169 | 2% | 96% |  |
+| 170 | 3% | 94% |  |
+| 171 | 4% | 91% |  |
+| 172 | 5% | 88% |  |
+| 173 | 6% | 83% |  |
+| 174 | 7% | 77% |  |
+| 175 | 8% | 70% |  |
+| 176 | 8% | 63% |  |
+| 177 | 8% | 55% | Median |
+| 178 | 8% | 46% |  |
+| 179 | 8% | 38% |  |
+| 180 | 7% | 31% |  |
+| 181 | 6% | 24% |  |
+| 182 | 5% | 18% |  |
+| 183 | 4% | 13% |  |
+| 184 | 3% | 9% |  |
+| 185 | 2% | 6% |  |
+| 186 | 1.5% | 4% |  |
+| 187 | 1.0% | 2% |  |
+| 188 | 0.6% | 1.5% |  |
+| 189 | 0.4% | 0.9% |  |
+| 190 | 0.2% | 0.5% |  |
+| 191 | 0.1% | 0.3% |  |
+| 192 | 0.1% | 0.1% |  |
+| 193 | 0% | 0.1% |  |
+| 194 | 0% | 0% |  |
+| 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
 | 197 | 0% | 0% |  |
 | 198 | 0% | 0% |  |

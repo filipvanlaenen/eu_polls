@@ -38,9 +38,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -49,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.5% | 100% |  |
-| 5 | 4% | 99.4% |  |
+| 5 | 3% | 99.5% |  |
 | 6 | 12% | 96% |  |
-| 7 | 23% | 83% |  |
-| 8 | 26% | 60% | Median |
-| 9 | 19% | 35% |  |
-| 10 | 10% | 16% |  |
-| 11 | 4% | 6% |  |
-| 12 | 1.3% | 2% |  |
-| 13 | 0.2% | 0.3% |  |
+| 7 | 22% | 85% |  |
+| 8 | 26% | 62% | Median |
+| 9 | 19% | 37% |  |
+| 10 | 11% | 17% |  |
+| 11 | 5% | 7% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.3% | 0.4% |  |
 | 14 | 0% | 0% |  |
 
 
