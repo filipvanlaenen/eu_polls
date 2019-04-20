@@ -8,15 +8,15 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 178 | 172–185 | 170–187 | 168–188 | 165–192 |
+| European People’s Party | 217 | 177 | 171–183 | 169–185 | 168–186 | 165–189 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | Koalicja Europejska [PL] (EPP) | | 20 | 16–23 | 15–24 | 15–24 | 14–25 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
-| Les Républicains [FR] (EPP) | | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
+| Les Républicains [FR] (EPP) | | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
+| Partido Popular [ES] (EPP) | | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
 | Forza Italia [IT] (EPP) | | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
-| Νέα Δημοκρατία [GR] (EPP) | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -45,7 +45,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
-| Change UK [GB-GBN] (EPP) | | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
+| Change UK [GB-GBN] (EPP) | | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -57,46 +57,46 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 0% | 100% |  |
+| 162 | 0.1% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
-| 164 | 0.1% | 99.9% |  |
-| 165 | 0.2% | 99.7% |  |
-| 166 | 0.4% | 99.5% |  |
-| 167 | 0.7% | 99.1% |  |
-| 168 | 1.0% | 98% |  |
-| 169 | 2% | 97% |  |
-| 170 | 2% | 96% |  |
-| 171 | 3% | 94% |  |
-| 172 | 4% | 91% |  |
-| 173 | 5% | 87% |  |
-| 174 | 6% | 83% |  |
-| 175 | 6% | 77% |  |
-| 176 | 7% | 71% |  |
-| 177 | 7% | 64% |  |
-| 178 | 8% | 56% | Median |
-| 179 | 8% | 48% |  |
-| 180 | 7% | 41% |  |
-| 181 | 7% | 34% |  |
-| 182 | 6% | 27% |  |
-| 183 | 5% | 21% |  |
-| 184 | 4% | 16% |  |
-| 185 | 3% | 12% |  |
-| 186 | 3% | 8% |  |
-| 187 | 2% | 6% |  |
-| 188 | 1.3% | 4% |  |
-| 189 | 0.9% | 2% |  |
-| 190 | 0.6% | 1.5% |  |
-| 191 | 0.4% | 0.9% |  |
-| 192 | 0.2% | 0.5% |  |
-| 193 | 0.1% | 0.3% |  |
-| 194 | 0.1% | 0.1% |  |
-| 195 | 0% | 0.1% |  |
+| 164 | 0.2% | 99.8% |  |
+| 165 | 0.4% | 99.6% |  |
+| 166 | 0.6% | 99.2% |  |
+| 167 | 1.0% | 98.6% |  |
+| 168 | 1.5% | 98% |  |
+| 169 | 2% | 96% |  |
+| 170 | 3% | 94% |  |
+| 171 | 4% | 91% |  |
+| 172 | 5% | 87% |  |
+| 173 | 6% | 82% |  |
+| 174 | 7% | 76% |  |
+| 175 | 8% | 69% |  |
+| 176 | 8% | 62% |  |
+| 177 | 8% | 54% | Median |
+| 178 | 8% | 45% |  |
+| 179 | 8% | 37% |  |
+| 180 | 7% | 30% |  |
+| 181 | 6% | 23% |  |
+| 182 | 5% | 17% |  |
+| 183 | 4% | 12% |  |
+| 184 | 3% | 9% |  |
+| 185 | 2% | 6% |  |
+| 186 | 1.4% | 4% |  |
+| 187 | 0.9% | 2% |  |
+| 188 | 0.6% | 1.4% |  |
+| 189 | 0.4% | 0.8% |  |
+| 190 | 0.2% | 0.4% |  |
+| 191 | 0.1% | 0.2% |  |
+| 192 | 0.1% | 0.1% |  |
+| 193 | 0% | 0.1% |  |
+| 194 | 0% | 0% |  |
+| 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
 | 197 | 0% | 0% |  |
 | 198 | 0% | 0% |  |
