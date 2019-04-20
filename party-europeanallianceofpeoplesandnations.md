@@ -8,27 +8,27 @@ Last result: **36** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 36 | 85 | 79–92 | 77–93 | 76–95 | 73–97 |
-| Lega Nord [IT] (EAPN) | | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
-| Rassemblement national [FR] (EAPN) | | 20 | 19–21 | 18–21 | 18–21 | 17–23 |
+| European Alliance of Peoples and Nations | 36 | 83 | 77–91 | 76–93 | 75–95 | 73–97 |
+| Lega Nord [IT] (EAPN) | | 26 | 23–29 | 23–30 | 22–30 | 21–32 |
+| Rassemblement national [FR] (EAPN) | | 20 | 19–21 | 18–21 | 18–22 | 17–24 |
 | Alternative für Deutschland [DE] (EAPN) | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
-| UK Independence Party [GB-GBN] (EAPN) | | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
-| Vox [ES] (EAPN) | | 6 | 4–7 | 4–7 | 4–8 | 3–9 |
+| Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Partij voor de Vrijheid [NL] (EAPN) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Perussuomalaiset [FI] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1–2 |
 | SME RODINA [SK] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 0–1 |
+| UK Independence Party [GB-GBN] (EAPN) | | 1 | 0–10 | 0–11 | 0–11 | 0–12 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,36 +67,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
-| 71 | 0.1% | 100% |  |
-| 72 | 0.1% | 99.9% |  |
-| 73 | 0.3% | 99.8% |  |
-| 74 | 0.6% | 99.4% |  |
-| 75 | 1.0% | 98.9% |  |
-| 76 | 2% | 98% |  |
-| 77 | 2% | 96% |  |
-| 78 | 3% | 94% |  |
-| 79 | 4% | 91% |  |
-| 80 | 5% | 87% |  |
-| 81 | 6% | 82% |  |
-| 82 | 6% | 76% |  |
-| 83 | 7% | 70% |  |
-| 84 | 7% | 64% |  |
-| 85 | 7% | 57% | Median |
-| 86 | 7% | 49% |  |
-| 87 | 7% | 42% |  |
-| 88 | 7% | 34% |  |
-| 89 | 6% | 27% |  |
-| 90 | 6% | 21% |  |
-| 91 | 5% | 15% |  |
-| 92 | 4% | 11% |  |
-| 93 | 3% | 7% |  |
-| 94 | 2% | 5% |  |
-| 95 | 1.2% | 3% |  |
+| 71 | 0.1% | 99.9% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.5% | 99.6% |  |
+| 74 | 1.0% | 99.1% |  |
+| 75 | 2% | 98% |  |
+| 76 | 3% | 96% |  |
+| 77 | 4% | 94% |  |
+| 78 | 6% | 89% |  |
+| 79 | 7% | 84% |  |
+| 80 | 8% | 77% |  |
+| 81 | 9% | 69% |  |
+| 82 | 9% | 61% |  |
+| 83 | 8% | 52% | Median |
+| 84 | 7% | 44% |  |
+| 85 | 6% | 37% |  |
+| 86 | 5% | 30% |  |
+| 87 | 4% | 25% |  |
+| 88 | 4% | 21% |  |
+| 89 | 3% | 17% |  |
+| 90 | 3% | 14% |  |
+| 91 | 3% | 11% |  |
+| 92 | 2% | 8% |  |
+| 93 | 2% | 6% |  |
+| 94 | 1.4% | 4% |  |
+| 95 | 1.0% | 3% |  |
 | 96 | 0.7% | 2% |  |
-| 97 | 0.4% | 0.8% |  |
+| 97 | 0.4% | 0.9% |  |
 | 98 | 0.2% | 0.4% |  |
 | 99 | 0.1% | 0.2% |  |
-| 100 | 0% | 0.1% |  |
+| 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
 
 

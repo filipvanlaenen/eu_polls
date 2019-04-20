@@ -8,13 +8,13 @@ Last result: **67** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 102 | 97–108 | 95–109 | 94–111 | 91–113 |
+| Alliance of Liberals and Democrats for Europe | 67 | 102 | 97–108 | 95–109 | 94–111 | 91–114 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 19–23 | 18–23 | 18–23 | 18–23 |
-| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
 | FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Liberal Democrats [GB-GBN] (ALDE) | | 3 | 2–5 | 2–6 | 2–6 | 2–7 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -31,8 +31,8 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Движение за права и свободи [BG] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
+| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -49,7 +49,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Liberal Alliance [DK] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa [IT] (ALDE) | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Più Europa [IT] (ALDE) | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -86,33 +86,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 100% |  |
-| 90 | 0.2% | 99.9% |  |
+| 90 | 0.1% | 99.9% |  |
 | 91 | 0.3% | 99.7% |  |
-| 92 | 0.6% | 99.4% |  |
-| 93 | 1.0% | 98.8% |  |
+| 92 | 0.6% | 99.5% |  |
+| 93 | 1.0% | 98.9% |  |
 | 94 | 2% | 98% |  |
-| 95 | 3% | 96% |  |
+| 95 | 2% | 96% |  |
 | 96 | 4% | 94% |  |
 | 97 | 5% | 90% |  |
-| 98 | 6% | 85% |  |
+| 98 | 6% | 86% |  |
 | 99 | 7% | 79% |  |
 | 100 | 8% | 72% |  |
-| 101 | 9% | 63% |  |
-| 102 | 9% | 54% | Median |
-| 103 | 9% | 45% |  |
-| 104 | 8% | 36% |  |
-| 105 | 7% | 28% |  |
-| 106 | 6% | 21% |  |
-| 107 | 5% | 15% |  |
-| 108 | 4% | 10% |  |
-| 109 | 3% | 7% |  |
-| 110 | 2% | 4% |  |
-| 111 | 1.1% | 3% |  |
-| 112 | 0.7% | 1.5% |  |
-| 113 | 0.4% | 0.8% |  |
-| 114 | 0.2% | 0.4% |  |
-| 115 | 0.1% | 0.2% |  |
-| 116 | 0.1% | 0.1% |  |
-| 117 | 0% | 0% |  |
+| 101 | 9% | 64% |  |
+| 102 | 9% | 55% | Median |
+| 103 | 9% | 46% |  |
+| 104 | 8% | 37% |  |
+| 105 | 7% | 29% |  |
+| 106 | 6% | 22% |  |
+| 107 | 5% | 16% |  |
+| 108 | 4% | 11% |  |
+| 109 | 3% | 8% |  |
+| 110 | 2% | 5% |  |
+| 111 | 1.2% | 3% |  |
+| 112 | 0.8% | 2% |  |
+| 113 | 0.5% | 1.1% |  |
+| 114 | 0.3% | 0.6% |  |
+| 115 | 0.2% | 0.3% |  |
+| 116 | 0.1% | 0.2% |  |
+| 117 | 0% | 0.1% |  |
+| 118 | 0% | 0% |  |
 
 

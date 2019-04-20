@@ -8,14 +8,14 @@ Last result: **15** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | 15 | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| Jobbik [HU] (NI) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Non-Inscrits | 15 | 11 | 9–12 | 9–12 | 8–13 | 8–13 |
+| Jobbik [HU] (NI) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Democratic Unionist Party [GB-NIR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko [SK] (NI) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή [GR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI [DE] (NI) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| MKKP [HU] (NI) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας [GR] (NI) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| MKKP [HU] (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom [HU] (NI) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -26,14 +26,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 1.1% | 99.9% |  |
-| 9 | 8% | 98.8% |  |
-| 10 | 25% | 91% |  |
-| 11 | 35% | 66% | Median |
-| 12 | 24% | 31% |  |
-| 13 | 7% | 8% |  |
-| 14 | 0.8% | 0.8% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 3% | 99.7% |  |
+| 9 | 14% | 96% |  |
+| 10 | 29% | 82% |  |
+| 11 | 31% | 52% | Median |
+| 12 | 17% | 21% |  |
+| 13 | 4% | 4% |  |
+| 14 | 0.3% | 0.4% |  |
 | 15 | 0% | 0% | Last Result |
 
 

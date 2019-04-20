@@ -8,13 +8,13 @@ Last result: **25** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 25 | 32 | 26–41 | 25–43 | 24–44 | 22–45 |
-| Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
+| Europe of Freedom and Direct Democracy | 25 | 31 | 26–41 | 24–43 | 24–44 | 23–46 |
+| Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
 | Brexit Party [GB-GBN] (EFDD) | | 11 | 6–20 | 6–21 | 6–21 | 6–22 |
-| Kukiz’15 [PL] (EFDD) | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Partija tvarka ir teisingumas [LT] (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kukiz’15 [PL] (EFDD) | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Partija tvarka ir teisingumas [LT] (EFDD) | | 1 | 1 | 1 | 1 | 0–1 |
 | Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 1–2 |
-| KORWiN [PL] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| KORWiN [PL] (EFDD) | | 0 | 0 | 0 | 0 | 0–2 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů [CZ] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -27,33 +27,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.2% | 100% |  |
-| 22 | 0.5% | 99.8% |  |
-| 23 | 1.3% | 99.2% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 2% | 99.7% |  |
 | 24 | 3% | 98% |  |
 | 25 | 5% | 95% | Last Result |
-| 26 | 6% | 90% |  |
-| 27 | 7% | 84% |  |
-| 28 | 8% | 77% |  |
-| 29 | 8% | 69% |  |
-| 30 | 7% | 61% |  |
-| 31 | 5% | 55% |  |
-| 32 | 4% | 50% | Median |
-| 33 | 3% | 46% |  |
-| 34 | 3% | 43% |  |
+| 26 | 7% | 90% |  |
+| 27 | 8% | 84% |  |
+| 28 | 8% | 76% |  |
+| 29 | 7% | 68% |  |
+| 30 | 6% | 60% |  |
+| 31 | 5% | 55% | Median |
+| 32 | 4% | 50% |  |
+| 33 | 4% | 46% |  |
+| 34 | 4% | 43% |  |
 | 35 | 4% | 39% |  |
 | 36 | 4% | 35% |  |
 | 37 | 4% | 31% |  |
-| 38 | 4% | 27% |  |
-| 39 | 5% | 23% |  |
-| 40 | 4% | 18% |  |
-| 41 | 4% | 14% |  |
-| 42 | 4% | 9% |  |
-| 43 | 3% | 6% |  |
+| 38 | 5% | 27% |  |
+| 39 | 5% | 22% |  |
+| 40 | 5% | 18% |  |
+| 41 | 4% | 13% |  |
+| 42 | 3% | 9% |  |
+| 43 | 2% | 5% |  |
 | 44 | 2% | 3% |  |
-| 45 | 0.9% | 1.4% |  |
-| 46 | 0.3% | 0.5% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0% |  |
+| 45 | 0.8% | 1.4% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.2% | 0.2% |  |
+| 48 | 0% | 0.1% |  |
+| 49 | 0% | 0% |  |
 
 
