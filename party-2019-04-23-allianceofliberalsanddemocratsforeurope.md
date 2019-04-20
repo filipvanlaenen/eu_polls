@@ -2,17 +2,17 @@
 
 ## Seats
 
-Last result: **67** seats (General Election of 25 May 2014)
+Last result: **68** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 67 | 102 | 97–108 | 95–109 | 94–111 | 91–114 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 19–23 | 18–23 | 18–23 | 18–23 |
-| FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
+| Alliance of Liberals and Democrats for Europe | 68 | 103 | 97–108 | 96–110 | 94–112 | 92–115 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–23 | 19–23 | 18–26 | 18–26 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
+| FDP [DE] (ALDE) | | 8 | 6–10 | 6–10 | 6–10 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -34,7 +34,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -49,7 +49,7 @@ Last result: **67** seats (General Election of 25 May 2014)
 | Liberal Alliance [DK] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa [IT] (ALDE) | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Più Europa [IT] (ALDE) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -63,8 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% | Last Result |
-| 68 | 0% | 100% |  |
+| 68 | 0% | 100% | Last Result |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
@@ -85,35 +84,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
+| 89 | 0% | 100% |  |
 | 90 | 0.1% | 99.9% |  |
-| 91 | 0.3% | 99.7% |  |
-| 92 | 0.6% | 99.5% |  |
-| 93 | 1.0% | 98.9% |  |
-| 94 | 2% | 98% |  |
-| 95 | 2% | 96% |  |
-| 96 | 4% | 94% |  |
-| 97 | 5% | 90% |  |
-| 98 | 6% | 86% |  |
-| 99 | 7% | 79% |  |
-| 100 | 8% | 72% |  |
-| 101 | 9% | 64% |  |
-| 102 | 9% | 55% | Median |
-| 103 | 9% | 46% |  |
-| 104 | 8% | 37% |  |
-| 105 | 7% | 29% |  |
-| 106 | 6% | 22% |  |
-| 107 | 5% | 16% |  |
-| 108 | 4% | 11% |  |
-| 109 | 3% | 8% |  |
-| 110 | 2% | 5% |  |
-| 111 | 1.2% | 3% |  |
-| 112 | 0.8% | 2% |  |
-| 113 | 0.5% | 1.1% |  |
-| 114 | 0.3% | 0.6% |  |
-| 115 | 0.2% | 0.3% |  |
-| 116 | 0.1% | 0.2% |  |
-| 117 | 0% | 0.1% |  |
-| 118 | 0% | 0% |  |
+| 91 | 0.2% | 99.8% |  |
+| 92 | 0.4% | 99.7% |  |
+| 93 | 0.7% | 99.3% |  |
+| 94 | 1.2% | 98.6% |  |
+| 95 | 2% | 97% |  |
+| 96 | 3% | 95% |  |
+| 97 | 4% | 92% |  |
+| 98 | 5% | 88% |  |
+| 99 | 7% | 83% |  |
+| 100 | 8% | 77% |  |
+| 101 | 9% | 69% |  |
+| 102 | 9% | 60% |  |
+| 103 | 9% | 51% | Median |
+| 104 | 8% | 42% |  |
+| 105 | 8% | 34% |  |
+| 106 | 7% | 26% |  |
+| 107 | 5% | 20% |  |
+| 108 | 4% | 14% |  |
+| 109 | 3% | 10% |  |
+| 110 | 2% | 7% |  |
+| 111 | 2% | 4% |  |
+| 112 | 1.1% | 3% |  |
+| 113 | 0.7% | 2% |  |
+| 114 | 0.4% | 1.0% |  |
+| 115 | 0.2% | 0.5% |  |
+| 116 | 0.1% | 0.3% |  |
+| 117 | 0.1% | 0.1% |  |
+| 118 | 0% | 0.1% |  |
+| 119 | 0% | 0% |  |
 
 

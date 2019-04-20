@@ -2,18 +2,18 @@
 
 ## Seats
 
-Last result: **53** seats (General Election of 25 May 2014)
+Last result: **76** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 60 | 55–67 | 54–69 | 52–70 | 50–73 |
-| Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 20–23 | 19–24 | 18–25 |
+| European Conservatives and Reformists | 76 | 60 | 55–66 | 54–68 | 52–70 | 50–73 |
+| Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 19–23 | 19–24 | 18–24 |
 | Conservative Party [GB-GBN] (ECR) | | 14 | 12–20 | 11–20 | 11–20 | 10–21 |
-| Fratelli d’Italia [IT] (ECR) | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| Fratelli d’Italia [IT] (ECR) | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
+| Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Forum voor Democratie [NL] (ECR) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | ChristenUnie [NL] (ECR) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -37,34 +37,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.3% | 99.8% |  |
-| 51 | 0.7% | 99.5% |  |
-| 52 | 1.3% | 98.8% |  |
-| 53 | 2% | 97% | Last Result |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.2% | 99.9% |  |
+| 50 | 0.4% | 99.8% |  |
+| 51 | 0.7% | 99.4% |  |
+| 52 | 1.3% | 98.7% |  |
+| 53 | 2% | 97% |  |
 | 54 | 3% | 95% |  |
 | 55 | 5% | 92% |  |
-| 56 | 6% | 87% |  |
-| 57 | 8% | 81% |  |
-| 58 | 9% | 73% |  |
-| 59 | 9% | 64% |  |
-| 60 | 8% | 55% | Median |
-| 61 | 7% | 47% |  |
-| 62 | 7% | 40% |  |
-| 63 | 6% | 33% |  |
-| 64 | 6% | 27% |  |
-| 65 | 6% | 21% |  |
-| 66 | 4% | 15% |  |
-| 67 | 3% | 11% |  |
-| 68 | 2% | 7% |  |
-| 69 | 2% | 5% |  |
-| 70 | 1.2% | 4% |  |
-| 71 | 0.9% | 2% |  |
-| 72 | 0.7% | 1.3% |  |
-| 73 | 0.4% | 0.7% |  |
+| 56 | 7% | 86% |  |
+| 57 | 8% | 80% |  |
+| 58 | 9% | 71% |  |
+| 59 | 9% | 62% |  |
+| 60 | 8% | 53% | Median |
+| 61 | 7% | 45% |  |
+| 62 | 7% | 37% |  |
+| 63 | 6% | 31% |  |
+| 64 | 6% | 25% |  |
+| 65 | 5% | 19% |  |
+| 66 | 4% | 14% |  |
+| 67 | 3% | 9% |  |
+| 68 | 2% | 6% |  |
+| 69 | 1.4% | 4% |  |
+| 70 | 1.0% | 3% |  |
+| 71 | 0.7% | 2% |  |
+| 72 | 0.5% | 1.1% |  |
+| 73 | 0.3% | 0.6% |  |
 | 74 | 0.2% | 0.3% |  |
 | 75 | 0.1% | 0.1% |  |
-| 76 | 0% | 0% |  |
+| 76 | 0% | 0% | Last Result |
 
 

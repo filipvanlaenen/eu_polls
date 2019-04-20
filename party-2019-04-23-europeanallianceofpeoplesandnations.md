@@ -2,16 +2,16 @@
 
 ## Seats
 
-Last result: **36** seats (General Election of 25 May 2014)
+Last result: **37** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 36 | 83 | 77–91 | 76–93 | 75–95 | 73–97 |
-| Lega Nord [IT] (EAPN) | | 26 | 23–29 | 23–30 | 22–30 | 21–32 |
-| Rassemblement national [FR] (EAPN) | | 20 | 19–21 | 18–21 | 18–22 | 17–24 |
-| Alternative für Deutschland [DE] (EAPN) | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
+| European Alliance of Peoples and Nations | 37 | 83 | 77–91 | 76–93 | 75–95 | 73–97 |
+| Lega Nord [IT] (EAPN) | | 26 | 23–29 | 22–29 | 22–30 | 21–31 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 18–22 | 18–22 | 17–23 |
+| Alternative für Deutschland [DE] (EAPN) | | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Partij voor de Vrijheid [NL] (EAPN) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -32,8 +32,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0% | 100% | Last Result |
-| 37 | 0% | 100% |  |
+| 37 | 0% | 100% | Last Result |
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
 | 40 | 0% | 100% |  |
@@ -68,17 +67,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 99.9% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.5% | 99.6% |  |
-| 74 | 1.0% | 99.1% |  |
+| 72 | 0.3% | 99.8% |  |
+| 73 | 0.6% | 99.5% |  |
+| 74 | 1.1% | 98.9% |  |
 | 75 | 2% | 98% |  |
 | 76 | 3% | 96% |  |
-| 77 | 4% | 94% |  |
+| 77 | 4% | 93% |  |
 | 78 | 6% | 89% |  |
-| 79 | 7% | 84% |  |
-| 80 | 8% | 77% |  |
-| 81 | 9% | 69% |  |
-| 82 | 9% | 61% |  |
+| 79 | 7% | 83% |  |
+| 80 | 8% | 76% |  |
+| 81 | 8% | 69% |  |
+| 82 | 8% | 60% |  |
 | 83 | 8% | 52% | Median |
 | 84 | 7% | 44% |  |
 | 85 | 6% | 37% |  |
@@ -94,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 1.0% | 3% |  |
 | 96 | 0.7% | 2% |  |
 | 97 | 0.4% | 0.9% |  |
-| 98 | 0.2% | 0.4% |  |
+| 98 | 0.2% | 0.5% |  |
 | 99 | 0.1% | 0.2% |  |
 | 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
