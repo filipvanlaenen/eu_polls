@@ -8,12 +8,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 8 | 6–10 | 5–10 | 5–11 | 4–12 |
+| Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–11 | 5–11 | 4–12 |
 | Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
 | Independents [IE] (*) | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista [HR] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| 50Plus [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
+| 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança [PT] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -38,9 +38,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -48,16 +48,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.7% | 100% |  |
-| 5 | 5% | 99.3% |  |
-| 6 | 17% | 95% |  |
-| 7 | 28% | 78% |  |
-| 8 | 25% | 50% | Median |
-| 9 | 15% | 25% |  |
-| 10 | 7% | 10% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.5% | 0.6% |  |
-| 13 | 0.1% | 0.1% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 4% | 99.4% |  |
+| 6 | 12% | 96% |  |
+| 7 | 23% | 83% |  |
+| 8 | 26% | 60% | Median |
+| 9 | 19% | 35% |  |
+| 10 | 10% | 16% |  |
+| 11 | 4% | 6% |  |
+| 12 | 1.3% | 2% |  |
+| 13 | 0.2% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
 
