@@ -8,27 +8,27 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 86 | 79–93 | 78–95 | 76–96 | 74–99 |
-| Lega Nord [IT] (EAPN) | | 25 | 23–29 | 22–29 | 22–30 | 21–31 |
-| Rassemblement national [FR] (EAPN) | | 21 | 19–21 | 18–21 | 18–22 | 17–23 |
-| Alternative für Deutschland [DE] (EAPN) | | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
-| UK Independence Party [GB-GBN] (EAPN) | | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
+| European Alliance of Peoples and Nations | 37 | 82 | 77–90 | 75–92 | 74–94 | 72–97 |
+| Lega Nord [IT] (EAPN) | | 26 | 23–29 | 23–29 | 22–30 | 21–31 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 18–22 | 18–22 | 17–23 |
+| Alternative für Deutschland [DE] (EAPN) | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Perussuomalaiset [FI] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1–2 |
 | SME RODINA [SK] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 0–1 |
+| UK Independence Party [GB-GBN] (EAPN) | | 1 | 0–10 | 0–11 | 0–11 | 0–12 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -65,39 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
-| 70 | 0% | 100% |  |
-| 71 | 0% | 100% |  |
-| 72 | 0.1% | 99.9% |  |
-| 73 | 0.2% | 99.9% |  |
-| 74 | 0.4% | 99.7% |  |
-| 75 | 0.7% | 99.3% |  |
-| 76 | 1.2% | 98.6% |  |
-| 77 | 2% | 97% |  |
-| 78 | 3% | 96% |  |
-| 79 | 3% | 93% |  |
-| 80 | 4% | 90% |  |
-| 81 | 5% | 86% |  |
-| 82 | 5% | 81% |  |
-| 83 | 6% | 76% |  |
-| 84 | 7% | 69% |  |
-| 85 | 7% | 63% |  |
-| 86 | 7% | 56% | Median |
-| 87 | 7% | 49% |  |
-| 88 | 7% | 41% |  |
-| 89 | 7% | 34% |  |
-| 90 | 6% | 27% |  |
-| 91 | 5% | 21% |  |
-| 92 | 4% | 16% |  |
-| 93 | 4% | 12% |  |
-| 94 | 3% | 8% |  |
-| 95 | 2% | 5% |  |
-| 96 | 1.3% | 3% |  |
-| 97 | 0.9% | 2% |  |
-| 98 | 0.5% | 1.1% |  |
-| 99 | 0.3% | 0.6% |  |
-| 100 | 0.2% | 0.3% |  |
-| 101 | 0.1% | 0.1% |  |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.4% | 99.7% |  |
+| 73 | 0.8% | 99.3% |  |
+| 74 | 1.4% | 98.6% |  |
+| 75 | 2% | 97% |  |
+| 76 | 4% | 95% |  |
+| 77 | 5% | 91% |  |
+| 78 | 7% | 86% |  |
+| 79 | 8% | 79% |  |
+| 80 | 9% | 71% |  |
+| 81 | 9% | 62% |  |
+| 82 | 8% | 53% | Median |
+| 83 | 7% | 45% |  |
+| 84 | 6% | 38% |  |
+| 85 | 5% | 31% |  |
+| 86 | 4% | 26% |  |
+| 87 | 4% | 22% |  |
+| 88 | 3% | 18% |  |
+| 89 | 3% | 14% |  |
+| 90 | 3% | 11% |  |
+| 91 | 2% | 8% |  |
+| 92 | 2% | 6% |  |
+| 93 | 1.5% | 4% |  |
+| 94 | 1.0% | 3% |  |
+| 95 | 0.7% | 2% |  |
+| 96 | 0.4% | 1.0% |  |
+| 97 | 0.3% | 0.5% |  |
+| 98 | 0.1% | 0.3% |  |
+| 99 | 0.1% | 0.1% |  |
+| 100 | 0% | 0.1% |  |
+| 101 | 0% | 0% |  |
 
 
