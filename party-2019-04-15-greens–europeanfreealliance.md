@@ -2,14 +2,14 @@
 
 ## Seats
 
-Last result: **45** seats (General Election of 25 May 2014)
+Last result: **52** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 45 | 49 | 45–54 | 44–55 | 43–56 | 41–58 |
-| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
+| Greens–European Free Alliance | 52 | 49 | 45–54 | 44–55 | 43–56 | 41–58 |
+| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3 | 3 | 3 | 3–4 |
@@ -32,7 +32,7 @@ Last result: **45** seats (General Election of 25 May 2014)
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
-| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -44,29 +44,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% |  |
-| 40 | 0.2% | 99.9% |  |
-| 41 | 0.6% | 99.8% |  |
-| 42 | 1.3% | 99.2% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.5% | 99.8% |  |
+| 42 | 1.2% | 99.3% |  |
 | 43 | 3% | 98% |  |
-| 44 | 5% | 95% |  |
-| 45 | 7% | 91% | Last Result |
+| 44 | 4% | 96% |  |
+| 45 | 7% | 91% |  |
 | 46 | 9% | 84% |  |
-| 47 | 10% | 75% |  |
+| 47 | 10% | 76% |  |
 | 48 | 11% | 65% |  |
-| 49 | 10% | 55% | Median |
+| 49 | 11% | 55% | Median |
 | 50 | 10% | 44% |  |
 | 51 | 9% | 34% |  |
-| 52 | 7% | 26% |  |
+| 52 | 7% | 26% | Last Result |
 | 53 | 6% | 18% |  |
 | 54 | 5% | 12% |  |
 | 55 | 3% | 8% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.2% | 2% |  |
-| 58 | 0.6% | 1.1% |  |
-| 59 | 0.3% | 0.5% |  |
+| 58 | 0.6% | 1.0% |  |
+| 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
 
 

@@ -2,18 +2,18 @@
 
 ## Seats
 
-Last result: **53** seats (General Election of 25 May 2014)
+Last result: **76** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 53 | 63 | 55–76 | 53–79 | 52–81 | 50–84 |
+| European Conservatives and Reformists | 76 | 63 | 55–76 | 53–79 | 52–81 | 50–84 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 20–23 | 19–24 | 18–25 |
 | Conservative Party [GB-GBN] (ECR) | | 17 | 10–31 | 10–31 | 10–32 | 9–32 |
 | Fratelli d’Italia [IT] (ECR) | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
+| Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Forum voor Democratie [NL] (ECR) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | ChristenUnie [NL] (ECR) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -41,19 +41,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 99.9% |  |
 | 49 | 0.3% | 99.8% |  |
-| 50 | 0.5% | 99.5% |  |
+| 50 | 0.5% | 99.6% |  |
 | 51 | 0.9% | 99.0% |  |
 | 52 | 2% | 98% |  |
-| 53 | 2% | 97% | Last Result |
+| 53 | 2% | 97% |  |
 | 54 | 3% | 94% |  |
 | 55 | 4% | 91% |  |
-| 56 | 5% | 86% |  |
+| 56 | 5% | 87% |  |
 | 57 | 6% | 81% |  |
 | 58 | 6% | 76% |  |
 | 59 | 5% | 70% |  |
 | 60 | 5% | 65% |  |
-| 61 | 5% | 60% |  |
-| 62 | 4% | 55% |  |
+| 61 | 4% | 60% |  |
+| 62 | 4% | 56% |  |
 | 63 | 4% | 51% | Median |
 | 64 | 5% | 47% |  |
 | 65 | 4% | 42% |  |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 3% | 21% |  |
 | 74 | 3% | 18% |  |
 | 75 | 3% | 15% |  |
-| 76 | 3% | 12% |  |
+| 76 | 3% | 12% | Last Result |
 | 77 | 2% | 10% |  |
 | 78 | 2% | 7% |  |
 | 79 | 1.5% | 5% |  |
