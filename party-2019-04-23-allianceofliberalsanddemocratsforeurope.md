@@ -8,9 +8,9 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 102 | 97–108 | 95–109 | 94–111 | 92–113 |
+| Alliance of Liberals and Democrats for Europe | 68 | 102 | 97–108 | 95–110 | 94–111 | 92–114 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–23 | 19–23 | 18–26 | 18–26 |
-| FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–10 | 5–11 |
+| FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
@@ -22,7 +22,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 [NL] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
@@ -30,9 +30,9 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,34 +84,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
+| 89 | 0% | 100% |  |
 | 90 | 0.1% | 99.9% |  |
-| 91 | 0.3% | 99.8% |  |
-| 92 | 0.5% | 99.5% |  |
-| 93 | 0.9% | 99.0% |  |
-| 94 | 2% | 98% |  |
+| 91 | 0.2% | 99.8% |  |
+| 92 | 0.4% | 99.6% |  |
+| 93 | 0.8% | 99.1% |  |
+| 94 | 1.4% | 98% |  |
 | 95 | 2% | 97% |  |
-| 96 | 4% | 94% |  |
-| 97 | 5% | 91% |  |
-| 98 | 6% | 86% |  |
-| 99 | 7% | 80% |  |
-| 100 | 9% | 72% |  |
-| 101 | 9% | 64% |  |
-| 102 | 9% | 55% | Median |
-| 103 | 9% | 45% |  |
-| 104 | 8% | 36% |  |
-| 105 | 7% | 28% |  |
-| 106 | 6% | 21% |  |
-| 107 | 5% | 15% |  |
-| 108 | 3% | 10% |  |
-| 109 | 2% | 7% |  |
-| 110 | 2% | 4% |  |
-| 111 | 1.1% | 3% |  |
-| 112 | 0.7% | 2% |  |
-| 113 | 0.4% | 0.9% |  |
-| 114 | 0.2% | 0.5% |  |
-| 115 | 0.1% | 0.2% |  |
-| 116 | 0.1% | 0.1% |  |
+| 96 | 3% | 95% |  |
+| 97 | 4% | 92% |  |
+| 98 | 6% | 87% |  |
+| 99 | 7% | 82% |  |
+| 100 | 8% | 75% |  |
+| 101 | 9% | 66% |  |
+| 102 | 9% | 57% | Median |
+| 103 | 9% | 48% |  |
+| 104 | 8% | 39% |  |
+| 105 | 8% | 31% |  |
+| 106 | 6% | 23% |  |
+| 107 | 5% | 17% |  |
+| 108 | 4% | 12% |  |
+| 109 | 3% | 8% |  |
+| 110 | 2% | 5% |  |
+| 111 | 1.3% | 3% |  |
+| 112 | 0.8% | 2% |  |
+| 113 | 0.5% | 1.1% |  |
+| 114 | 0.3% | 0.6% |  |
+| 115 | 0.2% | 0.3% |  |
+| 116 | 0.1% | 0.2% |  |
 | 117 | 0% | 0.1% |  |
 | 118 | 0% | 0% |  |
 
