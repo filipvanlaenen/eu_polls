@@ -8,11 +8,11 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 46 | 43–49 | 43–50 | 42–51 | 41–53 |
+| European United Left–Nordic Green Left | 52 | 47 | 44–50 | 43–50 | 42–51 | 41–53 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
-| La France insoumise [FR] (GUE/NGL) | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| La France insoumise [FR] (GUE/NGL) | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–3 | 1–4 | 0–4 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij [NL] (GUE/NGL) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -38,26 +38,26 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.9% |  |
-| 41 | 1.1% | 99.5% |  |
-| 42 | 3% | 98% |  |
-| 43 | 6% | 96% |  |
-| 44 | 10% | 90% |  |
-| 45 | 14% | 80% |  |
-| 46 | 16% | 66% | Median |
-| 47 | 16% | 49% |  |
-| 48 | 14% | 33% |  |
-| 49 | 10% | 19% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 1.0% | 99.5% |  |
+| 42 | 3% | 98.5% |  |
+| 43 | 5% | 96% |  |
+| 44 | 9% | 90% |  |
+| 45 | 14% | 81% |  |
+| 46 | 16% | 67% |  |
+| 47 | 17% | 51% | Median |
+| 48 | 14% | 34% |  |
+| 49 | 10% | 20% |  |
 | 50 | 6% | 10% |  |
-| 51 | 3% | 4% |  |
-| 52 | 1.1% | 2% | Last Result |
+| 51 | 3% | 5% |  |
+| 52 | 1.2% | 2% | Last Result |
 | 53 | 0.4% | 0.5% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
