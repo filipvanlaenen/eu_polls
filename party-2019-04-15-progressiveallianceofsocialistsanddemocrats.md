@@ -25,7 +25,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | MSZP–Párbeszéd [HU] (S&D) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | SMER–sociálna demokracia [SK] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske [HR] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 3 | 3 | 3 | 2–4 |
+| Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 3 | 3 | 3 | 3 |
 | DK [HU] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija [LT] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PS [BE-FRC] (S&D) | | 2 | 2 | 2 | 2–3 | 2–3 |
