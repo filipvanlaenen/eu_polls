@@ -8,13 +8,13 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 102 | 97–108 | 95–109 | 94–111 | 92–114 |
+| Alliance of Liberals and Democrats for Europe | 68 | 102 | 97–108 | 95–109 | 94–111 | 92–113 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–23 | 19–23 | 18–26 | 18–26 |
 | FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–8 | 4–9 |
-| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
-| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Liberal Democrats [GB-GBN] (ALDE) | | 3 | 2–5 | 2–6 | 2–6 | 2–7 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -22,7 +22,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
@@ -88,8 +88,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 0.1% | 99.9% |  |
 | 91 | 0.2% | 99.8% |  |
 | 92 | 0.4% | 99.6% |  |
-| 93 | 0.8% | 99.1% |  |
-| 94 | 1.4% | 98% |  |
+| 93 | 0.8% | 99.2% |  |
+| 94 | 1.3% | 98% |  |
 | 95 | 2% | 97% |  |
 | 96 | 3% | 95% |  |
 | 97 | 4% | 92% |  |
@@ -97,22 +97,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 99 | 7% | 81% |  |
 | 100 | 8% | 74% |  |
 | 101 | 9% | 66% |  |
-| 102 | 9% | 57% | Median |
-| 103 | 9% | 48% |  |
-| 104 | 8% | 39% |  |
-| 105 | 7% | 30% |  |
-| 106 | 6% | 23% |  |
-| 107 | 5% | 16% |  |
-| 108 | 4% | 11% |  |
-| 109 | 3% | 8% |  |
-| 110 | 2% | 5% |  |
-| 111 | 1.2% | 3% |  |
-| 112 | 0.8% | 2% |  |
-| 113 | 0.5% | 1.0% |  |
-| 114 | 0.3% | 0.6% |  |
-| 115 | 0.1% | 0.3% |  |
+| 102 | 10% | 56% | Median |
+| 103 | 9% | 47% |  |
+| 104 | 9% | 37% |  |
+| 105 | 7% | 29% |  |
+| 106 | 6% | 21% |  |
+| 107 | 5% | 15% |  |
+| 108 | 4% | 10% |  |
+| 109 | 3% | 7% |  |
+| 110 | 2% | 4% |  |
+| 111 | 1.1% | 3% |  |
+| 112 | 0.7% | 1.4% |  |
+| 113 | 0.4% | 0.8% |  |
+| 114 | 0.2% | 0.4% |  |
+| 115 | 0.1% | 0.2% |  |
 | 116 | 0.1% | 0.1% |  |
-| 117 | 0% | 0.1% |  |
-| 118 | 0% | 0% |  |
+| 117 | 0% | 0% |  |
 
 
