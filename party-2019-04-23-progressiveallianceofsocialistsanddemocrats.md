@@ -8,13 +8,13 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 159 | 148–169 | 146–172 | 144–174 | 140–177 |
+| Progressive Alliance of Socialists and Democrats | 186 | 159 | 148–170 | 146–172 | 144–174 | 140–177 |
 | Labour Party [GB-GBN] (S&D) | | 29 | 19–38 | 19–38 | 19–38 | 17–39 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 16 | 14–18 | 13–18 | 13–18 | 13–19 |
 | SPD [DE] (S&D) | | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
 | Partidul Social Democrat [RO] (S&D) | | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
-| Partido Socialista [PT] (S&D) | | 9 | 7–9 | 7–9 | 7–10 | 7–10 |
+| Partido Socialista [PT] (S&D) | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Българска социалистическа партия [BG] (S&D) | | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Parti socialiste [FR] (S&D) | | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Socialdemokraterne [DK] (S&D) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -23,10 +23,10 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Partit Laburista [MT] (S&D) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Wiosna–Partia Razem [PL] (S&D) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
 | MSZP–Párbeszéd [HU] (S&D) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| SMER–sociálna demokracia [SK] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| SMER–sociálna demokracia [SK] (S&D) | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske [HR] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 3 | 3 | 3 | 3 |
-| DK [HU] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| DK [HU] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos socialdemokratų partija [LT] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PS [BE-FRC] (S&D) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid [NL] (S&D) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 151 | 3% | 84% |  |
 | 152 | 3% | 81% |  |
 | 153 | 3% | 78% |  |
-| 154 | 4% | 74% |  |
+| 154 | 4% | 75% |  |
 | 155 | 4% | 71% |  |
 | 156 | 4% | 67% |  |
 | 157 | 4% | 63% |  |
@@ -82,10 +82,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 5% | 54% | Median |
 | 160 | 5% | 49% |  |
 | 161 | 5% | 44% |  |
-| 162 | 5% | 39% |  |
+| 162 | 5% | 40% |  |
 | 163 | 4% | 35% |  |
 | 164 | 4% | 31% |  |
-| 165 | 4% | 26% |  |
+| 165 | 4% | 27% |  |
 | 166 | 4% | 23% |  |
 | 167 | 3% | 19% |  |
 | 168 | 3% | 16% |  |
@@ -93,12 +93,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 2% | 10% |  |
 | 171 | 2% | 8% |  |
 | 172 | 2% | 6% |  |
-| 173 | 1.2% | 4% |  |
+| 173 | 1.3% | 4% |  |
 | 174 | 0.9% | 3% |  |
 | 175 | 0.7% | 2% |  |
 | 176 | 0.5% | 1.2% |  |
-| 177 | 0.3% | 0.7% |  |
-| 178 | 0.2% | 0.4% |  |
+| 177 | 0.3% | 0.8% |  |
+| 178 | 0.2% | 0.5% |  |
 | 179 | 0.1% | 0.3% |  |
 | 180 | 0.1% | 0.1% |  |
 | 181 | 0% | 0.1% |  |
