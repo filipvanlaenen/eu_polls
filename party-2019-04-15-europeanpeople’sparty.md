@@ -11,7 +11,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | European People’s Party | 217 | 177 | 171–183 | 169–185 | 167–186 | 164–189 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | Koalicja Europejska [PL] (EPP) | | 21 | 15–23 | 14–24 | 14–24 | 13–25 |
-| Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 12–14 | 11–14 | 11–14 |
+| Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | Les Républicains [FR] (EPP) | | 12 | 11–14 | 11–15 | 10–15 | 10–15 |
 | Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
@@ -25,7 +25,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
-| Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai [LT] (EPP) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | CD&V [BE-VLG] (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 2 | 2 | 2 | 2 | 2 |
@@ -66,32 +66,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
 | 163 | 0.2% | 99.8% |  |
-| 164 | 0.3% | 99.7% |  |
-| 165 | 0.5% | 99.4% |  |
-| 166 | 0.7% | 98.9% |  |
+| 164 | 0.3% | 99.6% |  |
+| 165 | 0.5% | 99.3% |  |
+| 166 | 0.8% | 98.8% |  |
 | 167 | 1.1% | 98% |  |
 | 168 | 2% | 97% |  |
 | 169 | 2% | 95% |  |
 | 170 | 3% | 93% |  |
-| 171 | 4% | 91% |  |
+| 171 | 4% | 90% |  |
 | 172 | 5% | 87% |  |
-| 173 | 5% | 83% |  |
-| 174 | 6% | 77% |  |
-| 175 | 7% | 71% |  |
+| 173 | 6% | 82% |  |
+| 174 | 7% | 77% |  |
+| 175 | 7% | 70% |  |
 | 176 | 8% | 63% |  |
 | 177 | 8% | 55% | Median |
 | 178 | 8% | 47% |  |
-| 179 | 8% | 39% |  |
+| 179 | 8% | 38% |  |
 | 180 | 7% | 31% |  |
 | 181 | 6% | 24% |  |
 | 182 | 5% | 18% |  |
 | 183 | 4% | 13% |  |
 | 184 | 3% | 9% |  |
 | 185 | 2% | 6% |  |
-| 186 | 1.5% | 4% |  |
-| 187 | 1.0% | 2% |  |
-| 188 | 0.6% | 1.4% |  |
-| 189 | 0.4% | 0.8% |  |
+| 186 | 1.4% | 4% |  |
+| 187 | 0.9% | 2% |  |
+| 188 | 0.6% | 1.3% |  |
+| 189 | 0.3% | 0.8% |  |
 | 190 | 0.2% | 0.4% |  |
 | 191 | 0.1% | 0.2% |  |
 | 192 | 0.1% | 0.1% |  |
