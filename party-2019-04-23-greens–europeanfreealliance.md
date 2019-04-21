@@ -17,7 +17,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
-| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -44,27 +44,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.2% | 100% |  |
+| 40 | 0.1% | 100% |  |
 | 41 | 0.5% | 99.8% |  |
-| 42 | 1.2% | 99.3% |  |
-| 43 | 3% | 98% |  |
+| 42 | 1.2% | 99.4% |  |
+| 43 | 2% | 98% |  |
 | 44 | 4% | 96% |  |
-| 45 | 7% | 91% |  |
-| 46 | 9% | 85% |  |
-| 47 | 10% | 76% |  |
-| 48 | 10% | 66% |  |
-| 49 | 9% | 56% | Median |
-| 50 | 8% | 47% |  |
-| 51 | 7% | 38% |  |
-| 52 | 6% | 31% | Last Result |
+| 45 | 6% | 92% |  |
+| 46 | 8% | 85% |  |
+| 47 | 10% | 77% |  |
+| 48 | 10% | 67% |  |
+| 49 | 10% | 57% | Median |
+| 50 | 9% | 48% |  |
+| 51 | 7% | 39% |  |
+| 52 | 6% | 32% | Last Result |
 | 53 | 6% | 25% |  |
 | 54 | 5% | 19% |  |
 | 55 | 4% | 14% |  |
-| 56 | 4% | 9% |  |
+| 56 | 4% | 10% |  |
 | 57 | 3% | 6% |  |
-| 58 | 2% | 3% |  |
+| 58 | 2% | 4% |  |
 | 59 | 1.0% | 2% |  |
-| 60 | 0.5% | 0.8% |  |
+| 60 | 0.5% | 0.9% |  |
 | 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |

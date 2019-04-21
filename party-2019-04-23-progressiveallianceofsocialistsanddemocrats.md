@@ -25,7 +25,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | MSZP–Párbeszéd [HU] (S&D) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | SMER–sociálna demokracia [SK] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske [HR] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 3 | 3 | 3 | 2–4 |
+| Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 3 | 3 | 3 | 3 |
 | DK [HU] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija [LT] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PS [BE-FRC] (S&D) | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -62,7 +62,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 0.2% | 99.6% |  |
 | 141 | 0.3% | 99.4% |  |
 | 142 | 0.5% | 99.0% |  |
-| 143 | 0.7% | 98.6% |  |
+| 143 | 0.7% | 98.5% |  |
 | 144 | 0.9% | 98% |  |
 | 145 | 1.2% | 97% |  |
 | 146 | 1.5% | 96% |  |
@@ -92,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 2% | 11% |  |
 | 171 | 2% | 8% |  |
 | 172 | 2% | 6% |  |
-| 173 | 1.3% | 4% |  |
+| 173 | 1.4% | 4% |  |
 | 174 | 1.0% | 3% |  |
 | 175 | 0.7% | 2% |  |
 | 176 | 0.5% | 1.4% |  |

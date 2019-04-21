@@ -8,7 +8,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 62 | 57–68 | 55–70 | 54–72 | 52–75 |
+| European Conservatives and Reformists | 76 | 62 | 57–69 | 55–70 | 54–72 | 52–75 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | Conservative Party [GB-GBN] (ECR) | | 14 | 12–20 | 11–20 | 11–20 | 10–21 |
 | Fratelli d’Italia [IT] (ECR) | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
@@ -21,7 +21,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти [BG] (ECR) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Debout la France [FR] (ECR) | | 0 | 0–4 | 0–6 | 0–6 | 0–6 |
+| Debout la France [FR] (ECR) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,16 +46,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 2% | 98% |  |
 | 55 | 2% | 97% |  |
 | 56 | 4% | 94% |  |
-| 57 | 5% | 91% |  |
+| 57 | 5% | 90% |  |
 | 58 | 7% | 85% |  |
-| 59 | 8% | 78% |  |
+| 59 | 8% | 79% |  |
 | 60 | 9% | 71% |  |
 | 61 | 9% | 62% |  |
-| 62 | 8% | 53% | Median |
+| 62 | 8% | 54% | Median |
 | 63 | 8% | 45% |  |
 | 64 | 7% | 38% |  |
 | 65 | 6% | 31% |  |
-| 66 | 6% | 24% |  |
+| 66 | 6% | 25% |  |
 | 67 | 5% | 19% |  |
 | 68 | 4% | 14% |  |
 | 69 | 3% | 10% |  |
