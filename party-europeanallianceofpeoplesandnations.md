@@ -8,16 +8,15 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 87 | 80–93 | 78–95 | 77–97 | 75–99 |
-| Lega Nord [IT] (EAPN) | | 25 | 23–29 | 22–29 | 22–30 | 21–31 |
-| Rassemblement national [FR] (EAPN) | | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| European Alliance of Peoples and Nations | 37 | 81 | 76–85 | 75–87 | 74–88 | 72–90 |
+| Lega Nord [IT] (EAPN) | | 26 | 23–29 | 23–29 | 22–30 | 21–31 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 18–23 | 17–23 | 17–23 |
 | Alternative für Deutschland [DE] (EAPN) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
-| UK Independence Party [GB-GBN] (EAPN) | | 7 | 1–11 | 1–12 | 1–13 | 1–14 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Partij voor de Vrijheid [NL] (EAPN) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
-| Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1–2 |
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -26,9 +25,9 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-04-15-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-04-23-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-04-15.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-04-23.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -65,39 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
-| 70 | 0% | 100% |  |
-| 71 | 0% | 100% |  |
-| 72 | 0.1% | 100% |  |
-| 73 | 0.1% | 99.9% |  |
-| 74 | 0.3% | 99.8% |  |
-| 75 | 0.5% | 99.5% |  |
-| 76 | 0.9% | 99.0% |  |
-| 77 | 1.4% | 98% |  |
-| 78 | 2% | 97% |  |
-| 79 | 3% | 95% |  |
-| 80 | 4% | 92% |  |
-| 81 | 4% | 88% |  |
-| 82 | 5% | 84% |  |
-| 83 | 6% | 79% |  |
-| 84 | 6% | 73% |  |
-| 85 | 7% | 66% |  |
-| 86 | 7% | 60% |  |
-| 87 | 7% | 53% | Median |
-| 88 | 7% | 45% |  |
-| 89 | 7% | 38% |  |
-| 90 | 7% | 31% |  |
-| 91 | 6% | 25% |  |
-| 92 | 5% | 19% |  |
-| 93 | 4% | 14% |  |
-| 94 | 3% | 10% |  |
-| 95 | 2% | 7% |  |
-| 96 | 2% | 4% |  |
-| 97 | 1.1% | 3% |  |
-| 98 | 0.7% | 2% |  |
-| 99 | 0.4% | 0.8% |  |
-| 100 | 0.2% | 0.4% |  |
-| 101 | 0.1% | 0.2% |  |
-| 102 | 0.1% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.4% | 99.7% |  |
+| 73 | 0.9% | 99.3% |  |
+| 74 | 2% | 98% |  |
+| 75 | 3% | 97% |  |
+| 76 | 4% | 94% |  |
+| 77 | 6% | 89% |  |
+| 78 | 8% | 83% |  |
+| 79 | 10% | 75% |  |
+| 80 | 11% | 64% |  |
+| 81 | 11% | 53% | Median |
+| 82 | 11% | 42% |  |
+| 83 | 9% | 31% |  |
+| 84 | 7% | 22% |  |
+| 85 | 5% | 14% |  |
+| 86 | 4% | 9% |  |
+| 87 | 2% | 5% |  |
+| 88 | 1.4% | 3% |  |
+| 89 | 0.7% | 1.3% |  |
+| 90 | 0.4% | 0.6% |  |
+| 91 | 0.2% | 0.3% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 

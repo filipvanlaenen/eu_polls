@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 102 | 97–108 | 96–109 | 94–111 | 92–113 |
+| Alliance of Liberals and Democrats for Europe | 68 | 99 | 94–104 | 93–105 | 91–107 | 89–109 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 22 | 19–23 | 19–23 | 18–26 | 18–26 |
 | FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–8 | 4–9 |
@@ -16,7 +16,6 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 3 | 2–5 | 2–6 | 2–6 | 2–7 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
@@ -41,7 +40,6 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 [EE] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -82,36 +80,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
-| 87 | 0% | 100% |  |
-| 88 | 0% | 100% |  |
-| 89 | 0% | 100% |  |
-| 90 | 0.1% | 99.9% |  |
-| 91 | 0.2% | 99.9% |  |
-| 92 | 0.4% | 99.7% |  |
-| 93 | 0.7% | 99.3% |  |
-| 94 | 1.2% | 98.6% |  |
-| 95 | 2% | 97% |  |
-| 96 | 3% | 95% |  |
-| 97 | 4% | 92% |  |
-| 98 | 6% | 88% |  |
-| 99 | 7% | 82% |  |
-| 100 | 8% | 75% |  |
-| 101 | 9% | 67% |  |
-| 102 | 10% | 57% | Median |
-| 103 | 9% | 48% |  |
-| 104 | 9% | 38% |  |
-| 105 | 8% | 30% |  |
-| 106 | 6% | 22% |  |
-| 107 | 5% | 16% |  |
-| 108 | 4% | 11% |  |
-| 109 | 3% | 7% |  |
-| 110 | 2% | 4% |  |
-| 111 | 1.1% | 3% |  |
-| 112 | 0.7% | 1.4% |  |
-| 113 | 0.4% | 0.8% |  |
-| 114 | 0.2% | 0.4% |  |
-| 115 | 0.1% | 0.2% |  |
-| 116 | 0.1% | 0.1% |  |
-| 117 | 0% | 0% |  |
+| 87 | 0.1% | 99.9% |  |
+| 88 | 0.2% | 99.9% |  |
+| 89 | 0.4% | 99.7% |  |
+| 90 | 0.7% | 99.3% |  |
+| 91 | 1.3% | 98.6% |  |
+| 92 | 2% | 97% |  |
+| 93 | 3% | 95% |  |
+| 94 | 5% | 92% |  |
+| 95 | 6% | 87% |  |
+| 96 | 8% | 81% |  |
+| 97 | 9% | 73% |  |
+| 98 | 10% | 64% |  |
+| 99 | 10% | 54% | Median |
+| 100 | 10% | 43% |  |
+| 101 | 9% | 34% |  |
+| 102 | 7% | 25% |  |
+| 103 | 6% | 18% |  |
+| 104 | 4% | 12% |  |
+| 105 | 3% | 8% |  |
+| 106 | 2% | 5% |  |
+| 107 | 1.2% | 3% |  |
+| 108 | 0.7% | 1.5% |  |
+| 109 | 0.4% | 0.8% |  |
+| 110 | 0.2% | 0.4% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 
 
