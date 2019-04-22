@@ -8,7 +8,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 46 | 43–49 | 42–50 | 41–50 | 40–52 |
+| European United Left–Nordic Green Left | 52 | 47 | 44–50 | 43–51 | 42–51 | 41–53 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
 | La France insoumise [FR] (GUE/NGL) | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -25,6 +25,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Nouveau Parti anticapitaliste [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA [BE-VLG] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -43,22 +44,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 1.0% | 99.6% |  |
-| 41 | 2% | 98.6% |  |
-| 42 | 5% | 96% |  |
-| 43 | 9% | 91% |  |
-| 44 | 13% | 82% |  |
-| 45 | 16% | 69% |  |
-| 46 | 17% | 53% | Median |
-| 47 | 14% | 37% |  |
-| 48 | 11% | 22% |  |
-| 49 | 6% | 12% |  |
-| 50 | 3% | 5% |  |
-| 51 | 1.4% | 2% |  |
-| 52 | 0.5% | 0.7% | Last Result |
-| 53 | 0.1% | 0.2% |  |
-| 54 | 0% | 0% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 1.0% | 99.6% |  |
+| 42 | 2% | 98.6% |  |
+| 43 | 5% | 96% |  |
+| 44 | 9% | 91% |  |
+| 45 | 13% | 82% |  |
+| 46 | 16% | 70% |  |
+| 47 | 16% | 54% | Median |
+| 48 | 15% | 38% |  |
+| 49 | 11% | 23% |  |
+| 50 | 7% | 12% |  |
+| 51 | 3% | 6% |  |
+| 52 | 1.5% | 2% | Last Result |
+| 53 | 0.5% | 0.7% |  |
+| 54 | 0.2% | 0.2% |  |
+| 55 | 0% | 0% |  |
 
 
