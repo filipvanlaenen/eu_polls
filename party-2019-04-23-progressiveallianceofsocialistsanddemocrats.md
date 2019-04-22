@@ -20,7 +20,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Socialdemokraterne [DK] (S&D) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs [AT] (S&D) | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Partit Laburista [MT] (S&D) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista [MT] (S&D) | | 4 | 4 | 4 | 3–4 | 3–4 |
 | Wiosna–Partia Razem [PL] (S&D) | | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
 | MSZP–Párbeszéd [HU] (S&D) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | SMER–sociálna demokracia [SK] (S&D) | | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -66,13 +66,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 0.7% | 98% |  |
 | 144 | 1.0% | 98% |  |
 | 145 | 1.2% | 97% |  |
-| 146 | 2% | 96% |  |
+| 146 | 2% | 95% |  |
 | 147 | 2% | 94% |  |
 | 148 | 2% | 92% |  |
-| 149 | 2% | 90% |  |
+| 149 | 3% | 90% |  |
 | 150 | 3% | 87% |  |
 | 151 | 3% | 85% |  |
-| 152 | 3% | 82% |  |
+| 152 | 3% | 81% |  |
 | 153 | 3% | 78% |  |
 | 154 | 4% | 75% |  |
 | 155 | 4% | 71% |  |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 5% | 59% |  |
 | 159 | 5% | 54% | Median |
 | 160 | 5% | 49% |  |
-| 161 | 5% | 45% |  |
+| 161 | 5% | 44% |  |
 | 162 | 5% | 40% |  |
 | 163 | 4% | 35% |  |
 | 164 | 4% | 31% |  |
@@ -94,11 +94,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 2% | 8% |  |
 | 172 | 2% | 6% |  |
 | 173 | 1.3% | 4% |  |
-| 174 | 1.0% | 3% |  |
+| 174 | 0.9% | 3% |  |
 | 175 | 0.7% | 2% |  |
-| 176 | 0.5% | 1.3% |  |
+| 176 | 0.5% | 1.2% |  |
 | 177 | 0.3% | 0.8% |  |
-| 178 | 0.2% | 0.5% |  |
+| 178 | 0.2% | 0.4% |  |
 | 179 | 0.1% | 0.3% |  |
 | 180 | 0.1% | 0.1% |  |
 | 181 | 0% | 0.1% |  |
