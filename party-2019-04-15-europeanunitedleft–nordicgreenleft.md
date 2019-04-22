@@ -13,13 +13,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 | La France insoumise [FR] (GUE/NGL) | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–3 | 1–4 | 0–4 |
+| Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–4 | 1–4 | 0–4 |
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij [NL] (GUE/NGL) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica [SI] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
@@ -49,17 +49,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.8% | 99.7% |  |
 | 42 | 2% | 98.9% |  |
 | 43 | 5% | 97% |  |
-| 44 | 9% | 92% |  |
-| 45 | 13% | 83% |  |
-| 46 | 16% | 70% |  |
-| 47 | 17% | 54% | Median |
-| 48 | 15% | 37% |  |
-| 49 | 11% | 23% |  |
-| 50 | 7% | 12% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.4% | 2% | Last Result |
-| 53 | 0.5% | 0.6% |  |
-| 54 | 0.1% | 0.2% |  |
+| 44 | 8% | 92% |  |
+| 45 | 13% | 84% |  |
+| 46 | 16% | 71% |  |
+| 47 | 17% | 56% | Median |
+| 48 | 15% | 39% |  |
+| 49 | 11% | 24% |  |
+| 50 | 7% | 13% |  |
+| 51 | 4% | 6% |  |
+| 52 | 2% | 2% | Last Result |
+| 53 | 0.5% | 0.8% |  |
+| 54 | 0.2% | 0.2% |  |
 | 55 | 0% | 0% |  |
 
 

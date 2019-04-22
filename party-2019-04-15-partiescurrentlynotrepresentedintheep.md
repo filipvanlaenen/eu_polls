@@ -26,7 +26,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Neovisni za Hrvatsku [HR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka [SI] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -48,12 +48,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 1.0% | 99.9% |  |
+| 4 | 1.1% | 99.9% |  |
 | 5 | 6% | 98.9% |  |
-| 6 | 16% | 93% |  |
-| 7 | 25% | 77% |  |
-| 8 | 24% | 52% | Median |
-| 9 | 16% | 28% |  |
+| 6 | 17% | 93% |  |
+| 7 | 25% | 76% |  |
+| 8 | 24% | 51% | Median |
+| 9 | 15% | 28% |  |
 | 10 | 8% | 12% |  |
 | 11 | 3% | 4% |  |
 | 12 | 0.9% | 1.1% |  |

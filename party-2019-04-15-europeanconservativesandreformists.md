@@ -23,7 +23,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Обединени Патриоти [BG] (ECR) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Debout la France [FR] (ECR) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
-| Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi con l’Italia [IT] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Sininen tulevaisuus [FI] (ECR) | | 0 | 0 | 0 | 0 | 0 |
@@ -40,32 +40,32 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 49 | 0.1% | 100% |  |
-| 50 | 0.1% | 99.9% |  |
+| 50 | 0.2% | 99.9% |  |
 | 51 | 0.3% | 99.7% |  |
-| 52 | 0.5% | 99.5% |  |
+| 52 | 0.5% | 99.4% |  |
 | 53 | 0.9% | 98.9% |  |
 | 54 | 1.5% | 98% |  |
-| 55 | 2% | 97% |  |
+| 55 | 2% | 96% |  |
 | 56 | 3% | 94% |  |
 | 57 | 4% | 91% |  |
 | 58 | 4% | 88% |  |
 | 59 | 5% | 83% |  |
-| 60 | 5% | 79% |  |
+| 60 | 5% | 78% |  |
 | 61 | 5% | 73% |  |
 | 62 | 5% | 68% |  |
 | 63 | 5% | 63% |  |
 | 64 | 5% | 59% |  |
 | 65 | 5% | 54% | Median |
 | 66 | 5% | 49% |  |
-| 67 | 4% | 45% |  |
+| 67 | 4% | 44% |  |
 | 68 | 4% | 40% |  |
 | 69 | 3% | 37% |  |
 | 70 | 3% | 34% |  |
 | 71 | 2% | 31% |  |
-| 72 | 2% | 29% |  |
+| 72 | 2% | 28% |  |
 | 73 | 2% | 26% |  |
 | 74 | 2% | 24% |  |
-| 75 | 2% | 22% |  |
+| 75 | 2% | 21% |  |
 | 76 | 3% | 19% | Last Result |
 | 77 | 3% | 16% |  |
 | 78 | 3% | 14% |  |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 2% | 5% |  |
 | 83 | 1.2% | 4% |  |
 | 84 | 0.9% | 2% |  |
-| 85 | 0.6% | 2% |  |
+| 85 | 0.6% | 1.5% |  |
 | 86 | 0.4% | 0.9% |  |
 | 87 | 0.2% | 0.5% |  |
 | 88 | 0.1% | 0.2% |  |
