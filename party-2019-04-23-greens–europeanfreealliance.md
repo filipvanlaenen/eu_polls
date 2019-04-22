@@ -8,7 +8,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 49 | 45–55 | 44–57 | 43–58 | 41–60 |
+| Greens–European Free Alliance | 52 | 49 | 45–55 | 43–57 | 43–58 | 41–60 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 17 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
@@ -22,7 +22,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |

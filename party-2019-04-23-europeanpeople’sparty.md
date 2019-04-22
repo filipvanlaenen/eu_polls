@@ -18,10 +18,10 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Forza Italia [IT] (EPP) | | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | CSU [DE] (EPP) | | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
-| Fine Gael [IE] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Fine Gael [IE] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
@@ -46,7 +46,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
 | Change UK [GB-GBN] (EPP) | | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
-| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka [SI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 161 | 0% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
-| 163 | 0.1% | 99.9% |  |
+| 163 | 0.1% | 99.8% |  |
 | 164 | 0.2% | 99.7% |  |
 | 165 | 0.4% | 99.5% |  |
 | 166 | 0.6% | 99.1% |  |
@@ -91,11 +91,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 186 | 2% | 6% |  |
 | 187 | 1.5% | 4% |  |
 | 188 | 1.0% | 3% |  |
-| 189 | 0.6% | 2% |  |
+| 189 | 0.7% | 2% |  |
 | 190 | 0.4% | 0.9% |  |
 | 191 | 0.2% | 0.5% |  |
 | 192 | 0.1% | 0.3% |  |
-| 193 | 0.1% | 0.1% |  |
+| 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |

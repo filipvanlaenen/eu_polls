@@ -23,7 +23,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Обединени Патриоти [BG] (ECR) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Debout la France [FR] (ECR) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
-| Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sininen tulevaisuus [FI] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij [NL] (ECR) | | 0 | 0 | 0 | 0 | 0 |
@@ -40,8 +40,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.1% | 100% |  |
 | 51 | 0.2% | 99.9% |  |
-| 52 | 0.4% | 99.6% |  |
-| 53 | 0.8% | 99.2% |  |
+| 52 | 0.5% | 99.6% |  |
+| 53 | 0.9% | 99.2% |  |
 | 54 | 1.5% | 98% |  |
 | 55 | 2% | 97% |  |
 | 56 | 4% | 94% |  |
@@ -51,10 +51,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 9% | 71% |  |
 | 61 | 9% | 62% |  |
 | 62 | 8% | 53% | Median |
-| 63 | 8% | 45% |  |
+| 63 | 7% | 45% |  |
 | 64 | 7% | 38% |  |
 | 65 | 6% | 31% |  |
-| 66 | 6% | 25% |  |
+| 66 | 6% | 24% |  |
 | 67 | 5% | 19% |  |
 | 68 | 4% | 14% |  |
 | 69 | 3% | 10% |  |

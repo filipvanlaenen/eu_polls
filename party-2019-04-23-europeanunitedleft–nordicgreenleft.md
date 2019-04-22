@@ -18,8 +18,8 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij [NL] (GUE/NGL) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica [SI] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
@@ -44,22 +44,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% |  |
-| 40 | 0.2% | 99.9% |  |
-| 41 | 0.7% | 99.7% |  |
-| 42 | 2% | 99.0% |  |
-| 43 | 4% | 97% |  |
-| 44 | 8% | 93% |  |
-| 45 | 13% | 85% |  |
-| 46 | 16% | 72% |  |
-| 47 | 17% | 56% | Median |
-| 48 | 15% | 39% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 0.9% | 99.6% |  |
+| 42 | 2% | 98.8% |  |
+| 43 | 5% | 97% |  |
+| 44 | 8% | 92% |  |
+| 45 | 13% | 83% |  |
+| 46 | 16% | 71% |  |
+| 47 | 17% | 55% | Median |
+| 48 | 15% | 38% |  |
 | 49 | 11% | 24% |  |
-| 50 | 7% | 12% |  |
-| 51 | 3% | 6% |  |
-| 52 | 1.4% | 2% | Last Result |
-| 53 | 0.5% | 0.7% |  |
-| 54 | 0.1% | 0.2% |  |
+| 50 | 7% | 13% |  |
+| 51 | 4% | 6% |  |
+| 52 | 2% | 2% | Last Result |
+| 53 | 0.6% | 0.8% |  |
+| 54 | 0.2% | 0.2% |  |
 | 55 | 0% | 0% |  |
 
 

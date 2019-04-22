@@ -16,7 +16,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Partij voor de Vrijheid [NL] (EAPN) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
-| Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1–2 |
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -75,24 +75,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 4% | 95% |  |
 | 78 | 5% | 91% |  |
 | 79 | 7% | 86% |  |
-| 80 | 8% | 79% |  |
-| 81 | 9% | 71% |  |
+| 80 | 8% | 80% |  |
+| 81 | 9% | 72% |  |
 | 82 | 9% | 63% |  |
 | 83 | 8% | 54% | Median |
 | 84 | 7% | 46% |  |
-| 85 | 6% | 38% |  |
+| 85 | 6% | 39% |  |
 | 86 | 5% | 32% |  |
 | 87 | 5% | 27% |  |
 | 88 | 4% | 22% |  |
 | 89 | 4% | 18% |  |
 | 90 | 3% | 15% |  |
-| 91 | 3% | 11% |  |
+| 91 | 3% | 12% |  |
 | 92 | 2% | 9% |  |
 | 93 | 2% | 6% |  |
 | 94 | 2% | 4% |  |
 | 95 | 1.1% | 3% |  |
-| 96 | 0.7% | 2% |  |
-| 97 | 0.5% | 1.0% |  |
+| 96 | 0.8% | 2% |  |
+| 97 | 0.5% | 1.1% |  |
 | 98 | 0.3% | 0.6% |  |
 | 99 | 0.2% | 0.3% |  |
 | 100 | 0.1% | 0.1% |  |

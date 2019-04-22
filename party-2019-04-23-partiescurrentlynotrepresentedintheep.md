@@ -8,10 +8,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 7 | 5–9 | 5–10 | 5–11 | 4–12 |
+| Parties currently not represented in the EP | 0 | 7 | 6–10 | 5–10 | 5–11 | 4–12 |
 | Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
-| Independents [IE] (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Meine Stimme Gilt! [AT] (*) | | 1 | 1 | 1 | 1 | 1 |
+| Independents [IE] (*) | | 1 | 1 | 1 | 1 | 0–2 |
+| Meine Stimme Gilt! [AT] (*) | | 1 | 1 | 1 | 1 | 1–2 |
 | Most nezavisnih lista [HR] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -48,16 +48,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 2% | 99.8% |  |
-| 5 | 9% | 98% |  |
-| 6 | 20% | 89% |  |
-| 7 | 26% | 68% | Median |
-| 8 | 21% | 42% |  |
-| 9 | 13% | 21% |  |
-| 10 | 6% | 9% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.5% | 0.6% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 1.2% | 99.9% |  |
+| 5 | 7% | 98.7% |  |
+| 6 | 18% | 92% |  |
+| 7 | 26% | 74% | Median |
+| 8 | 23% | 48% |  |
+| 9 | 14% | 25% |  |
+| 10 | 7% | 11% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.7% | 0.8% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
