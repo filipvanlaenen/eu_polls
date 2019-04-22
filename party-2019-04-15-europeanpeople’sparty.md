@@ -30,10 +30,10 @@ Last result: **217** seats (General Election of 25 May 2014)
 | CD&V [BE-VLG] (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Slovenska demokratska stranka [SI] (EPP) | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2–3 |
+| Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Erakond Isamaa [EE] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
+| 161 | 0.1% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
 | 163 | 0.2% | 99.8% |  |
 | 164 | 0.3% | 99.6% |  |
@@ -74,19 +74,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 169 | 2% | 95% |  |
 | 170 | 3% | 93% |  |
 | 171 | 4% | 90% |  |
-| 172 | 5% | 87% |  |
+| 172 | 5% | 86% |  |
 | 173 | 6% | 82% |  |
-| 174 | 7% | 77% |  |
+| 174 | 7% | 76% |  |
 | 175 | 7% | 70% |  |
-| 176 | 8% | 63% |  |
-| 177 | 8% | 55% | Median |
+| 176 | 8% | 62% |  |
+| 177 | 8% | 54% | Median |
 | 178 | 8% | 46% |  |
 | 179 | 8% | 38% |  |
 | 180 | 7% | 30% |  |
 | 181 | 6% | 23% |  |
 | 182 | 5% | 17% |  |
-| 183 | 4% | 13% |  |
-| 184 | 3% | 9% |  |
+| 183 | 4% | 12% |  |
+| 184 | 3% | 8% |  |
 | 185 | 2% | 6% |  |
 | 186 | 1.4% | 4% |  |
 | 187 | 0.9% | 2% |  |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 190 | 0.2% | 0.4% |  |
 | 191 | 0.1% | 0.2% |  |
 | 192 | 0.1% | 0.1% |  |
-| 193 | 0% | 0.1% |  |
+| 193 | 0% | 0% |  |
 | 194 | 0% | 0% |  |
 | 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
