@@ -135,6 +135,7 @@ current EP fractions.
 | Eesti Vabaerakond                 | EVA          | *           | New party                                                                 |
 | Erakond Eestimaa Rohelised        | Rohelised    | Greens/EFA  | Current member                                                            |
 | Isamaa ja Res Publica Liit        | IRL          | EPP         | Current member                                                            |
+| Raimond Kaljulaid                 | Kaljulaid    | ALDE        | Independent candidate; used to be a member of Eesti Keskerakond           |
 | Sotsiaaldemokraatlik Erakond      | SDE          | S&D         | Current member                                                            |
 
 ## Finland
