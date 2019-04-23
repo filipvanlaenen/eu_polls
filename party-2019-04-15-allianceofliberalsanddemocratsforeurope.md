@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 101 | 96–107 | 95–108 | 93–110 | 91–112 |
+| Alliance of Liberals and Democrats for Europe | 68 | 102 | 96–107 | 95–108 | 94–110 | 91–112 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 22 | 19–23 | 18–23 | 17–26 | 17–26 |
 | FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–8 | 4–9 |
@@ -27,6 +27,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2–5 | 2–6 | 1–6 | 1–7 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -38,13 +39,12 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 [EE] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,33 +84,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 99.9% |  |
-| 90 | 0.2% | 99.8% |  |
-| 91 | 0.4% | 99.6% |  |
-| 92 | 0.8% | 99.2% |  |
-| 93 | 1.3% | 98% |  |
-| 94 | 2% | 97% |  |
-| 95 | 3% | 95% |  |
-| 96 | 4% | 92% |  |
-| 97 | 6% | 88% |  |
-| 98 | 7% | 82% |  |
-| 99 | 8% | 75% |  |
-| 100 | 9% | 66% |  |
-| 101 | 10% | 57% | Median |
-| 102 | 9% | 47% |  |
-| 103 | 9% | 38% |  |
-| 104 | 8% | 29% |  |
-| 105 | 6% | 22% |  |
-| 106 | 5% | 16% |  |
-| 107 | 4% | 11% |  |
-| 108 | 3% | 7% |  |
-| 109 | 2% | 4% |  |
-| 110 | 1.1% | 3% |  |
-| 111 | 0.7% | 1.5% |  |
-| 112 | 0.4% | 0.8% |  |
-| 113 | 0.2% | 0.4% |  |
-| 114 | 0.1% | 0.2% |  |
+| 89 | 0.1% | 100% |  |
+| 90 | 0.2% | 99.9% |  |
+| 91 | 0.3% | 99.7% |  |
+| 92 | 0.6% | 99.4% |  |
+| 93 | 1.1% | 98.8% |  |
+| 94 | 2% | 98% |  |
+| 95 | 3% | 96% |  |
+| 96 | 4% | 93% |  |
+| 97 | 5% | 89% |  |
+| 98 | 7% | 84% |  |
+| 99 | 8% | 77% |  |
+| 100 | 9% | 69% |  |
+| 101 | 10% | 60% |  |
+| 102 | 10% | 50% | Median |
+| 103 | 9% | 41% |  |
+| 104 | 8% | 32% |  |
+| 105 | 7% | 24% |  |
+| 106 | 5% | 17% |  |
+| 107 | 4% | 12% |  |
+| 108 | 3% | 8% |  |
+| 109 | 2% | 5% |  |
+| 110 | 1.3% | 3% |  |
+| 111 | 0.8% | 2% |  |
+| 112 | 0.5% | 0.9% |  |
+| 113 | 0.2% | 0.5% |  |
+| 114 | 0.1% | 0.3% |  |
 | 115 | 0.1% | 0.1% |  |
-| 116 | 0% | 0% |  |
+| 116 | 0% | 0.1% |  |
+| 117 | 0% | 0% |  |
 
 
