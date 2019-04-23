@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 50 | 45–54 | 44–55 | 43–56 | 41–57 |
+| European People’s Party | 217 | 50 | 46–54 | 44–55 | 43–56 | 41–58 |
 | Koalicja Europejska [PL] (EPP) | | 21 | 15–23 | 14–24 | 14–24 | 13–25 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
@@ -17,7 +17,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Slovenska demokratska stranka [SI] (EPP) | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 1 |
+| Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
 | MOST–HÍD [SK] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -33,27 +33,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% |  |
-| 40 | 0.2% | 99.9% |  |
-| 41 | 0.6% | 99.7% |  |
-| 42 | 1.3% | 99.2% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.4% | 99.8% |  |
+| 42 | 1.0% | 99.4% |  |
 | 43 | 2% | 98% |  |
-| 44 | 3% | 96% |  |
-| 45 | 3% | 93% |  |
-| 46 | 4% | 90% |  |
-| 47 | 6% | 85% |  |
-| 48 | 9% | 79% |  |
-| 49 | 12% | 71% |  |
-| 50 | 14% | 59% | Median |
-| 51 | 14% | 45% |  |
-| 52 | 12% | 31% |  |
-| 53 | 9% | 20% |  |
-| 54 | 5% | 11% |  |
-| 55 | 3% | 6% |  |
+| 44 | 3% | 97% |  |
+| 45 | 3% | 94% |  |
+| 46 | 4% | 91% |  |
+| 47 | 5% | 87% |  |
+| 48 | 8% | 82% |  |
+| 49 | 11% | 74% |  |
+| 50 | 13% | 63% | Median |
+| 51 | 14% | 50% |  |
+| 52 | 12% | 36% |  |
+| 53 | 10% | 23% |  |
+| 54 | 7% | 14% |  |
+| 55 | 4% | 7% |  |
 | 56 | 2% | 3% |  |
-| 57 | 0.7% | 1.0% |  |
-| 58 | 0.3% | 0.4% |  |
-| 59 | 0.1% | 0.1% |  |
+| 57 | 0.9% | 1.4% |  |
+| 58 | 0.4% | 0.5% |  |
+| 59 | 0.1% | 0.2% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

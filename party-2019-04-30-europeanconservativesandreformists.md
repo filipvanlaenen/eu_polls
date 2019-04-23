@@ -11,7 +11,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 | European Conservatives and Reformists | 76 | 28 | 26–30 | 26–31 | 25–31 | 24–32 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
@@ -23,15 +23,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
-| 24 | 0.6% | 99.9% |  |
-| 25 | 3% | 99.3% |  |
-| 26 | 9% | 96% |  |
-| 27 | 17% | 87% |  |
-| 28 | 25% | 70% | Median |
-| 29 | 25% | 45% |  |
-| 30 | 15% | 21% |  |
-| 31 | 5% | 6% |  |
-| 32 | 0.9% | 1.1% |  |
+| 24 | 0.8% | 99.9% |  |
+| 25 | 4% | 99.2% |  |
+| 26 | 10% | 96% |  |
+| 27 | 18% | 86% |  |
+| 28 | 25% | 67% | Median |
+| 29 | 24% | 42% |  |
+| 30 | 13% | 18% |  |
+| 31 | 4% | 5% |  |
+| 32 | 0.9% | 1.0% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |

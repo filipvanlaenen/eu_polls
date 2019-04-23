@@ -8,14 +8,14 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
+| Alliance of Liberals and Democrats for Europe | 68 | 19 | 17–22 | 16–23 | 15–23 | 15–24 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -28,18 +28,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 1.3% | 99.8% |  |
-| 15 | 5% | 98.6% |  |
-| 16 | 10% | 94% |  |
-| 17 | 17% | 84% |  |
-| 18 | 20% | 67% | Median |
-| 19 | 17% | 47% |  |
-| 20 | 12% | 30% |  |
-| 21 | 9% | 18% |  |
-| 22 | 6% | 9% |  |
-| 23 | 3% | 3% |  |
-| 24 | 0.6% | 0.7% |  |
+| 14 | 0.3% | 100% |  |
+| 15 | 2% | 99.6% |  |
+| 16 | 7% | 97% |  |
+| 17 | 14% | 90% |  |
+| 18 | 20% | 77% |  |
+| 19 | 20% | 57% | Median |
+| 20 | 14% | 37% |  |
+| 21 | 10% | 23% |  |
+| 22 | 8% | 13% |  |
+| 23 | 4% | 5% |  |
+| 24 | 1.1% | 1.2% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |

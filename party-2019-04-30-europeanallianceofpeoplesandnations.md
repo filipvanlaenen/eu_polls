@@ -8,9 +8,9 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| European Alliance of Peoples and Nations | 37 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 0–1 |
+| Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 
 ### Probability Mass Function
 
@@ -20,9 +20,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.5% | 100% |  |
-| 2 | 88% | 98.5% | Median |
-| 3 | 10% | 10% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
