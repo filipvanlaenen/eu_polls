@@ -15,7 +15,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–2 |
+| Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -51,14 +51,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 5% | 95% |  |
 | 45 | 7% | 91% |  |
 | 46 | 9% | 84% |  |
-| 47 | 10% | 76% |  |
-| 48 | 11% | 66% |  |
+| 47 | 10% | 75% |  |
+| 48 | 11% | 65% |  |
 | 49 | 10% | 55% | Median |
 | 50 | 10% | 44% |  |
 | 51 | 9% | 35% |  |
 | 52 | 7% | 26% | Last Result |
-| 53 | 6% | 19% |  |
-| 54 | 5% | 13% |  |
+| 53 | 6% | 18% |  |
+| 54 | 5% | 12% |  |
 | 55 | 3% | 8% |  |
 | 56 | 2% | 5% |  |
 | 57 | 1.3% | 2% |  |
