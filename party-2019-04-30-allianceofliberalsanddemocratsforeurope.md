@@ -8,17 +8,52 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 19 | 17–22 | 16–23 | 15–23 | 15–24 |
+| Alliance of Liberals and Democrats for Europe | 68 | 104 | 99–110 | 98–111 | 96–112 | 94–115 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 18–23 | 17–24 | 17–25 | 17–25 |
+| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
+| FDP [DE] (ALDE) | | 8 | 7–10 | 6–11 | 6–11 | 5–11 |
+| ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
+| Fianna Fáil [IE] (ALDE) | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Eesti Keskerakond [EE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2–4 | 2–4 | 2–5 | 2–7 |
+| MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
+| Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
+| Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 2 |
+| Движение за права и свободи [BG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
+| Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska narodna stranka–liberalni demokrati [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa [IT] (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -28,60 +63,57 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.3% | 100% |  |
-| 15 | 2% | 99.6% |  |
-| 16 | 7% | 97% |  |
-| 17 | 14% | 90% |  |
-| 18 | 20% | 77% |  |
-| 19 | 20% | 57% | Median |
-| 20 | 14% | 37% |  |
-| 21 | 10% | 23% |  |
-| 22 | 8% | 13% |  |
-| 23 | 4% | 5% |  |
-| 24 | 1.1% | 1.2% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% | Last Result |
+| 68 | 0% | 100% | Last Result |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0% | 100% |  |
+| 78 | 0% | 100% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0% | 100% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0% | 100% |  |
+| 87 | 0% | 100% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0% | 100% |  |
+| 92 | 0.1% | 99.9% |  |
+| 93 | 0.2% | 99.8% |  |
+| 94 | 0.4% | 99.6% |  |
+| 95 | 0.8% | 99.2% |  |
+| 96 | 1.3% | 98% |  |
+| 97 | 2% | 97% |  |
+| 98 | 3% | 95% |  |
+| 99 | 4% | 92% |  |
+| 100 | 6% | 88% |  |
+| 101 | 7% | 82% |  |
+| 102 | 8% | 75% |  |
+| 103 | 9% | 66% |  |
+| 104 | 10% | 57% | Median |
+| 105 | 10% | 47% |  |
+| 106 | 9% | 38% |  |
+| 107 | 8% | 29% |  |
+| 108 | 6% | 21% |  |
+| 109 | 5% | 15% |  |
+| 110 | 4% | 10% |  |
+| 111 | 3% | 7% |  |
+| 112 | 2% | 4% |  |
+| 113 | 1.0% | 2% |  |
+| 114 | 0.6% | 1.4% |  |
+| 115 | 0.4% | 0.7% |  |
+| 116 | 0.2% | 0.4% |  |
+| 117 | 0.1% | 0.2% |  |
+| 118 | 0% | 0.1% |  |
+| 119 | 0% | 0% |  |
 
 
