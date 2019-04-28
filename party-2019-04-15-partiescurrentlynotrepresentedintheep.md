@@ -8,8 +8,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–11 | 5–11 | 5–12 |
-| Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
+| Parties currently not represented in the EP | 0 | 8 | 6–10 | 6–10 | 5–11 | 4–12 |
+| Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
 | Independents [IE] (*) | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista [HR] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -34,7 +34,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Воля [BG] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Воля [BG] (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -48,16 +48,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.2% | 100% |  |
-| 5 | 3% | 99.8% |  |
-| 6 | 12% | 97% |  |
-| 7 | 25% | 85% |  |
-| 8 | 27% | 60% | Median |
-| 9 | 19% | 33% |  |
-| 10 | 10% | 15% |  |
-| 11 | 4% | 5% |  |
-| 12 | 1.0% | 1.2% |  |
-| 13 | 0.2% | 0.2% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 4% | 99.4% |  |
+| 6 | 15% | 95% |  |
+| 7 | 26% | 80% |  |
+| 8 | 25% | 54% | Median |
+| 9 | 16% | 29% |  |
+| 10 | 8% | 13% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.9% | 1.0% |  |
+| 13 | 0.1% | 0.2% |  |
 | 14 | 0% | 0% |  |
 
 
