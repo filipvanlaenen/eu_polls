@@ -8,35 +8,35 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 177 | 171–184 | 169–185 | 167–187 | 164–190 |
+| European People’s Party | 217 | 177 | 170–184 | 168–186 | 167–187 | 164–190 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 22–27 | 21–27 | 21–28 |
 | Koalicja Europejska [PL] (EPP) | | 21 | 15–23 | 14–24 | 14–24 | 13–25 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | Les Républicains [FR] (EPP) | | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
 | Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
-| Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
-| Partido Social Democrata [PT] (EPP) | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Partido Social Democrata [PT] (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | CSU [DE] (EPP) | | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
 | Fine Gael [IE] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Change UK [GB-GBN] (EPP) | | 3 | 0–5 | 0–5 | 0–5 | 0–7 |
+| Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai [LT] (EPP) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| CD&V [BE-VLG] (EPP) | | 2 | 2 | 2 | 2 | 1–3 |
-| CDS–Partido Popular [PT] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| CD&V [BE-VLG] (EPP) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Jaunā Vienotība [LV] (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Slovenska demokratska stranka [SI] (EPP) | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
-| TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
+| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Change UK [GB-GBN] (EPP) | | 1 | 0–5 | 0–5 | 0–5 | 0–7 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
@@ -44,15 +44,16 @@ Last result: **217** seats (General Election of 25 May 2014)
 | MOST–HÍD [SK] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| cdH [BE-FRC] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
+| cdH [BE-FRC] (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Демократична България [BG] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka [SI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Uniunea Democrată Maghiară din România [RO] (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Реформаторски блок [BG] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -65,38 +66,38 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0% | 100% |  |
 | 161 | 0.1% | 99.9% |  |
 | 162 | 0.1% | 99.9% |  |
-| 163 | 0.2% | 99.8% |  |
-| 164 | 0.3% | 99.6% |  |
-| 165 | 0.5% | 99.3% |  |
-| 166 | 0.7% | 98.8% |  |
-| 167 | 1.1% | 98% |  |
+| 163 | 0.2% | 99.7% |  |
+| 164 | 0.3% | 99.5% |  |
+| 165 | 0.5% | 99.2% |  |
+| 166 | 0.8% | 98.6% |  |
+| 167 | 1.2% | 98% |  |
 | 168 | 2% | 97% |  |
 | 169 | 2% | 95% |  |
 | 170 | 3% | 93% |  |
 | 171 | 4% | 90% |  |
-| 172 | 5% | 87% |  |
+| 172 | 5% | 86% |  |
 | 173 | 5% | 82% |  |
-| 174 | 6% | 77% |  |
+| 174 | 6% | 76% |  |
 | 175 | 7% | 70% |  |
-| 176 | 8% | 63% |  |
-| 177 | 8% | 56% | Median |
+| 176 | 7% | 63% |  |
+| 177 | 8% | 55% | Median |
 | 178 | 8% | 48% |  |
-| 179 | 8% | 40% |  |
-| 180 | 7% | 32% |  |
-| 181 | 6% | 25% |  |
-| 182 | 5% | 19% |  |
-| 183 | 4% | 14% |  |
-| 184 | 3% | 10% |  |
-| 185 | 2% | 7% |  |
+| 179 | 7% | 40% |  |
+| 180 | 7% | 33% |  |
+| 181 | 6% | 26% |  |
+| 182 | 5% | 20% |  |
+| 183 | 4% | 15% |  |
+| 184 | 3% | 11% |  |
+| 185 | 2% | 8% |  |
 | 186 | 2% | 5% |  |
-| 187 | 1.1% | 3% |  |
-| 188 | 0.7% | 2% |  |
-| 189 | 0.5% | 1.0% |  |
-| 190 | 0.3% | 0.6% |  |
-| 191 | 0.2% | 0.3% |  |
+| 187 | 1.3% | 3% |  |
+| 188 | 0.8% | 2% |  |
+| 189 | 0.5% | 1.3% |  |
+| 190 | 0.3% | 0.8% |  |
+| 191 | 0.2% | 0.5% |  |
 | 192 | 0.1% | 0.2% |  |
-| 193 | 0% | 0.1% |  |
-| 194 | 0% | 0% |  |
+| 193 | 0.1% | 0.1% |  |
+| 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
 | 197 | 0% | 0% |  |

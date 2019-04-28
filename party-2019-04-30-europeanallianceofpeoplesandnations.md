@@ -8,21 +8,21 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 82 | 78–87 | 77–88 | 76–90 | 73–92 |
-| Lega Nord [IT] (EAPN) | | 25 | 23–29 | 23–30 | 22–30 | 21–32 |
-| Rassemblement national [FR] (EAPN) | | 20 | 19–22 | 18–23 | 18–23 | 17–23 |
+| European Alliance of Peoples and Nations | 37 | 81 | 77–86 | 76–87 | 75–88 | 73–91 |
+| Lega Nord [IT] (EAPN) | | 25 | 23–29 | 23–29 | 22–30 | 21–32 |
+| Rassemblement national [FR] (EAPN) | | 20 | 19–21 | 18–23 | 18–23 | 17–23 |
 | Alternative für Deutschland [DE] (EAPN) | | 12 | 10–14 | 9–14 | 9–14 | 8–15 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
-| Dansk Folkeparti [DK] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
-| Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| UK Independence Party [GB-GBN] (EAPN) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| UK Independence Party [GB-GBN] (EAPN) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
 
@@ -66,30 +66,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
-| 71 | 0.1% | 100% |  |
-| 72 | 0.1% | 99.9% |  |
-| 73 | 0.3% | 99.8% |  |
-| 74 | 0.7% | 99.5% |  |
-| 75 | 1.3% | 98.8% |  |
-| 76 | 2% | 98% |  |
-| 77 | 4% | 95% |  |
-| 78 | 5% | 92% |  |
-| 79 | 7% | 86% |  |
-| 80 | 9% | 79% |  |
-| 81 | 11% | 70% |  |
-| 82 | 11% | 59% | Median |
-| 83 | 11% | 48% |  |
-| 84 | 10% | 37% |  |
-| 85 | 8% | 27% |  |
-| 86 | 6% | 19% |  |
-| 87 | 5% | 13% |  |
-| 88 | 3% | 8% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.3% | 3% |  |
-| 91 | 0.7% | 1.4% |  |
-| 92 | 0.4% | 0.7% |  |
-| 93 | 0.2% | 0.3% |  |
-| 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 71 | 0.1% | 99.9% |  |
+| 72 | 0.3% | 99.8% |  |
+| 73 | 0.6% | 99.6% |  |
+| 74 | 1.2% | 99.0% |  |
+| 75 | 2% | 98% |  |
+| 76 | 4% | 96% |  |
+| 77 | 6% | 92% |  |
+| 78 | 8% | 86% |  |
+| 79 | 10% | 79% |  |
+| 80 | 11% | 69% |  |
+| 81 | 11% | 58% | Median |
+| 82 | 11% | 47% |  |
+| 83 | 10% | 36% |  |
+| 84 | 8% | 26% |  |
+| 85 | 6% | 18% |  |
+| 86 | 4% | 12% |  |
+| 87 | 3% | 7% |  |
+| 88 | 2% | 4% |  |
+| 89 | 1.1% | 2% |  |
+| 90 | 0.6% | 1.2% |  |
+| 91 | 0.3% | 0.6% |  |
+| 92 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.1% |  |
+| 94 | 0% | 0% |  |
 
 

@@ -8,20 +8,21 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 60 | 55–68 | 53–69 | 52–71 | 50–73 |
+| European Conservatives and Reformists | 76 | 66 | 61–73 | 59–74 | 58–76 | 56–78 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
-| Conservative Party [GB-GBN] (ECR) | | 13 | 9–20 | 8–20 | 8–20 | 8–21 |
+| Conservative Party [GB-GBN] (ECR) | | 13 | 9–20 | 9–20 | 9–20 | 8–21 |
+| Forum voor Democratie [NL] (ECR) | | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
 | Fratelli d’Italia [IT] (ECR) | | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
-| N-VA [BE-VLG] (ECR) | | 4 | 4 | 4 | 3–5 | 3–5 |
+| N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| Forum voor Democratie [NL] (ECR) | | 3 | 3–6 | 3–6 | 3–6 | 2–7 |
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| ChristenUnie [NL] (ECR) | | 1 | 1 | 1 | 0–1 | 0–2 |
+| ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 2 | 2 | 2 | 1–2 |
+| ChristenUnie [NL] (ECR) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Обединени Патриоти [BG] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Debout la France [FR] (ECR) | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Debout la France [FR] (ECR) | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -38,36 +39,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 0% | 100% |  |
-| 48 | 0.1% | 99.9% |  |
-| 49 | 0.2% | 99.8% |  |
-| 50 | 0.4% | 99.6% |  |
-| 51 | 0.9% | 99.2% |  |
-| 52 | 2% | 98% |  |
-| 53 | 3% | 97% |  |
-| 54 | 4% | 94% |  |
-| 55 | 5% | 90% |  |
-| 56 | 6% | 85% |  |
-| 57 | 7% | 79% |  |
-| 58 | 7% | 73% |  |
-| 59 | 8% | 65% |  |
-| 60 | 8% | 58% | Median |
-| 61 | 7% | 50% |  |
-| 62 | 6% | 43% |  |
-| 63 | 6% | 36% |  |
-| 64 | 5% | 31% |  |
-| 65 | 5% | 25% |  |
-| 66 | 5% | 20% |  |
-| 67 | 4% | 15% |  |
-| 68 | 4% | 11% |  |
-| 69 | 3% | 7% |  |
-| 70 | 2% | 5% |  |
-| 71 | 1.2% | 3% |  |
-| 72 | 0.7% | 1.4% |  |
-| 73 | 0.4% | 0.7% |  |
-| 74 | 0.2% | 0.3% |  |
-| 75 | 0.1% | 0.1% |  |
-| 76 | 0% | 0.1% | Last Result |
-| 77 | 0% | 0% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.4% | 99.7% |  |
+| 57 | 0.7% | 99.4% |  |
+| 58 | 1.4% | 98.6% |  |
+| 59 | 2% | 97% |  |
+| 60 | 4% | 95% |  |
+| 61 | 6% | 91% |  |
+| 62 | 7% | 85% |  |
+| 63 | 9% | 78% |  |
+| 64 | 9% | 69% |  |
+| 65 | 9% | 60% |  |
+| 66 | 9% | 50% | Median |
+| 67 | 7% | 42% |  |
+| 68 | 6% | 34% |  |
+| 69 | 5% | 28% |  |
+| 70 | 4% | 23% |  |
+| 71 | 4% | 19% |  |
+| 72 | 4% | 15% |  |
+| 73 | 3% | 11% |  |
+| 74 | 3% | 8% |  |
+| 75 | 2% | 5% |  |
+| 76 | 1.3% | 3% | Last Result |
+| 77 | 0.7% | 1.4% |  |
+| 78 | 0.4% | 0.6% |  |
+| 79 | 0.2% | 0.3% |  |
+| 80 | 0.1% | 0.1% |  |
+| 81 | 0% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 
