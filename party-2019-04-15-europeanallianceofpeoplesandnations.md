@@ -19,7 +19,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 0–2 |
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -72,11 +72,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 0.2% | 99.8% |  |
 | 75 | 0.5% | 99.6% |  |
 | 76 | 0.8% | 99.1% |  |
-| 77 | 1.3% | 98% |  |
+| 77 | 1.4% | 98% |  |
 | 78 | 2% | 97% |  |
 | 79 | 3% | 95% |  |
 | 80 | 4% | 92% |  |
-| 81 | 4% | 89% |  |
+| 81 | 4% | 88% |  |
 | 82 | 5% | 84% |  |
 | 83 | 6% | 79% |  |
 | 84 | 6% | 73% |  |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 7% | 60% |  |
 | 87 | 7% | 53% | Median |
 | 88 | 7% | 46% |  |
-| 89 | 7% | 39% |  |
+| 89 | 7% | 38% |  |
 | 90 | 7% | 31% |  |
 | 91 | 6% | 25% |  |
 | 92 | 5% | 19% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 2% | 7% |  |
 | 96 | 2% | 4% |  |
 | 97 | 1.1% | 3% |  |
-| 98 | 0.7% | 2% |  |
+| 98 | 0.7% | 1.5% |  |
 | 99 | 0.4% | 0.8% |  |
 | 100 | 0.2% | 0.4% |  |
 | 101 | 0.1% | 0.2% |  |
