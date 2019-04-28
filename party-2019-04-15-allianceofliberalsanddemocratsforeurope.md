@@ -14,16 +14,16 @@ Last result: **68** seats (General Election of 25 May 2014)
 | FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
-| Eesti Reformierakond [EE] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Fianna Fáil [IE] (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Democraten 66 [NL] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2–5 | 2–6 | 1–6 | 1–7 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,7 +45,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 [EE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -84,32 +84,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 99.9% |  |
+| 89 | 0.1% | 100% |  |
 | 90 | 0.2% | 99.9% |  |
 | 91 | 0.3% | 99.7% |  |
 | 92 | 0.6% | 99.4% |  |
-| 93 | 1.1% | 98.8% |  |
+| 93 | 1.0% | 98.8% |  |
 | 94 | 2% | 98% |  |
 | 95 | 3% | 96% |  |
 | 96 | 4% | 93% |  |
-| 97 | 5% | 89% |  |
-| 98 | 7% | 84% |  |
-| 99 | 8% | 77% |  |
-| 100 | 9% | 69% |  |
-| 101 | 10% | 60% |  |
-| 102 | 10% | 50% | Median |
-| 103 | 9% | 41% |  |
-| 104 | 8% | 32% |  |
-| 105 | 7% | 24% |  |
-| 106 | 5% | 17% |  |
-| 107 | 4% | 12% |  |
+| 97 | 5% | 90% |  |
+| 98 | 7% | 85% |  |
+| 99 | 8% | 78% |  |
+| 100 | 9% | 70% |  |
+| 101 | 9% | 61% |  |
+| 102 | 10% | 52% | Median |
+| 103 | 9% | 42% |  |
+| 104 | 8% | 33% |  |
+| 105 | 7% | 25% |  |
+| 106 | 6% | 18% |  |
+| 107 | 4% | 13% |  |
 | 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
-| 110 | 1.3% | 3% |  |
-| 111 | 0.8% | 2% |  |
-| 112 | 0.5% | 1.0% |  |
-| 113 | 0.3% | 0.5% |  |
-| 114 | 0.1% | 0.3% |  |
+| 110 | 1.4% | 3% |  |
+| 111 | 0.9% | 2% |  |
+| 112 | 0.5% | 1.1% |  |
+| 113 | 0.3% | 0.6% |  |
+| 114 | 0.2% | 0.3% |  |
 | 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0.1% |  |
 | 117 | 0% | 0% |  |

@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 177 | 170–183 | 168–184 | 167–186 | 163–189 |
+| European People’s Party | 217 | 177 | 170–183 | 168–184 | 166–186 | 163–189 |
 | CDU [DE] (EPP) | | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | Koalicja Europejska [PL] (EPP) | | 21 | 15–23 | 14–24 | 14–24 | 13–25 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
@@ -50,7 +50,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka [SI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România [RO] (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Демократична България [BG] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Реформаторски блок [BG] (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -70,20 +70,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.4% | 99.5% |  |
 | 165 | 0.6% | 99.1% |  |
 | 166 | 0.9% | 98% |  |
-| 167 | 1.3% | 98% |  |
+| 167 | 1.4% | 97% |  |
 | 168 | 2% | 96% |  |
-| 169 | 2% | 94% |  |
+| 169 | 3% | 94% |  |
 | 170 | 3% | 92% |  |
-| 171 | 4% | 89% |  |
-| 172 | 5% | 85% |  |
+| 171 | 4% | 88% |  |
+| 172 | 5% | 84% |  |
 | 173 | 6% | 79% |  |
 | 174 | 7% | 73% |  |
 | 175 | 8% | 66% |  |
-| 176 | 8% | 59% |  |
+| 176 | 8% | 58% |  |
 | 177 | 8% | 50% | Median |
 | 178 | 8% | 42% |  |
 | 179 | 7% | 34% |  |
-| 180 | 7% | 27% |  |
+| 180 | 6% | 27% |  |
 | 181 | 5% | 20% |  |
 | 182 | 4% | 15% |  |
 | 183 | 3% | 10% |  |
