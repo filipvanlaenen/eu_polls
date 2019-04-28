@@ -307,23 +307,24 @@ current EP fractions.
 
 ## Netherlands
 
-| Party Name                              | Abbreviation | EP Fraction | Rationale                                                                   |
-|:----------------------------------------|:-------------|:------------|:----------------------------------------------------------------------------|
-| 50Plus                                  | 50+          | *           | Currently not represented in the European Parliament                        |
-| Bij1                                    | B1           | *           | New party; split from Denk (*)                                              | 
-| Christen-Democratisch Appèl             | CDA          | EPP         | Current member                                                              |
-| ChristenUnie                            | CU           | ECR         | Current member                                                              |
-| Democraten 66                           | D66          | ALDE        | Current member                                                              |
-| Denk                                    | DENK         | *           | New party; split from Partij van de Arbeid (S&D)                            |
-| Forum voor Democratie                   | FvD          | ECR         | New party; main candidate has been sitting with ECR                         |
-| GroenLinks                              | GL           | Greens/EFA  | Current member                                                              |
-| Partij van de Arbeid                    | PvdA         | S&D         | Current member                                                              |
-| Partij voor de Dieren                   | PvdD         | GUE/NGL     | Current member                                                              |
-| Partij voor de Vrijheid                 | PVV          | EAPN        | Current member                                                              |
-| Piratenpartij                           | PP           | *           | Currently not represented in the European Parliament                        |
-| Socialistische Partij                   | SP           | GUE/NGL     | Current member                                                              |
-| Staatkundig Gereformeerde Partij        | SGP          | ECR         | Current member                                                              |
-| Volkspartij voor Vrijheid en Democratie | VVD          | ALDE        | Current member                                                              |
+| Party Name                              | Abbreviation | EP Fraction | Rationale                                                                    |
+|:----------------------------------------|:-------------|:------------|:-----------------------------------------------------------------------------|
+| 50Plus                                  | 50+          | *           | Currently not represented in the European Parliament                         |
+| Bij1                                    | B1           | *           | New party; split from Denk (*)                                               | 
+| Christen-Democratisch Appèl             | CDA          | EPP         | Current member                                                               |
+| ChristenUnie                            | CU           | ECR         | Current member                                                               |
+| ChristenUnie–Staatkundig Gereformeerde Partij | CU–SGP | ECR         | Electoral alliance between ChristenUnie and Staatkundig Gereformeerde Partij |
+| Democraten 66                           | D66          | ALDE        | Current member                                                               |
+| Denk                                    | DENK         | *           | New party; split from Partij van de Arbeid (S&D)                             |
+| Forum voor Democratie                   | FvD          | ECR         | New party; main candidate has been sitting with ECR                          |
+| GroenLinks                              | GL           | Greens/EFA  | Current member                                                               |
+| Partij van de Arbeid                    | PvdA         | S&D         | Current member                                                               |
+| Partij voor de Dieren                   | PvdD         | GUE/NGL     | Current member                                                               |
+| Partij voor de Vrijheid                 | PVV          | EAPN        | Current member                                                               |
+| Piratenpartij                           | PP           | *           | Currently not represented in the European Parliament                         |
+| Socialistische Partij                   | SP           | GUE/NGL     | Current member                                                               |
+| Staatkundig Gereformeerde Partij        | SGP          | ECR         | Current member                                                               |
+| Volkspartij voor Vrijheid en Democratie | VVD          | ALDE        | Current member                                                               |
 
 ## Poland
 
