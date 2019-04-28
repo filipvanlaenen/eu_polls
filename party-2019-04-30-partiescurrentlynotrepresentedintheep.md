@@ -31,7 +31,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka [SI] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Воля [BG] (*) | | 0 | 0 | 0 | 0–1 | 0–1 |

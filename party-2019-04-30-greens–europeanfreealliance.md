@@ -8,14 +8,14 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 48 | 45–52 | 44–53 | 43–54 | 42–56 |
+| Greens–European Free Alliance | 52 | 49 | 45–54 | 44–56 | 43–57 | 42–59 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
+| Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
+| Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -28,7 +28,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–3 |
+| Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–5 | 0–6 | 0–7 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,23 +46,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
-| 42 | 0.8% | 99.6% |  |
-| 43 | 2% | 98.7% |  |
-| 44 | 4% | 97% |  |
-| 45 | 7% | 93% |  |
-| 46 | 10% | 86% |  |
-| 47 | 13% | 76% |  |
-| 48 | 14% | 63% | Median |
-| 49 | 14% | 49% |  |
-| 50 | 12% | 35% |  |
-| 51 | 9% | 23% |  |
-| 52 | 6% | 13% | Last Result |
-| 53 | 4% | 7% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.9% | 2% |  |
-| 56 | 0.4% | 0.6% |  |
-| 57 | 0.1% | 0.2% |  |
-| 58 | 0% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 42 | 0.7% | 99.6% |  |
+| 43 | 2% | 99.0% |  |
+| 44 | 3% | 97% |  |
+| 45 | 6% | 94% |  |
+| 46 | 8% | 88% |  |
+| 47 | 11% | 80% |  |
+| 48 | 12% | 70% |  |
+| 49 | 12% | 58% | Median |
+| 50 | 11% | 46% |  |
+| 51 | 9% | 35% |  |
+| 52 | 7% | 26% | Last Result |
+| 53 | 6% | 19% |  |
+| 54 | 4% | 14% |  |
+| 55 | 4% | 9% |  |
+| 56 | 3% | 6% |  |
+| 57 | 2% | 3% |  |
+| 58 | 1.0% | 2% |  |
+| 59 | 0.5% | 0.8% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 
