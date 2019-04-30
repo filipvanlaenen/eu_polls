@@ -398,8 +398,9 @@ current EP fractions.
 | Nova Slovenija–Krščanski demokrati                       | NSi          | EPP         | Current member                                       |
 | Pozitivna Slovenija                                      | PS           | *           | Currently not represented in the European Parliament |
 | Slovenska demokratska stranka                            | SDS          | EPP         | Current member                                       |
+| Slovenska demokratska stranka–Slovenska ljudska stranka  | SDS–SLS      | EPP         | Electoral alliance between Slovenska demokratska stranka and Slovenska ljudska stranka |
 | Slovenska ljudska stranka                                | SLS          | EPP         | Current member                                       |
-| Slovenska nacionalna stranka                             | SNS          | *           | Currently not represented in the European Parliament |
+| Slovenska nacionalna stranka                             | SNS          | NI          | Currently not represented in the European Parliament, but has ties to other parties currently member of NI |
 | Socialni demokrati                                       | SD           | S&D         | Current member                                       |
 | Stranka Alenke Bratušek                                  | PAB          | ALDE        | Current member                                       |
 | Stranka modernega centra                                 | SMC          | ALDE        | Current member                                       |
