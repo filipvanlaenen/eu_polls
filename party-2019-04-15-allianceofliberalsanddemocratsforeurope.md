@@ -8,8 +8,8 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 101 | 96–107 | 95–108 | 94–110 | 91–112 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 22 | 19–23 | 18–23 | 18–26 | 17–26 |
+| Alliance of Liberals and Democrats for Europe | 68 | 102 | 96–107 | 95–108 | 94–110 | 91–112 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 22 | 19–23 | 19–23 | 18–26 | 18–26 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
@@ -89,22 +89,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 0.1% | 99.9% |  |
 | 91 | 0.3% | 99.8% |  |
 | 92 | 0.6% | 99.5% |  |
-| 93 | 1.1% | 98.9% |  |
+| 93 | 1.0% | 98.9% |  |
 | 94 | 2% | 98% |  |
 | 95 | 3% | 96% |  |
 | 96 | 4% | 93% |  |
-| 97 | 5% | 89% |  |
+| 97 | 5% | 90% |  |
 | 98 | 7% | 84% |  |
 | 99 | 8% | 77% |  |
 | 100 | 9% | 69% |  |
-| 101 | 10% | 59% | Median |
-| 102 | 10% | 50% |  |
+| 101 | 10% | 60% |  |
+| 102 | 10% | 50% | Median |
 | 103 | 9% | 40% |  |
 | 104 | 8% | 31% |  |
 | 105 | 7% | 23% |  |
 | 106 | 5% | 17% |  |
-| 107 | 4% | 11% |  |
-| 108 | 3% | 7% |  |
+| 107 | 4% | 12% |  |
+| 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
 | 110 | 1.2% | 3% |  |
 | 111 | 0.7% | 2% |  |
