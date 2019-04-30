@@ -8,7 +8,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 70 | 61–84 | 60–86 | 58–88 | 56–91 |
+| European Conservatives and Reformists | 76 | 70 | 61–83 | 60–86 | 58–88 | 56–91 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | Conservative Party [GB-GBN] (ECR) | | 17 | 10–31 | 10–31 | 10–32 | 9–32 |
 | Fratelli d’Italia [IT] (ECR) | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -43,20 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 0.1% | 100% |  |
 | 54 | 0.1% | 99.9% |  |
 | 55 | 0.2% | 99.8% |  |
-| 56 | 0.4% | 99.6% |  |
+| 56 | 0.5% | 99.5% |  |
 | 57 | 0.8% | 99.1% |  |
-| 58 | 1.2% | 98% |  |
+| 58 | 1.3% | 98% |  |
 | 59 | 2% | 97% |  |
 | 60 | 3% | 95% |  |
 | 61 | 3% | 93% |  |
 | 62 | 4% | 89% |  |
 | 63 | 5% | 85% |  |
-| 64 | 5% | 81% |  |
-| 65 | 5% | 76% |  |
-| 66 | 5% | 71% |  |
+| 64 | 5% | 80% |  |
+| 65 | 5% | 75% |  |
+| 66 | 5% | 70% |  |
 | 67 | 5% | 65% |  |
 | 68 | 5% | 60% |  |
-| 69 | 5% | 56% |  |
+| 69 | 5% | 55% |  |
 | 70 | 4% | 51% | Median |
 | 71 | 4% | 46% |  |
 | 72 | 4% | 42% |  |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 2% | 25% |  |
 | 79 | 2% | 22% |  |
 | 80 | 2% | 20% |  |
-| 81 | 3% | 18% |  |
+| 81 | 3% | 17% |  |
 | 82 | 3% | 15% |  |
 | 83 | 2% | 12% |  |
 | 84 | 2% | 10% |  |
@@ -81,7 +81,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.3% | 0.6% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
-| 94 | 0% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 94 | 0% | 0% |  |
 
 
