@@ -19,7 +19,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | CSU [DE] (EPP) | | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
 | Fine Gael [IE] (EPP) | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
