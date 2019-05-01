@@ -14,7 +14,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -107,7 +107,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
 | 110 | 1.2% | 3% |  |
-| 111 | 0.8% | 2% |  |
+| 111 | 0.7% | 2% |  |
 | 112 | 0.4% | 0.9% |  |
 | 113 | 0.2% | 0.5% |  |
 | 114 | 0.1% | 0.2% |  |
