@@ -25,7 +25,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Latvijas Reģionu apvienība [LV] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |

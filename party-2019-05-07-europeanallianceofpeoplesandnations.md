@@ -8,10 +8,10 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 82 | 77–86 | 76–87 | 75–88 | 73–91 |
+| European Alliance of Peoples and Nations | 37 | 81 | 77–86 | 76–87 | 75–88 | 73–91 |
 | Lega Nord [IT] (EAPN) | | 25 | 23–28 | 22–29 | 22–30 | 21–31 |
-| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
-| Alternative für Deutschland [DE] (EAPN) | | 12 | 9–13 | 9–14 | 8–14 | 8–15 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 19–22 | 19–23 | 17–23 |
+| Alternative für Deutschland [DE] (EAPN) | | 12 | 9–14 | 9–14 | 8–14 | 8–15 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
@@ -67,26 +67,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
-| 71 | 0% | 100% |  |
-| 72 | 0.1% | 99.9% |  |
-| 73 | 0.4% | 99.8% |  |
-| 74 | 0.8% | 99.5% |  |
-| 75 | 2% | 98.6% |  |
-| 76 | 3% | 97% |  |
-| 77 | 5% | 94% |  |
-| 78 | 7% | 89% |  |
-| 79 | 9% | 82% |  |
-| 80 | 11% | 73% |  |
-| 81 | 12% | 62% |  |
-| 82 | 12% | 50% | Median |
-| 83 | 11% | 38% |  |
-| 84 | 9% | 28% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.4% | 99.7% |  |
+| 74 | 1.0% | 99.3% |  |
+| 75 | 2% | 98% |  |
+| 76 | 3% | 96% |  |
+| 77 | 5% | 93% |  |
+| 78 | 7% | 88% |  |
+| 79 | 9% | 81% |  |
+| 80 | 11% | 71% |  |
+| 81 | 12% | 61% | Median |
+| 82 | 11% | 49% |  |
+| 83 | 10% | 37% |  |
+| 84 | 9% | 27% |  |
 | 85 | 7% | 19% |  |
 | 86 | 5% | 12% |  |
 | 87 | 3% | 7% |  |
 | 88 | 2% | 4% |  |
 | 89 | 1.1% | 2% |  |
-| 90 | 0.6% | 1.2% |  |
+| 90 | 0.6% | 1.3% |  |
 | 91 | 0.3% | 0.6% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
