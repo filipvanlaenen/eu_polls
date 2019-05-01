@@ -23,7 +23,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 1 | 1 | 1 | 0–2 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +47,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
 | 41 | 0.6% | 99.7% |  |
-| 42 | 1.5% | 99.1% |  |
+| 42 | 2% | 99.1% |  |
 | 43 | 3% | 98% |  |
 | 44 | 5% | 95% |  |
 | 45 | 7% | 90% |  |
@@ -58,11 +58,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 10% | 43% |  |
 | 51 | 8% | 33% |  |
 | 52 | 7% | 25% | Last Result |
-| 53 | 6% | 18% |  |
+| 53 | 6% | 17% |  |
 | 54 | 4% | 12% |  |
 | 55 | 3% | 7% |  |
 | 56 | 2% | 4% |  |
-| 57 | 1.2% | 2% |  |
+| 57 | 1.1% | 2% |  |
 | 58 | 0.6% | 1.0% |  |
 | 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.2% |  |
