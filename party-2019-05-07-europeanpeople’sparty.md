@@ -8,9 +8,9 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 177 | 170–184 | 168–186 | 166–187 | 163–191 |
+| European People’s Party | 217 | 180 | 173–187 | 171–189 | 170–191 | 166–194 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
-| Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 15–24 | 14–24 | 13–25 |
+| Koalicja Europejska [PL] (EPP) | | 20 | 16–22 | 15–23 | 14–24 | 13–25 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | Les Républicains [FR] (EPP) | | 12 | 12–13 | 11–14 | 11–14 | 11–16 |
 | Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
@@ -25,20 +25,22 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai [LT] (EPP) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | CD&V [BE-VLG] (EPP) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Change UK [GB-GBN] (EPP) | | 2 | 0–5 | 0–5 | 0–6 | 0–8 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Jaunā Vienotība [LV] (EPP) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Jaunā Vienotība [LV] (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Slovenska demokratska stranka [SI] (EPP) | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Slovenska demokratska stranka [SI] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
+| Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MOST–HÍD [SK] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -47,7 +49,6 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Демократична България [BG] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Jaunā konservatīvā partija [LV] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka [SI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -63,45 +64,42 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 160 | 0% | 100% |  |
-| 161 | 0.1% | 99.9% |  |
-| 162 | 0.2% | 99.8% |  |
-| 163 | 0.3% | 99.7% |  |
-| 164 | 0.4% | 99.4% |  |
-| 165 | 0.7% | 99.0% |  |
-| 166 | 1.0% | 98% |  |
-| 167 | 1.4% | 97% |  |
-| 168 | 2% | 96% |  |
-| 169 | 3% | 94% |  |
-| 170 | 3% | 91% |  |
-| 171 | 4% | 88% |  |
-| 172 | 5% | 84% |  |
-| 173 | 6% | 79% |  |
-| 174 | 6% | 73% |  |
-| 175 | 7% | 67% |  |
-| 176 | 7% | 60% |  |
-| 177 | 7% | 52% | Median |
-| 178 | 7% | 45% |  |
-| 179 | 7% | 38% |  |
-| 180 | 6% | 31% |  |
-| 181 | 5% | 25% |  |
-| 182 | 5% | 19% |  |
-| 183 | 4% | 15% |  |
-| 184 | 3% | 11% |  |
-| 185 | 2% | 8% |  |
-| 186 | 2% | 5% |  |
-| 187 | 1.3% | 4% |  |
-| 188 | 0.9% | 2% |  |
-| 189 | 0.6% | 2% |  |
-| 190 | 0.4% | 0.9% |  |
-| 191 | 0.2% | 0.5% |  |
-| 192 | 0.1% | 0.3% |  |
-| 193 | 0.1% | 0.2% |  |
-| 194 | 0% | 0.1% |  |
-| 195 | 0% | 0% |  |
-| 196 | 0% | 0% |  |
-| 197 | 0% | 0% |  |
-| 198 | 0% | 0% |  |
+| 163 | 0% | 100% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.1% | 99.9% |  |
+| 166 | 0.2% | 99.7% |  |
+| 167 | 0.4% | 99.5% |  |
+| 168 | 0.6% | 99.1% |  |
+| 169 | 0.9% | 98.5% |  |
+| 170 | 1.3% | 98% |  |
+| 171 | 2% | 96% |  |
+| 172 | 2% | 95% |  |
+| 173 | 3% | 92% |  |
+| 174 | 4% | 89% |  |
+| 175 | 5% | 85% |  |
+| 176 | 5% | 81% |  |
+| 177 | 6% | 75% |  |
+| 178 | 7% | 69% |  |
+| 179 | 7% | 62% |  |
+| 180 | 7% | 55% | Median |
+| 181 | 7% | 48% |  |
+| 182 | 7% | 40% |  |
+| 183 | 6% | 33% |  |
+| 184 | 6% | 27% |  |
+| 185 | 5% | 21% |  |
+| 186 | 4% | 16% |  |
+| 187 | 3% | 12% |  |
+| 188 | 3% | 9% |  |
+| 189 | 2% | 6% |  |
+| 190 | 1.4% | 4% |  |
+| 191 | 1.0% | 3% |  |
+| 192 | 0.7% | 2% |  |
+| 193 | 0.4% | 1.0% |  |
+| 194 | 0.3% | 0.6% |  |
+| 195 | 0.2% | 0.3% |  |
+| 196 | 0.1% | 0.2% |  |
+| 197 | 0% | 0.1% |  |
+| 198 | 0% | 0.1% |  |
 | 199 | 0% | 0% |  |
 | 200 | 0% | 0% |  |
 | 201 | 0% | 0% |  |

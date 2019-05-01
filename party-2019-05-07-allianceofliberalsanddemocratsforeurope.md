@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 101 | 95–106 | 94–107 | 92–109 | 90–111 |
+| Alliance of Liberals and Democrats for Europe | 68 | 100 | 95–106 | 94–107 | 92–109 | 90–111 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 22 | 18–24 | 18–24 | 17–26 | 16–26 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–11 | 5–11 |
@@ -27,11 +27,11 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Liberal Democrats [GB-GBN] (ALDE) | | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
@@ -51,7 +51,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa [IT] (ALDE) | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Più Europa [IT] (ALDE) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -84,30 +84,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
-| 87 | 0% | 100% |  |
+| 87 | 0.1% | 100% |  |
 | 88 | 0.1% | 99.9% |  |
 | 89 | 0.2% | 99.8% |  |
 | 90 | 0.4% | 99.6% |  |
-| 91 | 0.7% | 99.3% |  |
-| 92 | 1.1% | 98.6% |  |
+| 91 | 0.8% | 99.1% |  |
+| 92 | 1.3% | 98% |  |
 | 93 | 2% | 97% |  |
-| 94 | 3% | 96% |  |
-| 95 | 4% | 93% |  |
-| 96 | 5% | 89% |  |
-| 97 | 7% | 84% |  |
-| 98 | 8% | 77% |  |
-| 99 | 9% | 69% |  |
-| 100 | 10% | 60% |  |
-| 101 | 10% | 50% | Median |
-| 102 | 9% | 41% |  |
-| 103 | 8% | 32% |  |
-| 104 | 7% | 23% |  |
-| 105 | 5% | 17% |  |
+| 94 | 3% | 95% |  |
+| 95 | 4% | 92% |  |
+| 96 | 6% | 88% |  |
+| 97 | 7% | 83% |  |
+| 98 | 8% | 76% |  |
+| 99 | 9% | 67% |  |
+| 100 | 10% | 58% | Median |
+| 101 | 10% | 49% |  |
+| 102 | 9% | 39% |  |
+| 103 | 8% | 30% |  |
+| 104 | 7% | 22% |  |
+| 105 | 5% | 16% |  |
 | 106 | 4% | 11% |  |
 | 107 | 3% | 7% |  |
-| 108 | 2% | 5% |  |
-| 109 | 1.2% | 3% |  |
-| 110 | 0.7% | 2% |  |
+| 108 | 2% | 4% |  |
+| 109 | 1.1% | 3% |  |
+| 110 | 0.7% | 1.4% |  |
 | 111 | 0.4% | 0.8% |  |
 | 112 | 0.2% | 0.4% |  |
 | 113 | 0.1% | 0.2% |  |

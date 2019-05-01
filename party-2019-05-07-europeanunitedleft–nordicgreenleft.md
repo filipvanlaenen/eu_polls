@@ -13,13 +13,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 | La France insoumise [FR] (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Socialistische Partij [NL] (GUE/NGL) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Levica [SI] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
@@ -43,21 +43,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.9% |  |
-| 41 | 1.1% | 99.5% |  |
+| 40 | 0.4% | 99.8% |  |
+| 41 | 1.2% | 99.4% |  |
 | 42 | 3% | 98% |  |
-| 43 | 5% | 96% |  |
-| 44 | 8% | 91% |  |
-| 45 | 12% | 82% |  |
-| 46 | 15% | 70% |  |
-| 47 | 15% | 56% | Median |
-| 48 | 14% | 40% |  |
-| 49 | 11% | 26% |  |
+| 43 | 5% | 95% |  |
+| 44 | 9% | 90% |  |
+| 45 | 12% | 81% |  |
+| 46 | 15% | 69% |  |
+| 47 | 15% | 54% | Median |
+| 48 | 14% | 39% |  |
+| 49 | 11% | 25% |  |
 | 50 | 7% | 15% |  |
-| 51 | 4% | 8% |  |
-| 52 | 2% | 4% | Last Result |
-| 53 | 0.9% | 1.4% |  |
-| 54 | 0.3% | 0.5% |  |
+| 51 | 4% | 7% |  |
+| 52 | 2% | 3% | Last Result |
+| 53 | 0.9% | 1.3% |  |
+| 54 | 0.3% | 0.4% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 

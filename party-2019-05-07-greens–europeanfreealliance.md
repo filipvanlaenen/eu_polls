@@ -20,11 +20,10 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -32,6 +31,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–5 | 0–6 | 0–7 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -49,14 +49,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.5% | 99.8% |  |
 | 43 | 1.2% | 99.3% |  |
 | 44 | 3% | 98% |  |
-| 45 | 5% | 96% |  |
+| 45 | 5% | 95% |  |
 | 46 | 7% | 91% |  |
-| 47 | 10% | 84% |  |
-| 48 | 12% | 74% |  |
-| 49 | 12% | 62% | Median |
+| 47 | 10% | 83% |  |
+| 48 | 12% | 73% |  |
+| 49 | 12% | 61% | Median |
 | 50 | 11% | 49% |  |
 | 51 | 9% | 38% |  |
-| 52 | 7% | 29% | Last Result |
+| 52 | 7% | 28% | Last Result |
 | 53 | 6% | 21% |  |
 | 54 | 5% | 15% |  |
 | 55 | 4% | 11% |  |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 2% | 4% |  |
 | 58 | 1.1% | 2% |  |
 | 59 | 0.6% | 0.9% |  |
-| 60 | 0.2% | 0.4% |  |
+| 60 | 0.2% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
