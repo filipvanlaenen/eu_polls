@@ -71,7 +71,7 @@ current EP fractions.
 | Hrvatska seljačka stranka                         | HSS          | EPP         | Current member                                                                      |
 | Istarski demokratski sabor                        | IDS          | ALDE        | Current member                                                                      |
 | Most nezavisnih lista                             | Most         | *           | Currently not represented in the European Parliament                                |
-| Neovisni za Hrvatsku                              | NHR          | *           | New party                                                                           |
+| Neovisni za Hrvatsku                              | NHR          | EAPN        | New party; has declared that it will join EAPN                                      |
 | Pametno                                           | P            | ALDE        | Current member                                                                      |
 | Socijaldemokratska partija Hrvatske               | SDP          | S&D         | Current member                                                                      |
 | Stranka antikorupcije, razvoja i transparentnosti | START        | *           | New party                                                                           |
