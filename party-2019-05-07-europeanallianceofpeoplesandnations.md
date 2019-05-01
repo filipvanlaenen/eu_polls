@@ -9,9 +9,9 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Alliance of Peoples and Nations | 37 | 81 | 77–86 | 76–87 | 75–88 | 73–91 |
-| Lega Nord [IT] (EAPN) | | 25 | 23–29 | 23–30 | 22–30 | 21–32 |
-| Rassemblement national [FR] (EAPN) | | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
-| Alternative für Deutschland [DE] (EAPN) | | 12 | 10–14 | 9–14 | 9–14 | 8–15 |
+| Lega Nord [IT] (EAPN) | | 25 | 23–28 | 22–29 | 22–30 | 21–31 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 19–23 | 19–23 | 19–23 |
+| Alternative für Deutschland [DE] (EAPN) | | 12 | 9–13 | 9–14 | 8–14 | 8–15 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
@@ -22,6 +22,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | UK Independence Party [GB-GBN] (EAPN) | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 
 ### Probability Mass Function
@@ -68,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
-| 73 | 0.5% | 99.7% |  |
-| 74 | 1.1% | 99.2% |  |
+| 73 | 0.4% | 99.8% |  |
+| 74 | 0.9% | 99.4% |  |
 | 75 | 2% | 98% |  |
-| 76 | 3% | 96% |  |
-| 77 | 5% | 93% |  |
-| 78 | 7% | 87% |  |
-| 79 | 9% | 80% |  |
-| 80 | 11% | 70% |  |
-| 81 | 12% | 59% | Median |
-| 82 | 11% | 48% |  |
-| 83 | 10% | 37% |  |
-| 84 | 8% | 27% |  |
-| 85 | 6% | 19% |  |
+| 76 | 3% | 97% |  |
+| 77 | 5% | 94% |  |
+| 78 | 7% | 89% |  |
+| 79 | 9% | 81% |  |
+| 80 | 11% | 72% |  |
+| 81 | 12% | 61% | Median |
+| 82 | 12% | 49% |  |
+| 83 | 10% | 38% |  |
+| 84 | 9% | 28% |  |
+| 85 | 7% | 19% |  |
 | 86 | 5% | 12% |  |
 | 87 | 3% | 8% |  |
 | 88 | 2% | 4% |  |
