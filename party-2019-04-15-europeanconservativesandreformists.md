@@ -14,11 +14,11 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Fratelli d’Italia [IT] (ECR) | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| Forum voor Democratie [NL] (ECR) | | 3 | 3–6 | 2–6 | 2–6 | 2–7 |
+| Forum voor Democratie [NL] (ECR) | | 3 | 3–6 | 2–6 | 2–6 | 2–6 |
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie [NL] (ECR) | | 1 | 1 | 1 | 1 | 0–2 |
+| ChristenUnie [NL] (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1 | 1 | 1 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Обединени Патриоти [BG] (ECR) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -50,7 +50,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 3% | 95% |  |
 | 61 | 3% | 93% |  |
 | 62 | 4% | 89% |  |
-| 63 | 5% | 86% |  |
+| 63 | 5% | 85% |  |
 | 64 | 5% | 81% |  |
 | 65 | 5% | 76% |  |
 | 66 | 5% | 71% |  |
@@ -59,14 +59,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 5% | 56% |  |
 | 70 | 5% | 51% | Median |
 | 71 | 4% | 47% |  |
-| 72 | 4% | 43% |  |
-| 73 | 3% | 39% |  |
+| 72 | 4% | 42% |  |
+| 73 | 3% | 38% |  |
 | 74 | 3% | 35% |  |
 | 75 | 3% | 32% |  |
-| 76 | 2% | 30% | Last Result |
+| 76 | 2% | 29% | Last Result |
 | 77 | 2% | 27% |  |
 | 78 | 2% | 25% |  |
-| 79 | 2% | 23% |  |
+| 79 | 2% | 22% |  |
 | 80 | 2% | 20% |  |
 | 81 | 3% | 18% |  |
 | 82 | 3% | 15% |  |
@@ -74,10 +74,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 2% | 10% |  |
 | 85 | 2% | 8% |  |
 | 86 | 2% | 6% |  |
-| 87 | 1.4% | 4% |  |
+| 87 | 1.3% | 4% |  |
 | 88 | 1.0% | 3% |  |
-| 89 | 0.8% | 2% |  |
-| 90 | 0.5% | 1.2% |  |
+| 89 | 0.7% | 2% |  |
+| 90 | 0.5% | 1.1% |  |
 | 91 | 0.3% | 0.6% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
