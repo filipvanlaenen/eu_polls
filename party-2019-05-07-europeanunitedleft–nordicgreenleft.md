@@ -8,7 +8,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 47 | 44–50 | 43–51 | 42–52 | 40–53 |
+| European United Left–Nordic Green Left | 52 | 47 | 43–50 | 43–51 | 42–52 | 40–53 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
 | La France insoumise [FR] (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -21,13 +21,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Levica [SI] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
+| Levica [SI] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PVDA [BE-VLG] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit [IE] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -43,20 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.8% |  |
-| 41 | 1.2% | 99.4% |  |
+| 40 | 0.5% | 99.8% |  |
+| 41 | 1.3% | 99.4% |  |
 | 42 | 3% | 98% |  |
-| 43 | 5% | 95% |  |
+| 43 | 6% | 95% |  |
 | 44 | 9% | 90% |  |
 | 45 | 12% | 81% |  |
-| 46 | 15% | 69% |  |
-| 47 | 15% | 54% | Median |
-| 48 | 14% | 39% |  |
-| 49 | 11% | 25% |  |
-| 50 | 7% | 15% |  |
+| 46 | 15% | 68% |  |
+| 47 | 15% | 53% | Median |
+| 48 | 14% | 38% |  |
+| 49 | 10% | 24% |  |
+| 50 | 7% | 14% |  |
 | 51 | 4% | 7% |  |
 | 52 | 2% | 3% | Last Result |
-| 53 | 0.9% | 1.3% |  |
+| 53 | 0.8% | 1.2% |  |
 | 54 | 0.3% | 0.4% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |

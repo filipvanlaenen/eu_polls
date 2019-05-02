@@ -16,7 +16,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -88,26 +88,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0.1% | 99.9% |  |
 | 89 | 0.2% | 99.8% |  |
 | 90 | 0.4% | 99.6% |  |
-| 91 | 0.8% | 99.1% |  |
-| 92 | 1.3% | 98% |  |
+| 91 | 0.7% | 99.2% |  |
+| 92 | 1.2% | 98% |  |
 | 93 | 2% | 97% |  |
 | 94 | 3% | 95% |  |
 | 95 | 4% | 92% |  |
-| 96 | 6% | 88% |  |
+| 96 | 5% | 88% |  |
 | 97 | 7% | 83% |  |
 | 98 | 8% | 76% |  |
-| 99 | 9% | 67% |  |
-| 100 | 10% | 58% | Median |
+| 99 | 9% | 68% |  |
+| 100 | 10% | 59% | Median |
 | 101 | 10% | 49% |  |
 | 102 | 9% | 39% |  |
-| 103 | 8% | 30% |  |
-| 104 | 7% | 22% |  |
+| 103 | 8% | 31% |  |
+| 104 | 7% | 23% |  |
 | 105 | 5% | 16% |  |
 | 106 | 4% | 11% |  |
 | 107 | 3% | 7% |  |
 | 108 | 2% | 4% |  |
 | 109 | 1.1% | 3% |  |
-| 110 | 0.7% | 1.4% |  |
+| 110 | 0.7% | 1.5% |  |
 | 111 | 0.4% | 0.8% |  |
 | 112 | 0.2% | 0.4% |  |
 | 113 | 0.1% | 0.2% |  |
