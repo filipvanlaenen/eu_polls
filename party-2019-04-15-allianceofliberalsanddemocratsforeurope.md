@@ -22,6 +22,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Eesti Keskerakond [EE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2–5 | 2–6 | 1–6 | 1–7 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -34,7 +35,6 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Keskerakond [EE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -96,18 +96,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 5% | 89% |  |
 | 98 | 7% | 84% |  |
 | 99 | 8% | 77% |  |
-| 100 | 9% | 68% |  |
+| 100 | 9% | 69% |  |
 | 101 | 10% | 59% | Median |
 | 102 | 10% | 50% |  |
 | 103 | 9% | 40% |  |
 | 104 | 8% | 31% |  |
 | 105 | 7% | 23% |  |
 | 106 | 5% | 17% |  |
-| 107 | 4% | 11% |  |
+| 107 | 4% | 12% |  |
 | 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
 | 110 | 1.2% | 3% |  |
-| 111 | 0.7% | 2% |  |
+| 111 | 0.8% | 2% |  |
 | 112 | 0.4% | 0.9% |  |
 | 113 | 0.2% | 0.5% |  |
 | 114 | 0.1% | 0.2% |  |

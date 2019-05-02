@@ -12,7 +12,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Labour Party [GB-GBN] (S&D) | | 28 | 22–38 | 21–38 | 19–38 | 19–39 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 16 | 14–18 | 13–18 | 13–18 | 13–19 |
 | SPD [DE] (S&D) | | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
-| Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
 | Partidul Social Democrat [RO] (S&D) | | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
 | Partido Socialista [PT] (S&D) | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Българска социалистическа партия [BG] (S&D) | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
@@ -40,7 +40,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Δημοκρατικό Κόμμα [CY] (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Génération·s, le mouvement [FR] (S&D) | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Labour Party [IE] (S&D) | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali [IT] (S&D) | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų darbo partija [LT] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party [GB-NIR] (S&D) | | 0 | 0 | 0 | 0 | 0 |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 5% | 74% |  |
 | 156 | 5% | 70% |  |
 | 157 | 5% | 65% |  |
-| 158 | 5% | 59% |  |
+| 158 | 5% | 60% |  |
 | 159 | 5% | 54% | Median |
 | 160 | 5% | 49% |  |
 | 161 | 5% | 44% |  |
