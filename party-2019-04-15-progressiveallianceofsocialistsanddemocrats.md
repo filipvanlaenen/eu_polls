@@ -28,7 +28,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 3 | 3 | 3 | 3 |
 | DK [HU] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija [LT] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| PS [BE-FRC] (S&D) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| PS [BE-FRC] (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid [NL] (S&D) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Česká strana sociálně demokratická [CZ] (S&D) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 1.0% | 97% |  |
 | 147 | 1.3% | 96% |  |
 | 148 | 2% | 95% |  |
-| 149 | 2% | 94% |  |
+| 149 | 2% | 93% |  |
 | 150 | 2% | 91% |  |
 | 151 | 3% | 89% |  |
 | 152 | 3% | 86% |  |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 5% | 74% |  |
 | 156 | 5% | 70% |  |
 | 157 | 5% | 65% |  |
-| 158 | 5% | 60% |  |
+| 158 | 5% | 59% |  |
 | 159 | 5% | 54% | Median |
 | 160 | 5% | 49% |  |
 | 161 | 5% | 44% |  |

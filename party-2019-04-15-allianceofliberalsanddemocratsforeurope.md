@@ -10,13 +10,13 @@ Last result: **68** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Alliance of Liberals and Democrats for Europe | 68 | 101 | 96–107 | 95–108 | 94–110 | 91–112 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 22 | 19–23 | 19–23 | 18–26 | 18–26 |
+| FDP [DE] (ALDE) | | 9 | 7–10 | 6–10 | 6–10 | 5–11 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
-| FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 6 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -93,18 +93,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 2% | 98% |  |
 | 95 | 3% | 96% |  |
 | 96 | 4% | 93% |  |
-| 97 | 6% | 89% |  |
-| 98 | 7% | 83% |  |
-| 99 | 8% | 76% |  |
+| 97 | 5% | 89% |  |
+| 98 | 7% | 84% |  |
+| 99 | 8% | 77% |  |
 | 100 | 9% | 68% |  |
 | 101 | 10% | 59% | Median |
-| 102 | 10% | 49% |  |
+| 102 | 10% | 50% |  |
 | 103 | 9% | 40% |  |
 | 104 | 8% | 31% |  |
 | 105 | 7% | 23% |  |
-| 106 | 5% | 16% |  |
+| 106 | 5% | 17% |  |
 | 107 | 4% | 11% |  |
-| 108 | 3% | 7% |  |
+| 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
 | 110 | 1.2% | 3% |  |
 | 111 | 0.7% | 2% |  |
