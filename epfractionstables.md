@@ -276,6 +276,7 @@ current EP fractions.
 |:-----------------------------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
 | Attīstībai/Par!                                                  | AP!          | ALDE        | Alliance of Kustība Par! and Latvijas attīstībai     |
 | Jaunā konservatīvā partija                                       | JKP          | EPP         | New party; has indicated it will join EPP            |
+| Jaunā Saskaņa                                                    | JS           | GUE/NGL     | New party; has indicated it will join GUE/NGL        |
 | Jaunā Vienotība                                                  | JV           | EPP         | Current member                                       |
 | Kam pieder valsts?                                               | KPV          | *           | New party                                            |
 | Kustība Par!                                                     | PAR          | *           | New party                                            |
