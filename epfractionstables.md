@@ -278,11 +278,11 @@ current EP fractions.
 | Jaunā konservatīvā partija                                       | JKP          | EPP         | New party; has indicated it will join EPP            |
 | Jaunā Saskaņa                                                    | JS           | GUE/NGL     | New party; has indicated it will join GUE/NGL        |
 | Jaunā Vienotība                                                  | JV           | EPP         | Current member                                       |
-| Kam pieder valsts?                                               | KPV          | *           | New party                                            |
+| Kam pieder valsts?                                               | KPV          | EPP         | New party; has indicated it will join EPP            |
 | Kustība Par!                                                     | PAR          | *           | New party                                            |
 | Latvijas attīstībai                                              | LA           | ALDE        | Current member                                       |
 | Latvijas Krievu savienība                                        | LKS          | Greens/EFA  | Current member                                       |
-| Latvijas Reģionu apvienība                                       | LRA          | *           | Currently not represented in the European Parliament |
+| Latvijas Reģionu apvienība                                       | LRA          | ECR         | Currently not represented in the European Parliament; has indicated it will join ECR |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | NA           | ECR         | Current member                                       |
 | No sirds Latvijai                                                | NSL          | *           | New party                                            |
 | Progresīvie                                                      | P            | S&D         | New party; has indicated it will join S&D            |
