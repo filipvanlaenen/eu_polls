@@ -8,46 +8,47 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 177 | 170–184 | 168–186 | 167–188 | 163–191 |
-| CDU [DE] (EPP) | | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
-| Koalicja Europejska [PL] (EPP) | | 20 | 16–22 | 15–23 | 14–24 | 13–25 |
+| European People’s Party | 217 | 176 | 169–182 | 167–184 | 165–186 | 162–189 |
+| CDU [DE] (EPP) | | 24 | 22–26 | 21–27 | 21–27 | 21–28 |
+| Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 15–22 | 14–22 | 13–23 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
-| Les Républicains [FR] (EPP) | | 12 | 12–13 | 11–14 | 11–14 | 11–16 |
+| Les Républicains [FR] (EPP) | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
-| Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
+| Partidul Național Liberal [RO] (EPP) | | 10 | 7–11 | 7–11 | 7–12 | 7–12 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| CSU [DE] (EPP) | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| CSU [DE] (EPP) | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael [IE] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
-| Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai [LT] (EPP) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | CD&V [BE-VLG] (EPP) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Change UK [GB-GBN] (EPP) | | 2 | 0–5 | 0–5 | 0–6 | 0–8 |
+| Change UK [GB-GBN] (EPP) | | 2 | 0–5 | 0–5 | 0–6 | 0–7 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Jaunā Vienotība [LV] (EPP) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 2 | 2 | 2 | 2 | 2 |
-| Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partidul Mișcarea Populară [RO] (EPP) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MOST–HÍD [SK] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Демократична България [BG] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Jaunā konservatīvā partija [LV] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -62,41 +63,42 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 160 | 0% | 100% |  |
-| 161 | 0.1% | 99.9% |  |
-| 162 | 0.1% | 99.8% |  |
-| 163 | 0.2% | 99.7% |  |
-| 164 | 0.4% | 99.5% |  |
-| 165 | 0.6% | 99.1% |  |
-| 166 | 0.9% | 98% |  |
-| 167 | 1.3% | 98% |  |
-| 168 | 2% | 96% |  |
-| 169 | 2% | 95% |  |
-| 170 | 3% | 92% |  |
-| 171 | 4% | 89% |  |
-| 172 | 5% | 85% |  |
-| 173 | 6% | 80% |  |
-| 174 | 6% | 75% |  |
-| 175 | 7% | 69% |  |
-| 176 | 7% | 62% |  |
-| 177 | 7% | 55% | Median |
-| 178 | 7% | 47% |  |
-| 179 | 7% | 40% |  |
-| 180 | 6% | 33% |  |
-| 181 | 6% | 27% |  |
-| 182 | 5% | 21% |  |
-| 183 | 4% | 16% |  |
-| 184 | 3% | 12% |  |
-| 185 | 3% | 8% |  |
-| 186 | 2% | 6% |  |
-| 187 | 1.4% | 4% |  |
-| 188 | 1.0% | 3% |  |
-| 189 | 0.6% | 2% |  |
-| 190 | 0.4% | 1.0% |  |
-| 191 | 0.3% | 0.6% |  |
-| 192 | 0.2% | 0.3% |  |
-| 193 | 0.1% | 0.2% |  |
-| 194 | 0% | 0.1% |  |
+| 159 | 0% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.2% | 99.8% |  |
+| 162 | 0.3% | 99.7% |  |
+| 163 | 0.4% | 99.4% |  |
+| 164 | 0.7% | 98.9% |  |
+| 165 | 1.0% | 98% |  |
+| 166 | 1.5% | 97% |  |
+| 167 | 2% | 96% |  |
+| 168 | 3% | 94% |  |
+| 169 | 3% | 91% |  |
+| 170 | 4% | 88% |  |
+| 171 | 5% | 83% |  |
+| 172 | 6% | 78% |  |
+| 173 | 7% | 72% |  |
+| 174 | 7% | 66% |  |
+| 175 | 7% | 59% |  |
+| 176 | 7% | 51% | Median |
+| 177 | 7% | 44% |  |
+| 178 | 7% | 37% |  |
+| 179 | 6% | 30% |  |
+| 180 | 5% | 24% |  |
+| 181 | 5% | 18% |  |
+| 182 | 4% | 14% |  |
+| 183 | 3% | 10% |  |
+| 184 | 2% | 7% |  |
+| 185 | 2% | 5% |  |
+| 186 | 1.2% | 3% |  |
+| 187 | 0.8% | 2% |  |
+| 188 | 0.5% | 1.2% |  |
+| 189 | 0.3% | 0.7% |  |
+| 190 | 0.2% | 0.4% |  |
+| 191 | 0.1% | 0.2% |  |
+| 192 | 0.1% | 0.1% |  |
+| 193 | 0% | 0.1% |  |
+| 194 | 0% | 0% |  |
 | 195 | 0% | 0% |  |
 | 196 | 0% | 0% |  |
 | 197 | 0% | 0% |  |

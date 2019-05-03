@@ -19,10 +19,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV [LV] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | La Droite [BE-FRC] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu apvienība [LV] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -49,11 +47,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.8% | 100% |  |
 | 5 | 6% | 99.2% |  |
 | 6 | 21% | 93% |  |
-| 7 | 31% | 72% | Median |
-| 8 | 23% | 41% |  |
+| 7 | 32% | 72% | Median |
+| 8 | 22% | 40% |  |
 | 9 | 11% | 18% |  |
 | 10 | 5% | 7% |  |
-| 11 | 1.3% | 2% |  |
+| 11 | 1.2% | 1.4% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
