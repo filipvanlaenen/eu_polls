@@ -14,7 +14,7 @@ Last result: **21** seats (General Election of 25 May 2014)
 | Kotleba–Ľudová strana Naše Slovensko [SK] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας [GR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή [GR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI [DE] (NI) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Die PARTEI [DE] (NI) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | CasaPound Italia [IT] (NI) | | 0 | 0 | 0 | 0 | 0 |
 | MKKP [HU] (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom [HU] (NI) | | 0 | 0 | 0 | 0 | 0 |
@@ -28,13 +28,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.8% | 100% |  |
-| 8 | 6% | 99.2% |  |
-| 9 | 19% | 93% |  |
-| 10 | 32% | 74% | Median |
-| 11 | 28% | 43% |  |
-| 12 | 12% | 15% |  |
-| 13 | 2% | 3% |  |
+| 7 | 0.7% | 100% |  |
+| 8 | 5% | 99.3% |  |
+| 9 | 18% | 94% |  |
+| 10 | 31% | 76% | Median |
+| 11 | 28% | 44% |  |
+| 12 | 13% | 16% |  |
+| 13 | 3% | 3% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
