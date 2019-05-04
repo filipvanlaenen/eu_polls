@@ -8,10 +8,10 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 82 | 77–86 | 76–88 | 75–89 | 72–91 |
-| Lega Nord [IT] (EAPN) | | 25 | 23–28 | 22–29 | 22–30 | 21–32 |
-| Rassemblement national [FR] (EAPN) | | 21 | 18–22 | 17–23 | 17–23 | 16–25 |
-| Alternative für Deutschland [DE] (EAPN) | | 12 | 9–13 | 9–14 | 8–14 | 8–15 |
+| European Alliance of Peoples and Nations | 37 | 82 | 78–87 | 76–88 | 75–89 | 73–91 |
+| Lega Nord [IT] (EAPN) | | 25 | 23–28 | 22–29 | 22–30 | 21–31 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 18–23 | 17–23 | 17–25 |
+| Alternative für Deutschland [DE] (EAPN) | | 12 | 10–14 | 9–14 | 9–14 | 8–15 |
 | Vox [ES] (EAPN) | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 3 |
@@ -24,6 +24,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | UK Independence Party [GB-GBN] (EAPN) | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Воля [BG] (EAPN) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -66,29 +67,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
-| 70 | 0.1% | 100% |  |
-| 71 | 0.1% | 99.9% |  |
-| 72 | 0.3% | 99.8% |  |
-| 73 | 0.7% | 99.4% |  |
-| 74 | 1.2% | 98.8% |  |
-| 75 | 2% | 98% |  |
-| 76 | 3% | 95% |  |
-| 77 | 5% | 92% |  |
-| 78 | 7% | 87% |  |
-| 79 | 9% | 80% |  |
-| 80 | 10% | 72% |  |
-| 81 | 11% | 61% |  |
-| 82 | 11% | 51% | Median |
-| 83 | 10% | 40% |  |
-| 84 | 9% | 30% |  |
-| 85 | 7% | 21% |  |
-| 86 | 5% | 15% |  |
-| 87 | 4% | 9% |  |
-| 88 | 2% | 6% |  |
-| 89 | 2% | 3% |  |
-| 90 | 0.9% | 2% |  |
-| 91 | 0.5% | 0.9% |  |
-| 92 | 0.2% | 0.5% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.4% | 99.7% |  |
+| 74 | 0.8% | 99.3% |  |
+| 75 | 2% | 98.5% |  |
+| 76 | 3% | 97% |  |
+| 77 | 4% | 94% |  |
+| 78 | 6% | 90% |  |
+| 79 | 8% | 84% |  |
+| 80 | 10% | 76% |  |
+| 81 | 11% | 67% |  |
+| 82 | 11% | 56% | Median |
+| 83 | 11% | 44% |  |
+| 84 | 10% | 33% |  |
+| 85 | 8% | 24% |  |
+| 86 | 6% | 16% |  |
+| 87 | 4% | 10% |  |
+| 88 | 3% | 6% |  |
+| 89 | 2% | 4% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.5% | 1.0% |  |
+| 92 | 0.3% | 0.5% |  |
 | 93 | 0.1% | 0.2% |  |
 | 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
