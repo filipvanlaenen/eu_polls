@@ -24,6 +24,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Воля [BG] (EAPN) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
