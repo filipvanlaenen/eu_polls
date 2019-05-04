@@ -20,7 +20,6 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -32,6 +31,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -46,22 +46,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
-| 42 | 0.7% | 99.6% |  |
-| 43 | 2% | 98.9% |  |
+| 42 | 0.8% | 99.6% |  |
+| 43 | 2% | 98.8% |  |
 | 44 | 4% | 97% |  |
-| 45 | 6% | 94% |  |
-| 46 | 9% | 88% |  |
-| 47 | 11% | 79% |  |
-| 48 | 13% | 67% |  |
-| 49 | 13% | 54% | Median |
-| 50 | 12% | 42% |  |
-| 51 | 10% | 30% |  |
-| 52 | 7% | 20% | Last Result |
-| 53 | 5% | 13% |  |
+| 45 | 6% | 93% |  |
+| 46 | 9% | 87% |  |
+| 47 | 12% | 78% |  |
+| 48 | 13% | 66% |  |
+| 49 | 13% | 53% | Median |
+| 50 | 12% | 40% |  |
+| 51 | 9% | 29% |  |
+| 52 | 7% | 19% | Last Result |
+| 53 | 5% | 12% |  |
 | 54 | 3% | 7% |  |
 | 55 | 2% | 4% |  |
-| 56 | 1.1% | 2% |  |
-| 57 | 0.5% | 0.9% |  |
+| 56 | 1.0% | 2% |  |
+| 57 | 0.5% | 0.8% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |

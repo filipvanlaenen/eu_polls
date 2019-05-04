@@ -18,6 +18,7 @@ Last result: **41** seats (General Election of 25 May 2014)
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů [CZ] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| Национален фронт за спасение на България [BG] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

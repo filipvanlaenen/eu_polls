@@ -31,7 +31,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
@@ -110,7 +110,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 110 | 0.5% | 1.1% |  |
 | 111 | 0.3% | 0.6% |  |
 | 112 | 0.2% | 0.3% |  |
-| 113 | 0.1% | 0.1% |  |
+| 113 | 0.1% | 0.2% |  |
 | 114 | 0% | 0.1% |  |
 | 115 | 0% | 0% |  |
 
