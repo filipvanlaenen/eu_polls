@@ -18,6 +18,7 @@ Last result: **21** seats (General Election of 25 May 2014)
 | MKKP [HU] (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom [HU] (NI) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka [SI] (NI) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Атака [BG] (NI) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
