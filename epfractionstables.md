@@ -51,7 +51,7 @@ current EP fractions.
 | Алтернатива за българско възраждане         | АБВ          | S&D         | New party; has declared it will join S&D             |
 | Атака                                       | Атака        | NI          | New party; has ties to other members of NI           |
 | Българска социалистическа партия            | БСП          | S&D         | Current member                                       |
-| ВМРО – Българско Национално Движение        | ВМРО         | ECR         | Current member                                       |
+| ВМРО–Българско Национално Движение          | ВМРО         | ECR         | Current member                                       |
 | Воля                                        | Воля         | EAPN        | Currently not represented in the European Parliament; has declared it will join EAPN |
 | Граждани за европейско развитие на България | ГЕРБ         | EPP         | Current member                                       |
 | Да, България!                               | Да           | *           | New party                                            |
