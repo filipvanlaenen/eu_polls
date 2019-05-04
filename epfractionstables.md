@@ -48,13 +48,17 @@ current EP fractions.
 
 | Party Name                                  | Abbreviation | EP Fraction | Rationale                                            |
 |:--------------------------------------------|:-------------|:------------|:-----------------------------------------------------|
+| Алтернатива за българско възраждане         | АБВ          | S&D         | New party; has declared it will join S&D             |
+| Атака                                       | Атака        | NI          | New party; has ties to other members of NI           |
 | Българска социалистическа партия            | БСП          | S&D         | Current member                                       |
-| Воля                                        | Воля         | *           | Currently not represented in the European Parliament |
+| ВМРО – Българско Национално Движение        | ВМРО         | ECR         | Current member                                       |
+| Воля                                        | Воля         | EAPN        | Currently not represented in the European Parliament; has declared it will join EAPN |
 | Граждани за европейско развитие на България | ГЕРБ         | EPP         | Current member                                       |
 | Да, България!                               | Да           | *           | New party                                            |
 | Движение за права и свободи                 | ДПС          | ALDE        | Current member                                       |
 | Демократи за силна България                 | ДСБ          | EPP         | Current member                                       |
 | Демократична България                       | ДБ           | EPP         | New party, one of its constituents is member of EPP  |
+| Национален фронт за спасение на България    | НФСБ         | EFDD        | Current member                                       |
 | Обединени Патриоти                          | ОП           | ECR         | Current member                                       |
 | Реформаторски блок                          | РБ           | EPP         | Current member                                       |
 
