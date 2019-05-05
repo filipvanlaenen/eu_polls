@@ -8,21 +8,21 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 177 | 170–184 | 168–186 | 166–187 | 163–191 |
-| CDU [DE] (EPP) | | 23 | 21–26 | 21–27 | 20–27 | 20–28 |
+| European People’s Party | 217 | 177 | 171–184 | 169–186 | 167–188 | 164–191 |
+| CDU [DE] (EPP) | | 23 | 22–26 | 21–27 | 21–27 | 20–28 |
 | Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 15–22 | 14–22 | 13–23 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
-| Les Républicains [FR] (EPP) | | 13 | 10–14 | 9–15 | 9–17 | 9–17 |
+| Les Républicains [FR] (EPP) | | 13 | 10–15 | 9–16 | 9–16 | 9–16 |
 | Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
-| Österreichische Volkspartei [AT] (EPP) | | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| Hrvatska demokratska zajednica [HR] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | CSU [DE] (EPP) | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael [IE] (EPP) | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
@@ -43,14 +43,14 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MOST–HÍD [SK] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Mișcarea Populară [RO] (EPP) | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Демократична България [BG] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Реформаторски блок [BG] (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -65,37 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 160 | 0% | 100% |  |
 | 161 | 0.1% | 99.9% |  |
-| 162 | 0.1% | 99.8% |  |
-| 163 | 0.2% | 99.7% |  |
-| 164 | 0.4% | 99.4% |  |
-| 165 | 0.6% | 99.0% |  |
-| 166 | 0.9% | 98% |  |
-| 167 | 1.3% | 97% |  |
-| 168 | 2% | 96% |  |
-| 169 | 2% | 94% |  |
-| 170 | 3% | 92% |  |
-| 171 | 4% | 89% |  |
-| 172 | 5% | 85% |  |
-| 173 | 6% | 80% |  |
-| 174 | 6% | 74% |  |
-| 175 | 7% | 68% |  |
-| 176 | 7% | 61% |  |
-| 177 | 7% | 54% | Median |
-| 178 | 7% | 46% |  |
-| 179 | 7% | 39% |  |
-| 180 | 6% | 32% |  |
-| 181 | 6% | 26% |  |
-| 182 | 5% | 20% |  |
-| 183 | 4% | 15% |  |
-| 184 | 3% | 11% |  |
-| 185 | 2% | 8% |  |
+| 162 | 0.1% | 99.9% |  |
+| 163 | 0.2% | 99.8% |  |
+| 164 | 0.3% | 99.6% |  |
+| 165 | 0.5% | 99.2% |  |
+| 166 | 0.8% | 98.7% |  |
+| 167 | 1.2% | 98% |  |
+| 168 | 2% | 97% |  |
+| 169 | 2% | 95% |  |
+| 170 | 3% | 93% |  |
+| 171 | 4% | 90% |  |
+| 172 | 5% | 86% |  |
+| 173 | 5% | 82% |  |
+| 174 | 6% | 76% |  |
+| 175 | 7% | 70% |  |
+| 176 | 7% | 64% |  |
+| 177 | 7% | 56% | Median |
+| 178 | 7% | 49% |  |
+| 179 | 7% | 41% |  |
+| 180 | 7% | 34% |  |
+| 181 | 6% | 28% |  |
+| 182 | 5% | 22% |  |
+| 183 | 4% | 17% |  |
+| 184 | 3% | 12% |  |
+| 185 | 3% | 9% |  |
 | 186 | 2% | 6% |  |
-| 187 | 1.3% | 4% |  |
-| 188 | 0.9% | 2% |  |
-| 189 | 0.6% | 2% |  |
-| 190 | 0.4% | 0.9% |  |
-| 191 | 0.2% | 0.5% |  |
-| 192 | 0.1% | 0.3% |  |
+| 187 | 1.4% | 4% |  |
+| 188 | 1.0% | 3% |  |
+| 189 | 0.7% | 2% |  |
+| 190 | 0.4% | 1.0% |  |
+| 191 | 0.3% | 0.6% |  |
+| 192 | 0.2% | 0.3% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |

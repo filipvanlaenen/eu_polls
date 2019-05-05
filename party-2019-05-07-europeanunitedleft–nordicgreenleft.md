@@ -8,9 +8,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 47 | 44–51 | 43–51 | 42–52 | 41–54 |
-| DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
-| La France insoumise [FR] (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–9 | 6–11 |
+| European United Left–Nordic Green Left | 52 | 48 | 45–51 | 44–52 | 43–53 | 41–54 |
+| DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–9 | 5–10 | 5–11 |
+| La France insoumise [FR] (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
@@ -20,9 +20,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
-| Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -43,24 +43,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.9% |  |
-| 41 | 0.8% | 99.6% |  |
-| 42 | 2% | 98.9% |  |
-| 43 | 4% | 97% |  |
-| 44 | 7% | 93% |  |
-| 45 | 10% | 87% |  |
-| 46 | 13% | 76% |  |
-| 47 | 15% | 63% | Median |
-| 48 | 15% | 47% |  |
-| 49 | 13% | 32% |  |
-| 50 | 9% | 19% |  |
-| 51 | 6% | 10% |  |
-| 52 | 3% | 5% | Last Result |
-| 53 | 1.2% | 2% |  |
-| 54 | 0.5% | 0.7% |  |
-| 55 | 0.2% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.5% | 99.8% |  |
+| 42 | 1.3% | 99.3% |  |
+| 43 | 3% | 98% |  |
+| 44 | 5% | 95% |  |
+| 45 | 8% | 90% |  |
+| 46 | 11% | 82% |  |
+| 47 | 14% | 71% |  |
+| 48 | 15% | 57% | Median |
+| 49 | 14% | 42% |  |
+| 50 | 11% | 28% |  |
+| 51 | 8% | 16% |  |
+| 52 | 5% | 9% | Last Result |
+| 53 | 2% | 4% |  |
+| 54 | 1.0% | 2% |  |
+| 55 | 0.4% | 0.5% |  |
+| 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
 
