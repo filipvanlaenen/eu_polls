@@ -15,11 +15,12 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Fratelli d’Italia [IT] (ECR) | | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Občanská demokratická strana [CZ] (ECR) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| ВМРО–Българско Национално Движение [BG] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Debout la France [FR] (ECR) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -28,7 +29,6 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Sininen tulevaisuus [FI] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες [GR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
-| ВМРО–Българско Национално Движение [BG] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -38,19 +38,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.3% | 99.8% |  |
-| 51 | 0.6% | 99.6% |  |
-| 52 | 1.2% | 99.0% |  |
+| 49 | 0.1% | 100% |  |
+| 50 | 0.2% | 99.9% |  |
+| 51 | 0.4% | 99.7% |  |
+| 52 | 1.0% | 99.2% |  |
 | 53 | 2% | 98% |  |
-| 54 | 4% | 96% |  |
-| 55 | 5% | 92% |  |
-| 56 | 7% | 87% |  |
-| 57 | 8% | 80% |  |
-| 58 | 8% | 72% |  |
-| 59 | 8% | 63% |  |
-| 60 | 7% | 55% | Median |
+| 54 | 3% | 96% |  |
+| 55 | 5% | 93% |  |
+| 56 | 7% | 88% |  |
+| 57 | 8% | 82% |  |
+| 58 | 9% | 73% |  |
+| 59 | 9% | 65% |  |
+| 60 | 8% | 56% | Median |
 | 61 | 7% | 48% |  |
 | 62 | 6% | 41% |  |
 | 63 | 5% | 35% |  |
@@ -59,13 +58,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 4% | 22% |  |
 | 67 | 4% | 18% |  |
 | 68 | 4% | 14% |  |
-| 69 | 3% | 10% |  |
-| 70 | 2% | 7% |  |
+| 69 | 3% | 11% |  |
+| 70 | 3% | 7% |  |
 | 71 | 2% | 5% |  |
-| 72 | 1.1% | 3% |  |
-| 73 | 0.8% | 2% |  |
-| 74 | 0.6% | 1.4% |  |
-| 75 | 0.4% | 0.9% |  |
+| 72 | 1.0% | 3% |  |
+| 73 | 0.7% | 2% |  |
+| 74 | 0.5% | 1.3% |  |
+| 75 | 0.3% | 0.8% |  |
 | 76 | 0.2% | 0.5% | Last Result |
 | 77 | 0.1% | 0.2% |  |
 | 78 | 0.1% | 0.1% |  |
