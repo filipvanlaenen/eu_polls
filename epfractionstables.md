@@ -126,6 +126,7 @@ current EP fractions.
 | Radikale Venstre            | B            | ALDE        | Current member                                                                  |
 | Socialdemokraterne          | A            | S&D         | Current member                                                                  |
 | Socialistisk Folkeparti     | F            | Greens/EFA  | Current member                                                                  |
+| Stram Kurs                  | P            | *           | New party                                                                       |
 | Venstre                     | V            | ALDE        | Current member                                                                  |
 
 ## Estonia
