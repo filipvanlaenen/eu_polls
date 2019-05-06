@@ -29,7 +29,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 2 |
-| Движение за права и свободи [BG] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Движение за права и свободи [BG] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -39,7 +39,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
+| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Raimond Kaljulaid [EE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 100% |  |
 | 90 | 0.1% | 99.9% |  |
-| 91 | 0.2% | 99.8% |  |
-| 92 | 0.5% | 99.6% |  |
+| 91 | 0.3% | 99.8% |  |
+| 92 | 0.5% | 99.5% |  |
 | 93 | 0.9% | 99.1% |  |
 | 94 | 2% | 98% |  |
 | 95 | 2% | 97% |  |
@@ -99,7 +99,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 100 | 9% | 72% |  |
 | 101 | 10% | 63% |  |
 | 102 | 10% | 53% | Median |
-| 103 | 9% | 44% |  |
+| 103 | 9% | 43% |  |
 | 104 | 8% | 34% |  |
 | 105 | 7% | 26% |  |
 | 106 | 6% | 19% |  |
