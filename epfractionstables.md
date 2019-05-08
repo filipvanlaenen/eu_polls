@@ -149,6 +149,7 @@ current EP fractions.
 |:------------------------------------|:-------------|:------------|:---------------------------------------------|
 | Kansallinen Kokoomus                | KOK          | EPP         | Current member                               |
 | Kristillisdemokraatit               | KD           | EPP         | Current member                               |
+| Liike Nyt                           | LIIK         | EFDD        | New party; has ties to parties belonging to EFDD |
 | Perussuomalaiset                    | PS           | EAPN        | Currently a member of ECR, but has declared that it will join EAPN after the elections |
 | Sininen tulevaisuus                 | SIN          | ECR         | New party; split from Perussuomalaiset, but has declared that it intends to join ECR |
 | Suomen Keskusta                     | KESK         | ALDE        | Current member                               |
