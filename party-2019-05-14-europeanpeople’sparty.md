@@ -16,8 +16,8 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partido Popular [ES] (EPP) | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
-| Partido Social Democrata [PT] (EPP) | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Partido Social Democrata [PT] (EPP) | | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
 | CSU [DE] (EPP) | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
@@ -37,7 +37,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā Vienotība [LV] (EPP) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -75,25 +75,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 169 | 2% | 96% |  |
 | 170 | 3% | 94% |  |
 | 171 | 3% | 91% |  |
-| 172 | 4% | 88% |  |
+| 172 | 4% | 87% |  |
 | 173 | 5% | 83% |  |
 | 174 | 6% | 78% |  |
 | 175 | 7% | 72% |  |
-| 176 | 7% | 66% |  |
-| 177 | 7% | 59% |  |
-| 178 | 7% | 51% | Median |
-| 179 | 7% | 44% |  |
-| 180 | 7% | 37% |  |
-| 181 | 6% | 30% |  |
-| 182 | 5% | 24% |  |
+| 176 | 7% | 65% |  |
+| 177 | 7% | 58% |  |
+| 178 | 8% | 51% | Median |
+| 179 | 7% | 43% |  |
+| 180 | 7% | 36% |  |
+| 181 | 6% | 29% |  |
+| 182 | 5% | 23% |  |
 | 183 | 5% | 18% |  |
-| 184 | 4% | 14% |  |
+| 184 | 4% | 13% |  |
 | 185 | 3% | 10% |  |
 | 186 | 2% | 7% |  |
 | 187 | 2% | 5% |  |
 | 188 | 1.1% | 3% |  |
-| 189 | 0.8% | 2% |  |
-| 190 | 0.5% | 1.2% |  |
+| 189 | 0.7% | 2% |  |
+| 190 | 0.5% | 1.1% |  |
 | 191 | 0.3% | 0.7% |  |
 | 192 | 0.2% | 0.4% |  |
 | 193 | 0.1% | 0.2% |  |
