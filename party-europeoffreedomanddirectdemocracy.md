@@ -10,33 +10,32 @@ Last result: **41** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Freedom and Direct Democracy | 41 | 44 | 28–51 | 26–52 | 25–53 | 23–56 |
 | Brexit Party [GB-GBN] (EFDD) | | 24 | 6–28 | 6–30 | 6–31 | 6–32 |
-| Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
+| Movimento 5 Stelle [IT] (EFDD) | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Kukiz’15 [PL] (EFDD) | | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Partija tvarka ir teisingumas [LT] (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid [HR] (EFDD) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | KORWiN [PL] (EFDD) | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
-| Liike Nyt [FI] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů [CZ] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Национален фронт за спасение на България [BG] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-14-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-14.html) for Europe of Freedom and Direct Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for Europe of Freedom and Direct Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
 | 22 | 0.3% | 99.9% |  |
 | 23 | 0.7% | 99.6% |  |
-| 24 | 1.1% | 99.0% |  |
+| 24 | 1.2% | 98.9% |  |
 | 25 | 2% | 98% |  |
 | 26 | 3% | 96% |  |
-| 27 | 3% | 94% |  |
-| 28 | 3% | 91% |  |
+| 27 | 3% | 93% |  |
+| 28 | 3% | 90% |  |
 | 29 | 3% | 87% |  |
 | 30 | 3% | 84% |  |
 | 31 | 2% | 81% |  |
@@ -50,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 2% | 63% |  |
 | 40 | 2% | 62% |  |
 | 41 | 2% | 60% | Last Result |
-| 42 | 2% | 58% |  |
-| 43 | 3% | 56% |  |
+| 42 | 3% | 58% |  |
+| 43 | 4% | 56% |  |
 | 44 | 5% | 52% | Median |
-| 45 | 6% | 48% |  |
-| 46 | 7% | 42% |  |
+| 45 | 6% | 47% |  |
+| 46 | 7% | 41% |  |
 | 47 | 7% | 35% |  |
 | 48 | 7% | 28% |  |
 | 49 | 6% | 21% |  |
-| 50 | 5% | 16% |  |
+| 50 | 5% | 15% |  |
 | 51 | 4% | 11% |  |
 | 52 | 3% | 7% |  |
 | 53 | 2% | 4% |  |
