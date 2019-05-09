@@ -26,7 +26,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
+| Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
 | Jaunā Saskaņa [LV] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica [SI] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PVDA [BE-VLG] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,21 +45,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.3% | 99.9% |  |
-| 41 | 0.8% | 99.6% |  |
-| 42 | 2% | 98.8% |  |
+| 41 | 0.9% | 99.6% |  |
+| 42 | 2% | 98.7% |  |
 | 43 | 4% | 97% |  |
 | 44 | 7% | 93% |  |
-| 45 | 10% | 86% |  |
-| 46 | 13% | 76% |  |
-| 47 | 15% | 62% | Median |
-| 48 | 15% | 47% |  |
-| 49 | 13% | 32% |  |
-| 50 | 9% | 20% |  |
-| 51 | 6% | 11% |  |
+| 45 | 11% | 86% |  |
+| 46 | 14% | 75% |  |
+| 47 | 15% | 61% | Median |
+| 48 | 15% | 46% |  |
+| 49 | 12% | 31% |  |
+| 50 | 9% | 19% |  |
+| 51 | 5% | 10% |  |
 | 52 | 3% | 5% | Last Result |
-| 53 | 1.3% | 2% |  |
+| 53 | 1.2% | 2% |  |
 | 54 | 0.5% | 0.7% |  |
-| 55 | 0.2% | 0.2% |  |
+| 55 | 0.1% | 0.2% |  |
 | 56 | 0% | 0% |  |
 
 
