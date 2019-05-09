@@ -17,13 +17,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
+| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
-| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -52,11 +52,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 6% | 94% |  |
 | 46 | 9% | 88% |  |
 | 47 | 12% | 79% |  |
-| 48 | 13% | 68% |  |
+| 48 | 13% | 67% |  |
 | 49 | 13% | 54% | Median |
 | 50 | 12% | 41% |  |
 | 51 | 10% | 29% |  |
-| 52 | 7% | 20% | Last Result |
+| 52 | 7% | 19% | Last Result |
 | 53 | 5% | 12% |  |
 | 54 | 3% | 7% |  |
 | 55 | 2% | 4% |  |

@@ -14,7 +14,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Most nezavisnih lista [HR] (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aliança [PT] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Aliança [PT] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -48,7 +48,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 9% | 98% |  |
 | 6 | 21% | 89% |  |
 | 7 | 27% | 68% | Median |
-| 8 | 21% | 41% |  |
+| 8 | 21% | 42% |  |
 | 9 | 12% | 21% |  |
 | 10 | 6% | 8% |  |
 | 11 | 2% | 2% |  |
