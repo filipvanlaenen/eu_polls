@@ -8,11 +8,11 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 157 | 145–168 | 142–170 | 140–173 | 136–176 |
+| Progressive Alliance of Socialists and Democrats | 186 | 157 | 146–168 | 142–170 | 140–173 | 136–176 |
 | Labour Party [GB-GBN] (S&D) | | 27 | 17–38 | 16–38 | 15–38 | 14–39 |
 | SPD [DE] (S&D) | | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 16 | 15–18 | 13–18 | 13–18 | 13–19 |
-| Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 12–17 | 11–18 |
+| Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 12–17 | 12–18 |
 | Partidul Social Democrat [RO] (S&D) | | 10 | 7–12 | 7–12 | 7–12 | 6–13 |
 | Partido Socialista [PT] (S&D) | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Българска социалистическа партия [BG] (S&D) | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -22,7 +22,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Wiosna–Partia Razem [PL] (S&D) | | 5 | 3–8 | 0–9 | 0–9 | 0–10 |
 | Partit Laburista [MT] (S&D) | | 4 | 4 | 4 | 3–4 | 3–4 |
-| SMER–sociálna demokracia [SK] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| SMER–sociálna demokracia [SK] (S&D) | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske [HR] (S&D) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | DK [HU] (S&D) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -61,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 0.1% | 99.9% |  |
 | 134 | 0.1% | 99.8% |  |
 | 135 | 0.2% | 99.7% |  |
-| 136 | 0.3% | 99.5% |  |
+| 136 | 0.2% | 99.5% |  |
 | 137 | 0.3% | 99.3% |  |
 | 138 | 0.5% | 98.9% |  |
 | 139 | 0.6% | 98% |  |
@@ -69,7 +69,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 1.0% | 97% |  |
 | 142 | 1.2% | 96% |  |
 | 143 | 1.4% | 95% |  |
-| 144 | 2% | 93% |  |
+| 144 | 2% | 94% |  |
 | 145 | 2% | 92% |  |
 | 146 | 2% | 90% |  |
 | 147 | 2% | 88% |  |
@@ -91,7 +91,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 4% | 25% |  |
 | 164 | 3% | 22% |  |
 | 165 | 3% | 18% |  |
-| 166 | 3% | 16% |  |
+| 166 | 3% | 15% |  |
 | 167 | 2% | 13% |  |
 | 168 | 2% | 10% |  |
 | 169 | 2% | 8% |  |
