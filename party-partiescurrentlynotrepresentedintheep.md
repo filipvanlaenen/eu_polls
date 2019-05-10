@@ -14,7 +14,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Most nezavisnih lista [HR] (*) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aliança [PT] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Aliança [PT] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -23,19 +23,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | La Droite [BE-FRC] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige [DK] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Nye Borgerlige [DK] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-14-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-14.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -45,13 +46,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 2% | 99.9% |  |
 | 5 | 10% | 98% |  |
-| 6 | 22% | 88% |  |
-| 7 | 27% | 65% | Median |
-| 8 | 20% | 38% |  |
-| 9 | 11% | 18% |  |
-| 10 | 6% | 7% |  |
-| 11 | 1.4% | 2% |  |
-| 12 | 0.2% | 0.2% |  |
+| 6 | 21% | 89% |  |
+| 7 | 27% | 67% | Median |
+| 8 | 21% | 40% |  |
+| 9 | 12% | 20% |  |
+| 10 | 6% | 8% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
 
