@@ -22,19 +22,19 @@ Last result: **21** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-14-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-14.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.4% | 100% |  |
-| 7 | 3% | 99.6% |  |
-| 8 | 10% | 96% |  |
+| 6 | 0.5% | 100% |  |
+| 7 | 3% | 99.5% |  |
+| 8 | 11% | 96% |  |
 | 9 | 21% | 86% |  |
-| 10 | 28% | 66% | Median |
-| 11 | 24% | 37% |  |
-| 12 | 11% | 13% |  |
+| 10 | 29% | 64% | Median |
+| 11 | 24% | 36% |  |
+| 12 | 10% | 12% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
