@@ -8,15 +8,15 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 100 | 95–107 | 94–108 | 92–110 | 90–113 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 19 | 19–22 | 19–22 | 19–22 | 17–23 |
+| Alliance of Liberals and Democrats for Europe | 68 | 101 | 96–107 | 94–109 | 93–111 | 91–113 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 19 | 19–23 | 18–23 | 18–23 | 17–23 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–9 | 4–9 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| FDP [DE] (ALDE) | | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
+| FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–10 | 5–10 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil [IE] (ALDE) | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 3 | 2–9 | 2–9 | 2–9 | 2–9 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 4 | 2–9 | 2–9 | 2–9 | 2–9 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -27,7 +27,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,7 +35,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -85,35 +85,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
-| 88 | 0.1% | 100% |  |
-| 89 | 0.2% | 99.9% |  |
-| 90 | 0.3% | 99.8% |  |
-| 91 | 0.7% | 99.4% |  |
-| 92 | 1.2% | 98.7% |  |
-| 93 | 2% | 97% |  |
-| 94 | 3% | 95% |  |
-| 95 | 5% | 92% |  |
-| 96 | 6% | 88% |  |
-| 97 | 7% | 81% |  |
-| 98 | 8% | 74% |  |
-| 99 | 9% | 66% |  |
-| 100 | 9% | 57% | Median |
-| 101 | 8% | 49% |  |
-| 102 | 8% | 40% |  |
-| 103 | 7% | 33% |  |
-| 104 | 6% | 26% |  |
-| 105 | 5% | 20% |  |
-| 106 | 4% | 15% |  |
-| 107 | 3% | 11% |  |
-| 108 | 3% | 7% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.2% | 3% |  |
-| 111 | 0.8% | 2% |  |
-| 112 | 0.5% | 1.0% |  |
-| 113 | 0.3% | 0.5% |  |
-| 114 | 0.1% | 0.3% |  |
-| 115 | 0.1% | 0.1% |  |
-| 116 | 0% | 0.1% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 0.2% | 99.8% |  |
+| 91 | 0.5% | 99.6% |  |
+| 92 | 0.9% | 99.1% |  |
+| 93 | 2% | 98% |  |
+| 94 | 2% | 97% |  |
+| 95 | 4% | 94% |  |
+| 96 | 5% | 91% |  |
+| 97 | 6% | 86% |  |
+| 98 | 7% | 80% |  |
+| 99 | 8% | 73% |  |
+| 100 | 8% | 65% |  |
+| 101 | 8% | 57% | Median |
+| 102 | 8% | 48% |  |
+| 103 | 8% | 40% |  |
+| 104 | 7% | 32% |  |
+| 105 | 6% | 25% |  |
+| 106 | 5% | 19% |  |
+| 107 | 4% | 14% |  |
+| 108 | 3% | 10% |  |
+| 109 | 2% | 7% |  |
+| 110 | 2% | 4% |  |
+| 111 | 1.1% | 3% |  |
+| 112 | 0.7% | 1.5% |  |
+| 113 | 0.4% | 0.8% |  |
+| 114 | 0.2% | 0.4% |  |
+| 115 | 0.1% | 0.2% |  |
+| 116 | 0.1% | 0.1% |  |
 | 117 | 0% | 0% |  |
 
 
