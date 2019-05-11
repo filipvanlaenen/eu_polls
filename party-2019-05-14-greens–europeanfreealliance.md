@@ -8,9 +8,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 49 | 45–53 | 44–54 | 43–55 | 42–57 |
+| Greens–European Free Alliance | 52 | 49 | 46–54 | 45–55 | 44–56 | 42–58 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
-| Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–9 | 5–9 | 5–10 | 4–11 |
+| Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–9 | 5–10 | 5–10 | 5–11 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -18,12 +18,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
-| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -31,7 +32,6 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -44,28 +44,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% |  |
-| 40 | 0.1% | 99.9% |  |
-| 41 | 0.2% | 99.8% |  |
-| 42 | 0.6% | 99.6% |  |
-| 43 | 1.5% | 98.9% |  |
-| 44 | 3% | 97% |  |
-| 45 | 5% | 94% |  |
-| 46 | 8% | 89% |  |
-| 47 | 11% | 81% |  |
-| 48 | 13% | 70% |  |
-| 49 | 13% | 57% | Median |
-| 50 | 12% | 44% |  |
-| 51 | 10% | 32% |  |
-| 52 | 8% | 22% | Last Result |
-| 53 | 6% | 14% |  |
-| 54 | 4% | 8% |  |
-| 55 | 2% | 5% |  |
-| 56 | 1.3% | 2% |  |
-| 57 | 0.6% | 1.1% |  |
-| 58 | 0.3% | 0.5% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.1% | 99.9% |  |
+| 42 | 0.4% | 99.8% |  |
+| 43 | 1.1% | 99.4% |  |
+| 44 | 2% | 98% |  |
+| 45 | 5% | 96% |  |
+| 46 | 7% | 91% |  |
+| 47 | 10% | 84% |  |
+| 48 | 12% | 74% |  |
+| 49 | 13% | 62% | Median |
+| 50 | 12% | 49% |  |
+| 51 | 11% | 37% |  |
+| 52 | 9% | 26% | Last Result |
+| 53 | 7% | 18% |  |
+| 54 | 5% | 11% |  |
+| 55 | 3% | 6% |  |
+| 56 | 2% | 4% |  |
+| 57 | 0.9% | 2% |  |
+| 58 | 0.5% | 0.9% |  |
+| 59 | 0.2% | 0.4% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 

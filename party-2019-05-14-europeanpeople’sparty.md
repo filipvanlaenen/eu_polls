@@ -8,15 +8,15 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 175 | 168–181 | 167–183 | 165–185 | 162–188 |
+| European People’s Party | 217 | 175 | 168–181 | 166–183 | 165–185 | 162–188 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 21–27 | 20–27 | 20–28 |
-| Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 15–22 | 14–22 | 13–23 |
+| Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 14–23 | 14–23 | 13–24 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| Les Républicains [FR] (EPP) | | 13 | 11–15 | 9–15 | 9–15 | 9–16 |
+| Les Républicains [FR] (EPP) | | 13 | 11–14 | 9–15 | 9–15 | 9–16 |
 | Partido Popular [ES] (EPP) | | 11 | 9–13 | 9–14 | 8–14 | 7–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Forza Italia [IT] (EPP) | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Partido Social Democrata [PT] (EPP) | | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -31,7 +31,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christen-Democratisch Appèl [NL] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
 | CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -51,7 +51,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD [SK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja [SK] (EPP) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Демократична България [BG] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Реформаторски блок [BG] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -68,16 +68,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
 | 162 | 0.3% | 99.6% |  |
-| 163 | 0.5% | 99.3% |  |
-| 164 | 0.8% | 98.8% |  |
-| 165 | 1.2% | 98% |  |
+| 163 | 0.5% | 99.2% |  |
+| 164 | 0.8% | 98.7% |  |
+| 165 | 1.3% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 2% | 95% |  |
-| 168 | 3% | 93% |  |
-| 169 | 4% | 90% |  |
-| 170 | 5% | 86% |  |
-| 171 | 6% | 81% |  |
-| 172 | 7% | 75% |  |
+| 168 | 3% | 92% |  |
+| 169 | 4% | 89% |  |
+| 170 | 5% | 85% |  |
+| 171 | 6% | 80% |  |
+| 172 | 7% | 74% |  |
 | 173 | 7% | 68% |  |
 | 174 | 8% | 61% |  |
 | 175 | 8% | 53% | Median |
@@ -87,14 +87,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 6% | 24% |  |
 | 180 | 5% | 18% |  |
 | 181 | 4% | 13% |  |
-| 182 | 3% | 9% |  |
-| 183 | 2% | 6% |  |
+| 182 | 3% | 10% |  |
+| 183 | 2% | 7% |  |
 | 184 | 2% | 4% |  |
-| 185 | 1.0% | 3% |  |
+| 185 | 1.1% | 3% |  |
 | 186 | 0.7% | 2% |  |
-| 187 | 0.4% | 1.0% |  |
+| 187 | 0.5% | 1.1% |  |
 | 188 | 0.3% | 0.6% |  |
-| 189 | 0.1% | 0.3% |  |
+| 189 | 0.2% | 0.4% |  |
 | 190 | 0.1% | 0.2% |  |
 | 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |

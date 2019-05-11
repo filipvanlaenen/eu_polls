@@ -10,9 +10,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | 52 | 49 | 46–52 | 45–53 | 44–54 | 43–55 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–10 | 5–10 | 5–10 |
-| La France insoumise [FR] (GUE/NGL) | | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
+| La France insoumise [FR] (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Sinn Féin [IE] (GUE/NGL) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
@@ -33,7 +33,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | PVDA [BE-VLG] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit [IE] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
-| Λαϊκή Ενότητα [GR] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Λαϊκή Ενότητα [GR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας [GR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -45,18 +45,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.7% | 99.7% |  |
-| 44 | 2% | 99.0% |  |
+| 42 | 0.3% | 99.9% |  |
+| 43 | 0.8% | 99.7% |  |
+| 44 | 2% | 98.9% |  |
 | 45 | 4% | 97% |  |
-| 46 | 7% | 93% |  |
-| 47 | 11% | 86% |  |
-| 48 | 15% | 74% |  |
+| 46 | 8% | 93% |  |
+| 47 | 12% | 85% |  |
+| 48 | 15% | 73% |  |
 | 49 | 16% | 59% | Median |
 | 50 | 15% | 43% |  |
 | 51 | 12% | 28% |  |
 | 52 | 8% | 16% | Last Result |
-| 53 | 5% | 8% |  |
+| 53 | 4% | 8% |  |
 | 54 | 2% | 3% |  |
 | 55 | 0.9% | 1.3% |  |
 | 56 | 0.3% | 0.4% |  |
