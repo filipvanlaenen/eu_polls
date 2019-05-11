@@ -8,12 +8,12 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 47 | 44–51 | 43–52 | 42–52 | 41–54 |
+| European United Left–Nordic Green Left | 52 | 48 | 45–51 | 44–52 | 43–53 | 42–54 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | La France insoumise [FR] (GUE/NGL) | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
-| Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Sinn Féin [IE] (GUE/NGL) | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
+| Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Sinn Féin [IE] (GUE/NGL) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Socialistische Partij [NL] (GUE/NGL) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -43,24 +43,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.9% |  |
-| 41 | 0.7% | 99.6% |  |
-| 42 | 2% | 98.9% |  |
-| 43 | 4% | 97% |  |
-| 44 | 7% | 93% |  |
-| 45 | 10% | 87% |  |
-| 46 | 13% | 77% |  |
-| 47 | 15% | 64% | Median |
-| 48 | 15% | 48% |  |
-| 49 | 13% | 33% |  |
-| 50 | 9% | 21% |  |
-| 51 | 6% | 11% |  |
-| 52 | 3% | 5% | Last Result |
-| 53 | 1.4% | 2% |  |
-| 54 | 0.5% | 0.8% |  |
-| 55 | 0.2% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.7% | 99.7% |  |
+| 43 | 2% | 99.0% |  |
+| 44 | 4% | 97% |  |
+| 45 | 7% | 93% |  |
+| 46 | 12% | 86% |  |
+| 47 | 15% | 74% |  |
+| 48 | 17% | 59% | Median |
+| 49 | 15% | 43% |  |
+| 50 | 12% | 27% |  |
+| 51 | 8% | 15% |  |
+| 52 | 4% | 7% | Last Result |
+| 53 | 2% | 3% |  |
+| 54 | 0.8% | 1.1% |  |
+| 55 | 0.2% | 0.3% |  |
+| 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
 
