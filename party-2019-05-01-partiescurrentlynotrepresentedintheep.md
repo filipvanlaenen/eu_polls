@@ -28,7 +28,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση [GR] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -41,14 +41,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.8% | 100% |  |
-| 4 | 9% | 99.2% |  |
-| 5 | 21% | 91% |  |
-| 6 | 28% | 69% | Median |
-| 7 | 21% | 41% |  |
-| 8 | 12% | 20% |  |
-| 9 | 6% | 8% |  |
-| 10 | 2% | 2% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 9% | 99.1% |  |
+| 5 | 22% | 90% |  |
+| 6 | 28% | 68% | Median |
+| 7 | 21% | 40% |  |
+| 8 | 11% | 19% |  |
+| 9 | 6% | 7% |  |
+| 10 | 1.4% | 2% |  |
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
