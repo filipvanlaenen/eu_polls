@@ -11,7 +11,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Alliance of Liberals and Democrats for Europe | 68 | 101 | 96–107 | 94–109 | 93–110 | 91–113 |
 | La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 19–22 | 18–23 | 17–23 | 16–23 |
 | ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–9 | 4–9 |
-| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
+| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–10 | 7–11 | 6–12 |
 | FDP [DE] (ALDE) | | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -20,7 +20,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Venstre [DK] (ALDE) | | 3 | 3 | 3 | 2–4 | 2–4 |
+| Venstre [DK] (ALDE) | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -31,7 +31,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond [EE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -105,13 +105,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 107 | 4% | 13% |  |
 | 108 | 3% | 9% |  |
 | 109 | 2% | 6% |  |
-| 110 | 1.5% | 4% |  |
-| 111 | 1.0% | 2% |  |
+| 110 | 1.4% | 4% |  |
+| 111 | 0.9% | 2% |  |
 | 112 | 0.6% | 1.4% |  |
 | 113 | 0.4% | 0.8% |  |
 | 114 | 0.2% | 0.4% |  |
 | 115 | 0.1% | 0.2% |  |
 | 116 | 0.1% | 0.1% |  |
-| 117 | 0% | 0% |  |
+| 117 | 0% | 0.1% |  |
+| 118 | 0% | 0% |  |
 
 

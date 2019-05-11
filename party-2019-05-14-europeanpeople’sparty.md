@@ -8,12 +8,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 175 | 169–181 | 167–183 | 165–185 | 162–188 |
+| European People’s Party | 217 | 175 | 168–181 | 167–183 | 165–185 | 162–188 |
 | CDU [DE] (EPP) | | 24 | 22–26 | 21–27 | 20–27 | 20–28 |
 | Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 15–22 | 14–22 | 13–23 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | Les Républicains [FR] (EPP) | | 13 | 11–15 | 9–15 | 9–15 | 9–16 |
-| Partido Popular [ES] (EPP) | | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
+| Partido Popular [ES] (EPP) | | 11 | 9–13 | 9–14 | 8–14 | 7–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
@@ -24,12 +24,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael [IE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Hrvatska demokratska zajednica [HR] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai [LT] (EPP) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | CD&V [BE-VLG] (EPP) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Kansallinen Kokoomus [FI] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -63,37 +63,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
+| 158 | 0% | 100% |  |
+| 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
-| 162 | 0.3% | 99.7% |  |
-| 163 | 0.4% | 99.4% |  |
-| 164 | 0.7% | 99.0% |  |
-| 165 | 1.1% | 98% |  |
+| 162 | 0.3% | 99.6% |  |
+| 163 | 0.5% | 99.3% |  |
+| 164 | 0.8% | 98.8% |  |
+| 165 | 1.2% | 98% |  |
 | 166 | 2% | 97% |  |
-| 167 | 2% | 96% |  |
+| 167 | 2% | 95% |  |
 | 168 | 3% | 93% |  |
-| 169 | 4% | 91% |  |
-| 170 | 5% | 87% |  |
-| 171 | 6% | 82% |  |
-| 172 | 7% | 76% |  |
-| 173 | 7% | 70% |  |
-| 174 | 8% | 63% |  |
-| 175 | 8% | 55% | Median |
-| 176 | 8% | 47% |  |
-| 177 | 7% | 39% |  |
-| 178 | 7% | 31% |  |
-| 179 | 6% | 25% |  |
-| 180 | 5% | 19% |  |
-| 181 | 4% | 14% |  |
-| 182 | 3% | 10% |  |
-| 183 | 2% | 7% |  |
+| 169 | 4% | 90% |  |
+| 170 | 5% | 86% |  |
+| 171 | 6% | 81% |  |
+| 172 | 7% | 75% |  |
+| 173 | 7% | 68% |  |
+| 174 | 8% | 61% |  |
+| 175 | 8% | 53% | Median |
+| 176 | 8% | 45% |  |
+| 177 | 7% | 38% |  |
+| 178 | 7% | 30% |  |
+| 179 | 6% | 24% |  |
+| 180 | 5% | 18% |  |
+| 181 | 4% | 13% |  |
+| 182 | 3% | 9% |  |
+| 183 | 2% | 6% |  |
 | 184 | 2% | 4% |  |
-| 185 | 1.1% | 3% |  |
+| 185 | 1.0% | 3% |  |
 | 186 | 0.7% | 2% |  |
-| 187 | 0.5% | 1.1% |  |
+| 187 | 0.4% | 1.0% |  |
 | 188 | 0.3% | 0.6% |  |
-| 189 | 0.2% | 0.3% |  |
+| 189 | 0.1% | 0.3% |  |
 | 190 | 0.1% | 0.2% |  |
 | 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |
