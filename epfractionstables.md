@@ -88,7 +88,7 @@ current EP fractions.
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού   | ΑΚΕΛ         | GUE/NGL     | Current member                                       |
 | Δημοκρατικό Κόμμα                   | ΔΗΚΟ         | S&D         | Current member                                       |
 | Δημοκρατικός Συναγερμός             | ΔΗΣΥ         | EPP         | Current member                                       |
-| Εθνικό Λαϊκό Μέτωπο                 | ΕΛΑΜ         | *           | Currently not represented in the European Parliament |
+| Εθνικό Λαϊκό Μέτωπο                 | ΕΛΑΜ         | NI          | Currently not represented in the European Parliament, but has ties to other parties member of NI |
 | Κίνημα Αλληλεγγύη                   | ΚΑ           | ECR         | Current member                                       |
 | Κίνημα Σοσιαλδημοκρατών             | ΕΔΕΚ         | S&D         | Current member                                       |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | ΚΟ–ΣΠ        | Greens/EFA  | Current member                                       |
