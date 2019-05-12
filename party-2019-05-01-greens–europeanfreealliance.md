@@ -11,7 +11,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Greens–European Free Alliance | 52 | 50 | 46–54 | 45–55 | 44–56 | 43–58 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
-| GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -20,7 +20,6 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -30,8 +29,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
-| Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Green Party [IE] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -45,18 +45,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.7% | 99.7% |  |
-| 44 | 2% | 99.1% |  |
+| 42 | 0.3% | 99.9% |  |
+| 43 | 0.8% | 99.6% |  |
+| 44 | 2% | 98.8% |  |
 | 45 | 4% | 97% |  |
 | 46 | 7% | 93% |  |
-| 47 | 10% | 87% |  |
-| 48 | 12% | 77% |  |
-| 49 | 13% | 65% |  |
-| 50 | 13% | 51% | Median |
-| 51 | 11% | 38% |  |
-| 52 | 9% | 27% | Last Result |
-| 53 | 7% | 18% |  |
+| 47 | 10% | 86% |  |
+| 48 | 12% | 76% |  |
+| 49 | 13% | 63% |  |
+| 50 | 13% | 50% | Median |
+| 51 | 11% | 37% |  |
+| 52 | 9% | 26% | Last Result |
+| 53 | 7% | 17% |  |
 | 54 | 5% | 11% |  |
 | 55 | 3% | 6% |  |
 | 56 | 2% | 3% |  |

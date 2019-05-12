@@ -8,12 +8,12 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 | 44 | 27–51 | 26–52 | 25–53 | 23–55 |
+| Europe of Freedom and Direct Democracy | 41 | 44 | 28–51 | 26–52 | 25–53 | 23–55 |
 | Brexit Party [GB-GBN] (EFDD) | | 24 | 6–28 | 6–30 | 6–31 | 6–32 |
 | Movimento 5 Stelle [IT] (EFDD) | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Kukiz’15 [PL] (EFDD) | | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Partija tvarka ir teisingumas [LT] (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Živi zid [HR] (EFDD) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 1–2 |
 | KORWiN [PL] (EFDD) | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -31,7 +31,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.1% | 100% |  |
 | 22 | 0.3% | 99.9% |  |
 | 23 | 0.7% | 99.6% |  |
-| 24 | 1.2% | 98.8% |  |
+| 24 | 1.2% | 98.9% |  |
 | 25 | 2% | 98% |  |
 | 26 | 3% | 96% |  |
 | 27 | 3% | 93% |  |
@@ -43,11 +43,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 2% | 77% |  |
 | 34 | 2% | 75% |  |
 | 35 | 2% | 72% |  |
-| 36 | 2% | 70% |  |
+| 36 | 3% | 70% |  |
 | 37 | 2% | 67% |  |
 | 38 | 2% | 65% |  |
 | 39 | 2% | 63% |  |
-| 40 | 2% | 61% |  |
+| 40 | 2% | 62% |  |
 | 41 | 2% | 60% | Last Result |
 | 42 | 3% | 58% |  |
 | 43 | 4% | 55% |  |
