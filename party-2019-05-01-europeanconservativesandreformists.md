@@ -18,13 +18,13 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Debout la France [FR] (ECR) | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija [LT] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sininen tulevaisuus [FI] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες [GR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
@@ -57,14 +57,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 3% | 22% |  |
 | 67 | 4% | 19% |  |
 | 68 | 4% | 15% |  |
-| 69 | 4% | 11% |  |
+| 69 | 4% | 12% |  |
 | 70 | 3% | 8% |  |
 | 71 | 2% | 5% |  |
 | 72 | 1.2% | 2% |  |
-| 73 | 0.6% | 1.1% |  |
-| 74 | 0.3% | 0.5% |  |
+| 73 | 0.6% | 1.2% |  |
+| 74 | 0.3% | 0.6% |  |
 | 75 | 0.1% | 0.3% |  |
 | 76 | 0.1% | 0.1% | Last Result |
-| 77 | 0% | 0% |  |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
 
 
