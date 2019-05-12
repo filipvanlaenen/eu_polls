@@ -8,11 +8,11 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 49 | 46–54 | 45–55 | 44–56 | 42–58 |
-| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
+| Greens–European Free Alliance | 52 | 50 | 46–54 | 45–55 | 44–56 | 43–58 |
+| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–9 | 5–10 | 5–10 | 5–11 |
-| GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -23,7 +23,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
+| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
 | Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -44,26 +44,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
-| 41 | 0.1% | 99.9% |  |
-| 42 | 0.4% | 99.8% |  |
-| 43 | 1.1% | 99.4% |  |
-| 44 | 2% | 98% |  |
-| 45 | 5% | 96% |  |
-| 46 | 7% | 91% |  |
-| 47 | 10% | 84% |  |
-| 48 | 12% | 74% |  |
-| 49 | 13% | 62% | Median |
-| 50 | 12% | 49% |  |
-| 51 | 11% | 37% |  |
-| 52 | 9% | 26% | Last Result |
-| 53 | 7% | 18% |  |
-| 54 | 5% | 11% |  |
-| 55 | 3% | 6% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 0.2% | 99.9% |  |
+| 43 | 0.7% | 99.7% |  |
+| 44 | 2% | 99.0% |  |
+| 45 | 3% | 97% |  |
+| 46 | 6% | 94% |  |
+| 47 | 9% | 88% |  |
+| 48 | 11% | 79% |  |
+| 49 | 13% | 68% |  |
+| 50 | 13% | 55% | Median |
+| 51 | 12% | 42% |  |
+| 52 | 10% | 31% | Last Result |
+| 53 | 8% | 21% |  |
+| 54 | 5% | 13% |  |
+| 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
-| 57 | 0.9% | 2% |  |
-| 58 | 0.5% | 0.9% |  |
-| 59 | 0.2% | 0.4% |  |
+| 57 | 1.2% | 2% |  |
+| 58 | 0.6% | 1.1% |  |
+| 59 | 0.3% | 0.5% |  |
 | 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
