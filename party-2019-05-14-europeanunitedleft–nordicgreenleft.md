@@ -8,15 +8,15 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 49 | 46–52 | 45–53 | 45–54 | 43–56 |
+| European United Left–Nordic Green Left | 52 | 49 | 45–52 | 45–53 | 44–53 | 42–55 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | La France insoumise [FR] (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Sinn Féin [IE] (GUE/NGL) | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
+| Sinn Féin [IE] (GUE/NGL) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Socialistische Partij [NL] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij [NL] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -25,7 +25,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Saskaņa [LV] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,23 +44,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.6% | 99.8% |  |
-| 44 | 2% | 99.2% |  |
-| 45 | 3% | 98% |  |
-| 46 | 6% | 94% |  |
-| 47 | 10% | 88% |  |
-| 48 | 14% | 78% |  |
-| 49 | 16% | 64% | Median |
-| 50 | 16% | 48% |  |
-| 51 | 13% | 32% |  |
-| 52 | 9% | 19% | Last Result |
-| 53 | 5% | 10% |  |
-| 54 | 3% | 4% |  |
-| 55 | 1.1% | 2% |  |
-| 56 | 0.4% | 0.6% |  |
-| 57 | 0.1% | 0.2% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.5% | 99.8% |  |
+| 43 | 1.3% | 99.3% |  |
+| 44 | 3% | 98% |  |
+| 45 | 6% | 95% |  |
+| 46 | 9% | 89% |  |
+| 47 | 13% | 80% |  |
+| 48 | 15% | 68% |  |
+| 49 | 16% | 52% | Median |
+| 50 | 14% | 37% |  |
+| 51 | 10% | 23% |  |
+| 52 | 7% | 12% | Last Result |
+| 53 | 3% | 6% |  |
+| 54 | 2% | 2% |  |
+| 55 | 0.6% | 0.9% |  |
+| 56 | 0.2% | 0.3% |  |
+| 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 

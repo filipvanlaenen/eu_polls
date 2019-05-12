@@ -8,12 +8,12 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 | 46 | 28–51 | 26–52 | 24–54 | 23–56 |
+| Europe of Freedom and Direct Democracy | 41 | 46 | 28–51 | 26–53 | 25–54 | 23–56 |
 | Brexit Party [GB-GBN] (EFDD) | | 25 | 6–28 | 6–30 | 6–31 | 6–32 |
 | Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | Kukiz’15 [PL] (EFDD) | | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Partija tvarka ir teisingumas [LT] (EFDD) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 0–1 |
+| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 0–2 |
 | KORWiN [PL] (EFDD) | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt [FI] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -32,14 +32,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.1% | 100% |  |
 | 22 | 0.3% | 99.9% |  |
 | 23 | 0.8% | 99.6% |  |
-| 24 | 1.4% | 98.8% |  |
-| 25 | 2% | 97% |  |
-| 26 | 2% | 95% |  |
+| 24 | 1.3% | 98.9% |  |
+| 25 | 2% | 98% |  |
+| 26 | 2% | 96% |  |
 | 27 | 3% | 93% |  |
 | 28 | 3% | 90% |  |
 | 29 | 3% | 88% |  |
 | 30 | 2% | 85% |  |
-| 31 | 1.5% | 83% |  |
+| 31 | 2% | 83% |  |
 | 32 | 0.9% | 81% |  |
 | 33 | 0.4% | 81% |  |
 | 34 | 0.1% | 80% |  |
@@ -48,18 +48,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0% | 80% |  |
 | 38 | 0.1% | 80% |  |
 | 39 | 0.3% | 80% |  |
-| 40 | 0.9% | 80% |  |
+| 40 | 0.8% | 80% |  |
 | 41 | 2% | 79% | Last Result |
 | 42 | 3% | 77% |  |
-| 43 | 5% | 73% |  |
+| 43 | 5% | 74% |  |
 | 44 | 7% | 68% |  |
-| 45 | 8% | 61% |  |
-| 46 | 9% | 53% | Median |
-| 47 | 9% | 44% |  |
+| 45 | 8% | 62% |  |
+| 46 | 9% | 54% | Median |
+| 47 | 9% | 45% |  |
 | 48 | 9% | 35% |  |
-| 49 | 8% | 26% |  |
+| 49 | 8% | 27% |  |
 | 50 | 6% | 19% |  |
-| 51 | 4% | 12% |  |
+| 51 | 5% | 13% |  |
 | 52 | 3% | 8% |  |
 | 53 | 2% | 5% |  |
 | 54 | 1.3% | 3% |  |
