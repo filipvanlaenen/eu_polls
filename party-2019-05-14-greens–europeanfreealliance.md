@@ -22,14 +22,14 @@ Last result: **52** seats (General Election of 25 May 2014)
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
-| Green Party [IE] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -47,21 +47,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.1% | 100% |  |
 | 42 | 0.3% | 99.9% |  |
 | 43 | 0.8% | 99.6% |  |
-| 44 | 2% | 98.8% |  |
+| 44 | 2% | 98.7% |  |
 | 45 | 4% | 97% |  |
 | 46 | 6% | 93% |  |
 | 47 | 9% | 87% |  |
-| 48 | 11% | 78% |  |
+| 48 | 11% | 77% |  |
 | 49 | 13% | 66% |  |
-| 50 | 13% | 54% | Median |
+| 50 | 13% | 53% | Median |
 | 51 | 11% | 41% |  |
-| 52 | 10% | 30% | Last Result |
+| 52 | 9% | 29% | Last Result |
 | 53 | 7% | 20% |  |
-| 54 | 5% | 13% |  |
-| 55 | 3% | 8% |  |
+| 54 | 5% | 12% |  |
+| 55 | 3% | 7% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.1% | 2% |  |
-| 58 | 0.6% | 1.0% |  |
+| 58 | 0.5% | 1.0% |  |
 | 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0.1% |  |

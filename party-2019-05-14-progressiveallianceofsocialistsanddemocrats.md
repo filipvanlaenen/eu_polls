@@ -17,7 +17,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Partido Socialista [PT] (S&D) | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Българска социалистическа партия [BG] (S&D) | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Parti socialiste [FR] (S&D) | | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
-| Socialdemokraterne [DK] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Socialdemokraterne [DK] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sozialdemokratische Partei Österreichs [AT] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Wiosna–Partia Razem [PL] (S&D) | | 5 | 3–8 | 0–9 | 0–9 | 0–10 |
@@ -29,12 +29,11 @@ Last result: **186** seats (General Election of 25 May 2014)
 | MSZP–Párbeszéd [HU] (S&D) | | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
 | PS [BE-FRC] (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid [NL] (S&D) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická [CZ] (S&D) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής [GR] (S&D) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija [LT] (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei [LU] (S&D) | | 1 | 1 | 1 | 1 | 1 |
-| Progresīvie [LV] (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialni demokrati [SI] (S&D) | | 1 | 1 | 1 | 1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | sp.a [BE-VLG] (S&D) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,6 +42,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Labour Party [IE] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0–3 |
 | Lietuvos socialdemokratų darbo partija [LT] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party [GB-NIR] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών [CY] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι [GR] (S&D) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -71,23 +71,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 2% | 94% |  |
 | 143 | 2% | 92% |  |
 | 144 | 3% | 90% |  |
-| 145 | 3% | 88% |  |
-| 146 | 3% | 85% |  |
+| 145 | 3% | 87% |  |
+| 146 | 3% | 84% |  |
 | 147 | 4% | 81% |  |
 | 148 | 4% | 77% |  |
 | 149 | 5% | 73% |  |
 | 150 | 5% | 68% |  |
-| 151 | 5% | 64% |  |
-| 152 | 5% | 59% |  |
-| 153 | 5% | 54% | Median |
-| 154 | 5% | 49% |  |
+| 151 | 5% | 63% |  |
+| 152 | 5% | 58% |  |
+| 153 | 5% | 53% | Median |
+| 154 | 5% | 48% |  |
 | 155 | 5% | 44% |  |
 | 156 | 4% | 39% |  |
 | 157 | 4% | 35% |  |
 | 158 | 3% | 31% |  |
 | 159 | 3% | 28% |  |
 | 160 | 3% | 25% |  |
-| 161 | 3% | 22% |  |
+| 161 | 2% | 22% |  |
 | 162 | 2% | 19% |  |
 | 163 | 2% | 17% |  |
 | 164 | 2% | 15% |  |
@@ -101,7 +101,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 172 | 0.8% | 3% |  |
 | 173 | 0.6% | 2% |  |
 | 174 | 0.5% | 1.3% |  |
-| 175 | 0.3% | 0.9% |  |
+| 175 | 0.3% | 0.8% |  |
 | 176 | 0.2% | 0.5% |  |
 | 177 | 0.1% | 0.3% |  |
 | 178 | 0.1% | 0.2% |  |
