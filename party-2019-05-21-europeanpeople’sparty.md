@@ -9,18 +9,18 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | 217 | 175 | 169–182 | 167–183 | 165–185 | 162–188 |
-| CDU [DE] (EPP) | | 24 | 22–26 | 21–26 | 20–27 | 20–28 |
+| CDU [DE] (EPP) | | 24 | 22–26 | 21–26 | 20–27 | 20–29 |
 | Koalicja Europejska [PL] (EPP) | | 20 | 15–22 | 14–23 | 14–23 | 13–24 |
 | Fidesz–KDNP [HU] (EPP) | | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| Les Républicains [FR] (EPP) | | 12 | 11–14 | 9–14 | 9–15 | 9–16 |
+| Les Républicains [FR] (EPP) | | 13 | 9–13 | 9–14 | 9–15 | 9–15 |
 | Partido Popular [ES] (EPP) | | 11 | 9–13 | 9–14 | 8–14 | 7–15 |
 | Partidul Național Liberal [RO] (EPP) | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Forza Italia [IT] (EPP) | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| Forza Italia [IT] (EPP) | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Partido Social Democrata [PT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Österreichische Volkspartei [AT] (EPP) | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България [BG] (EPP) | | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
-| CSU [DE] (EPP) | | 4 | 4–6 | 4–6 | 3–6 | 3–7 |
+| CSU [DE] (EPP) | | 4 | 4–5 | 4–6 | 3–6 | 3–7 |
 | Fine Gael [IE] (EPP) | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Hrvatska demokratska zajednica [HR] (EPP) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
@@ -44,7 +44,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partidul Mișcarea Populară [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România [RO] (EPP) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | cdH [BE-FRC] (EPP) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Change UK [GB-GBN] (EPP) | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Change UK [GB-GBN] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -65,16 +65,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 159 | 0% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.1% | 99.9% |  |
+| 161 | 0.1% | 99.8% |  |
 | 162 | 0.2% | 99.7% |  |
 | 163 | 0.4% | 99.5% |  |
-| 164 | 0.6% | 99.1% |  |
+| 164 | 0.7% | 99.0% |  |
 | 165 | 1.0% | 98% |  |
 | 166 | 1.5% | 97% |  |
 | 167 | 2% | 96% |  |
 | 168 | 3% | 94% |  |
 | 169 | 4% | 91% |  |
-| 170 | 5% | 88% |  |
+| 170 | 4% | 88% |  |
 | 171 | 5% | 83% |  |
 | 172 | 6% | 78% |  |
 | 173 | 7% | 71% |  |
@@ -86,7 +86,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 6% | 26% |  |
 | 180 | 5% | 20% |  |
 | 181 | 4% | 15% |  |
-| 182 | 3% | 10% |  |
+| 182 | 3% | 11% |  |
 | 183 | 2% | 7% |  |
 | 184 | 2% | 5% |  |
 | 185 | 1.2% | 3% |  |
