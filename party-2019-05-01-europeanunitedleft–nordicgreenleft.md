@@ -17,7 +17,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Socialistische Partij [NL] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 2 | 2 | 2–3 |
+| Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 2 | 2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού [CY] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
