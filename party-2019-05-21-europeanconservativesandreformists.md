@@ -8,13 +8,13 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 56 | 50–67 | 49–69 | 48–71 | 45–74 |
+| European Conservatives and Reformists | 76 | 56 | 50–67 | 49–69 | 48–71 | 46–74 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 19 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Conservative Party [GB-GBN] (ECR) | | 8 | 4–20 | 4–20 | 3–20 | 3–21 |
-| Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Fratelli d’Italia [IT] (ECR) | | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Sverigedemokraterna [SE] (ECR) | | 4 | 4 | 4 | 4–5 | 4–5 |
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -42,20 +42,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 99.9% |  |
 | 45 | 0.3% | 99.8% |  |
 | 46 | 0.6% | 99.5% |  |
-| 47 | 1.3% | 98.8% |  |
+| 47 | 1.2% | 98.9% |  |
 | 48 | 2% | 98% |  |
 | 49 | 3% | 95% |  |
-| 50 | 5% | 92% |  |
-| 51 | 6% | 87% |  |
+| 50 | 4% | 92% |  |
+| 51 | 6% | 88% |  |
 | 52 | 7% | 82% |  |
 | 53 | 8% | 75% |  |
-| 54 | 9% | 67% |  |
+| 54 | 9% | 68% |  |
 | 55 | 9% | 59% |  |
 | 56 | 8% | 50% | Median |
 | 57 | 6% | 43% |  |
 | 58 | 5% | 36% |  |
 | 59 | 4% | 31% |  |
-| 60 | 3% | 28% |  |
+| 60 | 3% | 27% |  |
 | 61 | 2% | 25% |  |
 | 62 | 2% | 23% |  |
 | 63 | 2% | 21% |  |
