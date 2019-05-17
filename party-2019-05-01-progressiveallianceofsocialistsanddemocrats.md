@@ -15,10 +15,10 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Partito Democratico [IT] (S&D) | | 15 | 13–17 | 13–17 | 12–17 | 12–18 |
 | Partidul Social Democrat [RO] (S&D) | | 10 | 7–12 | 7–12 | 7–12 | 6–13 |
 | Partido Socialista [PT] (S&D) | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
-| Българска социалистическа партия [BG] (S&D) | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| Българска социалистическа партия [BG] (S&D) | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Parti socialiste [FR] (S&D) | | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Socialdemokraterne [DK] (S&D) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Sozialdemokratische Partei Österreichs [AT] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Sozialdemokratische Partei Österreichs [AT] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Wiosna–Partia Razem [PL] (S&D) | | 5 | 3–8 | 0–9 | 0–9 | 0–10 |
 | Partit Laburista [MT] (S&D) | | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -83,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 4% | 61% |  |
 | 156 | 5% | 57% |  |
 | 157 | 5% | 52% | Median |
-| 158 | 5% | 48% |  |
+| 158 | 5% | 47% |  |
 | 159 | 5% | 43% |  |
 | 160 | 4% | 38% |  |
 | 161 | 4% | 34% |  |
@@ -100,7 +100,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 172 | 1.1% | 4% |  |
 | 173 | 0.8% | 3% |  |
 | 174 | 0.6% | 2% |  |
-| 175 | 0.5% | 1.4% |  |
+| 175 | 0.5% | 1.3% |  |
 | 176 | 0.3% | 0.9% |  |
 | 177 | 0.2% | 0.6% |  |
 | 178 | 0.1% | 0.3% |  |
