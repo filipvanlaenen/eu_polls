@@ -8,11 +8,11 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 107 | 99–114 | 96–116 | 95–117 | 92–121 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 19–24 | 18–25 | 18–25 | 17–25 |
+| Alliance of Liberals and Democrats for Europe | 68 | 106 | 98–114 | 96–116 | 95–117 | 92–121 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–24 | 18–25 | 18–25 | 17–25 |
 | Liberal Democrats [GB-GBN] (ALDE) | | 9 | 2–13 | 2–15 | 2–16 | 2–17 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–10 | 7–11 | 6–12 |
-| FDP [DE] (ALDE) | | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
+| FDP [DE] (ALDE) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
@@ -35,7 +35,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond [EE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -53,7 +53,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Raimond Kaljulaid [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
+| Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -85,7 +85,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
+| 89 | 0.1% | 99.9% |  |
 | 90 | 0.1% | 99.9% |  |
 | 91 | 0.2% | 99.8% |  |
 | 92 | 0.4% | 99.5% |  |
@@ -102,26 +102,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 5% | 74% |  |
 | 104 | 6% | 69% |  |
 | 105 | 6% | 63% |  |
-| 106 | 7% | 57% |  |
-| 107 | 7% | 50% | Median |
+| 106 | 7% | 56% | Median |
+| 107 | 7% | 50% |  |
 | 108 | 7% | 43% |  |
-| 109 | 6% | 37% |  |
+| 109 | 6% | 36% |  |
 | 110 | 6% | 30% |  |
 | 111 | 5% | 24% |  |
-| 112 | 5% | 19% |  |
-| 113 | 4% | 15% |  |
+| 112 | 4% | 19% |  |
+| 113 | 4% | 14% |  |
 | 114 | 3% | 11% |  |
 | 115 | 2% | 8% |  |
-| 116 | 2% | 6% |  |
-| 117 | 1.3% | 4% |  |
+| 116 | 2% | 5% |  |
+| 117 | 1.2% | 4% |  |
 | 118 | 0.9% | 2% |  |
 | 119 | 0.6% | 2% |  |
-| 120 | 0.4% | 1.0% |  |
-| 121 | 0.2% | 0.6% |  |
+| 120 | 0.4% | 0.9% |  |
+| 121 | 0.2% | 0.5% |  |
 | 122 | 0.1% | 0.3% |  |
 | 123 | 0.1% | 0.2% |  |
 | 124 | 0% | 0.1% |  |
-| 125 | 0% | 0.1% |  |
-| 126 | 0% | 0% |  |
+| 125 | 0% | 0% |  |
 
 

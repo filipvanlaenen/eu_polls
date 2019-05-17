@@ -8,61 +8,65 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 49 | 46–53 | 45–54 | 44–55 | 43–57 |
-| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
-| Europe Écologie Les Verts [FR] (Greens/EFA) | | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
+| Greens–European Free Alliance | 52 | 51 | 46–56 | 45–57 | 44–59 | 42–61 |
+| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| Europe Écologie Les Verts [FR] (Greens/EFA) | | 6 | 5–11 | 5–11 | 5–11 | 5–11 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Green Party [GB-GBN] (Greens/EFA) | | 2 | 0–7 | 0–7 | 0–7 | 0–7 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība [LV] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
-| Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
+| Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika [MT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-21-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-21.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.4% | 99.9% |  |
-| 43 | 1.1% | 99.5% |  |
-| 44 | 3% | 98% |  |
-| 45 | 5% | 96% |  |
-| 46 | 8% | 91% |  |
-| 47 | 11% | 82% |  |
-| 48 | 13% | 71% |  |
-| 49 | 13% | 58% | Median |
-| 50 | 12% | 44% |  |
-| 51 | 10% | 32% |  |
-| 52 | 8% | 22% | Last Result |
-| 53 | 6% | 14% |  |
-| 54 | 4% | 8% |  |
-| 55 | 2% | 4% |  |
-| 56 | 1.2% | 2% |  |
-| 57 | 0.6% | 1.0% |  |
-| 58 | 0.2% | 0.4% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 42 | 0.4% | 99.8% |  |
+| 43 | 0.9% | 99.5% |  |
+| 44 | 2% | 98.6% |  |
+| 45 | 4% | 97% |  |
+| 46 | 5% | 93% |  |
+| 47 | 7% | 88% |  |
+| 48 | 8% | 81% |  |
+| 49 | 9% | 73% |  |
+| 50 | 9% | 64% |  |
+| 51 | 10% | 55% | Median |
+| 52 | 9% | 45% | Last Result |
+| 53 | 9% | 36% |  |
+| 54 | 8% | 27% |  |
+| 55 | 6% | 19% |  |
+| 56 | 5% | 13% |  |
+| 57 | 3% | 8% |  |
+| 58 | 2% | 5% |  |
+| 59 | 1.3% | 3% |  |
+| 60 | 0.8% | 1.5% |  |
+| 61 | 0.4% | 0.7% |  |
+| 62 | 0.2% | 0.3% |  |
+| 63 | 0.1% | 0.1% |  |
+| 64 | 0% | 0% |  |
 
 
