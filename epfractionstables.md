@@ -308,7 +308,7 @@ current EP fractions.
 | Lietuvos socialdemokratų partija                | LSDP         | S&D         | Current member                                                                                                             |
 | Lietuvos valstiečių ir žaliųjų sąjunga          | LVŽS         | Greens/EFA  | Current member                                                                                                             |
 | Lietuvos Žaliųjų Partija                        | LŽP          | *           | Currently not represented in the European Parliament                                                                       |
-| Partija tvarka ir teisingumas                   | TT           | EFDD        | Current member                                                                                                             |
+| Partija tvarka ir teisingumas                   | TT           | ECR         | Current member, but has declared it will join ECR after the 2019 election                                                  |
 | Politinė partija “Lietuvos sąrašas”             | LS           | *           | Currently not represented in the European Parliament                                                                       |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | TS-LKD       | EPP         | Current member                                                                                                             |
 
