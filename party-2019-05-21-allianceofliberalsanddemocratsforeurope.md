@@ -8,38 +8,39 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 106 | 98–114 | 96–116 | 95–117 | 92–121 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–24 | 18–24 | 18–25 | 17–25 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 9 | 2–14 | 2–14 | 2–16 | 2–16 |
+| Alliance of Liberals and Democrats for Europe | 68 | 108 | 103–115 | 101–116 | 100–118 | 97–121 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 20–24 | 20–24 | 18–25 | 17–25 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 9 | 7–14 | 7–14 | 6–16 | 5–16 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–10 | 7–11 | 6–12 |
-| FDP [DE] (ALDE) | | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
+| FDP [DE] (ALDE) | | 8 | 7–9 | 7–10 | 6–10 | 4–11 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Fianna Fáil [IE] (ALDE) | | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
-| Fianna Fáil [IE] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| Venstre [DK] (ALDE) | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
+| MR [BE-FRC] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond [EE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis [LT] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre [DK] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +48,6 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Eesti 200 [EE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
-| Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa [IT] (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Raimond Kaljulaid [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -85,42 +85,43 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
-| 90 | 0.1% | 99.9% |  |
-| 91 | 0.2% | 99.8% |  |
-| 92 | 0.4% | 99.5% |  |
-| 93 | 0.6% | 99.1% |  |
-| 94 | 0.9% | 98.5% |  |
-| 95 | 1.3% | 98% |  |
-| 96 | 2% | 96% |  |
-| 97 | 2% | 95% |  |
-| 98 | 3% | 92% |  |
-| 99 | 3% | 90% |  |
-| 100 | 4% | 87% |  |
-| 101 | 4% | 83% |  |
-| 102 | 5% | 79% |  |
-| 103 | 5% | 74% |  |
-| 104 | 6% | 68% |  |
-| 105 | 6% | 63% |  |
-| 106 | 7% | 56% | Median |
-| 107 | 7% | 50% |  |
-| 108 | 7% | 43% |  |
-| 109 | 6% | 36% |  |
-| 110 | 6% | 30% |  |
-| 111 | 5% | 24% |  |
-| 112 | 4% | 19% |  |
-| 113 | 4% | 14% |  |
-| 114 | 3% | 11% |  |
-| 115 | 2% | 8% |  |
-| 116 | 2% | 5% |  |
-| 117 | 1.2% | 4% |  |
-| 118 | 0.9% | 2% |  |
-| 119 | 0.6% | 1.5% |  |
-| 120 | 0.4% | 0.9% |  |
-| 121 | 0.2% | 0.5% |  |
-| 122 | 0.1% | 0.3% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0% | 100% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0% | 100% |  |
+| 94 | 0% | 100% |  |
+| 95 | 0.1% | 99.9% |  |
+| 96 | 0.2% | 99.9% |  |
+| 97 | 0.3% | 99.7% |  |
+| 98 | 0.6% | 99.4% |  |
+| 99 | 1.0% | 98.8% |  |
+| 100 | 2% | 98% |  |
+| 101 | 2% | 96% |  |
+| 102 | 3% | 94% |  |
+| 103 | 5% | 90% |  |
+| 104 | 6% | 86% |  |
+| 105 | 7% | 80% |  |
+| 106 | 8% | 73% |  |
+| 107 | 8% | 65% |  |
+| 108 | 9% | 57% | Median |
+| 109 | 8% | 49% |  |
+| 110 | 8% | 40% |  |
+| 111 | 7% | 32% |  |
+| 112 | 6% | 25% |  |
+| 113 | 5% | 19% |  |
+| 114 | 4% | 14% |  |
+| 115 | 3% | 10% |  |
+| 116 | 2% | 7% |  |
+| 117 | 2% | 5% |  |
+| 118 | 1.1% | 3% |  |
+| 119 | 0.7% | 2% |  |
+| 120 | 0.5% | 1.1% |  |
+| 121 | 0.3% | 0.7% |  |
+| 122 | 0.2% | 0.4% |  |
 | 123 | 0.1% | 0.2% |  |
-| 124 | 0% | 0.1% |  |
-| 125 | 0% | 0% |  |
+| 124 | 0.1% | 0.1% |  |
+| 125 | 0% | 0.1% |  |
+| 126 | 0% | 0% |  |
 
 

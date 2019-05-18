@@ -8,9 +8,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 5 | 4–8 | 3–8 | 3–9 | 3–9 |
+| Parties currently not represented in the EP | 0 | 5 | 4–8 | 3–8 | 3–9 | 3–10 |
 | Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
-| Independents [IE] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista [HR] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança [PT] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -18,18 +17,18 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
-| La Droite [BE-FRC] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Ελληνική Λύση [GR] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -41,15 +40,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.4% | 100% |  |
-| 3 | 5% | 99.6% |  |
-| 4 | 19% | 95% |  |
-| 5 | 29% | 76% | Median |
-| 6 | 21% | 47% |  |
-| 7 | 14% | 26% |  |
-| 8 | 9% | 12% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 6% | 99.5% |  |
+| 4 | 20% | 93% |  |
+| 5 | 27% | 73% | Median |
+| 6 | 21% | 46% |  |
+| 7 | 14% | 25% |  |
+| 8 | 8% | 11% |  |
 | 9 | 3% | 3% |  |
-| 10 | 0.4% | 0.4% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 

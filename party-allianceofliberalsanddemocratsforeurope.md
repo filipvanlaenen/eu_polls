@@ -8,59 +8,59 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 100 | 95–105 | 93–107 | 92–108 | 90–111 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 19–23 | 19–24 | 18–25 | 18–25 |
-| ANO 2011 [CZ] (ALDE) | | 8 | 5–8 | 5–8 | 4–9 | 4–9 |
-| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| FDP [DE] (ALDE) | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
-| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Fianna Fáil [IE] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Alliance of Liberals and Democrats for Europe | 68 | 108 | 103–115 | 101–116 | 100–118 | 97–121 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 21 | 20–24 | 20–24 | 18–25 | 17–25 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 9 | 7–14 | 7–14 | 6–16 | 5–16 |
+| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–10 | 7–11 | 6–12 |
+| FDP [DE] (ALDE) | | 8 | 7–9 | 7–10 | 6–10 | 4–11 |
+| ANO 2011 [CZ] (ALDE) | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Fianna Fáil [IE] (ALDE) | | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 2 | 2–4 | 2–5 | 2–6 | 1–8 |
-| MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| MR [BE-FRC] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
-| Centerpartiet [SE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond [EE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis [LT] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–1 |
-| Raimond Kaljulaid [EE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
+| Eesti 200 [EE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Liberalerna [SE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Liberalų Sąjūdis [LT] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa [IT] (ALDE) | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Più Europa [IT] (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Raimond Kaljulaid [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-21-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-21.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -84,33 +84,44 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
-| 88 | 0.1% | 99.9% |  |
-| 89 | 0.2% | 99.9% |  |
-| 90 | 0.4% | 99.7% |  |
-| 91 | 0.8% | 99.3% |  |
-| 92 | 1.3% | 98.5% |  |
-| 93 | 2% | 97% |  |
-| 94 | 3% | 95% |  |
-| 95 | 5% | 92% |  |
-| 96 | 6% | 87% |  |
-| 97 | 8% | 80% |  |
-| 98 | 9% | 73% |  |
-| 99 | 10% | 63% |  |
-| 100 | 10% | 54% | Median |
-| 101 | 10% | 44% |  |
-| 102 | 9% | 34% |  |
-| 103 | 7% | 26% |  |
-| 104 | 6% | 18% |  |
-| 105 | 4% | 13% |  |
-| 106 | 3% | 8% |  |
-| 107 | 2% | 5% |  |
-| 108 | 1.3% | 3% |  |
-| 109 | 0.8% | 2% |  |
-| 110 | 0.5% | 1.0% |  |
-| 111 | 0.3% | 0.5% |  |
-| 112 | 0.1% | 0.3% |  |
-| 113 | 0.1% | 0.1% |  |
-| 114 | 0% | 0.1% |  |
-| 115 | 0% | 0% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0% | 100% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0% | 100% |  |
+| 94 | 0% | 100% |  |
+| 95 | 0.1% | 99.9% |  |
+| 96 | 0.2% | 99.9% |  |
+| 97 | 0.3% | 99.7% |  |
+| 98 | 0.6% | 99.4% |  |
+| 99 | 1.0% | 98.8% |  |
+| 100 | 2% | 98% |  |
+| 101 | 2% | 96% |  |
+| 102 | 3% | 94% |  |
+| 103 | 5% | 90% |  |
+| 104 | 6% | 86% |  |
+| 105 | 7% | 80% |  |
+| 106 | 8% | 73% |  |
+| 107 | 8% | 65% |  |
+| 108 | 9% | 57% | Median |
+| 109 | 8% | 49% |  |
+| 110 | 8% | 40% |  |
+| 111 | 7% | 32% |  |
+| 112 | 6% | 25% |  |
+| 113 | 5% | 19% |  |
+| 114 | 4% | 14% |  |
+| 115 | 3% | 10% |  |
+| 116 | 2% | 7% |  |
+| 117 | 2% | 5% |  |
+| 118 | 1.1% | 3% |  |
+| 119 | 0.7% | 2% |  |
+| 120 | 0.5% | 1.1% |  |
+| 121 | 0.3% | 0.7% |  |
+| 122 | 0.2% | 0.4% |  |
+| 123 | 0.1% | 0.2% |  |
+| 124 | 0.1% | 0.1% |  |
+| 125 | 0% | 0.1% |  |
+| 126 | 0% | 0% |  |
 
 
