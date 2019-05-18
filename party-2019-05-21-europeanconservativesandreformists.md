@@ -8,12 +8,12 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 56 | 51–61 | 50–63 | 49–64 | 47–67 |
-| Prawo i Sprawiedliwość [PL] (ECR) | | 19 | 17–22 | 17–23 | 16–23 | 16–23 |
+| European Conservatives and Reformists | 76 | 56 | 51–61 | 50–62 | 49–64 | 47–66 |
+| Prawo i Sprawiedliwość [PL] (ECR) | | 19 | 17–22 | 17–22 | 16–23 | 16–23 |
 | Conservative Party [GB-GBN] (ECR) | | 8 | 4–10 | 4–10 | 3–11 | 3–11 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Fratelli d’Italia [IT] (ECR) | | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
-| N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana [CZ] (ECR) | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 4 | 4 | 4–5 | 4–5 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,28 +44,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0.1% | 99.9% |  |
 | 46 | 0.2% | 99.8% |  |
 | 47 | 0.5% | 99.6% |  |
-| 48 | 1.0% | 99.1% |  |
+| 48 | 1.1% | 99.1% |  |
 | 49 | 2% | 98% |  |
 | 50 | 3% | 96% |  |
 | 51 | 4% | 93% |  |
-| 52 | 5% | 89% |  |
-| 53 | 7% | 83% |  |
-| 54 | 9% | 76% |  |
-| 55 | 11% | 67% |  |
-| 56 | 11% | 57% | Median |
-| 57 | 11% | 45% |  |
-| 58 | 9% | 35% |  |
-| 59 | 7% | 25% |  |
-| 60 | 6% | 18% |  |
-| 61 | 4% | 12% |  |
-| 62 | 3% | 8% |  |
+| 52 | 6% | 88% |  |
+| 53 | 8% | 83% |  |
+| 54 | 10% | 75% |  |
+| 55 | 11% | 65% |  |
+| 56 | 11% | 54% | Median |
+| 57 | 11% | 43% |  |
+| 58 | 9% | 32% |  |
+| 59 | 7% | 23% |  |
+| 60 | 5% | 16% |  |
+| 61 | 4% | 11% |  |
+| 62 | 3% | 7% |  |
 | 63 | 2% | 5% |  |
-| 64 | 1.3% | 3% |  |
-| 65 | 0.9% | 2% |  |
-| 66 | 0.6% | 1.1% |  |
-| 67 | 0.3% | 0.5% |  |
+| 64 | 1.2% | 3% |  |
+| 65 | 0.8% | 2% |  |
+| 66 | 0.5% | 0.9% |  |
+| 67 | 0.2% | 0.4% |  |
 | 68 | 0.1% | 0.2% |  |
-| 69 | 0.1% | 0.1% |  |
+| 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |

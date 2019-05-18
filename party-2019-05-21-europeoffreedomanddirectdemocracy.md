@@ -8,12 +8,12 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 | 48 | 42–56 | 41–57 | 40–58 | 38–60 |
-| Brexit Party [GB-GBN] (EFDD) | | 26 | 21–33 | 21–34 | 20–35 | 20–35 |
+| Europe of Freedom and Direct Democracy | 41 | 49 | 42–56 | 41–57 | 40–58 | 38–60 |
+| Brexit Party [GB-GBN] (EFDD) | | 27 | 21–33 | 21–34 | 20–35 | 20–35 |
 | Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| Kukiz’15 [PL] (EFDD) | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Kukiz’15 [PL] (EFDD) | | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 0–2 |
-| KORWiN [PL] (EFDD) | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| KORWiN [PL] (EFDD) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt [FI] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -35,24 +35,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 3% | 96% | Last Result |
 | 42 | 4% | 93% |  |
 | 43 | 5% | 89% |  |
-| 44 | 6% | 83% |  |
-| 45 | 7% | 77% |  |
-| 46 | 7% | 70% |  |
-| 47 | 7% | 63% |  |
-| 48 | 7% | 56% | Median |
-| 49 | 5% | 49% |  |
-| 50 | 5% | 44% |  |
-| 51 | 5% | 39% |  |
-| 52 | 5% | 34% |  |
-| 53 | 6% | 29% |  |
-| 54 | 6% | 23% |  |
+| 44 | 6% | 84% |  |
+| 45 | 6% | 78% |  |
+| 46 | 6% | 72% |  |
+| 47 | 6% | 65% |  |
+| 48 | 6% | 59% |  |
+| 49 | 6% | 53% | Median |
+| 50 | 6% | 47% |  |
+| 51 | 6% | 41% |  |
+| 52 | 6% | 36% |  |
+| 53 | 6% | 30% |  |
+| 54 | 6% | 24% |  |
 | 55 | 6% | 17% |  |
 | 56 | 5% | 11% |  |
 | 57 | 3% | 7% |  |
 | 58 | 2% | 3% |  |
-| 59 | 1.0% | 2% |  |
-| 60 | 0.4% | 0.6% |  |
-| 61 | 0.1% | 0.2% |  |
+| 59 | 0.9% | 1.4% |  |
+| 60 | 0.4% | 0.5% |  |
+| 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
 
