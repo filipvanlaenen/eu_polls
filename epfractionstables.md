@@ -294,7 +294,7 @@ current EP fractions.
 | Progresīvie                                                      | P            | S&D         | New party; has indicated it will join S&D            |
 | Sociāldemokrātiskā Partija “Saskaņa”                             | SDPS         | S&D         | Current member                                       |
 | Vienoti Latvijai                                                 | VL           | *           | New party                                            |
-| Zaļo un Zemnieku savienība                                       | ZZS          | ALDE        | Current member                                       |
+| Zaļo un Zemnieku savienība                                       | ZZS          | EPP         | Has indicated it will join EPP                       |
 
 ## Lithuania
 
