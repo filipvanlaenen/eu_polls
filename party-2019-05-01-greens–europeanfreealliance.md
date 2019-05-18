@@ -8,15 +8,15 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 49 | 46–53 | 45–54 | 44–55 | 43–57 |
+| Greens–European Free Alliance | 52 | 50 | 46–54 | 45–55 | 45–56 | 43–57 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3 | 3 | 3 | 2–4 |
-| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -32,8 +32,8 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Primavera Europea [ES] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
@@ -44,24 +44,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
-| 43 | 1.0% | 99.5% |  |
-| 44 | 3% | 98.5% |  |
-| 45 | 5% | 96% |  |
-| 46 | 8% | 91% |  |
-| 47 | 11% | 83% |  |
-| 48 | 13% | 72% |  |
-| 49 | 13% | 58% | Median |
-| 50 | 12% | 45% |  |
-| 51 | 10% | 33% |  |
-| 52 | 8% | 22% | Last Result |
-| 53 | 6% | 14% |  |
-| 54 | 4% | 8% |  |
-| 55 | 2% | 4% |  |
-| 56 | 1.2% | 2% |  |
-| 57 | 0.6% | 1.0% |  |
-| 58 | 0.2% | 0.4% |  |
+| 42 | 0.2% | 100% |  |
+| 43 | 0.5% | 99.8% |  |
+| 44 | 1.4% | 99.3% |  |
+| 45 | 3% | 98% |  |
+| 46 | 6% | 95% |  |
+| 47 | 9% | 89% |  |
+| 48 | 12% | 79% |  |
+| 49 | 14% | 67% |  |
+| 50 | 14% | 53% | Median |
+| 51 | 12% | 40% |  |
+| 52 | 10% | 28% | Last Result |
+| 53 | 7% | 18% |  |
+| 54 | 5% | 10% |  |
+| 55 | 3% | 6% |  |
+| 56 | 2% | 3% |  |
+| 57 | 0.7% | 1.1% |  |
+| 58 | 0.3% | 0.4% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
