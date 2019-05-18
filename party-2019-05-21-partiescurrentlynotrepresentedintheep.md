@@ -8,9 +8,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 5 | 4–8 | 3–8 | 3–9 | 3–10 |
-| Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
-| Most nezavisnih lista [HR] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | 0 | 6 | 4–8 | 3–9 | 3–9 | 2–10 |
+| Česká pirátská strana [CZ] (*) | | 4 | 3–6 | 2–6 | 2–7 | 2–7 |
 | 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança [PT] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -19,6 +18,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Independent Alliance [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
+| La Droite [BE-FRC] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -40,15 +40,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.5% | 100% |  |
-| 3 | 6% | 99.5% |  |
-| 4 | 20% | 93% |  |
-| 5 | 27% | 73% | Median |
-| 6 | 21% | 46% |  |
-| 7 | 14% | 25% |  |
-| 8 | 8% | 11% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.5% | 0.5% |  |
-| 11 | 0% | 0% |  |
+| 2 | 0.8% | 100% |  |
+| 3 | 7% | 99.2% |  |
+| 4 | 17% | 92% |  |
+| 5 | 19% | 75% |  |
+| 6 | 16% | 57% | Median |
+| 7 | 18% | 41% |  |
+| 8 | 15% | 23% |  |
+| 9 | 6% | 8% |  |
+| 10 | 1.2% | 1.4% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
