@@ -8,7 +8,7 @@ Last result: **21** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | 21 | 12 | 10–13 | 9–14 | 9–14 | 8–15 |
+| Non-Inscrits | 21 | 12 | 10–13 | 10–14 | 9–14 | 8–15 |
 | Jobbik [HU] (NI) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Democratic Unionist Party [GB-NIR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko [SK] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -29,14 +29,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.7% | 100% |  |
+| 8 | 0.6% | 100% |  |
 | 9 | 4% | 99.3% |  |
 | 10 | 15% | 95% |  |
 | 11 | 28% | 80% |  |
-| 12 | 29% | 52% | Median |
-| 13 | 17% | 23% |  |
-| 14 | 5% | 6% |  |
-| 15 | 0.9% | 1.0% |  |
+| 12 | 29% | 53% | Median |
+| 13 | 17% | 24% |  |
+| 14 | 6% | 7% |  |
+| 15 | 1.0% | 1.1% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |

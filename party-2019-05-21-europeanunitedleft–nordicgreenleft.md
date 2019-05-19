@@ -8,9 +8,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 49 | 47–53 | 46–54 | 45–54 | 44–56 |
-| DIE LINKE [DE] (GUE/NGL) | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| La France insoumise [FR] (GUE/NGL) | | 8 | 7–9 | 7–10 | 6–11 | 6–12 |
+| European United Left–Nordic Green Left | 52 | 49 | 46–52 | 45–53 | 45–54 | 43–56 |
+| DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| La France insoumise [FR] (GUE/NGL) | | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Sinn Féin [IE] (GUE/NGL) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -45,22 +45,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.9% |  |
-| 44 | 0.9% | 99.6% |  |
-| 45 | 3% | 98.7% |  |
-| 46 | 6% | 96% |  |
-| 47 | 10% | 91% |  |
-| 48 | 14% | 81% |  |
-| 49 | 17% | 67% | Median |
-| 50 | 16% | 50% |  |
-| 51 | 13% | 34% |  |
-| 52 | 9% | 20% | Last Result |
-| 53 | 6% | 11% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.4% | 2% |  |
-| 56 | 0.6% | 0.9% |  |
-| 57 | 0.2% | 0.3% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 43 | 0.4% | 99.9% |  |
+| 44 | 1.3% | 99.5% |  |
+| 45 | 3% | 98% |  |
+| 46 | 7% | 95% |  |
+| 47 | 11% | 88% |  |
+| 48 | 15% | 77% |  |
+| 49 | 17% | 61% | Median |
+| 50 | 16% | 44% |  |
+| 51 | 12% | 28% |  |
+| 52 | 8% | 16% | Last Result |
+| 53 | 5% | 8% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.0% | 1.5% |  |
+| 56 | 0.4% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0% |  |
 
 
