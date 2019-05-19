@@ -24,13 +24,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Levica [SI] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PTB [BE-FRC] (GUE/NGL) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
 | Jaunā Saskaņa [LV] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PVDA [BE-VLG] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
+| Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Solidarity–People Before Profit [IE] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
 | Λαϊκή Ενότητα [GR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας [GR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
@@ -46,15 +46,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
 | 42 | 0.9% | 99.6% |  |
-| 43 | 2% | 98.7% |  |
-| 44 | 5% | 96% |  |
+| 43 | 2% | 98.8% |  |
+| 44 | 5% | 97% |  |
 | 45 | 8% | 92% |  |
-| 46 | 12% | 83% |  |
+| 46 | 12% | 84% |  |
 | 47 | 15% | 71% |  |
-| 48 | 16% | 55% | Median |
-| 49 | 15% | 39% |  |
-| 50 | 11% | 24% |  |
-| 51 | 7% | 13% |  |
+| 48 | 16% | 56% | Median |
+| 49 | 15% | 40% |  |
+| 50 | 11% | 25% |  |
+| 51 | 7% | 14% |  |
 | 52 | 4% | 6% | Last Result |
 | 53 | 2% | 3% |  |
 | 54 | 0.6% | 0.9% |  |
