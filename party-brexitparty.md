@@ -8,14 +8,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Brexit Party | 0 | 25 | 14–29 | 13–30 | 11–31 | 10–32 |
-| Brexit Party [GB-GBN] (BREXIT) | | 25 | 14–29 | 13–30 | 11–31 | 10–32 |
+| Brexit Party | 0 | 28 | 22–33 | 21–34 | 20–34 | 20–35 |
+| Brexit Party [GB-GBN] (BREXIT) | | 28 | 22–33 | 21–34 | 20–34 | 20–35 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-brexitparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-21-seats-pmf-brexitparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for Brexit Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-21.html) for Brexit Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -29,29 +29,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.8% | 100% |  |
-| 11 | 2% | 99.2% |  |
-| 12 | 1.1% | 97% |  |
-| 13 | 3% | 96% |  |
-| 14 | 7% | 93% |  |
-| 15 | 4% | 85% |  |
-| 16 | 2% | 81% |  |
-| 17 | 2% | 79% |  |
-| 18 | 2% | 77% |  |
-| 19 | 0.2% | 75% |  |
-| 20 | 0% | 75% |  |
-| 21 | 0.8% | 75% |  |
-| 22 | 3% | 74% |  |
-| 23 | 6% | 72% |  |
-| 24 | 14% | 66% |  |
-| 25 | 12% | 52% | Median |
-| 26 | 11% | 40% |  |
-| 27 | 10% | 29% |  |
-| 28 | 7% | 19% |  |
-| 29 | 4% | 12% |  |
-| 30 | 4% | 9% |  |
-| 31 | 4% | 5% |  |
-| 32 | 0.8% | 0.8% |  |
-| 33 | 0% | 0% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 3% | 99.7% |  |
+| 21 | 5% | 97% |  |
+| 22 | 6% | 92% |  |
+| 23 | 6% | 86% |  |
+| 24 | 5% | 80% |  |
+| 25 | 9% | 76% |  |
+| 26 | 5% | 67% |  |
+| 27 | 11% | 62% |  |
+| 28 | 5% | 51% | Median |
+| 29 | 8% | 46% |  |
+| 30 | 3% | 38% |  |
+| 31 | 3% | 35% |  |
+| 32 | 14% | 32% |  |
+| 33 | 10% | 18% |  |
+| 34 | 6% | 8% |  |
+| 35 | 2% | 2% |  |
+| 36 | 0% | 0% |  |
 
 

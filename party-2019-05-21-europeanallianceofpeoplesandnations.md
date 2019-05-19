@@ -8,7 +8,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 80 | 75–84 | 74–85 | 73–87 | 71–89 |
+| European Alliance of Peoples and Nations | 37 | 80 | 75–84 | 74–86 | 73–87 | 71–89 |
 | Lega Nord [IT] (EAPN) | | 24 | 22–27 | 20–28 | 20–30 | 19–31 |
 | Rassemblement national [FR] (EAPN) | | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
 | Alternative für Deutschland [DE] (EAPN) | | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
@@ -68,8 +68,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
-| 71 | 0.6% | 99.5% |  |
-| 72 | 1.1% | 98.9% |  |
+| 71 | 0.6% | 99.6% |  |
+| 72 | 1.1% | 99.0% |  |
 | 73 | 2% | 98% |  |
 | 74 | 3% | 96% |  |
 | 75 | 5% | 93% |  |
@@ -78,14 +78,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 10% | 72% |  |
 | 79 | 11% | 62% |  |
 | 80 | 11% | 51% | Median |
-| 81 | 10% | 39% |  |
+| 81 | 10% | 40% |  |
 | 82 | 9% | 29% |  |
-| 83 | 7% | 20% |  |
-| 84 | 5% | 13% |  |
-| 85 | 3% | 8% |  |
+| 83 | 7% | 21% |  |
+| 84 | 5% | 14% |  |
+| 85 | 3% | 9% |  |
 | 86 | 2% | 5% |  |
 | 87 | 1.3% | 3% |  |
-| 88 | 0.7% | 2% |  |
+| 88 | 0.8% | 2% |  |
 | 89 | 0.4% | 0.8% |  |
 | 90 | 0.2% | 0.4% |  |
 | 91 | 0.1% | 0.2% |  |
