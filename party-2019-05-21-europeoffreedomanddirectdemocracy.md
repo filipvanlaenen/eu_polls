@@ -8,7 +8,7 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 | 21 | 18–24 | 17–25 | 17–26 | 16–27 |
+| Europe of Freedom and Direct Democracy | 41 | 21 | 18–24 | 17–25 | 17–25 | 16–27 |
 | Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | Kukiz’15 [PL] (EFDD) | | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 0–2 |
@@ -26,19 +26,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.4% | 100% |  |
+| 15 | 0.3% | 100% |  |
 | 16 | 1.4% | 99.6% |  |
 | 17 | 3% | 98% |  |
 | 18 | 7% | 95% |  |
 | 19 | 10% | 88% |  |
 | 20 | 13% | 78% |  |
-| 21 | 17% | 65% | Median |
-| 22 | 17% | 47% |  |
+| 21 | 18% | 65% | Median |
+| 22 | 18% | 47% |  |
 | 23 | 14% | 30% |  |
 | 24 | 9% | 16% |  |
 | 25 | 5% | 7% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.5% | 0.7% |  |
+| 26 | 2% | 2% |  |
+| 27 | 0.5% | 0.6% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
