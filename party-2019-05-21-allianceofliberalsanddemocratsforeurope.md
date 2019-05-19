@@ -8,22 +8,23 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 107 | 100–113 | 99–115 | 97–117 | 95–120 |
-| La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 19–24 | 18–24 | 18–25 | 17–25 |
-| Liberal Democrats [GB-GBN] (ALDE) | | 9 | 6–13 | 5–14 | 5–16 | 5–16 |
+| Alliance of Liberals and Democrats for Europe | 68 | 119 | 112–126 | 110–128 | 108–130 | 106–133 |
+| La République en marche–Mouvement démocrate [FR] (ALDE) | | 20 | 19–24 | 19–24 | 18–25 | 17–25 |
+| Liberal Democrats [GB-GBN] (ALDE) | | 9 | 8–13 | 7–14 | 6–16 | 5–16 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–10 | 7–11 | 6–12 |
 | FDP [DE] (ALDE) | | 8 | 5–9 | 5–10 | 4–10 | 4–11 |
 | ANO 2011 [CZ] (ALDE) | | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Fianna Fáil [IE] (ALDE) | | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
+| Eesti Reformierakond [EE] (ALDE) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Venstre [DK] (ALDE) | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Eesti Keskerakond [EE] (ALDE) | | 2 | 2 | 2 | 2 | 2 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
@@ -33,24 +34,23 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Keskerakond [EE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | FREIE WÄHLER [DE] (ALDE) | | 1 | 1–2 | 1–3 | 0–3 | 0–3 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis [LT] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
+| Change UK [GB-GBN] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 [EE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati [HR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Partit Demokratiku [MT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa [IT] (ALDE) | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Raimond Kaljulaid [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa [IT] (ALDE) | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -88,39 +88,52 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0% | 100% |  |
 | 90 | 0% | 100% |  |
 | 91 | 0% | 100% |  |
-| 92 | 0.1% | 100% |  |
-| 93 | 0.1% | 99.9% |  |
-| 94 | 0.2% | 99.8% |  |
-| 95 | 0.4% | 99.6% |  |
-| 96 | 0.7% | 99.1% |  |
-| 97 | 1.2% | 98% |  |
-| 98 | 2% | 97% |  |
-| 99 | 3% | 96% |  |
-| 100 | 3% | 93% |  |
-| 101 | 4% | 90% |  |
-| 102 | 5% | 85% |  |
-| 103 | 6% | 80% |  |
-| 104 | 7% | 73% |  |
-| 105 | 8% | 66% |  |
-| 106 | 8% | 58% |  |
-| 107 | 8% | 51% | Median |
-| 108 | 8% | 43% |  |
-| 109 | 7% | 35% |  |
-| 110 | 6% | 28% |  |
-| 111 | 5% | 22% |  |
-| 112 | 4% | 17% |  |
-| 113 | 3% | 13% |  |
-| 114 | 3% | 9% |  |
-| 115 | 2% | 6% |  |
-| 116 | 1.5% | 4% |  |
-| 117 | 1.0% | 3% |  |
-| 118 | 0.7% | 2% |  |
-| 119 | 0.5% | 1.1% |  |
-| 120 | 0.3% | 0.7% |  |
-| 121 | 0.2% | 0.4% |  |
-| 122 | 0.1% | 0.2% |  |
-| 123 | 0.1% | 0.1% |  |
-| 124 | 0% | 0.1% |  |
-| 125 | 0% | 0% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0% | 100% |  |
+| 94 | 0% | 100% |  |
+| 95 | 0% | 100% |  |
+| 96 | 0% | 100% |  |
+| 97 | 0% | 100% |  |
+| 98 | 0% | 100% |  |
+| 99 | 0% | 100% |  |
+| 100 | 0% | 100% |  |
+| 101 | 0% | 100% |  |
+| 102 | 0% | 100% |  |
+| 103 | 0.1% | 99.9% |  |
+| 104 | 0.1% | 99.9% |  |
+| 105 | 0.2% | 99.8% |  |
+| 106 | 0.4% | 99.5% |  |
+| 107 | 0.7% | 99.1% |  |
+| 108 | 1.1% | 98% |  |
+| 109 | 2% | 97% |  |
+| 110 | 2% | 96% |  |
+| 111 | 3% | 94% |  |
+| 112 | 4% | 91% |  |
+| 113 | 4% | 87% |  |
+| 114 | 5% | 83% |  |
+| 115 | 6% | 77% |  |
+| 116 | 6% | 71% |  |
+| 117 | 7% | 65% |  |
+| 118 | 7% | 58% |  |
+| 119 | 7% | 51% | Median |
+| 120 | 7% | 44% |  |
+| 121 | 6% | 38% |  |
+| 122 | 6% | 31% |  |
+| 123 | 5% | 25% |  |
+| 124 | 5% | 20% |  |
+| 125 | 4% | 15% |  |
+| 126 | 3% | 12% |  |
+| 127 | 2% | 8% |  |
+| 128 | 2% | 6% |  |
+| 129 | 1.4% | 4% |  |
+| 130 | 1.0% | 3% |  |
+| 131 | 0.7% | 2% |  |
+| 132 | 0.4% | 1.1% |  |
+| 133 | 0.3% | 0.7% |  |
+| 134 | 0.2% | 0.4% |  |
+| 135 | 0.1% | 0.2% |  |
+| 136 | 0.1% | 0.1% |  |
+| 137 | 0% | 0.1% |  |
+| 138 | 0% | 0% |  |
 
 

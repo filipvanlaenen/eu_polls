@@ -25,7 +25,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0–1 |
+| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση [GR] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,13 +42,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.9% | 100% |  |
 | 3 | 8% | 99.1% |  |
-| 4 | 18% | 91% |  |
+| 4 | 19% | 91% |  |
 | 5 | 18% | 73% |  |
 | 6 | 15% | 55% | Median |
-| 7 | 19% | 40% |  |
+| 7 | 19% | 39% |  |
 | 8 | 14% | 21% |  |
 | 9 | 5% | 6% |  |
-| 10 | 1.0% | 1.1% |  |
+| 10 | 0.9% | 1.0% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
