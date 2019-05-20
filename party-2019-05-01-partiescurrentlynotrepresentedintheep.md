@@ -8,7 +8,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 5 | 3–8 | 3–8 | 3–9 | 2–10 |
+| Parties currently not represented in the EP | 0 | 5 | 3–8 | 3–8 | 2–9 | 2–10 |
 | Česká pirátská strana [CZ] (*) | | 3 | 2–6 | 2–6 | 2–6 | 2–7 |
 | Independents [IE] (*) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -18,9 +18,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos Žaliųjų Partija [LT] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Politinė partija “Lietuvos sąrašas” [LT] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | | 0 | 0 | 0 | 0 | 0 |
@@ -38,15 +40,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.2% | 100% |  |
-| 3 | 10% | 98.8% |  |
-| 4 | 25% | 89% |  |
-| 5 | 26% | 64% | Median |
-| 6 | 14% | 37% |  |
-| 7 | 10% | 24% |  |
-| 8 | 9% | 14% |  |
-| 9 | 4% | 5% |  |
-| 10 | 0.8% | 0.9% |  |
+| 2 | 3% | 100% |  |
+| 3 | 14% | 97% |  |
+| 4 | 27% | 84% |  |
+| 5 | 23% | 57% | Median |
+| 6 | 12% | 34% |  |
+| 7 | 10% | 22% |  |
+| 8 | 8% | 11% |  |
+| 9 | 3% | 4% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

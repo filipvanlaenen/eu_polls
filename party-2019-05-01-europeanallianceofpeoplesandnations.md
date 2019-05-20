@@ -15,14 +15,14 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Vox [ES] (EAPN) | | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Perussuomalaiset [FI] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 0–1 |
 | SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
-| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party [GB-GBN] (EAPN) | | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | Воля [BG] (EAPN) | | 0 | 0 | 0 | 0 | 0–1 |
 
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.8% |  |
+| 70 | 0.2% | 99.9% |  |
 | 71 | 0.6% | 99.6% |  |
 | 72 | 1.2% | 99.0% |  |
 | 73 | 2% | 98% |  |
@@ -76,18 +76,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 7% | 87% |  |
 | 77 | 9% | 79% |  |
 | 78 | 11% | 70% |  |
-| 79 | 11% | 59% | Median |
+| 79 | 12% | 59% | Median |
 | 80 | 11% | 47% |  |
 | 81 | 10% | 36% |  |
 | 82 | 8% | 26% |  |
 | 83 | 6% | 18% |  |
-| 84 | 5% | 12% |  |
+| 84 | 4% | 12% |  |
 | 85 | 3% | 7% |  |
 | 86 | 2% | 4% |  |
 | 87 | 1.1% | 2% |  |
 | 88 | 0.6% | 1.2% |  |
 | 89 | 0.3% | 0.6% |  |
-| 90 | 0.2% | 0.3% |  |
+| 90 | 0.1% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
