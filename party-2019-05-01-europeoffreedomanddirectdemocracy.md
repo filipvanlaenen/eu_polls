@@ -11,7 +11,7 @@ Last result: **41** seats (General Election of 25 May 2014)
 | Europe of Freedom and Direct Democracy | 41 | 20 | 17–23 | 16–24 | 16–25 | 15–26 |
 | Movimento 5 Stelle [IT] (EFDD) | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Kukiz’15 [PL] (EFDD) | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
-| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 1 |
+| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 1–2 |
 | KORWiN [PL] (EFDD) | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +38,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 9% | 17% |  |
 | 24 | 5% | 8% |  |
 | 25 | 2% | 3% |  |
-| 26 | 0.7% | 0.8% |  |
+| 26 | 0.7% | 0.9% |  |
 | 27 | 0.1% | 0.2% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
