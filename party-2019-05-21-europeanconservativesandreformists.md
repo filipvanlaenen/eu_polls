@@ -8,7 +8,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 59 | 54–64 | 52–65 | 51–67 | 49–70 |
+| European Conservatives and Reformists | 76 | 57 | 52–62 | 50–64 | 49–65 | 47–68 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 20 | 17–23 | 17–23 | 17–24 | 16–25 |
 | Conservative Party [GB-GBN] (ECR) | | 8 | 4–10 | 4–10 | 4–11 | 3–11 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -18,18 +18,18 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista [HR] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija tvarka ir teisingumas [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| ВМРО–Българско Национално Движение [BG] (ECR) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| ВМРО–Българско Национално Движение [BG] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Debout la France [FR] (ECR) | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sininen tulevaisuus [FI] (ECR) | | 0 | 0 | 0 | 0 | 0 |
-| Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες [GR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -40,33 +40,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 46 | 0% | 100% |  |
-| 47 | 0.1% | 99.9% |  |
-| 48 | 0.2% | 99.8% |  |
-| 49 | 0.5% | 99.6% |  |
-| 50 | 0.9% | 99.1% |  |
-| 51 | 2% | 98% |  |
-| 52 | 2% | 97% |  |
-| 53 | 3% | 94% |  |
-| 54 | 5% | 91% |  |
-| 55 | 7% | 86% |  |
-| 56 | 8% | 79% |  |
-| 57 | 9% | 71% |  |
-| 58 | 10% | 62% |  |
-| 59 | 10% | 52% | Median |
-| 60 | 10% | 42% |  |
-| 61 | 8% | 32% |  |
-| 62 | 7% | 24% |  |
-| 63 | 5% | 17% |  |
-| 64 | 4% | 11% |  |
-| 65 | 3% | 8% |  |
-| 66 | 2% | 5% |  |
-| 67 | 1.3% | 3% |  |
-| 68 | 0.8% | 2% |  |
-| 69 | 0.5% | 1.0% |  |
-| 70 | 0.3% | 0.5% |  |
-| 71 | 0.1% | 0.2% |  |
-| 72 | 0.1% | 0.1% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.1% | 99.9% |  |
+| 46 | 0.2% | 99.9% |  |
+| 47 | 0.4% | 99.7% |  |
+| 48 | 0.8% | 99.3% |  |
+| 49 | 1.4% | 98% |  |
+| 50 | 2% | 97% |  |
+| 51 | 3% | 95% |  |
+| 52 | 5% | 92% |  |
+| 53 | 6% | 87% |  |
+| 54 | 8% | 81% |  |
+| 55 | 9% | 73% |  |
+| 56 | 10% | 63% |  |
+| 57 | 10% | 53% | Median |
+| 58 | 10% | 43% |  |
+| 59 | 9% | 33% |  |
+| 60 | 7% | 24% |  |
+| 61 | 6% | 17% |  |
+| 62 | 4% | 12% |  |
+| 63 | 3% | 8% |  |
+| 64 | 2% | 5% |  |
+| 65 | 1.3% | 3% |  |
+| 66 | 0.9% | 2% |  |
+| 67 | 0.5% | 1.1% |  |
+| 68 | 0.3% | 0.5% |  |
+| 69 | 0.1% | 0.2% |  |
+| 70 | 0.1% | 0.1% |  |
+| 71 | 0% | 0% |  |
+| 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |

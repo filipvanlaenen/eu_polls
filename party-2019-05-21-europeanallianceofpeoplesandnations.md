@@ -17,12 +17,12 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 0–1 |
+| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 | SME RODINA [SK] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
+| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0 | 0–1 |
 | UK Independence Party [GB-GBN] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
 | Воля [BG] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 2% | 5% |  |
 | 88 | 1.4% | 3% |  |
 | 89 | 0.8% | 2% |  |
-| 90 | 0.4% | 0.9% |  |
-| 91 | 0.2% | 0.4% |  |
+| 90 | 0.5% | 0.9% |  |
+| 91 | 0.2% | 0.5% |  |
 | 92 | 0.1% | 0.2% |  |
 | 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |

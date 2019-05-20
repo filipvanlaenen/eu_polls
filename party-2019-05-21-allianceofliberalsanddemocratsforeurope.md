@@ -20,7 +20,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Lista Marjana Šarca [SI] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Venstre [DK] (ALDE) | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Venstre [DK] (ALDE) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -29,7 +29,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Attīstībai/Par! [LV] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Coalición por Europa [ES] (ALDE) | | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
 | Darbo Partija [LT] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
 | Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
@@ -38,9 +38,9 @@ Last result: **68** seats (General Election of 25 May 2014)
 | MM [HU] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vld [BE-VLG] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 1–2 |
+| Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants [FR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Alliance Party of Northern Ireland [GB-NIR] (ALDE) | | 0 | 0 | 0 | 0 | 0–1 |
 | Change UK [GB-GBN] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -90,34 +90,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 0% | 100% |  |
 | 91 | 0% | 100% |  |
 | 92 | 0% | 100% |  |
-| 93 | 0.1% | 100% |  |
-| 94 | 0.1% | 99.9% |  |
+| 93 | 0.1% | 99.9% |  |
+| 94 | 0.2% | 99.9% |  |
 | 95 | 0.3% | 99.7% |  |
-| 96 | 0.5% | 99.4% |  |
+| 96 | 0.6% | 99.4% |  |
 | 97 | 0.9% | 98.9% |  |
-| 98 | 1.5% | 98% |  |
+| 98 | 2% | 98% |  |
 | 99 | 2% | 96% |  |
 | 100 | 3% | 94% |  |
 | 101 | 4% | 91% |  |
 | 102 | 5% | 87% |  |
 | 103 | 6% | 81% |  |
 | 104 | 7% | 75% |  |
-| 105 | 8% | 68% |  |
-| 106 | 8% | 60% |  |
+| 105 | 8% | 67% |  |
+| 106 | 8% | 59% |  |
 | 107 | 8% | 51% | Median |
 | 108 | 8% | 43% |  |
 | 109 | 7% | 35% |  |
 | 110 | 6% | 28% |  |
-| 111 | 5% | 22% |  |
+| 111 | 5% | 21% |  |
 | 112 | 4% | 16% |  |
 | 113 | 3% | 12% |  |
 | 114 | 3% | 8% |  |
 | 115 | 2% | 6% |  |
-| 116 | 1.4% | 4% |  |
+| 116 | 1.3% | 4% |  |
 | 117 | 0.9% | 2% |  |
 | 118 | 0.6% | 2% |  |
-| 119 | 0.4% | 1.0% |  |
-| 120 | 0.2% | 0.6% |  |
+| 119 | 0.4% | 0.9% |  |
+| 120 | 0.2% | 0.5% |  |
 | 121 | 0.1% | 0.3% |  |
 | 122 | 0.1% | 0.2% |  |
 | 123 | 0% | 0.1% |  |
