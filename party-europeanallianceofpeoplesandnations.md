@@ -8,29 +8,29 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 79 | 75–84 | 74–85 | 73–86 | 71–89 |
-| Lega Nord [IT] (EAPN) | | 25 | 22–28 | 22–29 | 22–30 | 21–31 |
-| Rassemblement national [FR] (EAPN) | | 21 | 19–22 | 19–22 | 18–23 | 17–23 |
-| Alternative für Deutschland [DE] (EAPN) | | 12 | 9–13 | 9–14 | 8–14 | 8–15 |
-| Vox [ES] (EAPN) | | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
-| Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Dansk Folkeparti [DK] (EAPN) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Perussuomalaiset [FI] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| European Alliance of Peoples and Nations | 37 | 80 | 76–85 | 74–87 | 73–88 | 71–90 |
+| Lega Nord [IT] (EAPN) | | 24 | 22–27 | 20–28 | 20–30 | 19–31 |
+| Rassemblement national [FR] (EAPN) | | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
+| Alternative für Deutschland [DE] (EAPN) | | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
+| Vox [ES] (EAPN) | | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
+| Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Dansk Folkeparti [DK] (EAPN) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partij voor de Vrijheid [NL] (EAPN) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1 | 0–1 |
-| SME RODINA [SK] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| SME RODINA [SK] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana [SK] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
-| Svoboda a přímá demokracie [CZ] (EAPN) | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1 | 1 | 1 | 1 |
-| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| UK Independence Party [GB-GBN] (EAPN) | | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
-| Воля [BG] (EAPN) | | 0 | 0 | 0 | 0 | 0–1 |
+| Svoboda a přímá demokracie [CZ] (EAPN) | | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
+| UK Independence Party [GB-GBN] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
+| Воля [BG] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-01-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-21-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-01.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-21.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,28 +67,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.8% |  |
-| 71 | 0.6% | 99.6% |  |
-| 72 | 1.2% | 99.0% |  |
-| 73 | 2% | 98% |  |
-| 74 | 4% | 96% |  |
-| 75 | 5% | 92% |  |
-| 76 | 7% | 87% |  |
-| 77 | 9% | 79% |  |
-| 78 | 11% | 70% |  |
-| 79 | 11% | 59% | Median |
-| 80 | 11% | 47% |  |
-| 81 | 10% | 36% |  |
-| 82 | 8% | 26% |  |
-| 83 | 6% | 18% |  |
-| 84 | 5% | 12% |  |
-| 85 | 3% | 7% |  |
-| 86 | 2% | 4% |  |
-| 87 | 1.1% | 2% |  |
-| 88 | 0.6% | 1.2% |  |
-| 89 | 0.3% | 0.6% |  |
-| 90 | 0.2% | 0.3% |  |
-| 91 | 0.1% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.4% | 99.7% |  |
+| 72 | 0.8% | 99.3% |  |
+| 73 | 1.4% | 98.5% |  |
+| 74 | 2% | 97% |  |
+| 75 | 4% | 95% |  |
+| 76 | 5% | 91% |  |
+| 77 | 7% | 86% |  |
+| 78 | 9% | 79% |  |
+| 79 | 10% | 70% |  |
+| 80 | 11% | 60% | Median |
+| 81 | 11% | 49% |  |
+| 82 | 10% | 38% |  |
+| 83 | 8% | 29% |  |
+| 84 | 7% | 20% |  |
+| 85 | 5% | 14% |  |
+| 86 | 3% | 9% |  |
+| 87 | 2% | 5% |  |
+| 88 | 1.4% | 3% |  |
+| 89 | 0.8% | 2% |  |
+| 90 | 0.4% | 0.9% |  |
+| 91 | 0.2% | 0.4% |  |
+| 92 | 0.1% | 0.2% |  |
+| 93 | 0.1% | 0.1% |  |
+| 94 | 0% | 0% |  |
 
 

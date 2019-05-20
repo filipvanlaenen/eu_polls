@@ -8,18 +8,18 @@ Last result: **21** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | 21 | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
+| Non-Inscrits | 21 | 11 | 10–15 | 9–16 | 9–16 | 8–17 |
 | Jobbik [HU] (NI) | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Democratic Unionist Party [GB-NIR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko [SK] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή [GR] (NI) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Democratic Unionist Party [GB-NIR] (NI) | | 1 | 1 | 1 | 1 | 1 |
 | Die PARTEI [DE] (NI) | | 1 | 1–2 | 1–2 | 0–3 | 0–3 |
 | Εθνικό Λαϊκό Μέτωπο [CY] (NI) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας [GR] (NI) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | MKKP [HU] (NI) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom [HU] (NI) | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka [SI] (NI) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Атака [BG] (NI) | | 0 | 0 | 0 | 0 | 0 |
+| Атака [BG] (NI) | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 
 ### Probability Mass Function
 
@@ -29,18 +29,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 1.0% | 99.9% |  |
-| 9 | 5% | 98.9% |  |
-| 10 | 16% | 93% |  |
-| 11 | 28% | 77% | Median |
-| 12 | 27% | 50% |  |
-| 13 | 16% | 22% |  |
-| 14 | 5% | 6% |  |
-| 15 | 0.9% | 1.0% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 2% | 99.8% |  |
+| 9 | 8% | 98% |  |
+| 10 | 19% | 90% |  |
+| 11 | 24% | 71% | Median |
+| 12 | 17% | 47% |  |
+| 13 | 10% | 30% |  |
+| 14 | 8% | 20% |  |
+| 15 | 7% | 12% |  |
+| 16 | 4% | 5% |  |
+| 17 | 1.2% | 1.4% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% | Last Result |
