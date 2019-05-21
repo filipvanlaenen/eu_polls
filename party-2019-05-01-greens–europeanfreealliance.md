@@ -17,7 +17,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna [SE] (Greens/EFA) | | 2 | 2 | 2 | 2 | 1–3 |
+| Miljöpartiet de gröna [SE] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2–3 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
