@@ -21,6 +21,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
@@ -30,7 +31,6 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Green Party [GB-GBN] (Greens/EFA) | | 0 | 0–4 | 0–4 | 0–4 | 0–6 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -45,21 +45,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
-| 44 | 0.8% | 99.7% |  |
-| 45 | 2% | 98.9% |  |
+| 44 | 0.7% | 99.7% |  |
+| 45 | 2% | 99.0% |  |
 | 46 | 4% | 97% |  |
 | 47 | 7% | 93% |  |
-| 48 | 11% | 85% |  |
-| 49 | 13% | 75% |  |
-| 50 | 14% | 62% | Median |
-| 51 | 13% | 48% |  |
-| 52 | 11% | 35% | Last Result |
+| 48 | 10% | 86% |  |
+| 49 | 13% | 76% |  |
+| 50 | 14% | 63% | Median |
+| 51 | 13% | 49% |  |
+| 52 | 11% | 36% | Last Result |
 | 53 | 9% | 24% |  |
-| 54 | 6% | 15% |  |
-| 55 | 4% | 8% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.1% | 2% |  |
-| 58 | 0.5% | 0.8% |  |
+| 54 | 7% | 15% |  |
+| 55 | 4% | 9% |  |
+| 56 | 2% | 5% |  |
+| 57 | 1.2% | 2% |  |
+| 58 | 0.6% | 0.9% |  |
 | 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
