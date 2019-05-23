@@ -8,65 +8,63 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 34 | 31–37 | 31–37 | 30–38 | 29–39 |
+| European Conservatives and Reformists | 76 | 55 | 50–60 | 49–61 | 48–63 | 46–66 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 21 | 18–22 | 17–23 | 17–23 | 16–24 |
+| Conservative Party [GB-GBN] (ECR) | | 8 | 3–9 | 3–9 | 2–9 | 1–9 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Fratelli d’Italia [IT] (ECR) | | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
+| N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista [HR] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
+| Partija tvarka ir teisingumas [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ВМРО–Българско Национално Движение [BG] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Debout la France [FR] (ECR) | | 0 | 0 | 0–6 | 0–6 | 0–6 |
+| Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Lietuvos Centro Partija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Ανεξάρτητοι Έλληνες [GR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-26-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-26.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.2% | 100% |  |
-| 29 | 1.0% | 99.7% |  |
-| 30 | 3% | 98.8% |  |
-| 31 | 6% | 96% |  |
-| 32 | 10% | 90% |  |
-| 33 | 14% | 80% |  |
-| 34 | 17% | 66% | Median |
-| 35 | 19% | 48% |  |
-| 36 | 16% | 30% |  |
-| 37 | 9% | 14% |  |
-| 38 | 4% | 5% |  |
-| 39 | 0.9% | 1.0% |  |
-| 40 | 0.1% | 0.2% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0.1% | 99.9% |  |
+| 45 | 0.2% | 99.8% |  |
+| 46 | 0.5% | 99.6% |  |
+| 47 | 1.0% | 99.1% |  |
+| 48 | 2% | 98% |  |
+| 49 | 3% | 96% |  |
+| 50 | 4% | 94% |  |
+| 51 | 5% | 90% |  |
+| 52 | 7% | 85% |  |
+| 53 | 8% | 78% |  |
+| 54 | 10% | 69% |  |
+| 55 | 10% | 60% | Median |
+| 56 | 11% | 50% |  |
+| 57 | 10% | 39% |  |
+| 58 | 9% | 29% |  |
+| 59 | 7% | 19% |  |
+| 60 | 5% | 12% |  |
+| 61 | 3% | 8% |  |
+| 62 | 2% | 5% |  |
+| 63 | 1.2% | 3% |  |
+| 64 | 0.8% | 2% |  |
+| 65 | 0.5% | 1.1% |  |
+| 66 | 0.3% | 0.5% |  |
+| 67 | 0.1% | 0.2% |  |
+| 68 | 0.1% | 0.1% |  |
 | 69 | 0% | 0% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
