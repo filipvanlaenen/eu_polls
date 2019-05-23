@@ -31,9 +31,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Green Party [IE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -45,8 +45,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
-| 44 | 0.6% | 99.7% |  |
-| 45 | 1.3% | 99.1% |  |
+| 44 | 0.5% | 99.7% |  |
+| 45 | 1.3% | 99.2% |  |
 | 46 | 3% | 98% |  |
 | 47 | 4% | 95% |  |
 | 48 | 6% | 91% |  |
@@ -59,12 +59,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 8% | 30% |  |
 | 56 | 7% | 22% |  |
 | 57 | 5% | 15% |  |
-| 58 | 4% | 10% |  |
+| 58 | 4% | 9% |  |
 | 59 | 2% | 6% |  |
 | 60 | 2% | 3% |  |
 | 61 | 0.9% | 2% |  |
-| 62 | 0.5% | 0.9% |  |
-| 63 | 0.2% | 0.4% |  |
+| 62 | 0.5% | 0.8% |  |
+| 63 | 0.2% | 0.3% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 
