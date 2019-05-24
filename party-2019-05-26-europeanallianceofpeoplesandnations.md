@@ -11,7 +11,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | European Alliance of Peoples and Nations | 37 | 78 | 74–83 | 72–85 | 71–86 | 69–88 |
 | Lega Nord [IT] (EAPN) | | 24 | 22–27 | 20–28 | 20–30 | 19–31 |
 | Rassemblement national [FR] (EAPN) | | 22 | 20–23 | 19–25 | 19–25 | 17–26 |
-| Alternative für Deutschland [DE] (EAPN) | | 12 | 10–14 | 10–14 | 9–14 | 9–15 |
+| Alternative für Deutschland [DE] (EAPN) | | 12 | 10–14 | 10–14 | 9–14 | 8–15 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Vox [ES] (EAPN) | | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
 | Dansk Folkeparti [DK] (EAPN) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -21,7 +21,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | SME RODINA [SK] (EAPN) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Vlaams Belang [BE-VLG] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
+| Neovisni za Hrvatsku [HR] (EAPN) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | UK Independence Party [GB-GBN] (EAPN) | | 0 | 0 | 0 | 0 | 0 |
 | Ελληνική Λύση [GR] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Воля [BG] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -68,27 +68,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.2% | 99.9% |  |
 | 69 | 0.4% | 99.7% |  |
 | 70 | 0.7% | 99.3% |  |
-| 71 | 1.4% | 98.6% |  |
+| 71 | 1.3% | 98.6% |  |
 | 72 | 2% | 97% |  |
 | 73 | 4% | 95% |  |
 | 74 | 5% | 91% |  |
 | 75 | 7% | 86% |  |
 | 76 | 9% | 79% |  |
-| 77 | 10% | 70% |  |
-| 78 | 11% | 60% | Median |
-| 79 | 11% | 49% |  |
-| 80 | 10% | 38% |  |
-| 81 | 8% | 28% |  |
+| 77 | 10% | 71% |  |
+| 78 | 11% | 61% | Median |
+| 79 | 11% | 50% |  |
+| 80 | 10% | 39% |  |
+| 81 | 8% | 29% |  |
 | 82 | 7% | 20% |  |
-| 83 | 5% | 13% |  |
-| 84 | 3% | 8% |  |
+| 83 | 5% | 14% |  |
+| 84 | 3% | 9% |  |
 | 85 | 2% | 5% |  |
-| 86 | 1.3% | 3% |  |
+| 86 | 1.4% | 3% |  |
 | 87 | 0.8% | 2% |  |
-| 88 | 0.4% | 0.8% |  |
+| 88 | 0.4% | 0.9% |  |
 | 89 | 0.2% | 0.4% |  |
 | 90 | 0.1% | 0.2% |  |
-| 91 | 0% | 0.1% |  |
+| 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
 

@@ -8,22 +8,22 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 52 | 47–56 | 46–58 | 45–59 | 44–62 |
-| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
+| Greens–European Free Alliance | 52 | 51 | 47–56 | 46–58 | 45–59 | 44–62 |
+| BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–10 | 5–11 | 5–11 | 4–11 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Ahora Repúblicas [ES] (Greens/EFA) | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Ecolo [BE-FRC] (Greens/EFA) | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Green Party [GB-GBN] (Greens/EFA) | | 2 | 0–6 | 0–7 | 0–7 | 0–10 |
 | Groen [BE-VLG] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Green Party [GB-GBN] (Greens/EFA) | | 1 | 0–6 | 0–7 | 0–7 | 0–9 |
 | LMP [HU] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Plaid Cymru [GB-GBN] (Greens/EFA) | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -43,29 +43,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.9% |  |
+| 43 | 0.2% | 99.9% |  |
 | 44 | 0.7% | 99.6% |  |
-| 45 | 1.5% | 99.0% |  |
+| 45 | 2% | 99.0% |  |
 | 46 | 3% | 97% |  |
-| 47 | 5% | 95% |  |
-| 48 | 7% | 90% |  |
-| 49 | 9% | 83% |  |
-| 50 | 11% | 73% |  |
-| 51 | 12% | 62% |  |
-| 52 | 11% | 50% | Last Result, Median |
-| 53 | 10% | 39% |  |
-| 54 | 8% | 29% |  |
-| 55 | 6% | 21% |  |
-| 56 | 5% | 15% |  |
-| 57 | 4% | 10% |  |
-| 58 | 2% | 6% |  |
-| 59 | 2% | 4% |  |
-| 60 | 1.0% | 2% |  |
-| 61 | 0.6% | 1.3% |  |
-| 62 | 0.3% | 0.7% |  |
-| 63 | 0.2% | 0.3% |  |
-| 64 | 0.1% | 0.2% |  |
-| 65 | 0% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 47 | 5% | 94% |  |
+| 48 | 8% | 89% |  |
+| 49 | 11% | 81% |  |
+| 50 | 12% | 70% |  |
+| 51 | 12% | 58% | Median |
+| 52 | 11% | 46% | Last Result |
+| 53 | 9% | 35% |  |
+| 54 | 7% | 26% |  |
+| 55 | 6% | 19% |  |
+| 56 | 4% | 13% |  |
+| 57 | 3% | 8% |  |
+| 58 | 2% | 5% |  |
+| 59 | 1.3% | 3% |  |
+| 60 | 0.8% | 2% |  |
+| 61 | 0.5% | 1.0% |  |
+| 62 | 0.3% | 0.5% |  |
+| 63 | 0.1% | 0.3% |  |
+| 64 | 0.1% | 0.1% |  |
+| 65 | 0% | 0% |  |
 
 
