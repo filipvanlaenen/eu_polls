@@ -11,10 +11,9 @@ Last result: **41** seats (General Election of 25 May 2014)
 | Europe of Freedom and Direct Democracy | 41 | 22 | 19–24 | 18–25 | 17–25 | 16–26 |
 | Movimento 5 Stelle [IT] (EFDD) | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | Kukiz’15 [PL] (EFDD) | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 0–2 |
+| Živi zid [HR] (EFDD) | | 1 | 1 | 1 | 1 | 0–1 |
 | KORWiN [PL] (EFDD) | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Les Patriotes [FR] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
-| Liike Nyt [FI] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire [BE-FRC] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
 | Национален фронт за спасение на България [BG] (EFDD) | | 0 | 0 | 0 | 0–1 | 0–1 |
 
