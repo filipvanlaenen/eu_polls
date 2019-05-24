@@ -8,7 +8,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 36 | 34–39 | 33–40 | 32–40 | 31–41 |
+| European Conservatives and Reformists | 76 | 36 | 33–38 | 32–39 | 31–40 | 30–41 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 21 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -17,7 +17,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
 | Slovenská národná strana [SK] (ECR) | | 1 | 1 | 1 | 1 | 1 |
-| Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -27,19 +27,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.2% | 100% |  |
-| 31 | 0.9% | 99.8% |  |
-| 32 | 3% | 98.8% |  |
-| 33 | 6% | 96% |  |
-| 34 | 10% | 90% |  |
-| 35 | 14% | 81% |  |
-| 36 | 17% | 67% | Median |
-| 37 | 19% | 50% |  |
-| 38 | 16% | 31% |  |
-| 39 | 10% | 15% |  |
-| 40 | 4% | 5% |  |
-| 41 | 1.1% | 1.4% |  |
-| 42 | 0.2% | 0.3% |  |
+| 29 | 0.2% | 100% |  |
+| 30 | 0.8% | 99.8% |  |
+| 31 | 2% | 99.0% |  |
+| 32 | 5% | 97% |  |
+| 33 | 9% | 92% |  |
+| 34 | 12% | 83% |  |
+| 35 | 16% | 71% |  |
+| 36 | 18% | 55% | Median |
+| 37 | 16% | 37% |  |
+| 38 | 11% | 20% |  |
+| 39 | 6% | 9% |  |
+| 40 | 2% | 3% |  |
+| 41 | 0.6% | 0.7% |  |
+| 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |

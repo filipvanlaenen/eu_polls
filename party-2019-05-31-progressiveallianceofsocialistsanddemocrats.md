@@ -8,18 +8,18 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 45 | 42–48 | 41–49 | 40–50 | 39–52 |
-| Partidul Social Democrat [RO] (S&D) | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
-| Partido Socialista [PT] (S&D) | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
+| Progressive Alliance of Socialists and Democrats | 186 | 44 | 41–48 | 40–49 | 39–49 | 37–51 |
+| Partidul Social Democrat [RO] (S&D) | | 10 | 6–12 | 6–12 | 6–12 | 6–13 |
+| Partido Socialista [PT] (S&D) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Wiosna–Partia Razem [PL] (S&D) | | 6 | 4–8 | 4–9 | 4–9 | 3–10 |
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partit Laburista [MT] (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| PRO România [RO] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| PRO România [RO] (S&D) | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid [NL] (S&D) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia [SK] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresīvie [LV] (S&D) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialni demokrati [SI] (S&D) | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
+| Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -29,23 +29,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.4% | 99.9% |  |
-| 39 | 1.1% | 99.5% |  |
-| 40 | 3% | 98% |  |
-| 41 | 5% | 96% |  |
-| 42 | 9% | 91% |  |
-| 43 | 12% | 82% |  |
-| 44 | 15% | 70% |  |
-| 45 | 15% | 55% | Median |
-| 46 | 14% | 39% |  |
-| 47 | 11% | 25% |  |
-| 48 | 7% | 15% |  |
-| 49 | 4% | 7% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.9% | 1.5% |  |
-| 52 | 0.4% | 0.5% |  |
-| 53 | 0.1% | 0.2% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.5% | 99.9% |  |
+| 38 | 1.3% | 99.4% |  |
+| 39 | 3% | 98% |  |
+| 40 | 5% | 95% |  |
+| 41 | 8% | 90% |  |
+| 42 | 10% | 83% |  |
+| 43 | 13% | 72% |  |
+| 44 | 15% | 59% | Median |
+| 45 | 14% | 45% |  |
+| 46 | 12% | 30% |  |
+| 47 | 8% | 19% |  |
+| 48 | 5% | 10% |  |
+| 49 | 3% | 5% |  |
+| 50 | 1.4% | 2% |  |
+| 51 | 0.6% | 0.9% |  |
+| 52 | 0.2% | 0.3% |  |
+| 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
