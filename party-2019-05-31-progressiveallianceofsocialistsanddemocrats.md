@@ -8,12 +8,13 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 41 | 38–44 | 37–45 | 36–46 | 35–48 |
-| Partidul Social Democrat [RO] (S&D) | | 9 | 7–12 | 7–12 | 7–12 | 6–13 |
+| Progressive Alliance of Socialists and Democrats | 186 | 45 | 42–48 | 41–49 | 40–50 | 39–52 |
+| Partidul Social Democrat [RO] (S&D) | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Partido Socialista [PT] (S&D) | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Wiosna–Partia Razem [PL] (S&D) | | 6 | 4–8 | 4–9 | 4–9 | 3–10 |
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partit Laburista [MT] (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| PRO România [RO] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partij van de Arbeid [NL] (S&D) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia [SK] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -28,27 +29,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
-| 34 | 0.3% | 99.9% |  |
-| 35 | 1.0% | 99.6% |  |
-| 36 | 2% | 98.6% |  |
-| 37 | 5% | 96% |  |
-| 38 | 8% | 92% |  |
-| 39 | 11% | 84% |  |
-| 40 | 14% | 72% |  |
-| 41 | 15% | 58% | Median |
-| 42 | 14% | 43% |  |
-| 43 | 11% | 29% |  |
-| 44 | 8% | 18% |  |
-| 45 | 5% | 10% |  |
-| 46 | 3% | 5% |  |
-| 47 | 1.3% | 2% |  |
-| 48 | 0.6% | 0.9% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0.1% | 0.1% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.4% | 99.9% |  |
+| 39 | 1.1% | 99.5% |  |
+| 40 | 3% | 98% |  |
+| 41 | 5% | 96% |  |
+| 42 | 9% | 91% |  |
+| 43 | 12% | 82% |  |
+| 44 | 15% | 70% |  |
+| 45 | 15% | 55% | Median |
+| 46 | 14% | 39% |  |
+| 47 | 11% | 25% |  |
+| 48 | 7% | 15% |  |
+| 49 | 4% | 7% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.9% | 1.5% |  |
+| 52 | 0.4% | 0.5% |  |
+| 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |

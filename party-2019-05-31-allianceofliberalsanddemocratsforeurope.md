@@ -8,11 +8,10 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
-| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Alliance of Liberals and Democrats for Europe | 68 | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
+| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| PRO România [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Lista Marjana Šarca [SI] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -31,18 +30,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.1% | 100% |  |
-| 21 | 0.7% | 99.9% |  |
-| 22 | 3% | 99.3% |  |
-| 23 | 10% | 96% |  |
-| 24 | 16% | 86% |  |
-| 25 | 20% | 70% |  |
-| 26 | 18% | 50% | Median |
-| 27 | 14% | 32% |  |
-| 28 | 10% | 17% |  |
-| 29 | 5% | 7% |  |
-| 30 | 2% | 2% |  |
-| 31 | 0.3% | 0.4% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 1.4% | 99.9% |  |
+| 20 | 7% | 98.5% |  |
+| 21 | 16% | 91% |  |
+| 22 | 24% | 75% |  |
+| 23 | 24% | 51% | Median |
+| 24 | 17% | 27% |  |
+| 25 | 8% | 10% |  |
+| 26 | 2% | 2% |  |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |

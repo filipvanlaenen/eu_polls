@@ -8,66 +8,66 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 57 | 51–62 | 49–63 | 48–65 | 46–68 |
+| European Conservatives and Reformists | 76 | 36 | 34–39 | 33–40 | 32–40 | 31–41 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 21 | 18–22 | 17–23 | 17–23 | 16–24 |
-| Conservative Party [GB-GBN] (ECR) | | 8 | 1–8 | 1–9 | 1–9 | 1–10 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
-| Fratelli d’Italia [IT] (ECR) | | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
-| N-VA [BE-VLG] (ECR) | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
-| Občanská demokratická strana [CZ] (ECR) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Sloboda a Solidarita [SK] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos lenkų rinkimų akcija [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Most nezavisnih lista [HR] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti [SK] (ECR) | | 1 | 1 | 1 | 1 | 1–2 |
-| Partija tvarka ir teisingumas [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana [SK] (ECR) | | 1 | 1 | 1 | 1 | 1 |
-| ВМРО–Българско Национално Движение [BG] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Debout la France [FR] (ECR) | | 0 | 0 | 0–6 | 0–6 | 0–6 |
-| Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Lietuvos Centro Partija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ανεξάρτητοι Έλληνες [GR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-05-26-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-05-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-05-26.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-05-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
-| 44 | 0.1% | 99.9% |  |
-| 45 | 0.2% | 99.8% |  |
-| 46 | 0.5% | 99.6% |  |
-| 47 | 0.9% | 99.1% |  |
-| 48 | 1.5% | 98% |  |
-| 49 | 2% | 97% |  |
-| 50 | 3% | 95% |  |
-| 51 | 4% | 92% |  |
-| 52 | 5% | 88% |  |
-| 53 | 5% | 83% |  |
-| 54 | 6% | 77% |  |
-| 55 | 7% | 71% |  |
-| 56 | 8% | 64% |  |
-| 57 | 9% | 56% | Median |
-| 58 | 10% | 47% |  |
-| 59 | 10% | 37% |  |
-| 60 | 9% | 27% |  |
-| 61 | 7% | 18% |  |
-| 62 | 4% | 12% |  |
-| 63 | 3% | 7% |  |
-| 64 | 2% | 5% |  |
-| 65 | 1.1% | 3% |  |
-| 66 | 0.8% | 2% |  |
-| 67 | 0.5% | 1.1% |  |
-| 68 | 0.3% | 0.5% |  |
-| 69 | 0.1% | 0.2% |  |
-| 70 | 0.1% | 0.1% |  |
+| 30 | 0.2% | 100% |  |
+| 31 | 0.9% | 99.8% |  |
+| 32 | 3% | 98.8% |  |
+| 33 | 6% | 96% |  |
+| 34 | 10% | 90% |  |
+| 35 | 14% | 81% |  |
+| 36 | 17% | 67% | Median |
+| 37 | 19% | 50% |  |
+| 38 | 16% | 31% |  |
+| 39 | 10% | 15% |  |
+| 40 | 4% | 5% |  |
+| 41 | 1.1% | 1.4% |  |
+| 42 | 0.2% | 0.3% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
+| 66 | 0% | 0% |  |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
