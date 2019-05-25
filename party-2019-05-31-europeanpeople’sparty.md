@@ -17,8 +17,8 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Kristdemokraterna [SE] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partidul Mișcarea Populară [RO] (EPP) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
-| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
+| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,14 +39,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 0.8% | 99.7% |  |
-| 51 | 2% | 98.9% |  |
+| 49 | 0.2% | 99.9% |  |
+| 50 | 0.7% | 99.7% |  |
+| 51 | 2% | 99.0% |  |
 | 52 | 4% | 97% |  |
-| 53 | 6% | 93% |  |
+| 53 | 6% | 94% |  |
 | 54 | 9% | 87% |  |
 | 55 | 11% | 78% |  |
-| 56 | 13% | 66% |  |
+| 56 | 13% | 67% |  |
 | 57 | 13% | 54% | Median |
 | 58 | 12% | 41% |  |
 | 59 | 10% | 29% |  |

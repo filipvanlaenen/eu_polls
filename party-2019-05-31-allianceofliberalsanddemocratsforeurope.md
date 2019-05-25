@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
+| Alliance of Liberals and Democrats for Europe | 68 | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității [RO] (ALDE) | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Partidul Alianța Liberalilor și Democraților [RO] (ALDE) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -31,15 +31,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 1.5% | 99.9% |  |
-| 20 | 7% | 98% |  |
-| 21 | 14% | 91% |  |
-| 22 | 21% | 77% |  |
-| 23 | 22% | 56% | Median |
-| 24 | 17% | 34% |  |
-| 25 | 11% | 17% |  |
+| 19 | 1.2% | 99.9% |  |
+| 20 | 6% | 98.7% |  |
+| 21 | 15% | 92% |  |
+| 22 | 22% | 77% |  |
+| 23 | 22% | 55% | Median |
+| 24 | 18% | 33% |  |
+| 25 | 10% | 15% |  |
 | 26 | 4% | 5% |  |
-| 27 | 0.9% | 1.0% |  |
+| 27 | 0.8% | 0.8% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
