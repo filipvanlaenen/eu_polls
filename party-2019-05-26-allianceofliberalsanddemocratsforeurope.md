@@ -25,8 +25,8 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Lista Marjana Šarca [SI] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | MR [BE-FRC] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
-| Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Движение за права и свободи [BG] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Amsterdamska koalicija [HR] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -96,7 +96,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 2% | 96% |  |
 | 98 | 4% | 94% |  |
 | 99 | 5% | 90% |  |
-| 100 | 6% | 85% |  |
+| 100 | 6% | 86% |  |
 | 101 | 7% | 79% |  |
 | 102 | 8% | 72% |  |
 | 103 | 9% | 64% |  |

@@ -24,7 +24,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin [GB-NIR] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Socialistische Partij [NL] (GUE/NGL) | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto [FI] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
 | Jaunā Saskaņa [LV] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica [SI] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,14 +45,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.5% | 99.8% |  |
+| 41 | 0.4% | 99.8% |  |
 | 42 | 1.2% | 99.4% |  |
 | 43 | 3% | 98% |  |
 | 44 | 5% | 95% |  |
 | 45 | 9% | 90% |  |
 | 46 | 13% | 81% |  |
 | 47 | 15% | 68% |  |
-| 48 | 15% | 53% | Median |
+| 48 | 15% | 54% | Median |
 | 49 | 13% | 38% |  |
 | 50 | 10% | 25% |  |
 | 51 | 7% | 15% |  |
