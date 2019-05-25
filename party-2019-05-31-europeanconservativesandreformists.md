@@ -8,8 +8,8 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 36 | 33–38 | 32–39 | 31–39 | 30–40 |
-| Prawo i Sprawiedliwość [PL] (ECR) | | 21 | 18–22 | 17–23 | 17–23 | 16–24 |
+| European Conservatives and Reformists | 76 | 35 | 33–38 | 32–39 | 31–39 | 30–40 |
+| Prawo i Sprawiedliwość [PL] (ECR) | | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -28,18 +28,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.2% | 100% |  |
-| 30 | 0.8% | 99.8% |  |
+| 30 | 0.9% | 99.8% |  |
 | 31 | 3% | 98.9% |  |
-| 32 | 5% | 96% |  |
-| 33 | 9% | 91% |  |
-| 34 | 13% | 82% |  |
-| 35 | 17% | 69% |  |
-| 36 | 18% | 52% | Median |
-| 37 | 16% | 33% |  |
-| 38 | 11% | 17% |  |
-| 39 | 5% | 7% |  |
-| 40 | 1.4% | 2% |  |
-| 41 | 0.3% | 0.3% |  |
+| 32 | 6% | 96% |  |
+| 33 | 10% | 90% |  |
+| 34 | 15% | 80% |  |
+| 35 | 18% | 65% | Median |
+| 36 | 18% | 47% |  |
+| 37 | 15% | 29% |  |
+| 38 | 9% | 14% |  |
+| 39 | 4% | 5% |  |
+| 40 | 1.1% | 1.4% |  |
+| 41 | 0.2% | 0.3% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

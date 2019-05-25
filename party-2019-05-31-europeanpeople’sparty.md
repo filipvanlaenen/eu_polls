@@ -11,7 +11,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | European People’s Party | 217 | 57 | 53–61 | 52–62 | 51–63 | 50–65 |
 | Koalicja Europejska [PL] (EPP) | | 19 | 17–23 | 16–24 | 16–24 | 15–25 |
 | Partidul Național Liberal [RO] (EPP) | | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
-| Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| Partido Social Democrata [PT] (EPP) | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Moderata samlingspartiet [SE] (EPP) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -39,23 +39,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 48 | 0.1% | 100% |  |
-| 49 | 0.2% | 99.9% |  |
-| 50 | 0.7% | 99.7% |  |
-| 51 | 2% | 99.0% |  |
+| 49 | 0.3% | 99.9% |  |
+| 50 | 0.8% | 99.7% |  |
+| 51 | 2% | 98.9% |  |
 | 52 | 4% | 97% |  |
-| 53 | 6% | 94% |  |
-| 54 | 9% | 88% |  |
-| 55 | 11% | 79% |  |
-| 56 | 13% | 68% |  |
-| 57 | 13% | 55% | Median |
-| 58 | 12% | 42% |  |
-| 59 | 10% | 30% |  |
-| 60 | 8% | 20% |  |
-| 61 | 5% | 13% |  |
+| 53 | 6% | 93% |  |
+| 54 | 9% | 87% |  |
+| 55 | 11% | 78% |  |
+| 56 | 13% | 66% |  |
+| 57 | 13% | 54% | Median |
+| 58 | 12% | 41% |  |
+| 59 | 10% | 29% |  |
+| 60 | 7% | 19% |  |
+| 61 | 5% | 12% |  |
 | 62 | 3% | 7% |  |
 | 63 | 2% | 4% |  |
-| 64 | 1.1% | 2% |  |
-| 65 | 0.5% | 0.8% |  |
+| 64 | 1.0% | 2% |  |
+| 65 | 0.5% | 0.7% |  |
 | 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |

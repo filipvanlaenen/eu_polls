@@ -9,7 +9,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | 52 | 7 | 6–9 | 5–9 | 5–9 | 4–10 |
-| Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -25,14 +25,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 1.2% | 99.9% |  |
-| 5 | 7% | 98.7% |  |
-| 6 | 22% | 91% |  |
-| 7 | 33% | 69% | Median |
-| 8 | 26% | 36% |  |
-| 9 | 9% | 11% |  |
-| 10 | 1.2% | 1.2% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 6% | 99.0% |  |
+| 6 | 20% | 93% |  |
+| 7 | 33% | 72% | Median |
+| 8 | 27% | 39% |  |
+| 9 | 10% | 12% |  |
+| 10 | 1.4% | 1.5% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |

@@ -8,9 +8,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Parties currently not represented in the EP | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Aliança [PT] (*) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Aliança [PT] (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -21,9 +21,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 19% | 20% |  |
-| 2 | 1.1% | 1.1% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 
