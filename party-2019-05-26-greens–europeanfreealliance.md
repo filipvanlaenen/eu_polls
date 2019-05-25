@@ -8,9 +8,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 52 | 48–57 | 47–58 | 46–59 | 44–61 |
+| Greens–European Free Alliance | 52 | 52 | 48–56 | 47–58 | 46–59 | 44–61 |
 | BÜNDNIS 90/DIE GRÜNEN [DE] (Greens/EFA) | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
-| Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–9 | 5–10 | 4–10 | 4–11 |
+| Europe Écologie Les Verts [FR] (Greens/EFA) | | 7 | 5–9 | 5–10 | 5–10 | 4–11 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga [LT] (Greens/EFA) | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Scottish National Party [GB-GBN] (Greens/EFA) | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -30,7 +30,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Green Party [IE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza [PT] (Greens/EFA) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Primavera Europea [ES] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών [CY] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -45,25 +45,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
 | 44 | 0.5% | 99.7% |  |
-| 45 | 1.1% | 99.3% |  |
+| 45 | 1.2% | 99.2% |  |
 | 46 | 2% | 98% |  |
 | 47 | 4% | 96% |  |
-| 48 | 6% | 92% |  |
-| 49 | 9% | 86% |  |
-| 50 | 11% | 77% |  |
-| 51 | 12% | 66% |  |
-| 52 | 12% | 55% | Last Result, Median |
-| 53 | 11% | 43% |  |
-| 54 | 9% | 32% |  |
-| 55 | 7% | 23% |  |
-| 56 | 5% | 16% |  |
-| 57 | 4% | 10% |  |
-| 58 | 3% | 6% |  |
-| 59 | 2% | 4% |  |
-| 60 | 1.0% | 2% |  |
-| 61 | 0.6% | 1.0% |  |
-| 62 | 0.3% | 0.5% |  |
-| 63 | 0.1% | 0.2% |  |
+| 48 | 7% | 91% |  |
+| 49 | 9% | 85% |  |
+| 50 | 11% | 75% |  |
+| 51 | 12% | 64% |  |
+| 52 | 12% | 52% | Last Result, Median |
+| 53 | 11% | 40% |  |
+| 54 | 9% | 30% |  |
+| 55 | 7% | 21% |  |
+| 56 | 5% | 14% |  |
+| 57 | 4% | 9% |  |
+| 58 | 2% | 6% |  |
+| 59 | 2% | 3% |  |
+| 60 | 0.9% | 2% |  |
+| 61 | 0.5% | 0.8% |  |
+| 62 | 0.2% | 0.4% |  |
+| 63 | 0.1% | 0.1% |  |
 | 64 | 0% | 0.1% |  |
 | 65 | 0% | 0% |  |
 

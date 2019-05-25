@@ -8,11 +8,11 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 174 | 168–179 | 167–181 | 165–182 | 163–185 |
-| CDU [DE] (EPP) | | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| European People’s Party | 217 | 174 | 168–179 | 167–181 | 165–183 | 163–185 |
+| CDU [DE] (EPP) | | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
 | Koalicja Europejska [PL] (EPP) | | 19 | 17–23 | 16–24 | 16–24 | 15–25 |
 | Fidesz–KDNP [HU] (EPP) | | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
-| Les Républicains [FR] (EPP) | | 12 | 10–14 | 10–14 | 9–14 | 9–15 |
+| Les Républicains [FR] (EPP) | | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
 | Partido Popular [ES] (EPP) | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Partidul Național Liberal [RO] (EPP) | | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -32,10 +32,10 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Kristdemokraterna [SE] (EPP) | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partidul Mișcarea Populară [RO] (EPP) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
 | TOP 09–Starostové a nezávislí–Strana zelených [CZ] (EPP) | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Δημοκρατικός Συναγερμός [CY] (EPP) | | 2 | 2 | 2 | 2 | 2 |
-| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,9 +65,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 100% |  |
 | 161 | 0.1% | 99.9% |  |
 | 162 | 0.2% | 99.8% |  |
-| 163 | 0.4% | 99.5% |  |
+| 163 | 0.4% | 99.6% |  |
 | 164 | 0.8% | 99.1% |  |
-| 165 | 1.3% | 98% |  |
+| 165 | 1.2% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 3% | 95% |  |
 | 168 | 4% | 92% |  |
@@ -78,15 +78,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 173 | 9% | 61% |  |
 | 174 | 9% | 52% | Median |
 | 175 | 9% | 43% |  |
-| 176 | 8% | 34% |  |
-| 177 | 7% | 26% |  |
+| 176 | 8% | 35% |  |
+| 177 | 7% | 27% |  |
 | 178 | 6% | 20% |  |
 | 179 | 4% | 14% |  |
 | 180 | 3% | 10% |  |
-| 181 | 2% | 6% |  |
+| 181 | 2% | 7% |  |
 | 182 | 2% | 4% |  |
-| 183 | 1.0% | 2% |  |
-| 184 | 0.6% | 1.4% |  |
+| 183 | 1.1% | 3% |  |
+| 184 | 0.6% | 1.5% |  |
 | 185 | 0.4% | 0.8% |  |
 | 186 | 0.2% | 0.4% |  |
 | 187 | 0.1% | 0.2% |  |

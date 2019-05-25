@@ -10,7 +10,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | 52 | 48 | 45–51 | 44–52 | 43–53 | 41–54 |
 | DIE LINKE [DE] (GUE/NGL) | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
-| La France insoumise [FR] (GUE/NGL) | | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
+| La France insoumise [FR] (GUE/NGL) | | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda [PT] (GUE/NGL) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -30,7 +30,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Levica [SI] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | PVDA [BE-VLG] (GUE/NGL) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Parti communiste français [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
+| Parti communiste français [FR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–4 |
 | Partido Animalista Contra el Maltrato Animal [ES] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit [IE] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0 |
 | Λαϊκή Ενότητα [GR] (GUE/NGL) | | 0 | 0 | 0 | 0 | 0–1 |
@@ -55,13 +55,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 15% | 69% |  |
 | 48 | 16% | 53% | Median |
 | 49 | 14% | 38% |  |
-| 50 | 10% | 23% |  |
+| 50 | 10% | 24% |  |
 | 51 | 7% | 13% |  |
 | 52 | 4% | 6% | Last Result |
 | 53 | 2% | 3% |  |
-| 54 | 0.7% | 1.0% |  |
-| 55 | 0.2% | 0.4% |  |
-| 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 54 | 0.7% | 1.2% |  |
+| 55 | 0.3% | 0.4% |  |
+| 56 | 0.1% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 

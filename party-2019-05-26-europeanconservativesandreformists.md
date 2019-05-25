@@ -8,7 +8,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 56 | 51–61 | 49–62 | 48–63 | 46–65 |
+| European Conservatives and Reformists | 76 | 56 | 51–60 | 49–62 | 48–63 | 46–65 |
 | Prawo i Sprawiedliwość [PL] (ECR) | | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Conservative Party [GB-GBN] (ECR) | | 8 | 1–9 | 1–9 | 1–10 | 1–11 |
 | Forum voor Democratie [NL] (ECR) | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -25,8 +25,8 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Partija tvarka ir teisingumas [LT] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana [SK] (ECR) | | 1 | 1 | 1 | 1 | 1 |
 | ВМРО–Българско Национално Движение [BG] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Debout la France [FR] (ECR) | | 0 | 0 | 0–4 | 0–4 | 0–5 |
-| Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0–1 |
+| Debout la France [FR] (ECR) | | 0 | 0 | 0 | 0–4 | 0–5 |
+| Hrvatska konzervativna stranka [HR] (ECR) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija [LT] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ulster Unionist Party [GB-NIR] (ECR) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -44,28 +44,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 99.9% |  |
 | 45 | 0.3% | 99.8% |  |
 | 46 | 0.5% | 99.5% |  |
-| 47 | 0.9% | 99.0% |  |
+| 47 | 1.0% | 99.0% |  |
 | 48 | 2% | 98% |  |
-| 49 | 2% | 97% |  |
+| 49 | 2% | 96% |  |
 | 50 | 3% | 94% |  |
 | 51 | 4% | 91% |  |
-| 52 | 5% | 87% |  |
-| 53 | 7% | 82% |  |
-| 54 | 8% | 75% |  |
-| 55 | 9% | 67% |  |
-| 56 | 10% | 58% | Median |
-| 57 | 11% | 48% |  |
-| 58 | 10% | 38% |  |
-| 59 | 9% | 27% |  |
-| 60 | 7% | 19% |  |
-| 61 | 5% | 12% |  |
-| 62 | 3% | 7% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.0% | 2% |  |
-| 65 | 0.5% | 1.0% |  |
-| 66 | 0.3% | 0.5% |  |
-| 67 | 0.1% | 0.2% |  |
-| 68 | 0.1% | 0.1% |  |
+| 52 | 6% | 86% |  |
+| 53 | 7% | 81% |  |
+| 54 | 8% | 74% |  |
+| 55 | 9% | 66% |  |
+| 56 | 10% | 57% | Median |
+| 57 | 11% | 46% |  |
+| 58 | 10% | 36% |  |
+| 59 | 9% | 25% |  |
+| 60 | 7% | 17% |  |
+| 61 | 4% | 10% |  |
+| 62 | 3% | 5% |  |
+| 63 | 1.4% | 3% |  |
+| 64 | 0.7% | 1.3% |  |
+| 65 | 0.3% | 0.6% |  |
+| 66 | 0.2% | 0.3% |  |
+| 67 | 0.1% | 0.1% |  |
+| 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
