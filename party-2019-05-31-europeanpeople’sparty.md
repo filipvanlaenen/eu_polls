@@ -22,7 +22,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 1 |
+| Kresťanskodemokratické hnutie [SK] (EPP) | | 1 | 1 | 1 | 1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati [SI] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0 |
@@ -39,24 +39,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 0.8% | 99.6% |  |
-| 51 | 2% | 98.8% |  |
+| 49 | 0.2% | 99.9% |  |
+| 50 | 0.7% | 99.7% |  |
+| 51 | 2% | 99.0% |  |
 | 52 | 4% | 97% |  |
-| 53 | 6% | 93% |  |
-| 54 | 9% | 87% |  |
-| 55 | 11% | 77% |  |
-| 56 | 13% | 66% |  |
-| 57 | 13% | 53% | Median |
-| 58 | 12% | 40% |  |
-| 59 | 10% | 28% |  |
-| 60 | 7% | 19% |  |
-| 61 | 5% | 12% |  |
+| 53 | 6% | 94% |  |
+| 54 | 9% | 88% |  |
+| 55 | 11% | 79% |  |
+| 56 | 13% | 68% |  |
+| 57 | 13% | 55% | Median |
+| 58 | 12% | 42% |  |
+| 59 | 10% | 30% |  |
+| 60 | 8% | 20% |  |
+| 61 | 5% | 13% |  |
 | 62 | 3% | 7% |  |
-| 63 | 2% | 3% |  |
-| 64 | 1.0% | 2% |  |
-| 65 | 0.4% | 0.7% |  |
-| 66 | 0.2% | 0.2% |  |
+| 63 | 2% | 4% |  |
+| 64 | 1.1% | 2% |  |
+| 65 | 0.5% | 0.8% |  |
+| 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |

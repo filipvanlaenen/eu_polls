@@ -13,7 +13,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Coligação Democrática Unitária [PT] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistische Partij [NL] (GUE/NGL) | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Socialistische Partij [NL] (GUE/NGL) | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Jaunā Saskaņa [LV] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica [SI] (GUE/NGL) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -26,12 +26,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 1.4% | 99.9% |  |
-| 5 | 8% | 98.5% |  |
+| 4 | 1.2% | 99.9% |  |
+| 5 | 7% | 98.7% |  |
 | 6 | 22% | 91% |  |
-| 7 | 33% | 68% | Median |
-| 8 | 25% | 35% |  |
-| 9 | 9% | 10% |  |
+| 7 | 33% | 69% | Median |
+| 8 | 26% | 36% |  |
+| 9 | 9% | 11% |  |
 | 10 | 1.2% | 1.2% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

@@ -15,7 +15,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Lista Marjana Šarca [SI] (ALDE) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia [SK] (ALDE) | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liberalerna [SE] (ALDE) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratična stranka upokojencev Slovenije [SI] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -31,13 +31,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 1.4% | 99.9% |  |
-| 20 | 7% | 98.5% |  |
-| 21 | 14% | 92% |  |
-| 22 | 21% | 78% |  |
+| 19 | 1.5% | 99.9% |  |
+| 20 | 7% | 98% |  |
+| 21 | 14% | 91% |  |
+| 22 | 21% | 77% |  |
 | 23 | 22% | 56% | Median |
-| 24 | 18% | 34% |  |
-| 25 | 11% | 16% |  |
+| 24 | 17% | 34% |  |
+| 25 | 11% | 17% |  |
 | 26 | 4% | 5% |  |
 | 27 | 0.9% | 1.0% |  |
 | 28 | 0.1% | 0.1% |  |
