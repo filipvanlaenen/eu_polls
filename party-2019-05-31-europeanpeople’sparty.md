@@ -18,7 +18,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Partidul Mișcarea Populară [RO] (EPP) | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista [MT] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka–Slovenska ljudska stranka [SI] (EPP) | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
-| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| CDS–Partido Popular [PT] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

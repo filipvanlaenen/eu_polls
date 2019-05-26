@@ -10,7 +10,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | 186 | 44 | 41–48 | 40–49 | 40–50 | 38–51 |
 | Partidul Social Democrat [RO] (S&D) | | 9 | 7–12 | 7–12 | 7–12 | 6–13 |
-| Partido Socialista [PT] (S&D) | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| Partido Socialista [PT] (S&D) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Wiosna–Partia Razem [PL] (S&D) | | 6 | 5–8 | 4–9 | 4–9 | 3–10 |
 | Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partit Laburista [MT] (S&D) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -30,14 +30,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.5% | 99.9% |  |
+| 38 | 0.4% | 99.9% |  |
 | 39 | 1.4% | 99.4% |  |
 | 40 | 3% | 98% |  |
-| 41 | 7% | 94% |  |
+| 41 | 7% | 95% |  |
 | 42 | 11% | 88% |  |
 | 43 | 14% | 77% |  |
-| 44 | 15% | 63% | Median |
-| 45 | 15% | 47% |  |
+| 44 | 16% | 63% | Median |
+| 45 | 15% | 48% |  |
 | 46 | 12% | 33% |  |
 | 47 | 9% | 21% |  |
 | 48 | 6% | 12% |  |
