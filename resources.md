@@ -22,3 +22,7 @@ The following resources have been used in order to create this site:
 + [Icelandic Polls](https://filipvanlaenen.github.io/icelandic_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
+
+## Previous Elections
+
++ [May 2019](20190526/index.html)
