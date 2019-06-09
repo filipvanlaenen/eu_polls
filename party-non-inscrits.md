@@ -8,13 +8,11 @@ Last result: **21** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | 21 |  | 1–3 | 1–3 | 1–3 | 1–3 |
-| Kotleba–Ľudová strana Naše Slovensko [SK] (NI) | |  | 1–2 | 1–2 | 1–2 | 1–2 |
-| Slovenska nacionalna stranka [SI] (NI) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
+| Non-Inscrits | 21 |  |  |  |  |  |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Non-Inscrits.
 

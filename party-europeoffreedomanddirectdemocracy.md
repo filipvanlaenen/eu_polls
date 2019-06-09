@@ -8,13 +8,11 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 |  | 0–5 | 0–5 | 0–6 | 0–7 |
-| KORWiN [PL] (EFDD) | |  | 0–4 | 0–4 | 0–5 | 0–5 |
-| Kukiz’15 [PL] (EFDD) | |  | 0–4 | 0–4 | 0–4 | 0–5 |
+| Europe of Freedom and Direct Democracy | 41 |  |  |  |  |  |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Europe of Freedom and Direct Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Europe of Freedom and Direct Democracy.
 

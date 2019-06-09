@@ -10,17 +10,17 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | N/A | 53–61 |52–62 | 51–63 | 50–65 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 186 | N/A | 41–48 |40–49 | 40–50 | 38–51 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 76 | N/A | 33–38 |32–39 | 31–39 | 30–40 |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | N/A | 21–25 |20–25 | 20–26 | 19–27 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | N/A | 6–8 |5–9 | 5–9 | 4–10 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 52 | N/A | 4–7 |4–7 | 4–7 | 4–8 |
-| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 41 | N/A | 0–5 |0–5 | 0–6 | 0–7 |
-| <a href="#european-alliance-of-peoples-and-nations">European Alliance of Peoples and Nations</a> | 37 | N/A | 2–4 |2–4 | 1–4 | 1–4 |
-| <a href="#non-inscrits">Non-Inscrits</a> | 21 | N/A | 1–3 |1–3 | 1–3 | 1–3 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | N/A | 7–8 |7–8 | 6–8 | 6–9 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 186 | N/A | 4–5 |3–5 | 3–5 | 3–5 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 76 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | N/A | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 52 | N/A | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 41 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#european-alliance-of-peoples-and-nations">European Alliance of Peoples and Nations</a> | 37 | N/A | 3–4 |3–4 | 3–4 | 3–5 |
+| <a href="#non-inscrits">Non-Inscrits</a> | 21 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#brexit-party">Brexit Party</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | N/A | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | N/A | 0 |0 | 0 | 0 |
 
 
 ## Voting Intentions
