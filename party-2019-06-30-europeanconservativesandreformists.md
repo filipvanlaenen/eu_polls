@@ -8,7 +8,8 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 |  |  |  |  |  |
+| European Conservatives and Reformists | 76 |  | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands [DE] (ECR) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
