@@ -8,9 +8,8 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 |  | 2–4 | 2–4 | 1–4 | 1–4 |
-| Partij voor de Vrijheid [NL] (EAPN) | |  | 1–2 | 1–2 | 0–3 | 0–3 |
-| SME RODINA [SK] (EAPN) | |  | 1 | 1–2 | 1–2 | 1–2 |
+| European Alliance of Peoples and Nations | 37 |  | 3–4 | 3–4 | 3–4 | 3–5 |
+| Freiheitliche Partei Österreichs [AT] (EAPN) | |  | 3–4 | 3–4 | 3–4 | 3–5 |
 
 ### Probability Mass Function
 
