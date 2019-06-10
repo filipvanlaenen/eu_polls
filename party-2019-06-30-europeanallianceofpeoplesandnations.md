@@ -8,8 +8,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 |  | 11–13 | 11–14 | 11–14 | 10–14 |
-| Alternative für Deutschland [DE] (EAPN) | |  | 11–13 | 11–14 | 11–14 | 10–14 |
+| European Alliance of Peoples and Nations | 37 |  |  |  |  |  |
 
 ### Probability Mass Function
 

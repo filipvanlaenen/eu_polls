@@ -8,7 +8,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 |  | 0 | 0 | 0 | 0 |
+| Parties currently not represented in the EP | 0 |  |  |  |  |  |
 
 ### Probability Mass Function
 

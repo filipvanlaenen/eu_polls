@@ -8,8 +8,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 |  | 11–13 | 11–14 | 11–14 | 10–14 |
-| Sozialdemokratische Partei Deutschlands [DE] (S&D) | |  | 11–13 | 11–14 | 11–14 | 10–14 |
+| Progressive Alliance of Socialists and Democrats | 186 |  |  |  |  |  |
 
 ### Probability Mass Function
 
