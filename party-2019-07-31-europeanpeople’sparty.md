@@ -8,9 +8,9 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 |  | 25–27 | 25–27 | 23–27 | 22–27 |
-| Christlich Demokratische Union Deutschlands [DE] (EPP) | |  | 19–22 | 19–22 | 18–22 | 17–22 |
-| Christlich-Soziale Union in Bayern [DE] (EPP) | |  | 5–6 | 5–8 | 5–8 | 4–8 |
+| European People’s Party | 217 |  | 24–28 | 23–28 | 23–28 | 22–28 |
+| Christlich Demokratische Union Deutschlands [DE] (EPP) | |  | 18–22 | 18–22 | 18–22 | 17–22 |
+| Christlich-Soziale Union in Bayern [DE] (EPP) | |  | 5–6 | 4–6 | 4–6 | 4–7 |
 
 ### Probability Mass Function
 

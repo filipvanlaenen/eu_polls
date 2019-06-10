@@ -10,14 +10,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 217 | N/A | 25–27 |25–27 | 23–27 | 22–27 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 186 | N/A | 11–13 |11–14 | 11–14 | 10–14 |
+| <a href="#european-people’s-party">European People’s Party</a> | 217 | N/A | 24–28 |23–28 | 23–28 | 22–28 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 186 | N/A | 11–16 |11–16 | 10–16 | 10–16 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 76 | N/A | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | N/A | 8–9 |8–10 | 7–11 | 6–11 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | N/A | 7–9 |7–9 | 7–9 | 7–10 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 52 | N/A | 26–29 |26–29 | 26–30 | 25–31 |
+| <a href="#alliance-of-liberals-and-democrats-for-europe">Alliance of Liberals and Democrats for Europe</a> | 68 | N/A | 8–10 |7–11 | 7–11 | 7–11 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 52 | N/A | 7–9 |7–9 | 7–9 | 6–10 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 52 | N/A | 22–29 |20–29 | 20–30 | 20–31 |
 | <a href="#europe-of-freedom-and-direct-democracy">Europe of Freedom and Direct Democracy</a> | 41 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#european-alliance-of-peoples-and-nations">European Alliance of Peoples and Nations</a> | 37 | N/A | 11–13 |11–14 | 11–14 | 10–14 |
+| <a href="#european-alliance-of-peoples-and-nations">European Alliance of Peoples and Nations</a> | 37 | N/A | 10–14 |10–15 | 10–15 | 9–15 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 21 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#brexit-party">Brexit Party</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | N/A | 0 |0 | 0 | 0 |

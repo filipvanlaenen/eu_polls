@@ -8,8 +8,8 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 |  | 26–29 | 26–29 | 26–30 | 25–31 |
-| Bündnis 90/Die Grünen [DE] (Greens/EFA) | |  | 24–27 | 23–27 | 23–27 | 22–27 |
+| Greens–European Free Alliance | 52 |  | 22–29 | 20–29 | 20–30 | 20–31 |
+| Bündnis 90/Die Grünen [DE] (Greens/EFA) | |  | 18–26 | 18–26 | 18–27 | 18–28 |
 | Die PARTEI [DE] (Greens/EFA) | |  | 1–2 | 1–2 | 1–2 | 1–2 |
 | Piratenpartei Deutschland [DE] (Greens/EFA) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa [DE] (Greens/EFA) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
