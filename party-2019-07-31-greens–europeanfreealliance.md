@@ -8,13 +8,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 |  | 22–30 | 22–31 | 21–32 | 21–32 |
-| Alternativet [DK] (Greens/EFA) | |  | 0 | 0 | 0 | 0 |
-| Bündnis 90/Die Grünen [DE] (Greens/EFA) | |  | 19–26 | 17–26 | 17–27 | 17–28 |
-| Die PARTEI [DE] (Greens/EFA) | |  | 1–2 | 1–2 | 1–2 | 1–2 |
+| Greens–European Free Alliance | 52 |  | 27–30 | 24–31 | 24–31 | 24–32 |
+| Alternativet [DK] (Greens/EFA) | |  | 0 | 0 | 0–1 | 0–1 |
+| Bündnis 90/Die Grünen [DE] (Greens/EFA) | |  | 23–26 | 21–27 | 21–28 | 21–28 |
+| Die PARTEI [DE] (Greens/EFA) | |  | 1–2 | 1–2 | 1–2 | 1–3 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | |  | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland [DE] (Greens/EFA) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti [DK] (Greens/EFA) | |  | 1 | 1 | 1–2 | 1–2 |
+| Socialistisk Folkeparti [DK] (Greens/EFA) | |  | 1 | 1 | 1 | 1–2 |
 | Volt Europa [DE] (Greens/EFA) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei [DE] (Greens/EFA) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
 
