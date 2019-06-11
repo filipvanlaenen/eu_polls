@@ -16,7 +16,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Freie Wähler [DE] (ALDE) | |  | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance [DK] (ALDE) | |  | 0 | 0 | 0 | 0 |
 | Radikale Venstre [DK] (ALDE) | |  | 1 | 1 | 1 | 0–2 |
-| Venstre [DK] (ALDE) | |  | 3–4 | 3–4 | 3–4 | 2–4 |
+| Venstre [DK] (ALDE) | |  | 3–4 | 3–4 | 3–4 | 3–4 |
 
 ### Probability Mass Function
 
