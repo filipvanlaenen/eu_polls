@@ -8,11 +8,20 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 |  |  |  |  |  |
+| Alliance of Liberals and Democrats for Europe | 68 |  | 23–27 | 23–27 | 23–28 | 22–29 |
+| Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | |  | 7–9 | 7–9 | 7–9 | 7–10 |
+| Eesti 200 [EE] (ALDE) | |  | 0 | 0 | 0 | 0 |
+| Eesti Keskerakond [EE] (ALDE) | |  | 2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond [EE] (ALDE) | |  | 2 | 2–3 | 2–3 | 2–3 |
+| Freie Demokratische Partei [DE] (ALDE) | |  | 6–9 | 6–10 | 6–10 | 6–10 |
+| Freie Wähler [DE] (ALDE) | |  | 1–2 | 1–2 | 1–2 | 1–2 |
+| Liberal Alliance [DK] (ALDE) | |  | 0 | 0 | 0 | 0 |
+| Radikale Venstre [DK] (ALDE) | |  | 1 | 1 | 1 | 0–2 |
+| Venstre [DK] (ALDE) | |  | 3–4 | 3–4 | 3–4 | 3–4 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Alliance of Liberals and Democrats for Europe.
 

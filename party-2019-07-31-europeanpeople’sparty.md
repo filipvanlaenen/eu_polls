@@ -8,12 +8,13 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 |  | 23–28 | 23–28 | 22–28 | 21–29 |
-| Christlich Demokratische Union Deutschlands [DE] (EPP) | |  | 18–21 | 17–22 | 17–22 | 16–22 |
+| European People’s Party | 217 |  | 31–36 | 31–37 | 30–37 | 29–38 |
+| Christlich Demokratische Union Deutschlands [DE] (EPP) | |  | 18–21 | 17–22 | 17–22 | 16–23 |
 | Christlich-Soziale Union in Bayern [DE] (EPP) | |  | 4–6 | 4–6 | 4–6 | 4–7 |
 | Det Konservative Folkeparti [DK] (EPP) | |  | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | |  | 0 | 0 | 0 | 0 |
 | Kristendemokraterne [DK] (EPP) | |  | 0 | 0 | 0 | 0 |
+| Partido Popular [ES] (EPP) | |  | 8–9 | 7–9 | 7–9 | 7–10 |
 
 ### Probability Mass Function
 

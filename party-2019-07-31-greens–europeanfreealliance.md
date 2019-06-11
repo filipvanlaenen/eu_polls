@@ -8,8 +8,8 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 |  | 27–30 | 24–31 | 24–31 | 24–32 |
-| Alternativet [DK] (Greens/EFA) | |  | 0 | 0 | 0–1 | 0–1 |
+| Greens–European Free Alliance | 52 |  | 27–31 | 24–31 | 24–31 | 24–32 |
+| Alternativet [DK] (Greens/EFA) | |  | 0 | 0–1 | 0–1 | 0–1 |
 | Bündnis 90/Die Grünen [DE] (Greens/EFA) | |  | 23–26 | 21–27 | 21–28 | 21–28 |
 | Die PARTEI [DE] (Greens/EFA) | |  | 1–2 | 1–2 | 1–2 | 1–3 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | |  | 0 | 0 | 0 | 0 |
