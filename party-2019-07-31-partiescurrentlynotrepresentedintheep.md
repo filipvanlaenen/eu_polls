@@ -8,7 +8,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 |  | 0 | 0 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | 0 | 0 | 0 | 0 | 0–1 | 0–1 |
 | Eesti Vabaerakond [EE] (*) | |  | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | |  | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | |  | 0 | 0 | 0–1 | 0–1 |
@@ -19,4 +19,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 ![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Parties currently not represented in the EP.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
+| 2 | 0% | 0% |  |
+
 
