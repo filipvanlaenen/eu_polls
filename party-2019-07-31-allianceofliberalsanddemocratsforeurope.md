@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 |  | 23–27 | 23–27 | 23–28 | 22–29 |
+| Alliance of Liberals and Democrats for Europe | 68 |  | 24–27 | 23–28 | 23–28 | 22–29 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | |  | 7–9 | 7–9 | 7–9 | 7–10 |
 | Eesti 200 [EE] (ALDE) | |  | 0 | 0 | 0 | 0 |
 | Eesti Keskerakond [EE] (ALDE) | |  | 2 | 1–2 | 1–2 | 1–2 |
