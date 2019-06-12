@@ -8,33 +8,28 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 40 | 38–42 | 37–43 | 37–43 | 36–44 |
-| Partido Socialista Obrero Español [ES] (S&D) | |  | 18–20 | 17–20 | 17–20 | 17–21 |
-| Socialdemokraterne [DK] (S&D) | |  | 4–5 | 4–5 | 4–5 | 4–6 |
-| Sotsiaaldemokraatlik Erakond [EE] (S&D) | |  | 1 | 1 | 0–1 | 0–1 |
-| Sozialdemokratische Partei Deutschlands [DE] (S&D) | |  | 10–13 | 10–13 | 10–14 | 10–15 |
+| Progressive Alliance of Socialists and Democrats | 186 | 41 | 39–43 | 38–44 | 38–44 | 37–45 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.1% | 100% |  |
-| 36 | 0.8% | 99.9% |  |
-| 37 | 4% | 99.1% |  |
-| 38 | 13% | 95% |  |
-| 39 | 22% | 82% |  |
-| 40 | 24% | 61% | Median |
-| 41 | 19% | 37% |  |
-| 42 | 12% | 18% |  |
-| 43 | 5% | 6% |  |
-| 44 | 1.2% | 1.4% |  |
-| 45 | 0.2% | 0.3% |  |
-| 46 | 0% | 0.1% |  |
-| 47 | 0% | 0% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.8% | 99.9% |  |
+| 38 | 4% | 99.1% |  |
+| 39 | 13% | 95% |  |
+| 40 | 22% | 82% |  |
+| 41 | 24% | 61% | Median |
+| 42 | 19% | 37% |  |
+| 43 | 12% | 18% |  |
+| 44 | 5% | 6% |  |
+| 45 | 1.2% | 1.4% |  |
+| 46 | 0.2% | 0.3% |  |
+| 47 | 0% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
