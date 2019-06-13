@@ -8,11 +8,15 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
-| Alternative für Deutschland [DE] (EAPN) | |  | 11–13 | 11–14 | 10–14 | 10–15 |
-| Dansk Folkeparti [DK] (EAPN) | |  | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | |  | 1 | 1 | 1–2 | 1–2 |
-| Vox [ES] (EAPN) | |  | 4–5 | 4–5 | 3–5 | 3–6 |
+| European Alliance of Peoples and Nations | 37 | 53 | 50–56 | 49–56 | 49–57 | 47–58 |
+| Lega Nord [IT] (EAPN) | | 27 | 25–28 | 24–28 | 24–29 | 23–30 |
+| Alternative für Deutschland [DE] (EAPN) | | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
+| Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Vox [ES] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 3 | 3 | 2–4 |
+| Dansk Folkeparti [DK] (EAPN) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Ελληνική Λύση [GR] (EAPN) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -22,24 +26,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.7% | 100% |  |
-| 20 | 5% | 99.3% |  |
-| 21 | 15% | 94% |  |
-| 22 | 25% | 79% |  |
-| 23 | 27% | 54% | Median |
-| 24 | 19% | 27% |  |
-| 25 | 7% | 8% |  |
-| 26 | 1.2% | 1.4% |  |
-| 27 | 0.2% | 0.2% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% | Last Result |
+| 37 | 0% | 100% | Last Result |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0.1% | 100% |  |
+| 47 | 0.4% | 99.9% |  |
+| 48 | 1.4% | 99.4% |  |
+| 49 | 3% | 98% |  |
+| 50 | 6% | 95% |  |
+| 51 | 10% | 89% |  |
+| 52 | 15% | 78% |  |
+| 53 | 19% | 63% | Median |
+| 54 | 19% | 44% |  |
+| 55 | 14% | 25% |  |
+| 56 | 8% | 11% |  |
+| 57 | 3% | 3% |  |
+| 58 | 0.6% | 0.8% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0% | 0% |  |
 
 
