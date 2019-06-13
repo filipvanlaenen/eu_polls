@@ -15,7 +15,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Socialdemokraterne [DK] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Sozialdemokratische Partei Österreichs [AT] (S&D) | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής [GR] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0 |
@@ -32,17 +32,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
 | 58 | 0.4% | 99.9% |  |
-| 59 | 1.3% | 99.6% |  |
+| 59 | 1.4% | 99.5% |  |
 | 60 | 4% | 98% |  |
-| 61 | 8% | 95% |  |
-| 62 | 13% | 87% |  |
-| 63 | 17% | 74% |  |
-| 64 | 18% | 57% | Median |
-| 65 | 16% | 38% |  |
-| 66 | 11% | 22% |  |
-| 67 | 6% | 11% |  |
+| 61 | 8% | 94% |  |
+| 62 | 13% | 86% |  |
+| 63 | 18% | 73% |  |
+| 64 | 18% | 55% | Median |
+| 65 | 16% | 37% |  |
+| 66 | 11% | 21% |  |
+| 67 | 6% | 10% |  |
 | 68 | 3% | 4% |  |
-| 69 | 1.1% | 2% |  |
+| 69 | 1.0% | 1.4% |  |
 | 70 | 0.3% | 0.4% |  |
 | 71 | 0.1% | 0.1% |  |
 | 72 | 0% | 0% |  |

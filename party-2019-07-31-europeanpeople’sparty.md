@@ -16,12 +16,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Forza Italia [IT] (EPP) | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Jaunā Vienotība [LV] (EPP) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0 |
+| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -34,20 +34,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
-| 56 | 0.5% | 99.9% |  |
-| 57 | 1.5% | 99.4% |  |
-| 58 | 4% | 98% |  |
-| 59 | 8% | 94% |  |
-| 60 | 12% | 87% |  |
-| 61 | 16% | 75% |  |
-| 62 | 17% | 59% | Median |
-| 63 | 16% | 42% |  |
-| 64 | 12% | 26% |  |
-| 65 | 8% | 14% |  |
-| 66 | 4% | 6% |  |
-| 67 | 1.5% | 2% |  |
-| 68 | 0.4% | 0.5% |  |
-| 69 | 0.1% | 0.1% |  |
+| 56 | 0.4% | 99.9% |  |
+| 57 | 1.3% | 99.4% |  |
+| 58 | 3% | 98% |  |
+| 59 | 7% | 95% |  |
+| 60 | 12% | 88% |  |
+| 61 | 15% | 76% |  |
+| 62 | 17% | 61% | Median |
+| 63 | 16% | 44% |  |
+| 64 | 13% | 28% |  |
+| 65 | 8% | 15% |  |
+| 66 | 4% | 7% |  |
+| 67 | 2% | 2% |  |
+| 68 | 0.5% | 0.7% |  |
+| 69 | 0.1% | 0.2% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
