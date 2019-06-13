@@ -8,9 +8,11 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
-| Fratelli d’Italia [IT] (ECR) | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| European Conservatives and Reformists | 76 | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| Fratelli d’Italia [IT] (ECR) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Familienpartei Deutschlands [DE] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -20,14 +22,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 12% | 99.7% |  |
-| 5 | 41% | 88% | Median |
-| 6 | 38% | 47% |  |
-| 7 | 8% | 9% |  |
-| 8 | 0.9% | 0.9% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 4% | 99.9% |  |
+| 6 | 22% | 96% |  |
+| 7 | 39% | 74% | Median |
+| 8 | 28% | 35% |  |
+| 9 | 7% | 7% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
