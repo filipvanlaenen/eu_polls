@@ -18,12 +18,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā Vienotība [LV] (EPP) | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa [EE] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0 |
+| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
 | Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -36,20 +36,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
-| 60 | 0.5% | 99.9% |  |
-| 61 | 1.5% | 99.4% |  |
-| 62 | 4% | 98% |  |
-| 63 | 8% | 94% |  |
-| 64 | 12% | 87% |  |
-| 65 | 16% | 75% |  |
-| 66 | 17% | 59% | Median |
-| 67 | 16% | 42% |  |
-| 68 | 12% | 26% |  |
-| 69 | 8% | 14% |  |
-| 70 | 4% | 6% |  |
-| 71 | 1.5% | 2% |  |
-| 72 | 0.4% | 0.5% |  |
-| 73 | 0.1% | 0.1% |  |
+| 60 | 0.4% | 99.9% |  |
+| 61 | 1.3% | 99.4% |  |
+| 62 | 3% | 98% |  |
+| 63 | 7% | 95% |  |
+| 64 | 12% | 88% |  |
+| 65 | 15% | 76% |  |
+| 66 | 17% | 61% | Median |
+| 67 | 16% | 44% |  |
+| 68 | 13% | 28% |  |
+| 69 | 8% | 15% |  |
+| 70 | 4% | 7% |  |
+| 71 | 2% | 2% |  |
+| 72 | 0.5% | 0.7% |  |
+| 73 | 0.1% | 0.2% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |
 | 76 | 0% | 0% |  |
