@@ -11,7 +11,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Greens–European Free Alliance | 52 | 33 | 31–35 | 29–36 | 28–36 | 28–37 |
 | Bündnis 90/Die Grünen [DE] (Greens/EFA) | | 25 | 23–26 | 21–27 | 21–28 | 21–28 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI [DE] (Greens/EFA) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
@@ -19,6 +19,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland [DE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa [DE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -30,17 +31,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 4% | 99.8% |  |
+| 27 | 0.4% | 100% |  |
+| 28 | 4% | 99.6% |  |
 | 29 | 4% | 96% |  |
-| 30 | 1.3% | 92% |  |
-| 31 | 4% | 91% |  |
-| 32 | 12% | 87% |  |
-| 33 | 28% | 75% | Median |
-| 34 | 28% | 47% |  |
-| 35 | 13% | 19% |  |
-| 36 | 5% | 7% |  |
-| 37 | 1.1% | 1.4% |  |
+| 30 | 1.4% | 92% |  |
+| 31 | 5% | 91% |  |
+| 32 | 13% | 86% |  |
+| 33 | 28% | 73% | Median |
+| 34 | 27% | 45% |  |
+| 35 | 12% | 19% |  |
+| 36 | 5% | 6% |  |
+| 37 | 1.1% | 1.3% |  |
 | 38 | 0.2% | 0.2% |  |
 | 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |

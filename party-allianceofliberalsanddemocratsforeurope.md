@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 30 | 28–32 | 27–32 | 27–33 | 26–34 |
+| Alliance of Liberals and Democrats for Europe | 68 | 31 | 29–33 | 28–33 | 28–34 | 27–35 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
 | Venstre [DK] (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -16,6 +16,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
+| Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
@@ -27,25 +28,24 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 1.1% | 99.9% |  |
-| 27 | 5% | 98.8% |  |
-| 28 | 14% | 93% |  |
-| 29 | 23% | 80% |  |
-| 30 | 25% | 57% | Median |
-| 31 | 18% | 31% |  |
-| 32 | 9% | 13% |  |
-| 33 | 3% | 5% |  |
-| 34 | 1.0% | 1.5% |  |
-| 35 | 0.3% | 0.5% |  |
-| 36 | 0.1% | 0.1% |  |
-| 37 | 0% | 0% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 1.1% | 99.9% |  |
+| 28 | 5% | 98.8% |  |
+| 29 | 14% | 93% |  |
+| 30 | 23% | 80% |  |
+| 31 | 25% | 57% | Median |
+| 32 | 18% | 31% |  |
+| 33 | 9% | 13% |  |
+| 34 | 3% | 5% |  |
+| 35 | 1.0% | 1.5% |  |
+| 36 | 0.3% | 0.5% |  |
+| 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
 | 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |
