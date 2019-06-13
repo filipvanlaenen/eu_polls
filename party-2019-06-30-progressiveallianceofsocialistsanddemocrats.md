@@ -8,7 +8,18 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 41 | 39–43 | 38–44 | 38–44 | 37–45 |
+| Progressive Alliance of Socialists and Democrats | 186 | 62 | 59–64 | 59–65 | 58–66 | 57–67 |
+| Partido Socialista Obrero Español [ES] (S&D) | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| Partito Democratico [IT] (S&D) | | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| Sozialdemokratische Partei Deutschlands [DE] (S&D) | | 11 | 10–13 | 10–13 | 10–14 | 10–15 |
+| Socialdemokraterne [DK] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Sozialdemokratische Partei Österreichs [AT] (S&D) | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Κίνημα Αλλαγής [GR] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei [LU] (S&D) | | 1 | 1 | 1 | 1 | 1 |
+| Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0 |
+| Το Ποτάμι [GR] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -18,40 +29,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.1% | 100% |  |
-| 37 | 0.8% | 99.9% |  |
-| 38 | 4% | 99.1% |  |
-| 39 | 13% | 95% |  |
-| 40 | 22% | 82% |  |
-| 41 | 24% | 61% | Median |
-| 42 | 19% | 37% |  |
-| 43 | 12% | 18% |  |
-| 44 | 5% | 6% |  |
-| 45 | 1.2% | 1.4% |  |
-| 46 | 0.2% | 0.3% |  |
-| 47 | 0% | 0.1% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
+| 56 | 0.2% | 100% |  |
+| 57 | 1.0% | 99.7% |  |
+| 58 | 3% | 98.7% |  |
+| 59 | 8% | 95% |  |
+| 60 | 14% | 87% |  |
+| 61 | 19% | 73% |  |
+| 62 | 20% | 55% | Median |
+| 63 | 16% | 35% |  |
+| 64 | 11% | 19% |  |
+| 65 | 5% | 8% |  |
+| 66 | 2% | 3% |  |
+| 67 | 0.7% | 0.9% |  |
+| 68 | 0.2% | 0.2% |  |
+| 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |

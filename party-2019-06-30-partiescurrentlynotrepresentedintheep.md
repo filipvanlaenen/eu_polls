@@ -9,6 +9,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | 0 | 0 | 0 | 0 | 0–1 | 0–1 |
+| Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

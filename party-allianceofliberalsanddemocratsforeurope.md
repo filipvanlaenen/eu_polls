@@ -8,13 +8,14 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 29 | 27–31 | 26–32 | 26–32 | 25–34 |
+| Alliance of Liberals and Democrats for Europe | 68 | 30 | 28–32 | 27–33 | 27–33 | 26–35 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
 | Venstre [DK] (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
@@ -26,26 +27,25 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.3% | 100% |  |
-| 25 | 2% | 99.7% |  |
-| 26 | 6% | 98% |  |
-| 27 | 14% | 91% |  |
-| 28 | 21% | 78% |  |
-| 29 | 23% | 57% | Median |
-| 30 | 18% | 34% |  |
-| 31 | 10% | 17% |  |
-| 32 | 4% | 7% |  |
-| 33 | 2% | 2% |  |
-| 34 | 0.5% | 0.7% |  |
-| 35 | 0.2% | 0.2% |  |
-| 36 | 0% | 0.1% |  |
-| 37 | 0% | 0% |  |
+| 25 | 0.3% | 100% |  |
+| 26 | 2% | 99.7% |  |
+| 27 | 6% | 98% |  |
+| 28 | 14% | 91% |  |
+| 29 | 21% | 78% |  |
+| 30 | 23% | 57% | Median |
+| 31 | 18% | 34% |  |
+| 32 | 10% | 17% |  |
+| 33 | 4% | 7% |  |
+| 34 | 2% | 2% |  |
+| 35 | 0.5% | 0.7% |  |
+| 36 | 0.2% | 0.2% |  |
+| 37 | 0% | 0.1% |  |
 | 38 | 0% | 0% |  |
 | 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |
