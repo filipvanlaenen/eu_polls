@@ -8,13 +8,14 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 66 | 63–69 | 62–70 | 62–70 | 60–72 |
-| Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
+| European People’s Party | 217 | 69 | 66–71 | 65–72 | 64–73 | 63–74 |
+| Christlich Demokratische Union Deutschlands [DE] (EPP) | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Österreichische Volkspartei [AT] (EPP) | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| Forza Italia [IT] (EPP) | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
-| Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christlich-Soziale Union in Bayern [DE] (EPP) | | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
+| Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -35,24 +36,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.4% | 99.9% |  |
-| 61 | 1.3% | 99.4% |  |
-| 62 | 3% | 98% |  |
-| 63 | 7% | 95% |  |
-| 64 | 12% | 88% |  |
-| 65 | 15% | 76% |  |
-| 66 | 17% | 61% | Median |
-| 67 | 16% | 44% |  |
-| 68 | 13% | 28% |  |
-| 69 | 8% | 15% |  |
-| 70 | 4% | 7% |  |
-| 71 | 2% | 2% |  |
-| 72 | 0.5% | 0.7% |  |
-| 73 | 0.1% | 0.2% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
+| 62 | 0.2% | 100% |  |
+| 63 | 0.6% | 99.8% |  |
+| 64 | 2% | 99.1% |  |
+| 65 | 5% | 97% |  |
+| 66 | 10% | 92% |  |
+| 67 | 15% | 83% |  |
+| 68 | 18% | 68% |  |
+| 69 | 17% | 50% | Median |
+| 70 | 14% | 33% |  |
+| 71 | 9% | 19% |  |
+| 72 | 5% | 9% |  |
+| 73 | 3% | 4% |  |
+| 74 | 1.0% | 1.4% |  |
+| 75 | 0.3% | 0.4% |  |
+| 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
 | 79 | 0% | 0% |  |

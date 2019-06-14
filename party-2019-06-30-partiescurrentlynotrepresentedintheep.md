@@ -8,7 +8,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 0 | 0 | 0 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| 50Plus [NL] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -22,8 +24,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
-| 2 | 0% | 0% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
+| 2 | 0.3% | 0.3% |  |
+| 3 | 0% | 0% |  |
 
 
