@@ -8,10 +8,12 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 30 | 28–32 | 27–32 | 27–33 | 26–34 |
+| Alliance of Liberals and Democrats for Europe | 68 | 38 | 36–40 | 35–40 | 34–41 | 34–42 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
+| Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
+| Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Venstre [DK] (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Democraten 66 [NL] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -33,26 +35,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 1.1% | 99.9% |  |
-| 27 | 5% | 98.8% |  |
-| 28 | 14% | 93% |  |
-| 29 | 23% | 80% |  |
-| 30 | 25% | 57% | Median |
-| 31 | 18% | 31% |  |
-| 32 | 9% | 13% |  |
-| 33 | 3% | 5% |  |
-| 34 | 1.0% | 1.5% |  |
-| 35 | 0.3% | 0.5% |  |
-| 36 | 0.1% | 0.1% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
+| 33 | 0.4% | 100% |  |
+| 34 | 2% | 99.6% |  |
+| 35 | 7% | 97% |  |
+| 36 | 15% | 90% |  |
+| 37 | 22% | 75% |  |
+| 38 | 23% | 53% | Median |
+| 39 | 17% | 30% |  |
+| 40 | 8% | 13% |  |
+| 41 | 3% | 5% |  |
+| 42 | 1.1% | 2% |  |
+| 43 | 0.4% | 0.5% |  |
+| 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
