@@ -9,12 +9,12 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | 217 | 65 | 62–67 | 61–68 | 60–69 | 59–70 |
-| Christlich Demokratische Union Deutschlands [DE] (EPP) | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
+| Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
 | Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Österreichische Volkspartei [AT] (EPP) | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| Christlich-Soziale Union in Bayern [DE] (EPP) | | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -36,15 +36,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.2% | 100% |  |
 | 59 | 0.6% | 99.8% |  |
-| 60 | 2% | 99.1% |  |
-| 61 | 5% | 97% |  |
-| 62 | 10% | 92% |  |
-| 63 | 15% | 83% |  |
-| 64 | 18% | 68% |  |
-| 65 | 17% | 50% | Median |
-| 66 | 14% | 33% |  |
-| 67 | 9% | 19% |  |
-| 68 | 5% | 9% |  |
+| 60 | 2% | 99.2% |  |
+| 61 | 4% | 97% |  |
+| 62 | 9% | 93% |  |
+| 63 | 14% | 84% |  |
+| 64 | 17% | 71% |  |
+| 65 | 18% | 53% | Median |
+| 66 | 15% | 35% |  |
+| 67 | 10% | 20% |  |
+| 68 | 6% | 10% |  |
 | 69 | 3% | 4% |  |
 | 70 | 1.0% | 1.4% |  |
 | 71 | 0.3% | 0.4% |  |

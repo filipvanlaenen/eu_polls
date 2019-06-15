@@ -18,20 +18,20 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.7% | 100% |  |
 | 11 | 7% | 99.3% |  |
-| 12 | 23% | 93% |  |
-| 13 | 36% | 70% | Median |
-| 14 | 25% | 34% |  |
-| 15 | 8% | 9% |  |
-| 16 | 1.0% | 1.0% |  |
-| 17 | 0.1% | 0.1% |  |
+| 12 | 24% | 92% |  |
+| 13 | 36% | 69% | Median |
+| 14 | 25% | 33% |  |
+| 15 | 7% | 8% |  |
+| 16 | 0.9% | 1.0% |  |
+| 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
