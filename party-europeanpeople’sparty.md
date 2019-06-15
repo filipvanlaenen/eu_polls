@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 65 | 62–67 | 61–68 | 60–69 | 59–70 |
+| European People’s Party | 217 | 69 | 66–71 | 65–72 | 64–73 | 63–74 |
 | Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
 | Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
@@ -16,7 +16,9 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
 | Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -28,31 +30,27 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0.2% | 100% |  |
-| 59 | 0.6% | 99.8% |  |
-| 60 | 2% | 99.2% |  |
-| 61 | 4% | 97% |  |
-| 62 | 9% | 93% |  |
-| 63 | 14% | 84% |  |
-| 64 | 17% | 71% |  |
-| 65 | 18% | 53% | Median |
-| 66 | 15% | 35% |  |
-| 67 | 10% | 20% |  |
-| 68 | 6% | 10% |  |
-| 69 | 3% | 4% |  |
-| 70 | 1.0% | 1.4% |  |
-| 71 | 0.3% | 0.4% |  |
-| 72 | 0.1% | 0.1% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
+| 62 | 0.2% | 100% |  |
+| 63 | 0.6% | 99.8% |  |
+| 64 | 2% | 99.2% |  |
+| 65 | 4% | 97% |  |
+| 66 | 9% | 93% |  |
+| 67 | 14% | 84% |  |
+| 68 | 17% | 71% |  |
+| 69 | 18% | 53% | Median |
+| 70 | 15% | 35% |  |
+| 71 | 10% | 20% |  |
+| 72 | 6% | 10% |  |
+| 73 | 3% | 4% |  |
+| 74 | 1.0% | 1.4% |  |
+| 75 | 0.3% | 0.4% |  |
+| 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
 | 79 | 0% | 0% |  |
