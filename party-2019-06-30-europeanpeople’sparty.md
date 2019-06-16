@@ -8,7 +8,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 69 | 66–71 | 65–72 | 64–73 | 63–74 |
+| European People’s Party | 217 | 75 | 72–77 | 71–78 | 70–79 | 69–80 |
 | Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
 | Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
@@ -18,6 +18,8 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -36,27 +38,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0.2% | 100% |  |
-| 63 | 0.6% | 99.8% |  |
-| 64 | 2% | 99.2% |  |
-| 65 | 4% | 97% |  |
-| 66 | 9% | 93% |  |
-| 67 | 14% | 84% |  |
-| 68 | 17% | 71% |  |
-| 69 | 18% | 53% | Median |
-| 70 | 15% | 35% |  |
-| 71 | 10% | 20% |  |
-| 72 | 6% | 10% |  |
-| 73 | 3% | 4% |  |
-| 74 | 1.0% | 1.4% |  |
-| 75 | 0.3% | 0.4% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
-| 81 | 0% | 0% |  |
-| 82 | 0% | 0% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.7% | 99.8% |  |
+| 70 | 2% | 99.1% |  |
+| 71 | 5% | 97% |  |
+| 72 | 9% | 92% |  |
+| 73 | 14% | 83% |  |
+| 74 | 17% | 70% |  |
+| 75 | 18% | 52% | Median |
+| 76 | 15% | 35% |  |
+| 77 | 10% | 20% |  |
+| 78 | 6% | 10% |  |
+| 79 | 3% | 4% |  |
+| 80 | 1.0% | 1.4% |  |
+| 81 | 0.3% | 0.4% |  |
+| 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 | 84 | 0% | 0% |  |
 | 85 | 0% | 0% |  |

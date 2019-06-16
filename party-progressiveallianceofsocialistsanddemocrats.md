@@ -8,7 +8,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 73 | 70–75 | 69–76 | 68–77 | 67–78 |
+| Progressive Alliance of Socialists and Democrats | 186 | 74 | 71–76 | 70–77 | 69–78 | 68–79 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | Partito Democratico [IT] (S&D) | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands [DE] (S&D) | | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
@@ -19,6 +19,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής [GR] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei [LU] (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -26,28 +27,27 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.2% | 100% |  |
-| 67 | 0.6% | 99.8% |  |
-| 68 | 2% | 99.2% |  |
-| 69 | 5% | 97% |  |
-| 70 | 9% | 92% |  |
-| 71 | 14% | 83% |  |
-| 72 | 17% | 69% |  |
-| 73 | 18% | 52% | Median |
-| 74 | 15% | 34% |  |
-| 75 | 10% | 20% |  |
-| 76 | 6% | 9% |  |
-| 77 | 3% | 4% |  |
-| 78 | 0.9% | 1.2% |  |
-| 79 | 0.3% | 0.3% |  |
-| 80 | 0.1% | 0.1% |  |
-| 81 | 0% | 0% |  |
+| 67 | 0.2% | 100% |  |
+| 68 | 0.6% | 99.8% |  |
+| 69 | 2% | 99.2% |  |
+| 70 | 5% | 97% |  |
+| 71 | 9% | 92% |  |
+| 72 | 14% | 83% |  |
+| 73 | 17% | 69% |  |
+| 74 | 18% | 52% | Median |
+| 75 | 15% | 34% |  |
+| 76 | 10% | 20% |  |
+| 77 | 6% | 9% |  |
+| 78 | 3% | 4% |  |
+| 79 | 0.9% | 1.2% |  |
+| 80 | 0.3% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 | 83 | 0% | 0% |  |
 | 84 | 0% | 0% |  |
