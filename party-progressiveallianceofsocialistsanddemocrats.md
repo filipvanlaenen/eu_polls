@@ -19,34 +19,34 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής [GR] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lëtzebuerger Sozialistesch Aarbechterpartei [LU] (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Česká strana sociálně demokratická [CZ] (S&D) | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι [GR] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.2% | 100% |  |
 | 68 | 0.7% | 99.8% |  |
-| 69 | 2% | 99.1% |  |
+| 69 | 2% | 99.0% |  |
 | 70 | 5% | 97% |  |
 | 71 | 9% | 92% |  |
-| 72 | 14% | 83% |  |
-| 73 | 17% | 69% |  |
-| 74 | 18% | 51% | Median |
-| 75 | 15% | 34% |  |
+| 72 | 14% | 82% |  |
+| 73 | 17% | 68% |  |
+| 74 | 17% | 51% | Median |
+| 75 | 14% | 33% |  |
 | 76 | 10% | 19% |  |
 | 77 | 6% | 9% |  |
 | 78 | 2% | 4% |  |
 | 79 | 0.9% | 1.2% |  |
-| 80 | 0.2% | 0.3% |  |
+| 80 | 0.3% | 0.3% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 | 83 | 0% | 0% |  |
