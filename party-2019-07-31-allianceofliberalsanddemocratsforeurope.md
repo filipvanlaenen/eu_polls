@@ -24,7 +24,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
 | Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna [SE] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Liberalerna [SE] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Più Europa [IT] (ALDE) | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -38,12 +38,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 34 | 0.2% | 100% |  |
-| 35 | 1.2% | 99.8% |  |
-| 36 | 4% | 98.6% |  |
+| 35 | 1.1% | 99.8% |  |
+| 36 | 4% | 98.7% |  |
 | 37 | 10% | 94% |  |
 | 38 | 18% | 84% |  |
 | 39 | 23% | 66% | Median |
-| 40 | 21% | 42% |  |
+| 40 | 22% | 43% |  |
 | 41 | 13% | 21% |  |
 | 42 | 5% | 8% |  |
 | 43 | 2% | 3% |  |

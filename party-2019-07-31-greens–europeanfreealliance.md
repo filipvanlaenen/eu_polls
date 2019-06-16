@@ -8,7 +8,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 36 | 34–38 | 33–38 | 32–39 | 32–40 |
+| Greens–European Free Alliance | 52 | 36 | 34–38 | 33–39 | 32–39 | 32–40 |
 | Bündnis 90/Die Grünen [DE] (Greens/EFA) | | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
