@@ -8,10 +8,11 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 67 | 64–70 | 63–70 | 63–71 | 62–72 |
+| Progressive Alliance of Socialists and Democrats | 186 | 73 | 70–75 | 69–76 | 68–77 | 67–78 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | Partito Democratico [IT] (S&D) | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands [DE] (S&D) | | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
+| Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Socialdemokraterne [DK] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Sozialdemokratische Partei Österreichs [AT] (S&D) | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partij van de Arbeid [NL] (S&D) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -31,27 +32,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
-| 61 | 0.3% | 99.9% |  |
-| 62 | 1.2% | 99.6% |  |
-| 63 | 3% | 98% |  |
-| 64 | 7% | 95% |  |
-| 65 | 12% | 88% |  |
-| 66 | 17% | 75% |  |
-| 67 | 18% | 58% | Median |
-| 68 | 16% | 40% |  |
-| 69 | 12% | 24% |  |
-| 70 | 7% | 12% |  |
-| 71 | 3% | 5% |  |
-| 72 | 1.2% | 2% |  |
-| 73 | 0.3% | 0.4% |  |
-| 74 | 0.1% | 0.1% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
+| 66 | 0.2% | 100% |  |
+| 67 | 0.6% | 99.8% |  |
+| 68 | 2% | 99.2% |  |
+| 69 | 5% | 97% |  |
+| 70 | 9% | 92% |  |
+| 71 | 14% | 83% |  |
+| 72 | 17% | 69% |  |
+| 73 | 18% | 52% | Median |
+| 74 | 15% | 34% |  |
+| 75 | 10% | 20% |  |
+| 76 | 6% | 9% |  |
+| 77 | 3% | 4% |  |
+| 78 | 0.9% | 1.2% |  |
+| 79 | 0.3% | 0.3% |  |
+| 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
 | 82 | 0% | 0% |  |
 | 83 | 0% | 0% |  |

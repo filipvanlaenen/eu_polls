@@ -8,9 +8,10 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
+| European Conservatives and Reformists | 76 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | Fratelli d’Italia [IT] (ECR) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Forum voor Democratie [NL] (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna [SE] (ECR) | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands [DE] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -24,17 +25,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 7% | 99.3% |  |
-| 12 | 24% | 92% |  |
-| 13 | 36% | 69% | Median |
-| 14 | 25% | 33% |  |
-| 15 | 7% | 8% |  |
-| 16 | 0.9% | 1.0% |  |
-| 17 | 0% | 0.1% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 1.3% | 99.9% |  |
+| 15 | 9% | 98.6% |  |
+| 16 | 25% | 90% |  |
+| 17 | 35% | 65% | Median |
+| 18 | 23% | 31% |  |
+| 19 | 7% | 8% |  |
+| 20 | 0.9% | 0.9% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

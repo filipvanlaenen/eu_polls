@@ -8,11 +8,12 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 38 | 36–40 | 35–40 | 34–41 | 34–42 |
+| Alliance of Liberals and Democrats for Europe | 68 | 39 | 37–41 | 36–42 | 36–43 | 35–44 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Venstre [DK] (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 [NL] (ALDE) | | 2 | 2 | 2 | 2 | 1–2 |
 | Eesti Keskerakond [EE] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -23,6 +24,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
 | Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Liberalerna [SE] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa [IT] (ALDE) | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
@@ -35,20 +37,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.4% | 100% |  |
-| 34 | 2% | 99.6% |  |
-| 35 | 7% | 97% |  |
-| 36 | 15% | 90% |  |
-| 37 | 23% | 75% |  |
-| 38 | 25% | 52% | Median |
-| 39 | 17% | 28% |  |
-| 40 | 7% | 11% |  |
-| 41 | 2% | 3% |  |
-| 42 | 0.8% | 1.1% |  |
-| 43 | 0.3% | 0.4% |  |
-| 44 | 0.1% | 0.1% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
+| 34 | 0.2% | 100% |  |
+| 35 | 1.2% | 99.8% |  |
+| 36 | 4% | 98.6% |  |
+| 37 | 10% | 94% |  |
+| 38 | 18% | 84% |  |
+| 39 | 23% | 66% | Median |
+| 40 | 21% | 42% |  |
+| 41 | 13% | 21% |  |
+| 42 | 5% | 8% |  |
+| 43 | 2% | 3% |  |
+| 44 | 0.6% | 0.8% |  |
+| 45 | 0.2% | 0.2% |  |
+| 46 | 0% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
