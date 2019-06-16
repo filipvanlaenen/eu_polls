@@ -8,7 +8,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 74 | 71–76 | 70–77 | 69–78 | 68–79 |
+| Progressive Alliance of Socialists and Democrats | 186 | 75 | 72–77 | 71–78 | 70–79 | 69–80 |
 | Partido Socialista Obrero Español [ES] (S&D) | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | Partito Democratico [IT] (S&D) | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands [DE] (S&D) | | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
@@ -21,6 +21,7 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Κίνημα Αλλαγής [GR] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei [LU] (S&D) | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Česká strana sociálně demokratická [CZ] (S&D) | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Το Ποτάμι [GR] (S&D) | | 0 | 0 | 0 | 0 | 0 |
@@ -33,22 +34,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.2% | 100% |  |
-| 68 | 0.7% | 99.8% |  |
-| 69 | 2% | 99.1% |  |
-| 70 | 5% | 97% |  |
-| 71 | 9% | 92% |  |
-| 72 | 14% | 83% |  |
-| 73 | 17% | 69% |  |
-| 74 | 18% | 51% | Median |
-| 75 | 15% | 34% |  |
-| 76 | 10% | 19% |  |
-| 77 | 6% | 9% |  |
-| 78 | 2% | 4% |  |
-| 79 | 0.9% | 1.2% |  |
-| 80 | 0.2% | 0.3% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 68 | 0.2% | 100% |  |
+| 69 | 0.7% | 99.8% |  |
+| 70 | 2% | 99.0% |  |
+| 71 | 5% | 97% |  |
+| 72 | 9% | 92% |  |
+| 73 | 14% | 82% |  |
+| 74 | 17% | 68% |  |
+| 75 | 17% | 51% | Median |
+| 76 | 14% | 33% |  |
+| 77 | 10% | 19% |  |
+| 78 | 6% | 9% |  |
+| 79 | 2% | 4% |  |
+| 80 | 0.9% | 1.2% |  |
+| 81 | 0.3% | 0.3% |  |
+| 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 | 84 | 0% | 0% |  |
 | 85 | 0% | 0% |  |

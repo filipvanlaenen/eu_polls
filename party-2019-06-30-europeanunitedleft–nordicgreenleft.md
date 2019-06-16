@@ -8,12 +8,13 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
+| European United Left–Nordic Green Left | 52 | 28 | 27–30 | 26–31 | 26–31 | 25–32 |
 | Die Linke [DE] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Unidos Podemos [ES] (GUE/NGL) | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Vänsterpartiet [SE] (GUE/NGL) | | 2 | 2 | 2 | 2 | 1–2 |
 | Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
+| Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | | 1 | 1 | 1 | 1 | 0–2 |
 | Partij voor de Dieren [NL] (GUE/NGL) | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij [NL] (GUE/NGL) | | 1 | 1 | 1 | 1 | 1–2 |
@@ -28,16 +29,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.5% | 100% |  |
-| 25 | 6% | 99.5% |  |
-| 26 | 24% | 94% |  |
-| 27 | 35% | 70% | Median |
-| 28 | 23% | 35% |  |
-| 29 | 9% | 12% |  |
-| 30 | 3% | 3% |  |
-| 31 | 0.4% | 0.5% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
+| 25 | 0.5% | 100% |  |
+| 26 | 5% | 99.5% |  |
+| 27 | 20% | 94% |  |
+| 28 | 32% | 75% | Median |
+| 29 | 25% | 43% |  |
+| 30 | 12% | 17% |  |
+| 31 | 4% | 5% |  |
+| 32 | 0.9% | 1.0% |  |
+| 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |

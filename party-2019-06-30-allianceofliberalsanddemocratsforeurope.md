@@ -8,9 +8,10 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
+| Alliance of Liberals and Democrats for Europe | 68 | 47 | 45–50 | 45–50 | 44–51 | 43–52 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| ANO 2011 [CZ] (ALDE) | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie [NL] (ALDE) | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Venstre [DK] (ALDE) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet [SE] (ALDE) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,26 +39,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.2% | 100% |  |
-| 36 | 1.1% | 99.8% |  |
-| 37 | 4% | 98.7% |  |
-| 38 | 10% | 94% |  |
-| 39 | 18% | 84% |  |
-| 40 | 23% | 66% | Median |
-| 41 | 22% | 43% |  |
-| 42 | 13% | 21% |  |
-| 43 | 5% | 8% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.6% | 0.8% |  |
-| 46 | 0.2% | 0.2% |  |
-| 47 | 0% | 0.1% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
+| 42 | 0.2% | 100% |  |
+| 43 | 1.0% | 99.8% |  |
+| 44 | 4% | 98.8% |  |
+| 45 | 9% | 95% |  |
+| 46 | 16% | 86% |  |
+| 47 | 22% | 69% | Median |
+| 48 | 22% | 47% |  |
+| 49 | 15% | 26% |  |
+| 50 | 7% | 11% |  |
+| 51 | 3% | 4% |  |
+| 52 | 0.9% | 1.2% |  |
+| 53 | 0.3% | 0.4% |  |
+| 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |

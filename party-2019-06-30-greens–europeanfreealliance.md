@@ -8,8 +8,9 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 37 | 35–39 | 34–40 | 33–40 | 33–41 |
+| Greens–European Free Alliance | 52 | 41 | 39–43 | 38–44 | 38–45 | 37–46 |
 | Bündnis 90/Die Grünen [DE] (Greens/EFA) | | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
+| Česká pirátská strana [CZ] (Greens/EFA) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -23,6 +24,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland [DE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Strana zelených [CZ] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa [DE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -33,22 +35,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0.3% | 100% |  |
-| 33 | 2% | 99.7% |  |
-| 34 | 7% | 97% |  |
-| 35 | 9% | 90% |  |
-| 36 | 16% | 81% |  |
-| 37 | 27% | 65% | Median |
-| 38 | 23% | 38% |  |
-| 39 | 10% | 15% |  |
-| 40 | 4% | 5% |  |
-| 41 | 0.8% | 1.0% |  |
-| 42 | 0.1% | 0.2% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
+| 36 | 0.2% | 100% |  |
+| 37 | 1.5% | 99.8% |  |
+| 38 | 5% | 98% |  |
+| 39 | 9% | 93% |  |
+| 40 | 13% | 85% |  |
+| 41 | 22% | 72% | Median |
+| 42 | 25% | 49% |  |
+| 43 | 15% | 25% |  |
+| 44 | 7% | 9% |  |
+| 45 | 2% | 3% |  |
+| 46 | 0.4% | 0.5% |  |
+| 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
