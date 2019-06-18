@@ -8,21 +8,21 @@ Last result: **21** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | 21 | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Non-Inscrits | 21 | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας [GR] (NI) | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Χρυσή Αυγή [GR] (NI) | | 1 | 1 | 1 | 1 | 1–2 |
+| Χρυσή Αυγή [GR] (NI) | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 95% | 99.9% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 4% | 100% |  |
+| 2 | 75% | 96% | Median |
+| 3 | 21% | 21% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
