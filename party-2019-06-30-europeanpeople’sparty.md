@@ -10,15 +10,15 @@ Last result: **217** seats (General Election of 25 May 2014)
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | 217 | 76 | 74–79 | 73–80 | 72–81 | 71–82 |
 | Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
+| Νέα Δημοκρατία [GR] (EPP) | | 9 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Österreichische Volkspartei [AT] (EPP) | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Moderata samlingspartiet [SE] (EPP) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Moderata samlingspartiet [SE] (EPP) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
@@ -43,19 +43,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 69 | 0.1% | 100% |  |
 | 70 | 0.3% | 99.9% |  |
-| 71 | 0.9% | 99.6% |  |
-| 72 | 3% | 98.7% |  |
-| 73 | 5% | 96% |  |
-| 74 | 10% | 91% |  |
-| 75 | 14% | 81% |  |
-| 76 | 17% | 67% | Median |
-| 77 | 17% | 50% |  |
-| 78 | 14% | 33% |  |
-| 79 | 10% | 19% |  |
-| 80 | 5% | 10% |  |
-| 81 | 3% | 4% |  |
-| 82 | 1.0% | 1.5% |  |
-| 83 | 0.3% | 0.5% |  |
+| 71 | 1.0% | 99.6% |  |
+| 72 | 3% | 98.6% |  |
+| 73 | 6% | 96% |  |
+| 74 | 10% | 90% |  |
+| 75 | 15% | 80% |  |
+| 76 | 17% | 65% | Median |
+| 77 | 17% | 48% |  |
+| 78 | 13% | 31% |  |
+| 79 | 9% | 18% |  |
+| 80 | 5% | 9% |  |
+| 81 | 2% | 4% |  |
+| 82 | 0.9% | 1.2% |  |
+| 83 | 0.3% | 0.4% |  |
 | 84 | 0.1% | 0.1% |  |
 | 85 | 0% | 0% |  |
 | 86 | 0% | 0% |  |

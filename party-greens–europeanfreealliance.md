@@ -8,7 +8,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | 52 | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
+| Greens–European Free Alliance | 52 | 41 | 39–43 | 38–44 | 38–45 | 37–46 |
 | Bündnis 90/Die Grünen [DE] (Greens/EFA) | | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
 | Česká pirátská strana [CZ] (Greens/EFA) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | GroenLinks [NL] (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -17,6 +17,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Die PARTEI [DE] (Greens/EFA) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
+| déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei [DE] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
@@ -28,25 +29,24 @@ Last result: **52** seats (General Election of 25 May 2014)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.1% | 100% |  |
-| 36 | 1.4% | 99.8% |  |
-| 37 | 5% | 98% |  |
-| 38 | 8% | 93% |  |
-| 39 | 13% | 85% |  |
-| 40 | 22% | 72% | Median |
-| 41 | 25% | 50% |  |
-| 42 | 16% | 25% |  |
-| 43 | 7% | 9% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.5% | 0.5% |  |
-| 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 1.4% | 99.8% |  |
+| 38 | 5% | 98% |  |
+| 39 | 8% | 93% |  |
+| 40 | 13% | 85% |  |
+| 41 | 22% | 72% | Median |
+| 42 | 25% | 50% |  |
+| 43 | 16% | 25% |  |
+| 44 | 7% | 9% |  |
+| 45 | 2% | 3% |  |
+| 46 | 0.5% | 0.5% |  |
+| 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |

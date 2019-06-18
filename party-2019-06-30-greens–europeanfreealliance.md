@@ -15,7 +15,7 @@ Last result: **52** seats (General Election of 25 May 2014)
 | Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI [DE] (Greens/EFA) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng [LU] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei [DE] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,17 +35,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.2% | 100% |  |
-| 37 | 1.5% | 99.8% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 1.4% | 99.8% |  |
 | 38 | 5% | 98% |  |
-| 39 | 9% | 93% |  |
+| 39 | 8% | 93% |  |
 | 40 | 13% | 85% |  |
 | 41 | 22% | 72% | Median |
-| 42 | 25% | 49% |  |
-| 43 | 15% | 25% |  |
+| 42 | 25% | 50% |  |
+| 43 | 16% | 25% |  |
 | 44 | 7% | 9% |  |
 | 45 | 2% | 3% |  |
-| 46 | 0.4% | 0.5% |  |
+| 46 | 0.5% | 0.5% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
