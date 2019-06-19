@@ -10,7 +10,7 @@ Last result: **21** seats (General Election of 25 May 2014)
 
 Current median: **2** seats (-19 seats)
 
-At least one members in 1 countries have a median of 1 seat or more:
+At least one member in 1 countries have a median of 1 seat or more:
 
 GR
 
