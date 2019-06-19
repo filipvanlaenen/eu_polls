@@ -9,8 +9,8 @@ Last result: **41** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Freedom and Direct Democracy | 41 | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
-| Movimento 5 Stelle [IT] (EFDD) | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
-| Liike Nyt [FI] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| Movimento 5 Stelle [IT] | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Liike Nyt [FI] | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

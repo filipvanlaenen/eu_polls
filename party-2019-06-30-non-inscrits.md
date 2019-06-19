@@ -9,8 +9,8 @@ Last result: **21** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | 21 | 2 | 2 | 2 | 2–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας [GR] (NI) | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Χρυσή Αυγή [GR] (NI) | | 1 | 1 | 1 | 1 | 0–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας [GR] | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Χρυσή Αυγή [GR] | | 1 | 1 | 1 | 1 | 0–2 |
 
 ### Probability Mass Function
 

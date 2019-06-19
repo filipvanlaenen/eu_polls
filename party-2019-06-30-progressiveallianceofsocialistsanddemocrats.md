@@ -9,21 +9,21 @@ Last result: **186** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | 186 | 74 | 71–77 | 71–78 | 70–79 | 69–80 |
-| Partido Socialista Obrero Español [ES] (S&D) | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
-| Partito Democratico [IT] (S&D) | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
-| Sozialdemokratische Partei Deutschlands [DE] (S&D) | | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
-| Socialdemokraterne [DK] (S&D) | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Sveriges socialdemokratiska arbetareparti [SE] (S&D) | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| Sozialdemokratische Partei Österreichs [AT] (S&D) | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Partij van de Arbeid [NL] (S&D) | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Suomen Sosialidemokraattinen Puolue [FI] (S&D) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Sociāldemokrātiskā Partija “Saskaņa” [LV] (S&D) | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Κίνημα Αλλαγής [GR] (S&D) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lëtzebuerger Sozialistesch Aarbechterpartei [LU] (S&D) | | 1 | 1 | 1 | 1 | 1 |
-| Sotsiaaldemokraatlik Erakond [EE] (S&D) | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Česká strana sociálně demokratická [CZ] (S&D) | | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| Liberi e Uguali [IT] (S&D) | | 0 | 0 | 0 | 0 | 0 |
-| Progresīvie [LV] (S&D) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partido Socialista Obrero Español [ES] | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| Partito Democratico [IT] | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| Sozialdemokratische Partei Deutschlands [DE] | | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
+| Socialdemokraterne [DK] | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti [SE] | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Sozialdemokratische Partei Österreichs [AT] | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Partij van de Arbeid [NL] | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue [FI] | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Sociāldemokrātiskā Partija “Saskaņa” [LV] | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Κίνημα Αλλαγής [GR] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei [LU] | | 1 | 1 | 1 | 1 | 1 |
+| Sotsiaaldemokraatlik Erakond [EE] | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Česká strana sociálně demokratická [CZ] | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Liberi e Uguali [IT] | | 0 | 0 | 0 | 0 | 0 |
+| Progresīvie [LV] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 

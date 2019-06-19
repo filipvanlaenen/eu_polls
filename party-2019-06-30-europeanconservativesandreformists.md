@@ -9,14 +9,14 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | 76 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
-| Fratelli d’Italia [IT] (ECR) | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| Forum voor Democratie [NL] (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Občanská demokratická strana [CZ] (ECR) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Familienpartei Deutschlands [DE] (ECR) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Latvijas Reģionu apvienība [LV] (ECR) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Fratelli d’Italia [IT] | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Forum voor Democratie [NL] | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Občanská demokratická strana [CZ] | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| ChristenUnie–Staatkundig Gereformeerde Partij [NL] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Familienpartei Deutschlands [DE] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Latvijas Reģionu apvienība [LV] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 

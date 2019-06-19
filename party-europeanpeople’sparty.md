@@ -9,29 +9,29 @@ Last result: **217** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | 217 | 77 | 74–79 | 73–80 | 72–81 | 71–82 |
-| Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
-| Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
-| Österreichische Volkspartei [AT] (EPP) | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
-| Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Moderata samlingspartiet [SE] (EPP) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Chrëschtlech-Sozial Vollekspartei [LU] (EPP) | | 3 | 3 | 3 | 3 | 3 |
-| Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Starostové a nezávislí [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Christlich-Soziale Partei [2014O] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Zaļo un Zemnieku savienība [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa [EE] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
-| Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| TOP 09 [CZ] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Christlich Demokratische Union Deutschlands [DE] | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
+| Partido Popular [ES] | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| Νέα Δημοκρατία [GR] | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
+| Österreichische Volkspartei [AT] | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| Forza Italia [IT] | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| Christlich-Soziale Union in Bayern [DE] | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Moderata samlingspartiet [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Christen-Democratisch Appèl [NL] | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Chrëschtlech-Sozial Vollekspartei [LU] | | 3 | 3 | 3 | 3 | 3 |
+| Kansallinen Kokoomus [FI] | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Kristdemokraterna [SE] | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Starostové a nezávislí [CZ] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Christlich-Soziale Partei [2014O] | | 1 | 1 | 1 | 1 | 1 |
+| Jaunā Vienotība [LV] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā konservatīvā partija [LV] | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība [LV] | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti [DK] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa [EE] | | 0 | 0 | 0 | 0 | 0 |
+| KPV LV [LV] | | 0 | 0 | 0 | 0 | 0–1 |
+| Kristendemokraterne [DK] | | 0 | 0 | 0 | 0 | 0 |
+| Kristillisdemokraatit [FI] | | 0 | 0 | 0 | 0 | 0 |
+| Křesťanská a demokratická unie–Československá strana lidová [CZ] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| TOP 09 [CZ] | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 

@@ -9,16 +9,16 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Alliance of Peoples and Nations | 37 | 57 | 54–60 | 53–61 | 53–61 | 51–63 |
-| Lega Nord [IT] (EAPN) | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
-| Alternative für Deutschland [DE] (EAPN) | | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
-| Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Vox [ES] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Dansk Folkeparti [DK] (EAPN) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση [GR] (EAPN) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lega Nord [IT] | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
+| Alternative für Deutschland [DE] | | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
+| Freiheitliche Partei Österreichs [AT] | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Vox [ES] | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Perussuomalaiset [FI] | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Dansk Folkeparti [DK] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Svoboda a přímá demokracie [CZ] | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Konservatiivne Rahvaerakond [EE] | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Partij voor de Vrijheid [NL] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση [GR] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
