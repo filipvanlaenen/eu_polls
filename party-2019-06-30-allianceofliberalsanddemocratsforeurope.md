@@ -1,10 +1,12 @@
 # Alliance of Liberals and Democrats for Europe
 
+Members registered from 13 countries
+
 ## Seats
 
 Last result: **68** seats (General Election of 25 May 2014)
 
-Current median: **48** seats (-20)
+Current median: **48** seats (-20 seats)
 
 ### Confidence Intervals
 

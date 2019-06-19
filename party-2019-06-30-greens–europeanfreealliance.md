@@ -1,10 +1,12 @@
 # Greens–European Free Alliance
 
+Members registered from 10 countries
+
 ## Seats
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **41** seats (-11)
+Current median: **41** seats (-11 seats)
 
 ### Confidence Intervals
 

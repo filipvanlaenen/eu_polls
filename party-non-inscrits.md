@@ -1,10 +1,12 @@
 # Non-Inscrits
 
+Members registered from 1 countries
+
 ## Seats
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **2** seats (-19)
+Current median: **2** seats (-19 seats)
 
 ### Confidence Intervals
 

@@ -1,10 +1,12 @@
 # Europe of Freedom and Direct Democracy
 
+Members registered from 2 countries
+
 ## Seats
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **13** seats (-28)
+Current median: **13** seats (-28 seats)
 
 ### Confidence Intervals
 

@@ -1,10 +1,12 @@
 # Progressive Alliance of Socialists and Democrats
 
+Members registered from 13 countries
+
 ## Seats
 
 Last result: **186** seats (General Election of 25 May 2014)
 
-Current median: **74** seats (-112)
+Current median: **74** seats (-112 seats)
 
 ### Confidence Intervals
 

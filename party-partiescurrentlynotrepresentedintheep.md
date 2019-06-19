@@ -1,10 +1,12 @@
 # Parties currently not represented in the EP
 
+Members registered from 3 countries
+
 ## Seats
 
 Last result: **0** seats (General Election of 25 May 2014)
 
-Current median: **0** seats (0)
+Current median: **0** seats (0 seats)
 
 ### Confidence Intervals
 

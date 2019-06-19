@@ -1,10 +1,12 @@
 # European United Left–Nordic Green Left
 
+Members registered from 8 countries
+
 ## Seats
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **28** seats (-24)
+Current median: **28** seats (-24 seats)
 
 ### Confidence Intervals
 
