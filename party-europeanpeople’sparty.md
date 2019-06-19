@@ -1,6 +1,6 @@
 # European People’s Party
 
-Members registered from 14 countries:
+Members registered from **14 countries**:
 
 > 20, AT, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
 
@@ -10,7 +10,7 @@ Last result: **217** seats (General Election of 25 May 2014)
 
 Current median: **77** seats (-140 seats)
 
-At least one member in 14 countries have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
 > 20, AT, CZ, DE, ES, FI, GR, IT, LU, LV, NL, SE
 

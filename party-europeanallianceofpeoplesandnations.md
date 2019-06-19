@@ -1,6 +1,6 @@
 # European Alliance of Peoples and Nations
 
-Members registered from 10 countries:
+Members registered from **10 countries**:
 
 > AT, CZ, DE, DK, EE, ES, FI, GR, IT, NL
 
@@ -10,7 +10,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 Current median: **57** seats (+20 seats)
 
-At least one member in 10 countries have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
 > AT, CZ, DE, DK, EE, ES, FI, GR, IT, NL
 

@@ -1,6 +1,6 @@
 # Parties currently not represented in the EP
 
-Members registered from 3 countries:
+Members registered from **3 countries**:
 
 > DK, EE, NL
 
@@ -10,7 +10,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 Current median: **0** seats (0 seats)
 
-At least one member in 3 countries have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
 > 
 

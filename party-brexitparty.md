@@ -1,6 +1,6 @@
 # Brexit Party
 
-Members registered from 0 countries:
+Members registered from **0 countries**:
 
 > 
 

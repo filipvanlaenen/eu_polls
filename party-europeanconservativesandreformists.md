@@ -1,6 +1,6 @@
 # European Conservatives and Reformists
 
-Members registered from 6 countries:
+Members registered from **6 countries**:
 
 > CZ, DE, IT, LV, NL, SE
 
@@ -10,7 +10,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 Current median: **20** seats (-56 seats)
 
-At least one member in 6 countries have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
 > CZ, DE, IT, LV, NL, SE
 

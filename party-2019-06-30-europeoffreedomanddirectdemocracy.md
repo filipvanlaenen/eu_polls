@@ -1,6 +1,6 @@
 # Europe of Freedom and Direct Democracy
 
-Members registered from 2 countries:
+Members registered from **2 countries**:
 
 > FI, IT
 
@@ -10,7 +10,7 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 Current median: **13** seats (-28 seats)
 
-At least one member in 2 countries have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
 > IT
 
