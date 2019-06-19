@@ -10,6 +10,10 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 Current median: **13** seats (-28 seats)
 
+At least one members in 2 countries have a median of 1 seat or more:
+
+IT
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
