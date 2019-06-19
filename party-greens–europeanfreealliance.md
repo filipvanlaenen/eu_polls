@@ -4,6 +4,8 @@
 
 Last result: **52** seats (General Election of 25 May 2014)
 
+Current median: **41** seats (-11)
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
