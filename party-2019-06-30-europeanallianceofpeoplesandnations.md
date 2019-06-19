@@ -8,8 +8,8 @@ Last result: **37** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 57 | 54–60 | 53–61 | 52–61 | 51–63 |
-| Lega Nord [IT] (EAPN) | | 28 | 25–29 | 24–30 | 24–30 | 24–31 |
+| European Alliance of Peoples and Nations | 37 | 57 | 54–60 | 53–61 | 53–61 | 51–63 |
+| Lega Nord [IT] (EAPN) | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
 | Alternative für Deutschland [DE] (EAPN) | | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
 | Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Vox [ES] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -18,7 +18,7 @@ Last result: **37** seats (General Election of 25 May 2014)
 | Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Partij voor de Vrijheid [NL] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση [GR] (EAPN) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση [GR] (EAPN) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -41,20 +41,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
-| 50 | 0.2% | 100% |  |
-| 51 | 0.7% | 99.8% |  |
-| 52 | 2% | 99.0% |  |
-| 53 | 4% | 97% |  |
-| 54 | 6% | 94% |  |
-| 55 | 10% | 87% |  |
-| 56 | 14% | 77% |  |
-| 57 | 17% | 63% | Median |
-| 58 | 17% | 45% |  |
-| 59 | 14% | 28% |  |
+| 50 | 0.1% | 100% |  |
+| 51 | 0.5% | 99.8% |  |
+| 52 | 1.4% | 99.4% |  |
+| 53 | 3% | 98% |  |
+| 54 | 7% | 95% |  |
+| 55 | 11% | 88% |  |
+| 56 | 16% | 77% |  |
+| 57 | 18% | 61% | Median |
+| 58 | 17% | 43% |  |
+| 59 | 13% | 26% |  |
 | 60 | 8% | 14% |  |
 | 61 | 4% | 6% |  |
 | 62 | 1.5% | 2% |  |
-| 63 | 0.4% | 0.6% |  |
+| 63 | 0.5% | 0.6% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 

@@ -9,7 +9,7 @@ Last result: **76** seats (General Election of 25 May 2014)
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | 76 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
-| Fratelli d’Italia [IT] (ECR) | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| Fratelli d’Italia [IT] (ECR) | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Forum voor Democratie [NL] (ECR) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna [SE] (ECR) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana [CZ] (ECR) | | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -26,15 +26,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 1.0% | 99.9% |  |
-| 18 | 7% | 98.9% |  |
-| 19 | 21% | 92% |  |
-| 20 | 33% | 72% | Median |
-| 21 | 26% | 39% |  |
-| 22 | 10% | 12% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.1% | 99.9% |  |
+| 16 | 0.2% | 99.8% |  |
+| 17 | 1.4% | 99.5% |  |
+| 18 | 8% | 98% |  |
+| 19 | 23% | 90% |  |
+| 20 | 33% | 68% | Median |
+| 21 | 24% | 35% |  |
+| 22 | 9% | 11% |  |
 | 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.1% |  |
+| 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
