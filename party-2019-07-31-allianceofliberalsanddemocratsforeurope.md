@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 47 | 44–49 | 44–49 | 43–50 | 42–51 |
+| Alliance of Liberals and Democrats for Europe | 68 | 47 | 44–49 | 44–49 | 43–50 | 42–52 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -25,8 +25,8 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
 | Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna [SE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa [IT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Liberalerna [SE] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Più Europa [IT] (ALDE) | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 
@@ -44,13 +44,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 8% | 96% |  |
 | 45 | 15% | 88% |  |
 | 46 | 21% | 73% |  |
-| 47 | 22% | 52% | Median |
-| 48 | 17% | 30% |  |
-| 49 | 9% | 13% |  |
-| 50 | 3% | 4% |  |
-| 51 | 0.8% | 1.0% |  |
-| 52 | 0.2% | 0.2% |  |
-| 53 | 0% | 0% |  |
+| 47 | 22% | 51% | Median |
+| 48 | 16% | 29% |  |
+| 49 | 8% | 13% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.4% | 0.6% |  |
+| 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |

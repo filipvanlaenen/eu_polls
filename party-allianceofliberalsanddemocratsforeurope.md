@@ -8,7 +8,7 @@ Last result: **68** seats (General Election of 25 May 2014)
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 48 | 45–50 | 45–50 | 44–51 | 43–52 |
+| Alliance of Liberals and Democrats for Europe | 68 | 47 | 44–49 | 44–49 | 43–50 | 42–52 |
 | Ciudadanos–Partido de la Ciudadanía [ES] (ALDE) | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] (ALDE) | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | ANO 2011 [CZ] (ALDE) | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -20,37 +20,37 @@ Last result: **68** seats (General Election of 25 May 2014)
 | Eesti Reformierakond [EE] (ALDE) | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta [FI] (ALDE) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! [LV] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
-| Demokratesch Partei [LU] (ALDE) | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler [DE] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] (ALDE) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre [DK] (ALDE) | | 1 | 1 | 1 | 1 | 0–2 |
 | Eesti 200 [EE] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna [SE] (ALDE) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa [IT] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
+| Liberalerna [SE] (ALDE) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Più Europa [IT] (ALDE) | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Svenska folkpartiet i Finland [FI] (ALDE) | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων [GR] (ALDE) | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-allianceofliberalsanddemocratsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Alliance of Liberals and Democrats for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Alliance of Liberals and Democrats for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.8% | 99.9% |  |
-| 44 | 3% | 99.1% |  |
-| 45 | 8% | 96% |  |
-| 46 | 15% | 88% |  |
-| 47 | 21% | 73% |  |
-| 48 | 22% | 52% | Median |
-| 49 | 17% | 30% |  |
-| 50 | 9% | 13% |  |
-| 51 | 3% | 4% |  |
-| 52 | 0.8% | 1.0% |  |
-| 53 | 0.2% | 0.2% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 0.8% | 99.9% |  |
+| 43 | 3% | 99.1% |  |
+| 44 | 8% | 96% |  |
+| 45 | 15% | 88% |  |
+| 46 | 21% | 73% |  |
+| 47 | 22% | 51% | Median |
+| 48 | 16% | 29% |  |
+| 49 | 8% | 13% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.4% | 0.6% |  |
+| 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
