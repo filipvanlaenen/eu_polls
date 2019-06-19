@@ -1,6 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from 10 countries
+Members registered from 10 countries:
+
+AT, CZ, DE, DK, EE, FI, LU, LV, NL, SE
 
 ## Seats
 

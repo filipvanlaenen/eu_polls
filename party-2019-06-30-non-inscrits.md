@@ -1,6 +1,8 @@
 # Non-Inscrits
 
-Members registered from 1 countries
+Members registered from 1 countries:
+
+GR
 
 ## Seats
 

@@ -1,6 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from 3 countries
+Members registered from 3 countries:
+
+DK, EE, NL
 
 ## Seats
 

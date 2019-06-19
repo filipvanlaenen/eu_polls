@@ -1,6 +1,8 @@
 # Europe of Freedom and Direct Democracy
 
-Members registered from 2 countries
+Members registered from 2 countries:
+
+FI, IT
 
 ## Seats
 

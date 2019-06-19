@@ -1,6 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from 13 countries
+Members registered from 13 countries:
+
+AT, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
 
 ## Seats
 

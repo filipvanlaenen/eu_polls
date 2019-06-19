@@ -1,6 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from 8 countries
+Members registered from 8 countries:
+
+CZ, DE, DK, ES, FI, GR, NL, SE
 
 ## Seats
 

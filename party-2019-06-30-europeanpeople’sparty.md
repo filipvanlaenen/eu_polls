@@ -1,6 +1,8 @@
 # European People’s Party
 
-Members registered from 14 countries
+Members registered from 14 countries:
+
+20, AT, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
 
 ## Seats
 

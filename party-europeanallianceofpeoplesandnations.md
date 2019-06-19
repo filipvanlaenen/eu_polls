@@ -1,6 +1,8 @@
 # European Alliance of Peoples and Nations
 
-Members registered from 10 countries
+Members registered from 10 countries:
+
+AT, CZ, DE, DK, EE, ES, FI, GR, IT, NL
 
 ## Seats
 

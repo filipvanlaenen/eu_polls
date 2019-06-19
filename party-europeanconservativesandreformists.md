@@ -1,6 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from 6 countries
+Members registered from 6 countries:
+
+CZ, DE, IT, LV, NL, SE
 
 ## Seats
 
