@@ -2,7 +2,7 @@
 
 Members registered from 8 countries:
 
-CZ, DE, DK, ES, FI, GR, NL, SE
+> CZ, DE, DK, ES, FI, GR, NL, SE
 
 ## Seats
 
@@ -12,7 +12,7 @@ Current median: **28** seats (-24 seats)
 
 At least one member in 8 countries have a median of 1 seat or more:
 
-CZ, DE, DK, ES, FI, GR, NL, SE
+> CZ, DE, DK, ES, FI, GR, NL, SE
 
 ### Confidence Intervals
 

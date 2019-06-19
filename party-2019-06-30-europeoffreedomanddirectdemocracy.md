@@ -2,7 +2,7 @@
 
 Members registered from 2 countries:
 
-FI, IT
+> FI, IT
 
 ## Seats
 
@@ -12,7 +12,7 @@ Current median: **13** seats (-28 seats)
 
 At least one member in 2 countries have a median of 1 seat or more:
 
-IT
+> IT
 
 ### Confidence Intervals
 

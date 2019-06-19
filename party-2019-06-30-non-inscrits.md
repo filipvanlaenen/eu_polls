@@ -2,7 +2,7 @@
 
 Members registered from 1 countries:
 
-GR
+> GR
 
 ## Seats
 
@@ -12,7 +12,7 @@ Current median: **2** seats (-19 seats)
 
 At least one member in 1 countries have a median of 1 seat or more:
 
-GR
+> GR
 
 ### Confidence Intervals
 
