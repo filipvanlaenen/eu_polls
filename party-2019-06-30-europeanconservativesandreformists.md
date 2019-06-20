@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| European Conservatives and Reformists | EU | 76 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |

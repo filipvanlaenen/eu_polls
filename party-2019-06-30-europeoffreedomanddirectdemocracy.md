@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Europe of Freedom and Direct Democracy | EU | 41 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |

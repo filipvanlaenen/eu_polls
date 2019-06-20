@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Denk [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |

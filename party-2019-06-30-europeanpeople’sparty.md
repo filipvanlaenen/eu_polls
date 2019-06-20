@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 80 | 77–82 | 76–83 | 75–84 | 74–85 |
+| European People’s Party | EU | 217 | 80 | 77–82 | 76–83 | 75–84 | 74–85 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
 | Partido Popular | ES | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |

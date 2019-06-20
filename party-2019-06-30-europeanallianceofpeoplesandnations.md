@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | 37 | 60 | 57–63 | 56–64 | 56–64 | 54–66 |
+| European Alliance of Peoples and Nations | EU | 37 | 60 | 57–63 | 56–64 | 56–64 | 54–66 |
 | Lega Nord | IT | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
 | Alternative für Deutschland | DE | | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |

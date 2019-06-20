@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 52 | 49–54 | 49–55 | 48–55 | 47–57 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 52 | 49–54 | 49–55 | 48–55 | 47–57 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei | DE | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |

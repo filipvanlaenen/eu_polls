@@ -18,7 +18,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 29 | 28–31 | 28–32 | 27–32 | 27–33 |
+| European United Left–Nordic Green Left | EU | 52 | 29 | 28–31 | 28–32 | 27–32 | 27–33 |
 | Die Linke | DE | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
