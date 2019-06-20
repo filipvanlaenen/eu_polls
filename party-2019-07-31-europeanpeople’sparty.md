@@ -1,35 +1,45 @@
 # European People’s Party
 
+Members registered from **12 countries**:
+
+> AT, CZ, DE, DK, EE, ES, FI, GR, IT, LV, NL, SE
+
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
+
+Current median: **73** seats (-144 seats)
+
+At least one member in **12 countries** have a median of 1 seat or more:
+
+> AT, CZ, DE, ES, FI, GR, IT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | 217 | 73 | 70–75 | 69–76 | 68–77 | 67–78 |
-| Christlich Demokratische Union Deutschlands [DE] (EPP) | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
-| Partido Popular [ES] (EPP) | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| Νέα Δημοκρατία [GR] (EPP) | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
-| Österreichische Volkspartei [AT] (EPP) | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| Forza Italia [IT] (EPP) | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
-| Christlich-Soziale Union in Bayern [DE] (EPP) | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Moderata samlingspartiet [SE] (EPP) | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Christen-Democratisch Appèl [NL] (EPP) | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Kansallinen Kokoomus [FI] (EPP) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Kristdemokraterna [SE] (EPP) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Starostové a nezávislí [CZ] (EPP) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā Vienotība [LV] (EPP) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Zaļo un Zemnieku savienība [LV] (EPP) | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti [DK] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa [EE] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV [LV] (EPP) | | 0 | 0 | 0 | 0 | 0–1 |
-| Kristendemokraterne [DK] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Kristillisdemokraatit [FI] (EPP) | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová [CZ] (EPP) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| TOP 09 [CZ] (EPP) | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Christlich Demokratische Union Deutschlands [DE] | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
+| Partido Popular [ES] | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| Νέα Δημοκρατία [GR] | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
+| Österreichische Volkspartei [AT] | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| Forza Italia [IT] | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| Christlich-Soziale Union in Bayern [DE] | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Moderata samlingspartiet [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Christen-Democratisch Appèl [NL] | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Kansallinen Kokoomus [FI] | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Kristdemokraterna [SE] | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Starostové a nezávislí [CZ] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā Vienotība [LV] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā konservatīvā partija [LV] | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība [LV] | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti [DK] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa [EE] | | 0 | 0 | 0 | 0 | 0 |
+| KPV LV [LV] | | 0 | 0 | 0 | 0 | 0–1 |
+| Kristendemokraterne [DK] | | 0 | 0 | 0 | 0 | 0 |
+| Kristillisdemokraatit [FI] | | 0 | 0 | 0 | 0 | 0 |
+| Křesťanská a demokratická unie–Československá strana lidová [CZ] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| TOP 09 [CZ] | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -44,16 +54,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0.9% | 99.7% |  |
 | 68 | 2% | 98.8% |  |
 | 69 | 5% | 96% |  |
-| 70 | 9% | 91% |  |
+| 70 | 10% | 91% |  |
 | 71 | 14% | 82% |  |
 | 72 | 17% | 68% |  |
-| 73 | 17% | 51% | Median |
-| 74 | 14% | 34% |  |
-| 75 | 10% | 20% |  |
-| 76 | 6% | 10% |  |
+| 73 | 17% | 50% | Median |
+| 74 | 14% | 33% |  |
+| 75 | 10% | 19% |  |
+| 76 | 5% | 9% |  |
 | 77 | 3% | 4% |  |
-| 78 | 1.0% | 1.5% |  |
-| 79 | 0.3% | 0.5% |  |
+| 78 | 1.0% | 1.4% |  |
+| 79 | 0.3% | 0.4% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
 | 82 | 0% | 0% |  |

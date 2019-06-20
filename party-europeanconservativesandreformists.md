@@ -18,8 +18,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
-| Fratelli d’Italia [IT] | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| European Conservatives and Reformists | 76 | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
+| Fratelli d’Italia [IT] | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie [NL] | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana [CZ] | | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -30,23 +30,23 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
 | 15 | 0.1% | 99.9% |  |
 | 16 | 0.2% | 99.8% |  |
-| 17 | 1.4% | 99.5% |  |
-| 18 | 8% | 98% |  |
-| 19 | 23% | 90% |  |
-| 20 | 33% | 68% | Median |
-| 21 | 24% | 35% |  |
-| 22 | 9% | 11% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.2% |  |
+| 17 | 1.4% | 99.7% |  |
+| 18 | 7% | 98% |  |
+| 19 | 21% | 91% |  |
+| 20 | 32% | 70% | Median |
+| 21 | 25% | 38% |  |
+| 22 | 10% | 13% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.3% | 0.3% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |

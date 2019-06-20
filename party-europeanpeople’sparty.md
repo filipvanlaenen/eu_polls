@@ -1,24 +1,24 @@
 # European People’s Party
 
-Members registered from **14 countries**:
+Members registered from **12 countries**:
 
-> 20, AT, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
+> AT, CZ, DE, DK, EE, ES, FI, GR, IT, LV, NL, SE
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **77** seats (-140 seats)
+Current median: **73** seats (-144 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> 20, AT, CZ, DE, ES, FI, GR, IT, LU, LV, NL, SE
+> AT, CZ, DE, ES, FI, GR, IT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | 217 | 77 | 74–79 | 73–80 | 72–81 | 71–82 |
+| European People’s Party | 217 | 73 | 70–75 | 69–76 | 68–77 | 67–78 |
 | Christlich Demokratische Union Deutschlands [DE] | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
 | Partido Popular [ES] | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία [GR] | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -27,11 +27,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern [DE] | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Moderata samlingspartiet [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl [NL] | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Chrëschtlech-Sozial Vollekspartei [LU] | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus [FI] | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kristdemokraterna [SE] | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí [CZ] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Christlich-Soziale Partei [2014O] | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība [LV] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija [LV] | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība [LV] | | 1 | 1 | 1 | 1 | 1 |
@@ -45,28 +43,32 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.9% |  |
-| 71 | 0.9% | 99.7% |  |
-| 72 | 2% | 98.8% |  |
-| 73 | 5% | 96% |  |
-| 74 | 9% | 91% |  |
-| 75 | 14% | 82% |  |
-| 76 | 17% | 68% |  |
-| 77 | 17% | 51% | Median |
-| 78 | 14% | 34% |  |
-| 79 | 10% | 20% |  |
-| 80 | 6% | 10% |  |
-| 81 | 3% | 4% |  |
-| 82 | 1.0% | 1.5% |  |
-| 83 | 0.3% | 0.5% |  |
-| 84 | 0.1% | 0.1% |  |
+| 65 | 0.1% | 100% |  |
+| 66 | 0.3% | 99.9% |  |
+| 67 | 0.9% | 99.7% |  |
+| 68 | 2% | 98.8% |  |
+| 69 | 5% | 96% |  |
+| 70 | 10% | 91% |  |
+| 71 | 14% | 82% |  |
+| 72 | 17% | 68% |  |
+| 73 | 17% | 50% | Median |
+| 74 | 14% | 33% |  |
+| 75 | 10% | 19% |  |
+| 76 | 5% | 9% |  |
+| 77 | 3% | 4% |  |
+| 78 | 1.0% | 1.4% |  |
+| 79 | 0.3% | 0.4% |  |
+| 80 | 0.1% | 0.1% |  |
+| 81 | 0% | 0% |  |
+| 82 | 0% | 0% |  |
+| 83 | 0% | 0% |  |
+| 84 | 0% | 0% |  |
 | 85 | 0% | 0% |  |
 | 86 | 0% | 0% |  |
 | 87 | 0% | 0% |  |

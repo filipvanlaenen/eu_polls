@@ -1,30 +1,40 @@
 # Greens–European Free Alliance
 
+Members registered from **9 countries**:
+
+> AT, CZ, DE, DK, EE, FI, LV, NL, SE
+
 ## Seats
 
 Last result: **52** seats (General Election of 25 May 2014)
+
+Current median: **40** seats (-12 seats)
+
+At least one member in **9 countries** have a median of 1 seat or more:
+
+> AT, CZ, DE, DK, FI, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | 52 | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
-| Bündnis 90/Die Grünen [DE] (Greens/EFA) | | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
-| Česká pirátská strana [CZ] (Greens/EFA) | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| GroenLinks [NL] (Greens/EFA) | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Die Grünen–Die Grüne Alternative [AT] (Greens/EFA) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto [FI] (Greens/EFA) | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI [DE] (Greens/EFA) | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Miljöpartiet de gröna [SE] (Greens/EFA) | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti [DK] (Greens/EFA) | | 1 | 1 | 1 | 1 | 1–2 |
-| Ökologisch-Demokratische Partei [DE] (Greens/EFA) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Alternativet [DK] (Greens/EFA) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Erakond Eestimaa Rohelised [EE] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| JETZT–Liste Pilz [AT] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība [LV] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0–1 |
-| Piratenpartei Deutschland [DE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana zelených [CZ] (Greens/EFA) | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa [DE] (Greens/EFA) | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bündnis 90/Die Grünen [DE] | | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
+| Česká pirátská strana [CZ] | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| GroenLinks [NL] | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Die Grünen–Die Grüne Alternative [AT] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vihreä liitto [FI] | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI [DE] | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Miljöpartiet de gröna [SE] | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Socialistisk Folkeparti [DK] | | 1 | 1 | 1 | 1 | 1–2 |
+| Ökologisch-Demokratische Partei [DE] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Alternativet [DK] | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Erakond Eestimaa Rohelised [EE] | | 0 | 0 | 0 | 0 | 0 |
+| JETZT–Liste Pilz [AT] | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība [LV] | | 0 | 0 | 0 | 0 | 0–1 |
+| Piratenpartei Deutschland [DE] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Strana zelených [CZ] | | 0 | 0 | 0 | 0 | 0 |
+| Volt Europa [DE] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 

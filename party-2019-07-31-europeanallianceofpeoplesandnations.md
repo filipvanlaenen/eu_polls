@@ -1,24 +1,34 @@
 # European Alliance of Peoples and Nations
 
+Members registered from **10 countries**:
+
+> AT, CZ, DE, DK, EE, ES, FI, GR, IT, NL
+
 ## Seats
 
 Last result: **37** seats (General Election of 25 May 2014)
+
+Current median: **57** seats (+20 seats)
+
+At least one member in **10 countries** have a median of 1 seat or more:
+
+> AT, CZ, DE, DK, EE, ES, FI, GR, IT, NL
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Alliance of Peoples and Nations | 37 | 57 | 54–60 | 53–61 | 53–61 | 51–63 |
-| Lega Nord [IT] (EAPN) | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
-| Alternative für Deutschland [DE] (EAPN) | | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
-| Freiheitliche Partei Österreichs [AT] (EAPN) | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Vox [ES] (EAPN) | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| Perussuomalaiset [FI] (EAPN) | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Dansk Folkeparti [DK] (EAPN) | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie [CZ] (EAPN) | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Konservatiivne Rahvaerakond [EE] (EAPN) | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partij voor de Vrijheid [NL] (EAPN) | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση [GR] (EAPN) | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lega Nord [IT] | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
+| Alternative für Deutschland [DE] | | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
+| Freiheitliche Partei Österreichs [AT] | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Vox [ES] | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Perussuomalaiset [FI] | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Dansk Folkeparti [DK] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Svoboda a přímá demokracie [CZ] | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Konservatiivne Rahvaerakond [EE] | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Partij voor de Vrijheid [NL] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση [GR] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -42,19 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
 | 50 | 0.1% | 100% |  |
-| 51 | 0.5% | 99.8% |  |
+| 51 | 0.4% | 99.9% |  |
 | 52 | 1.4% | 99.4% |  |
 | 53 | 3% | 98% |  |
 | 54 | 7% | 95% |  |
-| 55 | 11% | 88% |  |
-| 56 | 16% | 77% |  |
-| 57 | 18% | 61% | Median |
-| 58 | 17% | 43% |  |
-| 59 | 13% | 26% |  |
-| 60 | 8% | 14% |  |
+| 55 | 12% | 88% |  |
+| 56 | 16% | 76% |  |
+| 57 | 18% | 60% | Median |
+| 58 | 17% | 42% |  |
+| 59 | 12% | 26% |  |
+| 60 | 7% | 13% |  |
 | 61 | 4% | 6% |  |
-| 62 | 1.5% | 2% |  |
-| 63 | 0.5% | 0.6% |  |
+| 62 | 1.4% | 2% |  |
+| 63 | 0.4% | 0.6% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 

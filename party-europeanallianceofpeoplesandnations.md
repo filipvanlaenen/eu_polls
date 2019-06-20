@@ -32,9 +32,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanallianceofpeoplesandnations.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European Alliance of Peoples and Nations.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European Alliance of Peoples and Nations.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -52,19 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
 | 50 | 0.1% | 100% |  |
-| 51 | 0.5% | 99.8% |  |
+| 51 | 0.4% | 99.9% |  |
 | 52 | 1.4% | 99.4% |  |
 | 53 | 3% | 98% |  |
 | 54 | 7% | 95% |  |
-| 55 | 11% | 88% |  |
-| 56 | 16% | 77% |  |
-| 57 | 18% | 61% | Median |
-| 58 | 17% | 43% |  |
-| 59 | 13% | 26% |  |
-| 60 | 8% | 14% |  |
+| 55 | 12% | 88% |  |
+| 56 | 16% | 76% |  |
+| 57 | 18% | 60% | Median |
+| 58 | 17% | 42% |  |
+| 59 | 12% | 26% |  |
+| 60 | 7% | 13% |  |
 | 61 | 4% | 6% |  |
-| 62 | 1.5% | 2% |  |
-| 63 | 0.5% | 0.6% |  |
+| 62 | 1.4% | 2% |  |
+| 63 | 0.4% | 0.6% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 

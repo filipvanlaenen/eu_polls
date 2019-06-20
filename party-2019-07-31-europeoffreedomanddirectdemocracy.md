@@ -1,16 +1,26 @@
 # Europe of Freedom and Direct Democracy
 
+Members registered from **2 countries**:
+
+> FI, IT
+
 ## Seats
 
 Last result: **41** seats (General Election of 25 May 2014)
+
+Current median: **14** seats (-27 seats)
+
+At least one member in **2 countries** have a median of 1 seat or more:
+
+> IT
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | 41 | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
-| Movimento 5 Stelle [IT] (EFDD) | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
-| Liike Nyt [FI] (EFDD) | | 0 | 0 | 0 | 0 | 0 |
+| Europe of Freedom and Direct Democracy | 41 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Movimento 5 Stelle [IT] | | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Liike Nyt [FI] | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -20,14 +30,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.6% | 100% |  |
-| 11 | 4% | 99.4% |  |
-| 12 | 19% | 95% |  |
-| 13 | 28% | 76% | Median |
-| 14 | 26% | 49% |  |
-| 15 | 16% | 23% |  |
-| 16 | 5% | 7% |  |
-| 17 | 1.4% | 2% |  |
+| 10 | 0.5% | 100% |  |
+| 11 | 3% | 99.5% |  |
+| 12 | 17% | 96% |  |
+| 13 | 25% | 80% |  |
+| 14 | 29% | 54% | Median |
+| 15 | 18% | 26% |  |
+| 16 | 6% | 7% |  |
+| 17 | 1.3% | 1.5% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
