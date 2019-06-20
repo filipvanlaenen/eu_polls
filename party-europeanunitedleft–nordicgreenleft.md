@@ -16,21 +16,21 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 ### Confidence Intervals
 
-| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | 52 | 29 | 28–31 | 28–32 | 27–32 | 27–33 |
-| Die Linke [DE] | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| Unidos Podemos [ES] | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| Vänsterpartiet [SE] | | 2 | 2 | 2 | 2 | 1–2 |
-| Enhedslisten–De Rød-Grønne [DK] | | 1 | 1 | 1 | 1 | 1–2 |
-| Komunistická strana Čech a Moravy [CZ] | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz [DE] | | 1 | 1 | 1 | 1 | 0–2 |
-| Parti du Travail de Belgique [BE-FRC] | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren [NL] | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij [NL] | | 1 | 1 | 1 | 1 | 1–2 |
-| Vasemmistoliitto [FI] | | 1 | 1 | 1 | 1 | 1 |
-| Partij van de Arbeid van België [BE-VLG] | | 0 | 0 | 0 | 0 | 0 |
+| Die Linke [DE] (GUE/NGL) | [DE] | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| Unidos Podemos [ES] (GUE/NGL) | [ES] | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] (GUE/NGL) | [GR] | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| Vänsterpartiet [SE] (GUE/NGL) | [SE] | | 2 | 2 | 2 | 2 | 1–2 |
+| Enhedslisten–De Rød-Grønne [DK] (GUE/NGL) | [DK] | | 1 | 1 | 1 | 1 | 1–2 |
+| Komunistická strana Čech a Moravy [CZ] (GUE/NGL) | [CZ] | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz [DE] (GUE/NGL) | [DE] | | 1 | 1 | 1 | 1 | 0–2 |
+| Parti du Travail de Belgique [BE-FRC] (GUE/NGL) | [BE-FRC] | | 1 | 1 | 1 | 1 | 1 |
+| Partij voor de Dieren [NL] (GUE/NGL) | [NL] | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij [NL] (GUE/NGL) | [NL] | | 1 | 1 | 1 | 1 | 1–2 |
+| Vasemmistoliitto [FI] (GUE/NGL) | [FI] | | 1 | 1 | 1 | 1 | 1 |
+| Partij van de Arbeid van België [BE-VLG] (GUE/NGL) | [BE-VLG] | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

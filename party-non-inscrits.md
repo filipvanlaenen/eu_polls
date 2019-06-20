@@ -16,11 +16,11 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 ### Confidence Intervals
 
-| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | 21 | 2 | 2 | 2 | 2–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας [GR] | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Χρυσή Αυγή [GR] | | 1 | 1 | 1 | 1 | 0–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας [GR] (NI) | [GR] | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Χρυσή Αυγή [GR] (NI) | [GR] | | 1 | 1 | 1 | 1 | 0–2 |
 
 ### Probability Mass Function
 
