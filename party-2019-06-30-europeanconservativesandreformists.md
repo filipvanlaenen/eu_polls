@@ -19,15 +19,15 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | 76 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
-| Fratelli d’Italia [IT] (ECR) | [IT] | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
-| Forum voor Democratie [NL] (ECR) | [NL] | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Sverigedemokraterna [SE] (ECR) | [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Nieuw-Vlaamse Alliantie [BE-VLG] (ECR) | [BE-VLG] | | 3 | 3 | 3 | 3 | 3 |
-| Občanská demokratická strana [CZ] (ECR) | [CZ] | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| ChristenUnie–Staatkundig Gereformeerde Partij [NL] (ECR) | [NL] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Familienpartei Deutschlands [DE] (ECR) | [DE] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] (ECR) | [LV] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Latvijas Reģionu apvienība [LV] (ECR) | [LV] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
+| Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
