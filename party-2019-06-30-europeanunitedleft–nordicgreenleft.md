@@ -1,24 +1,24 @@
 # European United Left–Nordic Green Left
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> CZ, DE, DK, ES, FI, GR, NL, SE
+> BE, CZ, DE, DK, ES, FI, GR, NL, SE
 
 ## Seats
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **28** seats (-24 seats)
+Current median: **29** seats (-23 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **9 countries** have a median of 1 seat or more:
 
-> CZ, DE, DK, ES, FI, GR, NL, SE
+> BE, CZ, DE, DK, ES, FI, GR, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | 52 | 28 | 27–30 | 27–31 | 26–31 | 26–32 |
+| European United Left–Nordic Green Left | 52 | 29 | 28–31 | 28–32 | 27–32 | 27–33 |
 | Die Linke [DE] | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Unidos Podemos [ES] | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς [GR] | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -26,9 +26,11 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne [DK] | | 1 | 1 | 1 | 1 | 1–2 |
 | Komunistická strana Čech a Moravy [CZ] | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz [DE] | | 1 | 1 | 1 | 1 | 0–2 |
+| Parti du Travail de Belgique [BE-FRC] | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren [NL] | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij [NL] | | 1 | 1 | 1 | 1 | 1–2 |
 | Vasemmistoliitto [FI] | | 1 | 1 | 1 | 1 | 1 |
+| Partij van de Arbeid van België [BE-VLG] | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -38,16 +40,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.3% | 100% |  |
-| 26 | 4% | 99.6% |  |
-| 27 | 19% | 95% |  |
-| 28 | 32% | 77% | Median |
-| 29 | 26% | 45% |  |
-| 30 | 13% | 19% |  |
-| 31 | 4% | 6% |  |
-| 32 | 1.0% | 1.2% |  |
-| 33 | 0.1% | 0.2% |  |
-| 34 | 0% | 0% |  |
+| 26 | 0.3% | 100% |  |
+| 27 | 4% | 99.6% |  |
+| 28 | 19% | 95% |  |
+| 29 | 32% | 77% | Median |
+| 30 | 26% | 45% |  |
+| 31 | 13% | 19% |  |
+| 32 | 4% | 6% |  |
+| 33 | 1.0% | 1.2% |  |
+| 34 | 0.1% | 0.2% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |
 | 37 | 0% | 0% |  |

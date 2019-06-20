@@ -1,24 +1,24 @@
 # Alliance of Liberals and Democrats for Europe
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
 
 ## Seats
 
 Last result: **68** seats (General Election of 25 May 2014)
 
-Current median: **48** seats (-20 seats)
+Current median: **52** seats (-16 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, EE, ES, FI, LU, LV, NL, SE
+> AT, BE, CZ, DE, DK, EE, ES, FI, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | 68 | 48 | 45–50 | 45–50 | 44–51 | 43–53 |
+| Alliance of Liberals and Democrats for Europe | 68 | 52 | 49–54 | 49–55 | 48–55 | 47–57 |
 | Ciudadanos–Partido de la Ciudadanía [ES] | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei [DE] | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | ANO 2011 [CZ] | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -28,16 +28,19 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Democraten 66 [NL] | | 2 | 2 | 2 | 2 | 1–2 |
 | Eesti Keskerakond [EE] | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond [EE] | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Mouvement Réformateur [BE-FRC] | | 2 | 2 | 2 | 2 | 2 |
+| Open Vlaamse Liberalen en Democraten [BE-VLG] | | 2 | 2 | 2 | 2 | 2 |
 | Suomen Keskusta [FI] | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! [LV] | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei [LU] | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler [DE] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum [AT] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre [DK] | | 1 | 1 | 1 | 1 | 0–2 |
+| DéFI [BE-FRC] | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 [EE] | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance [DK] | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna [SE] | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Più Europa [IT] | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Più Europa [IT] | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Svenska folkpartiet i Finland [FI] | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων [GR] | | 0 | 0 | 0 | 0 | 0 |
 
@@ -49,24 +52,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.8% | 99.9% |  |
-| 44 | 3% | 99.1% |  |
-| 45 | 8% | 96% |  |
-| 46 | 15% | 88% |  |
-| 47 | 21% | 73% |  |
-| 48 | 22% | 51% | Median |
-| 49 | 16% | 29% |  |
-| 50 | 8% | 13% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.1% | 2% |  |
-| 53 | 0.4% | 0.6% |  |
-| 54 | 0.1% | 0.2% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
+| 46 | 0.1% | 100% |  |
+| 47 | 0.8% | 99.9% |  |
+| 48 | 3% | 99.1% |  |
+| 49 | 8% | 96% |  |
+| 50 | 15% | 88% |  |
+| 51 | 21% | 73% |  |
+| 52 | 22% | 52% | Median |
+| 53 | 16% | 31% |  |
+| 54 | 8% | 15% |  |
+| 55 | 4% | 6% |  |
+| 56 | 2% | 2% |  |
+| 57 | 0.6% | 0.9% |  |
+| 58 | 0.2% | 0.3% |  |
+| 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

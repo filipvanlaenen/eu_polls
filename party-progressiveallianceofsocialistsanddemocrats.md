@@ -1,24 +1,24 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **12 countries**:
+Members registered from **14 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, IT, LV, NL, SE
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
 
 ## Seats
 
 Last result: **186** seats (General Election of 25 May 2014)
 
-Current median: **73** seats (-113 seats)
+Current median: **77** seats (-109 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, IT, LV, NL, SE
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | 186 | 73 | 70–76 | 70–77 | 69–78 | 68–79 |
+| Progressive Alliance of Socialists and Democrats | 186 | 77 | 74–80 | 74–81 | 73–82 | 72–83 |
 | Partido Socialista Obrero Español [ES] | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | Partito Democratico [IT] | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands [DE] | | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
@@ -27,8 +27,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs [AT] | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partij van de Arbeid [NL] | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue [FI] | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Parti Socialiste [BE-FRC] | | 2 | 2 | 2 | 2 | 2 |
 | Sociāldemokrātiskā Partija “Saskaņa” [LV] | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής [GR] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei [LU] | | 1 | 1 | 1 | 1 | 1 |
+| Socialistische Partij Anders [BE-VLG] | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond [EE] | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická [CZ] | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Liberi e Uguali [IT] | | 0 | 0 | 0 | 0 | 0 |
@@ -36,32 +39,28 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.1% | 100% |  |
-| 67 | 0.3% | 99.9% |  |
-| 68 | 1.1% | 99.6% |  |
-| 69 | 3% | 98% |  |
-| 70 | 6% | 96% |  |
-| 71 | 11% | 89% |  |
-| 72 | 15% | 79% |  |
-| 73 | 17% | 64% | Median |
-| 74 | 17% | 47% |  |
-| 75 | 13% | 31% |  |
-| 76 | 9% | 17% |  |
-| 77 | 5% | 8% |  |
-| 78 | 2% | 3% |  |
-| 79 | 0.8% | 1.2% |  |
-| 80 | 0.3% | 0.3% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
-| 83 | 0% | 0% |  |
-| 84 | 0% | 0% |  |
-| 85 | 0% | 0% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.3% | 99.9% |  |
+| 72 | 1.1% | 99.6% |  |
+| 73 | 3% | 98% |  |
+| 74 | 6% | 96% |  |
+| 75 | 11% | 89% |  |
+| 76 | 15% | 79% |  |
+| 77 | 17% | 64% | Median |
+| 78 | 17% | 47% |  |
+| 79 | 13% | 31% |  |
+| 80 | 9% | 17% |  |
+| 81 | 5% | 8% |  |
+| 82 | 2% | 3% |  |
+| 83 | 0.8% | 1.2% |  |
+| 84 | 0.3% | 0.3% |  |
+| 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |
 | 87 | 0% | 0% |  |
 | 88 | 0% | 0% |  |

@@ -1,27 +1,28 @@
 # European Conservatives and Reformists
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> CZ, DE, IT, LV, NL, SE
+> BE, CZ, DE, IT, LV, NL, SE
 
 ## Seats
 
 Last result: **76** seats (General Election of 25 May 2014)
 
-Current median: **20** seats (-56 seats)
+Current median: **23** seats (-53 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> CZ, DE, IT, LV, NL, SE
+> BE, CZ, DE, IT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
-| Fratelli d’Italia [IT] | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| European Conservatives and Reformists | 76 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| Fratelli d’Italia [IT] | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie [NL] | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Nieuw-Vlaamse Alliantie [BE-VLG] | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana [CZ] | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij [NL] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands [DE] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -36,20 +37,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.1% | 99.9% |  |
-| 16 | 0.2% | 99.8% |  |
-| 17 | 1.4% | 99.5% |  |
-| 18 | 8% | 98% |  |
-| 19 | 23% | 90% |  |
-| 20 | 33% | 68% | Median |
-| 21 | 24% | 35% |  |
-| 22 | 9% | 11% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.2% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.1% | 99.9% |  |
+| 19 | 0.2% | 99.8% |  |
+| 20 | 1.4% | 99.7% |  |
+| 21 | 7% | 98% |  |
+| 22 | 21% | 91% |  |
+| 23 | 32% | 70% | Median |
+| 24 | 25% | 38% |  |
+| 25 | 10% | 13% |  |
+| 26 | 2% | 3% |  |
+| 27 | 0.3% | 0.3% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
