@@ -1,33 +1,37 @@
 # European Conservatives and Reformists
 
-Members registered from **7 countries**:
+Members registered from **10 countries**:
 
-> BE, CZ, DE, IT, LV, NL, SE
+> BE, BG, CZ, DE, FR, GB, IT, LV, NL, SE
 
 ## Seats
 
 Last result: **76** seats (General Election of 25 May 2014)
 
-Current median: **23** seats (-53 seats)
+Current median: **29** seats (-47 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> BE, CZ, DE, IT, LV, NL, SE
+> BE, BG, CZ, GB, IT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| European Conservatives and Reformists | EU | 76 | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -37,23 +41,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
-| 18 | 0.1% | 99.9% |  |
-| 19 | 0.2% | 99.8% |  |
-| 20 | 1.4% | 99.7% |  |
-| 21 | 7% | 98% |  |
-| 22 | 21% | 91% |  |
-| 23 | 32% | 70% | Median |
-| 24 | 25% | 38% |  |
-| 25 | 10% | 13% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.3% | 0.3% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.1% | 99.9% |  |
+| 25 | 0.2% | 99.8% |  |
+| 26 | 2% | 99.6% |  |
+| 27 | 9% | 98% |  |
+| 28 | 24% | 89% |  |
+| 29 | 32% | 65% | Median |
+| 30 | 22% | 33% |  |
+| 31 | 8% | 10% |  |
+| 32 | 2% | 2% |  |
+| 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
 | 36 | 0% | 0% |  |

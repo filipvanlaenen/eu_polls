@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **3 countries**:
+Members registered from **5 countries**:
 
-> DK, EE, NL
+> DK, EE, FR, GB, NL
 
 ## Seats
 
@@ -10,7 +10,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 Current median: **0** seats (0 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **0 countries** have a median of 1 seat or more:
 
 > 
 
@@ -23,8 +23,13 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Denk [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Traditional Unionist Voice [GB-NIR] (*) | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
+| Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
