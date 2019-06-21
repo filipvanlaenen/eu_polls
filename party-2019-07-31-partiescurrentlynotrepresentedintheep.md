@@ -10,21 +10,21 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 Current median: **0** seats (0 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **0 countries** have a median of 1 seat or more:
 
 > 
 
 ### Confidence Intervals
 
-| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| 50Plus [NL] (*) | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Denk [NL] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Eesti Vabaerakond [EE] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Klaus Riskær Pedersen [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige [DK] (*) | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Stram Kurs [DK] (*) | | 0 | 0 | 0 | 0 | 0 |
+| Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Parties currently not represented in the EP | EU | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| 50Plus [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Denk [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
+| Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

@@ -10,23 +10,23 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 Current median: **20** seats (-56 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> CZ, DE, IT, LV, NL, SE
+> CZ, IT, LV, NL, SE
 
 ### Confidence Intervals
 
-| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
-|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | 76 | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
-| Fratelli d’Italia [IT] | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
-| Forum voor Democratie [NL] | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Sverigedemokraterna [SE] | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Občanská demokratická strana [CZ] | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| ChristenUnie–Staatkundig Gereformeerde Partij [NL] | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Familienpartei Deutschlands [DE] | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” [LV] | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Latvijas Reģionu apvienība [LV] | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| European Conservatives and Reformists | EU | 76 | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -39,14 +39,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 0.1% | 99.9% |  |
 | 16 | 0.2% | 99.8% |  |
-| 17 | 1.4% | 99.7% |  |
-| 18 | 7% | 98% |  |
-| 19 | 21% | 91% |  |
-| 20 | 32% | 70% | Median |
-| 21 | 25% | 38% |  |
-| 22 | 10% | 13% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.3% | 0.3% |  |
+| 17 | 2% | 99.6% |  |
+| 18 | 9% | 98% |  |
+| 19 | 24% | 89% |  |
+| 20 | 32% | 65% | Median |
+| 21 | 22% | 33% |  |
+| 22 | 8% | 10% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |

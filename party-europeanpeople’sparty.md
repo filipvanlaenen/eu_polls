@@ -1,43 +1,39 @@
 # European People’s Party
 
-Members registered from **14 countries**:
+Members registered from **12 countries**:
 
-> AT, BE, CZ, DE, DK, EE, ES, FI, GR, IT, LU, LV, NL, SE
+> AT, CZ, DE, DK, EE, ES, FI, GR, IT, LV, NL, SE
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **80** seats (-137 seats)
+Current median: **72** seats (-145 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, ES, FI, GR, IT, LU, LV, NL, SE
+> AT, CZ, DE, DK, ES, FI, GR, IT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 80 | 77–82 | 76–83 | 75–84 | 74–85 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 17–21 | 17–22 | 16–23 |
+| European People’s Party | EU | 217 | 72 | 70–75 | 69–76 | 68–77 | 67–78 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | Partido Popular | ES | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
-| Kristdemokraterna | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Kristdemokraterna | SE | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -47,28 +43,35 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0.1% | 100% |  |
-| 73 | 0.3% | 99.9% |  |
-| 74 | 0.9% | 99.7% |  |
-| 75 | 2% | 98.8% |  |
-| 76 | 5% | 96% |  |
-| 77 | 10% | 91% |  |
-| 78 | 14% | 82% |  |
-| 79 | 17% | 68% |  |
-| 80 | 17% | 50% | Median |
-| 81 | 14% | 33% |  |
-| 82 | 10% | 19% |  |
-| 83 | 5% | 9% |  |
-| 84 | 3% | 4% |  |
-| 85 | 1.0% | 1.4% |  |
-| 86 | 0.3% | 0.4% |  |
-| 87 | 0.1% | 0.1% |  |
+| 65 | 0.1% | 100% |  |
+| 66 | 0.2% | 99.9% |  |
+| 67 | 0.8% | 99.7% |  |
+| 68 | 2% | 98.8% |  |
+| 69 | 6% | 96% |  |
+| 70 | 11% | 91% |  |
+| 71 | 16% | 80% |  |
+| 72 | 19% | 64% | Median |
+| 73 | 17% | 45% |  |
+| 74 | 13% | 28% |  |
+| 75 | 8% | 14% |  |
+| 76 | 4% | 7% |  |
+| 77 | 2% | 3% |  |
+| 78 | 0.6% | 0.9% |  |
+| 79 | 0.2% | 0.3% |  |
+| 80 | 0.1% | 0.1% |  |
+| 81 | 0% | 0% |  |
+| 82 | 0% | 0% |  |
+| 83 | 0% | 0% |  |
+| 84 | 0% | 0% |  |
+| 85 | 0% | 0% |  |
+| 86 | 0% | 0% |  |
+| 87 | 0% | 0% |  |
 | 88 | 0% | 0% |  |
 | 89 | 0% | 0% |  |
 | 90 | 0% | 0% |  |

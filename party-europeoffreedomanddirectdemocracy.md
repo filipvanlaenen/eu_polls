@@ -1,8 +1,8 @@
 # Europe of Freedom and Direct Democracy
 
-Members registered from **3 countries**:
+Members registered from **2 countries**:
 
-> BE, FI, IT
+> FI, IT
 
 ## Seats
 
@@ -10,7 +10,7 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 Current median: **14** seats (-27 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
 > IT
 
@@ -21,23 +21,22 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Europe of Freedom and Direct Democracy | EU | 41 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Europe of Freedom and Direct Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Europe of Freedom and Direct Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.5% | 100% |  |
 | 11 | 3% | 99.5% |  |
 | 12 | 17% | 96% |  |
-| 13 | 25% | 80% |  |
-| 14 | 29% | 54% | Median |
-| 15 | 18% | 26% |  |
-| 16 | 6% | 7% |  |
+| 13 | 26% | 80% |  |
+| 14 | 28% | 53% | Median |
+| 15 | 18% | 25% |  |
+| 16 | 6% | 8% |  |
 | 17 | 1.3% | 1.5% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
