@@ -1,26 +1,30 @@
 # Non-Inscrits
 
-Members registered from **1 countries**:
+Members registered from **3 countries**:
 
-> GR
+> GR, HR, HU
 
 ## Seats
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **2** seats (-19 seats)
+Current median: **4** seats (-17 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> GR
+> GR, HR, HU
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 2 | 2 | 2 | 2–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Χρυσή Αυγή | GR | | 1 | 1 | 1 | 1 | 0–2 |
+| Non-Inscrits | EU | 21 | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -30,13 +34,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 93% | 98% | Median |
-| 3 | 5% | 5% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
+| 2 | 2% | 100% |  |
+| 3 | 14% | 98% |  |
+| 4 | 39% | 84% | Median |
+| 5 | 37% | 46% |  |
+| 6 | 8% | 9% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |

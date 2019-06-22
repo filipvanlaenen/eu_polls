@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **2 countries**:
+Members registered from **4 countries**:
 
-> DK, NL
+> DK, EE, HR, NL
 
 ## Seats
 
@@ -20,10 +20,13 @@ At least one member in **0 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Denk [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

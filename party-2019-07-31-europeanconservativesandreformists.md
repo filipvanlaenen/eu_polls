@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> CZ, DE, IT, LV, NL, SE
+> CZ, DE, HR, IT, LV, NL, SE
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
+| European Conservatives and Reformists | EU | 76 | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -26,7 +26,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -36,18 +38,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
+| 14 | 0% | 100% |  |
 | 15 | 0.1% | 99.9% |  |
-| 16 | 0.2% | 99.8% |  |
-| 17 | 2% | 99.6% |  |
-| 18 | 9% | 98% |  |
-| 19 | 24% | 89% |  |
-| 20 | 32% | 65% | Median |
-| 21 | 23% | 33% |  |
-| 22 | 8% | 10% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 16 | 0.2% | 99.9% |  |
+| 17 | 1.1% | 99.7% |  |
+| 18 | 6% | 98.6% |  |
+| 19 | 19% | 92% |  |
+| 20 | 30% | 73% | Median |
+| 21 | 26% | 44% |  |
+| 22 | 13% | 18% |  |
+| 23 | 4% | 5% |  |
+| 24 | 0.7% | 0.8% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
