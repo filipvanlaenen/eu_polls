@@ -26,7 +26,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Vrijheid | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -57,7 +57,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 2% | 99.1% |  |
 | 54 | 5% | 97% |  |
 | 55 | 10% | 92% |  |
-| 56 | 15% | 83% |  |
+| 56 | 15% | 82% |  |
 | 57 | 19% | 67% | Median |
 | 58 | 19% | 48% |  |
 | 59 | 14% | 29% |  |

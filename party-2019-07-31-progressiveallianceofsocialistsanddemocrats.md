@@ -29,7 +29,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,15 +43,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 66 | 0.1% | 100% |  |
-| 67 | 0.5% | 99.8% |  |
-| 68 | 2% | 99.3% |  |
+| 67 | 0.5% | 99.9% |  |
+| 68 | 1.4% | 99.4% |  |
 | 69 | 4% | 98% |  |
 | 70 | 7% | 94% |  |
-| 71 | 11% | 87% |  |
-| 72 | 14% | 76% |  |
+| 71 | 11% | 88% |  |
+| 72 | 14% | 77% |  |
 | 73 | 16% | 62% | Median |
 | 74 | 15% | 46% |  |
-| 75 | 12% | 31% |  |
+| 75 | 13% | 31% |  |
 | 76 | 9% | 19% |  |
 | 77 | 5% | 10% |  |
 | 78 | 3% | 4% |  |

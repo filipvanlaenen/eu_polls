@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **68** seats (General Election of 25 May 2014)
 
-Current median: **48** seats (-20 seats)
+Current median: **47** seats (-21 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | EU | 68 | 48 | 45–50 | 45–51 | 44–51 | 43–53 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 47 | 45–50 | 45–51 | 44–51 | 43–53 |
 | Freie Demokratische Partei | DE | | 9 | 7–10 | 6–10 | 6–10 | 6–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Eesti Reformierakond | EE | | 3 | 3 | 3 | 3 | 3 |
 | Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–2 |
-| Eesti Keskerakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -37,7 +37,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -53,15 +53,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 3% | 98.7% |  |
 | 45 | 8% | 95% |  |
 | 46 | 15% | 87% |  |
-| 47 | 22% | 72% |  |
-| 48 | 22% | 51% | Median |
-| 49 | 15% | 29% |  |
+| 47 | 22% | 72% | Median |
+| 48 | 22% | 50% |  |
+| 49 | 15% | 28% |  |
 | 50 | 8% | 13% |  |
 | 51 | 3% | 5% |  |
 | 52 | 1.3% | 2% |  |
-| 53 | 0.6% | 0.8% |  |
+| 53 | 0.5% | 0.8% |  |
 | 54 | 0.2% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
+| 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
