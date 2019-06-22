@@ -1,14 +1,14 @@
 # European Alliance of Peoples and Nations
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, IT, NL
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, IT, NL
 
 ## Seats
 
 Last result: **37** seats (General Election of 25 May 2014)
 
-Current median: **82** seats (+45 seats)
+Current median: **83** seats (+46 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | EU | 37 | 82 | 80–85 | 79–86 | 78–86 | 77–88 |
+| European Alliance of Peoples and Nations | EU | 37 | 83 | 80–85 | 79–86 | 79–87 | 77–88 |
 | Lega Nord | IT | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
-| Alternative für Deutschland | DE | | 13 | 12–14 | 12–14 | 11–14 | 11–16 |
-| Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Alternative für Deutschland | DE | | 13 | 12–13 | 11–14 | 11–14 | 11–16 |
 | Vox | ES | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Vrijheid | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Neovisni za Hrvatsku | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -81,20 +82,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0% | 100% |  |
 | 74 | 0% | 100% |  |
 | 75 | 0% | 100% |  |
-| 76 | 0.2% | 100% |  |
-| 77 | 0.7% | 99.8% |  |
-| 78 | 2% | 99.1% |  |
-| 79 | 5% | 97% |  |
-| 80 | 10% | 92% |  |
-| 81 | 15% | 82% |  |
-| 82 | 19% | 67% | Median |
-| 83 | 19% | 48% |  |
-| 84 | 14% | 29% |  |
-| 85 | 9% | 15% |  |
-| 86 | 4% | 6% |  |
-| 87 | 2% | 2% |  |
-| 88 | 0.5% | 0.6% |  |
-| 89 | 0.1% | 0.2% |  |
-| 90 | 0% | 0% |  |
+| 76 | 0.1% | 100% |  |
+| 77 | 0.5% | 99.8% |  |
+| 78 | 2% | 99.3% |  |
+| 79 | 4% | 98% |  |
+| 80 | 8% | 94% |  |
+| 81 | 13% | 86% |  |
+| 82 | 18% | 73% |  |
+| 83 | 19% | 55% | Median |
+| 84 | 16% | 37% |  |
+| 85 | 11% | 21% |  |
+| 86 | 6% | 10% |  |
+| 87 | 3% | 4% |  |
+| 88 | 0.9% | 1.2% |  |
+| 89 | 0.3% | 0.3% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
