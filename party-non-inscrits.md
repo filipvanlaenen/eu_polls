@@ -1,39 +1,41 @@
 # Non-Inscrits
 
-Members registered from **1 countries**:
+Members registered from **4 countries**:
 
-> GR
+> BG, CY, GB, GR
 
 ## Seats
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **2** seats (-19 seats)
+Current median: **3** seats (-18 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> GR
+> GB, GR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 2 | 2 | 2 | 2–3 | 1–3 |
+| Non-Inscrits | EU | 21 | 3 | 3 | 3 | 3–4 | 2–4 |
+| Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 1 | 1 | 1 | 0–2 |
+| Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
+| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 93% | 98% | Median |
-| 3 | 5% | 5% |  |
-| 4 | 0% | 0% |  |
+| 2 | 2% | 100% |  |
+| 3 | 93% | 98% | Median |
+| 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |

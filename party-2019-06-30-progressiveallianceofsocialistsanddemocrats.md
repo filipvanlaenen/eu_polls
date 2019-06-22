@@ -35,7 +35,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -54,15 +54,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 92 | 0.1% | 100% |  |
-| 93 | 0.5% | 99.8% |  |
-| 94 | 2% | 99.3% |  |
+| 93 | 0.5% | 99.9% |  |
+| 94 | 1.4% | 99.4% |  |
 | 95 | 4% | 98% |  |
 | 96 | 7% | 94% |  |
-| 97 | 11% | 87% |  |
-| 98 | 14% | 76% |  |
+| 97 | 11% | 88% |  |
+| 98 | 14% | 77% |  |
 | 99 | 16% | 62% | Median |
 | 100 | 15% | 46% |  |
-| 101 | 12% | 31% |  |
+| 101 | 13% | 31% |  |
 | 102 | 9% | 19% |  |
 | 103 | 5% | 10% |  |
 | 104 | 3% | 4% |  |
