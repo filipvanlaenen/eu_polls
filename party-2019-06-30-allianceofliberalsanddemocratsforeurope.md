@@ -53,7 +53,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -92,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 17% | 84% |  |
 | 95 | 22% | 67% | Median |
 | 96 | 20% | 46% |  |
-| 97 | 14% | 25% |  |
+| 97 | 14% | 26% |  |
 | 98 | 7% | 12% |  |
 | 99 | 3% | 5% |  |
 | 100 | 1.2% | 2% |  |
