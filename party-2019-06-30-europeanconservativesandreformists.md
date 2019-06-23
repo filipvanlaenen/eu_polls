@@ -1,24 +1,24 @@
 # European Conservatives and Reformists
 
-Members registered from **11 countries**:
+Members registered from **13 countries**:
 
-> BE, BG, CZ, DE, FR, GB, HR, IT, LV, NL, SE
+> BE, BG, CZ, DE, FR, GB, HR, IT, LT, LU, LV, NL, SE
 
 ## Seats
 
 Last result: **76** seats (General Election of 25 May 2014)
 
-Current median: **29** seats (-47 seats)
+Current median: **31** seats (-45 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **9 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, GB, IT, LV, NL, SE
+> BE, BG, CZ, GB, IT, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 29 | 28–31 | 27–31 | 27–32 | 26–33 |
+| European Conservatives and Reformists | EU | 76 | 31 | 29–32 | 28–33 | 28–33 | 27–34 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -28,10 +28,14 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -43,19 +47,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.1% | 99.9% |  |
-| 25 | 0.2% | 99.8% |  |
-| 26 | 1.3% | 99.7% |  |
-| 27 | 7% | 98% |  |
-| 28 | 20% | 91% |  |
-| 29 | 31% | 71% | Median |
-| 30 | 25% | 40% |  |
-| 31 | 12% | 15% |  |
-| 32 | 3% | 4% |  |
-| 33 | 0.5% | 0.6% |  |
-| 34 | 0.1% | 0.1% |  |
-| 35 | 0% | 0% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.1% | 99.9% |  |
+| 27 | 0.8% | 99.8% |  |
+| 28 | 4% | 99.0% |  |
+| 29 | 14% | 95% |  |
+| 30 | 26% | 80% |  |
+| 31 | 28% | 55% | Median |
+| 32 | 18% | 27% |  |
+| 33 | 7% | 9% |  |
+| 34 | 2% | 2% |  |
+| 35 | 0.3% | 0.3% |  |
 | 36 | 0% | 0% |  |
 | 37 | 0% | 0% |  |
 | 38 | 0% | 0% |  |

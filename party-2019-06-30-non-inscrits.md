@@ -23,7 +23,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Χρυσή Αυγή | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -40,7 +40,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.5% | 100% |  |
 | 4 | 8% | 99.5% |  |
 | 5 | 41% | 91% |  |
-| 6 | 44% | 50% | Median |
+| 6 | 45% | 50% | Median |
 | 7 | 6% | 6% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

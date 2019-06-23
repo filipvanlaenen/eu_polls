@@ -1,40 +1,43 @@
 # European People’s Party
 
-Members registered from **19 countries**:
+Members registered from **22 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LU, LV, NL, SE
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, SE
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **113** seats (-104 seats)
+Current median: **120** seats (-97 seats)
 
-At least one member in **18 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IT, LU, LV, NL, SE
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 113 | 110–116 | 109–117 | 108–118 | 107–119 |
+| European People’s Party | EU | 217 | 120 | 117–124 | 116–125 | 116–126 | 114–127 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Partido Popular | ES | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| Partido Popular | ES | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
+| Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Kristdemokraterna | SE | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
@@ -60,31 +63,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 105 | 0.1% | 100% |  |
-| 106 | 0.3% | 99.9% |  |
-| 107 | 0.8% | 99.6% |  |
-| 108 | 2% | 98.8% |  |
-| 109 | 5% | 97% |  |
-| 110 | 9% | 92% |  |
-| 111 | 13% | 83% |  |
-| 112 | 16% | 70% |  |
-| 113 | 17% | 55% | Median |
-| 114 | 15% | 38% |  |
-| 115 | 11% | 23% |  |
-| 116 | 7% | 13% |  |
-| 117 | 4% | 6% |  |
-| 118 | 2% | 3% |  |
-| 119 | 0.6% | 1.0% |  |
-| 120 | 0.2% | 0.3% |  |
-| 121 | 0.1% | 0.1% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
+| 112 | 0% | 100% |  |
+| 113 | 0.2% | 99.9% |  |
+| 114 | 0.6% | 99.8% |  |
+| 115 | 1.5% | 99.2% |  |
+| 116 | 3% | 98% |  |
+| 117 | 6% | 94% |  |
+| 118 | 10% | 88% |  |
+| 119 | 13% | 78% |  |
+| 120 | 15% | 65% | Median |
+| 121 | 15% | 49% |  |
+| 122 | 13% | 34% |  |
+| 123 | 9% | 21% |  |
+| 124 | 6% | 12% |  |
+| 125 | 3% | 6% |  |
+| 126 | 2% | 3% |  |
+| 127 | 0.7% | 1.0% |  |
+| 128 | 0.2% | 0.4% |  |
+| 129 | 0.1% | 0.1% |  |
 | 130 | 0% | 0% |  |
 | 131 | 0% | 0% |  |
 | 132 | 0% | 0% |  |

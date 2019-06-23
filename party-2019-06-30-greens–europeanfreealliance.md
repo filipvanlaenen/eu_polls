@@ -1,34 +1,36 @@
 # Greens–European Free Alliance
 
-Members registered from **15 countries**:
+Members registered from **17 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, FI, FR, GB, HU, LU, LV, NL, SE
+> AT, BE, CY, CZ, DE, DK, EE, FI, FR, GB, HU, IE, LT, LU, LV, NL, SE
 
 ## Seats
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **67** seats (+15 seats)
+Current median: **71** seats (+19 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, FI, FR, GB, LU, NL, SE
+> AT, BE, CZ, DE, DK, FI, FR, GB, IE, LT, LU, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 52 | 67 | 64–69 | 63–70 | 63–71 | 62–72 |
+| Greens–European Free Alliance | EU | 52 | 71 | 68–73 | 67–74 | 67–75 | 66–76 |
 | Bündnis 90/Die Grünen | DE | | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Scottish National Party | GB-GBN | | 3 | 3 | 3 | 3 | 3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Plaid Cymru | GB-GBN | | 1 | 1 | 1 | 1 | 1 |
@@ -62,19 +64,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 0% | 100% |  |
 | 59 | 0% | 100% |  |
 | 60 | 0% | 100% |  |
-| 61 | 0.1% | 100% |  |
-| 62 | 1.3% | 99.9% |  |
-| 63 | 5% | 98.6% |  |
-| 64 | 8% | 94% |  |
-| 65 | 7% | 86% |  |
-| 66 | 11% | 79% |  |
-| 67 | 21% | 69% | Median |
-| 68 | 24% | 48% |  |
-| 69 | 15% | 23% |  |
-| 70 | 5% | 8% |  |
-| 71 | 2% | 3% |  |
-| 72 | 0.7% | 0.8% |  |
-| 73 | 0.1% | 0.1% |  |
-| 74 | 0% | 0% |  |
+| 61 | 0% | 100% |  |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0.2% | 100% |  |
+| 66 | 1.4% | 99.8% |  |
+| 67 | 5% | 98% |  |
+| 68 | 7% | 93% |  |
+| 69 | 7% | 86% |  |
+| 70 | 11% | 79% |  |
+| 71 | 21% | 68% | Median |
+| 72 | 24% | 48% |  |
+| 73 | 15% | 24% |  |
+| 74 | 6% | 9% |  |
+| 75 | 2% | 3% |  |
+| 76 | 0.7% | 0.8% |  |
+| 77 | 0.1% | 0.1% |  |
+| 78 | 0% | 0% |  |
 
 
