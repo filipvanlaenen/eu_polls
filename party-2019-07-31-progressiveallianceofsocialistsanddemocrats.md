@@ -1,25 +1,25 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **14 countries**:
+Members registered from **16 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LV, NL, SE
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, SE
 
 ## Seats
 
 Last result: **186** seats (General Election of 25 May 2014)
 
-Current median: **82** seats (-104 seats)
+Current median: **85** seats (-101 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LV, NL, SE
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 186 | 82 | 79–85 | 78–86 | 77–87 | 76–89 |
-| Partido Socialista Obrero Español | ES | | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| Progressive Alliance of Socialists and Democrats | EU | 186 | 85 | 81–88 | 81–89 | 80–90 | 78–91 |
+| Partido Socialista Obrero Español | ES | | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 11 | 10–14 | 10–14 | 10–14 | 10–15 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -32,9 +32,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -45,26 +48,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0.1% | 100% |  |
-| 75 | 0.3% | 99.9% |  |
-| 76 | 0.9% | 99.7% |  |
-| 77 | 2% | 98.8% |  |
-| 78 | 5% | 97% |  |
-| 79 | 8% | 92% |  |
-| 80 | 12% | 83% |  |
-| 81 | 15% | 71% |  |
-| 82 | 16% | 56% | Median |
-| 83 | 14% | 41% |  |
-| 84 | 11% | 27% |  |
-| 85 | 7% | 16% |  |
-| 86 | 4% | 8% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.0% | 1.5% |  |
-| 89 | 0.4% | 0.5% |  |
-| 90 | 0.1% | 0.1% |  |
-| 91 | 0% | 0% |  |
-| 92 | 0% | 0% |  |
-| 93 | 0% | 0% |  |
+| 77 | 0.1% | 100% |  |
+| 78 | 0.4% | 99.8% |  |
+| 79 | 1.2% | 99.4% |  |
+| 80 | 3% | 98% |  |
+| 81 | 6% | 95% |  |
+| 82 | 9% | 89% |  |
+| 83 | 13% | 80% |  |
+| 84 | 15% | 67% |  |
+| 85 | 15% | 52% | Median |
+| 86 | 13% | 37% |  |
+| 87 | 10% | 24% |  |
+| 88 | 7% | 14% |  |
+| 89 | 4% | 7% |  |
+| 90 | 2% | 3% |  |
+| 91 | 0.8% | 1.3% |  |
+| 92 | 0.3% | 0.4% |  |
+| 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 | 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |

@@ -1,33 +1,36 @@
 # European Conservatives and Reformists
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> CZ, DE, HR, IT, LV, NL, SE
+> CZ, DE, HR, IT, LT, LV, NL, SE
 
 ## Seats
 
 Last result: **76** seats (General Election of 25 May 2014)
 
-Current median: **20** seats (-56 seats)
+Current median: **22** seats (-54 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> CZ, IT, LV, NL, SE
+> CZ, IT, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
+| European Conservatives and Reformists | EU | 76 | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -38,19 +41,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.1% | 99.9% |  |
-| 16 | 0.2% | 99.8% |  |
-| 17 | 1.3% | 99.7% |  |
-| 18 | 7% | 98% |  |
-| 19 | 20% | 91% |  |
-| 20 | 31% | 71% | Median |
-| 21 | 25% | 40% |  |
-| 22 | 12% | 15% |  |
-| 23 | 3% | 4% |  |
-| 24 | 0.5% | 0.6% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.1% | 99.9% |  |
+| 18 | 0.8% | 99.8% |  |
+| 19 | 4% | 99.0% |  |
+| 20 | 14% | 95% |  |
+| 21 | 26% | 80% |  |
+| 22 | 28% | 55% | Median |
+| 23 | 18% | 27% |  |
+| 24 | 7% | 9% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.3% | 0.3% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
