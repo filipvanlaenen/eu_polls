@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> DK, EE, FR, GB, HR, IE, NL
+> DK, EE, FR, GB, HR, IE, NL, PT
 
 ## Seats
 
@@ -21,6 +21,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 0 | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Denk [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |

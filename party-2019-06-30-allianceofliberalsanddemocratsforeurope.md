@@ -1,29 +1,30 @@
 # Alliance of Liberals and Democrats for Europe
 
-Members registered from **21 countries**:
+Members registered from **22 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, SE
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, RO, SE
 
 ## Seats
 
 Last result: **68** seats (General Election of 25 May 2014)
 
-Current median: **101** seats (+33 seats)
+Current median: **111** seats (+43 seats)
 
-At least one member in **18 countries** have a median of 1 seat or more:
+At least one member in **19 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, SE
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, RO, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | EU | 68 | 101 | 99–104 | 98–105 | 98–105 | 96–107 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 111 | 108–114 | 107–115 | 106–115 | 105–117 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 16 | 16 | 16 | 16 | 16 |
-| Freie Demokratische Partei | DE | | 8 | 7–10 | 6–10 | 6–10 | 6–10 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
+| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
+| Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–10 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -32,6 +33,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
+| Freie Wähler | DE | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
@@ -40,11 +42,13 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -54,9 +58,10 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Alianța Liberalilor și Democraților | RO | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -93,21 +98,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0% | 100% |  |
 | 93 | 0% | 100% |  |
 | 94 | 0% | 100% |  |
-| 95 | 0.1% | 100% |  |
-| 96 | 0.5% | 99.9% |  |
-| 97 | 2% | 99.4% |  |
-| 98 | 5% | 98% |  |
-| 99 | 11% | 92% |  |
-| 100 | 17% | 82% |  |
-| 101 | 20% | 65% | Median |
-| 102 | 19% | 45% |  |
-| 103 | 13% | 26% |  |
-| 104 | 7% | 12% |  |
-| 105 | 3% | 5% |  |
-| 106 | 1.3% | 2% |  |
-| 107 | 0.5% | 0.8% |  |
-| 108 | 0.2% | 0.3% |  |
-| 109 | 0.1% | 0.1% |  |
-| 110 | 0% | 0% |  |
+| 95 | 0% | 100% |  |
+| 96 | 0% | 100% |  |
+| 97 | 0% | 100% |  |
+| 98 | 0% | 100% |  |
+| 99 | 0% | 100% |  |
+| 100 | 0% | 100% |  |
+| 101 | 0% | 100% |  |
+| 102 | 0% | 100% |  |
+| 103 | 0% | 100% |  |
+| 104 | 0.1% | 100% |  |
+| 105 | 0.6% | 99.8% |  |
+| 106 | 2% | 99.3% |  |
+| 107 | 4% | 97% |  |
+| 108 | 8% | 93% |  |
+| 109 | 13% | 85% |  |
+| 110 | 16% | 72% |  |
+| 111 | 17% | 55% | Median |
+| 112 | 15% | 38% |  |
+| 113 | 11% | 23% |  |
+| 114 | 7% | 12% |  |
+| 115 | 3% | 6% |  |
+| 116 | 1.4% | 2% |  |
+| 117 | 0.6% | 0.9% |  |
+| 118 | 0.2% | 0.3% |  |
+| 119 | 0.1% | 0.1% |  |
+| 120 | 0% | 0% |  |
 
 
