@@ -8,7 +8,7 @@ Members registered from **8 countries**:
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **35** seats (-17 seats)
+Current median: **29** seats (-23 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 52 | 35 | 33–37 | 32–38 | 32–39 | 31–40 |
+| European United Left–Nordic Green Left | EU | 52 | 29 | 27–31 | 26–32 | 26–32 | 25–33 |
 | Die Linke | DE | | 7 | 6–10 | 6–10 | 6–10 | 6–11 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -40,18 +40,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 1.3% | 99.9% |  |
-| 32 | 6% | 98.5% |  |
-| 33 | 13% | 93% |  |
-| 34 | 20% | 80% |  |
-| 35 | 22% | 61% | Median |
-| 36 | 18% | 39% |  |
-| 37 | 12% | 21% |  |
-| 38 | 6% | 9% |  |
-| 39 | 2% | 3% |  |
-| 40 | 0.5% | 0.6% |  |
-| 41 | 0.1% | 0.1% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.8% | 99.9% |  |
+| 26 | 4% | 99.1% |  |
+| 27 | 12% | 95% |  |
+| 28 | 21% | 82% |  |
+| 29 | 23% | 61% | Median |
+| 30 | 19% | 38% |  |
+| 31 | 12% | 19% |  |
+| 32 | 6% | 7% |  |
+| 33 | 2% | 2% |  |
+| 34 | 0.3% | 0.3% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

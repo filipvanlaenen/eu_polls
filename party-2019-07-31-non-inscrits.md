@@ -8,7 +8,7 @@ Members registered from **3 countries**:
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **4** seats (-17 seats)
+Current median: **5** seats (-16 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Non-Inscrits | EU | 21 | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -34,11 +34,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.0% | 100% |  |
-| 3 | 12% | 99.0% |  |
-| 4 | 42% | 87% | Median |
-| 5 | 40% | 45% |  |
-| 6 | 5% | 5% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 8% | 99.5% |  |
+| 4 | 41% | 91% |  |
+| 5 | 45% | 50% | Median |
+| 6 | 6% | 6% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |

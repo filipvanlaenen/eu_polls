@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 89 | 86–92 | 85–93 | 84–93 | 83–95 |
+| European People’s Party | EU | 217 | 89 | 86–92 | 85–93 | 85–94 | 83–95 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -26,7 +26,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -52,23 +52,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0.1% | 100% |  |
-| 82 | 0.3% | 99.9% |  |
-| 83 | 0.8% | 99.6% |  |
-| 84 | 2% | 98.8% |  |
-| 85 | 5% | 97% |  |
-| 86 | 9% | 92% |  |
-| 87 | 13% | 83% |  |
-| 88 | 16% | 69% |  |
-| 89 | 17% | 53% | Median |
-| 90 | 14% | 36% |  |
-| 91 | 10% | 22% |  |
-| 92 | 6% | 11% |  |
-| 93 | 3% | 5% |  |
-| 94 | 1.4% | 2% |  |
-| 95 | 0.5% | 0.7% |  |
-| 96 | 0.2% | 0.2% |  |
-| 97 | 0% | 0.1% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.6% | 99.8% |  |
+| 84 | 2% | 99.2% |  |
+| 85 | 4% | 98% |  |
+| 86 | 7% | 94% |  |
+| 87 | 12% | 86% |  |
+| 88 | 15% | 75% |  |
+| 89 | 17% | 59% | Median |
+| 90 | 16% | 42% |  |
+| 91 | 12% | 27% |  |
+| 92 | 8% | 15% |  |
+| 93 | 4% | 7% |  |
+| 94 | 2% | 3% |  |
+| 95 | 0.7% | 1.1% |  |
+| 96 | 0.2% | 0.3% |  |
+| 97 | 0.1% | 0.1% |  |
 | 98 | 0% | 0% |  |
 | 99 | 0% | 0% |  |
 | 100 | 0% | 0% |  |
