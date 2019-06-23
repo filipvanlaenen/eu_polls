@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | EU | 68 | 49 | 47–52 | 46–52 | 46–53 | 45–55 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 49 | 47–52 | 46–53 | 46–53 | 45–55 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Freie Demokratische Partei | DE | | 8 | 6–10 | 6–10 | 6–10 | 6–10 |
+| Freie Demokratische Partei | DE | | 8 | 7–10 | 6–10 | 6–10 | 6–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -55,7 +55,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 43 | 0.1% | 100% |  |
 | 44 | 0.3% | 99.9% |  |
-| 45 | 1.4% | 99.6% |  |
+| 45 | 1.5% | 99.6% |  |
 | 46 | 4% | 98% |  |
 | 47 | 10% | 94% |  |
 | 48 | 17% | 84% |  |
@@ -64,8 +64,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 14% | 26% |  |
 | 52 | 7% | 12% |  |
 | 53 | 3% | 5% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.5% | 0.7% |  |
+| 54 | 1.3% | 2% |  |
+| 55 | 0.5% | 0.8% |  |
 | 56 | 0.2% | 0.2% |  |
 | 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
