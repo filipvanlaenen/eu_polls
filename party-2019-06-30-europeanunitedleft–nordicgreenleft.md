@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **45** seats (-7 seats)
+Current median: **39** seats (-13 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 52 | 45 | 43–47 | 42–48 | 42–49 | 41–50 |
+| European United Left–Nordic Green Left | EU | 52 | 39 | 37–41 | 36–42 | 36–42 | 35–43 |
 | Die Linke | DE | | 7 | 6–10 | 6–10 | 6–10 | 6–11 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -47,18 +47,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.1% | 100% |  |
-| 41 | 1.3% | 99.9% |  |
-| 42 | 6% | 98.5% |  |
-| 43 | 13% | 93% |  |
-| 44 | 20% | 80% |  |
-| 45 | 22% | 61% | Median |
-| 46 | 18% | 39% |  |
-| 47 | 12% | 21% |  |
-| 48 | 6% | 9% |  |
-| 49 | 2% | 3% |  |
-| 50 | 0.5% | 0.6% |  |
-| 51 | 0.1% | 0.1% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.8% | 99.9% |  |
+| 36 | 4% | 99.1% |  |
+| 37 | 12% | 95% |  |
+| 38 | 21% | 82% |  |
+| 39 | 23% | 61% | Median |
+| 40 | 19% | 38% |  |
+| 41 | 12% | 19% |  |
+| 42 | 6% | 7% |  |
+| 43 | 2% | 2% |  |
+| 44 | 0.3% | 0.3% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
 | 52 | 0% | 0% | Last Result |
 
 

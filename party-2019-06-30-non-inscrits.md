@@ -8,7 +8,7 @@ Members registered from **6 countries**:
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **5** seats (-16 seats)
+Current median: **6** seats (-15 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Non-Inscrits | EU | 21 | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,11 +37,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.0% | 100% |  |
-| 4 | 12% | 99.0% |  |
-| 5 | 42% | 87% | Median |
-| 6 | 40% | 45% |  |
-| 7 | 5% | 5% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 8% | 99.5% |  |
+| 5 | 41% | 91% |  |
+| 6 | 45% | 50% | Median |
+| 7 | 6% | 6% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
