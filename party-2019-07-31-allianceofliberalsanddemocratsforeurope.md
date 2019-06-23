@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **68** seats (General Election of 25 May 2014)
 
-Current median: **54** seats (-14 seats)
+Current median: **56** seats (-12 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,24 +18,27 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | EU | 68 | 54 | 52–57 | 51–58 | 51–58 | 49–60 |
-| Freie Demokratische Partei | DE | | 8 | 7–10 | 6–10 | 6–10 | 6–10 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 56 | 53–59 | 52–60 | 51–60 | 50–62 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
+| Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–10 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–2 |
+| Freie Wähler | DE | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,7 +49,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -56,23 +59,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0.1% | 100% |  |
-| 49 | 0.5% | 99.9% |  |
-| 50 | 2% | 99.4% |  |
-| 51 | 5% | 98% |  |
-| 52 | 11% | 92% |  |
-| 53 | 17% | 82% |  |
-| 54 | 20% | 65% | Median |
-| 55 | 19% | 45% |  |
-| 56 | 13% | 26% |  |
-| 57 | 7% | 12% |  |
-| 58 | 3% | 5% |  |
-| 59 | 1.3% | 2% |  |
-| 60 | 0.5% | 0.8% |  |
-| 61 | 0.2% | 0.3% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
+| 49 | 0.1% | 100% |  |
+| 50 | 0.6% | 99.8% |  |
+| 51 | 2% | 99.3% |  |
+| 52 | 4% | 97% |  |
+| 53 | 8% | 93% |  |
+| 54 | 13% | 85% |  |
+| 55 | 16% | 72% |  |
+| 56 | 17% | 56% | Median |
+| 57 | 15% | 38% |  |
+| 58 | 11% | 23% |  |
+| 59 | 7% | 12% |  |
+| 60 | 3% | 6% |  |
+| 61 | 1.4% | 2% |  |
+| 62 | 0.6% | 0.9% |  |
+| 63 | 0.2% | 0.3% |  |
+| 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% |  |

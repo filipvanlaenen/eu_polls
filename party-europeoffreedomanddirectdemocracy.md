@@ -1,8 +1,8 @@
 # Europe of Freedom and Direct Democracy
 
-Members registered from **6 countries**:
+Members registered from **3 countries**:
 
-> BE, BG, FI, FR, HR, IT
+> FI, HR, IT
 
 ## Seats
 
@@ -19,29 +19,26 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Freedom and Direct Democracy | EU | 41 | 15 | 13–16 | 13–17 | 12–17 | 11–18 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeoffreedomanddirectdemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Europe of Freedom and Direct Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Europe of Freedom and Direct Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.6% | 100% |  |
-| 12 | 4% | 99.4% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 3% | 99.4% |  |
 | 13 | 17% | 96% |  |
-| 14 | 25% | 79% |  |
-| 15 | 29% | 54% | Median |
-| 16 | 17% | 24% |  |
-| 17 | 6% | 7% |  |
-| 18 | 1.3% | 1.5% |  |
+| 14 | 27% | 79% |  |
+| 15 | 31% | 52% | Median |
+| 16 | 15% | 21% |  |
+| 17 | 4% | 6% |  |
+| 18 | 1.1% | 1.2% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |

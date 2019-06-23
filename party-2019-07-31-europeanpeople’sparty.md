@@ -1,32 +1,33 @@
 # European People’s Party
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, SE
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PT, SE
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **95** seats (-122 seats)
+Current median: **104** seats (-113 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, SE
+> AT, CZ, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 95 | 92–99 | 91–100 | 91–101 | 89–102 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| European People’s Party | EU | 217 | 104 | 100–108 | 99–109 | 98–110 | 96–112 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–23 | 17–23 | 17–23 | 17–23 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
-| Partido Popular | ES | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| Partido Popular | ES | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -34,6 +35,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kristdemokraterna | SE | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| CDS–Partido Popular | PT | | 1 | 1 | 1 | 1 | 1–2 |
 | Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -54,34 +56,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 87 | 0% | 100% |  |
-| 88 | 0.2% | 99.9% |  |
-| 89 | 0.6% | 99.8% |  |
-| 90 | 1.5% | 99.2% |  |
-| 91 | 3% | 98% |  |
-| 92 | 6% | 94% |  |
-| 93 | 10% | 88% |  |
-| 94 | 13% | 78% |  |
-| 95 | 15% | 65% | Median |
-| 96 | 15% | 49% |  |
-| 97 | 13% | 34% |  |
-| 98 | 9% | 21% |  |
-| 99 | 6% | 12% |  |
-| 100 | 3% | 6% |  |
-| 101 | 2% | 3% |  |
-| 102 | 0.7% | 1.0% |  |
-| 103 | 0.2% | 0.4% |  |
-| 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0% |  |
-| 106 | 0% | 0% |  |
-| 107 | 0% | 0% |  |
-| 108 | 0% | 0% |  |
-| 109 | 0% | 0% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
+| 94 | 0% | 100% |  |
+| 95 | 0.2% | 99.9% |  |
+| 96 | 0.5% | 99.8% |  |
+| 97 | 1.2% | 99.3% |  |
+| 98 | 2% | 98% |  |
+| 99 | 4% | 96% |  |
+| 100 | 7% | 91% |  |
+| 101 | 9% | 85% |  |
+| 102 | 11% | 76% |  |
+| 103 | 12% | 65% |  |
+| 104 | 13% | 52% | Median |
+| 105 | 12% | 40% |  |
+| 106 | 10% | 28% |  |
+| 107 | 7% | 19% |  |
+| 108 | 5% | 11% |  |
+| 109 | 3% | 6% |  |
+| 110 | 2% | 3% |  |
+| 111 | 0.9% | 1.5% |  |
+| 112 | 0.4% | 0.6% |  |
+| 113 | 0.1% | 0.2% |  |
+| 114 | 0.1% | 0.1% |  |
 | 115 | 0% | 0% |  |
 | 116 | 0% | 0% |  |
 | 117 | 0% | 0% |  |

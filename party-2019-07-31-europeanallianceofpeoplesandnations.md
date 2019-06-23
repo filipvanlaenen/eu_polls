@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **37** seats (General Election of 25 May 2014)
 
-Current median: **57** seats (+20 seats)
+Current median: **58** seats (+21 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | EU | 37 | 57 | 55–60 | 54–61 | 53–62 | 52–63 |
-| Lega Nord | IT | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
-| Alternative für Deutschland | DE | | 13 | 12–14 | 11–14 | 11–14 | 11–16 |
-| Vox | ES | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| European Alliance of Peoples and Nations | EU | 37 | 58 | 55–60 | 54–61 | 53–62 | 52–63 |
+| Lega Nord | IT | | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
+| Alternative für Deutschland | DE | | 13 | 12–14 | 11–14 | 11–16 | 11–16 |
+| Vox | ES | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -53,20 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
 | 50 | 0% | 100% |  |
-| 51 | 0.2% | 99.9% |  |
-| 52 | 0.7% | 99.8% |  |
-| 53 | 2% | 99.1% |  |
+| 51 | 0.2% | 100% |  |
+| 52 | 0.6% | 99.8% |  |
+| 53 | 2% | 99.2% |  |
 | 54 | 5% | 97% |  |
-| 55 | 9% | 92% |  |
-| 56 | 15% | 83% |  |
-| 57 | 19% | 68% | Median |
-| 58 | 19% | 50% |  |
-| 59 | 15% | 31% |  |
-| 60 | 9% | 17% |  |
-| 61 | 5% | 7% |  |
-| 62 | 2% | 3% |  |
-| 63 | 0.6% | 0.8% |  |
-| 64 | 0.2% | 0.2% |  |
-| 65 | 0% | 0% |  |
+| 55 | 9% | 93% |  |
+| 56 | 14% | 84% |  |
+| 57 | 18% | 70% |  |
+| 58 | 18% | 52% | Median |
+| 59 | 15% | 34% |  |
+| 60 | 10% | 20% |  |
+| 61 | 6% | 10% |  |
+| 62 | 3% | 4% |  |
+| 63 | 1.0% | 2% |  |
+| 64 | 0.3% | 0.5% |  |
+| 65 | 0.1% | 0.1% |  |
+| 66 | 0% | 0% |  |
 
 
