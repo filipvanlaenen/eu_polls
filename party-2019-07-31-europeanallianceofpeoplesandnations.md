@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **37** seats (General Election of 25 May 2014)
 
-Current median: **58** seats (+21 seats)
+Current median: **57** seats (+20 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Alliance of Peoples and Nations | EU | 37 | 58 | 55–60 | 54–61 | 53–62 | 52–63 |
+| European Alliance of Peoples and Nations | EU | 37 | 57 | 55–60 | 54–61 | 53–62 | 52–63 |
 | Lega Nord | IT | | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
-| Alternative für Deutschland | DE | | 13 | 12–14 | 11–14 | 11–16 | 11–16 |
+| Alternative für Deutschland | DE | | 13 | 11–14 | 11–15 | 11–15 | 11–16 |
 | Vox | ES | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -52,20 +52,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
-| 50 | 0% | 100% |  |
-| 51 | 0.2% | 100% |  |
-| 52 | 0.6% | 99.8% |  |
-| 53 | 2% | 99.2% |  |
-| 54 | 5% | 97% |  |
-| 55 | 9% | 93% |  |
-| 56 | 14% | 84% |  |
-| 57 | 18% | 70% |  |
-| 58 | 18% | 52% | Median |
-| 59 | 15% | 34% |  |
-| 60 | 10% | 20% |  |
-| 61 | 6% | 10% |  |
+| 50 | 0.1% | 100% |  |
+| 51 | 0.3% | 99.9% |  |
+| 52 | 1.0% | 99.6% |  |
+| 53 | 3% | 98.7% |  |
+| 54 | 6% | 96% |  |
+| 55 | 10% | 90% |  |
+| 56 | 14% | 81% |  |
+| 57 | 17% | 66% | Median |
+| 58 | 17% | 49% |  |
+| 59 | 14% | 33% |  |
+| 60 | 9% | 19% |  |
+| 61 | 5% | 9% |  |
 | 62 | 3% | 4% |  |
-| 63 | 1.0% | 2% |  |
+| 63 | 1.0% | 1.5% |  |
 | 64 | 0.3% | 0.5% |  |
 | 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |

@@ -18,12 +18,12 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 52 | 32 | 30–35 | 29–35 | 28–36 | 27–37 |
-| Die Linke | DE | | 8 | 5–9 | 5–9 | 5–9 | 5–9 |
+| European United Left–Nordic Green Left | EU | 52 | 32 | 30–35 | 29–36 | 29–36 | 28–37 |
+| Die Linke | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -46,20 +46,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.2% | 100% |  |
-| 27 | 0.7% | 99.8% |  |
-| 28 | 2% | 99.1% |  |
-| 29 | 6% | 97% |  |
-| 30 | 10% | 91% |  |
-| 31 | 15% | 80% |  |
-| 32 | 19% | 65% | Median |
-| 33 | 19% | 47% |  |
-| 34 | 15% | 28% |  |
-| 35 | 9% | 13% |  |
-| 36 | 4% | 5% |  |
-| 37 | 1.0% | 1.2% |  |
-| 38 | 0.2% | 0.2% |  |
-| 39 | 0% | 0% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.4% | 99.9% |  |
+| 28 | 2% | 99.6% |  |
+| 29 | 5% | 98% |  |
+| 30 | 10% | 93% |  |
+| 31 | 16% | 83% |  |
+| 32 | 19% | 67% | Median |
+| 33 | 19% | 48% |  |
+| 34 | 15% | 29% |  |
+| 35 | 9% | 15% |  |
+| 36 | 4% | 6% |  |
+| 37 | 1.3% | 2% |  |
+| 38 | 0.3% | 0.4% |  |
+| 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |

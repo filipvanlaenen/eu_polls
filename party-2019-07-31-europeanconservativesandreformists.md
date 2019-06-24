@@ -10,23 +10,23 @@ Last result: **76** seats (General Election of 25 May 2014)
 
 Current median: **22** seats (-54 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> CZ, IT, LT, LV, NL, SE
+> CZ, DE, IT, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
+| European Conservatives and Reformists | EU | 76 | 22 | 20–24 | 20–24 | 19–25 | 18–26 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Sverigedemokraterna | SE | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -43,16 +43,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
 | 17 | 0.1% | 99.9% |  |
-| 18 | 0.8% | 99.8% |  |
-| 19 | 5% | 99.0% |  |
-| 20 | 15% | 94% |  |
-| 21 | 27% | 80% |  |
-| 22 | 27% | 53% | Median |
-| 23 | 17% | 26% |  |
-| 24 | 7% | 9% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.2% | 0.3% |  |
-| 27 | 0% | 0% |  |
+| 18 | 0.5% | 99.8% |  |
+| 19 | 3% | 99.3% |  |
+| 20 | 11% | 96% |  |
+| 21 | 22% | 86% |  |
+| 22 | 28% | 63% | Median |
+| 23 | 21% | 36% |  |
+| 24 | 10% | 14% |  |
+| 25 | 3% | 4% |  |
+| 26 | 0.6% | 0.7% |  |
+| 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
