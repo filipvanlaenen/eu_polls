@@ -18,13 +18,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | EU | 68 | 111 | 108–114 | 107–115 | 106–115 | 105–117 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 111 | 108–114 | 107–114 | 106–115 | 105–117 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 16 | 16 | 16 | 16 | 16 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
+| Freie Demokratische Partei | DE | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–10 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -33,7 +33,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Freie Wähler | DE | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
@@ -43,6 +42,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Freie Wähler | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -106,22 +106,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 100 | 0% | 100% |  |
 | 101 | 0% | 100% |  |
 | 102 | 0% | 100% |  |
-| 103 | 0% | 100% |  |
-| 104 | 0.1% | 100% |  |
-| 105 | 0.6% | 99.8% |  |
-| 106 | 2% | 99.3% |  |
-| 107 | 4% | 97% |  |
-| 108 | 8% | 93% |  |
-| 109 | 13% | 85% |  |
-| 110 | 16% | 72% |  |
-| 111 | 17% | 55% | Median |
-| 112 | 15% | 38% |  |
-| 113 | 11% | 23% |  |
-| 114 | 7% | 12% |  |
-| 115 | 3% | 6% |  |
-| 116 | 1.4% | 2% |  |
-| 117 | 0.6% | 0.9% |  |
-| 118 | 0.2% | 0.3% |  |
+| 103 | 0.1% | 100% |  |
+| 104 | 0.3% | 99.9% |  |
+| 105 | 0.9% | 99.7% |  |
+| 106 | 2% | 98.8% |  |
+| 107 | 5% | 96% |  |
+| 108 | 9% | 91% |  |
+| 109 | 14% | 82% |  |
+| 110 | 17% | 68% |  |
+| 111 | 17% | 52% | Median |
+| 112 | 14% | 35% |  |
+| 113 | 10% | 20% |  |
+| 114 | 6% | 10% |  |
+| 115 | 3% | 5% |  |
+| 116 | 1.2% | 2% |  |
+| 117 | 0.5% | 0.7% |  |
+| 118 | 0.2% | 0.2% |  |
 | 119 | 0.1% | 0.1% |  |
 | 120 | 0% | 0% |  |
 

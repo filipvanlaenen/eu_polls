@@ -19,13 +19,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 217 | 143 | 139–147 | 138–148 | 137–149 | 135–151 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–23 | 17–23 | 17–23 | 17–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–22 | 16–23 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -38,7 +38,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Kristdemokraterna | SE | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Kristdemokraterna | SE | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Partidul Mișcarea Populară | RO | | 2 | 2 | 2 | 2 | 2 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -69,26 +69,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 133 | 0% | 100% |  |
-| 134 | 0.2% | 99.9% |  |
-| 135 | 0.5% | 99.8% |  |
-| 136 | 1.1% | 99.3% |  |
+| 134 | 0.1% | 99.9% |  |
+| 135 | 0.4% | 99.8% |  |
+| 136 | 1.1% | 99.4% |  |
 | 137 | 2% | 98% |  |
 | 138 | 4% | 96% |  |
-| 139 | 7% | 92% |  |
-| 140 | 9% | 85% |  |
-| 141 | 11% | 76% |  |
-| 142 | 12% | 65% |  |
-| 143 | 13% | 53% | Median |
-| 144 | 12% | 40% |  |
-| 145 | 10% | 29% |  |
-| 146 | 7% | 19% |  |
-| 147 | 5% | 11% |  |
-| 148 | 3% | 6% |  |
+| 139 | 6% | 92% |  |
+| 140 | 9% | 86% |  |
+| 141 | 11% | 78% |  |
+| 142 | 12% | 67% |  |
+| 143 | 13% | 55% | Median |
+| 144 | 12% | 42% |  |
+| 145 | 10% | 30% |  |
+| 146 | 8% | 20% |  |
+| 147 | 5% | 12% |  |
+| 148 | 3% | 7% |  |
 | 149 | 2% | 3% |  |
 | 150 | 0.9% | 1.5% |  |
 | 151 | 0.4% | 0.6% |  |
-| 152 | 0.2% | 0.2% |  |
-| 153 | 0.1% | 0.1% |  |
+| 152 | 0.1% | 0.2% |  |
+| 153 | 0% | 0.1% |  |
 | 154 | 0% | 0% |  |
 | 155 | 0% | 0% |  |
 | 156 | 0% | 0% |  |

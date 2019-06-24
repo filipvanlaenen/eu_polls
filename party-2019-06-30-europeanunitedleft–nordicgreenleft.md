@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 52 | 42 | 40–45 | 39–45 | 38–46 | 37–47 |
-| Die Linke | DE | | 8 | 5–9 | 5–9 | 5–9 | 5–9 |
+| European United Left–Nordic Green Left | EU | 52 | 42 | 40–45 | 39–46 | 39–46 | 38–47 |
+| Die Linke | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -54,20 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.2% | 100% |  |
-| 37 | 0.7% | 99.8% |  |
-| 38 | 2% | 99.1% |  |
-| 39 | 6% | 97% |  |
-| 40 | 10% | 91% |  |
-| 41 | 15% | 80% |  |
-| 42 | 19% | 65% | Median |
-| 43 | 19% | 47% |  |
-| 44 | 15% | 28% |  |
-| 45 | 9% | 13% |  |
-| 46 | 4% | 5% |  |
-| 47 | 1.0% | 1.2% |  |
-| 48 | 0.2% | 0.2% |  |
-| 49 | 0% | 0% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.4% | 99.9% |  |
+| 38 | 2% | 99.6% |  |
+| 39 | 5% | 98% |  |
+| 40 | 10% | 93% |  |
+| 41 | 16% | 83% |  |
+| 42 | 19% | 67% | Median |
+| 43 | 19% | 48% |  |
+| 44 | 15% | 29% |  |
+| 45 | 9% | 15% |  |
+| 46 | 4% | 6% |  |
+| 47 | 1.3% | 2% |  |
+| 48 | 0.3% | 0.4% |  |
+| 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% | Last Result |
