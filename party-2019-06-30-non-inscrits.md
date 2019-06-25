@@ -1,31 +1,33 @@
 # Non-Inscrits
 
-Members registered from **6 countries**:
+Members registered from **8 countries**:
 
-> BG, CY, GB, GR, HR, HU
+> BG, CY, GB, GR, HR, HU, SI, SK
 
 ## Seats
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **5** seats (-16 seats)
+Current median: **7** seats (-14 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> GB, GR, HR, HU
+> GB, GR, HR, HU, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 5 | 5–6 | 4–7 | 4–7 | 3–7 |
+| Non-Inscrits | EU | 21 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -37,14 +39,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 9% | 99.4% |  |
-| 5 | 41% | 91% | Median |
-| 6 | 44% | 50% |  |
-| 7 | 6% | 6% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 3% | 99.8% |  |
+| 6 | 19% | 97% |  |
+| 7 | 42% | 78% | Median |
+| 8 | 32% | 36% |  |
+| 9 | 4% | 4% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |

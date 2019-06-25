@@ -1,34 +1,34 @@
 # European People’s Party
 
-Members registered from **24 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **143** seats (-74 seats)
+Current median: **148** seats (-69 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 143 | 139–147 | 138–148 | 137–149 | 135–151 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–22 | 16–23 |
+| European People’s Party | EU | 217 | 148 | 144–152 | 142–154 | 141–155 | 140–157 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -41,6 +41,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Partidul Mișcarea Populară | RO | | 2 | 2 | 2 | 2 | 2 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
+| Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -50,6 +51,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
+| MOST–HÍD | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -58,6 +62,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -68,33 +73,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 133 | 0% | 100% |  |
-| 134 | 0.1% | 99.9% |  |
-| 135 | 0.4% | 99.8% |  |
-| 136 | 1.1% | 99.4% |  |
-| 137 | 2% | 98% |  |
-| 138 | 4% | 96% |  |
-| 139 | 6% | 92% |  |
-| 140 | 9% | 86% |  |
-| 141 | 11% | 78% |  |
-| 142 | 12% | 67% |  |
-| 143 | 13% | 55% | Median |
-| 144 | 12% | 42% |  |
-| 145 | 10% | 30% |  |
-| 146 | 8% | 20% |  |
-| 147 | 5% | 12% |  |
-| 148 | 3% | 7% |  |
-| 149 | 2% | 3% |  |
-| 150 | 0.9% | 1.5% |  |
-| 151 | 0.4% | 0.6% |  |
-| 152 | 0.1% | 0.2% |  |
-| 153 | 0% | 0.1% |  |
-| 154 | 0% | 0% |  |
-| 155 | 0% | 0% |  |
-| 156 | 0% | 0% |  |
-| 157 | 0% | 0% |  |
-| 158 | 0% | 0% |  |
-| 159 | 0% | 0% |  |
+| 138 | 0.1% | 100% |  |
+| 139 | 0.3% | 99.8% |  |
+| 140 | 0.8% | 99.5% |  |
+| 141 | 2% | 98.7% |  |
+| 142 | 3% | 97% |  |
+| 143 | 4% | 94% |  |
+| 144 | 6% | 90% |  |
+| 145 | 8% | 84% |  |
+| 146 | 10% | 76% |  |
+| 147 | 11% | 66% |  |
+| 148 | 11% | 55% | Median |
+| 149 | 11% | 44% |  |
+| 150 | 9% | 33% |  |
+| 151 | 8% | 24% |  |
+| 152 | 6% | 16% |  |
+| 153 | 4% | 10% |  |
+| 154 | 3% | 6% |  |
+| 155 | 2% | 3% |  |
+| 156 | 0.9% | 2% |  |
+| 157 | 0.4% | 0.7% |  |
+| 158 | 0.2% | 0.3% |  |
+| 159 | 0.1% | 0.1% |  |
 | 160 | 0% | 0% |  |
 | 161 | 0% | 0% |  |
 | 162 | 0% | 0% |  |

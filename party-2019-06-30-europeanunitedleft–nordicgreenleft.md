@@ -1,25 +1,25 @@
 # European United Left–Nordic Green Left
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, LU, NL, PT, SE
+> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, LU, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **52** seats (General Election of 25 May 2014)
 
-Current median: **42** seats (-10 seats)
+Current median: **43** seats (-9 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, NL, PT, SE
+> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, NL, PT, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 52 | 42 | 40–45 | 39–46 | 39–46 | 38–47 |
-| Die Linke | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
+| European United Left–Nordic Green Left | EU | 52 | 43 | 40–46 | 40–46 | 39–47 | 38–48 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -27,9 +27,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -54,20 +55,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.1% | 100% |  |
-| 37 | 0.4% | 99.9% |  |
-| 38 | 2% | 99.6% |  |
-| 39 | 5% | 98% |  |
-| 40 | 10% | 93% |  |
-| 41 | 16% | 83% |  |
-| 42 | 19% | 67% | Median |
-| 43 | 19% | 48% |  |
-| 44 | 15% | 29% |  |
-| 45 | 9% | 15% |  |
-| 46 | 4% | 6% |  |
-| 47 | 1.3% | 2% |  |
-| 48 | 0.3% | 0.4% |  |
-| 49 | 0.1% | 0.1% |  |
+| 37 | 0.2% | 100% |  |
+| 38 | 1.0% | 99.7% |  |
+| 39 | 3% | 98.8% |  |
+| 40 | 7% | 96% |  |
+| 41 | 12% | 89% |  |
+| 42 | 17% | 77% |  |
+| 43 | 19% | 60% | Median |
+| 44 | 17% | 42% |  |
+| 45 | 13% | 25% |  |
+| 46 | 7% | 12% |  |
+| 47 | 3% | 5% |  |
+| 48 | 1.1% | 1.4% |  |
+| 49 | 0.3% | 0.3% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% | Last Result |

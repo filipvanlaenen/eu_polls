@@ -1,24 +1,24 @@
 # European Conservatives and Reformists
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> BE, BG, CZ, DE, FR, GB, HR, IT, LT, LU, LV, NL, SE
+> BE, BG, CZ, DE, FR, GB, HR, IT, LT, LU, LV, NL, SE, SK
 
 ## Seats
 
 Last result: **76** seats (General Election of 25 May 2014)
 
-Current median: **31** seats (-45 seats)
+Current median: **34** seats (-42 seats)
 
-At least one member in **10 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, DE, GB, IT, LT, LV, NL, SE
+> BE, BG, CZ, DE, GB, IT, LT, LV, NL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 31 | 29–33 | 29–33 | 28–34 | 27–35 |
+| European Conservatives and Reformists | EU | 76 | 34 | 32–36 | 32–36 | 31–37 | 30–38 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -29,7 +29,10 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1–2 |
+| Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -47,21 +50,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.1% | 99.9% |  |
-| 27 | 0.5% | 99.8% |  |
-| 28 | 3% | 99.3% |  |
-| 29 | 11% | 96% |  |
-| 30 | 22% | 86% |  |
-| 31 | 28% | 63% | Median |
-| 32 | 21% | 36% |  |
-| 33 | 10% | 14% |  |
-| 34 | 3% | 4% |  |
-| 35 | 0.6% | 0.7% |  |
-| 36 | 0.1% | 0.1% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.1% | 99.9% |  |
+| 30 | 0.6% | 99.8% |  |
+| 31 | 3% | 99.2% |  |
+| 32 | 11% | 96% |  |
+| 33 | 22% | 85% |  |
+| 34 | 27% | 63% | Median |
+| 35 | 21% | 35% |  |
+| 36 | 10% | 14% |  |
+| 37 | 3% | 4% |  |
+| 38 | 0.7% | 0.8% |  |
+| 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
