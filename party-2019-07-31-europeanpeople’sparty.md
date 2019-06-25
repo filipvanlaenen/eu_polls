@@ -1,31 +1,31 @@
 # European People’s Party
 
-Members registered from **17 countries**:
+Members registered from **19 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PT, SE
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PT, SE, SI, SK
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **104** seats (-113 seats)
+Current median: **109** seats (-108 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **18 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PT, SE
+> AT, CZ, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PT, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 104 | 100–108 | 99–109 | 98–110 | 96–112 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–22 | 16–23 |
+| European People’s Party | EU | 217 | 109 | 105–113 | 103–115 | 102–116 | 101–118 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
-| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -34,11 +34,15 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kristdemokraterna | SE | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | CDS–Partido Popular | PT | | 1 | 1 | 1 | 1 | 1–2 |
 | Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
+| MOST–HÍD | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,6 +50,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -56,33 +61,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 94 | 0% | 100% |  |
-| 95 | 0.1% | 99.9% |  |
-| 96 | 0.4% | 99.8% |  |
-| 97 | 1.1% | 99.4% |  |
-| 98 | 2% | 98% |  |
-| 99 | 4% | 96% |  |
-| 100 | 6% | 92% |  |
-| 101 | 9% | 86% |  |
-| 102 | 11% | 78% |  |
-| 103 | 12% | 67% |  |
-| 104 | 13% | 55% | Median |
-| 105 | 12% | 42% |  |
-| 106 | 10% | 30% |  |
-| 107 | 8% | 20% |  |
-| 108 | 5% | 12% |  |
-| 109 | 3% | 7% |  |
-| 110 | 2% | 3% |  |
-| 111 | 0.9% | 1.5% |  |
-| 112 | 0.4% | 0.6% |  |
-| 113 | 0.1% | 0.2% |  |
-| 114 | 0% | 0.1% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
+| 99 | 0.1% | 100% |  |
+| 100 | 0.3% | 99.8% |  |
+| 101 | 0.8% | 99.5% |  |
+| 102 | 2% | 98.7% |  |
+| 103 | 3% | 97% |  |
+| 104 | 4% | 94% |  |
+| 105 | 6% | 90% |  |
+| 106 | 8% | 84% |  |
+| 107 | 10% | 76% |  |
+| 108 | 11% | 66% |  |
+| 109 | 11% | 55% | Median |
+| 110 | 11% | 44% |  |
+| 111 | 9% | 33% |  |
+| 112 | 8% | 24% |  |
+| 113 | 6% | 16% |  |
+| 114 | 4% | 10% |  |
+| 115 | 3% | 6% |  |
+| 116 | 2% | 3% |  |
+| 117 | 0.9% | 2% |  |
+| 118 | 0.4% | 0.7% |  |
+| 119 | 0.2% | 0.3% |  |
+| 120 | 0.1% | 0.1% |  |
 | 121 | 0% | 0% |  |
 | 122 | 0% | 0% |  |
 | 123 | 0% | 0% |  |

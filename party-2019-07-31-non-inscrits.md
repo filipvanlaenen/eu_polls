@@ -1,30 +1,32 @@
 # Non-Inscrits
 
-Members registered from **3 countries**:
+Members registered from **5 countries**:
 
-> GR, HR, HU
+> GR, HR, HU, SI, SK
 
 ## Seats
 
 Last result: **21** seats (General Election of 25 May 2014)
 
-Current median: **4** seats (-17 seats)
+Current median: **6** seats (-15 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> GR, HR, HU
+> GR, HR, HU, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 4 | 4–5 | 3–6 | 3–6 | 2–6 |
+| Non-Inscrits | EU | 21 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -34,14 +36,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.6% | 100% |  |
-| 3 | 9% | 99.4% |  |
-| 4 | 41% | 91% | Median |
-| 5 | 44% | 50% |  |
-| 6 | 6% | 6% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 3% | 99.8% |  |
+| 5 | 19% | 97% |  |
+| 6 | 42% | 78% | Median |
+| 7 | 32% | 36% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

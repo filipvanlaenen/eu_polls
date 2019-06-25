@@ -8,7 +8,7 @@ Members registered from **3 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **15** seats (-26 seats)
+Current median: **14** seats (-27 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Freedom and Direct Democracy | EU | 41 | 15 | 13–16 | 13–17 | 12–17 | 11–18 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| Europe of Freedom and Direct Democracy | EU | 41 | 14 | 13–16 | 13–17 | 12–17 | 11–18 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 
@@ -34,11 +34,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.5% | 100% |  |
 | 12 | 3% | 99.4% |  |
 | 13 | 17% | 96% |  |
-| 14 | 28% | 79% |  |
-| 15 | 31% | 51% | Median |
-| 16 | 15% | 21% |  |
-| 17 | 4% | 6% |  |
-| 18 | 1.1% | 1.2% |  |
+| 14 | 32% | 79% | Median |
+| 15 | 27% | 47% |  |
+| 16 | 15% | 20% |  |
+| 17 | 4% | 5% |  |
+| 18 | 1.0% | 1.2% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
