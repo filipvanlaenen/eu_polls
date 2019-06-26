@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> DK, EE, HR, IE, NL, PT, SK
+> DK, EE, HR, IE, NL, PL, PT, SK
 
 ## Seats
 
@@ -29,6 +29,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partia Razem [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |

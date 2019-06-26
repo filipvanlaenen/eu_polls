@@ -22,11 +22,11 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -39,9 +39,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.2% | 100% |  |
 | 4 | 3% | 99.8% |  |
 | 5 | 19% | 97% |  |
-| 6 | 42% | 78% | Median |
-| 7 | 32% | 36% |  |
-| 8 | 4% | 4% |  |
+| 6 | 42% | 77% | Median |
+| 7 | 31% | 35% |  |
+| 8 | 3% | 4% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

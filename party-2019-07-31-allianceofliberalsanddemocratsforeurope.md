@@ -1,8 +1,8 @@
 # Alliance of Liberals and Democrats for Europe
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, SE, SI, SK
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, SE, SI, SK
 
 ## Seats
 
@@ -18,15 +18,15 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Alliance of Liberals and Democrats for Europe | EU | 68 | 61 | 58–64 | 57–65 | 56–66 | 55–67 |
+| Alliance of Liberals and Democrats for Europe | EU | 68 | 61 | 58–64 | 57–64 | 56–65 | 55–67 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Venstre | DK | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Lista Marjana Šarca | SI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -40,6 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,22 +67,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 53 | 0.1% | 100% |  |
 | 54 | 0.3% | 99.9% |  |
-| 55 | 0.9% | 99.6% |  |
-| 56 | 2% | 98.7% |  |
+| 55 | 0.9% | 99.7% |  |
+| 56 | 2% | 98.8% |  |
 | 57 | 5% | 96% |  |
 | 58 | 9% | 91% |  |
-| 59 | 12% | 83% |  |
-| 60 | 15% | 70% |  |
-| 61 | 16% | 55% | Median |
-| 62 | 14% | 39% |  |
-| 63 | 11% | 24% |  |
-| 64 | 7% | 14% |  |
-| 65 | 4% | 7% |  |
-| 66 | 2% | 3% |  |
-| 67 | 0.8% | 1.3% |  |
-| 68 | 0.3% | 0.5% | Last Result |
-| 69 | 0.1% | 0.2% |  |
-| 70 | 0% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 59 | 13% | 82% |  |
+| 60 | 17% | 69% |  |
+| 61 | 17% | 52% | Median |
+| 62 | 14% | 35% |  |
+| 63 | 10% | 20% |  |
+| 64 | 6% | 10% |  |
+| 65 | 3% | 5% |  |
+| 66 | 1.2% | 2% |  |
+| 67 | 0.5% | 0.7% |  |
+| 68 | 0.2% | 0.3% | Last Result |
+| 69 | 0.1% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 

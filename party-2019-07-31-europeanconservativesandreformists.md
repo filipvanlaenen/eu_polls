@@ -1,35 +1,36 @@
 # European Conservatives and Reformists
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> CZ, DE, HR, IT, LT, LV, NL, SE, SK
+> CZ, DE, HR, IT, LT, LV, NL, PL, SE, SK
 
 ## Seats
 
 Last result: **76** seats (General Election of 25 May 2014)
 
-Current median: **25** seats (-51 seats)
+Current median: **56** seats (-20 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
-> CZ, DE, IT, LT, LV, NL, SE, SK
+> CZ, IT, LT, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
+| European Conservatives and Reformists | EU | 76 | 56 | 54–58 | 53–59 | 52–60 | 51–61 |
+| Prawo i Sprawiedliwość | PL | | 32 | 30–32 | 29–32 | 29–33 | 28–33 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -44,50 +45,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.1% | 100% |  |
-| 20 | 0.1% | 99.9% |  |
-| 21 | 0.6% | 99.8% |  |
-| 22 | 3% | 99.2% |  |
-| 23 | 11% | 96% |  |
-| 24 | 22% | 85% |  |
-| 25 | 27% | 63% | Median |
-| 26 | 21% | 35% |  |
-| 27 | 10% | 14% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.7% | 0.8% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
+| 49 | 0% | 100% |  |
+| 50 | 0.2% | 99.9% |  |
+| 51 | 0.6% | 99.8% |  |
+| 52 | 2% | 99.1% |  |
+| 53 | 4% | 97% |  |
+| 54 | 9% | 93% |  |
+| 55 | 16% | 84% |  |
+| 56 | 22% | 67% | Median |
+| 57 | 22% | 45% |  |
+| 58 | 15% | 24% |  |
+| 59 | 7% | 9% |  |
+| 60 | 2% | 3% |  |
+| 61 | 0.4% | 0.5% |  |
+| 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
