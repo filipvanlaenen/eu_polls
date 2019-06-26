@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 52 | 72 | 69–75 | 68–75 | 67–76 | 66–77 |
-| Bündnis 90/Die Grünen | DE | | 24 | 22–27 | 22–27 | 22–27 | 21–28 |
+| Greens–European Free Alliance | EU | 52 | 72 | 70–75 | 69–75 | 68–76 | 67–77 |
+| Bündnis 90/Die Grünen | DE | | 25 | 22–27 | 22–27 | 22–27 | 22–28 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -30,7 +30,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -72,19 +72,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0% | 100% |  |
 | 63 | 0% | 100% |  |
 | 64 | 0% | 100% |  |
-| 65 | 0.1% | 100% |  |
-| 66 | 0.7% | 99.8% |  |
-| 67 | 2% | 99.2% |  |
-| 68 | 5% | 97% |  |
-| 69 | 8% | 92% |  |
-| 70 | 11% | 84% |  |
-| 71 | 14% | 74% |  |
-| 72 | 17% | 59% | Median |
-| 73 | 18% | 42% |  |
-| 74 | 13% | 24% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0.2% | 100% |  |
+| 67 | 1.1% | 99.7% |  |
+| 68 | 3% | 98.7% |  |
+| 69 | 6% | 96% |  |
+| 70 | 10% | 90% |  |
+| 71 | 15% | 80% |  |
+| 72 | 20% | 66% | Median |
+| 73 | 20% | 46% |  |
+| 74 | 14% | 26% |  |
 | 75 | 7% | 12% |  |
 | 76 | 3% | 5% |  |
-| 77 | 1.1% | 1.4% |  |
+| 77 | 1.1% | 1.5% |  |
 | 78 | 0.3% | 0.4% |  |
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |

@@ -1,30 +1,31 @@
 # European People’s Party
 
-Members registered from **26 countries**:
+Members registered from **27 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **217** seats (General Election of 25 May 2014)
 
-Current median: **148** seats (-69 seats)
+Current median: **163** seats (-54 seats)
 
-At least one member in **25 countries** have a median of 1 seat or more:
+At least one member in **26 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 217 | 148 | 144–152 | 142–154 | 141–155 | 140–157 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
+| European People’s Party | EU | 217 | 163 | 159–168 | 158–169 | 157–170 | 155–172 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
+| Platforma Obywatelska | PL | | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
+| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
@@ -62,6 +63,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -73,43 +75,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0.1% | 100% |  |
-| 139 | 0.3% | 99.8% |  |
-| 140 | 0.8% | 99.5% |  |
-| 141 | 2% | 98.7% |  |
-| 142 | 3% | 97% |  |
-| 143 | 4% | 94% |  |
-| 144 | 6% | 90% |  |
-| 145 | 8% | 84% |  |
-| 146 | 10% | 76% |  |
-| 147 | 11% | 66% |  |
-| 148 | 11% | 55% | Median |
-| 149 | 11% | 44% |  |
-| 150 | 9% | 33% |  |
-| 151 | 8% | 24% |  |
-| 152 | 6% | 16% |  |
-| 153 | 4% | 10% |  |
-| 154 | 3% | 6% |  |
-| 155 | 2% | 3% |  |
-| 156 | 0.9% | 2% |  |
-| 157 | 0.4% | 0.7% |  |
-| 158 | 0.2% | 0.3% |  |
-| 159 | 0.1% | 0.1% |  |
-| 160 | 0% | 0% |  |
-| 161 | 0% | 0% |  |
-| 162 | 0% | 0% |  |
-| 163 | 0% | 0% |  |
-| 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% |  |
-| 167 | 0% | 0% |  |
-| 168 | 0% | 0% |  |
-| 169 | 0% | 0% |  |
-| 170 | 0% | 0% |  |
-| 171 | 0% | 0% |  |
-| 172 | 0% | 0% |  |
-| 173 | 0% | 0% |  |
-| 174 | 0% | 0% |  |
+| 153 | 0.1% | 100% |  |
+| 154 | 0.2% | 99.9% |  |
+| 155 | 0.5% | 99.7% |  |
+| 156 | 1.1% | 99.1% |  |
+| 157 | 2% | 98% |  |
+| 158 | 4% | 96% |  |
+| 159 | 5% | 92% |  |
+| 160 | 7% | 87% |  |
+| 161 | 9% | 80% |  |
+| 162 | 11% | 70% |  |
+| 163 | 11% | 60% | Median |
+| 164 | 11% | 48% |  |
+| 165 | 10% | 37% |  |
+| 166 | 9% | 27% |  |
+| 167 | 7% | 18% |  |
+| 168 | 5% | 11% |  |
+| 169 | 3% | 7% |  |
+| 170 | 2% | 4% |  |
+| 171 | 1.0% | 2% |  |
+| 172 | 0.5% | 0.9% |  |
+| 173 | 0.2% | 0.4% |  |
+| 174 | 0.1% | 0.1% |  |
 | 175 | 0% | 0% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |

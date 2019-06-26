@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> DK, EE, FR, GB, HR, IE, NL, PT, SK
+> DK, EE, FR, GB, HR, IE, NL, PL, PT, SK
 
 ## Seats
 
@@ -31,6 +31,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partia Razem [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
