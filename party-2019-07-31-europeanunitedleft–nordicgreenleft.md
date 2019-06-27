@@ -6,9 +6,9 @@ Members registered from **11 countries**:
 
 ## Seats
 
-Last result: **52** seats (General Election of 25 May 2014)
+Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **33** seats (-19 seats)
+Current median: **33** seats (-8 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 52 | 33 | 31–36 | 30–36 | 29–37 | 28–38 |
+| European United Left–Nordic Green Left | EU | 41 | 33 | 31–36 | 30–36 | 29–37 | 28–38 |
 | Die Linke | DE | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -61,17 +61,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0.9% | 1.1% |  |
 | 39 | 0.2% | 0.2% |  |
 | 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% | Last Result |
+| 41 | 0% | 0% | Last Result |
 
 

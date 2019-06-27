@@ -1,10 +1,63 @@
 # Brexit Party
 
-Members registered from **0 countries**:
+Members registered from **1 countries**:
 
-> 
+> GB
 
 ## Seats
 
 Last result: **0** seats (General Election of 25 May 2014)
+
+Current median: **29** seats (+29 seats)
+
+At least one member in **1 countries** have a median of 1 seat or more:
+
+> GB
+
+### Confidence Intervals
+
+| Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Brexit Party | EU | 0 | 29 | 29 | 29 | 29 | 29 |
+| Brexit Party | GB-GBN | | 29 | 29 | 29 | 29 | 29 |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-2019-07-31-2019-06-30-seats-pmf-brexitparty.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31-2019-06-30.html) for Brexit Party.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0% | 100% |  |
+| 29 | 100% | 100% | Median |
+
 
