@@ -6,9 +6,9 @@ Members registered from **15 countries**:
 
 ## Seats
 
-Last result: **76** seats (General Election of 25 May 2014)
+Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **65** seats (-11 seats)
+Current median: **60** seats (-2 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 76 | 65 | 63–67 | 62–68 | 61–69 | 60–70 |
-| Prawo i Sprawiedliwość | PL | | 32 | 30–32 | 29–32 | 29–33 | 28–33 |
-| Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| European Conservatives and Reformists | EU | 62 | 60 | 57–66 | 56–67 | 55–68 | 54–69 |
+| Prawo i Sprawiedliwość | PL | | 25 | 24–32 | 24–32 | 24–32 | 21–33 |
+| Fratelli d’Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 3–5 | 3–5 | 3–5 |
@@ -29,9 +29,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | ChristenUnie–Staatkundig Gereformeerde Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -51,24 +51,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0% | 100% |  |
-| 59 | 0.2% | 99.9% |  |
-| 60 | 0.6% | 99.8% |  |
-| 61 | 2% | 99.1% |  |
-| 62 | 4% | 97% |  |
-| 63 | 9% | 93% |  |
-| 64 | 16% | 84% |  |
-| 65 | 22% | 67% | Median |
-| 66 | 22% | 45% |  |
-| 67 | 15% | 24% |  |
-| 68 | 7% | 9% |  |
-| 69 | 2% | 3% |  |
-| 70 | 0.4% | 0.5% |  |
-| 71 | 0.1% | 0.1% |  |
+| 52 | 0.1% | 100% |  |
+| 53 | 0.2% | 99.9% |  |
+| 54 | 0.7% | 99.7% |  |
+| 55 | 2% | 99.0% |  |
+| 56 | 6% | 97% |  |
+| 57 | 11% | 90% |  |
+| 58 | 15% | 79% |  |
+| 59 | 14% | 64% |  |
+| 60 | 10% | 50% | Median |
+| 61 | 6% | 40% |  |
+| 62 | 4% | 35% | Last Result |
+| 63 | 4% | 31% |  |
+| 64 | 6% | 27% |  |
+| 65 | 7% | 21% |  |
+| 66 | 6% | 14% |  |
+| 67 | 4% | 8% |  |
+| 68 | 2% | 3% |  |
+| 69 | 0.9% | 1.2% |  |
+| 70 | 0.2% | 0.3% |  |
+| 71 | 0% | 0.1% |  |
 | 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% | Last Result |
 
 

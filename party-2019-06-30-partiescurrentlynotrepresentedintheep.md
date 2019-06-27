@@ -8,7 +8,7 @@ Members registered from **10 countries**:
 
 Last result: **0** seats (General Election of 25 May 2014)
 
-Current median: **2** seats (+2 seats)
+Current median: **1** seats (+1 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
+| Parties currently not represented in the EP | EU | 0 | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Independents [IE] (*) | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -48,11 +48,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 35% | 97% |  |
-| 2 | 56% | 62% | Median |
-| 3 | 6% | 6% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 67% | 94% | Median |
+| 2 | 25% | 27% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
 
 

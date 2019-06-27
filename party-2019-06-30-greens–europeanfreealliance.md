@@ -6,9 +6,9 @@ Members registered from **19 countries**:
 
 ## Seats
 
-Last result: **52** seats (General Election of 25 May 2014)
+Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **72** seats (+20 seats)
+Current median: **72** seats (-3 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 52 | 72 | 70–75 | 69–75 | 68–76 | 67–77 |
+| Greens–European Free Alliance | EU | 75 | 72 | 70–75 | 69–75 | 68–76 | 67–77 |
 | Bündnis 90/Die Grünen | DE | | 25 | 22–27 | 22–27 | 22–27 | 22–28 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
@@ -59,20 +59,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0% | 100% | Last Result |
-| 53 | 0% | 100% |  |
-| 54 | 0% | 100% |  |
-| 55 | 0% | 100% |  |
-| 56 | 0% | 100% |  |
-| 57 | 0% | 100% |  |
-| 58 | 0% | 100% |  |
-| 59 | 0% | 100% |  |
-| 60 | 0% | 100% |  |
-| 61 | 0% | 100% |  |
-| 62 | 0% | 100% |  |
-| 63 | 0% | 100% |  |
-| 64 | 0% | 100% |  |
-| 65 | 0% | 100% |  |
 | 66 | 0.2% | 100% |  |
 | 67 | 1.1% | 99.7% |  |
 | 68 | 3% | 98.7% |  |
@@ -82,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 20% | 66% | Median |
 | 73 | 20% | 46% |  |
 | 74 | 14% | 26% |  |
-| 75 | 7% | 12% |  |
+| 75 | 7% | 12% | Last Result |
 | 76 | 3% | 5% |  |
 | 77 | 1.1% | 1.5% |  |
 | 78 | 0.3% | 0.4% |  |

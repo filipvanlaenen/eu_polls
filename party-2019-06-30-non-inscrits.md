@@ -1,30 +1,35 @@
 # Non-Inscrits
 
-Members registered from **8 countries**:
+Members registered from **10 countries**:
 
-> BG, CY, GB, GR, HR, HU, SI, SK
+> BG, CY, GB, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
-Last result: **21** seats (General Election of 25 May 2014)
+Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **7** seats (-14 seats)
+Current median: **52** seats (-4 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> GB, GR, HR, HU, SK
+> GB, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 21 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| Non-Inscrits | EU | 56 | 52 | 49–57 | 48–58 | 48–59 | 47–60 |
+| Brexit Party | GB-GBN | | 29 | 29 | 29 | 29 | 29 |
+| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Živi zid | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
+| Kukiz’15 | PL | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -39,23 +44,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 3% | 99.8% |  |
-| 6 | 19% | 97% |  |
-| 7 | 42% | 77% | Median |
-| 8 | 31% | 35% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% | Last Result |
+| 46 | 0.1% | 100% |  |
+| 47 | 0.9% | 99.9% |  |
+| 48 | 4% | 98.9% |  |
+| 49 | 9% | 95% |  |
+| 50 | 15% | 86% |  |
+| 51 | 17% | 71% |  |
+| 52 | 12% | 54% | Median |
+| 53 | 6% | 42% |  |
+| 54 | 5% | 36% |  |
+| 55 | 6% | 31% |  |
+| 56 | 8% | 25% | Last Result |
+| 57 | 8% | 17% |  |
+| 58 | 6% | 8% |  |
+| 59 | 2% | 3% |  |
+| 60 | 0.6% | 0.7% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 
