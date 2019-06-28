@@ -1,27 +1,29 @@
 # Non-Inscrits
 
-Members registered from **7 countries**:
+Members registered from **10 countries**:
 
-> GR, HR, HU, IT, PL, SI, SK
+> BG, CY, GB, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **22** seats (-34 seats)
+Current median: **52** seats (-4 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> GR, HR, HU, IT, SK
+> GB, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 22 | 19–27 | 19–28 | 18–29 | 17–30 |
+| Non-Inscrits | EU | 56 | 52 | 49–57 | 49–58 | 48–59 | 47–60 |
+| Brexit Party | GB-GBN | | 29 | 29 | 29 | 29 | 29 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -31,55 +33,34 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
+| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
+| Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.3% | 100% |  |
-| 17 | 1.2% | 99.7% |  |
-| 18 | 3% | 98.5% |  |
-| 19 | 7% | 95% |  |
-| 20 | 12% | 88% |  |
-| 21 | 15% | 76% |  |
-| 22 | 14% | 61% | Median |
-| 23 | 10% | 47% |  |
-| 24 | 6% | 37% |  |
-| 25 | 6% | 31% |  |
-| 26 | 8% | 25% |  |
-| 27 | 8% | 17% |  |
-| 28 | 6% | 10% |  |
-| 29 | 3% | 4% |  |
-| 30 | 0.8% | 1.0% |  |
-| 31 | 0.2% | 0.2% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% | Last Result |
+| 46 | 0.3% | 100% |  |
+| 47 | 1.2% | 99.7% |  |
+| 48 | 3% | 98.5% |  |
+| 49 | 7% | 95% |  |
+| 50 | 12% | 88% |  |
+| 51 | 15% | 76% |  |
+| 52 | 14% | 61% | Median |
+| 53 | 10% | 47% |  |
+| 54 | 6% | 37% |  |
+| 55 | 6% | 31% |  |
+| 56 | 8% | 25% | Last Result |
+| 57 | 8% | 17% |  |
+| 58 | 6% | 10% |  |
+| 59 | 3% | 4% |  |
+| 60 | 0.8% | 1.0% |  |
+| 61 | 0.2% | 0.2% |  |
+| 62 | 0% | 0% |  |
 
 

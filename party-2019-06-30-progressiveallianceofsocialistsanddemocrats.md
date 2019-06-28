@@ -20,7 +20,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 154 | 141 | 137–146 | 136–147 | 135–148 | 133–151 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 11 | 11–13 | 10–14 | 10–15 | 10–15 |
 | Labour Party | GB-GBN | | 10 | 10 | 10 | 10 | 10 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
@@ -31,7 +31,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 5 | 5 | 5 | 5 | 5 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4 | 4–5 | 3–5 |
+| Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -69,24 +69,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 132 | 0.1% | 100% |  |
-| 133 | 0.4% | 99.8% |  |
-| 134 | 0.9% | 99.5% |  |
+| 133 | 0.3% | 99.8% |  |
+| 134 | 0.8% | 99.5% |  |
 | 135 | 2% | 98.6% |  |
 | 136 | 3% | 97% |  |
-| 137 | 5% | 93% |  |
-| 138 | 8% | 88% |  |
-| 139 | 10% | 80% |  |
-| 140 | 11% | 71% |  |
-| 141 | 11% | 60% | Median |
+| 137 | 5% | 94% |  |
+| 138 | 7% | 88% |  |
+| 139 | 9% | 81% |  |
+| 140 | 11% | 72% |  |
+| 141 | 11% | 61% | Median |
 | 142 | 11% | 49% |  |
-| 143 | 10% | 37% |  |
-| 144 | 8% | 27% |  |
+| 143 | 10% | 38% |  |
+| 144 | 9% | 28% |  |
 | 145 | 7% | 19% |  |
-| 146 | 5% | 12% |  |
+| 146 | 5% | 13% |  |
 | 147 | 3% | 8% |  |
-| 148 | 2% | 4% |  |
+| 148 | 2% | 5% |  |
 | 149 | 1.2% | 2% |  |
-| 150 | 0.6% | 1.2% |  |
+| 150 | 0.7% | 1.2% |  |
 | 151 | 0.3% | 0.6% |  |
 | 152 | 0.1% | 0.2% |  |
 | 153 | 0.1% | 0.1% |  |
