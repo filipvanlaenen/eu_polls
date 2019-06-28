@@ -1,8 +1,8 @@
 # Europe of Freedom and Direct Democracy
 
-Members registered from **4 countries**:
+Members registered from **3 countries**:
 
-> BE, BG, FI, FR
+> BE, FI, FR
 
 ## Seats
 
@@ -22,7 +22,6 @@ At least one member in **0 countries** have a median of 1 seat or more:
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

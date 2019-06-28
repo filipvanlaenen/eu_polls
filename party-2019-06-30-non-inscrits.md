@@ -18,11 +18,11 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 52 | 49–57 | 48–58 | 48–59 | 47–60 |
+| Non-Inscrits | EU | 56 | 52 | 49–57 | 49–58 | 48–59 | 47–60 |
 | Brexit Party | GB-GBN | | 29 | 29 | 29 | 29 | 29 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
+| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Živi zid | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,6 +35,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
+| Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -45,21 +46,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0.1% | 100% |  |
-| 47 | 0.9% | 99.9% |  |
-| 48 | 4% | 98.9% |  |
-| 49 | 9% | 95% |  |
-| 50 | 15% | 86% |  |
-| 51 | 17% | 71% |  |
-| 52 | 12% | 54% | Median |
-| 53 | 6% | 42% |  |
-| 54 | 5% | 36% |  |
-| 55 | 6% | 31% |  |
-| 56 | 8% | 25% | Last Result |
-| 57 | 8% | 17% |  |
-| 58 | 6% | 8% |  |
+| 47 | 0.8% | 99.9% |  |
+| 48 | 3% | 99.1% |  |
+| 49 | 9% | 96% |  |
+| 50 | 15% | 87% |  |
+| 51 | 17% | 73% |  |
+| 52 | 12% | 56% | Median |
+| 53 | 7% | 44% |  |
+| 54 | 6% | 36% |  |
+| 55 | 7% | 31% |  |
+| 56 | 9% | 24% | Last Result |
+| 57 | 8% | 15% |  |
+| 58 | 5% | 7% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.6% | 0.7% |  |
-| 61 | 0.1% | 0.1% |  |
+| 60 | 0.6% | 0.8% |  |
+| 61 | 0.1% | 0.2% |  |
 | 62 | 0% | 0% |  |
 
 
