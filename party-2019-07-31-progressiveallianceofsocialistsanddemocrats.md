@@ -20,17 +20,17 @@ At least one member in **19 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 154 | 100 | 96–105 | 95–106 | 94–107 | 92–110 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 11 | 11–13 | 10–14 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Wiosna | PL | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Wiosna | PL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -43,7 +43,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Το Ποτάμι | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -54,28 +54,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 90 | 0.1% | 100% |  |
-| 91 | 0.2% | 99.9% |  |
-| 92 | 0.6% | 99.7% |  |
-| 93 | 1.3% | 99.1% |  |
-| 94 | 3% | 98% |  |
-| 95 | 4% | 95% |  |
-| 96 | 6% | 91% |  |
-| 97 | 8% | 85% |  |
-| 98 | 10% | 76% |  |
-| 99 | 11% | 67% |  |
-| 100 | 11% | 56% | Median |
-| 101 | 10% | 45% |  |
-| 102 | 9% | 34% |  |
-| 103 | 8% | 25% |  |
-| 104 | 6% | 18% |  |
-| 105 | 4% | 12% |  |
-| 106 | 3% | 7% |  |
+| 91 | 0.1% | 100% |  |
+| 92 | 0.4% | 99.8% |  |
+| 93 | 0.9% | 99.5% |  |
+| 94 | 2% | 98.6% |  |
+| 95 | 3% | 97% |  |
+| 96 | 5% | 93% |  |
+| 97 | 8% | 88% |  |
+| 98 | 10% | 80% |  |
+| 99 | 11% | 71% |  |
+| 100 | 11% | 60% | Median |
+| 101 | 11% | 49% |  |
+| 102 | 10% | 37% |  |
+| 103 | 8% | 27% |  |
+| 104 | 7% | 19% |  |
+| 105 | 5% | 12% |  |
+| 106 | 3% | 8% |  |
 | 107 | 2% | 4% |  |
-| 108 | 1.1% | 2% |  |
+| 108 | 1.2% | 2% |  |
 | 109 | 0.6% | 1.2% |  |
 | 110 | 0.3% | 0.6% |  |
-| 111 | 0.2% | 0.3% |  |
+| 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 | 114 | 0% | 0% |  |
