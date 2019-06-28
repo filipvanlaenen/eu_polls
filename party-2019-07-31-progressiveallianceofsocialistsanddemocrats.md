@@ -20,13 +20,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 154 | 100 | 96–105 | 95–106 | 94–107 | 92–110 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 11 | 11–13 | 10–14 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Wiosna | PL | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4 | 4–5 | 3–5 |
+| Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -55,24 +55,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 91 | 0.1% | 100% |  |
-| 92 | 0.4% | 99.8% |  |
-| 93 | 0.9% | 99.5% |  |
+| 92 | 0.3% | 99.8% |  |
+| 93 | 0.8% | 99.5% |  |
 | 94 | 2% | 98.6% |  |
 | 95 | 3% | 97% |  |
-| 96 | 5% | 93% |  |
-| 97 | 8% | 88% |  |
-| 98 | 10% | 80% |  |
-| 99 | 11% | 71% |  |
-| 100 | 11% | 60% | Median |
+| 96 | 5% | 94% |  |
+| 97 | 7% | 88% |  |
+| 98 | 9% | 81% |  |
+| 99 | 11% | 72% |  |
+| 100 | 11% | 61% | Median |
 | 101 | 11% | 49% |  |
-| 102 | 10% | 37% |  |
-| 103 | 8% | 27% |  |
+| 102 | 10% | 38% |  |
+| 103 | 9% | 28% |  |
 | 104 | 7% | 19% |  |
-| 105 | 5% | 12% |  |
+| 105 | 5% | 13% |  |
 | 106 | 3% | 8% |  |
-| 107 | 2% | 4% |  |
+| 107 | 2% | 5% |  |
 | 108 | 1.2% | 2% |  |
-| 109 | 0.6% | 1.2% |  |
+| 109 | 0.7% | 1.2% |  |
 | 110 | 0.3% | 0.6% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |

@@ -18,17 +18,17 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 61 | 58–64 | 57–65 | 56–66 | 55–68 |
+| Renew Europe | EU | 108 | 61 | 57–64 | 57–65 | 56–66 | 54–68 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–2 |
+| Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -36,7 +36,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -65,23 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.2% | 100% |  |
-| 55 | 0.6% | 99.8% |  |
-| 56 | 2% | 99.2% |  |
-| 57 | 4% | 97% |  |
-| 58 | 7% | 94% |  |
-| 59 | 11% | 86% |  |
-| 60 | 15% | 75% |  |
-| 61 | 16% | 60% | Median |
-| 62 | 15% | 44% |  |
-| 63 | 12% | 29% |  |
-| 64 | 8% | 17% |  |
-| 65 | 5% | 9% |  |
-| 66 | 2% | 4% |  |
-| 67 | 1.1% | 2% |  |
-| 68 | 0.5% | 0.8% |  |
-| 69 | 0.2% | 0.3% |  |
-| 70 | 0.1% | 0.1% |  |
+| 53 | 0.1% | 100% |  |
+| 54 | 0.5% | 99.8% |  |
+| 55 | 1.3% | 99.4% |  |
+| 56 | 3% | 98% |  |
+| 57 | 6% | 95% |  |
+| 58 | 9% | 89% |  |
+| 59 | 13% | 80% |  |
+| 60 | 15% | 67% |  |
+| 61 | 16% | 51% | Median |
+| 62 | 13% | 36% |  |
+| 63 | 10% | 23% |  |
+| 64 | 6% | 13% |  |
+| 65 | 3% | 7% |  |
+| 66 | 2% | 3% |  |
+| 67 | 0.8% | 1.4% |  |
+| 68 | 0.4% | 0.6% |  |
+| 69 | 0.1% | 0.2% |  |
+| 70 | 0% | 0.1% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
