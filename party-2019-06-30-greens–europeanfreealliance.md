@@ -18,15 +18,15 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 72 | 70–75 | 69–76 | 69–77 | 68–78 |
-| Bündnis 90/Die Grünen | DE | | 24 | 23–27 | 22–27 | 22–27 | 22–27 |
+| Greens–European Free Alliance | EU | 75 | 72 | 70–75 | 69–76 | 68–76 | 67–78 |
+| Bündnis 90/Die Grünen | DE | | 24 | 23–27 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| GroenLinks | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 3 | 3 | 3 | 2–4 |
 | Scottish National Party | GB-GBN | | 3 | 3 | 3 | 3 | 3 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -34,7 +34,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Plaid Cymru | GB-GBN | | 1 | 1 | 1 | 1 | 1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -59,19 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.2% | 100% |  |
-| 68 | 1.3% | 99.7% |  |
-| 69 | 5% | 98% |  |
-| 70 | 11% | 94% |  |
-| 71 | 16% | 83% |  |
-| 72 | 18% | 67% | Median |
-| 73 | 18% | 48% |  |
-| 74 | 14% | 31% |  |
-| 75 | 9% | 16% | Last Result |
-| 76 | 5% | 7% |  |
-| 77 | 2% | 3% |  |
-| 78 | 0.6% | 0.8% |  |
-| 79 | 0.2% | 0.2% |  |
+| 66 | 0.1% | 100% |  |
+| 67 | 0.5% | 99.9% |  |
+| 68 | 2% | 99.4% |  |
+| 69 | 6% | 97% |  |
+| 70 | 11% | 92% |  |
+| 71 | 16% | 80% |  |
+| 72 | 18% | 64% | Median |
+| 73 | 18% | 46% |  |
+| 74 | 14% | 27% |  |
+| 75 | 8% | 13% | Last Result |
+| 76 | 4% | 6% |  |
+| 77 | 1.4% | 2% |  |
+| 78 | 0.4% | 0.5% |  |
+| 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |
 
 

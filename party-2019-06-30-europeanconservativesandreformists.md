@@ -22,14 +22,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
-| Forum voor Democratie | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Vox | ES | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| Vox | ES | | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
@@ -54,24 +54,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0% | 100% |  |
 | 55 | 0.2% | 99.9% |  |
-| 56 | 0.7% | 99.8% |  |
+| 56 | 0.6% | 99.8% |  |
 | 57 | 2% | 99.1% |  |
-| 58 | 4% | 97% |  |
+| 58 | 5% | 97% |  |
 | 59 | 8% | 93% |  |
-| 60 | 10% | 85% |  |
-| 61 | 11% | 75% |  |
-| 62 | 11% | 63% | Last Result |
-| 63 | 10% | 52% | Median |
-| 64 | 8% | 43% |  |
+| 60 | 11% | 85% |  |
+| 61 | 12% | 74% |  |
+| 62 | 11% | 62% | Last Result |
+| 63 | 9% | 51% | Median |
+| 64 | 7% | 42% |  |
 | 65 | 6% | 35% |  |
 | 66 | 6% | 29% |  |
-| 67 | 7% | 22% |  |
+| 67 | 7% | 23% |  |
 | 68 | 6% | 16% |  |
-| 69 | 5% | 9% |  |
+| 69 | 5% | 10% |  |
 | 70 | 3% | 5% |  |
 | 71 | 1.3% | 2% |  |
-| 72 | 0.4% | 0.6% |  |
-| 73 | 0.1% | 0.1% |  |
+| 72 | 0.5% | 0.6% |  |
+| 73 | 0.1% | 0.2% |  |
 | 74 | 0% | 0% |  |
 
 
