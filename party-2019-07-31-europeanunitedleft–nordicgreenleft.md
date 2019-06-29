@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **34** seats (-7 seats)
+Current median: **33** seats (-8 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 34 | 31–36 | 30–37 | 30–38 | 28–39 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
-| Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 33 | 31–36 | 30–37 | 30–37 | 28–38 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Sinn Féin | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialistische Partij | NL | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialistische Partij | NL | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Partido Animalista Contra el Maltrato Animal | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -51,17 +51,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0.1% | 100% |  |
 | 28 | 0.5% | 99.9% |  |
 | 29 | 2% | 99.4% |  |
-| 30 | 4% | 98% |  |
-| 31 | 8% | 94% |  |
-| 32 | 13% | 85% |  |
-| 33 | 17% | 72% |  |
-| 34 | 18% | 55% | Median |
-| 35 | 16% | 37% |  |
-| 36 | 11% | 21% |  |
-| 37 | 6% | 10% |  |
-| 38 | 3% | 4% |  |
-| 39 | 0.8% | 1.0% |  |
-| 40 | 0.2% | 0.2% |  |
+| 30 | 5% | 98% |  |
+| 31 | 10% | 93% |  |
+| 32 | 15% | 83% |  |
+| 33 | 19% | 68% | Median |
+| 34 | 19% | 49% |  |
+| 35 | 15% | 30% |  |
+| 36 | 9% | 15% |  |
+| 37 | 4% | 6% |  |
+| 38 | 1.3% | 2% |  |
+| 39 | 0.3% | 0.4% |  |
+| 40 | 0% | 0.1% |  |
 | 41 | 0% | 0% | Last Result |
 
 

@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> GR, HR, HU, IT, PL, SI, SK
+> ES, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -10,21 +10,22 @@ Last result: **56** seats (General Election of 25 May 2014)
 
 Current median: **22** seats (-34 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> GR, HR, HU, IT, SK
+> ES, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 22 | 19–27 | 19–28 | 18–29 | 17–30 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
+| Non-Inscrits | EU | 56 | 22 | 20–27 | 19–28 | 18–29 | 17–30 |
+| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
@@ -40,23 +41,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.3% | 100% |  |
-| 17 | 1.2% | 99.7% |  |
-| 18 | 3% | 98.5% |  |
-| 19 | 7% | 95% |  |
-| 20 | 12% | 88% |  |
-| 21 | 15% | 76% |  |
-| 22 | 14% | 61% | Median |
-| 23 | 10% | 47% |  |
-| 24 | 6% | 37% |  |
-| 25 | 6% | 31% |  |
-| 26 | 8% | 25% |  |
-| 27 | 8% | 17% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.5% | 99.9% |  |
+| 18 | 2% | 99.5% |  |
+| 19 | 6% | 97% |  |
+| 20 | 12% | 91% |  |
+| 21 | 16% | 79% |  |
+| 22 | 13% | 63% | Median |
+| 23 | 9% | 50% |  |
+| 24 | 7% | 41% |  |
+| 25 | 8% | 34% |  |
+| 26 | 9% | 27% |  |
+| 27 | 8% | 18% |  |
 | 28 | 6% | 10% |  |
 | 29 | 3% | 4% |  |
-| 30 | 0.8% | 1.0% |  |
-| 31 | 0.2% | 0.2% |  |
-| 32 | 0% | 0% |  |
+| 30 | 0.9% | 1.2% |  |
+| 31 | 0.2% | 0.3% |  |
+| 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
