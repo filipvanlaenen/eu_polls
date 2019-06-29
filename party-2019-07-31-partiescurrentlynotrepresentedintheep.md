@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> DK, EE, HR, IE, NL, PL, PT, SK
+> DK, EE, HR, IE, LT, NL, PL, PT, SK
 
 ## Seats
 
@@ -26,6 +26,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Denk [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Laisvės partija [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Partia Razem [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -43,8 +44,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% | Last Result |
 | 1 | 73% | 93% | Median |
-| 2 | 19% | 20% |  |
-| 3 | 0.1% | 0.1% |  |
+| 2 | 20% | 20% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **62** seats (-46 seats)
+Current median: **61** seats (-47 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,25 +18,25 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 62 | 59–65 | 58–66 | 57–67 | 56–69 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
+| Renew Europe | EU | 108 | 61 | 58–65 | 57–66 | 56–67 | 55–69 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 6–11 | 6–11 | 6–12 | 6–12 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–11 | 5–11 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Lista Marjana Šarca | SI | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
@@ -48,7 +48,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Liberalų Sąjūdis | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -64,25 +64,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
-| 56 | 0.9% | 99.7% |  |
-| 57 | 2% | 98.8% |  |
-| 58 | 5% | 96% |  |
-| 59 | 9% | 91% |  |
-| 60 | 13% | 83% |  |
-| 61 | 15% | 70% |  |
-| 62 | 16% | 55% | Median |
-| 63 | 14% | 39% |  |
-| 64 | 11% | 26% |  |
-| 65 | 7% | 15% |  |
+| 54 | 0.2% | 100% |  |
+| 55 | 0.7% | 99.7% |  |
+| 56 | 2% | 99.0% |  |
+| 57 | 4% | 97% |  |
+| 58 | 7% | 93% |  |
+| 59 | 10% | 86% |  |
+| 60 | 12% | 76% |  |
+| 61 | 14% | 64% | Median |
+| 62 | 14% | 50% |  |
+| 63 | 12% | 36% |  |
+| 64 | 9% | 24% |  |
+| 65 | 6% | 15% |  |
 | 66 | 4% | 8% |  |
 | 67 | 2% | 4% |  |
-| 68 | 1.0% | 2% |  |
-| 69 | 0.4% | 0.7% |  |
-| 70 | 0.2% | 0.3% |  |
-| 71 | 0.1% | 0.1% |  |
-| 72 | 0% | 0% |  |
+| 68 | 1.2% | 2% |  |
+| 69 | 0.6% | 1.0% |  |
+| 70 | 0.3% | 0.4% |  |
+| 71 | 0.1% | 0.2% |  |
+| 72 | 0% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |
