@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 61 | 58–65 | 57–66 | 56–67 | 55–69 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 6–11 | 6–11 | 6–12 | 6–12 |
+| Renew Europe | EU | 108 | 61 | 58–65 | 57–66 | 57–67 | 55–69 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–11 | 5–11 |
-| ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
@@ -40,7 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -64,24 +64,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.2% | 100% |  |
-| 55 | 0.7% | 99.7% |  |
-| 56 | 2% | 99.0% |  |
-| 57 | 4% | 97% |  |
-| 58 | 7% | 93% |  |
-| 59 | 10% | 86% |  |
-| 60 | 12% | 76% |  |
-| 61 | 14% | 64% | Median |
-| 62 | 14% | 50% |  |
-| 63 | 12% | 36% |  |
-| 64 | 9% | 24% |  |
-| 65 | 6% | 15% |  |
-| 66 | 4% | 8% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.5% | 99.9% |  |
+| 56 | 2% | 99.4% |  |
+| 57 | 4% | 98% |  |
+| 58 | 7% | 94% |  |
+| 59 | 11% | 87% |  |
+| 60 | 14% | 77% |  |
+| 61 | 15% | 63% | Median |
+| 62 | 14% | 48% |  |
+| 63 | 12% | 34% |  |
+| 64 | 9% | 22% |  |
+| 65 | 6% | 13% |  |
+| 66 | 4% | 7% |  |
 | 67 | 2% | 4% |  |
-| 68 | 1.2% | 2% |  |
-| 69 | 0.6% | 1.0% |  |
-| 70 | 0.3% | 0.4% |  |
-| 71 | 0.1% | 0.2% |  |
+| 68 | 1.0% | 2% |  |
+| 69 | 0.5% | 0.8% |  |
+| 70 | 0.2% | 0.4% |  |
+| 71 | 0.1% | 0.1% |  |
 | 72 | 0% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
