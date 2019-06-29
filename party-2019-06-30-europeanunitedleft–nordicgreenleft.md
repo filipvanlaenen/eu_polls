@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **44** seats (+3 seats)
+Current median: **43** seats (+2 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,26 +18,26 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 44 | 41–46 | 40–47 | 40–48 | 38–49 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
-| Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 43 | 41–46 | 40–47 | 40–47 | 38–48 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partij voor de Dieren | NL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Sinn Féin | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialistische Partij | NL | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialistische Partij | NL | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,17 +59,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.1% | 100% |  |
 | 38 | 0.5% | 99.9% |  |
 | 39 | 2% | 99.4% |  |
-| 40 | 4% | 98% |  |
-| 41 | 8% | 94% | Last Result |
-| 42 | 13% | 85% |  |
-| 43 | 17% | 72% |  |
-| 44 | 18% | 55% | Median |
-| 45 | 16% | 37% |  |
-| 46 | 11% | 21% |  |
-| 47 | 6% | 10% |  |
-| 48 | 3% | 4% |  |
-| 49 | 0.8% | 1.0% |  |
-| 50 | 0.2% | 0.2% |  |
+| 40 | 5% | 98% |  |
+| 41 | 10% | 93% | Last Result |
+| 42 | 15% | 83% |  |
+| 43 | 19% | 68% | Median |
+| 44 | 19% | 49% |  |
+| 45 | 15% | 30% |  |
+| 46 | 9% | 15% |  |
+| 47 | 4% | 6% |  |
+| 48 | 1.3% | 2% |  |
+| 49 | 0.3% | 0.4% |  |
+| 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
 
