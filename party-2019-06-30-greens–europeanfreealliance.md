@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 72 | 70–75 | 69–76 | 68–76 | 67–78 |
-| Bündnis 90/Die Grünen | DE | | 24 | 23–27 | 22–27 | 22–27 | 21–27 |
+| Greens–European Free Alliance | EU | 75 | 72 | 69–75 | 69–76 | 68–76 | 67–78 |
+| Bündnis 90/Die Grünen | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Scottish National Party | GB-GBN | | 3 | 3 | 3 | 3 | 3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -42,7 +42,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -60,19 +60,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 66 | 0.1% | 100% |  |
-| 67 | 0.5% | 99.9% |  |
-| 68 | 2% | 99.4% |  |
-| 69 | 6% | 97% |  |
-| 70 | 11% | 92% |  |
-| 71 | 16% | 80% |  |
-| 72 | 18% | 64% | Median |
-| 73 | 18% | 46% |  |
-| 74 | 14% | 27% |  |
-| 75 | 8% | 13% | Last Result |
-| 76 | 4% | 6% |  |
-| 77 | 1.4% | 2% |  |
-| 78 | 0.4% | 0.5% |  |
-| 79 | 0.1% | 0.1% |  |
+| 67 | 0.6% | 99.9% |  |
+| 68 | 3% | 99.3% |  |
+| 69 | 7% | 97% |  |
+| 70 | 13% | 90% |  |
+| 71 | 17% | 77% |  |
+| 72 | 17% | 60% | Median |
+| 73 | 16% | 43% |  |
+| 74 | 12% | 27% |  |
+| 75 | 8% | 15% | Last Result |
+| 76 | 4% | 7% |  |
+| 77 | 2% | 2% |  |
+| 78 | 0.6% | 0.8% |  |
+| 79 | 0.1% | 0.2% |  |
 | 80 | 0% | 0% |  |
 
 
