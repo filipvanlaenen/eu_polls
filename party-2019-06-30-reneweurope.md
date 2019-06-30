@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **116** seats (+8 seats)
+Current median: **117** seats (+9 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 116 | 113–120 | 112–121 | 112–122 | 110–124 |
+| Renew Europe | EU | 108 | 117 | 113–120 | 113–121 | 112–122 | 111–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 16 | 16 | 16 | 16 | 16 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
@@ -28,7 +28,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
-| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -53,7 +53,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
+| Eesti 200 | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -78,23 +78,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 108 | 0% | 100% | Last Result |
 | 109 | 0.1% | 100% |  |
-| 110 | 0.5% | 99.9% |  |
-| 111 | 2% | 99.4% |  |
-| 112 | 4% | 98% |  |
-| 113 | 7% | 94% |  |
-| 114 | 11% | 87% |  |
-| 115 | 14% | 77% |  |
-| 116 | 15% | 63% | Median |
-| 117 | 14% | 48% |  |
-| 118 | 12% | 34% |  |
-| 119 | 9% | 22% |  |
-| 120 | 6% | 13% |  |
-| 121 | 4% | 7% |  |
+| 110 | 0.4% | 99.9% |  |
+| 111 | 1.2% | 99.5% |  |
+| 112 | 3% | 98% |  |
+| 113 | 6% | 95% |  |
+| 114 | 9% | 90% |  |
+| 115 | 13% | 80% |  |
+| 116 | 15% | 67% |  |
+| 117 | 15% | 53% | Median |
+| 118 | 13% | 38% |  |
+| 119 | 10% | 25% |  |
+| 120 | 7% | 15% |  |
+| 121 | 4% | 9% |  |
 | 122 | 2% | 4% |  |
-| 123 | 1.0% | 2% |  |
-| 124 | 0.5% | 0.8% |  |
-| 125 | 0.2% | 0.4% |  |
-| 126 | 0.1% | 0.1% |  |
+| 123 | 1.2% | 2% |  |
+| 124 | 0.6% | 1.0% |  |
+| 125 | 0.3% | 0.4% |  |
+| 126 | 0.1% | 0.2% |  |
 | 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
 

@@ -18,12 +18,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 63 | 59–68 | 58–70 | 57–70 | 56–72 |
+| European Conservatives and Reformists | EU | 62 | 63 | 59–69 | 58–70 | 57–70 | 56–72 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -59,19 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 5% | 96% |  |
 | 59 | 8% | 92% |  |
 | 60 | 10% | 84% |  |
-| 61 | 12% | 73% |  |
+| 61 | 11% | 74% |  |
 | 62 | 11% | 62% | Last Result |
-| 63 | 9% | 51% | Median |
-| 64 | 7% | 42% |  |
+| 63 | 9% | 52% | Median |
+| 64 | 7% | 43% |  |
 | 65 | 6% | 35% |  |
-| 66 | 6% | 28% |  |
+| 66 | 6% | 29% |  |
 | 67 | 6% | 22% |  |
 | 68 | 6% | 16% |  |
 | 69 | 5% | 10% |  |
 | 70 | 3% | 5% |  |
-| 71 | 1.4% | 2% |  |
-| 72 | 0.5% | 0.7% |  |
+| 71 | 2% | 2% |  |
+| 72 | 0.6% | 0.8% |  |
 | 73 | 0.2% | 0.2% |  |
-| 74 | 0% | 0% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 

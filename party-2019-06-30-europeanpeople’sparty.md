@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **163** seats (-19 seats)
+Current median: **164** seats (-18 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 163 | 159–168 | 157–169 | 156–171 | 154–173 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
+| European People’s Party | EU | 182 | 164 | 159–168 | 158–170 | 157–171 | 154–173 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 11 | 8–12 | 8–12 | 7–13 | 7–13 |
@@ -28,10 +28,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -58,7 +58,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -78,29 +78,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0% | 100% |  |
-| 152 | 0.1% | 99.9% |  |
-| 153 | 0.2% | 99.8% |  |
-| 154 | 0.5% | 99.6% |  |
-| 155 | 0.9% | 99.1% |  |
-| 156 | 2% | 98% |  |
-| 157 | 2% | 97% |  |
-| 158 | 4% | 94% |  |
-| 159 | 5% | 91% |  |
-| 160 | 7% | 85% |  |
-| 161 | 8% | 78% |  |
-| 162 | 10% | 70% |  |
-| 163 | 11% | 60% | Median |
-| 164 | 11% | 50% |  |
-| 165 | 10% | 39% |  |
-| 166 | 9% | 29% |  |
-| 167 | 7% | 21% |  |
-| 168 | 5% | 14% |  |
-| 169 | 4% | 8% |  |
-| 170 | 2% | 5% |  |
-| 171 | 1.3% | 3% |  |
-| 172 | 0.7% | 1.3% |  |
-| 173 | 0.3% | 0.6% |  |
+| 152 | 0.1% | 100% |  |
+| 153 | 0.1% | 99.9% |  |
+| 154 | 0.3% | 99.8% |  |
+| 155 | 0.6% | 99.5% |  |
+| 156 | 1.1% | 98.9% |  |
+| 157 | 2% | 98% |  |
+| 158 | 3% | 96% |  |
+| 159 | 4% | 93% |  |
+| 160 | 6% | 89% |  |
+| 161 | 8% | 83% |  |
+| 162 | 9% | 75% |  |
+| 163 | 11% | 66% |  |
+| 164 | 11% | 55% | Median |
+| 165 | 11% | 44% |  |
+| 166 | 10% | 34% |  |
+| 167 | 8% | 24% |  |
+| 168 | 6% | 16% |  |
+| 169 | 4% | 10% |  |
+| 170 | 3% | 6% |  |
+| 171 | 2% | 3% |  |
+| 172 | 0.8% | 1.5% |  |
+| 173 | 0.4% | 0.7% |  |
 | 174 | 0.2% | 0.3% |  |
 | 175 | 0.1% | 0.1% |  |
 | 176 | 0% | 0% |  |
