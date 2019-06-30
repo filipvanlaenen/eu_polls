@@ -18,12 +18,12 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 101 | 97–106 | 96–107 | 95–108 | 93–110 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 101 | 97–105 | 96–107 | 95–108 | 93–110 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Wiosna | PL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Socialdemokraterne | DK | | 4 | 4 | 4 | 4 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 3–5 | 3–5 |
@@ -37,7 +37,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -55,28 +55,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 91 | 0.1% | 100% |  |
-| 92 | 0.2% | 99.9% |  |
+| 92 | 0.3% | 99.9% |  |
 | 93 | 0.6% | 99.6% |  |
-| 94 | 1.3% | 99.1% |  |
-| 95 | 2% | 98% |  |
+| 94 | 1.4% | 99.0% |  |
+| 95 | 3% | 98% |  |
 | 96 | 4% | 95% |  |
 | 97 | 6% | 91% |  |
 | 98 | 8% | 85% |  |
-| 99 | 10% | 77% |  |
-| 100 | 11% | 67% |  |
-| 101 | 12% | 56% | Median |
-| 102 | 11% | 44% |  |
-| 103 | 10% | 33% |  |
-| 104 | 8% | 24% |  |
-| 105 | 6% | 16% |  |
+| 99 | 10% | 76% |  |
+| 100 | 11% | 66% |  |
+| 101 | 12% | 54% | Median |
+| 102 | 11% | 43% |  |
+| 103 | 9% | 32% |  |
+| 104 | 8% | 23% |  |
+| 105 | 6% | 15% |  |
 | 106 | 4% | 10% |  |
 | 107 | 3% | 6% |  |
 | 108 | 2% | 3% |  |
-| 109 | 0.9% | 2% |  |
-| 110 | 0.5% | 0.8% |  |
-| 111 | 0.2% | 0.4% |  |
+| 109 | 0.8% | 2% |  |
+| 110 | 0.4% | 0.8% |  |
+| 111 | 0.2% | 0.3% |  |
 | 112 | 0.1% | 0.1% |  |
-| 113 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 | 114 | 0% | 0% |  |
 | 115 | 0% | 0% |  |
 | 116 | 0% | 0% |  |

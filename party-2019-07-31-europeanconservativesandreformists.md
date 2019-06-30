@@ -18,11 +18,11 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 54 | 50–59 | 49–61 | 48–61 | 47–63 |
+| European Conservatives and Reformists | EU | 62 | 54 | 50–60 | 49–61 | 48–61 | 47–63 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -53,19 +53,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 5% | 96% |  |
 | 50 | 8% | 92% |  |
 | 51 | 10% | 84% |  |
-| 52 | 12% | 73% |  |
+| 52 | 11% | 74% |  |
 | 53 | 11% | 62% |  |
-| 54 | 9% | 51% | Median |
-| 55 | 7% | 42% |  |
+| 54 | 9% | 52% | Median |
+| 55 | 7% | 43% |  |
 | 56 | 6% | 35% |  |
-| 57 | 6% | 28% |  |
+| 57 | 6% | 29% |  |
 | 58 | 6% | 22% |  |
 | 59 | 6% | 16% |  |
 | 60 | 5% | 10% |  |
 | 61 | 3% | 5% |  |
-| 62 | 1.4% | 2% | Last Result |
-| 63 | 0.5% | 0.7% |  |
+| 62 | 2% | 2% | Last Result |
+| 63 | 0.6% | 0.8% |  |
 | 64 | 0.2% | 0.2% |  |
-| 65 | 0% | 0% |  |
+| 65 | 0% | 0.1% |  |
+| 66 | 0% | 0% |  |
 
 

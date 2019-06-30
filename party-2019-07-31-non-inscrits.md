@@ -8,7 +8,7 @@ Members registered from **9 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **23** seats (-33 seats)
+Current median: **22** seats (-34 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 23 | 20–27 | 19–28 | 18–29 | 17–30 |
+| Non-Inscrits | EU | 56 | 22 | 20–27 | 19–28 | 18–29 | 17–30 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -26,7 +26,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Χρυσή Αυγή | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -44,20 +44,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
 | 17 | 0.5% | 99.9% |  |
-| 18 | 2% | 99.4% |  |
-| 19 | 7% | 97% |  |
-| 20 | 12% | 90% |  |
-| 21 | 15% | 78% |  |
-| 22 | 13% | 64% |  |
-| 23 | 9% | 50% | Median |
+| 18 | 2% | 99.5% |  |
+| 19 | 6% | 97% |  |
+| 20 | 12% | 91% |  |
+| 21 | 16% | 79% |  |
+| 22 | 13% | 63% | Median |
+| 23 | 9% | 50% |  |
 | 24 | 7% | 41% |  |
 | 25 | 8% | 34% |  |
 | 26 | 9% | 26% |  |
-| 27 | 8% | 18% |  |
-| 28 | 6% | 10% |  |
+| 27 | 8% | 17% |  |
+| 28 | 6% | 9% |  |
 | 29 | 3% | 4% |  |
-| 30 | 0.9% | 1.2% |  |
-| 31 | 0.2% | 0.3% |  |
+| 30 | 0.9% | 1.1% |  |
+| 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |

@@ -18,15 +18,15 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 53 | 50–56 | 49–57 | 48–57 | 47–59 |
+| Identity and Democracy | EU | 73 | 53 | 50–56 | 49–57 | 48–58 | 47–59 |
 | Lega Nord | IT | | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
-| Alternative für Deutschland | DE | | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
+| Alternative für Deutschland | DE | | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Partij voor de Vrijheid | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,19 +43,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0.2% | 99.9% |  |
 | 47 | 0.8% | 99.7% |  |
 | 48 | 2% | 98.9% |  |
-| 49 | 5% | 96% |  |
-| 50 | 10% | 91% |  |
-| 51 | 14% | 81% |  |
-| 52 | 16% | 68% |  |
-| 53 | 16% | 51% | Median |
-| 54 | 14% | 35% |  |
-| 55 | 10% | 21% |  |
-| 56 | 6% | 11% |  |
-| 57 | 3% | 5% |  |
-| 58 | 1.4% | 2% |  |
-| 59 | 0.5% | 0.8% |  |
+| 49 | 5% | 97% |  |
+| 50 | 8% | 92% |  |
+| 51 | 12% | 84% |  |
+| 52 | 15% | 72% |  |
+| 53 | 16% | 57% | Median |
+| 54 | 15% | 40% |  |
+| 55 | 11% | 25% |  |
+| 56 | 7% | 14% |  |
+| 57 | 4% | 6% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.6% | 0.8% |  |
 | 60 | 0.2% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
+| 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
