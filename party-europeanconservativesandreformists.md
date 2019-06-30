@@ -1,30 +1,30 @@
 # European Conservatives and Reformists
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GB, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, DE, ES, FR, GB, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
 
 ## Seats
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **62** seats (0 seats)
+Current median: **63** seats (+1 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, GB, IT, LT, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, GB, GR, IT, LT, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 62 | 59–68 | 58–69 | 57–70 | 56–72 |
+| European Conservatives and Reformists | EU | 62 | 63 | 59–69 | 58–70 | 58–71 | 56–72 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Vox | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
+| Vox | ES | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
@@ -33,6 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
+| Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,26 +53,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.4% | 99.9% |  |
-| 56 | 1.1% | 99.5% |  |
-| 57 | 3% | 98% |  |
-| 58 | 5% | 96% |  |
-| 59 | 8% | 90% |  |
-| 60 | 11% | 82% |  |
-| 61 | 11% | 71% |  |
-| 62 | 10% | 60% | Last Result, Median |
-| 63 | 9% | 49% |  |
-| 64 | 7% | 41% |  |
-| 65 | 6% | 34% |  |
-| 66 | 6% | 27% |  |
-| 67 | 6% | 21% |  |
-| 68 | 6% | 15% |  |
-| 69 | 4% | 9% |  |
-| 70 | 3% | 4% |  |
-| 71 | 1.2% | 2% |  |
-| 72 | 0.5% | 0.7% |  |
-| 73 | 0.1% | 0.2% |  |
-| 74 | 0% | 0% |  |
+| 54 | 0% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.6% | 99.8% |  |
+| 57 | 2% | 99.2% |  |
+| 58 | 4% | 98% |  |
+| 59 | 6% | 94% |  |
+| 60 | 9% | 88% |  |
+| 61 | 11% | 79% |  |
+| 62 | 11% | 68% | Last Result |
+| 63 | 10% | 57% | Median |
+| 64 | 8% | 47% |  |
+| 65 | 7% | 39% |  |
+| 66 | 6% | 32% |  |
+| 67 | 6% | 25% |  |
+| 68 | 6% | 19% |  |
+| 69 | 5% | 13% |  |
+| 70 | 4% | 7% |  |
+| 71 | 2% | 4% |  |
+| 72 | 1.0% | 1.5% |  |
+| 73 | 0.3% | 0.5% |  |
+| 74 | 0.1% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 

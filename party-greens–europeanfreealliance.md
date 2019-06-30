@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 72 | 69–74 | 69–75 | 68–76 | 67–77 |
+| Greens–European Free Alliance | EU | 75 | 72 | 69–75 | 69–75 | 68–76 | 67–77 |
 | Bündnis 90/Die Grünen | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Scottish National Party | GB-GBN | | 3 | 3 | 3 | 3 | 3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -42,7 +42,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,14 +63,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 3% | 99.2% |  |
 | 69 | 8% | 96% |  |
 | 70 | 14% | 89% |  |
-| 71 | 18% | 74% |  |
-| 72 | 19% | 56% | Median |
-| 73 | 17% | 37% |  |
-| 74 | 11% | 20% |  |
-| 75 | 6% | 9% | Last Result |
-| 76 | 2% | 3% |  |
-| 77 | 0.8% | 1.0% |  |
-| 78 | 0.2% | 0.2% |  |
-| 79 | 0% | 0% |  |
+| 71 | 18% | 75% |  |
+| 72 | 18% | 57% | Median |
+| 73 | 17% | 38% |  |
+| 74 | 11% | 22% |  |
+| 75 | 6% | 10% | Last Result |
+| 76 | 3% | 4% |  |
+| 77 | 1.1% | 1.5% |  |
+| 78 | 0.3% | 0.4% |  |
+| 79 | 0.1% | 0.1% |  |
+| 80 | 0% | 0% |  |
 
 

@@ -39,6 +39,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -58,16 +59,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.2% | 100% |  |
 | 39 | 0.8% | 99.8% |  |
-| 40 | 3% | 99.0% |  |
+| 40 | 2% | 99.0% |  |
 | 41 | 6% | 97% | Last Result |
 | 42 | 12% | 90% |  |
-| 43 | 18% | 78% |  |
-| 44 | 20% | 60% | Median |
-| 45 | 18% | 40% |  |
-| 46 | 12% | 22% |  |
-| 47 | 7% | 10% |  |
+| 43 | 17% | 78% |  |
+| 44 | 20% | 61% | Median |
+| 45 | 18% | 41% |  |
+| 46 | 13% | 23% |  |
+| 47 | 7% | 11% |  |
 | 48 | 3% | 4% |  |
-| 49 | 0.8% | 1.0% |  |
+| 49 | 0.8% | 1.1% |  |
 | 50 | 0.2% | 0.2% |  |
 | 51 | 0% | 0% |  |
 

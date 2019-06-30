@@ -21,7 +21,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 108 | 117 | 113–120 | 113–121 | 112–122 | 111–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 16 | 16 | 16 | 16 | 16 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 9 | 7–11 | 6–11 | 6–11 | 6–12 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -83,17 +83,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 112 | 3% | 98% |  |
 | 113 | 6% | 95% |  |
 | 114 | 9% | 90% |  |
-| 115 | 13% | 80% |  |
-| 116 | 15% | 68% |  |
-| 117 | 15% | 53% | Median |
-| 118 | 13% | 38% |  |
+| 115 | 12% | 80% |  |
+| 116 | 14% | 68% |  |
+| 117 | 15% | 54% | Median |
+| 118 | 13% | 39% |  |
 | 119 | 10% | 26% |  |
 | 120 | 7% | 16% |  |
 | 121 | 4% | 9% |  |
 | 122 | 2% | 5% |  |
 | 123 | 1.2% | 2% |  |
-| 124 | 0.6% | 1.0% |  |
-| 125 | 0.3% | 0.4% |  |
+| 124 | 0.6% | 1.1% |  |
+| 125 | 0.3% | 0.5% |  |
 | 126 | 0.1% | 0.2% |  |
 | 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
