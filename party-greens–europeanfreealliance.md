@@ -1,43 +1,36 @@
 # Greens–European Free Alliance
 
-Members registered from **19 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, PT, SE
+> AT, CZ, DE, DK, EE, ES, FI, HU, IE, LT, LV, NL, PT, SE
 
 ## Seats
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **72** seats (-3 seats)
+Current median: **45** seats (-30 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, GB, IE, LT, LU, NL, PT, SE
+> AT, CZ, DE, DK, ES, FI, IE, LT, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 72 | 69–74 | 69–75 | 68–76 | 67–77 |
+| Greens–European Free Alliance | EU | 75 | 45 | 42–47 | 42–48 | 41–49 | 40–50 |
 | Bündnis 90/Die Grünen | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
-| Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
-| Green Party | GB-GBN | | 7 | 7 | 7 | 7 | 7 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | GroenLinks | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 3 | 3 | 3 | 2–4 |
-| Scottish National Party | GB-GBN | | 3 | 3 | 3 | 3 | 3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 1 | 1 | 1 | 1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -49,29 +42,51 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.1% | 100% |  |
-| 67 | 0.6% | 99.9% |  |
-| 68 | 3% | 99.3% |  |
-| 69 | 8% | 97% |  |
-| 70 | 14% | 89% |  |
-| 71 | 18% | 75% |  |
-| 72 | 19% | 57% | Median |
-| 73 | 17% | 38% |  |
-| 74 | 12% | 21% |  |
-| 75 | 6% | 9% | Last Result |
-| 76 | 2% | 3% |  |
-| 77 | 0.8% | 1.0% |  |
-| 78 | 0.2% | 0.2% |  |
-| 79 | 0% | 0% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.6% | 99.9% |  |
+| 41 | 3% | 99.2% |  |
+| 42 | 8% | 96% |  |
+| 43 | 14% | 89% |  |
+| 44 | 18% | 74% |  |
+| 45 | 19% | 56% | Median |
+| 46 | 17% | 37% |  |
+| 47 | 11% | 20% |  |
+| 48 | 6% | 9% |  |
+| 49 | 2% | 3% |  |
+| 50 | 0.8% | 1.0% |  |
+| 51 | 0.2% | 0.2% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
+| 66 | 0% | 0% |  |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% |  |
+| 72 | 0% | 0% |  |
+| 73 | 0% | 0% |  |
+| 74 | 0% | 0% |  |
+| 75 | 0% | 0% | Last Result |
 
 
