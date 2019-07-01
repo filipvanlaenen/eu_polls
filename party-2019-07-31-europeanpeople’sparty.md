@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **125** seats (-57 seats)
+Current median: **124** seats (-58 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 125 | 120–129 | 119–131 | 118–132 | 115–134 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
+| European People’s Party | EU | 182 | 124 | 120–129 | 118–130 | 117–132 | 115–134 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 17–22 | 16–22 | 15–23 | 15–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 11 | 8–12 | 8–12 | 7–13 | 7–13 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -38,7 +38,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -66,29 +66,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 113 | 0.1% | 100% |  |
-| 114 | 0.1% | 99.9% |  |
-| 115 | 0.3% | 99.8% |  |
-| 116 | 0.6% | 99.5% |  |
-| 117 | 1.1% | 98.9% |  |
-| 118 | 2% | 98% |  |
-| 119 | 3% | 96% |  |
-| 120 | 4% | 93% |  |
-| 121 | 6% | 89% |  |
-| 122 | 8% | 83% |  |
-| 123 | 9% | 75% |  |
-| 124 | 11% | 65% |  |
-| 125 | 11% | 55% | Median |
-| 126 | 11% | 44% |  |
-| 127 | 10% | 33% |  |
-| 128 | 8% | 23% |  |
-| 129 | 6% | 16% |  |
-| 130 | 4% | 10% |  |
-| 131 | 3% | 6% |  |
-| 132 | 2% | 3% |  |
-| 133 | 0.8% | 1.4% |  |
-| 134 | 0.4% | 0.6% |  |
-| 135 | 0.2% | 0.3% |  |
+| 112 | 0.1% | 100% |  |
+| 113 | 0.1% | 99.9% |  |
+| 114 | 0.3% | 99.8% |  |
+| 115 | 0.5% | 99.5% |  |
+| 116 | 1.0% | 99.0% |  |
+| 117 | 2% | 98% |  |
+| 118 | 3% | 96% |  |
+| 119 | 4% | 94% |  |
+| 120 | 5% | 90% |  |
+| 121 | 7% | 85% |  |
+| 122 | 8% | 78% |  |
+| 123 | 10% | 70% |  |
+| 124 | 10% | 60% | Median |
+| 125 | 10% | 50% |  |
+| 126 | 10% | 39% |  |
+| 127 | 9% | 29% |  |
+| 128 | 7% | 21% |  |
+| 129 | 5% | 14% |  |
+| 130 | 4% | 8% |  |
+| 131 | 2% | 5% |  |
+| 132 | 1.3% | 3% |  |
+| 133 | 0.7% | 1.3% |  |
+| 134 | 0.3% | 0.6% |  |
+| 135 | 0.1% | 0.2% |  |
 | 136 | 0.1% | 0.1% |  |
 | 137 | 0% | 0% |  |
 | 138 | 0% | 0% |  |
