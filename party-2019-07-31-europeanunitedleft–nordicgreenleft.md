@@ -26,7 +26,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -49,12 +49,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.1% | 100% |  |
+| 28 | 0.2% | 100% |  |
 | 29 | 0.7% | 99.8% |  |
-| 30 | 2% | 99.2% |  |
+| 30 | 2% | 99.1% |  |
 | 31 | 6% | 97% |  |
 | 32 | 11% | 91% |  |
-| 33 | 17% | 80% |  |
+| 33 | 17% | 79% |  |
 | 34 | 20% | 63% | Median |
 | 35 | 18% | 43% |  |
 | 36 | 13% | 25% |  |

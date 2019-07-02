@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -51,17 +51,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.7% | 99.9% |  |
-| 41 | 3% | 99.1% |  |
-| 42 | 8% | 96% |  |
+| 40 | 0.6% | 99.9% |  |
+| 41 | 3% | 99.2% |  |
+| 42 | 7% | 97% |  |
 | 43 | 13% | 89% |  |
 | 44 | 17% | 76% |  |
-| 45 | 19% | 59% | Median |
-| 46 | 18% | 40% |  |
+| 45 | 19% | 60% | Median |
+| 46 | 18% | 41% |  |
 | 47 | 12% | 22% |  |
 | 48 | 6% | 10% |  |
 | 49 | 3% | 4% |  |
-| 50 | 0.8% | 1.1% |  |
+| 50 | 0.9% | 1.1% |  |
 | 51 | 0.2% | 0.3% |  |
 | 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |

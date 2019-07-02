@@ -38,7 +38,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 9% | 29% |  |
 | 128 | 7% | 21% |  |
 | 129 | 5% | 14% |  |
-| 130 | 4% | 8% |  |
+| 130 | 4% | 9% |  |
 | 131 | 2% | 5% |  |
 | 132 | 1.3% | 3% |  |
 | 133 | 0.7% | 1.3% |  |
