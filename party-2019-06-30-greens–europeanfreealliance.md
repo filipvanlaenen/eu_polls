@@ -36,7 +36,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Plaid Cymru | GB-GBN | | 1 | 1 | 1 | 1 | 1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -59,17 +59,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 66 | 0.1% | 100% |  |
-| 67 | 0.7% | 99.9% |  |
-| 68 | 3% | 99.1% |  |
-| 69 | 8% | 96% |  |
+| 67 | 0.6% | 99.9% |  |
+| 68 | 3% | 99.2% |  |
+| 69 | 7% | 97% |  |
 | 70 | 13% | 89% |  |
 | 71 | 17% | 76% |  |
-| 72 | 19% | 59% | Median |
-| 73 | 18% | 40% |  |
+| 72 | 19% | 60% | Median |
+| 73 | 18% | 41% |  |
 | 74 | 12% | 22% |  |
 | 75 | 6% | 10% | Last Result |
 | 76 | 3% | 4% |  |
-| 77 | 0.8% | 1.1% |  |
+| 77 | 0.9% | 1.1% |  |
 | 78 | 0.2% | 0.3% |  |
 | 79 | 0% | 0.1% |  |
 | 80 | 0% | 0% |  |

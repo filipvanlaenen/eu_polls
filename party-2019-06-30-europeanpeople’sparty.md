@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |

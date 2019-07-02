@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **64** seats (+2 seats)
+Current median: **63** seats (+1 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 64 | 60–70 | 59–71 | 58–72 | 57–73 |
+| European Conservatives and Reformists | EU | 62 | 63 | 59–69 | 58–70 | 58–71 | 56–73 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Conservative Party | GB-GBN | | 4 | 4 | 4 | 4 | 4 |
@@ -53,27 +53,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0.1% | 100% |  |
-| 56 | 0.3% | 99.9% |  |
-| 57 | 0.9% | 99.6% |  |
-| 58 | 2% | 98.6% |  |
-| 59 | 5% | 96% |  |
-| 60 | 7% | 92% |  |
-| 61 | 10% | 85% |  |
-| 62 | 11% | 75% | Last Result |
-| 63 | 11% | 64% |  |
-| 64 | 9% | 53% | Median |
-| 65 | 8% | 44% |  |
-| 66 | 7% | 36% |  |
-| 67 | 6% | 29% |  |
-| 68 | 6% | 23% |  |
-| 69 | 6% | 17% |  |
-| 70 | 5% | 11% |  |
-| 71 | 3% | 6% |  |
-| 72 | 2% | 3% |  |
-| 73 | 0.8% | 1.1% |  |
-| 74 | 0.3% | 0.4% |  |
-| 75 | 0.1% | 0.1% |  |
-| 76 | 0% | 0% |  |
+| 54 | 0% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.5% | 99.8% |  |
+| 57 | 1.4% | 99.3% |  |
+| 58 | 3% | 98% |  |
+| 59 | 6% | 95% |  |
+| 60 | 9% | 89% |  |
+| 61 | 11% | 80% |  |
+| 62 | 11% | 69% | Last Result |
+| 63 | 10% | 58% | Median |
+| 64 | 8% | 48% |  |
+| 65 | 7% | 40% |  |
+| 66 | 6% | 33% |  |
+| 67 | 6% | 26% |  |
+| 68 | 6% | 20% |  |
+| 69 | 5% | 14% |  |
+| 70 | 4% | 8% |  |
+| 71 | 2% | 4% |  |
+| 72 | 1.1% | 2% |  |
+| 73 | 0.4% | 0.6% |  |
+| 74 | 0.1% | 0.2% |  |
+| 75 | 0% | 0% |  |
 
 
