@@ -18,9 +18,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 62 | 58–65 | 58–66 | 57–67 | 56–69 |
+| Renew Europe | EU | 108 | 62 | 59–65 | 58–66 | 57–67 | 56–69 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–11 | 5–11 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–11 | 5–11 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -54,7 +54,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -65,14 +65,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.1% | 100% |  |
-| 55 | 0.4% | 99.9% |  |
-| 56 | 1.2% | 99.5% |  |
-| 57 | 3% | 98% |  |
-| 58 | 6% | 95% |  |
+| 55 | 0.3% | 99.9% |  |
+| 56 | 1.1% | 99.6% |  |
+| 57 | 3% | 98.5% |  |
+| 58 | 5% | 96% |  |
 | 59 | 9% | 90% |  |
-| 60 | 13% | 80% |  |
-| 61 | 15% | 68% |  |
-| 62 | 15% | 53% | Median |
+| 60 | 12% | 81% |  |
+| 61 | 15% | 69% |  |
+| 62 | 15% | 54% | Median |
 | 63 | 13% | 39% |  |
 | 64 | 10% | 26% |  |
 | 65 | 7% | 16% |  |
