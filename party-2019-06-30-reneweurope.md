@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 117 | 113–120 | 113–121 | 112–122 | 111–124 |
+| Renew Europe | EU | 108 | 117 | 114–120 | 113–121 | 112–122 | 111–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 16 | 16 | 16 | 16 | 16 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–11 | 5–11 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -66,7 +66,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -78,14 +78,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 108 | 0% | 100% | Last Result |
 | 109 | 0.1% | 100% |  |
-| 110 | 0.4% | 99.9% |  |
-| 111 | 1.2% | 99.5% |  |
-| 112 | 3% | 98% |  |
-| 113 | 6% | 95% |  |
+| 110 | 0.3% | 99.9% |  |
+| 111 | 1.1% | 99.6% |  |
+| 112 | 3% | 98.5% |  |
+| 113 | 5% | 96% |  |
 | 114 | 9% | 90% |  |
-| 115 | 13% | 80% |  |
-| 116 | 15% | 68% |  |
-| 117 | 15% | 53% | Median |
+| 115 | 12% | 81% |  |
+| 116 | 15% | 69% |  |
+| 117 | 15% | 54% | Median |
 | 118 | 13% | 39% |  |
 | 119 | 10% | 26% |  |
 | 120 | 7% | 16% |  |
