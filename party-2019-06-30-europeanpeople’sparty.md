@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -82,23 +82,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0.2% | 99.9% |  |
 | 154 | 0.3% | 99.7% |  |
 | 155 | 0.6% | 99.4% |  |
-| 156 | 1.1% | 98.8% |  |
+| 156 | 1.2% | 98.8% |  |
 | 157 | 2% | 98% |  |
 | 158 | 3% | 96% |  |
-| 159 | 5% | 93% |  |
+| 159 | 5% | 92% |  |
 | 160 | 6% | 88% |  |
 | 161 | 8% | 82% |  |
 | 162 | 10% | 74% |  |
-| 163 | 11% | 65% |  |
-| 164 | 11% | 54% | Median |
-| 165 | 11% | 43% |  |
+| 163 | 11% | 64% |  |
+| 164 | 11% | 53% | Median |
+| 165 | 11% | 42% |  |
 | 166 | 9% | 32% |  |
 | 167 | 8% | 23% |  |
 | 168 | 6% | 15% |  |
 | 169 | 4% | 9% |  |
-| 170 | 3% | 5% |  |
-| 171 | 1.5% | 3% |  |
-| 172 | 0.8% | 1.4% |  |
+| 170 | 2% | 5% |  |
+| 171 | 1.4% | 3% |  |
+| 172 | 0.7% | 1.3% |  |
 | 173 | 0.4% | 0.6% |  |
 | 174 | 0.2% | 0.2% |  |
 | 175 | 0.1% | 0.1% |  |
