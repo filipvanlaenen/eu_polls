@@ -31,10 +31,10 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,16 +57,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.1% | 100% |  |
 | 92 | 0.2% | 99.9% |  |
 | 93 | 0.6% | 99.7% |  |
-| 94 | 1.2% | 99.1% |  |
+| 94 | 1.3% | 99.1% |  |
 | 95 | 2% | 98% |  |
-| 96 | 4% | 96% |  |
-| 97 | 6% | 92% |  |
-| 98 | 8% | 86% |  |
-| 99 | 10% | 78% |  |
+| 96 | 4% | 95% |  |
+| 97 | 6% | 91% |  |
+| 98 | 8% | 85% |  |
+| 99 | 10% | 77% |  |
 | 100 | 11% | 67% |  |
 | 101 | 12% | 56% | Median |
-| 102 | 11% | 45% |  |
-| 103 | 10% | 34% |  |
+| 102 | 11% | 44% |  |
+| 103 | 10% | 33% |  |
 | 104 | 8% | 24% |  |
 | 105 | 6% | 16% |  |
 | 106 | 4% | 10% |  |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 0.9% | 2% |  |
 | 110 | 0.5% | 0.8% |  |
 | 111 | 0.2% | 0.4% |  |
-| 112 | 0.1% | 0.2% |  |
+| 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0.1% |  |
 | 114 | 0% | 0% |  |
 | 115 | 0% | 0% |  |

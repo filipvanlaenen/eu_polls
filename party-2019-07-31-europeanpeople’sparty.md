@@ -38,7 +38,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | CDS–Partido Popular | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -70,23 +70,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 0.2% | 99.9% |  |
 | 115 | 0.3% | 99.7% |  |
 | 116 | 0.6% | 99.4% |  |
-| 117 | 1.1% | 98.8% |  |
+| 117 | 1.2% | 98.8% |  |
 | 118 | 2% | 98% |  |
 | 119 | 3% | 96% |  |
-| 120 | 5% | 93% |  |
+| 120 | 5% | 92% |  |
 | 121 | 6% | 88% |  |
 | 122 | 8% | 82% |  |
 | 123 | 10% | 74% |  |
-| 124 | 11% | 65% |  |
-| 125 | 11% | 54% | Median |
-| 126 | 11% | 43% |  |
+| 124 | 11% | 64% |  |
+| 125 | 11% | 53% | Median |
+| 126 | 11% | 42% |  |
 | 127 | 9% | 32% |  |
 | 128 | 8% | 23% |  |
 | 129 | 6% | 15% |  |
 | 130 | 4% | 9% |  |
-| 131 | 3% | 5% |  |
-| 132 | 1.5% | 3% |  |
-| 133 | 0.8% | 1.4% |  |
+| 131 | 2% | 5% |  |
+| 132 | 1.4% | 3% |  |
+| 133 | 0.7% | 1.3% |  |
 | 134 | 0.4% | 0.6% |  |
 | 135 | 0.2% | 0.2% |  |
 | 136 | 0.1% | 0.1% |  |
