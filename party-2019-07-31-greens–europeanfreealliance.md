@@ -25,7 +25,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 3 | 3 | 3 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–3 |
+| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
