@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 0.1% | 100% |  |
 | 110 | 0.3% | 99.9% |  |
 | 111 | 1.1% | 99.6% |  |
-| 112 | 3% | 98.5% |  |
+| 112 | 3% | 98% |  |
 | 113 | 6% | 96% |  |
 | 114 | 9% | 90% |  |
 | 115 | 13% | 81% |  |
@@ -91,7 +91,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 120 | 7% | 16% |  |
 | 121 | 4% | 9% |  |
 | 122 | 2% | 5% |  |
-| 123 | 1.3% | 2% |  |
+| 123 | 1.2% | 2% |  |
 | 124 | 0.6% | 1.1% |  |
 | 125 | 0.3% | 0.5% |  |
 | 126 | 0.1% | 0.2% |  |
