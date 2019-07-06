@@ -44,7 +44,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Το Ποτάμι | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Το Ποτάμι | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -61,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 2% | 98% |  |
 | 96 | 4% | 96% |  |
 | 97 | 6% | 92% |  |
-| 98 | 8% | 86% |  |
+| 98 | 8% | 87% |  |
 | 99 | 10% | 79% |  |
 | 100 | 11% | 69% |  |
 | 101 | 12% | 58% | Median |

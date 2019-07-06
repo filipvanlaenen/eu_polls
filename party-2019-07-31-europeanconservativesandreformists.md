@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 54 | 50–60 | 49–61 | 49–62 | 47–64 |
+| European Conservatives and Reformists | EU | 62 | 54 | 50–60 | 49–61 | 49–62 | 47–63 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -60,12 +60,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 8% | 47% |  |
 | 56 | 7% | 39% |  |
 | 57 | 6% | 32% |  |
-| 58 | 6% | 26% |  |
+| 58 | 6% | 25% |  |
 | 59 | 6% | 19% |  |
 | 60 | 5% | 13% |  |
-| 61 | 4% | 8% |  |
+| 61 | 4% | 7% |  |
 | 62 | 2% | 4% | Last Result |
-| 63 | 1.0% | 2% |  |
+| 63 | 1.0% | 1.5% |  |
 | 64 | 0.4% | 0.5% |  |
 | 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
