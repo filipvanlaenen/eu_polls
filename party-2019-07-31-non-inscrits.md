@@ -26,7 +26,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Χρυσή Αυγή | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Χρυσή Αυγή | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -44,7 +44,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
 | 17 | 0.5% | 99.9% |  |
-| 18 | 2% | 99.5% |  |
+| 18 | 2% | 99.4% |  |
 | 19 | 6% | 97% |  |
 | 20 | 12% | 91% |  |
 | 21 | 16% | 79% |  |
