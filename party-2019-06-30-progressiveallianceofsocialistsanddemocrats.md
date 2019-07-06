@@ -57,7 +57,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Το Ποτάμι | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Το Ποτάμι | GR | | 0 | 0 | 0 | 0 | 0 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -76,15 +76,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 137 | 4% | 96% |  |
 | 138 | 6% | 92% |  |
 | 139 | 8% | 86% |  |
-| 140 | 10% | 79% |  |
+| 140 | 10% | 78% |  |
 | 141 | 11% | 69% |  |
-| 142 | 12% | 58% | Median |
+| 142 | 12% | 57% | Median |
 | 143 | 11% | 46% |  |
 | 144 | 10% | 35% |  |
 | 145 | 8% | 25% |  |
 | 146 | 6% | 17% |  |
 | 147 | 4% | 11% |  |
-| 148 | 3% | 7% |  |
+| 148 | 3% | 6% |  |
 | 149 | 2% | 4% |  |
 | 150 | 1.0% | 2% |  |
 | 151 | 0.5% | 0.9% |  |
