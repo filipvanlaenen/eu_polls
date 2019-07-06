@@ -31,7 +31,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0.1% | 100% |  |
 | 55 | 0.3% | 99.9% |  |
 | 56 | 1.1% | 99.6% |  |
-| 57 | 3% | 98.5% |  |
+| 57 | 3% | 98% |  |
 | 58 | 6% | 96% |  |
 | 59 | 9% | 90% |  |
 | 60 | 13% | 81% |  |
