@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **24** seats (-32 seats)
+Current median: **23** seats (-33 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 24 | 21–28 | 20–29 | 19–30 | 18–31 |
+| Non-Inscrits | EU | 56 | 23 | 21–28 | 20–29 | 19–30 | 18–31 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -42,28 +42,28 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
 | 18 | 0.5% | 99.9% |  |
-| 19 | 2% | 99.5% |  |
+| 19 | 2% | 99.4% |  |
 | 20 | 6% | 97% |  |
-| 21 | 12% | 92% |  |
-| 22 | 16% | 80% |  |
-| 23 | 14% | 64% |  |
-| 24 | 9% | 50% | Median |
+| 21 | 13% | 91% |  |
+| 22 | 16% | 78% |  |
+| 23 | 13% | 62% | Median |
+| 24 | 9% | 49% |  |
 | 25 | 7% | 41% |  |
-| 26 | 7% | 34% |  |
-| 27 | 9% | 27% |  |
-| 28 | 8% | 18% |  |
-| 29 | 6% | 10% |  |
-| 30 | 3% | 4% |  |
-| 31 | 0.9% | 1.1% |  |
-| 32 | 0.2% | 0.3% |  |
+| 26 | 8% | 34% |  |
+| 27 | 9% | 26% |  |
+| 28 | 8% | 17% |  |
+| 29 | 5% | 9% |  |
+| 30 | 2% | 3% |  |
+| 31 | 0.8% | 1.0% |  |
+| 32 | 0.2% | 0.2% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |
 | 35 | 0% | 0% |  |
