@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **9 countries**:
+Members registered from **11 countries**:
 
-> DK, EE, HR, IE, LT, NL, PL, PT, SK
+> DK, EE, FR, GB, HR, IE, LT, NL, PL, PT, SK
 
 ## Seats
 
@@ -27,12 +27,17 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Partia Razem [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Traditional Unionist Voice [GB-NIR] (*) | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
+| Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
