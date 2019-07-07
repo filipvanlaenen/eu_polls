@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 165 | 160–169 | 159–170 | 157–171 | 155–173 |
+| European People’s Party | EU | 182 | 165 | 160–169 | 158–170 | 157–171 | 155–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–23 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
@@ -28,8 +28,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 4–6 | 3–7 | 3–8 |
-| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
+| Forza Italia | IT | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -82,21 +82,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0.1% | 99.9% |  |
 | 154 | 0.2% | 99.9% |  |
 | 155 | 0.4% | 99.7% |  |
-| 156 | 0.7% | 99.3% |  |
-| 157 | 1.3% | 98.6% |  |
+| 156 | 0.8% | 99.3% |  |
+| 157 | 1.4% | 98% |  |
 | 158 | 2% | 97% |  |
-| 159 | 3% | 95% |  |
-| 160 | 5% | 92% |  |
-| 161 | 7% | 87% |  |
-| 162 | 8% | 80% |  |
+| 159 | 4% | 95% |  |
+| 160 | 5% | 91% |  |
+| 161 | 7% | 86% |  |
+| 162 | 9% | 79% |  |
 | 163 | 10% | 71% |  |
-| 164 | 11% | 62% |  |
-| 165 | 11% | 51% | Median |
-| 166 | 10% | 40% |  |
+| 164 | 11% | 61% |  |
+| 165 | 11% | 50% | Median |
+| 166 | 10% | 39% |  |
 | 167 | 9% | 29% |  |
 | 168 | 7% | 20% |  |
 | 169 | 5% | 13% |  |
-| 170 | 4% | 8% |  |
+| 170 | 3% | 8% |  |
 | 171 | 2% | 4% |  |
 | 172 | 1.2% | 2% |  |
 | 173 | 0.6% | 1.1% |  |

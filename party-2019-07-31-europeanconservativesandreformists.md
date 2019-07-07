@@ -8,19 +8,20 @@ Members registered from **17 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **59** seats (-3 seats)
+Current median: **78** seats (+16 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, GR, IT, LT, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, GB, GR, IT, LT, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 59 | 55–65 | 54–66 | 53–67 | 52–68 |
+| European Conservatives and Reformists | EU | 62 | 78 | 73–84 | 72–86 | 71–87 | 69–90 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| Conservative Party | GB-GBN | | 19 | 16–22 | 16–23 | 16–24 | 15–24 |
+| Fratelli d’Italia | IT | | 5 | 4–7 | 4–8 | 4–8 | 3–8 |
 | Forum voor Democratie | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
@@ -52,27 +53,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 50 | 0.1% | 100% |  |
-| 51 | 0.3% | 99.9% |  |
-| 52 | 0.8% | 99.6% |  |
-| 53 | 2% | 98.8% |  |
-| 54 | 4% | 97% |  |
-| 55 | 7% | 92% |  |
-| 56 | 10% | 85% |  |
-| 57 | 11% | 75% |  |
-| 58 | 11% | 63% |  |
-| 59 | 9% | 53% | Median |
-| 60 | 8% | 43% |  |
-| 61 | 7% | 36% |  |
-| 62 | 6% | 29% | Last Result |
-| 63 | 6% | 23% |  |
-| 64 | 6% | 17% |  |
-| 65 | 5% | 11% |  |
-| 66 | 3% | 6% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.7% | 1.0% |  |
-| 69 | 0.2% | 0.3% |  |
-| 70 | 0.1% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 62 | 0% | 100% | Last Result |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.6% | 99.7% |  |
+| 70 | 1.2% | 99.1% |  |
+| 71 | 2% | 98% |  |
+| 72 | 3% | 96% |  |
+| 73 | 5% | 92% |  |
+| 74 | 6% | 87% |  |
+| 75 | 8% | 81% |  |
+| 76 | 8% | 73% |  |
+| 77 | 9% | 65% |  |
+| 78 | 9% | 56% | Median |
+| 79 | 8% | 48% |  |
+| 80 | 7% | 40% |  |
+| 81 | 7% | 32% |  |
+| 82 | 6% | 25% |  |
+| 83 | 5% | 19% |  |
+| 84 | 4% | 14% |  |
+| 85 | 3% | 10% |  |
+| 86 | 2% | 6% |  |
+| 87 | 2% | 4% |  |
+| 88 | 1.1% | 2% |  |
+| 89 | 0.6% | 1.1% |  |
+| 90 | 0.3% | 0.5% |  |
+| 91 | 0.1% | 0.2% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 

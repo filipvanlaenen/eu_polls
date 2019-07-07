@@ -19,8 +19,8 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 39 | 31–45 | 29–47 | 28–47 | 27–49 |
-| Brexit Party | GB-GBN | | 17 | 7–19 | 7–19 | 7–19 | 6–21 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| Brexit Party | GB-GBN | | 17 | 8–19 | 7–19 | 7–19 | 6–19 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -43,39 +43,39 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
 | 26 | 0.3% | 99.9% |  |
-| 27 | 0.9% | 99.5% |  |
-| 28 | 2% | 98.7% |  |
-| 29 | 3% | 97% |  |
-| 30 | 3% | 94% |  |
-| 31 | 3% | 91% |  |
-| 32 | 4% | 88% |  |
-| 33 | 4% | 84% |  |
-| 34 | 4% | 80% |  |
-| 35 | 4% | 76% |  |
-| 36 | 4% | 71% |  |
-| 37 | 5% | 67% |  |
-| 38 | 7% | 62% |  |
-| 39 | 9% | 55% | Median |
-| 40 | 9% | 46% |  |
-| 41 | 8% | 37% |  |
-| 42 | 6% | 29% |  |
-| 43 | 5% | 23% |  |
-| 44 | 5% | 19% |  |
+| 27 | 0.8% | 99.6% |  |
+| 28 | 2% | 98.8% |  |
+| 29 | 2% | 97% |  |
+| 30 | 3% | 95% |  |
+| 31 | 3% | 92% |  |
+| 32 | 3% | 90% |  |
+| 33 | 4% | 86% |  |
+| 34 | 4% | 83% |  |
+| 35 | 4% | 79% |  |
+| 36 | 4% | 76% |  |
+| 37 | 5% | 72% |  |
+| 38 | 8% | 66% |  |
+| 39 | 10% | 59% | Median |
+| 40 | 9% | 49% |  |
+| 41 | 8% | 39% |  |
+| 42 | 6% | 31% |  |
+| 43 | 5% | 25% |  |
+| 44 | 5% | 20% |  |
 | 45 | 5% | 14% |  |
 | 46 | 4% | 9% |  |
 | 47 | 3% | 5% |  |
 | 48 | 1.5% | 2% |  |
-| 49 | 0.6% | 0.9% |  |
-| 50 | 0.2% | 0.3% |  |
-| 51 | 0.1% | 0.1% |  |
+| 49 | 0.6% | 0.8% |  |
+| 50 | 0.2% | 0.2% |  |
+| 51 | 0% | 0.1% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% |  |
 | 54 | 0% | 0% |  |
