@@ -45,7 +45,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | CDS–Partido Popular | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,11 +55,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
+| 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV | LV | | 0 | 0 | 0 | 0 | 0 |
+| KPV LV | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,11 +78,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 152 | 0.1% | 100% |  |
+| 152 | 0% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.3% | 99.8% |  |
-| 155 | 0.5% | 99.5% |  |
-| 156 | 0.9% | 99.0% |  |
+| 154 | 0.2% | 99.8% |  |
+| 155 | 0.5% | 99.6% |  |
+| 156 | 0.9% | 99.1% |  |
 | 157 | 2% | 98% |  |
 | 158 | 3% | 97% |  |
 | 159 | 4% | 94% |  |
@@ -92,15 +92,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 10% | 69% |  |
 | 164 | 11% | 59% | Median |
 | 165 | 11% | 48% |  |
-| 166 | 10% | 38% |  |
-| 167 | 9% | 28% |  |
+| 166 | 10% | 37% |  |
+| 167 | 8% | 27% |  |
 | 168 | 7% | 19% |  |
-| 169 | 5% | 13% |  |
-| 170 | 3% | 8% |  |
+| 169 | 5% | 12% |  |
+| 170 | 3% | 7% |  |
 | 171 | 2% | 4% |  |
 | 172 | 1.1% | 2% |  |
-| 173 | 0.6% | 1.0% |  |
-| 174 | 0.3% | 0.5% |  |
+| 173 | 0.5% | 1.0% |  |
+| 174 | 0.2% | 0.4% |  |
 | 175 | 0.1% | 0.2% |  |
 | 176 | 0% | 0.1% |  |
 | 177 | 0% | 0% |  |

@@ -31,7 +31,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -85,12 +85,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 101 | 14% | 50% | Median |
 | 102 | 12% | 36% |  |
 | 103 | 9% | 24% |  |
-| 104 | 6% | 14% |  |
+| 104 | 6% | 15% |  |
 | 105 | 4% | 8% |  |
 | 106 | 2% | 4% |  |
 | 107 | 1.1% | 2% |  |
 | 108 | 0.6% | 1.0% | Last Result |
-| 109 | 0.2% | 0.4% |  |
+| 109 | 0.3% | 0.4% |  |
 | 110 | 0.1% | 0.2% |  |
 | 111 | 0% | 0.1% |  |
 | 112 | 0% | 0% |  |
