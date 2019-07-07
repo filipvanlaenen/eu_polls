@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **165** seats (-17 seats)
+Current median: **164** seats (-18 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 165 | 160–169 | 159–170 | 157–171 | 155–173 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–23 | 17–23 | 17–24 |
+| European People’s Party | EU | 182 | 164 | 160–169 | 158–170 | 157–171 | 155–173 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 11 | 8–12 | 8–12 | 7–13 | 7–13 |
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
-| Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 4–6 | 3–7 | 3–8 |
+| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -72,35 +72,35 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 152 | 0% | 100% |  |
+| 152 | 0.1% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.2% | 99.9% |  |
-| 155 | 0.4% | 99.7% |  |
-| 156 | 0.7% | 99.3% |  |
-| 157 | 1.3% | 98.6% |  |
-| 158 | 2% | 97% |  |
-| 159 | 3% | 95% |  |
-| 160 | 5% | 92% |  |
-| 161 | 7% | 87% |  |
-| 162 | 8% | 80% |  |
-| 163 | 10% | 71% |  |
-| 164 | 11% | 62% |  |
-| 165 | 11% | 51% | Median |
-| 166 | 10% | 40% |  |
-| 167 | 9% | 29% |  |
-| 168 | 7% | 20% |  |
-| 169 | 5% | 13% |  |
-| 170 | 4% | 8% |  |
+| 154 | 0.3% | 99.8% |  |
+| 155 | 0.5% | 99.6% |  |
+| 156 | 0.9% | 99.1% |  |
+| 157 | 2% | 98% |  |
+| 158 | 3% | 97% |  |
+| 159 | 4% | 94% |  |
+| 160 | 5% | 90% |  |
+| 161 | 7% | 85% |  |
+| 162 | 9% | 77% |  |
+| 163 | 10% | 69% |  |
+| 164 | 11% | 58% | Median |
+| 165 | 11% | 48% |  |
+| 166 | 10% | 37% |  |
+| 167 | 8% | 27% |  |
+| 168 | 7% | 19% |  |
+| 169 | 5% | 12% |  |
+| 170 | 3% | 7% |  |
 | 171 | 2% | 4% |  |
-| 172 | 1.2% | 2% |  |
-| 173 | 0.6% | 1.1% |  |
-| 174 | 0.3% | 0.5% |  |
+| 172 | 1.1% | 2% |  |
+| 173 | 0.5% | 0.9% |  |
+| 174 | 0.2% | 0.4% |  |
 | 175 | 0.1% | 0.2% |  |
 | 176 | 0% | 0.1% |  |
 | 177 | 0% | 0% |  |

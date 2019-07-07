@@ -51,7 +51,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
+| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -78,9 +78,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 152 | 0% | 100% |  |
+| 152 | 0.1% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.2% | 99.8% |  |
+| 154 | 0.3% | 99.8% |  |
 | 155 | 0.5% | 99.6% |  |
 | 156 | 0.9% | 99.1% |  |
 | 157 | 2% | 98% |  |
@@ -88,9 +88,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 4% | 94% |  |
 | 160 | 5% | 90% |  |
 | 161 | 7% | 85% |  |
-| 162 | 9% | 78% |  |
+| 162 | 9% | 77% |  |
 | 163 | 10% | 69% |  |
-| 164 | 11% | 59% | Median |
+| 164 | 11% | 58% | Median |
 | 165 | 11% | 48% |  |
 | 166 | 10% | 37% |  |
 | 167 | 8% | 27% |  |
@@ -99,7 +99,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 3% | 7% |  |
 | 171 | 2% | 4% |  |
 | 172 | 1.1% | 2% |  |
-| 173 | 0.5% | 1.0% |  |
+| 173 | 0.5% | 0.9% |  |
 | 174 | 0.2% | 0.4% |  |
 | 175 | 0.1% | 0.2% |  |
 | 176 | 0% | 0.1% |  |

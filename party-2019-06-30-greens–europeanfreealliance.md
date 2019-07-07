@@ -1,24 +1,24 @@
 # Greens–European Free Alliance
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, LT, LU, LV, NL, PT, SE
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, PT, SE
 
 ## Seats
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **61** seats (-14 seats)
+Current median: **66** seats (-9 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, IE, LT, LU, NL, PT, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, GB, IE, LT, LU, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 61 | 58–63 | 58–64 | 57–65 | 56–66 |
+| Greens–European Free Alliance | EU | 75 | 66 | 62–71 | 62–72 | 61–73 | 60–75 |
 | Bündnis 90/Die Grünen | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -27,18 +27,21 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Plaid Cymru | GB-GBN | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
+| Green Party | GB-GBN | | 0 | 0–2 | 0–3 | 0–4 | 0–6 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -55,26 +58,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0.1% | 100% |  |
-| 56 | 0.5% | 99.9% |  |
-| 57 | 3% | 99.4% |  |
-| 58 | 8% | 97% |  |
-| 59 | 14% | 89% |  |
-| 60 | 18% | 74% |  |
-| 61 | 19% | 56% | Median |
-| 62 | 17% | 37% |  |
-| 63 | 11% | 20% |  |
-| 64 | 6% | 9% |  |
-| 65 | 2% | 3% |  |
-| 66 | 0.8% | 1.0% |  |
-| 67 | 0.2% | 0.2% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
-| 71 | 0% | 0% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% | Last Result |
+| 59 | 0.2% | 100% |  |
+| 60 | 0.9% | 99.8% |  |
+| 61 | 3% | 98.9% |  |
+| 62 | 7% | 96% |  |
+| 63 | 10% | 89% |  |
+| 64 | 13% | 79% |  |
+| 65 | 13% | 66% |  |
+| 66 | 12% | 53% | Median |
+| 67 | 9% | 41% |  |
+| 68 | 7% | 32% |  |
+| 69 | 6% | 25% |  |
+| 70 | 5% | 18% |  |
+| 71 | 5% | 13% |  |
+| 72 | 4% | 8% |  |
+| 73 | 3% | 5% |  |
+| 74 | 1.3% | 2% |  |
+| 75 | 0.5% | 0.8% | Last Result |
+| 76 | 0.2% | 0.3% |  |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **101** seats (-7 seats)
+Current median: **113** seats (+5 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 101 | 97–104 | 96–105 | 96–106 | 94–108 |
+| Renew Europe | EU | 108 | 113 | 109–118 | 107–120 | 106–121 | 105–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
+| Liberal Democrats | GB-GBN | | 13 | 9–17 | 9–18 | 8–19 | 8–22 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
@@ -48,6 +49,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
+| Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -74,25 +76,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0.1% | 100% |  |
-| 94 | 0.5% | 99.8% |  |
-| 95 | 1.5% | 99.4% |  |
-| 96 | 3% | 98% |  |
-| 97 | 7% | 94% |  |
-| 98 | 10% | 88% |  |
-| 99 | 13% | 78% |  |
-| 100 | 15% | 65% |  |
-| 101 | 14% | 50% | Median |
-| 102 | 12% | 36% |  |
-| 103 | 9% | 24% |  |
-| 104 | 6% | 15% |  |
-| 105 | 4% | 8% |  |
-| 106 | 2% | 4% |  |
-| 107 | 1.1% | 2% |  |
-| 108 | 0.6% | 1.0% | Last Result |
-| 109 | 0.3% | 0.4% |  |
-| 110 | 0.1% | 0.2% |  |
-| 111 | 0% | 0.1% |  |
-| 112 | 0% | 0% |  |
+| 103 | 0.1% | 100% |  |
+| 104 | 0.3% | 99.9% |  |
+| 105 | 0.7% | 99.6% |  |
+| 106 | 2% | 98.8% |  |
+| 107 | 3% | 97% |  |
+| 108 | 4% | 94% | Last Result |
+| 109 | 6% | 90% |  |
+| 110 | 8% | 84% |  |
+| 111 | 10% | 75% |  |
+| 112 | 11% | 65% |  |
+| 113 | 11% | 54% | Median |
+| 114 | 10% | 43% |  |
+| 115 | 9% | 33% |  |
+| 116 | 7% | 25% |  |
+| 117 | 5% | 18% |  |
+| 118 | 4% | 12% |  |
+| 119 | 3% | 9% |  |
+| 120 | 2% | 6% |  |
+| 121 | 1.4% | 4% |  |
+| 122 | 0.9% | 2% |  |
+| 123 | 0.6% | 1.4% |  |
+| 124 | 0.4% | 0.8% |  |
+| 125 | 0.2% | 0.5% |  |
+| 126 | 0.1% | 0.2% |  |
+| 127 | 0.1% | 0.1% |  |
+| 128 | 0% | 0.1% |  |
+| 129 | 0% | 0% |  |
 
 

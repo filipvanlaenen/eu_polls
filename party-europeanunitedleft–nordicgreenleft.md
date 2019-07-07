@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 44 | 42–47 | 41–48 | 40–48 | 39–49 |
-| Die Linke | DE | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
+| European United Left–Nordic Green Left | EU | 41 | 44 | 41–46 | 41–47 | 40–48 | 39–49 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -51,26 +51,25 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.2% | 100% |  |
 | 39 | 0.8% | 99.8% |  |
-| 40 | 2% | 99.0% |  |
-| 41 | 6% | 97% | Last Result |
-| 42 | 11% | 91% |  |
-| 43 | 17% | 79% |  |
-| 44 | 19% | 62% | Median |
-| 45 | 18% | 43% |  |
-| 46 | 13% | 25% |  |
-| 47 | 7% | 13% |  |
-| 48 | 3% | 5% |  |
-| 49 | 1.3% | 2% |  |
-| 50 | 0.4% | 0.5% |  |
-| 51 | 0.1% | 0.1% |  |
-| 52 | 0% | 0% |  |
+| 40 | 3% | 98.9% |  |
+| 41 | 7% | 96% | Last Result |
+| 42 | 13% | 89% |  |
+| 43 | 18% | 77% |  |
+| 44 | 20% | 59% | Median |
+| 45 | 17% | 39% |  |
+| 46 | 12% | 21% |  |
+| 47 | 6% | 10% |  |
+| 48 | 2% | 3% |  |
+| 49 | 0.7% | 0.9% |  |
+| 50 | 0.2% | 0.2% |  |
+| 51 | 0% | 0% |  |
 
 
