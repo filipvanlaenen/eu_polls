@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **78** seats (+16 seats)
+Current median: **77** seats (+15 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 78 | 73–84 | 72–86 | 71–87 | 69–90 |
+| European Conservatives and Reformists | EU | 62 | 77 | 72–84 | 70–86 | 70–87 | 68–90 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Conservative Party | GB-GBN | | 19 | 16–22 | 16–23 | 16–24 | 15–24 |
-| Fratelli d’Italia | IT | | 5 | 4–7 | 4–8 | 4–8 | 3–8 |
+| Conservative Party | GB-GBN | | 17 | 15–22 | 15–23 | 14–24 | 13–24 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Forum voor Democratie | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -47,9 +47,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -57,29 +57,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0% | 100% |  |
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
-| 66 | 0% | 100% |  |
-| 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.6% | 99.7% |  |
-| 70 | 1.2% | 99.1% |  |
-| 71 | 2% | 98% |  |
-| 72 | 3% | 96% |  |
-| 73 | 5% | 92% |  |
-| 74 | 6% | 87% |  |
-| 75 | 8% | 81% |  |
-| 76 | 8% | 73% |  |
-| 77 | 9% | 65% |  |
-| 78 | 9% | 56% | Median |
-| 79 | 8% | 48% |  |
-| 80 | 7% | 40% |  |
-| 81 | 7% | 32% |  |
-| 82 | 6% | 25% |  |
-| 83 | 5% | 19% |  |
-| 84 | 4% | 14% |  |
-| 85 | 3% | 10% |  |
-| 86 | 2% | 6% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.1% | 2% |  |
+| 66 | 0.1% | 99.9% |  |
+| 67 | 0.3% | 99.8% |  |
+| 68 | 0.7% | 99.6% |  |
+| 69 | 1.4% | 98.9% |  |
+| 70 | 3% | 98% |  |
+| 71 | 4% | 95% |  |
+| 72 | 6% | 91% |  |
+| 73 | 7% | 85% |  |
+| 74 | 7% | 78% |  |
+| 75 | 8% | 71% |  |
+| 76 | 8% | 63% |  |
+| 77 | 8% | 56% | Median |
+| 78 | 8% | 48% |  |
+| 79 | 7% | 41% |  |
+| 80 | 7% | 33% |  |
+| 81 | 6% | 26% |  |
+| 82 | 5% | 20% |  |
+| 83 | 4% | 15% |  |
+| 84 | 3% | 11% |  |
+| 85 | 2% | 8% |  |
+| 86 | 2% | 5% |  |
+| 87 | 1.4% | 3% |  |
+| 88 | 0.9% | 2% |  |
 | 89 | 0.6% | 1.1% |  |
 | 90 | 0.3% | 0.5% |  |
 | 91 | 0.1% | 0.2% |  |

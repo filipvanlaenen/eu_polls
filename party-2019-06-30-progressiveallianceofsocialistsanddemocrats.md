@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **152** seats (-2 seats)
+Current median: **151** seats (-3 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 152 | 147–157 | 145–158 | 144–159 | 142–162 |
-| Labour Party | GB-GBN | | 20 | 17–22 | 16–22 | 16–23 | 15–24 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 146–156 | 144–157 | 143–159 | 141–161 |
+| Labour Party | GB-GBN | | 19 | 16–22 | 15–22 | 15–23 | 14–24 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
@@ -44,7 +44,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Progresīvie | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,6 +54,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Το Ποτάμι | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -68,32 +68,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0.1% | 100% |  |
-| 141 | 0.2% | 99.9% |  |
-| 142 | 0.4% | 99.7% |  |
-| 143 | 0.8% | 99.2% |  |
-| 144 | 1.5% | 98% |  |
-| 145 | 2% | 97% |  |
-| 146 | 4% | 94% |  |
-| 147 | 5% | 91% |  |
-| 148 | 7% | 85% |  |
-| 149 | 8% | 79% |  |
-| 150 | 10% | 70% |  |
-| 151 | 10% | 61% |  |
-| 152 | 10% | 51% | Median |
-| 153 | 9% | 40% |  |
-| 154 | 8% | 31% | Last Result |
-| 155 | 7% | 23% |  |
-| 156 | 5% | 16% |  |
-| 157 | 4% | 11% |  |
-| 158 | 3% | 7% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.0% | 2% |  |
-| 161 | 0.6% | 1.2% |  |
-| 162 | 0.3% | 0.6% |  |
-| 163 | 0.2% | 0.3% |  |
+| 138 | 0% | 100% |  |
+| 139 | 0.1% | 99.9% |  |
+| 140 | 0.3% | 99.8% |  |
+| 141 | 0.5% | 99.5% |  |
+| 142 | 1.0% | 99.0% |  |
+| 143 | 2% | 98% |  |
+| 144 | 3% | 96% |  |
+| 145 | 4% | 94% |  |
+| 146 | 5% | 90% |  |
+| 147 | 7% | 85% |  |
+| 148 | 8% | 78% |  |
+| 149 | 9% | 71% |  |
+| 150 | 10% | 62% |  |
+| 151 | 10% | 52% | Median |
+| 152 | 9% | 42% |  |
+| 153 | 8% | 33% |  |
+| 154 | 7% | 25% | Last Result |
+| 155 | 6% | 18% |  |
+| 156 | 4% | 12% |  |
+| 157 | 3% | 8% |  |
+| 158 | 2% | 5% |  |
+| 159 | 1.3% | 3% |  |
+| 160 | 0.8% | 2% |  |
+| 161 | 0.4% | 0.9% |  |
+| 162 | 0.2% | 0.4% |  |
+| 163 | 0.1% | 0.2% |  |
 | 164 | 0.1% | 0.1% |  |
-| 165 | 0% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 165 | 0% | 0% |  |
 
 
