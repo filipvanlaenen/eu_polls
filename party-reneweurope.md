@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **113** seats (+5 seats)
+Current median: **112** seats (+4 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 109–118 | 107–120 | 107–121 | 105–124 |
+| Renew Europe | EU | 108 | 112 | 108–117 | 107–119 | 106–120 | 104–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 12 | 10–15 | 9–18 | 9–18 | 8–22 |
+| Liberal Democrats | GB-GBN | | 12 | 9–15 | 8–18 | 8–18 | 8–22 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -66,41 +66,41 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 103 | 0.1% | 100% |  |
-| 104 | 0.3% | 99.9% |  |
-| 105 | 0.7% | 99.6% |  |
-| 106 | 1.4% | 98.9% |  |
-| 107 | 3% | 98% |  |
-| 108 | 4% | 95% | Last Result |
-| 109 | 6% | 91% |  |
-| 110 | 9% | 84% |  |
-| 111 | 10% | 76% |  |
-| 112 | 11% | 65% |  |
-| 113 | 11% | 54% | Median |
-| 114 | 10% | 43% |  |
-| 115 | 9% | 33% |  |
-| 116 | 7% | 24% |  |
-| 117 | 5% | 17% |  |
-| 118 | 4% | 12% |  |
-| 119 | 3% | 8% |  |
-| 120 | 2% | 5% |  |
-| 121 | 1.3% | 3% |  |
-| 122 | 0.8% | 2% |  |
-| 123 | 0.5% | 1.2% |  |
-| 124 | 0.3% | 0.7% |  |
-| 125 | 0.2% | 0.4% |  |
-| 126 | 0.1% | 0.2% |  |
-| 127 | 0.1% | 0.1% |  |
-| 128 | 0% | 0% |  |
+| 102 | 0.1% | 100% |  |
+| 103 | 0.2% | 99.9% |  |
+| 104 | 0.6% | 99.7% |  |
+| 105 | 1.3% | 99.1% |  |
+| 106 | 2% | 98% |  |
+| 107 | 4% | 95% |  |
+| 108 | 6% | 91% | Last Result |
+| 109 | 8% | 85% |  |
+| 110 | 10% | 77% |  |
+| 111 | 11% | 67% |  |
+| 112 | 11% | 56% | Median |
+| 113 | 10% | 45% |  |
+| 114 | 9% | 35% |  |
+| 115 | 7% | 26% |  |
+| 116 | 6% | 18% |  |
+| 117 | 4% | 13% |  |
+| 118 | 3% | 9% |  |
+| 119 | 2% | 6% |  |
+| 120 | 1.4% | 4% |  |
+| 121 | 0.9% | 2% |  |
+| 122 | 0.6% | 1.4% |  |
+| 123 | 0.4% | 0.8% |  |
+| 124 | 0.2% | 0.4% |  |
+| 125 | 0.1% | 0.2% |  |
+| 126 | 0.1% | 0.1% |  |
+| 127 | 0% | 0% |  |
 
 
