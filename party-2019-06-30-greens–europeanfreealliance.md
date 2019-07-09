@@ -30,12 +30,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Green Party | GB-GBN | | 1 | 0–4 | 0–6 | 0–6 | 0–6 |
+| Green Party | GB-GBN | | 1 | 0–4 | 0–5 | 0–6 | 0–6 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,19 +58,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
+| 59 | 0.2% | 100% |  |
 | 60 | 0.8% | 99.8% |  |
-| 61 | 3% | 99.1% |  |
-| 62 | 6% | 97% |  |
+| 61 | 3% | 99.0% |  |
+| 62 | 6% | 96% |  |
 | 63 | 9% | 91% |  |
 | 64 | 11% | 82% |  |
-| 65 | 12% | 71% |  |
-| 66 | 12% | 60% | Median |
-| 67 | 10% | 48% |  |
-| 68 | 9% | 38% |  |
-| 69 | 8% | 29% |  |
-| 70 | 7% | 22% |  |
-| 71 | 6% | 15% |  |
+| 65 | 12% | 70% |  |
+| 66 | 12% | 58% | Median |
+| 67 | 10% | 46% |  |
+| 68 | 8% | 37% |  |
+| 69 | 7% | 28% |  |
+| 70 | 7% | 21% |  |
+| 71 | 5% | 14% |  |
 | 72 | 4% | 9% |  |
 | 73 | 3% | 5% |  |
 | 74 | 1.3% | 2% |  |
