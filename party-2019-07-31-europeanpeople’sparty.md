@@ -19,7 +19,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 182 | 164 | 160–169 | 158–170 | 157–171 | 155–173 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–23 | 17–23 | 17–24 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | Partido Popular | ES | | 11 | 8–12 | 8–12 | 7–13 | 7–13 |
@@ -29,7 +29,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 3–7 | 3–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -86,22 +86,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 2% | 98% |  |
 | 158 | 3% | 97% |  |
 | 159 | 4% | 94% |  |
-| 160 | 5% | 90% |  |
+| 160 | 6% | 90% |  |
 | 161 | 7% | 85% |  |
-| 162 | 9% | 78% |  |
-| 163 | 10% | 69% |  |
-| 164 | 11% | 59% | Median |
-| 165 | 11% | 48% |  |
-| 166 | 10% | 37% |  |
-| 167 | 9% | 27% |  |
-| 168 | 7% | 19% |  |
-| 169 | 5% | 12% |  |
+| 162 | 9% | 77% |  |
+| 163 | 10% | 68% |  |
+| 164 | 11% | 58% | Median |
+| 165 | 11% | 47% |  |
+| 166 | 10% | 36% |  |
+| 167 | 8% | 26% |  |
+| 168 | 7% | 18% |  |
+| 169 | 5% | 11% |  |
 | 170 | 3% | 7% |  |
 | 171 | 2% | 4% |  |
-| 172 | 1.1% | 2% |  |
-| 173 | 0.6% | 1.0% |  |
-| 174 | 0.3% | 0.4% |  |
-| 175 | 0.1% | 0.2% |  |
+| 172 | 1.0% | 2% |  |
+| 173 | 0.5% | 0.9% |  |
+| 174 | 0.2% | 0.4% |  |
+| 175 | 0.1% | 0.1% |  |
 | 176 | 0% | 0.1% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |

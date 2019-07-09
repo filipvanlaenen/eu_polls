@@ -18,9 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 112 | 108–117 | 107–119 | 106–120 | 104–123 |
+| Renew Europe | EU | 108 | 112 | 108–117 | 106–119 | 105–120 | 104–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 12 | 9–15 | 8–18 | 8–18 | 8–22 |
+| Liberal Democrats | GB-GBN | | 12 | 8–16 | 8–18 | 8–18 | 8–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -77,30 +77,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 102 | 0.1% | 100% |  |
-| 103 | 0.2% | 99.9% |  |
-| 104 | 0.6% | 99.7% |  |
-| 105 | 1.3% | 99.1% |  |
-| 106 | 2% | 98% |  |
-| 107 | 4% | 95% |  |
-| 108 | 6% | 91% | Last Result |
-| 109 | 8% | 85% |  |
-| 110 | 10% | 77% |  |
-| 111 | 11% | 67% |  |
+| 103 | 0.3% | 99.9% |  |
+| 104 | 0.8% | 99.6% |  |
+| 105 | 2% | 98.8% |  |
+| 106 | 3% | 97% |  |
+| 107 | 4% | 94% |  |
+| 108 | 6% | 90% | Last Result |
+| 109 | 8% | 84% |  |
+| 110 | 10% | 76% |  |
+| 111 | 11% | 66% |  |
 | 112 | 11% | 56% | Median |
 | 113 | 10% | 45% |  |
 | 114 | 9% | 35% |  |
 | 115 | 7% | 26% |  |
-| 116 | 6% | 18% |  |
+| 116 | 6% | 19% |  |
 | 117 | 4% | 13% |  |
 | 118 | 3% | 9% |  |
 | 119 | 2% | 6% |  |
 | 120 | 1.4% | 4% |  |
 | 121 | 0.9% | 2% |  |
-| 122 | 0.6% | 1.4% |  |
-| 123 | 0.4% | 0.8% |  |
-| 124 | 0.2% | 0.4% |  |
+| 122 | 0.6% | 1.2% |  |
+| 123 | 0.3% | 0.7% |  |
+| 124 | 0.2% | 0.3% |  |
 | 125 | 0.1% | 0.2% |  |
-| 126 | 0.1% | 0.1% |  |
+| 126 | 0% | 0.1% |  |
 | 127 | 0% | 0% |  |
 
 
