@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **164** seats (-18 seats)
+Current median: **165** seats (-17 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 160–169 | 158–170 | 157–171 | 155–173 |
+| European People’s Party | EU | 182 | 165 | 160–169 | 158–170 | 157–171 | 155–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
@@ -39,8 +39,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Jaunā Vienotība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kristdemokraterna | SE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Kristdemokraterna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Mișcarea Populară | RO | | 2 | 2 | 2 | 2 | 2 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -51,7 +50,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -60,7 +60,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| KPV LV | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| KPV LV | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -81,26 +81,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 152 | 0% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
 | 154 | 0.2% | 99.8% |  |
-| 155 | 0.5% | 99.6% |  |
-| 156 | 0.9% | 99.1% |  |
-| 157 | 2% | 98% |  |
+| 155 | 0.4% | 99.6% |  |
+| 156 | 0.8% | 99.2% |  |
+| 157 | 1.4% | 98% |  |
 | 158 | 2% | 97% |  |
-| 159 | 4% | 94% |  |
-| 160 | 5% | 90% |  |
-| 161 | 7% | 85% |  |
-| 162 | 9% | 78% |  |
-| 163 | 10% | 69% |  |
-| 164 | 11% | 59% | Median |
-| 165 | 11% | 49% |  |
-| 166 | 10% | 38% |  |
-| 167 | 9% | 28% |  |
-| 168 | 7% | 19% |  |
-| 169 | 5% | 12% |  |
-| 170 | 3% | 7% |  |
+| 159 | 4% | 95% |  |
+| 160 | 5% | 91% |  |
+| 161 | 7% | 86% |  |
+| 162 | 8% | 79% |  |
+| 163 | 10% | 71% |  |
+| 164 | 11% | 61% |  |
+| 165 | 11% | 50% | Median |
+| 166 | 10% | 39% |  |
+| 167 | 9% | 29% |  |
+| 168 | 7% | 20% |  |
+| 169 | 5% | 13% |  |
+| 170 | 4% | 8% |  |
 | 171 | 2% | 4% |  |
-| 172 | 1.1% | 2% |  |
-| 173 | 0.6% | 1.0% |  |
-| 174 | 0.3% | 0.4% |  |
+| 172 | 1.2% | 2% |  |
+| 173 | 0.6% | 1.1% |  |
+| 174 | 0.3% | 0.5% |  |
 | 175 | 0.1% | 0.2% |  |
 | 176 | 0% | 0.1% |  |
 | 177 | 0% | 0% |  |

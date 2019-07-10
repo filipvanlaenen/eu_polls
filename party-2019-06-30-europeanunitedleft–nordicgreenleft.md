@@ -25,7 +25,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -58,18 +58,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.2% | 100% |  |
-| 39 | 0.8% | 99.8% |  |
-| 40 | 3% | 98.9% |  |
-| 41 | 7% | 96% | Last Result |
-| 42 | 13% | 89% |  |
-| 43 | 18% | 77% |  |
-| 44 | 20% | 59% | Median |
-| 45 | 17% | 39% |  |
-| 46 | 12% | 21% |  |
-| 47 | 6% | 10% |  |
+| 39 | 1.0% | 99.7% |  |
+| 40 | 3% | 98.7% |  |
+| 41 | 8% | 96% | Last Result |
+| 42 | 14% | 88% |  |
+| 43 | 19% | 74% |  |
+| 44 | 20% | 55% | Median |
+| 45 | 17% | 35% |  |
+| 46 | 11% | 18% |  |
+| 47 | 5% | 8% |  |
 | 48 | 2% | 3% |  |
-| 49 | 0.7% | 0.9% |  |
-| 50 | 0.2% | 0.2% |  |
+| 49 | 0.5% | 0.6% |  |
+| 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
 

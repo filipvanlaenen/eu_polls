@@ -20,7 +20,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 62 | 77 | 72–84 | 70–86 | 69–88 | 67–90 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Conservative Party | GB-GBN | | 17 | 15–23 | 14–24 | 13–24 | 11–24 |
+| Conservative Party | GB-GBN | | 17 | 15–23 | 14–24 | 13–24 | 12–24 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Forum voor Democratie | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,24 +59,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0.1% | 100% |  |
 | 66 | 0.2% | 99.9% |  |
 | 67 | 0.4% | 99.7% |  |
-| 68 | 0.8% | 99.4% |  |
-| 69 | 1.5% | 98.6% |  |
+| 68 | 0.8% | 99.3% |  |
+| 69 | 2% | 98.5% |  |
 | 70 | 3% | 97% |  |
 | 71 | 4% | 94% |  |
 | 72 | 6% | 90% |  |
-| 73 | 7% | 85% |  |
+| 73 | 7% | 84% |  |
 | 74 | 7% | 78% |  |
 | 75 | 7% | 71% |  |
-| 76 | 7% | 64% |  |
+| 76 | 7% | 63% |  |
 | 77 | 7% | 56% | Median |
 | 78 | 7% | 49% |  |
-| 79 | 7% | 42% |  |
+| 79 | 7% | 41% |  |
 | 80 | 7% | 34% |  |
 | 81 | 6% | 27% |  |
 | 82 | 5% | 21% |  |
 | 83 | 4% | 16% |  |
 | 84 | 3% | 12% |  |
-| 85 | 2% | 9% |  |
+| 85 | 2% | 8% |  |
 | 86 | 2% | 6% |  |
 | 87 | 2% | 4% |  |
 | 88 | 1.1% | 3% |  |
