@@ -21,8 +21,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 145–156 | 143–157 | 142–158 | 139–161 |
 | Labour Party | GB-GBN | | 19 | 15–21 | 14–22 | 12–22 | 10–23 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
+| Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 10–14 | 10–15 | 10–15 |
 | Partidul Social Democrat | RO | | 9 | 9 | 9 | 9 | 9 |
 | Partido Socialista | PT | | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
@@ -56,6 +56,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
+| Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
 | Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -67,12 +68,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 136 | 0% | 100% |  |
+| 136 | 0.1% | 100% |  |
 | 137 | 0.1% | 99.9% |  |
 | 138 | 0.2% | 99.8% |  |
 | 139 | 0.3% | 99.6% |  |
-| 140 | 0.5% | 99.3% |  |
-| 141 | 0.9% | 98.8% |  |
+| 140 | 0.6% | 99.3% |  |
+| 141 | 0.9% | 98.7% |  |
 | 142 | 1.4% | 98% |  |
 | 143 | 2% | 96% |  |
 | 144 | 3% | 94% |  |
@@ -82,18 +83,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 148 | 8% | 75% |  |
 | 149 | 9% | 67% |  |
 | 150 | 10% | 58% | Median |
-| 151 | 9% | 49% |  |
+| 151 | 9% | 48% |  |
 | 152 | 9% | 39% |  |
 | 153 | 8% | 30% |  |
 | 154 | 7% | 22% | Last Result |
-| 155 | 5% | 16% |  |
+| 155 | 5% | 15% |  |
 | 156 | 4% | 10% |  |
 | 157 | 3% | 7% |  |
 | 158 | 2% | 4% |  |
 | 159 | 1.0% | 2% |  |
-| 160 | 0.6% | 1.2% |  |
+| 160 | 0.6% | 1.1% |  |
 | 161 | 0.3% | 0.6% |  |
-| 162 | 0.2% | 0.3% |  |
+| 162 | 0.1% | 0.3% |  |
 | 163 | 0.1% | 0.1% |  |
 | 164 | 0% | 0% |  |
 
