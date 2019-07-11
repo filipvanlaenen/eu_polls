@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **165** seats (-17 seats)
+Current median: **164** seats (-18 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 165 | 160–169 | 158–170 | 157–171 | 155–173 |
+| European People’s Party | EU | 182 | 164 | 159–169 | 158–170 | 157–171 | 155–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
@@ -78,31 +78,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 152 | 0% | 100% |  |
+| 152 | 0.1% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.2% | 99.8% |  |
-| 155 | 0.4% | 99.6% |  |
-| 156 | 0.8% | 99.2% |  |
-| 157 | 1.4% | 98% |  |
-| 158 | 2% | 97% |  |
-| 159 | 4% | 95% |  |
-| 160 | 5% | 91% |  |
-| 161 | 7% | 86% |  |
-| 162 | 8% | 79% |  |
-| 163 | 10% | 71% |  |
-| 164 | 11% | 61% |  |
-| 165 | 11% | 50% | Median |
-| 166 | 10% | 39% |  |
-| 167 | 9% | 29% |  |
-| 168 | 7% | 20% |  |
-| 169 | 5% | 13% |  |
-| 170 | 4% | 8% |  |
-| 171 | 2% | 4% |  |
-| 172 | 1.2% | 2% |  |
-| 173 | 0.6% | 1.1% |  |
-| 174 | 0.3% | 0.5% |  |
-| 175 | 0.1% | 0.2% |  |
-| 176 | 0% | 0.1% |  |
+| 154 | 0.3% | 99.8% |  |
+| 155 | 0.5% | 99.5% |  |
+| 156 | 1.0% | 99.0% |  |
+| 157 | 2% | 98% |  |
+| 158 | 3% | 96% |  |
+| 159 | 4% | 93% |  |
+| 160 | 6% | 89% |  |
+| 161 | 7% | 84% |  |
+| 162 | 9% | 76% |  |
+| 163 | 10% | 67% |  |
+| 164 | 11% | 57% | Median |
+| 165 | 11% | 46% |  |
+| 166 | 10% | 35% |  |
+| 167 | 8% | 25% |  |
+| 168 | 6% | 17% |  |
+| 169 | 5% | 11% |  |
+| 170 | 3% | 6% |  |
+| 171 | 2% | 3% |  |
+| 172 | 0.9% | 2% |  |
+| 173 | 0.5% | 0.8% |  |
+| 174 | 0.2% | 0.3% |  |
+| 175 | 0.1% | 0.1% |  |
+| 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |
 | 179 | 0% | 0% |  |
