@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 78 | 73–85 | 71–86 | 70–88 | 69–90 |
+| European Conservatives and Reformists | EU | 62 | 78 | 73–84 | 71–86 | 71–87 | 69–90 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Conservative Party | GB-GBN | | 19 | 16–23 | 16–24 | 15–24 | 14–24 |
+| Conservative Party | GB-GBN | | 19 | 16–23 | 16–23 | 15–24 | 14–24 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
-| Forum voor Democratie | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
@@ -62,26 +62,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.3% | 99.9% |  |
 | 69 | 0.7% | 99.6% |  |
 | 70 | 1.4% | 98.9% |  |
-| 71 | 3% | 97% |  |
+| 71 | 3% | 98% |  |
 | 72 | 4% | 95% |  |
 | 73 | 5% | 91% |  |
-| 74 | 6% | 86% |  |
-| 75 | 7% | 80% |  |
+| 74 | 7% | 86% |  |
+| 75 | 7% | 79% |  |
 | 76 | 8% | 72% |  |
-| 77 | 8% | 65% |  |
-| 78 | 8% | 57% | Median |
-| 79 | 8% | 48% |  |
-| 80 | 8% | 40% |  |
-| 81 | 7% | 33% |  |
-| 82 | 6% | 26% |  |
-| 83 | 5% | 20% |  |
-| 84 | 4% | 15% |  |
-| 85 | 3% | 11% |  |
-| 86 | 3% | 7% |  |
-| 87 | 2% | 5% |  |
-| 88 | 1.3% | 3% |  |
-| 89 | 0.8% | 1.5% |  |
-| 90 | 0.4% | 0.7% |  |
+| 77 | 8% | 64% |  |
+| 78 | 8% | 55% | Median |
+| 79 | 8% | 47% |  |
+| 80 | 8% | 39% |  |
+| 81 | 7% | 32% |  |
+| 82 | 6% | 25% |  |
+| 83 | 5% | 19% |  |
+| 84 | 4% | 14% |  |
+| 85 | 3% | 10% |  |
+| 86 | 2% | 7% |  |
+| 87 | 2% | 4% |  |
+| 88 | 1.2% | 2% |  |
+| 89 | 0.7% | 1.3% |  |
+| 90 | 0.4% | 0.6% |  |
 | 91 | 0.2% | 0.3% |  |
 | 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0% |  |

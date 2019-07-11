@@ -22,15 +22,15 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Bündnis 90/Die Grünen | DE | | 24 | 22–26 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Green Party | GB-GBN | | 2 | 0–3 | 0–5 | 0–5 | 0–6 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Green Party | GB-GBN | | 1 | 0–3 | 0–3 | 0–5 | 0–6 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
@@ -59,22 +59,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
-| 59 | 0.4% | 99.9% |  |
-| 60 | 2% | 99.5% |  |
+| 59 | 0.5% | 99.9% |  |
+| 60 | 2% | 99.4% |  |
 | 61 | 4% | 98% |  |
 | 62 | 6% | 94% |  |
 | 63 | 9% | 88% |  |
 | 64 | 11% | 79% |  |
 | 65 | 12% | 68% |  |
 | 66 | 12% | 56% | Median |
-| 67 | 11% | 44% |  |
-| 68 | 9% | 33% |  |
-| 69 | 7% | 24% |  |
-| 70 | 6% | 16% |  |
-| 71 | 4% | 11% |  |
-| 72 | 3% | 6% |  |
+| 67 | 11% | 45% |  |
+| 68 | 9% | 34% |  |
+| 69 | 8% | 25% |  |
+| 70 | 6% | 17% |  |
+| 71 | 5% | 11% |  |
+| 72 | 3% | 7% |  |
 | 73 | 2% | 3% |  |
-| 74 | 0.9% | 1.4% |  |
+| 74 | 0.9% | 1.5% |  |
 | 75 | 0.4% | 0.5% | Last Result |
 | 76 | 0.1% | 0.2% |  |
 | 77 | 0% | 0% |  |
