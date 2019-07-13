@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,7 +58,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0% | 100% |  |
 | 65 | 0.1% | 100% |  |
 | 66 | 0.2% | 99.9% |  |
-| 67 | 0.4% | 99.7% |  |
+| 67 | 0.4% | 99.8% |  |
 | 68 | 0.8% | 99.4% |  |
 | 69 | 1.5% | 98.6% |  |
 | 70 | 3% | 97% |  |
@@ -76,9 +76,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 5% | 21% |  |
 | 83 | 4% | 16% |  |
 | 84 | 3% | 11% |  |
-| 85 | 2% | 8% |  |
+| 85 | 3% | 8% |  |
 | 86 | 2% | 6% |  |
-| 87 | 1.4% | 4% |  |
+| 87 | 1.5% | 4% |  |
 | 88 | 1.0% | 2% |  |
 | 89 | 0.7% | 1.3% |  |
 | 90 | 0.4% | 0.6% |  |

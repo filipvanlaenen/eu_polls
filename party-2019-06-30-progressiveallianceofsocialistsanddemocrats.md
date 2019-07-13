@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 145–156 | 144–157 | 143–159 | 140–161 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 145–156 | 144–158 | 143–159 | 140–161 |
 | Labour Party | GB-GBN | | 19 | 15–22 | 15–22 | 15–23 | 14–24 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
@@ -37,7 +37,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PRO România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -72,28 +72,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 0.1% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
 | 140 | 0.3% | 99.8% |  |
-| 141 | 0.6% | 99.4% |  |
-| 142 | 1.1% | 98.8% |  |
+| 141 | 0.6% | 99.5% |  |
+| 142 | 1.1% | 98.9% |  |
 | 143 | 2% | 98% |  |
 | 144 | 3% | 96% |  |
 | 145 | 4% | 93% |  |
-| 146 | 5% | 89% |  |
+| 146 | 5% | 90% |  |
 | 147 | 7% | 84% |  |
-| 148 | 8% | 77% |  |
-| 149 | 9% | 69% |  |
-| 150 | 9% | 60% |  |
-| 151 | 9% | 51% | Median |
+| 148 | 8% | 78% |  |
+| 149 | 9% | 70% |  |
+| 150 | 9% | 61% |  |
+| 151 | 9% | 52% | Median |
 | 152 | 9% | 42% |  |
 | 153 | 8% | 33% |  |
-| 154 | 7% | 24% | Last Result |
+| 154 | 7% | 25% | Last Result |
 | 155 | 6% | 18% |  |
-| 156 | 4% | 12% |  |
+| 156 | 4% | 13% |  |
 | 157 | 3% | 8% |  |
 | 158 | 2% | 5% |  |
 | 159 | 1.3% | 3% |  |
 | 160 | 0.8% | 2% |  |
-| 161 | 0.4% | 0.9% |  |
-| 162 | 0.2% | 0.4% |  |
+| 161 | 0.5% | 0.9% |  |
+| 162 | 0.2% | 0.5% |  |
 | 163 | 0.1% | 0.2% |  |
 | 164 | 0.1% | 0.1% |  |
 | 165 | 0% | 0% |  |
