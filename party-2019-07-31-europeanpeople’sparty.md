@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 160–169 | 158–170 | 157–171 | 155–173 |
+| European People’s Party | EU | 182 | 164 | 159–169 | 158–170 | 157–171 | 155–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
@@ -87,11 +87,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 3% | 97% |  |
 | 159 | 4% | 94% |  |
 | 160 | 6% | 90% |  |
-| 161 | 7% | 85% |  |
+| 161 | 7% | 84% |  |
 | 162 | 9% | 77% |  |
 | 163 | 10% | 68% |  |
-| 164 | 11% | 58% | Median |
-| 165 | 11% | 47% |  |
+| 164 | 11% | 57% | Median |
+| 165 | 11% | 46% |  |
 | 166 | 10% | 36% |  |
 | 167 | 8% | 26% |  |
 | 168 | 6% | 18% |  |
