@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 159–169 | 158–170 | 157–171 | 154–173 |
+| European People’s Party | EU | 182 | 164 | 159–168 | 158–170 | 157–171 | 154–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
@@ -45,7 +45,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| CDS–Partido Popular | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| CDS–Partido Popular | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -80,25 +80,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 152 | 0.1% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.3% | 99.8% |  |
-| 155 | 0.6% | 99.5% |  |
-| 156 | 1.1% | 98.9% |  |
+| 154 | 0.3% | 99.7% |  |
+| 155 | 0.6% | 99.4% |  |
+| 156 | 1.1% | 98.8% |  |
 | 157 | 2% | 98% |  |
 | 158 | 3% | 96% |  |
 | 159 | 4% | 93% |  |
 | 160 | 6% | 89% |  |
 | 161 | 8% | 83% |  |
 | 162 | 9% | 75% |  |
-| 163 | 10% | 66% |  |
-| 164 | 11% | 56% | Median |
-| 165 | 11% | 45% |  |
-| 166 | 10% | 34% |  |
+| 163 | 11% | 65% |  |
+| 164 | 11% | 55% | Median |
+| 165 | 11% | 44% |  |
+| 166 | 10% | 33% |  |
 | 167 | 8% | 24% |  |
 | 168 | 6% | 16% |  |
 | 169 | 4% | 10% |  |
 | 170 | 3% | 6% |  |
 | 171 | 2% | 3% |  |
-| 172 | 0.9% | 2% |  |
+| 172 | 0.8% | 1.5% |  |
 | 173 | 0.4% | 0.7% |  |
 | 174 | 0.2% | 0.3% |  |
 | 175 | 0.1% | 0.1% |  |
