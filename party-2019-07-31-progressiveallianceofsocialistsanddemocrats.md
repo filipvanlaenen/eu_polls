@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 145–156 | 143–157 | 142–159 | 139–161 |
-| Labour Party | GB-GBN | | 19 | 15–21 | 14–22 | 12–22 | 10–23 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 146–156 | 145–157 | 144–159 | 141–161 |
+| Labour Party | GB-GBN | | 19 | 16–21 | 15–22 | 15–22 | 15–23 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 10–14 | 10–15 | 10–15 |
@@ -32,11 +32,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
 | Socialdemokraterne | DK | | 4 | 4 | 4 | 4 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PRO România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -68,33 +68,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 136 | 0% | 100% |  |
-| 137 | 0.1% | 99.9% |  |
-| 138 | 0.2% | 99.8% |  |
-| 139 | 0.3% | 99.7% |  |
-| 140 | 0.5% | 99.4% |  |
-| 141 | 0.9% | 98.8% |  |
-| 142 | 1.4% | 98% |  |
-| 143 | 2% | 97% |  |
-| 144 | 3% | 95% |  |
-| 145 | 4% | 92% |  |
-| 146 | 5% | 88% |  |
-| 147 | 6% | 83% |  |
-| 148 | 8% | 76% |  |
-| 149 | 9% | 69% |  |
-| 150 | 9% | 60% |  |
-| 151 | 9% | 51% | Median |
-| 152 | 9% | 42% |  |
-| 153 | 8% | 33% |  |
-| 154 | 7% | 24% | Last Result |
-| 155 | 6% | 17% |  |
-| 156 | 4% | 12% |  |
+| 139 | 0.1% | 100% |  |
+| 140 | 0.2% | 99.9% |  |
+| 141 | 0.3% | 99.8% |  |
+| 142 | 0.7% | 99.4% |  |
+| 143 | 1.2% | 98.7% |  |
+| 144 | 2% | 98% |  |
+| 145 | 3% | 95% |  |
+| 146 | 5% | 92% |  |
+| 147 | 6% | 88% |  |
+| 148 | 8% | 82% |  |
+| 149 | 9% | 74% |  |
+| 150 | 10% | 65% |  |
+| 151 | 10% | 55% | Median |
+| 152 | 10% | 45% |  |
+| 153 | 9% | 35% |  |
+| 154 | 8% | 26% | Last Result |
+| 155 | 6% | 19% |  |
+| 156 | 5% | 13% |  |
 | 157 | 3% | 8% |  |
 | 158 | 2% | 5% |  |
-| 159 | 1.2% | 3% |  |
-| 160 | 0.7% | 1.4% |  |
-| 161 | 0.4% | 0.7% |  |
-| 162 | 0.2% | 0.3% |  |
+| 159 | 1.3% | 3% |  |
+| 160 | 0.7% | 2% |  |
+| 161 | 0.4% | 0.8% |  |
+| 162 | 0.2% | 0.4% |  |
 | 163 | 0.1% | 0.2% |  |
 | 164 | 0% | 0.1% |  |
 | 165 | 0% | 0% |  |

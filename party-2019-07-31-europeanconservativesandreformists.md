@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **78** seats (+16 seats)
+Current median: **80** seats (+18 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 78 | 73–84 | 71–86 | 70–87 | 69–90 |
+| European Conservatives and Reformists | EU | 62 | 80 | 73–86 | 72–88 | 71–89 | 69–91 |
 | Prawo i Sprawiedliwość | PL | | 26 | 23–32 | 23–32 | 22–32 | 22–33 |
-| Conservative Party | GB-GBN | | 19 | 16–23 | 16–23 | 15–24 | 14–24 |
+| Conservative Party | GB-GBN | | 21 | 16–24 | 15–24 | 15–24 | 14–24 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,30 +60,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0.1% | 100% |  |
 | 68 | 0.3% | 99.9% |  |
-| 69 | 0.7% | 99.6% |  |
-| 70 | 1.4% | 98.9% |  |
-| 71 | 3% | 97% |  |
-| 72 | 4% | 95% |  |
-| 73 | 5% | 91% |  |
-| 74 | 7% | 85% |  |
-| 75 | 8% | 79% |  |
-| 76 | 8% | 71% |  |
-| 77 | 8% | 63% |  |
-| 78 | 8% | 55% | Median |
-| 79 | 8% | 47% |  |
-| 80 | 7% | 39% |  |
-| 81 | 7% | 31% |  |
-| 82 | 6% | 25% |  |
-| 83 | 5% | 19% |  |
-| 84 | 4% | 14% |  |
-| 85 | 3% | 10% |  |
-| 86 | 2% | 6% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.1% | 2% |  |
-| 89 | 0.7% | 1.3% |  |
-| 90 | 0.4% | 0.6% |  |
-| 91 | 0.2% | 0.3% |  |
-| 92 | 0.1% | 0.1% |  |
-| 93 | 0% | 0% |  |
+| 69 | 0.6% | 99.6% |  |
+| 70 | 1.2% | 99.0% |  |
+| 71 | 2% | 98% |  |
+| 72 | 3% | 96% |  |
+| 73 | 4% | 93% |  |
+| 74 | 5% | 89% |  |
+| 75 | 5% | 84% |  |
+| 76 | 6% | 79% |  |
+| 77 | 7% | 73% |  |
+| 78 | 8% | 67% |  |
+| 79 | 8% | 59% |  |
+| 80 | 9% | 51% | Median |
+| 81 | 8% | 42% |  |
+| 82 | 7% | 34% |  |
+| 83 | 6% | 27% |  |
+| 84 | 5% | 22% |  |
+| 85 | 4% | 17% |  |
+| 86 | 4% | 13% |  |
+| 87 | 3% | 9% |  |
+| 88 | 2% | 6% |  |
+| 89 | 2% | 3% |  |
+| 90 | 0.9% | 2% |  |
+| 91 | 0.5% | 0.7% |  |
+| 92 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.1% |  |
+| 94 | 0% | 0% |  |
 
 
