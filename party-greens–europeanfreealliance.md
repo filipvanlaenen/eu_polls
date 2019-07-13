@@ -19,23 +19,23 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 75 | 66 | 62–71 | 61–72 | 61–73 | 60–75 |
-| Bündnis 90/Die Grünen | DE | | 24 | 22–26 | 22–27 | 22–27 | 21–27 |
+| Bündnis 90/Die Grünen | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| Green Party | GB-GBN | | 2 | 0–3 | 0–5 | 0–5 | 0–6 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Green Party | GB-GBN | | 1 | 0–4 | 0–5 | 0–6 | 0–6 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,32 +52,32 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
 | 59 | 0.4% | 99.9% |  |
-| 60 | 1.4% | 99.5% |  |
-| 61 | 3% | 98% |  |
+| 60 | 1.5% | 99.5% |  |
+| 61 | 4% | 98% |  |
 | 62 | 6% | 95% |  |
-| 63 | 8% | 89% |  |
-| 64 | 10% | 81% |  |
-| 65 | 12% | 71% |  |
-| 66 | 12% | 59% | Median |
-| 67 | 11% | 48% |  |
-| 68 | 10% | 37% |  |
-| 69 | 8% | 27% |  |
-| 70 | 6% | 19% |  |
-| 71 | 5% | 13% |  |
+| 63 | 9% | 88% |  |
+| 64 | 11% | 79% |  |
+| 65 | 12% | 68% |  |
+| 66 | 11% | 57% | Median |
+| 67 | 10% | 46% |  |
+| 68 | 9% | 36% |  |
+| 69 | 8% | 28% |  |
+| 70 | 6% | 20% |  |
+| 71 | 5% | 14% |  |
 | 72 | 4% | 8% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.2% | 2% |  |
-| 75 | 0.6% | 0.8% | Last Result |
-| 76 | 0.2% | 0.3% |  |
-| 77 | 0.1% | 0.1% |  |
+| 74 | 1.3% | 2% |  |
+| 75 | 0.5% | 0.8% | Last Result |
+| 76 | 0.2% | 0.2% |  |
+| 77 | 0% | 0.1% |  |
 | 78 | 0% | 0% |  |
 
 
