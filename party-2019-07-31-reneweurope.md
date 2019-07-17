@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 112 | 107–117 | 106–119 | 105–120 | 103–123 |
+| Renew Europe | EU | 108 | 112 | 107–117 | 106–118 | 105–120 | 103–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 12 | 8–16 | 8–18 | 8–19 | 8–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
@@ -47,7 +47,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| .Nowoczesna | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
+| .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -78,29 +78,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 102 | 0.1% | 100% |  |
 | 103 | 0.4% | 99.8% |  |
-| 104 | 1.0% | 99.4% |  |
+| 104 | 1.1% | 99.4% |  |
 | 105 | 2% | 98% |  |
-| 106 | 3% | 96% |  |
+| 106 | 4% | 96% |  |
 | 107 | 5% | 93% |  |
-| 108 | 7% | 88% | Last Result |
+| 108 | 7% | 87% | Last Result |
 | 109 | 8% | 81% |  |
-| 110 | 10% | 73% |  |
-| 111 | 10% | 63% |  |
-| 112 | 10% | 53% | Median |
-| 113 | 10% | 43% |  |
-| 114 | 9% | 33% |  |
-| 115 | 7% | 24% |  |
-| 116 | 5% | 17% |  |
-| 117 | 4% | 12% |  |
+| 110 | 10% | 72% |  |
+| 111 | 11% | 62% |  |
+| 112 | 11% | 52% | Median |
+| 113 | 10% | 41% |  |
+| 114 | 8% | 32% |  |
+| 115 | 7% | 23% |  |
+| 116 | 5% | 16% |  |
+| 117 | 4% | 11% |  |
 | 118 | 3% | 8% |  |
 | 119 | 2% | 5% |  |
-| 120 | 1.3% | 3% |  |
-| 121 | 0.9% | 2% |  |
-| 122 | 0.5% | 1.2% |  |
-| 123 | 0.3% | 0.6% |  |
-| 124 | 0.2% | 0.3% |  |
+| 120 | 1.2% | 3% |  |
+| 121 | 0.8% | 2% |  |
+| 122 | 0.5% | 1.0% |  |
+| 123 | 0.3% | 0.5% |  |
+| 124 | 0.1% | 0.3% |  |
 | 125 | 0.1% | 0.1% |  |
-| 126 | 0% | 0.1% |  |
-| 127 | 0% | 0% |  |
+| 126 | 0% | 0% |  |
 
 

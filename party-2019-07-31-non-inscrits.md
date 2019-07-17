@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **38** seats (-18 seats)
+Current median: **37** seats (-19 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 38 | 30–44 | 29–45 | 28–46 | 26–48 |
+| Non-Inscrits | EU | 56 | 37 | 29–42 | 28–43 | 28–44 | 26–45 |
 | Brexit Party | GB-GBN | | 15 | 7–18 | 7–19 | 7–19 | 6–19 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -30,7 +30,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
-| Kukiz’15 | PL | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
+| Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
@@ -50,30 +50,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.9% |  |
-| 27 | 1.3% | 99.5% |  |
-| 28 | 3% | 98% |  |
-| 29 | 4% | 96% |  |
-| 30 | 4% | 91% |  |
-| 31 | 4% | 87% |  |
-| 32 | 4% | 83% |  |
-| 33 | 4% | 79% |  |
-| 34 | 5% | 75% |  |
-| 35 | 5% | 71% |  |
-| 36 | 6% | 66% |  |
-| 37 | 7% | 60% |  |
-| 38 | 8% | 52% | Median |
-| 39 | 8% | 44% |  |
-| 40 | 7% | 36% |  |
-| 41 | 6% | 28% |  |
-| 42 | 5% | 22% |  |
-| 43 | 5% | 17% |  |
-| 44 | 4% | 13% |  |
-| 45 | 4% | 9% |  |
-| 46 | 3% | 5% |  |
-| 47 | 1.4% | 2% |  |
-| 48 | 0.6% | 0.9% |  |
-| 49 | 0.2% | 0.2% |  |
+| 26 | 0.5% | 99.9% |  |
+| 27 | 2% | 99.3% |  |
+| 28 | 4% | 98% |  |
+| 29 | 5% | 94% |  |
+| 30 | 6% | 89% |  |
+| 31 | 6% | 83% |  |
+| 32 | 5% | 77% |  |
+| 33 | 5% | 72% |  |
+| 34 | 4% | 67% |  |
+| 35 | 4% | 63% |  |
+| 36 | 5% | 59% |  |
+| 37 | 7% | 53% | Median |
+| 38 | 10% | 46% |  |
+| 39 | 10% | 36% |  |
+| 40 | 9% | 26% |  |
+| 41 | 7% | 17% |  |
+| 42 | 5% | 10% |  |
+| 43 | 3% | 5% |  |
+| 44 | 2% | 3% |  |
+| 45 | 0.7% | 1.0% |  |
+| 46 | 0.2% | 0.3% |  |
+| 47 | 0.1% | 0.1% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
