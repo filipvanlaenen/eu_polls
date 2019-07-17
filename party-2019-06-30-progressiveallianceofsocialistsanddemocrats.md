@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **151** seats (-3 seats)
+Current median: **150** seats (-4 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 145–156 | 144–158 | 143–159 | 141–161 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 145–155 | 144–157 | 142–158 | 140–160 |
 | Labour Party | GB-GBN | | 19 | 15–22 | 15–22 | 15–23 | 14–24 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
@@ -27,12 +27,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 9 | 9 | 9 | 9 | 9 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| Wiosna | PL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Българска социалистическа партия | BG | | 5 | 5 | 5 | 5 | 5 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
 | Socialdemokraterne | DK | | 4 | 4 | 4 | 4 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Wiosna | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -57,7 +57,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
-| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Το Ποτάμι | GR | | 0 | 0 | 0 | 0 | 0 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -70,32 +70,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 138 | 0.1% | 100% |  |
-| 139 | 0.1% | 99.9% |  |
-| 140 | 0.3% | 99.8% |  |
-| 141 | 0.6% | 99.5% |  |
-| 142 | 1.0% | 99.0% |  |
-| 143 | 2% | 98% |  |
-| 144 | 3% | 96% |  |
-| 145 | 4% | 94% |  |
-| 146 | 5% | 90% |  |
-| 147 | 6% | 85% |  |
-| 148 | 8% | 79% |  |
-| 149 | 9% | 71% |  |
-| 150 | 9% | 62% |  |
-| 151 | 9% | 53% | Median |
-| 152 | 9% | 43% |  |
-| 153 | 8% | 34% |  |
-| 154 | 7% | 26% | Last Result |
-| 155 | 6% | 19% |  |
-| 156 | 4% | 13% |  |
-| 157 | 3% | 9% |  |
-| 158 | 2% | 5% |  |
-| 159 | 1.4% | 3% |  |
-| 160 | 0.9% | 2% |  |
-| 161 | 0.5% | 1.0% |  |
-| 162 | 0.3% | 0.5% |  |
-| 163 | 0.1% | 0.2% |  |
-| 164 | 0.1% | 0.1% |  |
-| 165 | 0% | 0% |  |
+| 139 | 0.2% | 99.9% |  |
+| 140 | 0.4% | 99.7% |  |
+| 141 | 0.8% | 99.3% |  |
+| 142 | 1.3% | 98.5% |  |
+| 143 | 2% | 97% |  |
+| 144 | 3% | 95% |  |
+| 145 | 4% | 92% |  |
+| 146 | 6% | 87% |  |
+| 147 | 7% | 81% |  |
+| 148 | 8% | 74% |  |
+| 149 | 9% | 66% |  |
+| 150 | 10% | 56% | Median |
+| 151 | 10% | 47% |  |
+| 152 | 9% | 37% |  |
+| 153 | 8% | 28% |  |
+| 154 | 6% | 20% | Last Result |
+| 155 | 5% | 14% |  |
+| 156 | 4% | 9% |  |
+| 157 | 2% | 6% |  |
+| 158 | 1.5% | 3% |  |
+| 159 | 0.9% | 2% |  |
+| 160 | 0.5% | 1.0% |  |
+| 161 | 0.3% | 0.5% |  |
+| 162 | 0.1% | 0.2% |  |
+| 163 | 0.1% | 0.1% |  |
+| 164 | 0% | 0% |  |
 
 
