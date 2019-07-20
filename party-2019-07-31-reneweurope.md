@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 112 | 107–117 | 106–119 | 105–120 | 103–123 |
+| Renew Europe | EU | 108 | 112 | 107–118 | 106–119 | 105–121 | 103–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 8–16 | 8–18 | 8–19 | 6–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
@@ -62,7 +62,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților | RO | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -76,32 +76,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 101 | 0.1% | 100% |  |
+| 101 | 0% | 100% |  |
 | 102 | 0.2% | 99.9% |  |
 | 103 | 0.5% | 99.8% |  |
 | 104 | 1.1% | 99.3% |  |
 | 105 | 2% | 98% |  |
 | 106 | 3% | 96% |  |
-| 107 | 5% | 93% |  |
-| 108 | 6% | 88% | Last Result |
-| 109 | 7% | 82% |  |
+| 107 | 4% | 93% |  |
+| 108 | 6% | 89% | Last Result |
+| 109 | 7% | 83% |  |
 | 110 | 8% | 76% |  |
-| 111 | 9% | 67% |  |
-| 112 | 10% | 58% | Median |
-| 113 | 10% | 48% |  |
-| 114 | 9% | 38% |  |
-| 115 | 8% | 29% |  |
-| 116 | 6% | 21% |  |
-| 117 | 5% | 15% |  |
-| 118 | 3% | 10% |  |
-| 119 | 2% | 6% |  |
+| 111 | 9% | 68% |  |
+| 112 | 10% | 59% | Median |
+| 113 | 10% | 50% |  |
+| 114 | 9% | 40% |  |
+| 115 | 8% | 31% |  |
+| 116 | 7% | 22% |  |
+| 117 | 5% | 16% |  |
+| 118 | 4% | 11% |  |
+| 119 | 3% | 7% |  |
 | 120 | 2% | 4% |  |
-| 121 | 1.0% | 2% |  |
-| 122 | 0.6% | 1.3% |  |
-| 123 | 0.4% | 0.7% |  |
+| 121 | 1.1% | 3% |  |
+| 122 | 0.7% | 2% |  |
+| 123 | 0.4% | 0.8% |  |
 | 124 | 0.2% | 0.4% |  |
 | 125 | 0.1% | 0.2% |  |
-| 126 | 0% | 0.1% |  |
+| 126 | 0.1% | 0.1% |  |
 | 127 | 0% | 0% |  |
 
 
