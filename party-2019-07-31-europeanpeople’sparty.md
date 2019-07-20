@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **165** seats (-17 seats)
+Current median: **164** seats (-18 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 165 | 160–169 | 159–171 | 158–172 | 156–174 |
+| European People’s Party | EU | 182 | 164 | 160–169 | 159–170 | 157–171 | 155–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | Platforma Obywatelska | PL | | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
@@ -26,12 +26,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
 | Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Österreichische Volkspartei | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
 | Forza Italia | IT | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -45,7 +45,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| CDS–Partido Popular | PT | | 1 | 1 | 1 | 0–2 | 0–2 |
+| CDS–Partido Popular | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -78,30 +78,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 153 | 0% | 100% |  |
+| 153 | 0.1% | 100% |  |
 | 154 | 0.1% | 99.9% |  |
-| 155 | 0.2% | 99.9% |  |
-| 156 | 0.5% | 99.6% |  |
-| 157 | 1.0% | 99.1% |  |
-| 158 | 2% | 98% |  |
-| 159 | 3% | 96% |  |
-| 160 | 4% | 93% |  |
-| 161 | 6% | 89% |  |
-| 162 | 8% | 83% |  |
-| 163 | 10% | 75% |  |
-| 164 | 11% | 65% |  |
-| 165 | 11% | 54% | Median |
-| 166 | 11% | 43% |  |
-| 167 | 9% | 32% |  |
-| 168 | 8% | 22% |  |
-| 169 | 6% | 15% |  |
-| 170 | 4% | 9% |  |
-| 171 | 2% | 5% |  |
-| 172 | 1.4% | 3% |  |
-| 173 | 0.7% | 1.3% |  |
-| 174 | 0.3% | 0.6% |  |
+| 155 | 0.3% | 99.8% |  |
+| 156 | 0.7% | 99.4% |  |
+| 157 | 1.3% | 98.8% |  |
+| 158 | 2% | 97% |  |
+| 159 | 4% | 95% |  |
+| 160 | 5% | 92% |  |
+| 161 | 7% | 87% |  |
+| 162 | 9% | 80% |  |
+| 163 | 10% | 71% |  |
+| 164 | 11% | 61% | Median |
+| 165 | 11% | 49% |  |
+| 166 | 10% | 38% |  |
+| 167 | 9% | 28% |  |
+| 168 | 7% | 19% |  |
+| 169 | 5% | 12% |  |
+| 170 | 3% | 7% |  |
+| 171 | 2% | 4% |  |
+| 172 | 1.1% | 2% |  |
+| 173 | 0.6% | 1.0% |  |
+| 174 | 0.3% | 0.4% |  |
 | 175 | 0.1% | 0.2% |  |
-| 176 | 0.1% | 0.1% |  |
+| 176 | 0% | 0.1% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |
 | 179 | 0% | 0% |  |
