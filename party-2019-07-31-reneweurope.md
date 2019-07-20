@@ -62,7 +62,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților | RO | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -82,26 +82,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 1.1% | 99.3% |  |
 | 105 | 2% | 98% |  |
 | 106 | 3% | 96% |  |
-| 107 | 4% | 93% |  |
-| 108 | 6% | 89% | Last Result |
+| 107 | 5% | 93% |  |
+| 108 | 6% | 88% | Last Result |
 | 109 | 7% | 83% |  |
 | 110 | 8% | 76% |  |
 | 111 | 9% | 68% |  |
 | 112 | 10% | 59% | Median |
-| 113 | 10% | 50% |  |
-| 114 | 9% | 40% |  |
-| 115 | 8% | 31% |  |
-| 116 | 7% | 22% |  |
-| 117 | 5% | 16% |  |
-| 118 | 4% | 11% |  |
-| 119 | 3% | 7% |  |
+| 113 | 10% | 49% |  |
+| 114 | 9% | 39% |  |
+| 115 | 8% | 30% |  |
+| 116 | 6% | 21% |  |
+| 117 | 5% | 15% |  |
+| 118 | 4% | 10% |  |
+| 119 | 2% | 7% |  |
 | 120 | 2% | 4% |  |
 | 121 | 1.1% | 3% |  |
-| 122 | 0.7% | 2% |  |
+| 122 | 0.7% | 1.5% |  |
 | 123 | 0.4% | 0.8% |  |
 | 124 | 0.2% | 0.4% |  |
 | 125 | 0.1% | 0.2% |  |
-| 126 | 0.1% | 0.1% |  |
+| 126 | 0% | 0.1% |  |
 | 127 | 0% | 0% |  |
 
 

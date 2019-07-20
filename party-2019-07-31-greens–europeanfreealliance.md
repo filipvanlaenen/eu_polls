@@ -30,7 +30,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Green Party | GB-GBN | | 1 | 0–2 | 0–2 | 0–3 | 0–5 |
+| Green Party | GB-GBN | | 1 | 0–2 | 0–3 | 0–3 | 0–5 |
 | Green Party | IE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
@@ -61,12 +61,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.1% | 100% |  |
 | 57 | 0.5% | 99.8% |  |
 | 58 | 1.2% | 99.4% |  |
-| 59 | 2% | 98% |  |
+| 59 | 3% | 98% |  |
 | 60 | 4% | 96% |  |
 | 61 | 7% | 91% |  |
 | 62 | 9% | 84% |  |
 | 63 | 12% | 75% |  |
-| 64 | 13% | 64% |  |
+| 64 | 13% | 63% |  |
 | 65 | 13% | 50% | Median |
 | 66 | 12% | 37% |  |
 | 67 | 10% | 25% |  |
