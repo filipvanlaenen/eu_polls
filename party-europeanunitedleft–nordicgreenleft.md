@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **44** seats (+3 seats)
+Current median: **45** seats (+4 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 44 | 42–47 | 41–47 | 40–48 | 39–49 |
-| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
-| Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–48 | 41–49 | 40–50 |
+| Die Linke | DE | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
+| Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -30,20 +30,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Sinn Féin | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Sinn Féin | IE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partido Animalista Contra el Maltrato Animal | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -51,26 +50,25 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.6% | 99.8% |  |
-| 40 | 2% | 99.2% |  |
-| 41 | 6% | 97% | Last Result |
-| 42 | 11% | 91% |  |
-| 43 | 17% | 81% |  |
-| 44 | 20% | 64% | Median |
-| 45 | 18% | 44% |  |
-| 46 | 13% | 26% |  |
-| 47 | 8% | 13% |  |
-| 48 | 3% | 5% |  |
-| 49 | 1.1% | 1.5% |  |
-| 50 | 0.3% | 0.3% |  |
-| 51 | 0.1% | 0.1% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.6% | 99.9% |  |
+| 41 | 2% | 99.2% | Last Result |
+| 42 | 6% | 97% |  |
+| 43 | 12% | 91% |  |
+| 44 | 18% | 80% |  |
+| 45 | 21% | 62% | Median |
+| 46 | 19% | 41% |  |
+| 47 | 13% | 23% |  |
+| 48 | 7% | 10% |  |
+| 49 | 3% | 4% |  |
+| 50 | 0.8% | 1.0% |  |
+| 51 | 0.2% | 0.2% |  |
 | 52 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **37** seats (-19 seats)
+Current median: **36** seats (-20 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 37 | 29–42 | 28–44 | 28–45 | 26–47 |
-| Brexit Party | GB-GBN | | 15 | 7–18 | 7–19 | 7–19 | 6–19 |
+| Non-Inscrits | EU | 56 | 36 | 29–42 | 28–43 | 28–45 | 26–47 |
+| Brexit Party | GB-GBN | | 14 | 7–18 | 7–19 | 7–19 | 6–19 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–18 | 12–19 | 11–20 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -50,29 +50,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.9% |  |
-| 27 | 1.4% | 99.4% |  |
+| 26 | 0.5% | 99.9% |  |
+| 27 | 1.5% | 99.4% |  |
 | 28 | 3% | 98% |  |
 | 29 | 5% | 95% |  |
 | 30 | 6% | 90% |  |
 | 31 | 5% | 84% |  |
-| 32 | 4% | 79% |  |
-| 33 | 4% | 74% |  |
-| 34 | 4% | 70% |  |
-| 35 | 4% | 67% |  |
-| 36 | 6% | 62% |  |
-| 37 | 8% | 56% | Median |
-| 38 | 10% | 49% |  |
-| 39 | 10% | 39% |  |
-| 40 | 9% | 29% |  |
-| 41 | 7% | 21% |  |
-| 42 | 5% | 14% |  |
-| 43 | 3% | 9% |  |
-| 44 | 2% | 5% |  |
-| 45 | 1.4% | 3% |  |
-| 46 | 0.8% | 2% |  |
-| 47 | 0.5% | 0.9% |  |
-| 48 | 0.2% | 0.5% |  |
+| 32 | 5% | 78% |  |
+| 33 | 6% | 73% |  |
+| 34 | 6% | 68% |  |
+| 35 | 6% | 62% |  |
+| 36 | 7% | 55% | Median |
+| 37 | 8% | 49% |  |
+| 38 | 8% | 41% |  |
+| 39 | 8% | 32% |  |
+| 40 | 7% | 24% |  |
+| 41 | 6% | 17% |  |
+| 42 | 4% | 11% |  |
+| 43 | 3% | 7% |  |
+| 44 | 2% | 4% |  |
+| 45 | 1.2% | 3% |  |
+| 46 | 0.7% | 1.5% |  |
+| 47 | 0.4% | 0.8% |  |
+| 48 | 0.2% | 0.4% |  |
 | 49 | 0.1% | 0.2% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
