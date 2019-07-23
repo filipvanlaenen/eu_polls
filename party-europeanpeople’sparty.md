@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **164** seats (-18 seats)
+Current median: **166** seats (-16 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,34 +18,34 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 159–168 | 157–170 | 156–171 | 154–173 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
-| Platforma Obywatelska | PL | | 14 | 11–16 | 11–16 | 11–16 | 10–17 |
+| European People’s Party | EU | 182 | 166 | 161–171 | 160–172 | 159–173 | 157–175 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| Platforma Obywatelska | PL | | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
-| Partido Popular | ES | | 11 | 8–12 | 8–12 | 7–13 | 7–13 |
+| Partido Popular | ES | | 11 | 8–12 | 8–13 | 8–13 | 7–13 |
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
+| Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Forza Italia | IT | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Kristdemokraterna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Mișcarea Populară | RO | | 2 | 2 | 2 | 2 | 2 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
-| Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| CDS–Partido Popular | PT | | 1 | 1 | 1 | 0–2 | 0–2 |
+| CDS–Partido Popular | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -65,47 +65,43 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0% | 100% |  |
-| 152 | 0.1% | 99.9% |  |
-| 153 | 0.2% | 99.8% |  |
-| 154 | 0.4% | 99.6% |  |
-| 155 | 0.8% | 99.2% |  |
-| 156 | 1.3% | 98% |  |
-| 157 | 2% | 97% |  |
-| 158 | 3% | 95% |  |
-| 159 | 5% | 92% |  |
-| 160 | 7% | 87% |  |
-| 161 | 8% | 80% |  |
-| 162 | 10% | 72% |  |
-| 163 | 11% | 62% |  |
-| 164 | 11% | 52% | Median |
-| 165 | 10% | 41% |  |
-| 166 | 9% | 31% |  |
-| 167 | 7% | 22% |  |
-| 168 | 6% | 14% |  |
-| 169 | 4% | 9% |  |
-| 170 | 2% | 5% |  |
-| 171 | 1.4% | 3% |  |
-| 172 | 0.7% | 1.3% |  |
-| 173 | 0.3% | 0.6% |  |
-| 174 | 0.2% | 0.2% |  |
-| 175 | 0.1% | 0.1% |  |
-| 176 | 0% | 0% |  |
-| 177 | 0% | 0% |  |
-| 178 | 0% | 0% |  |
+| 155 | 0.1% | 100% |  |
+| 156 | 0.2% | 99.9% |  |
+| 157 | 0.5% | 99.7% |  |
+| 158 | 0.9% | 99.2% |  |
+| 159 | 2% | 98% |  |
+| 160 | 3% | 97% |  |
+| 161 | 4% | 94% |  |
+| 162 | 6% | 90% |  |
+| 163 | 8% | 84% |  |
+| 164 | 10% | 76% |  |
+| 165 | 11% | 66% |  |
+| 166 | 11% | 55% | Median |
+| 167 | 11% | 44% |  |
+| 168 | 10% | 33% |  |
+| 169 | 8% | 24% |  |
+| 170 | 6% | 16% |  |
+| 171 | 4% | 10% |  |
+| 172 | 3% | 6% |  |
+| 173 | 2% | 3% |  |
+| 174 | 0.9% | 2% |  |
+| 175 | 0.5% | 0.8% |  |
+| 176 | 0.2% | 0.4% |  |
+| 177 | 0.1% | 0.1% |  |
+| 178 | 0% | 0.1% |  |
 | 179 | 0% | 0% |  |
 | 180 | 0% | 0% |  |
 | 181 | 0% | 0% |  |

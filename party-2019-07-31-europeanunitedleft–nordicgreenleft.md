@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **45** seats (+4 seats)
+Current median: **46** seats (+5 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–48 | 41–49 | 40–50 |
+| European United Left–Nordic Green Left | EU | 41 | 46 | 43–48 | 42–49 | 42–50 | 41–51 |
 | Die Linke | DE | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Komunistická strana Čech a Moravy | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Sinn Féin | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -34,7 +35,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Sinn Féin | IE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,18 +57,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.6% | 99.9% |  |
-| 41 | 2% | 99.2% | Last Result |
-| 42 | 6% | 97% |  |
-| 43 | 12% | 91% |  |
-| 44 | 18% | 80% |  |
-| 45 | 21% | 62% | Median |
-| 46 | 19% | 41% |  |
-| 47 | 13% | 23% |  |
-| 48 | 7% | 10% |  |
-| 49 | 3% | 4% |  |
-| 50 | 0.8% | 1.0% |  |
-| 51 | 0.2% | 0.2% |  |
-| 52 | 0% | 0% |  |
+| 40 | 0.4% | 99.9% |  |
+| 41 | 1.4% | 99.5% | Last Result |
+| 42 | 4% | 98% |  |
+| 43 | 8% | 94% |  |
+| 44 | 14% | 86% |  |
+| 45 | 18% | 72% |  |
+| 46 | 19% | 54% | Median |
+| 47 | 16% | 35% |  |
+| 48 | 10% | 19% |  |
+| 49 | 5% | 8% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.7% | 0.8% |  |
+| 52 | 0.1% | 0.2% |  |
+| 53 | 0% | 0% |  |
 
 
