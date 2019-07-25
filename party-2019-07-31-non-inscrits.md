@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **37** seats (-19 seats)
+Current median: **35** seats (-21 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,25 +18,25 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 37 | 29–42 | 28–43 | 28–45 | 26–47 |
-| Brexit Party | GB-GBN | | 14 | 7–18 | 7–19 | 7–19 | 6–19 |
+| Non-Inscrits | EU | 56 | 35 | 28–41 | 27–42 | 27–44 | 25–46 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–18 | 12–19 | 11–20 |
+| Brexit Party | GB-GBN | | 12 | 7–18 | 7–19 | 7–19 | 6–19 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Živi zid | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 | Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -49,32 +49,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.5% | 99.9% |  |
-| 27 | 1.5% | 99.4% |  |
-| 28 | 3% | 98% |  |
-| 29 | 5% | 95% |  |
-| 30 | 6% | 90% |  |
-| 31 | 5% | 84% |  |
-| 32 | 5% | 78% |  |
-| 33 | 5% | 73% |  |
-| 34 | 5% | 68% |  |
-| 35 | 6% | 63% |  |
-| 36 | 7% | 57% |  |
-| 37 | 8% | 51% | Median |
-| 38 | 9% | 43% |  |
-| 39 | 9% | 34% |  |
-| 40 | 8% | 25% |  |
-| 41 | 6% | 18% |  |
-| 42 | 4% | 12% |  |
-| 43 | 3% | 8% |  |
-| 44 | 2% | 5% |  |
-| 45 | 1.2% | 3% |  |
-| 46 | 0.7% | 2% |  |
-| 47 | 0.4% | 0.8% |  |
-| 48 | 0.2% | 0.4% |  |
-| 49 | 0.1% | 0.2% |  |
-| 50 | 0.1% | 0.1% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.5% | 99.9% |  |
+| 26 | 1.5% | 99.4% |  |
+| 27 | 3% | 98% |  |
+| 28 | 5% | 95% |  |
+| 29 | 6% | 90% |  |
+| 30 | 6% | 84% |  |
+| 31 | 6% | 78% |  |
+| 32 | 7% | 71% |  |
+| 33 | 7% | 65% |  |
+| 34 | 7% | 58% |  |
+| 35 | 7% | 51% | Median |
+| 36 | 7% | 44% |  |
+| 37 | 7% | 38% |  |
+| 38 | 7% | 31% |  |
+| 39 | 7% | 23% |  |
+| 40 | 5% | 17% |  |
+| 41 | 4% | 11% |  |
+| 42 | 3% | 7% |  |
+| 43 | 2% | 5% |  |
+| 44 | 1.2% | 3% |  |
+| 45 | 0.7% | 2% |  |
+| 46 | 0.4% | 0.9% |  |
+| 47 | 0.2% | 0.4% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% |  |

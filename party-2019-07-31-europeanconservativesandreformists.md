@@ -24,9 +24,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Vox | ES | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
+| Vox | ES | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0.1% | 99.9% |  |
 | 68 | 0.3% | 99.8% |  |
 | 69 | 0.6% | 99.5% |  |
-| 70 | 1.0% | 98.9% |  |
+| 70 | 1.1% | 98.9% |  |
 | 71 | 2% | 98% |  |
 | 72 | 3% | 96% |  |
-| 73 | 4% | 94% |  |
-| 74 | 5% | 90% |  |
-| 75 | 6% | 85% |  |
-| 76 | 7% | 79% |  |
-| 77 | 8% | 72% |  |
-| 78 | 9% | 64% |  |
-| 79 | 9% | 55% | Median |
-| 80 | 9% | 46% |  |
-| 81 | 9% | 37% |  |
-| 82 | 8% | 29% |  |
+| 73 | 4% | 93% |  |
+| 74 | 5% | 89% |  |
+| 75 | 6% | 84% |  |
+| 76 | 7% | 78% |  |
+| 77 | 8% | 71% |  |
+| 78 | 9% | 63% |  |
+| 79 | 9% | 54% | Median |
+| 80 | 9% | 45% |  |
+| 81 | 8% | 37% |  |
+| 82 | 7% | 28% |  |
 | 83 | 6% | 21% |  |
-| 84 | 5% | 15% |  |
+| 84 | 5% | 14% |  |
 | 85 | 4% | 10% |  |
 | 86 | 2% | 6% |  |
 | 87 | 2% | 4% |  |
