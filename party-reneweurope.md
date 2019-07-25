@@ -18,23 +18,23 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 109–118 | 107–120 | 106–121 | 104–124 |
+| Renew Europe | EU | 108 | 113 | 108–118 | 107–119 | 106–121 | 105–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 8–16 | 8–18 | 8–19 | 8–21 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
-| Freie Demokratische Partei | DE | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| Liberal Democrats | GB-GBN | | 12 | 9–16 | 9–18 | 9–19 | 8–21 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–11 | 5–11 |
 | Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
-| ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| ANO 2011 | CZ | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| Lista Marjana Šarca | SI | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
-| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Centerpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Momentum Mozgalom | HU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Momentum Mozgalom | HU | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -43,14 +43,14 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,40 +66,40 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-06-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-06-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 103 | 0.1% | 100% |  |
-| 104 | 0.4% | 99.8% |  |
+| 104 | 0.3% | 99.9% |  |
 | 105 | 0.8% | 99.5% |  |
 | 106 | 2% | 98.7% |  |
 | 107 | 3% | 97% |  |
-| 108 | 4% | 95% | Last Result |
-| 109 | 5% | 91% |  |
-| 110 | 7% | 85% |  |
-| 111 | 9% | 78% |  |
-| 112 | 10% | 70% |  |
-| 113 | 11% | 59% | Median |
-| 114 | 11% | 49% |  |
-| 115 | 10% | 38% |  |
-| 116 | 8% | 28% |  |
-| 117 | 6% | 20% |  |
-| 118 | 5% | 14% |  |
-| 119 | 3% | 9% |  |
-| 120 | 2% | 6% |  |
-| 121 | 1.5% | 4% |  |
-| 122 | 1.0% | 2% |  |
-| 123 | 0.6% | 1.3% |  |
-| 124 | 0.3% | 0.7% |  |
-| 125 | 0.2% | 0.4% |  |
-| 126 | 0.1% | 0.2% |  |
+| 108 | 5% | 94% | Last Result |
+| 109 | 7% | 89% |  |
+| 110 | 9% | 82% |  |
+| 111 | 11% | 73% |  |
+| 112 | 11% | 62% |  |
+| 113 | 11% | 51% | Median |
+| 114 | 10% | 40% |  |
+| 115 | 8% | 30% |  |
+| 116 | 6% | 22% |  |
+| 117 | 5% | 15% |  |
+| 118 | 3% | 11% |  |
+| 119 | 2% | 7% |  |
+| 120 | 2% | 5% |  |
+| 121 | 1.2% | 3% |  |
+| 122 | 0.8% | 2% |  |
+| 123 | 0.5% | 1.0% |  |
+| 124 | 0.3% | 0.6% |  |
+| 125 | 0.1% | 0.3% |  |
+| 126 | 0.1% | 0.1% |  |
 | 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
 

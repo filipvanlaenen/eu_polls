@@ -21,7 +21,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 75 | 66 | 62–71 | 61–72 | 61–73 | 59–75 |
 | Bündnis 90/Die Grünen | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
-| Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -46,7 +46,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -60,23 +59,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
 | 59 | 0.5% | 99.9% |  |
-| 60 | 2% | 99.3% |  |
+| 60 | 2% | 99.4% |  |
 | 61 | 4% | 98% |  |
-| 62 | 7% | 93% |  |
-| 63 | 9% | 86% |  |
-| 64 | 11% | 77% |  |
-| 65 | 12% | 66% |  |
-| 66 | 11% | 54% | Median |
-| 67 | 9% | 44% |  |
-| 68 | 8% | 34% |  |
-| 69 | 7% | 26% |  |
-| 70 | 6% | 18% |  |
-| 71 | 5% | 12% |  |
-| 72 | 4% | 7% |  |
+| 62 | 7% | 94% |  |
+| 63 | 9% | 88% |  |
+| 64 | 11% | 78% |  |
+| 65 | 12% | 67% |  |
+| 66 | 11% | 56% | Median |
+| 67 | 10% | 45% |  |
+| 68 | 9% | 36% |  |
+| 69 | 7% | 27% |  |
+| 70 | 6% | 20% |  |
+| 71 | 5% | 13% |  |
+| 72 | 4% | 8% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.1% | 2% |  |
-| 75 | 0.4% | 0.6% | Last Result |
-| 76 | 0.1% | 0.2% |  |
-| 77 | 0% | 0% |  |
+| 74 | 1.2% | 2% |  |
+| 75 | 0.5% | 0.8% | Last Result |
+| 76 | 0.2% | 0.2% |  |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
 
 
