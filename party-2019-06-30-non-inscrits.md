@@ -24,7 +24,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -50,9 +50,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 0.8% | 99.7% |  |
-| 28 | 2% | 98.9% |  |
+| 26 | 0.2% | 99.9% |  |
+| 27 | 0.7% | 99.7% |  |
+| 28 | 2% | 99.0% |  |
 | 29 | 3% | 97% |  |
 | 30 | 3% | 94% |  |
 | 31 | 3% | 91% |  |
@@ -60,15 +60,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 4% | 84% |  |
 | 34 | 4% | 80% |  |
 | 35 | 4% | 76% |  |
-| 36 | 4% | 72% |  |
+| 36 | 4% | 73% |  |
 | 37 | 5% | 69% |  |
 | 38 | 7% | 64% |  |
-| 39 | 10% | 57% | Median |
-| 40 | 11% | 47% |  |
-| 41 | 11% | 36% |  |
-| 42 | 9% | 25% |  |
-| 43 | 7% | 16% |  |
-| 44 | 5% | 9% |  |
+| 39 | 10% | 58% | Median |
+| 40 | 11% | 48% |  |
+| 41 | 11% | 37% |  |
+| 42 | 9% | 26% |  |
+| 43 | 7% | 17% |  |
+| 44 | 5% | 10% |  |
 | 45 | 3% | 5% |  |
 | 46 | 1.3% | 2% |  |
 | 47 | 0.5% | 0.8% |  |
