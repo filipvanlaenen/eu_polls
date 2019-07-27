@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Parties currently not represented in the EP | EU | 0 | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,9 +46,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 31% | 34% |  |
-| 2 | 4% | 4% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 26% | 28% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 

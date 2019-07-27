@@ -35,7 +35,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PRO România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -52,7 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -70,14 +70,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 132 | 0% | 100% |  |
 | 133 | 0.1% | 99.9% |  |
-| 134 | 0.2% | 99.8% |  |
+| 134 | 0.2% | 99.9% |  |
 | 135 | 0.3% | 99.7% |  |
 | 136 | 0.6% | 99.4% |  |
 | 137 | 0.9% | 98.8% |  |
 | 138 | 1.4% | 98% |  |
 | 139 | 2% | 96% |  |
-| 140 | 3% | 95% |  |
-| 141 | 3% | 92% |  |
+| 140 | 3% | 94% |  |
+| 141 | 4% | 92% |  |
 | 142 | 4% | 88% |  |
 | 143 | 5% | 84% |  |
 | 144 | 6% | 79% |  |
@@ -85,12 +85,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 7% | 66% |  |
 | 147 | 8% | 59% |  |
 | 148 | 8% | 51% | Median |
-| 149 | 7% | 44% |  |
+| 149 | 7% | 43% |  |
 | 150 | 7% | 36% |  |
 | 151 | 6% | 29% |  |
-| 152 | 6% | 23% |  |
+| 152 | 5% | 22% |  |
 | 153 | 5% | 17% |  |
-| 154 | 4% | 13% | Last Result |
+| 154 | 4% | 12% | Last Result |
 | 155 | 3% | 9% |  |
 | 156 | 2% | 6% |  |
 | 157 | 1.5% | 4% |  |
