@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **167** seats (-15 seats)
+Current median: **168** seats (-14 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 167 | 162–171 | 161–173 | 160–174 | 158–176 |
+| European People’s Party | EU | 182 | 168 | 163–173 | 162–175 | 161–176 | 159–179 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
-| Platforma Obywatelska | PL | | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
+| Platforma Obywatelska | PL | | 16 | 13–18 | 12–19 | 12–19 | 11–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
 | Partido Popular | ES | | 11 | 9–12 | 8–13 | 8–13 | 8–13 |
 | Partidul Național Liberal | RO | | 10 | 10 | 10 | 10 | 10 |
@@ -45,6 +45,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | CDS–Partido Popular | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,7 +58,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
-| 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,33 +78,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 155 | 0% | 100% |  |
-| 156 | 0.1% | 99.9% |  |
-| 157 | 0.3% | 99.8% |  |
-| 158 | 0.6% | 99.5% |  |
-| 159 | 1.1% | 98.9% |  |
-| 160 | 2% | 98% |  |
-| 161 | 3% | 96% |  |
-| 162 | 5% | 93% |  |
-| 163 | 7% | 88% |  |
-| 164 | 9% | 81% |  |
-| 165 | 10% | 72% |  |
-| 166 | 11% | 62% |  |
-| 167 | 11% | 52% | Median |
-| 168 | 10% | 40% |  |
-| 169 | 9% | 30% |  |
-| 170 | 7% | 21% |  |
-| 171 | 5% | 14% |  |
-| 172 | 4% | 9% |  |
-| 173 | 2% | 5% |  |
-| 174 | 1.4% | 3% |  |
-| 175 | 0.7% | 1.4% |  |
-| 176 | 0.4% | 0.6% |  |
-| 177 | 0.2% | 0.3% |  |
-| 178 | 0.1% | 0.1% |  |
-| 179 | 0% | 0% |  |
-| 180 | 0% | 0% |  |
-| 181 | 0% | 0% |  |
+| 156 | 0% | 100% |  |
+| 157 | 0.1% | 99.9% |  |
+| 158 | 0.3% | 99.8% |  |
+| 159 | 0.6% | 99.5% |  |
+| 160 | 1.1% | 99.0% |  |
+| 161 | 2% | 98% |  |
+| 162 | 3% | 96% |  |
+| 163 | 5% | 93% |  |
+| 164 | 7% | 88% |  |
+| 165 | 8% | 81% |  |
+| 166 | 10% | 73% |  |
+| 167 | 10% | 63% |  |
+| 168 | 10% | 53% | Median |
+| 169 | 10% | 43% |  |
+| 170 | 8% | 33% |  |
+| 171 | 7% | 25% |  |
+| 172 | 5% | 18% |  |
+| 173 | 4% | 12% |  |
+| 174 | 3% | 8% |  |
+| 175 | 2% | 5% |  |
+| 176 | 1.3% | 3% |  |
+| 177 | 0.8% | 2% |  |
+| 178 | 0.5% | 1.0% |  |
+| 179 | 0.3% | 0.5% |  |
+| 180 | 0.1% | 0.3% |  |
+| 181 | 0.1% | 0.1% |  |
 | 182 | 0% | 0% | Last Result |
 
 
