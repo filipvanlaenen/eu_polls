@@ -38,7 +38,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | PRO România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 1.4% | 3% |  |
 | 158 | 0.8% | 2% |  |
 | 159 | 0.5% | 0.9% |  |
-| 160 | 0.2% | 0.4% |  |
+| 160 | 0.2% | 0.5% |  |
 | 161 | 0.1% | 0.2% |  |
 | 162 | 0.1% | 0.1% |  |
 | 163 | 0% | 0% |  |
