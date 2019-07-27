@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 108–118 | 106–120 | 105–121 | 104–123 |
+| Renew Europe | EU | 108 | 113 | 108–118 | 106–120 | 105–121 | 103–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 8–17 | 8–18 | 8–19 | 8–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
@@ -62,7 +62,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților | RO | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Più Europa | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -84,23 +84,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 107 | 4% | 95% |  |
 | 108 | 5% | 91% | Last Result |
 | 109 | 6% | 86% |  |
-| 110 | 8% | 79% |  |
-| 111 | 9% | 72% |  |
-| 112 | 10% | 63% |  |
-| 113 | 10% | 53% | Median |
-| 114 | 9% | 43% |  |
-| 115 | 8% | 34% |  |
-| 116 | 7% | 25% |  |
-| 117 | 6% | 18% |  |
-| 118 | 4% | 13% |  |
-| 119 | 3% | 8% |  |
-| 120 | 2% | 5% |  |
-| 121 | 1.4% | 3% |  |
-| 122 | 0.8% | 2% |  |
-| 123 | 0.4% | 0.9% |  |
-| 124 | 0.2% | 0.4% |  |
-| 125 | 0.1% | 0.2% |  |
-| 126 | 0% | 0.1% |  |
-| 127 | 0% | 0% |  |
+| 110 | 8% | 80% |  |
+| 111 | 9% | 73% |  |
+| 112 | 9% | 64% |  |
+| 113 | 10% | 55% | Median |
+| 114 | 9% | 45% |  |
+| 115 | 8% | 36% |  |
+| 116 | 7% | 27% |  |
+| 117 | 6% | 20% |  |
+| 118 | 5% | 14% |  |
+| 119 | 3% | 10% |  |
+| 120 | 2% | 6% |  |
+| 121 | 2% | 4% |  |
+| 122 | 1.0% | 2% |  |
+| 123 | 0.6% | 1.2% |  |
+| 124 | 0.3% | 0.6% |  |
+| 125 | 0.2% | 0.3% |  |
+| 126 | 0.1% | 0.1% |  |
+| 127 | 0% | 0.1% |  |
+| 128 | 0% | 0% |  |
 
 
