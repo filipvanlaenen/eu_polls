@@ -1,29 +1,28 @@
 # Renew Europe
 
-Members registered from **25 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SE, SI, SK
 
 ## Seats
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **113** seats (+5 seats)
+Current median: **105** seats (-3 seats)
 
-At least one member in **21 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 108–118 | 107–120 | 106–121 | 105–124 |
+| Renew Europe | EU | 108 | 105 | 100–110 | 99–112 | 98–113 | 97–116 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 12 | 9–16 | 9–18 | 9–19 | 8–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–11 | 5–11 |
-| Uniunea Salvați România–Partidul Libertății, Unității și Solidarității | RO | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -61,7 +60,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Alianța Liberalilor și Democraților | RO | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -76,31 +74,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 103 | 0.1% | 100% |  |
-| 104 | 0.3% | 99.9% |  |
-| 105 | 0.7% | 99.6% |  |
-| 106 | 2% | 98.8% |  |
-| 107 | 3% | 97% |  |
-| 108 | 5% | 94% | Last Result |
-| 109 | 7% | 90% |  |
-| 110 | 9% | 83% |  |
-| 111 | 10% | 74% |  |
-| 112 | 11% | 64% |  |
-| 113 | 11% | 53% | Median |
-| 114 | 10% | 42% |  |
-| 115 | 8% | 32% |  |
-| 116 | 7% | 24% |  |
-| 117 | 5% | 17% |  |
-| 118 | 4% | 12% |  |
-| 119 | 3% | 8% |  |
-| 120 | 2% | 5% |  |
-| 121 | 1.3% | 3% |  |
-| 122 | 0.9% | 2% |  |
-| 123 | 0.5% | 1.2% |  |
-| 124 | 0.3% | 0.7% |  |
-| 125 | 0.2% | 0.4% |  |
-| 126 | 0.1% | 0.2% |  |
-| 127 | 0% | 0.1% |  |
-| 128 | 0% | 0% |  |
+| 95 | 0.1% | 100% |  |
+| 96 | 0.3% | 99.9% |  |
+| 97 | 0.8% | 99.5% |  |
+| 98 | 2% | 98.8% |  |
+| 99 | 3% | 97% |  |
+| 100 | 5% | 94% |  |
+| 101 | 7% | 89% |  |
+| 102 | 9% | 83% |  |
+| 103 | 10% | 74% |  |
+| 104 | 11% | 63% |  |
+| 105 | 11% | 52% | Median |
+| 106 | 10% | 41% |  |
+| 107 | 8% | 31% |  |
+| 108 | 7% | 23% | Last Result |
+| 109 | 5% | 16% |  |
+| 110 | 4% | 11% |  |
+| 111 | 3% | 8% |  |
+| 112 | 2% | 5% |  |
+| 113 | 1.3% | 3% |  |
+| 114 | 0.8% | 2% |  |
+| 115 | 0.5% | 1.2% |  |
+| 116 | 0.3% | 0.6% |  |
+| 117 | 0.2% | 0.3% |  |
+| 118 | 0.1% | 0.2% |  |
+| 119 | 0% | 0.1% |  |
+| 120 | 0% | 0% |  |
 
 
