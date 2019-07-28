@@ -1,29 +1,30 @@
 # Renew Europe
 
-Members registered from **24 countries**:
+Members registered from **25 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **105** seats (-3 seats)
+Current median: **114** seats (+6 seats)
 
-At least one member in **20 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 105 | 100–110 | 98–112 | 97–113 | 95–115 |
+| Renew Europe | EU | 108 | 114 | 108–119 | 107–120 | 106–122 | 104–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 8–17 | 8–18 | 8–19 | 8–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
 | Freie Demokratische Partei | DE | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
@@ -36,6 +37,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
+| Partidul Libertății, Unității și Solidarității | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -74,32 +76,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0% | 100% |  |
-| 94 | 0.2% | 99.9% |  |
-| 95 | 0.4% | 99.8% |  |
-| 96 | 0.9% | 99.4% |  |
-| 97 | 2% | 98.5% |  |
-| 98 | 3% | 97% |  |
-| 99 | 4% | 94% |  |
-| 100 | 5% | 90% |  |
-| 101 | 7% | 85% |  |
-| 102 | 8% | 79% |  |
-| 103 | 9% | 71% |  |
-| 104 | 9% | 62% |  |
-| 105 | 10% | 53% | Median |
-| 106 | 9% | 43% |  |
-| 107 | 8% | 34% |  |
-| 108 | 7% | 26% | Last Result |
-| 109 | 6% | 19% |  |
-| 110 | 4% | 13% |  |
-| 111 | 3% | 8% |  |
-| 112 | 2% | 5% |  |
-| 113 | 1.4% | 3% |  |
-| 114 | 0.8% | 2% |  |
-| 115 | 0.5% | 0.9% |  |
-| 116 | 0.2% | 0.4% |  |
-| 117 | 0.1% | 0.2% |  |
-| 118 | 0.1% | 0.1% |  |
-| 119 | 0% | 0% |  |
+| 102 | 0.1% | 100% |  |
+| 103 | 0.2% | 99.9% |  |
+| 104 | 0.5% | 99.7% |  |
+| 105 | 1.1% | 99.1% |  |
+| 106 | 2% | 98% |  |
+| 107 | 3% | 96% |  |
+| 108 | 4% | 93% | Last Result |
+| 109 | 6% | 89% |  |
+| 110 | 7% | 83% |  |
+| 111 | 8% | 77% |  |
+| 112 | 9% | 69% |  |
+| 113 | 9% | 60% |  |
+| 114 | 9% | 50% | Median |
+| 115 | 9% | 41% |  |
+| 116 | 8% | 32% |  |
+| 117 | 7% | 24% |  |
+| 118 | 5% | 17% |  |
+| 119 | 4% | 12% |  |
+| 120 | 3% | 8% |  |
+| 121 | 2% | 5% |  |
+| 122 | 1.3% | 3% |  |
+| 123 | 0.8% | 2% |  |
+| 124 | 0.4% | 0.8% |  |
+| 125 | 0.2% | 0.4% |  |
+| 126 | 0.1% | 0.2% |  |
+| 127 | 0% | 0.1% |  |
+| 128 | 0% | 0% |  |
 
 
