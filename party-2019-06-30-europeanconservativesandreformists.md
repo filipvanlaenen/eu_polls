@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 79 | 73–86 | 72–87 | 70–88 | 68–91 |
+| European Conservatives and Reformists | EU | 62 | 79 | 73–85 | 71–87 | 70–88 | 68–90 |
 | Prawo i Sprawiedliwość | PL | | 29 | 23–32 | 23–32 | 22–32 | 22–33 |
 | Conservative Party | GB-GBN | | 17 | 15–23 | 14–23 | 13–24 | 12–24 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
@@ -29,7 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
@@ -57,34 +57,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0% | 100% |  |
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
-| 66 | 0.1% | 100% |  |
-| 67 | 0.2% | 99.9% |  |
-| 68 | 0.4% | 99.7% |  |
-| 69 | 0.7% | 99.3% |  |
-| 70 | 1.2% | 98.6% |  |
+| 66 | 0.1% | 99.9% |  |
+| 67 | 0.2% | 99.8% |  |
+| 68 | 0.4% | 99.6% |  |
+| 69 | 0.8% | 99.2% |  |
+| 70 | 1.4% | 98% |  |
 | 71 | 2% | 97% |  |
-| 72 | 3% | 96% |  |
-| 73 | 4% | 93% |  |
-| 74 | 4% | 89% |  |
-| 75 | 5% | 85% |  |
-| 76 | 6% | 79% |  |
-| 77 | 7% | 73% |  |
-| 78 | 8% | 66% |  |
-| 79 | 8% | 58% | Median |
-| 80 | 9% | 50% |  |
-| 81 | 8% | 41% |  |
-| 82 | 7% | 33% |  |
-| 83 | 6% | 26% |  |
-| 84 | 5% | 20% |  |
-| 85 | 4% | 14% |  |
-| 86 | 3% | 10% |  |
-| 87 | 3% | 7% |  |
+| 72 | 3% | 95% |  |
+| 73 | 4% | 92% |  |
+| 74 | 5% | 88% |  |
+| 75 | 6% | 84% |  |
+| 76 | 6% | 78% |  |
+| 77 | 7% | 72% |  |
+| 78 | 8% | 64% |  |
+| 79 | 8% | 56% | Median |
+| 80 | 8% | 48% |  |
+| 81 | 8% | 39% |  |
+| 82 | 7% | 31% |  |
+| 83 | 6% | 24% |  |
+| 84 | 5% | 18% |  |
+| 85 | 4% | 13% |  |
+| 86 | 3% | 9% |  |
+| 87 | 2% | 6% |  |
 | 88 | 2% | 4% |  |
-| 89 | 1.2% | 2% |  |
-| 90 | 0.7% | 1.3% |  |
-| 91 | 0.3% | 0.6% |  |
-| 92 | 0.2% | 0.2% |  |
-| 93 | 0.1% | 0.1% |  |
+| 89 | 1.0% | 2% |  |
+| 90 | 0.6% | 1.1% |  |
+| 91 | 0.3% | 0.5% |  |
+| 92 | 0.1% | 0.2% |  |
+| 93 | 0% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 
