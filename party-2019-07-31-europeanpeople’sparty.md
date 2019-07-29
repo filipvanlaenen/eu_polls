@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 159–169 | 158–170 | 156–172 | 154–174 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–23 | 18–23 | 18–24 |
+| European People’s Party | EU | 182 | 164 | 159–169 | 158–170 | 157–172 | 155–174 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 18–22 | 18–23 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 16 | 13–18 | 12–19 | 12–20 | 11–21 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | Partido Popular | ES | | 11 | 9–12 | 8–13 | 8–13 | 8–13 |
@@ -27,12 +27,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Forza Italia | IT | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Hrvatska demokratska zajednica | HR | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -56,7 +56,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -78,32 +78,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 152 | 0.1% | 100% |  |
-| 153 | 0.2% | 99.9% |  |
-| 154 | 0.3% | 99.7% |  |
-| 155 | 0.7% | 99.4% |  |
-| 156 | 1.3% | 98.7% |  |
-| 157 | 2% | 97% |  |
-| 158 | 4% | 95% |  |
-| 159 | 5% | 92% |  |
-| 160 | 7% | 87% |  |
-| 161 | 8% | 80% |  |
-| 162 | 10% | 71% |  |
-| 163 | 10% | 62% |  |
-| 164 | 10% | 52% | Median |
-| 165 | 10% | 41% |  |
-| 166 | 8% | 32% |  |
+| 152 | 0% | 100% |  |
+| 153 | 0.1% | 99.9% |  |
+| 154 | 0.3% | 99.8% |  |
+| 155 | 0.6% | 99.5% |  |
+| 156 | 1.1% | 98.9% |  |
+| 157 | 2% | 98% |  |
+| 158 | 3% | 96% |  |
+| 159 | 5% | 93% |  |
+| 160 | 6% | 88% |  |
+| 161 | 8% | 82% |  |
+| 162 | 10% | 74% |  |
+| 163 | 10% | 64% |  |
+| 164 | 11% | 54% | Median |
+| 165 | 10% | 43% |  |
+| 166 | 9% | 33% |  |
 | 167 | 7% | 24% |  |
-| 168 | 5% | 17% |  |
+| 168 | 6% | 17% |  |
 | 169 | 4% | 11% |  |
 | 170 | 3% | 7% |  |
 | 171 | 2% | 4% |  |
 | 172 | 1.2% | 3% |  |
-| 173 | 0.7% | 1.5% |  |
+| 173 | 0.7% | 1.4% |  |
 | 174 | 0.4% | 0.8% |  |
 | 175 | 0.2% | 0.4% |  |
 | 176 | 0.1% | 0.2% |  |
-| 177 | 0.1% | 0.1% |  |
+| 177 | 0% | 0.1% |  |
 | 178 | 0% | 0% |  |
 | 179 | 0% | 0% |  |
 | 180 | 0% | 0% |  |
