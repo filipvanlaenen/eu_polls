@@ -47,7 +47,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -70,12 +70,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 135 | 0.1% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
+| 136 | 0.2% | 99.9% |  |
 | 137 | 0.3% | 99.7% |  |
 | 138 | 0.6% | 99.4% |  |
-| 139 | 1.0% | 98.9% |  |
+| 139 | 1.0% | 98.8% |  |
 | 140 | 2% | 98% |  |
-| 141 | 2% | 96% |  |
+| 141 | 3% | 96% |  |
 | 142 | 4% | 94% |  |
 | 143 | 5% | 90% |  |
 | 144 | 6% | 85% |  |

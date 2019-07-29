@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **113** seats (+5 seats)
+Current median: **114** seats (+6 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 109–119 | 108–120 | 107–122 | 105–125 |
+| Renew Europe | EU | 108 | 114 | 109–119 | 108–120 | 107–122 | 105–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 12 | 9–16 | 9–18 | 9–19 | 8–21 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–11 | 6–11 | 6–11 | 6–12 |
@@ -78,22 +78,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 103 | 0.1% | 100% |  |
 | 104 | 0.2% | 99.9% |  |
-| 105 | 0.5% | 99.7% |  |
-| 106 | 1.1% | 99.3% |  |
+| 105 | 0.4% | 99.8% |  |
+| 106 | 1.0% | 99.3% |  |
 | 107 | 2% | 98% |  |
 | 108 | 3% | 96% | Last Result |
 | 109 | 5% | 93% |  |
-| 110 | 7% | 87% |  |
-| 111 | 9% | 80% |  |
-| 112 | 10% | 71% |  |
-| 113 | 11% | 60% | Median |
-| 114 | 11% | 49% |  |
-| 115 | 9% | 39% |  |
+| 110 | 7% | 88% |  |
+| 111 | 9% | 81% |  |
+| 112 | 10% | 72% |  |
+| 113 | 11% | 61% |  |
+| 114 | 11% | 50% | Median |
+| 115 | 10% | 40% |  |
 | 116 | 8% | 30% |  |
 | 117 | 6% | 22% |  |
-| 118 | 5% | 15% |  |
-| 119 | 3% | 11% |  |
-| 120 | 2% | 7% |  |
+| 118 | 5% | 16% |  |
+| 119 | 4% | 11% |  |
+| 120 | 3% | 7% |  |
 | 121 | 2% | 5% |  |
 | 122 | 1.2% | 3% |  |
 | 123 | 0.8% | 2% |  |

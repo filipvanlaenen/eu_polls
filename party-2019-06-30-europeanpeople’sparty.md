@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **159** seats (-23 seats)
+Current median: **160** seats (-22 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 159 | 154–164 | 153–165 | 152–167 | 149–169 |
+| European People’s Party | EU | 182 | 160 | 155–164 | 153–166 | 152–167 | 150–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 14 | 11–16 | 11–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
@@ -32,7 +32,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Hrvatska demokratska zajednica | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -78,29 +78,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 147 | 0.1% | 100% |  |
+| 147 | 0% | 100% |  |
 | 148 | 0.1% | 99.9% |  |
-| 149 | 0.3% | 99.7% |  |
-| 150 | 0.6% | 99.5% |  |
-| 151 | 1.0% | 98.9% |  |
-| 152 | 2% | 98% |  |
-| 153 | 3% | 96% |  |
-| 154 | 4% | 94% |  |
-| 155 | 5% | 90% |  |
-| 156 | 7% | 84% |  |
-| 157 | 8% | 77% |  |
-| 158 | 10% | 69% |  |
-| 159 | 10% | 59% | Median |
-| 160 | 10% | 49% |  |
-| 161 | 10% | 38% |  |
-| 162 | 8% | 29% |  |
-| 163 | 7% | 20% |  |
-| 164 | 5% | 13% |  |
-| 165 | 4% | 8% |  |
-| 166 | 2% | 5% |  |
-| 167 | 1.3% | 3% |  |
-| 168 | 0.7% | 1.3% |  |
-| 169 | 0.3% | 0.6% |  |
+| 149 | 0.2% | 99.8% |  |
+| 150 | 0.4% | 99.6% |  |
+| 151 | 0.8% | 99.1% |  |
+| 152 | 1.4% | 98% |  |
+| 153 | 2% | 97% |  |
+| 154 | 3% | 95% |  |
+| 155 | 5% | 91% |  |
+| 156 | 6% | 86% |  |
+| 157 | 8% | 80% |  |
+| 158 | 9% | 72% |  |
+| 159 | 10% | 62% |  |
+| 160 | 11% | 52% | Median |
+| 161 | 10% | 41% |  |
+| 162 | 9% | 31% |  |
+| 163 | 7% | 22% |  |
+| 164 | 6% | 15% |  |
+| 165 | 4% | 9% |  |
+| 166 | 3% | 6% |  |
+| 167 | 1.5% | 3% |  |
+| 168 | 0.8% | 2% |  |
+| 169 | 0.4% | 0.7% |  |
 | 170 | 0.2% | 0.3% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0% |  |

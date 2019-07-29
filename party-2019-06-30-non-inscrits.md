@@ -18,15 +18,15 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 39 | 31–43 | 29–45 | 28–45 | 27–47 |
+| Non-Inscrits | EU | 56 | 39 | 31–44 | 29–45 | 28–45 | 27–47 |
 | Brexit Party | GB-GBN | | 17 | 7–19 | 7–19 | 7–20 | 6–21 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Živi zid | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Živi zid | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -63,15 +63,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 3% | 73% |  |
 | 37 | 4% | 69% |  |
 | 38 | 7% | 65% |  |
-| 39 | 10% | 58% | Median |
+| 39 | 9% | 58% | Median |
 | 40 | 11% | 49% |  |
-| 41 | 11% | 37% |  |
-| 42 | 9% | 26% |  |
+| 41 | 11% | 38% |  |
+| 42 | 9% | 27% |  |
 | 43 | 7% | 17% |  |
 | 44 | 5% | 10% |  |
 | 45 | 3% | 5% |  |
 | 46 | 1.4% | 2% |  |
-| 47 | 0.6% | 0.8% |  |
+| 47 | 0.6% | 0.9% |  |
 | 48 | 0.2% | 0.3% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
