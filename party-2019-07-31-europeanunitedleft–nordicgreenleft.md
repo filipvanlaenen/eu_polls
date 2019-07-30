@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 45 | 42–48 | 42–49 | 41–49 | 40–51 |
+| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–49 | 41–50 | 40–51 |
 | Die Linke | DE | | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 1.0% | 99.7% |  |
-| 41 | 3% | 98.6% | Last Result |
-| 42 | 7% | 96% |  |
-| 43 | 11% | 89% |  |
-| 44 | 16% | 78% |  |
-| 45 | 18% | 62% | Median |
-| 46 | 17% | 44% |  |
-| 47 | 13% | 27% |  |
-| 48 | 8% | 14% |  |
-| 49 | 4% | 6% |  |
-| 50 | 2% | 2% |  |
-| 51 | 0.6% | 0.7% |  |
-| 52 | 0.1% | 0.2% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.2% | 99.9% |  |
+| 40 | 0.9% | 99.7% |  |
+| 41 | 3% | 98.8% | Last Result |
+| 42 | 6% | 96% |  |
+| 43 | 11% | 90% |  |
+| 44 | 16% | 79% |  |
+| 45 | 18% | 64% | Median |
+| 46 | 17% | 46% |  |
+| 47 | 13% | 29% |  |
+| 48 | 8% | 15% |  |
+| 49 | 4% | 7% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.6% | 0.8% |  |
+| 52 | 0.2% | 0.2% |  |
 | 53 | 0% | 0% |  |
 
 

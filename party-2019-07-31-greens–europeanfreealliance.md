@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 63 | 59–66 | 59–67 | 58–68 | 56–70 |
+| Greens–European Free Alliance | EU | 75 | 63 | 59–66 | 58–67 | 58–68 | 56–70 |
 | Bündnis 90/Die Grünen | DE | | 23 | 21–25 | 20–26 | 20–26 | 20–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
@@ -35,6 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Plaid Cymru | GB-GBN | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +48,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -60,15 +60,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
 | 56 | 0.4% | 99.9% |  |
-| 57 | 1.3% | 99.5% |  |
+| 57 | 1.3% | 99.4% |  |
 | 58 | 3% | 98% |  |
 | 59 | 6% | 95% |  |
-| 60 | 9% | 89% |  |
-| 61 | 12% | 80% |  |
-| 62 | 14% | 68% |  |
-| 63 | 15% | 53% | Median |
-| 64 | 13% | 39% |  |
-| 65 | 10% | 26% |  |
+| 60 | 10% | 89% |  |
+| 61 | 13% | 79% |  |
+| 62 | 14% | 67% |  |
+| 63 | 14% | 53% | Median |
+| 64 | 13% | 38% |  |
+| 65 | 10% | 25% |  |
 | 66 | 7% | 16% |  |
 | 67 | 4% | 9% |  |
 | 68 | 2% | 4% |  |

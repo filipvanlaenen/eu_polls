@@ -22,7 +22,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–15 | 9–17 | 9–18 | 7–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| Freie Demokratische Partei | DE | | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
@@ -79,14 +79,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 0.1% | 100% |  |
 | 104 | 0.2% | 99.9% |  |
 | 105 | 0.4% | 99.7% |  |
-| 106 | 0.8% | 99.4% |  |
-| 107 | 1.4% | 98.6% |  |
-| 108 | 2% | 97% | Last Result |
+| 106 | 0.8% | 99.3% |  |
+| 107 | 1.5% | 98.5% |  |
+| 108 | 3% | 97% | Last Result |
 | 109 | 4% | 95% |  |
 | 110 | 6% | 91% |  |
 | 111 | 8% | 85% |  |
 | 112 | 10% | 77% |  |
-| 113 | 12% | 67% |  |
+| 113 | 11% | 67% |  |
 | 114 | 12% | 56% | Median |
 | 115 | 11% | 44% |  |
 | 116 | 10% | 32% |  |
