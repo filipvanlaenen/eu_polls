@@ -66,7 +66,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -80,22 +80,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 0.2% | 99.9% |  |
 | 105 | 0.4% | 99.7% |  |
 | 106 | 0.8% | 99.3% |  |
-| 107 | 2% | 98.5% |  |
+| 107 | 2% | 98% |  |
 | 108 | 3% | 97% | Last Result |
 | 109 | 4% | 94% |  |
 | 110 | 6% | 90% |  |
 | 111 | 8% | 84% |  |
 | 112 | 10% | 76% |  |
 | 113 | 12% | 66% |  |
-| 114 | 12% | 55% | Median |
-| 115 | 11% | 43% |  |
+| 114 | 12% | 54% | Median |
+| 115 | 11% | 42% |  |
 | 116 | 10% | 31% |  |
 | 117 | 8% | 22% |  |
 | 118 | 5% | 14% |  |
 | 119 | 4% | 9% |  |
 | 120 | 2% | 5% |  |
-| 121 | 1.4% | 3% |  |
-| 122 | 0.8% | 1.5% |  |
+| 121 | 1.3% | 3% |  |
+| 122 | 0.7% | 1.5% |  |
 | 123 | 0.4% | 0.7% |  |
 | 124 | 0.2% | 0.3% |  |
 | 125 | 0.1% | 0.1% |  |

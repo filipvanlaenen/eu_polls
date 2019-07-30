@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **32** seats (-24 seats)
+Current median: **31** seats (-25 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 32 | 29–38 | 28–40 | 27–41 | 26–44 |
+| Non-Inscrits | EU | 56 | 31 | 28–37 | 27–39 | 26–40 | 25–43 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–18 | 12–19 | 11–20 |
 | Brexit Party | GB-GBN | | 10 | 7–15 | 7–17 | 7–17 | 7–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -26,8 +26,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Χρυσή Αυγή | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1 | 1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -38,6 +37,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 | Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -49,31 +49,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 0.3% | 99.9% |  |
-| 26 | 1.1% | 99.6% |  |
-| 27 | 3% | 98.6% |  |
-| 28 | 6% | 96% |  |
-| 29 | 9% | 90% |  |
-| 30 | 11% | 81% |  |
-| 31 | 13% | 70% |  |
-| 32 | 12% | 57% | Median |
-| 33 | 10% | 45% |  |
-| 34 | 8% | 35% |  |
-| 35 | 6% | 27% |  |
-| 36 | 5% | 21% |  |
-| 37 | 4% | 16% |  |
-| 38 | 3% | 12% |  |
-| 39 | 3% | 9% |  |
-| 40 | 2% | 6% |  |
-| 41 | 1.4% | 4% |  |
-| 42 | 0.9% | 2% |  |
-| 43 | 0.6% | 1.4% |  |
-| 44 | 0.4% | 0.8% |  |
-| 45 | 0.2% | 0.4% |  |
-| 46 | 0.1% | 0.2% |  |
-| 47 | 0.1% | 0.1% |  |
-| 48 | 0% | 0.1% |  |
+| 24 | 0.2% | 100% |  |
+| 25 | 0.9% | 99.7% |  |
+| 26 | 3% | 98.8% |  |
+| 27 | 5% | 96% |  |
+| 28 | 9% | 91% |  |
+| 29 | 11% | 82% |  |
+| 30 | 13% | 71% |  |
+| 31 | 12% | 58% | Median |
+| 32 | 10% | 46% |  |
+| 33 | 8% | 36% |  |
+| 34 | 6% | 28% |  |
+| 35 | 5% | 21% |  |
+| 36 | 4% | 16% |  |
+| 37 | 3% | 12% |  |
+| 38 | 3% | 9% |  |
+| 39 | 2% | 6% |  |
+| 40 | 1.4% | 4% |  |
+| 41 | 1.0% | 2% |  |
+| 42 | 0.6% | 1.5% |  |
+| 43 | 0.4% | 0.8% |  |
+| 44 | 0.2% | 0.5% |  |
+| 45 | 0.1% | 0.2% |  |
+| 46 | 0.1% | 0.1% |  |
+| 47 | 0% | 0.1% |  |
+| 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
