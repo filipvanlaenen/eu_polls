@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–4 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
@@ -63,18 +63,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 1.3% | 99.4% |  |
 | 58 | 3% | 98% |  |
 | 59 | 6% | 95% |  |
-| 60 | 10% | 89% |  |
+| 60 | 9% | 89% |  |
 | 61 | 13% | 79% |  |
 | 62 | 14% | 67% |  |
 | 63 | 14% | 53% | Median |
 | 64 | 13% | 38% |  |
-| 65 | 10% | 25% |  |
+| 65 | 10% | 26% |  |
 | 66 | 7% | 16% |  |
 | 67 | 4% | 9% |  |
-| 68 | 2% | 4% |  |
+| 68 | 2% | 5% |  |
 | 69 | 1.2% | 2% |  |
-| 70 | 0.5% | 0.8% |  |
-| 71 | 0.2% | 0.3% |  |
+| 70 | 0.6% | 1.0% |  |
+| 71 | 0.2% | 0.4% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
