@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 148 | 141–154 | 140–155 | 138–157 | 136–160 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 148 | 141–154 | 140–156 | 138–157 | 135–160 |
 | Labour Party | GB-GBN | | 20 | 16–24 | 15–25 | 15–25 | 15–27 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | Partito Democratico | IT | | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
@@ -56,49 +56,51 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
-| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Wiosna | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Wiosna | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 133 | 0.1% | 100% |  |
+| 132 | 0% | 100% |  |
+| 133 | 0.1% | 99.9% |  |
 | 134 | 0.1% | 99.9% |  |
-| 135 | 0.3% | 99.8% |  |
-| 136 | 0.4% | 99.5% |  |
-| 137 | 0.7% | 99.1% |  |
-| 138 | 1.1% | 98% |  |
+| 135 | 0.3% | 99.7% |  |
+| 136 | 0.5% | 99.4% |  |
+| 137 | 0.8% | 99.0% |  |
+| 138 | 1.2% | 98% |  |
 | 139 | 2% | 97% |  |
-| 140 | 2% | 96% |  |
+| 140 | 2% | 95% |  |
 | 141 | 3% | 93% |  |
-| 142 | 4% | 90% |  |
-| 143 | 5% | 86% |  |
+| 142 | 4% | 89% |  |
+| 143 | 5% | 85% |  |
 | 144 | 6% | 80% |  |
-| 145 | 7% | 74% |  |
-| 146 | 8% | 67% |  |
-| 147 | 8% | 59% |  |
-| 148 | 8% | 51% | Median |
+| 145 | 7% | 73% |  |
+| 146 | 8% | 66% |  |
+| 147 | 8% | 58% |  |
+| 148 | 8% | 50% | Median |
 | 149 | 8% | 42% |  |
 | 150 | 7% | 34% |  |
 | 151 | 6% | 27% |  |
 | 152 | 5% | 21% |  |
-| 153 | 4% | 15% |  |
-| 154 | 3% | 11% | Last Result |
-| 155 | 3% | 7% |  |
-| 156 | 2% | 5% |  |
-| 157 | 1.2% | 3% |  |
-| 158 | 0.8% | 2% |  |
-| 159 | 0.5% | 1.1% |  |
-| 160 | 0.3% | 0.6% |  |
-| 161 | 0.2% | 0.3% |  |
+| 153 | 4% | 16% |  |
+| 154 | 3% | 12% | Last Result |
+| 155 | 3% | 8% |  |
+| 156 | 2% | 6% |  |
+| 157 | 1.3% | 4% |  |
+| 158 | 0.9% | 2% |  |
+| 159 | 0.6% | 1.4% |  |
+| 160 | 0.4% | 0.8% |  |
+| 161 | 0.2% | 0.5% |  |
 | 162 | 0.1% | 0.2% |  |
-| 163 | 0% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 163 | 0.1% | 0.1% |  |
+| 164 | 0% | 0.1% |  |
+| 165 | 0% | 0% |  |
 
 
