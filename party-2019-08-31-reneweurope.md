@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 110–118 | 109–120 | 108–121 | 106–123 |
+| Renew Europe | EU | 108 | 114 | 109–118 | 108–119 | 107–120 | 105–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 10–15 | 9–15 | 9–16 | 8–17 |
+| Liberal Democrats | GB-GBN | | 13 | 9–15 | 9–15 | 7–16 | 7–17 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
@@ -76,25 +76,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 104 | 0.1% | 100% |  |
-| 105 | 0.2% | 99.9% |  |
-| 106 | 0.5% | 99.6% |  |
-| 107 | 1.0% | 99.1% |  |
-| 108 | 2% | 98% | Last Result |
-| 109 | 3% | 96% |  |
-| 110 | 5% | 93% |  |
-| 111 | 7% | 89% |  |
-| 112 | 9% | 82% |  |
-| 113 | 11% | 73% |  |
-| 114 | 12% | 62% | Median |
-| 115 | 12% | 49% |  |
-| 116 | 11% | 37% |  |
-| 117 | 9% | 26% |  |
-| 118 | 7% | 16% |  |
-| 119 | 4% | 10% |  |
-| 120 | 3% | 5% |  |
-| 121 | 1.4% | 3% |  |
-| 122 | 0.7% | 1.2% |  |
+| 103 | 0.1% | 100% |  |
+| 104 | 0.2% | 99.9% |  |
+| 105 | 0.5% | 99.6% |  |
+| 106 | 1.1% | 99.1% |  |
+| 107 | 2% | 98% |  |
+| 108 | 3% | 96% | Last Result |
+| 109 | 4% | 93% |  |
+| 110 | 6% | 89% |  |
+| 111 | 8% | 83% |  |
+| 112 | 9% | 75% |  |
+| 113 | 11% | 66% |  |
+| 114 | 11% | 55% | Median |
+| 115 | 11% | 43% |  |
+| 116 | 10% | 32% |  |
+| 117 | 8% | 22% |  |
+| 118 | 6% | 14% |  |
+| 119 | 4% | 9% |  |
+| 120 | 2% | 5% |  |
+| 121 | 1.3% | 2% |  |
+| 122 | 0.6% | 1.1% |  |
 | 123 | 0.3% | 0.5% |  |
 | 124 | 0.1% | 0.2% |  |
 | 125 | 0.1% | 0.1% |  |
