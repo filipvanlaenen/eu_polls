@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–118 | 108–119 | 107–120 | 105–123 |
+| Renew Europe | EU | 108 | 114 | 109–118 | 108–119 | 107–120 | 105–122 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 9–15 | 9–15 | 7–16 | 7–17 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
@@ -70,9 +70,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -85,20 +85,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 4% | 93% |  |
 | 110 | 6% | 89% |  |
 | 111 | 8% | 83% |  |
-| 112 | 9% | 75% |  |
-| 113 | 11% | 66% |  |
-| 114 | 11% | 55% | Median |
+| 112 | 10% | 75% |  |
+| 113 | 11% | 65% |  |
+| 114 | 11% | 54% | Median |
 | 115 | 11% | 43% |  |
 | 116 | 10% | 32% |  |
 | 117 | 8% | 22% |  |
 | 118 | 6% | 14% |  |
-| 119 | 4% | 9% |  |
-| 120 | 2% | 5% |  |
-| 121 | 1.3% | 2% |  |
-| 122 | 0.6% | 1.1% |  |
+| 119 | 4% | 8% |  |
+| 120 | 2% | 4% |  |
+| 121 | 1.2% | 2% |  |
+| 122 | 0.6% | 1.0% |  |
 | 123 | 0.3% | 0.5% |  |
 | 124 | 0.1% | 0.2% |  |
-| 125 | 0.1% | 0.1% |  |
+| 125 | 0% | 0.1% |  |
 | 126 | 0% | 0% |  |
 
 

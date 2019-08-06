@@ -62,9 +62,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 156 | 2% | 6% |  |
 | 157 | 1.4% | 4% |  |
 | 158 | 1.0% | 3% |  |
-| 159 | 0.7% | 2% |  |
+| 159 | 0.6% | 2% |  |
 | 160 | 0.4% | 0.9% |  |
 | 161 | 0.2% | 0.5% |  |
 | 162 | 0.1% | 0.3% |  |
