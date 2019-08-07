@@ -56,37 +56,37 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
-| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Sojusz Lewicy Demokratycznej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Wiosna | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 132 | 0% | 100% |  |
 | 133 | 0.1% | 99.9% |  |
-| 134 | 0.2% | 99.9% |  |
+| 134 | 0.2% | 99.8% |  |
 | 135 | 0.3% | 99.7% |  |
 | 136 | 0.5% | 99.4% |  |
-| 137 | 0.9% | 98.9% |  |
-| 138 | 1.3% | 98% |  |
+| 137 | 0.9% | 98.8% |  |
+| 138 | 1.4% | 98% |  |
 | 139 | 2% | 97% |  |
 | 140 | 3% | 95% |  |
 | 141 | 4% | 92% |  |
 | 142 | 5% | 88% |  |
-| 143 | 5% | 84% |  |
+| 143 | 6% | 84% |  |
 | 144 | 6% | 78% |  |
 | 145 | 7% | 72% |  |
 | 146 | 8% | 65% |  |
 | 147 | 8% | 57% | Median |
-| 148 | 8% | 50% |  |
+| 148 | 8% | 49% |  |
 | 149 | 7% | 42% |  |
-| 150 | 7% | 35% |  |
+| 150 | 7% | 34% |  |
 | 151 | 6% | 28% |  |
 | 152 | 5% | 22% |  |
 | 153 | 4% | 17% |  |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 156 | 2% | 6% |  |
 | 157 | 1.4% | 4% |  |
 | 158 | 1.0% | 3% |  |
-| 159 | 0.6% | 2% |  |
+| 159 | 0.7% | 2% |  |
 | 160 | 0.4% | 0.9% |  |
 | 161 | 0.2% | 0.5% |  |
 | 162 | 0.1% | 0.3% |  |
