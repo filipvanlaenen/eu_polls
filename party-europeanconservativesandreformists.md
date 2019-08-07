@@ -47,9 +47,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,33 +62,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 99.9% |  |
 | 69 | 0.2% | 99.8% |  |
 | 70 | 0.4% | 99.6% |  |
-| 71 | 0.6% | 99.2% |  |
-| 72 | 0.9% | 98.6% |  |
-| 73 | 1.2% | 98% |  |
+| 71 | 0.7% | 99.2% |  |
+| 72 | 1.0% | 98.5% |  |
+| 73 | 1.3% | 98% |  |
 | 74 | 2% | 96% |  |
 | 75 | 2% | 95% |  |
 | 76 | 2% | 93% |  |
 | 77 | 2% | 91% |  |
 | 78 | 3% | 89% |  |
-| 79 | 3% | 87% |  |
+| 79 | 4% | 86% |  |
 | 80 | 5% | 83% |  |
-| 81 | 6% | 78% |  |
-| 82 | 8% | 72% |  |
-| 83 | 10% | 64% |  |
-| 84 | 10% | 54% | Median |
-| 85 | 10% | 44% |  |
-| 86 | 9% | 34% |  |
-| 87 | 7% | 25% |  |
-| 88 | 6% | 17% |  |
+| 81 | 7% | 78% |  |
+| 82 | 8% | 71% |  |
+| 83 | 10% | 63% |  |
+| 84 | 10% | 53% | Median |
+| 85 | 10% | 42% |  |
+| 86 | 9% | 32% |  |
+| 87 | 7% | 24% |  |
+| 88 | 6% | 16% |  |
 | 89 | 4% | 11% |  |
 | 90 | 3% | 7% |  |
 | 91 | 2% | 4% |  |
-| 92 | 1.2% | 2% |  |
-| 93 | 0.7% | 1.3% |  |
-| 94 | 0.4% | 0.7% |  |
+| 92 | 1.1% | 2% |  |
+| 93 | 0.6% | 1.2% |  |
+| 94 | 0.3% | 0.6% |  |
 | 95 | 0.2% | 0.3% |  |
 | 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0.1% |  |
-| 98 | 0% | 0% |  |
+| 97 | 0% | 0% |  |
 
 
