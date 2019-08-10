@@ -30,7 +30,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -48,20 +48,20 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā Vienotība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -82,28 +82,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 0.1% | 99.9% |  |
 | 151 | 0.2% | 99.8% |  |
 | 152 | 0.4% | 99.6% |  |
-| 153 | 0.7% | 99.2% |  |
-| 154 | 1.2% | 98% |  |
+| 153 | 0.7% | 99.3% |  |
+| 154 | 1.1% | 98.6% |  |
 | 155 | 2% | 97% |  |
-| 156 | 3% | 95% |  |
+| 156 | 3% | 96% |  |
 | 157 | 4% | 93% |  |
 | 158 | 5% | 89% |  |
-| 159 | 6% | 84% |  |
-| 160 | 7% | 78% |  |
+| 159 | 6% | 85% |  |
+| 160 | 7% | 79% |  |
 | 161 | 8% | 71% |  |
-| 162 | 9% | 62% |  |
-| 163 | 9% | 53% | Median |
+| 162 | 9% | 63% |  |
+| 163 | 9% | 54% | Median |
 | 164 | 9% | 44% |  |
-| 165 | 8% | 34% |  |
-| 166 | 7% | 26% |  |
+| 165 | 8% | 35% |  |
+| 166 | 7% | 27% |  |
 | 167 | 6% | 19% |  |
-| 168 | 4% | 13% |  |
+| 168 | 5% | 14% |  |
 | 169 | 3% | 9% |  |
 | 170 | 2% | 6% |  |
-| 171 | 1.4% | 3% |  |
+| 171 | 1.5% | 3% |  |
 | 172 | 0.9% | 2% |  |
-| 173 | 0.5% | 1.0% |  |
-| 174 | 0.3% | 0.5% |  |
+| 173 | 0.5% | 1.1% |  |
+| 174 | 0.3% | 0.6% |  |
 | 175 | 0.1% | 0.3% |  |
 | 176 | 0.1% | 0.1% |  |
 | 177 | 0% | 0% |  |

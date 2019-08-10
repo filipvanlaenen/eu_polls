@@ -26,10 +26,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Latvijas Reģionu apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -62,24 +62,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 99.9% |  |
 | 69 | 0.2% | 99.8% |  |
 | 70 | 0.4% | 99.6% |  |
-| 71 | 0.7% | 99.2% |  |
-| 72 | 1.0% | 98.5% |  |
+| 71 | 0.6% | 99.2% |  |
+| 72 | 0.9% | 98.6% |  |
 | 73 | 1.3% | 98% |  |
 | 74 | 2% | 96% |  |
 | 75 | 2% | 95% |  |
 | 76 | 2% | 93% |  |
 | 77 | 2% | 91% |  |
 | 78 | 3% | 89% |  |
-| 79 | 4% | 86% |  |
+| 79 | 3% | 86% |  |
 | 80 | 5% | 83% |  |
 | 81 | 7% | 78% |  |
-| 82 | 8% | 71% |  |
+| 82 | 8% | 72% |  |
 | 83 | 10% | 63% |  |
-| 84 | 10% | 53% | Median |
-| 85 | 10% | 42% |  |
-| 86 | 9% | 32% |  |
+| 84 | 10% | 54% | Median |
+| 85 | 10% | 43% |  |
+| 86 | 9% | 33% |  |
 | 87 | 7% | 24% |  |
-| 88 | 6% | 16% |  |
+| 88 | 6% | 17% |  |
 | 89 | 4% | 11% |  |
 | 90 | 3% | 7% |  |
 | 91 | 2% | 4% |  |
