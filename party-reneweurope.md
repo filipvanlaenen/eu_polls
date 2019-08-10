@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–118 | 108–119 | 107–120 | 105–122 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 108–121 | 106–123 | 104–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 9–15 | 9–15 | 7–16 | 7–17 |
+| Liberal Democrats | GB-GBN | | 13 | 9–18 | 8–18 | 7–18 | 7–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| Freie Demokratische Partei | DE | | 8 | 6–10 | 6–10 | 6–10 | 5–10 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
@@ -39,12 +39,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Partidul Libertății, Unității și Solidarității | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -70,35 +70,38 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 103 | 0.1% | 100% |  |
-| 104 | 0.2% | 99.9% |  |
-| 105 | 0.5% | 99.6% |  |
-| 106 | 1.0% | 99.1% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 96% | Last Result |
-| 109 | 4% | 93% |  |
-| 110 | 6% | 89% |  |
-| 111 | 8% | 83% |  |
-| 112 | 10% | 75% |  |
-| 113 | 11% | 65% |  |
-| 114 | 11% | 54% | Median |
-| 115 | 11% | 43% |  |
-| 116 | 10% | 32% |  |
-| 117 | 8% | 22% |  |
-| 118 | 6% | 14% |  |
-| 119 | 4% | 8% |  |
-| 120 | 2% | 5% |  |
-| 121 | 1.2% | 2% |  |
-| 122 | 0.6% | 1.1% |  |
-| 123 | 0.3% | 0.5% |  |
-| 124 | 0.1% | 0.2% |  |
-| 125 | 0% | 0.1% |  |
-| 126 | 0% | 0% |  |
+| 102 | 0.1% | 100% |  |
+| 103 | 0.2% | 99.9% |  |
+| 104 | 0.4% | 99.7% |  |
+| 105 | 0.7% | 99.4% |  |
+| 106 | 1.3% | 98.6% |  |
+| 107 | 2% | 97% |  |
+| 108 | 3% | 95% | Last Result |
+| 109 | 5% | 92% |  |
+| 110 | 6% | 87% |  |
+| 111 | 7% | 82% |  |
+| 112 | 8% | 74% |  |
+| 113 | 9% | 66% |  |
+| 114 | 9% | 57% | Median |
+| 115 | 9% | 47% |  |
+| 116 | 8% | 38% |  |
+| 117 | 7% | 30% |  |
+| 118 | 6% | 23% |  |
+| 119 | 5% | 17% |  |
+| 120 | 4% | 12% |  |
+| 121 | 3% | 8% |  |
+| 122 | 2% | 5% |  |
+| 123 | 1.3% | 3% |  |
+| 124 | 0.8% | 1.5% |  |
+| 125 | 0.4% | 0.7% |  |
+| 126 | 0.2% | 0.3% |  |
+| 127 | 0.1% | 0.1% |  |
+| 128 | 0% | 0% |  |
 
 
