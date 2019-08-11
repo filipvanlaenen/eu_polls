@@ -18,21 +18,21 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–120 | 108–121 | 107–123 | 105–125 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 108–121 | 107–122 | 105–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 9–18 | 8–18 | 7–18 | 7–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
 | Eesti Reformierakond | EE | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
-| Democraten 66 | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -84,23 +84,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 3% | 96% | Last Result |
 | 109 | 4% | 93% |  |
 | 110 | 6% | 89% |  |
-| 111 | 7% | 83% |  |
-| 112 | 9% | 76% |  |
-| 113 | 9% | 67% |  |
-| 114 | 10% | 58% | Median |
-| 115 | 9% | 48% |  |
-| 116 | 9% | 39% |  |
-| 117 | 7% | 30% |  |
-| 118 | 6% | 23% |  |
-| 119 | 5% | 17% |  |
-| 120 | 4% | 12% |  |
-| 121 | 3% | 8% |  |
-| 122 | 2% | 5% |  |
-| 123 | 1.3% | 3% |  |
-| 124 | 0.7% | 1.3% |  |
-| 125 | 0.4% | 0.6% |  |
-| 126 | 0.2% | 0.3% |  |
-| 127 | 0.1% | 0.1% |  |
+| 111 | 8% | 83% |  |
+| 112 | 9% | 75% |  |
+| 113 | 10% | 66% |  |
+| 114 | 10% | 56% | Median |
+| 115 | 9% | 46% |  |
+| 116 | 8% | 37% |  |
+| 117 | 7% | 28% |  |
+| 118 | 6% | 21% |  |
+| 119 | 5% | 15% |  |
+| 120 | 4% | 10% |  |
+| 121 | 3% | 7% |  |
+| 122 | 2% | 4% |  |
+| 123 | 1.1% | 2% |  |
+| 124 | 0.6% | 1.0% |  |
+| 125 | 0.3% | 0.4% |  |
+| 126 | 0.1% | 0.2% |  |
+| 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 162 | 156–167 | 155–169 | 153–170 | 151–173 |
+| European People’s Party | EU | 182 | 162 | 156–167 | 155–169 | 154–170 | 151–173 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–22 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
@@ -34,7 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 3 | 2–4 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
@@ -56,7 +56,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
-| 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| 50Plus | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -80,29 +80,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 148 | 0% | 100% |  |
 | 149 | 0.1% | 99.9% |  |
-| 150 | 0.2% | 99.8% |  |
-| 151 | 0.4% | 99.6% |  |
+| 150 | 0.2% | 99.9% |  |
+| 151 | 0.4% | 99.7% |  |
 | 152 | 0.7% | 99.3% |  |
-| 153 | 1.2% | 98.6% |  |
-| 154 | 2% | 97% |  |
+| 153 | 1.1% | 98.7% |  |
+| 154 | 2% | 98% |  |
 | 155 | 3% | 96% |  |
 | 156 | 4% | 93% |  |
-| 157 | 5% | 89% |  |
-| 158 | 6% | 84% |  |
-| 159 | 7% | 78% |  |
-| 160 | 8% | 71% |  |
-| 161 | 9% | 62% |  |
-| 162 | 9% | 53% | Median |
+| 157 | 5% | 90% |  |
+| 158 | 6% | 85% |  |
+| 159 | 7% | 79% |  |
+| 160 | 8% | 72% |  |
+| 161 | 9% | 63% |  |
+| 162 | 9% | 54% | Median |
 | 163 | 9% | 44% |  |
 | 164 | 8% | 35% |  |
 | 165 | 7% | 27% |  |
-| 166 | 6% | 19% |  |
-| 167 | 4% | 14% |  |
+| 166 | 6% | 20% |  |
+| 167 | 5% | 14% |  |
 | 168 | 3% | 9% |  |
 | 169 | 2% | 6% |  |
 | 170 | 1.5% | 4% |  |
 | 171 | 0.9% | 2% |  |
-| 172 | 0.5% | 1.2% |  |
+| 172 | 0.5% | 1.1% |  |
 | 173 | 0.3% | 0.6% |  |
 | 174 | 0.2% | 0.3% |  |
 | 175 | 0.1% | 0.1% |  |
