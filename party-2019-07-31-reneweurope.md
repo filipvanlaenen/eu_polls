@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **114** seats (+6 seats)
+Current median: **113** seats (+5 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,20 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–118 | 108–119 | 107–120 | 105–122 |
+| Renew Europe | EU | 108 | 113 | 109–117 | 107–118 | 106–119 | 104–121 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 9–15 | 9–15 | 7–16 | 7–17 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
-| Democraten 66 | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -43,6 +42,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Democraten 66 | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -76,29 +76,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0% | 100% |  |
+| 102 | 0.1% | 100% |  |
 | 103 | 0.1% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.6% | 99.6% |  |
-| 106 | 1.1% | 99.0% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 96% | Last Result |
-| 109 | 5% | 93% |  |
-| 110 | 6% | 88% |  |
-| 111 | 8% | 81% |  |
-| 112 | 10% | 73% |  |
-| 113 | 11% | 63% |  |
-| 114 | 12% | 52% | Median |
-| 115 | 11% | 40% |  |
-| 116 | 10% | 29% |  |
-| 117 | 7% | 19% |  |
-| 118 | 5% | 12% |  |
-| 119 | 3% | 7% |  |
-| 120 | 2% | 4% |  |
-| 121 | 0.9% | 2% |  |
-| 122 | 0.4% | 0.7% |  |
-| 123 | 0.2% | 0.3% |  |
-| 124 | 0.1% | 0.1% |  |
+| 104 | 0.4% | 99.8% |  |
+| 105 | 0.8% | 99.4% |  |
+| 106 | 1.4% | 98.7% |  |
+| 107 | 2% | 97% |  |
+| 108 | 4% | 95% | Last Result |
+| 109 | 5% | 91% |  |
+| 110 | 7% | 86% |  |
+| 111 | 9% | 78% |  |
+| 112 | 11% | 69% |  |
+| 113 | 12% | 58% | Median |
+| 114 | 12% | 47% |  |
+| 115 | 11% | 35% |  |
+| 116 | 9% | 24% |  |
+| 117 | 6% | 15% |  |
+| 118 | 4% | 9% |  |
+| 119 | 2% | 5% |  |
+| 120 | 1.3% | 2% |  |
+| 121 | 0.6% | 1.1% |  |
+| 122 | 0.3% | 0.4% |  |
+| 123 | 0.1% | 0.2% |  |
+| 124 | 0% | 0.1% |  |
 | 125 | 0% | 0% |  |
 
 

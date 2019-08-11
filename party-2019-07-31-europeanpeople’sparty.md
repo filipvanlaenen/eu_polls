@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 163 | 157–168 | 156–170 | 154–171 | 152–174 |
+| European People’s Party | EU | 182 | 163 | 158–168 | 156–170 | 155–171 | 152–174 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–22 | 18–23 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
@@ -34,7 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 3 | 2–3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -80,33 +80,33 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 149 | 0% | 100% |  |
 | 150 | 0.1% | 99.9% |  |
-| 151 | 0.2% | 99.8% |  |
-| 152 | 0.4% | 99.6% |  |
-| 153 | 0.7% | 99.3% |  |
-| 154 | 1.1% | 98.6% |  |
-| 155 | 2% | 97% |  |
-| 156 | 3% | 96% |  |
-| 157 | 4% | 93% |  |
-| 158 | 5% | 89% |  |
-| 159 | 6% | 85% |  |
-| 160 | 7% | 79% |  |
-| 161 | 8% | 71% |  |
-| 162 | 9% | 63% |  |
-| 163 | 9% | 54% | Median |
-| 164 | 9% | 44% |  |
-| 165 | 8% | 35% |  |
-| 166 | 7% | 27% |  |
-| 167 | 6% | 19% |  |
+| 151 | 0.2% | 99.9% |  |
+| 152 | 0.3% | 99.7% |  |
+| 153 | 0.6% | 99.4% |  |
+| 154 | 1.1% | 98.7% |  |
+| 155 | 2% | 98% |  |
+| 156 | 2% | 96% |  |
+| 157 | 3% | 94% |  |
+| 158 | 5% | 90% |  |
+| 159 | 6% | 86% |  |
+| 160 | 7% | 80% |  |
+| 161 | 8% | 72% |  |
+| 162 | 9% | 64% |  |
+| 163 | 9% | 55% | Median |
+| 164 | 9% | 46% |  |
+| 165 | 9% | 36% |  |
+| 166 | 7% | 28% |  |
+| 167 | 6% | 20% |  |
 | 168 | 5% | 14% |  |
-| 169 | 3% | 9% |  |
+| 169 | 3% | 10% |  |
 | 170 | 2% | 6% |  |
-| 171 | 1.5% | 3% |  |
-| 172 | 0.9% | 2% |  |
-| 173 | 0.5% | 1.1% |  |
+| 171 | 2% | 4% |  |
+| 172 | 1.0% | 2% |  |
+| 173 | 0.6% | 1.2% |  |
 | 174 | 0.3% | 0.6% |  |
-| 175 | 0.1% | 0.3% |  |
+| 175 | 0.2% | 0.3% |  |
 | 176 | 0.1% | 0.1% |  |
-| 177 | 0% | 0% |  |
+| 177 | 0% | 0.1% |  |
 | 178 | 0% | 0% |  |
 | 179 | 0% | 0% |  |
 | 180 | 0% | 0% |  |
