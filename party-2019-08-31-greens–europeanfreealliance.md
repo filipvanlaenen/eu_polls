@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **63** seats (-12 seats)
+Current median: **64** seats (-11 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 63 | 60–67 | 59–68 | 58–69 | 57–70 |
+| Greens–European Free Alliance | EU | 75 | 64 | 60–67 | 59–68 | 58–69 | 57–70 |
 | Bündnis 90/Die Grünen | DE | | 24 | 21–25 | 21–26 | 20–26 | 20–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -29,7 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -39,7 +39,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.2% | 100% |  |
-| 57 | 1.0% | 99.7% |  |
-| 58 | 3% | 98.7% |  |
+| 57 | 0.9% | 99.8% |  |
+| 58 | 3% | 98.9% |  |
 | 59 | 5% | 96% |  |
-| 60 | 8% | 90% |  |
-| 61 | 10% | 82% |  |
-| 62 | 11% | 73% |  |
-| 63 | 12% | 62% | Median |
-| 64 | 13% | 49% |  |
-| 65 | 12% | 36% |  |
+| 60 | 8% | 91% |  |
+| 61 | 10% | 84% |  |
+| 62 | 11% | 74% |  |
+| 63 | 13% | 63% |  |
+| 64 | 13% | 50% | Median |
+| 65 | 12% | 37% |  |
 | 66 | 10% | 24% |  |
 | 67 | 7% | 14% |  |
 | 68 | 4% | 7% |  |
 | 69 | 2% | 3% |  |
-| 70 | 0.8% | 1.2% |  |
+| 70 | 0.9% | 1.3% |  |
 | 71 | 0.3% | 0.4% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
