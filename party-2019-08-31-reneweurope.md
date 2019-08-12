@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **115** seats (+7 seats)
+Current median: **114** seats (+6 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 115 | 110–120 | 108–121 | 107–122 | 105–124 |
+| Renew Europe | EU | 108 | 114 | 107–120 | 106–121 | 105–122 | 103–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 9–18 | 8–18 | 7–18 | 7–18 |
+| Liberal Democrats | GB-GBN | | 13 | 6–18 | 6–18 | 6–18 | 6–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–11 | 6–11 | 6–11 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -44,7 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -76,31 +76,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 103 | 0.1% | 100% |  |
-| 104 | 0.2% | 99.9% |  |
-| 105 | 0.4% | 99.7% |  |
-| 106 | 0.8% | 99.3% |  |
-| 107 | 1.4% | 98.6% |  |
-| 108 | 2% | 97% | Last Result |
-| 109 | 3% | 95% |  |
-| 110 | 5% | 92% |  |
-| 111 | 6% | 87% |  |
-| 112 | 8% | 80% |  |
-| 113 | 10% | 72% |  |
-| 114 | 10% | 63% |  |
-| 115 | 10% | 52% | Median |
-| 116 | 9% | 42% |  |
-| 117 | 8% | 33% |  |
-| 118 | 7% | 25% |  |
-| 119 | 6% | 18% |  |
-| 120 | 4% | 12% |  |
-| 121 | 3% | 8% |  |
+| 101 | 0.1% | 100% |  |
+| 102 | 0.2% | 99.9% |  |
+| 103 | 0.5% | 99.7% |  |
+| 104 | 1.1% | 99.2% |  |
+| 105 | 2% | 98% |  |
+| 106 | 3% | 96% |  |
+| 107 | 4% | 93% |  |
+| 108 | 4% | 90% | Last Result |
+| 109 | 5% | 85% |  |
+| 110 | 5% | 81% |  |
+| 111 | 6% | 75% |  |
+| 112 | 7% | 69% |  |
+| 113 | 8% | 62% |  |
+| 114 | 9% | 54% | Median |
+| 115 | 8% | 45% |  |
+| 116 | 8% | 37% |  |
+| 117 | 7% | 29% |  |
+| 118 | 6% | 22% |  |
+| 119 | 5% | 16% |  |
+| 120 | 4% | 11% |  |
+| 121 | 3% | 7% |  |
 | 122 | 2% | 4% |  |
 | 123 | 1.2% | 2% |  |
-| 124 | 0.6% | 1.1% |  |
-| 125 | 0.3% | 0.5% |  |
+| 124 | 0.6% | 1.2% |  |
+| 125 | 0.3% | 0.6% |  |
 | 126 | 0.1% | 0.2% |  |
-| 127 | 0% | 0.1% |  |
+| 127 | 0.1% | 0.1% |  |
 | 128 | 0% | 0% |  |
 
 

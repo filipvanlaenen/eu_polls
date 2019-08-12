@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **30** seats (-26 seats)
+Current median: **31** seats (-25 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 30 | 27–37 | 26–39 | 25–41 | 24–44 |
-| Movimento 5 Stelle | IT | | 13 | 12–17 | 11–19 | 11–19 | 10–21 |
-| Brexit Party | GB-GBN | | 8 | 7–16 | 7–17 | 7–17 | 6–17 |
+| Non-Inscrits | EU | 56 | 31 | 27–37 | 26–39 | 25–41 | 24–44 |
+| Movimento 5 Stelle | IT | | 13 | 11–16 | 11–18 | 10–19 | 10–20 |
+| Brexit Party | GB-GBN | | 9 | 7–15 | 7–17 | 7–17 | 6–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -51,30 +51,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
 | 23 | 0.3% | 99.9% |  |
-| 24 | 1.0% | 99.6% |  |
-| 25 | 3% | 98.7% |  |
-| 26 | 6% | 96% |  |
-| 27 | 9% | 90% |  |
-| 28 | 11% | 81% |  |
-| 29 | 12% | 70% |  |
-| 30 | 11% | 58% | Median |
-| 31 | 9% | 48% |  |
-| 32 | 7% | 39% |  |
-| 33 | 6% | 32% |  |
-| 34 | 5% | 26% |  |
-| 35 | 4% | 21% |  |
-| 36 | 4% | 16% |  |
-| 37 | 3% | 12% |  |
+| 24 | 1.1% | 99.6% |  |
+| 25 | 3% | 98% |  |
+| 26 | 5% | 96% |  |
+| 27 | 8% | 91% |  |
+| 28 | 10% | 83% |  |
+| 29 | 10% | 73% |  |
+| 30 | 9% | 63% |  |
+| 31 | 9% | 54% | Median |
+| 32 | 8% | 45% |  |
+| 33 | 8% | 37% |  |
+| 34 | 7% | 29% |  |
+| 35 | 5% | 23% |  |
+| 36 | 5% | 17% |  |
+| 37 | 4% | 13% |  |
 | 38 | 3% | 9% |  |
 | 39 | 2% | 6% |  |
 | 40 | 1.4% | 4% |  |
 | 41 | 1.0% | 3% |  |
-| 42 | 0.7% | 2% |  |
-| 43 | 0.4% | 1.1% |  |
-| 44 | 0.3% | 0.6% |  |
-| 45 | 0.2% | 0.4% |  |
+| 42 | 0.6% | 2% |  |
+| 43 | 0.4% | 0.9% |  |
+| 44 | 0.2% | 0.5% |  |
+| 45 | 0.1% | 0.3% |  |
 | 46 | 0.1% | 0.2% |  |
-| 47 | 0.1% | 0.1% |  |
+| 47 | 0% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
