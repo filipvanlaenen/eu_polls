@@ -27,7 +27,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
+| Venstre | DK | | 4 | 4 | 4 | 4 | 4 |
 | Eesti Reformierakond | EE | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
@@ -47,7 +47,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |

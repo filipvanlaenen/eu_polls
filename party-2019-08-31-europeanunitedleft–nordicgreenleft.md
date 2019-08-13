@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -56,17 +56,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.2% | 100% | Last Result |
-| 42 | 0.9% | 99.7% |  |
+| 42 | 0.9% | 99.8% |  |
 | 43 | 3% | 98.9% |  |
 | 44 | 7% | 96% |  |
 | 45 | 12% | 89% |  |
-| 46 | 18% | 77% |  |
+| 46 | 17% | 77% |  |
 | 47 | 20% | 60% | Median |
 | 48 | 17% | 40% |  |
 | 49 | 12% | 23% |  |
 | 50 | 7% | 11% |  |
 | 51 | 3% | 4% |  |
-| 52 | 0.9% | 1.1% |  |
+| 52 | 0.9% | 1.2% |  |
 | 53 | 0.2% | 0.3% |  |
 | 54 | 0% | 0% |  |
 
