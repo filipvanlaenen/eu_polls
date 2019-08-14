@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **114** seats (+6 seats)
+Current median: **115** seats (+7 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 107–120 | 106–121 | 105–122 | 103–125 |
+| Renew Europe | EU | 108 | 115 | 107–120 | 105–122 | 104–123 | 103–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 6–18 | 6–18 | 6–18 | 6–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 6–11 | 6–11 | 6–11 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–11 | 6–11 | 6–11 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Venstre | DK | | 4 | 4 | 4 | 4 | 4 |
+| Venstre | DK | | 4 | 4 | 4 | 4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
@@ -62,7 +62,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -77,31 +77,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 101 | 0.1% | 100% |  |
-| 102 | 0.2% | 99.9% |  |
-| 103 | 0.5% | 99.7% |  |
-| 104 | 1.1% | 99.2% |  |
-| 105 | 2% | 98% |  |
-| 106 | 3% | 96% |  |
-| 107 | 4% | 93% |  |
-| 108 | 4% | 90% | Last Result |
-| 109 | 5% | 85% |  |
-| 110 | 5% | 81% |  |
-| 111 | 6% | 75% |  |
-| 112 | 7% | 69% |  |
-| 113 | 8% | 62% |  |
-| 114 | 9% | 54% | Median |
-| 115 | 8% | 45% |  |
-| 116 | 8% | 37% |  |
-| 117 | 7% | 29% |  |
-| 118 | 6% | 22% |  |
-| 119 | 5% | 16% |  |
-| 120 | 4% | 11% |  |
-| 121 | 3% | 7% |  |
-| 122 | 2% | 4% |  |
-| 123 | 1.2% | 2% |  |
-| 124 | 0.6% | 1.2% |  |
-| 125 | 0.3% | 0.6% |  |
-| 126 | 0.1% | 0.2% |  |
+| 102 | 0.3% | 99.9% |  |
+| 103 | 0.7% | 99.6% |  |
+| 104 | 1.5% | 98.9% |  |
+| 105 | 2% | 97% |  |
+| 106 | 3% | 95% |  |
+| 107 | 4% | 92% |  |
+| 108 | 4% | 87% | Last Result |
+| 109 | 4% | 83% |  |
+| 110 | 4% | 79% |  |
+| 111 | 4% | 75% |  |
+| 112 | 5% | 71% |  |
+| 113 | 6% | 66% |  |
+| 114 | 7% | 59% |  |
+| 115 | 8% | 52% | Median |
+| 116 | 8% | 44% |  |
+| 117 | 8% | 36% |  |
+| 118 | 7% | 29% |  |
+| 119 | 6% | 21% |  |
+| 120 | 5% | 15% |  |
+| 121 | 4% | 10% |  |
+| 122 | 3% | 6% |  |
+| 123 | 2% | 3% |  |
+| 124 | 0.9% | 2% |  |
+| 125 | 0.4% | 0.7% |  |
+| 126 | 0.2% | 0.3% |  |
 | 127 | 0.1% | 0.1% |  |
 | 128 | 0% | 0% |  |
 
