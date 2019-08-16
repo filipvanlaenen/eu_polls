@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **64** seats (-11 seats)
+Current median: **63** seats (-12 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 64 | 60–67 | 59–68 | 58–69 | 57–71 |
-| Bündnis 90/Die Grünen | DE | | 24 | 20–25 | 19–26 | 19–26 | 19–26 |
+| Greens–European Free Alliance | EU | 75 | 63 | 59–67 | 58–68 | 57–69 | 55–70 |
+| Bündnis 90/Die Grünen | DE | | 23 | 19–25 | 19–26 | 19–26 | 19–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -33,19 +33,19 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Plaid Cymru | GB-GBN | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -58,23 +58,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.2% | 100% |  |
-| 57 | 0.8% | 99.7% |  |
-| 58 | 2% | 98.9% |  |
-| 59 | 3% | 97% |  |
-| 60 | 4% | 94% |  |
-| 61 | 6% | 90% |  |
-| 62 | 9% | 84% |  |
-| 63 | 12% | 75% |  |
-| 64 | 15% | 63% | Median |
-| 65 | 15% | 48% |  |
-| 66 | 13% | 32% |  |
-| 67 | 9% | 19% |  |
-| 68 | 5% | 10% |  |
-| 69 | 3% | 4% |  |
-| 70 | 1.2% | 2% |  |
-| 71 | 0.4% | 0.6% |  |
-| 72 | 0.1% | 0.2% |  |
+| 54 | 0.2% | 100% |  |
+| 55 | 0.6% | 99.8% |  |
+| 56 | 1.4% | 99.3% |  |
+| 57 | 3% | 98% |  |
+| 58 | 4% | 95% |  |
+| 59 | 6% | 91% |  |
+| 60 | 7% | 85% |  |
+| 61 | 9% | 78% |  |
+| 62 | 11% | 69% |  |
+| 63 | 13% | 58% | Median |
+| 64 | 13% | 45% |  |
+| 65 | 11% | 32% |  |
+| 66 | 9% | 21% |  |
+| 67 | 6% | 12% |  |
+| 68 | 3% | 6% |  |
+| 69 | 2% | 3% |  |
+| 70 | 0.7% | 1.0% |  |
+| 71 | 0.2% | 0.3% |  |
+| 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% | Last Result |

@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **83** seats (+21 seats)
+Current median: **84** seats (+22 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 83 | 80–87 | 80–88 | 79–90 | 77–92 |
+| European Conservatives and Reformists | EU | 62 | 84 | 81–88 | 80–89 | 79–90 | 77–93 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
-| Conservative Party | GB-GBN | | 24 | 24–25 | 24–28 | 24–29 | 23–30 |
-| Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| Conservative Party | GB-GBN | | 24 | 24–28 | 24–29 | 24–29 | 23–30 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
@@ -69,24 +69,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 0% | 100% |  |
 | 76 | 0.1% | 99.9% |  |
 | 77 | 0.4% | 99.8% |  |
-| 78 | 1.2% | 99.4% |  |
-| 79 | 3% | 98% |  |
-| 80 | 6% | 95% |  |
-| 81 | 10% | 90% |  |
-| 82 | 14% | 80% |  |
-| 83 | 16% | 66% | Median |
-| 84 | 15% | 49% |  |
-| 85 | 12% | 34% |  |
-| 86 | 8% | 22% |  |
-| 87 | 5% | 13% |  |
-| 88 | 3% | 8% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.2% | 3% |  |
-| 91 | 0.7% | 1.4% |  |
-| 92 | 0.4% | 0.7% |  |
-| 93 | 0.2% | 0.3% |  |
-| 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0.1% |  |
+| 78 | 1.0% | 99.5% |  |
+| 79 | 2% | 98.5% |  |
+| 80 | 5% | 96% |  |
+| 81 | 9% | 91% |  |
+| 82 | 13% | 83% |  |
+| 83 | 15% | 70% |  |
+| 84 | 15% | 55% | Median |
+| 85 | 12% | 41% |  |
+| 86 | 9% | 28% |  |
+| 87 | 7% | 19% |  |
+| 88 | 5% | 12% |  |
+| 89 | 3% | 7% |  |
+| 90 | 2% | 4% |  |
+| 91 | 1.2% | 2% |  |
+| 92 | 0.6% | 1.1% |  |
+| 93 | 0.3% | 0.5% |  |
+| 94 | 0.1% | 0.2% |  |
+| 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
 
 

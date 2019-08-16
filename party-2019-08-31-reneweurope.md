@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **115** seats (+7 seats)
+Current median: **114** seats (+6 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 115 | 107–120 | 105–122 | 104–123 | 103–125 |
+| Renew Europe | EU | 108 | 114 | 107–120 | 106–121 | 105–122 | 103–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 6–18 | 6–18 | 6–18 | 6–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–11 | 6–11 | 6–11 |
+| Freie Demokratische Partei | DE | | 8 | 7–10 | 7–11 | 7–11 | 6–11 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -44,7 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -77,32 +77,32 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 101 | 0.1% | 100% |  |
-| 102 | 0.3% | 99.9% |  |
-| 103 | 0.7% | 99.6% |  |
-| 104 | 1.5% | 98.9% |  |
-| 105 | 2% | 97% |  |
-| 106 | 3% | 95% |  |
-| 107 | 4% | 92% |  |
-| 108 | 4% | 87% | Last Result |
-| 109 | 4% | 83% |  |
-| 110 | 4% | 79% |  |
-| 111 | 4% | 75% |  |
-| 112 | 5% | 71% |  |
-| 113 | 6% | 66% |  |
-| 114 | 7% | 59% |  |
-| 115 | 8% | 52% | Median |
-| 116 | 8% | 44% |  |
-| 117 | 8% | 36% |  |
-| 118 | 7% | 29% |  |
-| 119 | 6% | 21% |  |
-| 120 | 5% | 15% |  |
-| 121 | 4% | 10% |  |
-| 122 | 3% | 6% |  |
-| 123 | 2% | 3% |  |
-| 124 | 0.9% | 2% |  |
-| 125 | 0.4% | 0.7% |  |
-| 126 | 0.2% | 0.3% |  |
-| 127 | 0.1% | 0.1% |  |
+| 102 | 0.2% | 99.9% |  |
+| 103 | 0.5% | 99.7% |  |
+| 104 | 1.1% | 99.2% |  |
+| 105 | 2% | 98% |  |
+| 106 | 3% | 96% |  |
+| 107 | 4% | 93% |  |
+| 108 | 4% | 89% | Last Result |
+| 109 | 5% | 85% |  |
+| 110 | 5% | 80% |  |
+| 111 | 5% | 75% |  |
+| 112 | 6% | 70% |  |
+| 113 | 7% | 64% |  |
+| 114 | 8% | 56% | Median |
+| 115 | 8% | 48% |  |
+| 116 | 8% | 40% |  |
+| 117 | 8% | 31% |  |
+| 118 | 7% | 24% |  |
+| 119 | 6% | 17% |  |
+| 120 | 4% | 12% |  |
+| 121 | 3% | 7% |  |
+| 122 | 2% | 4% |  |
+| 123 | 1.1% | 2% |  |
+| 124 | 0.6% | 1.1% |  |
+| 125 | 0.3% | 0.5% |  |
+| 126 | 0.1% | 0.2% |  |
+| 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
 
 
