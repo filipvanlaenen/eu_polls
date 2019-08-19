@@ -18,17 +18,16 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 84 | 81–88 | 80–89 | 79–90 | 77–93 |
-| Prawo i Sprawiedliwość | PL | | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
-| Conservative Party | GB-GBN | | 24 | 24–28 | 24–29 | 24–29 | 23–30 |
+| European Conservatives and Reformists | EU | 62 | 84 | 80–88 | 79–90 | 78–91 | 76–93 |
+| Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–31 |
+| Conservative Party | GB-GBN | | 24 | 24–27 | 24–28 | 24–29 | 23–30 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
-| Forum voor Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Forum voor Democratie | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
-| Latvijas Reģionu apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 0–1 |
@@ -39,6 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,26 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0% | 100% |  |
 | 73 | 0% | 100% |  |
 | 74 | 0% | 100% |  |
-| 75 | 0% | 100% |  |
-| 76 | 0.1% | 99.9% |  |
-| 77 | 0.4% | 99.8% |  |
-| 78 | 1.0% | 99.5% |  |
-| 79 | 2% | 98.5% |  |
-| 80 | 5% | 96% |  |
-| 81 | 9% | 91% |  |
-| 82 | 13% | 83% |  |
-| 83 | 15% | 70% |  |
-| 84 | 15% | 55% | Median |
-| 85 | 12% | 41% |  |
-| 86 | 9% | 28% |  |
-| 87 | 7% | 19% |  |
-| 88 | 5% | 12% |  |
-| 89 | 3% | 7% |  |
-| 90 | 2% | 4% |  |
-| 91 | 1.2% | 2% |  |
-| 92 | 0.6% | 1.1% |  |
-| 93 | 0.3% | 0.5% |  |
-| 94 | 0.1% | 0.2% |  |
+| 75 | 0.1% | 99.9% |  |
+| 76 | 0.3% | 99.8% |  |
+| 77 | 0.9% | 99.5% |  |
+| 78 | 2% | 98.6% |  |
+| 79 | 4% | 97% |  |
+| 80 | 6% | 93% |  |
+| 81 | 8% | 87% |  |
+| 82 | 11% | 79% |  |
+| 83 | 12% | 68% |  |
+| 84 | 12% | 56% | Median |
+| 85 | 12% | 43% |  |
+| 86 | 10% | 32% |  |
+| 87 | 8% | 22% |  |
+| 88 | 6% | 14% |  |
+| 89 | 4% | 9% |  |
+| 90 | 2% | 5% |  |
+| 91 | 1.3% | 3% |  |
+| 92 | 0.7% | 1.4% |  |
+| 93 | 0.4% | 0.6% |  |
+| 94 | 0.2% | 0.3% |  |
 | 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
 
