@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 108–120 | 107–121 | 105–122 | 103–125 |
+| Renew Europe | EU | 108 | 114 | 108–119 | 107–121 | 105–122 | 103–124 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 6–16 | 6–17 | 6–18 | 5–18 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 8 | 6–11 | 6–11 | 6–11 | 6–11 |
+| Freie Demokratische Partei | DE | | 8 | 6–10 | 6–10 | 6–10 | 6–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Uniunea Salvați România | RO | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -44,7 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 0.2% | 99.9% |  |
 | 103 | 0.4% | 99.7% |  |
 | 104 | 0.8% | 99.3% |  |
-| 105 | 1.3% | 98.5% |  |
+| 105 | 1.3% | 98.6% |  |
 | 106 | 2% | 97% |  |
 | 107 | 3% | 95% |  |
 | 108 | 3% | 93% | Last Result |
@@ -89,20 +89,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 6% | 80% |  |
 | 112 | 7% | 74% |  |
 | 113 | 8% | 67% |  |
-| 114 | 9% | 59% | Median |
-| 115 | 9% | 50% |  |
-| 116 | 9% | 41% |  |
-| 117 | 8% | 32% |  |
-| 118 | 7% | 23% |  |
-| 119 | 6% | 16% |  |
-| 120 | 4% | 11% |  |
-| 121 | 3% | 7% |  |
-| 122 | 2% | 4% |  |
-| 123 | 1.0% | 2% |  |
-| 124 | 0.6% | 1.1% |  |
-| 125 | 0.3% | 0.5% |  |
-| 126 | 0.1% | 0.2% |  |
-| 127 | 0.1% | 0.1% |  |
+| 114 | 9% | 58% | Median |
+| 115 | 9% | 49% |  |
+| 116 | 9% | 40% |  |
+| 117 | 8% | 31% |  |
+| 118 | 7% | 22% |  |
+| 119 | 5% | 15% |  |
+| 120 | 4% | 10% |  |
+| 121 | 3% | 6% |  |
+| 122 | 2% | 3% |  |
+| 123 | 0.9% | 2% |  |
+| 124 | 0.4% | 0.8% |  |
+| 125 | 0.2% | 0.4% |  |
+| 126 | 0.1% | 0.1% |  |
+| 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
 
 

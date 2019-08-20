@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **83** seats (+21 seats)
+Current median: **84** seats (+22 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 83 | 77–88 | 74–90 | 72–91 | 69–94 |
-| Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| Conservative Party | GB-GBN | | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
-| Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| European Conservatives and Reformists | EU | 62 | 84 | 80–88 | 79–89 | 78–90 | 77–93 |
+| Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–30 | 22–31 |
+| Conservative Party | GB-GBN | | 24 | 24–27 | 23–28 | 23–29 | 23–30 |
+| Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Vox | ES | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -47,9 +47,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -58,36 +58,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
-| 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.3% | 99.7% |  |
-| 70 | 0.5% | 99.4% |  |
-| 71 | 0.8% | 99.0% |  |
-| 72 | 1.1% | 98% |  |
-| 73 | 1.4% | 97% |  |
-| 74 | 2% | 96% |  |
-| 75 | 2% | 94% |  |
-| 76 | 2% | 92% |  |
-| 77 | 2% | 90% |  |
-| 78 | 3% | 88% |  |
-| 79 | 4% | 85% |  |
-| 80 | 6% | 81% |  |
-| 81 | 7% | 76% |  |
-| 82 | 9% | 68% |  |
-| 83 | 10% | 59% | Median |
-| 84 | 10% | 50% |  |
-| 85 | 10% | 39% |  |
-| 86 | 8% | 30% |  |
-| 87 | 7% | 21% |  |
-| 88 | 5% | 15% |  |
-| 89 | 4% | 10% |  |
-| 90 | 2% | 6% |  |
-| 91 | 2% | 4% |  |
-| 92 | 0.9% | 2% |  |
-| 93 | 0.5% | 1.0% |  |
-| 94 | 0.3% | 0.5% |  |
-| 95 | 0.1% | 0.2% |  |
-| 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0.1% | 100% |  |
+| 76 | 0.3% | 99.9% |  |
+| 77 | 0.7% | 99.6% |  |
+| 78 | 2% | 98.8% |  |
+| 79 | 3% | 97% |  |
+| 80 | 6% | 94% |  |
+| 81 | 8% | 88% |  |
+| 82 | 11% | 80% |  |
+| 83 | 13% | 69% |  |
+| 84 | 13% | 57% | Median |
+| 85 | 12% | 44% |  |
+| 86 | 10% | 32% |  |
+| 87 | 8% | 22% |  |
+| 88 | 6% | 14% |  |
+| 89 | 4% | 8% |  |
+| 90 | 2% | 5% |  |
+| 91 | 1.2% | 2% |  |
+| 92 | 0.6% | 1.2% |  |
+| 93 | 0.3% | 0.6% |  |
+| 94 | 0.1% | 0.2% |  |
+| 95 | 0.1% | 0.1% |  |
+| 96 | 0% | 0% |  |
 
 
