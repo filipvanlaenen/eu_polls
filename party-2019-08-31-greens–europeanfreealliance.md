@@ -26,14 +26,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -59,23 +59,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.2% | 100% |  |
-| 55 | 0.6% | 99.8% |  |
-| 56 | 1.5% | 99.2% |  |
+| 55 | 0.5% | 99.8% |  |
+| 56 | 1.4% | 99.3% |  |
 | 57 | 3% | 98% |  |
 | 58 | 5% | 95% |  |
-| 59 | 8% | 89% |  |
-| 60 | 11% | 81% |  |
+| 59 | 8% | 90% |  |
+| 60 | 11% | 82% |  |
 | 61 | 13% | 71% |  |
-| 62 | 14% | 58% | Median |
+| 62 | 14% | 59% | Median |
 | 63 | 13% | 45% |  |
 | 64 | 11% | 32% |  |
 | 65 | 8% | 21% |  |
 | 66 | 6% | 13% |  |
 | 67 | 3% | 7% |  |
-| 68 | 2% | 4% |  |
-| 69 | 1.0% | 2% |  |
-| 70 | 0.4% | 0.7% |  |
-| 71 | 0.2% | 0.3% |  |
+| 68 | 2% | 3% |  |
+| 69 | 0.9% | 2% |  |
+| 70 | 0.4% | 0.6% |  |
+| 71 | 0.2% | 0.2% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |

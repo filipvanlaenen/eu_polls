@@ -20,12 +20,12 @@ At least one member in **7 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 31 | 27–35 | 26–37 | 25–38 | 24–40 |
 | Movimento 5 Stelle | IT | | 13 | 11–16 | 11–18 | 11–19 | 10–20 |
-| Brexit Party | GB-GBN | | 10 | 7–11 | 7–12 | 7–13 | 6–14 |
+| Brexit Party | GB-GBN | | 10 | 7–11 | 7–12 | 7–12 | 6–13 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1 | 1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -53,14 +53,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.2% | 99.9% |  |
 | 24 | 0.7% | 99.7% |  |
 | 25 | 2% | 99.0% |  |
-| 26 | 4% | 97% |  |
+| 26 | 3% | 97% |  |
 | 27 | 6% | 94% |  |
-| 28 | 9% | 87% |  |
-| 29 | 12% | 78% |  |
-| 30 | 14% | 65% |  |
-| 31 | 13% | 52% | Median |
-| 32 | 11% | 39% |  |
-| 33 | 8% | 28% |  |
+| 28 | 9% | 88% |  |
+| 29 | 12% | 79% |  |
+| 30 | 14% | 67% |  |
+| 31 | 13% | 53% | Median |
+| 32 | 11% | 40% |  |
+| 33 | 9% | 28% |  |
 | 34 | 6% | 19% |  |
 | 35 | 5% | 13% |  |
 | 36 | 3% | 8% |  |
