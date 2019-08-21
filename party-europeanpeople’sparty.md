@@ -18,23 +18,23 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 163 | 158–168 | 156–170 | 155–171 | 152–173 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 19–22 | 18–22 | 17–23 | 17–23 |
-| Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
+| European People’s Party | EU | 182 | 163 | 158–169 | 156–170 | 155–172 | 153–174 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–22 | 18–23 | 17–24 |
+| Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
-| Partido Popular | ES | | 10 | 9–12 | 9–13 | 8–13 | 8–14 |
+| Partido Popular | ES | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | Partidul Național Liberal | RO | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -57,14 +57,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | KPV LV | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0–2 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,40 +72,40 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 150 | 0.1% | 100% |  |
-| 151 | 0.2% | 99.9% |  |
-| 152 | 0.3% | 99.7% |  |
-| 153 | 0.6% | 99.3% |  |
-| 154 | 1.1% | 98.7% |  |
-| 155 | 2% | 98% |  |
-| 156 | 2% | 96% |  |
-| 157 | 3% | 93% |  |
-| 158 | 5% | 90% |  |
-| 159 | 6% | 85% |  |
-| 160 | 7% | 79% |  |
-| 161 | 9% | 72% |  |
-| 162 | 9% | 63% |  |
-| 163 | 10% | 54% | Median |
-| 164 | 9% | 44% |  |
-| 165 | 9% | 35% |  |
-| 166 | 7% | 26% |  |
-| 167 | 6% | 19% |  |
-| 168 | 5% | 13% |  |
-| 169 | 3% | 9% |  |
-| 170 | 2% | 5% |  |
-| 171 | 1.4% | 3% |  |
-| 172 | 0.8% | 2% |  |
-| 173 | 0.5% | 0.9% |  |
-| 174 | 0.2% | 0.4% |  |
-| 175 | 0.1% | 0.2% |  |
-| 176 | 0.1% | 0.1% |  |
-| 177 | 0% | 0% |  |
+| 151 | 0.1% | 99.9% |  |
+| 152 | 0.3% | 99.8% |  |
+| 153 | 0.5% | 99.5% |  |
+| 154 | 0.9% | 99.0% |  |
+| 155 | 1.4% | 98% |  |
+| 156 | 2% | 97% |  |
+| 157 | 3% | 95% |  |
+| 158 | 4% | 92% |  |
+| 159 | 5% | 88% |  |
+| 160 | 7% | 82% |  |
+| 161 | 8% | 75% |  |
+| 162 | 9% | 68% |  |
+| 163 | 9% | 59% | Median |
+| 164 | 9% | 49% |  |
+| 165 | 9% | 40% |  |
+| 166 | 8% | 31% |  |
+| 167 | 7% | 23% |  |
+| 168 | 5% | 16% |  |
+| 169 | 4% | 11% |  |
+| 170 | 3% | 7% |  |
+| 171 | 2% | 5% |  |
+| 172 | 1.2% | 3% |  |
+| 173 | 0.7% | 1.5% |  |
+| 174 | 0.4% | 0.8% |  |
+| 175 | 0.2% | 0.4% |  |
+| 176 | 0.1% | 0.2% |  |
+| 177 | 0% | 0.1% |  |
 | 178 | 0% | 0% |  |
 | 179 | 0% | 0% |  |
 | 180 | 0% | 0% |  |
