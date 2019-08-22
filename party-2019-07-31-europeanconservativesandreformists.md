@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 84 | 77–88 | 74–90 | 72–91 | 69–94 |
+| European Conservatives and Reformists | EU | 62 | 84 | 77–89 | 74–90 | 73–92 | 70–94 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Conservative Party | GB-GBN | | 24 | 17–27 | 15–29 | 14–29 | 13–31 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
@@ -28,9 +28,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 0–1 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -60,34 +60,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0.1% | 100% |  |
 | 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.7% |  |
-| 70 | 0.5% | 99.5% |  |
-| 71 | 0.7% | 99.0% |  |
-| 72 | 1.0% | 98% |  |
-| 73 | 1.4% | 97% |  |
+| 69 | 0.2% | 99.8% |  |
+| 70 | 0.4% | 99.6% |  |
+| 71 | 0.6% | 99.2% |  |
+| 72 | 0.9% | 98.5% |  |
+| 73 | 1.2% | 98% |  |
 | 74 | 2% | 96% |  |
-| 75 | 2% | 94% |  |
-| 76 | 2% | 92% |  |
+| 75 | 2% | 95% |  |
+| 76 | 2% | 93% |  |
 | 77 | 2% | 91% |  |
-| 78 | 3% | 88% |  |
-| 79 | 4% | 86% |  |
-| 80 | 5% | 82% |  |
-| 81 | 7% | 77% |  |
-| 82 | 9% | 70% |  |
-| 83 | 10% | 61% |  |
-| 84 | 10% | 51% | Median |
-| 85 | 10% | 41% |  |
-| 86 | 9% | 31% |  |
-| 87 | 7% | 22% |  |
-| 88 | 5% | 15% |  |
-| 89 | 4% | 10% |  |
-| 90 | 3% | 6% |  |
-| 91 | 2% | 4% |  |
-| 92 | 1.0% | 2% |  |
-| 93 | 0.5% | 1.1% |  |
-| 94 | 0.3% | 0.5% |  |
-| 95 | 0.1% | 0.2% |  |
+| 78 | 2% | 89% |  |
+| 79 | 3% | 87% |  |
+| 80 | 5% | 83% |  |
+| 81 | 6% | 79% |  |
+| 82 | 8% | 72% |  |
+| 83 | 10% | 64% |  |
+| 84 | 10% | 55% | Median |
+| 85 | 10% | 45% |  |
+| 86 | 9% | 34% |  |
+| 87 | 8% | 25% |  |
+| 88 | 6% | 18% |  |
+| 89 | 4% | 12% |  |
+| 90 | 3% | 7% |  |
+| 91 | 2% | 5% |  |
+| 92 | 1.2% | 3% |  |
+| 93 | 0.7% | 1.4% |  |
+| 94 | 0.4% | 0.7% |  |
+| 95 | 0.2% | 0.3% |  |
 | 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0% |  |
+| 97 | 0% | 0.1% |  |
+| 98 | 0% | 0% |  |
 
 

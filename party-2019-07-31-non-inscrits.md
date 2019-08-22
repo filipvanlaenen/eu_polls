@@ -24,7 +24,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1 | 1 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +35,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Živi zid | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Živi zid | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -49,34 +49,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.1% | 100% |  |
+| 20 | 0% | 100% |  |
 | 21 | 0.1% | 99.9% |  |
 | 22 | 0.4% | 99.8% |  |
 | 23 | 0.9% | 99.4% |  |
-| 24 | 2% | 98% |  |
+| 24 | 2% | 98.5% |  |
 | 25 | 4% | 97% |  |
 | 26 | 6% | 93% |  |
-| 27 | 8% | 87% |  |
+| 27 | 9% | 87% |  |
 | 28 | 11% | 79% |  |
 | 29 | 12% | 68% |  |
 | 30 | 11% | 56% | Median |
-| 31 | 10% | 45% |  |
+| 31 | 10% | 44% |  |
 | 32 | 8% | 35% |  |
 | 33 | 6% | 27% |  |
 | 34 | 5% | 21% |  |
 | 35 | 4% | 16% |  |
-| 36 | 3% | 13% |  |
+| 36 | 3% | 12% |  |
 | 37 | 3% | 9% |  |
-| 38 | 2% | 7% |  |
+| 38 | 2% | 6% |  |
 | 39 | 2% | 4% |  |
-| 40 | 1.1% | 3% |  |
+| 40 | 1.0% | 3% |  |
 | 41 | 0.7% | 2% |  |
-| 42 | 0.5% | 1.1% |  |
+| 42 | 0.5% | 1.0% |  |
 | 43 | 0.3% | 0.6% |  |
-| 44 | 0.2% | 0.4% |  |
+| 44 | 0.1% | 0.3% |  |
 | 45 | 0.1% | 0.2% |  |
 | 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0.1% |  |
+| 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
