@@ -18,8 +18,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 79 | 76–82 | 75–83 | 74–84 | 72–85 |
-| Lega Nord | IT | | 28 | 25–30 | 25–30 | 24–31 | 23–32 |
+| Identity and Democracy | EU | 73 | 79 | 75–82 | 73–83 | 72–84 | 70–85 |
+| Lega Nord | IT | | 28 | 24–30 | 22–31 | 22–31 | 20–32 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
 | Alternative für Deutschland | DE | | 13 | 11–15 | 11–15 | 11–15 | 11–16 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Neovisni za Hrvatsku | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -42,15 +42,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.1% | 100% |  |
-| 72 | 0.4% | 99.9% |  |
-| 73 | 1.1% | 99.5% | Last Result |
-| 74 | 3% | 98% |  |
-| 75 | 5% | 96% |  |
-| 76 | 9% | 90% |  |
-| 77 | 12% | 82% |  |
-| 78 | 15% | 69% |  |
-| 79 | 16% | 54% | Median |
+| 68 | 0% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.5% | 99.8% |  |
+| 71 | 0.9% | 99.3% |  |
+| 72 | 2% | 98% |  |
+| 73 | 2% | 97% | Last Result |
+| 74 | 3% | 95% |  |
+| 75 | 5% | 92% |  |
+| 76 | 8% | 87% |  |
+| 77 | 11% | 79% |  |
+| 78 | 14% | 68% |  |
+| 79 | 15% | 54% | Median |
 | 80 | 14% | 39% |  |
 | 81 | 11% | 25% |  |
 | 82 | 7% | 14% |  |

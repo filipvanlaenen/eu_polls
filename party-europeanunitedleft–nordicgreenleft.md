@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, IT, LU, NL, PT, SE, SI
+> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, LU, NL, PT, SE, SI
 
 ## Seats
 
@@ -18,9 +18,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 47 | 44–49 | 43–50 | 43–51 | 42–52 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
-| Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 45–50 | 44–50 | 43–51 | 42–52 |
+| Die Linke | DE | | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 7 | 7 | 7 | 7 | 7 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Bloco de Esquerda | PT | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
@@ -28,12 +28,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -44,31 +44,29 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0 | 0 | 0 | 0 |
-| Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% | Last Result |
-| 42 | 1.3% | 99.6% |  |
-| 43 | 4% | 98% |  |
-| 44 | 8% | 94% |  |
-| 45 | 14% | 86% |  |
-| 46 | 19% | 72% |  |
-| 47 | 19% | 53% | Median |
-| 48 | 16% | 34% |  |
-| 49 | 10% | 18% |  |
-| 50 | 5% | 8% |  |
-| 51 | 2% | 3% |  |
-| 52 | 0.7% | 0.8% |  |
+| 41 | 0.1% | 100% | Last Result |
+| 42 | 0.7% | 99.8% |  |
+| 43 | 2% | 99.2% |  |
+| 44 | 6% | 97% |  |
+| 45 | 12% | 90% |  |
+| 46 | 18% | 78% |  |
+| 47 | 20% | 60% | Median |
+| 48 | 18% | 40% |  |
+| 49 | 12% | 22% |  |
+| 50 | 6% | 10% |  |
+| 51 | 3% | 4% |  |
+| 52 | 0.8% | 1.1% |  |
 | 53 | 0.2% | 0.2% |  |
 | 54 | 0% | 0% |  |
 
