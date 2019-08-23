@@ -18,17 +18,17 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 158–169 | 157–170 | 155–172 | 153–174 |
+| European People’s Party | EU | 182 | 164 | 159–169 | 157–171 | 156–172 | 153–175 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–22 | 18–23 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | Partido Popular | ES | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
-| Partidul Național Liberal | RO | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| Partidul Național Liberal | RO | | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -63,12 +63,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0–2 |
+| Partidul Mișcarea Populară | RO | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0 | 0 | 0 |
+| Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0 | 0 | 0–2 |
 
 ### Probability Mass Function
 
@@ -80,33 +80,33 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 150 | 0% | 100% |  |
 | 151 | 0.1% | 99.9% |  |
-| 152 | 0.2% | 99.8% |  |
-| 153 | 0.4% | 99.6% |  |
-| 154 | 0.8% | 99.2% |  |
-| 155 | 1.3% | 98% |  |
-| 156 | 2% | 97% |  |
-| 157 | 3% | 95% |  |
-| 158 | 4% | 92% |  |
-| 159 | 5% | 88% |  |
-| 160 | 6% | 83% |  |
-| 161 | 8% | 77% |  |
-| 162 | 9% | 69% |  |
-| 163 | 9% | 61% |  |
-| 164 | 10% | 51% | Median |
-| 165 | 9% | 42% |  |
-| 166 | 8% | 33% |  |
-| 167 | 7% | 24% |  |
-| 168 | 6% | 18% |  |
-| 169 | 4% | 12% |  |
-| 170 | 3% | 8% |  |
-| 171 | 2% | 5% |  |
-| 172 | 1.3% | 3% |  |
-| 173 | 0.8% | 2% |  |
-| 174 | 0.4% | 0.9% |  |
-| 175 | 0.2% | 0.4% |  |
-| 176 | 0.1% | 0.2% |  |
+| 152 | 0.2% | 99.9% |  |
+| 153 | 0.3% | 99.7% |  |
+| 154 | 0.6% | 99.4% |  |
+| 155 | 1.0% | 98.7% |  |
+| 156 | 2% | 98% |  |
+| 157 | 2% | 96% |  |
+| 158 | 3% | 94% |  |
+| 159 | 5% | 90% |  |
+| 160 | 6% | 86% |  |
+| 161 | 7% | 80% |  |
+| 162 | 8% | 72% |  |
+| 163 | 9% | 64% |  |
+| 164 | 10% | 55% | Median |
+| 165 | 9% | 45% |  |
+| 166 | 9% | 36% |  |
+| 167 | 7% | 27% |  |
+| 168 | 6% | 20% |  |
+| 169 | 5% | 14% |  |
+| 170 | 3% | 9% |  |
+| 171 | 2% | 6% |  |
+| 172 | 2% | 4% |  |
+| 173 | 0.9% | 2% |  |
+| 174 | 0.5% | 1.1% |  |
+| 175 | 0.3% | 0.6% |  |
+| 176 | 0.2% | 0.3% |  |
 | 177 | 0.1% | 0.1% |  |
-| 178 | 0% | 0% |  |
+| 178 | 0% | 0.1% |  |
 | 179 | 0% | 0% |  |
 | 180 | 0% | 0% |  |
 | 181 | 0% | 0% |  |

@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -59,15 +59,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
-| 56 | 0.5% | 99.9% |  |
-| 57 | 1.4% | 99.4% |  |
+| 56 | 0.4% | 99.9% |  |
+| 57 | 1.3% | 99.4% |  |
 | 58 | 3% | 98% |  |
 | 59 | 6% | 95% |  |
-| 60 | 10% | 88% |  |
+| 60 | 10% | 89% |  |
 | 61 | 13% | 79% |  |
 | 62 | 14% | 66% |  |
-| 63 | 14% | 52% | Median |
-| 64 | 13% | 38% |  |
+| 63 | 14% | 51% | Median |
+| 64 | 12% | 37% |  |
 | 65 | 10% | 25% |  |
 | 66 | 7% | 15% |  |
 | 67 | 4% | 8% |  |
