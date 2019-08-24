@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 85 | 81–89 | 80–90 | 79–92 | 78–94 |
+| European Conservatives and Reformists | EU | 62 | 85 | 81–89 | 80–90 | 79–91 | 78–94 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| Conservative Party | GB-GBN | | 24 | 24–27 | 23–27 | 23–28 | 23–30 |
+| Conservative Party | GB-GBN | | 24 | 24–27 | 24–27 | 23–29 | 23–30 |
 | Fratelli d’Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Forum voor Democratie | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 0–1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
@@ -76,15 +76,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 8% | 88% |  |
 | 83 | 11% | 80% |  |
 | 84 | 12% | 69% |  |
-| 85 | 13% | 57% | Median |
+| 85 | 13% | 56% | Median |
 | 86 | 12% | 44% |  |
 | 87 | 10% | 32% |  |
 | 88 | 8% | 22% |  |
 | 89 | 6% | 14% |  |
-| 90 | 4% | 9% |  |
+| 90 | 4% | 8% |  |
 | 91 | 2% | 5% |  |
-| 92 | 1.3% | 3% |  |
-| 93 | 0.7% | 1.3% |  |
+| 92 | 1.2% | 2% |  |
+| 93 | 0.7% | 1.2% |  |
 | 94 | 0.3% | 0.6% |  |
 | 95 | 0.2% | 0.3% |  |
 | 96 | 0.1% | 0.1% |  |

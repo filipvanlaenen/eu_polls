@@ -19,7 +19,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 75 | 62 | 59–66 | 58–67 | 57–68 | 55–70 |
-| Bündnis 90/Die Grünen | DE | | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
+| Bündnis 90/Die Grünen | DE | | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -39,7 +39,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
+| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,21 +60,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.1% | 100% |  |
 | 55 | 0.4% | 99.9% |  |
-| 56 | 1.1% | 99.4% |  |
+| 56 | 1.0% | 99.5% |  |
 | 57 | 2% | 98% |  |
 | 58 | 4% | 96% |  |
-| 59 | 7% | 91% |  |
-| 60 | 10% | 84% |  |
+| 59 | 7% | 92% |  |
+| 60 | 10% | 85% |  |
 | 61 | 12% | 75% |  |
 | 62 | 13% | 63% | Median |
-| 63 | 13% | 49% |  |
+| 63 | 13% | 50% |  |
 | 64 | 12% | 36% |  |
-| 65 | 9% | 24% |  |
+| 65 | 9% | 25% |  |
 | 66 | 7% | 15% |  |
 | 67 | 4% | 9% |  |
 | 68 | 2% | 4% |  |
 | 69 | 1.2% | 2% |  |
-| 70 | 0.5% | 0.9% |  |
+| 70 | 0.5% | 0.8% |  |
 | 71 | 0.2% | 0.3% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
