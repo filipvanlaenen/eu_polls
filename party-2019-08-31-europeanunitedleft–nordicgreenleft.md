@@ -35,7 +35,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 1 | 1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -61,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 5% | 98% |  |
 | 45 | 11% | 92% |  |
 | 46 | 17% | 82% |  |
-| 47 | 21% | 65% | Median |
+| 47 | 21% | 64% | Median |
 | 48 | 19% | 44% |  |
 | 49 | 14% | 25% |  |
 | 50 | 7% | 11% |  |
