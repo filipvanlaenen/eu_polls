@@ -34,7 +34,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -79,23 +79,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 0.2% | 99.9% |  |
 | 104 | 0.4% | 99.8% |  |
 | 105 | 0.8% | 99.4% |  |
-| 106 | 2% | 98.5% |  |
+| 106 | 2% | 98.6% |  |
 | 107 | 3% | 97% |  |
 | 108 | 4% | 94% | Last Result |
 | 109 | 6% | 90% |  |
-| 110 | 8% | 84% |  |
+| 110 | 8% | 85% |  |
 | 111 | 9% | 77% |  |
-| 112 | 11% | 67% |  |
-| 113 | 12% | 57% | Median |
-| 114 | 11% | 45% |  |
+| 112 | 11% | 68% |  |
+| 113 | 11% | 57% | Median |
+| 114 | 11% | 46% |  |
 | 115 | 10% | 34% |  |
 | 116 | 8% | 24% |  |
-| 117 | 6% | 15% |  |
-| 118 | 4% | 9% |  |
+| 117 | 6% | 16% |  |
+| 118 | 4% | 10% |  |
 | 119 | 3% | 5% |  |
-| 120 | 1.4% | 3% |  |
-| 121 | 0.7% | 1.3% |  |
-| 122 | 0.3% | 0.6% |  |
+| 120 | 1.5% | 3% |  |
+| 121 | 0.7% | 1.4% |  |
+| 122 | 0.4% | 0.6% |  |
 | 123 | 0.2% | 0.3% |  |
 | 124 | 0.1% | 0.1% |  |
 | 125 | 0% | 0% |  |
