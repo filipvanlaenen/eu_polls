@@ -41,7 +41,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Česká strana sociálně demokratická | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Česká strana sociálně demokratická | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 135 | 0.3% | 99.8% |  |
 | 136 | 0.5% | 99.5% |  |
 | 137 | 0.8% | 99.0% |  |
-| 138 | 1.4% | 98% |  |
+| 138 | 1.3% | 98% |  |
 | 139 | 2% | 97% |  |
 | 140 | 3% | 95% |  |
 | 141 | 4% | 92% |  |
@@ -81,20 +81,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 6% | 83% |  |
 | 144 | 7% | 77% |  |
 | 145 | 8% | 70% |  |
-| 146 | 8% | 62% |  |
-| 147 | 8% | 54% | Median |
-| 148 | 8% | 46% |  |
-| 149 | 7% | 38% |  |
+| 146 | 8% | 63% |  |
+| 147 | 8% | 55% | Median |
+| 148 | 8% | 47% |  |
+| 149 | 7% | 39% |  |
 | 150 | 7% | 31% |  |
-| 151 | 6% | 24% |  |
-| 152 | 5% | 18% |  |
+| 151 | 6% | 25% |  |
+| 152 | 5% | 19% |  |
 | 153 | 4% | 14% |  |
 | 154 | 3% | 10% | Last Result |
 | 155 | 2% | 7% |  |
 | 156 | 2% | 4% |  |
 | 157 | 1.1% | 3% |  |
 | 158 | 0.7% | 2% |  |
-| 159 | 0.4% | 1.0% |  |
+| 159 | 0.5% | 1.0% |  |
 | 160 | 0.3% | 0.6% |  |
 | 161 | 0.2% | 0.3% |  |
 | 162 | 0.1% | 0.2% |  |
