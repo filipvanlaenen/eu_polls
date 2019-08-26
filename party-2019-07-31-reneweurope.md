@@ -18,13 +18,13 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 109–117 | 107–119 | 106–120 | 104–122 |
+| Renew Europe | EU | 108 | 113 | 109–118 | 107–119 | 106–120 | 104–122 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 9–15 | 9–15 | 8–16 | 7–17 |
 | Alianța 2020 USR-PLUS | RO | | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| ANO 2011 | CZ | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–5 |
@@ -83,19 +83,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 107 | 3% | 97% |  |
 | 108 | 4% | 94% | Last Result |
 | 109 | 6% | 90% |  |
-| 110 | 8% | 85% |  |
+| 110 | 7% | 85% |  |
 | 111 | 9% | 77% |  |
 | 112 | 11% | 68% |  |
-| 113 | 11% | 57% | Median |
+| 113 | 11% | 58% | Median |
 | 114 | 11% | 46% |  |
-| 115 | 10% | 34% |  |
-| 116 | 8% | 24% |  |
+| 115 | 10% | 35% |  |
+| 116 | 8% | 25% |  |
 | 117 | 6% | 16% |  |
 | 118 | 4% | 10% |  |
-| 119 | 3% | 5% |  |
-| 120 | 1.5% | 3% |  |
-| 121 | 0.7% | 1.4% |  |
-| 122 | 0.4% | 0.6% |  |
+| 119 | 3% | 6% |  |
+| 120 | 2% | 3% |  |
+| 121 | 0.8% | 1.5% |  |
+| 122 | 0.4% | 0.7% |  |
 | 123 | 0.2% | 0.3% |  |
 | 124 | 0.1% | 0.1% |  |
 | 125 | 0% | 0% |  |

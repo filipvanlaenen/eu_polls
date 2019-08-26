@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **31** seats (-25 seats)
+Current median: **30** seats (-26 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 31 | 27–34 | 26–36 | 25–37 | 24–39 |
-| Movimento 5 Stelle | IT | | 13 | 11–16 | 11–17 | 11–18 | 10–19 |
-| Brexit Party | GB-GBN | | 10 | 7–11 | 7–12 | 7–12 | 6–13 |
+| Non-Inscrits | EU | 56 | 30 | 26–36 | 25–38 | 24–40 | 22–43 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–18 | 11–19 | 10–20 |
+| Brexit Party | GB-GBN | | 8 | 6–14 | 6–17 | 4–17 | 4–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1 | 1 |
-| KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
+| KORWiN | PL | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +35,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti Populaire | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
+| Živi zid | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -43,37 +43,39 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0% | 100% |  |
-| 23 | 0.2% | 99.9% |  |
-| 24 | 0.7% | 99.7% |  |
-| 25 | 2% | 99.0% |  |
-| 26 | 4% | 97% |  |
-| 27 | 6% | 94% |  |
-| 28 | 10% | 87% |  |
-| 29 | 13% | 77% |  |
-| 30 | 14% | 65% |  |
-| 31 | 14% | 51% | Median |
-| 32 | 12% | 37% |  |
-| 33 | 9% | 25% |  |
-| 34 | 6% | 16% |  |
-| 35 | 4% | 10% |  |
-| 36 | 3% | 5% |  |
-| 37 | 1.4% | 3% |  |
-| 38 | 0.8% | 1.4% |  |
-| 39 | 0.4% | 0.7% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0.1% | 0.1% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0.1% | 99.9% |  |
+| 22 | 0.4% | 99.8% |  |
+| 23 | 0.9% | 99.4% |  |
+| 24 | 2% | 98.5% |  |
+| 25 | 4% | 97% |  |
+| 26 | 6% | 93% |  |
+| 27 | 9% | 87% |  |
+| 28 | 11% | 78% |  |
+| 29 | 12% | 66% |  |
+| 30 | 11% | 55% | Median |
+| 31 | 10% | 43% |  |
+| 32 | 8% | 34% |  |
+| 33 | 6% | 26% |  |
+| 34 | 5% | 20% |  |
+| 35 | 4% | 16% |  |
+| 36 | 3% | 12% |  |
+| 37 | 3% | 9% |  |
+| 38 | 2% | 6% |  |
+| 39 | 1.5% | 4% |  |
+| 40 | 1.0% | 3% |  |
+| 41 | 0.7% | 2% |  |
+| 42 | 0.4% | 1.0% |  |
+| 43 | 0.3% | 0.6% |  |
+| 44 | 0.1% | 0.3% |  |
+| 45 | 0.1% | 0.2% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
