@@ -18,18 +18,18 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 148 | 141–154 | 139–156 | 138–158 | 135–161 |
-| Labour Party | GB-GBN | | 20 | 15–25 | 15–26 | 15–26 | 15–26 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 148 | 142–154 | 140–156 | 139–158 | 136–161 |
+| Labour Party | GB-GBN | | 20 | 16–23 | 16–25 | 15–25 | 15–26 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–20 | 16–20 | 15–21 | 15–22 |
-| Partito Democratico | IT | | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
+| Partito Democratico | IT | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 5 | 5 | 5 | 5 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
-| Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -57,7 +57,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
 | Sojusz Lewicy Demokratycznej | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -68,35 +68,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 132 | 0% | 100% |  |
-| 133 | 0.1% | 99.9% |  |
-| 134 | 0.2% | 99.9% |  |
-| 135 | 0.3% | 99.7% |  |
-| 136 | 0.6% | 99.4% |  |
-| 137 | 0.9% | 98.8% |  |
-| 138 | 1.3% | 98% |  |
-| 139 | 2% | 97% |  |
-| 140 | 3% | 95% |  |
-| 141 | 3% | 92% |  |
-| 142 | 4% | 89% |  |
-| 143 | 5% | 84% |  |
-| 144 | 6% | 79% |  |
-| 145 | 7% | 73% |  |
-| 146 | 7% | 66% |  |
-| 147 | 8% | 59% |  |
-| 148 | 8% | 51% | Median |
-| 149 | 7% | 43% |  |
-| 150 | 7% | 36% |  |
-| 151 | 6% | 29% |  |
-| 152 | 5% | 23% |  |
-| 153 | 5% | 18% |  |
-| 154 | 4% | 13% | Last Result |
-| 155 | 3% | 9% |  |
-| 156 | 2% | 6% |  |
-| 157 | 2% | 4% |  |
+| 134 | 0.1% | 100% |  |
+| 135 | 0.2% | 99.9% |  |
+| 136 | 0.3% | 99.7% |  |
+| 137 | 0.6% | 99.4% |  |
+| 138 | 0.9% | 98.9% |  |
+| 139 | 1.5% | 98% |  |
+| 140 | 2% | 96% |  |
+| 141 | 3% | 94% |  |
+| 142 | 4% | 91% |  |
+| 143 | 5% | 87% |  |
+| 144 | 6% | 82% |  |
+| 145 | 7% | 76% |  |
+| 146 | 7% | 70% |  |
+| 147 | 8% | 62% |  |
+| 148 | 8% | 54% | Median |
+| 149 | 8% | 46% |  |
+| 150 | 7% | 38% |  |
+| 151 | 7% | 31% |  |
+| 152 | 6% | 25% |  |
+| 153 | 5% | 19% |  |
+| 154 | 4% | 14% | Last Result |
+| 155 | 3% | 10% |  |
+| 156 | 2% | 7% |  |
+| 157 | 2% | 5% |  |
 | 158 | 1.1% | 3% |  |
 | 159 | 0.7% | 2% |  |
-| 160 | 0.5% | 1.0% |  |
+| 160 | 0.5% | 1.1% |  |
 | 161 | 0.3% | 0.6% |  |
 | 162 | 0.2% | 0.3% |  |
 | 163 | 0.1% | 0.2% |  |
