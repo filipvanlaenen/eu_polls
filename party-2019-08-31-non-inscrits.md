@@ -19,7 +19,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 30 | 23–34 | 20–36 | 19–37 | 18–39 |
-| Movimento 5 Stelle | IT | | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | Brexit Party | GB-GBN | | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -67,10 +67,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 11% | 42% |  |
 | 32 | 9% | 31% |  |
 | 33 | 7% | 22% |  |
-| 34 | 5% | 14% |  |
+| 34 | 6% | 14% |  |
 | 35 | 4% | 9% |  |
 | 36 | 2% | 5% |  |
-| 37 | 1.3% | 3% |  |
+| 37 | 1.4% | 3% |  |
 | 38 | 0.7% | 1.4% |  |
 | 39 | 0.4% | 0.6% |  |
 | 40 | 0.2% | 0.3% |  |

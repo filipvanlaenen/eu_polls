@@ -43,7 +43,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,7 +61,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -78,25 +78,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 101 | 0.1% | 100% |  |
 | 102 | 0.2% | 99.9% |  |
 | 103 | 0.5% | 99.6% |  |
-| 104 | 1.1% | 99.1% |  |
+| 104 | 1.0% | 99.1% |  |
 | 105 | 2% | 98% |  |
 | 106 | 3% | 96% |  |
-| 107 | 5% | 93% |  |
-| 108 | 6% | 88% | Last Result |
-| 109 | 7% | 82% |  |
-| 110 | 9% | 75% |  |
-| 111 | 9% | 66% |  |
-| 112 | 10% | 57% | Median |
-| 113 | 9% | 47% |  |
-| 114 | 9% | 38% |  |
-| 115 | 8% | 29% |  |
-| 116 | 6% | 22% |  |
-| 117 | 5% | 15% |  |
+| 107 | 4% | 93% |  |
+| 108 | 6% | 89% | Last Result |
+| 109 | 7% | 83% |  |
+| 110 | 8% | 76% |  |
+| 111 | 9% | 67% |  |
+| 112 | 10% | 58% | Median |
+| 113 | 9% | 48% |  |
+| 114 | 9% | 39% |  |
+| 115 | 8% | 30% |  |
+| 116 | 7% | 22% |  |
+| 117 | 5% | 16% |  |
 | 118 | 4% | 10% |  |
-| 119 | 3% | 6% |  |
+| 119 | 3% | 7% |  |
 | 120 | 2% | 4% |  |
 | 121 | 1.0% | 2% |  |
-| 122 | 0.5% | 1.0% |  |
+| 122 | 0.6% | 1.1% |  |
 | 123 | 0.3% | 0.5% |  |
 | 124 | 0.1% | 0.2% |  |
 | 125 | 0.1% | 0.1% |  |
