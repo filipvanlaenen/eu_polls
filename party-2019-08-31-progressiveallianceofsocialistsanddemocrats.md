@@ -22,7 +22,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Labour Party | GB-GBN | | 20 | 16–23 | 16–25 | 15–25 | 15–26 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–20 | 16–20 | 15–21 | 15–22 |
 | Partito Democratico | IT | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 12–15 | 11–15 | 10–16 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
@@ -69,22 +69,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 134 | 0.1% | 100% |  |
-| 135 | 0.2% | 99.9% |  |
-| 136 | 0.3% | 99.7% |  |
-| 137 | 0.6% | 99.4% |  |
-| 138 | 0.9% | 98.9% |  |
-| 139 | 1.5% | 98% |  |
-| 140 | 2% | 96% |  |
-| 141 | 3% | 94% |  |
-| 142 | 4% | 91% |  |
-| 143 | 5% | 87% |  |
-| 144 | 6% | 82% |  |
-| 145 | 7% | 76% |  |
-| 146 | 7% | 70% |  |
-| 147 | 8% | 62% |  |
-| 148 | 8% | 54% | Median |
-| 149 | 8% | 46% |  |
-| 150 | 7% | 38% |  |
+| 135 | 0.1% | 99.9% |  |
+| 136 | 0.3% | 99.8% |  |
+| 137 | 0.5% | 99.5% |  |
+| 138 | 0.9% | 99.0% |  |
+| 139 | 1.4% | 98% |  |
+| 140 | 2% | 97% |  |
+| 141 | 3% | 95% |  |
+| 142 | 4% | 92% |  |
+| 143 | 5% | 88% |  |
+| 144 | 6% | 83% |  |
+| 145 | 7% | 77% |  |
+| 146 | 8% | 70% |  |
+| 147 | 8% | 63% |  |
+| 148 | 8% | 55% | Median |
+| 149 | 8% | 47% |  |
+| 150 | 7% | 39% |  |
 | 151 | 7% | 31% |  |
 | 152 | 6% | 25% |  |
 | 153 | 5% | 19% |  |
