@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 59–65 | 58–66 | 57–67 | 56–68 |
+| Greens–European Free Alliance | EU | 75 | 62 | 59–65 | 58–66 | 58–67 | 56–69 |
 | Bündnis 90/Die Grünen | DE | | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -33,19 +33,19 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0 | 0–1 | 0–1 | 0–2 |
+| Green Party | GB-GBN | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -58,24 +58,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
-| 56 | 0.8% | 99.7% |  |
-| 57 | 2% | 98.9% |  |
-| 58 | 5% | 97% |  |
-| 59 | 9% | 92% |  |
-| 60 | 13% | 83% |  |
-| 61 | 16% | 70% |  |
-| 62 | 16% | 54% | Median |
-| 63 | 14% | 38% |  |
-| 64 | 10% | 24% |  |
-| 65 | 7% | 14% |  |
-| 66 | 4% | 7% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.8% | 1.2% |  |
-| 69 | 0.3% | 0.4% |  |
-| 70 | 0.1% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.5% | 99.8% |  |
+| 57 | 2% | 99.3% |  |
+| 58 | 4% | 98% |  |
+| 59 | 7% | 94% |  |
+| 60 | 11% | 86% |  |
+| 61 | 15% | 75% |  |
+| 62 | 16% | 60% | Median |
+| 63 | 15% | 44% |  |
+| 64 | 12% | 30% |  |
+| 65 | 8% | 18% |  |
+| 66 | 5% | 10% |  |
+| 67 | 3% | 5% |  |
+| 68 | 1.3% | 2% |  |
+| 69 | 0.5% | 0.7% |  |
+| 70 | 0.2% | 0.2% |  |
+| 71 | 0% | 0.1% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
