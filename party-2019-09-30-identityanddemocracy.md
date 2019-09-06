@@ -18,12 +18,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 76 | 73–79 | 72–80 | 71–81 | 69–82 |
-| Lega Nord | IT | | 25 | 22–28 | 22–28 | 21–29 | 20–30 |
+| Identity and Democracy | EU | 73 | 76 | 73–79 | 72–80 | 71–81 | 70–82 |
+| Lega Nord | IT | | 25 | 22–28 | 22–28 | 21–29 | 20–29 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
-| Alternative für Deutschland | DE | | 13 | 11–15 | 11–15 | 11–15 | 10–15 |
+| Alternative für Deutschland | DE | | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Partij voor de Vrijheid | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
@@ -43,22 +43,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 68 | 0.1% | 100% |  |
-| 69 | 0.4% | 99.9% |  |
-| 70 | 1.1% | 99.5% |  |
-| 71 | 3% | 98% |  |
+| 69 | 0.3% | 99.9% |  |
+| 70 | 1.0% | 99.6% |  |
+| 71 | 2% | 98.6% |  |
 | 72 | 5% | 96% |  |
-| 73 | 8% | 91% | Last Result |
-| 74 | 11% | 82% |  |
-| 75 | 14% | 71% |  |
-| 76 | 14% | 57% | Median |
-| 77 | 14% | 43% |  |
-| 78 | 11% | 29% |  |
-| 79 | 8% | 18% |  |
-| 80 | 5% | 10% |  |
-| 81 | 3% | 4% |  |
-| 82 | 1.2% | 2% |  |
-| 83 | 0.3% | 0.4% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
+| 73 | 9% | 91% | Last Result |
+| 74 | 13% | 82% |  |
+| 75 | 15% | 70% |  |
+| 76 | 15% | 54% | Median |
+| 77 | 14% | 39% |  |
+| 78 | 11% | 25% |  |
+| 79 | 7% | 14% |  |
+| 80 | 4% | 7% |  |
+| 81 | 2% | 3% |  |
+| 82 | 0.8% | 1.1% |  |
+| 83 | 0.2% | 0.3% |  |
+| 84 | 0% | 0% |  |
 
 

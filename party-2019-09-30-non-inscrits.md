@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **30** seats (-26 seats)
+Current median: **31** seats (-25 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 30 | 23–35 | 21–37 | 19–38 | 18–40 |
+| Non-Inscrits | EU | 56 | 31 | 24–36 | 21–37 | 20–38 | 18–40 |
 | Movimento 5 Stelle | IT | | 14 | 12–18 | 11–19 | 11–20 | 10–21 |
 | Brexit Party | GB-GBN | | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -50,27 +50,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
-| 17 | 0.3% | 99.9% |  |
-| 18 | 0.8% | 99.6% |  |
-| 19 | 1.3% | 98.8% |  |
-| 20 | 2% | 97% |  |
+| 17 | 0.2% | 99.9% |  |
+| 18 | 0.6% | 99.7% |  |
+| 19 | 1.1% | 99.1% |  |
+| 20 | 2% | 98% |  |
 | 21 | 2% | 96% |  |
 | 22 | 2% | 94% |  |
 | 23 | 2% | 92% |  |
-| 24 | 3% | 90% |  |
-| 25 | 4% | 87% |  |
-| 26 | 5% | 83% |  |
-| 27 | 6% | 79% |  |
-| 28 | 7% | 73% |  |
-| 29 | 9% | 65% |  |
-| 30 | 10% | 57% | Median |
-| 31 | 10% | 47% |  |
-| 32 | 9% | 37% |  |
-| 33 | 8% | 29% |  |
-| 34 | 6% | 21% |  |
-| 35 | 5% | 15% |  |
+| 24 | 2% | 90% |  |
+| 25 | 3% | 88% |  |
+| 26 | 4% | 85% |  |
+| 27 | 6% | 80% |  |
+| 28 | 7% | 75% |  |
+| 29 | 8% | 68% |  |
+| 30 | 9% | 60% |  |
+| 31 | 10% | 50% | Median |
+| 32 | 9% | 41% |  |
+| 33 | 8% | 31% |  |
+| 34 | 7% | 23% |  |
+| 35 | 5% | 16% |  |
 | 36 | 4% | 10% |  |
-| 37 | 2% | 6% |  |
+| 37 | 3% | 6% |  |
 | 38 | 2% | 4% |  |
 | 39 | 1.0% | 2% |  |
 | 40 | 0.5% | 1.0% |  |
