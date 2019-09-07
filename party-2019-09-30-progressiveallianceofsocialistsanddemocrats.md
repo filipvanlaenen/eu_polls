@@ -18,29 +18,29 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 145–157 | 143–158 | 142–160 | 139–163 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 144–156 | 143–158 | 142–159 | 139–162 |
 | Labour Party | GB-GBN | | 20 | 17–23 | 17–25 | 16–25 | 15–26 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–20 | 16–20 | 15–21 | 15–22 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 5 | 5 | 5 | 5 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
-| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 4 | 4 | 4 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | PRO România | RO | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Sociāldemokrātiskā Partija “Saskaņa” | LV | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Wiosna | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká strana sociálně demokratická | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -69,35 +69,34 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 137 | 0.1% | 100% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0.3% | 99.8% |  |
-| 140 | 0.5% | 99.5% |  |
-| 141 | 0.9% | 99.0% |  |
+| 138 | 0.2% | 99.9% |  |
+| 139 | 0.3% | 99.7% |  |
+| 140 | 0.6% | 99.4% |  |
+| 141 | 1.1% | 98.8% |  |
 | 142 | 2% | 98% |  |
-| 143 | 2% | 96% |  |
-| 144 | 3% | 94% |  |
-| 145 | 5% | 91% |  |
-| 146 | 6% | 86% |  |
-| 147 | 7% | 81% |  |
-| 148 | 8% | 74% |  |
-| 149 | 8% | 66% |  |
-| 150 | 8% | 58% | Median |
-| 151 | 8% | 49% |  |
-| 152 | 8% | 41% |  |
-| 153 | 7% | 33% |  |
-| 154 | 6% | 26% | Last Result |
-| 155 | 5% | 20% |  |
-| 156 | 4% | 14% |  |
-| 157 | 3% | 10% |  |
-| 158 | 2% | 7% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.1% | 3% |  |
-| 161 | 0.7% | 2% |  |
-| 162 | 0.4% | 1.0% |  |
-| 163 | 0.3% | 0.5% |  |
-| 164 | 0.1% | 0.3% |  |
-| 165 | 0.1% | 0.1% |  |
-| 166 | 0% | 0.1% |  |
-| 167 | 0% | 0% |  |
+| 143 | 3% | 96% |  |
+| 144 | 4% | 93% |  |
+| 145 | 5% | 89% |  |
+| 146 | 6% | 84% |  |
+| 147 | 7% | 78% |  |
+| 148 | 8% | 71% |  |
+| 149 | 8% | 63% |  |
+| 150 | 9% | 54% | Median |
+| 151 | 8% | 46% |  |
+| 152 | 8% | 38% |  |
+| 153 | 7% | 30% |  |
+| 154 | 6% | 23% | Last Result |
+| 155 | 5% | 17% |  |
+| 156 | 4% | 12% |  |
+| 157 | 3% | 8% |  |
+| 158 | 2% | 5% |  |
+| 159 | 1.3% | 3% |  |
+| 160 | 0.9% | 2% |  |
+| 161 | 0.5% | 1.2% |  |
+| 162 | 0.3% | 0.7% |  |
+| 163 | 0.2% | 0.4% |  |
+| 164 | 0.1% | 0.2% |  |
+| 165 | 0% | 0.1% |  |
+| 166 | 0% | 0% |  |
 
 
