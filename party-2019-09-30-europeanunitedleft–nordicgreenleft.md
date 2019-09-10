@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **46** seats (+5 seats)
+Current median: **47** seats (+6 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 44–49 | 43–49 | 42–50 | 41–51 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 44–49 | 44–50 | 43–50 | 42–51 |
 | Die Linke | DE | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| Unidos Podemos | ES | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 7 | 7 | 7 | 7 | 7 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
-| Bloco de Esquerda | PT | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Sinn Féin | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -35,11 +35,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 1 | 1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -55,19 +55,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.1% | 100% |  |
-| 41 | 0.5% | 99.9% | Last Result |
-| 42 | 2% | 99.4% |  |
-| 43 | 5% | 97% |  |
-| 44 | 11% | 92% |  |
-| 45 | 18% | 81% |  |
-| 46 | 21% | 63% | Median |
-| 47 | 19% | 42% |  |
-| 48 | 13% | 24% |  |
-| 49 | 7% | 11% |  |
-| 50 | 3% | 4% |  |
-| 51 | 0.8% | 1.0% |  |
-| 52 | 0.2% | 0.2% |  |
-| 53 | 0% | 0% |  |
+| 41 | 0.2% | 100% | Last Result |
+| 42 | 1.0% | 99.8% |  |
+| 43 | 3% | 98.8% |  |
+| 44 | 9% | 95% |  |
+| 45 | 16% | 87% |  |
+| 46 | 21% | 71% |  |
+| 47 | 21% | 51% | Median |
+| 48 | 16% | 30% |  |
+| 49 | 9% | 14% |  |
+| 50 | 4% | 5% |  |
+| 51 | 1.2% | 2% |  |
+| 52 | 0.3% | 0.3% |  |
+| 53 | 0% | 0.1% |  |
+| 54 | 0% | 0% |  |
 
 

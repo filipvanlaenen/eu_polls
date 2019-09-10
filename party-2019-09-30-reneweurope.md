@@ -18,18 +18,18 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 112 | 107–117 | 105–118 | 104–120 | 102–122 |
+| Renew Europe | EU | 108 | 112 | 107–117 | 105–119 | 104–120 | 102–122 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 10 | 8–14 | 8–16 | 6–17 | 6–18 |
+| Liberal Democrats | GB-GBN | | 12 | 8–14 | 6–15 | 6–16 | 6–16 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–11 | 6–11 | 6–11 | 6–11 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| Freie Demokratische Partei | DE | | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 6–8 | 4–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Lista Marjana Šarca | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Venstre | DK | | 4 | 4 | 4 | 4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -75,30 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 100 | 0% | 100% |  |
-| 101 | 0.1% | 99.9% |  |
-| 102 | 0.3% | 99.8% |  |
-| 103 | 0.7% | 99.5% |  |
-| 104 | 1.4% | 98.7% |  |
+| 100 | 0.1% | 100% |  |
+| 101 | 0.2% | 99.9% |  |
+| 102 | 0.4% | 99.7% |  |
+| 103 | 0.9% | 99.3% |  |
+| 104 | 2% | 98% |  |
 | 105 | 2% | 97% |  |
 | 106 | 4% | 95% |  |
 | 107 | 5% | 91% |  |
-| 108 | 7% | 86% | Last Result |
-| 109 | 8% | 79% |  |
-| 110 | 9% | 70% |  |
-| 111 | 10% | 61% |  |
-| 112 | 10% | 51% | Median |
-| 113 | 9% | 41% |  |
-| 114 | 8% | 32% |  |
-| 115 | 7% | 24% |  |
-| 116 | 5% | 17% |  |
-| 117 | 4% | 12% |  |
-| 118 | 3% | 8% |  |
-| 119 | 2% | 5% |  |
-| 120 | 1.3% | 3% |  |
-| 121 | 0.8% | 2% |  |
-| 122 | 0.5% | 0.9% |  |
-| 123 | 0.2% | 0.5% |  |
+| 108 | 6% | 86% | Last Result |
+| 109 | 7% | 80% |  |
+| 110 | 8% | 73% |  |
+| 111 | 9% | 65% |  |
+| 112 | 9% | 57% | Median |
+| 113 | 9% | 47% |  |
+| 114 | 9% | 38% |  |
+| 115 | 8% | 30% |  |
+| 116 | 7% | 22% |  |
+| 117 | 5% | 15% |  |
+| 118 | 4% | 10% |  |
+| 119 | 3% | 6% |  |
+| 120 | 2% | 4% |  |
+| 121 | 1.0% | 2% |  |
+| 122 | 0.5% | 1.0% |  |
+| 123 | 0.3% | 0.5% |  |
 | 124 | 0.1% | 0.2% |  |
 | 125 | 0.1% | 0.1% |  |
 | 126 | 0% | 0% |  |
