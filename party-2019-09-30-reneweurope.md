@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **112** seats (+4 seats)
+Current median: **111** seats (+3 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 112 | 107–117 | 105–119 | 104–120 | 102–122 |
+| Renew Europe | EU | 108 | 111 | 106–117 | 104–118 | 103–119 | 101–122 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 12 | 8–14 | 6–15 | 6–16 | 6–16 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–11 | 6–11 | 6–11 | 6–11 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 6–8 | 4–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Lista Marjana Šarca | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Venstre | DK | | 4 | 4 | 4 | 4 | 3–4 |
+| Venstre | DK | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 3 | 2–3 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
@@ -46,7 +46,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
@@ -75,32 +75,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 100 | 0.1% | 100% |  |
-| 101 | 0.2% | 99.9% |  |
-| 102 | 0.4% | 99.7% |  |
-| 103 | 0.9% | 99.3% |  |
-| 104 | 2% | 98% |  |
-| 105 | 2% | 97% |  |
-| 106 | 4% | 95% |  |
-| 107 | 5% | 91% |  |
-| 108 | 6% | 86% | Last Result |
-| 109 | 7% | 80% |  |
-| 110 | 8% | 73% |  |
-| 111 | 9% | 65% |  |
-| 112 | 9% | 57% | Median |
-| 113 | 9% | 47% |  |
-| 114 | 9% | 38% |  |
-| 115 | 8% | 30% |  |
-| 116 | 7% | 22% |  |
-| 117 | 5% | 15% |  |
-| 118 | 4% | 10% |  |
-| 119 | 3% | 6% |  |
-| 120 | 2% | 4% |  |
-| 121 | 1.0% | 2% |  |
-| 122 | 0.5% | 1.0% |  |
-| 123 | 0.3% | 0.5% |  |
-| 124 | 0.1% | 0.2% |  |
-| 125 | 0.1% | 0.1% |  |
-| 126 | 0% | 0% |  |
+| 99 | 0.1% | 100% |  |
+| 100 | 0.2% | 99.9% |  |
+| 101 | 0.4% | 99.7% |  |
+| 102 | 0.8% | 99.3% |  |
+| 103 | 1.5% | 98% |  |
+| 104 | 2% | 97% |  |
+| 105 | 3% | 95% |  |
+| 106 | 5% | 91% |  |
+| 107 | 6% | 87% |  |
+| 108 | 7% | 81% | Last Result |
+| 109 | 8% | 74% |  |
+| 110 | 9% | 66% |  |
+| 111 | 9% | 58% | Median |
+| 112 | 9% | 48% |  |
+| 113 | 9% | 39% |  |
+| 114 | 8% | 31% |  |
+| 115 | 7% | 23% |  |
+| 116 | 5% | 16% |  |
+| 117 | 4% | 11% |  |
+| 118 | 3% | 7% |  |
+| 119 | 2% | 4% |  |
+| 120 | 1.1% | 2% |  |
+| 121 | 0.6% | 1.2% |  |
+| 122 | 0.3% | 0.6% |  |
+| 123 | 0.1% | 0.3% |  |
+| 124 | 0.1% | 0.1% |  |
+| 125 | 0% | 0% |  |
 
 
