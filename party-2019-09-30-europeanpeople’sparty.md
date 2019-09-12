@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 159–170 | 157–171 | 156–172 | 153–175 |
+| European People’s Party | EU | 182 | 164 | 159–170 | 157–171 | 156–172 | 154–175 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 19–23 | 19–23 | 17–25 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
@@ -34,7 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
@@ -44,9 +44,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2 |
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| 50Plus | NL | | 1 | 1 | 1 | 1 | 0–1 |
 | CDS–Partido Popular | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -54,7 +54,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
-| 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | KPV LV | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -80,24 +80,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 151 | 0.1% | 100% |  |
 | 152 | 0.1% | 99.9% |  |
-| 153 | 0.3% | 99.7% |  |
-| 154 | 0.5% | 99.4% |  |
-| 155 | 0.9% | 98.9% |  |
-| 156 | 1.4% | 98% |  |
+| 153 | 0.3% | 99.8% |  |
+| 154 | 0.5% | 99.5% |  |
+| 155 | 0.8% | 99.1% |  |
+| 156 | 1.3% | 98% |  |
 | 157 | 2% | 97% |  |
-| 158 | 3% | 94% |  |
-| 159 | 4% | 91% |  |
-| 160 | 5% | 87% |  |
-| 161 | 7% | 82% |  |
-| 162 | 8% | 75% |  |
-| 163 | 9% | 67% |  |
-| 164 | 9% | 58% | Median |
-| 165 | 9% | 49% |  |
-| 166 | 9% | 39% |  |
-| 167 | 8% | 30% |  |
-| 168 | 7% | 22% |  |
+| 158 | 3% | 95% |  |
+| 159 | 4% | 92% |  |
+| 160 | 5% | 88% |  |
+| 161 | 7% | 83% |  |
+| 162 | 8% | 76% |  |
+| 163 | 9% | 68% |  |
+| 164 | 10% | 59% | Median |
+| 165 | 10% | 50% |  |
+| 166 | 9% | 40% |  |
+| 167 | 8% | 31% |  |
+| 168 | 7% | 23% |  |
 | 169 | 5% | 16% |  |
-| 170 | 4% | 10% |  |
+| 170 | 4% | 11% |  |
 | 171 | 3% | 7% |  |
 | 172 | 2% | 4% |  |
 | 173 | 1.1% | 2% |  |
