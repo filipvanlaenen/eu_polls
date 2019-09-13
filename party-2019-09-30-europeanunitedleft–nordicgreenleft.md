@@ -18,24 +18,24 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 47 | 45–49 | 44–49 | 44–50 | 43–51 |
-| Die Linke | DE | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Unidos Podemos | ES | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 45–50 | 44–50 | 43–51 | 42–52 |
+| Unidos Podemos | ES | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| Die Linke | DE | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 7 | 7 | 7 | 7 | 7 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
-| Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| Bloco de Esquerda | PT | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Sinn Féin | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren | NL | | 1 | 1 | 1 | 1 | 1 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1 | 1 | 1 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 1 | 1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -55,18 +55,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0% | 100% | Last Result |
-| 42 | 0.2% | 100% |  |
-| 43 | 1.2% | 99.8% |  |
-| 44 | 5% | 98.6% |  |
-| 45 | 13% | 93% |  |
-| 46 | 22% | 80% |  |
-| 47 | 24% | 58% | Median |
-| 48 | 19% | 34% |  |
-| 49 | 10% | 15% |  |
-| 50 | 4% | 5% |  |
-| 51 | 0.9% | 1.1% |  |
-| 52 | 0.2% | 0.2% |  |
-| 53 | 0% | 0% |  |
+| 41 | 0.1% | 100% | Last Result |
+| 42 | 0.5% | 99.9% |  |
+| 43 | 2% | 99.4% |  |
+| 44 | 6% | 97% |  |
+| 45 | 11% | 92% |  |
+| 46 | 17% | 80% |  |
+| 47 | 20% | 63% | Median |
+| 48 | 19% | 43% |  |
+| 49 | 13% | 24% |  |
+| 50 | 7% | 11% |  |
+| 51 | 3% | 4% |  |
+| 52 | 0.8% | 0.9% |  |
+| 53 | 0.1% | 0.2% |  |
+| 54 | 0% | 0% |  |
 
 
