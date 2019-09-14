@@ -27,9 +27,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Partij voor de Vrijheid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Dansk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -43,21 +43,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.9% |  |
-| 71 | 1.0% | 99.6% |  |
-| 72 | 3% | 98.6% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.9% | 99.7% |  |
+| 72 | 3% | 98.8% |  |
 | 73 | 6% | 96% | Last Result |
 | 74 | 9% | 90% |  |
-| 75 | 11% | 81% |  |
+| 75 | 12% | 81% |  |
 | 76 | 13% | 70% |  |
 | 77 | 13% | 57% | Median |
 | 78 | 13% | 44% |  |
 | 79 | 11% | 31% |  |
-| 80 | 8% | 20% |  |
-| 81 | 6% | 12% |  |
+| 80 | 8% | 19% |  |
+| 81 | 5% | 11% |  |
 | 82 | 3% | 6% |  |
 | 83 | 2% | 3% |  |
-| 84 | 0.7% | 1.0% |  |
+| 84 | 0.7% | 0.9% |  |
 | 85 | 0.2% | 0.2% |  |
 | 86 | 0% | 0% |  |
 
