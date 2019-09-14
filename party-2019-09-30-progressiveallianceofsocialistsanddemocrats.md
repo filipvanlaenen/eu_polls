@@ -26,7 +26,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5 | 4–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 5 | 5 | 5 | 5 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 0.3% | 99.6% |  |
 | 139 | 0.5% | 99.3% |  |
 | 140 | 0.8% | 98.8% |  |
-| 141 | 1.2% | 98% |  |
+| 141 | 1.3% | 98% |  |
 | 142 | 2% | 97% |  |
 | 143 | 3% | 95% |  |
 | 144 | 3% | 92% |  |
@@ -95,9 +95,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 2% | 5% |  |
 | 160 | 1.2% | 3% |  |
 | 161 | 0.8% | 2% |  |
-| 162 | 0.5% | 1.0% |  |
+| 162 | 0.5% | 1.1% |  |
 | 163 | 0.3% | 0.6% |  |
-| 164 | 0.1% | 0.3% |  |
+| 164 | 0.2% | 0.3% |  |
 | 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
