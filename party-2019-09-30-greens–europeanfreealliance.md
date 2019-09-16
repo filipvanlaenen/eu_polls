@@ -8,23 +8,23 @@ Members registered from **19 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **61** seats (-14 seats)
+Current median: **62** seats (-13 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, GB, LT, LU, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, GB, LT, LU, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 61 | 57–66 | 56–68 | 55–69 | 54–71 |
-| Bündnis 90/Die Grünen | DE | | 21 | 19–23 | 19–23 | 19–23 | 19–24 |
+| Greens–European Free Alliance | EU | 75 | 62 | 59–67 | 58–69 | 58–69 | 57–71 |
+| Bündnis 90/Die Grünen | DE | | 22 | 21–23 | 21–23 | 21–24 | 21–25 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
-| Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -32,10 +32,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru | GB-GBN | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -44,7 +45,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,27 +58,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0.1% | 100% |  |
-| 53 | 0.3% | 99.9% |  |
-| 54 | 0.8% | 99.6% |  |
-| 55 | 2% | 98.9% |  |
-| 56 | 3% | 97% |  |
-| 57 | 5% | 94% |  |
-| 58 | 8% | 89% |  |
-| 59 | 11% | 82% |  |
-| 60 | 13% | 71% |  |
-| 61 | 13% | 58% | Median |
-| 62 | 11% | 46% |  |
-| 63 | 8% | 35% |  |
-| 64 | 7% | 27% |  |
-| 65 | 6% | 20% |  |
-| 66 | 5% | 14% |  |
-| 67 | 4% | 9% |  |
-| 68 | 3% | 6% |  |
-| 69 | 2% | 3% |  |
-| 70 | 0.9% | 2% |  |
-| 71 | 0.4% | 0.6% |  |
-| 72 | 0.2% | 0.2% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.3% | 99.9% |  |
+| 57 | 1.3% | 99.6% |  |
+| 58 | 3% | 98% |  |
+| 59 | 7% | 95% |  |
+| 60 | 12% | 87% |  |
+| 61 | 15% | 76% |  |
+| 62 | 15% | 61% | Median |
+| 63 | 12% | 46% |  |
+| 64 | 8% | 34% |  |
+| 65 | 6% | 26% |  |
+| 66 | 5% | 20% |  |
+| 67 | 5% | 14% |  |
+| 68 | 4% | 9% |  |
+| 69 | 3% | 5% |  |
+| 70 | 1.5% | 2% |  |
+| 71 | 0.5% | 0.7% |  |
+| 72 | 0.1% | 0.2% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% | Last Result |

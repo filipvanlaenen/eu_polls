@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **73** seats (General Election of 25 May 2014)
 
-Current median: **78** seats (+5 seats)
+Current median: **76** seats (+3 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 78 | 74–81 | 73–82 | 73–83 | 71–85 |
-| Lega Nord | IT | | 25 | 23–27 | 22–28 | 22–29 | 21–29 |
+| Identity and Democracy | EU | 73 | 76 | 73–79 | 72–80 | 72–81 | 70–82 |
+| Lega Nord | IT | | 24 | 23–27 | 22–27 | 22–28 | 20–29 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
-| Alternative für Deutschland | DE | | 13 | 11–16 | 11–16 | 11–16 | 11–16 |
-| Freiheitliche Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Alternative für Deutschland | DE | | 12 | 11–15 | 11–15 | 11–15 | 10–16 |
+| Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Partij voor de Vrijheid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svoboda a přímá demokracie | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -42,23 +42,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 70 | 0.1% | 100% |  |
-| 71 | 0.5% | 99.8% |  |
-| 72 | 2% | 99.4% |  |
-| 73 | 4% | 98% | Last Result |
-| 74 | 7% | 94% |  |
-| 75 | 10% | 87% |  |
-| 76 | 12% | 76% |  |
-| 77 | 13% | 64% |  |
-| 78 | 13% | 51% | Median |
-| 79 | 12% | 38% |  |
-| 80 | 10% | 25% |  |
-| 81 | 7% | 15% |  |
-| 82 | 4% | 8% |  |
-| 83 | 2% | 4% |  |
-| 84 | 1.2% | 2% |  |
-| 85 | 0.4% | 0.5% |  |
-| 86 | 0.1% | 0.1% |  |
-| 87 | 0% | 0% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.5% | 99.9% |  |
+| 71 | 2% | 99.4% |  |
+| 72 | 6% | 98% |  |
+| 73 | 10% | 92% | Last Result |
+| 74 | 14% | 82% |  |
+| 75 | 15% | 68% |  |
+| 76 | 15% | 54% | Median |
+| 77 | 14% | 38% |  |
+| 78 | 10% | 25% |  |
+| 79 | 7% | 15% |  |
+| 80 | 4% | 8% |  |
+| 81 | 2% | 3% |  |
+| 82 | 0.9% | 1.3% |  |
+| 83 | 0.3% | 0.4% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% |  |
 
 
