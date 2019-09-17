@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **150** seats (-4 seats)
+Current median: **151** seats (-3 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 144–157 | 143–158 | 141–160 | 138–162 |
-| Labour Party | GB-GBN | | 21 | 16–23 | 15–25 | 15–25 | 14–26 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 146–156 | 144–158 | 143–159 | 141–161 |
+| Labour Party | GB-GBN | | 20 | 20–22 | 20–23 | 20–23 | 16–24 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
-| Partito Democratico | IT | | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 12–15 | 11–15 |
+| Partito Democratico | IT | | 17 | 15–18 | 15–18 | 14–19 | 14–19 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–14 | 12–14 | 12–14 | 12–14 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
+| Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 5 | 5 | 5 | 5 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 4 |
-| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -68,37 +68,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 135 | 0% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
-| 137 | 0.2% | 99.9% |  |
-| 138 | 0.3% | 99.7% |  |
-| 139 | 0.5% | 99.4% |  |
-| 140 | 0.8% | 98.9% |  |
-| 141 | 1.2% | 98% |  |
-| 142 | 2% | 97% |  |
-| 143 | 2% | 95% |  |
-| 144 | 3% | 93% |  |
-| 145 | 4% | 89% |  |
-| 146 | 5% | 85% |  |
-| 147 | 6% | 80% |  |
-| 148 | 7% | 73% |  |
-| 149 | 8% | 66% |  |
-| 150 | 8% | 58% | Median |
-| 151 | 8% | 49% |  |
-| 152 | 8% | 41% |  |
-| 153 | 7% | 33% |  |
-| 154 | 6% | 26% | Last Result |
-| 155 | 5% | 20% |  |
-| 156 | 4% | 14% |  |
-| 157 | 3% | 10% |  |
-| 158 | 2% | 7% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.1% | 3% |  |
-| 161 | 0.7% | 2% |  |
-| 162 | 0.4% | 0.8% |  |
-| 163 | 0.2% | 0.4% |  |
-| 164 | 0.1% | 0.2% |  |
-| 165 | 0.1% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 139 | 0.1% | 100% |  |
+| 140 | 0.2% | 99.9% |  |
+| 141 | 0.4% | 99.7% |  |
+| 142 | 0.9% | 99.2% |  |
+| 143 | 2% | 98% |  |
+| 144 | 3% | 97% |  |
+| 145 | 4% | 94% |  |
+| 146 | 5% | 90% |  |
+| 147 | 7% | 85% |  |
+| 148 | 8% | 78% |  |
+| 149 | 9% | 71% |  |
+| 150 | 9% | 62% |  |
+| 151 | 9% | 53% | Median |
+| 152 | 9% | 43% |  |
+| 153 | 8% | 35% |  |
+| 154 | 7% | 26% | Last Result |
+| 155 | 6% | 19% |  |
+| 156 | 5% | 14% |  |
+| 157 | 3% | 9% |  |
+| 158 | 2% | 6% |  |
+| 159 | 2% | 3% |  |
+| 160 | 0.9% | 2% |  |
+| 161 | 0.5% | 1.0% |  |
+| 162 | 0.3% | 0.5% |  |
+| 163 | 0.1% | 0.2% |  |
+| 164 | 0.1% | 0.1% |  |
+| 165 | 0% | 0% |  |
 
 
