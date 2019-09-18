@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
