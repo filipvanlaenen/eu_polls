@@ -45,7 +45,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -78,20 +78,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 3% | 94% |  |
 | 145 | 4% | 91% |  |
 | 146 | 5% | 87% |  |
-| 147 | 7% | 82% |  |
+| 147 | 7% | 81% |  |
 | 148 | 7% | 75% |  |
-| 149 | 8% | 68% |  |
-| 150 | 8% | 60% |  |
+| 149 | 8% | 67% |  |
+| 150 | 8% | 59% |  |
 | 151 | 8% | 51% | Median |
-| 152 | 8% | 43% |  |
-| 153 | 7% | 35% |  |
+| 152 | 8% | 42% |  |
+| 153 | 7% | 34% |  |
 | 154 | 7% | 27% | Last Result |
-| 155 | 6% | 21% |  |
+| 155 | 5% | 20% |  |
 | 156 | 4% | 15% |  |
 | 157 | 3% | 10% |  |
-| 158 | 3% | 7% |  |
-| 159 | 2% | 5% |  |
-| 160 | 1.2% | 3% |  |
+| 158 | 2% | 7% |  |
+| 159 | 2% | 4% |  |
+| 160 | 1.1% | 3% |  |
 | 161 | 0.7% | 2% |  |
 | 162 | 0.4% | 0.9% |  |
 | 163 | 0.2% | 0.4% |  |
