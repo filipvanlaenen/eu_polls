@@ -52,7 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresīvie | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 0.1% | 100% |  |
 | 135 | 0.1% | 99.9% |  |
 | 136 | 0.2% | 99.8% |  |
-| 137 | 0.4% | 99.5% |  |
+| 137 | 0.4% | 99.6% |  |
 | 138 | 0.7% | 99.1% |  |
 | 139 | 1.1% | 98% |  |
 | 140 | 2% | 97% |  |
@@ -80,24 +80,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 4% | 90% |  |
 | 144 | 5% | 86% |  |
 | 145 | 6% | 81% |  |
-| 146 | 7% | 75% |  |
-| 147 | 7% | 68% |  |
-| 148 | 8% | 61% |  |
+| 146 | 7% | 76% |  |
+| 147 | 7% | 69% |  |
+| 148 | 8% | 62% |  |
 | 149 | 8% | 54% | Median |
-| 150 | 7% | 46% |  |
+| 150 | 7% | 47% |  |
 | 151 | 7% | 39% |  |
 | 152 | 6% | 32% |  |
-| 153 | 6% | 25% |  |
+| 153 | 6% | 26% |  |
 | 154 | 5% | 20% | Last Result |
 | 155 | 4% | 15% |  |
 | 156 | 3% | 11% |  |
 | 157 | 2% | 8% |  |
 | 158 | 2% | 5% |  |
-| 159 | 1.3% | 3% |  |
+| 159 | 1.3% | 4% |  |
 | 160 | 0.9% | 2% |  |
 | 161 | 0.6% | 1.4% |  |
 | 162 | 0.4% | 0.8% |  |
-| 163 | 0.2% | 0.4% |  |
+| 163 | 0.2% | 0.5% |  |
 | 164 | 0.1% | 0.2% |  |
 | 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0.1% |  |

@@ -32,6 +32,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Darbo Partija | LT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -41,7 +42,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,7 +59,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalų Sąjūdis | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -75,29 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0.1% | 100% |  |
-| 103 | 0.2% | 99.9% |  |
-| 104 | 0.4% | 99.8% |  |
-| 105 | 0.8% | 99.4% |  |
-| 106 | 1.5% | 98.6% |  |
-| 107 | 3% | 97% |  |
+| 102 | 0% | 100% |  |
+| 103 | 0.1% | 99.9% |  |
+| 104 | 0.3% | 99.8% |  |
+| 105 | 0.7% | 99.5% |  |
+| 106 | 1.4% | 98.7% |  |
+| 107 | 2% | 97% |  |
 | 108 | 4% | 95% | Last Result |
 | 109 | 5% | 91% |  |
-| 110 | 7% | 85% |  |
-| 111 | 9% | 78% |  |
-| 112 | 10% | 69% |  |
-| 113 | 11% | 58% | Median |
-| 114 | 11% | 47% |  |
-| 115 | 10% | 36% |  |
+| 110 | 7% | 86% |  |
+| 111 | 9% | 79% |  |
+| 112 | 10% | 70% |  |
+| 113 | 11% | 59% | Median |
+| 114 | 11% | 48% |  |
+| 115 | 10% | 37% |  |
 | 116 | 9% | 26% |  |
-| 117 | 7% | 17% |  |
-| 118 | 4% | 11% |  |
+| 117 | 7% | 18% |  |
+| 118 | 5% | 11% |  |
 | 119 | 3% | 6% |  |
 | 120 | 2% | 3% |  |
 | 121 | 0.9% | 2% |  |
-| 122 | 0.4% | 0.7% |  |
+| 122 | 0.4% | 0.8% |  |
 | 123 | 0.2% | 0.3% |  |
 | 124 | 0.1% | 0.1% |  |
-| 125 | 0% | 0% |  |
+| 125 | 0% | 0.1% |  |
+| 126 | 0% | 0% |  |
 
 
