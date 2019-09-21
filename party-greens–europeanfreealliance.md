@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **61** seats (-14 seats)
+Current median: **63** seats (-12 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,64 +18,63 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 61 | 58–65 | 58–67 | 57–68 | 56–70 |
-| Bündnis 90/Die Grünen | DE | | 21 | 19–23 | 19–24 | 19–24 | 18–24 |
+| Greens–European Free Alliance | EU | 75 | 63 | 60–67 | 59–68 | 58–69 | 57–70 |
+| Bündnis 90/Die Grünen | DE | | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
-| Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| GroenLinks | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Scottish National Party | GB-GBN | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Scottish National Party | GB-GBN | | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-07-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0% | 100% |  |
-| 55 | 0.3% | 99.9% |  |
-| 56 | 1.0% | 99.7% |  |
-| 57 | 3% | 98.6% |  |
-| 58 | 6% | 96% |  |
-| 59 | 11% | 89% |  |
-| 60 | 15% | 79% |  |
-| 61 | 16% | 64% | Median |
-| 62 | 15% | 48% |  |
-| 63 | 11% | 34% |  |
-| 64 | 8% | 22% |  |
-| 65 | 5% | 15% |  |
-| 66 | 3% | 10% |  |
-| 67 | 3% | 6% |  |
-| 68 | 2% | 4% |  |
-| 69 | 1.1% | 2% |  |
-| 70 | 0.5% | 0.9% |  |
-| 71 | 0.2% | 0.3% |  |
+| 55 | 0% | 100% |  |
+| 56 | 0.2% | 99.9% |  |
+| 57 | 0.8% | 99.7% |  |
+| 58 | 2% | 98.9% |  |
+| 59 | 5% | 97% |  |
+| 60 | 8% | 92% |  |
+| 61 | 12% | 84% |  |
+| 62 | 14% | 72% |  |
+| 63 | 15% | 58% | Median |
+| 64 | 14% | 44% |  |
+| 65 | 11% | 30% |  |
+| 66 | 8% | 19% |  |
+| 67 | 5% | 11% |  |
+| 68 | 3% | 6% |  |
+| 69 | 2% | 3% |  |
+| 70 | 0.7% | 1.1% |  |
+| 71 | 0.3% | 0.4% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
