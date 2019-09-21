@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +40,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
@@ -67,30 +67,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0% | 100% |  |
 | 74 | 0.1% | 100% |  |
 | 75 | 0.3% | 99.8% |  |
-| 76 | 0.7% | 99.6% |  |
+| 76 | 0.8% | 99.5% |  |
 | 77 | 2% | 98.8% |  |
 | 78 | 3% | 97% |  |
 | 79 | 5% | 94% |  |
-| 80 | 7% | 90% |  |
-| 81 | 9% | 83% |  |
-| 82 | 10% | 74% |  |
-| 83 | 10% | 64% |  |
-| 84 | 10% | 54% | Median |
-| 85 | 8% | 44% |  |
-| 86 | 7% | 36% |  |
+| 80 | 7% | 89% |  |
+| 81 | 9% | 82% |  |
+| 82 | 10% | 73% |  |
+| 83 | 10% | 63% |  |
+| 84 | 9% | 53% | Median |
+| 85 | 8% | 43% |  |
+| 86 | 7% | 35% |  |
 | 87 | 5% | 29% |  |
-| 88 | 4% | 24% |  |
+| 88 | 4% | 23% |  |
 | 89 | 4% | 19% |  |
 | 90 | 3% | 15% |  |
 | 91 | 3% | 12% |  |
 | 92 | 3% | 9% |  |
 | 93 | 2% | 6% |  |
 | 94 | 2% | 4% |  |
-| 95 | 1.1% | 2% |  |
-| 96 | 0.7% | 1.4% |  |
+| 95 | 1.0% | 2% |  |
+| 96 | 0.6% | 1.3% |  |
 | 97 | 0.4% | 0.7% |  |
-| 98 | 0.2% | 0.4% |  |
-| 99 | 0.1% | 0.2% |  |
+| 98 | 0.2% | 0.3% |  |
+| 99 | 0.1% | 0.1% |  |
 | 100 | 0% | 0.1% |  |
 | 101 | 0% | 0% |  |
 

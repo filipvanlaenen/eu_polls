@@ -10,15 +10,15 @@ Last result: **154** seats (General Election of 25 May 2014)
 
 Current median: **151** seats (-3 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **27 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GB, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 145–156 | 143–158 | 142–159 | 140–162 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 146–157 | 144–159 | 143–160 | 140–163 |
 | Labour Party | GB-GBN | | 20 | 17–22 | 17–23 | 16–24 | 15–25 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Partito Democratico | IT | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
@@ -46,18 +46,18 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–3 |
-| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresīvie | LV | | 0 | 0 | 0 | 0 | 0 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
 | Sojusz Lewicy Demokratycznej | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -68,35 +68,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 137 | 0.1% | 100% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0.3% | 99.8% |  |
-| 140 | 0.5% | 99.5% |  |
-| 141 | 0.9% | 99.0% |  |
-| 142 | 1.5% | 98% |  |
-| 143 | 2% | 97% |  |
-| 144 | 3% | 94% |  |
-| 145 | 4% | 91% |  |
-| 146 | 6% | 87% |  |
-| 147 | 7% | 81% |  |
-| 148 | 8% | 74% |  |
-| 149 | 8% | 67% |  |
-| 150 | 9% | 59% |  |
-| 151 | 8% | 50% | Median |
-| 152 | 8% | 42% |  |
-| 153 | 7% | 33% |  |
-| 154 | 6% | 26% | Last Result |
-| 155 | 5% | 20% |  |
-| 156 | 4% | 14% |  |
-| 157 | 3% | 10% |  |
-| 158 | 2% | 7% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.1% | 2% |  |
-| 161 | 0.7% | 1.4% |  |
-| 162 | 0.4% | 0.8% |  |
-| 163 | 0.2% | 0.4% |  |
-| 164 | 0.1% | 0.2% |  |
-| 165 | 0% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 138 | 0.1% | 100% |  |
+| 139 | 0.2% | 99.9% |  |
+| 140 | 0.3% | 99.7% |  |
+| 141 | 0.6% | 99.4% |  |
+| 142 | 1.0% | 98.8% |  |
+| 143 | 2% | 98% |  |
+| 144 | 3% | 96% |  |
+| 145 | 4% | 94% |  |
+| 146 | 5% | 90% |  |
+| 147 | 6% | 85% |  |
+| 148 | 7% | 79% |  |
+| 149 | 8% | 72% |  |
+| 150 | 8% | 65% |  |
+| 151 | 9% | 56% | Median |
+| 152 | 8% | 48% |  |
+| 153 | 8% | 39% |  |
+| 154 | 7% | 31% | Last Result |
+| 155 | 6% | 24% |  |
+| 156 | 5% | 18% |  |
+| 157 | 4% | 13% |  |
+| 158 | 3% | 9% |  |
+| 159 | 2% | 6% |  |
+| 160 | 1.4% | 3% |  |
+| 161 | 0.9% | 2% |  |
+| 162 | 0.5% | 1.1% |  |
+| 163 | 0.3% | 0.6% |  |
+| 164 | 0.2% | 0.3% |  |
+| 165 | 0.1% | 0.1% |  |
+| 166 | 0% | 0.1% |  |
+| 167 | 0% | 0% |  |
 
 
