@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **165** seats (-17 seats)
+Current median: **164** seats (-18 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 165 | 159–170 | 158–171 | 156–172 | 154–175 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–22 | 18–22 | 18–23 |
+| European People’s Party | EU | 182 | 164 | 159–170 | 157–171 | 156–172 | 153–175 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
-| Partido Popular | ES | | 11 | 10–13 | 10–13 | 9–13 | 9–15 |
+| Partido Popular | ES | | 11 | 10–13 | 9–13 | 9–15 | 8–15 |
 | Partidul Național Liberal | RO | | 10 | 9–12 | 9–12 | 8–12 | 8–12 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 7 | 7 | 6–7 | 6–7 | 6–7 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–6 | 0–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -80,29 +80,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 151 | 0.1% | 100% |  |
 | 152 | 0.1% | 99.9% |  |
-| 153 | 0.2% | 99.8% |  |
-| 154 | 0.4% | 99.6% |  |
-| 155 | 0.8% | 99.1% |  |
-| 156 | 1.2% | 98% |  |
+| 153 | 0.3% | 99.7% |  |
+| 154 | 0.5% | 99.5% |  |
+| 155 | 0.9% | 99.0% |  |
+| 156 | 1.4% | 98% |  |
 | 157 | 2% | 97% |  |
 | 158 | 3% | 95% |  |
 | 159 | 4% | 92% |  |
-| 160 | 5% | 89% |  |
-| 161 | 6% | 84% |  |
-| 162 | 8% | 77% |  |
-| 163 | 9% | 69% |  |
-| 164 | 10% | 61% |  |
-| 165 | 10% | 51% | Median |
-| 166 | 9% | 41% |  |
-| 167 | 8% | 32% |  |
-| 168 | 7% | 24% |  |
-| 169 | 6% | 17% |  |
+| 160 | 5% | 88% |  |
+| 161 | 7% | 82% |  |
+| 162 | 8% | 76% |  |
+| 163 | 9% | 68% |  |
+| 164 | 10% | 59% | Median |
+| 165 | 10% | 49% |  |
+| 166 | 9% | 40% |  |
+| 167 | 8% | 31% |  |
+| 168 | 7% | 22% |  |
+| 169 | 5% | 16% |  |
 | 170 | 4% | 11% |  |
 | 171 | 3% | 7% |  |
 | 172 | 2% | 4% |  |
 | 173 | 1.1% | 2% |  |
 | 174 | 0.6% | 1.3% |  |
-| 175 | 0.3% | 0.7% |  |
+| 175 | 0.3% | 0.6% |  |
 | 176 | 0.2% | 0.3% |  |
 | 177 | 0.1% | 0.1% |  |
 | 178 | 0% | 0.1% |  |
