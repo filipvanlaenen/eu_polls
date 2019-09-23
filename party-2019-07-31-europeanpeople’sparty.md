@@ -37,7 +37,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3 | 2–4 | 2–4 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Kristdemokraterna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 0.1% | 100% |  |
 | 151 | 0.1% | 99.9% |  |
 | 152 | 0.2% | 99.8% |  |
-| 153 | 0.5% | 99.5% |  |
+| 153 | 0.5% | 99.6% |  |
 | 154 | 0.8% | 99.1% |  |
 | 155 | 1.3% | 98% |  |
 | 156 | 2% | 97% |  |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 5% | 88% |  |
 | 160 | 7% | 83% |  |
 | 161 | 8% | 76% |  |
-| 162 | 9% | 68% |  |
+| 162 | 9% | 69% |  |
 | 163 | 9% | 60% |  |
 | 164 | 9% | 50% | Median |
 | 165 | 9% | 41% |  |
@@ -100,7 +100,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 169 | 4% | 12% |  |
 | 170 | 3% | 8% |  |
 | 171 | 2% | 5% |  |
-| 172 | 1.2% | 3% |  |
+| 172 | 1.3% | 3% |  |
 | 173 | 0.8% | 2% |  |
 | 174 | 0.4% | 0.9% |  |
 | 175 | 0.2% | 0.4% |  |

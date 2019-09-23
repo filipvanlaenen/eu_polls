@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 0–5 | 0–5 | 0–5 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -48,13 +48,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 15% | 90% |  |
-| 2 | 17% | 76% |  |
-| 3 | 28% | 59% | Median |
-| 4 | 23% | 30% |  |
-| 5 | 7% | 7% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 14% | 86% |  |
+| 2 | 18% | 72% |  |
+| 3 | 32% | 54% | Median |
+| 4 | 19% | 21% |  |
+| 5 | 2% | 3% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
