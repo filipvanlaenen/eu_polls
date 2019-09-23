@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 43–49 | 43–50 | 42–51 | 41–52 |
-| Die Linke | DE | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| Unidos Podemos | ES | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 46 | 44–49 | 43–50 | 42–50 | 42–52 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 7 | 7 | 7 | 7 | 7 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 1 | 1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -55,21 +55,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.2% | 100% |  |
-| 41 | 0.9% | 99.8% | Last Result |
-| 42 | 3% | 98.9% |  |
-| 43 | 7% | 96% |  |
-| 44 | 12% | 89% |  |
-| 45 | 15% | 78% |  |
-| 46 | 17% | 62% | Median |
-| 47 | 16% | 45% |  |
-| 48 | 12% | 29% |  |
-| 49 | 8% | 17% |  |
-| 50 | 5% | 9% |  |
-| 51 | 2% | 4% |  |
-| 52 | 0.9% | 1.4% |  |
-| 53 | 0.3% | 0.4% |  |
-| 54 | 0.1% | 0.1% |  |
-| 55 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.4% | 99.9% | Last Result |
+| 42 | 2% | 99.5% |  |
+| 43 | 6% | 97% |  |
+| 44 | 12% | 91% |  |
+| 45 | 17% | 80% |  |
+| 46 | 19% | 63% | Median |
+| 47 | 17% | 44% |  |
+| 48 | 13% | 27% |  |
+| 49 | 8% | 14% |  |
+| 50 | 4% | 6% |  |
+| 51 | 2% | 2% |  |
+| 52 | 0.6% | 0.8% |  |
+| 53 | 0.2% | 0.2% |  |
+| 54 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -29,7 +29,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
+| Laisvės partija [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,10 +52,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 15% | 100% |  |
-| 3 | 53% | 85% | Median |
-| 4 | 31% | 32% |  |
-| 5 | 1.0% | 1.0% |  |
-| 6 | 0% | 0% |  |
+| 2 | 10% | 100% |  |
+| 3 | 41% | 90% | Median |
+| 4 | 38% | 48% |  |
+| 5 | 10% | 10% |  |
+| 6 | 0.3% | 0.3% |  |
+| 7 | 0% | 0% |  |
 
 
