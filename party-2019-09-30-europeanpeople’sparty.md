@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 164 | 158–170 | 157–171 | 155–173 | 153–175 |
+| European People’s Party | EU | 182 | 164 | 158–169 | 157–171 | 155–172 | 153–175 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
@@ -30,13 +30,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 6 | 6 | 6 | 6 | 6 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā Vienotība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -66,7 +66,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 
@@ -80,31 +80,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 150 | 0.1% | 100% |  |
 | 151 | 0.1% | 99.9% |  |
-| 152 | 0.2% | 99.8% |  |
-| 153 | 0.4% | 99.5% |  |
-| 154 | 0.7% | 99.1% |  |
+| 152 | 0.3% | 99.8% |  |
+| 153 | 0.5% | 99.5% |  |
+| 154 | 0.8% | 99.1% |  |
 | 155 | 1.2% | 98% |  |
 | 156 | 2% | 97% |  |
-| 157 | 3% | 96% |  |
-| 158 | 3% | 93% |  |
-| 159 | 5% | 90% |  |
-| 160 | 6% | 85% |  |
-| 161 | 7% | 79% |  |
-| 162 | 8% | 72% |  |
-| 163 | 9% | 64% |  |
-| 164 | 9% | 55% | Median |
-| 165 | 9% | 46% |  |
-| 166 | 8% | 37% |  |
-| 167 | 7% | 29% |  |
-| 168 | 6% | 22% |  |
+| 157 | 3% | 95% |  |
+| 158 | 4% | 93% |  |
+| 159 | 5% | 89% |  |
+| 160 | 6% | 84% |  |
+| 161 | 7% | 78% |  |
+| 162 | 8% | 71% |  |
+| 163 | 9% | 63% |  |
+| 164 | 9% | 54% | Median |
+| 165 | 9% | 45% |  |
+| 166 | 8% | 36% |  |
+| 167 | 7% | 28% |  |
+| 168 | 6% | 21% |  |
 | 169 | 5% | 15% |  |
-| 170 | 4% | 11% |  |
-| 171 | 3% | 7% |  |
+| 170 | 4% | 10% |  |
+| 171 | 2% | 6% |  |
 | 172 | 2% | 4% |  |
-| 173 | 1.1% | 3% |  |
-| 174 | 0.7% | 1.4% |  |
-| 175 | 0.4% | 0.8% |  |
-| 176 | 0.2% | 0.4% |  |
+| 173 | 1.0% | 2% |  |
+| 174 | 0.6% | 1.3% |  |
+| 175 | 0.3% | 0.7% |  |
+| 176 | 0.2% | 0.3% |  |
 | 177 | 0.1% | 0.2% |  |
 | 178 | 0% | 0.1% |  |
 | 179 | 0% | 0% |  |
