@@ -38,7 +38,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -52,8 +52,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 9% | 100% |  |
-| 3 | 54% | 91% | Median |
-| 4 | 35% | 37% |  |
+| 3 | 53% | 91% | Median |
+| 4 | 36% | 38% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 

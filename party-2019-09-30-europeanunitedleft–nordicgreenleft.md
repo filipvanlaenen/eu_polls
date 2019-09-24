@@ -10,9 +10,9 @@ Last result: **41** seats (General Election of 25 May 2014)
 
 Current median: **47** seats (+6 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GB, GR, IE, NL, PT, SE, SI
+> BE, CY, CZ, DE, DK, ES, FI, FR, GB, GR, IE, NL, PT, SE, SI
 
 ### Confidence Intervals
 
@@ -29,6 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +41,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0 | 0 | 0 | 0 |
@@ -56,18 +56,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% | Last Result |
-| 42 | 0.8% | 99.9% |  |
-| 43 | 3% | 99.1% |  |
+| 42 | 0.7% | 99.9% |  |
+| 43 | 3% | 99.2% |  |
 | 44 | 7% | 96% |  |
-| 45 | 13% | 89% |  |
-| 46 | 18% | 76% |  |
-| 47 | 19% | 58% | Median |
-| 48 | 17% | 39% |  |
-| 49 | 12% | 22% |  |
-| 50 | 6% | 10% |  |
+| 45 | 13% | 90% |  |
+| 46 | 17% | 77% |  |
+| 47 | 19% | 60% | Median |
+| 48 | 17% | 40% |  |
+| 49 | 12% | 23% |  |
+| 50 | 7% | 11% |  |
 | 51 | 3% | 4% |  |
 | 52 | 1.0% | 1.3% |  |
-| 53 | 0.2% | 0.3% |  |
+| 53 | 0.3% | 0.3% |  |
 | 54 | 0% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
