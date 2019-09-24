@@ -18,21 +18,21 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 87 | 83–96 | 81–98 | 80–100 | 79–103 |
-| Conservative Party | GB-GBN | | 26 | 24–36 | 24–37 | 23–38 | 23–38 |
+| European Conservatives and Reformists | EU | 62 | 87 | 82–95 | 81–98 | 80–99 | 78–102 |
+| Conservative Party | GB-GBN | | 26 | 24–36 | 24–37 | 24–38 | 23–38 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| Fratelli d’Italia | IT | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
+| Fratelli d’Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| Vox | ES | | 5 | 3–6 | 3–6 | 3–6 | 2–7 |
 | Forum voor Democratie | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| Vox | ES | | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
-| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
+| Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -67,37 +67,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0% | 100% |  |
 | 74 | 0% | 100% |  |
 | 75 | 0% | 100% |  |
-| 76 | 0% | 100% |  |
-| 77 | 0.1% | 100% |  |
-| 78 | 0.3% | 99.9% |  |
-| 79 | 0.7% | 99.6% |  |
-| 80 | 1.5% | 98.9% |  |
-| 81 | 3% | 97% |  |
-| 82 | 5% | 95% |  |
-| 83 | 7% | 90% |  |
-| 84 | 8% | 84% |  |
-| 85 | 10% | 75% |  |
-| 86 | 10% | 66% |  |
-| 87 | 10% | 56% | Median |
-| 88 | 9% | 46% |  |
-| 89 | 7% | 37% |  |
-| 90 | 6% | 30% |  |
-| 91 | 4% | 25% |  |
-| 92 | 3% | 20% |  |
-| 93 | 3% | 17% |  |
-| 94 | 2% | 14% |  |
-| 95 | 2% | 12% |  |
-| 96 | 2% | 10% |  |
-| 97 | 2% | 8% |  |
-| 98 | 2% | 6% |  |
-| 99 | 1.4% | 4% |  |
-| 100 | 1.1% | 3% |  |
-| 101 | 0.8% | 2% |  |
-| 102 | 0.5% | 1.0% |  |
-| 103 | 0.3% | 0.6% |  |
-| 104 | 0.1% | 0.3% |  |
-| 105 | 0.1% | 0.1% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 76 | 0.1% | 100% |  |
+| 77 | 0.2% | 99.9% |  |
+| 78 | 0.4% | 99.8% |  |
+| 79 | 1.0% | 99.3% |  |
+| 80 | 2% | 98% |  |
+| 81 | 3% | 96% |  |
+| 82 | 5% | 93% |  |
+| 83 | 7% | 88% |  |
+| 84 | 9% | 80% |  |
+| 85 | 10% | 71% |  |
+| 86 | 10% | 61% |  |
+| 87 | 10% | 51% | Median |
+| 88 | 8% | 41% |  |
+| 89 | 7% | 33% |  |
+| 90 | 5% | 27% |  |
+| 91 | 4% | 22% |  |
+| 92 | 3% | 18% |  |
+| 93 | 2% | 15% |  |
+| 94 | 2% | 13% |  |
+| 95 | 2% | 11% |  |
+| 96 | 2% | 9% |  |
+| 97 | 2% | 7% |  |
+| 98 | 2% | 5% |  |
+| 99 | 1.2% | 3% |  |
+| 100 | 0.9% | 2% |  |
+| 101 | 0.6% | 1.4% |  |
+| 102 | 0.4% | 0.8% |  |
+| 103 | 0.2% | 0.4% |  |
+| 104 | 0.1% | 0.2% |  |
+| 105 | 0% | 0.1% |  |
+| 106 | 0% | 0% |  |
 
 
