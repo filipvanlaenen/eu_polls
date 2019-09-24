@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **113** seats (+5 seats)
+Current median: **112** seats (+4 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 109–118 | 107–119 | 106–120 | 104–122 |
+| Renew Europe | EU | 108 | 112 | 108–117 | 106–118 | 105–119 | 103–121 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 9–15 | 9–15 | 8–16 | 7–17 |
 | Alianța 2020 USR-PLUS | RO | | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
@@ -39,7 +39,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -75,29 +74,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0% | 100% |  |
-| 103 | 0.1% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.7% | 99.5% |  |
-| 106 | 1.4% | 98.7% |  |
-| 107 | 2% | 97% |  |
-| 108 | 4% | 95% | Last Result |
-| 109 | 5% | 91% |  |
-| 110 | 7% | 86% |  |
-| 111 | 9% | 79% |  |
-| 112 | 10% | 70% |  |
-| 113 | 11% | 59% | Median |
-| 114 | 11% | 48% |  |
-| 115 | 10% | 37% |  |
-| 116 | 9% | 26% |  |
-| 117 | 7% | 17% |  |
-| 118 | 5% | 11% |  |
-| 119 | 3% | 6% |  |
-| 120 | 2% | 3% |  |
-| 121 | 0.9% | 2% |  |
-| 122 | 0.4% | 0.8% |  |
-| 123 | 0.2% | 0.3% |  |
-| 124 | 0.1% | 0.1% |  |
-| 125 | 0% | 0% |  |
+| 101 | 0% | 100% |  |
+| 102 | 0.1% | 99.9% |  |
+| 103 | 0.3% | 99.8% |  |
+| 104 | 0.7% | 99.5% |  |
+| 105 | 1.4% | 98.7% |  |
+| 106 | 2% | 97% |  |
+| 107 | 4% | 95% |  |
+| 108 | 5% | 91% | Last Result |
+| 109 | 7% | 86% |  |
+| 110 | 9% | 79% |  |
+| 111 | 10% | 70% |  |
+| 112 | 11% | 59% | Median |
+| 113 | 11% | 48% |  |
+| 114 | 10% | 37% |  |
+| 115 | 9% | 26% |  |
+| 116 | 7% | 17% |  |
+| 117 | 5% | 11% |  |
+| 118 | 3% | 6% |  |
+| 119 | 2% | 3% |  |
+| 120 | 0.9% | 2% |  |
+| 121 | 0.4% | 0.8% |  |
+| 122 | 0.2% | 0.3% |  |
+| 123 | 0.1% | 0.1% |  |
+| 124 | 0% | 0% |  |
 
 
