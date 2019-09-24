@@ -10,9 +10,9 @@ Last result: **182** seats (General Election of 25 May 2014)
 
 Current median: **164** seats (-18 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -34,7 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
@@ -50,9 +50,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -60,14 +59,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | KPV LV | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
-| TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 
 ### Probability Mass Function
@@ -83,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 152 | 0.2% | 99.8% |  |
 | 153 | 0.4% | 99.6% |  |
 | 154 | 0.7% | 99.2% |  |
-| 155 | 1.1% | 98.5% |  |
+| 155 | 1.1% | 98.6% |  |
 | 156 | 2% | 97% |  |
 | 157 | 2% | 96% |  |
 | 158 | 3% | 93% |  |
@@ -91,18 +91,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 6% | 86% |  |
 | 161 | 7% | 80% |  |
 | 162 | 8% | 73% |  |
-| 163 | 9% | 65% |  |
-| 164 | 9% | 56% | Median |
-| 165 | 9% | 47% |  |
-| 166 | 8% | 38% |  |
+| 163 | 9% | 66% |  |
+| 164 | 9% | 57% | Median |
+| 165 | 9% | 48% |  |
+| 166 | 9% | 39% |  |
 | 167 | 8% | 30% |  |
-| 168 | 6% | 22% |  |
+| 168 | 6% | 23% |  |
 | 169 | 5% | 16% |  |
 | 170 | 4% | 11% |  |
 | 171 | 3% | 7% |  |
-| 172 | 2% | 4% |  |
-| 173 | 1.1% | 3% |  |
-| 174 | 0.7% | 1.4% |  |
+| 172 | 2% | 5% |  |
+| 173 | 1.2% | 3% |  |
+| 174 | 0.7% | 2% |  |
 | 175 | 0.4% | 0.8% |  |
 | 176 | 0.2% | 0.4% |  |
 | 177 | 0.1% | 0.2% |  |
