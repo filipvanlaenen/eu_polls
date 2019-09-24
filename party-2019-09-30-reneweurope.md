@@ -24,7 +24,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–11 | 6–11 | 6–11 | 6–11 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
+| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -44,7 +44,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -79,32 +79,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 0% | 100% |  |
 | 104 | 0.1% | 99.9% |  |
 | 105 | 0.3% | 99.8% |  |
-| 106 | 0.6% | 99.6% |  |
-| 107 | 1.1% | 99.0% |  |
+| 106 | 0.6% | 99.5% |  |
+| 107 | 1.1% | 98.9% |  |
 | 108 | 2% | 98% | Last Result |
 | 109 | 3% | 96% |  |
 | 110 | 4% | 93% |  |
-| 111 | 5% | 90% |  |
+| 111 | 5% | 89% |  |
 | 112 | 6% | 84% |  |
 | 113 | 7% | 78% |  |
-| 114 | 8% | 71% |  |
-| 115 | 8% | 63% |  |
-| 116 | 8% | 55% | Median |
+| 114 | 8% | 70% |  |
+| 115 | 8% | 62% |  |
+| 116 | 8% | 54% | Median |
 | 117 | 8% | 46% |  |
 | 118 | 7% | 38% |  |
-| 119 | 7% | 31% |  |
+| 119 | 7% | 30% |  |
 | 120 | 6% | 24% |  |
 | 121 | 5% | 18% |  |
 | 122 | 4% | 13% |  |
-| 123 | 3% | 10% |  |
-| 124 | 2% | 7% |  |
+| 123 | 3% | 9% |  |
+| 124 | 2% | 6% |  |
 | 125 | 2% | 4% |  |
 | 126 | 1.1% | 3% |  |
 | 127 | 0.7% | 2% |  |
-| 128 | 0.5% | 1.0% |  |
+| 128 | 0.4% | 1.0% |  |
 | 129 | 0.3% | 0.6% |  |
-| 130 | 0.2% | 0.3% |  |
-| 131 | 0.1% | 0.2% |  |
+| 130 | 0.1% | 0.3% |  |
+| 131 | 0.1% | 0.1% |  |
 | 132 | 0% | 0.1% |  |
 | 133 | 0% | 0% |  |
 
