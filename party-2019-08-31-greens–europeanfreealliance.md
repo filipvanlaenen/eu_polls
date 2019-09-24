@@ -18,15 +18,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 59–66 | 58–67 | 57–67 | 56–69 |
+| Greens–European Free Alliance | EU | 75 | 62 | 59–66 | 58–67 | 57–67 | 55–69 |
 | Bündnis 90/Die Grünen | DE | | 23 | 21–24 | 20–24 | 19–25 | 19–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
-| Česká pirátská strana | CZ | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -59,21 +59,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.1% | 100% |  |
-| 55 | 0.3% | 99.9% |  |
-| 56 | 0.9% | 99.6% |  |
-| 57 | 2% | 98.6% |  |
+| 55 | 0.4% | 99.9% |  |
+| 56 | 1.0% | 99.5% |  |
+| 57 | 2% | 98% |  |
 | 58 | 5% | 96% |  |
-| 59 | 8% | 92% |  |
-| 60 | 11% | 84% |  |
-| 61 | 14% | 73% |  |
-| 62 | 15% | 59% | Median |
-| 63 | 14% | 44% |  |
+| 59 | 8% | 91% |  |
+| 60 | 11% | 83% |  |
+| 61 | 14% | 72% |  |
+| 62 | 15% | 58% | Median |
+| 63 | 14% | 43% |  |
 | 64 | 11% | 30% |  |
 | 65 | 8% | 19% |  |
-| 66 | 5% | 11% |  |
+| 66 | 5% | 10% |  |
 | 67 | 3% | 5% |  |
 | 68 | 1.4% | 2% |  |
-| 69 | 0.6% | 0.8% |  |
+| 69 | 0.5% | 0.8% |  |
 | 70 | 0.2% | 0.2% |  |
 | 71 | 0% | 0.1% |  |
 | 72 | 0% | 0% |  |

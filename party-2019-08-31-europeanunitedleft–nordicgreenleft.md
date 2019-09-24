@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -55,16 +55,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.2% | 100% |  |
-| 41 | 1.0% | 99.8% | Last Result |
-| 42 | 4% | 98.7% |  |
-| 43 | 8% | 95% |  |
-| 44 | 14% | 87% |  |
-| 45 | 19% | 72% |  |
-| 46 | 19% | 54% | Median |
-| 47 | 16% | 34% |  |
-| 48 | 10% | 18% |  |
-| 49 | 5% | 8% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.8% | 99.8% | Last Result |
+| 42 | 3% | 99.1% |  |
+| 43 | 7% | 96% |  |
+| 44 | 13% | 89% |  |
+| 45 | 19% | 76% |  |
+| 46 | 20% | 57% | Median |
+| 47 | 17% | 37% |  |
+| 48 | 11% | 20% |  |
+| 49 | 6% | 9% |  |
 | 50 | 2% | 3% |  |
 | 51 | 0.7% | 0.9% |  |
 | 52 | 0.2% | 0.2% |  |
