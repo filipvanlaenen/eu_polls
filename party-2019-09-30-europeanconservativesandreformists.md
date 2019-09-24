@@ -10,15 +10,15 @@ Last result: **62** seats (General Election of 25 May 2014)
 
 Current median: **84** seats (+22 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, GB, GR, IT, LT, LV, NL, PL, SE, SK
+> BE, BG, CZ, DE, ES, GB, GR, IT, LT, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 84 | 79–91 | 78–93 | 76–95 | 74–97 |
+| European Conservatives and Reformists | EU | 62 | 84 | 79–92 | 78–94 | 76–95 | 74–98 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Conservative Party | GB-GBN | | 25 | 23–33 | 22–33 | 22–34 | 21–35 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
@@ -28,6 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | ВМРО–Българско Национално Движение | BG | | 2 | 2 | 2 | 2 | 2 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -36,7 +37,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -65,33 +65,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.1% | 100% |  |
 | 72 | 0.1% | 99.9% |  |
 | 73 | 0.2% | 99.8% |  |
-| 74 | 0.4% | 99.5% |  |
-| 75 | 0.7% | 99.1% |  |
+| 74 | 0.4% | 99.6% |  |
+| 75 | 0.7% | 99.2% |  |
 | 76 | 1.1% | 98% |  |
 | 77 | 2% | 97% |  |
 | 78 | 3% | 96% |  |
 | 79 | 4% | 93% |  |
 | 80 | 6% | 89% |  |
 | 81 | 8% | 83% |  |
-| 82 | 9% | 75% |  |
-| 83 | 10% | 66% |  |
-| 84 | 10% | 56% | Median |
-| 85 | 9% | 46% |  |
-| 86 | 7% | 38% |  |
-| 87 | 6% | 30% |  |
-| 88 | 5% | 24% |  |
-| 89 | 4% | 19% |  |
-| 90 | 3% | 15% |  |
-| 91 | 3% | 12% |  |
-| 92 | 3% | 9% |  |
-| 93 | 2% | 6% |  |
-| 94 | 2% | 4% |  |
-| 95 | 1.1% | 3% |  |
-| 96 | 0.7% | 2% |  |
-| 97 | 0.4% | 0.9% |  |
-| 98 | 0.3% | 0.5% |  |
-| 99 | 0.1% | 0.2% |  |
-| 100 | 0.1% | 0.1% |  |
-| 101 | 0% | 0% |  |
+| 82 | 9% | 76% |  |
+| 83 | 10% | 67% |  |
+| 84 | 9% | 57% | Median |
+| 85 | 8% | 48% |  |
+| 86 | 7% | 39% |  |
+| 87 | 6% | 32% |  |
+| 88 | 4% | 27% |  |
+| 89 | 4% | 22% |  |
+| 90 | 3% | 18% |  |
+| 91 | 3% | 15% |  |
+| 92 | 3% | 12% |  |
+| 93 | 3% | 9% |  |
+| 94 | 2% | 6% |  |
+| 95 | 2% | 4% |  |
+| 96 | 1.1% | 2% |  |
+| 97 | 0.7% | 1.4% |  |
+| 98 | 0.4% | 0.7% |  |
+| 99 | 0.2% | 0.4% |  |
+| 100 | 0.1% | 0.2% |  |
+| 101 | 0% | 0.1% |  |
+| 102 | 0% | 0% |  |
 
 

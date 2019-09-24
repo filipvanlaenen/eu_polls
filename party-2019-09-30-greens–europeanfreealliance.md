@@ -29,11 +29,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,22 +60,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.2% | 100% |  |
-| 55 | 0.8% | 99.7% |  |
-| 56 | 2% | 98.9% |  |
-| 57 | 5% | 97% |  |
-| 58 | 8% | 92% |  |
-| 59 | 11% | 84% |  |
-| 60 | 14% | 72% |  |
-| 61 | 15% | 58% | Median |
-| 62 | 14% | 44% |  |
-| 63 | 11% | 30% |  |
-| 64 | 7% | 19% |  |
-| 65 | 4% | 12% |  |
+| 55 | 0.6% | 99.8% |  |
+| 56 | 2% | 99.1% |  |
+| 57 | 4% | 97% |  |
+| 58 | 7% | 93% |  |
+| 59 | 11% | 86% |  |
+| 60 | 14% | 75% |  |
+| 61 | 15% | 60% | Median |
+| 62 | 14% | 45% |  |
+| 63 | 11% | 31% |  |
+| 64 | 7% | 20% |  |
+| 65 | 4% | 13% |  |
 | 66 | 3% | 8% |  |
 | 67 | 2% | 5% |  |
-| 68 | 1.5% | 3% |  |
+| 68 | 2% | 3% |  |
 | 69 | 1.0% | 2% |  |
-| 70 | 0.5% | 0.7% |  |
+| 70 | 0.5% | 0.8% |  |
 | 71 | 0.2% | 0.3% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |

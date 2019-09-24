@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 78 | 74–82 | 73–83 | 73–84 | 71–85 |
+| Identity and Democracy | EU | 73 | 78 | 75–82 | 74–83 | 73–84 | 71–86 |
 | Lega Nord | IT | | 25 | 23–28 | 22–29 | 21–30 | 20–31 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
 | Alternative für Deutschland | DE | | 12 | 12–16 | 12–16 | 11–16 | 10–16 |
@@ -27,9 +27,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| SME RODINA | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -42,25 +42,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.6% | 99.7% |  |
-| 72 | 2% | 99.1% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.4% | 99.8% |  |
+| 72 | 1.1% | 99.4% |  |
 | 73 | 3% | 98% | Last Result |
-| 74 | 6% | 94% |  |
-| 75 | 9% | 88% |  |
-| 76 | 12% | 79% |  |
-| 77 | 14% | 68% |  |
-| 78 | 14% | 54% | Median |
-| 79 | 13% | 40% |  |
-| 80 | 10% | 27% |  |
-| 81 | 7% | 17% |  |
-| 82 | 5% | 10% |  |
-| 83 | 3% | 5% |  |
-| 84 | 1.5% | 3% |  |
-| 85 | 0.7% | 1.1% |  |
-| 86 | 0.3% | 0.4% |  |
-| 87 | 0.1% | 0.1% |  |
-| 88 | 0% | 0% |  |
+| 74 | 5% | 96% |  |
+| 75 | 8% | 91% |  |
+| 76 | 11% | 83% |  |
+| 77 | 13% | 72% |  |
+| 78 | 14% | 58% | Median |
+| 79 | 13% | 44% |  |
+| 80 | 11% | 31% |  |
+| 81 | 8% | 20% |  |
+| 82 | 5% | 12% |  |
+| 83 | 3% | 7% |  |
+| 84 | 2% | 4% |  |
+| 85 | 1.0% | 2% |  |
+| 86 | 0.4% | 0.7% |  |
+| 87 | 0.2% | 0.3% |  |
+| 88 | 0.1% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 
