@@ -8,52 +8,53 @@ Members registered from **25 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **113** seats (+5 seats)
+Current median: **114** seats (+6 seats)
 
-At least one member in **21 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LU, LV, NL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 108–119 | 106–121 | 105–122 | 103–125 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 108–122 | 107–124 | 105–126 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 11 | 8–16 | 8–17 | 6–18 | 6–18 |
+| Liberal Democrats | GB-GBN | | 13 | 10–18 | 9–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–11 | 6–11 | 6–11 | 6–11 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Fianna Fáil | IE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Venstre | DK | | 4 | 4 | 4 | 3–4 | 3–4 |
-| Eesti Reformierakond | EE | | 3 | 3 | 3 | 3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Italia Viva | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -69,40 +70,39 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-08-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-08-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 101 | 0.1% | 100% |  |
-| 102 | 0.2% | 99.9% |  |
-| 103 | 0.4% | 99.7% |  |
-| 104 | 0.8% | 99.3% |  |
-| 105 | 1.5% | 98.5% |  |
-| 106 | 2% | 97% |  |
-| 107 | 4% | 95% |  |
-| 108 | 5% | 91% | Last Result |
-| 109 | 6% | 86% |  |
-| 110 | 7% | 80% |  |
-| 111 | 8% | 73% |  |
-| 112 | 9% | 65% |  |
-| 113 | 9% | 56% | Median |
-| 114 | 8% | 47% |  |
-| 115 | 8% | 39% |  |
-| 116 | 7% | 31% |  |
-| 117 | 6% | 24% |  |
-| 118 | 5% | 18% |  |
-| 119 | 4% | 13% |  |
-| 120 | 3% | 9% |  |
-| 121 | 2% | 6% |  |
-| 122 | 1.4% | 3% |  |
-| 123 | 0.9% | 2% |  |
-| 124 | 0.5% | 1.1% |  |
-| 125 | 0.3% | 0.6% |  |
-| 126 | 0.1% | 0.3% |  |
-| 127 | 0.1% | 0.1% |  |
-| 128 | 0% | 0.1% |  |
-| 129 | 0% | 0% |  |
+| 103 | 0.1% | 100% |  |
+| 104 | 0.3% | 99.8% |  |
+| 105 | 0.6% | 99.6% |  |
+| 106 | 1.1% | 99.0% |  |
+| 107 | 2% | 98% |  |
+| 108 | 3% | 96% | Last Result |
+| 109 | 5% | 93% |  |
+| 110 | 6% | 88% |  |
+| 111 | 7% | 82% |  |
+| 112 | 8% | 75% |  |
+| 113 | 9% | 67% |  |
+| 114 | 9% | 58% | Median |
+| 115 | 9% | 49% |  |
+| 116 | 8% | 40% |  |
+| 117 | 7% | 32% |  |
+| 118 | 6% | 25% |  |
+| 119 | 5% | 18% |  |
+| 120 | 4% | 13% |  |
+| 121 | 3% | 9% |  |
+| 122 | 2% | 6% |  |
+| 123 | 2% | 4% |  |
+| 124 | 1.0% | 3% |  |
+| 125 | 0.7% | 1.5% |  |
+| 126 | 0.4% | 0.8% |  |
+| 127 | 0.2% | 0.4% |  |
+| 128 | 0.1% | 0.2% |  |
+| 129 | 0.1% | 0.1% |  |
+| 130 | 0% | 0% |  |
 
 
