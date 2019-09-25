@@ -28,7 +28,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Laisvės partija [LT] (*) | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,7 +52,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 13% | 100% |  |
 | 3 | 49% | 87% | Median |
-| 4 | 34% | 38% |  |
+| 4 | 33% | 37% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.2% |  |
 | 7 | 0% | 0% |  |
