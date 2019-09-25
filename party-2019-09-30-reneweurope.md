@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–120 | 108–122 | 107–123 | 105–126 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 107–122 | 106–123 | 104–126 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 9–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -27,10 +27,10 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Italia Viva | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
@@ -65,7 +65,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -76,34 +76,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0% | 100% |  |
-| 103 | 0.1% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.6% | 99.6% |  |
-| 106 | 1.2% | 99.0% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 96% | Last Result |
-| 109 | 5% | 93% |  |
-| 110 | 6% | 88% |  |
-| 111 | 7% | 82% |  |
-| 112 | 8% | 75% |  |
-| 113 | 9% | 66% |  |
-| 114 | 9% | 58% | Median |
-| 115 | 9% | 48% |  |
-| 116 | 8% | 40% |  |
-| 117 | 7% | 32% |  |
-| 118 | 6% | 24% |  |
-| 119 | 5% | 18% |  |
-| 120 | 4% | 13% |  |
-| 121 | 3% | 9% |  |
+| 102 | 0.1% | 100% |  |
+| 103 | 0.2% | 99.9% |  |
+| 104 | 0.4% | 99.8% |  |
+| 105 | 0.7% | 99.4% |  |
+| 106 | 1.4% | 98.7% |  |
+| 107 | 2% | 97% |  |
+| 108 | 4% | 95% | Last Result |
+| 109 | 5% | 91% |  |
+| 110 | 6% | 87% |  |
+| 111 | 8% | 80% |  |
+| 112 | 9% | 73% |  |
+| 113 | 9% | 64% |  |
+| 114 | 9% | 55% | Median |
+| 115 | 9% | 46% |  |
+| 116 | 8% | 37% |  |
+| 117 | 7% | 30% |  |
+| 118 | 6% | 23% |  |
+| 119 | 5% | 17% |  |
+| 120 | 4% | 12% |  |
+| 121 | 3% | 8% |  |
 | 122 | 2% | 6% |  |
-| 123 | 2% | 4% |  |
-| 124 | 1.0% | 2% |  |
-| 125 | 0.6% | 1.5% |  |
-| 126 | 0.4% | 0.8% |  |
-| 127 | 0.2% | 0.4% |  |
+| 123 | 1.4% | 4% |  |
+| 124 | 0.9% | 2% |  |
+| 125 | 0.6% | 1.3% |  |
+| 126 | 0.3% | 0.7% |  |
+| 127 | 0.2% | 0.3% |  |
 | 128 | 0.1% | 0.2% |  |
-| 129 | 0.1% | 0.1% |  |
+| 129 | 0% | 0.1% |  |
 | 130 | 0% | 0% |  |
 
 
