@@ -18,32 +18,32 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 47 | 45–50 | 44–50 | 44–51 | 42–52 |
-| Die Linke | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 44–49 | 43–50 | 43–51 | 42–52 |
+| Die Linke | DE | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 7 | 7 | 7 | 7 | 7 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
+| Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 1 | 1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij van de Arbeid van België | BE-VLG | | 0 | 0 | 0 | 0 | 0 |
+| Partij van de Arbeid van België | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -55,19 +55,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% | Last Result |
-| 42 | 0.4% | 99.9% |  |
-| 43 | 2% | 99.5% |  |
-| 44 | 5% | 98% |  |
-| 45 | 11% | 92% |  |
-| 46 | 17% | 81% |  |
-| 47 | 20% | 64% | Median |
-| 48 | 19% | 44% |  |
-| 49 | 14% | 25% |  |
-| 50 | 7% | 11% |  |
-| 51 | 3% | 4% |  |
-| 52 | 0.8% | 1.0% |  |
-| 53 | 0.2% | 0.2% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.3% | 99.9% | Last Result |
+| 42 | 1.4% | 99.6% |  |
+| 43 | 4% | 98% |  |
+| 44 | 9% | 94% |  |
+| 45 | 14% | 86% |  |
+| 46 | 18% | 71% |  |
+| 47 | 19% | 53% | Median |
+| 48 | 16% | 34% |  |
+| 49 | 10% | 18% |  |
+| 50 | 5% | 8% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.6% | 0.8% |  |
+| 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 
 
