@@ -24,16 +24,16 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 7 | 7 | 7 | 7 | 7 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Sinn Féin | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren | NL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -59,10 +59,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.5% | 99.9% |  |
 | 43 | 2% | 99.4% |  |
 | 44 | 6% | 97% |  |
-| 45 | 12% | 91% |  |
+| 45 | 11% | 92% |  |
 | 46 | 17% | 80% |  |
 | 47 | 20% | 63% | Median |
-| 48 | 18% | 42% |  |
+| 48 | 19% | 43% |  |
 | 49 | 13% | 24% |  |
 | 50 | 7% | 11% |  |
 | 51 | 3% | 4% |  |
