@@ -1,36 +1,34 @@
 # Greens–European Free Alliance
 
-Members registered from **19 countries**:
+Members registered from **18 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, PT, SE
+> AT, CY, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, LT, LU, LV, NL, PT, SE
 
 ## Seats
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **62** seats (-13 seats)
+Current median: **59** seats (-16 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, GB, LT, LU, NL, PT, SE
+> AT, CZ, DE, DK, ES, FI, FR, GB, LT, LU, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 59–66 | 58–67 | 57–67 | 55–69 |
+| Greens–European Free Alliance | EU | 75 | 59 | 56–63 | 55–64 | 54–64 | 52–66 |
 | Bündnis 90/Die Grünen | DE | | 23 | 21–24 | 20–24 | 19–25 | 19–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Ecolo | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -58,24 +56,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.4% | 99.9% |  |
-| 56 | 1.0% | 99.5% |  |
-| 57 | 2% | 98% |  |
-| 58 | 5% | 96% |  |
-| 59 | 8% | 91% |  |
-| 60 | 11% | 83% |  |
-| 61 | 14% | 72% |  |
-| 62 | 15% | 58% | Median |
-| 63 | 14% | 43% |  |
-| 64 | 11% | 30% |  |
-| 65 | 8% | 18% |  |
-| 66 | 5% | 10% |  |
-| 67 | 3% | 5% |  |
-| 68 | 1.4% | 2% |  |
-| 69 | 0.5% | 0.8% |  |
-| 70 | 0.2% | 0.2% |  |
-| 71 | 0% | 0.1% |  |
+| 51 | 0.1% | 100% |  |
+| 52 | 0.4% | 99.9% |  |
+| 53 | 1.0% | 99.5% |  |
+| 54 | 2% | 98% |  |
+| 55 | 5% | 96% |  |
+| 56 | 8% | 91% |  |
+| 57 | 11% | 83% |  |
+| 58 | 14% | 72% |  |
+| 59 | 15% | 58% | Median |
+| 60 | 14% | 43% |  |
+| 61 | 11% | 30% |  |
+| 62 | 8% | 18% |  |
+| 63 | 5% | 10% |  |
+| 64 | 3% | 5% |  |
+| 65 | 1.4% | 2% |  |
+| 66 | 0.5% | 0.8% |  |
+| 67 | 0.2% | 0.2% |  |
+| 68 | 0% | 0.1% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
