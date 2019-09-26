@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> BG, CY, ES, FI, FR, GB, GR, HR, HU, IT, PL, SI, SK
+> CY, ES, FI, FR, GB, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -37,14 +37,12 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
-| Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -52,16 +50,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.2% | 99.9% |  |
 | 19 | 0.4% | 99.7% |  |
 | 20 | 0.6% | 99.3% |  |
-| 21 | 1.0% | 98.7% |  |
+| 21 | 0.9% | 98.7% |  |
 | 22 | 1.4% | 98% |  |
 | 23 | 2% | 96% |  |
 | 24 | 2% | 94% |  |
 | 25 | 3% | 92% |  |
 | 26 | 4% | 89% |  |
-| 27 | 6% | 85% |  |
+| 27 | 5% | 85% |  |
 | 28 | 7% | 79% |  |
 | 29 | 9% | 72% |  |
-| 30 | 11% | 62% |  |
+| 30 | 11% | 63% |  |
 | 31 | 11% | 52% | Median |
 | 32 | 10% | 41% |  |
 | 33 | 9% | 30% |  |
@@ -70,11 +68,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 4% | 9% |  |
 | 37 | 2% | 6% |  |
 | 38 | 1.4% | 3% |  |
-| 39 | 0.9% | 2% |  |
-| 40 | 0.5% | 1.1% |  |
+| 39 | 0.8% | 2% |  |
+| 40 | 0.5% | 1.0% |  |
 | 41 | 0.3% | 0.6% |  |
 | 42 | 0.1% | 0.3% |  |
-| 43 | 0.1% | 0.2% |  |
+| 43 | 0.1% | 0.1% |  |
 | 44 | 0% | 0.1% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
