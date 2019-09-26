@@ -25,7 +25,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2–3 |
@@ -33,13 +33,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
@@ -68,18 +68,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 6% | 94% |  |
 | 59 | 10% | 87% |  |
 | 60 | 13% | 78% |  |
-| 61 | 15% | 65% |  |
+| 61 | 14% | 65% |  |
 | 62 | 14% | 50% | Median |
 | 63 | 12% | 36% |  |
 | 64 | 9% | 24% |  |
-| 65 | 6% | 15% |  |
-| 66 | 3% | 10% |  |
+| 65 | 6% | 16% |  |
+| 66 | 4% | 10% |  |
 | 67 | 2% | 6% |  |
 | 68 | 2% | 4% |  |
-| 69 | 1.1% | 2% |  |
-| 70 | 0.7% | 1.1% |  |
+| 69 | 1.2% | 2% |  |
+| 70 | 0.7% | 1.2% |  |
 | 71 | 0.3% | 0.5% |  |
-| 72 | 0.1% | 0.1% |  |
+| 72 | 0.1% | 0.2% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% | Last Result |

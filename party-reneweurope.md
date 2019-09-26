@@ -1,24 +1,24 @@
 # Renew Europe
 
-Members registered from **25 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SE, SI, SK
+> AT, BE, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **114** seats (+6 seats)
+Current median: **111** seats (+3 seats)
 
-At least one member in **22 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LU, LV, NL, RO, SE, SI, SK
+> AT, BE, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LU, LV, NL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–120 | 108–122 | 107–123 | 104–126 |
+| Renew Europe | EU | 108 | 111 | 106–117 | 104–119 | 103–120 | 101–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 9–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -31,7 +31,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -70,40 +69,40 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0% | 100% |  |
-| 103 | 0.1% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.7% | 99.5% |  |
-| 106 | 1.3% | 98.8% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 95% | Last Result |
-| 109 | 5% | 92% |  |
-| 110 | 6% | 87% |  |
-| 111 | 8% | 81% |  |
-| 112 | 9% | 73% |  |
-| 113 | 9% | 65% |  |
-| 114 | 9% | 56% | Median |
-| 115 | 9% | 46% |  |
-| 116 | 8% | 38% |  |
-| 117 | 7% | 30% |  |
-| 118 | 6% | 23% |  |
-| 119 | 5% | 17% |  |
-| 120 | 4% | 12% |  |
-| 121 | 3% | 8% |  |
-| 122 | 2% | 5% |  |
-| 123 | 1.4% | 3% |  |
-| 124 | 0.9% | 2% |  |
-| 125 | 0.6% | 1.2% |  |
-| 126 | 0.3% | 0.7% |  |
-| 127 | 0.2% | 0.3% |  |
-| 128 | 0.1% | 0.2% |  |
-| 129 | 0% | 0.1% |  |
-| 130 | 0% | 0% |  |
+| 99 | 0.1% | 100% |  |
+| 100 | 0.2% | 99.9% |  |
+| 101 | 0.4% | 99.8% |  |
+| 102 | 0.8% | 99.4% |  |
+| 103 | 1.4% | 98.6% |  |
+| 104 | 2% | 97% |  |
+| 105 | 4% | 95% |  |
+| 106 | 5% | 91% |  |
+| 107 | 6% | 86% |  |
+| 108 | 8% | 80% | Last Result |
+| 109 | 9% | 72% |  |
+| 110 | 9% | 64% |  |
+| 111 | 9% | 55% | Median |
+| 112 | 9% | 46% |  |
+| 113 | 8% | 37% |  |
+| 114 | 7% | 29% |  |
+| 115 | 6% | 22% |  |
+| 116 | 5% | 16% |  |
+| 117 | 4% | 12% |  |
+| 118 | 3% | 8% |  |
+| 119 | 2% | 5% |  |
+| 120 | 1.3% | 3% |  |
+| 121 | 0.9% | 2% |  |
+| 122 | 0.5% | 1.2% |  |
+| 123 | 0.3% | 0.7% |  |
+| 124 | 0.2% | 0.3% |  |
+| 125 | 0.1% | 0.2% |  |
+| 126 | 0% | 0.1% |  |
+| 127 | 0% | 0% |  |
 
 
