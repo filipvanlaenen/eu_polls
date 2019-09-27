@@ -1,8 +1,8 @@
 # Identity and Democracy
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, GB, HR, IT, NL, SK
+> AT, BE, CZ, DE, DK, EE, FI, FR, GB, HR, IT, NL, SK
 
 ## Seats
 
@@ -32,34 +32,33 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
-| 71 | 0.3% | 99.9% |  |
-| 72 | 0.8% | 99.6% |  |
-| 73 | 2% | 98.8% | Last Result |
-| 74 | 4% | 97% |  |
-| 75 | 7% | 93% |  |
-| 76 | 10% | 86% |  |
-| 77 | 13% | 76% |  |
-| 78 | 14% | 63% | Median |
-| 79 | 13% | 50% |  |
-| 80 | 12% | 36% |  |
-| 81 | 9% | 24% |  |
-| 82 | 6% | 15% |  |
-| 83 | 4% | 9% |  |
-| 84 | 2% | 5% |  |
-| 85 | 1.3% | 2% |  |
-| 86 | 0.6% | 1.0% |  |
-| 87 | 0.3% | 0.4% |  |
+| 71 | 0.3% | 99.8% |  |
+| 72 | 0.9% | 99.5% |  |
+| 73 | 2% | 98.6% | Last Result |
+| 74 | 4% | 96% |  |
+| 75 | 7% | 92% |  |
+| 76 | 10% | 85% |  |
+| 77 | 13% | 74% |  |
+| 78 | 14% | 62% | Median |
+| 79 | 13% | 48% |  |
+| 80 | 11% | 35% |  |
+| 81 | 9% | 23% |  |
+| 82 | 6% | 14% |  |
+| 83 | 4% | 8% |  |
+| 84 | 2% | 4% |  |
+| 85 | 1.2% | 2% |  |
+| 86 | 0.6% | 0.9% |  |
+| 87 | 0.2% | 0.4% |  |
 | 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |
 

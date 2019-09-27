@@ -24,10 +24,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
@@ -49,26 +49,26 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.5% | 99.9% | Last Result |
-| 42 | 2% | 99.4% |  |
-| 43 | 5% | 98% |  |
+| 41 | 0.4% | 99.9% | Last Result |
+| 42 | 2% | 99.5% |  |
+| 43 | 4% | 98% |  |
 | 44 | 9% | 93% |  |
-| 45 | 15% | 84% |  |
-| 46 | 18% | 69% |  |
-| 47 | 19% | 50% | Median |
-| 48 | 15% | 32% |  |
-| 49 | 10% | 17% |  |
-| 50 | 5% | 7% |  |
+| 45 | 14% | 84% |  |
+| 46 | 18% | 70% |  |
+| 47 | 19% | 52% | Median |
+| 48 | 15% | 33% |  |
+| 49 | 10% | 18% |  |
+| 50 | 5% | 8% |  |
 | 51 | 2% | 3% |  |
-| 52 | 0.5% | 0.7% |  |
-| 53 | 0.1% | 0.1% |  |
+| 52 | 0.6% | 0.8% |  |
+| 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 
 
