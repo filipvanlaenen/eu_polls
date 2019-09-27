@@ -23,7 +23,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 9–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–11 | 6–11 | 6–11 | 6–11 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -93,13 +93,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 116 | 8% | 37% |  |
 | 117 | 7% | 29% |  |
 | 118 | 6% | 22% |  |
-| 119 | 5% | 16% |  |
+| 119 | 5% | 17% |  |
 | 120 | 4% | 12% |  |
 | 121 | 3% | 8% |  |
 | 122 | 2% | 5% |  |
 | 123 | 1.3% | 3% |  |
 | 124 | 0.9% | 2% |  |
-| 125 | 0.5% | 1.2% |  |
+| 125 | 0.6% | 1.2% |  |
 | 126 | 0.3% | 0.7% |  |
 | 127 | 0.2% | 0.3% |  |
 | 128 | 0.1% | 0.2% |  |

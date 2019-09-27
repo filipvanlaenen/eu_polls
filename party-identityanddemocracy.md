@@ -1,8 +1,8 @@
 # Identity and Democracy
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, CZ, DE, DK, EE, FI, FR, GB, HR, IT, NL, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, GB, HR, IT, NL, SK
 
 ## Seats
 
@@ -32,12 +32,13 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
+| Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
