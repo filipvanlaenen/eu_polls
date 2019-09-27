@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **143** seats (-11 seats)
+Current median: **142** seats (-12 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 143 | 136–149 | 135–151 | 133–152 | 131–155 |
-| Labour Party | GB-GBN | | 19 | 15–22 | 15–23 | 15–24 | 15–25 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 142 | 135–148 | 134–150 | 132–151 | 130–154 |
+| Labour Party | GB-GBN | | 19 | 16–22 | 16–23 | 15–24 | 15–25 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| Partito Democratico | IT | | 16 | 14–18 | 13–18 | 13–19 | 11–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 11–16 | 11–17 | 11–17 |
-| Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| Partito Democratico | IT | | 15 | 14–17 | 13–18 | 12–18 | 11–19 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 11–15 | 11–16 | 11–16 | 11–17 |
+| Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5 | 5–6 | 4–6 |
@@ -38,7 +38,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Wiosna | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
+| Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -66,37 +66,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0.1% | 100% |  |
-| 129 | 0.1% | 99.9% |  |
-| 130 | 0.2% | 99.8% |  |
-| 131 | 0.4% | 99.6% |  |
-| 132 | 0.7% | 99.2% |  |
-| 133 | 1.1% | 98% |  |
-| 134 | 2% | 97% |  |
-| 135 | 2% | 96% |  |
-| 136 | 3% | 93% |  |
-| 137 | 4% | 90% |  |
-| 138 | 5% | 86% |  |
-| 139 | 6% | 80% |  |
-| 140 | 7% | 74% |  |
-| 141 | 8% | 67% |  |
-| 142 | 8% | 59% |  |
-| 143 | 8% | 51% | Median |
-| 144 | 8% | 43% |  |
-| 145 | 7% | 35% |  |
-| 146 | 6% | 28% |  |
-| 147 | 6% | 22% |  |
-| 148 | 5% | 16% |  |
-| 149 | 4% | 12% |  |
-| 150 | 3% | 8% |  |
-| 151 | 2% | 5% |  |
-| 152 | 1.3% | 3% |  |
-| 153 | 0.9% | 2% |  |
-| 154 | 0.5% | 1.2% | Last Result |
-| 155 | 0.3% | 0.6% |  |
-| 156 | 0.2% | 0.3% |  |
-| 157 | 0.1% | 0.2% |  |
-| 158 | 0% | 0.1% |  |
-| 159 | 0% | 0% |  |
+| 127 | 0% | 100% |  |
+| 128 | 0.1% | 99.9% |  |
+| 129 | 0.2% | 99.8% |  |
+| 130 | 0.4% | 99.6% |  |
+| 131 | 0.7% | 99.2% |  |
+| 132 | 1.1% | 98.5% |  |
+| 133 | 2% | 97% |  |
+| 134 | 3% | 96% |  |
+| 135 | 3% | 93% |  |
+| 136 | 4% | 90% |  |
+| 137 | 6% | 85% |  |
+| 138 | 6% | 80% |  |
+| 139 | 7% | 73% |  |
+| 140 | 8% | 66% |  |
+| 141 | 8% | 58% |  |
+| 142 | 8% | 50% | Median |
+| 143 | 8% | 42% |  |
+| 144 | 7% | 34% |  |
+| 145 | 6% | 27% |  |
+| 146 | 5% | 21% |  |
+| 147 | 4% | 16% |  |
+| 148 | 3% | 11% |  |
+| 149 | 3% | 8% |  |
+| 150 | 2% | 5% |  |
+| 151 | 1.3% | 3% |  |
+| 152 | 0.8% | 2% |  |
+| 153 | 0.5% | 1.2% |  |
+| 154 | 0.3% | 0.7% | Last Result |
+| 155 | 0.2% | 0.3% |  |
+| 156 | 0.1% | 0.2% |  |
+| 157 | 0% | 0.1% |  |
+| 158 | 0% | 0% |  |
 
 
