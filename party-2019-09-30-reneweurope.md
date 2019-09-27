@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–120 | 107–122 | 106–123 | 104–126 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 108–122 | 107–124 | 105–126 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 9–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -27,12 +27,12 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Italia Viva | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
-| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,7 +45,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalerna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -76,34 +76,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0.1% | 100% |  |
-| 103 | 0.2% | 99.9% |  |
-| 104 | 0.4% | 99.8% |  |
-| 105 | 0.8% | 99.4% |  |
-| 106 | 1.4% | 98.7% |  |
-| 107 | 2% | 97% |  |
-| 108 | 4% | 95% | Last Result |
-| 109 | 5% | 91% |  |
-| 110 | 6% | 86% |  |
-| 111 | 8% | 80% |  |
-| 112 | 9% | 72% |  |
-| 113 | 9% | 64% |  |
-| 114 | 9% | 55% | Median |
-| 115 | 9% | 46% |  |
-| 116 | 8% | 37% |  |
-| 117 | 7% | 29% |  |
-| 118 | 6% | 22% |  |
-| 119 | 5% | 17% |  |
-| 120 | 4% | 12% |  |
-| 121 | 3% | 8% |  |
-| 122 | 2% | 5% |  |
-| 123 | 1.4% | 3% |  |
-| 124 | 0.9% | 2% |  |
-| 125 | 0.6% | 1.2% |  |
-| 126 | 0.3% | 0.7% |  |
-| 127 | 0.2% | 0.3% |  |
+| 103 | 0.1% | 100% |  |
+| 104 | 0.3% | 99.9% |  |
+| 105 | 0.6% | 99.6% |  |
+| 106 | 1.1% | 99.0% |  |
+| 107 | 2% | 98% |  |
+| 108 | 3% | 96% | Last Result |
+| 109 | 4% | 93% |  |
+| 110 | 6% | 89% |  |
+| 111 | 7% | 83% |  |
+| 112 | 8% | 76% |  |
+| 113 | 9% | 67% |  |
+| 114 | 9% | 58% | Median |
+| 115 | 9% | 49% |  |
+| 116 | 8% | 40% |  |
+| 117 | 7% | 32% |  |
+| 118 | 6% | 25% |  |
+| 119 | 5% | 19% |  |
+| 120 | 4% | 14% |  |
+| 121 | 3% | 9% |  |
+| 122 | 2% | 6% |  |
+| 123 | 2% | 4% |  |
+| 124 | 1.0% | 3% |  |
+| 125 | 0.7% | 2% |  |
+| 126 | 0.4% | 0.9% |  |
+| 127 | 0.2% | 0.4% |  |
 | 128 | 0.1% | 0.2% |  |
-| 129 | 0% | 0.1% |  |
+| 129 | 0.1% | 0.1% |  |
 | 130 | 0% | 0% |  |
 
 

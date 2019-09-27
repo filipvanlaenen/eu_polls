@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> CY, ES, FI, FR, GB, GR, HR, HU, IT, PL, SI, SK
+> BG, CY, ES, FI, FR, GB, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -37,12 +37,14 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
+| Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
