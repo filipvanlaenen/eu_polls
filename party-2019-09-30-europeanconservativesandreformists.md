@@ -23,7 +23,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Conservative Party | GB-GBN | | 25 | 23–32 | 22–34 | 22–34 | 21–35 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Vox | ES | | 4 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Forum voor Democratie | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -77,8 +77,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 10% | 65% |  |
 | 84 | 9% | 55% | Median |
 | 85 | 8% | 46% |  |
-| 86 | 7% | 38% |  |
-| 87 | 6% | 31% |  |
+| 86 | 7% | 37% |  |
+| 87 | 6% | 30% |  |
 | 88 | 5% | 25% |  |
 | 89 | 4% | 20% |  |
 | 90 | 4% | 16% |  |
@@ -89,7 +89,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 1.1% | 3% |  |
 | 96 | 0.7% | 2% |  |
 | 97 | 0.4% | 0.9% |  |
-| 98 | 0.3% | 0.5% |  |
+| 98 | 0.2% | 0.5% |  |
 | 99 | 0.1% | 0.2% |  |
 | 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
