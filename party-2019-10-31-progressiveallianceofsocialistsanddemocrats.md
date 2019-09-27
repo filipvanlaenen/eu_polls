@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 143 | 137–149 | 135–151 | 133–152 | 131–155 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 143 | 136–149 | 135–151 | 133–152 | 131–155 |
 | Labour Party | GB-GBN | | 19 | 15–22 | 15–23 | 15–24 | 15–25 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Partito Democratico | IT | | 16 | 14–18 | 13–18 | 13–19 | 11–19 |
@@ -26,7 +26,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5 | 5–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4–5 | 3–5 | 3–5 |
@@ -43,7 +43,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -51,7 +51,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–3 |
-| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progresīvie | LV | | 0 | 0 | 0 | 0 | 0 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,35 +66,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0% | 100% |  |
+| 128 | 0.1% | 100% |  |
 | 129 | 0.1% | 99.9% |  |
 | 130 | 0.2% | 99.8% |  |
 | 131 | 0.4% | 99.6% |  |
 | 132 | 0.7% | 99.2% |  |
-| 133 | 1.1% | 98.6% |  |
+| 133 | 1.1% | 98% |  |
 | 134 | 2% | 97% |  |
 | 135 | 2% | 96% |  |
-| 136 | 3% | 94% |  |
+| 136 | 3% | 93% |  |
 | 137 | 4% | 90% |  |
 | 138 | 5% | 86% |  |
-| 139 | 6% | 81% |  |
-| 140 | 7% | 75% |  |
-| 141 | 8% | 68% |  |
-| 142 | 8% | 60% |  |
-| 143 | 8% | 52% | Median |
-| 144 | 8% | 44% |  |
-| 145 | 7% | 36% |  |
-| 146 | 7% | 29% |  |
-| 147 | 6% | 23% |  |
-| 148 | 5% | 17% |  |
+| 139 | 6% | 80% |  |
+| 140 | 7% | 74% |  |
+| 141 | 8% | 67% |  |
+| 142 | 8% | 59% |  |
+| 143 | 8% | 51% | Median |
+| 144 | 8% | 43% |  |
+| 145 | 7% | 35% |  |
+| 146 | 6% | 28% |  |
+| 147 | 6% | 22% |  |
+| 148 | 5% | 16% |  |
 | 149 | 4% | 12% |  |
-| 150 | 3% | 9% |  |
-| 151 | 2% | 6% |  |
-| 152 | 1.4% | 4% |  |
+| 150 | 3% | 8% |  |
+| 151 | 2% | 5% |  |
+| 152 | 1.3% | 3% |  |
 | 153 | 0.9% | 2% |  |
-| 154 | 0.6% | 1.3% | Last Result |
-| 155 | 0.3% | 0.7% |  |
-| 156 | 0.2% | 0.4% |  |
+| 154 | 0.5% | 1.2% | Last Result |
+| 155 | 0.3% | 0.6% |  |
+| 156 | 0.2% | 0.3% |  |
 | 157 | 0.1% | 0.2% |  |
 | 158 | 0% | 0.1% |  |
 | 159 | 0% | 0% |  |

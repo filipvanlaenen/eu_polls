@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 111 | 106–117 | 104–119 | 103–120 | 101–123 |
+| Renew Europe | EU | 108 | 111 | 106–117 | 105–119 | 104–121 | 102–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 9–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -27,11 +27,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Italia Viva | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalerna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -75,34 +75,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 99 | 0.1% | 100% |  |
-| 100 | 0.2% | 99.9% |  |
-| 101 | 0.4% | 99.8% |  |
-| 102 | 0.8% | 99.4% |  |
-| 103 | 1.4% | 98.7% |  |
-| 104 | 2% | 97% |  |
-| 105 | 4% | 95% |  |
-| 106 | 5% | 91% |  |
-| 107 | 6% | 86% |  |
-| 108 | 8% | 80% | Last Result |
-| 109 | 9% | 72% |  |
-| 110 | 9% | 64% |  |
-| 111 | 9% | 55% | Median |
-| 112 | 9% | 46% |  |
-| 113 | 8% | 37% |  |
-| 114 | 7% | 29% |  |
-| 115 | 6% | 22% |  |
-| 116 | 5% | 17% |  |
-| 117 | 4% | 12% |  |
-| 118 | 3% | 8% |  |
-| 119 | 2% | 5% |  |
-| 120 | 1.4% | 3% |  |
-| 121 | 0.9% | 2% |  |
-| 122 | 0.6% | 1.2% |  |
-| 123 | 0.3% | 0.7% |  |
-| 124 | 0.2% | 0.3% |  |
+| 100 | 0.1% | 100% |  |
+| 101 | 0.3% | 99.9% |  |
+| 102 | 0.6% | 99.6% |  |
+| 103 | 1.1% | 99.0% |  |
+| 104 | 2% | 98% |  |
+| 105 | 3% | 96% |  |
+| 106 | 4% | 93% |  |
+| 107 | 6% | 89% |  |
+| 108 | 7% | 83% | Last Result |
+| 109 | 8% | 76% |  |
+| 110 | 9% | 67% |  |
+| 111 | 9% | 58% | Median |
+| 112 | 9% | 49% |  |
+| 113 | 8% | 40% |  |
+| 114 | 7% | 32% |  |
+| 115 | 6% | 25% |  |
+| 116 | 5% | 19% |  |
+| 117 | 4% | 14% |  |
+| 118 | 3% | 9% |  |
+| 119 | 2% | 6% |  |
+| 120 | 2% | 4% |  |
+| 121 | 1.0% | 3% |  |
+| 122 | 0.7% | 2% |  |
+| 123 | 0.4% | 0.9% |  |
+| 124 | 0.2% | 0.4% |  |
 | 125 | 0.1% | 0.2% |  |
-| 126 | 0% | 0.1% |  |
+| 126 | 0.1% | 0.1% |  |
 | 127 | 0% | 0% |  |
 
 
