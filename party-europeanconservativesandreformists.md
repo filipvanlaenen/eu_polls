@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sloboda a Solidarita | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Slovenská národná strana | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,9 +48,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,22 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.1% | 99.8% |  |
-| 71 | 0.2% | 99.7% |  |
+| 71 | 0.3% | 99.7% |  |
 | 72 | 0.4% | 99.4% |  |
 | 73 | 0.7% | 99.0% |  |
-| 74 | 1.0% | 98% |  |
+| 74 | 1.1% | 98% |  |
 | 75 | 2% | 97% |  |
 | 76 | 2% | 96% |  |
-| 77 | 3% | 94% |  |
+| 77 | 3% | 93% |  |
 | 78 | 4% | 90% |  |
 | 79 | 5% | 86% |  |
 | 80 | 7% | 81% |  |
 | 81 | 8% | 74% |  |
 | 82 | 8% | 66% |  |
 | 83 | 8% | 58% | Median |
-| 84 | 8% | 50% |  |
+| 84 | 8% | 49% |  |
 | 85 | 7% | 42% |  |
-| 86 | 6% | 35% |  |
+| 86 | 6% | 34% |  |
 | 87 | 5% | 28% |  |
 | 88 | 5% | 23% |  |
 | 89 | 4% | 18% |  |

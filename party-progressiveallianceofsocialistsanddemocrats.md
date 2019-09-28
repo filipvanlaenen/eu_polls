@@ -25,9 +25,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -61,9 +61,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 7% | 78% |  |
 | 145 | 7% | 72% |  |
 | 146 | 8% | 64% |  |
-| 147 | 8% | 57% | Median |
+| 147 | 8% | 56% | Median |
 | 148 | 8% | 48% |  |
 | 149 | 8% | 40% |  |
 | 150 | 7% | 33% |  |

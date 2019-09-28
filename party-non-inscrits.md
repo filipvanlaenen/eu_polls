@@ -20,7 +20,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 31 | 26–35 | 24–36 | 22–38 | 20–40 |
 | Movimento 5 Stelle | IT | | 16 | 14–18 | 12–19 | 12–20 | 11–21 |
-| Brexit Party | GB-GBN | | 8 | 2–10 | 1–10 | 0–12 | 0–13 |
+| Brexit Party | GB-GBN | | 8 | 2–10 | 1–10 | 0–11 | 0–13 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,9 +41,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -55,17 +55,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 1.3% | 98% |  |
 | 23 | 2% | 97% |  |
 | 24 | 2% | 95% |  |
-| 25 | 2% | 93% |  |
+| 25 | 3% | 93% |  |
 | 26 | 3% | 91% |  |
-| 27 | 5% | 88% |  |
+| 27 | 5% | 87% |  |
 | 28 | 7% | 83% |  |
 | 29 | 10% | 76% |  |
 | 30 | 11% | 66% |  |
 | 31 | 12% | 55% | Median |
 | 32 | 11% | 43% |  |
-| 33 | 10% | 32% |  |
+| 33 | 10% | 31% |  |
 | 34 | 8% | 22% |  |
-| 35 | 6% | 14% |  |
+| 35 | 5% | 14% |  |
 | 36 | 4% | 9% |  |
 | 37 | 2% | 5% |  |
 | 38 | 1.3% | 3% |  |
