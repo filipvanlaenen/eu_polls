@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
-| Partido Social Democrata | PT | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| Partido Social Democrata | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–5 | 3–5 |
@@ -42,7 +42,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| CDS–Partido Popular | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -83,28 +83,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 152 | 0.2% | 99.8% |  |
 | 153 | 0.3% | 99.7% |  |
 | 154 | 0.6% | 99.3% |  |
-| 155 | 0.9% | 98.8% |  |
-| 156 | 1.4% | 98% |  |
+| 155 | 1.0% | 98.7% |  |
+| 156 | 1.5% | 98% |  |
 | 157 | 2% | 96% |  |
 | 158 | 3% | 94% |  |
 | 159 | 4% | 91% |  |
 | 160 | 5% | 87% |  |
 | 161 | 6% | 82% |  |
-| 162 | 7% | 76% |  |
+| 162 | 8% | 75% |  |
 | 163 | 8% | 68% |  |
-| 164 | 9% | 60% |  |
-| 165 | 9% | 51% | Median |
-| 166 | 9% | 42% |  |
-| 167 | 8% | 33% |  |
+| 164 | 9% | 59% |  |
+| 165 | 9% | 50% | Median |
+| 166 | 9% | 41% |  |
+| 167 | 8% | 32% |  |
 | 168 | 7% | 25% |  |
-| 169 | 6% | 19% |  |
+| 169 | 5% | 18% |  |
 | 170 | 4% | 13% |  |
-| 171 | 3% | 9% |  |
-| 172 | 2% | 6% |  |
+| 171 | 3% | 8% |  |
+| 172 | 2% | 5% |  |
 | 173 | 1.4% | 3% |  |
-| 174 | 0.9% | 2% |  |
-| 175 | 0.5% | 1.1% |  |
-| 176 | 0.3% | 0.6% |  |
+| 174 | 0.8% | 2% |  |
+| 175 | 0.5% | 1.0% |  |
+| 176 | 0.3% | 0.5% |  |
 | 177 | 0.1% | 0.3% |  |
 | 178 | 0.1% | 0.1% |  |
 | 179 | 0% | 0.1% |  |
