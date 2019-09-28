@@ -18,16 +18,16 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 47 | 44–50 | 44–50 | 43–51 | 42–52 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 44–50 | 44–51 | 43–51 | 42–52 |
 | Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
@@ -61,13 +61,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 3% | 98.7% |  |
 | 44 | 7% | 96% |  |
 | 45 | 12% | 89% |  |
-| 46 | 17% | 77% |  |
-| 47 | 19% | 60% | Median |
-| 48 | 17% | 42% |  |
-| 49 | 12% | 25% |  |
-| 50 | 7% | 12% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.2% | 2% |  |
+| 46 | 16% | 77% |  |
+| 47 | 19% | 61% | Median |
+| 48 | 17% | 43% |  |
+| 49 | 13% | 25% |  |
+| 50 | 8% | 13% |  |
+| 51 | 4% | 5% |  |
+| 52 | 1.3% | 2% |  |
 | 53 | 0.3% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
