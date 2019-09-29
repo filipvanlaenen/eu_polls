@@ -18,11 +18,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 148 | 142–154 | 141–156 | 139–157 | 137–160 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 148 | 142–154 | 140–156 | 139–157 | 137–160 |
 | Labour Party | GB-GBN | | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Partito Democratico | IT | | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 11–16 | 11–16 | 11–17 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Partidul Social Democrat | RO | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -61,42 +61,42 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 134 | 0.1% | 100% |  |
 | 135 | 0.1% | 99.9% |  |
-| 136 | 0.2% | 99.8% |  |
-| 137 | 0.4% | 99.6% |  |
-| 138 | 0.8% | 99.1% |  |
-| 139 | 1.3% | 98% |  |
+| 136 | 0.3% | 99.8% |  |
+| 137 | 0.5% | 99.5% |  |
+| 138 | 0.9% | 99.0% |  |
+| 139 | 1.4% | 98% |  |
 | 140 | 2% | 97% |  |
 | 141 | 3% | 95% |  |
 | 142 | 4% | 92% |  |
-| 143 | 5% | 88% |  |
-| 144 | 6% | 84% |  |
-| 145 | 7% | 78% |  |
-| 146 | 8% | 71% |  |
-| 147 | 8% | 63% |  |
-| 148 | 8% | 55% | Median |
-| 149 | 8% | 47% |  |
-| 150 | 8% | 39% |  |
-| 151 | 7% | 31% |  |
-| 152 | 6% | 24% |  |
-| 153 | 5% | 18% |  |
-| 154 | 4% | 13% | Last Result |
-| 155 | 3% | 9% |  |
+| 143 | 5% | 87% |  |
+| 144 | 6% | 82% |  |
+| 145 | 7% | 76% |  |
+| 146 | 8% | 69% |  |
+| 147 | 8% | 61% |  |
+| 148 | 8% | 53% | Median |
+| 149 | 8% | 45% |  |
+| 150 | 7% | 37% |  |
+| 151 | 7% | 29% |  |
+| 152 | 6% | 23% |  |
+| 153 | 5% | 17% |  |
+| 154 | 4% | 12% | Last Result |
+| 155 | 3% | 8% |  |
 | 156 | 2% | 6% |  |
-| 157 | 2% | 4% |  |
-| 158 | 1.0% | 2% |  |
-| 159 | 0.6% | 1.5% |  |
-| 160 | 0.4% | 0.8% |  |
+| 157 | 1.4% | 4% |  |
+| 158 | 0.9% | 2% |  |
+| 159 | 0.6% | 1.2% |  |
+| 160 | 0.3% | 0.7% |  |
 | 161 | 0.2% | 0.4% |  |
 | 162 | 0.1% | 0.2% |  |
-| 163 | 0.1% | 0.1% |  |
+| 163 | 0% | 0.1% |  |
 | 164 | 0% | 0% |  |
 
 
