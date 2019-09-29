@@ -19,7 +19,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 41 | 47 | 44–50 | 44–50 | 43–51 | 42–52 |
-| Die Linke | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| Die Linke | DE | | 7 | 7–8 | 6–9 | 6–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
@@ -34,7 +34,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -55,21 +55,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
+| 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% | Last Result |
-| 42 | 1.0% | 99.7% |  |
+| 42 | 1.1% | 99.7% |  |
 | 43 | 3% | 98.6% |  |
-| 44 | 7% | 96% |  |
-| 45 | 12% | 88% |  |
+| 44 | 7% | 95% |  |
+| 45 | 13% | 88% |  |
 | 46 | 17% | 76% |  |
-| 47 | 19% | 59% | Median |
-| 48 | 17% | 40% |  |
-| 49 | 12% | 23% |  |
+| 47 | 19% | 58% | Median |
+| 48 | 17% | 39% |  |
+| 49 | 12% | 22% |  |
 | 50 | 7% | 11% |  |
 | 51 | 3% | 4% |  |
-| 52 | 1.0% | 1.3% |  |
-| 53 | 0.3% | 0.3% |  |
-| 54 | 0% | 0.1% |  |
-| 55 | 0% | 0% |  |
+| 52 | 0.9% | 1.1% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0% | 0% |  |
 
 
