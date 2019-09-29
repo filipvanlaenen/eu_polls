@@ -10,20 +10,21 @@ Last result: **56** seats (General Election of 25 May 2014)
 
 Current median: **30** seats (-26 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> ES, GB, GR, HU, IT, SK
+> ES, GB, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 30 | 25–34 | 23–36 | 22–37 | 19–39 |
+| Non-Inscrits | EU | 56 | 30 | 25–35 | 23–36 | 22–37 | 20–39 |
 | Movimento 5 Stelle | IT | | 16 | 14–18 | 12–18 | 12–19 | 11–20 |
 | Brexit Party | GB-GBN | | 8 | 2–10 | 1–10 | 0–11 | 0–13 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
@@ -31,8 +32,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
-| Nezavisna lista Mislava Kolakušića | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -41,37 +41,37 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
 | 18 | 0.1% | 99.9% |  |
 | 19 | 0.3% | 99.8% |  |
-| 20 | 0.6% | 99.5% |  |
-| 21 | 1.1% | 98.9% |  |
+| 20 | 0.5% | 99.5% |  |
+| 21 | 1.0% | 99.0% |  |
 | 22 | 2% | 98% |  |
-| 23 | 2% | 96% |  |
-| 24 | 2% | 94% |  |
+| 23 | 2% | 97% |  |
+| 24 | 2% | 95% |  |
 | 25 | 3% | 92% |  |
-| 26 | 4% | 89% |  |
-| 27 | 6% | 85% |  |
-| 28 | 9% | 79% |  |
-| 29 | 11% | 70% |  |
-| 30 | 12% | 59% | Median |
-| 31 | 12% | 47% |  |
-| 32 | 11% | 35% |  |
-| 33 | 8% | 24% |  |
-| 34 | 6% | 16% |  |
-| 35 | 4% | 10% |  |
+| 26 | 4% | 90% |  |
+| 27 | 5% | 86% |  |
+| 28 | 8% | 81% |  |
+| 29 | 11% | 73% |  |
+| 30 | 12% | 62% | Median |
+| 31 | 12% | 50% |  |
+| 32 | 11% | 38% |  |
+| 33 | 9% | 27% |  |
+| 34 | 7% | 18% |  |
+| 35 | 5% | 11% |  |
 | 36 | 3% | 6% |  |
-| 37 | 1.5% | 3% |  |
-| 38 | 0.8% | 2% |  |
-| 39 | 0.4% | 0.7% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0.1% | 0.1% |  |
+| 37 | 2% | 3% |  |
+| 38 | 0.9% | 2% |  |
+| 39 | 0.5% | 0.8% |  |
+| 40 | 0.2% | 0.4% |  |
+| 41 | 0.1% | 0.2% |  |
 | 42 | 0% | 0.1% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

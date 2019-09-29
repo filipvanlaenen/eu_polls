@@ -22,7 +22,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bündnis 90/Die Grünen | DE | | 22 | 20–25 | 20–26 | 19–26 | 18–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -45,8 +45,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0–2 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,26 +62,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 53 | 0.1% | 100% |  |
-| 54 | 0.2% | 99.9% |  |
-| 55 | 0.7% | 99.7% |  |
-| 56 | 2% | 99.0% |  |
+| 54 | 0.3% | 99.9% |  |
+| 55 | 0.8% | 99.6% |  |
+| 56 | 2% | 98.8% |  |
 | 57 | 4% | 97% |  |
 | 58 | 6% | 93% |  |
 | 59 | 9% | 87% |  |
 | 60 | 11% | 78% |  |
-| 61 | 12% | 67% |  |
-| 62 | 12% | 55% | Median |
+| 61 | 12% | 66% |  |
+| 62 | 11% | 54% | Median |
 | 63 | 10% | 43% |  |
 | 64 | 8% | 33% |  |
 | 65 | 6% | 26% |  |
 | 66 | 5% | 19% |  |
 | 67 | 4% | 14% |  |
-| 68 | 4% | 10% |  |
+| 68 | 3% | 10% |  |
 | 69 | 3% | 7% |  |
 | 70 | 2% | 4% |  |
 | 71 | 1.0% | 2% |  |
-| 72 | 0.6% | 1.2% |  |
-| 73 | 0.3% | 0.6% |  |
+| 72 | 0.6% | 1.3% |  |
+| 73 | 0.3% | 0.7% |  |
 | 74 | 0.2% | 0.3% |  |
 | 75 | 0.1% | 0.1% | Last Result |
 | 76 | 0% | 0% |  |

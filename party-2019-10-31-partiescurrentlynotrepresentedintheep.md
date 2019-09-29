@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> CZ, DK, EE, FR, IE, IT, LT, NL, PL, PT, RO, SK
+> CZ, DK, EE, FR, HR, IE, IT, LT, NL, PL, PT, RO, SK
 
 ## Seats
 
@@ -19,10 +19,12 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
+| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Chega [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -36,6 +38,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -49,9 +52,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 7% | 100% |  |
-| 3 | 45% | 93% | Median |
-| 4 | 46% | 48% |  |
+| 2 | 9% | 100% |  |
+| 3 | 52% | 91% | Median |
+| 4 | 37% | 39% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
