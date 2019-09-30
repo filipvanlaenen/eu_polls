@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 115 | 109–121 | 108–122 | 107–124 | 104–126 |
+| Renew Europe | EU | 108 | 115 | 109–120 | 108–122 | 107–123 | 104–126 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 10–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -47,7 +47,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -86,22 +86,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 3% | 96% | Last Result |
 | 109 | 4% | 93% |  |
 | 110 | 5% | 89% |  |
-| 111 | 6% | 84% |  |
-| 112 | 8% | 78% |  |
+| 111 | 7% | 84% |  |
+| 112 | 8% | 77% |  |
 | 113 | 8% | 70% |  |
-| 114 | 9% | 62% |  |
-| 115 | 9% | 53% | Median |
-| 116 | 9% | 44% |  |
+| 114 | 9% | 61% |  |
+| 115 | 9% | 52% | Median |
+| 116 | 9% | 43% |  |
 | 117 | 8% | 35% |  |
 | 118 | 7% | 27% |  |
-| 119 | 6% | 21% |  |
-| 120 | 5% | 15% |  |
+| 119 | 6% | 20% |  |
+| 120 | 4% | 14% |  |
 | 121 | 3% | 10% |  |
 | 122 | 2% | 7% |  |
 | 123 | 2% | 4% |  |
-| 124 | 1.1% | 3% |  |
-| 125 | 0.7% | 1.5% |  |
-| 126 | 0.4% | 0.8% |  |
+| 124 | 1.1% | 2% |  |
+| 125 | 0.7% | 1.4% |  |
+| 126 | 0.4% | 0.7% |  |
 | 127 | 0.2% | 0.4% |  |
 | 128 | 0.1% | 0.2% |  |
 | 129 | 0% | 0.1% |  |

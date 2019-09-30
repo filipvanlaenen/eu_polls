@@ -23,7 +23,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2 | 2 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -44,7 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0–2 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -70,8 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 7% | 89% |  |
 | 59 | 9% | 82% |  |
 | 60 | 10% | 73% |  |
-| 61 | 11% | 63% |  |
-| 62 | 10% | 52% | Median |
+| 61 | 11% | 62% |  |
+| 62 | 10% | 51% | Median |
 | 63 | 9% | 41% |  |
 | 64 | 8% | 32% |  |
 | 65 | 6% | 24% |  |
@@ -83,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 1.0% | 2% |  |
 | 72 | 0.6% | 1.2% |  |
 | 73 | 0.3% | 0.6% |  |
-| 74 | 0.2% | 0.3% |  |
+| 74 | 0.2% | 0.2% |  |
 | 75 | 0.1% | 0.1% | Last Result |
 | 76 | 0% | 0% |  |
 
