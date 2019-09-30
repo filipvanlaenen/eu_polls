@@ -48,9 +48,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,36 +63,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.2% | 99.8% |  |
-| 71 | 0.3% | 99.6% |  |
+| 71 | 0.3% | 99.7% |  |
 | 72 | 0.5% | 99.4% |  |
 | 73 | 0.8% | 98.9% |  |
 | 74 | 1.2% | 98% |  |
 | 75 | 2% | 97% |  |
-| 76 | 3% | 95% |  |
-| 77 | 4% | 93% |  |
+| 76 | 2% | 95% |  |
+| 77 | 3% | 93% |  |
 | 78 | 5% | 89% |  |
-| 79 | 6% | 84% |  |
-| 80 | 7% | 78% |  |
+| 79 | 6% | 85% |  |
+| 80 | 7% | 79% |  |
 | 81 | 9% | 71% |  |
-| 82 | 9% | 62% |  |
-| 83 | 9% | 53% | Median |
+| 82 | 9% | 63% |  |
+| 83 | 9% | 54% | Median |
 | 84 | 8% | 44% |  |
 | 85 | 7% | 36% |  |
-| 86 | 6% | 28% |  |
+| 86 | 6% | 29% |  |
 | 87 | 5% | 22% |  |
 | 88 | 4% | 17% |  |
 | 89 | 3% | 14% |  |
-| 90 | 2% | 10% |  |
+| 90 | 2% | 11% |  |
 | 91 | 2% | 8% |  |
 | 92 | 2% | 6% |  |
 | 93 | 1.4% | 4% |  |
-| 94 | 1.0% | 3% |  |
+| 94 | 1.1% | 3% |  |
 | 95 | 0.8% | 2% |  |
 | 96 | 0.5% | 1.2% |  |
 | 97 | 0.3% | 0.7% |  |
 | 98 | 0.2% | 0.4% |  |
 | 99 | 0.1% | 0.2% |  |
-| 100 | 0% | 0.1% |  |
+| 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
 
 
