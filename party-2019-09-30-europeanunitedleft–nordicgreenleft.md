@@ -19,12 +19,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 41 | 47 | 44–50 | 44–50 | 43–51 | 42–52 |
-| Die Linke | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| Die Linke | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Bloco de Esquerda | PT | | 2 | 2 | 2 | 1–3 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -62,14 +62,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 7% | 95% |  |
 | 45 | 12% | 88% |  |
 | 46 | 17% | 76% |  |
-| 47 | 19% | 59% | Median |
+| 47 | 19% | 60% | Median |
 | 48 | 17% | 41% |  |
 | 49 | 12% | 24% |  |
 | 50 | 7% | 12% |  |
-| 51 | 3% | 4% |  |
-| 52 | 1.0% | 1.3% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.1% | 1.4% |  |
 | 53 | 0.3% | 0.3% |  |
-| 54 | 0% | 0.1% |  |
+| 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
 
