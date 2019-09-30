@@ -31,7 +31,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 4 | 4 | 4 | 4 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -78,28 +78,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 3% | 95% |  |
 | 140 | 4% | 92% |  |
 | 141 | 5% | 88% |  |
-| 142 | 6% | 84% |  |
-| 143 | 6% | 78% |  |
+| 142 | 6% | 83% |  |
+| 143 | 7% | 78% |  |
 | 144 | 7% | 71% |  |
 | 145 | 8% | 64% |  |
-| 146 | 8% | 57% | Median |
-| 147 | 8% | 49% |  |
-| 148 | 7% | 41% |  |
-| 149 | 7% | 34% |  |
-| 150 | 6% | 27% |  |
-| 151 | 5% | 21% |  |
+| 146 | 8% | 56% | Median |
+| 147 | 8% | 48% |  |
+| 148 | 7% | 40% |  |
+| 149 | 7% | 33% |  |
+| 150 | 6% | 26% |  |
+| 151 | 5% | 20% |  |
 | 152 | 4% | 15% |  |
 | 153 | 3% | 11% |  |
-| 154 | 3% | 8% | Last Result |
+| 154 | 2% | 8% | Last Result |
 | 155 | 2% | 5% |  |
-| 156 | 1.3% | 3% |  |
-| 157 | 0.9% | 2% |  |
-| 158 | 0.6% | 1.3% |  |
+| 156 | 1.2% | 3% |  |
+| 157 | 0.8% | 2% |  |
+| 158 | 0.5% | 1.2% |  |
 | 159 | 0.3% | 0.7% |  |
 | 160 | 0.2% | 0.4% |  |
 | 161 | 0.1% | 0.2% |  |
 | 162 | 0.1% | 0.1% |  |
-| 163 | 0% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 163 | 0% | 0% |  |
 
 
