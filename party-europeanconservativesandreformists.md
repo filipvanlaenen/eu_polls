@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GB, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, DE, ES, FR, GB, GR, HR, IT, LT, LU, LV, NL, PL, PT, SE, SK
 
 ## Seats
 
@@ -35,6 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
+| Chega | PT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -48,9 +49,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -8,17 +8,17 @@ Members registered from **21 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **62** seats (-13 seats)
+Current median: **61** seats (-14 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, GB, LT, LU, NL, PT, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, GB, LT, LU, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 57–67 | 56–69 | 55–70 | 54–73 |
+| Greens–European Free Alliance | EU | 75 | 61 | 57–67 | 56–69 | 55–70 | 53–73 |
 | Bündnis 90/Die Grünen | DE | | 22 | 20–25 | 19–26 | 19–26 | 18–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -32,7 +32,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -48,6 +47,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,35 +55,35 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.1% | 100% |  |
-| 53 | 0.3% | 99.9% |  |
-| 54 | 0.8% | 99.6% |  |
-| 55 | 2% | 98.9% |  |
+| 53 | 0.4% | 99.9% |  |
+| 54 | 1.0% | 99.5% |  |
+| 55 | 2% | 98.5% |  |
 | 56 | 3% | 97% |  |
-| 57 | 5% | 94% |  |
-| 58 | 7% | 89% |  |
-| 59 | 9% | 82% |  |
-| 60 | 10% | 74% |  |
-| 61 | 11% | 63% |  |
-| 62 | 11% | 52% | Median |
-| 63 | 9% | 42% |  |
-| 64 | 8% | 32% |  |
-| 65 | 6% | 25% |  |
-| 66 | 5% | 18% |  |
-| 67 | 4% | 13% |  |
-| 68 | 3% | 9% |  |
+| 57 | 5% | 93% |  |
+| 58 | 7% | 88% |  |
+| 59 | 9% | 80% |  |
+| 60 | 11% | 71% |  |
+| 61 | 11% | 61% | Median |
+| 62 | 10% | 50% |  |
+| 63 | 9% | 39% |  |
+| 64 | 7% | 30% |  |
+| 65 | 6% | 23% |  |
+| 66 | 5% | 17% |  |
+| 67 | 4% | 12% |  |
+| 68 | 3% | 8% |  |
 | 69 | 2% | 6% |  |
-| 70 | 2% | 4% |  |
-| 71 | 1.0% | 2% |  |
-| 72 | 0.6% | 1.2% |  |
-| 73 | 0.3% | 0.6% |  |
-| 74 | 0.2% | 0.3% |  |
+| 70 | 1.5% | 3% |  |
+| 71 | 0.9% | 2% |  |
+| 72 | 0.5% | 1.0% |  |
+| 73 | 0.3% | 0.5% |  |
+| 74 | 0.1% | 0.2% |  |
 | 75 | 0.1% | 0.1% | Last Result |
 | 76 | 0% | 0% |  |
 

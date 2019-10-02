@@ -24,7 +24,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Chega [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
