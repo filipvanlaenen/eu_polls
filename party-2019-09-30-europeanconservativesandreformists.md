@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GB, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, DE, ES, FR, GB, GR, HR, IT, LT, LU, LV, NL, PL, PT, SE, SK
 
 ## Seats
 
@@ -35,6 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
+| Chega | PT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
