@@ -22,7 +22,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Conservative Party | GB-GBN | | 25 | 21–31 | 20–34 | 19–34 | 17–35 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
-| Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Vox | ES | | 4 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -49,9 +49,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -74,8 +74,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 4% | 90% |  |
 | 79 | 6% | 86% |  |
 | 80 | 7% | 80% |  |
-| 81 | 8% | 74% |  |
-| 82 | 9% | 66% |  |
+| 81 | 8% | 73% |  |
+| 82 | 9% | 65% |  |
 | 83 | 9% | 57% | Median |
 | 84 | 8% | 48% |  |
 | 85 | 8% | 40% |  |
