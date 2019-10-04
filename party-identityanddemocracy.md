@@ -24,7 +24,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3 | 3 | 3 | 3 |
 | Partij voor de Vrijheid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -36,9 +36,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -47,20 +47,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.5% | 99.8% |  |
 | 71 | 1.2% | 99.2% |  |
 | 72 | 3% | 98% |  |
-| 73 | 5% | 95% | Last Result |
+| 73 | 5% | 96% | Last Result |
 | 74 | 7% | 91% |  |
 | 75 | 11% | 83% |  |
 | 76 | 13% | 73% |  |
 | 77 | 14% | 60% | Median |
 | 78 | 13% | 46% |  |
-| 79 | 11% | 32% |  |
+| 79 | 11% | 33% |  |
 | 80 | 8% | 21% |  |
 | 81 | 6% | 13% |  |
 | 82 | 4% | 7% |  |
 | 83 | 2% | 4% |  |
 | 84 | 1.0% | 2% |  |
 | 85 | 0.4% | 0.7% |  |
-| 86 | 0.2% | 0.2% |  |
+| 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
 

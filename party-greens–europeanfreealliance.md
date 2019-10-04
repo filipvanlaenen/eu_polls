@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 61 | 57–67 | 56–68 | 55–70 | 53–72 |
+| Greens–European Free Alliance | EU | 75 | 61 | 57–67 | 55–68 | 55–70 | 53–72 |
 | Bündnis 90/Die Grünen | DE | | 22 | 20–25 | 19–26 | 19–26 | 18–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
-| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2 |
+| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,9 +55,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -68,21 +68,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 3% | 98% |  |
 | 56 | 4% | 95% |  |
 | 57 | 6% | 91% |  |
-| 58 | 8% | 85% |  |
-| 59 | 10% | 77% |  |
+| 58 | 8% | 84% |  |
+| 59 | 10% | 76% |  |
 | 60 | 11% | 67% |  |
 | 61 | 11% | 56% | Median |
-| 62 | 10% | 46% |  |
+| 62 | 10% | 45% |  |
 | 63 | 8% | 36% |  |
-| 64 | 7% | 28% |  |
+| 64 | 7% | 27% |  |
 | 65 | 5% | 21% |  |
 | 66 | 4% | 15% |  |
 | 67 | 3% | 11% |  |
 | 68 | 3% | 7% |  |
 | 69 | 2% | 5% |  |
-| 70 | 1.3% | 3% |  |
+| 70 | 1.2% | 3% |  |
 | 71 | 0.8% | 2% |  |
-| 72 | 0.5% | 0.9% |  |
+| 72 | 0.4% | 0.8% |  |
 | 73 | 0.2% | 0.4% |  |
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0% | 0.1% | Last Result |
