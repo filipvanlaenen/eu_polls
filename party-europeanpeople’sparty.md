@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 168 | 163–173 | 161–175 | 160–176 | 157–179 |
+| European People’s Party | EU | 182 | 168 | 162–173 | 161–174 | 159–176 | 157–178 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -27,9 +27,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 8 | 8 | 8 | 8 | 8 |
-| Partido Social Democrata | PT | | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
+| Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -42,7 +42,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| CDS–Partido Popular | PT | | 1 | 1 | 1 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -72,40 +72,40 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 155 | 0.1% | 100% |  |
-| 156 | 0.2% | 99.9% |  |
-| 157 | 0.3% | 99.7% |  |
-| 158 | 0.6% | 99.4% |  |
-| 159 | 0.9% | 98.9% |  |
-| 160 | 2% | 98% |  |
-| 161 | 2% | 96% |  |
-| 162 | 3% | 94% |  |
-| 163 | 4% | 91% |  |
-| 164 | 6% | 87% |  |
-| 165 | 7% | 81% |  |
-| 166 | 8% | 74% |  |
-| 167 | 9% | 66% |  |
-| 168 | 10% | 56% | Median |
-| 169 | 9% | 47% |  |
-| 170 | 9% | 37% |  |
-| 171 | 8% | 28% |  |
-| 172 | 6% | 21% |  |
-| 173 | 5% | 14% |  |
-| 174 | 4% | 10% |  |
-| 175 | 2% | 6% |  |
-| 176 | 2% | 4% |  |
-| 177 | 1.0% | 2% |  |
-| 178 | 0.5% | 1.1% |  |
-| 179 | 0.3% | 0.6% |  |
-| 180 | 0.1% | 0.3% |  |
-| 181 | 0.1% | 0.1% |  |
-| 182 | 0% | 0.1% | Last Result |
-| 183 | 0% | 0% |  |
+| 154 | 0.1% | 100% |  |
+| 155 | 0.1% | 99.9% |  |
+| 156 | 0.2% | 99.8% |  |
+| 157 | 0.5% | 99.6% |  |
+| 158 | 0.8% | 99.1% |  |
+| 159 | 1.3% | 98% |  |
+| 160 | 2% | 97% |  |
+| 161 | 3% | 95% |  |
+| 162 | 4% | 92% |  |
+| 163 | 5% | 88% |  |
+| 164 | 6% | 83% |  |
+| 165 | 8% | 77% |  |
+| 166 | 9% | 69% |  |
+| 167 | 9% | 60% |  |
+| 168 | 10% | 51% | Median |
+| 169 | 9% | 41% |  |
+| 170 | 8% | 32% |  |
+| 171 | 7% | 24% |  |
+| 172 | 5% | 17% |  |
+| 173 | 4% | 12% |  |
+| 174 | 3% | 8% |  |
+| 175 | 2% | 5% |  |
+| 176 | 1.2% | 3% |  |
+| 177 | 0.7% | 2% |  |
+| 178 | 0.4% | 0.8% |  |
+| 179 | 0.2% | 0.4% |  |
+| 180 | 0.1% | 0.2% |  |
+| 181 | 0% | 0.1% |  |
+| 182 | 0% | 0% | Last Result |
 
 
