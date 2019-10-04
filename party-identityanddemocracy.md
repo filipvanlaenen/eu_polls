@@ -18,13 +18,13 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 78 | 74–81 | 73–82 | 72–83 | 71–85 |
+| Identity and Democracy | EU | 73 | 78 | 74–81 | 73–82 | 72–83 | 70–85 |
 | Lega Nord | IT | | 25 | 22–28 | 21–29 | 21–30 | 20–31 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
 | Alternative für Deutschland | DE | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3 | 3 | 3 | 3 |
 | Partij voor de Vrijheid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -36,9 +36,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -50,13 +50,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 6% | 93% |  |
 | 75 | 10% | 86% |  |
 | 76 | 12% | 77% |  |
-| 77 | 14% | 65% |  |
-| 78 | 14% | 51% | Median |
+| 77 | 14% | 64% |  |
+| 78 | 14% | 50% | Median |
 | 79 | 12% | 37% |  |
 | 80 | 9% | 25% |  |
 | 81 | 7% | 15% |  |
 | 82 | 4% | 9% |  |
-| 83 | 2% | 5% |  |
+| 83 | 2% | 4% |  |
 | 84 | 1.2% | 2% |  |
 | 85 | 0.6% | 0.9% |  |
 | 86 | 0.2% | 0.3% |  |

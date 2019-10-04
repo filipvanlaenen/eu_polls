@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–120 | 107–121 | 106–122 | 104–125 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 107–121 | 106–123 | 104–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–18 | 10–18 | 9–19 | 9–19 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -71,9 +71,9 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -81,24 +81,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 0.2% | 99.9% |  |
 | 104 | 0.4% | 99.7% |  |
 | 105 | 0.8% | 99.3% |  |
-| 106 | 1.4% | 98.5% |  |
+| 106 | 1.4% | 98.6% |  |
 | 107 | 2% | 97% |  |
-| 108 | 4% | 95% | Last Result |
+| 108 | 3% | 95% | Last Result |
 | 109 | 5% | 91% |  |
-| 110 | 6% | 86% |  |
-| 111 | 8% | 80% |  |
-| 112 | 9% | 73% |  |
+| 110 | 6% | 87% |  |
+| 111 | 7% | 80% |  |
+| 112 | 8% | 73% |  |
 | 113 | 9% | 64% |  |
 | 114 | 9% | 55% | Median |
 | 115 | 9% | 46% |  |
 | 116 | 8% | 37% |  |
-| 117 | 7% | 28% |  |
+| 117 | 7% | 29% |  |
 | 118 | 6% | 21% |  |
 | 119 | 5% | 15% |  |
 | 120 | 4% | 10% |  |
 | 121 | 3% | 7% |  |
 | 122 | 2% | 4% |  |
-| 123 | 1.1% | 2% |  |
+| 123 | 1.1% | 3% |  |
 | 124 | 0.7% | 1.4% |  |
 | 125 | 0.4% | 0.7% |  |
 | 126 | 0.2% | 0.3% |  |
