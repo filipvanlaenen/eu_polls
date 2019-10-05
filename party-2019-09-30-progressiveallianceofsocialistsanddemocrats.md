@@ -18,16 +18,16 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 147 | 140–153 | 139–155 | 137–157 | 135–160 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 147 | 141–154 | 139–156 | 138–157 | 135–160 |
 | Labour Party | GB-GBN | | 19 | 16–22 | 16–23 | 15–24 | 15–25 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Partito Democratico | IT | | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–16 | 11–17 | 11–17 | 11–17 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
-| Partidul Social Democrat | RO | | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
+| Partidul Social Democrat | RO | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -46,7 +46,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Česká strana sociálně demokratická | CZ | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -67,38 +67,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 132 | 0.1% | 100% |  |
+| 132 | 0% | 100% |  |
 | 133 | 0.1% | 99.9% |  |
-| 134 | 0.3% | 99.8% |  |
-| 135 | 0.5% | 99.5% |  |
-| 136 | 0.8% | 99.0% |  |
-| 137 | 1.2% | 98% |  |
-| 138 | 2% | 97% |  |
-| 139 | 3% | 95% |  |
-| 140 | 3% | 93% |  |
-| 141 | 4% | 89% |  |
-| 142 | 5% | 85% |  |
-| 143 | 6% | 80% |  |
-| 144 | 7% | 74% |  |
-| 145 | 7% | 67% |  |
-| 146 | 8% | 60% |  |
-| 147 | 8% | 52% | Median |
-| 148 | 7% | 44% |  |
-| 149 | 7% | 37% |  |
-| 150 | 6% | 30% |  |
-| 151 | 5% | 23% |  |
-| 152 | 5% | 18% |  |
-| 153 | 4% | 13% |  |
-| 154 | 3% | 10% | Last Result |
-| 155 | 2% | 7% |  |
-| 156 | 2% | 4% |  |
-| 157 | 1.1% | 3% |  |
-| 158 | 0.7% | 2% |  |
-| 159 | 0.5% | 1.1% |  |
-| 160 | 0.3% | 0.6% |  |
-| 161 | 0.2% | 0.3% |  |
+| 134 | 0.2% | 99.8% |  |
+| 135 | 0.3% | 99.7% |  |
+| 136 | 0.6% | 99.3% |  |
+| 137 | 0.9% | 98.8% |  |
+| 138 | 1.5% | 98% |  |
+| 139 | 2% | 96% |  |
+| 140 | 3% | 94% |  |
+| 141 | 4% | 91% |  |
+| 142 | 5% | 88% |  |
+| 143 | 6% | 83% |  |
+| 144 | 7% | 77% |  |
+| 145 | 7% | 71% |  |
+| 146 | 8% | 63% |  |
+| 147 | 8% | 56% | Median |
+| 148 | 8% | 48% |  |
+| 149 | 7% | 40% |  |
+| 150 | 7% | 33% |  |
+| 151 | 6% | 26% |  |
+| 152 | 5% | 20% |  |
+| 153 | 4% | 15% |  |
+| 154 | 3% | 11% | Last Result |
+| 155 | 3% | 8% |  |
+| 156 | 2% | 5% |  |
+| 157 | 1.3% | 4% |  |
+| 158 | 0.9% | 2% |  |
+| 159 | 0.6% | 1.3% |  |
+| 160 | 0.3% | 0.8% |  |
+| 161 | 0.2% | 0.4% |  |
 | 162 | 0.1% | 0.2% |  |
-| 163 | 0% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 163 | 0.1% | 0.1% |  |
+| 164 | 0% | 0.1% |  |
+| 165 | 0% | 0% |  |
 
 

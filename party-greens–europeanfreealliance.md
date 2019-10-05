@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
-| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2 |
+| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -55,9 +55,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -65,15 +65,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 0.4% | 99.8% |  |
 | 54 | 1.0% | 99.4% |  |
 | 55 | 2% | 98% |  |
-| 56 | 4% | 96% |  |
+| 56 | 3% | 96% |  |
 | 57 | 5% | 93% |  |
-| 58 | 7% | 87% |  |
-| 59 | 9% | 80% |  |
-| 60 | 10% | 71% |  |
+| 58 | 7% | 88% |  |
+| 59 | 9% | 81% |  |
+| 60 | 10% | 72% |  |
 | 61 | 11% | 61% |  |
-| 62 | 10% | 50% | Median |
-| 63 | 9% | 40% |  |
-| 64 | 7% | 31% |  |
+| 62 | 10% | 51% | Median |
+| 63 | 9% | 41% |  |
+| 64 | 8% | 31% |  |
 | 65 | 6% | 24% |  |
 | 66 | 5% | 18% |  |
 | 67 | 4% | 13% |  |
