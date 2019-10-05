@@ -71,35 +71,35 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 102 | 0% | 100% |  |
 | 103 | 0.1% | 99.9% |  |
 | 104 | 0.3% | 99.8% |  |
-| 105 | 0.5% | 99.6% |  |
-| 106 | 1.0% | 99.0% |  |
+| 105 | 0.6% | 99.5% |  |
+| 106 | 1.1% | 98.9% |  |
 | 107 | 2% | 98% |  |
 | 108 | 3% | 96% | Last Result |
-| 109 | 4% | 94% |  |
-| 110 | 5% | 90% |  |
-| 111 | 7% | 84% |  |
-| 112 | 8% | 78% |  |
-| 113 | 9% | 70% |  |
-| 114 | 9% | 61% |  |
-| 115 | 9% | 52% | Median |
-| 116 | 9% | 43% |  |
-| 117 | 8% | 34% |  |
-| 118 | 7% | 26% |  |
-| 119 | 6% | 19% |  |
-| 120 | 4% | 14% |  |
+| 109 | 4% | 93% |  |
+| 110 | 5% | 89% |  |
+| 111 | 7% | 83% |  |
+| 112 | 8% | 77% |  |
+| 113 | 9% | 69% |  |
+| 114 | 9% | 60% |  |
+| 115 | 9% | 51% | Median |
+| 116 | 9% | 42% |  |
+| 117 | 8% | 33% |  |
+| 118 | 7% | 25% |  |
+| 119 | 5% | 19% |  |
+| 120 | 4% | 13% |  |
 | 121 | 3% | 9% |  |
 | 122 | 2% | 6% |  |
-| 123 | 2% | 4% |  |
-| 124 | 1.0% | 2% |  |
+| 123 | 1.5% | 4% |  |
+| 124 | 0.9% | 2% |  |
 | 125 | 0.6% | 1.2% |  |
 | 126 | 0.3% | 0.6% |  |
 | 127 | 0.2% | 0.3% |  |
