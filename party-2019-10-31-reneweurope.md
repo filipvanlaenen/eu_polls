@@ -18,11 +18,11 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 115 | 109–120 | 108–121 | 107–123 | 105–125 |
+| Renew Europe | EU | 108 | 115 | 110–120 | 108–122 | 107–123 | 105–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 13 | 10–17 | 10–18 | 9–19 | 8–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
-| Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -44,7 +44,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1 | 1 |
@@ -63,7 +63,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -77,30 +77,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0% | 100% |  |
-| 103 | 0.1% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.5% | 99.6% |  |
-| 106 | 1.0% | 99.0% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 96% | Last Result |
-| 109 | 4% | 94% |  |
-| 110 | 5% | 90% |  |
-| 111 | 7% | 85% |  |
-| 112 | 8% | 78% |  |
-| 113 | 9% | 70% |  |
-| 114 | 10% | 61% |  |
-| 115 | 10% | 51% | Median |
-| 116 | 9% | 41% |  |
-| 117 | 8% | 32% |  |
-| 118 | 7% | 24% |  |
-| 119 | 5% | 17% |  |
-| 120 | 4% | 12% |  |
+| 103 | 0.1% | 100% |  |
+| 104 | 0.2% | 99.9% |  |
+| 105 | 0.4% | 99.7% |  |
+| 106 | 0.8% | 99.2% |  |
+| 107 | 1.4% | 98% |  |
+| 108 | 2% | 97% | Last Result |
+| 109 | 3% | 95% |  |
+| 110 | 5% | 91% |  |
+| 111 | 6% | 87% |  |
+| 112 | 8% | 80% |  |
+| 113 | 9% | 73% |  |
+| 114 | 10% | 64% |  |
+| 115 | 10% | 54% | Median |
+| 116 | 10% | 44% |  |
+| 117 | 9% | 34% |  |
+| 118 | 7% | 26% |  |
+| 119 | 6% | 18% |  |
+| 120 | 4% | 13% |  |
 | 121 | 3% | 8% |  |
 | 122 | 2% | 5% |  |
-| 123 | 1.3% | 3% |  |
+| 123 | 1.4% | 3% |  |
 | 124 | 0.8% | 2% |  |
-| 125 | 0.4% | 0.9% |  |
+| 125 | 0.5% | 0.9% |  |
 | 126 | 0.2% | 0.4% |  |
 | 127 | 0.1% | 0.2% |  |
 | 128 | 0.1% | 0.1% |  |
