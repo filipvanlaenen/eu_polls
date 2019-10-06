@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **115** seats (+7 seats)
+Current median: **114** seats (+6 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 115 | 109–120 | 108–122 | 107–123 | 105–126 |
+| Renew Europe | EU | 108 | 114 | 109–120 | 108–121 | 106–123 | 104–125 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 10–18 | 10–18 | 9–19 | 9–19 |
+| Liberal Democrats | GB-GBN | | 13 | 10–17 | 10–18 | 9–19 | 8–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Freie Demokratische Partei | DE | | 7 | 5–9 | 5–9 | 5–9 | 5–9 |
+| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Italia Viva | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -63,7 +63,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -77,34 +77,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0% | 100% |  |
-| 103 | 0.1% | 99.9% |  |
+| 102 | 0.1% | 100% |  |
+| 103 | 0.2% | 99.9% |  |
 | 104 | 0.3% | 99.8% |  |
-| 105 | 0.6% | 99.5% |  |
-| 106 | 1.1% | 98.9% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 96% | Last Result |
-| 109 | 4% | 93% |  |
-| 110 | 5% | 89% |  |
-| 111 | 7% | 83% |  |
-| 112 | 8% | 77% |  |
-| 113 | 9% | 69% |  |
-| 114 | 9% | 60% |  |
-| 115 | 9% | 51% | Median |
-| 116 | 9% | 42% |  |
-| 117 | 8% | 33% |  |
-| 118 | 7% | 25% |  |
-| 119 | 5% | 19% |  |
-| 120 | 4% | 13% |  |
-| 121 | 3% | 9% |  |
-| 122 | 2% | 6% |  |
-| 123 | 1.5% | 4% |  |
-| 124 | 0.9% | 2% |  |
-| 125 | 0.6% | 1.2% |  |
-| 126 | 0.3% | 0.6% |  |
-| 127 | 0.2% | 0.3% |  |
+| 105 | 0.7% | 99.4% |  |
+| 106 | 1.2% | 98.7% |  |
+| 107 | 2% | 97% |  |
+| 108 | 3% | 95% | Last Result |
+| 109 | 4% | 92% |  |
+| 110 | 6% | 88% |  |
+| 111 | 7% | 82% |  |
+| 112 | 8% | 75% |  |
+| 113 | 9% | 66% |  |
+| 114 | 9% | 57% | Median |
+| 115 | 9% | 48% |  |
+| 116 | 9% | 39% |  |
+| 117 | 8% | 30% |  |
+| 118 | 6% | 22% |  |
+| 119 | 5% | 16% |  |
+| 120 | 4% | 11% |  |
+| 121 | 3% | 7% |  |
+| 122 | 2% | 5% |  |
+| 123 | 1.2% | 3% |  |
+| 124 | 0.7% | 2% |  |
+| 125 | 0.4% | 0.9% |  |
+| 126 | 0.2% | 0.5% |  |
+| 127 | 0.1% | 0.2% |  |
 | 128 | 0.1% | 0.1% |  |
-| 129 | 0% | 0.1% |  |
-| 130 | 0% | 0% |  |
+| 129 | 0% | 0% |  |
 
 
