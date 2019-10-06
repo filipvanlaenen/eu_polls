@@ -22,10 +22,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Conservative Party | GB-GBN | | 25 | 21–31 | 20–34 | 19–34 | 17–35 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Vox | ES | | 4 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Vox | ES | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Forum voor Democratie | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.2% | 99.8% |  |
 | 71 | 0.3% | 99.6% |  |
 | 72 | 0.5% | 99.3% |  |
-| 73 | 0.8% | 98.9% |  |
+| 73 | 0.8% | 98.8% |  |
 | 74 | 1.2% | 98% |  |
 | 75 | 2% | 97% |  |
 | 76 | 2% | 95% |  |
@@ -77,10 +77,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 8% | 72% |  |
 | 82 | 9% | 64% |  |
 | 83 | 9% | 55% | Median |
-| 84 | 8% | 46% |  |
+| 84 | 8% | 47% |  |
 | 85 | 7% | 38% |  |
 | 86 | 6% | 31% |  |
-| 87 | 5% | 24% |  |
+| 87 | 5% | 25% |  |
 | 88 | 4% | 19% |  |
 | 89 | 4% | 15% |  |
 | 90 | 3% | 11% |  |
@@ -89,9 +89,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 1.4% | 4% |  |
 | 94 | 1.0% | 3% |  |
 | 95 | 0.7% | 2% |  |
-| 96 | 0.4% | 1.0% |  |
-| 97 | 0.3% | 0.5% |  |
-| 98 | 0.1% | 0.3% |  |
+| 96 | 0.5% | 1.0% |  |
+| 97 | 0.3% | 0.6% |  |
+| 98 | 0.2% | 0.3% |  |
 | 99 | 0.1% | 0.1% |  |
 | 100 | 0% | 0.1% |  |
 | 101 | 0% | 0% |  |
