@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **169** seats (-13 seats)
+Current median: **168** seats (-14 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 169 | 163–174 | 161–175 | 160–177 | 157–179 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–23 | 17–23 |
+| European People’s Party | EU | 182 | 168 | 163–173 | 161–175 | 160–176 | 157–179 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–23 | 18–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | Partido Popular | ES | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
@@ -29,7 +29,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 8 | 8 | 8 | 8 | 8 |
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -42,7 +42,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| CDS–Partido Popular | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -72,39 +72,40 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 155 | 0.1% | 100% |  |
-| 156 | 0.1% | 99.9% |  |
-| 157 | 0.3% | 99.8% |  |
-| 158 | 0.5% | 99.5% |  |
-| 159 | 0.8% | 99.0% |  |
-| 160 | 1.3% | 98% |  |
-| 161 | 2% | 97% |  |
-| 162 | 3% | 95% |  |
-| 163 | 4% | 92% |  |
-| 164 | 5% | 88% |  |
-| 165 | 6% | 83% |  |
-| 166 | 8% | 76% |  |
-| 167 | 9% | 69% |  |
-| 168 | 9% | 60% |  |
-| 169 | 9% | 51% | Median |
-| 170 | 9% | 41% |  |
-| 171 | 8% | 32% |  |
-| 172 | 7% | 24% |  |
-| 173 | 5% | 17% |  |
-| 174 | 4% | 12% |  |
-| 175 | 3% | 8% |  |
-| 176 | 2% | 5% |  |
-| 177 | 1.2% | 3% |  |
-| 178 | 0.7% | 1.5% |  |
-| 179 | 0.4% | 0.8% |  |
-| 180 | 0.2% | 0.4% |  |
-| 181 | 0.1% | 0.2% |  |
+| 154 | 0% | 100% |  |
+| 155 | 0.1% | 99.9% |  |
+| 156 | 0.2% | 99.8% |  |
+| 157 | 0.4% | 99.7% |  |
+| 158 | 0.6% | 99.3% |  |
+| 159 | 1.0% | 98.7% |  |
+| 160 | 2% | 98% |  |
+| 161 | 2% | 96% |  |
+| 162 | 3% | 94% |  |
+| 163 | 5% | 90% |  |
+| 164 | 6% | 86% |  |
+| 165 | 7% | 80% |  |
+| 166 | 8% | 73% |  |
+| 167 | 9% | 65% |  |
+| 168 | 9% | 56% | Median |
+| 169 | 9% | 46% |  |
+| 170 | 9% | 37% |  |
+| 171 | 8% | 28% |  |
+| 172 | 6% | 21% |  |
+| 173 | 5% | 15% |  |
+| 174 | 4% | 10% |  |
+| 175 | 2% | 6% |  |
+| 176 | 2% | 4% |  |
+| 177 | 1.0% | 2% |  |
+| 178 | 0.6% | 1.2% |  |
+| 179 | 0.3% | 0.6% |  |
+| 180 | 0.2% | 0.3% |  |
+| 181 | 0.1% | 0.1% |  |
 | 182 | 0% | 0.1% | Last Result |
 | 183 | 0% | 0% |  |
 
