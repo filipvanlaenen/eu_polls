@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 169 | 163–174 | 162–176 | 160–177 | 158–180 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 18–22 | 18–23 | 18–23 | 17–23 |
+| European People’s Party | EU | 182 | 169 | 163–174 | 161–175 | 160–177 | 157–179 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–23 | 17–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | Partido Popular | ES | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -42,7 +42,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| CDS–Partido Popular | PT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -80,32 +80,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 155 | 0.1% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
-| 157 | 0.2% | 99.8% |  |
-| 158 | 0.4% | 99.6% |  |
-| 159 | 0.7% | 99.1% |  |
-| 160 | 1.2% | 98% |  |
+| 157 | 0.3% | 99.8% |  |
+| 158 | 0.5% | 99.5% |  |
+| 159 | 0.8% | 99.0% |  |
+| 160 | 1.3% | 98% |  |
 | 161 | 2% | 97% |  |
 | 162 | 3% | 95% |  |
-| 163 | 4% | 93% |  |
-| 164 | 5% | 89% |  |
-| 165 | 6% | 85% |  |
-| 166 | 7% | 79% |  |
-| 167 | 8% | 71% |  |
-| 168 | 9% | 63% |  |
-| 169 | 9% | 54% | Median |
-| 170 | 9% | 45% |  |
-| 171 | 8% | 36% |  |
-| 172 | 7% | 27% |  |
-| 173 | 6% | 20% |  |
-| 174 | 5% | 14% |  |
-| 175 | 3% | 9% |  |
-| 176 | 2% | 6% |  |
-| 177 | 2% | 4% |  |
-| 178 | 0.9% | 2% |  |
-| 179 | 0.5% | 1.1% |  |
-| 180 | 0.3% | 0.5% |  |
-| 181 | 0.1% | 0.3% |  |
-| 182 | 0.1% | 0.1% | Last Result |
+| 163 | 4% | 92% |  |
+| 164 | 5% | 88% |  |
+| 165 | 6% | 83% |  |
+| 166 | 8% | 76% |  |
+| 167 | 9% | 69% |  |
+| 168 | 9% | 60% |  |
+| 169 | 9% | 51% | Median |
+| 170 | 9% | 41% |  |
+| 171 | 8% | 32% |  |
+| 172 | 7% | 24% |  |
+| 173 | 5% | 17% |  |
+| 174 | 4% | 12% |  |
+| 175 | 3% | 8% |  |
+| 176 | 2% | 5% |  |
+| 177 | 1.2% | 3% |  |
+| 178 | 0.7% | 1.5% |  |
+| 179 | 0.4% | 0.8% |  |
+| 180 | 0.2% | 0.4% |  |
+| 181 | 0.1% | 0.2% |  |
+| 182 | 0% | 0.1% | Last Result |
 | 183 | 0% | 0% |  |
 
 
