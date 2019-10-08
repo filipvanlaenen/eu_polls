@@ -24,7 +24,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -61,10 +61,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 5% | 98% |  |
 | 44 | 10% | 93% |  |
 | 45 | 15% | 83% |  |
-| 46 | 19% | 67% | Median |
-| 47 | 19% | 48% |  |
-| 48 | 15% | 29% |  |
-| 49 | 9% | 14% |  |
+| 46 | 19% | 68% | Median |
+| 47 | 19% | 49% |  |
+| 48 | 15% | 30% |  |
+| 49 | 9% | 15% |  |
 | 50 | 4% | 6% |  |
 | 51 | 1.3% | 2% |  |
 | 52 | 0.3% | 0.4% |  |

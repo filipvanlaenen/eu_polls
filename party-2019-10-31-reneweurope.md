@@ -45,6 +45,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -61,7 +62,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -80,16 +80,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 0.1% | 100% |  |
 | 103 | 0.1% | 99.9% |  |
 | 104 | 0.3% | 99.8% |  |
-| 105 | 0.5% | 99.5% |  |
-| 106 | 0.9% | 99.0% |  |
+| 105 | 0.6% | 99.5% |  |
+| 106 | 1.0% | 99.0% |  |
 | 107 | 2% | 98% |  |
-| 108 | 2% | 97% | Last Result |
+| 108 | 2% | 96% | Last Result |
 | 109 | 3% | 94% |  |
 | 110 | 5% | 91% |  |
 | 111 | 6% | 86% |  |
-| 112 | 7% | 81% |  |
-| 113 | 8% | 74% |  |
-| 114 | 9% | 66% |  |
+| 112 | 7% | 80% |  |
+| 113 | 8% | 73% |  |
+| 114 | 9% | 65% |  |
 | 115 | 9% | 57% | Median |
 | 116 | 9% | 48% |  |
 | 117 | 8% | 39% |  |
@@ -101,8 +101,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 123 | 2% | 6% |  |
 | 124 | 1.5% | 3% |  |
 | 125 | 0.9% | 2% |  |
-| 126 | 0.5% | 0.9% |  |
-| 127 | 0.3% | 0.4% |  |
+| 126 | 0.5% | 1.0% |  |
+| 127 | 0.3% | 0.5% |  |
 | 128 | 0.1% | 0.2% |  |
 | 129 | 0% | 0.1% |  |
 | 130 | 0% | 0% |  |

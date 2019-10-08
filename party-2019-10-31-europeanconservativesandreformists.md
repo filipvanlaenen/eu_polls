@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **84** seats (+22 seats)
+Current median: **83** seats (+21 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 84 | 78–91 | 76–93 | 74–95 | 71–97 |
+| European Conservatives and Reformists | EU | 62 | 83 | 78–91 | 76–93 | 74–95 | 71–97 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Conservative Party | GB-GBN | | 25 | 21–33 | 20–34 | 19–34 | 17–35 |
-| Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| Sverigedemokraterna | SE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Vox | ES | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Forum voor Democratie | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
@@ -66,27 +66,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.2% | 99.8% |  |
 | 71 | 0.3% | 99.7% |  |
 | 72 | 0.4% | 99.4% |  |
-| 73 | 0.7% | 99.0% |  |
+| 73 | 0.7% | 98.9% |  |
 | 74 | 1.1% | 98% |  |
 | 75 | 2% | 97% |  |
 | 76 | 2% | 96% |  |
 | 77 | 3% | 93% |  |
 | 78 | 4% | 90% |  |
 | 79 | 5% | 86% |  |
-| 80 | 7% | 81% |  |
+| 80 | 7% | 80% |  |
 | 81 | 8% | 74% |  |
-| 82 | 8% | 67% |  |
-| 83 | 8% | 59% |  |
-| 84 | 8% | 50% | Median |
+| 82 | 8% | 66% |  |
+| 83 | 8% | 58% | Median |
+| 84 | 8% | 50% |  |
 | 85 | 7% | 42% |  |
 | 86 | 6% | 35% |  |
 | 87 | 5% | 29% |  |
 | 88 | 4% | 24% |  |
-| 89 | 4% | 20% |  |
+| 89 | 4% | 19% |  |
 | 90 | 3% | 16% |  |
 | 91 | 3% | 12% |  |
 | 92 | 3% | 9% |  |
-| 93 | 2% | 7% |  |
+| 93 | 2% | 6% |  |
 | 94 | 2% | 4% |  |
 | 95 | 1.1% | 3% |  |
 | 96 | 0.7% | 2% |  |
