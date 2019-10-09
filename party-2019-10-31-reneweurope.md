@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **115** seats (+7 seats)
+Current median: **116** seats (+8 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 115 | 110–121 | 108–123 | 107–124 | 105–126 |
+| Renew Europe | EU | 108 | 116 | 110–122 | 108–123 | 107–125 | 104–127 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 9–18 | 9–18 | 8–19 | 8–19 |
+| Liberal Democrats | GB-GBN | | 13 | 8–18 | 8–19 | 8–19 | 8–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Venstre | DK | | 4 | 4 | 4 | 4 | 4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -52,7 +52,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -80,31 +80,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 0.1% | 100% |  |
 | 103 | 0.1% | 99.9% |  |
 | 104 | 0.3% | 99.8% |  |
-| 105 | 0.6% | 99.5% |  |
-| 106 | 1.0% | 99.0% |  |
-| 107 | 2% | 98% |  |
-| 108 | 2% | 96% | Last Result |
-| 109 | 3% | 94% |  |
-| 110 | 5% | 91% |  |
-| 111 | 6% | 86% |  |
-| 112 | 7% | 80% |  |
-| 113 | 8% | 73% |  |
-| 114 | 9% | 65% |  |
-| 115 | 9% | 57% | Median |
-| 116 | 9% | 48% |  |
-| 117 | 8% | 39% |  |
-| 118 | 7% | 31% |  |
-| 119 | 6% | 24% |  |
-| 120 | 5% | 18% |  |
-| 121 | 4% | 13% |  |
-| 122 | 3% | 9% |  |
-| 123 | 2% | 6% |  |
-| 124 | 1.5% | 3% |  |
-| 125 | 0.9% | 2% |  |
-| 126 | 0.5% | 1.0% |  |
-| 127 | 0.3% | 0.5% |  |
-| 128 | 0.1% | 0.2% |  |
-| 129 | 0% | 0.1% |  |
+| 105 | 0.5% | 99.5% |  |
+| 106 | 0.9% | 99.0% |  |
+| 107 | 1.4% | 98% |  |
+| 108 | 2% | 97% | Last Result |
+| 109 | 3% | 95% |  |
+| 110 | 4% | 92% |  |
+| 111 | 5% | 88% |  |
+| 112 | 6% | 83% |  |
+| 113 | 7% | 77% |  |
+| 114 | 8% | 70% |  |
+| 115 | 8% | 62% |  |
+| 116 | 9% | 54% | Median |
+| 117 | 8% | 45% |  |
+| 118 | 8% | 36% |  |
+| 119 | 7% | 29% |  |
+| 120 | 6% | 22% |  |
+| 121 | 5% | 16% |  |
+| 122 | 4% | 11% |  |
+| 123 | 3% | 7% |  |
+| 124 | 2% | 4% |  |
+| 125 | 1.2% | 3% |  |
+| 126 | 0.7% | 1.3% |  |
+| 127 | 0.4% | 0.6% |  |
+| 128 | 0.2% | 0.3% |  |
+| 129 | 0.1% | 0.1% |  |
 | 130 | 0% | 0% |  |
 
 
