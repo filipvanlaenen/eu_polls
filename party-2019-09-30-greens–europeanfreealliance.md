@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **62** seats (-13 seats)
+Current median: **61** seats (-14 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 57–67 | 56–69 | 55–70 | 53–73 |
+| Greens–European Free Alliance | EU | 75 | 61 | 57–67 | 56–69 | 55–70 | 53–72 |
 | Bündnis 90/Die Grünen | DE | | 22 | 20–25 | 19–26 | 19–26 | 18–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
-| GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2 | 2 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -38,7 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalició Compromís | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
@@ -63,25 +63,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.1% | 100% |  |
 | 53 | 0.4% | 99.8% |  |
-| 54 | 0.9% | 99.4% |  |
+| 54 | 1.0% | 99.4% |  |
 | 55 | 2% | 98% |  |
 | 56 | 3% | 97% |  |
-| 57 | 5% | 94% |  |
-| 58 | 7% | 89% |  |
-| 59 | 9% | 82% |  |
-| 60 | 11% | 73% |  |
-| 61 | 11% | 62% |  |
-| 62 | 11% | 51% | Median |
-| 63 | 9% | 41% |  |
-| 64 | 8% | 31% |  |
-| 65 | 6% | 24% |  |
-| 66 | 5% | 18% |  |
-| 67 | 4% | 13% |  |
-| 68 | 3% | 9% |  |
-| 69 | 2% | 6% |  |
-| 70 | 2% | 4% |  |
-| 71 | 1.0% | 2% |  |
-| 72 | 0.6% | 1.1% |  |
+| 57 | 5% | 93% |  |
+| 58 | 7% | 88% |  |
+| 59 | 9% | 81% |  |
+| 60 | 11% | 72% |  |
+| 61 | 11% | 61% | Median |
+| 62 | 10% | 49% |  |
+| 63 | 9% | 39% |  |
+| 64 | 7% | 30% |  |
+| 65 | 6% | 23% |  |
+| 66 | 5% | 17% |  |
+| 67 | 4% | 12% |  |
+| 68 | 3% | 8% |  |
+| 69 | 2% | 5% |  |
+| 70 | 1.4% | 3% |  |
+| 71 | 0.9% | 2% |  |
+| 72 | 0.5% | 1.0% |  |
 | 73 | 0.3% | 0.5% |  |
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0.1% | 0.1% | Last Result |
