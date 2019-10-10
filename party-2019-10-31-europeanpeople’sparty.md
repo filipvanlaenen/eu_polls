@@ -18,23 +18,23 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 169 | 163–174 | 161–176 | 160–177 | 157–179 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| European People’s Party | EU | 182 | 169 | 163–174 | 162–176 | 160–177 | 158–180 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
-| Partido Popular | ES | | 12 | 10–13 | 10–13 | 9–14 | 9–14 |
+| Partido Popular | ES | | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
 | Partidul Național Liberal | RO | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 8 | 8 | 8 | 8 | 8 |
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–5 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -78,35 +78,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 154 | 0% | 100% |  |
-| 155 | 0.1% | 99.9% |  |
+| 155 | 0% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
-| 157 | 0.3% | 99.7% |  |
-| 158 | 0.5% | 99.4% |  |
-| 159 | 0.8% | 98.9% |  |
-| 160 | 1.3% | 98% |  |
+| 157 | 0.2% | 99.8% |  |
+| 158 | 0.4% | 99.6% |  |
+| 159 | 0.7% | 99.2% |  |
+| 160 | 1.1% | 98.5% |  |
 | 161 | 2% | 97% |  |
-| 162 | 3% | 95% |  |
-| 163 | 4% | 92% |  |
-| 164 | 5% | 88% |  |
-| 165 | 6% | 83% |  |
-| 166 | 7% | 77% |  |
-| 167 | 8% | 69% |  |
-| 168 | 9% | 61% |  |
-| 169 | 9% | 52% | Median |
-| 170 | 9% | 42% |  |
-| 171 | 8% | 33% |  |
-| 172 | 7% | 25% |  |
-| 173 | 6% | 18% |  |
-| 174 | 4% | 12% |  |
-| 175 | 3% | 8% |  |
-| 176 | 2% | 5% |  |
-| 177 | 1.3% | 3% |  |
-| 178 | 0.8% | 2% |  |
-| 179 | 0.4% | 0.9% |  |
-| 180 | 0.2% | 0.4% |  |
-| 181 | 0.1% | 0.2% |  |
+| 162 | 2% | 96% |  |
+| 163 | 3% | 93% |  |
+| 164 | 5% | 90% |  |
+| 165 | 6% | 85% |  |
+| 166 | 7% | 79% |  |
+| 167 | 8% | 72% |  |
+| 168 | 9% | 64% |  |
+| 169 | 9% | 55% | Median |
+| 170 | 9% | 45% |  |
+| 171 | 8% | 36% |  |
+| 172 | 7% | 28% |  |
+| 173 | 6% | 20% |  |
+| 174 | 5% | 14% |  |
+| 175 | 3% | 9% |  |
+| 176 | 2% | 6% |  |
+| 177 | 2% | 4% |  |
+| 178 | 0.9% | 2% |  |
+| 179 | 0.5% | 1.1% |  |
+| 180 | 0.3% | 0.6% |  |
+| 181 | 0.2% | 0.3% |  |
 | 182 | 0.1% | 0.1% | Last Result |
-| 183 | 0% | 0% |  |
+| 183 | 0% | 0.1% |  |
+| 184 | 0% | 0% |  |
 
 
