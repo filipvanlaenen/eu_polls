@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
