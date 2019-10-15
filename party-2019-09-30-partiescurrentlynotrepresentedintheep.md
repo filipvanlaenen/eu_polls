@@ -18,9 +18,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–4 | 0–4 | 0–5 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| Za ľudí [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Za ľudí [SK] (*) | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -49,12 +49,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 26% | 95% |  |
-| 2 | 11% | 69% |  |
-| 3 | 39% | 58% | Median |
-| 4 | 18% | 19% |  |
-| 5 | 1.4% | 1.4% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 30% | 99.9% |  |
+| 2 | 5% | 70% |  |
+| 3 | 42% | 65% | Median |
+| 4 | 21% | 23% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
