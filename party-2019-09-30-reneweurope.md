@@ -38,7 +38,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -81,25 +81,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 0.2% | 99.9% |  |
 | 105 | 0.4% | 99.7% |  |
 | 106 | 0.7% | 99.3% |  |
-| 107 | 1.3% | 98.5% |  |
+| 107 | 1.3% | 98.6% |  |
 | 108 | 2% | 97% | Last Result |
 | 109 | 3% | 95% |  |
-| 110 | 5% | 92% |  |
-| 111 | 6% | 87% |  |
-| 112 | 7% | 81% |  |
-| 113 | 9% | 74% |  |
+| 110 | 4% | 92% |  |
+| 111 | 6% | 88% |  |
+| 112 | 7% | 82% |  |
+| 113 | 8% | 74% |  |
 | 114 | 9% | 66% |  |
-| 115 | 10% | 56% | Median |
-| 116 | 10% | 46% |  |
+| 115 | 10% | 57% | Median |
+| 116 | 10% | 47% |  |
 | 117 | 9% | 37% |  |
 | 118 | 8% | 28% |  |
-| 119 | 6% | 20% |  |
+| 119 | 6% | 21% |  |
 | 120 | 5% | 14% |  |
-| 121 | 3% | 9% |  |
+| 121 | 4% | 10% |  |
 | 122 | 2% | 6% |  |
 | 123 | 2% | 4% |  |
-| 124 | 0.9% | 2% |  |
-| 125 | 0.5% | 1.1% |  |
+| 124 | 1.0% | 2% |  |
+| 125 | 0.6% | 1.1% |  |
 | 126 | 0.3% | 0.5% |  |
 | 127 | 0.1% | 0.3% |  |
 | 128 | 0.1% | 0.1% |  |

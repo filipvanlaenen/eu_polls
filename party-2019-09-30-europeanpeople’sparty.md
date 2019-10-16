@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -60,13 +60,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | KPV LV | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| MOST–HÍD | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
@@ -82,31 +82,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 0.1% | 99.9% |  |
 | 156 | 0.2% | 99.9% |  |
 | 157 | 0.3% | 99.7% |  |
-| 158 | 0.6% | 99.3% |  |
-| 159 | 1.0% | 98.8% |  |
-| 160 | 2% | 98% |  |
-| 161 | 2% | 96% |  |
+| 158 | 0.5% | 99.4% |  |
+| 159 | 0.9% | 98.9% |  |
+| 160 | 1.4% | 98% |  |
+| 161 | 2% | 97% |  |
 | 162 | 3% | 94% |  |
 | 163 | 4% | 91% |  |
-| 164 | 6% | 87% |  |
-| 165 | 7% | 81% |  |
-| 166 | 8% | 74% |  |
-| 167 | 9% | 66% |  |
-| 168 | 9% | 57% | Median |
-| 169 | 9% | 48% |  |
-| 170 | 9% | 39% |  |
-| 171 | 8% | 30% |  |
-| 172 | 6% | 23% |  |
-| 173 | 5% | 16% |  |
-| 174 | 4% | 11% |  |
-| 175 | 3% | 7% |  |
-| 176 | 2% | 4% |  |
-| 177 | 1.1% | 3% |  |
-| 178 | 0.7% | 1.4% |  |
-| 179 | 0.4% | 0.8% |  |
+| 164 | 5% | 87% |  |
+| 165 | 7% | 82% |  |
+| 166 | 8% | 76% |  |
+| 167 | 9% | 68% |  |
+| 168 | 9% | 59% | Median |
+| 169 | 9% | 50% |  |
+| 170 | 9% | 41% |  |
+| 171 | 8% | 32% |  |
+| 172 | 7% | 24% |  |
+| 173 | 5% | 17% |  |
+| 174 | 4% | 12% |  |
+| 175 | 3% | 8% |  |
+| 176 | 2% | 5% |  |
+| 177 | 1.3% | 3% |  |
+| 178 | 0.8% | 2% |  |
+| 179 | 0.4% | 0.9% |  |
 | 180 | 0.2% | 0.4% |  |
 | 181 | 0.1% | 0.2% |  |
-| 182 | 0% | 0.1% | Last Result |
+| 182 | 0.1% | 0.1% | Last Result |
 | 183 | 0% | 0% |  |
 
 
