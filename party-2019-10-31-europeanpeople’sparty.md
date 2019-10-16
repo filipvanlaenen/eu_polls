@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 169 | 164–175 | 162–176 | 161–177 | 158–180 |
+| European People’s Party | EU | 182 | 169 | 164–175 | 162–176 | 161–178 | 158–180 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -60,13 +60,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | KPV LV | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| MOST–HÍD | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
@@ -80,32 +80,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 155 | 0% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
-| 157 | 0.2% | 99.8% |  |
-| 158 | 0.4% | 99.6% |  |
-| 159 | 0.6% | 99.3% |  |
-| 160 | 1.0% | 98.7% |  |
-| 161 | 2% | 98% |  |
+| 157 | 0.2% | 99.9% |  |
+| 158 | 0.3% | 99.7% |  |
+| 159 | 0.6% | 99.4% |  |
+| 160 | 0.9% | 98.8% |  |
+| 161 | 1.5% | 98% |  |
 | 162 | 2% | 96% |  |
 | 163 | 3% | 94% |  |
 | 164 | 4% | 91% |  |
-| 165 | 6% | 86% |  |
-| 166 | 7% | 80% |  |
-| 167 | 8% | 74% |  |
-| 168 | 9% | 66% |  |
-| 169 | 9% | 57% | Median |
-| 170 | 9% | 47% |  |
-| 171 | 9% | 38% |  |
-| 172 | 8% | 29% |  |
-| 173 | 6% | 22% |  |
-| 174 | 5% | 15% |  |
-| 175 | 4% | 10% |  |
+| 165 | 5% | 87% |  |
+| 166 | 7% | 81% |  |
+| 167 | 8% | 75% |  |
+| 168 | 9% | 67% |  |
+| 169 | 9% | 58% | Median |
+| 170 | 9% | 49% |  |
+| 171 | 9% | 40% |  |
+| 172 | 8% | 31% |  |
+| 173 | 7% | 23% |  |
+| 174 | 5% | 16% |  |
+| 175 | 4% | 11% |  |
 | 176 | 3% | 7% |  |
 | 177 | 2% | 4% |  |
-| 178 | 1.0% | 2% |  |
-| 179 | 0.6% | 1.3% |  |
-| 180 | 0.3% | 0.7% |  |
-| 181 | 0.2% | 0.3% |  |
-| 182 | 0.1% | 0.1% | Last Result |
+| 178 | 1.2% | 3% |  |
+| 179 | 0.7% | 1.4% |  |
+| 180 | 0.4% | 0.8% |  |
+| 181 | 0.2% | 0.4% |  |
+| 182 | 0.1% | 0.2% | Last Result |
 | 183 | 0% | 0.1% |  |
 | 184 | 0% | 0% |  |
 

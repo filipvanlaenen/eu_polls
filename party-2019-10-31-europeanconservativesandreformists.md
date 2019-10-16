@@ -28,9 +28,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Forum voor Democratie | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Slovenská národná strana | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0.2% | 99.8% |  |
 | 73 | 0.3% | 99.7% |  |
 | 74 | 0.4% | 99.4% |  |
-| 75 | 0.7% | 98.9% |  |
+| 75 | 0.7% | 99.0% |  |
 | 76 | 1.1% | 98% |  |
 | 77 | 2% | 97% |  |
 | 78 | 3% | 95% |  |
@@ -79,18 +79,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 8% | 70% |  |
 | 84 | 8% | 62% |  |
 | 85 | 8% | 54% | Median |
-| 86 | 8% | 46% |  |
+| 86 | 8% | 45% |  |
 | 87 | 7% | 38% |  |
 | 88 | 6% | 31% |  |
-| 89 | 5% | 25% |  |
+| 89 | 6% | 24% |  |
 | 90 | 5% | 19% |  |
-| 91 | 4% | 15% |  |
+| 91 | 4% | 14% |  |
 | 92 | 3% | 10% |  |
-| 93 | 3% | 7% |  |
-| 94 | 2% | 5% |  |
+| 93 | 2% | 7% |  |
+| 94 | 2% | 4% |  |
 | 95 | 1.2% | 3% |  |
-| 96 | 0.8% | 2% |  |
-| 97 | 0.4% | 0.9% |  |
+| 96 | 0.7% | 2% |  |
+| 97 | 0.4% | 0.8% |  |
 | 98 | 0.2% | 0.4% |  |
 | 99 | 0.1% | 0.2% |  |
 | 100 | 0.1% | 0.1% |  |
