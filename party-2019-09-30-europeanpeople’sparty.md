@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 169 | 163–174 | 161–175 | 160–177 | 157–179 |
+| European People’s Party | EU | 182 | 169 | 163–174 | 161–176 | 160–177 | 157–179 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–23 | 18–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -51,7 +51,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 154 | 0% | 100% |  |
 | 155 | 0.1% | 99.9% |  |
-| 156 | 0.2% | 99.9% |  |
+| 156 | 0.1% | 99.9% |  |
 | 157 | 0.3% | 99.7% |  |
 | 158 | 0.5% | 99.4% |  |
 | 159 | 0.9% | 98.9% |  |
@@ -89,22 +89,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 3% | 95% |  |
 | 163 | 4% | 92% |  |
 | 164 | 5% | 88% |  |
-| 165 | 7% | 82% |  |
+| 165 | 6% | 83% |  |
 | 166 | 8% | 76% |  |
 | 167 | 9% | 68% |  |
-| 168 | 9% | 59% |  |
-| 169 | 9% | 50% | Median |
+| 168 | 9% | 60% |  |
+| 169 | 9% | 51% | Median |
 | 170 | 9% | 41% |  |
 | 171 | 8% | 32% |  |
 | 172 | 7% | 24% |  |
-| 173 | 5% | 17% |  |
+| 173 | 5% | 18% |  |
 | 174 | 4% | 12% |  |
 | 175 | 3% | 8% |  |
 | 176 | 2% | 5% |  |
 | 177 | 1.3% | 3% |  |
 | 178 | 0.8% | 2% |  |
 | 179 | 0.4% | 0.9% |  |
-| 180 | 0.2% | 0.4% |  |
+| 180 | 0.2% | 0.5% |  |
 | 181 | 0.1% | 0.2% |  |
 | 182 | 0.1% | 0.1% | Last Result |
 | 183 | 0% | 0% |  |

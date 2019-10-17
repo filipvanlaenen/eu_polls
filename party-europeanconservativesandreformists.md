@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **85** seats (+23 seats)
+Current median: **83** seats (+21 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 85 | 79–91 | 78–93 | 76–95 | 73–97 |
-| Conservative Party | GB-GBN | | 26 | 23–33 | 22–33 | 21–33 | 19–34 |
+| European Conservatives and Reformists | EU | 62 | 83 | 78–90 | 76–92 | 74–94 | 71–97 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| Vox | ES | | 5 | 4–7 | 3–7 | 3–8 | 3–8 |
+| Conservative Party | GB-GBN | | 25 | 22–31 | 20–34 | 19–34 | 17–35 |
+| Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Vox | ES | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -49,9 +49,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -61,37 +61,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0% | 100% |  |
-| 69 | 0% | 100% |  |
-| 70 | 0% | 100% |  |
-| 71 | 0.1% | 99.9% |  |
-| 72 | 0.2% | 99.8% |  |
-| 73 | 0.3% | 99.7% |  |
-| 74 | 0.5% | 99.4% |  |
-| 75 | 0.7% | 98.9% |  |
-| 76 | 1.1% | 98% |  |
-| 77 | 2% | 97% |  |
-| 78 | 3% | 95% |  |
-| 79 | 4% | 93% |  |
-| 80 | 5% | 89% |  |
-| 81 | 6% | 84% |  |
-| 82 | 7% | 78% |  |
-| 83 | 8% | 70% |  |
-| 84 | 8% | 62% |  |
-| 85 | 8% | 53% | Median |
-| 86 | 8% | 45% |  |
-| 87 | 7% | 37% |  |
-| 88 | 6% | 30% |  |
-| 89 | 5% | 24% |  |
-| 90 | 5% | 19% |  |
-| 91 | 4% | 14% |  |
-| 92 | 3% | 10% |  |
-| 93 | 2% | 7% |  |
-| 94 | 2% | 4% |  |
-| 95 | 1.1% | 3% |  |
-| 96 | 0.7% | 2% |  |
-| 97 | 0.4% | 0.8% |  |
-| 98 | 0.2% | 0.4% |  |
+| 68 | 0.1% | 99.9% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.2% | 99.8% |  |
+| 71 | 0.3% | 99.6% |  |
+| 72 | 0.5% | 99.4% |  |
+| 73 | 0.7% | 98.9% |  |
+| 74 | 1.1% | 98% |  |
+| 75 | 2% | 97% |  |
+| 76 | 2% | 95% |  |
+| 77 | 3% | 93% |  |
+| 78 | 4% | 90% |  |
+| 79 | 5% | 86% |  |
+| 80 | 7% | 80% |  |
+| 81 | 8% | 74% |  |
+| 82 | 8% | 66% |  |
+| 83 | 9% | 57% | Median |
+| 84 | 8% | 49% |  |
+| 85 | 8% | 40% |  |
+| 86 | 7% | 33% |  |
+| 87 | 6% | 26% |  |
+| 88 | 5% | 20% |  |
+| 89 | 4% | 16% |  |
+| 90 | 3% | 12% |  |
+| 91 | 2% | 9% |  |
+| 92 | 2% | 6% |  |
+| 93 | 1.4% | 4% |  |
+| 94 | 1.1% | 3% |  |
+| 95 | 0.7% | 2% |  |
+| 96 | 0.5% | 1.1% |  |
+| 97 | 0.3% | 0.6% |  |
+| 98 | 0.2% | 0.3% |  |
 | 99 | 0.1% | 0.2% |  |
 | 100 | 0% | 0.1% |  |
 | 101 | 0% | 0% |  |
