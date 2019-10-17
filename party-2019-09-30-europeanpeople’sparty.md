@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **168** seats (-14 seats)
+Current median: **169** seats (-13 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 168 | 163–174 | 161–175 | 160–177 | 157–179 |
+| European People’s Party | EU | 182 | 169 | 163–174 | 161–175 | 160–177 | 157–179 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–23 | 18–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -48,7 +48,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā konservatīvā partija | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -86,14 +86,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.9% | 98.9% |  |
 | 160 | 1.4% | 98% |  |
 | 161 | 2% | 97% |  |
-| 162 | 3% | 94% |  |
-| 163 | 4% | 91% |  |
-| 164 | 5% | 87% |  |
+| 162 | 3% | 95% |  |
+| 163 | 4% | 92% |  |
+| 164 | 5% | 88% |  |
 | 165 | 7% | 82% |  |
 | 166 | 8% | 76% |  |
 | 167 | 9% | 68% |  |
-| 168 | 9% | 59% | Median |
-| 169 | 9% | 50% |  |
+| 168 | 9% | 59% |  |
+| 169 | 9% | 50% | Median |
 | 170 | 9% | 41% |  |
 | 171 | 8% | 32% |  |
 | 172 | 7% | 24% |  |
