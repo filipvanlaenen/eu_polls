@@ -18,10 +18,10 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 116 | 110–122 | 109–123 | 107–124 | 105–127 |
+| Renew Europe | EU | 108 | 116 | 110–122 | 109–123 | 107–124 | 105–126 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 14 | 9–18 | 9–19 | 9–19 | 7–20 |
-| ANO 2011 | CZ | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
+| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
@@ -92,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 8% | 70% |  |
 | 115 | 8% | 63% |  |
 | 116 | 9% | 54% | Median |
-| 117 | 9% | 46% |  |
+| 117 | 9% | 45% |  |
 | 118 | 8% | 37% |  |
 | 119 | 7% | 29% |  |
 | 120 | 6% | 21% |  |
