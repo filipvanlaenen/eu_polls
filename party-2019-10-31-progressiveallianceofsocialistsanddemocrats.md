@@ -22,9 +22,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Labour Party | GB-GBN | | 18 | 16–22 | 15–22 | 15–23 | 15–24 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | Partito Democratico | IT | | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| Partidul Social Democrat | RO | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| Partidul Social Democrat | RO | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5–6 | 4–6 | 4–6 |
@@ -94,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 1.1% | 3% |  |
 | 156 | 0.7% | 2% |  |
 | 157 | 0.5% | 1.0% |  |
-| 158 | 0.3% | 0.5% |  |
+| 158 | 0.3% | 0.6% |  |
 | 159 | 0.1% | 0.3% |  |
 | 160 | 0.1% | 0.1% |  |
 | 161 | 0% | 0.1% |  |

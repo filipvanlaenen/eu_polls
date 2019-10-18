@@ -23,7 +23,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | Partido Popular | ES | | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
-| Partidul Național Liberal | RO | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| Partidul Național Liberal | RO | | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 8 | 8 | 8 | 8 | 8 |
@@ -81,21 +81,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 0% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
 | 157 | 0.2% | 99.8% |  |
-| 158 | 0.4% | 99.6% |  |
+| 158 | 0.4% | 99.7% |  |
 | 159 | 0.6% | 99.3% |  |
-| 160 | 1.1% | 98.6% |  |
+| 160 | 1.1% | 98.7% |  |
 | 161 | 2% | 98% |  |
 | 162 | 2% | 96% |  |
-| 163 | 3% | 93% |  |
+| 163 | 3% | 94% |  |
 | 164 | 5% | 90% |  |
-| 165 | 6% | 85% |  |
+| 165 | 6% | 86% |  |
 | 166 | 7% | 80% |  |
-| 167 | 8% | 72% |  |
+| 167 | 8% | 73% |  |
 | 168 | 9% | 64% |  |
 | 169 | 10% | 55% | Median |
 | 170 | 9% | 45% |  |
 | 171 | 9% | 36% |  |
-| 172 | 7% | 27% |  |
+| 172 | 7% | 28% |  |
 | 173 | 6% | 20% |  |
 | 174 | 5% | 14% |  |
 | 175 | 3% | 9% |  |
