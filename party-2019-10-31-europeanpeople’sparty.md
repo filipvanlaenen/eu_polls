@@ -28,7 +28,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
 | Österreichische Volkspartei | AT | | 8 | 8 | 8 | 8 | 8 |
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Fine Gael | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -81,14 +81,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 0% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
 | 157 | 0.2% | 99.8% |  |
-| 158 | 0.4% | 99.7% |  |
+| 158 | 0.4% | 99.6% |  |
 | 159 | 0.6% | 99.3% |  |
-| 160 | 1.0% | 98.7% |  |
+| 160 | 1.1% | 98.6% |  |
 | 161 | 2% | 98% |  |
 | 162 | 2% | 96% |  |
-| 163 | 3% | 94% |  |
+| 163 | 3% | 93% |  |
 | 164 | 5% | 90% |  |
-| 165 | 6% | 86% |  |
+| 165 | 6% | 85% |  |
 | 166 | 7% | 80% |  |
 | 167 | 8% | 72% |  |
 | 168 | 9% | 64% |  |
@@ -100,10 +100,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 174 | 5% | 14% |  |
 | 175 | 3% | 9% |  |
 | 176 | 2% | 6% |  |
-| 177 | 1.5% | 3% |  |
+| 177 | 2% | 4% |  |
 | 178 | 0.9% | 2% |  |
 | 179 | 0.5% | 1.1% |  |
-| 180 | 0.3% | 0.5% |  |
+| 180 | 0.3% | 0.6% |  |
 | 181 | 0.1% | 0.3% |  |
 | 182 | 0.1% | 0.1% | Last Result |
 | 183 | 0% | 0.1% |  |

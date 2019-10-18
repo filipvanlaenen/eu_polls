@@ -18,17 +18,17 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 116 | 110–122 | 109–123 | 107–124 | 105–127 |
+| Renew Europe | EU | 108 | 116 | 110–122 | 108–123 | 107–124 | 105–127 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 14 | 9–18 | 8–19 | 8–19 | 8–20 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Venstre | DK | | 4 | 4 | 4 | 4 | 3–4 |
+| Venstre | DK | | 4 | 4 | 4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -79,22 +79,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 102 | 0% | 100% |  |
 | 103 | 0.1% | 99.9% |  |
-| 104 | 0.2% | 99.8% |  |
-| 105 | 0.5% | 99.6% |  |
-| 106 | 0.8% | 99.1% |  |
-| 107 | 1.3% | 98% |  |
+| 104 | 0.3% | 99.8% |  |
+| 105 | 0.5% | 99.5% |  |
+| 106 | 0.9% | 99.0% |  |
+| 107 | 1.4% | 98% |  |
 | 108 | 2% | 97% | Last Result |
 | 109 | 3% | 95% |  |
 | 110 | 4% | 92% |  |
-| 111 | 5% | 89% |  |
-| 112 | 6% | 84% |  |
-| 113 | 7% | 78% |  |
+| 111 | 5% | 88% |  |
+| 112 | 6% | 83% |  |
+| 113 | 7% | 77% |  |
 | 114 | 8% | 71% |  |
-| 115 | 8% | 64% |  |
+| 115 | 8% | 63% |  |
 | 116 | 9% | 55% | Median |
-| 117 | 9% | 47% |  |
-| 118 | 8% | 38% |  |
-| 119 | 8% | 30% |  |
+| 117 | 9% | 46% |  |
+| 118 | 8% | 37% |  |
+| 119 | 7% | 29% |  |
 | 120 | 6% | 22% |  |
 | 121 | 5% | 16% |  |
 | 122 | 4% | 11% |  |
