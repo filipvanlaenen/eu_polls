@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 30 | 26–34 | 25–36 | 25–37 | 23–39 |
+| Non-Inscrits | EU | 56 | 30 | 27–34 | 26–36 | 25–37 | 23–39 |
 | Movimento 5 Stelle | IT | | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | Brexit Party | GB-GBN | | 7 | 6–10 | 6–11 | 5–12 | 2–14 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
