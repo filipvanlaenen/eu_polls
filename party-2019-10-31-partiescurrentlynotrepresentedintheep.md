@@ -22,7 +22,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Za ľudí [SK] (*) | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
-| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -52,8 +52,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 29% | 99.9% |  |
 | 2 | 6% | 71% |  |
-| 3 | 41% | 65% | Median |
-| 4 | 22% | 24% |  |
+| 3 | 42% | 65% | Median |
+| 4 | 21% | 23% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
