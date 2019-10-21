@@ -21,7 +21,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 62 | 84 | 78–90 | 77–92 | 75–94 | 73–97 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Conservative Party | GB-GBN | | 25 | 22–31 | 20–34 | 19–34 | 17–35 |
-| Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Vox | ES | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -66,24 +66,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.1% | 100% |  |
 | 71 | 0.1% | 99.9% |  |
 | 72 | 0.2% | 99.8% |  |
-| 73 | 0.4% | 99.6% |  |
+| 73 | 0.4% | 99.5% |  |
 | 74 | 0.7% | 99.1% |  |
 | 75 | 1.2% | 98% |  |
 | 76 | 2% | 97% |  |
 | 77 | 3% | 95% |  |
 | 78 | 4% | 93% |  |
 | 79 | 5% | 89% |  |
-| 80 | 7% | 84% |  |
+| 80 | 7% | 83% |  |
 | 81 | 8% | 77% |  |
 | 82 | 9% | 69% |  |
-| 83 | 9% | 61% |  |
-| 84 | 9% | 52% | Median |
+| 83 | 9% | 60% |  |
+| 84 | 9% | 51% | Median |
 | 85 | 8% | 43% |  |
 | 86 | 7% | 35% |  |
 | 87 | 6% | 28% |  |
-| 88 | 5% | 22% |  |
+| 88 | 5% | 21% |  |
 | 89 | 4% | 17% |  |
-| 90 | 3% | 13% |  |
+| 90 | 3% | 12% |  |
 | 91 | 3% | 9% |  |
 | 92 | 2% | 7% |  |
 | 93 | 2% | 5% |  |
