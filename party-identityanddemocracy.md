@@ -18,13 +18,13 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 77 | 74–81 | 72–82 | 72–82 | 70–84 |
+| Identity and Democracy | EU | 73 | 77 | 73–80 | 72–81 | 71–82 | 70–84 |
 | Lega Nord | IT | | 25 | 22–27 | 21–28 | 21–29 | 20–29 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
-| Alternative für Deutschland | DE | | 14 | 11–16 | 11–16 | 11–16 | 10–17 |
+| Alternative für Deutschland | DE | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3 | 3 | 3 | 3 |
-| Partij voor de Vrijheid | NL | | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Partij voor de Vrijheid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -36,29 +36,29 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2019-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 68 | 0.1% | 100% |  |
 | 69 | 0.2% | 99.9% |  |
-| 70 | 0.6% | 99.7% |  |
-| 71 | 1.4% | 99.1% |  |
-| 72 | 3% | 98% |  |
-| 73 | 5% | 95% | Last Result |
-| 74 | 8% | 90% |  |
-| 75 | 10% | 82% |  |
-| 76 | 13% | 72% |  |
-| 77 | 14% | 59% | Median |
-| 78 | 14% | 46% |  |
-| 79 | 12% | 32% |  |
-| 80 | 9% | 20% |  |
-| 81 | 6% | 11% |  |
-| 82 | 3% | 5% |  |
-| 83 | 1.4% | 2% |  |
-| 84 | 0.6% | 0.8% |  |
+| 70 | 0.7% | 99.7% |  |
+| 71 | 2% | 99.0% |  |
+| 72 | 3% | 97% |  |
+| 73 | 5% | 94% | Last Result |
+| 74 | 9% | 89% |  |
+| 75 | 12% | 80% |  |
+| 76 | 14% | 69% |  |
+| 77 | 14% | 55% | Median |
+| 78 | 13% | 41% |  |
+| 79 | 11% | 27% |  |
+| 80 | 8% | 17% |  |
+| 81 | 5% | 9% |  |
+| 82 | 3% | 4% |  |
+| 83 | 1.2% | 2% |  |
+| 84 | 0.5% | 0.7% |  |
 | 85 | 0.2% | 0.2% |  |
 | 86 | 0% | 0.1% |  |
 | 87 | 0% | 0% |  |

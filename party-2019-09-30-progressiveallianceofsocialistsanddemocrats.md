@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **147** seats (-7 seats)
+Current median: **146** seats (-8 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 147 | 140–153 | 138–155 | 137–157 | 134–159 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 146 | 140–153 | 138–155 | 137–156 | 134–159 |
 | Labour Party | GB-GBN | | 19 | 16–22 | 15–23 | 15–24 | 15–25 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | Partito Democratico | IT | | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
@@ -73,17 +73,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 0.3% | 99.7% |  |
 | 135 | 0.5% | 99.4% |  |
 | 136 | 0.9% | 98.9% |  |
-| 137 | 1.3% | 98% |  |
+| 137 | 1.4% | 98% |  |
 | 138 | 2% | 97% |  |
 | 139 | 3% | 95% |  |
 | 140 | 4% | 92% |  |
-| 141 | 4% | 88% |  |
+| 141 | 5% | 88% |  |
 | 142 | 5% | 84% |  |
-| 143 | 6% | 79% |  |
+| 143 | 6% | 78% |  |
 | 144 | 7% | 72% |  |
 | 145 | 7% | 65% |  |
-| 146 | 8% | 58% |  |
-| 147 | 8% | 50% | Median |
+| 146 | 8% | 58% | Median |
+| 147 | 8% | 50% |  |
 | 148 | 7% | 42% |  |
 | 149 | 7% | 35% |  |
 | 150 | 6% | 28% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 3% | 9% | Last Result |
 | 155 | 2% | 6% |  |
 | 156 | 1.4% | 4% |  |
-| 157 | 1.0% | 3% |  |
+| 157 | 1.0% | 2% |  |
 | 158 | 0.6% | 2% |  |
 | 159 | 0.4% | 0.9% |  |
 | 160 | 0.2% | 0.5% |  |
