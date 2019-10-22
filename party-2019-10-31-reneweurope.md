@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **114** seats (+6 seats)
+Current median: **115** seats (+7 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–120 | 108–122 | 107–123 | 104–126 |
+| Renew Europe | EU | 108 | 115 | 109–120 | 108–122 | 106–123 | 104–126 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 12 | 9–17 | 9–18 | 8–19 | 8–19 |
+| Liberal Democrats | GB-GBN | | 13 | 9–17 | 9–18 | 8–19 | 7–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| Venstre | DK | | 4 | 4 | 4 | 4 | 3–4 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -44,7 +44,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1 | 1 |
@@ -78,27 +78,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 102 | 0.1% | 100% |  |
-| 103 | 0.1% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.6% | 99.4% |  |
-| 106 | 1.2% | 98.8% |  |
-| 107 | 2% | 98% |  |
-| 108 | 3% | 96% | Last Result |
+| 103 | 0.2% | 99.9% |  |
+| 104 | 0.4% | 99.7% |  |
+| 105 | 0.7% | 99.3% |  |
+| 106 | 1.2% | 98.6% |  |
+| 107 | 2% | 97% |  |
+| 108 | 3% | 95% | Last Result |
 | 109 | 4% | 93% |  |
 | 110 | 5% | 89% |  |
-| 111 | 7% | 83% |  |
-| 112 | 8% | 76% |  |
-| 113 | 9% | 68% |  |
-| 114 | 10% | 59% | Median |
-| 115 | 9% | 50% |  |
-| 116 | 9% | 40% |  |
-| 117 | 8% | 32% |  |
-| 118 | 6% | 24% |  |
-| 119 | 5% | 18% |  |
-| 120 | 4% | 12% |  |
-| 121 | 3% | 9% |  |
+| 111 | 6% | 83% |  |
+| 112 | 8% | 77% |  |
+| 113 | 8% | 70% |  |
+| 114 | 9% | 61% |  |
+| 115 | 9% | 52% | Median |
+| 116 | 9% | 43% |  |
+| 117 | 8% | 35% |  |
+| 118 | 7% | 27% |  |
+| 119 | 6% | 20% |  |
+| 120 | 4% | 14% |  |
+| 121 | 3% | 10% |  |
 | 122 | 2% | 6% |  |
-| 123 | 1.5% | 4% |  |
+| 123 | 2% | 4% |  |
 | 124 | 1.0% | 2% |  |
 | 125 | 0.6% | 1.2% |  |
 | 126 | 0.3% | 0.6% |  |

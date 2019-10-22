@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 60 | 57–64 | 56–65 | 55–66 | 54–68 |
-| Bündnis 90/Die Grünen | DE | | 21 | 19–25 | 19–26 | 19–26 | 18–27 |
+| Greens–European Free Alliance | EU | 75 | 60 | 57–64 | 56–65 | 55–67 | 54–68 |
+| Bündnis 90/Die Grünen | DE | | 21 | 19–25 | 19–26 | 18–26 | 17–27 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -27,12 +27,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -40,7 +40,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Green Party | GB-GBN | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | JETZT–Liste Pilz | AT | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -62,21 +62,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.1% | 100% |  |
 | 53 | 0.3% | 99.9% |  |
-| 54 | 1.0% | 99.6% |  |
-| 55 | 3% | 98.6% |  |
+| 54 | 1.0% | 99.5% |  |
+| 55 | 2% | 98.5% |  |
 | 56 | 5% | 96% |  |
-| 57 | 9% | 91% |  |
-| 58 | 12% | 82% |  |
-| 59 | 14% | 69% |  |
-| 60 | 14% | 55% | Median |
-| 61 | 12% | 41% |  |
-| 62 | 10% | 28% |  |
-| 63 | 7% | 19% |  |
-| 64 | 5% | 12% |  |
-| 65 | 3% | 7% |  |
-| 66 | 2% | 4% |  |
-| 67 | 1.2% | 2% |  |
-| 68 | 0.7% | 1.1% |  |
+| 57 | 8% | 91% |  |
+| 58 | 11% | 83% |  |
+| 59 | 13% | 72% |  |
+| 60 | 14% | 58% | Median |
+| 61 | 13% | 44% |  |
+| 62 | 10% | 32% |  |
+| 63 | 8% | 22% |  |
+| 64 | 5% | 14% |  |
+| 65 | 4% | 8% |  |
+| 66 | 2% | 5% |  |
+| 67 | 1.4% | 3% |  |
+| 68 | 0.7% | 1.2% |  |
 | 69 | 0.3% | 0.5% |  |
 | 70 | 0.1% | 0.2% |  |
 | 71 | 0% | 0% |  |
