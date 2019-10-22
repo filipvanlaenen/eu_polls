@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **170** seats (-12 seats)
+Current median: **169** seats (-13 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 170 | 164–175 | 163–177 | 161–178 | 159–181 |
+| European People’s Party | EU | 182 | 169 | 164–175 | 162–176 | 161–178 | 158–180 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -26,7 +26,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
-| Österreichische Volkspartei | AT | | 8 | 8 | 8 | 8 | 8 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
@@ -78,33 +78,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 156 | 0.1% | 100% |  |
-| 157 | 0.1% | 99.9% |  |
-| 158 | 0.2% | 99.8% |  |
-| 159 | 0.4% | 99.5% |  |
-| 160 | 0.8% | 99.1% |  |
-| 161 | 1.2% | 98% |  |
-| 162 | 2% | 97% |  |
-| 163 | 3% | 95% |  |
-| 164 | 4% | 93% |  |
-| 165 | 5% | 89% |  |
-| 166 | 6% | 84% |  |
-| 167 | 7% | 78% |  |
-| 168 | 8% | 70% |  |
-| 169 | 9% | 62% |  |
-| 170 | 9% | 53% | Median |
-| 171 | 9% | 43% |  |
-| 172 | 8% | 34% |  |
-| 173 | 7% | 26% |  |
-| 174 | 6% | 19% |  |
-| 175 | 4% | 13% |  |
-| 176 | 3% | 9% |  |
+| 155 | 0% | 100% |  |
+| 156 | 0.1% | 99.9% |  |
+| 157 | 0.2% | 99.8% |  |
+| 158 | 0.4% | 99.6% |  |
+| 159 | 0.6% | 99.3% |  |
+| 160 | 1.0% | 98.6% |  |
+| 161 | 2% | 98% |  |
+| 162 | 2% | 96% |  |
+| 163 | 3% | 94% |  |
+| 164 | 4% | 90% |  |
+| 165 | 6% | 86% |  |
+| 166 | 7% | 80% |  |
+| 167 | 8% | 74% |  |
+| 168 | 9% | 66% |  |
+| 169 | 9% | 57% | Median |
+| 170 | 9% | 48% |  |
+| 171 | 9% | 39% |  |
+| 172 | 8% | 30% |  |
+| 173 | 6% | 23% |  |
+| 174 | 5% | 16% |  |
+| 175 | 4% | 11% |  |
+| 176 | 3% | 7% |  |
 | 177 | 2% | 5% |  |
-| 178 | 1.4% | 3% |  |
-| 179 | 0.9% | 2% |  |
-| 180 | 0.5% | 1.0% |  |
-| 181 | 0.3% | 0.5% |  |
-| 182 | 0.1% | 0.3% | Last Result |
+| 178 | 1.2% | 3% |  |
+| 179 | 0.7% | 2% |  |
+| 180 | 0.4% | 0.9% |  |
+| 181 | 0.2% | 0.5% |  |
+| 182 | 0.1% | 0.2% | Last Result |
 | 183 | 0.1% | 0.1% |  |
 | 184 | 0% | 0.1% |  |
 | 185 | 0% | 0% |  |

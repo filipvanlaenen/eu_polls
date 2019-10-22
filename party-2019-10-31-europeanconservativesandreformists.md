@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 87 | 81–94 | 79–95 | 78–97 | 76–99 |
+| European Conservatives and Reformists | EU | 62 | 87 | 81–94 | 79–95 | 78–96 | 76–99 |
 | Conservative Party | GB-GBN | | 27 | 24–33 | 23–34 | 22–34 | 19–35 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Chega | PT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -70,16 +70,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 0.1% | 99.9% |  |
 | 75 | 0.2% | 99.8% |  |
 | 76 | 0.4% | 99.6% |  |
-| 77 | 0.8% | 99.2% |  |
-| 78 | 1.4% | 98% |  |
+| 77 | 0.8% | 99.1% |  |
+| 78 | 1.5% | 98% |  |
 | 79 | 2% | 97% |  |
-| 80 | 3% | 95% |  |
+| 80 | 3% | 94% |  |
 | 81 | 5% | 91% |  |
 | 82 | 6% | 86% |  |
 | 83 | 7% | 80% |  |
-| 84 | 7% | 74% |  |
+| 84 | 7% | 73% |  |
 | 85 | 8% | 66% |  |
-| 86 | 7% | 59% |  |
+| 86 | 7% | 58% |  |
 | 87 | 7% | 51% | Median |
 | 88 | 7% | 44% |  |
 | 89 | 6% | 37% |  |
@@ -90,10 +90,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 3% | 10% |  |
 | 95 | 3% | 7% |  |
 | 96 | 2% | 4% |  |
-| 97 | 1.1% | 3% |  |
+| 97 | 1.1% | 2% |  |
 | 98 | 0.7% | 1.4% |  |
 | 99 | 0.4% | 0.7% |  |
-| 100 | 0.2% | 0.4% |  |
+| 100 | 0.2% | 0.3% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0% | 0.1% |  |
 | 103 | 0% | 0% |  |
