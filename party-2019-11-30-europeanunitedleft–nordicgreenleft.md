@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **46** seats (+5 seats)
+Current median: **45** seats (+4 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 43–49 | 42–49 | 41–50 | 40–51 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 5–9 | 5–10 |
-| Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–49 | 41–49 | 40–51 |
+| Die Linke | DE | | 8 | 6–9 | 6–9 | 5–9 | 5–9 |
+| Unidos Podemos | ES | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -34,16 +34,16 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -56,20 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.2% | 100% |  |
-| 40 | 0.7% | 99.8% |  |
-| 41 | 2% | 99.0% | Last Result |
-| 42 | 5% | 97% |  |
-| 43 | 8% | 92% |  |
-| 44 | 13% | 84% |  |
-| 45 | 16% | 71% |  |
-| 46 | 17% | 55% | Median |
-| 47 | 15% | 37% |  |
-| 48 | 11% | 22% |  |
-| 49 | 6% | 11% |  |
-| 50 | 3% | 4% |  |
-| 51 | 1.0% | 1.3% |  |
-| 52 | 0.3% | 0.3% |  |
-| 53 | 0% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 40 | 0.8% | 99.7% |  |
+| 41 | 2% | 98.9% | Last Result |
+| 42 | 6% | 96% |  |
+| 43 | 10% | 91% |  |
+| 44 | 15% | 81% |  |
+| 45 | 18% | 66% | Median |
+| 46 | 18% | 48% |  |
+| 47 | 14% | 30% |  |
+| 48 | 9% | 16% |  |
+| 49 | 5% | 7% |  |
+| 50 | 2% | 2% |  |
+| 51 | 0.5% | 0.6% |  |
+| 52 | 0.1% | 0.1% |  |
+| 53 | 0% | 0% |  |
 
 

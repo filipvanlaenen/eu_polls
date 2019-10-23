@@ -10,22 +10,21 @@ Last result: **56** seats (General Election of 25 May 2014)
 
 Current median: **29** seats (-27 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> ES, GB, GR, HR, HU, IT, SK
+> GB, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 29 | 25–34 | 23–35 | 22–36 | 20–39 |
-| Movimento 5 Stelle | IT | | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
-| Brexit Party | GB-GBN | | 7 | 1–10 | 1–10 | 1–12 | 1–14 |
+| Non-Inscrits | EU | 56 | 29 | 26–33 | 25–34 | 25–35 | 24–37 |
+| Movimento 5 Stelle | IT | | 15 | 13–18 | 13–18 | 13–19 | 12–21 |
+| Brexit Party | GB-GBN | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -33,6 +32,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -41,37 +41,33 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
-| 19 | 0.3% | 99.9% |  |
-| 20 | 0.6% | 99.6% |  |
-| 21 | 1.1% | 99.0% |  |
-| 22 | 2% | 98% |  |
-| 23 | 2% | 96% |  |
-| 24 | 3% | 94% |  |
-| 25 | 4% | 91% |  |
-| 26 | 6% | 87% |  |
-| 27 | 9% | 81% |  |
-| 28 | 11% | 72% |  |
-| 29 | 12% | 61% | Median |
-| 30 | 12% | 48% |  |
-| 31 | 10% | 36% |  |
-| 32 | 8% | 26% |  |
-| 33 | 6% | 18% |  |
-| 34 | 4% | 12% |  |
-| 35 | 3% | 7% |  |
-| 36 | 2% | 4% |  |
-| 37 | 1.1% | 2% |  |
-| 38 | 0.6% | 1.3% |  |
-| 39 | 0.3% | 0.7% |  |
-| 40 | 0.2% | 0.4% |  |
-| 41 | 0.1% | 0.2% |  |
-| 42 | 0% | 0.1% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0.3% | 99.9% |  |
+| 24 | 2% | 99.6% |  |
+| 25 | 4% | 98% |  |
+| 26 | 8% | 94% |  |
+| 27 | 12% | 85% |  |
+| 28 | 14% | 73% |  |
+| 29 | 14% | 59% | Median |
+| 30 | 13% | 45% |  |
+| 31 | 11% | 32% |  |
+| 32 | 8% | 21% |  |
+| 33 | 6% | 13% |  |
+| 34 | 4% | 8% |  |
+| 35 | 2% | 4% |  |
+| 36 | 1.1% | 2% |  |
+| 37 | 0.6% | 1.0% |  |
+| 38 | 0.3% | 0.5% |  |
+| 39 | 0.1% | 0.2% |  |
+| 40 | 0% | 0.1% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |
