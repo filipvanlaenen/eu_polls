@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **45** seats (+4 seats)
+Current median: **46** seats (+5 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–49 | 41–49 | 40–51 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 5–9 | 5–9 |
-| Unidos Podemos | ES | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
+| European United Left–Nordic Green Left | EU | 41 | 46 | 43–48 | 42–49 | 41–49 | 40–51 |
+| Die Linke | DE | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
+| Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Sinn Féin | IE | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -39,7 +39,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0 | 0 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -49,25 +49,26 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.2% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.2% | 99.9% |  |
 | 40 | 0.8% | 99.7% |  |
-| 41 | 2% | 98.9% | Last Result |
-| 42 | 6% | 96% |  |
-| 43 | 10% | 91% |  |
-| 44 | 15% | 81% |  |
-| 45 | 18% | 66% | Median |
-| 46 | 18% | 48% |  |
-| 47 | 14% | 30% |  |
-| 48 | 9% | 16% |  |
+| 41 | 2% | 99.0% | Last Result |
+| 42 | 5% | 97% |  |
+| 43 | 9% | 92% |  |
+| 44 | 14% | 83% |  |
+| 45 | 18% | 69% |  |
+| 46 | 19% | 50% | Median |
+| 47 | 15% | 32% |  |
+| 48 | 10% | 16% |  |
 | 49 | 5% | 7% |  |
 | 50 | 2% | 2% |  |
-| 51 | 0.5% | 0.6% |  |
+| 51 | 0.4% | 0.5% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
