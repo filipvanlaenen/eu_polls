@@ -19,10 +19,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 62 | 88 | 82–94 | 80–95 | 79–96 | 77–99 |
-| Conservative Party | GB-GBN | | 29 | 24–32 | 24–34 | 24–35 | 23–37 |
+| Conservative Party | GB-GBN | | 29 | 24–33 | 24–34 | 24–35 | 23–37 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| Vox | ES | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| Vox | ES | | 6 | 4–7 | 4–8 | 4–8 | 3–8 |
 | Sverigedemokraterna | SE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -30,8 +30,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1 |
-| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Slovenská národná strana | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -48,9 +48,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -68,30 +68,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0% | 100% |  |
 | 74 | 0% | 100% |  |
 | 75 | 0.1% | 100% |  |
-| 76 | 0.1% | 99.9% |  |
+| 76 | 0.2% | 99.9% |  |
 | 77 | 0.4% | 99.8% |  |
 | 78 | 0.8% | 99.4% |  |
-| 79 | 1.5% | 98.7% |  |
+| 79 | 1.4% | 98.6% |  |
 | 80 | 2% | 97% |  |
-| 81 | 4% | 95% |  |
+| 81 | 3% | 95% |  |
 | 82 | 5% | 91% |  |
-| 83 | 6% | 86% |  |
-| 84 | 7% | 80% |  |
-| 85 | 7% | 73% |  |
-| 86 | 8% | 66% |  |
-| 87 | 8% | 58% |  |
-| 88 | 8% | 50% | Median |
-| 89 | 8% | 43% |  |
-| 90 | 7% | 35% |  |
+| 83 | 6% | 87% |  |
+| 84 | 7% | 81% |  |
+| 85 | 7% | 74% |  |
+| 86 | 8% | 67% |  |
+| 87 | 8% | 60% |  |
+| 88 | 8% | 52% | Median |
+| 89 | 8% | 44% |  |
+| 90 | 8% | 36% |  |
 | 91 | 7% | 28% |  |
 | 92 | 6% | 21% |  |
 | 93 | 5% | 15% |  |
 | 94 | 4% | 10% |  |
 | 95 | 3% | 7% |  |
 | 96 | 2% | 4% |  |
-| 97 | 1.0% | 2% |  |
+| 97 | 1.1% | 2% |  |
 | 98 | 0.6% | 1.3% |  |
-| 99 | 0.3% | 0.7% |  |
+| 99 | 0.4% | 0.7% |  |
 | 100 | 0.2% | 0.3% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0% | 0.1% |  |
