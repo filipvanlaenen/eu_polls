@@ -22,8 +22,8 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 15 | 14–18 | 13–19 | 13–19 | 12–21 |
 | Brexit Party | GB-GBN | | 6 | 4–8 | 1–8 | 1–9 | 1–10 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,31 +41,31 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.1% | 100% |  |
 | 20 | 0.3% | 99.9% |  |
 | 21 | 0.7% | 99.6% |  |
-| 22 | 1.2% | 98.9% |  |
+| 22 | 1.2% | 98.8% |  |
 | 23 | 2% | 98% |  |
 | 24 | 2% | 96% |  |
 | 25 | 4% | 94% |  |
 | 26 | 7% | 90% |  |
 | 27 | 11% | 83% |  |
 | 28 | 14% | 72% |  |
-| 29 | 14% | 59% | Median |
+| 29 | 14% | 58% | Median |
 | 30 | 13% | 44% |  |
 | 31 | 10% | 32% |  |
 | 32 | 8% | 21% |  |
 | 33 | 6% | 13% |  |
-| 34 | 4% | 8% |  |
+| 34 | 3% | 8% |  |
 | 35 | 2% | 4% |  |
 | 36 | 1.1% | 2% |  |
-| 37 | 0.6% | 1.1% |  |
+| 37 | 0.6% | 1.0% |  |
 | 38 | 0.3% | 0.5% |  |
 | 39 | 0.1% | 0.2% |  |
 | 40 | 0% | 0.1% |  |
