@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **46** seats (+5 seats)
+Current median: **45** seats (+4 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 43–48 | 42–49 | 42–50 | 40–51 |
+| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–49 | 41–49 | 40–50 |
 | Die Linke | DE | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Sinn Féin | IE | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
+| Sinn Féin | IE | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -55,19 +55,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.5% | 99.8% |  |
-| 41 | 2% | 99.3% | Last Result |
-| 42 | 4% | 98% |  |
-| 43 | 8% | 94% |  |
-| 44 | 13% | 86% |  |
-| 45 | 18% | 73% |  |
-| 46 | 19% | 55% | Median |
-| 47 | 17% | 36% |  |
-| 48 | 11% | 20% |  |
-| 49 | 6% | 9% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.6% | 0.7% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.3% | 99.9% |  |
+| 40 | 1.0% | 99.6% |  |
+| 41 | 3% | 98.6% | Last Result |
+| 42 | 6% | 96% |  |
+| 43 | 10% | 90% |  |
+| 44 | 15% | 80% |  |
+| 45 | 18% | 65% | Median |
+| 46 | 18% | 47% |  |
+| 47 | 14% | 30% |  |
+| 48 | 9% | 15% |  |
+| 49 | 4% | 6% |  |
+| 50 | 1.5% | 2% |  |
+| 51 | 0.4% | 0.4% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
