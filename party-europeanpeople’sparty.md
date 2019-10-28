@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **172** seats (-10 seats)
+Current median: **173** seats (-9 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 172 | 166–178 | 165–179 | 163–181 | 161–183 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–23 | 18–23 | 17–24 |
+| European People’s Party | EU | 182 | 173 | 167–178 | 165–180 | 164–181 | 161–184 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–23 | 18–24 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | Partido Popular | ES | | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
@@ -30,10 +30,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| Fine Gael | IE | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
+| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -74,41 +74,42 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 158 | 0.1% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
-| 161 | 0.4% | 99.5% |  |
-| 162 | 0.7% | 99.1% |  |
-| 163 | 1.2% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 3% | 95% |  |
-| 166 | 4% | 93% |  |
-| 167 | 5% | 89% |  |
-| 168 | 6% | 85% |  |
-| 169 | 7% | 79% |  |
-| 170 | 8% | 72% |  |
-| 171 | 9% | 64% |  |
-| 172 | 9% | 55% | Median |
-| 173 | 9% | 46% |  |
-| 174 | 8% | 37% |  |
-| 175 | 7% | 29% |  |
-| 176 | 6% | 22% |  |
-| 177 | 5% | 15% |  |
-| 178 | 4% | 11% |  |
-| 179 | 3% | 7% |  |
-| 180 | 2% | 4% |  |
-| 181 | 1.1% | 3% |  |
-| 182 | 0.7% | 1.5% | Last Result |
-| 183 | 0.4% | 0.8% |  |
-| 184 | 0.2% | 0.4% |  |
-| 185 | 0.1% | 0.2% |  |
-| 186 | 0.1% | 0.1% |  |
-| 187 | 0% | 0% |  |
+| 161 | 0.4% | 99.6% |  |
+| 162 | 0.6% | 99.2% |  |
+| 163 | 1.0% | 98.6% |  |
+| 164 | 2% | 98% |  |
+| 165 | 2% | 96% |  |
+| 166 | 3% | 94% |  |
+| 167 | 4% | 91% |  |
+| 168 | 5% | 86% |  |
+| 169 | 6% | 81% |  |
+| 170 | 7% | 75% |  |
+| 171 | 8% | 67% |  |
+| 172 | 9% | 59% |  |
+| 173 | 9% | 50% | Median |
+| 174 | 8% | 41% |  |
+| 175 | 8% | 33% |  |
+| 176 | 7% | 25% |  |
+| 177 | 5% | 18% |  |
+| 178 | 4% | 13% |  |
+| 179 | 3% | 9% |  |
+| 180 | 2% | 6% |  |
+| 181 | 1.4% | 4% |  |
+| 182 | 0.9% | 2% | Last Result |
+| 183 | 0.5% | 1.2% |  |
+| 184 | 0.3% | 0.6% |  |
+| 185 | 0.2% | 0.3% |  |
+| 186 | 0.1% | 0.2% |  |
+| 187 | 0% | 0.1% |  |
+| 188 | 0% | 0% |  |
 
 
