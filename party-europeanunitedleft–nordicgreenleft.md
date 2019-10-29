@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 43–48 | 42–49 | 42–49 | 40–51 |
+| European United Left–Nordic Green Left | EU | 41 | 46 | 43–48 | 42–49 | 41–49 | 40–51 |
 | Die Linke | DE | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
@@ -49,22 +49,22 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
+| 39 | 0.2% | 100% |  |
 | 40 | 0.6% | 99.8% |  |
-| 41 | 2% | 99.3% | Last Result |
-| 42 | 4% | 98% |  |
-| 43 | 8% | 93% |  |
+| 41 | 2% | 99.2% | Last Result |
+| 42 | 4% | 97% |  |
+| 43 | 9% | 93% |  |
 | 44 | 14% | 85% |  |
 | 45 | 18% | 71% |  |
-| 46 | 19% | 53% | Median |
-| 47 | 16% | 34% |  |
-| 48 | 10% | 18% |  |
+| 46 | 19% | 52% | Median |
+| 47 | 16% | 33% |  |
+| 48 | 10% | 17% |  |
 | 49 | 5% | 7% |  |
 | 50 | 2% | 2% |  |
 | 51 | 0.5% | 0.6% |  |

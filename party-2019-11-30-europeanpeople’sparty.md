@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **173** seats (-9 seats)
+Current median: **172** seats (-10 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 173 | 167–178 | 165–180 | 164–181 | 161–184 |
+| European People’s Party | EU | 182 | 172 | 167–178 | 165–180 | 164–181 | 161–184 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -83,31 +83,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
-| 161 | 0.3% | 99.6% |  |
-| 162 | 0.6% | 99.3% |  |
-| 163 | 1.0% | 98.7% |  |
-| 164 | 1.5% | 98% |  |
+| 161 | 0.4% | 99.6% |  |
+| 162 | 0.6% | 99.2% |  |
+| 163 | 1.0% | 98.6% |  |
+| 164 | 2% | 98% |  |
 | 165 | 2% | 96% |  |
 | 166 | 3% | 94% |  |
 | 167 | 4% | 91% |  |
-| 168 | 5% | 87% |  |
-| 169 | 6% | 82% |  |
-| 170 | 8% | 75% |  |
-| 171 | 8% | 68% |  |
-| 172 | 9% | 59% |  |
-| 173 | 9% | 51% | Median |
-| 174 | 9% | 42% |  |
-| 175 | 8% | 33% |  |
-| 176 | 7% | 25% |  |
+| 168 | 5% | 86% |  |
+| 169 | 7% | 81% |  |
+| 170 | 8% | 74% |  |
+| 171 | 8% | 67% |  |
+| 172 | 9% | 58% | Median |
+| 173 | 9% | 49% |  |
+| 174 | 9% | 40% |  |
+| 175 | 8% | 32% |  |
+| 176 | 7% | 24% |  |
 | 177 | 5% | 18% |  |
-| 178 | 4% | 13% |  |
-| 179 | 3% | 9% |  |
-| 180 | 2% | 6% |  |
-| 181 | 1.4% | 3% |  |
-| 182 | 0.9% | 2% | Last Result |
+| 178 | 4% | 12% |  |
+| 179 | 3% | 8% |  |
+| 180 | 2% | 5% |  |
+| 181 | 1.3% | 3% |  |
+| 182 | 0.8% | 2% | Last Result |
 | 183 | 0.5% | 1.1% |  |
 | 184 | 0.3% | 0.6% |  |
-| 185 | 0.2% | 0.3% |  |
+| 185 | 0.1% | 0.3% |  |
 | 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% |  |

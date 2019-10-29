@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 88 | 81–94 | 80–95 | 79–97 | 77–99 |
-| Conservative Party | GB-GBN | | 29 | 24–33 | 24–34 | 23–35 | 23–37 |
+| European Conservatives and Reformists | EU | 62 | 88 | 82–94 | 80–95 | 79–97 | 77–99 |
+| Conservative Party | GB-GBN | | 30 | 24–33 | 24–34 | 23–35 | 23–37 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | Vox | ES | | 6 | 4–7 | 4–8 | 4–8 | 3–8 |
@@ -48,9 +48,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -72,25 +72,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 0.5% | 99.7% |  |
 | 78 | 1.0% | 99.2% |  |
 | 79 | 2% | 98% |  |
-| 80 | 3% | 96% |  |
+| 80 | 3% | 97% |  |
 | 81 | 4% | 94% |  |
 | 82 | 5% | 90% |  |
 | 83 | 6% | 85% |  |
-| 84 | 6% | 79% |  |
-| 85 | 7% | 73% |  |
-| 86 | 7% | 66% |  |
-| 87 | 7% | 59% |  |
-| 88 | 8% | 51% | Median |
-| 89 | 8% | 44% |  |
-| 90 | 7% | 36% |  |
-| 91 | 7% | 29% |  |
-| 92 | 6% | 22% |  |
-| 93 | 5% | 16% |  |
-| 94 | 4% | 11% |  |
-| 95 | 3% | 7% |  |
-| 96 | 2% | 4% |  |
-| 97 | 1.2% | 3% |  |
-| 98 | 0.7% | 1.4% |  |
+| 84 | 6% | 80% |  |
+| 85 | 6% | 74% |  |
+| 86 | 7% | 68% |  |
+| 87 | 7% | 61% |  |
+| 88 | 7% | 54% | Median |
+| 89 | 8% | 47% |  |
+| 90 | 8% | 39% |  |
+| 91 | 7% | 31% |  |
+| 92 | 7% | 24% |  |
+| 93 | 5% | 17% |  |
+| 94 | 4% | 12% |  |
+| 95 | 3% | 8% |  |
+| 96 | 2% | 5% |  |
+| 97 | 1.3% | 3% |  |
+| 98 | 0.7% | 2% |  |
 | 99 | 0.4% | 0.8% |  |
 | 100 | 0.2% | 0.4% |  |
 | 101 | 0.1% | 0.2% |  |

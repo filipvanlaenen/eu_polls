@@ -18,9 +18,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 29 | 25–33 | 23–34 | 22–35 | 20–38 |
+| Non-Inscrits | EU | 56 | 29 | 25–33 | 23–34 | 22–35 | 20–37 |
 | Movimento 5 Stelle | IT | | 15 | 13–18 | 11–19 | 11–19 | 10–21 |
-| Brexit Party | GB-GBN | | 7 | 4–8 | 1–9 | 1–10 | 1–10 |
+| Brexit Party | GB-GBN | | 6 | 4–8 | 1–8 | 1–9 | 1–10 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -41,9 +41,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -53,24 +53,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.5% | 99.6% |  |
 | 21 | 1.0% | 99.1% |  |
 | 22 | 2% | 98% |  |
-| 23 | 2% | 97% |  |
+| 23 | 2% | 96% |  |
 | 24 | 3% | 94% |  |
 | 25 | 5% | 91% |  |
-| 26 | 8% | 86% |  |
-| 27 | 11% | 78% |  |
-| 28 | 13% | 67% |  |
-| 29 | 13% | 54% | Median |
-| 30 | 11% | 42% |  |
-| 31 | 10% | 30% |  |
-| 32 | 7% | 21% |  |
-| 33 | 5% | 13% |  |
-| 34 | 3% | 8% |  |
+| 26 | 8% | 85% |  |
+| 27 | 11% | 77% |  |
+| 28 | 13% | 66% |  |
+| 29 | 13% | 53% | Median |
+| 30 | 11% | 40% |  |
+| 31 | 9% | 29% |  |
+| 32 | 7% | 19% |  |
+| 33 | 5% | 12% |  |
+| 34 | 3% | 7% |  |
 | 35 | 2% | 4% |  |
-| 36 | 1.2% | 2% |  |
-| 37 | 0.6% | 1.2% |  |
+| 36 | 1.1% | 2% |  |
+| 37 | 0.6% | 1.0% |  |
 | 38 | 0.3% | 0.5% |  |
 | 39 | 0.1% | 0.2% |  |
-| 40 | 0.1% | 0.1% |  |
+| 40 | 0% | 0.1% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
