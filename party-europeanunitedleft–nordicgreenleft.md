@@ -49,9 +49,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,12 +60,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 2% | 99.2% | Last Result |
 | 42 | 4% | 97% |  |
 | 43 | 9% | 93% |  |
-| 44 | 14% | 85% |  |
-| 45 | 18% | 71% |  |
+| 44 | 14% | 84% |  |
+| 45 | 18% | 70% |  |
 | 46 | 19% | 52% | Median |
 | 47 | 16% | 33% |  |
-| 48 | 10% | 17% |  |
-| 49 | 5% | 7% |  |
+| 48 | 10% | 18% |  |
+| 49 | 5% | 8% |  |
 | 50 | 2% | 2% |  |
 | 51 | 0.5% | 0.6% |  |
 | 52 | 0.1% | 0.1% |  |
