@@ -18,16 +18,16 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 108–118 | 107–119 | 105–120 | 103–123 |
+| Renew Europe | EU | 108 | 113 | 108–118 | 107–119 | 105–121 | 103–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 12 | 9–15 | 8–16 | 8–17 | 6–18 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 3–5 |
-| Italia Viva | IT | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
+| Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
@@ -44,7 +44,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -52,10 +51,11 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -90,14 +90,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 9% | 75% |  |
 | 112 | 10% | 66% |  |
 | 113 | 10% | 57% | Median |
-| 114 | 10% | 46% |  |
-| 115 | 9% | 36% |  |
+| 114 | 10% | 47% |  |
+| 115 | 9% | 37% |  |
 | 116 | 8% | 27% |  |
 | 117 | 6% | 19% |  |
 | 118 | 5% | 13% |  |
 | 119 | 3% | 8% |  |
 | 120 | 2% | 5% |  |
-| 121 | 1.2% | 2% |  |
+| 121 | 1.2% | 3% |  |
 | 122 | 0.7% | 1.3% |  |
 | 123 | 0.3% | 0.6% |  |
 | 124 | 0.2% | 0.3% |  |
