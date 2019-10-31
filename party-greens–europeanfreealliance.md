@@ -18,13 +18,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 58–65 | 57–67 | 56–67 | 54–69 |
+| Greens–European Free Alliance | EU | 75 | 62 | 58–66 | 57–67 | 56–67 | 54–69 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Coalició Compromís | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Coalició Compromís | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -54,26 +54,26 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.1% | 100% |  |
 | 53 | 0.2% | 99.9% |  |
 | 54 | 0.5% | 99.7% |  |
-| 55 | 1.2% | 99.2% |  |
+| 55 | 1.1% | 99.2% |  |
 | 56 | 2% | 98% |  |
 | 57 | 4% | 96% |  |
 | 58 | 6% | 92% |  |
-| 59 | 9% | 85% |  |
+| 59 | 9% | 86% |  |
 | 60 | 11% | 77% |  |
-| 61 | 13% | 65% |  |
+| 61 | 13% | 66% |  |
 | 62 | 13% | 53% | Median |
 | 63 | 12% | 40% |  |
-| 64 | 10% | 27% |  |
-| 65 | 7% | 17% |  |
+| 64 | 10% | 28% |  |
+| 65 | 8% | 18% |  |
 | 66 | 5% | 10% |  |
 | 67 | 3% | 5% |  |
 | 68 | 1.4% | 2% |  |

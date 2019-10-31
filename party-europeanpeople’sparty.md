@@ -31,7 +31,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–8 | 3–8 |
+| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -52,6 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -63,7 +64,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -74,9 +74,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -98,14 +98,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 173 | 9% | 48% |  |
 | 174 | 8% | 39% |  |
 | 175 | 7% | 31% |  |
-| 176 | 6% | 23% |  |
+| 176 | 6% | 24% |  |
 | 177 | 5% | 17% |  |
 | 178 | 4% | 12% |  |
 | 179 | 3% | 8% |  |
 | 180 | 2% | 5% |  |
 | 181 | 1.3% | 3% |  |
 | 182 | 0.8% | 2% | Last Result |
-| 183 | 0.5% | 1.0% |  |
+| 183 | 0.5% | 1.1% |  |
 | 184 | 0.3% | 0.6% |  |
 | 185 | 0.1% | 0.3% |  |
 | 186 | 0.1% | 0.1% |  |
