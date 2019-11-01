@@ -19,14 +19,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 62 | 88 | 82–94 | 80–95 | 79–97 | 77–99 |
-| Conservative Party | GB-GBN | | 30 | 24–34 | 24–34 | 23–35 | 23–36 |
+| Conservative Party | GB-GBN | | 30 | 24–33 | 24–34 | 23–35 | 23–36 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| Vox | ES | | 6 | 4–7 | 4–8 | 4–8 | 3–8 |
+| Vox | ES | | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Forum voor Democratie | NL | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -70,27 +70,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 0.1% | 100% |  |
 | 76 | 0.2% | 99.9% |  |
 | 77 | 0.4% | 99.7% |  |
-| 78 | 0.9% | 99.3% |  |
-| 79 | 2% | 98% |  |
+| 78 | 0.8% | 99.3% |  |
+| 79 | 2% | 98.5% |  |
 | 80 | 2% | 97% |  |
-| 81 | 4% | 94% |  |
+| 81 | 3% | 95% |  |
 | 82 | 5% | 91% |  |
-| 83 | 6% | 86% |  |
+| 83 | 5% | 87% |  |
 | 84 | 6% | 81% |  |
 | 85 | 7% | 75% |  |
 | 86 | 7% | 68% |  |
 | 87 | 7% | 61% |  |
 | 88 | 8% | 54% | Median |
 | 89 | 8% | 46% |  |
-| 90 | 8% | 39% |  |
+| 90 | 8% | 38% |  |
 | 91 | 7% | 31% |  |
 | 92 | 6% | 24% |  |
 | 93 | 5% | 17% |  |
 | 94 | 4% | 12% |  |
 | 95 | 3% | 8% |  |
 | 96 | 2% | 5% |  |
-| 97 | 1.3% | 3% |  |
-| 98 | 0.7% | 2% |  |
+| 97 | 1.2% | 3% |  |
+| 98 | 0.7% | 1.5% |  |
 | 99 | 0.4% | 0.8% |  |
 | 100 | 0.2% | 0.4% |  |
 | 101 | 0.1% | 0.2% |  |

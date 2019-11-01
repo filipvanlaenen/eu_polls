@@ -18,13 +18,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 62 | 58–66 | 57–67 | 56–67 | 54–69 |
+| Greens–European Free Alliance | EU | 75 | 62 | 58–66 | 57–67 | 56–68 | 54–69 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Coalició Compromís | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Coalició Compromís | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -63,22 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0.1% | 100% |  |
 | 53 | 0.2% | 99.9% |  |
 | 54 | 0.5% | 99.7% |  |
-| 55 | 1.1% | 99.2% |  |
+| 55 | 1.1% | 99.3% |  |
 | 56 | 2% | 98% |  |
 | 57 | 4% | 96% |  |
 | 58 | 6% | 92% |  |
 | 59 | 9% | 86% |  |
 | 60 | 11% | 77% |  |
 | 61 | 13% | 66% |  |
-| 62 | 13% | 53% | Median |
-| 63 | 12% | 40% |  |
-| 64 | 10% | 28% |  |
-| 65 | 8% | 18% |  |
-| 66 | 5% | 10% |  |
-| 67 | 3% | 5% |  |
-| 68 | 1.4% | 2% |  |
-| 69 | 0.6% | 0.9% |  |
-| 70 | 0.2% | 0.3% |  |
+| 62 | 13% | 54% | Median |
+| 63 | 12% | 41% |  |
+| 64 | 10% | 29% |  |
+| 65 | 8% | 19% |  |
+| 66 | 5% | 11% |  |
+| 67 | 3% | 6% |  |
+| 68 | 2% | 3% |  |
+| 69 | 0.7% | 1.1% |  |
+| 70 | 0.3% | 0.4% |  |
 | 71 | 0.1% | 0.1% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |

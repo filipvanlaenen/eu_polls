@@ -18,19 +18,19 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 113 | 108–118 | 107–120 | 105–121 | 103–123 |
+| Renew Europe | EU | 108 | 113 | 108–118 | 107–119 | 105–121 | 103–123 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | Liberal Democrats | GB-GBN | | 12 | 9–15 | 8–16 | 8–17 | 6–18 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
 | Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Lista Marjana Šarca | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -71,34 +71,35 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 101 | 0.1% | 100% |  |
+| 100 | 0% | 100% |  |
+| 101 | 0.1% | 99.9% |  |
 | 102 | 0.2% | 99.9% |  |
 | 103 | 0.4% | 99.7% |  |
 | 104 | 0.7% | 99.3% |  |
-| 105 | 1.2% | 98.7% |  |
+| 105 | 1.3% | 98.5% |  |
 | 106 | 2% | 97% |  |
-| 107 | 3% | 96% |  |
-| 108 | 4% | 93% | Last Result |
-| 109 | 6% | 89% |  |
-| 110 | 7% | 83% |  |
-| 111 | 8% | 76% |  |
-| 112 | 9% | 68% |  |
-| 113 | 10% | 58% | Median |
-| 114 | 10% | 48% |  |
-| 115 | 9% | 38% |  |
-| 116 | 8% | 28% |  |
-| 117 | 7% | 20% |  |
+| 107 | 3% | 95% |  |
+| 108 | 4% | 92% | Last Result |
+| 109 | 6% | 88% |  |
+| 110 | 7% | 82% |  |
+| 111 | 9% | 75% |  |
+| 112 | 10% | 66% |  |
+| 113 | 10% | 57% | Median |
+| 114 | 10% | 47% |  |
+| 115 | 9% | 37% |  |
+| 116 | 8% | 27% |  |
+| 117 | 6% | 19% |  |
 | 118 | 5% | 13% |  |
 | 119 | 3% | 8% |  |
 | 120 | 2% | 5% |  |
-| 121 | 1.3% | 3% |  |
-| 122 | 0.7% | 1.5% |  |
+| 121 | 1.2% | 3% |  |
+| 122 | 0.7% | 1.4% |  |
 | 123 | 0.4% | 0.7% |  |
 | 124 | 0.2% | 0.3% |  |
 | 125 | 0.1% | 0.1% |  |
