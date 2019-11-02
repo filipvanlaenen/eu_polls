@@ -39,12 +39,13 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
