@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> CZ, DK, EE, FR, HR, IE, IT, LT, NL, PL, PT, RO, SK
+> CZ, DK, EE, FR, HR, IE, IT, LT, NL, PL, RO, SK
 
 ## Seats
 
@@ -20,7 +20,6 @@ At least one member in **1 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| Aliança [PT] (*) | PT | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
