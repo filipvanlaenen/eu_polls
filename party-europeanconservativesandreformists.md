@@ -42,15 +42,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Latvijas Reģionu apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Обединени Патриоти | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -82,16 +82,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 7% | 62% |  |
 | 88 | 8% | 55% | Median |
 | 89 | 8% | 47% |  |
-| 90 | 8% | 40% |  |
+| 90 | 8% | 39% |  |
 | 91 | 7% | 32% |  |
-| 92 | 7% | 25% |  |
+| 92 | 7% | 24% |  |
 | 93 | 5% | 18% |  |
-| 94 | 4% | 13% |  |
+| 94 | 4% | 12% |  |
 | 95 | 3% | 8% |  |
 | 96 | 2% | 5% |  |
-| 97 | 1.4% | 3% |  |
+| 97 | 1.3% | 3% |  |
 | 98 | 0.8% | 2% |  |
-| 99 | 0.4% | 0.9% |  |
+| 99 | 0.4% | 0.8% |  |
 | 100 | 0.2% | 0.4% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0% | 0.1% |  |

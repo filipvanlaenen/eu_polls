@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 61 | 58–65 | 56–66 | 56–67 | 54–69 |
+| Greens–European Free Alliance | EU | 75 | 61 | 57–65 | 56–66 | 56–67 | 54–69 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
@@ -54,9 +54,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -71,9 +71,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 12% | 73% |  |
 | 61 | 13% | 61% | Median |
 | 62 | 13% | 48% |  |
-| 63 | 12% | 35% |  |
+| 63 | 11% | 35% |  |
 | 64 | 9% | 24% |  |
-| 65 | 7% | 15% |  |
+| 65 | 7% | 14% |  |
 | 66 | 4% | 8% |  |
 | 67 | 2% | 4% |  |
 | 68 | 1.0% | 2% |  |

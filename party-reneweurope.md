@@ -24,7 +24,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
 | Italia Viva | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
@@ -72,9 +72,9 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -83,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 0.2% | 99.8% |  |
 | 103 | 0.4% | 99.6% |  |
 | 104 | 0.8% | 99.2% |  |
-| 105 | 1.3% | 98% |  |
+| 105 | 1.4% | 98% |  |
 | 106 | 2% | 97% |  |
 | 107 | 3% | 95% |  |
 | 108 | 4% | 92% | Last Result |
@@ -92,13 +92,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 9% | 74% |  |
 | 112 | 10% | 65% |  |
 | 113 | 10% | 56% | Median |
-| 114 | 10% | 46% |  |
-| 115 | 9% | 36% |  |
+| 114 | 10% | 45% |  |
+| 115 | 9% | 35% |  |
 | 116 | 8% | 26% |  |
 | 117 | 6% | 19% |  |
 | 118 | 5% | 12% |  |
 | 119 | 3% | 8% |  |
-| 120 | 2% | 4% |  |
+| 120 | 2% | 5% |  |
 | 121 | 1.2% | 2% |  |
 | 122 | 0.7% | 1.3% |  |
 | 123 | 0.3% | 0.6% |  |
