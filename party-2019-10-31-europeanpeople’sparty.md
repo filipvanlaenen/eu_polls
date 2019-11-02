@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 173 | 167–179 | 165–180 | 164–181 | 161–184 |
+| European People’s Party | EU | 182 | 173 | 167–178 | 165–180 | 164–181 | 161–184 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–23 | 18–24 | 18–24 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -52,8 +52,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Za ľudí | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
+| Za ľudí | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,13 +62,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | KPV LV | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
@@ -85,7 +85,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.2% | 99.9% |  |
 | 161 | 0.3% | 99.7% |  |
 | 162 | 0.5% | 99.4% |  |
-| 163 | 0.8% | 98.9% |  |
+| 163 | 0.9% | 98.9% |  |
 | 164 | 1.3% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 3% | 95% |  |
@@ -93,23 +93,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 5% | 88% |  |
 | 169 | 6% | 83% |  |
 | 170 | 7% | 77% |  |
-| 171 | 8% | 70% |  |
-| 172 | 9% | 62% |  |
-| 173 | 9% | 53% | Median |
-| 174 | 9% | 44% |  |
-| 175 | 8% | 36% |  |
-| 176 | 7% | 28% |  |
+| 171 | 8% | 69% |  |
+| 172 | 9% | 61% |  |
+| 173 | 9% | 52% | Median |
+| 174 | 9% | 43% |  |
+| 175 | 8% | 35% |  |
+| 176 | 7% | 27% |  |
 | 177 | 6% | 20% |  |
-| 178 | 5% | 15% |  |
+| 178 | 4% | 14% |  |
 | 179 | 3% | 10% |  |
-| 180 | 2% | 7% |  |
+| 180 | 2% | 6% |  |
 | 181 | 2% | 4% |  |
-| 182 | 1.1% | 2% | Last Result |
-| 183 | 0.6% | 1.4% |  |
-| 184 | 0.4% | 0.8% |  |
+| 182 | 1.0% | 2% | Last Result |
+| 183 | 0.6% | 1.3% |  |
+| 184 | 0.3% | 0.7% |  |
 | 185 | 0.2% | 0.4% |  |
 | 186 | 0.1% | 0.2% |  |
-| 187 | 0.1% | 0.1% |  |
+| 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% |  |
 
 
