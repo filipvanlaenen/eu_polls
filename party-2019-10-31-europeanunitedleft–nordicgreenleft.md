@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **45** seats (+4 seats)
+Current median: **46** seats (+5 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 45 | 43–48 | 42–49 | 41–49 | 40–51 |
+| European United Left–Nordic Green Left | EU | 41 | 46 | 43–48 | 42–49 | 41–49 | 40–51 |
 | Die Linke | DE | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
@@ -35,7 +35,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -55,19 +55,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.2% | 100% |  |
+| 39 | 0.1% | 100% |  |
 | 40 | 0.6% | 99.8% |  |
 | 41 | 2% | 99.2% | Last Result |
 | 42 | 5% | 97% |  |
-| 43 | 9% | 92% |  |
-| 44 | 15% | 83% |  |
-| 45 | 19% | 68% | Median |
-| 46 | 19% | 50% |  |
-| 47 | 15% | 31% |  |
-| 48 | 9% | 16% |  |
-| 49 | 4% | 7% |  |
+| 43 | 9% | 93% |  |
+| 44 | 14% | 84% |  |
+| 45 | 19% | 69% |  |
+| 46 | 19% | 51% | Median |
+| 47 | 15% | 32% |  |
+| 48 | 10% | 17% |  |
+| 49 | 5% | 7% |  |
 | 50 | 2% | 2% |  |
-| 51 | 0.4% | 0.5% |  |
+| 51 | 0.5% | 0.6% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
