@@ -50,6 +50,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
+| Aliança | PT | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -82,23 +83,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 0.2% | 99.9% |  |
 | 103 | 0.4% | 99.7% |  |
 | 104 | 0.7% | 99.3% |  |
-| 105 | 1.3% | 98.5% |  |
+| 105 | 1.2% | 98.6% |  |
 | 106 | 2% | 97% |  |
 | 107 | 3% | 95% |  |
 | 108 | 4% | 92% | Last Result |
 | 109 | 6% | 88% |  |
 | 110 | 7% | 82% |  |
 | 111 | 9% | 75% |  |
-| 112 | 10% | 66% |  |
+| 112 | 10% | 67% |  |
 | 113 | 10% | 57% | Median |
 | 114 | 10% | 47% |  |
 | 115 | 9% | 37% |  |
-| 116 | 8% | 27% |  |
+| 116 | 8% | 28% |  |
 | 117 | 6% | 19% |  |
 | 118 | 5% | 13% |  |
 | 119 | 3% | 8% |  |
 | 120 | 2% | 5% |  |
-| 121 | 1.2% | 3% |  |
+| 121 | 1.3% | 3% |  |
 | 122 | 0.7% | 1.4% |  |
 | 123 | 0.4% | 0.7% |  |
 | 124 | 0.2% | 0.3% |  |

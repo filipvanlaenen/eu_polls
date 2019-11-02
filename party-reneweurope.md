@@ -31,7 +31,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -72,9 +72,9 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-11-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2019-10-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 10% | 47% |  |
 | 115 | 9% | 37% |  |
 | 116 | 8% | 28% |  |
-| 117 | 7% | 19% |  |
+| 117 | 6% | 19% |  |
 | 118 | 5% | 13% |  |
 | 119 | 3% | 8% |  |
 | 120 | 2% | 5% |  |
