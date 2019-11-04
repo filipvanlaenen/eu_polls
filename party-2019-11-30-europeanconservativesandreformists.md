@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **88** seats (+26 seats)
+Current median: **87** seats (+25 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 88 | 82–94 | 80–96 | 79–97 | 77–99 |
-| Conservative Party | GB-GBN | | 30 | 24–33 | 24–34 | 23–35 | 23–36 |
+| European Conservatives and Reformists | EU | 62 | 87 | 81–95 | 79–96 | 78–97 | 76–100 |
+| Conservative Party | GB-GBN | | 29 | 24–35 | 24–35 | 23–36 | 23–37 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| Fratelli d’Italia | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Vox | ES | | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Forum voor Democratie | NL | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -39,10 +39,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu apvienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos Centro Partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Обединени Патриоти | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -67,34 +67,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0% | 100% |  |
 | 73 | 0% | 100% |  |
 | 74 | 0% | 100% |  |
-| 75 | 0.1% | 100% |  |
-| 76 | 0.2% | 99.9% |  |
-| 77 | 0.4% | 99.8% |  |
-| 78 | 0.8% | 99.4% |  |
-| 79 | 1.4% | 98.6% |  |
-| 80 | 2% | 97% |  |
-| 81 | 3% | 95% |  |
-| 82 | 4% | 92% |  |
-| 83 | 5% | 87% |  |
-| 84 | 6% | 82% |  |
-| 85 | 7% | 76% |  |
-| 86 | 7% | 69% |  |
-| 87 | 7% | 62% |  |
-| 88 | 8% | 55% | Median |
-| 89 | 8% | 47% |  |
-| 90 | 8% | 39% |  |
-| 91 | 7% | 32% |  |
-| 92 | 7% | 24% |  |
-| 93 | 5% | 18% |  |
-| 94 | 4% | 12% |  |
-| 95 | 3% | 8% |  |
-| 96 | 2% | 5% |  |
-| 97 | 1.3% | 3% |  |
-| 98 | 0.8% | 2% |  |
-| 99 | 0.4% | 0.8% |  |
-| 100 | 0.2% | 0.4% |  |
-| 101 | 0.1% | 0.2% |  |
-| 102 | 0% | 0.1% |  |
+| 75 | 0.1% | 99.9% |  |
+| 76 | 0.3% | 99.8% |  |
+| 77 | 0.8% | 99.5% |  |
+| 78 | 2% | 98.7% |  |
+| 79 | 3% | 97% |  |
+| 80 | 4% | 94% |  |
+| 81 | 6% | 90% |  |
+| 82 | 7% | 85% |  |
+| 83 | 7% | 78% |  |
+| 84 | 7% | 71% |  |
+| 85 | 6% | 64% |  |
+| 86 | 6% | 58% |  |
+| 87 | 5% | 53% | Median |
+| 88 | 5% | 47% |  |
+| 89 | 5% | 42% |  |
+| 90 | 6% | 37% |  |
+| 91 | 6% | 32% |  |
+| 92 | 6% | 26% |  |
+| 93 | 5% | 20% |  |
+| 94 | 5% | 15% |  |
+| 95 | 4% | 10% |  |
+| 96 | 3% | 7% |  |
+| 97 | 2% | 4% |  |
+| 98 | 1.0% | 2% |  |
+| 99 | 0.6% | 1.1% |  |
+| 100 | 0.3% | 0.6% |  |
+| 101 | 0.1% | 0.3% |  |
+| 102 | 0.1% | 0.1% |  |
 | 103 | 0% | 0% |  |
 
 
