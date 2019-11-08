@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **92** seats (+30 seats)
+Current median: **90** seats (+28 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 92 | 87–96 | 86–97 | 85–98 | 83–101 |
-| Conservative Party | GB-GBN | | 34 | 30–35 | 30–36 | 30–36 | 29–38 |
+| European Conservatives and Reformists | EU | 62 | 90 | 84–95 | 83–96 | 82–97 | 80–100 |
+| Conservative Party | GB-GBN | | 32 | 27–35 | 27–35 | 27–36 | 27–37 |
 | Prawo i Sprawiedliwość | PL | | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| Vox | ES | | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
+| Fratelli d’Italia | IT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| Vox | ES | | 6 | 4–7 | 4–8 | 4–8 | 4–9 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partija tvarka ir teisingumas | LT | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Chega | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -70,32 +70,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 0% | 100% |  |
 | 76 | 0% | 100% |  |
 | 77 | 0% | 100% |  |
-| 78 | 0% | 100% |  |
-| 79 | 0% | 100% |  |
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
-| 83 | 0.5% | 99.6% |  |
-| 84 | 1.1% | 99.1% |  |
-| 85 | 2% | 98% |  |
-| 86 | 3% | 96% |  |
-| 87 | 5% | 93% |  |
-| 88 | 7% | 88% |  |
-| 89 | 8% | 81% |  |
-| 90 | 10% | 73% |  |
-| 91 | 11% | 62% |  |
-| 92 | 11% | 51% | Median |
-| 93 | 11% | 40% |  |
-| 94 | 9% | 29% |  |
-| 95 | 7% | 20% |  |
-| 96 | 5% | 13% |  |
-| 97 | 3% | 8% |  |
-| 98 | 2% | 4% |  |
-| 99 | 1.2% | 2% |  |
-| 100 | 0.6% | 1.1% |  |
-| 101 | 0.3% | 0.5% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0.1% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 78 | 0.1% | 100% |  |
+| 79 | 0.2% | 99.9% |  |
+| 80 | 0.5% | 99.7% |  |
+| 81 | 1.0% | 99.2% |  |
+| 82 | 2% | 98% |  |
+| 83 | 3% | 96% |  |
+| 84 | 4% | 94% |  |
+| 85 | 5% | 89% |  |
+| 86 | 7% | 84% |  |
+| 87 | 8% | 77% |  |
+| 88 | 8% | 70% |  |
+| 89 | 9% | 61% |  |
+| 90 | 9% | 52% | Median |
+| 91 | 9% | 43% |  |
+| 92 | 9% | 34% |  |
+| 93 | 7% | 25% |  |
+| 94 | 6% | 18% |  |
+| 95 | 4% | 12% |  |
+| 96 | 3% | 7% |  |
+| 97 | 2% | 4% |  |
+| 98 | 1.2% | 2% |  |
+| 99 | 0.6% | 1.2% |  |
+| 100 | 0.3% | 0.6% |  |
+| 101 | 0.2% | 0.3% |  |
+| 102 | 0.1% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 

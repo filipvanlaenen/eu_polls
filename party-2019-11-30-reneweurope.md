@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **114** seats (+6 seats)
+Current median: **113** seats (+5 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 114 | 109–118 | 108–119 | 106–120 | 104–121 |
+| Renew Europe | EU | 108 | 113 | 110–117 | 109–118 | 108–119 | 106–121 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| Liberal Democrats | GB-GBN | | 13 | 10–13 | 10–14 | 9–15 | 9–15 |
+| Liberal Democrats | GB-GBN | | 12 | 10–13 | 9–13 | 8–14 | 8–15 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 5–8 | 5–8 | 5–10 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
-| Italia Viva | IT | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| Italia Viva | IT | | 4 | 4–5 | 3–6 | 3–6 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Lista Marjana Šarca | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -52,7 +52,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aliança | PT | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -64,7 +64,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -78,27 +78,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 0.1% | 100% |  |
-| 103 | 0.2% | 99.9% |  |
-| 104 | 0.3% | 99.8% |  |
-| 105 | 0.7% | 99.4% |  |
-| 106 | 1.2% | 98.7% |  |
-| 107 | 2% | 97% |  |
-| 108 | 3% | 95% | Last Result |
-| 109 | 5% | 92% |  |
-| 110 | 7% | 87% |  |
-| 111 | 8% | 81% |  |
-| 112 | 10% | 72% |  |
-| 113 | 12% | 62% |  |
-| 114 | 12% | 51% | Median |
-| 115 | 11% | 39% |  |
-| 116 | 10% | 27% |  |
-| 117 | 7% | 18% |  |
-| 118 | 5% | 10% |  |
-| 119 | 3% | 6% |  |
-| 120 | 2% | 3% |  |
-| 121 | 0.7% | 1.1% |  |
-| 122 | 0.3% | 0.4% |  |
+| 104 | 0.1% | 100% |  |
+| 105 | 0.2% | 99.9% |  |
+| 106 | 0.5% | 99.6% |  |
+| 107 | 1.2% | 99.1% |  |
+| 108 | 2% | 98% | Last Result |
+| 109 | 4% | 96% |  |
+| 110 | 7% | 91% |  |
+| 111 | 10% | 85% |  |
+| 112 | 12% | 75% |  |
+| 113 | 14% | 63% | Median |
+| 114 | 14% | 49% |  |
+| 115 | 12% | 36% |  |
+| 116 | 9% | 24% |  |
+| 117 | 6% | 14% |  |
+| 118 | 4% | 8% |  |
+| 119 | 2% | 4% |  |
+| 120 | 1.0% | 2% |  |
+| 121 | 0.4% | 0.7% |  |
+| 122 | 0.2% | 0.3% |  |
 | 123 | 0.1% | 0.1% |  |
 | 124 | 0% | 0% |  |
 
