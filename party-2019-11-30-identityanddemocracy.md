@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **73** seats (General Election of 25 May 2014)
 
-Current median: **77** seats (+4 seats)
+Current median: **76** seats (+3 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 77 | 74–80 | 73–81 | 72–82 | 71–83 |
+| Identity and Democracy | EU | 73 | 76 | 73–79 | 73–80 | 72–81 | 71–82 |
 | Lega Nord | IT | | 25 | 23–27 | 23–28 | 22–29 | 21–29 |
 | Rassemblement national | FR | | 22 | 22 | 22 | 22 | 22 |
-| Alternative für Deutschland | DE | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| Alternative für Deutschland | DE | | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partij voor de Vrijheid | NL | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -42,22 +42,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 70 | 0.2% | 100% |  |
-| 71 | 0.6% | 99.8% |  |
-| 72 | 2% | 99.2% |  |
-| 73 | 5% | 97% | Last Result |
-| 74 | 9% | 92% |  |
-| 75 | 13% | 84% |  |
-| 76 | 16% | 71% |  |
-| 77 | 16% | 55% | Median |
-| 78 | 14% | 38% |  |
-| 79 | 11% | 24% |  |
-| 80 | 7% | 13% |  |
-| 81 | 4% | 6% |  |
-| 82 | 2% | 3% |  |
-| 83 | 0.6% | 0.9% |  |
-| 84 | 0.2% | 0.2% |  |
-| 85 | 0% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 1.0% | 99.7% |  |
+| 72 | 3% | 98.8% |  |
+| 73 | 6% | 96% | Last Result |
+| 74 | 11% | 90% |  |
+| 75 | 15% | 79% |  |
+| 76 | 17% | 64% | Median |
+| 77 | 16% | 47% |  |
+| 78 | 13% | 31% |  |
+| 79 | 9% | 18% |  |
+| 80 | 5% | 9% |  |
+| 81 | 3% | 4% |  |
+| 82 | 1.0% | 1.5% |  |
+| 83 | 0.3% | 0.4% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% |  |
 
 
