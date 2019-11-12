@@ -18,11 +18,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 149 | 144–155 | 142–157 | 141–158 | 139–161 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 149 | 144–155 | 143–157 | 141–158 | 139–161 |
 | Labour Party | GB-GBN | | 19 | 19–23 | 18–23 | 18–23 | 16–24 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–17 | 13–18 |
-| Partito Democratico | IT | | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
+| Partito Democratico | IT | | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | Partido Socialista | PT | | 10 | 10 | 10 | 10 | 10 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -39,13 +39,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Wiosna | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Socialni demokrati | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Progresīvie | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
-| Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Αλλαγής | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -69,31 +69,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 137 | 0.1% | 100% |  |
 | 138 | 0.2% | 99.9% |  |
-| 139 | 0.5% | 99.6% |  |
-| 140 | 0.9% | 99.2% |  |
-| 141 | 2% | 98% |  |
-| 142 | 3% | 97% |  |
-| 143 | 4% | 94% |  |
-| 144 | 5% | 90% |  |
-| 145 | 6% | 85% |  |
-| 146 | 7% | 79% |  |
-| 147 | 8% | 72% |  |
-| 148 | 9% | 64% |  |
-| 149 | 9% | 55% | Median |
-| 150 | 9% | 46% |  |
-| 151 | 8% | 38% |  |
-| 152 | 7% | 30% |  |
-| 153 | 6% | 22% |  |
-| 154 | 5% | 16% | Last Result |
-| 155 | 4% | 12% |  |
-| 156 | 3% | 8% |  |
-| 157 | 2% | 5% |  |
-| 158 | 1.3% | 3% |  |
-| 159 | 0.8% | 2% |  |
-| 160 | 0.5% | 1.0% |  |
-| 161 | 0.3% | 0.5% |  |
-| 162 | 0.1% | 0.2% |  |
-| 163 | 0.1% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 139 | 0.4% | 99.7% |  |
+| 140 | 0.7% | 99.4% |  |
+| 141 | 1.3% | 98.6% |  |
+| 142 | 2% | 97% |  |
+| 143 | 3% | 95% |  |
+| 144 | 4% | 92% |  |
+| 145 | 6% | 87% |  |
+| 146 | 7% | 82% |  |
+| 147 | 8% | 75% |  |
+| 148 | 8% | 67% |  |
+| 149 | 9% | 58% | Median |
+| 150 | 9% | 50% |  |
+| 151 | 8% | 41% |  |
+| 152 | 7% | 33% |  |
+| 153 | 6% | 25% |  |
+| 154 | 5% | 19% | Last Result |
+| 155 | 4% | 14% |  |
+| 156 | 3% | 9% |  |
+| 157 | 2% | 6% |  |
+| 158 | 2% | 4% |  |
+| 159 | 1.0% | 2% |  |
+| 160 | 0.6% | 1.3% |  |
+| 161 | 0.3% | 0.7% |  |
+| 162 | 0.2% | 0.3% |  |
+| 163 | 0.1% | 0.2% |  |
+| 164 | 0% | 0.1% |  |
+| 165 | 0% | 0% |  |
 
 

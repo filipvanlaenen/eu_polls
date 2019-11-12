@@ -29,7 +29,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
+| Levica | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,11 +55,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.3% | 100% |  |
-| 38 | 2% | 99.7% |  |
+| 38 | 2% | 99.6% |  |
 | 39 | 5% | 98% |  |
 | 40 | 12% | 93% |  |
-| 41 | 19% | 81% | Last Result |
-| 42 | 21% | 62% | Median |
+| 41 | 19% | 80% | Last Result |
+| 42 | 21% | 61% | Median |
 | 43 | 17% | 41% |  |
 | 44 | 11% | 24% |  |
 | 45 | 7% | 13% |  |
