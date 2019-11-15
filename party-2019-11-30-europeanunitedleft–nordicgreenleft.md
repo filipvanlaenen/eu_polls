@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **42** seats (+1 seats)
+Current median: **47** seats (+6 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 42 | 40–45 | 39–46 | 39–46 | 38–48 |
-| Die Linke | DE | | 7 | 5–9 | 5–9 | 5–9 | 5–10 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 44–50 | 43–50 | 43–51 | 41–53 |
+| Die Linke | DE | | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| Unidos Podemos | ES | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
-| Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 2 | 2 | 2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
@@ -29,8 +29,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Levica | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
@@ -54,19 +54,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.3% | 100% |  |
-| 38 | 2% | 99.6% |  |
-| 39 | 5% | 98% |  |
-| 40 | 12% | 93% |  |
-| 41 | 19% | 80% | Last Result |
-| 42 | 21% | 61% | Median |
-| 43 | 17% | 41% |  |
-| 44 | 11% | 24% |  |
-| 45 | 7% | 13% |  |
-| 46 | 4% | 6% |  |
-| 47 | 2% | 2% |  |
-| 48 | 0.5% | 0.5% |  |
-| 49 | 0.1% | 0.1% |  |
-| 50 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.4% | 99.9% | Last Result |
+| 42 | 2% | 99.5% |  |
+| 43 | 5% | 98% |  |
+| 44 | 9% | 93% |  |
+| 45 | 14% | 84% |  |
+| 46 | 17% | 70% |  |
+| 47 | 17% | 53% | Median |
+| 48 | 15% | 36% |  |
+| 49 | 10% | 21% |  |
+| 50 | 6% | 11% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.3% | 2% |  |
+| 53 | 0.4% | 0.5% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 

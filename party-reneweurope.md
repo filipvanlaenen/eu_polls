@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **108** seats (General Election of 25 May 2014)
 
-Current median: **109** seats (+1 seats)
+Current median: **110** seats (+2 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 109 | 106–112 | 105–113 | 104–114 | 103–116 |
+| Renew Europe | EU | 108 | 110 | 105–114 | 104–115 | 103–116 | 101–118 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Liberal Democrats | GB-GBN | | 8 | 7–8 | 7–9 | 6–10 | 6–12 |
-| Freie Demokratische Partei | DE | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| Freie Demokratische Partei | DE | | 8 | 6–9 | 6–10 | 6–11 | 5–11 |
+| Liberal Democrats | GB-GBN | | 8 | 8–11 | 7–12 | 6–13 | 6–13 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Italia Viva | IT | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
+| Italia Viva | IT | | 4 | 3–5 | 0–6 | 0–6 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -44,13 +44,14 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aliança | PT | | 0 | 0 | 0 | 0 | 0 |
+| Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -75,24 +76,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 101 | 0.1% | 100% |  |
-| 102 | 0.3% | 99.9% |  |
-| 103 | 0.8% | 99.6% |  |
-| 104 | 2% | 98.7% |  |
-| 105 | 4% | 97% |  |
-| 106 | 8% | 93% |  |
-| 107 | 12% | 85% |  |
-| 108 | 15% | 73% | Last Result |
-| 109 | 16% | 58% | Median |
-| 110 | 15% | 42% |  |
-| 111 | 12% | 27% |  |
-| 112 | 8% | 15% |  |
-| 113 | 4% | 8% |  |
-| 114 | 2% | 3% |  |
-| 115 | 0.9% | 1.4% |  |
-| 116 | 0.3% | 0.5% |  |
-| 117 | 0.1% | 0.2% |  |
-| 118 | 0% | 0.1% |  |
-| 119 | 0% | 0% |  |
+| 98 | 0% | 100% |  |
+| 99 | 0.1% | 99.9% |  |
+| 100 | 0.2% | 99.8% |  |
+| 101 | 0.5% | 99.6% |  |
+| 102 | 1.0% | 99.1% |  |
+| 103 | 2% | 98% |  |
+| 104 | 3% | 96% |  |
+| 105 | 5% | 93% |  |
+| 106 | 7% | 89% |  |
+| 107 | 9% | 82% |  |
+| 108 | 11% | 73% | Last Result |
+| 109 | 12% | 62% |  |
+| 110 | 12% | 50% | Median |
+| 111 | 11% | 38% |  |
+| 112 | 9% | 27% |  |
+| 113 | 7% | 19% |  |
+| 114 | 5% | 12% |  |
+| 115 | 3% | 7% |  |
+| 116 | 2% | 4% |  |
+| 117 | 1.0% | 2% |  |
+| 118 | 0.5% | 0.9% |  |
+| 119 | 0.2% | 0.4% |  |
+| 120 | 0.1% | 0.1% |  |
+| 121 | 0% | 0% |  |
 
 
