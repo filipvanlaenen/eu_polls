@@ -8,24 +8,23 @@ Members registered from **13 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **22** seats (-34 seats)
+Current median: **23** seats (-33 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> ES, GB, GR, HR, HU, IT, SK
+> GB, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 22 | 19–27 | 18–28 | 18–29 | 16–31 |
+| Non-Inscrits | EU | 56 | 23 | 19–28 | 18–29 | 18–31 | 17–33 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Brexit Party | GB-GBN | | 1 | 0–6 | 0–6 | 0–6 | 0–6 |
+| Brexit Party | GB-GBN | | 1 | 0–6 | 0–7 | 0–8 | 0–9 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -33,6 +32,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -48,26 +48,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.5% | 99.9% |  |
-| 17 | 2% | 99.4% |  |
+| 16 | 0.4% | 99.9% |  |
+| 17 | 1.4% | 99.5% |  |
 | 18 | 4% | 98% |  |
-| 19 | 8% | 93% |  |
-| 20 | 11% | 85% |  |
-| 21 | 13% | 74% |  |
-| 22 | 13% | 62% | Median |
-| 23 | 12% | 49% |  |
-| 24 | 10% | 38% |  |
-| 25 | 9% | 27% |  |
-| 26 | 7% | 19% |  |
-| 27 | 5% | 12% |  |
-| 28 | 3% | 7% |  |
-| 29 | 2% | 4% |  |
-| 30 | 1.1% | 2% |  |
-| 31 | 0.6% | 1.0% |  |
-| 32 | 0.3% | 0.4% |  |
-| 33 | 0.1% | 0.2% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
+| 19 | 7% | 94% |  |
+| 20 | 10% | 88% |  |
+| 21 | 12% | 77% |  |
+| 22 | 12% | 65% |  |
+| 23 | 11% | 53% | Median |
+| 24 | 10% | 42% |  |
+| 25 | 8% | 33% |  |
+| 26 | 7% | 25% |  |
+| 27 | 6% | 18% |  |
+| 28 | 4% | 12% |  |
+| 29 | 3% | 8% |  |
+| 30 | 2% | 5% |  |
+| 31 | 1.3% | 3% |  |
+| 32 | 0.8% | 1.4% |  |
+| 33 | 0.4% | 0.7% |  |
+| 34 | 0.2% | 0.3% |  |
+| 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 | 37 | 0% | 0% |  |
 | 38 | 0% | 0% |  |
