@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **151** seats (-3 seats)
+Current median: **149** seats (-5 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 151 | 144–157 | 143–159 | 141–160 | 138–163 |
-| Labour Party | GB-GBN | | 24 | 20–26 | 18–26 | 18–26 | 16–26 |
-| Partido Socialista Obrero Español | ES | | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| Partito Democratico | IT | | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 11–15 | 11–16 | 11–17 | 11–17 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 149 | 143–156 | 141–158 | 139–159 | 136–162 |
+| Labour Party | GB-GBN | | 23 | 19–26 | 18–26 | 16–26 | 16–27 |
+| Partido Socialista Obrero Español | ES | | 16 | 15–17 | 14–17 | 14–18 | 13–19 |
+| Partito Democratico | IT | | 13 | 12–15 | 12–16 | 11–16 | 11–16 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–16 | 11–16 | 11–16 | 10–17 |
 | Partido Socialista | PT | | 10 | 10 | 10 | 10 | 10 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -67,37 +67,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 135 | 0% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
-| 137 | 0.2% | 99.8% |  |
-| 138 | 0.3% | 99.6% |  |
-| 139 | 0.5% | 99.3% |  |
-| 140 | 0.8% | 98.8% |  |
-| 141 | 1.2% | 98% |  |
-| 142 | 2% | 97% |  |
-| 143 | 2% | 95% |  |
-| 144 | 3% | 93% |  |
-| 145 | 4% | 89% |  |
-| 146 | 5% | 85% |  |
-| 147 | 6% | 80% |  |
-| 148 | 7% | 74% |  |
-| 149 | 8% | 67% |  |
-| 150 | 8% | 60% |  |
-| 151 | 8% | 52% | Median |
-| 152 | 8% | 44% |  |
-| 153 | 7% | 36% |  |
-| 154 | 7% | 29% | Last Result |
-| 155 | 6% | 22% |  |
-| 156 | 5% | 16% |  |
-| 157 | 4% | 12% |  |
-| 158 | 3% | 8% |  |
-| 159 | 2% | 5% |  |
-| 160 | 1.3% | 3% |  |
-| 161 | 0.9% | 2% |  |
-| 162 | 0.5% | 1.0% |  |
-| 163 | 0.3% | 0.5% |  |
-| 164 | 0.1% | 0.3% |  |
-| 165 | 0.1% | 0.1% |  |
+| 133 | 0% | 100% |  |
+| 134 | 0.1% | 99.9% |  |
+| 135 | 0.2% | 99.9% |  |
+| 136 | 0.3% | 99.7% |  |
+| 137 | 0.5% | 99.4% |  |
+| 138 | 0.7% | 99.0% |  |
+| 139 | 1.1% | 98% |  |
+| 140 | 2% | 97% |  |
+| 141 | 2% | 96% |  |
+| 142 | 3% | 93% |  |
+| 143 | 4% | 91% |  |
+| 144 | 5% | 87% |  |
+| 145 | 5% | 82% |  |
+| 146 | 6% | 77% |  |
+| 147 | 7% | 71% |  |
+| 148 | 7% | 64% |  |
+| 149 | 8% | 57% | Median |
+| 150 | 8% | 49% |  |
+| 151 | 7% | 42% |  |
+| 152 | 7% | 34% |  |
+| 153 | 6% | 28% |  |
+| 154 | 5% | 22% | Last Result |
+| 155 | 4% | 16% |  |
+| 156 | 4% | 12% |  |
+| 157 | 3% | 8% |  |
+| 158 | 2% | 6% |  |
+| 159 | 1.4% | 4% |  |
+| 160 | 0.9% | 2% |  |
+| 161 | 0.6% | 1.3% |  |
+| 162 | 0.3% | 0.7% |  |
+| 163 | 0.2% | 0.4% |  |
+| 164 | 0.1% | 0.2% |  |
+| 165 | 0% | 0.1% |  |
 | 166 | 0% | 0% |  |
 
 

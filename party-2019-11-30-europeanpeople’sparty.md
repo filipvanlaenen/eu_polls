@@ -19,10 +19,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 182 | 172 | 167–177 | 165–179 | 164–180 | 161–183 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–20 | 17–20 | 17–22 | 17–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–20 | 18–21 | 18–22 | 17–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
-| Partido Popular | ES | | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
+| Partido Popular | ES | | 12 | 11–14 | 10–14 | 10–14 | 10–14 |
 | Partidul Național Liberal | RO | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
@@ -31,9 +31,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Fine Gael | IE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
+| Forza Italia | IT | | 5 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -80,33 +80,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.4% | 99.7% |  |
-| 162 | 0.6% | 99.3% |  |
-| 163 | 1.0% | 98.7% |  |
-| 164 | 2% | 98% |  |
-| 165 | 2% | 96% |  |
+| 159 | 0.1% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.3% | 99.8% |  |
+| 162 | 0.5% | 99.5% |  |
+| 163 | 0.9% | 98.9% |  |
+| 164 | 1.4% | 98% |  |
+| 165 | 2% | 97% |  |
 | 166 | 3% | 94% |  |
-| 167 | 5% | 90% |  |
-| 168 | 6% | 86% |  |
-| 169 | 7% | 80% |  |
-| 170 | 8% | 72% |  |
-| 171 | 9% | 64% |  |
-| 172 | 10% | 55% | Median |
-| 173 | 9% | 45% |  |
-| 174 | 9% | 36% |  |
-| 175 | 7% | 27% |  |
-| 176 | 6% | 20% |  |
-| 177 | 5% | 14% |  |
-| 178 | 3% | 9% |  |
+| 167 | 4% | 91% |  |
+| 168 | 6% | 87% |  |
+| 169 | 7% | 82% |  |
+| 170 | 8% | 75% |  |
+| 171 | 9% | 66% |  |
+| 172 | 10% | 57% | Median |
+| 173 | 10% | 48% |  |
+| 174 | 9% | 38% |  |
+| 175 | 8% | 29% |  |
+| 176 | 6% | 21% |  |
+| 177 | 5% | 15% |  |
+| 178 | 4% | 10% |  |
 | 179 | 2% | 6% |  |
-| 180 | 1.5% | 3% |  |
+| 180 | 2% | 4% |  |
 | 181 | 0.9% | 2% |  |
-| 182 | 0.5% | 1.0% | Last Result |
+| 182 | 0.5% | 1.1% | Last Result |
 | 183 | 0.3% | 0.5% |  |
-| 184 | 0.1% | 0.2% |  |
+| 184 | 0.1% | 0.3% |  |
 | 185 | 0.1% | 0.1% |  |
 | 186 | 0% | 0% |  |
 

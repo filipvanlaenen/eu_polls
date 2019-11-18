@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **23** seats (-33 seats)
+Current median: **22** seats (-34 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 23 | 19–28 | 18–29 | 18–31 | 17–33 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| Non-Inscrits | EU | 56 | 22 | 19–28 | 18–29 | 17–31 | 16–33 |
+| Movimento 5 Stelle | IT | | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Brexit Party | GB-GBN | | 1 | 0–6 | 0–7 | 0–8 | 0–9 |
+| Brexit Party | GB-GBN | | 1 | 0–7 | 0–7 | 0–8 | 0–9 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -47,24 +47,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.4% | 99.9% |  |
-| 17 | 1.4% | 99.5% |  |
-| 18 | 4% | 98% |  |
-| 19 | 7% | 94% |  |
-| 20 | 10% | 88% |  |
-| 21 | 12% | 77% |  |
-| 22 | 12% | 65% |  |
-| 23 | 11% | 53% | Median |
-| 24 | 10% | 42% |  |
-| 25 | 8% | 33% |  |
-| 26 | 7% | 25% |  |
-| 27 | 6% | 18% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 0.9% | 99.8% |  |
+| 17 | 3% | 98.8% |  |
+| 18 | 5% | 96% |  |
+| 19 | 8% | 91% |  |
+| 20 | 11% | 83% |  |
+| 21 | 12% | 72% |  |
+| 22 | 11% | 59% | Median |
+| 23 | 10% | 48% |  |
+| 24 | 8% | 39% |  |
+| 25 | 7% | 30% |  |
+| 26 | 6% | 23% |  |
+| 27 | 5% | 17% |  |
 | 28 | 4% | 12% |  |
 | 29 | 3% | 8% |  |
 | 30 | 2% | 5% |  |
 | 31 | 1.3% | 3% |  |
-| 32 | 0.8% | 1.4% |  |
+| 32 | 0.8% | 1.5% |  |
 | 33 | 0.4% | 0.7% |  |
 | 34 | 0.2% | 0.3% |  |
 | 35 | 0.1% | 0.1% |  |
