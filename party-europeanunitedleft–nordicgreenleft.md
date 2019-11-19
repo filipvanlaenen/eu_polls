@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **41** seats (General Election of 25 May 2014)
 
-Current median: **46** seats (+5 seats)
+Current median: **47** seats (+6 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 44–49 | 43–50 | 42–50 | 41–51 |
+| European United Left–Nordic Green Left | EU | 41 | 47 | 44–49 | 43–50 | 43–50 | 41–52 |
 | Die Linke | DE | | 9 | 8–10 | 8–11 | 8–11 | 8–12 |
 | Unidos Podemos | ES | | 7 | 6–8 | 4–8 | 4–9 | 4–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 2 | 2 | 2 |
+| Levica | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Levica | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,19 +55,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.2% | 100% |  |
-| 41 | 0.6% | 99.8% | Last Result |
-| 42 | 2% | 99.2% |  |
-| 43 | 5% | 97% |  |
-| 44 | 10% | 93% |  |
-| 45 | 16% | 83% |  |
-| 46 | 20% | 67% | Median |
-| 47 | 19% | 47% |  |
-| 48 | 14% | 27% |  |
-| 49 | 8% | 13% |  |
-| 50 | 3% | 5% |  |
-| 51 | 1.2% | 2% |  |
-| 52 | 0.3% | 0.4% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.4% | 99.9% | Last Result |
+| 42 | 1.4% | 99.5% |  |
+| 43 | 4% | 98% |  |
+| 44 | 8% | 95% |  |
+| 45 | 14% | 87% |  |
+| 46 | 19% | 73% |  |
+| 47 | 20% | 54% | Median |
+| 48 | 16% | 33% |  |
+| 49 | 10% | 17% |  |
+| 50 | 5% | 7% |  |
+| 51 | 2% | 2% |  |
+| 52 | 0.5% | 0.6% |  |
 | 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0% |  |
 

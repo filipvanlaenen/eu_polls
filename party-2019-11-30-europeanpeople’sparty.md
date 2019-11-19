@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **172** seats (-10 seats)
+Current median: **173** seats (-9 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 172 | 167–177 | 165–179 | 164–180 | 161–183 |
+| European People’s Party | EU | 182 | 173 | 167–178 | 166–179 | 165–181 | 162–183 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–20 | 18–21 | 18–22 | 17–23 |
 | Platforma Obywatelska | PL | | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -52,7 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -80,33 +80,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0.1% | 100% |  |
+| 159 | 0% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.3% | 99.8% |  |
-| 162 | 0.5% | 99.5% |  |
-| 163 | 0.9% | 98.9% |  |
-| 164 | 1.4% | 98% |  |
-| 165 | 2% | 97% |  |
-| 166 | 3% | 94% |  |
-| 167 | 4% | 91% |  |
-| 168 | 6% | 87% |  |
-| 169 | 7% | 82% |  |
-| 170 | 8% | 75% |  |
-| 171 | 9% | 66% |  |
-| 172 | 10% | 57% | Median |
-| 173 | 10% | 48% |  |
-| 174 | 9% | 38% |  |
-| 175 | 8% | 29% |  |
-| 176 | 6% | 21% |  |
-| 177 | 5% | 15% |  |
-| 178 | 4% | 10% |  |
-| 179 | 2% | 6% |  |
-| 180 | 2% | 4% |  |
-| 181 | 0.9% | 2% |  |
-| 182 | 0.5% | 1.1% | Last Result |
-| 183 | 0.3% | 0.5% |  |
-| 184 | 0.1% | 0.3% |  |
-| 185 | 0.1% | 0.1% |  |
-| 186 | 0% | 0% |  |
+| 161 | 0.2% | 99.9% |  |
+| 162 | 0.4% | 99.7% |  |
+| 163 | 0.6% | 99.3% |  |
+| 164 | 1.1% | 98.7% |  |
+| 165 | 2% | 98% |  |
+| 166 | 3% | 96% |  |
+| 167 | 4% | 93% |  |
+| 168 | 5% | 90% |  |
+| 169 | 6% | 85% |  |
+| 170 | 8% | 79% |  |
+| 171 | 9% | 71% |  |
+| 172 | 10% | 63% |  |
+| 173 | 10% | 53% | Median |
+| 174 | 10% | 43% |  |
+| 175 | 9% | 34% |  |
+| 176 | 7% | 25% |  |
+| 177 | 6% | 18% |  |
+| 178 | 4% | 12% |  |
+| 179 | 3% | 8% |  |
+| 180 | 2% | 5% |  |
+| 181 | 1.2% | 3% |  |
+| 182 | 0.7% | 1.5% | Last Result |
+| 183 | 0.4% | 0.8% |  |
+| 184 | 0.2% | 0.4% |  |
+| 185 | 0.1% | 0.2% |  |
+| 186 | 0% | 0.1% |  |
+| 187 | 0% | 0% |  |
 
 
