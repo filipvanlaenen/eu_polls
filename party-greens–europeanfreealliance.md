@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Scottish National Party | GB-GBN | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–3 |
 | Die PARTEI | DE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -47,7 +47,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Plaid Cymru | GB-GBN | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -60,22 +60,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.2% | 100% |  |
+| 54 | 0.3% | 100% |  |
 | 55 | 0.9% | 99.7% |  |
 | 56 | 2% | 98.8% |  |
-| 57 | 5% | 97% |  |
-| 58 | 7% | 92% |  |
-| 59 | 10% | 85% |  |
-| 60 | 11% | 75% |  |
-| 61 | 12% | 64% |  |
-| 62 | 12% | 53% | Median |
-| 63 | 12% | 40% |  |
-| 64 | 11% | 28% |  |
-| 65 | 8% | 16% |  |
-| 66 | 5% | 8% |  |
+| 57 | 5% | 96% |  |
+| 58 | 8% | 92% |  |
+| 59 | 10% | 84% |  |
+| 60 | 11% | 74% |  |
+| 61 | 12% | 63% |  |
+| 62 | 12% | 51% | Median |
+| 63 | 13% | 39% |  |
+| 64 | 11% | 26% |  |
+| 65 | 8% | 15% |  |
+| 66 | 5% | 7% |  |
 | 67 | 2% | 3% |  |
-| 68 | 0.7% | 0.9% |  |
-| 69 | 0.2% | 0.2% |  |
+| 68 | 0.6% | 0.8% |  |
+| 69 | 0.1% | 0.2% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
