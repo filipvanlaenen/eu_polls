@@ -28,7 +28,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Laisvės partija [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -49,11 +49,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 5% | 70% |  |
-| 2 | 43% | 65% | Median |
-| 3 | 21% | 22% |  |
-| 4 | 1.4% | 1.4% |  |
+| 0 | 31% | 100% | Last Result |
+| 1 | 4% | 69% |  |
+| 2 | 44% | 65% | Median |
+| 3 | 20% | 21% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 

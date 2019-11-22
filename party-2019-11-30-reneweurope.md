@@ -18,12 +18,12 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 106 | 103–110 | 102–111 | 101–112 | 99–114 |
+| Renew Europe | EU | 108 | 106 | 102–109 | 101–110 | 100–111 | 99–113 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Freie Demokratische Partei | DE | | 6 | 6–8 | 6–8 | 6–9 | 5–9 |
-| Liberal Democrats | GB-GBN | | 6 | 5–8 | 4–8 | 4–9 | 4–11 |
+| Freie Demokratische Partei | DE | | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| Liberal Democrats | GB-GBN | | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Italia Viva | IT | | 5 | 4–6 | 3–6 | 3–6 | 0–6 |
@@ -38,13 +38,13 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -78,26 +78,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 97 | 0.1% | 100% |  |
-| 98 | 0.2% | 99.9% |  |
-| 99 | 0.5% | 99.7% |  |
-| 100 | 1.1% | 99.2% |  |
-| 101 | 2% | 98% |  |
-| 102 | 4% | 96% |  |
-| 103 | 7% | 92% |  |
-| 104 | 10% | 85% |  |
-| 105 | 13% | 75% |  |
-| 106 | 14% | 62% | Median |
-| 107 | 14% | 48% |  |
-| 108 | 12% | 35% | Last Result |
-| 109 | 9% | 23% |  |
-| 110 | 6% | 13% |  |
-| 111 | 4% | 7% |  |
-| 112 | 2% | 3% |  |
-| 113 | 0.9% | 1.5% |  |
-| 114 | 0.4% | 0.6% |  |
-| 115 | 0.1% | 0.2% |  |
-| 116 | 0% | 0.1% |  |
-| 117 | 0% | 0% |  |
+| 96 | 0% | 100% |  |
+| 97 | 0.1% | 99.9% |  |
+| 98 | 0.3% | 99.8% |  |
+| 99 | 0.7% | 99.5% |  |
+| 100 | 2% | 98.9% |  |
+| 101 | 3% | 97% |  |
+| 102 | 5% | 94% |  |
+| 103 | 8% | 89% |  |
+| 104 | 11% | 81% |  |
+| 105 | 14% | 69% |  |
+| 106 | 14% | 55% | Median |
+| 107 | 13% | 41% |  |
+| 108 | 11% | 27% | Last Result |
+| 109 | 8% | 17% |  |
+| 110 | 5% | 9% |  |
+| 111 | 2% | 4% |  |
+| 112 | 1.2% | 2% |  |
+| 113 | 0.5% | 0.7% |  |
+| 114 | 0.2% | 0.3% |  |
+| 115 | 0.1% | 0.1% |  |
+| 116 | 0% | 0% |  |
 
 
