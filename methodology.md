@@ -49,11 +49,11 @@ values is 3 × 0 = 0, which is less than 1.
 Opinion polls usually only give data on a national level. Unless there is only
 one, national electoral district, these data have to be translated to the local
 electoral districts one way or the other. The model used to produce the numbers
-on these pages is a variant of the so-called uniform regional swing, which means
+on these pages is a variant of the so-called uniform national swing, which means
 that it projects the national tendencies onto the local electorale districts
 without any adjustments.
 
-### Multiplicative Uniform Regional Swing
+### Proportional National Swing
 
 Assume that a party had a voting share of 20 percent at the last election,
 but that an opinion poll shows that the voting intentions for the party have
@@ -61,7 +61,7 @@ risen to 22 percent. One way to project this change onto the local electoral
 districts, is to take the last election result in every electoral district, and
 simply add the national change to each of them. This means that if the party
 scored 25 percent in a particular district, the new score used to calculate the
-number of seats in that district will be 25 + 2 = 27. If the party had voting
+number of seats in that district will be 25 + 2 = 27. If the party had a voting
 share of only 15 percent, the new score would be 15 + 2 = 17 percent.
 
 This model works fine for parties increasing their result, and parties with a
@@ -69,12 +69,12 @@ modest to large vote share across all electoral district. However, for small
 parties losing votes, the model can result into negative numbers in the
 electoral districts where it performed poorely during the last election. Just
 imagine a party going from 8 to 5 percent nationally, but with a local score
-of only 2 percent in one of the electoral districts. The uniform regional
-swing mode described above would project the party at 2 - 3 = -1 percent in
+of only 2 percent in one of the electoral districts. The uniform national
+swing model described above would project the party at 2 - 3 = -1 percent in
 that district.
 
 As an alternative, the model used on these pages projects the national results
-onto the local districts in a multiplicative way. That means that when a party
+onto the local districts in a proportional way. That means that when a party
 increases from 20 to 22 percent, the model doesn't add 2 percent to the party's
 voting share in every district, but *multiplies* the local results with a factor
 of 22 / 20 = 1.1. In the example mentioned above, this would put the party in
@@ -83,25 +83,25 @@ district where it scored only 15 percent at 16.5 percent. For the party losing
 votes, the factor would be 5 / 8 = 0.625, thus projecting the party in the
 district where it score 2 percent last time at 1.25 percent.
 
-Is multiplicative uniform regional swing more correct than additive uniform
-regional swing? Hard to say. Multiplicative uniform regional swing will make
-parties swing more in electoral districts where they had a high score at the
-last election. For parties gaining support, that may be incorrect, if they are
-gaining more national support because they're mainly getting more support in
-those districts where they performed less during the last election. But it's
-easy to produce counterexamples where a multiplicative approach will be more
-correct than the additive.
+Is proportional national swing more correct than uniform national swing? Hard to
+say. Proportional national swing will make parties swing more in electoral
+districts where they had a high score at the last election. For parties gaining
+support, that may be incorrect, if they are gaining more national support
+because they're mainly getting more support in those districts where they
+performed less during the last election. But it's easy to produce
+counterexamples where a multiplicative approach will be more correct than the
+additive.
 
-As a general rule, using multiplicative or additive uniform regional swing
-should not make much of a difference for seat projections on the national
-level. Overestimations in one electoral districts will often be compensated by
-underestimations in other electoral districts, such that the overall result
-will be more or less correct. Remember that in the end, a party gaining support
-on a national level may very well be losing votes in some parts of the country.
-The projection of the national results onto the local electoral districts
-should therefore not be used to predict local results, but only as a way to
-calculate national seat projections. If you want to know how a party is doing
-locally, the best way to find out about this is to run a local opinion poll.
+As a general rule, using proportional or uniform national swing shouldn't make
+much of a difference for seat projections on the national level. Overestimations
+in one electoral districts will often be compensated by underestimations in
+other electoral districts, such that the overall result will be more or less
+correct. Remember that in the end, a party gaining support on a national level
+may very well be losing votes in some parts of the country. The projection of
+the national results onto the local electoral districts should therefore not be
+used to predict local results, but only as a way to calculate national seat
+projections. If you want to know how a party is doing locally, the best way to
+find out about this is to run a local opinion poll.
 
 ### Regional Data
 
