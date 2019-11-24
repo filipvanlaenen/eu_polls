@@ -18,9 +18,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–4 | 0–4 | 0–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 1 | 1 | 0–1 |
+| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -39,7 +39,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
+| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -49,13 +49,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 29% | 99.8% |  |
-| 2 | 6% | 71% |  |
-| 3 | 42% | 65% | Median |
-| 4 | 21% | 23% |  |
-| 5 | 2% | 2% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 28% | 97% |  |
+| 2 | 8% | 69% |  |
+| 3 | 41% | 61% | Median |
+| 4 | 19% | 20% |  |
+| 5 | 1.1% | 1.1% |  |
+| 6 | 0% | 0% |  |
 
 

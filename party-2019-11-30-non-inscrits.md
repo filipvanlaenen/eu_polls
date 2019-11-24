@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **22** seats (-34 seats)
+Current median: **21** seats (-35 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 22 | 19–27 | 18–29 | 17–30 | 16–33 |
+| Non-Inscrits | EU | 56 | 21 | 19–28 | 18–30 | 17–31 | 16–33 |
 | Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Brexit Party | GB-GBN | | 0 | 0–6 | 0–7 | 0–8 | 0–9 |
+| Brexit Party | GB-GBN | | 0 | 0–7 | 0–8 | 0–9 | 0–9 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -36,7 +36,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
-| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -48,26 +48,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.4% | 99.9% |  |
-| 17 | 2% | 99.5% |  |
-| 18 | 6% | 97% |  |
-| 19 | 11% | 92% |  |
-| 20 | 14% | 81% |  |
-| 21 | 14% | 66% |  |
-| 22 | 12% | 52% | Median |
-| 23 | 10% | 40% |  |
-| 24 | 7% | 30% |  |
-| 25 | 6% | 23% |  |
-| 26 | 4% | 17% |  |
-| 27 | 4% | 13% |  |
-| 28 | 3% | 9% |  |
-| 29 | 2% | 6% |  |
-| 30 | 2% | 4% |  |
-| 31 | 1.0% | 2% |  |
-| 32 | 0.6% | 1.2% |  |
-| 33 | 0.3% | 0.6% |  |
-| 34 | 0.2% | 0.3% |  |
-| 35 | 0.1% | 0.1% |  |
+| 16 | 0.5% | 99.9% |  |
+| 17 | 2% | 99.4% |  |
+| 18 | 7% | 97% |  |
+| 19 | 12% | 90% |  |
+| 20 | 15% | 79% |  |
+| 21 | 14% | 63% | Median |
+| 22 | 11% | 49% |  |
+| 23 | 8% | 38% |  |
+| 24 | 6% | 30% |  |
+| 25 | 4% | 24% |  |
+| 26 | 4% | 20% |  |
+| 27 | 4% | 16% |  |
+| 28 | 4% | 12% |  |
+| 29 | 3% | 8% |  |
+| 30 | 2% | 6% |  |
+| 31 | 2% | 3% |  |
+| 32 | 0.9% | 2% |  |
+| 33 | 0.5% | 0.9% |  |
+| 34 | 0.2% | 0.4% |  |
+| 35 | 0.1% | 0.2% |  |
 | 36 | 0% | 0% |  |
 | 37 | 0% | 0% |  |
 | 38 | 0% | 0% |  |
