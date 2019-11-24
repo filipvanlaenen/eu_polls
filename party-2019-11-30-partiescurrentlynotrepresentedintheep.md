@@ -8,18 +8,19 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 25 May 2014)
 
-Current median: **2** seats (+2 seats)
+Current median: **3** seats (+3 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> RO
+> LT, RO
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -28,7 +29,6 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -49,11 +49,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 4% | 69% |  |
-| 2 | 44% | 65% | Median |
-| 3 | 20% | 21% |  |
-| 4 | 1.0% | 1.0% |  |
-| 5 | 0% | 0% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 29% | 99.8% |  |
+| 2 | 6% | 71% |  |
+| 3 | 42% | 65% | Median |
+| 4 | 21% | 23% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
