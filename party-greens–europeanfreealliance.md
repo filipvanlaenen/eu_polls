@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 61 | 58–65 | 57–65 | 56–66 | 55–67 |
+| Greens–European Free Alliance | EU | 75 | 61 | 58–64 | 57–65 | 56–66 | 55–67 |
 | Bündnis 90/Die Grünen | DE | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Česká pirátská strana | CZ | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
@@ -28,12 +28,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Coalició Compromís | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Scottish National Party | GB-GBN | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Scottish National Party | GB-GBN | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Plaid Cymru | GB-GBN | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,6 +47,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Plaid Cymru | GB-GBN | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 53 | 0.1% | 100% |  |
-| 54 | 0.3% | 99.9% |  |
-| 55 | 0.9% | 99.7% |  |
-| 56 | 2% | 98.8% |  |
+| 54 | 0.4% | 99.9% |  |
+| 55 | 1.1% | 99.5% |  |
+| 56 | 3% | 98% |  |
 | 57 | 5% | 96% |  |
 | 58 | 8% | 91% |  |
-| 59 | 11% | 83% |  |
-| 60 | 13% | 72% |  |
-| 61 | 14% | 59% | Median |
-| 62 | 13% | 45% |  |
-| 63 | 12% | 32% |  |
-| 64 | 9% | 20% |  |
-| 65 | 6% | 11% |  |
-| 66 | 3% | 5% |  |
-| 67 | 1.2% | 2% |  |
-| 68 | 0.3% | 0.4% |  |
+| 59 | 11% | 82% |  |
+| 60 | 13% | 71% |  |
+| 61 | 14% | 57% | Median |
+| 62 | 14% | 43% |  |
+| 63 | 12% | 29% |  |
+| 64 | 9% | 18% |  |
+| 65 | 5% | 9% |  |
+| 66 | 3% | 4% |  |
+| 67 | 0.9% | 1.3% |  |
+| 68 | 0.3% | 0.3% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
