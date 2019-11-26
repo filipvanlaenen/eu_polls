@@ -18,14 +18,15 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 46 | 43–49 | 42–50 | 42–50 | 40–52 |
-| Die Linke | DE | | 9 | 7–10 | 7–11 | 7–11 | 7–12 |
+| European United Left–Nordic Green Left | EU | 41 | 46 | 44–49 | 43–50 | 42–51 | 41–52 |
+| Die Linke | DE | | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | Unidos Podemos | ES | | 7 | 6–8 | 4–8 | 4–9 | 4–9 |
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2 | 2 | 2 | 2 |
 | Sinn Féin | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -35,7 +36,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -56,20 +56,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.5% | 99.8% |  |
-| 41 | 1.3% | 99.4% | Last Result |
-| 42 | 3% | 98% |  |
-| 43 | 7% | 95% |  |
-| 44 | 11% | 88% |  |
-| 45 | 16% | 77% |  |
-| 46 | 18% | 61% | Median |
-| 47 | 16% | 43% |  |
-| 48 | 13% | 27% |  |
-| 49 | 8% | 14% |  |
-| 50 | 4% | 6% |  |
-| 51 | 2% | 2% |  |
-| 52 | 0.5% | 0.7% |  |
-| 53 | 0.1% | 0.2% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 1.0% | 99.6% | Last Result |
+| 42 | 3% | 98.6% |  |
+| 43 | 6% | 96% |  |
+| 44 | 10% | 90% |  |
+| 45 | 15% | 80% |  |
+| 46 | 18% | 66% | Median |
+| 47 | 17% | 48% |  |
+| 48 | 14% | 30% |  |
+| 49 | 9% | 17% |  |
+| 50 | 5% | 7% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.6% | 0.8% |  |
+| 53 | 0.2% | 0.2% |  |
 | 54 | 0% | 0% |  |
 
 
