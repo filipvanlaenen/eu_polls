@@ -8,31 +8,31 @@ Members registered from **13 countries**:
 
 Last result: **56** seats (General Election of 25 May 2014)
 
-Current median: **21** seats (-35 seats)
+Current median: **22** seats (-34 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> GB, GR, HR, HU, IT, SK
+> ES, GB, GR, HR, HU, IT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 21 | 18–26 | 18–28 | 17–30 | 16–32 |
-| Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
-| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Non-Inscrits | EU | 56 | 22 | 19–26 | 19–29 | 18–30 | 17–33 |
+| Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
+| Jobbik | HU | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
+| Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Brexit Party | GB-GBN | | 0 | 0 | 0–7 | 0–8 | 0–9 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -47,27 +47,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.6% | 99.9% |  |
-| 17 | 3% | 99.3% |  |
-| 18 | 8% | 97% |  |
-| 19 | 14% | 89% |  |
-| 20 | 17% | 75% |  |
-| 21 | 16% | 58% | Median |
-| 22 | 12% | 42% |  |
-| 23 | 9% | 30% |  |
-| 24 | 6% | 21% |  |
-| 25 | 4% | 14% |  |
-| 26 | 3% | 10% |  |
-| 27 | 2% | 8% |  |
-| 28 | 2% | 6% |  |
-| 29 | 1.4% | 4% |  |
-| 30 | 1.0% | 3% |  |
-| 31 | 0.7% | 2% |  |
-| 32 | 0.4% | 0.8% |  |
-| 33 | 0.2% | 0.4% |  |
-| 34 | 0.1% | 0.2% |  |
-| 35 | 0% | 0.1% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 3% | 99.4% |  |
+| 19 | 8% | 97% |  |
+| 20 | 16% | 88% |  |
+| 21 | 20% | 72% |  |
+| 22 | 16% | 53% | Median |
+| 23 | 11% | 37% |  |
+| 24 | 8% | 26% |  |
+| 25 | 5% | 18% |  |
+| 26 | 3% | 12% |  |
+| 27 | 2% | 9% |  |
+| 28 | 2% | 7% |  |
+| 29 | 2% | 5% |  |
+| 30 | 1.3% | 3% |  |
+| 31 | 0.9% | 2% |  |
+| 32 | 0.6% | 1.2% |  |
+| 33 | 0.3% | 0.6% |  |
+| 34 | 0.2% | 0.3% |  |
+| 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 | 37 | 0% | 0% |  |
 | 38 | 0% | 0% |  |
