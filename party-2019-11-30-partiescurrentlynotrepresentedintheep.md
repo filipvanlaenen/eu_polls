@@ -8,19 +8,18 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 25 May 2014)
 
-Current median: **3** seats (+3 seats)
+Current median: **2** seats (+2 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
-> LT, RO
+> LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–4 | 0–4 | 0–5 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 2 | 1–3 | 1–3 | 1–4 | 0–5 |
+| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -33,11 +32,12 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Mouvement des gilets jaunes [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Partia Razem [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
 
@@ -49,12 +49,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 28% | 97% |  |
-| 2 | 8% | 69% |  |
-| 3 | 42% | 61% | Median |
-| 4 | 18% | 19% |  |
-| 5 | 0.7% | 0.7% |  |
-| 6 | 0% | 0% |  |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 47% | 98.6% |  |
+| 2 | 33% | 51% | Median |
+| 3 | 13% | 18% |  |
+| 4 | 4% | 5% |  |
+| 5 | 0.5% | 0.6% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 

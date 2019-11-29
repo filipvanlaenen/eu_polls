@@ -24,7 +24,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 1 | 1 | 1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Brexit Party | GB-GBN | | 0 | 0 | 0–7 | 0–8 | 0–9 |
 | KORWiN | PL | | 0 | 0 | 0 | 0 | 0–3 |
@@ -50,13 +50,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.3% | 100% |  |
 | 18 | 2% | 99.7% |  |
 | 19 | 6% | 98% |  |
-| 20 | 12% | 92% |  |
-| 21 | 18% | 80% |  |
-| 22 | 18% | 62% | Median |
-| 23 | 13% | 44% |  |
-| 24 | 9% | 31% |  |
-| 25 | 7% | 22% |  |
-| 26 | 4% | 15% |  |
+| 20 | 13% | 92% |  |
+| 21 | 19% | 79% |  |
+| 22 | 18% | 60% | Median |
+| 23 | 12% | 42% |  |
+| 24 | 9% | 30% |  |
+| 25 | 6% | 21% |  |
+| 26 | 4% | 14% |  |
 | 27 | 3% | 11% |  |
 | 28 | 2% | 8% |  |
 | 29 | 2% | 6% |  |
