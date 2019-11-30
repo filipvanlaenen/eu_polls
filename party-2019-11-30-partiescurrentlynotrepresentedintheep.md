@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 25 May 2014)
 
-Current median: **1** seats (+1 seats)
+Current median: **2** seats (+2 seats)
 
 At least one member in **1 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 2 | 2–4 | 2–4 | 2–5 | 1–6 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -49,12 +49,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 67% | 99.5% | Median |
-| 2 | 23% | 33% |  |
-| 3 | 8% | 9% |  |
-| 4 | 1.1% | 1.3% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0.9% | 100% |  |
+| 2 | 62% | 99.1% | Median |
+| 3 | 23% | 37% |  |
+| 4 | 11% | 14% |  |
+| 5 | 2% | 3% |  |
+| 6 | 0.6% | 0.6% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
