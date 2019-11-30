@@ -18,19 +18,20 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 107 | 102–112 | 101–113 | 100–115 | 98–117 |
+| Renew Europe | EU | 108 | 107 | 103–112 | 102–114 | 101–115 | 98–118 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| ANO 2011 | CZ | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| Alianța 2020 USR-PLUS | RO | | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
+| ANO 2011 | CZ | | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
+| Alianța 2020 USR-PLUS | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Liberal Democrats | GB-GBN | | 6 | 5–11 | 5–13 | 4–13 | 4–14 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 3–5 |
+| Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
 | Italia Viva | IT | | 4 | 3–5 | 0–6 | 0–6 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Lista Marjana Šarca | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,17 +42,15 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Alliance Party of Northern Ireland | GB-NIR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
-| Aliança | PT | | 0 | 0 | 0 | 0 | 0 |
 | Change UK | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -61,7 +60,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -79,32 +78,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 95 | 0% | 100% |  |
-| 96 | 0.1% | 99.9% |  |
-| 97 | 0.3% | 99.8% |  |
-| 98 | 0.5% | 99.6% |  |
-| 99 | 1.0% | 99.1% |  |
-| 100 | 2% | 98% |  |
-| 101 | 3% | 96% |  |
-| 102 | 5% | 93% |  |
-| 103 | 7% | 89% |  |
-| 104 | 9% | 82% |  |
-| 105 | 10% | 73% |  |
-| 106 | 11% | 63% |  |
-| 107 | 11% | 51% | Median |
-| 108 | 10% | 40% | Last Result |
-| 109 | 8% | 31% |  |
-| 110 | 7% | 22% |  |
-| 111 | 5% | 16% |  |
-| 112 | 4% | 11% |  |
-| 113 | 3% | 7% |  |
-| 114 | 2% | 5% |  |
-| 115 | 1.2% | 3% |  |
-| 116 | 0.8% | 2% |  |
-| 117 | 0.4% | 0.9% |  |
-| 118 | 0.2% | 0.5% |  |
-| 119 | 0.1% | 0.2% |  |
+| 96 | 0.1% | 100% |  |
+| 97 | 0.1% | 99.9% |  |
+| 98 | 0.3% | 99.8% |  |
+| 99 | 0.6% | 99.4% |  |
+| 100 | 1.2% | 98.8% |  |
+| 101 | 2% | 98% |  |
+| 102 | 3% | 96% |  |
+| 103 | 5% | 92% |  |
+| 104 | 7% | 87% |  |
+| 105 | 9% | 79% |  |
+| 106 | 11% | 70% |  |
+| 107 | 11% | 59% | Median |
+| 108 | 11% | 48% | Last Result |
+| 109 | 10% | 37% |  |
+| 110 | 8% | 28% |  |
+| 111 | 6% | 20% |  |
+| 112 | 4% | 14% |  |
+| 113 | 3% | 9% |  |
+| 114 | 2% | 6% |  |
+| 115 | 2% | 4% |  |
+| 116 | 1.0% | 2% |  |
+| 117 | 0.6% | 1.3% |  |
+| 118 | 0.3% | 0.7% |  |
+| 119 | 0.2% | 0.3% |  |
 | 120 | 0.1% | 0.1% |  |
-| 121 | 0% | 0% |  |
+| 121 | 0% | 0.1% |  |
+| 122 | 0% | 0% |  |
 
 

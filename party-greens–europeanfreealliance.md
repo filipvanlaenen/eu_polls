@@ -21,20 +21,21 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 75 | 59 | 55–62 | 54–63 | 53–64 | 52–65 |
 | Bündnis 90/Die Grünen | DE | | 20 | 17–22 | 17–22 | 16–23 | 16–24 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
-| Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Česká pirátská strana | CZ | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Scottish National Party | GB-GBN | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -42,16 +43,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Plaid Cymru | GB-GBN | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -63,23 +63,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.1% | 100% |  |
-| 51 | 0.3% | 99.9% |  |
-| 52 | 0.8% | 99.7% |  |
-| 53 | 2% | 98.9% |  |
+| 51 | 0.2% | 99.9% |  |
+| 52 | 0.7% | 99.7% |  |
+| 53 | 2% | 99.0% |  |
 | 54 | 4% | 97% |  |
 | 55 | 7% | 93% |  |
-| 56 | 10% | 86% |  |
-| 57 | 12% | 76% |  |
-| 58 | 13% | 64% |  |
-| 59 | 13% | 51% | Median |
-| 60 | 13% | 38% |  |
-| 61 | 11% | 25% |  |
-| 62 | 8% | 15% |  |
-| 63 | 4% | 7% |  |
-| 64 | 2% | 3% |  |
-| 65 | 0.7% | 0.9% |  |
-| 66 | 0.2% | 0.2% |  |
-| 67 | 0% | 0.1% |  |
+| 56 | 10% | 87% |  |
+| 57 | 12% | 77% |  |
+| 58 | 13% | 65% |  |
+| 59 | 13% | 52% | Median |
+| 60 | 12% | 39% |  |
+| 61 | 10% | 27% |  |
+| 62 | 8% | 17% |  |
+| 63 | 5% | 9% |  |
+| 64 | 2% | 4% |  |
+| 65 | 1.0% | 1.5% |  |
+| 66 | 0.3% | 0.5% |  |
+| 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |
 | 70 | 0% | 0% |  |
