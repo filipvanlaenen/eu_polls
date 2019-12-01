@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **172** seats (-10 seats)
+Current median: **173** seats (-9 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 172 | 168–177 | 166–179 | 165–180 | 163–183 |
+| European People’s Party | EU | 182 | 173 | 168–178 | 167–179 | 166–181 | 163–183 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
-| Partido Popular | ES | | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
+| Partido Popular | ES | | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
 | Partidul Național Liberal | RO | | 11 | 10–15 | 10–15 | 9–15 | 9–16 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
@@ -35,7 +35,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Koalicja Polska | PL | | 4 | 3–5 | 2–5 | 2–5 | 0–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -44,7 +44,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Za ľudí | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| 50Plus | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | CDS–Partido Popular | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -81,31 +81,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 161 | 0.1% | 100% |  |
-| 162 | 0.2% | 99.9% |  |
-| 163 | 0.4% | 99.7% |  |
-| 164 | 0.7% | 99.4% |  |
-| 165 | 1.4% | 98.6% |  |
-| 166 | 2% | 97% |  |
-| 167 | 4% | 95% |  |
-| 168 | 5% | 91% |  |
-| 169 | 7% | 86% |  |
-| 170 | 9% | 79% |  |
-| 171 | 10% | 70% |  |
-| 172 | 11% | 60% | Median |
-| 173 | 10% | 49% |  |
-| 174 | 10% | 39% |  |
-| 175 | 8% | 29% |  |
-| 176 | 7% | 21% |  |
-| 177 | 5% | 15% |  |
-| 178 | 4% | 9% |  |
-| 179 | 2% | 6% |  |
-| 180 | 2% | 4% |  |
-| 181 | 0.9% | 2% |  |
-| 182 | 0.5% | 1.1% | Last Result |
-| 183 | 0.3% | 0.5% |  |
-| 184 | 0.1% | 0.3% |  |
-| 185 | 0.1% | 0.1% |  |
-| 186 | 0% | 0.1% |  |
+| 162 | 0.1% | 99.9% |  |
+| 163 | 0.3% | 99.8% |  |
+| 164 | 0.6% | 99.4% |  |
+| 165 | 1.2% | 98.8% |  |
+| 166 | 2% | 98% |  |
+| 167 | 3% | 96% |  |
+| 168 | 5% | 92% |  |
+| 169 | 6% | 88% |  |
+| 170 | 8% | 81% |  |
+| 171 | 9% | 73% |  |
+| 172 | 10% | 64% |  |
+| 173 | 10% | 54% | Median |
+| 174 | 10% | 44% |  |
+| 175 | 9% | 34% |  |
+| 176 | 7% | 25% |  |
+| 177 | 6% | 18% |  |
+| 178 | 4% | 12% |  |
+| 179 | 3% | 8% |  |
+| 180 | 2% | 5% |  |
+| 181 | 1.3% | 3% |  |
+| 182 | 0.8% | 2% | Last Result |
+| 183 | 0.4% | 0.9% |  |
+| 184 | 0.2% | 0.4% |  |
+| 185 | 0.1% | 0.2% |  |
+| 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0% |  |
 
 
