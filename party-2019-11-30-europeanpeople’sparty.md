@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 25 May 2014)
 
-Current median: **173** seats (-9 seats)
+Current median: **174** seats (-8 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 173 | 168–178 | 167–179 | 166–181 | 163–183 |
+| European People’s Party | EU | 182 | 174 | 169–179 | 168–181 | 166–182 | 164–185 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| Partido Popular | ES | | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
-| Partido Popular | ES | | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
 | Partidul Național Liberal | RO | | 11 | 10–15 | 10–15 | 9–15 | 9–16 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Les Républicains | FR | | 8 | 8 | 8 | 8 | 8 |
@@ -80,32 +80,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0.1% | 100% |  |
+| 161 | 0% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
-| 163 | 0.3% | 99.8% |  |
-| 164 | 0.6% | 99.4% |  |
-| 165 | 1.2% | 98.8% |  |
-| 166 | 2% | 98% |  |
-| 167 | 3% | 96% |  |
-| 168 | 5% | 92% |  |
-| 169 | 6% | 88% |  |
-| 170 | 8% | 81% |  |
-| 171 | 9% | 73% |  |
-| 172 | 10% | 64% |  |
-| 173 | 10% | 54% | Median |
-| 174 | 10% | 44% |  |
-| 175 | 9% | 34% |  |
-| 176 | 7% | 25% |  |
-| 177 | 6% | 18% |  |
-| 178 | 4% | 12% |  |
-| 179 | 3% | 8% |  |
-| 180 | 2% | 5% |  |
-| 181 | 1.3% | 3% |  |
-| 182 | 0.8% | 2% | Last Result |
-| 183 | 0.4% | 0.9% |  |
-| 184 | 0.2% | 0.4% |  |
-| 185 | 0.1% | 0.2% |  |
-| 186 | 0.1% | 0.1% |  |
-| 187 | 0% | 0% |  |
+| 163 | 0.2% | 99.9% |  |
+| 164 | 0.4% | 99.7% |  |
+| 165 | 0.7% | 99.3% |  |
+| 166 | 1.3% | 98.6% |  |
+| 167 | 2% | 97% |  |
+| 168 | 3% | 95% |  |
+| 169 | 5% | 92% |  |
+| 170 | 6% | 87% |  |
+| 171 | 8% | 81% |  |
+| 172 | 9% | 74% |  |
+| 173 | 10% | 65% |  |
+| 174 | 10% | 55% | Median |
+| 175 | 10% | 45% |  |
+| 176 | 9% | 35% |  |
+| 177 | 7% | 26% |  |
+| 178 | 6% | 19% |  |
+| 179 | 4% | 13% |  |
+| 180 | 3% | 9% |  |
+| 181 | 2% | 5% |  |
+| 182 | 1.4% | 3% | Last Result |
+| 183 | 0.8% | 2% |  |
+| 184 | 0.5% | 1.0% |  |
+| 185 | 0.3% | 0.5% |  |
+| 186 | 0.1% | 0.3% |  |
+| 187 | 0.1% | 0.1% |  |
+| 188 | 0% | 0.1% |  |
+| 189 | 0% | 0% |  |
 
 
