@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 59 | 55–62 | 55–63 | 54–64 | 53–66 |
+| Greens–European Free Alliance | EU | 75 | 59 | 55–62 | 55–63 | 54–64 | 53–65 |
 | Bündnis 90/Die Grünen | DE | | 20 | 17–22 | 17–23 | 17–23 | 16–24 |
 | Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Scottish National Party | GB-GBN | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Scottish National Party | GB-GBN | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -63,18 +63,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 51 | 0.1% | 100% |  |
-| 52 | 0.4% | 99.9% |  |
-| 53 | 1.2% | 99.6% |  |
+| 52 | 0.3% | 99.9% |  |
+| 53 | 1.1% | 99.6% |  |
 | 54 | 3% | 98% |  |
 | 55 | 6% | 95% |  |
 | 56 | 10% | 89% |  |
 | 57 | 12% | 80% |  |
 | 58 | 13% | 68% |  |
-| 59 | 13% | 55% | Median |
-| 60 | 13% | 42% |  |
+| 59 | 13% | 54% | Median |
+| 60 | 13% | 41% |  |
 | 61 | 11% | 29% |  |
 | 62 | 8% | 18% |  |
-| 63 | 5% | 10% |  |
+| 63 | 5% | 9% |  |
 | 64 | 3% | 4% |  |
 | 65 | 1.1% | 2% |  |
 | 66 | 0.4% | 0.5% |  |
