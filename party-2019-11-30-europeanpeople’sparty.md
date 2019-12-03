@@ -18,9 +18,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 174 | 169–179 | 168–181 | 166–182 | 164–185 |
+| European People’s Party | EU | 182 | 174 | 169–179 | 167–181 | 166–182 | 163–185 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
-| Koalicja Obywatelska | PL | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| Koalicja Obywatelska | PL | | 13 | 11–15 | 10–15 | 9–16 | 8–17 |
 | Partido Popular | ES | | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | Partidul Național Liberal | RO | | 11 | 10–15 | 10–15 | 9–15 | 9–16 |
@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Koalicja Polska | PL | | 4 | 3–5 | 2–5 | 2–5 | 0–5 |
+| Koalicja Polska | PL | | 4 | 3–5 | 2–6 | 2–7 | 0–7 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -54,7 +54,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -80,26 +80,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
-| 163 | 0.2% | 99.9% |  |
-| 164 | 0.4% | 99.7% |  |
-| 165 | 0.7% | 99.3% |  |
-| 166 | 1.3% | 98.6% |  |
-| 167 | 2% | 97% |  |
-| 168 | 3% | 95% |  |
-| 169 | 5% | 92% |  |
-| 170 | 6% | 87% |  |
-| 171 | 8% | 81% |  |
-| 172 | 9% | 74% |  |
-| 173 | 10% | 65% |  |
-| 174 | 10% | 55% | Median |
-| 175 | 10% | 45% |  |
-| 176 | 9% | 35% |  |
-| 177 | 7% | 26% |  |
-| 178 | 6% | 19% |  |
+| 160 | 0% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.2% | 99.9% |  |
+| 163 | 0.3% | 99.7% |  |
+| 164 | 0.6% | 99.4% |  |
+| 165 | 1.0% | 98.8% |  |
+| 166 | 2% | 98% |  |
+| 167 | 2% | 96% |  |
+| 168 | 4% | 94% |  |
+| 169 | 5% | 90% |  |
+| 170 | 6% | 85% |  |
+| 171 | 8% | 79% |  |
+| 172 | 9% | 71% |  |
+| 173 | 10% | 62% |  |
+| 174 | 10% | 53% | Median |
+| 175 | 9% | 43% |  |
+| 176 | 8% | 34% |  |
+| 177 | 7% | 25% |  |
+| 178 | 6% | 18% |  |
 | 179 | 4% | 13% |  |
-| 180 | 3% | 9% |  |
+| 180 | 3% | 8% |  |
 | 181 | 2% | 5% |  |
 | 182 | 1.4% | 3% | Last Result |
 | 183 | 0.8% | 2% |  |

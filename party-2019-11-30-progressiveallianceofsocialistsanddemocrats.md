@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **155** seats (+1 seats)
+Current median: **156** seats (+2 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 155 | 149–160 | 148–161 | 146–163 | 144–165 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 156 | 150–161 | 148–162 | 147–164 | 144–166 |
 | Labour Party | GB-GBN | | 26 | 22–27 | 21–28 | 20–28 | 19–30 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
 | Partito Democratico | IT | | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–17 | 11–17 | 11–17 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Partidul Social Democrat | RO | | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
-| Lewica | PL | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| Lewica | PL | | 7 | 6–10 | 6–10 | 5–10 | 4–12 |
 | Българска социалистическа партия | BG | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Parti socialiste | FR | | 5 | 5 | 5 | 5 | 5 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -46,7 +46,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Progresīvie | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -66,33 +66,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0.1% | 100% |  |
+| 141 | 0% | 100% |  |
 | 142 | 0.1% | 99.9% |  |
 | 143 | 0.2% | 99.8% |  |
-| 144 | 0.4% | 99.5% |  |
-| 145 | 0.7% | 99.1% |  |
-| 146 | 1.1% | 98% |  |
-| 147 | 2% | 97% |  |
-| 148 | 2% | 96% |  |
-| 149 | 3% | 93% |  |
-| 150 | 5% | 90% |  |
-| 151 | 6% | 85% |  |
-| 152 | 7% | 79% |  |
-| 153 | 9% | 72% |  |
-| 154 | 9% | 63% | Last Result |
-| 155 | 10% | 54% | Median |
-| 156 | 10% | 44% |  |
-| 157 | 9% | 34% |  |
-| 158 | 8% | 26% |  |
-| 159 | 6% | 18% |  |
-| 160 | 4% | 12% |  |
-| 161 | 3% | 8% |  |
-| 162 | 2% | 5% |  |
-| 163 | 1.2% | 3% |  |
-| 164 | 0.7% | 1.3% |  |
-| 165 | 0.3% | 0.6% |  |
-| 166 | 0.2% | 0.3% |  |
-| 167 | 0.1% | 0.1% |  |
-| 168 | 0% | 0% |  |
+| 144 | 0.3% | 99.7% |  |
+| 145 | 0.5% | 99.4% |  |
+| 146 | 0.8% | 98.9% |  |
+| 147 | 1.3% | 98% |  |
+| 148 | 2% | 97% |  |
+| 149 | 3% | 95% |  |
+| 150 | 4% | 92% |  |
+| 151 | 5% | 89% |  |
+| 152 | 6% | 84% |  |
+| 153 | 7% | 77% |  |
+| 154 | 9% | 70% | Last Result |
+| 155 | 9% | 61% |  |
+| 156 | 10% | 52% | Median |
+| 157 | 9% | 42% |  |
+| 158 | 8% | 33% |  |
+| 159 | 7% | 25% |  |
+| 160 | 6% | 18% |  |
+| 161 | 4% | 12% |  |
+| 162 | 3% | 8% |  |
+| 163 | 2% | 5% |  |
+| 164 | 1.2% | 3% |  |
+| 165 | 0.7% | 1.5% |  |
+| 166 | 0.4% | 0.8% |  |
+| 167 | 0.2% | 0.4% |  |
+| 168 | 0.1% | 0.2% |  |
+| 169 | 0% | 0.1% |  |
+| 170 | 0% | 0% |  |
 
 
