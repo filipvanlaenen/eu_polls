@@ -10,16 +10,16 @@ Last result: **62** seats (General Election of 25 May 2014)
 
 Current median: **93** seats (+31 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, GB, GR, HR, IT, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, GB, GR, IT, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 93 | 88–97 | 86–99 | 85–100 | 82–103 |
-| Conservative Party | GB-GBN | | 36 | 32–38 | 30–39 | 29–39 | 28–40 |
+| European Conservatives and Reformists | EU | 62 | 93 | 88–97 | 86–98 | 85–99 | 82–102 |
+| Conservative Party | GB-GBN | | 36 | 32–37 | 30–38 | 29–38 | 28–39 |
 | Zjednoczona Prawica | PL | | 21 | 20–24 | 19–25 | 19–26 | 18–28 |
 | Vox | ES | | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
 | Fratelli d’Italia | IT | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
@@ -27,7 +27,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -38,10 +37,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Chega | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Hrvatska konzervativna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Обединени Патриоти | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,33 +70,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 0% | 100% |  |
 | 78 | 0% | 100% |  |
 | 79 | 0% | 100% |  |
-| 80 | 0.1% | 100% |  |
-| 81 | 0.2% | 99.9% |  |
-| 82 | 0.3% | 99.7% |  |
-| 83 | 0.6% | 99.4% |  |
-| 84 | 0.9% | 98.8% |  |
-| 85 | 1.3% | 98% |  |
-| 86 | 2% | 97% |  |
-| 87 | 3% | 95% |  |
-| 88 | 4% | 92% |  |
-| 89 | 5% | 88% |  |
-| 90 | 7% | 83% |  |
-| 91 | 9% | 75% |  |
-| 92 | 11% | 66% |  |
-| 93 | 11% | 55% | Median |
-| 94 | 11% | 44% |  |
-| 95 | 10% | 33% |  |
-| 96 | 8% | 23% |  |
-| 97 | 6% | 16% |  |
-| 98 | 4% | 10% |  |
-| 99 | 3% | 6% |  |
-| 100 | 2% | 3% |  |
-| 101 | 0.9% | 2% |  |
-| 102 | 0.5% | 1.0% |  |
-| 103 | 0.3% | 0.5% |  |
-| 104 | 0.1% | 0.3% |  |
-| 105 | 0.1% | 0.1% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 80 | 0.1% | 99.9% |  |
+| 81 | 0.2% | 99.8% |  |
+| 82 | 0.4% | 99.6% |  |
+| 83 | 0.7% | 99.2% |  |
+| 84 | 1.0% | 98.5% |  |
+| 85 | 1.5% | 98% |  |
+| 86 | 2% | 96% |  |
+| 87 | 3% | 94% |  |
+| 88 | 4% | 91% |  |
+| 89 | 6% | 86% |  |
+| 90 | 8% | 80% |  |
+| 91 | 10% | 72% |  |
+| 92 | 12% | 62% |  |
+| 93 | 12% | 50% | Median |
+| 94 | 11% | 38% |  |
+| 95 | 9% | 28% |  |
+| 96 | 7% | 19% |  |
+| 97 | 5% | 12% |  |
+| 98 | 3% | 7% |  |
+| 99 | 2% | 4% |  |
+| 100 | 1.0% | 2% |  |
+| 101 | 0.5% | 1.1% |  |
+| 102 | 0.3% | 0.5% |  |
+| 103 | 0.1% | 0.3% |  |
+| 104 | 0.1% | 0.1% |  |
+| 105 | 0% | 0.1% |  |
+| 106 | 0% | 0% |  |
 
 
