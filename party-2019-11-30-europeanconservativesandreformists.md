@@ -10,23 +10,24 @@ Last result: **62** seats (General Election of 25 May 2014)
 
 Current median: **93** seats (+31 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, GB, GR, IT, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, GB, GR, IT, LV, NL, PL, PT, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 93 | 88–97 | 86–98 | 85–99 | 82–102 |
+| European Conservatives and Reformists | EU | 62 | 93 | 88–97 | 86–99 | 85–100 | 82–101 |
 | Conservative Party | GB-GBN | | 36 | 32–37 | 30–38 | 29–38 | 28–39 |
-| Zjednoczona Prawica | PL | | 21 | 20–24 | 19–25 | 19–26 | 18–28 |
+| Zjednoczona Prawica | PL | | 22 | 19–24 | 18–24 | 18–25 | 17–25 |
 | Vox | ES | | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
 | Fratelli d’Italia | IT | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Sverigedemokraterna | SE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| Chega | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -34,7 +35,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Chega | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu apvienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -69,33 +69,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0% | 100% |  |
 | 77 | 0% | 100% |  |
 | 78 | 0% | 100% |  |
-| 79 | 0% | 100% |  |
+| 79 | 0.1% | 100% |  |
 | 80 | 0.1% | 99.9% |  |
 | 81 | 0.2% | 99.8% |  |
 | 82 | 0.4% | 99.6% |  |
-| 83 | 0.7% | 99.2% |  |
-| 84 | 1.0% | 98.5% |  |
-| 85 | 1.5% | 98% |  |
+| 83 | 0.6% | 99.2% |  |
+| 84 | 0.9% | 98.7% |  |
+| 85 | 1.4% | 98% |  |
 | 86 | 2% | 96% |  |
 | 87 | 3% | 94% |  |
 | 88 | 4% | 91% |  |
-| 89 | 6% | 86% |  |
-| 90 | 8% | 80% |  |
-| 91 | 10% | 72% |  |
-| 92 | 12% | 62% |  |
-| 93 | 12% | 50% | Median |
-| 94 | 11% | 38% |  |
-| 95 | 9% | 28% |  |
-| 96 | 7% | 19% |  |
-| 97 | 5% | 12% |  |
-| 98 | 3% | 7% |  |
-| 99 | 2% | 4% |  |
-| 100 | 1.0% | 2% |  |
-| 101 | 0.5% | 1.1% |  |
+| 89 | 6% | 87% |  |
+| 90 | 7% | 82% |  |
+| 91 | 9% | 75% |  |
+| 92 | 10% | 66% |  |
+| 93 | 11% | 56% | Median |
+| 94 | 11% | 45% |  |
+| 95 | 10% | 34% |  |
+| 96 | 8% | 24% |  |
+| 97 | 6% | 16% |  |
+| 98 | 4% | 10% |  |
+| 99 | 3% | 5% |  |
+| 100 | 1.5% | 3% |  |
+| 101 | 0.7% | 1.2% |  |
 | 102 | 0.3% | 0.5% |  |
-| 103 | 0.1% | 0.3% |  |
-| 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0.1% |  |
-| 106 | 0% | 0% |  |
+| 103 | 0.1% | 0.2% |  |
+| 104 | 0% | 0.1% |  |
+| 105 | 0% | 0% |  |
 
 
