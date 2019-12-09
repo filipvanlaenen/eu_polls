@@ -18,8 +18,8 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 25 | 22–29 | 21–32 | 21–33 | 19–36 |
-| Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
+| Non-Inscrits | EU | 56 | 25 | 22–29 | 22–32 | 21–33 | 20–36 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 3 | 2–6 | 2–6 | 0–7 | 0–7 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -36,7 +36,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
-| Χρυσή Αυγή | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -48,23 +48,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 0.4% | 99.8% |  |
-| 20 | 1.3% | 99.4% |  |
-| 21 | 4% | 98% |  |
-| 22 | 8% | 94% |  |
-| 23 | 14% | 86% |  |
-| 24 | 18% | 72% |  |
-| 25 | 16% | 54% | Median |
+| 19 | 0.3% | 99.9% |  |
+| 20 | 1.1% | 99.6% |  |
+| 21 | 3% | 98% |  |
+| 22 | 7% | 96% |  |
+| 23 | 14% | 88% |  |
+| 24 | 19% | 74% |  |
+| 25 | 17% | 55% | Median |
 | 26 | 12% | 38% |  |
-| 27 | 8% | 25% |  |
+| 27 | 9% | 26% |  |
 | 28 | 5% | 17% |  |
 | 29 | 3% | 12% |  |
 | 30 | 2% | 9% |  |
 | 31 | 2% | 7% |  |
 | 32 | 2% | 5% |  |
-| 33 | 1.3% | 4% |  |
+| 33 | 1.4% | 4% |  |
 | 34 | 1.0% | 2% |  |
-| 35 | 0.6% | 1.2% |  |
+| 35 | 0.6% | 1.3% |  |
 | 36 | 0.4% | 0.6% |  |
 | 37 | 0.2% | 0.3% |  |
 | 38 | 0.1% | 0.1% |  |

@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 154 | 149–159 | 148–161 | 146–162 | 143–164 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 154 | 149–159 | 147–160 | 146–162 | 143–164 |
 | Labour Party | GB-GBN | | 26 | 22–27 | 21–28 | 20–28 | 19–30 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
-| Partito Democratico | IT | | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
+| Partito Democratico | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | Partidul Social Democrat | RO | | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
@@ -40,11 +40,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Progresīvie | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,6 +54,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Social Democrats | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
@@ -66,34 +66,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0% | 100% |  |
+| 140 | 0.1% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
-| 142 | 0.1% | 99.9% |  |
-| 143 | 0.3% | 99.7% |  |
-| 144 | 0.5% | 99.4% |  |
-| 145 | 0.8% | 99.0% |  |
-| 146 | 1.2% | 98% |  |
-| 147 | 2% | 97% |  |
-| 148 | 3% | 95% |  |
-| 149 | 4% | 92% |  |
-| 150 | 5% | 89% |  |
-| 151 | 7% | 83% |  |
-| 152 | 8% | 77% |  |
-| 153 | 9% | 69% |  |
-| 154 | 10% | 59% | Last Result, Median |
-| 155 | 10% | 50% |  |
-| 156 | 9% | 40% |  |
-| 157 | 8% | 30% |  |
-| 158 | 7% | 22% |  |
-| 159 | 5% | 15% |  |
-| 160 | 4% | 10% |  |
-| 161 | 3% | 6% |  |
-| 162 | 2% | 3% |  |
-| 163 | 0.9% | 2% |  |
-| 164 | 0.5% | 0.9% |  |
-| 165 | 0.3% | 0.5% |  |
-| 166 | 0.1% | 0.2% |  |
-| 167 | 0.1% | 0.1% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.3% | 99.6% |  |
+| 144 | 0.6% | 99.3% |  |
+| 145 | 0.9% | 98.7% |  |
+| 146 | 1.5% | 98% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
+| 149 | 4% | 91% |  |
+| 150 | 6% | 86% |  |
+| 151 | 7% | 81% |  |
+| 152 | 9% | 73% |  |
+| 153 | 10% | 65% |  |
+| 154 | 10% | 55% | Last Result, Median |
+| 155 | 10% | 45% |  |
+| 156 | 9% | 35% |  |
+| 157 | 8% | 26% |  |
+| 158 | 6% | 18% |  |
+| 159 | 5% | 12% |  |
+| 160 | 3% | 8% |  |
+| 161 | 2% | 5% |  |
+| 162 | 1.2% | 3% |  |
+| 163 | 0.7% | 1.4% |  |
+| 164 | 0.4% | 0.7% |  |
+| 165 | 0.2% | 0.3% |  |
+| 166 | 0.1% | 0.1% |  |
+| 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
 
 

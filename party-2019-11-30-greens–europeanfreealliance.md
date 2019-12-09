@@ -42,7 +42,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,20 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.1% | 100% |  |
-| 53 | 0.4% | 99.9% |  |
-| 54 | 1.3% | 99.4% |  |
-| 55 | 3% | 98% |  |
-| 56 | 6% | 95% |  |
-| 57 | 11% | 89% |  |
-| 58 | 15% | 78% |  |
-| 59 | 17% | 63% | Median |
-| 60 | 16% | 46% |  |
-| 61 | 13% | 30% |  |
-| 62 | 9% | 17% |  |
-| 63 | 5% | 8% |  |
+| 53 | 0.5% | 99.8% |  |
+| 54 | 1.5% | 99.4% |  |
+| 55 | 4% | 98% |  |
+| 56 | 7% | 94% |  |
+| 57 | 11% | 87% |  |
+| 58 | 15% | 76% |  |
+| 59 | 18% | 61% | Median |
+| 60 | 16% | 43% |  |
+| 61 | 12% | 27% |  |
+| 62 | 8% | 15% |  |
+| 63 | 4% | 7% |  |
 | 64 | 2% | 3% |  |
-| 65 | 0.8% | 1.3% |  |
-| 66 | 0.3% | 0.4% |  |
+| 65 | 0.7% | 1.0% |  |
+| 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |
