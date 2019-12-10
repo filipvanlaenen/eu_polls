@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 105 | 101–109 | 100–110 | 98–111 | 96–113 |
+| Renew Europe | EU | 108 | 105 | 101–109 | 100–110 | 99–111 | 96–113 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -32,7 +32,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -81,14 +81,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 0.3% | 99.8% |  |
 | 97 | 0.7% | 99.5% |  |
 | 98 | 1.3% | 98.8% |  |
-| 99 | 2% | 97% |  |
+| 99 | 2% | 98% |  |
 | 100 | 4% | 95% |  |
-| 101 | 6% | 91% |  |
-| 102 | 9% | 85% |  |
+| 101 | 6% | 92% |  |
+| 102 | 9% | 86% |  |
 | 103 | 11% | 77% |  |
-| 104 | 13% | 65% |  |
+| 104 | 13% | 66% |  |
 | 105 | 13% | 53% | Median |
-| 106 | 12% | 39% |  |
+| 106 | 12% | 40% |  |
 | 107 | 10% | 27% |  |
 | 108 | 7% | 17% | Last Result |
 | 109 | 5% | 10% |  |
