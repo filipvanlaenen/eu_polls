@@ -21,8 +21,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 154 | 154 | 149–159 | 147–160 | 146–162 | 143–164 |
 | Labour Party | GB-GBN | | 26 | 22–27 | 21–28 | 20–28 | 19–30 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
-| Partito Democratico | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
+| Partito Democratico | IT | | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | Partidul Social Democrat | RO | | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Lewica | PL | | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
@@ -52,7 +52,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Génération·s, le mouvement | FR | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Progresīvie | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democratic and Labour Party | GB-NIR | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -66,26 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0.1% | 100% |  |
+| 140 | 0% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
 | 142 | 0.2% | 99.8% |  |
-| 143 | 0.3% | 99.6% |  |
-| 144 | 0.6% | 99.3% |  |
-| 145 | 0.9% | 98.7% |  |
-| 146 | 1.5% | 98% |  |
-| 147 | 2% | 96% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.5% | 99.3% |  |
+| 145 | 0.9% | 98.8% |  |
+| 146 | 1.4% | 98% |  |
+| 147 | 2% | 97% |  |
 | 148 | 3% | 94% |  |
 | 149 | 4% | 91% |  |
-| 150 | 6% | 86% |  |
+| 150 | 6% | 87% |  |
 | 151 | 7% | 81% |  |
-| 152 | 9% | 73% |  |
-| 153 | 10% | 65% |  |
-| 154 | 10% | 55% | Last Result, Median |
-| 155 | 10% | 45% |  |
-| 156 | 9% | 35% |  |
-| 157 | 8% | 26% |  |
+| 152 | 9% | 74% |  |
+| 153 | 10% | 66% |  |
+| 154 | 10% | 56% | Last Result, Median |
+| 155 | 10% | 46% |  |
+| 156 | 9% | 36% |  |
+| 157 | 8% | 27% |  |
 | 158 | 6% | 19% |  |
-| 159 | 5% | 12% |  |
+| 159 | 5% | 13% |  |
 | 160 | 3% | 8% |  |
 | 161 | 2% | 5% |  |
 | 162 | 1.2% | 3% |  |

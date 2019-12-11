@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 105 | 101–109 | 100–110 | 99–111 | 96–113 |
+| Renew Europe | EU | 108 | 105 | 101–108 | 100–110 | 99–111 | 96–113 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -27,7 +27,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4–5 |
-| Italia Viva | IT | | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
+| Italia Viva | IT | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,20 +83,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 1.3% | 98.8% |  |
 | 99 | 2% | 98% |  |
 | 100 | 4% | 95% |  |
-| 101 | 6% | 92% |  |
-| 102 | 9% | 86% |  |
-| 103 | 11% | 77% |  |
-| 104 | 13% | 66% |  |
-| 105 | 13% | 53% | Median |
-| 106 | 12% | 40% |  |
-| 107 | 10% | 27% |  |
-| 108 | 7% | 17% | Last Result |
-| 109 | 5% | 10% |  |
-| 110 | 3% | 6% |  |
-| 111 | 1.5% | 3% |  |
-| 112 | 0.7% | 1.3% |  |
-| 113 | 0.3% | 0.6% |  |
-| 114 | 0.2% | 0.3% |  |
+| 101 | 6% | 91% |  |
+| 102 | 9% | 85% |  |
+| 103 | 11% | 76% |  |
+| 104 | 13% | 65% |  |
+| 105 | 13% | 52% | Median |
+| 106 | 12% | 38% |  |
+| 107 | 10% | 26% |  |
+| 108 | 7% | 16% | Last Result |
+| 109 | 4% | 10% |  |
+| 110 | 3% | 5% |  |
+| 111 | 1.3% | 3% |  |
+| 112 | 0.7% | 1.2% |  |
+| 113 | 0.3% | 0.5% |  |
+| 114 | 0.1% | 0.2% |  |
 | 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0% |  |
 

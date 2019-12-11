@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 174 | 169–180 | 167–181 | 166–183 | 164–185 |
+| European People’s Party | EU | 182 | 174 | 169–180 | 168–181 | 166–183 | 164–185 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
 | Partido Popular | ES | | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
@@ -40,6 +40,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
+| Kristdemokraterna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Za ľudí | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -51,7 +52,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā Vienotība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -80,34 +80,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0.1% | 100% |  |
+| 161 | 0% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
 | 163 | 0.2% | 99.8% |  |
-| 164 | 0.5% | 99.6% |  |
-| 165 | 0.8% | 99.1% |  |
-| 166 | 1.4% | 98% |  |
+| 164 | 0.4% | 99.6% |  |
+| 165 | 0.7% | 99.2% |  |
+| 166 | 1.3% | 98% |  |
 | 167 | 2% | 97% |  |
 | 168 | 3% | 95% |  |
 | 169 | 4% | 92% |  |
-| 170 | 6% | 87% |  |
-| 171 | 7% | 81% |  |
-| 172 | 8% | 74% |  |
-| 173 | 9% | 66% |  |
-| 174 | 9% | 57% | Median |
-| 175 | 9% | 47% |  |
-| 176 | 9% | 38% |  |
-| 177 | 8% | 29% |  |
-| 178 | 6% | 22% |  |
-| 179 | 5% | 16% |  |
-| 180 | 4% | 11% |  |
-| 181 | 3% | 7% |  |
-| 182 | 2% | 4% | Last Result |
-| 183 | 1.1% | 3% |  |
-| 184 | 0.7% | 1.4% |  |
-| 185 | 0.4% | 0.8% |  |
-| 186 | 0.2% | 0.4% |  |
+| 170 | 6% | 88% |  |
+| 171 | 7% | 82% |  |
+| 172 | 8% | 76% |  |
+| 173 | 9% | 67% |  |
+| 174 | 9% | 58% | Median |
+| 175 | 9% | 49% |  |
+| 176 | 9% | 40% |  |
+| 177 | 8% | 31% |  |
+| 178 | 7% | 23% |  |
+| 179 | 5% | 17% |  |
+| 180 | 4% | 12% |  |
+| 181 | 3% | 8% |  |
+| 182 | 2% | 5% | Last Result |
+| 183 | 1.2% | 3% |  |
+| 184 | 0.8% | 2% |  |
+| 185 | 0.4% | 0.9% |  |
+| 186 | 0.2% | 0.5% |  |
 | 187 | 0.1% | 0.2% |  |
-| 188 | 0% | 0.1% |  |
+| 188 | 0.1% | 0.1% |  |
 | 189 | 0% | 0% |  |
 
 
