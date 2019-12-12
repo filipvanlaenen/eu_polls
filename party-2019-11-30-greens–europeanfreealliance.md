@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -62,20 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.2% | 100% |  |
-| 53 | 0.6% | 99.8% |  |
-| 54 | 2% | 99.2% |  |
+| 53 | 0.7% | 99.8% |  |
+| 54 | 2% | 99.1% |  |
 | 55 | 4% | 97% |  |
 | 56 | 8% | 93% |  |
 | 57 | 12% | 85% |  |
 | 58 | 16% | 73% |  |
-| 59 | 18% | 57% | Median |
-| 60 | 16% | 39% |  |
-| 61 | 11% | 24% |  |
+| 59 | 18% | 56% | Median |
+| 60 | 15% | 39% |  |
+| 61 | 11% | 23% |  |
 | 62 | 7% | 12% |  |
 | 63 | 3% | 6% |  |
-| 64 | 1.5% | 2% |  |
+| 64 | 1.4% | 2% |  |
 | 65 | 0.5% | 0.8% |  |
-| 66 | 0.2% | 0.3% |  |
+| 66 | 0.2% | 0.2% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |
