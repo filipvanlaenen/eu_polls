@@ -38,7 +38,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
+| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -52,7 +52,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 49% | 84% | Median |
 | 2 | 23% | 35% |  |
 | 3 | 10% | 12% |  |
-| 4 | 1.5% | 2% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0.3% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
