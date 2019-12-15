@@ -31,6 +31,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,10 +44,9 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -78,19 +78,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 94 | 0.1% | 100% |  |
 | 95 | 0.2% | 99.9% |  |
-| 96 | 0.4% | 99.7% |  |
+| 96 | 0.3% | 99.8% |  |
 | 97 | 0.7% | 99.4% |  |
-| 98 | 1.4% | 98.6% |  |
+| 98 | 1.4% | 98.7% |  |
 | 99 | 3% | 97% |  |
 | 100 | 4% | 95% |  |
-| 101 | 7% | 90% |  |
+| 101 | 7% | 91% |  |
 | 102 | 9% | 84% |  |
-| 103 | 12% | 74% |  |
-| 104 | 13% | 62% | Median |
-| 105 | 13% | 49% |  |
-| 106 | 12% | 36% |  |
-| 107 | 9% | 24% |  |
-| 108 | 6% | 15% | Last Result |
+| 103 | 12% | 75% |  |
+| 104 | 13% | 63% | Median |
+| 105 | 13% | 50% |  |
+| 106 | 12% | 37% |  |
+| 107 | 9% | 25% |  |
+| 108 | 7% | 15% | Last Result |
 | 109 | 4% | 9% |  |
 | 110 | 2% | 5% |  |
 | 111 | 1.2% | 2% |  |
