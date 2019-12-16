@@ -43,7 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā Partija “Saskaņa” | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -83,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 10% | 61% | Last Result |
 | 155 | 10% | 51% | Median |
 | 156 | 10% | 41% |  |
-| 157 | 9% | 31% |  |
+| 157 | 9% | 32% |  |
 | 158 | 7% | 23% |  |
 | 159 | 6% | 16% |  |
 | 160 | 4% | 10% |  |
