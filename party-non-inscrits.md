@@ -21,7 +21,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Non-Inscrits | EU | 56 | 24 | 22–29 | 21–31 | 20–33 | 19–35 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 3 | 2–6 | 2–6 | 0–7 | 0–7 |
-| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nezavisna lista Mislava Kolakušića | HR | | 1 | 1 | 1 | 1 | 1 |
@@ -47,15 +47,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.2% | 100% |  |
-| 19 | 0.6% | 99.8% |  |
-| 20 | 2% | 99.1% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0.2% | 99.9% |  |
+| 19 | 0.7% | 99.7% |  |
+| 20 | 2% | 99.0% |  |
 | 21 | 5% | 97% |  |
-| 22 | 10% | 92% |  |
-| 23 | 16% | 82% |  |
-| 24 | 18% | 66% | Median |
-| 25 | 15% | 48% |  |
-| 26 | 11% | 33% |  |
+| 22 | 11% | 92% |  |
+| 23 | 16% | 81% |  |
+| 24 | 18% | 65% | Median |
+| 25 | 15% | 47% |  |
+| 26 | 11% | 32% |  |
 | 27 | 7% | 22% |  |
 | 28 | 4% | 15% |  |
 | 29 | 3% | 11% |  |
