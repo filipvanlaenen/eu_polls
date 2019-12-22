@@ -18,9 +18,9 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 103 | 99–107 | 98–108 | 97–109 | 95–111 |
+| Renew Europe | EU | 108 | 103 | 99–106 | 98–108 | 97–109 | 95–111 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
-| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
+| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Alianța 2020 USR-PLUS | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Liberal Democrats | GB-GBN | | 6 | 5–8 | 5–8 | 4–9 | 4–12 |
@@ -33,7 +33,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
@@ -44,6 +43,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -76,28 +76,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0.1% | 100% |  |
-| 94 | 0.2% | 99.9% |  |
-| 95 | 0.5% | 99.7% |  |
-| 96 | 0.9% | 99.2% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0.1% | 99.9% |  |
+| 94 | 0.3% | 99.8% |  |
+| 95 | 0.6% | 99.6% |  |
+| 96 | 1.1% | 99.0% |  |
 | 97 | 2% | 98% |  |
-| 98 | 3% | 96% |  |
-| 99 | 5% | 93% |  |
-| 100 | 8% | 88% |  |
-| 101 | 11% | 80% |  |
-| 102 | 13% | 70% |  |
-| 103 | 14% | 57% | Median |
-| 104 | 13% | 43% |  |
-| 105 | 11% | 30% |  |
-| 106 | 8% | 20% |  |
-| 107 | 5% | 12% |  |
-| 108 | 3% | 6% | Last Result |
-| 109 | 2% | 3% |  |
-| 110 | 0.9% | 2% |  |
-| 111 | 0.4% | 0.7% |  |
-| 112 | 0.2% | 0.3% |  |
+| 98 | 4% | 96% |  |
+| 99 | 6% | 92% |  |
+| 100 | 9% | 86% |  |
+| 101 | 11% | 78% |  |
+| 102 | 13% | 67% |  |
+| 103 | 14% | 53% | Median |
+| 104 | 12% | 40% |  |
+| 105 | 10% | 27% |  |
+| 106 | 7% | 17% |  |
+| 107 | 5% | 10% |  |
+| 108 | 3% | 5% | Last Result |
+| 109 | 1.4% | 3% |  |
+| 110 | 0.7% | 1.3% |  |
+| 111 | 0.3% | 0.6% |  |
+| 112 | 0.1% | 0.2% |  |
 | 113 | 0.1% | 0.1% |  |
-| 114 | 0% | 0.1% |  |
-| 115 | 0% | 0% |  |
+| 114 | 0% | 0% |  |
 
 
