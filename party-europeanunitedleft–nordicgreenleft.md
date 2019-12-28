@@ -24,7 +24,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 6 | 6 | 6 | 6 | 6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Sinn Féin | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
+| Sinn Féin | IE | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -37,7 +37,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -45,6 +44,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
+| déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -56,18 +56,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% | Last Result |
-| 42 | 0.4% | 99.9% |  |
-| 43 | 2% | 99.5% |  |
-| 44 | 4% | 98% |  |
-| 45 | 9% | 94% |  |
-| 46 | 15% | 85% |  |
-| 47 | 19% | 70% |  |
-| 48 | 19% | 52% | Median |
+| 42 | 0.5% | 99.9% |  |
+| 43 | 2% | 99.3% |  |
+| 44 | 5% | 98% |  |
+| 45 | 9% | 93% |  |
+| 46 | 14% | 84% |  |
+| 47 | 18% | 70% |  |
+| 48 | 19% | 51% | Median |
 | 49 | 15% | 33% |  |
-| 50 | 10% | 17% |  |
+| 50 | 10% | 18% |  |
 | 51 | 5% | 8% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.6% | 0.7% |  |
+| 53 | 0.6% | 0.8% |  |
 | 54 | 0.1% | 0.2% |  |
 | 55 | 0% | 0% |  |
 
