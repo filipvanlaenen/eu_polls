@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 154 | 149–159 | 147–160 | 146–161 | 143–164 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 154 | 148–159 | 147–160 | 145–161 | 143–164 |
 | Labour Party | GB-GBN | | 26 | 22–27 | 21–28 | 20–28 | 19–30 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
 | Partito Democratico | IT | | 14 | 12–15 | 12–16 | 12–17 | 11–18 |
@@ -35,7 +35,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | PRO România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -43,7 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -71,26 +71,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 0.1% | 99.9% |  |
 | 142 | 0.2% | 99.8% |  |
 | 143 | 0.4% | 99.6% |  |
-| 144 | 0.6% | 99.2% |  |
-| 145 | 1.0% | 98.6% |  |
-| 146 | 2% | 98% |  |
+| 144 | 0.7% | 99.2% |  |
+| 145 | 1.1% | 98.5% |  |
+| 146 | 2% | 97% |  |
 | 147 | 2% | 96% |  |
-| 148 | 3% | 94% |  |
+| 148 | 4% | 93% |  |
 | 149 | 5% | 90% |  |
 | 150 | 6% | 85% |  |
-| 151 | 8% | 79% |  |
+| 151 | 8% | 78% |  |
 | 152 | 9% | 71% |  |
-| 153 | 10% | 62% |  |
-| 154 | 10% | 52% | Last Result, Median |
-| 155 | 10% | 42% |  |
+| 153 | 10% | 61% |  |
+| 154 | 10% | 51% | Last Result, Median |
+| 155 | 10% | 41% |  |
 | 156 | 9% | 32% |  |
-| 157 | 7% | 24% |  |
+| 157 | 7% | 23% |  |
 | 158 | 6% | 16% |  |
-| 159 | 4% | 11% |  |
-| 160 | 3% | 7% |  |
+| 159 | 4% | 10% |  |
+| 160 | 3% | 6% |  |
 | 161 | 2% | 4% |  |
 | 162 | 1.0% | 2% |  |
-| 163 | 0.6% | 1.1% |  |
+| 163 | 0.5% | 1.0% |  |
 | 164 | 0.3% | 0.5% |  |
 | 165 | 0.1% | 0.2% |  |
 | 166 | 0.1% | 0.1% |  |

@@ -18,12 +18,12 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 103 | 99–107 | 98–108 | 97–109 | 95–111 |
+| Renew Europe | EU | 108 | 103 | 99–107 | 98–108 | 97–109 | 94–111 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 21 | 21 | 21 | 21 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Alianța 2020 USR-PLUS | RO | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Liberal Democrats | GB-GBN | | 6 | 5–8 | 5–8 | 4–9 | 4–12 |
+| Liberal Democrats | GB-GBN | | 6 | 5–8 | 5–9 | 4–9 | 4–12 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 3–4 | 3–5 |
@@ -32,13 +32,13 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alliance Party of Northern Ireland | GB-NIR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -76,26 +76,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 92 | 0% | 100% |  |
+| 92 | 0.1% | 100% |  |
 | 93 | 0.1% | 99.9% |  |
 | 94 | 0.3% | 99.8% |  |
-| 95 | 0.6% | 99.6% |  |
-| 96 | 1.1% | 99.0% |  |
+| 95 | 0.6% | 99.5% |  |
+| 96 | 1.2% | 98.9% |  |
 | 97 | 2% | 98% |  |
-| 98 | 4% | 96% |  |
+| 98 | 4% | 95% |  |
 | 99 | 6% | 92% |  |
-| 100 | 8% | 87% |  |
-| 101 | 11% | 78% |  |
-| 102 | 13% | 67% |  |
-| 103 | 13% | 54% | Median |
-| 104 | 12% | 41% |  |
-| 105 | 10% | 29% |  |
+| 100 | 9% | 86% |  |
+| 101 | 11% | 77% |  |
+| 102 | 13% | 66% |  |
+| 103 | 13% | 53% | Median |
+| 104 | 12% | 40% |  |
+| 105 | 10% | 28% |  |
 | 106 | 7% | 18% |  |
 | 107 | 5% | 11% |  |
 | 108 | 3% | 6% | Last Result |
 | 109 | 2% | 3% |  |
-| 110 | 0.8% | 1.5% |  |
-| 111 | 0.4% | 0.7% |  |
+| 110 | 0.8% | 1.4% |  |
+| 111 | 0.4% | 0.6% |  |
 | 112 | 0.2% | 0.3% |  |
 | 113 | 0.1% | 0.1% |  |
 | 114 | 0% | 0% |  |

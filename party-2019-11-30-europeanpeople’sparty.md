@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 174 | 169–180 | 167–182 | 166–183 | 163–185 |
+| European People’s Party | EU | 182 | 174 | 169–180 | 167–181 | 166–183 | 163–185 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | Partidul Național Liberal | RO | | 14 | 10–15 | 10–16 | 9–16 | 9–16 |
 | Koalicja Obywatelska | PL | | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
@@ -44,17 +44,17 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Za ľudí | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| 50Plus | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| 50Plus | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -82,20 +82,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 161 | 0.1% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
-| 163 | 0.3% | 99.8% |  |
+| 163 | 0.3% | 99.7% |  |
 | 164 | 0.5% | 99.5% |  |
 | 165 | 0.8% | 99.0% |  |
 | 166 | 1.4% | 98% |  |
 | 167 | 2% | 97% |  |
 | 168 | 3% | 95% |  |
 | 169 | 4% | 92% |  |
-| 170 | 5% | 88% |  |
+| 170 | 5% | 87% |  |
 | 171 | 7% | 82% |  |
 | 172 | 8% | 75% |  |
-| 173 | 9% | 68% |  |
+| 173 | 9% | 67% |  |
 | 174 | 9% | 59% | Median |
-| 175 | 9% | 50% |  |
-| 176 | 9% | 41% |  |
+| 175 | 9% | 49% |  |
+| 176 | 9% | 40% |  |
 | 177 | 8% | 32% |  |
 | 178 | 7% | 24% |  |
 | 179 | 5% | 17% |  |
@@ -104,11 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 182 | 2% | 5% | Last Result |
 | 183 | 1.3% | 3% |  |
 | 184 | 0.8% | 2% |  |
-| 185 | 0.5% | 1.0% |  |
-| 186 | 0.3% | 0.5% |  |
+| 185 | 0.5% | 0.9% |  |
+| 186 | 0.2% | 0.5% |  |
 | 187 | 0.1% | 0.2% |  |
 | 188 | 0.1% | 0.1% |  |
-| 189 | 0% | 0.1% |  |
-| 190 | 0% | 0% |  |
+| 189 | 0% | 0% |  |
 
 
