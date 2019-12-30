@@ -8,21 +8,22 @@ Members registered from **18 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **97** seats (+35 seats)
+Current median: **102** seats (+40 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, GB, GR, IT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, FR, GB, GR, IT, LU, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 97 | 93–101 | 92–103 | 91–104 | 89–106 |
+| European Conservatives and Reformists | EU | 62 | 102 | 98–106 | 97–108 | 95–109 | 93–111 |
 | Conservative Party | GB-GBN | | 36 | 34–37 | 33–38 | 33–38 | 32–38 |
 | Zjednoczona Prawica | PL | | 23 | 20–26 | 20–27 | 20–27 | 19–28 |
 | Vox | ES | | 9 | 8–11 | 8–11 | 7–11 | 6–11 |
 | Fratelli d’Italia | IT | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| Debout la France | FR | | 5 | 4–5 | 4–5 | 4–6 | 0–6 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | Forum voor Democratie | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
@@ -36,7 +37,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Chega | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,28 +78,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
-| 87 | 0.1% | 100% |  |
-| 88 | 0.2% | 99.9% |  |
-| 89 | 0.4% | 99.7% |  |
-| 90 | 0.9% | 99.2% |  |
-| 91 | 2% | 98% |  |
-| 92 | 3% | 96% |  |
-| 93 | 5% | 93% |  |
-| 94 | 7% | 88% |  |
-| 95 | 10% | 81% |  |
-| 96 | 11% | 71% |  |
-| 97 | 12% | 60% | Median |
-| 98 | 12% | 47% |  |
-| 99 | 11% | 35% |  |
-| 100 | 9% | 25% |  |
-| 101 | 6% | 16% |  |
-| 102 | 4% | 10% |  |
-| 103 | 3% | 6% |  |
-| 104 | 2% | 3% |  |
-| 105 | 0.8% | 1.4% |  |
-| 106 | 0.4% | 0.6% |  |
-| 107 | 0.2% | 0.2% |  |
-| 108 | 0.1% | 0.1% |  |
-| 109 | 0% | 0% |  |
+| 87 | 0% | 100% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0.1% | 100% |  |
+| 92 | 0.2% | 99.9% |  |
+| 93 | 0.3% | 99.7% |  |
+| 94 | 0.7% | 99.4% |  |
+| 95 | 1.3% | 98.7% |  |
+| 96 | 2% | 97% |  |
+| 97 | 4% | 95% |  |
+| 98 | 6% | 92% |  |
+| 99 | 8% | 86% |  |
+| 100 | 10% | 78% |  |
+| 101 | 11% | 68% |  |
+| 102 | 12% | 57% | Median |
+| 103 | 12% | 45% |  |
+| 104 | 10% | 33% |  |
+| 105 | 8% | 23% |  |
+| 106 | 6% | 15% |  |
+| 107 | 4% | 9% |  |
+| 108 | 2% | 5% |  |
+| 109 | 1.4% | 3% |  |
+| 110 | 0.7% | 1.3% |  |
+| 111 | 0.3% | 0.6% |  |
+| 112 | 0.1% | 0.2% |  |
+| 113 | 0.1% | 0.1% |  |
+| 114 | 0% | 0% |  |
 
 

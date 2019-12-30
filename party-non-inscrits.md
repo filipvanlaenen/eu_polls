@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> BG, CY, CZ, ES, FI, FR, GB, GR, HR, HU, IT, PL, SI, SK
+> BG, CY, CZ, ES, FI, GB, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -28,7 +28,6 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Brexit Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |

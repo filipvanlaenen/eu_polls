@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **58** seats (-17 seats)
+Current median: **52** seats (-23 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 58 | 56–61 | 55–62 | 54–63 | 53–64 |
+| Greens–European Free Alliance | EU | 75 | 52 | 49–55 | 48–56 | 47–57 | 46–58 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–22 | 18–22 | 18–23 | 18–24 |
-| Europe Écologie Les Verts | FR | | 12 | 12 | 12 | 12 | 12 |
+| Europe Écologie Les Verts | FR | | 6 | 4–7 | 4–7 | 4–7 | 0–7 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -64,20 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0.2% | 100% |  |
-| 53 | 0.8% | 99.7% |  |
-| 54 | 2% | 98.9% |  |
-| 55 | 5% | 97% |  |
-| 56 | 10% | 91% |  |
-| 57 | 14% | 82% |  |
-| 58 | 18% | 67% | Median |
-| 59 | 18% | 49% |  |
-| 60 | 15% | 31% |  |
-| 61 | 9% | 17% |  |
-| 62 | 5% | 7% |  |
-| 63 | 2% | 3% |  |
-| 64 | 0.6% | 0.8% |  |
-| 65 | 0.1% | 0.2% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0.1% | 99.9% |  |
+| 45 | 0.3% | 99.8% |  |
+| 46 | 0.8% | 99.5% |  |
+| 47 | 2% | 98.8% |  |
+| 48 | 4% | 97% |  |
+| 49 | 7% | 93% |  |
+| 50 | 11% | 86% |  |
+| 51 | 14% | 75% |  |
+| 52 | 17% | 61% | Median |
+| 53 | 16% | 44% |  |
+| 54 | 13% | 29% |  |
+| 55 | 8% | 16% |  |
+| 56 | 5% | 7% |  |
+| 57 | 2% | 3% |  |
+| 58 | 0.7% | 0.9% |  |
+| 59 | 0.2% | 0.2% |  |
+| 60 | 0% | 0.1% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
+| 63 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
+| 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% |  |
