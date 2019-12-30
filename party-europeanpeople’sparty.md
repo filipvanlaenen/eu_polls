@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 173 | 168–178 | 166–180 | 165–181 | 162–184 |
+| European People’s Party | EU | 182 | 173 | 168–178 | 166–180 | 165–181 | 162–183 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | Koalicja Obywatelska | PL | | 14 | 12–16 | 11–16 | 11–16 | 11–17 |
 | Partidul Național Liberal | RO | | 14 | 10–15 | 10–15 | 9–16 | 9–16 |
@@ -26,7 +26,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Österreichische Volkspartei | AT | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| Les Républicains | FR | | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
+| Les Républicains | FR | | 7 | 6–8 | 5–8 | 5–8 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -89,22 +89,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 165 | 2% | 98% |  |
 | 166 | 2% | 96% |  |
 | 167 | 3% | 94% |  |
-| 168 | 5% | 91% |  |
+| 168 | 5% | 90% |  |
 | 169 | 6% | 86% |  |
 | 170 | 7% | 80% |  |
-| 171 | 8% | 73% |  |
-| 172 | 9% | 65% |  |
-| 173 | 9% | 55% | Median |
-| 174 | 9% | 46% |  |
-| 175 | 9% | 37% |  |
-| 176 | 8% | 28% |  |
+| 171 | 8% | 72% |  |
+| 172 | 9% | 64% |  |
+| 173 | 10% | 55% | Median |
+| 174 | 9% | 45% |  |
+| 175 | 9% | 36% |  |
+| 176 | 7% | 27% |  |
 | 177 | 6% | 20% |  |
 | 178 | 5% | 14% |  |
-| 179 | 4% | 9% |  |
+| 179 | 3% | 9% |  |
 | 180 | 2% | 6% |  |
-| 181 | 2% | 4% |  |
+| 181 | 1.5% | 3% |  |
 | 182 | 0.9% | 2% | Last Result |
-| 183 | 0.5% | 1.1% |  |
+| 183 | 0.5% | 1.0% |  |
 | 184 | 0.3% | 0.5% |  |
 | 185 | 0.1% | 0.2% |  |
 | 186 | 0.1% | 0.1% |  |
