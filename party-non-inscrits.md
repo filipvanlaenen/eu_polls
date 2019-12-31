@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **7 countries**:
 
-> BG, CY, CZ, ES, FI, GB, GR, HR, HU, IT, PL, SI, SK
+> BG, CY, CZ, EU, GR, HU, SI
 
 ## Seats
 
@@ -10,30 +10,28 @@ Last result: **56** seats (General Election of 25 May 2014)
 
 Current median: **24** seats (-32 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> ES, GB, GR, HR, HU, IT, PL, SK
+> EU, GR, HU
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 24 | 22–27 | 21–27 | 20–28 | 19–29 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
-| Konfederacja | PL | | 3 | 3–5 | 3–5 | 2–5 | 0–6 |
+| Movimento 5 Stelle | EU27 | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
+| Konfederacja | EU27 | | 3 | 3–5 | 3–5 | 2–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Nezavisna lista Mislava Kolakušića | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Kotleba–Ľudová strana Naše Slovensko | EU27 | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Nezavisna lista Mislava Kolakušića | EU27 | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | EU27 | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Brexit Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
-| Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Liike Nyt | EU27 | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
+| Živi zid | EU27 | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -48,17 +46,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
 | 19 | 0.5% | 99.8% |  |
-| 20 | 2% | 99.3% |  |
+| 20 | 2% | 99.4% |  |
 | 21 | 6% | 97% |  |
-| 22 | 12% | 91% |  |
-| 23 | 19% | 79% |  |
-| 24 | 21% | 60% | Median |
-| 25 | 18% | 40% |  |
-| 26 | 12% | 22% |  |
-| 27 | 6% | 10% |  |
+| 22 | 12% | 92% |  |
+| 23 | 18% | 80% |  |
+| 24 | 21% | 62% | Median |
+| 25 | 18% | 41% |  |
+| 26 | 12% | 23% |  |
+| 27 | 7% | 11% |  |
 | 28 | 3% | 4% |  |
-| 29 | 0.8% | 1.0% |  |
-| 30 | 0.2% | 0.2% |  |
+| 29 | 0.9% | 1.2% |  |
+| 30 | 0.2% | 0.3% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
