@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 52 | 48–55 | 48–56 | 47–57 | 45–59 |
+| European United Left–Nordic Green Left | EU | 41 | 52 | 49–55 | 48–56 | 47–57 | 46–59 |
 | La France insoumise | FR | | 9 | 8–11 | 7–11 | 7–12 | 7–13 |
 | Die Linke | DE | | 8 | 7–9 | 7–10 | 7–11 | 6–11 |
 | Unidos Podemos | ES | | 7 | 7–10 | 6–10 | 6–11 | 6–11 |
@@ -35,7 +35,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Sinn Féin | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,6 +42,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -65,12 +65,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 6% | 96% |  |
 | 49 | 9% | 90% |  |
 | 50 | 13% | 81% |  |
-| 51 | 15% | 67% |  |
+| 51 | 15% | 68% |  |
 | 52 | 15% | 52% | Median |
 | 53 | 13% | 37% |  |
 | 54 | 10% | 24% |  |
-| 55 | 6% | 14% |  |
-| 56 | 4% | 7% |  |
+| 55 | 7% | 14% |  |
+| 56 | 4% | 8% |  |
 | 57 | 2% | 4% |  |
 | 58 | 1.0% | 2% |  |
 | 59 | 0.4% | 0.6% |  |
