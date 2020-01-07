@@ -29,7 +29,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 4 | 4 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -60,13 +60,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0% | 100% |  |
+| 138 | 0.1% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
 | 140 | 0.3% | 99.8% |  |
 | 141 | 0.6% | 99.5% |  |
@@ -74,25 +74,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 2% | 98% |  |
 | 144 | 3% | 96% |  |
 | 145 | 4% | 93% |  |
-| 146 | 6% | 89% |  |
-| 147 | 8% | 83% |  |
+| 146 | 6% | 88% |  |
+| 147 | 8% | 82% |  |
 | 148 | 9% | 75% |  |
 | 149 | 10% | 66% |  |
 | 150 | 10% | 56% | Median |
 | 151 | 10% | 46% |  |
 | 152 | 9% | 36% |  |
 | 153 | 8% | 27% |  |
-| 154 | 6% | 20% | Last Result |
+| 154 | 6% | 19% | Last Result |
 | 155 | 5% | 13% |  |
-| 156 | 3% | 9% |  |
+| 156 | 3% | 8% |  |
 | 157 | 2% | 5% |  |
 | 158 | 1.4% | 3% |  |
 | 159 | 0.8% | 2% |  |
-| 160 | 0.5% | 1.0% |  |
-| 161 | 0.3% | 0.5% |  |
+| 160 | 0.5% | 0.9% |  |
+| 161 | 0.2% | 0.5% |  |
 | 162 | 0.1% | 0.2% |  |
 | 163 | 0.1% | 0.1% |  |
-| 164 | 0% | 0.1% |  |
-| 165 | 0% | 0% |  |
+| 164 | 0% | 0% |  |
 
 

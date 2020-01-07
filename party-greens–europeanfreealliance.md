@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -58,9 +58,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
