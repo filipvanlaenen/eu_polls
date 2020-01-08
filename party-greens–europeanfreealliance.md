@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -58,28 +58,27 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0% | 100% |  |
-| 43 | 0.1% | 99.9% |  |
-| 44 | 0.3% | 99.8% |  |
-| 45 | 0.8% | 99.5% |  |
-| 46 | 2% | 98.7% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.2% | 99.9% |  |
+| 45 | 0.7% | 99.6% |  |
+| 46 | 2% | 98.9% |  |
 | 47 | 4% | 97% |  |
-| 48 | 7% | 93% |  |
-| 49 | 11% | 86% |  |
-| 50 | 14% | 75% |  |
-| 51 | 16% | 61% | Median |
-| 52 | 15% | 45% |  |
-| 53 | 13% | 30% |  |
-| 54 | 9% | 17% |  |
-| 55 | 5% | 8% |  |
+| 48 | 6% | 94% |  |
+| 49 | 10% | 87% |  |
+| 50 | 14% | 77% |  |
+| 51 | 16% | 63% | Median |
+| 52 | 16% | 47% |  |
+| 53 | 13% | 31% |  |
+| 54 | 9% | 18% |  |
+| 55 | 5% | 9% |  |
 | 56 | 2% | 4% |  |
-| 57 | 0.9% | 1.2% |  |
+| 57 | 1.0% | 1.4% |  |
 | 58 | 0.3% | 0.4% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
