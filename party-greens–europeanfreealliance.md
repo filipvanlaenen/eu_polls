@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -45,7 +45,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Green Party in Northern Ireland | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -58,28 +58,29 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.1% | 100% |  |
-| 44 | 0.2% | 99.9% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0.1% | 99.9% |  |
+| 44 | 0.3% | 99.9% |  |
 | 45 | 0.7% | 99.6% |  |
-| 46 | 2% | 98.9% |  |
+| 46 | 2% | 98.8% |  |
 | 47 | 4% | 97% |  |
-| 48 | 6% | 94% |  |
+| 48 | 7% | 93% |  |
 | 49 | 10% | 87% |  |
 | 50 | 14% | 77% |  |
 | 51 | 16% | 63% | Median |
-| 52 | 16% | 47% |  |
-| 53 | 13% | 31% |  |
-| 54 | 9% | 18% |  |
-| 55 | 5% | 9% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.0% | 1.4% |  |
-| 58 | 0.3% | 0.4% |  |
+| 52 | 15% | 47% |  |
+| 53 | 13% | 32% |  |
+| 54 | 9% | 19% |  |
+| 55 | 5% | 10% |  |
+| 56 | 3% | 4% |  |
+| 57 | 1.1% | 2% |  |
+| 58 | 0.4% | 0.5% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
