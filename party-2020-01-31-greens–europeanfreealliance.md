@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **51** seats (-24 seats)
+Current median: **52** seats (-23 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 51 | 48–54 | 47–55 | 46–56 | 45–57 |
-| Bündnis 90/Die Grünen | DE | | 20 | 19–22 | 18–22 | 18–23 | 18–24 |
+| Greens–European Free Alliance | EU | 75 | 52 | 48–55 | 47–56 | 47–56 | 45–58 |
+| Bündnis 90/Die Grünen | DE | | 21 | 19–22 | 18–22 | 18–23 | 18–23 |
 | Europe Écologie Les Verts | FR | | 6 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -45,7 +45,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Green Party in Northern Ireland | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -66,21 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 43 | 0.1% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
-| 45 | 0.7% | 99.6% |  |
-| 46 | 2% | 98.9% |  |
-| 47 | 4% | 97% |  |
-| 48 | 6% | 94% |  |
-| 49 | 10% | 87% |  |
-| 50 | 14% | 77% |  |
-| 51 | 16% | 63% | Median |
-| 52 | 16% | 47% |  |
-| 53 | 13% | 31% |  |
-| 54 | 9% | 18% |  |
-| 55 | 5% | 9% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.0% | 1.4% |  |
-| 58 | 0.3% | 0.4% |  |
-| 59 | 0.1% | 0.1% |  |
+| 45 | 0.5% | 99.7% |  |
+| 46 | 1.4% | 99.1% |  |
+| 47 | 3% | 98% |  |
+| 48 | 6% | 95% |  |
+| 49 | 10% | 89% |  |
+| 50 | 13% | 79% |  |
+| 51 | 16% | 66% |  |
+| 52 | 16% | 50% | Median |
+| 53 | 14% | 35% |  |
+| 54 | 10% | 21% |  |
+| 55 | 6% | 11% |  |
+| 56 | 3% | 5% |  |
+| 57 | 1.3% | 2% |  |
+| 58 | 0.5% | 0.6% |  |
+| 59 | 0.1% | 0.2% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

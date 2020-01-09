@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 173 | 168–178 | 166–180 | 165–181 | 162–184 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| European People’s Party | EU | 182 | 173 | 168–179 | 167–180 | 165–181 | 163–184 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–23 | 18–24 |
 | Koalicja Obywatelska | PL | | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
 | Partidul Național Liberal | RO | | 14 | 10–15 | 10–15 | 9–16 | 9–16 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
@@ -27,7 +27,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Österreichische Volkspartei | AT | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | Les Républicains | FR | | 7 | 6–8 | 5–8 | 5–8 | 5–10 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -74,39 +74,38 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
-| 160 | 0.1% | 99.9% |  |
-| 161 | 0.2% | 99.9% |  |
-| 162 | 0.3% | 99.7% |  |
-| 163 | 0.6% | 99.4% |  |
-| 164 | 1.0% | 98.8% |  |
-| 165 | 2% | 98% |  |
-| 166 | 2% | 96% |  |
-| 167 | 3% | 94% |  |
-| 168 | 5% | 91% |  |
-| 169 | 6% | 86% |  |
-| 170 | 7% | 80% |  |
-| 171 | 8% | 73% |  |
-| 172 | 9% | 64% |  |
-| 173 | 9% | 55% | Median |
-| 174 | 9% | 46% |  |
-| 175 | 9% | 36% |  |
-| 176 | 8% | 28% |  |
-| 177 | 6% | 20% |  |
-| 178 | 5% | 14% |  |
-| 179 | 4% | 9% |  |
-| 180 | 2% | 6% |  |
+| 160 | 0.1% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.2% | 99.8% |  |
+| 163 | 0.4% | 99.6% |  |
+| 164 | 0.8% | 99.2% |  |
+| 165 | 1.3% | 98% |  |
+| 166 | 2% | 97% |  |
+| 167 | 3% | 95% |  |
+| 168 | 4% | 92% |  |
+| 169 | 6% | 88% |  |
+| 170 | 7% | 82% |  |
+| 171 | 8% | 75% |  |
+| 172 | 9% | 67% |  |
+| 173 | 10% | 58% | Median |
+| 174 | 10% | 48% |  |
+| 175 | 9% | 39% |  |
+| 176 | 8% | 30% |  |
+| 177 | 7% | 22% |  |
+| 178 | 5% | 15% |  |
+| 179 | 4% | 10% |  |
+| 180 | 3% | 6% |  |
 | 181 | 2% | 4% |  |
-| 182 | 0.9% | 2% | Last Result |
-| 183 | 0.5% | 1.0% |  |
-| 184 | 0.3% | 0.5% |  |
-| 185 | 0.1% | 0.2% |  |
+| 182 | 1.0% | 2% | Last Result |
+| 183 | 0.6% | 1.1% |  |
+| 184 | 0.3% | 0.6% |  |
+| 185 | 0.2% | 0.3% |  |
 | 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0% |  |
 
