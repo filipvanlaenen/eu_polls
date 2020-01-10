@@ -50,14 +50,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -84,30 +84,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.9% |  |
 | 162 | 0.3% | 99.7% |  |
-| 163 | 0.6% | 99.4% |  |
-| 164 | 1.0% | 98.8% |  |
-| 165 | 2% | 98% |  |
+| 163 | 0.5% | 99.4% |  |
+| 164 | 0.9% | 98.9% |  |
+| 165 | 1.5% | 98% |  |
 | 166 | 2% | 96% |  |
 | 167 | 3% | 94% |  |
-| 168 | 5% | 91% |  |
-| 169 | 6% | 86% |  |
-| 170 | 7% | 80% |  |
-| 171 | 8% | 73% |  |
-| 172 | 9% | 64% |  |
-| 173 | 9% | 55% | Median |
-| 174 | 9% | 46% |  |
-| 175 | 9% | 36% |  |
-| 176 | 8% | 28% |  |
-| 177 | 6% | 20% |  |
-| 178 | 5% | 14% |  |
-| 179 | 4% | 9% |  |
-| 180 | 2% | 6% |  |
+| 168 | 4% | 91% |  |
+| 169 | 6% | 87% |  |
+| 170 | 7% | 81% |  |
+| 171 | 8% | 74% |  |
+| 172 | 9% | 65% |  |
+| 173 | 9% | 56% | Median |
+| 174 | 9% | 47% |  |
+| 175 | 9% | 38% |  |
+| 176 | 8% | 29% |  |
+| 177 | 6% | 21% |  |
+| 178 | 5% | 15% |  |
+| 179 | 4% | 10% |  |
+| 180 | 3% | 6% |  |
 | 181 | 2% | 4% |  |
-| 182 | 0.9% | 2% | Last Result |
-| 183 | 0.5% | 1.0% |  |
-| 184 | 0.3% | 0.5% |  |
-| 185 | 0.1% | 0.2% |  |
+| 182 | 1.0% | 2% | Last Result |
+| 183 | 0.6% | 1.2% |  |
+| 184 | 0.3% | 0.6% |  |
+| 185 | 0.2% | 0.3% |  |
 | 186 | 0.1% | 0.1% |  |
-| 187 | 0% | 0% |  |
+| 187 | 0% | 0.1% |  |
+| 188 | 0% | 0% |  |
 
 
