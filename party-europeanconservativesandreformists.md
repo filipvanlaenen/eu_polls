@@ -22,7 +22,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Conservative Party | GB-GBN | | 36 | 36 | 36 | 36 | 36 |
 | Zjednoczona Prawica | PL | | 23 | 21–26 | 20–27 | 20–27 | 19–28 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
-| Fratelli d’Italia | IT | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| Fratelli d’Italia | IT | | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -47,9 +47,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 0.7% | 99.4% |  |
 | 95 | 1.4% | 98.7% |  |
 | 96 | 3% | 97% |  |
-| 97 | 5% | 95% |  |
+| 97 | 4% | 95% |  |
 | 98 | 7% | 90% |  |
 | 99 | 10% | 83% |  |
 | 100 | 12% | 73% |  |
@@ -103,7 +103,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 0.7% | 1.3% |  |
 | 110 | 0.3% | 0.5% |  |
 | 111 | 0.1% | 0.2% |  |
-| 112 | 0% | 0.1% |  |
+| 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 
 

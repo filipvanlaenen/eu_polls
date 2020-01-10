@@ -32,13 +32,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Chega | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Northern Ireland Conservatives | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
@@ -91,17 +91,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 4% | 95% |  |
 | 98 | 7% | 90% |  |
 | 99 | 10% | 83% |  |
-| 100 | 12% | 74% |  |
-| 101 | 13% | 62% | Median |
+| 100 | 12% | 73% |  |
+| 101 | 13% | 61% | Median |
 | 102 | 13% | 48% |  |
-| 103 | 11% | 36% |  |
-| 104 | 9% | 25% |  |
+| 103 | 11% | 35% |  |
+| 104 | 9% | 24% |  |
 | 105 | 6% | 16% |  |
-| 106 | 4% | 10% |  |
+| 106 | 4% | 9% |  |
 | 107 | 3% | 5% |  |
-| 108 | 1.5% | 3% |  |
-| 109 | 0.8% | 1.3% |  |
-| 110 | 0.3% | 0.6% |  |
+| 108 | 1.4% | 3% |  |
+| 109 | 0.7% | 1.3% |  |
+| 110 | 0.3% | 0.5% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
