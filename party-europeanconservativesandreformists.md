@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -47,9 +47,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -96,11 +96,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 13% | 48% |  |
 | 103 | 11% | 35% |  |
 | 104 | 9% | 24% |  |
-| 105 | 6% | 16% |  |
+| 105 | 6% | 15% |  |
 | 106 | 4% | 9% |  |
-| 107 | 3% | 5% |  |
+| 107 | 2% | 5% |  |
 | 108 | 1.4% | 3% |  |
-| 109 | 0.7% | 1.3% |  |
+| 109 | 0.7% | 1.2% |  |
 | 110 | 0.3% | 0.5% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0% | 0.1% |  |
