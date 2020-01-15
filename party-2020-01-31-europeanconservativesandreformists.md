@@ -18,16 +18,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 101 | 98–105 | 96–107 | 95–108 | 93–110 |
+| European Conservatives and Reformists | EU | 62 | 101 | 97–105 | 96–106 | 95–107 | 93–109 |
 | Conservative Party | GB-GBN | | 36 | 36 | 36 | 36 | 36 |
-| Zjednoczona Prawica | PL | | 23 | 21–26 | 20–27 | 20–27 | 19–28 |
+| Zjednoczona Prawica | PL | | 22 | 20–24 | 20–25 | 20–25 | 19–26 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
 | Fratelli d’Italia | IT | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Forum voor Democratie | NL | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,7 +35,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chega | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -91,19 +91,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 5% | 95% |  |
 | 98 | 7% | 90% |  |
 | 99 | 10% | 83% |  |
-| 100 | 12% | 73% |  |
-| 101 | 13% | 61% | Median |
-| 102 | 13% | 48% |  |
-| 103 | 11% | 35% |  |
-| 104 | 9% | 24% |  |
-| 105 | 6% | 15% |  |
-| 106 | 4% | 9% |  |
-| 107 | 2% | 5% |  |
-| 108 | 1.4% | 3% |  |
-| 109 | 0.7% | 1.2% |  |
-| 110 | 0.3% | 0.5% |  |
-| 111 | 0.1% | 0.2% |  |
-| 112 | 0% | 0.1% |  |
-| 113 | 0% | 0% |  |
+| 100 | 13% | 72% |  |
+| 101 | 14% | 60% | Median |
+| 102 | 13% | 46% |  |
+| 103 | 11% | 32% |  |
+| 104 | 9% | 21% |  |
+| 105 | 6% | 12% |  |
+| 106 | 3% | 7% |  |
+| 107 | 2% | 3% |  |
+| 108 | 0.9% | 1.4% |  |
+| 109 | 0.4% | 0.6% |  |
+| 110 | 0.1% | 0.2% |  |
+| 111 | 0% | 0.1% |  |
+| 112 | 0% | 0% |  |
 
 

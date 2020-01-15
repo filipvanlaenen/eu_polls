@@ -26,10 +26,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Sinn Féin | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Levica | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
 | 45 | 0.3% | 99.9% |  |
-| 46 | 1.0% | 99.5% |  |
-| 47 | 3% | 98.5% |  |
+| 46 | 0.9% | 99.6% |  |
+| 47 | 2% | 98.7% |  |
 | 48 | 5% | 96% |  |
-| 49 | 9% | 91% |  |
-| 50 | 12% | 82% |  |
-| 51 | 15% | 69% |  |
-| 52 | 15% | 55% | Median |
-| 53 | 14% | 39% |  |
-| 54 | 10% | 26% |  |
-| 55 | 7% | 15% |  |
-| 56 | 4% | 8% |  |
+| 49 | 8% | 91% |  |
+| 50 | 12% | 83% |  |
+| 51 | 15% | 71% |  |
+| 52 | 15% | 56% | Median |
+| 53 | 14% | 41% |  |
+| 54 | 11% | 27% |  |
+| 55 | 7% | 16% |  |
+| 56 | 4% | 9% |  |
 | 57 | 2% | 4% |  |
-| 58 | 1.1% | 2% |  |
-| 59 | 0.5% | 0.7% |  |
+| 58 | 1.2% | 2% |  |
+| 59 | 0.5% | 0.8% |  |
 | 60 | 0.2% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |

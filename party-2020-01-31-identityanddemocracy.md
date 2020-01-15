@@ -21,7 +21,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Identity and Democracy | EU | 73 | 81 | 78–84 | 77–85 | 76–86 | 74–88 |
 | Lega Nord | IT | | 26 | 24–28 | 23–29 | 22–29 | 22–30 |
 | Rassemblement national | FR | | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
-| Alternative für Deutschland | DE | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| Alternative für Deutschland | DE | | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
 | Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -29,7 +29,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
-| SME RODINA | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| SME RODINA | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
@@ -43,24 +43,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0% | 100% |  |
+| 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% | Last Result |
 | 74 | 0.5% | 99.8% |  |
 | 75 | 1.2% | 99.3% |  |
 | 76 | 3% | 98% |  |
-| 77 | 5% | 96% |  |
+| 77 | 5% | 95% |  |
 | 78 | 8% | 91% |  |
 | 79 | 11% | 83% |  |
 | 80 | 14% | 71% |  |
 | 81 | 15% | 57% | Median |
-| 82 | 14% | 42% |  |
-| 83 | 11% | 28% |  |
-| 84 | 8% | 17% |  |
-| 85 | 5% | 9% |  |
+| 82 | 14% | 43% |  |
+| 83 | 11% | 29% |  |
+| 84 | 8% | 18% |  |
+| 85 | 5% | 10% |  |
 | 86 | 3% | 5% |  |
-| 87 | 1.2% | 2% |  |
-| 88 | 0.5% | 0.6% |  |
-| 89 | 0.1% | 0.2% |  |
-| 90 | 0% | 0% |  |
+| 87 | 1.3% | 2% |  |
+| 88 | 0.5% | 0.7% |  |
+| 89 | 0.2% | 0.2% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 

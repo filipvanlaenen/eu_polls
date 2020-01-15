@@ -18,13 +18,13 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 101 | 96–106 | 95–107 | 94–108 | 91–110 |
+| Renew Europe | EU | 108 | 101 | 97–106 | 95–107 | 94–108 | 92–110 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| Freie Demokratische Partei | DE | | 9 | 6–10 | 6–10 | 5–10 | 5–11 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| Freie Demokratische Partei | DE | | 8 | 6–10 | 6–10 | 6–10 | 5–10 |
 | Alianța 2020 USR-PLUS | RO | | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
 | Liberal Democrats | GB-GBN | | 5 | 5 | 5 | 5 | 5 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 3–4 |
 | Italia Viva | IT | | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -33,7 +33,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -45,7 +45,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -76,29 +76,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 89 | 0.1% | 100% |  |
+| 89 | 0% | 100% |  |
 | 90 | 0.1% | 99.9% |  |
-| 91 | 0.3% | 99.8% |  |
-| 92 | 0.6% | 99.5% |  |
-| 93 | 1.0% | 98.9% |  |
-| 94 | 2% | 98% |  |
-| 95 | 3% | 96% |  |
-| 96 | 4% | 93% |  |
-| 97 | 6% | 89% |  |
-| 98 | 7% | 84% |  |
-| 99 | 9% | 76% |  |
-| 100 | 10% | 68% |  |
-| 101 | 11% | 58% | Median |
-| 102 | 11% | 47% |  |
-| 103 | 10% | 36% |  |
-| 104 | 8% | 26% |  |
-| 105 | 7% | 18% |  |
-| 106 | 5% | 11% |  |
-| 107 | 3% | 6% |  |
+| 91 | 0.2% | 99.8% |  |
+| 92 | 0.5% | 99.6% |  |
+| 93 | 0.8% | 99.2% |  |
+| 94 | 1.5% | 98% |  |
+| 95 | 2% | 97% |  |
+| 96 | 4% | 94% |  |
+| 97 | 5% | 91% |  |
+| 98 | 7% | 86% |  |
+| 99 | 9% | 79% |  |
+| 100 | 10% | 70% |  |
+| 101 | 11% | 60% | Median |
+| 102 | 11% | 49% |  |
+| 103 | 10% | 38% |  |
+| 104 | 9% | 28% |  |
+| 105 | 7% | 19% |  |
+| 106 | 5% | 12% |  |
+| 107 | 3% | 7% |  |
 | 108 | 2% | 3% | Last Result |
 | 109 | 0.9% | 2% |  |
-| 110 | 0.4% | 0.6% |  |
-| 111 | 0.2% | 0.2% |  |
+| 110 | 0.4% | 0.7% |  |
+| 111 | 0.2% | 0.3% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 
