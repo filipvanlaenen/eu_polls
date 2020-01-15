@@ -8,7 +8,7 @@ Members registered from **28 countries**:
 
 Last result: **154** seats (General Election of 25 May 2014)
 
-Current median: **149** seats (-5 seats)
+Current median: **150** seats (-4 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,28 +18,29 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 149 | 145–154 | 143–156 | 142–157 | 140–159 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 145–155 | 144–157 | 143–158 | 141–161 |
 | Labour Party | GB-GBN | | 27 | 27 | 27 | 27 | 27 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–17 | 14–18 | 14–18 | 13–18 |
-| Partito Democratico | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
-| Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
+| Partito Democratico | IT | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 11–15 | 11–15 | 11–16 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | Partidul Social Democrat | RO | | 9 | 8–12 | 7–12 | 7–12 | 7–13 |
 | Lewica | PL | | 7 | 5–9 | 5–9 | 5–9 | 4–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 4 | 4 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | PRO România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -47,11 +48,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
-| Κίνημα Αλλαγής | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Liberi e Uguali | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Liberi e Uguali | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,37 +60,39 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2019-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2019-12-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0.1% | 100% |  |
-| 139 | 0.2% | 99.9% |  |
-| 140 | 0.4% | 99.7% |  |
-| 141 | 0.9% | 99.2% |  |
-| 142 | 2% | 98% |  |
-| 143 | 3% | 97% |  |
-| 144 | 4% | 94% |  |
-| 145 | 6% | 90% |  |
-| 146 | 7% | 85% |  |
-| 147 | 9% | 78% |  |
-| 148 | 10% | 69% |  |
-| 149 | 10% | 59% | Median |
-| 150 | 10% | 49% |  |
-| 151 | 9% | 38% |  |
-| 152 | 8% | 29% |  |
-| 153 | 7% | 21% |  |
-| 154 | 5% | 14% | Last Result |
-| 155 | 4% | 9% |  |
-| 156 | 2% | 6% |  |
-| 157 | 1.5% | 3% |  |
-| 158 | 0.9% | 2% |  |
-| 159 | 0.5% | 0.9% |  |
-| 160 | 0.2% | 0.4% |  |
-| 161 | 0.1% | 0.2% |  |
-| 162 | 0% | 0.1% |  |
-| 163 | 0% | 0% |  |
+| 138 | 0% | 100% |  |
+| 139 | 0.1% | 99.9% |  |
+| 140 | 0.3% | 99.8% |  |
+| 141 | 0.5% | 99.6% |  |
+| 142 | 1.0% | 99.0% |  |
+| 143 | 2% | 98% |  |
+| 144 | 3% | 96% |  |
+| 145 | 4% | 93% |  |
+| 146 | 6% | 89% |  |
+| 147 | 7% | 83% |  |
+| 148 | 9% | 76% |  |
+| 149 | 10% | 67% |  |
+| 150 | 10% | 57% | Median |
+| 151 | 10% | 47% |  |
+| 152 | 9% | 37% |  |
+| 153 | 8% | 28% |  |
+| 154 | 6% | 20% | Last Result |
+| 155 | 5% | 14% |  |
+| 156 | 3% | 9% |  |
+| 157 | 2% | 6% |  |
+| 158 | 1.5% | 3% |  |
+| 159 | 0.9% | 2% |  |
+| 160 | 0.5% | 1.0% |  |
+| 161 | 0.3% | 0.5% |  |
+| 162 | 0.1% | 0.3% |  |
+| 163 | 0.1% | 0.1% |  |
+| 164 | 0% | 0.1% |  |
+| 165 | 0% | 0% |  |
 
 
