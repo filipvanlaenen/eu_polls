@@ -18,8 +18,8 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 24 | 22–27 | 21–27 | 20–28 | 19–29 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
+| Non-Inscrits | EU | 56 | 24 | 22–27 | 21–28 | 20–28 | 19–29 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 4 | 3–5 | 2–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -31,7 +31,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -46,19 +46,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0% | 100% |  |
+| 17 | 0.1% | 100% |  |
 | 18 | 0.2% | 99.9% |  |
-| 19 | 0.6% | 99.7% |  |
-| 20 | 2% | 99.1% |  |
+| 19 | 0.7% | 99.7% |  |
+| 20 | 2% | 98.9% |  |
 | 21 | 5% | 97% |  |
-| 22 | 10% | 93% |  |
-| 23 | 17% | 83% |  |
-| 24 | 21% | 66% | Median |
-| 25 | 19% | 45% |  |
-| 26 | 14% | 26% |  |
+| 22 | 11% | 92% |  |
+| 23 | 17% | 81% |  |
+| 24 | 20% | 64% | Median |
+| 25 | 18% | 44% |  |
+| 26 | 13% | 26% |  |
 | 27 | 8% | 13% |  |
-| 28 | 3% | 5% |  |
-| 29 | 1.2% | 2% |  |
+| 28 | 4% | 5% |  |
+| 29 | 1.3% | 2% |  |
 | 30 | 0.3% | 0.4% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |

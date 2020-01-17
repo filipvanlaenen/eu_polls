@@ -28,10 +28,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Levica | SI | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Levica | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
 | 45 | 0.3% | 99.9% |  |
-| 46 | 0.9% | 99.6% |  |
-| 47 | 2% | 98.7% |  |
+| 46 | 1.0% | 99.6% |  |
+| 47 | 2% | 98.6% |  |
 | 48 | 5% | 96% |  |
-| 49 | 8% | 91% |  |
-| 50 | 12% | 83% |  |
-| 51 | 15% | 71% |  |
-| 52 | 15% | 56% | Median |
-| 53 | 14% | 41% |  |
-| 54 | 11% | 27% |  |
-| 55 | 7% | 16% |  |
-| 56 | 4% | 9% |  |
+| 49 | 9% | 91% |  |
+| 50 | 12% | 82% |  |
+| 51 | 15% | 70% |  |
+| 52 | 15% | 55% | Median |
+| 53 | 14% | 40% |  |
+| 54 | 11% | 26% |  |
+| 55 | 7% | 15% |  |
+| 56 | 4% | 8% |  |
 | 57 | 2% | 4% |  |
-| 58 | 1.2% | 2% |  |
-| 59 | 0.5% | 0.8% |  |
+| 58 | 1.1% | 2% |  |
+| 59 | 0.5% | 0.7% |  |
 | 60 | 0.2% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
