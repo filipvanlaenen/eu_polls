@@ -25,7 +25,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
 | Liberal Democrats | GB-GBN | | 5 | 5 | 5 | 5 | 5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
-| Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 3–4 |
+| Fianna Fáil | IE | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Italia Viva | IT | | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Venstre | DK | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.2% | 99.9% |  |
 | 91 | 0.4% | 99.6% |  |
-| 92 | 0.9% | 99.2% |  |
+| 92 | 0.8% | 99.2% |  |
 | 93 | 1.5% | 98% |  |
 | 94 | 2% | 97% |  |
 | 95 | 4% | 94% |  |
