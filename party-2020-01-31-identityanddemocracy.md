@@ -18,10 +18,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 80 | 77–84 | 76–85 | 75–86 | 73–87 |
+| Identity and Democracy | EU | 73 | 80 | 77–84 | 76–85 | 75–85 | 73–87 |
 | Lega Nord | IT | | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
 | Rassemblement national | FR | | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
-| Alternative für Deutschland | DE | | 13 | 12–15 | 12–15 | 12–15 | 10–16 |
+| Alternative für Deutschland | DE | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -29,7 +29,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
-| SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| SME RODINA | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
@@ -43,24 +43,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0.1% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0.1% | 99.9% |  |
 | 73 | 0.4% | 99.8% | Last Result |
-| 74 | 0.9% | 99.5% |  |
-| 75 | 2% | 98.5% |  |
-| 76 | 4% | 96% |  |
-| 77 | 7% | 92% |  |
-| 78 | 10% | 85% |  |
-| 79 | 13% | 75% |  |
-| 80 | 14% | 63% | Median |
-| 81 | 14% | 49% |  |
-| 82 | 12% | 35% |  |
-| 83 | 9% | 23% |  |
-| 84 | 6% | 13% |  |
-| 85 | 4% | 7% |  |
-| 86 | 2% | 3% |  |
-| 87 | 0.8% | 1.2% |  |
-| 88 | 0.3% | 0.4% |  |
-| 89 | 0.1% | 0.1% |  |
+| 74 | 1.1% | 99.4% |  |
+| 75 | 3% | 98% |  |
+| 76 | 5% | 96% |  |
+| 77 | 8% | 91% |  |
+| 78 | 11% | 83% |  |
+| 79 | 13% | 72% |  |
+| 80 | 14% | 59% | Median |
+| 81 | 14% | 44% |  |
+| 82 | 12% | 31% |  |
+| 83 | 9% | 19% |  |
+| 84 | 5% | 11% |  |
+| 85 | 3% | 5% |  |
+| 86 | 1.4% | 2% |  |
+| 87 | 0.6% | 0.8% |  |
+| 88 | 0.2% | 0.2% |  |
+| 89 | 0% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
 
