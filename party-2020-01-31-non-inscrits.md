@@ -18,11 +18,11 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 24 | 21–27 | 21–27 | 20–28 | 19–29 |
+| Non-Inscrits | EU | 56 | 24 | 22–27 | 21–28 | 20–28 | 19–30 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 4 | 3–5 | 2–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -35,7 +35,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
-| Χρυσή Αυγή | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -47,19 +47,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.4% | 99.9% |  |
-| 19 | 1.0% | 99.5% |  |
-| 20 | 3% | 98.5% |  |
-| 21 | 6% | 96% |  |
-| 22 | 12% | 90% |  |
-| 23 | 18% | 77% |  |
-| 24 | 20% | 60% | Median |
-| 25 | 17% | 40% |  |
-| 26 | 12% | 23% |  |
-| 27 | 7% | 11% |  |
-| 28 | 3% | 4% |  |
-| 29 | 1.1% | 2% |  |
-| 30 | 0.3% | 0.4% |  |
+| 18 | 0.3% | 99.9% |  |
+| 19 | 0.8% | 99.6% |  |
+| 20 | 2% | 98.8% |  |
+| 21 | 5% | 97% |  |
+| 22 | 11% | 91% |  |
+| 23 | 17% | 81% |  |
+| 24 | 20% | 64% | Median |
+| 25 | 18% | 44% |  |
+| 26 | 13% | 26% |  |
+| 27 | 7% | 13% |  |
+| 28 | 3% | 5% |  |
+| 29 | 1.3% | 2% |  |
+| 30 | 0.4% | 0.5% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |

@@ -18,22 +18,22 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 145–155 | 144–156 | 143–157 | 140–160 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 150 | 146–155 | 144–157 | 143–158 | 141–160 |
 | Labour Party | GB-GBN | | 27 | 27 | 27 | 27 | 27 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–17 | 14–18 | 14–18 | 13–18 |
-| Partito Democratico | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| Partito Democratico | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | Partidul Social Democrat | RO | | 9 | 8–12 | 7–12 | 7–12 | 7–13 |
 | Lewica | PL | | 7 | 5–9 | 5–9 | 5–9 | 4–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | PRO România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -49,9 +49,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Αλλαγής | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Liberi e Uguali | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,31 +66,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0.1% | 100% |  |
+| 138 | 0% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
-| 140 | 0.3% | 99.8% |  |
-| 141 | 0.6% | 99.5% |  |
-| 142 | 1.2% | 98.9% |  |
+| 140 | 0.2% | 99.8% |  |
+| 141 | 0.5% | 99.6% |  |
+| 142 | 0.9% | 99.1% |  |
 | 143 | 2% | 98% |  |
-| 144 | 3% | 96% |  |
-| 145 | 5% | 93% |  |
-| 146 | 6% | 88% |  |
-| 147 | 8% | 82% |  |
-| 148 | 9% | 74% |  |
-| 149 | 10% | 64% |  |
-| 150 | 10% | 54% | Median |
-| 151 | 10% | 44% |  |
-| 152 | 9% | 34% |  |
-| 153 | 7% | 25% |  |
-| 154 | 6% | 17% | Last Result |
-| 155 | 4% | 12% |  |
-| 156 | 3% | 7% |  |
-| 157 | 2% | 4% |  |
-| 158 | 1.1% | 2% |  |
-| 159 | 0.6% | 1.3% |  |
-| 160 | 0.3% | 0.7% |  |
-| 161 | 0.2% | 0.3% |  |
-| 162 | 0.1% | 0.1% |  |
+| 144 | 3% | 97% |  |
+| 145 | 4% | 94% |  |
+| 146 | 5% | 90% |  |
+| 147 | 7% | 85% |  |
+| 148 | 9% | 78% |  |
+| 149 | 10% | 69% |  |
+| 150 | 10% | 59% | Median |
+| 151 | 10% | 49% |  |
+| 152 | 10% | 38% |  |
+| 153 | 8% | 29% |  |
+| 154 | 7% | 21% | Last Result |
+| 155 | 5% | 14% |  |
+| 156 | 4% | 9% |  |
+| 157 | 2% | 5% |  |
+| 158 | 1.4% | 3% |  |
+| 159 | 0.8% | 2% |  |
+| 160 | 0.4% | 0.8% |  |
+| 161 | 0.2% | 0.4% |  |
+| 162 | 0.1% | 0.2% |  |
 | 163 | 0% | 0.1% |  |
 | 164 | 0% | 0% |  |
 
