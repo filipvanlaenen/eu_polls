@@ -18,10 +18,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 80 | 77–83 | 76–84 | 75–85 | 73–86 |
-| Lega Nord | IT | | 25 | 23–28 | 23–28 | 22–29 | 21–30 |
+| Identity and Democracy | EU | 73 | 80 | 77–84 | 76–85 | 75–86 | 73–87 |
+| Lega Nord | IT | | 25 | 23–28 | 22–29 | 22–29 | 21–30 |
 | Rassemblement national | FR | | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
-| Alternative für Deutschland | DE | | 13 | 12–14 | 12–14 | 12–15 | 10–15 |
+| Alternative für Deutschland | DE | | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -43,23 +43,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0.1% | 100% |  |
-| 73 | 0.4% | 99.8% | Last Result |
-| 74 | 1.0% | 99.5% |  |
-| 75 | 2% | 98% |  |
-| 76 | 5% | 96% |  |
-| 77 | 9% | 91% |  |
-| 78 | 13% | 82% |  |
-| 79 | 16% | 69% |  |
-| 80 | 16% | 53% | Median |
-| 81 | 14% | 37% |  |
-| 82 | 10% | 23% |  |
-| 83 | 7% | 13% |  |
-| 84 | 4% | 6% |  |
-| 85 | 2% | 3% |  |
-| 86 | 0.7% | 1.1% |  |
-| 87 | 0.3% | 0.4% |  |
-| 88 | 0.1% | 0.1% |  |
-| 89 | 0% | 0% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.5% | 99.8% | Last Result |
+| 74 | 1.2% | 99.3% |  |
+| 75 | 3% | 98% |  |
+| 76 | 5% | 95% |  |
+| 77 | 8% | 90% |  |
+| 78 | 11% | 82% |  |
+| 79 | 14% | 71% |  |
+| 80 | 14% | 57% | Median |
+| 81 | 13% | 43% |  |
+| 82 | 11% | 30% |  |
+| 83 | 8% | 19% |  |
+| 84 | 5% | 11% |  |
+| 85 | 3% | 6% |  |
+| 86 | 2% | 3% |  |
+| 87 | 0.7% | 1.1% |  |
+| 88 | 0.3% | 0.4% |  |
+| 89 | 0.1% | 0.1% |  |
+| 90 | 0% | 0% |  |
 
 

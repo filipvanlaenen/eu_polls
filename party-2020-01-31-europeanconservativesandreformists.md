@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 101 | 98–105 | 96–106 | 95–107 | 93–109 |
+| European Conservatives and Reformists | EU | 62 | 101 | 97–105 | 96–106 | 95–107 | 93–109 |
 | Conservative Party | GB-GBN | | 36 | 36 | 36 | 36 | 36 |
 | Zjednoczona Prawica | PL | | 22 | 20–24 | 20–25 | 20–25 | 19–26 |
-| Fratelli d’Italia | IT | | 9 | 7–10 | 7–11 | 7–11 | 6–11 |
+| Fratelli d’Italia | IT | | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Forum voor Democratie | NL | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -82,26 +82,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0% | 100% |  |
 | 90 | 0% | 100% |  |
-| 91 | 0.1% | 100% |  |
+| 91 | 0.1% | 99.9% |  |
 | 92 | 0.2% | 99.9% |  |
-| 93 | 0.3% | 99.7% |  |
-| 94 | 0.7% | 99.4% |  |
-| 95 | 1.4% | 98.7% |  |
+| 93 | 0.4% | 99.7% |  |
+| 94 | 0.8% | 99.3% |  |
+| 95 | 2% | 98% |  |
 | 96 | 3% | 97% |  |
-| 97 | 4% | 95% |  |
-| 98 | 7% | 90% |  |
-| 99 | 10% | 83% |  |
-| 100 | 12% | 74% |  |
-| 101 | 13% | 62% | Median |
-| 102 | 13% | 48% |  |
-| 103 | 12% | 35% |  |
-| 104 | 9% | 24% |  |
-| 105 | 6% | 15% |  |
-| 106 | 4% | 8% |  |
-| 107 | 2% | 4% |  |
-| 108 | 1.1% | 2% |  |
-| 109 | 0.5% | 0.8% |  |
-| 110 | 0.2% | 0.3% |  |
+| 97 | 5% | 94% |  |
+| 98 | 8% | 89% |  |
+| 99 | 10% | 81% |  |
+| 100 | 13% | 71% |  |
+| 101 | 14% | 58% | Median |
+| 102 | 13% | 45% |  |
+| 103 | 11% | 32% |  |
+| 104 | 8% | 21% |  |
+| 105 | 6% | 12% |  |
+| 106 | 3% | 7% |  |
+| 107 | 2% | 3% |  |
+| 108 | 0.9% | 1.5% |  |
+| 109 | 0.4% | 0.6% |  |
+| 110 | 0.1% | 0.2% |  |
 | 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0% |  |
 
