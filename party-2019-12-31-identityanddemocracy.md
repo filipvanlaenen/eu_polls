@@ -28,7 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | SME RODINA | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | UK Independence Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
@@ -43,8 +43,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0% | 100% |  |
-| 73 | 0.1% | 99.9% | Last Result |
+| 73 | 0.1% | 100% | Last Result |
 | 74 | 0.4% | 99.8% |  |
 | 75 | 1.0% | 99.4% |  |
 | 76 | 2% | 98% |  |
@@ -52,7 +51,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 7% | 92% |  |
 | 79 | 10% | 85% |  |
 | 80 | 13% | 75% |  |
-| 81 | 14% | 61% | Median |
+| 81 | 14% | 62% | Median |
 | 82 | 14% | 47% |  |
 | 83 | 12% | 33% |  |
 | 84 | 9% | 21% |  |
