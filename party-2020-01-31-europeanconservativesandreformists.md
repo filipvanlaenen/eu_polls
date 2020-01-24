@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **62** seats (General Election of 25 May 2014)
 
-Current median: **101** seats (+39 seats)
+Current median: **102** seats (+40 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 101 | 97–105 | 96–106 | 95–107 | 93–109 |
+| European Conservatives and Reformists | EU | 62 | 102 | 97–106 | 96–107 | 95–108 | 93–110 |
 | Conservative Party | GB-GBN | | 36 | 36 | 36 | 36 | 36 |
-| Zjednoczona Prawica | PL | | 22 | 20–24 | 20–25 | 20–25 | 19–26 |
+| Zjednoczona Prawica | PL | | 23 | 20–26 | 19–26 | 19–27 | 18–28 |
 | Fratelli d’Italia | IT | | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| Forum voor Democratie | NL | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Northern Ireland Conservatives | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Ulster Unionist Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -83,26 +83,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0% | 100% |  |
 | 90 | 0% | 100% |  |
 | 91 | 0.1% | 99.9% |  |
-| 92 | 0.2% | 99.9% |  |
-| 93 | 0.4% | 99.7% |  |
-| 94 | 0.8% | 99.3% |  |
+| 92 | 0.2% | 99.8% |  |
+| 93 | 0.4% | 99.6% |  |
+| 94 | 0.9% | 99.2% |  |
 | 95 | 2% | 98% |  |
 | 96 | 3% | 97% |  |
 | 97 | 5% | 94% |  |
-| 98 | 8% | 89% |  |
-| 99 | 10% | 81% |  |
-| 100 | 13% | 71% |  |
-| 101 | 14% | 58% | Median |
-| 102 | 13% | 45% |  |
-| 103 | 11% | 32% |  |
-| 104 | 8% | 21% |  |
-| 105 | 6% | 12% |  |
-| 106 | 3% | 7% |  |
-| 107 | 2% | 3% |  |
-| 108 | 0.9% | 1.5% |  |
-| 109 | 0.4% | 0.6% |  |
-| 110 | 0.1% | 0.2% |  |
-| 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0% |  |
+| 98 | 7% | 89% |  |
+| 99 | 9% | 82% |  |
+| 100 | 11% | 73% |  |
+| 101 | 12% | 62% |  |
+| 102 | 12% | 50% | Median |
+| 103 | 11% | 38% |  |
+| 104 | 9% | 28% |  |
+| 105 | 7% | 19% |  |
+| 106 | 5% | 12% |  |
+| 107 | 3% | 7% |  |
+| 108 | 2% | 4% |  |
+| 109 | 1.0% | 2% |  |
+| 110 | 0.5% | 0.9% |  |
+| 111 | 0.2% | 0.4% |  |
+| 112 | 0.1% | 0.2% |  |
+| 113 | 0% | 0.1% |  |
+| 114 | 0% | 0% |  |
 
 
