@@ -18,13 +18,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 24 | 20–26 | 19–27 | 19–28 | 18–29 |
+| Non-Inscrits | EU | 56 | 24 | 20–26 | 19–27 | 19–28 | 17–29 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Democratic Unionist Party | GB-NIR | | 1 | 1 | 1 | 1 | 1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Brexit Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -53,14 +53,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 6% | 95% |  |
 | 21 | 9% | 89% |  |
 | 22 | 13% | 80% |  |
-| 23 | 17% | 67% |  |
-| 24 | 18% | 50% | Median |
+| 23 | 16% | 67% |  |
+| 24 | 18% | 51% | Median |
 | 25 | 15% | 33% |  |
 | 26 | 10% | 18% |  |
 | 27 | 5% | 8% |  |
 | 28 | 2% | 3% |  |
-| 29 | 0.7% | 0.9% |  |
-| 30 | 0.2% | 0.2% |  |
+| 29 | 0.7% | 1.0% |  |
+| 30 | 0.2% | 0.3% |  |
 | 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |

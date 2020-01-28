@@ -18,12 +18,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 172 | 167–177 | 166–179 | 164–180 | 162–182 |
+| European People’s Party | EU | 182 | 172 | 167–177 | 166–179 | 164–180 | 162–183 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Partidul Național Liberal | RO | | 14 | 10–15 | 10–15 | 9–16 | 9–16 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
-| Partido Popular | ES | | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
+| Partido Popular | ES | | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Österreichische Volkspartei | AT | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | Les Républicains | FR | | 7 | 6–8 | 5–8 | 5–8 | 5–10 |
@@ -37,10 +37,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Za ľudí | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -55,6 +55,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -64,7 +65,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -85,27 +85,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0.2% | 99.8% |  |
 | 162 | 0.4% | 99.6% |  |
 | 163 | 0.7% | 99.2% |  |
-| 164 | 1.2% | 98.5% |  |
+| 164 | 1.3% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 3% | 95% |  |
 | 167 | 4% | 92% |  |
 | 168 | 6% | 88% |  |
 | 169 | 7% | 82% |  |
 | 170 | 8% | 75% |  |
-| 171 | 9% | 67% |  |
+| 171 | 9% | 66% |  |
 | 172 | 10% | 57% | Median |
 | 173 | 10% | 47% |  |
 | 174 | 9% | 38% |  |
 | 175 | 8% | 29% |  |
 | 176 | 6% | 21% |  |
 | 177 | 5% | 14% |  |
-| 178 | 4% | 9% |  |
+| 178 | 4% | 10% |  |
 | 179 | 2% | 6% |  |
-| 180 | 2% | 3% |  |
+| 180 | 2% | 4% |  |
 | 181 | 0.9% | 2% |  |
-| 182 | 0.5% | 1.0% | Last Result |
+| 182 | 0.5% | 1.1% | Last Result |
 | 183 | 0.3% | 0.5% |  |
-| 184 | 0.1% | 0.2% |  |
+| 184 | 0.1% | 0.3% |  |
 | 185 | 0.1% | 0.1% |  |
 | 186 | 0% | 0% |  |
 
