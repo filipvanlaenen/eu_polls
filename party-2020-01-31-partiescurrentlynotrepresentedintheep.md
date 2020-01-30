@@ -8,23 +8,24 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 25 May 2014)
 
-Current median: **4** seats (+4 seats)
+Current median: **5** seats (+5 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, LT
+> BG, HR, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–6 | 2–6 | 1–7 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–8 | 2–8 | 2–9 |
+| Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Dobrá voľba [SK] (*) | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -32,7 +33,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | NI21 [GB-NIR] (*) | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0–1 | 0–2 |
+| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -51,14 +52,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 10% | 99.1% |  |
-| 3 | 31% | 89% |  |
-| 4 | 34% | 57% | Median |
-| 5 | 17% | 23% |  |
-| 6 | 5% | 6% |  |
-| 7 | 0.7% | 0.8% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 3% | 99.7% |  |
+| 3 | 11% | 96% |  |
+| 4 | 18% | 85% |  |
+| 5 | 21% | 67% | Median |
+| 6 | 22% | 46% |  |
+| 7 | 16% | 25% |  |
+| 8 | 7% | 9% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
 
 
