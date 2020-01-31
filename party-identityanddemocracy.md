@@ -1,36 +1,37 @@
 # Identity and Democracy
 
-Members registered from **5 countries**:
+Members registered from **14 countries**:
 
-> BE, BG, CZ, DE, EU
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, GB, HR, IT, NL, SK
 
 ## Seats
 
 Last result: **73** seats (General Election of 25 May 2014)
 
-Current median: **84** seats (+11 seats)
+Current median: **80** seats (+7 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> BE, CZ, DE, EU
+> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 84 | 80–88 | 79–89 | 78–90 | 76–92 |
-| Lega Nord | EU27 | | 27 | 24–29 | 24–30 | 23–30 | 22–31 |
-| Rassemblement national | EU27 | | 25 | 24–26 | 23–27 | 22–27 | 21–28 |
+| Identity and Democracy | EU | 73 | 80 | 76–84 | 75–85 | 74–86 | 73–88 |
+| Lega Nord | IT | | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
+| Rassemblement national | FR | | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | Alternative für Deutschland | DE | | 13 | 11–15 | 11–15 | 10–15 | 10–15 |
-| Partij voor de Vrijheid | EU27 | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Perussuomalaiset | EU27 | | 4 | 4 | 4 | 3–4 | 3–5 |
+| Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| Freiheitliche Partei Österreichs | EU27 | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partij voor de Vrijheid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Dansk Folkeparti | EU27 | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond | EU27 | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| SME RODINA | EU27 | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Neovisni za Hrvatsku | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Dansk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| SME RODINA | SK | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
+| UK Independence Party | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -41,27 +42,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 73 | 0% | 100% | Last Result |
-| 74 | 0.1% | 100% |  |
-| 75 | 0.2% | 99.9% |  |
-| 76 | 0.5% | 99.7% |  |
-| 77 | 1.1% | 99.2% |  |
-| 78 | 2% | 98% |  |
-| 79 | 4% | 96% |  |
-| 80 | 6% | 92% |  |
-| 81 | 8% | 86% |  |
-| 82 | 10% | 78% |  |
-| 83 | 12% | 67% |  |
-| 84 | 12% | 56% | Median |
-| 85 | 12% | 43% |  |
-| 86 | 10% | 31% |  |
-| 87 | 8% | 21% |  |
-| 88 | 6% | 13% |  |
-| 89 | 4% | 7% |  |
-| 90 | 2% | 4% |  |
-| 91 | 1.0% | 2% |  |
-| 92 | 0.4% | 0.6% |  |
-| 93 | 0.1% | 0.2% |  |
-| 94 | 0% | 0% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.3% | 99.9% |  |
+| 73 | 0.8% | 99.6% | Last Result |
+| 74 | 2% | 98.8% |  |
+| 75 | 3% | 97% |  |
+| 76 | 5% | 94% |  |
+| 77 | 8% | 88% |  |
+| 78 | 10% | 81% |  |
+| 79 | 12% | 70% |  |
+| 80 | 13% | 58% | Median |
+| 81 | 12% | 46% |  |
+| 82 | 11% | 33% |  |
+| 83 | 9% | 22% |  |
+| 84 | 6% | 14% |  |
+| 85 | 4% | 8% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.0% | 2% |  |
+| 88 | 0.4% | 0.5% |  |
+| 89 | 0.1% | 0.2% |  |
+| 90 | 0% | 0% |  |
 
 
