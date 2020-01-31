@@ -19,7 +19,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 182 | 174 | 168–180 | 166–181 | 165–183 | 162–185 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 15 | 12–17 | 12–18 | 11–18 | 11–19 |
 | Partidul Național Liberal | RO | | 14 | 10–18 | 10–19 | 9–19 | 9–19 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
@@ -29,8 +29,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 7 | 6–8 | 5–8 | 5–8 | 5–10 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Koalicja Polska | PL | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -85,31 +85,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0.2% | 99.9% |  |
 | 162 | 0.3% | 99.7% |  |
 | 163 | 0.5% | 99.4% |  |
-| 164 | 0.9% | 98.9% |  |
-| 165 | 1.4% | 98% |  |
+| 164 | 0.8% | 98.9% |  |
+| 165 | 1.3% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 3% | 95% |  |
 | 168 | 4% | 92% |  |
 | 169 | 5% | 88% |  |
 | 170 | 6% | 83% |  |
 | 171 | 7% | 77% |  |
-| 172 | 8% | 69% |  |
-| 173 | 9% | 61% |  |
+| 172 | 8% | 70% |  |
+| 173 | 8% | 62% |  |
 | 174 | 9% | 53% | Median |
-| 175 | 8% | 44% |  |
+| 175 | 8% | 45% |  |
 | 176 | 8% | 36% |  |
 | 177 | 7% | 28% |  |
 | 178 | 6% | 21% |  |
-| 179 | 5% | 15% |  |
-| 180 | 4% | 10% |  |
+| 179 | 5% | 16% |  |
+| 180 | 4% | 11% |  |
 | 181 | 3% | 7% |  |
 | 182 | 2% | 4% | Last Result |
-| 183 | 1.1% | 3% |  |
-| 184 | 0.7% | 1.4% |  |
+| 183 | 1.2% | 3% |  |
+| 184 | 0.7% | 2% |  |
 | 185 | 0.4% | 0.8% |  |
 | 186 | 0.2% | 0.4% |  |
 | 187 | 0.1% | 0.2% |  |
-| 188 | 0% | 0.1% |  |
+| 188 | 0.1% | 0.1% |  |
 | 189 | 0% | 0% |  |
 
 
