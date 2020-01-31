@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **75** seats (General Election of 25 May 2014)
 
-Current median: **52** seats (-23 seats)
+Current median: **53** seats (-22 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 52 | 48–56 | 47–57 | 47–58 | 45–59 |
+| Greens–European Free Alliance | EU | 75 | 53 | 49–56 | 48–58 | 47–58 | 45–60 |
 | Bündnis 90/Die Grünen | DE | | 21 | 20–24 | 20–24 | 20–25 | 18–26 |
 | Europe Écologie Les Verts | FR | | 6 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 3–4 | 2–4 | 2–4 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Scottish National Party | GB-GBN | | 2 | 2 | 2 | 2 | 2 |
+| Scottish National Party | GB-GBN | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
+| Green Party | GB-GBN | | 0 | 0 | 0 | 0 | 0–1 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Green Party in Northern Ireland | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -51,7 +51,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Plaid Cymru | GB-GBN | | 0 | 0 | 0 | 0 | 0 |
+| Plaid Cymru | GB-GBN | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -66,24 +66,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 43 | 0.1% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
-| 45 | 0.6% | 99.7% |  |
-| 46 | 1.4% | 99.1% |  |
-| 47 | 3% | 98% |  |
-| 48 | 5% | 95% |  |
-| 49 | 8% | 90% |  |
-| 50 | 11% | 82% |  |
-| 51 | 13% | 71% |  |
-| 52 | 13% | 59% | Median |
-| 53 | 13% | 46% |  |
-| 54 | 11% | 33% |  |
-| 55 | 9% | 22% |  |
-| 56 | 6% | 13% |  |
-| 57 | 4% | 7% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.9% | 1.4% |  |
-| 60 | 0.3% | 0.5% |  |
-| 61 | 0.1% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 45 | 0.5% | 99.8% |  |
+| 46 | 1.1% | 99.3% |  |
+| 47 | 2% | 98% |  |
+| 48 | 4% | 96% |  |
+| 49 | 7% | 92% |  |
+| 50 | 9% | 85% |  |
+| 51 | 12% | 76% |  |
+| 52 | 13% | 64% |  |
+| 53 | 13% | 51% | Median |
+| 54 | 12% | 38% |  |
+| 55 | 10% | 27% |  |
+| 56 | 7% | 17% |  |
+| 57 | 5% | 10% |  |
+| 58 | 3% | 5% |  |
+| 59 | 1.4% | 2% |  |
+| 60 | 0.6% | 1.0% |  |
+| 61 | 0.2% | 0.3% |  |
+| 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
