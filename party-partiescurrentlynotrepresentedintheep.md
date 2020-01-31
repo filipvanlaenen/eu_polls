@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **4 countries**:
 
-> BG, CZ, DK, EE, FR, GB, HR, IE, IT, LT, NL, RO, SK
+> BG, CZ, EU, LT
 
 ## Seats
 
@@ -12,36 +12,34 @@ Current median: **5** seats (+5 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, HR, LT
+> BG, EU, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–8 | 2–8 | 2–9 |
-| Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Nezavisna lista Miroslava Škore [EU27] (*) | EU27 | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Dobrá voľba [SK] (*) | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| NI21 [GB-NIR] (*) | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0–2 |
-| Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Traditional Unionist Voice [GB-NIR] (*) | GB-NIR | | 0 | 0 | 0 | 0 | 0 |
+| Bandić Milan 365–Stranka rada i solidarnosti [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Cambiamo! [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| DENK [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Dobrá voľba [EU27] (*) | EU27 | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Vabaerakond [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Independent Alliance [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Independents [EU27] (*) | EU27 | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Klaus Riskær Pedersen [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Lutte Ouvrière [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Alianța Liberalilor și Democraților [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0–2 |
+| Renua Ireland [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Résistons! [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Stram Kurs [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Union populaire républicaine [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0 |
+| VLASŤ [EU27] (*) | EU27 | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -55,13 +53,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.3% | 100% |  |
 | 2 | 3% | 99.7% |  |
 | 3 | 11% | 96% |  |
-| 4 | 18% | 85% |  |
-| 5 | 21% | 67% | Median |
-| 6 | 22% | 46% |  |
-| 7 | 16% | 25% |  |
-| 8 | 7% | 9% |  |
+| 4 | 17% | 85% |  |
+| 5 | 20% | 68% | Median |
+| 6 | 22% | 48% |  |
+| 7 | 16% | 26% |  |
+| 8 | 7% | 10% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.3% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 
