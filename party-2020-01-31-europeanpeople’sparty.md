@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **182** seats (General Election of 26 May 2019)
 
-Current median: **175** seats (-7 seats)
+Current median: **174** seats (-8 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 175 | 169–180 | 167–182 | 166–183 | 163–186 |
+| European People’s Party | EU | 182 | 174 | 169–180 | 167–182 | 166–183 | 163–185 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
 | Partidul Național Liberal | RO | | 14 | 10–18 | 10–19 | 9–19 | 9–19 |
@@ -60,7 +60,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -68,7 +68,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
@@ -84,30 +84,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0.1% | 99.9% |  |
 | 162 | 0.2% | 99.9% |  |
 | 163 | 0.3% | 99.7% |  |
-| 164 | 0.5% | 99.4% |  |
-| 165 | 0.9% | 98.9% |  |
-| 166 | 1.4% | 98% |  |
-| 167 | 2% | 97% |  |
+| 164 | 0.6% | 99.4% |  |
+| 165 | 0.9% | 98.8% |  |
+| 166 | 1.5% | 98% |  |
+| 167 | 2% | 96% |  |
 | 168 | 3% | 94% |  |
 | 169 | 4% | 91% |  |
 | 170 | 5% | 87% |  |
-| 171 | 7% | 82% |  |
+| 171 | 7% | 81% |  |
 | 172 | 8% | 75% |  |
 | 173 | 8% | 67% |  |
-| 174 | 9% | 59% |  |
-| 175 | 9% | 50% | Median |
+| 174 | 9% | 58% | Median |
+| 175 | 9% | 50% |  |
 | 176 | 8% | 41% |  |
-| 177 | 8% | 33% |  |
+| 177 | 8% | 32% |  |
 | 178 | 7% | 25% |  |
-| 179 | 5% | 19% |  |
+| 179 | 5% | 18% |  |
 | 180 | 4% | 13% |  |
-| 181 | 3% | 9% |  |
-| 182 | 2% | 6% | Last Result |
+| 181 | 3% | 8% |  |
+| 182 | 2% | 5% | Last Result |
 | 183 | 1.4% | 3% |  |
 | 184 | 0.9% | 2% |  |
-| 185 | 0.5% | 1.1% |  |
+| 185 | 0.5% | 1.0% |  |
 | 186 | 0.3% | 0.5% |  |
-| 187 | 0.1% | 0.3% |  |
+| 187 | 0.1% | 0.2% |  |
 | 188 | 0.1% | 0.1% |  |
 | 189 | 0% | 0% |  |
 

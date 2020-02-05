@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 94 | 89–98 | 87–100 | 86–101 | 84–103 |
+| Renew Europe | EU | 108 | 94 | 89–98 | 87–99 | 86–100 | 84–103 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Freie Demokratische Partei | DE | | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
@@ -32,7 +32,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,6 +40,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Freie Wähler | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Eesti 200 | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,26 +77,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 0.1% | 100% |  |
 | 83 | 0.2% | 99.9% |  |
 | 84 | 0.4% | 99.7% |  |
-| 85 | 0.8% | 99.4% |  |
-| 86 | 1.4% | 98.6% |  |
+| 85 | 0.8% | 99.3% |  |
+| 86 | 1.5% | 98% |  |
 | 87 | 2% | 97% |  |
 | 88 | 4% | 95% |  |
 | 89 | 5% | 91% |  |
 | 90 | 7% | 86% |  |
-| 91 | 8% | 80% |  |
-| 92 | 10% | 72% |  |
-| 93 | 10% | 62% |  |
-| 94 | 11% | 52% | Median |
-| 95 | 10% | 41% |  |
-| 96 | 9% | 31% |  |
-| 97 | 7% | 22% |  |
-| 98 | 6% | 15% |  |
-| 99 | 4% | 9% |  |
+| 91 | 8% | 79% |  |
+| 92 | 10% | 71% |  |
+| 93 | 11% | 61% |  |
+| 94 | 11% | 51% | Median |
+| 95 | 10% | 40% |  |
+| 96 | 9% | 30% |  |
+| 97 | 7% | 21% |  |
+| 98 | 5% | 14% |  |
+| 99 | 4% | 8% |  |
 | 100 | 2% | 5% |  |
-| 101 | 1.4% | 3% |  |
-| 102 | 0.7% | 1.3% |  |
-| 103 | 0.4% | 0.6% |  |
-| 104 | 0.2% | 0.2% |  |
+| 101 | 1.3% | 2% |  |
+| 102 | 0.7% | 1.2% |  |
+| 103 | 0.3% | 0.5% |  |
+| 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
 | 107 | 0% | 0% |  |
