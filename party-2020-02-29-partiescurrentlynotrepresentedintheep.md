@@ -39,7 +39,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -52,13 +52,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
 | 2 | 4% | 99.6% |  |
-| 3 | 13% | 96% |  |
-| 4 | 18% | 83% |  |
-| 5 | 22% | 65% | Median |
-| 6 | 21% | 43% |  |
-| 7 | 14% | 22% |  |
+| 3 | 13% | 95% |  |
+| 4 | 18% | 82% |  |
+| 5 | 22% | 64% | Median |
+| 6 | 21% | 42% |  |
+| 7 | 14% | 21% |  |
 | 8 | 6% | 7% |  |
-| 9 | 1.1% | 1.2% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
