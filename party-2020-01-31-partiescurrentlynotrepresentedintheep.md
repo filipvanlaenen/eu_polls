@@ -33,7 +33,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0–2 |
+| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -54,12 +54,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 3% | 99.7% |  |
 | 3 | 10% | 97% |  |
 | 4 | 17% | 86% |  |
-| 5 | 21% | 70% | Median |
-| 6 | 21% | 49% |  |
-| 7 | 16% | 28% |  |
+| 5 | 21% | 69% | Median |
+| 6 | 21% | 48% |  |
+| 7 | 16% | 27% |  |
 | 8 | 8% | 11% |  |
 | 9 | 2% | 3% |  |
-| 10 | 0.4% | 0.4% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 

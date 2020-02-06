@@ -26,7 +26,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -63,14 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 4% | 98% |  |
 | 49 | 8% | 94% |  |
 | 50 | 13% | 86% |  |
-| 51 | 16% | 73% |  |
-| 52 | 17% | 57% | Median |
-| 53 | 15% | 40% |  |
+| 51 | 17% | 73% |  |
+| 52 | 17% | 56% | Median |
+| 53 | 15% | 39% |  |
 | 54 | 11% | 24% |  |
 | 55 | 7% | 13% |  |
 | 56 | 4% | 6% |  |
 | 57 | 2% | 2% |  |
-| 58 | 0.6% | 0.8% |  |
+| 58 | 0.5% | 0.8% |  |
 | 59 | 0.2% | 0.2% |  |
 | 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |

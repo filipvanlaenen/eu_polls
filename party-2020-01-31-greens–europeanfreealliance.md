@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PT, SE
 
 ## Seats
 
@@ -31,12 +31,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -62,17 +61,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0% | 100% |  |
 | 41 | 0.1% | 99.9% |  |
-| 42 | 0.3% | 99.8% |  |
-| 43 | 0.7% | 99.5% |  |
-| 44 | 2% | 98.8% |  |
+| 42 | 0.3% | 99.9% |  |
+| 43 | 0.7% | 99.6% |  |
+| 44 | 2% | 98.9% |  |
 | 45 | 3% | 97% |  |
-| 46 | 6% | 94% |  |
-| 47 | 9% | 88% |  |
+| 46 | 5% | 94% |  |
+| 47 | 8% | 89% |  |
 | 48 | 11% | 80% |  |
-| 49 | 13% | 68% |  |
-| 50 | 14% | 55% | Median |
-| 51 | 13% | 41% |  |
-| 52 | 10% | 29% |  |
+| 49 | 13% | 69% |  |
+| 50 | 14% | 56% | Median |
+| 51 | 13% | 42% |  |
+| 52 | 10% | 30% |  |
 | 53 | 8% | 19% |  |
 | 54 | 5% | 11% |  |
 | 55 | 3% | 6% |  |
@@ -80,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 0.8% | 1.3% |  |
 | 58 | 0.3% | 0.5% |  |
 | 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0% |  |
+| 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
