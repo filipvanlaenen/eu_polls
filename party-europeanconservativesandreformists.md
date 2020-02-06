@@ -18,13 +18,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 66 | 62–71 | 61–72 | 60–73 | 58–75 |
+| European Conservatives and Reformists | EU | 62 | 66 | 62–70 | 61–72 | 60–73 | 57–75 |
 | Zjednoczona Prawica | PL | | 22 | 20–26 | 19–27 | 19–27 | 18–28 |
 | Fratelli d’Italia | IT | | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 5 | 5 | 5 | 4–6 |
-| Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Forum voor Democratie | NL | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,33 +45,33 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
 | 56 | 0.1% | 99.9% |  |
 | 57 | 0.3% | 99.8% |  |
-| 58 | 0.5% | 99.5% |  |
-| 59 | 1.1% | 99.0% |  |
+| 58 | 0.6% | 99.5% |  |
+| 59 | 1.2% | 98.9% |  |
 | 60 | 2% | 98% |  |
-| 61 | 3% | 96% |  |
+| 61 | 4% | 95% |  |
 | 62 | 6% | 92% | Last Result |
-| 63 | 8% | 87% |  |
-| 64 | 10% | 79% |  |
-| 65 | 12% | 69% |  |
-| 66 | 12% | 57% | Median |
-| 67 | 11% | 45% |  |
-| 68 | 10% | 34% |  |
-| 69 | 8% | 24% |  |
-| 70 | 6% | 16% |  |
-| 71 | 4% | 10% |  |
-| 72 | 3% | 6% |  |
+| 63 | 8% | 86% |  |
+| 64 | 10% | 78% |  |
+| 65 | 12% | 67% |  |
+| 66 | 12% | 56% | Median |
+| 67 | 11% | 44% |  |
+| 68 | 10% | 32% |  |
+| 69 | 8% | 23% |  |
+| 70 | 6% | 15% |  |
+| 71 | 4% | 9% |  |
+| 72 | 3% | 5% |  |
 | 73 | 2% | 3% |  |
-| 74 | 0.9% | 2% |  |
-| 75 | 0.4% | 0.7% |  |
+| 74 | 0.8% | 1.5% |  |
+| 75 | 0.4% | 0.6% |  |
 | 76 | 0.2% | 0.3% |  |
 | 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0% |  |

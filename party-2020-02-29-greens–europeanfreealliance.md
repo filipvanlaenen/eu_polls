@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PT, SE
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 51 | 47–55 | 46–56 | 45–57 | 43–58 |
-| Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 18–25 | 18–25 | 18–26 |
+| Greens–European Free Alliance | EU | 75 | 51 | 47–54 | 46–56 | 45–57 | 43–58 |
+| Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 19–24 | 18–25 | 18–26 |
 | Europe Écologie Les Verts | FR | | 6 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -31,12 +31,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -60,26 +59,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
+| 41 | 0% | 100% |  |
 | 42 | 0.1% | 99.9% |  |
 | 43 | 0.4% | 99.8% |  |
-| 44 | 0.9% | 99.4% |  |
+| 44 | 1.0% | 99.4% |  |
 | 45 | 2% | 98% |  |
-| 46 | 4% | 97% |  |
-| 47 | 6% | 93% |  |
-| 48 | 9% | 87% |  |
-| 49 | 11% | 79% |  |
-| 50 | 13% | 68% |  |
-| 51 | 13% | 55% | Median |
-| 52 | 12% | 41% |  |
-| 53 | 10% | 29% |  |
-| 54 | 8% | 19% |  |
-| 55 | 5% | 11% |  |
-| 56 | 3% | 6% |  |
+| 46 | 4% | 96% |  |
+| 47 | 7% | 92% |  |
+| 48 | 9% | 86% |  |
+| 49 | 12% | 76% |  |
+| 50 | 13% | 65% |  |
+| 51 | 13% | 51% | Median |
+| 52 | 12% | 38% |  |
+| 53 | 9% | 26% |  |
+| 54 | 7% | 17% |  |
+| 55 | 5% | 10% |  |
+| 56 | 3% | 5% |  |
 | 57 | 2% | 3% |  |
-| 58 | 0.8% | 1.3% |  |
-| 59 | 0.3% | 0.5% |  |
-| 60 | 0.1% | 0.2% |  |
+| 58 | 0.7% | 1.1% |  |
+| 59 | 0.3% | 0.4% |  |
+| 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
