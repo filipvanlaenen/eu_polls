@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -29,7 +29,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–4 | 2–5 | 1–5 | 1–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lista Marjana Šarca | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Lista Marjana Šarca | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -60,6 +60,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
+| Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -74,27 +75,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0.1% | 100% |  |
-| 83 | 0.2% | 99.9% |  |
-| 84 | 0.4% | 99.8% |  |
+| 83 | 0.1% | 99.9% |  |
+| 84 | 0.3% | 99.8% |  |
 | 85 | 0.7% | 99.4% |  |
 | 86 | 1.3% | 98.7% |  |
 | 87 | 2% | 97% |  |
 | 88 | 3% | 95% |  |
 | 89 | 5% | 92% |  |
 | 90 | 6% | 87% |  |
-| 91 | 8% | 80% |  |
-| 92 | 9% | 72% |  |
-| 93 | 10% | 63% |  |
-| 94 | 11% | 52% | Median |
-| 95 | 10% | 42% |  |
-| 96 | 9% | 31% |  |
-| 97 | 8% | 22% |  |
+| 91 | 8% | 81% |  |
+| 92 | 9% | 73% |  |
+| 93 | 10% | 64% |  |
+| 94 | 11% | 53% | Median |
+| 95 | 10% | 43% |  |
+| 96 | 9% | 32% |  |
+| 97 | 8% | 23% |  |
 | 98 | 6% | 15% |  |
 | 99 | 4% | 9% |  |
-| 100 | 2% | 5% |  |
-| 101 | 1.4% | 3% |  |
-| 102 | 0.7% | 1.2% |  |
-| 103 | 0.3% | 0.5% |  |
+| 100 | 3% | 5% |  |
+| 101 | 1.5% | 3% |  |
+| 102 | 0.8% | 1.3% |  |
+| 103 | 0.4% | 0.6% |  |
 | 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |

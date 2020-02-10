@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 52 | 49–55 | 48–55 | 47–56 | 46–58 |
+| European United Left–Nordic Green Left | EU | 41 | 52 | 49–55 | 48–56 | 47–56 | 46–58 |
 | La France insoumise | FR | | 9 | 8–11 | 7–11 | 7–12 | 7–13 |
-| Die Linke | DE | | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
-| Unidos Podemos | ES | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| Die Linke | DE | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| Unidos Podemos | ES | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Sinn Féin | IE | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Sinn Féin | IE | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Socialistische Partij | NL | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -41,15 +41,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,18 +60,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0.2% | 100% |  |
 | 46 | 0.6% | 99.8% |  |
 | 47 | 2% | 99.2% |  |
-| 48 | 4% | 97% |  |
-| 49 | 8% | 93% |  |
-| 50 | 13% | 85% |  |
+| 48 | 5% | 97% |  |
+| 49 | 9% | 93% |  |
+| 50 | 13% | 84% |  |
 | 51 | 17% | 71% |  |
-| 52 | 18% | 54% | Median |
-| 53 | 15% | 36% |  |
-| 54 | 11% | 21% |  |
-| 55 | 6% | 11% |  |
+| 52 | 17% | 54% | Median |
+| 53 | 15% | 37% |  |
+| 54 | 11% | 22% |  |
+| 55 | 6% | 12% |  |
 | 56 | 3% | 5% |  |
-| 57 | 1.2% | 2% |  |
-| 58 | 0.4% | 0.5% |  |
-| 59 | 0.1% | 0.1% |  |
+| 57 | 1.4% | 2% |  |
+| 58 | 0.5% | 0.7% |  |
+| 59 | 0.1% | 0.2% |  |
 | 60 | 0% | 0% |  |
 
 
