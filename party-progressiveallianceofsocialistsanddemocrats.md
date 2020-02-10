@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **154** seats (General Election of 26 May 2019)
 
-Current median: **123** seats (-31 seats)
+Current median: **122** seats (-32 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 123 | 118–128 | 117–130 | 116–131 | 114–134 |
-| Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
-| Partito Democratico | IT | | 15 | 13–18 | 13–20 | 12–21 | 12–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 12–16 | 12–16 | 10–16 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 122 | 118–128 | 116–130 | 115–131 | 113–134 |
+| Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
+| Partito Democratico | IT | | 15 | 13–20 | 13–21 | 12–21 | 12–22 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
 | Partido Socialista | PT | | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | Partidul Social Democrat | RO | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Lewica | PL | | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
@@ -29,9 +29,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5 | 5 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 4 | 4 | 4–5 | 4–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -41,7 +41,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -49,7 +49,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,36 +58,36 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 111 | 0% | 100% |  |
-| 112 | 0.1% | 99.9% |  |
-| 113 | 0.3% | 99.8% |  |
-| 114 | 0.5% | 99.6% |  |
-| 115 | 1.1% | 99.0% |  |
-| 116 | 2% | 98% |  |
-| 117 | 3% | 96% |  |
-| 118 | 5% | 93% |  |
-| 119 | 7% | 88% |  |
-| 120 | 8% | 82% |  |
-| 121 | 10% | 73% |  |
-| 122 | 10% | 64% |  |
-| 123 | 10% | 53% | Median |
-| 124 | 10% | 43% |  |
-| 125 | 8% | 33% |  |
-| 126 | 7% | 25% |  |
+| 111 | 0.1% | 100% |  |
+| 112 | 0.2% | 99.9% |  |
+| 113 | 0.4% | 99.7% |  |
+| 114 | 0.8% | 99.3% |  |
+| 115 | 2% | 98% |  |
+| 116 | 3% | 97% |  |
+| 117 | 4% | 94% |  |
+| 118 | 6% | 90% |  |
+| 119 | 7% | 85% |  |
+| 120 | 9% | 78% |  |
+| 121 | 9% | 69% |  |
+| 122 | 10% | 60% | Median |
+| 123 | 9% | 50% |  |
+| 124 | 9% | 40% |  |
+| 125 | 8% | 32% |  |
+| 126 | 6% | 24% |  |
 | 127 | 5% | 18% |  |
-| 128 | 4% | 12% |  |
-| 129 | 3% | 8% |  |
-| 130 | 2% | 5% |  |
-| 131 | 1.3% | 3% |  |
-| 132 | 0.9% | 2% |  |
-| 133 | 0.5% | 1.2% |  |
-| 134 | 0.3% | 0.7% |  |
+| 128 | 4% | 13% |  |
+| 129 | 3% | 9% |  |
+| 130 | 2% | 6% |  |
+| 131 | 1.5% | 4% |  |
+| 132 | 1.0% | 2% |  |
+| 133 | 0.6% | 1.4% |  |
+| 134 | 0.4% | 0.8% |  |
 | 135 | 0.2% | 0.4% |  |
 | 136 | 0.1% | 0.2% |  |
 | 137 | 0.1% | 0.1% |  |
