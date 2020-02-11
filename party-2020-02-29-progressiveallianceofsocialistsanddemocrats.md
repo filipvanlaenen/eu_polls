@@ -18,15 +18,15 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 122 | 118–128 | 116–130 | 115–131 | 113–134 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 122 | 117–128 | 116–130 | 115–132 | 113–134 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
-| Partito Democratico | IT | | 15 | 13–20 | 13–21 | 12–21 | 12–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
+| Partito Democratico | IT | | 15 | 13–20 | 12–21 | 12–21 | 12–23 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 12–15 | 11–15 | 10–15 |
 | Partido Socialista | PT | | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | Partidul Social Democrat | RO | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Lewica | PL | | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
 | Socijaldemokratska partija Hrvatske | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5 | 5 | 4–6 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5 | 5 | 5 | 4–5 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Socialdemokraterne | DK | | 4 | 4 | 4 | 4–5 | 4–5 |
@@ -38,18 +38,18 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 2 | 2 | 2 | 2 | 2–3 |
+| Česká strana sociálně demokratická | CZ | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Αλλαγής | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Liberi e Uguali | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,29 +66,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 111 | 0.1% | 100% |  |
 | 112 | 0.2% | 99.9% |  |
-| 113 | 0.4% | 99.7% |  |
-| 114 | 0.8% | 99.3% |  |
+| 113 | 0.5% | 99.6% |  |
+| 114 | 1.0% | 99.1% |  |
 | 115 | 2% | 98% |  |
-| 116 | 3% | 97% |  |
-| 117 | 4% | 94% |  |
-| 118 | 6% | 90% |  |
-| 119 | 7% | 85% |  |
-| 120 | 9% | 78% |  |
-| 121 | 9% | 69% |  |
-| 122 | 10% | 60% | Median |
-| 123 | 9% | 50% |  |
-| 124 | 9% | 40% |  |
-| 125 | 8% | 32% |  |
+| 116 | 3% | 96% |  |
+| 117 | 4% | 93% |  |
+| 118 | 6% | 89% |  |
+| 119 | 8% | 83% |  |
+| 120 | 9% | 75% |  |
+| 121 | 9% | 67% |  |
+| 122 | 9% | 57% | Median |
+| 123 | 9% | 48% |  |
+| 124 | 8% | 39% |  |
+| 125 | 7% | 31% |  |
 | 126 | 6% | 24% |  |
 | 127 | 5% | 18% |  |
-| 128 | 4% | 13% |  |
-| 129 | 3% | 9% |  |
-| 130 | 2% | 6% |  |
-| 131 | 1.5% | 4% |  |
-| 132 | 1.0% | 2% |  |
-| 133 | 0.6% | 1.4% |  |
-| 134 | 0.4% | 0.8% |  |
-| 135 | 0.2% | 0.4% |  |
+| 128 | 4% | 14% |  |
+| 129 | 3% | 10% |  |
+| 130 | 2% | 7% |  |
+| 131 | 2% | 4% |  |
+| 132 | 1.1% | 3% |  |
+| 133 | 0.7% | 2% |  |
+| 134 | 0.4% | 0.9% |  |
+| 135 | 0.2% | 0.5% |  |
 | 136 | 0.1% | 0.2% |  |
 | 137 | 0.1% | 0.1% |  |
 | 138 | 0% | 0% |  |

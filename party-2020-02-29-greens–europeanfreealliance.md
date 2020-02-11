@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **75** seats (General Election of 26 May 2019)
 
-Current median: **50** seats (-25 seats)
+Current median: **51** seats (-24 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 50 | 47–53 | 46–54 | 45–55 | 43–57 |
+| Greens–European Free Alliance | EU | 75 | 51 | 47–54 | 46–55 | 46–56 | 44–58 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–22 | 19–23 | 18–24 | 18–25 |
 | Europe Écologie Les Verts | FR | | 6 | 4–7 | 4–8 | 4–8 | 4–8 |
+| Česká pirátská strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Česká pirátská strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -46,10 +46,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0 | 0 | 0 | 0–1 |
+| Volt Europa | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -60,26 +60,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 99.9% |  |
-| 43 | 0.4% | 99.8% |  |
-| 44 | 1.1% | 99.4% |  |
-| 45 | 3% | 98% |  |
-| 46 | 5% | 96% |  |
-| 47 | 8% | 91% |  |
-| 48 | 11% | 83% |  |
-| 49 | 14% | 72% |  |
-| 50 | 15% | 58% | Median |
-| 51 | 14% | 43% |  |
-| 52 | 11% | 29% |  |
-| 53 | 8% | 18% |  |
-| 54 | 5% | 10% |  |
-| 55 | 3% | 5% |  |
-| 56 | 1.2% | 2% |  |
-| 57 | 0.5% | 0.9% |  |
-| 58 | 0.2% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.6% | 99.7% |  |
+| 45 | 1.5% | 99.1% |  |
+| 46 | 3% | 98% |  |
+| 47 | 6% | 94% |  |
+| 48 | 9% | 89% |  |
+| 49 | 12% | 80% |  |
+| 50 | 15% | 67% |  |
+| 51 | 15% | 53% | Median |
+| 52 | 13% | 37% |  |
+| 53 | 10% | 24% |  |
+| 54 | 7% | 14% |  |
+| 55 | 4% | 7% |  |
+| 56 | 2% | 3% |  |
+| 57 | 0.8% | 1.4% |  |
+| 58 | 0.3% | 0.5% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
