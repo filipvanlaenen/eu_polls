@@ -30,7 +30,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Koalicja Polska | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -93,19 +93,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 173 | 8% | 78% |  |
 | 174 | 9% | 70% |  |
 | 175 | 10% | 61% |  |
-| 176 | 10% | 52% | Median |
+| 176 | 10% | 51% | Median |
 | 177 | 9% | 42% |  |
-| 178 | 8% | 33% |  |
+| 178 | 8% | 32% |  |
 | 179 | 7% | 24% |  |
 | 180 | 6% | 17% |  |
-| 181 | 4% | 12% |  |
+| 181 | 4% | 11% |  |
 | 182 | 3% | 7% | Last Result |
-| 183 | 2% | 5% |  |
+| 183 | 2% | 4% |  |
 | 184 | 1.2% | 3% |  |
 | 185 | 0.7% | 1.4% |  |
 | 186 | 0.4% | 0.7% |  |
 | 187 | 0.2% | 0.3% |  |
-| 188 | 0.1% | 0.2% |  |
+| 188 | 0.1% | 0.1% |  |
 | 189 | 0% | 0.1% |  |
 | 190 | 0% | 0% |  |
 

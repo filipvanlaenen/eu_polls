@@ -19,7 +19,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Identity and Democracy | EU | 73 | 80 | 76–83 | 75–85 | 74–85 | 73–87 |
-| Lega Nord | IT | | 25 | 23–28 | 23–29 | 22–29 | 21–30 |
+| Lega Nord | IT | | 25 | 23–28 | 23–28 | 22–29 | 21–30 |
 | Rassemblement national | FR | | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | Alternative für Deutschland | DE | | 13 | 11–15 | 11–15 | 11–15 | 10–15 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -27,7 +27,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partij voor de Vrijheid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,19 +46,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.9% | 99.5% | Last Result |
 | 74 | 2% | 98.6% |  |
 | 75 | 4% | 97% |  |
-| 76 | 6% | 93% |  |
-| 77 | 9% | 86% |  |
-| 78 | 12% | 77% |  |
-| 79 | 13% | 65% |  |
-| 80 | 13% | 52% | Median |
-| 81 | 12% | 39% |  |
-| 82 | 10% | 27% |  |
+| 76 | 7% | 92% |  |
+| 77 | 10% | 86% |  |
+| 78 | 12% | 76% |  |
+| 79 | 13% | 64% |  |
+| 80 | 13% | 51% | Median |
+| 81 | 12% | 38% |  |
+| 82 | 10% | 26% |  |
 | 83 | 7% | 17% |  |
 | 84 | 5% | 10% |  |
 | 85 | 3% | 5% |  |
 | 86 | 1.4% | 2% |  |
 | 87 | 0.6% | 1.0% |  |
-| 88 | 0.2% | 0.4% |  |
+| 88 | 0.2% | 0.3% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
 

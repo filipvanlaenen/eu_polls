@@ -28,7 +28,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobrá voľba [SK] (*) | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -43,22 +43,23 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 7% | 99.3% |  |
-| 3 | 18% | 92% |  |
-| 4 | 19% | 74% |  |
-| 5 | 23% | 55% | Median |
-| 6 | 21% | 32% |  |
-| 7 | 9% | 12% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.5% | 0.5% |  |
-| 10 | 0% | 0% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 6% | 99.5% |  |
+| 3 | 16% | 94% |  |
+| 4 | 19% | 78% |  |
+| 5 | 22% | 59% | Median |
+| 6 | 21% | 37% |  |
+| 7 | 11% | 16% |  |
+| 8 | 4% | 5% |  |
+| 9 | 0.9% | 1.0% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
