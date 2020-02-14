@@ -21,7 +21,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 108 | 95 | 91–100 | 90–101 | 89–102 | 86–104 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–9 | 4–9 |
+| Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–9 | 5–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
@@ -42,7 +42,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -86,14 +86,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 9% | 80% |  |
 | 94 | 11% | 71% |  |
 | 95 | 12% | 60% | Median |
-| 96 | 12% | 48% |  |
-| 97 | 11% | 36% |  |
+| 96 | 12% | 49% |  |
+| 97 | 11% | 37% |  |
 | 98 | 9% | 26% |  |
 | 99 | 7% | 17% |  |
 | 100 | 5% | 10% |  |
 | 101 | 3% | 6% |  |
 | 102 | 2% | 3% |  |
-| 103 | 0.7% | 1.3% |  |
+| 103 | 0.8% | 1.3% |  |
 | 104 | 0.3% | 0.5% |  |
 | 105 | 0.1% | 0.2% |  |
 | 106 | 0% | 0.1% |  |

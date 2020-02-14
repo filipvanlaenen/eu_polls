@@ -10,9 +10,9 @@ Last result: **62** seats (General Election of 26 May 2019)
 
 Current median: **65** seats (+3 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, PT, SE, SK
+> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
@@ -28,7 +28,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Chega | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -36,7 +35,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Chega | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,25 +54,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0% | 100% |  |
 | 55 | 0.1% | 99.9% |  |
 | 56 | 0.2% | 99.8% |  |
-| 57 | 0.4% | 99.6% |  |
-| 58 | 0.9% | 99.2% |  |
+| 57 | 0.5% | 99.6% |  |
+| 58 | 1.0% | 99.1% |  |
 | 59 | 2% | 98% |  |
-| 60 | 3% | 97% |  |
+| 60 | 3% | 96% |  |
 | 61 | 5% | 93% |  |
-| 62 | 7% | 89% | Last Result |
-| 63 | 9% | 81% |  |
-| 64 | 11% | 72% |  |
-| 65 | 12% | 61% | Median |
-| 66 | 11% | 50% |  |
-| 67 | 10% | 38% |  |
-| 68 | 9% | 28% |  |
-| 69 | 7% | 19% |  |
-| 70 | 5% | 13% |  |
-| 71 | 3% | 8% |  |
+| 62 | 7% | 88% | Last Result |
+| 63 | 9% | 80% |  |
+| 64 | 11% | 71% |  |
+| 65 | 12% | 60% | Median |
+| 66 | 11% | 48% |  |
+| 67 | 10% | 37% |  |
+| 68 | 8% | 27% |  |
+| 69 | 7% | 18% |  |
+| 70 | 5% | 12% |  |
+| 71 | 3% | 7% |  |
 | 72 | 2% | 4% |  |
 | 73 | 1.1% | 2% |  |
-| 74 | 0.6% | 0.9% |  |
-| 75 | 0.2% | 0.4% |  |
+| 74 | 0.5% | 0.9% |  |
+| 75 | 0.2% | 0.3% |  |
 | 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 
