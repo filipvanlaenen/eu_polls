@@ -1,38 +1,38 @@
 # Greens–European Free Alliance
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE
 
 ## Seats
 
 Last result: **75** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-24 seats)
+Current median: **45** seats (-30 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, LT, LU, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, IE, LT, LU, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 51 | 47–54 | 46–55 | 45–56 | 44–58 |
+| Greens–European Free Alliance | EU | 75 | 45 | 41–48 | 40–49 | 40–50 | 38–52 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–23 | 19–24 | 18–24 | 18–25 |
-| Europe Écologie Les Verts | FR | | 6 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Česká pirátská strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
-| Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Vihreä liitto | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Vihreä liitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Green Party | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -40,7 +40,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,25 +59,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 0.7% | 99.6% |  |
-| 45 | 2% | 98.9% |  |
-| 46 | 4% | 97% |  |
-| 47 | 6% | 94% |  |
-| 48 | 9% | 88% |  |
-| 49 | 12% | 78% |  |
-| 50 | 14% | 67% |  |
-| 51 | 14% | 53% | Median |
-| 52 | 12% | 39% |  |
-| 53 | 10% | 27% |  |
-| 54 | 7% | 17% |  |
-| 55 | 5% | 9% |  |
-| 56 | 3% | 5% |  |
-| 57 | 1.3% | 2% |  |
-| 58 | 0.6% | 0.9% |  |
-| 59 | 0.2% | 0.3% |  |
-| 60 | 0.1% | 0.1% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.5% | 99.8% |  |
+| 39 | 1.5% | 99.3% |  |
+| 40 | 3% | 98% |  |
+| 41 | 6% | 95% |  |
+| 42 | 9% | 89% |  |
+| 43 | 12% | 79% |  |
+| 44 | 14% | 67% |  |
+| 45 | 14% | 53% | Median |
+| 46 | 13% | 39% |  |
+| 47 | 10% | 26% |  |
+| 48 | 7% | 16% |  |
+| 49 | 5% | 9% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.3% | 2% |  |
+| 52 | 0.5% | 0.8% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
+| 57 | 0% | 0% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |

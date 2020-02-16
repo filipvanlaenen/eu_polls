@@ -1,28 +1,27 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, PT, SE, SK
+> BE, BG, CZ, DE, ES, GR, HR, IT, LT, LU, LV, NL, PL, PT, SE, SK
 
 ## Seats
 
 Last result: **62** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (+6 seats)
+Current median: **62** seats (0 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, GR, IT, LU, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 68 | 64–73 | 62–74 | 61–75 | 59–77 |
-| Zjednoczona Prawica | PL | | 22 | 20–26 | 19–27 | 19–27 | 18–28 |
+| European Conservatives and Reformists | EU | 62 | 62 | 58–67 | 57–68 | 56–70 | 55–72 |
+| Zjednoczona Prawica | PL | | 21 | 20–26 | 19–27 | 19–27 | 18–28 |
 | Vox | ES | | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | Fratelli d’Italia | IT | | 9 | 8–11 | 8–12 | 7–12 | 7–13 |
-| Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
@@ -41,41 +40,38 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0% | 100% |  |
-| 57 | 0.1% | 99.9% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.4% | 99.7% |  |
-| 60 | 0.7% | 99.3% |  |
-| 61 | 1.4% | 98.6% |  |
-| 62 | 3% | 97% | Last Result |
-| 63 | 4% | 95% |  |
-| 64 | 6% | 91% |  |
-| 65 | 8% | 84% |  |
-| 66 | 10% | 76% |  |
-| 67 | 11% | 66% |  |
-| 68 | 11% | 54% | Median |
-| 69 | 11% | 43% |  |
-| 70 | 9% | 32% |  |
-| 71 | 7% | 23% |  |
-| 72 | 6% | 16% |  |
-| 73 | 4% | 10% |  |
-| 74 | 3% | 6% |  |
-| 75 | 2% | 4% |  |
-| 76 | 1.0% | 2% |  |
-| 77 | 0.6% | 1.0% |  |
-| 78 | 0.3% | 0.5% |  |
-| 79 | 0.1% | 0.2% |  |
-| 80 | 0.1% | 0.1% |  |
-| 81 | 0% | 0% |  |
+| 53 | 0.1% | 100% |  |
+| 54 | 0.3% | 99.9% |  |
+| 55 | 0.8% | 99.6% |  |
+| 56 | 2% | 98.8% |  |
+| 57 | 3% | 97% |  |
+| 58 | 6% | 94% |  |
+| 59 | 8% | 88% |  |
+| 60 | 10% | 80% |  |
+| 61 | 12% | 70% |  |
+| 62 | 12% | 58% | Last Result, Median |
+| 63 | 11% | 46% |  |
+| 64 | 10% | 35% |  |
+| 65 | 8% | 26% |  |
+| 66 | 6% | 18% |  |
+| 67 | 4% | 12% |  |
+| 68 | 3% | 8% |  |
+| 69 | 2% | 5% |  |
+| 70 | 1.2% | 3% |  |
+| 71 | 0.7% | 1.3% |  |
+| 72 | 0.4% | 0.6% |  |
+| 73 | 0.2% | 0.3% |  |
+| 74 | 0.1% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 
