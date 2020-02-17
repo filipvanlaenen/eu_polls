@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> BG, CZ, DK, EE, HR, IE, IT, LT, NL, RO, SK
+> BG, CZ, DK, EE, FR, HR, IE, IT, LT, NL, RO, SK
 
 ## Seats
 
@@ -30,12 +30,15 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independent Alliance [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function

@@ -1,8 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **26 countries**:
+Members registered from **27 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -54,6 +54,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

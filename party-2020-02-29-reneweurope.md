@@ -1,24 +1,25 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **108** seats (General Election of 26 May 2019)
 
-Current median: **74** seats (-34 seats)
+Current median: **98** seats (-10 seats)
 
-At least one member in **20 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, HU, IE, IT, LT, LU, LV, NL, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 74 | 69–78 | 68–79 | 67–80 | 65–82 |
+| Renew Europe | EU | 108 | 98 | 93–103 | 92–104 | 91–105 | 88–108 |
+| La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei | DE | | 8 | 7–9 | 7–9 | 6–9 | 5–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
@@ -46,6 +47,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
+| Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -72,51 +74,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0.1% | 100% |  |
-| 64 | 0.2% | 99.9% |  |
-| 65 | 0.5% | 99.7% |  |
-| 66 | 1.0% | 99.3% |  |
-| 67 | 2% | 98% |  |
-| 68 | 3% | 96% |  |
-| 69 | 5% | 93% |  |
-| 70 | 6% | 88% |  |
-| 71 | 8% | 82% |  |
-| 72 | 10% | 74% |  |
-| 73 | 11% | 64% |  |
-| 74 | 11% | 53% | Median |
-| 75 | 11% | 42% |  |
-| 76 | 10% | 31% |  |
-| 77 | 8% | 22% |  |
-| 78 | 6% | 14% |  |
-| 79 | 4% | 8% |  |
-| 80 | 2% | 5% |  |
-| 81 | 1.3% | 2% |  |
-| 82 | 0.6% | 1.1% |  |
-| 83 | 0.3% | 0.5% |  |
-| 84 | 0.1% | 0.2% |  |
-| 85 | 0% | 0.1% |  |
-| 86 | 0% | 0% |  |
-| 87 | 0% | 0% |  |
-| 88 | 0% | 0% |  |
-| 89 | 0% | 0% |  |
-| 90 | 0% | 0% |  |
-| 91 | 0% | 0% |  |
-| 92 | 0% | 0% |  |
-| 93 | 0% | 0% |  |
-| 94 | 0% | 0% |  |
-| 95 | 0% | 0% |  |
-| 96 | 0% | 0% |  |
-| 97 | 0% | 0% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% |  |
-| 101 | 0% | 0% |  |
-| 102 | 0% | 0% |  |
-| 103 | 0% | 0% |  |
-| 104 | 0% | 0% |  |
-| 105 | 0% | 0% |  |
-| 106 | 0% | 0% |  |
-| 107 | 0% | 0% |  |
-| 108 | 0% | 0% | Last Result |
+| 86 | 0% | 100% |  |
+| 87 | 0.1% | 99.9% |  |
+| 88 | 0.3% | 99.8% |  |
+| 89 | 0.7% | 99.5% |  |
+| 90 | 1.2% | 98.8% |  |
+| 91 | 2% | 98% |  |
+| 92 | 3% | 96% |  |
+| 93 | 4% | 92% |  |
+| 94 | 6% | 88% |  |
+| 95 | 7% | 82% |  |
+| 96 | 9% | 75% |  |
+| 97 | 10% | 66% |  |
+| 98 | 10% | 56% | Median |
+| 99 | 10% | 46% |  |
+| 100 | 9% | 36% |  |
+| 101 | 8% | 27% |  |
+| 102 | 6% | 19% |  |
+| 103 | 5% | 12% |  |
+| 104 | 3% | 8% |  |
+| 105 | 2% | 5% |  |
+| 106 | 1.2% | 2% |  |
+| 107 | 0.7% | 1.3% |  |
+| 108 | 0.3% | 0.6% | Last Result |
+| 109 | 0.2% | 0.3% |  |
+| 110 | 0.1% | 0.1% |  |
+| 111 | 0% | 0% |  |
 
 

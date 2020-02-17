@@ -1,24 +1,24 @@
 # European People’s Party
 
-Members registered from **26 countries**:
+Members registered from **27 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **182** seats (General Election of 26 May 2019)
 
-Current median: **174** seats (-8 seats)
+Current median: **182** seats (0 seats)
 
-At least one member in **25 countries** have a median of 1 seat or more:
+At least one member in **26 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 174 | 169–180 | 168–181 | 167–182 | 164–185 |
+| European People’s Party | EU | 182 | 182 | 176–187 | 175–189 | 174–190 | 171–192 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–22 | 19–23 | 19–23 | 19–24 |
 | Partidul Național Liberal | RO | | 17 | 14–19 | 14–20 | 13–20 | 13–20 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 13–18 | 13–19 | 12–19 |
@@ -26,6 +26,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | Νέα Δημοκρατία | GR | | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | Österreichische Volkspartei | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Les Républicains | FR | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -79,34 +80,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
-| 163 | 0.2% | 99.9% |  |
-| 164 | 0.3% | 99.7% |  |
-| 165 | 0.6% | 99.4% |  |
-| 166 | 1.1% | 98.8% |  |
-| 167 | 2% | 98% |  |
-| 168 | 3% | 96% |  |
-| 169 | 4% | 93% |  |
-| 170 | 5% | 89% |  |
-| 171 | 7% | 84% |  |
-| 172 | 8% | 77% |  |
-| 173 | 9% | 69% |  |
-| 174 | 10% | 60% | Median |
-| 175 | 10% | 50% |  |
-| 176 | 9% | 40% |  |
-| 177 | 8% | 31% |  |
-| 178 | 7% | 23% |  |
-| 179 | 5% | 16% |  |
-| 180 | 4% | 11% |  |
-| 181 | 3% | 7% |  |
-| 182 | 2% | 4% | Last Result |
-| 183 | 1.1% | 2% |  |
-| 184 | 0.6% | 1.2% |  |
-| 185 | 0.3% | 0.6% |  |
-| 186 | 0.2% | 0.3% |  |
-| 187 | 0.1% | 0.1% |  |
-| 188 | 0% | 0.1% |  |
-| 189 | 0% | 0% |  |
+| 168 | 0% | 100% |  |
+| 169 | 0.1% | 99.9% |  |
+| 170 | 0.2% | 99.9% |  |
+| 171 | 0.3% | 99.7% |  |
+| 172 | 0.6% | 99.4% |  |
+| 173 | 1.0% | 98.8% |  |
+| 174 | 2% | 98% |  |
+| 175 | 3% | 96% |  |
+| 176 | 4% | 93% |  |
+| 177 | 5% | 90% |  |
+| 178 | 6% | 85% |  |
+| 179 | 8% | 78% |  |
+| 180 | 9% | 71% |  |
+| 181 | 9% | 62% |  |
+| 182 | 9% | 53% | Last Result, Median |
+| 183 | 9% | 43% |  |
+| 184 | 8% | 34% |  |
+| 185 | 7% | 26% |  |
+| 186 | 6% | 19% |  |
+| 187 | 4% | 13% |  |
+| 188 | 3% | 9% |  |
+| 189 | 2% | 5% |  |
+| 190 | 1.4% | 3% |  |
+| 191 | 0.8% | 2% |  |
+| 192 | 0.5% | 1.0% |  |
+| 193 | 0.3% | 0.5% |  |
+| 194 | 0.1% | 0.2% |  |
+| 195 | 0.1% | 0.1% |  |
+| 196 | 0% | 0% |  |
 
 
