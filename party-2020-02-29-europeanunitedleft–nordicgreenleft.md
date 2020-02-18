@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 41 | 55 | 52–58 | 51–59 | 50–60 | 49–62 |
+| European United Left–Nordic Green Left | EU | 41 | 55 | 52–59 | 51–60 | 50–60 | 49–62 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
 | Die Linke | DE | | 9 | 7–11 | 7–11 | 7–11 | 7–11 |
 | Unidos Podemos | ES | | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,22 +61,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
 | 47 | 0.1% | 100% |  |
-| 48 | 0.3% | 99.9% |  |
-| 49 | 0.9% | 99.6% |  |
-| 50 | 2% | 98.7% |  |
-| 51 | 5% | 96% |  |
-| 52 | 8% | 92% |  |
-| 53 | 12% | 84% |  |
-| 54 | 15% | 72% |  |
-| 55 | 16% | 57% | Median |
-| 56 | 14% | 41% |  |
-| 57 | 11% | 27% |  |
-| 58 | 8% | 16% |  |
-| 59 | 4% | 8% |  |
-| 60 | 2% | 4% |  |
-| 61 | 1.0% | 2% |  |
-| 62 | 0.4% | 0.6% |  |
-| 63 | 0.1% | 0.2% |  |
-| 64 | 0% | 0% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.6% | 99.7% |  |
+| 50 | 2% | 99.1% |  |
+| 51 | 4% | 97% |  |
+| 52 | 7% | 94% |  |
+| 53 | 10% | 87% |  |
+| 54 | 14% | 77% |  |
+| 55 | 16% | 63% | Median |
+| 56 | 15% | 48% |  |
+| 57 | 13% | 32% |  |
+| 58 | 9% | 20% |  |
+| 59 | 6% | 11% |  |
+| 60 | 3% | 5% |  |
+| 61 | 1.3% | 2% |  |
+| 62 | 0.5% | 0.8% |  |
+| 63 | 0.2% | 0.3% |  |
+| 64 | 0.1% | 0.1% |  |
+| 65 | 0% | 0% |  |
 
 
