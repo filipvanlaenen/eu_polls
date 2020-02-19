@@ -18,8 +18,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 21 | 17–24 | 16–24 | 15–25 | 14–26 |
-| Movimento 5 Stelle | IT | | 12 | 10–14 | 9–15 | 8–15 | 7–16 |
+| Non-Inscrits | EU | 56 | 21 | 17–23 | 16–24 | 15–25 | 14–26 |
+| Movimento 5 Stelle | IT | | 12 | 10–14 | 9–14 | 9–15 | 8–16 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -29,7 +29,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -45,21 +45,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 0.3% | 99.9% |  |
-| 14 | 0.9% | 99.5% |  |
-| 15 | 2% | 98.7% |  |
-| 16 | 4% | 97% |  |
-| 17 | 6% | 93% |  |
-| 18 | 9% | 87% |  |
-| 19 | 12% | 78% |  |
-| 20 | 15% | 66% |  |
-| 21 | 16% | 51% | Median |
-| 22 | 14% | 34% |  |
-| 23 | 10% | 20% |  |
-| 24 | 6% | 10% |  |
-| 25 | 3% | 4% |  |
-| 26 | 1.1% | 2% |  |
-| 27 | 0.4% | 0.5% |  |
-| 28 | 0.1% | 0.1% |  |
+| 14 | 0.7% | 99.7% |  |
+| 15 | 2% | 99.0% |  |
+| 16 | 3% | 97% |  |
+| 17 | 6% | 94% |  |
+| 18 | 9% | 88% |  |
+| 19 | 12% | 79% |  |
+| 20 | 16% | 67% |  |
+| 21 | 18% | 51% | Median |
+| 22 | 15% | 33% |  |
+| 23 | 10% | 18% |  |
+| 24 | 5% | 8% |  |
+| 25 | 2% | 3% |  |
+| 26 | 0.7% | 1.0% |  |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0.1% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |

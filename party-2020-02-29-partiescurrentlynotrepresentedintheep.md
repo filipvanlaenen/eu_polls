@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–7 | 2–8 | 2–9 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–8 | 2–8 | 2–9 |
 | Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -31,7 +31,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -50,15 +50,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 4% | 99.7% |  |
-| 3 | 14% | 96% |  |
-| 4 | 23% | 82% |  |
-| 5 | 24% | 59% | Median |
-| 6 | 20% | 35% |  |
-| 7 | 11% | 16% |  |
-| 8 | 4% | 5% |  |
-| 9 | 1.0% | 1.2% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 3% | 99.8% |  |
+| 3 | 13% | 97% |  |
+| 4 | 22% | 84% |  |
+| 5 | 24% | 62% | Median |
+| 6 | 20% | 38% |  |
+| 7 | 12% | 17% |  |
+| 8 | 4% | 6% |  |
+| 9 | 1.2% | 1.4% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
