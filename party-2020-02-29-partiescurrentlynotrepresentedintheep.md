@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–8 | 2–8 | 2–9 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 2–8 | 2–8 | 2–9 |
 | Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,16 +50,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 3% | 99.8% |  |
-| 3 | 13% | 97% |  |
-| 4 | 22% | 84% |  |
-| 5 | 24% | 62% | Median |
-| 6 | 21% | 38% |  |
-| 7 | 12% | 18% |  |
-| 8 | 4% | 6% |  |
-| 9 | 1.2% | 1.5% |  |
-| 10 | 0.2% | 0.2% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 5% | 99.6% |  |
+| 3 | 14% | 95% |  |
+| 4 | 18% | 81% |  |
+| 5 | 21% | 64% | Median |
+| 6 | 22% | 42% |  |
+| 7 | 14% | 20% |  |
+| 8 | 5% | 7% |  |
+| 9 | 1.4% | 2% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 
