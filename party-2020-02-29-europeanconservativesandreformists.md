@@ -10,9 +10,9 @@ Last result: **62** seats (General Election of 26 May 2019)
 
 Current median: **67** seats (+5 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, IT, LT, LU, LV, NL, PL, PT, SE, SK
+> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, PT, SE, SK
 
 ### Confidence Intervals
 
@@ -20,26 +20,27 @@ At least one member in **15 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 62 | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–24 | 19–25 | 18–26 |
-| Fratelli d’Italia | IT | | 10 | 8–11 | 8–12 | 7–12 | 6–13 |
-| Vox | ES | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| Fratelli d’Italia | IT | | 10 | 8–12 | 8–12 | 8–13 | 7–14 |
+| Vox | ES | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
-| Forum voor Democratie | NL | | 3 | 3 | 3 | 3 | 2–3 |
+| Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Chega | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Chega | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
@@ -51,27 +52,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0% | 100% |  |
-| 57 | 0.1% | 99.9% |  |
-| 58 | 0.2% | 99.8% |  |
-| 59 | 0.5% | 99.6% |  |
-| 60 | 0.9% | 99.1% |  |
-| 61 | 2% | 98% |  |
-| 62 | 3% | 96% | Last Result |
-| 63 | 6% | 93% |  |
-| 64 | 8% | 88% |  |
-| 65 | 11% | 79% |  |
-| 66 | 13% | 68% |  |
-| 67 | 14% | 55% | Median |
-| 68 | 12% | 42% |  |
-| 69 | 10% | 29% |  |
-| 70 | 8% | 19% |  |
-| 71 | 5% | 11% |  |
-| 72 | 3% | 6% |  |
-| 73 | 2% | 3% |  |
-| 74 | 0.8% | 1.4% |  |
-| 75 | 0.4% | 0.6% |  |
-| 76 | 0.1% | 0.2% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.2% | 99.9% |  |
+| 59 | 0.4% | 99.7% |  |
+| 60 | 0.7% | 99.3% |  |
+| 61 | 1.4% | 98.6% |  |
+| 62 | 3% | 97% | Last Result |
+| 63 | 5% | 95% |  |
+| 64 | 7% | 90% |  |
+| 65 | 10% | 82% |  |
+| 66 | 13% | 72% |  |
+| 67 | 14% | 59% | Median |
+| 68 | 13% | 46% |  |
+| 69 | 11% | 33% |  |
+| 70 | 8% | 22% |  |
+| 71 | 6% | 13% |  |
+| 72 | 4% | 8% |  |
+| 73 | 2% | 4% |  |
+| 74 | 1.1% | 2% |  |
+| 75 | 0.5% | 0.9% |  |
+| 76 | 0.2% | 0.4% |  |
 | 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0% |  |
 
