@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, PT, SE, SK
+> BE, BG, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
 
 ## Seats
 
@@ -10,25 +10,24 @@ Last result: **62** seats (General Election of 26 May 2019)
 
 Current median: **67** seats (+5 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, PT, SE, SK
+> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
+| European Conservatives and Reformists | EU | 62 | 67 | 63–70 | 62–71 | 61–72 | 59–74 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–24 | 19–25 | 18–26 |
-| Fratelli d’Italia | IT | | 10 | 8–12 | 8–12 | 8–13 | 7–14 |
+| Fratelli d’Italia | IT | | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
 | Vox | ES | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Chega | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,27 +51,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.4% | 99.7% |  |
-| 60 | 0.7% | 99.3% |  |
-| 61 | 1.4% | 98.6% |  |
-| 62 | 3% | 97% | Last Result |
-| 63 | 5% | 95% |  |
-| 64 | 7% | 90% |  |
-| 65 | 10% | 82% |  |
-| 66 | 13% | 72% |  |
-| 67 | 14% | 59% | Median |
-| 68 | 13% | 46% |  |
-| 69 | 11% | 33% |  |
-| 70 | 8% | 22% |  |
-| 71 | 6% | 13% |  |
-| 72 | 4% | 8% |  |
-| 73 | 2% | 4% |  |
-| 74 | 1.1% | 2% |  |
-| 75 | 0.5% | 0.9% |  |
-| 76 | 0.2% | 0.4% |  |
-| 77 | 0.1% | 0.1% |  |
+| 56 | 0% | 100% |  |
+| 57 | 0.1% | 99.9% |  |
+| 58 | 0.2% | 99.8% |  |
+| 59 | 0.5% | 99.6% |  |
+| 60 | 1.0% | 99.1% |  |
+| 61 | 2% | 98% |  |
+| 62 | 4% | 96% | Last Result |
+| 63 | 6% | 93% |  |
+| 64 | 9% | 86% |  |
+| 65 | 12% | 77% |  |
+| 66 | 14% | 65% |  |
+| 67 | 14% | 51% | Median |
+| 68 | 12% | 37% |  |
+| 69 | 9% | 25% |  |
+| 70 | 7% | 16% |  |
+| 71 | 4% | 9% |  |
+| 72 | 2% | 5% |  |
+| 73 | 1.3% | 2% |  |
+| 74 | 0.6% | 1.1% |  |
+| 75 | 0.3% | 0.4% |  |
+| 76 | 0.1% | 0.2% |  |
+| 77 | 0% | 0.1% |  |
 | 78 | 0% | 0% |  |
 
 

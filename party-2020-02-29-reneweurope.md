@@ -25,10 +25,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 4–7 | 4–7 | 4–7 | 3–7 |
-| Italia Viva | IT | | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Venstre | DK | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–5 | 2–5 | 1–5 | 1–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Italia Viva | IT | | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -61,7 +61,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -76,29 +76,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.8% |  |
+| 87 | 0.4% | 99.7% |  |
 | 88 | 0.8% | 99.4% |  |
 | 89 | 1.4% | 98.6% |  |
 | 90 | 2% | 97% |  |
 | 91 | 4% | 95% |  |
 | 92 | 5% | 91% |  |
-| 93 | 6% | 86% |  |
+| 93 | 7% | 86% |  |
 | 94 | 8% | 80% |  |
-| 95 | 9% | 72% |  |
-| 96 | 10% | 63% |  |
-| 97 | 10% | 53% | Median |
-| 98 | 10% | 43% |  |
-| 99 | 9% | 33% |  |
+| 95 | 9% | 71% |  |
+| 96 | 10% | 62% |  |
+| 97 | 10% | 52% | Median |
+| 98 | 10% | 42% |  |
+| 99 | 9% | 32% |  |
 | 100 | 7% | 24% |  |
-| 101 | 6% | 17% |  |
+| 101 | 6% | 16% |  |
 | 102 | 4% | 11% |  |
 | 103 | 3% | 7% |  |
 | 104 | 2% | 4% |  |
 | 105 | 1.0% | 2% |  |
-| 106 | 0.6% | 1.1% |  |
+| 106 | 0.5% | 1.0% |  |
 | 107 | 0.3% | 0.5% |  |
 | 108 | 0.1% | 0.2% | Last Result |
-| 109 | 0.1% | 0.1% |  |
+| 109 | 0% | 0.1% |  |
 | 110 | 0% | 0% |  |
 
 
