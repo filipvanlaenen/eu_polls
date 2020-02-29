@@ -8,17 +8,17 @@ Members registered from **20 countries**:
 
 Last result: **75** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (-23 seats)
+Current median: **51** seats (-24 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, IE, LT, LU, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, LT, LU, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 52 | 48–56 | 47–57 | 46–58 | 44–60 |
+| Greens–European Free Alliance | EU | 75 | 51 | 47–55 | 46–56 | 46–57 | 44–59 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 18–24 | 18–24 | 17–24 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Česká pirátská strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
@@ -30,7 +30,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Green Party | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -41,6 +40,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
+| Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,27 +60,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 0.4% | 99.7% |  |
-| 45 | 0.9% | 99.4% |  |
-| 46 | 2% | 98% |  |
-| 47 | 4% | 96% |  |
-| 48 | 7% | 93% |  |
-| 49 | 9% | 86% |  |
-| 50 | 12% | 77% |  |
-| 51 | 13% | 65% |  |
-| 52 | 13% | 52% | Median |
-| 53 | 11% | 39% |  |
-| 54 | 9% | 27% |  |
-| 55 | 7% | 18% |  |
-| 56 | 5% | 11% |  |
-| 57 | 3% | 6% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.9% | 2% |  |
-| 60 | 0.4% | 0.7% |  |
-| 61 | 0.2% | 0.2% |  |
-| 62 | 0.1% | 0.1% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0.1% | 99.9% |  |
+| 43 | 0.2% | 99.8% |  |
+| 44 | 0.6% | 99.6% |  |
+| 45 | 1.4% | 99.0% |  |
+| 46 | 3% | 98% |  |
+| 47 | 5% | 95% |  |
+| 48 | 8% | 89% |  |
+| 49 | 11% | 81% |  |
+| 50 | 13% | 70% |  |
+| 51 | 13% | 57% | Median |
+| 52 | 12% | 44% |  |
+| 53 | 10% | 32% |  |
+| 54 | 8% | 21% |  |
+| 55 | 6% | 13% |  |
+| 56 | 4% | 8% |  |
+| 57 | 2% | 4% |  |
+| 58 | 1.2% | 2% |  |
+| 59 | 0.5% | 0.9% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
