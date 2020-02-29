@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **56** seats (General Election of 26 May 2019)
 
-Current median: **21** seats (-35 seats)
+Current median: **22** seats (-34 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,18 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 21 | 19–23 | 18–24 | 17–24 | 16–26 |
-| Movimento 5 Stelle | IT | | 12 | 10–13 | 9–14 | 9–14 | 8–15 |
-| Konfederacja | PL | | 4 | 3–5 | 2–5 | 2–5 | 0–6 |
-| Jobbik | HU | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Non-Inscrits | EU | 56 | 22 | 18–25 | 17–26 | 16–26 | 14–28 |
+| Movimento 5 Stelle | IT | | 13 | 11–15 | 9–16 | 9–16 | 8–17 |
+| Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| CasaPound Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna lista Mislava Kolakušića | HR | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -38,28 +37,30 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-01-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2020-01-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.4% | 99.9% |  |
-| 16 | 1.2% | 99.5% |  |
-| 17 | 3% | 98% |  |
-| 18 | 6% | 96% |  |
-| 19 | 12% | 90% |  |
-| 20 | 19% | 79% |  |
-| 21 | 23% | 60% | Median |
-| 22 | 19% | 37% |  |
-| 23 | 11% | 18% |  |
-| 24 | 5% | 7% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.4% | 0.6% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.2% | 99.9% |  |
+| 14 | 0.4% | 99.7% |  |
+| 15 | 0.8% | 99.3% |  |
+| 16 | 2% | 98% |  |
+| 17 | 4% | 97% |  |
+| 18 | 6% | 93% |  |
+| 19 | 8% | 87% |  |
+| 20 | 11% | 79% |  |
+| 21 | 14% | 69% |  |
+| 22 | 16% | 54% | Median |
+| 23 | 15% | 38% |  |
+| 24 | 11% | 23% |  |
+| 25 | 7% | 12% |  |
+| 26 | 3% | 5% |  |
+| 27 | 1.3% | 2% |  |
+| 28 | 0.4% | 0.5% |  |
+| 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
