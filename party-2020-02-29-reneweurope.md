@@ -26,7 +26,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4 |
 | Venstre | DK | | 4 | 4 | 4 | 3–5 | 3–5 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–5 | 2–5 | 1–5 | 1–5 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–5 | 2–5 | 1–5 | 1–6 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Italia Viva | IT | | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Lista Marjana Šarca | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -75,26 +75,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% |  |
-| 85 | 0.2% | 99.9% |  |
+| 85 | 0.1% | 99.9% |  |
 | 86 | 0.4% | 99.8% |  |
 | 87 | 0.8% | 99.4% |  |
-| 88 | 1.4% | 98.6% |  |
+| 88 | 1.4% | 98.7% |  |
 | 89 | 2% | 97% |  |
 | 90 | 4% | 95% |  |
 | 91 | 5% | 91% |  |
 | 92 | 7% | 86% |  |
 | 93 | 8% | 79% |  |
-| 94 | 10% | 70% |  |
+| 94 | 10% | 71% |  |
 | 95 | 10% | 61% |  |
 | 96 | 10% | 51% | Median |
-| 97 | 10% | 40% |  |
+| 97 | 10% | 41% |  |
 | 98 | 9% | 31% |  |
 | 99 | 7% | 22% |  |
-| 100 | 5% | 15% |  |
+| 100 | 6% | 15% |  |
 | 101 | 4% | 10% |  |
 | 102 | 3% | 6% |  |
 | 103 | 2% | 3% |  |
-| 104 | 0.9% | 2% |  |
+| 104 | 0.8% | 2% |  |
 | 105 | 0.4% | 0.7% |  |
 | 106 | 0.2% | 0.3% |  |
 | 107 | 0.1% | 0.1% |  |
