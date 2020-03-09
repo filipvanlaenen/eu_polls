@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 3–9 | 3–10 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–9 | 4–9 | 3–10 |
 | Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
@@ -37,7 +37,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
 
@@ -52,14 +52,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 14% | 97% |  |
-| 5 | 15% | 83% |  |
-| 6 | 30% | 68% | Median |
-| 7 | 24% | 37% |  |
-| 8 | 10% | 14% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.6% | 0.7% |  |
+| 3 | 2% | 100% |  |
+| 4 | 12% | 98% |  |
+| 5 | 15% | 86% |  |
+| 6 | 28% | 71% | Median |
+| 7 | 24% | 43% |  |
+| 8 | 13% | 18% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.9% | 1.0% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

@@ -19,9 +19,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 21 | 19–23 | 18–24 | 18–24 | 16–25 |
-| Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
+| Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
 | Konfederacja | PL | | 4 | 3–5 | 2–5 | 2–5 | 0–6 |
-| Jobbik | HU | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Jobbik | HU | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |

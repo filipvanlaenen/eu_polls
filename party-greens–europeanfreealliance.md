@@ -21,14 +21,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 75 | 51 | 48–55 | 47–56 | 46–57 | 45–58 |
 | Bündnis 90/Die Grünen | DE | | 21 | 20–23 | 20–23 | 19–24 | 18–25 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
-| Česká pirátská strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| Česká pirátská strana | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,18 +63,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 99.9% |  |
 | 44 | 0.3% | 99.8% |  |
-| 45 | 0.8% | 99.6% |  |
-| 46 | 2% | 98.8% |  |
+| 45 | 0.7% | 99.6% |  |
+| 46 | 2% | 98.9% |  |
 | 47 | 4% | 97% |  |
-| 48 | 7% | 93% |  |
-| 49 | 10% | 86% |  |
-| 50 | 13% | 76% |  |
-| 51 | 15% | 63% | Median |
-| 52 | 14% | 49% |  |
-| 53 | 12% | 34% |  |
-| 54 | 9% | 22% |  |
+| 48 | 6% | 93% |  |
+| 49 | 10% | 87% |  |
+| 50 | 13% | 77% |  |
+| 51 | 14% | 64% | Median |
+| 52 | 14% | 50% |  |
+| 53 | 13% | 36% |  |
+| 54 | 10% | 23% |  |
 | 55 | 6% | 13% |  |
-| 56 | 4% | 6% |  |
+| 56 | 4% | 7% |  |
 | 57 | 2% | 3% |  |
 | 58 | 0.8% | 1.2% |  |
 | 59 | 0.3% | 0.4% |  |
