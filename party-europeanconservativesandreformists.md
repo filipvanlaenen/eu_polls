@@ -18,12 +18,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 66 | 62–70 | 61–71 | 60–72 | 58–74 |
+| European Conservatives and Reformists | EU | 62 | 66 | 63–70 | 62–71 | 60–72 | 58–74 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–24 | 19–25 | 18–26 |
 | Fratelli d’Italia | IT | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
 | Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -51,28 +51,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0% | 100% |  |
-| 56 | 0.1% | 99.9% |  |
+| 56 | 0.1% | 100% |  |
 | 57 | 0.2% | 99.9% |  |
-| 58 | 0.4% | 99.7% |  |
-| 59 | 0.8% | 99.3% |  |
-| 60 | 2% | 98.5% |  |
-| 61 | 3% | 97% |  |
-| 62 | 5% | 94% | Last Result |
-| 63 | 8% | 89% |  |
-| 64 | 11% | 81% |  |
-| 65 | 13% | 71% |  |
-| 66 | 13% | 58% | Median |
-| 67 | 13% | 44% |  |
-| 68 | 11% | 32% |  |
-| 69 | 8% | 21% |  |
-| 70 | 6% | 13% |  |
-| 71 | 3% | 7% |  |
-| 72 | 2% | 4% |  |
-| 73 | 1.0% | 2% |  |
-| 74 | 0.5% | 0.8% |  |
-| 75 | 0.2% | 0.3% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0% |  |
+| 58 | 0.3% | 99.7% |  |
+| 59 | 0.6% | 99.4% |  |
+| 60 | 1.3% | 98.8% |  |
+| 61 | 2% | 97% |  |
+| 62 | 4% | 95% | Last Result |
+| 63 | 7% | 91% |  |
+| 64 | 10% | 84% |  |
+| 65 | 12% | 74% |  |
+| 66 | 13% | 62% | Median |
+| 67 | 13% | 48% |  |
+| 68 | 11% | 35% |  |
+| 69 | 9% | 24% |  |
+| 70 | 6% | 15% |  |
+| 71 | 4% | 9% |  |
+| 72 | 2% | 5% |  |
+| 73 | 1.3% | 2% |  |
+| 74 | 0.6% | 1.1% |  |
+| 75 | 0.3% | 0.5% |  |
+| 76 | 0.1% | 0.2% |  |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
 
 
