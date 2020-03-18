@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **62** seats (General Election of 26 May 2019)
 
-Current median: **66** seats (+4 seats)
+Current median: **67** seats (+5 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 66 | 63–70 | 62–71 | 60–72 | 58–74 |
+| European Conservatives and Reformists | EU | 62 | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–24 | 19–25 | 18–26 |
 | Fratelli d’Italia | IT | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
 | Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
@@ -28,7 +28,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
@@ -38,7 +39,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -51,28 +51,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.1% | 100% |  |
-| 57 | 0.2% | 99.9% |  |
-| 58 | 0.3% | 99.7% |  |
-| 59 | 0.6% | 99.4% |  |
-| 60 | 1.3% | 98.8% |  |
-| 61 | 2% | 97% |  |
-| 62 | 4% | 95% | Last Result |
-| 63 | 7% | 91% |  |
-| 64 | 10% | 84% |  |
-| 65 | 12% | 74% |  |
-| 66 | 13% | 62% | Median |
-| 67 | 13% | 48% |  |
-| 68 | 11% | 35% |  |
-| 69 | 9% | 24% |  |
-| 70 | 6% | 15% |  |
-| 71 | 4% | 9% |  |
-| 72 | 2% | 5% |  |
-| 73 | 1.3% | 2% |  |
-| 74 | 0.6% | 1.1% |  |
-| 75 | 0.3% | 0.5% |  |
-| 76 | 0.1% | 0.2% |  |
-| 77 | 0% | 0.1% |  |
+| 56 | 0% | 100% |  |
+| 57 | 0.1% | 99.9% |  |
+| 58 | 0.2% | 99.8% |  |
+| 59 | 0.5% | 99.6% |  |
+| 60 | 0.9% | 99.1% |  |
+| 61 | 2% | 98% |  |
+| 62 | 3% | 96% | Last Result |
+| 63 | 6% | 93% |  |
+| 64 | 8% | 87% |  |
+| 65 | 11% | 79% |  |
+| 66 | 13% | 68% |  |
+| 67 | 13% | 55% | Median |
+| 68 | 12% | 42% |  |
+| 69 | 10% | 30% |  |
+| 70 | 8% | 20% |  |
+| 71 | 5% | 12% |  |
+| 72 | 3% | 7% |  |
+| 73 | 2% | 4% |  |
+| 74 | 1.0% | 2% |  |
+| 75 | 0.5% | 0.8% |  |
+| 76 | 0.2% | 0.3% |  |
+| 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0% |  |
 
 

@@ -56,7 +56,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -80,11 +80,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 167 | 0.1% | 100% |  |
+| 167 | 0% | 100% |  |
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.2% | 99.8% |  |
 | 170 | 0.4% | 99.6% |  |
-| 171 | 0.8% | 99.2% |  |
+| 171 | 0.7% | 99.2% |  |
 | 172 | 1.3% | 98% |  |
 | 173 | 2% | 97% |  |
 | 174 | 3% | 95% |  |
@@ -94,17 +94,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 178 | 8% | 75% |  |
 | 179 | 9% | 67% |  |
 | 180 | 10% | 58% | Median |
-| 181 | 9% | 48% |  |
+| 181 | 9% | 49% |  |
 | 182 | 9% | 39% | Last Result |
 | 183 | 8% | 30% |  |
-| 184 | 6% | 22% |  |
+| 184 | 7% | 23% |  |
 | 185 | 5% | 16% |  |
 | 186 | 4% | 11% |  |
 | 187 | 3% | 7% |  |
 | 188 | 2% | 4% |  |
 | 189 | 1.1% | 3% |  |
 | 190 | 0.7% | 1.4% |  |
-| 191 | 0.4% | 0.7% |  |
+| 191 | 0.4% | 0.8% |  |
 | 192 | 0.2% | 0.4% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
