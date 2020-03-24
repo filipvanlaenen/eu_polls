@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 94 | 89–99 | 88–101 | 87–102 | 84–104 |
+| Renew Europe | EU | 108 | 94 | 89–99 | 88–100 | 86–102 | 84–104 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
@@ -56,7 +56,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -75,31 +75,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0.1% | 100% |  |
-| 83 | 0.1% | 99.9% |  |
-| 84 | 0.3% | 99.8% |  |
-| 85 | 0.6% | 99.5% |  |
-| 86 | 1.2% | 98.8% |  |
-| 87 | 2% | 98% |  |
-| 88 | 3% | 96% |  |
-| 89 | 4% | 93% |  |
-| 90 | 6% | 88% |  |
-| 91 | 7% | 83% |  |
-| 92 | 8% | 76% |  |
-| 93 | 9% | 67% |  |
-| 94 | 10% | 58% | Median |
-| 95 | 10% | 48% |  |
-| 96 | 9% | 38% |  |
-| 97 | 8% | 29% |  |
-| 98 | 7% | 21% |  |
-| 99 | 5% | 14% |  |
-| 100 | 4% | 9% |  |
-| 101 | 2% | 6% |  |
-| 102 | 2% | 3% |  |
-| 103 | 0.9% | 2% |  |
-| 104 | 0.4% | 0.8% |  |
+| 83 | 0.2% | 99.9% |  |
+| 84 | 0.4% | 99.7% |  |
+| 85 | 0.7% | 99.3% |  |
+| 86 | 1.3% | 98.6% |  |
+| 87 | 2% | 97% |  |
+| 88 | 3% | 95% |  |
+| 89 | 5% | 92% |  |
+| 90 | 6% | 87% |  |
+| 91 | 8% | 81% |  |
+| 92 | 9% | 74% |  |
+| 93 | 10% | 65% |  |
+| 94 | 10% | 55% | Median |
+| 95 | 10% | 45% |  |
+| 96 | 9% | 36% |  |
+| 97 | 8% | 27% |  |
+| 98 | 6% | 19% |  |
+| 99 | 5% | 13% |  |
+| 100 | 3% | 8% |  |
+| 101 | 2% | 5% |  |
+| 102 | 1.3% | 3% |  |
+| 103 | 0.7% | 1.4% |  |
+| 104 | 0.4% | 0.7% |  |
 | 105 | 0.2% | 0.3% |  |
 | 106 | 0.1% | 0.1% |  |
-| 107 | 0% | 0.1% |  |
+| 107 | 0% | 0% |  |
 | 108 | 0% | 0% | Last Result |
 
 
