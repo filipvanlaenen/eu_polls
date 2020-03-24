@@ -18,11 +18,11 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–7 | 3–8 | 3–8 | 2–9 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 3–8 | 3–9 | 3–10 |
 | Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -49,15 +49,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.9% | 100% |  |
-| 3 | 7% | 99.1% |  |
-| 4 | 16% | 93% |  |
-| 5 | 25% | 76% |  |
-| 6 | 26% | 51% | Median |
-| 7 | 16% | 26% |  |
-| 8 | 7% | 9% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.4% | 0.4% |  |
-| 11 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 6% | 100% |  |
+| 4 | 17% | 94% |  |
+| 5 | 23% | 78% |  |
+| 6 | 25% | 55% | Median |
+| 7 | 19% | 30% |  |
+| 8 | 8% | 11% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.5% | 0.6% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

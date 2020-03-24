@@ -26,8 +26,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | CasaPound Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna lista Mislava Kolakušića | HR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -44,18 +44,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.5% | 99.9% |  |
-| 17 | 1.1% | 99.4% |  |
-| 18 | 3% | 98% |  |
-| 19 | 11% | 95% |  |
-| 20 | 20% | 84% |  |
-| 21 | 24% | 63% | Median |
-| 22 | 20% | 39% |  |
-| 23 | 12% | 19% |  |
-| 24 | 5% | 7% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.3% | 0.4% |  |
-| 27 | 0.1% | 0.1% |  |
+| 16 | 0.6% | 99.8% |  |
+| 17 | 1.1% | 99.3% |  |
+| 18 | 4% | 98% |  |
+| 19 | 12% | 94% |  |
+| 20 | 22% | 82% |  |
+| 21 | 25% | 61% | Median |
+| 22 | 20% | 36% |  |
+| 23 | 11% | 16% |  |
+| 24 | 4% | 6% |  |
+| 25 | 1.1% | 1.4% |  |
+| 26 | 0.2% | 0.2% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
