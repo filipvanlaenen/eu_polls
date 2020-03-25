@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PT, SE
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE
 
 ## Seats
 
@@ -37,6 +37,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
+| Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -60,23 +61,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.1% | 99.9% |  |
-| 44 | 0.4% | 99.8% |  |
-| 45 | 1.0% | 99.4% |  |
-| 46 | 2% | 98% |  |
-| 47 | 4% | 96% |  |
-| 48 | 7% | 92% |  |
-| 49 | 10% | 85% |  |
-| 50 | 12% | 76% |  |
-| 51 | 14% | 63% | Median |
-| 52 | 14% | 49% |  |
-| 53 | 12% | 35% |  |
-| 54 | 9% | 23% |  |
-| 55 | 7% | 14% |  |
-| 56 | 4% | 7% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.5% | 99.7% |  |
+| 45 | 1.2% | 99.2% |  |
+| 46 | 3% | 98% |  |
+| 47 | 5% | 95% |  |
+| 48 | 8% | 91% |  |
+| 49 | 11% | 83% |  |
+| 50 | 13% | 73% |  |
+| 51 | 14% | 60% | Median |
+| 52 | 13% | 46% |  |
+| 53 | 12% | 32% |  |
+| 54 | 9% | 21% |  |
+| 55 | 6% | 12% |  |
+| 56 | 3% | 6% |  |
 | 57 | 2% | 3% |  |
-| 58 | 0.9% | 1.3% |  |
-| 59 | 0.3% | 0.4% |  |
+| 58 | 0.7% | 1.1% |  |
+| 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
