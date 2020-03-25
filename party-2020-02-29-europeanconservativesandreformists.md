@@ -10,9 +10,9 @@ Last result: **62** seats (General Election of 26 May 2019)
 
 Current median: **67** seats (+5 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, IT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, FR, GR, IT, LT, LU, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
@@ -29,6 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,7 +40,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
@@ -53,26 +53,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0% | 100% |  |
 | 57 | 0.1% | 99.9% |  |
-| 58 | 0.2% | 99.8% |  |
-| 59 | 0.4% | 99.6% |  |
-| 60 | 0.9% | 99.2% |  |
+| 58 | 0.2% | 99.9% |  |
+| 59 | 0.4% | 99.7% |  |
+| 60 | 0.8% | 99.3% |  |
 | 61 | 2% | 98% |  |
 | 62 | 3% | 97% | Last Result |
-| 63 | 5% | 93% |  |
-| 64 | 8% | 88% |  |
-| 65 | 11% | 80% |  |
-| 66 | 13% | 69% |  |
-| 67 | 13% | 57% | Median |
-| 68 | 12% | 43% |  |
-| 69 | 10% | 31% |  |
-| 70 | 8% | 21% |  |
-| 71 | 5% | 13% |  |
-| 72 | 3% | 7% |  |
+| 63 | 5% | 94% |  |
+| 64 | 8% | 89% |  |
+| 65 | 10% | 81% |  |
+| 66 | 12% | 71% |  |
+| 67 | 13% | 59% | Median |
+| 68 | 13% | 45% |  |
+| 69 | 11% | 33% |  |
+| 70 | 8% | 22% |  |
+| 71 | 6% | 14% |  |
+| 72 | 4% | 8% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.0% | 2% |  |
+| 74 | 1.1% | 2% |  |
 | 75 | 0.5% | 0.9% |  |
 | 76 | 0.2% | 0.4% |  |
-| 77 | 0.1% | 0.1% |  |
+| 77 | 0.1% | 0.2% |  |
 | 78 | 0% | 0.1% |  |
 | 79 | 0% | 0% |  |
 

@@ -43,7 +43,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -84,19 +84,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 5% | 92% |  |
 | 90 | 6% | 87% |  |
 | 91 | 8% | 81% |  |
-| 92 | 9% | 74% |  |
-| 93 | 10% | 65% |  |
+| 92 | 9% | 73% |  |
+| 93 | 10% | 64% |  |
 | 94 | 10% | 55% | Median |
 | 95 | 10% | 45% |  |
-| 96 | 9% | 36% |  |
-| 97 | 8% | 27% |  |
+| 96 | 9% | 35% |  |
+| 97 | 8% | 26% |  |
 | 98 | 6% | 19% |  |
 | 99 | 5% | 13% |  |
 | 100 | 3% | 8% |  |
 | 101 | 2% | 5% |  |
 | 102 | 1.3% | 3% |  |
-| 103 | 0.7% | 1.4% |  |
-| 104 | 0.4% | 0.7% |  |
+| 103 | 0.7% | 1.3% |  |
+| 104 | 0.3% | 0.6% |  |
 | 105 | 0.2% | 0.3% |  |
 | 106 | 0.1% | 0.1% |  |
 | 107 | 0% | 0% |  |
