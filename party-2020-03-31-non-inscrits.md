@@ -18,13 +18,12 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 21 | 19–23 | 19–24 | 18–24 | 16–25 |
-| Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
-| Konfederacja | PL | | 4 | 3–5 | 2–5 | 2–5 | 0–6 |
-| Jobbik | HU | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| Non-Inscrits | EU | 56 | 21 | 19–23 | 19–24 | 18–25 | 17–26 |
+| Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
+| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Jobbik | HU | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| CasaPound Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -43,18 +42,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.5% | 99.9% |  |
-| 17 | 1.0% | 99.4% |  |
-| 18 | 3% | 98% |  |
-| 19 | 11% | 95% |  |
-| 20 | 20% | 85% |  |
-| 21 | 24% | 65% | Median |
-| 22 | 21% | 41% |  |
-| 23 | 13% | 20% |  |
-| 24 | 6% | 8% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.4% | 0.5% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.4% | 99.9% |  |
+| 18 | 2% | 99.4% |  |
+| 19 | 9% | 97% |  |
+| 20 | 19% | 88% |  |
+| 21 | 24% | 69% | Median |
+| 22 | 21% | 45% |  |
+| 23 | 14% | 23% |  |
+| 24 | 7% | 9% |  |
+| 25 | 2% | 3% |  |
+| 26 | 0.6% | 0.7% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
