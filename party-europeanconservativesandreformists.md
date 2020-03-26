@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 68 | 64–71 | 63–73 | 62–74 | 59–76 |
-| Zjednoczona Prawica | PL | | 21 | 19–23 | 19–24 | 19–25 | 18–26 |
-| Fratelli d’Italia | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
-| Vox | ES | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
+| European Conservatives and Reformists | EU | 62 | 68 | 64–73 | 63–74 | 62–75 | 60–77 |
+| Zjednoczona Prawica | PL | | 22 | 20–25 | 19–26 | 19–26 | 19–27 |
+| Fratelli d’Italia | IT | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
+| Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| Forum voor Democratie | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Forum voor Democratie | NL | | 3 | 3 | 3 | 2–4 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,34 +45,35 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-03-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-03-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.3% | 99.7% |  |
-| 60 | 0.6% | 99.4% |  |
-| 61 | 1.2% | 98.8% |  |
+| 58 | 0.1% | 99.9% |  |
+| 59 | 0.3% | 99.8% |  |
+| 60 | 0.5% | 99.5% |  |
+| 61 | 1.1% | 99.0% |  |
 | 62 | 2% | 98% | Last Result |
-| 63 | 4% | 95% |  |
-| 64 | 7% | 91% |  |
-| 65 | 9% | 85% |  |
-| 66 | 12% | 75% |  |
-| 67 | 13% | 64% |  |
-| 68 | 13% | 51% | Median |
-| 69 | 12% | 38% |  |
-| 70 | 9% | 26% |  |
-| 71 | 7% | 17% |  |
-| 72 | 4% | 10% |  |
-| 73 | 3% | 5% |  |
-| 74 | 1.5% | 3% |  |
-| 75 | 0.7% | 1.3% |  |
-| 76 | 0.3% | 0.5% |  |
-| 77 | 0.1% | 0.2% |  |
-| 78 | 0.1% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 63 | 4% | 96% |  |
+| 64 | 6% | 92% |  |
+| 65 | 8% | 87% |  |
+| 66 | 10% | 79% |  |
+| 67 | 11% | 69% |  |
+| 68 | 12% | 58% | Median |
+| 69 | 11% | 47% |  |
+| 70 | 10% | 35% |  |
+| 71 | 8% | 25% |  |
+| 72 | 6% | 17% |  |
+| 73 | 4% | 10% |  |
+| 74 | 3% | 6% |  |
+| 75 | 2% | 3% |  |
+| 76 | 0.8% | 1.4% |  |
+| 77 | 0.4% | 0.6% |  |
+| 78 | 0.2% | 0.2% |  |
+| 79 | 0.1% | 0.1% |  |
+| 80 | 0% | 0% |  |
 
 

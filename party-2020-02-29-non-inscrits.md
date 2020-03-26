@@ -8,7 +8,7 @@ Members registered from **10 countries**:
 
 Last result: **56** seats (General Election of 26 May 2019)
 
-Current median: **21** seats (-35 seats)
+Current median: **20** seats (-36 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 21 | 19–23 | 18–24 | 18–24 | 16–25 |
+| Non-Inscrits | EU | 56 | 20 | 18–22 | 18–23 | 17–23 | 16–25 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
-| Konfederacja | PL | | 4 | 3–5 | 2–5 | 2–5 | 0–6 |
+| Konfederacja | PL | | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
 | Jobbik | HU | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -43,18 +43,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.2% | 100% |  |
-| 16 | 0.5% | 99.8% |  |
-| 17 | 1.4% | 99.3% |  |
-| 18 | 4% | 98% |  |
-| 19 | 12% | 94% |  |
-| 20 | 21% | 82% |  |
-| 21 | 25% | 61% | Median |
-| 22 | 20% | 36% |  |
-| 23 | 11% | 17% |  |
-| 24 | 4% | 6% |  |
-| 25 | 1.3% | 2% |  |
-| 26 | 0.3% | 0.3% |  |
-| 27 | 0% | 0.1% |  |
+| 16 | 0.8% | 99.7% |  |
+| 17 | 2% | 98.9% |  |
+| 18 | 7% | 97% |  |
+| 19 | 17% | 90% |  |
+| 20 | 25% | 73% | Median |
+| 21 | 24% | 48% |  |
+| 22 | 15% | 24% |  |
+| 23 | 6% | 9% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.4% | 0.5% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
