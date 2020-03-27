@@ -23,17 +23,17 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Fratelli d’Italia | IT | | 11 | 9–13 | 9–13 | 8–14 | 8–14 |
 | Vox | ES | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -60,18 +60,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 3% | 96% |  |
 | 66 | 5% | 92% |  |
 | 67 | 7% | 87% |  |
-| 68 | 9% | 80% |  |
+| 68 | 9% | 79% |  |
 | 69 | 11% | 70% |  |
-| 70 | 11% | 60% | Median |
+| 70 | 11% | 59% | Median |
 | 71 | 11% | 48% |  |
 | 72 | 10% | 37% |  |
-| 73 | 9% | 27% |  |
-| 74 | 7% | 19% |  |
+| 73 | 8% | 27% |  |
+| 74 | 7% | 18% |  |
 | 75 | 5% | 12% |  |
 | 76 | 3% | 7% |  |
 | 77 | 2% | 4% |  |
 | 78 | 1.0% | 2% |  |
-| 79 | 0.5% | 0.9% |  |
+| 79 | 0.5% | 0.8% |  |
 | 80 | 0.2% | 0.3% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |

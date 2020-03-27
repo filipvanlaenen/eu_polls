@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 93 | 88–98 | 87–99 | 86–101 | 84–103 |
+| Renew Europe | EU | 108 | 93 | 88–98 | 87–99 | 86–100 | 84–103 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
@@ -27,7 +27,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–5 | 1–5 | 1–5 | 1–5 |
 | Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Centerpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -43,6 +43,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -58,7 +59,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -75,28 +75,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0.1% | 100% |  |
-| 83 | 0.2% | 99.9% |  |
+| 83 | 0.3% | 99.8% |  |
 | 84 | 0.6% | 99.6% |  |
-| 85 | 1.1% | 99.1% |  |
+| 85 | 1.2% | 99.0% |  |
 | 86 | 2% | 98% |  |
 | 87 | 3% | 96% |  |
-| 88 | 5% | 93% |  |
-| 89 | 7% | 88% |  |
-| 90 | 8% | 81% |  |
-| 91 | 9% | 73% |  |
-| 92 | 10% | 64% |  |
-| 93 | 10% | 54% | Median |
-| 94 | 10% | 43% |  |
-| 95 | 9% | 34% |  |
-| 96 | 7% | 25% |  |
-| 97 | 6% | 18% |  |
-| 98 | 4% | 12% |  |
-| 99 | 3% | 8% |  |
-| 100 | 2% | 5% |  |
-| 101 | 1.2% | 3% |  |
-| 102 | 0.7% | 1.4% |  |
-| 103 | 0.4% | 0.7% |  |
-| 104 | 0.2% | 0.3% |  |
+| 88 | 5% | 92% |  |
+| 89 | 7% | 87% |  |
+| 90 | 8% | 80% |  |
+| 91 | 10% | 72% |  |
+| 92 | 10% | 62% |  |
+| 93 | 10% | 52% | Median |
+| 94 | 10% | 42% |  |
+| 95 | 8% | 32% |  |
+| 96 | 7% | 24% |  |
+| 97 | 6% | 17% |  |
+| 98 | 4% | 11% |  |
+| 99 | 3% | 7% |  |
+| 100 | 2% | 4% |  |
+| 101 | 1.1% | 2% |  |
+| 102 | 0.6% | 1.2% |  |
+| 103 | 0.3% | 0.6% |  |
+| 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
 | 107 | 0% | 0% |  |
