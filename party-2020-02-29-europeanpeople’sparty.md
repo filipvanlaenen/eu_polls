@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Koalicja Polska | PL | | 4 | 2–5 | 0–5 | 0–6 | 0–6 |
-| Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -83,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 0% | 100% |  |
 | 164 | 0.1% | 99.9% |  |
 | 165 | 0.2% | 99.8% |  |
-| 166 | 0.3% | 99.6% |  |
+| 166 | 0.3% | 99.7% |  |
 | 167 | 0.5% | 99.3% |  |
 | 168 | 0.8% | 98.8% |  |
 | 169 | 1.3% | 98% |  |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 175 | 7% | 77% |  |
 | 176 | 8% | 70% |  |
 | 177 | 9% | 62% |  |
-| 178 | 9% | 53% | Median |
+| 178 | 9% | 54% | Median |
 | 179 | 9% | 45% |  |
 | 180 | 8% | 36% |  |
 | 181 | 7% | 28% |  |
@@ -105,8 +105,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 185 | 3% | 7% |  |
 | 186 | 2% | 4% |  |
 | 187 | 1.1% | 2% |  |
-| 188 | 0.6% | 1.4% |  |
-| 189 | 0.4% | 0.7% |  |
+| 188 | 0.7% | 1.4% |  |
+| 189 | 0.4% | 0.8% |  |
 | 190 | 0.2% | 0.4% |  |
 | 191 | 0.1% | 0.2% |  |
 | 192 | 0% | 0.1% |  |
