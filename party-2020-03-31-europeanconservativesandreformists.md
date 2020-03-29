@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 70 | 66–75 | 65–76 | 64–77 | 62–79 |
+| European Conservatives and Reformists | EU | 62 | 70 | 66–75 | 65–76 | 64–77 | 61–79 |
 | Zjednoczona Prawica | PL | | 23 | 21–26 | 21–27 | 20–27 | 20–28 |
 | Fratelli d’Italia | IT | | 11 | 9–13 | 9–13 | 8–14 | 8–14 |
 | Vox | ES | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
@@ -31,8 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -41,6 +40,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -54,25 +54,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 0.1% | 100% |  |
 | 60 | 0.1% | 99.9% |  |
 | 61 | 0.3% | 99.8% |  |
-| 62 | 0.5% | 99.5% | Last Result |
-| 63 | 1.0% | 99.0% |  |
+| 62 | 0.6% | 99.5% | Last Result |
+| 63 | 1.2% | 98.9% |  |
 | 64 | 2% | 98% |  |
-| 65 | 3% | 96% |  |
-| 66 | 5% | 93% |  |
-| 67 | 7% | 87% |  |
-| 68 | 9% | 80% |  |
-| 69 | 11% | 71% |  |
-| 70 | 11% | 60% | Median |
-| 71 | 11% | 49% |  |
-| 72 | 10% | 38% |  |
-| 73 | 9% | 28% |  |
-| 74 | 7% | 19% |  |
-| 75 | 5% | 12% |  |
-| 76 | 3% | 7% |  |
-| 77 | 2% | 4% |  |
-| 78 | 1.1% | 2% |  |
-| 79 | 0.5% | 0.9% |  |
-| 80 | 0.2% | 0.4% |  |
+| 65 | 4% | 96% |  |
+| 66 | 6% | 92% |  |
+| 67 | 8% | 86% |  |
+| 68 | 10% | 78% |  |
+| 69 | 11% | 69% |  |
+| 70 | 11% | 57% | Median |
+| 71 | 11% | 46% |  |
+| 72 | 10% | 35% |  |
+| 73 | 8% | 25% |  |
+| 74 | 6% | 17% |  |
+| 75 | 4% | 10% |  |
+| 76 | 3% | 6% |  |
+| 77 | 2% | 3% |  |
+| 78 | 0.9% | 1.5% |  |
+| 79 | 0.4% | 0.6% |  |
+| 80 | 0.2% | 0.2% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 

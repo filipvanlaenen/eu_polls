@@ -26,7 +26,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Dobrá voľba [SK] (*) | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -37,7 +37,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -49,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.0% | 100% |  |
-| 3 | 6% | 99.0% |  |
-| 4 | 11% | 93% |  |
-| 5 | 22% | 82% |  |
-| 6 | 31% | 60% | Median |
-| 7 | 19% | 29% |  |
-| 8 | 7% | 10% |  |
+| 2 | 1.1% | 100% |  |
+| 3 | 6% | 98.9% |  |
+| 4 | 12% | 92% |  |
+| 5 | 23% | 81% |  |
+| 6 | 32% | 58% | Median |
+| 7 | 18% | 25% |  |
+| 8 | 6% | 8% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.4% | 0.4% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 
