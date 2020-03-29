@@ -1,39 +1,37 @@
 # European Conservatives and Reformists
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, SE
 
 ## Seats
 
 Last result: **62** seats (General Election of 26 May 2019)
 
-Current median: **70** seats (+8 seats)
+Current median: **67** seats (+5 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, IT, LT, LU, LV, NL, PL, SE, SK
+> BE, BG, CZ, ES, FR, GR, IT, LT, LU, LV, NL, PL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 70 | 66–75 | 65–76 | 64–77 | 62–79 |
-| Zjednoczona Prawica | PL | | 23 | 21–26 | 21–27 | 20–27 | 20–28 |
-| Fratelli d’Italia | IT | | 11 | 9–13 | 9–13 | 8–14 | 8–14 |
-| Vox | ES | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
+| European Conservatives and Reformists | EU | 62 | 67 | 63–71 | 62–72 | 61–73 | 59–74 |
+| Zjednoczona Prawica | PL | | 22 | 20–24 | 20–25 | 19–25 | 19–26 |
+| Fratelli d’Italia | IT | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
+| Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| Forum voor Democratie | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -45,35 +43,34 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-03-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-02-29-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-03-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-02-29.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.1% | 99.9% |  |
-| 61 | 0.3% | 99.8% |  |
-| 62 | 0.5% | 99.5% | Last Result |
-| 63 | 1.0% | 99.0% |  |
-| 64 | 2% | 98% |  |
-| 65 | 3% | 96% |  |
-| 66 | 5% | 93% |  |
-| 67 | 7% | 87% |  |
-| 68 | 9% | 80% |  |
-| 69 | 11% | 71% |  |
-| 70 | 11% | 60% | Median |
-| 71 | 11% | 49% |  |
-| 72 | 10% | 38% |  |
-| 73 | 9% | 28% |  |
-| 74 | 7% | 19% |  |
-| 75 | 5% | 12% |  |
-| 76 | 3% | 7% |  |
-| 77 | 2% | 4% |  |
-| 78 | 1.1% | 2% |  |
-| 79 | 0.5% | 0.9% |  |
-| 80 | 0.2% | 0.4% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 56 | 0% | 100% |  |
+| 57 | 0.1% | 99.9% |  |
+| 58 | 0.2% | 99.8% |  |
+| 59 | 0.5% | 99.6% |  |
+| 60 | 1.0% | 99.1% |  |
+| 61 | 2% | 98% |  |
+| 62 | 4% | 96% | Last Result |
+| 63 | 6% | 93% |  |
+| 64 | 9% | 87% |  |
+| 65 | 11% | 78% |  |
+| 66 | 13% | 67% |  |
+| 67 | 14% | 53% | Median |
+| 68 | 12% | 40% |  |
+| 69 | 10% | 27% |  |
+| 70 | 7% | 17% |  |
+| 71 | 5% | 10% |  |
+| 72 | 3% | 5% |  |
+| 73 | 1.4% | 3% |  |
+| 74 | 0.7% | 1.1% |  |
+| 75 | 0.3% | 0.5% |  |
+| 76 | 0.1% | 0.2% |  |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
 
 

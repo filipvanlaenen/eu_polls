@@ -1,28 +1,27 @@
 # Non-Inscrits
 
-Members registered from **10 countries**:
+Members registered from **9 countries**:
 
-> BG, CY, FI, GR, HR, HU, IT, PL, SI, SK
+> BG, CY, FI, GR, HR, HU, IT, PL, SI
 
 ## Seats
 
 Last result: **56** seats (General Election of 26 May 2019)
 
-Current median: **21** seats (-35 seats)
+Current median: **19** seats (-37 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> GR, HU, IT, PL, SK
+> GR, HU, IT, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 21 | 18–23 | 17–24 | 16–24 | 15–25 |
+| Non-Inscrits | EU | 56 | 19 | 16–21 | 15–22 | 14–22 | 13–23 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,20 +41,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% |  |
-| 15 | 1.0% | 99.8% |  |
-| 16 | 3% | 98.9% |  |
-| 17 | 5% | 96% |  |
-| 18 | 7% | 91% |  |
-| 19 | 11% | 84% |  |
-| 20 | 18% | 73% |  |
-| 21 | 21% | 55% | Median |
-| 22 | 18% | 33% |  |
-| 23 | 10% | 16% |  |
-| 24 | 4% | 6% |  |
-| 25 | 1.2% | 2% |  |
-| 26 | 0.3% | 0.3% |  |
-| 27 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.9% | 99.9% |  |
+| 14 | 3% | 98.9% |  |
+| 15 | 5% | 96% |  |
+| 16 | 7% | 91% |  |
+| 17 | 11% | 84% |  |
+| 18 | 18% | 73% |  |
+| 19 | 22% | 55% | Median |
+| 20 | 18% | 33% |  |
+| 21 | 10% | 15% |  |
+| 22 | 4% | 5% |  |
+| 23 | 1.1% | 1.4% |  |
+| 24 | 0.2% | 0.3% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
