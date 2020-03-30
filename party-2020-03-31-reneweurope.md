@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **108** seats (General Election of 26 May 2019)
 
-Current median: **91** seats (-17 seats)
+Current median: **90** seats (-18 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 91 | 86–96 | 85–98 | 84–99 | 82–101 |
+| Renew Europe | EU | 108 | 90 | 86–95 | 85–97 | 84–98 | 82–100 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
-| Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
-| Freie Demokratische Partei | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| Freie Demokratische Partei | DE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
-| Venstre | DK | | 4 | 4 | 4 | 3–4 | 3–5 |
+| Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Venstre | DK | | 4 | 4 | 4 | 3–4 | 3–4 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–5 | 1–5 | 1–5 | 1–5 |
-| Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -46,7 +46,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1 | 1 | 1 |
-| Radikale Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Radikale Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -75,30 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 80 | 0.1% | 100% |  |
-| 81 | 0.2% | 99.9% |  |
-| 82 | 0.5% | 99.7% |  |
-| 83 | 1.0% | 99.1% |  |
+| 81 | 0.3% | 99.9% |  |
+| 82 | 0.6% | 99.6% |  |
+| 83 | 1.3% | 98.9% |  |
 | 84 | 2% | 98% |  |
-| 85 | 3% | 96% |  |
-| 86 | 4% | 93% |  |
-| 87 | 6% | 89% |  |
-| 88 | 8% | 83% |  |
-| 89 | 9% | 75% |  |
-| 90 | 10% | 66% |  |
-| 91 | 10% | 56% | Median |
-| 92 | 10% | 46% |  |
-| 93 | 9% | 36% |  |
-| 94 | 8% | 27% |  |
-| 95 | 6% | 20% |  |
-| 96 | 5% | 13% |  |
-| 97 | 3% | 9% |  |
-| 98 | 2% | 5% |  |
-| 99 | 1.4% | 3% |  |
-| 100 | 0.8% | 2% |  |
-| 101 | 0.4% | 0.8% |  |
-| 102 | 0.2% | 0.4% |  |
-| 103 | 0.1% | 0.2% |  |
-| 104 | 0% | 0.1% |  |
+| 85 | 4% | 95% |  |
+| 86 | 6% | 91% |  |
+| 87 | 8% | 86% |  |
+| 88 | 9% | 78% |  |
+| 89 | 10% | 69% |  |
+| 90 | 11% | 59% | Median |
+| 91 | 10% | 48% |  |
+| 92 | 9% | 38% |  |
+| 93 | 8% | 28% |  |
+| 94 | 7% | 20% |  |
+| 95 | 5% | 14% |  |
+| 96 | 4% | 9% |  |
+| 97 | 2% | 5% |  |
+| 98 | 1.4% | 3% |  |
+| 99 | 0.8% | 1.4% |  |
+| 100 | 0.4% | 0.6% |  |
+| 101 | 0.2% | 0.3% |  |
+| 102 | 0.1% | 0.1% |  |
+| 103 | 0% | 0% |  |
+| 104 | 0% | 0% |  |
 | 105 | 0% | 0% |  |
 | 106 | 0% | 0% |  |
 | 107 | 0% | 0% |  |
