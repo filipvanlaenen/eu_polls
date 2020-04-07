@@ -18,17 +18,17 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 71 | 67–75 | 66–76 | 65–77 | 62–78 |
-| Zjednoczona Prawica | PL | | 24 | 22–26 | 22–27 | 21–27 | 21–28 |
-| Fratelli d’Italia | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
+| European Conservatives and Reformists | EU | 62 | 71 | 66–75 | 65–76 | 64–77 | 62–78 |
+| Zjednoczona Prawica | PL | | 25 | 22–27 | 22–27 | 21–27 | 21–28 |
+| Fratelli d’Italia | IT | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Vox | ES | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| Forum voor Democratie | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Forum voor Democratie | NL | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1 |
@@ -41,7 +41,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -51,24 +51,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
+| 59 | 0% | 100% |  |
+| 60 | 0.1% | 99.9% |  |
 | 61 | 0.2% | 99.9% |  |
-| 62 | 0.3% | 99.7% | Last Result |
-| 63 | 0.6% | 99.4% |  |
-| 64 | 1.3% | 98.8% |  |
-| 65 | 2% | 98% |  |
-| 66 | 4% | 95% |  |
-| 67 | 6% | 91% |  |
-| 68 | 9% | 85% |  |
-| 69 | 11% | 76% |  |
-| 70 | 13% | 65% |  |
-| 71 | 13% | 52% | Median |
-| 72 | 12% | 39% |  |
-| 73 | 10% | 28% |  |
-| 74 | 7% | 18% |  |
-| 75 | 5% | 11% |  |
-| 76 | 3% | 6% |  |
-| 77 | 2% | 3% |  |
+| 62 | 0.4% | 99.7% | Last Result |
+| 63 | 0.8% | 99.3% |  |
+| 64 | 2% | 98% |  |
+| 65 | 3% | 97% |  |
+| 66 | 5% | 94% |  |
+| 67 | 7% | 90% |  |
+| 68 | 9% | 83% |  |
+| 69 | 11% | 74% |  |
+| 70 | 12% | 63% |  |
+| 71 | 12% | 50% | Median |
+| 72 | 11% | 38% |  |
+| 73 | 9% | 27% |  |
+| 74 | 7% | 17% |  |
+| 75 | 5% | 10% |  |
+| 76 | 3% | 5% |  |
+| 77 | 1.5% | 3% |  |
 | 78 | 0.7% | 1.2% |  |
 | 79 | 0.3% | 0.5% |  |
 | 80 | 0.1% | 0.2% |  |
