@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–7 | 3–8 | 2–9 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–8 | 3–8 | 2–9 |
 | Nezavisna lista Miroslava Škore [HR] (*) | HR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -27,7 +27,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -49,14 +49,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 11% | 98% |  |
-| 4 | 12% | 86% |  |
-| 5 | 37% | 75% | Median |
-| 6 | 24% | 38% |  |
-| 7 | 10% | 14% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.5% | 0.6% |  |
-| 10 | 0.1% | 0.1% |  |
+| 3 | 8% | 98% |  |
+| 4 | 12% | 90% |  |
+| 5 | 29% | 78% | Median |
+| 6 | 28% | 50% |  |
+| 7 | 15% | 22% |  |
+| 8 | 5% | 7% |  |
+| 9 | 1.4% | 2% |  |
+| 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 

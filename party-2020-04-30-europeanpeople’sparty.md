@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **182** seats (General Election of 26 May 2019)
 
-Current median: **180** seats (-2 seats)
+Current median: **179** seats (-3 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 180 | 174–186 | 172–187 | 171–189 | 168–192 |
+| European People’s Party | EU | 182 | 179 | 172–185 | 171–187 | 169–188 | 167–191 |
 | Christlich Demokratische Union Deutschlands | DE | | 25 | 23–29 | 22–30 | 20–30 | 20–30 |
 | Partidul Național Liberal | RO | | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | Partido Popular | ES | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Fine Gael | IE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Fine Gael | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Koalicja Polska | PL | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
@@ -75,37 +75,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 165 | 0% | 100% |  |
-| 166 | 0.1% | 99.9% |  |
-| 167 | 0.2% | 99.8% |  |
-| 168 | 0.4% | 99.6% |  |
-| 169 | 0.6% | 99.3% |  |
-| 170 | 1.0% | 98.6% |  |
-| 171 | 2% | 98% |  |
-| 172 | 2% | 96% |  |
-| 173 | 3% | 94% |  |
-| 174 | 4% | 91% |  |
-| 175 | 5% | 86% |  |
-| 176 | 6% | 81% |  |
-| 177 | 7% | 75% |  |
-| 178 | 8% | 67% |  |
-| 179 | 8% | 60% |  |
-| 180 | 8% | 51% | Median |
-| 181 | 8% | 43% |  |
-| 182 | 7% | 35% | Last Result |
-| 183 | 7% | 28% |  |
-| 184 | 6% | 21% |  |
-| 185 | 5% | 15% |  |
-| 186 | 4% | 11% |  |
-| 187 | 3% | 7% |  |
-| 188 | 2% | 5% |  |
-| 189 | 1.2% | 3% |  |
-| 190 | 0.8% | 2% |  |
-| 191 | 0.5% | 1.0% |  |
-| 192 | 0.3% | 0.5% |  |
-| 193 | 0.1% | 0.3% |  |
-| 194 | 0.1% | 0.1% |  |
-| 195 | 0% | 0.1% |  |
-| 196 | 0% | 0% |  |
+| 163 | 0% | 100% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.1% | 99.9% |  |
+| 166 | 0.2% | 99.8% |  |
+| 167 | 0.4% | 99.5% |  |
+| 168 | 0.7% | 99.1% |  |
+| 169 | 1.1% | 98% |  |
+| 170 | 2% | 97% |  |
+| 171 | 2% | 96% |  |
+| 172 | 3% | 93% |  |
+| 173 | 4% | 90% |  |
+| 174 | 5% | 86% |  |
+| 175 | 6% | 80% |  |
+| 176 | 7% | 74% |  |
+| 177 | 8% | 67% |  |
+| 178 | 8% | 59% |  |
+| 179 | 8% | 51% | Median |
+| 180 | 8% | 43% |  |
+| 181 | 7% | 35% |  |
+| 182 | 6% | 28% | Last Result |
+| 183 | 6% | 21% |  |
+| 184 | 5% | 16% |  |
+| 185 | 4% | 11% |  |
+| 186 | 3% | 8% |  |
+| 187 | 2% | 5% |  |
+| 188 | 1.3% | 3% |  |
+| 189 | 0.8% | 2% |  |
+| 190 | 0.5% | 1.1% |  |
+| 191 | 0.3% | 0.6% |  |
+| 192 | 0.2% | 0.3% |  |
+| 193 | 0.1% | 0.2% |  |
+| 194 | 0% | 0.1% |  |
+| 195 | 0% | 0% |  |
 
 

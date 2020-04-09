@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 47 | 42–52 | 41–53 | 41–54 | 39–56 |
+| Greens–European Free Alliance | EU | 75 | 47 | 43–52 | 41–54 | 41–54 | 39–56 |
 | Bündnis 90/Die Grünen | DE | | 17 | 15–22 | 15–22 | 15–23 | 15–24 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
