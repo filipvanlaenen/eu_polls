@@ -35,10 +35,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatski suverenisti | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -49,7 +48,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
+| 58 | 0% | 100% |  |
+| 59 | 0.1% | 99.9% |  |
 | 60 | 0.2% | 99.9% |  |
 | 61 | 0.3% | 99.7% |  |
 | 62 | 0.6% | 99.4% | Last Result |
@@ -62,13 +62,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 11% | 70% |  |
 | 70 | 12% | 59% | Median |
 | 71 | 12% | 47% |  |
-| 72 | 10% | 36% |  |
+| 72 | 11% | 36% |  |
 | 73 | 9% | 25% |  |
 | 74 | 7% | 16% |  |
 | 75 | 4% | 10% |  |
 | 76 | 3% | 5% |  |
-| 77 | 2% | 3% |  |
-| 78 | 0.7% | 1.3% |  |
+| 77 | 1.5% | 3% |  |
+| 78 | 0.7% | 1.2% |  |
 | 79 | 0.3% | 0.5% |  |
 | 80 | 0.1% | 0.2% |  |
 | 81 | 0% | 0.1% |  |

@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 179 | 172–185 | 171–187 | 169–188 | 167–191 |
+| European People’s Party | EU | 182 | 179 | 173–185 | 171–187 | 169–188 | 167–191 |
 | Christlich Demokratische Union Deutschlands | DE | | 25 | 23–29 | 22–30 | 20–30 | 20–30 |
 | Partidul Național Liberal | RO | | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
 | Partido Popular | ES | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -32,7 +32,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
-| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Koalicja Polska | PL | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -87,24 +87,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 172 | 3% | 93% |  |
 | 173 | 4% | 90% |  |
 | 174 | 5% | 86% |  |
-| 175 | 6% | 80% |  |
-| 176 | 7% | 74% |  |
-| 177 | 8% | 67% |  |
-| 178 | 8% | 59% |  |
-| 179 | 8% | 51% | Median |
-| 180 | 8% | 43% |  |
-| 181 | 7% | 35% |  |
-| 182 | 6% | 28% | Last Result |
-| 183 | 6% | 21% |  |
-| 184 | 5% | 16% |  |
-| 185 | 4% | 11% |  |
+| 175 | 6% | 81% |  |
+| 176 | 7% | 75% |  |
+| 177 | 8% | 68% |  |
+| 178 | 8% | 60% |  |
+| 179 | 8% | 52% | Median |
+| 180 | 8% | 44% |  |
+| 181 | 7% | 36% |  |
+| 182 | 7% | 29% | Last Result |
+| 183 | 6% | 22% |  |
+| 184 | 5% | 17% |  |
+| 185 | 4% | 12% |  |
 | 186 | 3% | 8% |  |
-| 187 | 2% | 5% |  |
-| 188 | 1.3% | 3% |  |
-| 189 | 0.8% | 2% |  |
-| 190 | 0.5% | 1.1% |  |
-| 191 | 0.3% | 0.6% |  |
-| 192 | 0.2% | 0.3% |  |
+| 187 | 2% | 6% |  |
+| 188 | 1.4% | 4% |  |
+| 189 | 0.9% | 2% |  |
+| 190 | 0.6% | 1.3% |  |
+| 191 | 0.3% | 0.7% |  |
+| 192 | 0.2% | 0.4% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
