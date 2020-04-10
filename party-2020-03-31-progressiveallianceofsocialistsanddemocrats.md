@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **154** seats (General Election of 26 May 2019)
 
-Current median: **134** seats (-20 seats)
+Current median: **133** seats (-21 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 134 | 128–139 | 127–140 | 125–142 | 123–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 133 | 128–138 | 126–140 | 125–141 | 122–144 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 12–18 | 12–18 | 12–18 |
@@ -26,7 +26,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Socialista | PT | | 8 | 7–10 | 7–11 | 7–11 | 6–11 |
 | Lewica | PL | | 7 | 4–8 | 4–9 | 3–9 | 3–9 |
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Socijaldemokratska partija Hrvatske | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Socijaldemokratska partija Hrvatske | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -65,34 +65,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 120 | 0% | 100% |  |
-| 121 | 0.1% | 99.9% |  |
-| 122 | 0.2% | 99.8% |  |
-| 123 | 0.4% | 99.6% |  |
-| 124 | 0.7% | 99.2% |  |
-| 125 | 1.2% | 98% |  |
-| 126 | 2% | 97% |  |
-| 127 | 3% | 95% |  |
-| 128 | 4% | 92% |  |
-| 129 | 5% | 88% |  |
-| 130 | 7% | 83% |  |
-| 131 | 8% | 76% |  |
-| 132 | 9% | 68% |  |
-| 133 | 9% | 60% |  |
-| 134 | 9% | 50% | Median |
-| 135 | 9% | 41% |  |
-| 136 | 8% | 32% |  |
-| 137 | 7% | 24% |  |
-| 138 | 5% | 17% |  |
-| 139 | 4% | 12% |  |
-| 140 | 3% | 8% |  |
-| 141 | 2% | 5% |  |
-| 142 | 1.3% | 3% |  |
-| 143 | 0.8% | 2% |  |
-| 144 | 0.4% | 0.9% |  |
-| 145 | 0.2% | 0.5% |  |
-| 146 | 0.1% | 0.2% |  |
-| 147 | 0.1% | 0.1% |  |
+| 119 | 0% | 100% |  |
+| 120 | 0.1% | 99.9% |  |
+| 121 | 0.2% | 99.9% |  |
+| 122 | 0.3% | 99.7% |  |
+| 123 | 0.6% | 99.4% |  |
+| 124 | 1.0% | 98.9% |  |
+| 125 | 2% | 98% |  |
+| 126 | 2% | 96% |  |
+| 127 | 3% | 94% |  |
+| 128 | 5% | 90% |  |
+| 129 | 6% | 86% |  |
+| 130 | 7% | 80% |  |
+| 131 | 8% | 72% |  |
+| 132 | 9% | 64% |  |
+| 133 | 9% | 55% | Median |
+| 134 | 9% | 45% |  |
+| 135 | 8% | 36% |  |
+| 136 | 7% | 28% |  |
+| 137 | 6% | 20% |  |
+| 138 | 5% | 14% |  |
+| 139 | 3% | 10% |  |
+| 140 | 2% | 6% |  |
+| 141 | 2% | 4% |  |
+| 142 | 1.0% | 2% |  |
+| 143 | 0.6% | 1.2% |  |
+| 144 | 0.3% | 0.6% |  |
+| 145 | 0.2% | 0.3% |  |
+| 146 | 0.1% | 0.1% |  |
+| 147 | 0% | 0.1% |  |
 | 148 | 0% | 0% |  |
 | 149 | 0% | 0% |  |
 | 150 | 0% | 0% |  |

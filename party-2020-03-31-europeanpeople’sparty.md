@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 5 | 5 | 5 | 5 | 5 |
-| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Koalicja Polska | PL | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -80,24 +80,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 169 | 0.1% | 100% |  |
+| 168 | 0% | 100% |  |
+| 169 | 0.1% | 99.9% |  |
 | 170 | 0.1% | 99.9% |  |
-| 171 | 0.3% | 99.8% |  |
+| 171 | 0.3% | 99.7% |  |
 | 172 | 0.5% | 99.5% |  |
 | 173 | 0.8% | 99.0% |  |
-| 174 | 1.2% | 98% |  |
+| 174 | 1.3% | 98% |  |
 | 175 | 2% | 97% |  |
 | 176 | 3% | 95% |  |
-| 177 | 4% | 93% |  |
+| 177 | 4% | 92% |  |
 | 178 | 5% | 89% |  |
-| 179 | 6% | 85% |  |
-| 180 | 7% | 79% |  |
+| 179 | 6% | 84% |  |
+| 180 | 7% | 78% |  |
 | 181 | 8% | 72% |  |
-| 182 | 8% | 65% | Last Result |
-| 183 | 8% | 57% | Median |
+| 182 | 8% | 64% | Last Result |
+| 183 | 8% | 56% | Median |
 | 184 | 8% | 48% |  |
-| 185 | 8% | 40% |  |
-| 186 | 7% | 32% |  |
+| 185 | 8% | 39% |  |
+| 186 | 7% | 31% |  |
 | 187 | 6% | 24% |  |
 | 188 | 5% | 18% |  |
 | 189 | 4% | 13% |  |
