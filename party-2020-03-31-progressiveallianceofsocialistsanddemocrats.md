@@ -31,7 +31,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 3 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -70,22 +70,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 0.2% | 99.9% |  |
 | 122 | 0.3% | 99.7% |  |
 | 123 | 0.6% | 99.4% |  |
-| 124 | 1.0% | 98.9% |  |
+| 124 | 1.0% | 98.8% |  |
 | 125 | 2% | 98% |  |
 | 126 | 2% | 96% |  |
-| 127 | 3% | 94% |  |
+| 127 | 4% | 94% |  |
 | 128 | 5% | 90% |  |
 | 129 | 6% | 86% |  |
-| 130 | 7% | 80% |  |
+| 130 | 7% | 79% |  |
 | 131 | 8% | 72% |  |
 | 132 | 9% | 64% |  |
-| 133 | 9% | 55% | Median |
+| 133 | 9% | 54% | Median |
 | 134 | 9% | 45% |  |
 | 135 | 8% | 36% |  |
-| 136 | 7% | 28% |  |
+| 136 | 7% | 27% |  |
 | 137 | 6% | 20% |  |
 | 138 | 5% | 14% |  |
-| 139 | 3% | 10% |  |
+| 139 | 3% | 9% |  |
 | 140 | 2% | 6% |  |
 | 141 | 2% | 4% |  |
 | 142 | 1.0% | 2% |  |

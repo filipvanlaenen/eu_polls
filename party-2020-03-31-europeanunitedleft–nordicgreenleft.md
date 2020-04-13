@@ -26,7 +26,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -68,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 2% | 99.0% |  |
 | 52 | 4% | 97% |  |
 | 53 | 7% | 93% |  |
-| 54 | 11% | 86% |  |
-| 55 | 15% | 75% |  |
-| 56 | 17% | 60% | Median |
-| 57 | 16% | 43% |  |
+| 54 | 12% | 86% |  |
+| 55 | 15% | 74% |  |
+| 56 | 17% | 59% | Median |
+| 57 | 16% | 42% |  |
 | 58 | 12% | 27% |  |
 | 59 | 8% | 15% |  |
 | 60 | 4% | 7% |  |
 | 61 | 2% | 3% |  |
-| 62 | 0.7% | 1.1% |  |
+| 62 | 0.7% | 1.0% |  |
 | 63 | 0.2% | 0.3% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
