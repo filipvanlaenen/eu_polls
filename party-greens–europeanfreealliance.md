@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **75** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (-27 seats)
+Current median: **46** seats (-29 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 48 | 43–53 | 42–55 | 41–56 | 39–58 |
-| Bündnis 90/Die Grünen | DE | | 19 | 16–22 | 16–24 | 15–24 | 14–24 |
+| Greens–European Free Alliance | EU | 75 | 46 | 42–51 | 41–53 | 40–54 | 38–56 |
+| Bündnis 90/Die Grünen | DE | | 17 | 15–21 | 14–22 | 14–23 | 14–23 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -34,7 +34,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -50,40 +49,42 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-03-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-03-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.5% | 99.7% |  |
-| 40 | 1.1% | 99.2% |  |
-| 41 | 2% | 98% |  |
-| 42 | 4% | 96% |  |
-| 43 | 6% | 92% |  |
-| 44 | 8% | 86% |  |
-| 45 | 9% | 79% |  |
-| 46 | 10% | 70% |  |
-| 47 | 10% | 60% |  |
-| 48 | 9% | 50% | Median |
-| 49 | 8% | 41% |  |
-| 50 | 8% | 33% |  |
-| 51 | 7% | 25% |  |
-| 52 | 6% | 19% |  |
-| 53 | 4% | 13% |  |
-| 54 | 3% | 8% |  |
-| 55 | 2% | 5% |  |
-| 56 | 1.4% | 3% |  |
-| 57 | 0.8% | 1.5% |  |
-| 58 | 0.4% | 0.7% |  |
-| 59 | 0.2% | 0.3% |  |
-| 60 | 0.1% | 0.1% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.2% | 99.9% |  |
+| 38 | 0.5% | 99.7% |  |
+| 39 | 1.2% | 99.2% |  |
+| 40 | 2% | 98% |  |
+| 41 | 4% | 96% |  |
+| 42 | 6% | 91% |  |
+| 43 | 8% | 85% |  |
+| 44 | 10% | 76% |  |
+| 45 | 10% | 67% |  |
+| 46 | 10% | 57% | Median |
+| 47 | 9% | 47% |  |
+| 48 | 8% | 37% |  |
+| 49 | 8% | 29% |  |
+| 50 | 7% | 21% |  |
+| 51 | 5% | 15% |  |
+| 52 | 4% | 9% |  |
+| 53 | 3% | 5% |  |
+| 54 | 1.5% | 3% |  |
+| 55 | 0.7% | 1.2% |  |
+| 56 | 0.3% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
