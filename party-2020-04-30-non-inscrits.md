@@ -20,7 +20,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 56 | 20 | 17–22 | 17–23 | 16–23 | 14–24 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
-| Konfederacja | PL | | 4 | 2–5 | 0–5 | 0–5 | 0–5 |
+| Konfederacja | PL | | 4 | 2–5 | 0–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -48,7 +48,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 6% | 95% |  |
 | 18 | 13% | 90% |  |
 | 19 | 20% | 77% |  |
-| 20 | 23% | 57% | Median |
+| 20 | 23% | 56% | Median |
 | 21 | 18% | 34% |  |
 | 22 | 10% | 16% |  |
 | 23 | 4% | 6% |  |
