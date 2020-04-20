@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 5 | 5 | 5 | 5 | 5 |
-| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Koalicja Polska | PL | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -54,7 +54,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Za ľudí | SK | | 1 | 1 | 1 | 1 | 1 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -80,10 +80,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 168 | 0% | 100% |  |
-| 169 | 0.1% | 99.9% |  |
+| 169 | 0.1% | 100% |  |
 | 170 | 0.1% | 99.9% |  |
-| 171 | 0.3% | 99.7% |  |
+| 171 | 0.3% | 99.8% |  |
 | 172 | 0.5% | 99.5% |  |
 | 173 | 0.8% | 99.0% |  |
 | 174 | 1.2% | 98% |  |
@@ -96,18 +95,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 7% | 73% |  |
 | 182 | 8% | 65% | Last Result |
 | 183 | 8% | 57% | Median |
-| 184 | 8% | 49% |  |
+| 184 | 8% | 48% |  |
 | 185 | 8% | 40% |  |
 | 186 | 7% | 32% |  |
 | 187 | 6% | 25% |  |
-| 188 | 5% | 19% |  |
+| 188 | 5% | 18% |  |
 | 189 | 4% | 13% |  |
 | 190 | 3% | 9% |  |
 | 191 | 2% | 6% |  |
 | 192 | 2% | 4% |  |
 | 193 | 1.0% | 2% |  |
 | 194 | 0.6% | 1.3% |  |
-| 195 | 0.4% | 0.7% |  |
+| 195 | 0.3% | 0.7% |  |
 | 196 | 0.2% | 0.4% |  |
 | 197 | 0.1% | 0.2% |  |
 | 198 | 0% | 0.1% |  |
