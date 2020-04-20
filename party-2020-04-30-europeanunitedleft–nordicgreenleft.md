@@ -20,8 +20,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 41 | 55 | 52–58 | 51–59 | 50–60 | 49–62 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Unidos Podemos | ES | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 4–7 | 4–7 | 3–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -63,22 +63,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% |  |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.3% | 99.9% |  |
-| 49 | 0.7% | 99.6% |  |
+| 49 | 0.8% | 99.6% |  |
 | 50 | 2% | 98.9% |  |
 | 51 | 4% | 97% |  |
 | 52 | 7% | 93% |  |
 | 53 | 11% | 86% |  |
-| 54 | 14% | 76% |  |
+| 54 | 14% | 75% |  |
 | 55 | 16% | 61% | Median |
-| 56 | 15% | 46% |  |
+| 56 | 15% | 45% |  |
 | 57 | 12% | 30% |  |
-| 58 | 9% | 18% |  |
+| 58 | 8% | 18% |  |
 | 59 | 5% | 9% |  |
-| 60 | 3% | 4% |  |
+| 60 | 2% | 4% |  |
 | 61 | 1.1% | 2% |  |
 | 62 | 0.4% | 0.6% |  |
 | 63 | 0.1% | 0.2% |  |
-| 64 | 0% | 0.1% |  |
-| 65 | 0% | 0% |  |
+| 64 | 0% | 0% |  |
 
 
