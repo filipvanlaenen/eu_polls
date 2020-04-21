@@ -34,7 +34,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,8 +60,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 10% | 78% |  |
 | 69 | 11% | 68% |  |
 | 70 | 11% | 57% | Median |
-| 71 | 11% | 46% |  |
-| 72 | 10% | 35% |  |
+| 71 | 11% | 45% |  |
+| 72 | 9% | 34% |  |
 | 73 | 8% | 25% |  |
 | 74 | 6% | 17% |  |
 | 75 | 4% | 11% |  |
