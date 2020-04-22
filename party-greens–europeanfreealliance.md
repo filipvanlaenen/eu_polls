@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 75 | 45 | 41–49 | 40–50 | 40–51 | 38–53 |
-| Bündnis 90/Die Grünen | DE | | 16 | 16–20 | 15–20 | 14–21 | 13–22 |
+| Greens–European Free Alliance | EU | 75 | 45 | 41–49 | 40–50 | 39–51 | 38–53 |
+| Bündnis 90/Die Grünen | DE | | 16 | 16–19 | 15–20 | 14–21 | 13–22 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -32,9 +32,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -45,11 +44,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -63,23 +63,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% |  |
 | 36 | 0.1% | 99.9% |  |
 | 37 | 0.2% | 99.9% |  |
-| 38 | 0.6% | 99.7% |  |
-| 39 | 2% | 99.1% |  |
-| 40 | 3% | 98% |  |
+| 38 | 0.6% | 99.6% |  |
+| 39 | 2% | 99.0% |  |
+| 40 | 3% | 97% |  |
 | 41 | 6% | 94% |  |
-| 42 | 9% | 89% |  |
-| 43 | 11% | 80% |  |
-| 44 | 13% | 69% |  |
-| 45 | 13% | 56% | Median |
-| 46 | 12% | 43% |  |
-| 47 | 10% | 31% |  |
-| 48 | 8% | 21% |  |
-| 49 | 5% | 14% |  |
-| 50 | 4% | 8% |  |
-| 51 | 2% | 5% |  |
-| 52 | 1.3% | 2% |  |
-| 53 | 0.7% | 1.1% |  |
-| 54 | 0.3% | 0.5% |  |
+| 42 | 9% | 88% |  |
+| 43 | 12% | 79% |  |
+| 44 | 13% | 67% |  |
+| 45 | 13% | 54% | Median |
+| 46 | 12% | 41% |  |
+| 47 | 10% | 29% |  |
+| 48 | 7% | 20% |  |
+| 49 | 5% | 12% |  |
+| 50 | 3% | 8% |  |
+| 51 | 2% | 4% |  |
+| 52 | 1.2% | 2% |  |
+| 53 | 0.6% | 1.1% |  |
+| 54 | 0.3% | 0.4% |  |
 | 55 | 0.1% | 0.2% |  |
 | 56 | 0% | 0.1% |  |
 | 57 | 0% | 0% |  |
