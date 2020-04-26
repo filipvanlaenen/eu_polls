@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **154** seats (General Election of 26 May 2019)
 
-Current median: **137** seats (-17 seats)
+Current median: **136** seats (-18 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 137 | 132–142 | 130–144 | 129–145 | 126–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 154 | 136 | 131–141 | 129–143 | 128–144 | 126–147 |
 | Partito Democratico | IT | | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–20 | 15–21 | 15–22 | 15–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 13–16 | 13–18 | 13–18 | 13–18 |
@@ -30,9 +30,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Socijaldemokratska partija Hrvatske | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 3 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -64,34 +64,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 124 | 0.1% | 100% |  |
-| 125 | 0.1% | 99.9% |  |
-| 126 | 0.3% | 99.8% |  |
-| 127 | 0.5% | 99.5% |  |
-| 128 | 1.0% | 98.9% |  |
-| 129 | 2% | 98% |  |
-| 130 | 3% | 96% |  |
-| 131 | 4% | 94% |  |
-| 132 | 5% | 90% |  |
-| 133 | 7% | 85% |  |
-| 134 | 8% | 78% |  |
-| 135 | 9% | 70% |  |
-| 136 | 10% | 61% |  |
-| 137 | 10% | 52% | Median |
-| 138 | 9% | 42% |  |
-| 139 | 8% | 33% |  |
-| 140 | 7% | 25% |  |
-| 141 | 6% | 18% |  |
-| 142 | 4% | 12% |  |
-| 143 | 3% | 8% |  |
-| 144 | 2% | 5% |  |
-| 145 | 1.3% | 3% |  |
-| 146 | 0.8% | 2% |  |
-| 147 | 0.5% | 1.0% |  |
-| 148 | 0.3% | 0.5% |  |
-| 149 | 0.1% | 0.3% |  |
-| 150 | 0.1% | 0.1% |  |
-| 151 | 0% | 0.1% |  |
+| 123 | 0% | 100% |  |
+| 124 | 0.1% | 99.9% |  |
+| 125 | 0.2% | 99.8% |  |
+| 126 | 0.4% | 99.6% |  |
+| 127 | 0.8% | 99.2% |  |
+| 128 | 1.4% | 98% |  |
+| 129 | 2% | 97% |  |
+| 130 | 3% | 95% |  |
+| 131 | 5% | 91% |  |
+| 132 | 6% | 87% |  |
+| 133 | 8% | 80% |  |
+| 134 | 9% | 73% |  |
+| 135 | 10% | 64% |  |
+| 136 | 10% | 55% | Median |
+| 137 | 9% | 45% |  |
+| 138 | 9% | 36% |  |
+| 139 | 7% | 27% |  |
+| 140 | 6% | 20% |  |
+| 141 | 5% | 14% |  |
+| 142 | 3% | 9% |  |
+| 143 | 2% | 6% |  |
+| 144 | 1.5% | 4% |  |
+| 145 | 0.9% | 2% |  |
+| 146 | 0.5% | 1.1% |  |
+| 147 | 0.3% | 0.6% |  |
+| 148 | 0.2% | 0.3% |  |
+| 149 | 0.1% | 0.1% |  |
+| 150 | 0% | 0.1% |  |
+| 151 | 0% | 0% |  |
 | 152 | 0% | 0% |  |
 | 153 | 0% | 0% |  |
 | 154 | 0% | 0% | Last Result |
