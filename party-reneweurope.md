@@ -23,9 +23,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
-| Freie Demokratische Partei | DE | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
+| Freie Demokratische Partei | DE | | 6 | 5–7 | 4–7 | 4–7 | 3–8 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -39,12 +39,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1 | 1 | 1 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -75,31 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 79 | 0% | 100% |  |
-| 80 | 0.1% | 99.9% |  |
-| 81 | 0.3% | 99.8% |  |
+| 80 | 0.1% | 100% |  |
+| 81 | 0.2% | 99.9% |  |
 | 82 | 0.5% | 99.6% |  |
-| 83 | 1.0% | 99.0% |  |
+| 83 | 1.0% | 99.1% |  |
 | 84 | 2% | 98% |  |
-| 85 | 3% | 96% |  |
-| 86 | 4% | 93% |  |
-| 87 | 6% | 89% |  |
-| 88 | 7% | 83% |  |
-| 89 | 9% | 76% |  |
-| 90 | 10% | 67% |  |
-| 91 | 10% | 58% | Median |
-| 92 | 10% | 48% |  |
-| 93 | 9% | 38% |  |
-| 94 | 8% | 29% |  |
-| 95 | 6% | 21% |  |
-| 96 | 5% | 15% |  |
-| 97 | 4% | 10% |  |
-| 98 | 3% | 6% |  |
+| 85 | 3% | 97% |  |
+| 86 | 4% | 94% |  |
+| 87 | 6% | 90% |  |
+| 88 | 7% | 84% |  |
+| 89 | 8% | 77% |  |
+| 90 | 9% | 69% |  |
+| 91 | 10% | 59% | Median |
+| 92 | 10% | 49% |  |
+| 93 | 9% | 39% |  |
+| 94 | 8% | 30% |  |
+| 95 | 7% | 22% |  |
+| 96 | 5% | 16% |  |
+| 97 | 4% | 11% |  |
+| 98 | 3% | 7% |  |
 | 99 | 2% | 4% |  |
-| 100 | 1.0% | 2% |  |
-| 101 | 0.6% | 1.1% |  |
-| 102 | 0.3% | 0.5% |  |
-| 103 | 0.1% | 0.2% |  |
+| 100 | 1.1% | 2% |  |
+| 101 | 0.6% | 1.3% |  |
+| 102 | 0.3% | 0.6% |  |
+| 103 | 0.2% | 0.3% |  |
 | 104 | 0.1% | 0.1% |  |
 | 105 | 0% | 0% |  |
 | 106 | 0% | 0% |  |
