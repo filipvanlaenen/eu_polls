@@ -18,12 +18,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 62 | 70 | 65–76 | 64–78 | 63–79 | 60–81 |
+| European Conservatives and Reformists | EU | 62 | 70 | 65–76 | 64–77 | 62–79 | 60–81 |
 | Zjednoczona Prawica | PL | | 23 | 19–29 | 19–29 | 18–30 | 18–30 |
 | Fratelli d’Italia | IT | | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
 | Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Domovinski pokret Miroslava Škore | HR | | 2 | 2 | 2 | 2 | 1–3 |
@@ -55,27 +55,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 0.1% | 99.9% |  |
 | 59 | 0.2% | 99.9% |  |
 | 60 | 0.3% | 99.7% |  |
-| 61 | 0.6% | 99.4% |  |
-| 62 | 1.1% | 98.8% | Last Result |
-| 63 | 2% | 98% |  |
-| 64 | 3% | 96% |  |
-| 65 | 4% | 93% |  |
-| 66 | 6% | 89% |  |
-| 67 | 7% | 83% |  |
-| 68 | 9% | 76% |  |
-| 69 | 10% | 67% |  |
-| 70 | 10% | 58% | Median |
-| 71 | 10% | 48% |  |
-| 72 | 8% | 38% |  |
-| 73 | 7% | 30% |  |
-| 74 | 6% | 23% |  |
-| 75 | 5% | 17% |  |
-| 76 | 4% | 12% |  |
+| 61 | 0.7% | 99.3% |  |
+| 62 | 1.2% | 98.7% | Last Result |
+| 63 | 2% | 97% |  |
+| 64 | 3% | 95% |  |
+| 65 | 4% | 92% |  |
+| 66 | 6% | 88% |  |
+| 67 | 7% | 82% |  |
+| 68 | 9% | 75% |  |
+| 69 | 10% | 66% |  |
+| 70 | 10% | 56% | Median |
+| 71 | 9% | 46% |  |
+| 72 | 8% | 37% |  |
+| 73 | 7% | 29% |  |
+| 74 | 6% | 22% |  |
+| 75 | 5% | 16% |  |
+| 76 | 4% | 11% |  |
 | 77 | 3% | 8% |  |
 | 78 | 2% | 5% |  |
-| 79 | 1.4% | 3% |  |
-| 80 | 0.8% | 2% |  |
-| 81 | 0.4% | 0.8% |  |
+| 79 | 1.3% | 3% |  |
+| 80 | 0.8% | 1.5% |  |
+| 81 | 0.4% | 0.7% |  |
 | 82 | 0.2% | 0.3% |  |
 | 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |

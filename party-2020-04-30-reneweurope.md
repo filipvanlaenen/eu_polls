@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **108** seats (General Election of 26 May 2019)
 
-Current median: **91** seats (-17 seats)
+Current median: **92** seats (-16 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 91 | 86–97 | 85–98 | 84–99 | 82–102 |
+| Renew Europe | EU | 108 | 92 | 87–97 | 86–99 | 85–100 | 82–102 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
-| Freie Demokratische Partei | DE | | 6 | 5–7 | 4–7 | 4–7 | 3–8 |
+| Freie Demokratische Partei | DE | | 6 | 5–6 | 4–7 | 4–8 | 3–8 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -39,7 +39,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -76,31 +76,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 80 | 0.1% | 100% |  |
-| 81 | 0.2% | 99.9% |  |
-| 82 | 0.5% | 99.6% |  |
-| 83 | 1.0% | 99.1% |  |
-| 84 | 2% | 98% |  |
-| 85 | 3% | 97% |  |
-| 86 | 4% | 94% |  |
-| 87 | 6% | 90% |  |
-| 88 | 7% | 84% |  |
-| 89 | 8% | 77% |  |
-| 90 | 9% | 69% |  |
-| 91 | 10% | 59% | Median |
-| 92 | 10% | 49% |  |
-| 93 | 9% | 39% |  |
-| 94 | 8% | 30% |  |
-| 95 | 7% | 22% |  |
-| 96 | 5% | 16% |  |
-| 97 | 4% | 11% |  |
-| 98 | 3% | 7% |  |
-| 99 | 2% | 4% |  |
-| 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.3% |  |
-| 102 | 0.3% | 0.6% |  |
-| 103 | 0.2% | 0.3% |  |
-| 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0% |  |
+| 81 | 0.1% | 99.9% |  |
+| 82 | 0.3% | 99.8% |  |
+| 83 | 0.7% | 99.5% |  |
+| 84 | 1.3% | 98.8% |  |
+| 85 | 2% | 98% |  |
+| 86 | 3% | 95% |  |
+| 87 | 5% | 92% |  |
+| 88 | 6% | 87% |  |
+| 89 | 8% | 81% |  |
+| 90 | 9% | 73% |  |
+| 91 | 10% | 63% |  |
+| 92 | 10% | 54% | Median |
+| 93 | 10% | 43% |  |
+| 94 | 9% | 34% |  |
+| 95 | 7% | 25% |  |
+| 96 | 6% | 18% |  |
+| 97 | 4% | 12% |  |
+| 98 | 3% | 8% |  |
+| 99 | 2% | 5% |  |
+| 100 | 1.3% | 3% |  |
+| 101 | 0.8% | 2% |  |
+| 102 | 0.4% | 0.8% |  |
+| 103 | 0.2% | 0.4% |  |
+| 104 | 0.1% | 0.2% |  |
+| 105 | 0% | 0.1% |  |
 | 106 | 0% | 0% |  |
 | 107 | 0% | 0% |  |
 | 108 | 0% | 0% | Last Result |
