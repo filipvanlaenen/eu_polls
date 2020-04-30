@@ -26,10 +26,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 4–7 | 4–7 | 3–8 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Lista Marjana Šarca | SI | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -76,27 +76,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
+| 82 | 0.1% | 99.9% |  |
 | 83 | 0.4% | 99.8% |  |
 | 84 | 0.8% | 99.4% |  |
-| 85 | 2% | 98.6% |  |
+| 85 | 1.5% | 98.7% |  |
 | 86 | 3% | 97% |  |
-| 87 | 4% | 94% |  |
-| 88 | 6% | 90% |  |
-| 89 | 8% | 84% |  |
-| 90 | 9% | 76% |  |
-| 91 | 10% | 67% |  |
-| 92 | 11% | 57% | Median |
-| 93 | 10% | 46% |  |
-| 94 | 9% | 36% |  |
-| 95 | 8% | 27% |  |
-| 96 | 6% | 19% |  |
-| 97 | 5% | 13% |  |
+| 87 | 4% | 95% |  |
+| 88 | 6% | 91% |  |
+| 89 | 8% | 85% |  |
+| 90 | 9% | 77% |  |
+| 91 | 10% | 68% |  |
+| 92 | 11% | 58% | Median |
+| 93 | 10% | 47% |  |
+| 94 | 9% | 37% |  |
+| 95 | 8% | 28% |  |
+| 96 | 6% | 20% |  |
+| 97 | 5% | 14% |  |
 | 98 | 3% | 9% |  |
 | 99 | 2% | 5% |  |
 | 100 | 1.4% | 3% |  |
 | 101 | 0.8% | 2% |  |
-| 102 | 0.4% | 0.8% |  |
+| 102 | 0.5% | 0.9% |  |
 | 103 | 0.2% | 0.4% |  |
 | 104 | 0.1% | 0.2% |  |
 | 105 | 0% | 0.1% |  |
