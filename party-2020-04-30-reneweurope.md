@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 108 | 92 | 88–97 | 87–99 | 86–100 | 84–102 |
+| Renew Europe | EU | 108 | 92 | 88–97 | 86–99 | 85–100 | 83–102 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -30,7 +30,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Fianna Fáil | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Lista Marjana Šarca | SI | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -75,29 +75,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0% | 100% |  |
-| 82 | 0.1% | 99.9% |  |
-| 83 | 0.3% | 99.8% |  |
-| 84 | 0.7% | 99.6% |  |
-| 85 | 1.3% | 98.9% |  |
-| 86 | 2% | 98% |  |
-| 87 | 4% | 95% |  |
-| 88 | 6% | 91% |  |
-| 89 | 7% | 86% |  |
-| 90 | 9% | 79% |  |
-| 91 | 10% | 69% |  |
-| 92 | 11% | 59% | Median |
-| 93 | 10% | 49% |  |
-| 94 | 9% | 38% |  |
-| 95 | 8% | 29% |  |
-| 96 | 6% | 21% |  |
-| 97 | 5% | 14% |  |
-| 98 | 4% | 9% |  |
-| 99 | 2% | 6% |  |
-| 100 | 2% | 3% |  |
-| 101 | 0.9% | 2% |  |
-| 102 | 0.5% | 0.9% |  |
-| 103 | 0.3% | 0.4% |  |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.4% | 99.8% |  |
+| 84 | 0.8% | 99.4% |  |
+| 85 | 2% | 98.6% |  |
+| 86 | 3% | 97% |  |
+| 87 | 4% | 94% |  |
+| 88 | 6% | 90% |  |
+| 89 | 8% | 84% |  |
+| 90 | 9% | 76% |  |
+| 91 | 10% | 67% |  |
+| 92 | 11% | 57% | Median |
+| 93 | 10% | 46% |  |
+| 94 | 9% | 36% |  |
+| 95 | 8% | 27% |  |
+| 96 | 6% | 19% |  |
+| 97 | 5% | 13% |  |
+| 98 | 3% | 9% |  |
+| 99 | 2% | 5% |  |
+| 100 | 1.4% | 3% |  |
+| 101 | 0.8% | 2% |  |
+| 102 | 0.4% | 0.8% |  |
+| 103 | 0.2% | 0.4% |  |
 | 104 | 0.1% | 0.2% |  |
 | 105 | 0% | 0.1% |  |
 | 106 | 0% | 0% |  |
