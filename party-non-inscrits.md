@@ -6,9 +6,9 @@ Members registered from **11 countries**:
 
 ## Seats
 
-Last result: **56** seats (General Election of 26 May 2019)
+Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **23** seats (-33 seats)
+Current median: **23** seats (-6 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 56 | 23 | 20–26 | 20–27 | 19–27 | 18–29 |
+| Non-Inscrits | EU | 29 | 23 | 20–26 | 20–27 | 19–27 | 18–29 |
 | Movimento 5 Stelle | IT | | 13 | 11–16 | 11–16 | 11–17 | 10–18 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Jobbik | HU | | 2 | 2 | 2 | 1–3 | 1–3 |
@@ -55,33 +55,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 6% | 11% |  |
 | 27 | 3% | 6% |  |
 | 28 | 2% | 2% |  |
-| 29 | 0.6% | 0.8% |  |
+| 29 | 0.6% | 0.8% | Last Result |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% | Last Result |
 
 

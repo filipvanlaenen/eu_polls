@@ -6,9 +6,9 @@ Members registered from **14 countries**:
 
 ## Seats
 
-Last result: **73** seats (General Election of 26 May 2019)
+Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **77** seats (+4 seats)
+Current median: **77** seats (+1 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 73 | 77 | 73–80 | 72–81 | 71–82 | 69–84 |
+| Identity and Democracy | EU | 76 | 77 | 73–80 | 72–81 | 71–82 | 69–84 |
 | Rassemblement national | FR | | 25 | 24–26 | 23–27 | 22–27 | 21–28 |
 | Lega Nord | IT | | 24 | 22–26 | 21–27 | 20–27 | 20–28 |
 | Alternative für Deutschland | DE | | 10 | 8–11 | 8–11 | 7–12 | 6–12 |
@@ -48,10 +48,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 1.0% | 99.3% |  |
 | 71 | 2% | 98% |  |
 | 72 | 4% | 96% |  |
-| 73 | 6% | 93% | Last Result |
+| 73 | 6% | 93% |  |
 | 74 | 9% | 87% |  |
 | 75 | 11% | 78% |  |
-| 76 | 13% | 67% |  |
+| 76 | 13% | 67% | Last Result |
 | 77 | 14% | 54% | Median |
 | 78 | 13% | 41% |  |
 | 79 | 10% | 28% |  |

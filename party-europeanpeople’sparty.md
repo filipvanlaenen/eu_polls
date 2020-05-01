@@ -6,9 +6,9 @@ Members registered from **27 countries**:
 
 ## Seats
 
-Last result: **182** seats (General Election of 26 May 2019)
+Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **190** seats (+8 seats)
+Current median: **190** seats (+3 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 182 | 190 | 184–196 | 182–198 | 181–199 | 178–202 |
+| European People’s Party | EU | 187 | 190 | 184–196 | 182–198 | 181–199 | 178–202 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–31 | 26–31 | 25–31 | 25–32 |
 | Partido Popular | ES | | 14 | 12–16 | 12–17 | 12–17 | 11–17 |
 | Partidul Național Liberal | RO | | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
@@ -86,12 +86,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 0.5% | 99.3% |  |
 | 180 | 0.8% | 98.8% |  |
 | 181 | 1.3% | 98% |  |
-| 182 | 2% | 97% | Last Result |
+| 182 | 2% | 97% |  |
 | 183 | 3% | 95% |  |
 | 184 | 3% | 92% |  |
 | 185 | 4% | 89% |  |
 | 186 | 5% | 84% |  |
-| 187 | 6% | 79% |  |
+| 187 | 6% | 79% | Last Result |
 | 188 | 7% | 73% |  |
 | 189 | 8% | 65% |  |
 | 190 | 8% | 57% | Median |

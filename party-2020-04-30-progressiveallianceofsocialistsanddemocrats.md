@@ -6,9 +6,9 @@ Members registered from **27 countries**:
 
 ## Seats
 
-Last result: **154** seats (General Election of 26 May 2019)
+Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **138** seats (-16 seats)
+Current median: **138** seats (-9 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 154 | 138 | 133–143 | 131–144 | 130–146 | 128–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 133–143 | 131–144 | 130–146 | 128–148 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 15–21 | 15–22 | 14–22 |
 | Partito Democratico | IT | | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
@@ -86,13 +86,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 3% | 7% |  |
 | 145 | 2% | 4% |  |
 | 146 | 1.1% | 3% |  |
-| 147 | 0.7% | 1.4% |  |
+| 147 | 0.7% | 1.4% | Last Result |
 | 148 | 0.4% | 0.7% |  |
 | 149 | 0.2% | 0.4% |  |
 | 150 | 0.1% | 0.2% |  |
 | 151 | 0% | 0.1% |  |
 | 152 | 0% | 0% |  |
-| 153 | 0% | 0% |  |
-| 154 | 0% | 0% | Last Result |
 
 
