@@ -18,17 +18,17 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 45 | 41–49 | 40–50 | 40–51 | 38–53 |
-| Bündnis 90/Die Grünen | DE | | 16 | 14–18 | 14–19 | 14–20 | 13–21 |
+| Greens–European Free Alliance | EU | 67 | 45 | 41–49 | 40–50 | 39–51 | 37–53 |
+| Bündnis 90/Die Grünen | DE | | 16 | 13–18 | 13–19 | 12–20 | 12–21 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,27 +59,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0% | 100% |  |
+| 35 | 0.1% | 100% |  |
 | 36 | 0.1% | 99.9% |  |
-| 37 | 0.2% | 99.9% |  |
-| 38 | 0.6% | 99.6% |  |
-| 39 | 1.4% | 99.1% |  |
-| 40 | 3% | 98% |  |
-| 41 | 5% | 95% |  |
-| 42 | 8% | 90% |  |
-| 43 | 11% | 82% |  |
-| 44 | 13% | 71% |  |
-| 45 | 14% | 59% | Median |
-| 46 | 13% | 45% |  |
-| 47 | 11% | 32% |  |
-| 48 | 8% | 21% |  |
-| 49 | 6% | 13% |  |
-| 50 | 4% | 7% |  |
-| 51 | 2% | 4% |  |
-| 52 | 1.0% | 2% |  |
-| 53 | 0.4% | 0.6% |  |
-| 54 | 0.2% | 0.2% |  |
-| 55 | 0.1% | 0.1% |  |
+| 37 | 0.3% | 99.8% |  |
+| 38 | 0.8% | 99.5% |  |
+| 39 | 2% | 98.7% |  |
+| 40 | 3% | 97% |  |
+| 41 | 5% | 94% |  |
+| 42 | 8% | 89% |  |
+| 43 | 11% | 80% |  |
+| 44 | 13% | 70% |  |
+| 45 | 14% | 57% | Median |
+| 46 | 13% | 43% |  |
+| 47 | 11% | 31% |  |
+| 48 | 8% | 20% |  |
+| 49 | 5% | 12% |  |
+| 50 | 3% | 6% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.8% | 1.4% |  |
+| 53 | 0.4% | 0.5% |  |
+| 54 | 0.1% | 0.2% |  |
+| 55 | 0% | 0.1% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
