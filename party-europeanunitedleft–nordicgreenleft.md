@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **55** seats (+16 seats)
+Current median: **54** seats (+15 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 55 | 51–58 | 50–59 | 50–60 | 48–62 |
+| European United Left–Nordic Green Left | EU | 39 | 54 | 51–58 | 50–59 | 50–60 | 48–61 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
-| Die Linke | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
+| Die Linke | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Sinn Féin | IE | | 6 | 5–8 | 5–8 | 4–8 | 3–8 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -48,9 +48,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,19 +67,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 2% | 99.1% |  |
 | 50 | 3% | 98% |  |
 | 51 | 6% | 94% |  |
-| 52 | 9% | 88% |  |
-| 53 | 12% | 79% |  |
-| 54 | 14% | 67% |  |
-| 55 | 15% | 52% | Median |
-| 56 | 13% | 38% |  |
-| 57 | 10% | 25% |  |
-| 58 | 7% | 15% |  |
-| 59 | 4% | 8% |  |
-| 60 | 2% | 4% |  |
-| 61 | 1.0% | 2% |  |
-| 62 | 0.4% | 0.7% |  |
-| 63 | 0.2% | 0.2% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0% |  |
+| 52 | 10% | 88% |  |
+| 53 | 13% | 78% |  |
+| 54 | 15% | 65% | Median |
+| 55 | 15% | 49% |  |
+| 56 | 13% | 35% |  |
+| 57 | 9% | 22% |  |
+| 58 | 6% | 12% |  |
+| 59 | 3% | 6% |  |
+| 60 | 2% | 3% |  |
+| 61 | 0.7% | 1.2% |  |
+| 62 | 0.3% | 0.4% |  |
+| 63 | 0.1% | 0.1% |  |
+| 64 | 0% | 0% |  |
 
 

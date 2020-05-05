@@ -36,31 +36,31 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.5% | 99.7% |  |
-| 70 | 1.1% | 99.3% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0.1% | 99.9% |  |
+| 69 | 0.4% | 99.8% |  |
+| 70 | 0.9% | 99.4% |  |
 | 71 | 2% | 98% |  |
-| 72 | 4% | 96% |  |
-| 73 | 7% | 92% |  |
-| 74 | 9% | 85% |  |
-| 75 | 12% | 76% |  |
-| 76 | 13% | 64% | Last Result |
-| 77 | 13% | 51% | Median |
-| 78 | 12% | 38% |  |
-| 79 | 10% | 25% |  |
-| 80 | 7% | 16% |  |
-| 81 | 4% | 9% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.2% | 2% |  |
-| 84 | 0.5% | 0.7% |  |
-| 85 | 0.2% | 0.2% |  |
+| 72 | 3% | 97% |  |
+| 73 | 6% | 93% |  |
+| 74 | 8% | 87% |  |
+| 75 | 11% | 79% |  |
+| 76 | 13% | 68% | Last Result |
+| 77 | 14% | 55% | Median |
+| 78 | 13% | 41% |  |
+| 79 | 11% | 28% |  |
+| 80 | 8% | 18% |  |
+| 81 | 5% | 10% |  |
+| 82 | 3% | 5% |  |
+| 83 | 1.3% | 2% |  |
+| 84 | 0.5% | 0.8% |  |
+| 85 | 0.2% | 0.3% |  |
 | 86 | 0.1% | 0.1% |  |
 | 87 | 0% | 0% |  |
 

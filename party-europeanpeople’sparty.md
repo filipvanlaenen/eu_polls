@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **190** seats (+3 seats)
+Current median: **191** seats (+4 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 190 | 185–196 | 183–197 | 182–199 | 179–201 |
+| European People’s Party | EU | 187 | 191 | 185–196 | 183–198 | 182–199 | 179–201 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–30 | 26–31 | 26–31 | 25–32 |
 | Partido Popular | ES | | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
@@ -73,9 +73,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -83,29 +83,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 177 | 0.1% | 99.9% |  |
 | 178 | 0.2% | 99.9% |  |
 | 179 | 0.3% | 99.7% |  |
-| 180 | 0.6% | 99.4% |  |
-| 181 | 0.9% | 98.8% |  |
-| 182 | 1.5% | 98% |  |
-| 183 | 2% | 96% |  |
-| 184 | 3% | 94% |  |
-| 185 | 4% | 91% |  |
-| 186 | 5% | 87% |  |
-| 187 | 7% | 82% | Last Result |
-| 188 | 8% | 75% |  |
-| 189 | 9% | 67% |  |
-| 190 | 9% | 59% | Median |
-| 191 | 9% | 50% |  |
-| 192 | 9% | 40% |  |
-| 193 | 8% | 32% |  |
-| 194 | 7% | 24% |  |
-| 195 | 5% | 17% |  |
+| 180 | 0.5% | 99.4% |  |
+| 181 | 0.9% | 98.9% |  |
+| 182 | 1.4% | 98% |  |
+| 183 | 2% | 97% |  |
+| 184 | 3% | 95% |  |
+| 185 | 4% | 92% |  |
+| 186 | 5% | 88% |  |
+| 187 | 6% | 82% | Last Result |
+| 188 | 8% | 76% |  |
+| 189 | 9% | 68% |  |
+| 190 | 9% | 60% |  |
+| 191 | 9% | 51% | Median |
+| 192 | 9% | 41% |  |
+| 193 | 8% | 33% |  |
+| 194 | 7% | 25% |  |
+| 195 | 6% | 18% |  |
 | 196 | 4% | 12% |  |
 | 197 | 3% | 8% |  |
 | 198 | 2% | 5% |  |
 | 199 | 1.3% | 3% |  |
 | 200 | 0.8% | 2% |  |
-| 201 | 0.4% | 0.9% |  |
-| 202 | 0.2% | 0.4% |  |
+| 201 | 0.5% | 0.9% |  |
+| 202 | 0.2% | 0.5% |  |
 | 203 | 0.1% | 0.2% |  |
 | 204 | 0.1% | 0.1% |  |
 | 205 | 0% | 0% |  |

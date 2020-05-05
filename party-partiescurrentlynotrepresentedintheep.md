@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–7 | 2–7 | 2–8 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–6 | 2–7 | 2–8 |
 | Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -31,7 +31,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -41,21 +41,21 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 25% | 95% |  |
-| 4 | 32% | 70% | Median |
-| 5 | 22% | 38% |  |
-| 6 | 11% | 16% |  |
+| 3 | 26% | 95% |  |
+| 4 | 33% | 69% | Median |
+| 5 | 22% | 37% |  |
+| 6 | 10% | 15% |  |
 | 7 | 4% | 5% |  |
-| 8 | 1.0% | 1.3% |  |
+| 8 | 0.9% | 1.1% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
