@@ -20,7 +20,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 70 | 65–76 | 64–77 | 63–79 | 60–81 |
 | Zjednoczona Prawica | PL | | 23 | 19–28 | 19–29 | 18–29 | 18–30 |
-| Fratelli d’Italia | IT | | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
+| Fratelli d’Italia | IT | | 12 | 10–14 | 10–14 | 9–14 | 9–15 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 7–12 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -45,9 +45,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -72,10 +72,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 5% | 16% |  |
 | 76 | 4% | 11% |  |
 | 77 | 3% | 7% |  |
-| 78 | 2% | 4% |  |
-| 79 | 1.2% | 3% |  |
+| 78 | 2% | 5% |  |
+| 79 | 1.3% | 3% |  |
 | 80 | 0.7% | 1.3% |  |
-| 81 | 0.3% | 0.6% |  |
+| 81 | 0.4% | 0.6% |  |
 | 82 | 0.2% | 0.2% |  |
 | 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |

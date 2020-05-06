@@ -47,7 +47,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Αλλαγής | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0 | 0 | 0 |
+| Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -58,9 +58,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -69,20 +69,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 0.2% | 99.9% |  |
 | 128 | 0.4% | 99.7% |  |
 | 129 | 0.7% | 99.3% |  |
-| 130 | 1.3% | 98.6% |  |
+| 130 | 1.3% | 98.5% |  |
 | 131 | 2% | 97% |  |
 | 132 | 3% | 95% |  |
 | 133 | 5% | 92% |  |
 | 134 | 6% | 87% |  |
 | 135 | 8% | 81% |  |
-| 136 | 9% | 74% |  |
+| 136 | 9% | 73% |  |
 | 137 | 10% | 65% |  |
 | 138 | 10% | 55% | Median |
 | 139 | 10% | 45% |  |
 | 140 | 9% | 35% |  |
-| 141 | 7% | 27% |  |
+| 141 | 7% | 26% |  |
 | 142 | 6% | 19% |  |
-| 143 | 5% | 13% |  |
+| 143 | 4% | 13% |  |
 | 144 | 3% | 9% |  |
 | 145 | 2% | 5% |  |
 | 146 | 1.4% | 3% |  |
