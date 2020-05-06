@@ -20,7 +20,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Identity and Democracy | EU | 76 | 77 | 73–80 | 72–81 | 71–82 | 69–84 |
 | Rassemblement national | FR | | 25 | 24–26 | 23–27 | 22–27 | 21–28 |
-| Lega Nord | IT | | 24 | 22–26 | 21–27 | 20–27 | 20–28 |
+| Lega Nord | IT | | 24 | 21–26 | 21–27 | 20–27 | 19–28 |
 | Alternative für Deutschland | DE | | 10 | 8–11 | 8–11 | 7–12 | 6–12 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Partij voor de Vrijheid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -36,29 +36,29 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.4% | 99.8% |  |
-| 70 | 0.9% | 99.4% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.5% | 99.7% |  |
+| 70 | 1.1% | 99.2% |  |
 | 71 | 2% | 98% |  |
-| 72 | 4% | 97% |  |
-| 73 | 6% | 93% |  |
-| 74 | 9% | 87% |  |
-| 75 | 11% | 78% |  |
-| 76 | 13% | 67% | Last Result |
-| 77 | 14% | 53% | Median |
-| 78 | 13% | 40% |  |
-| 79 | 10% | 27% |  |
-| 80 | 7% | 16% |  |
-| 81 | 5% | 9% |  |
+| 72 | 4% | 96% |  |
+| 73 | 6% | 92% |  |
+| 74 | 9% | 86% |  |
+| 75 | 12% | 77% |  |
+| 76 | 13% | 65% | Last Result |
+| 77 | 14% | 51% | Median |
+| 78 | 12% | 38% |  |
+| 79 | 10% | 25% |  |
+| 80 | 7% | 15% |  |
+| 81 | 4% | 8% |  |
 | 82 | 2% | 4% |  |
-| 83 | 1.1% | 2% |  |
+| 83 | 1.0% | 2% |  |
 | 84 | 0.4% | 0.6% |  |
 | 85 | 0.1% | 0.2% |  |
 | 86 | 0% | 0% |  |

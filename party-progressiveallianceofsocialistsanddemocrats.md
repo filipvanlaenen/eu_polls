@@ -49,7 +49,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Κίνημα Σοσιαλδημοκρατών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Liberi e Uguali | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -58,9 +58,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -76,19 +76,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 6% | 87% |  |
 | 135 | 8% | 81% |  |
 | 136 | 9% | 73% |  |
-| 137 | 10% | 65% |  |
+| 137 | 10% | 64% |  |
 | 138 | 10% | 55% | Median |
-| 139 | 10% | 45% |  |
+| 139 | 10% | 44% |  |
 | 140 | 9% | 35% |  |
 | 141 | 7% | 26% |  |
 | 142 | 6% | 19% |  |
 | 143 | 4% | 13% |  |
-| 144 | 3% | 9% |  |
+| 144 | 3% | 8% |  |
 | 145 | 2% | 5% |  |
-| 146 | 1.4% | 3% |  |
+| 146 | 1.3% | 3% |  |
 | 147 | 0.8% | 2% | Last Result |
-| 148 | 0.5% | 1.0% |  |
-| 149 | 0.3% | 0.5% |  |
+| 148 | 0.4% | 0.9% |  |
+| 149 | 0.2% | 0.4% |  |
 | 150 | 0.1% | 0.2% |  |
 | 151 | 0.1% | 0.1% |  |
 | 152 | 0% | 0% |  |
