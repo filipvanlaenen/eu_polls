@@ -32,6 +32,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Lista Marjana Šarca | SI | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -41,7 +42,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Momentum Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -75,17 +75,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
-| 83 | 0.4% | 99.7% |  |
-| 84 | 0.9% | 99.3% |  |
-| 85 | 2% | 98% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0.1% | 99.9% |  |
+| 83 | 0.4% | 99.8% |  |
+| 84 | 0.8% | 99.4% |  |
+| 85 | 2% | 98.6% |  |
 | 86 | 3% | 97% |  |
 | 87 | 5% | 94% |  |
-| 88 | 6% | 89% |  |
-| 89 | 8% | 82% |  |
-| 90 | 10% | 74% |  |
-| 91 | 11% | 64% |  |
+| 88 | 6% | 90% |  |
+| 89 | 8% | 83% |  |
+| 90 | 10% | 75% |  |
+| 91 | 11% | 65% |  |
 | 92 | 11% | 54% | Median |
 | 93 | 10% | 43% |  |
 | 94 | 9% | 33% |  |
@@ -94,12 +94,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 4% | 11% |  |
 | 98 | 3% | 7% | Last Result |
 | 99 | 2% | 4% |  |
-| 100 | 1.2% | 2% |  |
-| 101 | 0.7% | 1.3% |  |
-| 102 | 0.4% | 0.7% |  |
+| 100 | 1.1% | 2% |  |
+| 101 | 0.6% | 1.2% |  |
+| 102 | 0.3% | 0.6% |  |
 | 103 | 0.2% | 0.3% |  |
 | 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0.1% |  |
-| 106 | 0% | 0% |  |
+| 105 | 0% | 0% |  |
 
 
