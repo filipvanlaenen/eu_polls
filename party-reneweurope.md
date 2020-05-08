@@ -32,7 +32,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Lista Marjana Šarca | SI | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Momentum Mozgalom | HU | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -69,33 +69,33 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0% | 100% |  |
 | 82 | 0.1% | 99.9% |  |
-| 83 | 0.4% | 99.8% |  |
-| 84 | 0.8% | 99.4% |  |
-| 85 | 2% | 98.6% |  |
+| 83 | 0.3% | 99.8% |  |
+| 84 | 0.8% | 99.5% |  |
+| 85 | 2% | 98.7% |  |
 | 86 | 3% | 97% |  |
-| 87 | 5% | 94% |  |
-| 88 | 6% | 89% |  |
-| 89 | 8% | 83% |  |
+| 87 | 4% | 94% |  |
+| 88 | 6% | 90% |  |
+| 89 | 8% | 84% |  |
 | 90 | 10% | 75% |  |
-| 91 | 11% | 65% |  |
-| 92 | 11% | 54% | Median |
-| 93 | 10% | 43% |  |
+| 91 | 11% | 66% |  |
+| 92 | 11% | 55% | Median |
+| 93 | 10% | 44% |  |
 | 94 | 9% | 33% |  |
 | 95 | 7% | 24% |  |
-| 96 | 6% | 16% |  |
+| 96 | 6% | 17% |  |
 | 97 | 4% | 11% |  |
 | 98 | 3% | 7% | Last Result |
 | 99 | 2% | 4% |  |
 | 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.2% |  |
+| 101 | 0.6% | 1.3% |  |
 | 102 | 0.3% | 0.6% |  |
 | 103 | 0.2% | 0.3% |  |
 | 104 | 0.1% | 0.1% |  |
