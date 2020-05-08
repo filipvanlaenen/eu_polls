@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 190 | 185–196 | 183–197 | 182–199 | 179–201 |
+| European People’s Party | EU | 187 | 190 | 185–196 | 183–197 | 182–198 | 179–201 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–30 | 26–31 | 26–31 | 25–32 |
 | Partido Popular | ES | | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
@@ -28,7 +28,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 7–9 | 7–9 | 6–11 |
 | Les Républicains | FR | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
-| Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
+| Forza Italia | IT | | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -73,38 +73,38 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 176 | 0% | 100% |  |
 | 177 | 0.1% | 99.9% |  |
 | 178 | 0.2% | 99.8% |  |
-| 179 | 0.3% | 99.7% |  |
-| 180 | 0.6% | 99.3% |  |
-| 181 | 1.0% | 98.7% |  |
+| 179 | 0.4% | 99.6% |  |
+| 180 | 0.6% | 99.2% |  |
+| 181 | 1.1% | 98.6% |  |
 | 182 | 2% | 98% |  |
 | 183 | 2% | 96% |  |
 | 184 | 3% | 94% |  |
-| 185 | 4% | 91% |  |
+| 185 | 4% | 90% |  |
 | 186 | 6% | 86% |  |
-| 187 | 7% | 81% | Last Result |
-| 188 | 8% | 74% |  |
-| 189 | 9% | 66% |  |
-| 190 | 9% | 57% | Median |
-| 191 | 9% | 48% |  |
-| 192 | 9% | 39% |  |
-| 193 | 8% | 30% |  |
-| 194 | 6% | 23% |  |
+| 187 | 7% | 80% | Last Result |
+| 188 | 8% | 73% |  |
+| 189 | 9% | 65% |  |
+| 190 | 9% | 56% | Median |
+| 191 | 9% | 47% |  |
+| 192 | 9% | 38% |  |
+| 193 | 8% | 29% |  |
+| 194 | 6% | 22% |  |
 | 195 | 5% | 16% |  |
 | 196 | 4% | 11% |  |
 | 197 | 3% | 7% |  |
 | 198 | 2% | 4% |  |
-| 199 | 1.2% | 3% |  |
-| 200 | 0.7% | 1.5% |  |
-| 201 | 0.4% | 0.8% |  |
+| 199 | 1.1% | 2% |  |
+| 200 | 0.6% | 1.4% |  |
+| 201 | 0.4% | 0.7% |  |
 | 202 | 0.2% | 0.4% |  |
 | 203 | 0.1% | 0.2% |  |
 | 204 | 0% | 0.1% |  |
