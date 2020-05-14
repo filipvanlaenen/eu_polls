@@ -21,8 +21,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 187 | 192 | 186–198 | 185–199 | 183–201 | 181–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 27–30 | 26–31 | 26–31 | 25–32 |
 | Partido Popular | ES | | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
-| Partidul Național Liberal | RO | | 13 | 12–15 | 11–16 | 11–16 | 11–16 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
+| Partidul Național Liberal | RO | | 13 | 11–15 | 11–16 | 11–16 | 11–17 |
 | Koalicja Obywatelska | PL | | 11 | 8–14 | 8–15 | 8–15 | 7–16 |
 | Νέα Δημοκρατία | GR | | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | Österreichische Volkspartei | AT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -63,7 +63,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -83,31 +83,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 0.1% | 99.9% |  |
 | 180 | 0.2% | 99.8% |  |
 | 181 | 0.4% | 99.6% |  |
-| 182 | 0.7% | 99.1% |  |
+| 182 | 0.8% | 99.1% |  |
 | 183 | 1.2% | 98% |  |
 | 184 | 2% | 97% |  |
 | 185 | 3% | 95% |  |
 | 186 | 4% | 93% |  |
 | 187 | 5% | 89% | Last Result |
-| 188 | 6% | 85% |  |
-| 189 | 7% | 79% |  |
+| 188 | 6% | 84% |  |
+| 189 | 7% | 78% |  |
 | 190 | 8% | 72% |  |
-| 191 | 8% | 65% |  |
+| 191 | 8% | 64% |  |
 | 192 | 9% | 56% | Median |
-| 193 | 9% | 48% |  |
-| 194 | 8% | 39% |  |
-| 195 | 7% | 31% |  |
-| 196 | 6% | 24% |  |
-| 197 | 5% | 17% |  |
-| 198 | 4% | 12% |  |
-| 199 | 3% | 8% |  |
-| 200 | 2% | 5% |  |
-| 201 | 1.3% | 3% |  |
-| 202 | 0.8% | 2% |  |
-| 203 | 0.4% | 0.9% |  |
-| 204 | 0.2% | 0.5% |  |
+| 193 | 9% | 47% |  |
+| 194 | 8% | 38% |  |
+| 195 | 7% | 30% |  |
+| 196 | 6% | 23% |  |
+| 197 | 5% | 16% |  |
+| 198 | 4% | 11% |  |
+| 199 | 3% | 7% |  |
+| 200 | 2% | 4% |  |
+| 201 | 1.2% | 3% |  |
+| 202 | 0.7% | 1.5% |  |
+| 203 | 0.4% | 0.8% |  |
+| 204 | 0.2% | 0.4% |  |
 | 205 | 0.1% | 0.2% |  |
-| 206 | 0.1% | 0.1% |  |
+| 206 | 0% | 0.1% |  |
 | 207 | 0% | 0% |  |
 
 

@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
+| Identity and Democracy | EU | 76 | 76 | 72–80 | 71–81 | 70–82 | 69–84 |
 | Rassemblement national | FR | | 25 | 24–26 | 23–27 | 22–27 | 21–28 |
-| Lega Nord | IT | | 23 | 20–26 | 20–26 | 20–27 | 19–28 |
-| Alternative für Deutschland | DE | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
+| Lega Nord | IT | | 24 | 21–26 | 21–27 | 20–27 | 20–28 |
+| Alternative für Deutschland | DE | | 10 | 8–12 | 8–12 | 7–13 | 6–13 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 4 | 3–4 | 3–5 |
-| Partij voor de Vrijheid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Partij voor de Vrijheid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SME RODINA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chega | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -36,33 +36,32 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-05-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-04-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-05-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2020-04-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.1% | 100% |  |
-| 67 | 0.2% | 99.9% |  |
-| 68 | 0.5% | 99.7% |  |
-| 69 | 1.1% | 99.2% |  |
-| 70 | 2% | 98% |  |
-| 71 | 4% | 96% |  |
-| 72 | 6% | 92% |  |
-| 73 | 8% | 86% |  |
-| 74 | 11% | 78% |  |
-| 75 | 12% | 67% |  |
-| 76 | 13% | 55% | Last Result, Median |
-| 77 | 12% | 42% |  |
-| 78 | 10% | 31% |  |
-| 79 | 8% | 21% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.3% | 99.9% |  |
+| 69 | 0.7% | 99.6% |  |
+| 70 | 2% | 98.9% |  |
+| 71 | 3% | 97% |  |
+| 72 | 5% | 94% |  |
+| 73 | 8% | 89% |  |
+| 74 | 10% | 82% |  |
+| 75 | 12% | 71% |  |
+| 76 | 13% | 59% | Last Result, Median |
+| 77 | 13% | 46% |  |
+| 78 | 11% | 33% |  |
+| 79 | 9% | 22% |  |
 | 80 | 6% | 13% |  |
 | 81 | 4% | 7% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.0% | 2% |  |
-| 84 | 0.4% | 0.7% |  |
-| 85 | 0.2% | 0.2% |  |
-| 86 | 0.1% | 0.1% |  |
+| 82 | 2% | 3% |  |
+| 83 | 0.9% | 1.5% |  |
+| 84 | 0.4% | 0.6% |  |
+| 85 | 0.1% | 0.2% |  |
+| 86 | 0% | 0.1% |  |
 | 87 | 0% | 0% |  |
 
 
