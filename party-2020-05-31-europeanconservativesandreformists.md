@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **69** seats (+8 seats)
+Current median: **68** seats (+7 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 69 | 64–74 | 63–76 | 62–77 | 60–80 |
+| European Conservatives and Reformists | EU | 61 | 68 | 64–74 | 63–76 | 62–77 | 60–80 |
 | Zjednoczona Prawica | PL | | 21 | 20–28 | 19–28 | 19–29 | 18–30 |
 | Fratelli d’Italia | IT | | 12 | 11–13 | 10–14 | 10–14 | 9–16 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
@@ -54,28 +54,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 0% | 100% |  |
 | 58 | 0.1% | 99.9% |  |
 | 59 | 0.2% | 99.8% |  |
-| 60 | 0.4% | 99.7% |  |
-| 61 | 0.8% | 99.3% | Last Result |
+| 60 | 0.4% | 99.6% |  |
+| 61 | 0.8% | 99.2% | Last Result |
 | 62 | 2% | 98% |  |
 | 63 | 3% | 97% |  |
 | 64 | 5% | 94% |  |
-| 65 | 7% | 90% |  |
-| 66 | 9% | 83% |  |
+| 65 | 7% | 89% |  |
+| 66 | 9% | 82% |  |
 | 67 | 11% | 73% |  |
-| 68 | 12% | 62% |  |
-| 69 | 11% | 50% | Median |
+| 68 | 12% | 61% | Median |
+| 69 | 11% | 50% |  |
 | 70 | 9% | 39% |  |
 | 71 | 7% | 30% |  |
-| 72 | 6% | 23% |  |
+| 72 | 5% | 23% |  |
 | 73 | 4% | 17% |  |
-| 74 | 4% | 13% |  |
-| 75 | 3% | 10% |  |
+| 74 | 3% | 13% |  |
+| 75 | 3% | 9% |  |
 | 76 | 2% | 7% |  |
 | 77 | 2% | 4% |  |
 | 78 | 1.2% | 2% |  |
-| 79 | 0.7% | 1.3% |  |
-| 80 | 0.4% | 0.6% |  |
-| 81 | 0.2% | 0.3% |  |
+| 79 | 0.7% | 1.2% |  |
+| 80 | 0.3% | 0.6% |  |
+| 81 | 0.2% | 0.2% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 
