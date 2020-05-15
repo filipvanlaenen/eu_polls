@@ -29,7 +29,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Eesti Keskerakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lista Marjana Šarca | SI | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -78,7 +78,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 0.1% | 100% |  |
 | 81 | 0.2% | 99.9% |  |
 | 82 | 0.5% | 99.7% |  |
-| 83 | 1.1% | 99.2% |  |
+| 83 | 1.1% | 99.3% |  |
 | 84 | 2% | 98% |  |
 | 85 | 4% | 96% |  |
 | 86 | 6% | 92% |  |
@@ -89,13 +89,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 11% | 46% |  |
 | 92 | 10% | 35% |  |
 | 93 | 8% | 25% |  |
-| 94 | 6% | 18% |  |
+| 94 | 6% | 17% |  |
 | 95 | 4% | 11% |  |
 | 96 | 3% | 7% |  |
 | 97 | 2% | 4% |  |
-| 98 | 1.1% | 2% | Last Result |
-| 99 | 0.6% | 1.2% |  |
-| 100 | 0.3% | 0.6% |  |
+| 98 | 1.0% | 2% | Last Result |
+| 99 | 0.6% | 1.1% |  |
+| 100 | 0.3% | 0.5% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0.1% | 0.1% |  |
 | 103 | 0% | 0% |  |
