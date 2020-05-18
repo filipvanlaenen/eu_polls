@@ -21,16 +21,16 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Identity and Democracy | EU | 76 | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
 | Rassemblement national | FR | | 25 | 24–26 | 23–27 | 22–27 | 21–28 |
 | Lega Nord | IT | | 23 | 20–26 | 20–26 | 19–27 | 19–28 |
-| Alternative für Deutschland | DE | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
+| Alternative für Deutschland | DE | | 10 | 9–11 | 8–12 | 8–12 | 7–12 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Partij voor de Vrijheid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | SME RODINA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chega | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Dansk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -42,27 +42,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.1% | 100% |  |
+| 66 | 0% | 100% |  |
 | 67 | 0.2% | 99.9% |  |
-| 68 | 0.6% | 99.6% |  |
-| 69 | 1.3% | 99.0% |  |
+| 68 | 0.4% | 99.8% |  |
+| 69 | 1.0% | 99.4% |  |
 | 70 | 2% | 98% |  |
-| 71 | 4% | 95% |  |
-| 72 | 6% | 91% |  |
-| 73 | 9% | 85% |  |
-| 74 | 11% | 76% |  |
-| 75 | 12% | 66% |  |
-| 76 | 12% | 54% | Last Result, Median |
-| 77 | 11% | 41% |  |
+| 71 | 4% | 96% |  |
+| 72 | 6% | 92% |  |
+| 73 | 9% | 86% |  |
+| 74 | 11% | 78% |  |
+| 75 | 12% | 67% |  |
+| 76 | 13% | 54% | Last Result, Median |
+| 77 | 12% | 42% |  |
 | 78 | 10% | 30% |  |
 | 79 | 8% | 20% |  |
-| 80 | 5% | 13% |  |
-| 81 | 4% | 7% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.0% | 2% |  |
-| 84 | 0.5% | 0.7% |  |
-| 85 | 0.2% | 0.3% |  |
-| 86 | 0.1% | 0.1% |  |
-| 87 | 0% | 0% |  |
+| 80 | 5% | 12% |  |
+| 81 | 3% | 7% |  |
+| 82 | 2% | 3% |  |
+| 83 | 0.9% | 1.4% |  |
+| 84 | 0.4% | 0.5% |  |
+| 85 | 0.1% | 0.2% |  |
+| 86 | 0% | 0% |  |
 
 
