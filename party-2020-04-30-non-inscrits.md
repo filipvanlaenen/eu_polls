@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **23** seats (-6 seats)
+Current median: **22** seats (-7 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 23 | 20–25 | 20–26 | 19–27 | 19–28 |
+| Non-Inscrits | EU | 29 | 22 | 20–25 | 20–26 | 19–27 | 18–28 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–16 | 11–17 | 11–18 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Jobbik | HU | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -43,19 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.4% | 100% |  |
-| 19 | 2% | 99.6% |  |
-| 20 | 8% | 97% |  |
-| 21 | 16% | 90% |  |
-| 22 | 22% | 74% |  |
-| 23 | 21% | 52% | Median |
-| 24 | 15% | 32% |  |
-| 25 | 9% | 17% |  |
-| 26 | 5% | 8% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.6% | 99.9% |  |
+| 19 | 3% | 99.3% |  |
+| 20 | 9% | 96% |  |
+| 21 | 17% | 88% |  |
+| 22 | 22% | 71% | Median |
+| 23 | 20% | 49% |  |
+| 24 | 14% | 29% |  |
+| 25 | 8% | 15% |  |
+| 26 | 4% | 7% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.8% | 1.1% |  |
+| 28 | 0.7% | 1.0% |  |
 | 29 | 0.2% | 0.3% | Last Result |
-| 30 | 0.1% | 0.1% |  |
+| 30 | 0% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
 
