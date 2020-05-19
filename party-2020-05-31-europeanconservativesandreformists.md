@@ -18,18 +18,17 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 68 | 64–73 | 63–74 | 62–75 | 60–78 |
+| European Conservatives and Reformists | EU | 61 | 68 | 64–73 | 63–74 | 62–76 | 60–78 |
 | Zjednoczona Prawica | PL | | 21 | 20–26 | 19–26 | 19–27 | 18–27 |
 | Fratelli d’Italia | IT | | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
 | Vox | ES | | 9 | 7–10 | 6–11 | 6–11 | 6–12 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Domovinski pokret Miroslava Škore | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
-| Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,9 +38,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Most nezavisnih lista | HR | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -58,23 +58,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.9% | 99.1% | Last Result |
 | 62 | 2% | 98% |  |
 | 63 | 3% | 97% |  |
-| 64 | 5% | 93% |  |
+| 64 | 5% | 94% |  |
 | 65 | 7% | 89% |  |
-| 66 | 10% | 81% |  |
-| 67 | 11% | 72% |  |
-| 68 | 12% | 60% | Median |
-| 69 | 12% | 48% |  |
-| 70 | 10% | 37% |  |
-| 71 | 8% | 27% |  |
-| 72 | 6% | 18% |  |
-| 73 | 5% | 12% |  |
+| 66 | 9% | 82% |  |
+| 67 | 11% | 73% |  |
+| 68 | 12% | 61% | Median |
+| 69 | 11% | 50% |  |
+| 70 | 10% | 38% |  |
+| 71 | 8% | 28% |  |
+| 72 | 7% | 20% |  |
+| 73 | 5% | 13% |  |
 | 74 | 3% | 8% |  |
-| 75 | 2% | 4% |  |
-| 76 | 1.2% | 2% |  |
-| 77 | 0.6% | 1.2% |  |
-| 78 | 0.3% | 0.5% |  |
-| 79 | 0.1% | 0.2% |  |
-| 80 | 0% | 0.1% |  |
+| 75 | 2% | 5% |  |
+| 76 | 1.3% | 3% |  |
+| 77 | 0.7% | 1.4% |  |
+| 78 | 0.4% | 0.6% |  |
+| 79 | 0.2% | 0.3% |  |
+| 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
 
 

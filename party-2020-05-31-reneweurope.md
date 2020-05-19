@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–97 | 86–99 | 85–100 | 84–102 |
+| Renew Europe | EU | 98 | 93 | 88–97 | 87–99 | 86–100 | 84–103 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
-| ANO 2011 | CZ | | 8 | 8–9 | 7–10 | 7–10 | 7–11 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
+| ANO 2011 | CZ | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8–10 | 7–10 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–9 | 5–10 | 5–10 | 5–10 |
-| Freie Demokratische Partei | DE | | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
+| Freie Demokratische Partei | DE | | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 3–6 | 2–7 |
-| Venstre | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Lista Marjana Šarca | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lista Marjana Šarca | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -49,7 +49,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
-| Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Demokratična stranka upokojencev Slovenije | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -76,27 +76,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0.1% | 100% |  |
-| 83 | 0.3% | 99.8% |  |
-| 84 | 0.7% | 99.5% |  |
-| 85 | 1.5% | 98.8% |  |
-| 86 | 3% | 97% |  |
-| 87 | 4% | 95% |  |
-| 88 | 6% | 90% |  |
-| 89 | 8% | 84% |  |
-| 90 | 10% | 76% |  |
-| 91 | 11% | 67% |  |
-| 92 | 11% | 56% | Median |
-| 93 | 10% | 46% |  |
-| 94 | 9% | 35% |  |
-| 95 | 8% | 26% |  |
-| 96 | 6% | 19% |  |
-| 97 | 4% | 13% |  |
-| 98 | 3% | 8% | Last Result |
-| 99 | 2% | 5% |  |
-| 100 | 1.3% | 3% |  |
-| 101 | 0.8% | 2% |  |
-| 102 | 0.4% | 0.9% |  |
-| 103 | 0.2% | 0.4% |  |
+| 83 | 0.2% | 99.9% |  |
+| 84 | 0.4% | 99.8% |  |
+| 85 | 1.0% | 99.3% |  |
+| 86 | 2% | 98% |  |
+| 87 | 3% | 96% |  |
+| 88 | 5% | 93% |  |
+| 89 | 7% | 88% |  |
+| 90 | 9% | 81% |  |
+| 91 | 10% | 72% |  |
+| 92 | 11% | 61% |  |
+| 93 | 11% | 50% | Median |
+| 94 | 10% | 40% |  |
+| 95 | 8% | 30% |  |
+| 96 | 7% | 21% |  |
+| 97 | 5% | 15% |  |
+| 98 | 4% | 10% | Last Result |
+| 99 | 2% | 6% |  |
+| 100 | 2% | 4% |  |
+| 101 | 0.9% | 2% |  |
+| 102 | 0.5% | 1.0% |  |
+| 103 | 0.3% | 0.5% |  |
 | 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
