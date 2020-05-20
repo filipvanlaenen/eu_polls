@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **93** seats (-5 seats)
+Current median: **92** seats (-6 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 88–97 | 87–99 | 86–100 | 84–103 |
+| Renew Europe | EU | 98 | 92 | 88–97 | 87–99 | 86–100 | 84–102 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8–10 | 7–10 | 7–10 | 7–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–9 | 5–10 | 5–10 | 5–10 |
 | Freie Demokratische Partei | DE | | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 3–6 | 2–7 |
@@ -36,13 +36,13 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fianna Fáil | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -56,8 +56,8 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Laisvės partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,26 +77,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0.1% | 100% |  |
 | 83 | 0.2% | 99.9% |  |
-| 84 | 0.4% | 99.8% |  |
-| 85 | 1.0% | 99.3% |  |
+| 84 | 0.5% | 99.7% |  |
+| 85 | 1.2% | 99.2% |  |
 | 86 | 2% | 98% |  |
-| 87 | 3% | 96% |  |
-| 88 | 5% | 93% |  |
-| 89 | 7% | 88% |  |
-| 90 | 9% | 81% |  |
-| 91 | 10% | 72% |  |
-| 92 | 11% | 61% |  |
-| 93 | 11% | 50% | Median |
-| 94 | 10% | 40% |  |
-| 95 | 8% | 30% |  |
-| 96 | 7% | 21% |  |
-| 97 | 5% | 15% |  |
-| 98 | 4% | 10% | Last Result |
-| 99 | 2% | 6% |  |
-| 100 | 2% | 4% |  |
-| 101 | 0.9% | 2% |  |
-| 102 | 0.5% | 1.0% |  |
-| 103 | 0.3% | 0.5% |  |
+| 87 | 4% | 96% |  |
+| 88 | 6% | 92% |  |
+| 89 | 8% | 86% |  |
+| 90 | 9% | 79% |  |
+| 91 | 11% | 69% |  |
+| 92 | 11% | 59% | Median |
+| 93 | 11% | 48% |  |
+| 94 | 10% | 37% |  |
+| 95 | 8% | 28% |  |
+| 96 | 6% | 20% |  |
+| 97 | 5% | 13% |  |
+| 98 | 3% | 9% | Last Result |
+| 99 | 2% | 5% |  |
+| 100 | 1.4% | 3% |  |
+| 101 | 0.8% | 2% |  |
+| 102 | 0.4% | 0.9% |  |
+| 103 | 0.2% | 0.4% |  |
 | 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
