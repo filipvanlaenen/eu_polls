@@ -18,15 +18,15 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 86–95 | 85–97 | 84–98 | 82–100 |
+| Renew Europe | EU | 98 | 91 | 87–96 | 86–97 | 85–98 | 83–101 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
 | ANO 2011 | CZ | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 7–9 | 7–9 | 7–9 | 6–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | Freie Demokratische Partei | DE | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Democraten 66 | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -41,7 +41,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fianna Fáil | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -75,30 +75,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.3% | 99.8% |  |
-| 83 | 0.8% | 99.5% |  |
-| 84 | 2% | 98.7% |  |
-| 85 | 3% | 97% |  |
-| 86 | 5% | 94% |  |
-| 87 | 7% | 89% |  |
-| 88 | 9% | 82% |  |
-| 89 | 11% | 73% |  |
-| 90 | 11% | 63% |  |
-| 91 | 11% | 51% | Median |
-| 92 | 10% | 40% |  |
-| 93 | 9% | 30% |  |
-| 94 | 7% | 21% |  |
-| 95 | 5% | 14% |  |
-| 96 | 4% | 9% |  |
-| 97 | 2% | 5% |  |
-| 98 | 1.4% | 3% | Last Result |
-| 99 | 0.8% | 2% |  |
-| 100 | 0.4% | 0.8% |  |
-| 101 | 0.2% | 0.4% |  |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.6% | 99.7% |  |
+| 84 | 1.2% | 99.1% |  |
+| 85 | 2% | 98% |  |
+| 86 | 4% | 96% |  |
+| 87 | 6% | 92% |  |
+| 88 | 8% | 86% |  |
+| 89 | 10% | 78% |  |
+| 90 | 11% | 68% |  |
+| 91 | 11% | 57% | Median |
+| 92 | 11% | 45% |  |
+| 93 | 10% | 34% |  |
+| 94 | 8% | 25% |  |
+| 95 | 6% | 17% |  |
+| 96 | 4% | 11% |  |
+| 97 | 3% | 7% |  |
+| 98 | 2% | 4% | Last Result |
+| 99 | 1.1% | 2% |  |
+| 100 | 0.6% | 1.1% |  |
+| 101 | 0.3% | 0.5% |  |
 | 102 | 0.1% | 0.2% |  |
-| 103 | 0% | 0.1% |  |
+| 103 | 0.1% | 0.1% |  |
 | 104 | 0% | 0% |  |
 
 
