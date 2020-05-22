@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **12 countries**:
+Members registered from **11 countries**:
 
-> BG, CZ, DK, EE, FR, HR, IE, IT, LT, NL, RO, SK
+> BG, DK, EE, FR, HR, IE, IT, LT, NL, RO, SK
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–6 | 2–6 | 2–6 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
 | Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -36,7 +36,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Trikolóra hnutí občanů [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 
@@ -50,12 +49,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 16% | 100% |  |
-| 3 | 35% | 84% | Median |
-| 4 | 21% | 49% |  |
-| 5 | 23% | 28% |  |
-| 6 | 5% | 6% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 2 | 18% | 100% |  |
+| 3 | 37% | 82% | Median |
+| 4 | 19% | 45% |  |
+| 5 | 23% | 26% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0% | 0% |  |
 
 
