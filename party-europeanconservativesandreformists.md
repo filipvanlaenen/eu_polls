@@ -25,7 +25,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,14 +65,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 11% | 68% |  |
 | 68 | 12% | 57% | Median |
 | 69 | 11% | 45% |  |
-| 70 | 9% | 34% |  |
+| 70 | 9% | 35% |  |
 | 71 | 8% | 25% |  |
 | 72 | 6% | 17% |  |
-| 73 | 4% | 11% |  |
+| 73 | 4% | 12% |  |
 | 74 | 3% | 7% |  |
 | 75 | 2% | 4% |  |
 | 76 | 1.2% | 2% |  |
-| 77 | 0.6% | 1.1% |  |
+| 77 | 0.6% | 1.2% |  |
 | 78 | 0.3% | 0.5% |  |
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0.1% | 0.1% |  |

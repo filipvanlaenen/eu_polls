@@ -18,12 +18,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 45 | 41–49 | 40–50 | 40–51 | 38–53 |
+| Greens–European Free Alliance | EU | 67 | 45 | 41–49 | 40–50 | 40–51 | 38–52 |
 | Bündnis 90/Die Grünen | DE | | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Česká pirátská strana | CZ | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Česká pirátská strana | CZ | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 3% | 98% |  |
 | 41 | 5% | 95% |  |
 | 42 | 8% | 90% |  |
-| 43 | 10% | 82% |  |
+| 43 | 11% | 82% |  |
 | 44 | 13% | 72% |  |
 | 45 | 14% | 59% | Median |
 | 46 | 13% | 45% |  |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 6% | 12% |  |
 | 50 | 3% | 7% |  |
 | 51 | 2% | 3% |  |
-| 52 | 0.9% | 1.4% |  |
+| 52 | 0.8% | 1.3% |  |
 | 53 | 0.3% | 0.5% |  |
 | 54 | 0.1% | 0.2% |  |
 | 55 | 0% | 0% |  |
