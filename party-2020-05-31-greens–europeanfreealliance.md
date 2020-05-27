@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 14% | 59% | Median |
 | 46 | 13% | 45% |  |
 | 47 | 11% | 32% |  |
-| 48 | 9% | 21% |  |
+| 48 | 8% | 21% |  |
 | 49 | 6% | 12% |  |
 | 50 | 3% | 7% |  |
 | 51 | 2% | 3% |  |

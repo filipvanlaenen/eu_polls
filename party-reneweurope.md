@@ -20,7 +20,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 95 | 90–100 | 89–101 | 88–103 | 86–105 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 7–10 | 7–11 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 7–11 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
 | Freie Demokratische Partei | DE | | 5 | 4–7 | 4–8 | 4–8 | 4–8 |
