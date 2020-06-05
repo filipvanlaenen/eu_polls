@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | ВМРО–Българско Национално Движение | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -60,13 +60,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 2% | 98% |  |
 | 63 | 4% | 95% |  |
 | 64 | 6% | 92% |  |
-| 65 | 8% | 86% |  |
+| 65 | 9% | 86% |  |
 | 66 | 11% | 77% |  |
 | 67 | 13% | 66% |  |
 | 68 | 13% | 53% | Median |
 | 69 | 12% | 40% |  |
 | 70 | 10% | 28% |  |
-| 71 | 8% | 18% |  |
+| 71 | 7% | 18% |  |
 | 72 | 5% | 10% |  |
 | 73 | 3% | 5% |  |
 | 74 | 1.4% | 2% |  |
