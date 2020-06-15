@@ -24,12 +24,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Sinn Féin | IE | | 6 | 4–6 | 3–6 | 3–7 | 3–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 0–1 |
@@ -63,19 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 100% |  |
 | 45 | 0.2% | 99.9% |  |
 | 46 | 0.7% | 99.7% |  |
-| 47 | 2% | 99.0% |  |
+| 47 | 2% | 99.1% |  |
 | 48 | 4% | 97% |  |
-| 49 | 7% | 94% |  |
-| 50 | 10% | 87% |  |
-| 51 | 13% | 77% |  |
-| 52 | 15% | 64% | Median |
-| 53 | 15% | 49% |  |
+| 49 | 6% | 94% |  |
+| 50 | 10% | 88% |  |
+| 51 | 13% | 78% |  |
+| 52 | 15% | 65% | Median |
+| 53 | 15% | 50% |  |
 | 54 | 13% | 35% |  |
-| 55 | 9% | 22% |  |
-| 56 | 6% | 12% |  |
-| 57 | 3% | 6% |  |
+| 55 | 10% | 22% |  |
+| 56 | 6% | 13% |  |
+| 57 | 4% | 6% |  |
 | 58 | 2% | 3% |  |
-| 59 | 0.7% | 1.1% |  |
+| 59 | 0.7% | 1.2% |  |
 | 60 | 0.3% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
