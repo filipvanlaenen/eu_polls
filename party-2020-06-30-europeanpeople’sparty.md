@@ -19,7 +19,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 193 | 187–199 | 185–201 | 183–202 | 180–205 |
-| Christlich Demokratische Union Deutschlands | DE | | 28 | 27–31 | 27–31 | 26–32 | 25–32 |
+| Christlich Demokratische Union Deutschlands | DE | | 29 | 27–31 | 27–31 | 26–32 | 25–32 |
 | Partido Popular | ES | | 15 | 12–16 | 12–17 | 11–17 | 11–18 |
 | Koalicja Obywatelska | PL | | 14 | 11–16 | 10–16 | 10–17 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
@@ -29,7 +29,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Les Républicains | FR | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Fine Gael | IE | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
-| Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 192 | 8% | 64% |  |
 | 193 | 8% | 56% | Median |
 | 194 | 8% | 48% |  |
-| 195 | 8% | 39% |  |
+| 195 | 8% | 40% |  |
 | 196 | 7% | 32% |  |
 | 197 | 6% | 24% |  |
 | 198 | 5% | 18% |  |
