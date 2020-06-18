@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, LU, NL, PT, SE, SI
+> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, IT, LU, NL, PT, SE, SI
 
 ## Seats
 
@@ -42,6 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
