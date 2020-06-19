@@ -18,8 +18,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–52 | 39–54 |
-| Bündnis 90/Die Grünen | DE | | 17 | 15–21 | 14–21 | 14–21 | 13–21 |
+| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–52 | 39–53 |
+| Bündnis 90/Die Grünen | DE | | 17 | 16–19 | 15–19 | 14–19 | 13–21 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -31,7 +31,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -65,19 +65,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 1.1% | 99.2% |  |
 | 41 | 2% | 98% |  |
 | 42 | 4% | 96% |  |
-| 43 | 7% | 91% |  |
-| 44 | 10% | 84% |  |
-| 45 | 12% | 74% |  |
+| 43 | 7% | 92% |  |
+| 44 | 10% | 85% |  |
+| 45 | 13% | 75% |  |
 | 46 | 14% | 62% | Median |
-| 47 | 14% | 48% |  |
-| 48 | 12% | 35% |  |
-| 49 | 9% | 23% |  |
-| 50 | 6% | 14% |  |
-| 51 | 4% | 7% |  |
-| 52 | 2% | 4% |  |
-| 53 | 0.9% | 1.5% |  |
-| 54 | 0.4% | 0.5% |  |
-| 55 | 0.1% | 0.2% |  |
+| 47 | 14% | 47% |  |
+| 48 | 12% | 33% |  |
+| 49 | 9% | 21% |  |
+| 50 | 6% | 12% |  |
+| 51 | 3% | 6% |  |
+| 52 | 2% | 3% |  |
+| 53 | 0.7% | 1.0% |  |
+| 54 | 0.2% | 0.4% |  |
+| 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |

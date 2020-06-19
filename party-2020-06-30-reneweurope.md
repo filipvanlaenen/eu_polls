@@ -23,10 +23,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 8–11 | 8–11 | 7–11 |
 | ANO 2011 | CZ | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | Alianța 2020 USR-PLUS | RO | | 7 | 6–9 | 6–10 | 5–10 | 5–10 |
-| Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 3–8 | 3–9 |
+| Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Venstre | DK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Venstre | DK | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -40,7 +40,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Fianna Fáil | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 0% | 100% |  |
 | 83 | 0.1% | 99.9% |  |
 | 84 | 0.3% | 99.8% |  |
-| 85 | 0.6% | 99.5% |  |
+| 85 | 0.6% | 99.6% |  |
 | 86 | 1.3% | 98.9% |  |
 | 87 | 2% | 98% |  |
 | 88 | 4% | 95% |  |
@@ -88,8 +88,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 7% | 86% |  |
 | 91 | 9% | 79% |  |
 | 92 | 10% | 70% |  |
-| 93 | 11% | 60% | Median |
-| 94 | 11% | 49% |  |
+| 93 | 11% | 59% | Median |
+| 94 | 11% | 48% |  |
 | 95 | 10% | 38% |  |
 | 96 | 8% | 28% |  |
 | 97 | 6% | 20% |  |
@@ -99,7 +99,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 101 | 1.4% | 3% |  |
 | 102 | 0.8% | 2% |  |
 | 103 | 0.5% | 0.9% |  |
-| 104 | 0.2% | 0.5% |  |
+| 104 | 0.2% | 0.4% |  |
 | 105 | 0.1% | 0.2% |  |
 | 106 | 0.1% | 0.1% |  |
 | 107 | 0% | 0% |  |
