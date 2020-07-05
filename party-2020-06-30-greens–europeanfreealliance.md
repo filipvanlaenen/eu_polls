@@ -10,26 +10,25 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **46** seats (-21 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, IE, LT, LU, NL
+> AT, BE, CZ, DE, DK, ES, FI, FR, LT, LU, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 42–49 | 41–50 | 41–51 | 39–53 |
-| Bündnis 90/Die Grünen | DE | | 17 | 16–18 | 16–18 | 15–18 | 14–18 |
+| Greens–European Free Alliance | EU | 67 | 46 | 42–50 | 41–51 | 40–52 | 38–54 |
+| Bündnis 90/Die Grünen | DE | | 17 | 16–21 | 15–21 | 15–21 | 14–21 |
 | Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Die PARTEI | DE | | 1 | 1 | 1 | 1 | 1–2 |
+| Die PARTEI | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Green Party | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -40,14 +39,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
+| Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
-| Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -58,27 +58,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0% | 100% |  |
+| 36 | 0.1% | 100% |  |
 | 37 | 0.1% | 99.9% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.6% | 99.6% |  |
-| 40 | 1.3% | 99.0% |  |
-| 41 | 3% | 98% |  |
-| 42 | 5% | 95% |  |
-| 43 | 9% | 89% |  |
-| 44 | 12% | 81% |  |
-| 45 | 14% | 69% |  |
-| 46 | 14% | 56% | Median |
-| 47 | 13% | 41% |  |
-| 48 | 11% | 28% |  |
-| 49 | 8% | 17% |  |
-| 50 | 5% | 9% |  |
-| 51 | 3% | 4% |  |
-| 52 | 1.1% | 2% |  |
-| 53 | 0.4% | 0.5% |  |
-| 54 | 0.1% | 0.1% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
+| 38 | 0.3% | 99.8% |  |
+| 39 | 0.8% | 99.4% |  |
+| 40 | 2% | 98.6% |  |
+| 41 | 4% | 97% |  |
+| 42 | 6% | 93% |  |
+| 43 | 9% | 87% |  |
+| 44 | 12% | 78% |  |
+| 45 | 13% | 67% |  |
+| 46 | 14% | 53% | Median |
+| 47 | 12% | 39% |  |
+| 48 | 10% | 27% |  |
+| 49 | 7% | 17% |  |
+| 50 | 5% | 10% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.5% | 3% |  |
+| 53 | 0.7% | 1.2% |  |
+| 54 | 0.3% | 0.5% |  |
+| 55 | 0.1% | 0.2% |  |
+| 56 | 0% | 0.1% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |

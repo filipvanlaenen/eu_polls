@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–6 | 2–7 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–6 | 2–6 | 2–7 |
 | Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija tvarka ir teisingumas [LT] (*) | LT | | 1 | 1 | 1 | 1 | 0–1 |
@@ -29,6 +29,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -47,11 +48,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 27% | 94% |  |
-| 4 | 36% | 67% | Median |
-| 5 | 17% | 32% |  |
-| 6 | 13% | 15% |  |
+| 2 | 5% | 100% |  |
+| 3 | 25% | 95% |  |
+| 4 | 36% | 71% | Median |
+| 5 | 18% | 34% |  |
+| 6 | 14% | 16% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
