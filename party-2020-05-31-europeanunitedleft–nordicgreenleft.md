@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+13 seats)
+Current median: **53** seats (+14 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 52 | 49–56 | 48–57 | 47–58 | 46–59 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 49–56 | 48–57 | 48–58 | 46–59 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
 | Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
@@ -62,20 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
 | 45 | 0.2% | 99.9% |  |
-| 46 | 0.7% | 99.7% |  |
+| 46 | 0.6% | 99.7% |  |
 | 47 | 2% | 99.1% |  |
-| 48 | 4% | 97% |  |
+| 48 | 3% | 98% |  |
 | 49 | 6% | 94% |  |
-| 50 | 10% | 88% |  |
-| 51 | 13% | 78% |  |
-| 52 | 15% | 65% | Median |
-| 53 | 15% | 50% |  |
-| 54 | 13% | 35% |  |
-| 55 | 10% | 22% |  |
-| 56 | 6% | 13% |  |
-| 57 | 4% | 6% |  |
+| 50 | 9% | 88% |  |
+| 51 | 13% | 79% |  |
+| 52 | 15% | 66% |  |
+| 53 | 15% | 51% | Median |
+| 54 | 13% | 36% |  |
+| 55 | 10% | 23% |  |
+| 56 | 7% | 13% |  |
+| 57 | 4% | 7% |  |
 | 58 | 2% | 3% |  |
-| 59 | 0.7% | 1.2% |  |
+| 59 | 0.8% | 1.3% |  |
 | 60 | 0.3% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |

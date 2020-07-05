@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (+7 seats)
+Current median: **69** seats (+8 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 68 | 64–72 | 63–73 | 62–74 | 60–76 |
+| European Conservatives and Reformists | EU | 61 | 69 | 64–72 | 63–73 | 62–74 | 60–76 |
 | Zjednoczona Prawica | PL | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | Fratelli d’Italia | IT | | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
 | Vox | ES | | 9 | 7–10 | 6–10 | 6–11 | 6–12 |
@@ -63,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 7% | 90% |  |
 | 66 | 9% | 83% |  |
 | 67 | 11% | 74% |  |
-| 68 | 13% | 62% | Median |
-| 69 | 13% | 49% |  |
-| 70 | 12% | 36% |  |
-| 71 | 9% | 25% |  |
-| 72 | 7% | 15% |  |
+| 68 | 13% | 63% |  |
+| 69 | 13% | 50% | Median |
+| 70 | 12% | 37% |  |
+| 71 | 10% | 26% |  |
+| 72 | 7% | 16% |  |
 | 73 | 4% | 9% |  |
-| 74 | 2% | 5% |  |
-| 75 | 1.2% | 2% |  |
-| 76 | 0.5% | 0.9% |  |
-| 77 | 0.2% | 0.3% |  |
+| 74 | 3% | 5% |  |
+| 75 | 1.3% | 2% |  |
+| 76 | 0.6% | 0.9% |  |
+| 77 | 0.2% | 0.4% |  |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0% |  |
 

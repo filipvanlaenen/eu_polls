@@ -18,15 +18,15 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 23 | 21–26 | 20–26 | 19–27 | 18–28 |
+| Non-Inscrits | EU | 29 | 23 | 21–26 | 20–27 | 20–27 | 19–28 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
-| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -43,19 +43,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.5% | 99.9% |  |
-| 19 | 2% | 99.4% |  |
-| 20 | 6% | 97% |  |
-| 21 | 12% | 92% |  |
-| 22 | 18% | 80% |  |
-| 23 | 21% | 62% | Median |
-| 24 | 18% | 41% |  |
-| 25 | 12% | 22% |  |
-| 26 | 6% | 10% |  |
-| 27 | 3% | 4% |  |
-| 28 | 0.8% | 1.1% |  |
-| 29 | 0.2% | 0.3% | Last Result |
-| 30 | 0% | 0.1% |  |
+| 18 | 0.3% | 99.9% |  |
+| 19 | 1.3% | 99.6% |  |
+| 20 | 4% | 98% |  |
+| 21 | 10% | 94% |  |
+| 22 | 16% | 85% |  |
+| 23 | 21% | 68% | Median |
+| 24 | 20% | 48% |  |
+| 25 | 14% | 28% |  |
+| 26 | 8% | 13% |  |
+| 27 | 4% | 5% |  |
+| 28 | 1.2% | 2% |  |
+| 29 | 0.3% | 0.4% | Last Result |
+| 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
 

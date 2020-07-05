@@ -28,6 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -35,13 +36,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
-| Coalició Compromís | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
-| Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,13 +73,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 12% | 49% |  |
 | 47 | 11% | 36% |  |
 | 48 | 9% | 25% |  |
-| 49 | 7% | 16% |  |
+| 49 | 7% | 15% |  |
 | 50 | 4% | 9% |  |
-| 51 | 3% | 4% |  |
-| 52 | 1.2% | 2% |  |
-| 53 | 0.5% | 0.7% |  |
-| 54 | 0.2% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
+| 51 | 2% | 4% |  |
+| 52 | 1.1% | 2% |  |
+| 53 | 0.4% | 0.6% |  |
+| 54 | 0.1% | 0.2% |  |
+| 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
