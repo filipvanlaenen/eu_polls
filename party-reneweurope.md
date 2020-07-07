@@ -36,7 +36,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
+| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -81,17 +81,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 0% | 100% |  |
 | 84 | 0.1% | 99.9% |  |
 | 85 | 0.3% | 99.8% |  |
-| 86 | 0.6% | 99.6% |  |
-| 87 | 1.2% | 99.0% |  |
+| 86 | 0.6% | 99.5% |  |
+| 87 | 1.2% | 98.9% |  |
 | 88 | 2% | 98% |  |
-| 89 | 3% | 96% |  |
+| 89 | 4% | 95% |  |
 | 90 | 5% | 92% |  |
 | 91 | 7% | 87% |  |
-| 92 | 9% | 80% |  |
-| 93 | 10% | 71% |  |
-| 94 | 11% | 61% | Median |
-| 95 | 11% | 50% |  |
-| 96 | 10% | 39% |  |
+| 92 | 9% | 79% |  |
+| 93 | 10% | 70% |  |
+| 94 | 11% | 60% | Median |
+| 95 | 11% | 49% |  |
+| 96 | 10% | 38% |  |
 | 97 | 8% | 29% |  |
 | 98 | 7% | 20% | Last Result |
 | 99 | 5% | 14% |  |
