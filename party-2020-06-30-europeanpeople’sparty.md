@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **192** seats (+5 seats)
+Current median: **193** seats (+6 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 192 | 186–198 | 184–200 | 183–201 | 179–204 |
+| European People’s Party | EU | 187 | 193 | 186–199 | 184–200 | 183–201 | 179–204 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
 | Partido Popular | ES | | 15 | 12–16 | 12–17 | 12–17 | 11–18 |
 | Koalicja Obywatelska | PL | | 14 | 12–17 | 12–17 | 11–18 | 11–18 |
@@ -81,34 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 176 | 0% | 100% |  |
 | 177 | 0.1% | 99.9% |  |
-| 178 | 0.1% | 99.8% |  |
+| 178 | 0.1% | 99.9% |  |
 | 179 | 0.2% | 99.7% |  |
 | 180 | 0.4% | 99.5% |  |
 | 181 | 0.6% | 99.1% |  |
-| 182 | 0.9% | 98% |  |
-| 183 | 1.4% | 98% |  |
+| 182 | 0.9% | 98.5% |  |
+| 183 | 1.3% | 98% |  |
 | 184 | 2% | 96% |  |
 | 185 | 3% | 94% |  |
 | 186 | 3% | 92% |  |
-| 187 | 4% | 88% | Last Result |
+| 187 | 4% | 89% | Last Result |
 | 188 | 5% | 84% |  |
 | 189 | 6% | 79% |  |
 | 190 | 7% | 73% |  |
 | 191 | 8% | 66% |  |
-| 192 | 8% | 58% | Median |
-| 193 | 8% | 50% |  |
+| 192 | 8% | 59% |  |
+| 193 | 8% | 51% | Median |
 | 194 | 8% | 42% |  |
 | 195 | 7% | 34% |  |
-| 196 | 7% | 26% |  |
+| 196 | 7% | 27% |  |
 | 197 | 6% | 20% |  |
-| 198 | 4% | 14% |  |
+| 198 | 5% | 15% |  |
 | 199 | 3% | 10% |  |
-| 200 | 2% | 6% |  |
+| 200 | 2% | 7% |  |
 | 201 | 2% | 4% |  |
-| 202 | 1.0% | 2% |  |
-| 203 | 0.6% | 1.3% |  |
-| 204 | 0.3% | 0.7% |  |
-| 205 | 0.2% | 0.3% |  |
+| 202 | 1.1% | 2% |  |
+| 203 | 0.6% | 1.4% |  |
+| 204 | 0.4% | 0.7% |  |
+| 205 | 0.2% | 0.4% |  |
 | 206 | 0.1% | 0.2% |  |
 | 207 | 0% | 0.1% |  |
 | 208 | 0% | 0% |  |

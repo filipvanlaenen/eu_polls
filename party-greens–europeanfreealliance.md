@@ -41,7 +41,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
 | 38 | 0.2% | 99.9% |  |
-| 39 | 0.5% | 99.7% |  |
-| 40 | 1.1% | 99.2% |  |
+| 39 | 0.4% | 99.7% |  |
+| 40 | 1.1% | 99.3% |  |
 | 41 | 2% | 98% |  |
 | 42 | 4% | 96% |  |
 | 43 | 7% | 92% |  |
 | 44 | 10% | 85% |  |
-| 45 | 12% | 75% |  |
+| 45 | 12% | 76% |  |
 | 46 | 14% | 63% | Median |
-| 47 | 14% | 49% |  |
+| 47 | 14% | 50% |  |
 | 48 | 12% | 36% |  |
-| 49 | 9% | 24% |  |
-| 50 | 7% | 14% |  |
+| 49 | 10% | 24% |  |
+| 50 | 7% | 15% |  |
 | 51 | 4% | 8% |  |
 | 52 | 2% | 4% |  |
 | 53 | 1.0% | 2% |  |
