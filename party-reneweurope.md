@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (-3 seats)
+Current median: **96** seats (-2 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,30 +18,29 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 90–99 | 89–101 | 88–102 | 86–104 |
-| La République en marche–Mouvement démocrate | FR | | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 10 | 7–10 | 7–11 | 7–11 | 7–11 |
+| Renew Europe | EU | 98 | 96 | 91–101 | 89–103 | 88–104 | 86–107 |
+| La République en marche–Mouvement démocrate | FR | | 25 | 23–29 | 22–29 | 22–29 | 21–29 |
 | ANO 2011 | CZ | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–11 | 7–11 | 7–11 | 7–11 |
 | Alianța 2020 USR-PLUS | RO | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
+| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Venstre | DK | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lista Marjana Šarca | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Momentum Mozgalom | HU | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Fianna Fáil | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -50,9 +49,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -67,7 +67,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Συμμαχία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -78,31 +78,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0% | 100% |  |
-| 84 | 0.1% | 99.9% |  |
-| 85 | 0.3% | 99.8% |  |
-| 86 | 0.6% | 99.5% |  |
-| 87 | 1.2% | 98.9% |  |
+| 84 | 0.1% | 100% |  |
+| 85 | 0.2% | 99.9% |  |
+| 86 | 0.4% | 99.7% |  |
+| 87 | 0.8% | 99.3% |  |
 | 88 | 2% | 98% |  |
-| 89 | 4% | 96% |  |
-| 90 | 5% | 92% |  |
-| 91 | 7% | 87% |  |
-| 92 | 9% | 80% |  |
-| 93 | 10% | 71% |  |
-| 94 | 11% | 61% |  |
-| 95 | 11% | 50% | Median |
-| 96 | 10% | 39% |  |
-| 97 | 8% | 30% |  |
-| 98 | 7% | 21% | Last Result |
-| 99 | 5% | 14% |  |
-| 100 | 4% | 9% |  |
-| 101 | 2% | 6% |  |
-| 102 | 1.5% | 3% |  |
-| 103 | 0.9% | 2% |  |
-| 104 | 0.5% | 0.9% |  |
-| 105 | 0.2% | 0.4% |  |
-| 106 | 0.1% | 0.2% |  |
-| 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0% |  |
+| 89 | 2% | 97% |  |
+| 90 | 4% | 94% |  |
+| 91 | 5% | 91% |  |
+| 92 | 7% | 86% |  |
+| 93 | 8% | 79% |  |
+| 94 | 9% | 71% |  |
+| 95 | 10% | 62% |  |
+| 96 | 10% | 52% | Median |
+| 97 | 9% | 42% |  |
+| 98 | 8% | 33% | Last Result |
+| 99 | 7% | 25% |  |
+| 100 | 6% | 18% |  |
+| 101 | 4% | 13% |  |
+| 102 | 3% | 8% |  |
+| 103 | 2% | 5% |  |
+| 104 | 1.4% | 3% |  |
+| 105 | 0.8% | 2% |  |
+| 106 | 0.5% | 1.0% |  |
+| 107 | 0.3% | 0.5% |  |
+| 108 | 0.1% | 0.2% |  |
+| 109 | 0.1% | 0.1% |  |
+| 110 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (+7 seats)
+Current median: **67** seats (+6 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 68 | 63–72 | 62–73 | 61–74 | 59–76 |
+| European Conservatives and Reformists | EU | 61 | 67 | 62–71 | 60–72 | 59–73 | 56–75 |
 | Zjednoczona Prawica | PL | | 22 | 19–24 | 18–25 | 18–25 | 17–26 |
 | Fratelli d’Italia | IT | | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
-| Vox | ES | | 9 | 7–10 | 6–11 | 6–11 | 6–11 |
-| Debout la France | FR | | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Vox | ES | | 8 | 6–10 | 6–10 | 6–11 | 6–11 |
+| Debout la France | FR | | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
+| Sverigedemokraterna | SE | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -52,29 +52,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.1% | 100% |  |
-| 57 | 0.1% | 99.9% |  |
-| 58 | 0.2% | 99.8% |  |
-| 59 | 0.5% | 99.5% |  |
-| 60 | 1.0% | 99.0% |  |
-| 61 | 2% | 98% | Last Result |
-| 62 | 3% | 96% |  |
-| 63 | 4% | 94% |  |
-| 64 | 6% | 89% |  |
-| 65 | 8% | 83% |  |
-| 66 | 10% | 75% |  |
-| 67 | 12% | 65% |  |
-| 68 | 12% | 53% | Median |
-| 69 | 12% | 41% |  |
-| 70 | 10% | 30% |  |
-| 71 | 8% | 19% |  |
-| 72 | 5% | 12% |  |
-| 73 | 3% | 6% |  |
-| 74 | 2% | 3% |  |
-| 75 | 0.9% | 1.4% |  |
-| 76 | 0.4% | 0.6% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.1% | 99.9% |  |
+| 56 | 0.3% | 99.8% |  |
+| 57 | 0.5% | 99.5% |  |
+| 58 | 0.9% | 99.0% |  |
+| 59 | 1.4% | 98% |  |
+| 60 | 2% | 97% |  |
+| 61 | 3% | 95% | Last Result |
+| 62 | 4% | 91% |  |
+| 63 | 6% | 87% |  |
+| 64 | 7% | 81% |  |
+| 65 | 9% | 74% |  |
+| 66 | 10% | 65% |  |
+| 67 | 11% | 55% | Median |
+| 68 | 11% | 44% |  |
+| 69 | 10% | 33% |  |
+| 70 | 8% | 23% |  |
+| 71 | 6% | 15% |  |
+| 72 | 4% | 9% |  |
+| 73 | 2% | 5% |  |
+| 74 | 1.3% | 2% |  |
+| 75 | 0.6% | 1.0% |  |
+| 76 | 0.3% | 0.4% |  |
 | 77 | 0.1% | 0.2% |  |
-| 78 | 0% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 78 | 0% | 0% |  |
 
 
