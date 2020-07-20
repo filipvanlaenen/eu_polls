@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **195** seats (+8 seats)
+Current median: **196** seats (+9 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 195 | 189–201 | 187–203 | 185–204 | 182–207 |
+| European People’s Party | EU | 187 | 196 | 189–202 | 187–203 | 186–205 | 183–207 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
 | Koalicja Obywatelska | PL | | 14 | 12–17 | 12–17 | 11–18 | 11–18 |
 | Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
@@ -33,10 +33,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
+| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Koalicja Polska | PL | | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -45,7 +45,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 1–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| ChristenUnie | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -81,34 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 179 | 0% | 100% |  |
 | 180 | 0.1% | 99.9% |  |
-| 181 | 0.1% | 99.8% |  |
-| 182 | 0.3% | 99.7% |  |
+| 181 | 0.1% | 99.9% |  |
+| 182 | 0.2% | 99.7% |  |
 | 183 | 0.4% | 99.5% |  |
-| 184 | 0.7% | 99.0% |  |
-| 185 | 1.0% | 98% |  |
-| 186 | 1.4% | 97% |  |
+| 184 | 0.6% | 99.2% |  |
+| 185 | 0.9% | 98.6% |  |
+| 186 | 1.3% | 98% |  |
 | 187 | 2% | 96% | Last Result |
-| 188 | 3% | 94% |  |
-| 189 | 4% | 91% |  |
-| 190 | 4% | 88% |  |
-| 191 | 5% | 83% |  |
-| 192 | 6% | 78% |  |
-| 193 | 7% | 71% |  |
-| 194 | 8% | 64% |  |
-| 195 | 8% | 57% | Median |
-| 196 | 8% | 48% |  |
-| 197 | 8% | 40% |  |
-| 198 | 7% | 33% |  |
-| 199 | 6% | 25% |  |
-| 200 | 5% | 19% |  |
-| 201 | 4% | 14% |  |
+| 188 | 3% | 95% |  |
+| 189 | 3% | 92% |  |
+| 190 | 4% | 89% |  |
+| 191 | 5% | 84% |  |
+| 192 | 6% | 79% |  |
+| 193 | 7% | 73% |  |
+| 194 | 8% | 66% |  |
+| 195 | 8% | 59% |  |
+| 196 | 8% | 50% | Median |
+| 197 | 8% | 42% |  |
+| 198 | 7% | 34% |  |
+| 199 | 7% | 27% |  |
+| 200 | 6% | 20% |  |
+| 201 | 4% | 15% |  |
 | 202 | 3% | 10% |  |
-| 203 | 2% | 6% |  |
+| 203 | 3% | 7% |  |
 | 204 | 2% | 4% |  |
-| 205 | 1.0% | 2% |  |
-| 206 | 0.6% | 1.4% |  |
-| 207 | 0.4% | 0.8% |  |
-| 208 | 0.2% | 0.4% |  |
+| 205 | 1.1% | 3% |  |
+| 206 | 0.7% | 2% |  |
+| 207 | 0.4% | 0.9% |  |
+| 208 | 0.2% | 0.5% |  |
 | 209 | 0.1% | 0.2% |  |
 | 210 | 0.1% | 0.1% |  |
 | 211 | 0% | 0% |  |
