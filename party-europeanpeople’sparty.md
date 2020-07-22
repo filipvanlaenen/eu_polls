@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 196 | 189–202 | 187–203 | 186–205 | 183–207 |
-| Christlich Demokratische Union Deutschlands | DE | | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
+| European People’s Party | EU | 187 | 196 | 189–202 | 187–203 | 186–205 | 183–208 |
+| Christlich Demokratische Union Deutschlands | DE | | 28 | 26–29 | 25–30 | 25–31 | 25–32 |
 | Koalicja Obywatelska | PL | | 14 | 12–17 | 12–17 | 11–18 | 11–18 |
 | Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
@@ -27,15 +27,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Νέα Δημοκρατία | GR | | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | Österreichische Volkspartei | AT | | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
-| Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| Fine Gael | IE | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| Fine Gael | IE | | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
 | Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Koalicja Polska | PL | | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -82,35 +82,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 0% | 100% |  |
 | 180 | 0.1% | 99.9% |  |
 | 181 | 0.1% | 99.9% |  |
-| 182 | 0.2% | 99.7% |  |
-| 183 | 0.4% | 99.5% |  |
-| 184 | 0.6% | 99.2% |  |
-| 185 | 0.9% | 98.6% |  |
-| 186 | 1.3% | 98% |  |
-| 187 | 2% | 96% | Last Result |
-| 188 | 3% | 95% |  |
+| 182 | 0.2% | 99.8% |  |
+| 183 | 0.3% | 99.6% |  |
+| 184 | 0.5% | 99.2% |  |
+| 185 | 0.8% | 98.7% |  |
+| 186 | 1.2% | 98% |  |
+| 187 | 2% | 97% | Last Result |
+| 188 | 2% | 95% |  |
 | 189 | 3% | 92% |  |
 | 190 | 4% | 89% |  |
-| 191 | 5% | 84% |  |
-| 192 | 6% | 79% |  |
-| 193 | 7% | 73% |  |
-| 194 | 8% | 66% |  |
-| 195 | 8% | 59% |  |
-| 196 | 8% | 50% | Median |
-| 197 | 8% | 42% |  |
-| 198 | 7% | 34% |  |
-| 199 | 7% | 27% |  |
-| 200 | 6% | 20% |  |
-| 201 | 4% | 15% |  |
-| 202 | 3% | 10% |  |
+| 191 | 5% | 85% |  |
+| 192 | 6% | 80% |  |
+| 193 | 7% | 74% |  |
+| 194 | 8% | 67% |  |
+| 195 | 8% | 60% |  |
+| 196 | 8% | 52% | Median |
+| 197 | 8% | 43% |  |
+| 198 | 7% | 35% |  |
+| 199 | 7% | 28% |  |
+| 200 | 6% | 21% |  |
+| 201 | 5% | 16% |  |
+| 202 | 4% | 11% |  |
 | 203 | 3% | 7% |  |
-| 204 | 2% | 4% |  |
-| 205 | 1.1% | 3% |  |
-| 206 | 0.7% | 2% |  |
-| 207 | 0.4% | 0.9% |  |
-| 208 | 0.2% | 0.5% |  |
-| 209 | 0.1% | 0.2% |  |
+| 204 | 2% | 5% |  |
+| 205 | 1.2% | 3% |  |
+| 206 | 0.8% | 2% |  |
+| 207 | 0.5% | 1.0% |  |
+| 208 | 0.3% | 0.5% |  |
+| 209 | 0.1% | 0.3% |  |
 | 210 | 0.1% | 0.1% |  |
-| 211 | 0% | 0% |  |
+| 211 | 0% | 0.1% |  |
+| 212 | 0% | 0% |  |
 
 

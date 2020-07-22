@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 66 | 61–71 | 59–72 | 58–73 | 56–75 |
+| European Conservatives and Reformists | EU | 61 | 66 | 61–71 | 60–72 | 58–73 | 56–75 |
 | Zjednoczona Prawica | PL | | 22 | 19–24 | 18–25 | 18–25 | 17–26 |
 | Fratelli d’Italia | IT | | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
-| Vox | ES | | 8 | 6–10 | 6–10 | 6–10 | 6–11 |
+| Vox | ES | | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
 | Debout la France | FR | | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -52,31 +52,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 53 | 0% | 100% |  |
-| 54 | 0.1% | 99.9% |  |
-| 55 | 0.2% | 99.8% |  |
-| 56 | 0.5% | 99.6% |  |
-| 57 | 0.8% | 99.1% |  |
-| 58 | 1.4% | 98% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.4% | 99.7% |  |
+| 57 | 0.8% | 99.2% |  |
+| 58 | 1.2% | 98% |  |
 | 59 | 2% | 97% |  |
 | 60 | 3% | 95% |  |
 | 61 | 4% | 92% | Last Result |
-| 62 | 6% | 87% |  |
-| 63 | 7% | 82% |  |
-| 64 | 8% | 75% |  |
-| 65 | 9% | 67% |  |
-| 66 | 10% | 58% | Median |
-| 67 | 10% | 48% |  |
-| 68 | 10% | 38% |  |
-| 69 | 9% | 28% |  |
-| 70 | 7% | 20% |  |
-| 71 | 5% | 13% |  |
-| 72 | 3% | 7% |  |
+| 62 | 5% | 88% |  |
+| 63 | 7% | 83% |  |
+| 64 | 8% | 76% |  |
+| 65 | 9% | 69% |  |
+| 66 | 10% | 60% | Median |
+| 67 | 10% | 50% |  |
+| 68 | 10% | 40% |  |
+| 69 | 9% | 30% |  |
+| 70 | 7% | 21% |  |
+| 71 | 5% | 14% |  |
+| 72 | 4% | 8% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.1% | 2% |  |
-| 75 | 0.5% | 0.9% |  |
-| 76 | 0.2% | 0.4% |  |
-| 77 | 0.1% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 74 | 1.2% | 2% |  |
+| 75 | 0.6% | 1.0% |  |
+| 76 | 0.3% | 0.4% |  |
+| 77 | 0.1% | 0.2% |  |
+| 78 | 0% | 0.1% |  |
+| 79 | 0% | 0% |  |
 
 
