@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 194 | 188–200 | 186–202 | 184–204 | 182–206 |
+| European People’s Party | EU | 187 | 194 | 188–200 | 186–202 | 184–203 | 182–206 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–29 | 26–30 | 25–31 | 25–32 |
 | Koalicja Obywatelska | PL | | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
 | Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
@@ -29,11 +29,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Fine Gael | IE | | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
-| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
+| Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -82,33 +82,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 178 | 0% | 100% |  |
 | 179 | 0.1% | 99.9% |  |
 | 180 | 0.1% | 99.9% |  |
-| 181 | 0.2% | 99.8% |  |
+| 181 | 0.2% | 99.7% |  |
 | 182 | 0.4% | 99.5% |  |
-| 183 | 0.6% | 99.1% |  |
+| 183 | 0.7% | 99.1% |  |
 | 184 | 1.0% | 98% |  |
-| 185 | 1.5% | 97% |  |
+| 185 | 2% | 97% |  |
 | 186 | 2% | 96% |  |
 | 187 | 3% | 94% | Last Result |
 | 188 | 4% | 91% |  |
 | 189 | 5% | 87% |  |
-| 190 | 6% | 83% |  |
+| 190 | 6% | 82% |  |
 | 191 | 7% | 77% |  |
-| 192 | 7% | 71% |  |
+| 192 | 7% | 70% |  |
 | 193 | 8% | 63% |  |
 | 194 | 8% | 55% | Median |
 | 195 | 8% | 47% |  |
 | 196 | 8% | 39% |  |
-| 197 | 7% | 32% |  |
-| 198 | 6% | 25% |  |
-| 199 | 5% | 19% |  |
-| 200 | 4% | 14% |  |
-| 201 | 3% | 10% |  |
+| 197 | 7% | 31% |  |
+| 198 | 6% | 24% |  |
+| 199 | 5% | 18% |  |
+| 200 | 4% | 13% |  |
+| 201 | 3% | 9% |  |
 | 202 | 2% | 6% |  |
 | 203 | 2% | 4% |  |
-| 204 | 1.0% | 3% |  |
-| 205 | 0.7% | 2% |  |
+| 204 | 1.0% | 2% |  |
+| 205 | 0.6% | 1.4% |  |
 | 206 | 0.4% | 0.8% |  |
-| 207 | 0.2% | 0.5% |  |
+| 207 | 0.2% | 0.4% |  |
 | 208 | 0.1% | 0.2% |  |
 | 209 | 0.1% | 0.1% |  |
 | 210 | 0% | 0.1% |  |
