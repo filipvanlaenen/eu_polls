@@ -37,7 +37,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
-| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
+| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Национален фронт за спасение на България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -50,11 +50,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 11% | 99.3% |  |
-| 3 | 31% | 88% |  |
-| 4 | 11% | 58% | Median |
-| 5 | 26% | 47% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 12% | 98.9% |  |
+| 3 | 29% | 87% |  |
+| 4 | 11% | 57% | Median |
+| 5 | 26% | 46% |  |
 | 6 | 10% | 20% |  |
 | 7 | 6% | 10% |  |
 | 8 | 4% | 4% |  |
