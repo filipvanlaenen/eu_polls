@@ -10,9 +10,9 @@ Last result: **187** seats (General Election of 26 May 2019)
 
 Current median: **194** seats (+7 seats)
 
-At least one member in **25 countries** have a median of 1 seat or more:
+At least one member in **26 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -23,7 +23,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Koalicja Obywatelska | PL | | 16 | 13–18 | 12–19 | 12–19 | 11–20 |
 | Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
-| Partidul Național Liberal | RO | | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
+| Partidul Național Liberal | RO | | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | Les Républicains | FR | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Νέα Δημοκρατία | GR | | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | Österreichische Volkspartei | AT | | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
@@ -50,6 +50,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +66,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 0.1% | 99.8% |  |
 | 180 | 0.3% | 99.7% |  |
 | 181 | 0.4% | 99.4% |  |
-| 182 | 0.7% | 99.0% |  |
+| 182 | 0.6% | 99.0% |  |
 | 183 | 1.0% | 98% |  |
 | 184 | 1.4% | 97% |  |
 | 185 | 2% | 96% |  |
@@ -94,21 +94,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 189 | 5% | 84% |  |
 | 190 | 6% | 79% |  |
 | 191 | 7% | 73% |  |
-| 192 | 7% | 66% |  |
+| 192 | 7% | 67% |  |
 | 193 | 8% | 59% |  |
 | 194 | 8% | 51% | Median |
 | 195 | 8% | 43% |  |
 | 196 | 7% | 35% |  |
-| 197 | 7% | 27% |  |
+| 197 | 7% | 28% |  |
 | 198 | 6% | 21% |  |
 | 199 | 5% | 15% |  |
-| 200 | 3% | 10% |  |
+| 200 | 4% | 11% |  |
 | 201 | 3% | 7% |  |
-| 202 | 2% | 4% |  |
-| 203 | 1.1% | 3% |  |
+| 202 | 2% | 5% |  |
+| 203 | 1.2% | 3% |  |
 | 204 | 0.7% | 2% |  |
-| 205 | 0.4% | 0.8% |  |
-| 206 | 0.2% | 0.4% |  |
+| 205 | 0.4% | 0.9% |  |
+| 206 | 0.2% | 0.5% |  |
 | 207 | 0.1% | 0.2% |  |
 | 208 | 0.1% | 0.1% |  |
 | 209 | 0% | 0% |  |
