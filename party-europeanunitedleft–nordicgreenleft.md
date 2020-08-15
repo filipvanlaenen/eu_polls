@@ -18,9 +18,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–58 | 48–59 | 47–60 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 49–57 | 48–58 | 46–60 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
-| Die Linke | DE | | 8 | 6–9 | 6–9 | 5–9 | 4–10 |
+| Die Linke | DE | | 7 | 6–8 | 6–9 | 5–9 | 4–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sinn Féin | IE | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
@@ -49,9 +49,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-08-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-07-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-08-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2020-07-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,23 +62,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
 | 45 | 0.1% | 100% |  |
-| 46 | 0.3% | 99.9% |  |
-| 47 | 0.7% | 99.6% |  |
-| 48 | 2% | 98.9% |  |
-| 49 | 4% | 97% |  |
-| 50 | 6% | 94% |  |
-| 51 | 10% | 87% |  |
-| 52 | 13% | 78% |  |
-| 53 | 15% | 65% | Median |
-| 54 | 15% | 50% |  |
-| 55 | 13% | 35% |  |
-| 56 | 10% | 22% |  |
-| 57 | 6% | 13% |  |
-| 58 | 4% | 6% |  |
-| 59 | 2% | 3% |  |
-| 60 | 0.7% | 1.0% |  |
-| 61 | 0.2% | 0.3% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
+| 46 | 0.4% | 99.8% |  |
+| 47 | 1.0% | 99.5% |  |
+| 48 | 2% | 98% |  |
+| 49 | 5% | 96% |  |
+| 50 | 8% | 91% |  |
+| 51 | 11% | 84% |  |
+| 52 | 14% | 73% |  |
+| 53 | 15% | 59% | Median |
+| 54 | 14% | 44% |  |
+| 55 | 12% | 29% |  |
+| 56 | 8% | 18% |  |
+| 57 | 5% | 9% |  |
+| 58 | 3% | 4% |  |
+| 59 | 1.1% | 2% |  |
+| 60 | 0.4% | 0.6% |  |
+| 61 | 0.1% | 0.2% |  |
+| 62 | 0% | 0% |  |
 
 

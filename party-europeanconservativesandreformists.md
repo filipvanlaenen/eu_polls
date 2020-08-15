@@ -18,22 +18,22 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 67 | 62–72 | 60–73 | 59–74 | 57–76 |
-| Zjednoczona Prawica | PL | | 22 | 19–24 | 19–24 | 18–25 | 18–25 |
-| Fratelli d’Italia | IT | | 13 | 11–15 | 11–16 | 11–17 | 10–17 |
-| Vox | ES | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
+| European Conservatives and Reformists | EU | 61 | 67 | 62–72 | 60–73 | 59–74 | 57–77 |
+| Zjednoczona Prawica | PL | | 23 | 19–24 | 19–25 | 18–25 | 18–26 |
+| Fratelli d’Italia | IT | | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| Vox | ES | | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Debout la France | FR | | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| ВМРО–Българско Национално Движение | BG | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| ВМРО–Българско Национално Движение | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,36 +46,37 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-08-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-07-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
 | 56 | 0.2% | 99.9% |  |
-| 57 | 0.4% | 99.7% |  |
-| 58 | 0.9% | 99.3% |  |
-| 59 | 1.5% | 98% |  |
+| 57 | 0.5% | 99.7% |  |
+| 58 | 0.9% | 99.2% |  |
+| 59 | 1.4% | 98% |  |
 | 60 | 2% | 97% |  |
 | 61 | 3% | 95% | Last Result |
-| 62 | 5% | 91% |  |
+| 62 | 4% | 92% |  |
 | 63 | 6% | 87% |  |
-| 64 | 7% | 81% |  |
-| 65 | 9% | 74% |  |
-| 66 | 10% | 65% |  |
-| 67 | 10% | 55% | Median |
-| 68 | 10% | 45% |  |
-| 69 | 10% | 35% |  |
-| 70 | 8% | 25% |  |
-| 71 | 6% | 17% |  |
-| 72 | 5% | 11% |  |
-| 73 | 3% | 6% |  |
-| 74 | 2% | 3% |  |
-| 75 | 0.9% | 2% |  |
-| 76 | 0.5% | 0.8% |  |
-| 77 | 0.2% | 0.3% |  |
-| 78 | 0.1% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 64 | 7% | 82% |  |
+| 65 | 8% | 75% |  |
+| 66 | 9% | 66% |  |
+| 67 | 10% | 57% | Median |
+| 68 | 10% | 47% |  |
+| 69 | 9% | 37% |  |
+| 70 | 8% | 28% |  |
+| 71 | 7% | 20% |  |
+| 72 | 5% | 13% |  |
+| 73 | 3% | 8% |  |
+| 74 | 2% | 5% |  |
+| 75 | 1.2% | 2% |  |
+| 76 | 0.6% | 1.1% |  |
+| 77 | 0.3% | 0.5% |  |
+| 78 | 0.1% | 0.2% |  |
+| 79 | 0.1% | 0.1% |  |
+| 80 | 0% | 0% |  |
 
 
