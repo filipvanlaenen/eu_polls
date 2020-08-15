@@ -18,22 +18,22 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–138 | 124–139 | 122–141 | 120–143 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–138 | 124–140 | 123–141 | 120–144 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–21 | 16–21 | 15–21 | 14–22 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| Partito Democratico | IT | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–18 | 12–19 | 11–19 |
 | Partido Socialista | PT | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Partidul Social Democrat | RO | | 10 | 8–12 | 7–12 | 7–12 | 7–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Lewica | PL | | 5 | 3–6 | 3–6 | 2–6 | 0–7 |
-| Socialdemokraterne | DK | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| Lewica | PL | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| Socialdemokraterne | DK | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Partit Laburista | MT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4 | 4 | 4 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 0–2 | 0–3 | 0–3 |
 | PRO România | RO | | 2 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -65,38 +65,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 116 | 0% | 100% |  |
-| 117 | 0.1% | 99.9% |  |
+| 117 | 0% | 100% |  |
 | 118 | 0.1% | 99.9% |  |
-| 119 | 0.2% | 99.7% |  |
-| 120 | 0.4% | 99.5% |  |
-| 121 | 0.7% | 99.1% |  |
-| 122 | 1.1% | 98% |  |
-| 123 | 2% | 97% |  |
-| 124 | 2% | 96% |  |
-| 125 | 3% | 93% |  |
-| 126 | 4% | 90% |  |
-| 127 | 5% | 86% |  |
-| 128 | 6% | 81% |  |
-| 129 | 7% | 75% |  |
-| 130 | 8% | 68% |  |
-| 131 | 8% | 60% |  |
-| 132 | 8% | 52% | Median |
-| 133 | 8% | 44% |  |
-| 134 | 8% | 35% |  |
-| 135 | 7% | 28% |  |
-| 136 | 6% | 21% |  |
-| 137 | 5% | 15% |  |
-| 138 | 4% | 11% |  |
-| 139 | 3% | 7% |  |
-| 140 | 2% | 5% |  |
-| 141 | 1.2% | 3% |  |
-| 142 | 0.7% | 2% |  |
-| 143 | 0.4% | 0.9% |  |
-| 144 | 0.2% | 0.5% |  |
-| 145 | 0.1% | 0.2% |  |
-| 146 | 0.1% | 0.1% |  |
-| 147 | 0% | 0.1% | Last Result |
-| 148 | 0% | 0% |  |
+| 119 | 0.2% | 99.9% |  |
+| 120 | 0.3% | 99.7% |  |
+| 121 | 0.5% | 99.4% |  |
+| 122 | 0.8% | 98.9% |  |
+| 123 | 1.3% | 98% |  |
+| 124 | 2% | 97% |  |
+| 125 | 3% | 95% |  |
+| 126 | 4% | 92% |  |
+| 127 | 5% | 89% |  |
+| 128 | 6% | 84% |  |
+| 129 | 7% | 79% |  |
+| 130 | 8% | 72% |  |
+| 131 | 8% | 65% |  |
+| 132 | 8% | 56% | Median |
+| 133 | 8% | 48% |  |
+| 134 | 8% | 39% |  |
+| 135 | 7% | 32% |  |
+| 136 | 6% | 24% |  |
+| 137 | 5% | 18% |  |
+| 138 | 4% | 13% |  |
+| 139 | 3% | 9% |  |
+| 140 | 2% | 6% |  |
+| 141 | 1.5% | 4% |  |
+| 142 | 1.0% | 2% |  |
+| 143 | 0.6% | 1.4% |  |
+| 144 | 0.4% | 0.8% |  |
+| 145 | 0.2% | 0.4% |  |
+| 146 | 0.1% | 0.2% |  |
+| 147 | 0.1% | 0.1% | Last Result |
+| 148 | 0% | 0.1% |  |
+| 149 | 0% | 0% |  |
 
 

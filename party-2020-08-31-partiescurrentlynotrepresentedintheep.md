@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–6 | 2–7 | 2–8 | 1–8 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 2–6 | 2–7 | 2–7 | 1–8 |
 | Има такъв народ [BG] (*) | BG | | 4 | 2–4 | 2–5 | 1–5 | 1–5 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -50,14 +50,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.6% | 100% |  |
-| 2 | 8% | 99.4% |  |
-| 3 | 20% | 92% |  |
-| 4 | 11% | 72% |  |
-| 5 | 32% | 61% | Median |
-| 6 | 20% | 29% |  |
-| 7 | 6% | 9% |  |
-| 8 | 3% | 3% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 10% | 99.1% |  |
+| 3 | 18% | 89% |  |
+| 4 | 14% | 72% |  |
+| 5 | 31% | 57% | Median |
+| 6 | 18% | 26% |  |
+| 7 | 6% | 8% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
