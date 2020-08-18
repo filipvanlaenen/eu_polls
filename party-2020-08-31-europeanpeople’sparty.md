@@ -18,10 +18,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 193 | 187–199 | 185–201 | 184–202 | 180–205 |
-| Christlich Demokratische Union Deutschlands | DE | | 28 | 26–29 | 26–30 | 25–30 | 24–32 |
+| European People’s Party | EU | 187 | 193 | 187–199 | 185–201 | 183–202 | 180–205 |
+| Christlich Demokratische Union Deutschlands | DE | | 27 | 26–29 | 26–30 | 25–30 | 24–32 |
 | Koalicja Obywatelska | PL | | 16 | 13–17 | 12–18 | 12–18 | 11–19 |
-| Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
+| Partido Popular | ES | | 15 | 12–17 | 12–17 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | Les Républicains | FR | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
@@ -33,12 +33,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5 | 5 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Koalicja Polska | PL | | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Δημοκρατικός Συναγερμός | CY | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -62,7 +62,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -81,28 +81,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 177 | 0% | 100% |  |
 | 178 | 0.1% | 99.9% |  |
-| 179 | 0.1% | 99.9% |  |
-| 180 | 0.2% | 99.7% |  |
-| 181 | 0.4% | 99.5% |  |
-| 182 | 0.6% | 99.1% |  |
+| 179 | 0.2% | 99.8% |  |
+| 180 | 0.3% | 99.7% |  |
+| 181 | 0.4% | 99.4% |  |
+| 182 | 0.7% | 99.0% |  |
 | 183 | 1.0% | 98% |  |
-| 184 | 1.4% | 98% |  |
+| 184 | 1.5% | 97% |  |
 | 185 | 2% | 96% |  |
 | 186 | 3% | 94% |  |
-| 187 | 3% | 92% | Last Result |
-| 188 | 4% | 88% |  |
-| 189 | 5% | 84% |  |
-| 190 | 6% | 79% |  |
-| 191 | 7% | 73% |  |
-| 192 | 8% | 65% |  |
-| 193 | 8% | 58% | Median |
-| 194 | 8% | 50% |  |
-| 195 | 8% | 41% |  |
-| 196 | 7% | 33% |  |
-| 197 | 7% | 26% |  |
+| 187 | 4% | 91% | Last Result |
+| 188 | 4% | 87% |  |
+| 189 | 5% | 83% |  |
+| 190 | 6% | 78% |  |
+| 191 | 7% | 71% |  |
+| 192 | 8% | 64% |  |
+| 193 | 8% | 57% | Median |
+| 194 | 8% | 48% |  |
+| 195 | 8% | 40% |  |
+| 196 | 7% | 32% |  |
+| 197 | 6% | 25% |  |
 | 198 | 5% | 19% |  |
 | 199 | 4% | 14% |  |
-| 200 | 3% | 10% |  |
+| 200 | 3% | 9% |  |
 | 201 | 2% | 6% |  |
 | 202 | 2% | 4% |  |
 | 203 | 1.0% | 2% |  |
