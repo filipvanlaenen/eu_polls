@@ -24,7 +24,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij voor de Vrijheid | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SME RODINA | SK | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Chega | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -46,7 +46,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0.1% | 100% |  |
 | 64 | 0.2% | 99.9% |  |
 | 65 | 0.5% | 99.7% |  |
-| 66 | 1.0% | 99.2% |  |
+| 66 | 1.0% | 99.3% |  |
 | 67 | 2% | 98% |  |
 | 68 | 3% | 96% |  |
 | 69 | 5% | 93% |  |
@@ -57,7 +57,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 11% | 49% |  |
 | 75 | 10% | 38% |  |
 | 76 | 8% | 28% | Last Result |
-| 77 | 7% | 19% |  |
+| 77 | 7% | 20% |  |
 | 78 | 5% | 13% |  |
 | 79 | 3% | 8% |  |
 | 80 | 2% | 4% |  |

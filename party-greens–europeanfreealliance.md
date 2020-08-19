@@ -18,27 +18,26 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–51 | 42–52 | 42–53 | 40–55 |
-| Bündnis 90/Die Grünen | DE | | 18 | 15–21 | 15–21 | 14–21 | 14–22 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–52 | 42–53 | 41–54 | 39–55 |
+| Bündnis 90/Die Grünen | DE | | 18 | 14–21 | 14–21 | 14–21 | 12–22 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 3 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -49,35 +48,37 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-07-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2020-08-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.2% | 99.9% |  |
-| 40 | 0.6% | 99.7% |  |
-| 41 | 2% | 99.1% |  |
-| 42 | 3% | 98% |  |
-| 43 | 5% | 94% |  |
-| 44 | 8% | 89% |  |
-| 45 | 10% | 81% |  |
-| 46 | 12% | 71% |  |
-| 47 | 13% | 58% | Median |
-| 48 | 12% | 46% |  |
-| 49 | 11% | 33% |  |
-| 50 | 8% | 23% |  |
-| 51 | 6% | 14% |  |
-| 52 | 4% | 8% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.5% | 0.9% |  |
-| 56 | 0.2% | 0.3% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.2% | 99.9% |  |
+| 39 | 0.4% | 99.7% |  |
+| 40 | 0.9% | 99.3% |  |
+| 41 | 2% | 98% |  |
+| 42 | 3% | 97% |  |
+| 43 | 5% | 93% |  |
+| 44 | 7% | 88% |  |
+| 45 | 9% | 81% |  |
+| 46 | 11% | 72% |  |
+| 47 | 12% | 61% | Median |
+| 48 | 12% | 49% |  |
+| 49 | 11% | 38% |  |
+| 50 | 9% | 27% |  |
+| 51 | 7% | 18% |  |
+| 52 | 5% | 11% |  |
+| 53 | 3% | 6% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.7% | 1.2% |  |
+| 56 | 0.3% | 0.4% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |

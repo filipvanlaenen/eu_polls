@@ -26,7 +26,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -62,22 +62,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.1% | 100% |  |
 | 38 | 0.2% | 99.9% |  |
 | 39 | 0.4% | 99.7% |  |
-| 40 | 1.0% | 99.3% |  |
+| 40 | 0.9% | 99.3% |  |
 | 41 | 2% | 98% |  |
-| 42 | 3% | 96% |  |
+| 42 | 3% | 97% |  |
 | 43 | 5% | 93% |  |
 | 44 | 7% | 88% |  |
 | 45 | 9% | 81% |  |
 | 46 | 11% | 72% |  |
 | 47 | 12% | 61% | Median |
 | 48 | 12% | 49% |  |
-| 49 | 11% | 37% |  |
-| 50 | 9% | 26% |  |
-| 51 | 7% | 17% |  |
-| 52 | 5% | 10% |  |
-| 53 | 3% | 5% |  |
+| 49 | 11% | 38% |  |
+| 50 | 9% | 27% |  |
+| 51 | 7% | 18% |  |
+| 52 | 5% | 11% |  |
+| 53 | 3% | 6% |  |
 | 54 | 2% | 3% |  |
-| 55 | 0.7% | 1.1% |  |
+| 55 | 0.7% | 1.2% |  |
 | 56 | 0.3% | 0.4% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
