@@ -8,7 +8,7 @@ Members registered from **10 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+3 seats)
+Current median: **4** seats (+4 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
-| Няма такава държава [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–6 | 2–6 | 1–6 |
+| Има такъв народ [BG] (*) | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -34,6 +34,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 
@@ -46,13 +47,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 13% | 100% |  |
-| 3 | 47% | 87% | Median |
-| 4 | 16% | 40% |  |
-| 5 | 21% | 24% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.1% | 0.1% |  |
+| 1 | 1.0% | 100% |  |
+| 2 | 11% | 99.0% |  |
+| 3 | 33% | 88% |  |
+| 4 | 25% | 55% | Median |
+| 5 | 20% | 30% |  |
+| 6 | 10% | 10% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 
