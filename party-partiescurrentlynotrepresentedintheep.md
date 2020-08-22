@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–7 | 2–7 | 2–8 | 1–8 |
-| Има такъв народ [BG] (*) | BG | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–7 | 2–7 | 2–8 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -43,22 +43,22 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-07-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-08-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-07-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2020-08-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 12% | 98.9% |  |
-| 3 | 29% | 87% |  |
-| 4 | 11% | 57% | Median |
-| 5 | 26% | 46% |  |
-| 6 | 10% | 20% |  |
-| 7 | 6% | 10% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.2% | 0.2% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 8% | 99.6% |  |
+| 3 | 25% | 92% |  |
+| 4 | 20% | 67% | Median |
+| 5 | 27% | 47% |  |
+| 6 | 14% | 20% |  |
+| 7 | 4% | 6% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 

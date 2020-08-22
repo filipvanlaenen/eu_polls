@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–7 | 2–7 | 1–8 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–5 | 1–5 | 1–5 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–7 | 2–7 | 2–8 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +35,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -51,11 +50,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 13% | 99.3% |  |
-| 3 | 26% | 86% |  |
-| 4 | 15% | 61% | Median |
-| 5 | 25% | 46% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 8% | 99.6% |  |
+| 3 | 25% | 92% |  |
+| 4 | 20% | 67% | Median |
+| 5 | 27% | 47% |  |
 | 6 | 14% | 20% |  |
 | 7 | 4% | 6% |  |
 | 8 | 2% | 2% |  |
