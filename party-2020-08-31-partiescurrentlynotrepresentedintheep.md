@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> BG, DK, EE, FR, HR, IE, IT, NL, RO, SK
+> AT, BG, DK, EE, FR, HR, IE, IT, NL, RO, SK
 
 ## Seats
 
@@ -35,6 +35,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -52,11 +53,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
 | 2 | 8% | 99.6% |  |
-| 3 | 25% | 92% |  |
-| 4 | 20% | 67% | Median |
-| 5 | 27% | 47% |  |
-| 6 | 14% | 20% |  |
-| 7 | 4% | 6% |  |
+| 3 | 24% | 92% |  |
+| 4 | 20% | 68% | Median |
+| 5 | 27% | 48% |  |
+| 6 | 14% | 21% |  |
+| 7 | 5% | 7% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
