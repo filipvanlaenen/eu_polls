@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **11 countries**:
+Members registered from **10 countries**:
 
-> AT, BG, DK, EE, FR, HR, IE, IT, NL, RO, SK
+> AT, BG, DK, EE, FR, IE, IT, NL, RO, SK
 
 ## Seats
 
@@ -22,7 +22,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |

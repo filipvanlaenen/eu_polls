@@ -20,7 +20,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 54 | 50–57 | 49–58 | 49–59 | 47–60 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
-| Die Linke | DE | | 8 | 6–9 | 5–9 | 5–9 | 4–10 |
+| Die Linke | DE | | 7 | 6–9 | 5–9 | 5–9 | 4–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Sinn Féin | IE | | 6 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -33,11 +33,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Zeleno–lijeva koalicija | HR | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -67,8 +67,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 1.4% | 99.1% |  |
 | 49 | 3% | 98% |  |
 | 50 | 5% | 95% |  |
-| 51 | 8% | 90% |  |
-| 52 | 11% | 81% |  |
+| 51 | 8% | 89% |  |
+| 52 | 12% | 81% |  |
 | 53 | 14% | 70% |  |
 | 54 | 15% | 56% | Median |
 | 55 | 14% | 41% |  |
