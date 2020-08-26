@@ -53,8 +53,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -85,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 2% | 97% |  |
 | 89 | 4% | 95% |  |
 | 90 | 5% | 91% |  |
-| 91 | 7% | 86% |  |
+| 91 | 7% | 85% |  |
 | 92 | 9% | 78% |  |
 | 93 | 10% | 69% |  |
 | 94 | 11% | 59% | Median |
@@ -99,7 +97,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 1.4% | 3% |  |
 | 103 | 0.8% | 2% |  |
 | 104 | 0.5% | 1.0% |  |
-| 105 | 0.3% | 0.5% |  |
+| 105 | 0.2% | 0.5% |  |
 | 106 | 0.1% | 0.2% |  |
 | 107 | 0.1% | 0.1% |  |
 | 108 | 0% | 0% |  |

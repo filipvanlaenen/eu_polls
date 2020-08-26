@@ -1,8 +1,8 @@
 # Identity and Democracy
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HR, IT, NL, PT, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
 
 ## Seats
 
@@ -31,7 +31,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Neovisni za Hrvatsku | HR | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Воля | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 

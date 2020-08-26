@@ -33,10 +33,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Možemo! | HR | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Zeleno–lijeva koalicija | HR | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 8% | 18% |  |
 | 57 | 5% | 9% |  |
 | 58 | 3% | 4% |  |
-| 59 | 1.1% | 2% |  |
+| 59 | 1.2% | 2% |  |
 | 60 | 0.4% | 0.6% |  |
 | 61 | 0.1% | 0.2% |  |
 | 62 | 0% | 0% |  |

@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **195** seats (+8 seats)
+Current median: **194** seats (+7 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 195 | 189–200 | 188–201 | 186–203 | 184–205 |
+| European People’s Party | EU | 187 | 194 | 189–200 | 188–201 | 186–203 | 184–205 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–29 | 26–30 | 26–31 | 25–32 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
@@ -32,7 +32,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5 | 5 |
+| Hrvatska demokratska zajednica | HR | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
@@ -82,9 +82,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 0.1% | 100% |  |
 | 182 | 0.1% | 99.9% |  |
 | 183 | 0.2% | 99.8% |  |
-| 184 | 0.4% | 99.6% |  |
+| 184 | 0.4% | 99.5% |  |
 | 185 | 0.8% | 99.1% |  |
-| 186 | 1.2% | 98% |  |
+| 186 | 1.3% | 98% |  |
 | 187 | 2% | 97% | Last Result |
 | 188 | 3% | 95% |  |
 | 189 | 4% | 92% |  |
@@ -92,9 +92,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 191 | 7% | 83% |  |
 | 192 | 8% | 76% |  |
 | 193 | 9% | 68% |  |
-| 194 | 9% | 59% |  |
-| 195 | 9% | 50% | Median |
-| 196 | 9% | 41% |  |
+| 194 | 9% | 59% | Median |
+| 195 | 9% | 50% |  |
+| 196 | 9% | 40% |  |
 | 197 | 8% | 32% |  |
 | 198 | 7% | 24% |  |
 | 199 | 5% | 17% |  |
