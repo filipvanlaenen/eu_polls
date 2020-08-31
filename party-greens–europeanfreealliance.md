@@ -18,16 +18,16 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–51 | 42–53 | 41–54 | 39–55 |
-| Bündnis 90/Die Grünen | DE | | 17 | 14–21 | 14–21 | 14–21 | 14–22 |
+| Greens–European Free Alliance | EU | 67 | 47 | 44–51 | 43–53 | 42–53 | 40–55 |
+| Bündnis 90/Die Grünen | DE | | 18 | 15–21 | 15–21 | 14–21 | 14–22 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -36,9 +36,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -53,33 +53,32 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-09-30.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2020-07-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.4% | 99.9% |  |
-| 40 | 1.3% | 99.4% |  |
-| 41 | 3% | 98% |  |
-| 42 | 4% | 95% |  |
-| 43 | 6% | 91% |  |
-| 44 | 8% | 85% |  |
-| 45 | 10% | 77% |  |
-| 46 | 11% | 67% |  |
-| 47 | 11% | 57% | Median |
-| 48 | 11% | 45% |  |
-| 49 | 10% | 35% |  |
-| 50 | 8% | 25% |  |
-| 51 | 6% | 16% |  |
-| 52 | 4% | 10% |  |
+| 39 | 0.2% | 100% |  |
+| 40 | 0.5% | 99.8% |  |
+| 41 | 1.3% | 99.3% |  |
+| 42 | 3% | 98% |  |
+| 43 | 5% | 95% |  |
+| 44 | 7% | 90% |  |
+| 45 | 10% | 83% |  |
+| 46 | 12% | 73% |  |
+| 47 | 13% | 61% | Median |
+| 48 | 12% | 48% |  |
+| 49 | 11% | 36% |  |
+| 50 | 9% | 25% |  |
+| 51 | 7% | 16% |  |
+| 52 | 4% | 9% |  |
 | 53 | 3% | 5% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.7% | 1.2% |  |
-| 56 | 0.3% | 0.5% |  |
-| 57 | 0.1% | 0.2% |  |
-| 58 | 0% | 0.1% |  |
+| 54 | 1.4% | 2% |  |
+| 55 | 0.7% | 1.1% |  |
+| 56 | 0.3% | 0.4% |  |
+| 57 | 0.1% | 0.1% |  |
+| 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
