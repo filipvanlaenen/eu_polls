@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **193** seats (+6 seats)
+Current median: **192** seats (+5 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 193 | 187–198 | 186–200 | 184–201 | 182–204 |
-| Christlich Demokratische Union Deutschlands | DE | | 28 | 26–29 | 26–30 | 25–31 | 24–32 |
+| European People’s Party | EU | 187 | 192 | 187–198 | 185–200 | 184–201 | 181–204 |
+| Christlich Demokratische Union Deutschlands | DE | | 27 | 26–29 | 26–30 | 25–31 | 24–32 |
 | Koalicja Obywatelska | PL | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Partido Popular | ES | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
@@ -27,7 +27,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Νέα Δημοκρατία | GR | | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | Österreichische Volkspartei | AT | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
+| Christlich-Soziale Union in Bayern | DE | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 5–8 | 5–8 | 5–8 | 3–8 |
@@ -50,7 +50,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 0–1 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -81,23 +81,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 179 | 0.1% | 100% |  |
 | 180 | 0.1% | 99.9% |  |
-| 181 | 0.2% | 99.8% |  |
-| 182 | 0.4% | 99.6% |  |
-| 183 | 0.8% | 99.1% |  |
-| 184 | 1.3% | 98% |  |
+| 181 | 0.3% | 99.8% |  |
+| 182 | 0.5% | 99.5% |  |
+| 183 | 0.8% | 99.0% |  |
+| 184 | 1.4% | 98% |  |
 | 185 | 2% | 97% |  |
 | 186 | 3% | 95% |  |
 | 187 | 4% | 92% | Last Result |
-| 188 | 5% | 88% |  |
-| 189 | 7% | 83% |  |
-| 190 | 8% | 76% |  |
-| 191 | 9% | 68% |  |
-| 192 | 9% | 59% |  |
-| 193 | 9% | 50% | Median |
-| 194 | 9% | 41% |  |
-| 195 | 8% | 32% |  |
-| 196 | 7% | 24% |  |
-| 197 | 5% | 18% |  |
+| 188 | 6% | 87% |  |
+| 189 | 7% | 82% |  |
+| 190 | 8% | 75% |  |
+| 191 | 9% | 67% |  |
+| 192 | 9% | 58% | Median |
+| 193 | 9% | 49% |  |
+| 194 | 9% | 40% |  |
+| 195 | 8% | 31% |  |
+| 196 | 6% | 24% |  |
+| 197 | 5% | 17% |  |
 | 198 | 4% | 12% |  |
 | 199 | 3% | 8% |  |
 | 200 | 2% | 5% |  |
