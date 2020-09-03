@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (-20 seats)
+Current median: **48** seats (-19 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–51 | 42–53 | 41–54 | 40–55 |
-| Bündnis 90/Die Grünen | DE | | 17 | 15–21 | 14–21 | 14–21 | 14–22 |
+| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 43–53 | 42–54 | 41–56 |
+| Bündnis 90/Die Grünen | DE | | 17 | 15–21 | 15–21 | 15–21 | 14–22 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -59,27 +59,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 1.0% | 99.6% |  |
-| 41 | 2% | 98.6% |  |
-| 42 | 4% | 96% |  |
-| 43 | 6% | 92% |  |
-| 44 | 8% | 86% |  |
-| 45 | 10% | 78% |  |
-| 46 | 11% | 68% |  |
-| 47 | 12% | 57% | Median |
-| 48 | 11% | 46% |  |
-| 49 | 10% | 35% |  |
-| 50 | 8% | 24% |  |
-| 51 | 6% | 16% |  |
-| 52 | 4% | 10% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.5% | 3% |  |
-| 55 | 0.7% | 1.1% |  |
-| 56 | 0.3% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 0.8% | 99.5% |  |
+| 42 | 2% | 98.7% |  |
+| 43 | 3% | 97% |  |
+| 44 | 5% | 94% |  |
+| 45 | 7% | 89% |  |
+| 46 | 9% | 82% |  |
+| 47 | 11% | 73% |  |
+| 48 | 12% | 62% | Median |
+| 49 | 13% | 50% |  |
+| 50 | 12% | 37% |  |
+| 51 | 10% | 25% |  |
+| 52 | 7% | 16% |  |
+| 53 | 4% | 9% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.1% | 2% |  |
+| 56 | 0.5% | 0.7% |  |
+| 57 | 0.2% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
