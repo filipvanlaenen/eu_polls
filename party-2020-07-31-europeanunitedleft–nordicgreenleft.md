@@ -42,7 +42,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,20 +63,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0% | 100% |  |
 | 45 | 0.1% | 100% |  |
 | 46 | 0.4% | 99.8% |  |
-| 47 | 1.0% | 99.5% |  |
-| 48 | 2% | 98% |  |
+| 47 | 1.2% | 99.4% |  |
+| 48 | 3% | 98% |  |
 | 49 | 5% | 96% |  |
 | 50 | 8% | 91% |  |
-| 51 | 11% | 84% |  |
-| 52 | 14% | 73% |  |
-| 53 | 15% | 59% | Median |
-| 54 | 14% | 44% |  |
-| 55 | 12% | 29% |  |
-| 56 | 8% | 18% |  |
-| 57 | 5% | 9% |  |
-| 58 | 3% | 4% |  |
-| 59 | 1.2% | 2% |  |
-| 60 | 0.4% | 0.6% |  |
+| 51 | 12% | 82% |  |
+| 52 | 14% | 71% |  |
+| 53 | 15% | 56% | Median |
+| 54 | 14% | 41% |  |
+| 55 | 11% | 27% |  |
+| 56 | 8% | 16% |  |
+| 57 | 5% | 8% |  |
+| 58 | 2% | 4% |  |
+| 59 | 1.0% | 2% |  |
+| 60 | 0.4% | 0.5% |  |
 | 61 | 0.1% | 0.2% |  |
 | 62 | 0% | 0% |  |
 

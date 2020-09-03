@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **194** seats (+7 seats)
+Current median: **195** seats (+8 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 194 | 189–200 | 188–201 | 186–203 | 184–205 |
+| European People’s Party | EU | 187 | 195 | 189–200 | 188–202 | 186–203 | 184–206 |
 | Christlich Demokratische Union Deutschlands | DE | | 28 | 26–29 | 26–30 | 26–31 | 25–32 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Partido Popular | ES | | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
@@ -34,7 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -44,7 +44,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -82,31 +82,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 0.1% | 100% |  |
 | 182 | 0.1% | 99.9% |  |
 | 183 | 0.2% | 99.8% |  |
-| 184 | 0.4% | 99.5% |  |
-| 185 | 0.8% | 99.1% |  |
-| 186 | 1.3% | 98% |  |
+| 184 | 0.4% | 99.6% |  |
+| 185 | 0.7% | 99.2% |  |
+| 186 | 1.2% | 98.5% |  |
 | 187 | 2% | 97% | Last Result |
-| 188 | 3% | 95% |  |
-| 189 | 4% | 92% |  |
-| 190 | 5% | 88% |  |
-| 191 | 7% | 83% |  |
-| 192 | 8% | 76% |  |
-| 193 | 9% | 68% |  |
-| 194 | 9% | 59% | Median |
-| 195 | 9% | 50% |  |
-| 196 | 9% | 40% |  |
-| 197 | 8% | 32% |  |
-| 198 | 7% | 24% |  |
-| 199 | 5% | 17% |  |
-| 200 | 4% | 12% |  |
-| 201 | 3% | 8% |  |
+| 188 | 3% | 96% |  |
+| 189 | 4% | 93% |  |
+| 190 | 5% | 89% |  |
+| 191 | 6% | 84% |  |
+| 192 | 8% | 78% |  |
+| 193 | 9% | 70% |  |
+| 194 | 9% | 61% |  |
+| 195 | 9% | 52% | Median |
+| 196 | 9% | 43% |  |
+| 197 | 8% | 34% |  |
+| 198 | 7% | 26% |  |
+| 199 | 6% | 19% |  |
+| 200 | 4% | 13% |  |
+| 201 | 3% | 9% |  |
 | 202 | 2% | 5% |  |
-| 203 | 1.2% | 3% |  |
-| 204 | 0.7% | 2% |  |
-| 205 | 0.4% | 0.8% |  |
-| 206 | 0.2% | 0.4% |  |
-| 207 | 0.1% | 0.2% |  |
+| 203 | 1.4% | 3% |  |
+| 204 | 0.9% | 2% |  |
+| 205 | 0.5% | 1.0% |  |
+| 206 | 0.3% | 0.5% |  |
+| 207 | 0.1% | 0.3% |  |
 | 208 | 0.1% | 0.1% |  |
-| 209 | 0% | 0% |  |
+| 209 | 0% | 0.1% |  |
+| 210 | 0% | 0% |  |
 
 
