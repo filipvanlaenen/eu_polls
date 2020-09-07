@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> AT, BG, DK, EE, FR, IE, IT, NL, RO, SK
+> AT, BG, DK, EE, FR, IE, IT, LT, NL, RO, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–6 | 2–7 | 2–8 | 2–8 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–7 | 2–8 | 2–8 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -31,6 +31,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -50,12 +51,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 7% | 99.7% |  |
-| 3 | 22% | 93% |  |
-| 4 | 19% | 71% |  |
-| 5 | 27% | 52% | Median |
-| 6 | 15% | 25% |  |
+| 1 | 0% | 100% |  |
+| 2 | 3% | 100% |  |
+| 3 | 15% | 97% |  |
+| 4 | 26% | 83% |  |
+| 5 | 28% | 56% | Median |
+| 6 | 18% | 28% |  |
 | 7 | 7% | 10% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0.2% | 0.2% |  |
