@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 49–57 | 48–58 | 46–60 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 49–57 | 48–58 | 46–59 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 7 | 6–8 | 6–9 | 5–9 | 4–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
@@ -26,7 +26,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Socialistische Partij | NL | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -42,7 +42,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,11 +62,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
 | 45 | 0.1% | 100% |  |
-| 46 | 0.4% | 99.8% |  |
+| 46 | 0.5% | 99.8% |  |
 | 47 | 1.2% | 99.4% |  |
 | 48 | 3% | 98% |  |
 | 49 | 5% | 96% |  |
-| 50 | 8% | 91% |  |
+| 50 | 8% | 90% |  |
 | 51 | 12% | 82% |  |
 | 52 | 14% | 71% |  |
 | 53 | 15% | 56% | Median |
@@ -75,9 +75,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 8% | 16% |  |
 | 57 | 5% | 8% |  |
 | 58 | 2% | 4% |  |
-| 59 | 1.0% | 2% |  |
-| 60 | 0.4% | 0.5% |  |
-| 61 | 0.1% | 0.2% |  |
+| 59 | 1.0% | 1.4% |  |
+| 60 | 0.3% | 0.5% |  |
+| 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
 

@@ -26,7 +26,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
@@ -52,27 +52,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
-| 56 | 0.3% | 99.9% |  |
+| 56 | 0.2% | 99.9% |  |
 | 57 | 0.5% | 99.6% |  |
-| 58 | 1.0% | 99.1% |  |
+| 58 | 0.9% | 99.1% |  |
 | 59 | 2% | 98% |  |
 | 60 | 2% | 97% |  |
 | 61 | 3% | 94% | Last Result |
-| 62 | 5% | 91% |  |
-| 63 | 6% | 86% |  |
+| 62 | 4% | 91% |  |
+| 63 | 6% | 87% |  |
 | 64 | 7% | 81% |  |
-| 65 | 8% | 73% |  |
+| 65 | 8% | 74% |  |
 | 66 | 9% | 65% |  |
 | 67 | 10% | 56% | Median |
 | 68 | 10% | 46% |  |
 | 69 | 9% | 36% |  |
 | 70 | 8% | 27% |  |
-| 71 | 6% | 19% |  |
+| 71 | 7% | 19% |  |
 | 72 | 5% | 12% |  |
-| 73 | 3% | 7% |  |
+| 73 | 3% | 8% |  |
 | 74 | 2% | 4% |  |
-| 75 | 1.1% | 2% |  |
-| 76 | 0.6% | 1.0% |  |
+| 75 | 1.2% | 2% |  |
+| 76 | 0.6% | 1.1% |  |
 | 77 | 0.3% | 0.5% |  |
 | 78 | 0.1% | 0.2% |  |
 | 79 | 0% | 0.1% |  |
