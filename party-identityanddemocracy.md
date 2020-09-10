@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **73** seats (-3 seats)
+Current median: **74** seats (-2 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,52 +18,52 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 73 | 69–78 | 68–79 | 67–80 | 65–82 |
+| Identity and Democracy | EU | 76 | 74 | 70–79 | 69–80 | 68–81 | 66–83 |
 | Rassemblement national | FR | | 23 | 21–27 | 20–27 | 20–27 | 19–28 |
-| Lega Nord | IT | | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
-| Alternative für Deutschland | DE | | 10 | 8–11 | 7–11 | 7–12 | 6–12 |
-| Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Lega Nord | IT | | 22 | 20–24 | 19–25 | 18–25 | 18–26 |
+| Alternative für Deutschland | DE | | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
+| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–3 |
-| Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
+| Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SME RODINA | SK | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Chega | PT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Chega | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Воля | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-07-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-07-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2020-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0.1% | 100% |  |
-| 64 | 0.2% | 99.9% |  |
-| 65 | 0.5% | 99.7% |  |
-| 66 | 1.0% | 99.2% |  |
-| 67 | 2% | 98% |  |
-| 68 | 3% | 96% |  |
-| 69 | 5% | 93% |  |
-| 70 | 7% | 88% |  |
-| 71 | 9% | 80% |  |
-| 72 | 11% | 71% |  |
-| 73 | 12% | 60% | Median |
-| 74 | 11% | 48% |  |
-| 75 | 10% | 37% |  |
-| 76 | 8% | 27% | Last Result |
-| 77 | 7% | 19% |  |
-| 78 | 5% | 12% |  |
-| 79 | 3% | 7% |  |
-| 80 | 2% | 4% |  |
-| 81 | 1.1% | 2% |  |
-| 82 | 0.6% | 0.9% |  |
-| 83 | 0.2% | 0.4% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.3% | 99.9% |  |
+| 66 | 0.6% | 99.6% |  |
+| 67 | 1.4% | 99.0% |  |
+| 68 | 3% | 98% |  |
+| 69 | 4% | 95% |  |
+| 70 | 6% | 91% |  |
+| 71 | 8% | 85% |  |
+| 72 | 10% | 76% |  |
+| 73 | 11% | 66% |  |
+| 74 | 11% | 55% | Median |
+| 75 | 11% | 44% |  |
+| 76 | 9% | 33% | Last Result |
+| 77 | 8% | 24% |  |
+| 78 | 6% | 16% |  |
+| 79 | 4% | 10% |  |
+| 80 | 3% | 6% |  |
+| 81 | 2% | 3% |  |
+| 82 | 0.9% | 2% |  |
+| 83 | 0.4% | 0.7% |  |
+| 84 | 0.2% | 0.3% |  |
+| 85 | 0.1% | 0.1% |  |
+| 86 | 0% | 0% |  |
 
 
