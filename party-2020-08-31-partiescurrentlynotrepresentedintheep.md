@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> AT, BG, DK, EE, FR, IE, IT, NL, RO, SK
+> AT, BG, DK, EE, FR, IE, IT, LT, NL, RO, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–7 | 2–7 | 2–8 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 1–7 | 1–7 | 0–8 |
+| Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 0–4 | 0–5 | 0–5 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -31,14 +31,15 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Национален фронт за спасение на България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -49,16 +50,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 8% | 99.6% |  |
-| 3 | 24% | 92% |  |
-| 4 | 20% | 68% | Median |
-| 5 | 27% | 48% |  |
-| 6 | 14% | 21% |  |
-| 7 | 5% | 7% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 5% | 99.2% |  |
+| 2 | 10% | 95% |  |
+| 3 | 15% | 85% |  |
+| 4 | 24% | 70% | Median |
+| 5 | 23% | 46% |  |
+| 6 | 14% | 23% |  |
+| 7 | 7% | 9% |  |
 | 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.1% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
