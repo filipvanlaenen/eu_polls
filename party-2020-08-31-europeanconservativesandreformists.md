@@ -18,15 +18,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 67 | 62–72 | 61–73 | 60–74 | 58–76 |
+| European Conservatives and Reformists | EU | 61 | 67 | 62–72 | 61–73 | 60–74 | 57–76 |
 | Zjednoczona Prawica | PL | | 22 | 19–24 | 19–25 | 18–25 | 18–26 |
 | Fratelli d’Italia | IT | | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
 | Debout la France | FR | | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
-| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Forum voor Democratie | NL | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| Forum voor Democratie | NL | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
@@ -38,7 +38,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Обединени Патриоти | BG | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -54,8 +54,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0% | 100% |  |
 | 56 | 0.1% | 99.9% |  |
 | 57 | 0.3% | 99.8% |  |
-| 58 | 0.6% | 99.5% |  |
-| 59 | 1.2% | 98.9% |  |
+| 58 | 0.7% | 99.5% |  |
+| 59 | 1.2% | 98.8% |  |
 | 60 | 2% | 98% |  |
 | 61 | 3% | 96% | Last Result |
 | 62 | 4% | 93% |  |
@@ -63,13 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 7% | 84% |  |
 | 65 | 8% | 77% |  |
 | 66 | 9% | 69% |  |
-| 67 | 10% | 60% | Median |
-| 68 | 10% | 50% |  |
+| 67 | 10% | 59% | Median |
+| 68 | 10% | 49% |  |
 | 69 | 10% | 39% |  |
 | 70 | 9% | 29% |  |
 | 71 | 7% | 20% |  |
 | 72 | 5% | 13% |  |
-| 73 | 4% | 8% |  |
+| 73 | 3% | 7% |  |
 | 74 | 2% | 4% |  |
 | 75 | 1.1% | 2% |  |
 | 76 | 0.5% | 0.8% |  |
