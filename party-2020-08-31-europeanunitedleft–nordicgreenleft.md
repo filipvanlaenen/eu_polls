@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–58 | 48–58 | 47–60 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–57 | 48–58 | 47–60 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
@@ -31,7 +31,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,18 +66,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.7% | 99.7% |  |
 | 48 | 2% | 99.0% |  |
 | 49 | 4% | 97% |  |
-| 50 | 6% | 94% |  |
-| 51 | 10% | 88% |  |
-| 52 | 13% | 78% |  |
-| 53 | 15% | 64% | Median |
-| 54 | 15% | 49% |  |
-| 55 | 13% | 34% |  |
-| 56 | 10% | 21% |  |
-| 57 | 6% | 11% |  |
+| 50 | 7% | 94% |  |
+| 51 | 10% | 87% |  |
+| 52 | 13% | 77% |  |
+| 53 | 16% | 64% | Median |
+| 54 | 15% | 48% |  |
+| 55 | 13% | 33% |  |
+| 56 | 9% | 20% |  |
+| 57 | 6% | 10% |  |
 | 58 | 3% | 5% |  |
-| 59 | 1.3% | 2% |  |
-| 60 | 0.5% | 0.7% |  |
-| 61 | 0.2% | 0.2% |  |
+| 59 | 1.2% | 2% |  |
+| 60 | 0.4% | 0.6% |  |
+| 61 | 0.1% | 0.2% |  |
 | 62 | 0% | 0% |  |
 
 
