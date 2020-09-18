@@ -55,7 +55,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Iniciativa Liberal | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,13 +80,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 0.1% | 99.9% |  |
 | 83 | 0.3% | 99.8% |  |
 | 84 | 0.6% | 99.5% |  |
-| 85 | 1.2% | 99.0% |  |
+| 85 | 1.2% | 98.9% |  |
 | 86 | 2% | 98% |  |
 | 87 | 3% | 96% |  |
 | 88 | 5% | 92% |  |
 | 89 | 7% | 87% |  |
 | 90 | 9% | 80% |  |
-| 91 | 10% | 72% |  |
+| 91 | 10% | 71% |  |
 | 92 | 11% | 61% | Median |
 | 93 | 11% | 50% |  |
 | 94 | 10% | 39% |  |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 100 | 1.3% | 3% |  |
 | 101 | 0.7% | 1.4% |  |
 | 102 | 0.4% | 0.7% |  |
-| 103 | 0.2% | 0.3% |  |
+| 103 | 0.2% | 0.4% |  |
 | 104 | 0.1% | 0.2% |  |
 | 105 | 0% | 0.1% |  |
 | 106 | 0% | 0% |  |

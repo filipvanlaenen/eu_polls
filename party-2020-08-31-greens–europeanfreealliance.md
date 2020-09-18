@@ -45,7 +45,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -61,22 +61,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.9% |  |
-| 41 | 0.7% | 99.6% |  |
-| 42 | 2% | 98.9% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.7% | 99.7% |  |
+| 42 | 2% | 99.0% |  |
 | 43 | 3% | 97% |  |
 | 44 | 6% | 94% |  |
 | 45 | 9% | 88% |  |
-| 46 | 12% | 79% |  |
-| 47 | 14% | 67% |  |
-| 48 | 15% | 53% | Median |
-| 49 | 14% | 38% |  |
-| 50 | 11% | 25% |  |
-| 51 | 7% | 14% |  |
+| 46 | 12% | 80% |  |
+| 47 | 14% | 68% |  |
+| 48 | 15% | 54% | Median |
+| 49 | 14% | 39% |  |
+| 50 | 11% | 26% |  |
+| 51 | 7% | 15% |  |
 | 52 | 4% | 7% |  |
 | 53 | 2% | 3% |  |
-| 54 | 0.7% | 1.1% |  |
-| 55 | 0.2% | 0.3% |  |
+| 54 | 0.8% | 1.2% |  |
+| 55 | 0.3% | 0.4% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
