@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+5 seats)
+Current median: **4** seats (+4 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 2–8 | 2–8 | 2–9 |
-| Има такъв народ [BG] (*) | BG | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 1–7 | 1–8 | 1–8 | 0–9 |
+| Има такъв народ [BG] (*) | BG | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -50,17 +50,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 6% | 99.6% |  |
-| 3 | 25% | 93% |  |
-| 4 | 17% | 68% |  |
-| 5 | 21% | 52% | Median |
-| 6 | 16% | 30% |  |
-| 7 | 8% | 14% |  |
-| 8 | 5% | 7% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 10% | 98.7% |  |
+| 2 | 11% | 89% |  |
+| 3 | 24% | 78% |  |
+| 4 | 15% | 54% | Median |
+| 5 | 16% | 39% |  |
+| 6 | 12% | 23% |  |
+| 7 | 6% | 11% |  |
+| 8 | 4% | 5% |  |
+| 9 | 1.2% | 1.3% |  |
+| 10 | 0% | 0% |  |
 
 

@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Воля | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Воля | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -46,15 +46,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0.2% | 99.9% |  |
 | 65 | 0.4% | 99.7% |  |
 | 66 | 0.9% | 99.4% |  |
-| 67 | 2% | 98.5% |  |
+| 67 | 2% | 98% |  |
 | 68 | 3% | 97% |  |
 | 69 | 5% | 94% |  |
 | 70 | 7% | 89% |  |
 | 71 | 9% | 82% |  |
 | 72 | 11% | 73% |  |
-| 73 | 12% | 63% |  |
+| 73 | 12% | 62% |  |
 | 74 | 11% | 51% | Median |
-| 75 | 10% | 40% |  |
+| 75 | 10% | 39% |  |
 | 76 | 9% | 29% | Last Result |
 | 77 | 7% | 20% |  |
 | 78 | 5% | 13% |  |

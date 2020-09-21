@@ -53,7 +53,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Демократична България | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Демократична България | BG | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 0% | 100% |  |
 | 182 | 0.1% | 99.9% |  |
 | 183 | 0.2% | 99.8% |  |
-| 184 | 0.4% | 99.6% |  |
+| 184 | 0.3% | 99.7% |  |
 | 185 | 0.6% | 99.3% |  |
 | 186 | 1.1% | 98.7% |  |
 | 187 | 2% | 98% | Last Result |
@@ -90,9 +90,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 189 | 4% | 93% |  |
 | 190 | 5% | 90% |  |
 | 191 | 6% | 85% |  |
-| 192 | 8% | 78% |  |
+| 192 | 8% | 79% |  |
 | 193 | 9% | 71% |  |
-| 194 | 9% | 62% |  |
+| 194 | 9% | 63% |  |
 | 195 | 9% | 53% | Median |
 | 196 | 9% | 44% |  |
 | 197 | 8% | 35% |  |
