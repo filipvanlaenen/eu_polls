@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> AT, BG, DK, EE, FR, IE, IT, LT, NL, RO, SK
+> AT, BE, BG, DK, EE, FR, IE, IT, LT, NL, RO, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+5 seats)
+Current median: **4** seats (+4 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–7 | 2–8 | 2–8 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–7 | 1–7 | 0–8 |
+| Има такъв народ [BG] (*) | BG | | 3 | 1–3 | 0–3 | 0–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -29,17 +29,18 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Klaus Riskær Pedersen [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Parti Populaire [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Renua Ireland [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Национален фронт за спасение на България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -50,16 +51,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 15% | 97% |  |
-| 4 | 26% | 83% |  |
-| 5 | 28% | 56% | Median |
-| 6 | 18% | 28% |  |
-| 7 | 7% | 10% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.2% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 4% | 99.4% |  |
+| 2 | 8% | 95% |  |
+| 3 | 12% | 87% |  |
+| 4 | 32% | 75% | Median |
+| 5 | 24% | 43% |  |
+| 6 | 13% | 19% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.9% | 0.9% |  |
+| 9 | 0% | 0% |  |
 
 
