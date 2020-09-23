@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 89–98 | 87–99 | 86–100 | 84–103 |
+| Renew Europe | EU | 98 | 93 | 88–97 | 87–99 | 86–100 | 84–102 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 22–27 | 21–29 | 21–29 | 21–30 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–10 | 7–10 | 7–11 |
@@ -32,17 +32,17 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Fianna Fáil | IE | | 1 | 0–2 | 0–3 | 0–4 | 0–4 |
+| Fianna Fáil | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Freie Wähler | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Δημοκρατική Παράταξη | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -79,29 +79,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0.1% | 100% |  |
 | 83 | 0.2% | 99.9% |  |
-| 84 | 0.4% | 99.7% |  |
-| 85 | 0.8% | 99.3% |  |
-| 86 | 1.5% | 98.5% |  |
-| 87 | 3% | 97% |  |
-| 88 | 4% | 95% |  |
-| 89 | 6% | 91% |  |
-| 90 | 8% | 85% |  |
-| 91 | 9% | 78% |  |
-| 92 | 11% | 68% |  |
-| 93 | 11% | 58% | Median |
-| 94 | 11% | 47% |  |
-| 95 | 10% | 36% |  |
-| 96 | 8% | 26% |  |
-| 97 | 6% | 18% |  |
-| 98 | 5% | 12% | Last Result |
-| 99 | 3% | 7% |  |
-| 100 | 2% | 4% |  |
-| 101 | 1.2% | 2% |  |
-| 102 | 0.7% | 1.3% |  |
-| 103 | 0.4% | 0.7% |  |
-| 104 | 0.2% | 0.3% |  |
-| 105 | 0.1% | 0.2% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 84 | 0.5% | 99.6% |  |
+| 85 | 1.0% | 99.2% |  |
+| 86 | 2% | 98% |  |
+| 87 | 3% | 96% |  |
+| 88 | 4% | 93% |  |
+| 89 | 6% | 89% |  |
+| 90 | 8% | 83% |  |
+| 91 | 10% | 74% |  |
+| 92 | 11% | 64% |  |
+| 93 | 11% | 53% | Median |
+| 94 | 11% | 42% |  |
+| 95 | 9% | 31% |  |
+| 96 | 7% | 22% |  |
+| 97 | 5% | 15% |  |
+| 98 | 4% | 9% | Last Result |
+| 99 | 2% | 6% |  |
+| 100 | 1.5% | 3% |  |
+| 101 | 0.9% | 2% |  |
+| 102 | 0.5% | 0.9% |  |
+| 103 | 0.2% | 0.4% |  |
+| 104 | 0.1% | 0.2% |  |
+| 105 | 0.1% | 0.1% |  |
+| 106 | 0% | 0% |  |
 
 
