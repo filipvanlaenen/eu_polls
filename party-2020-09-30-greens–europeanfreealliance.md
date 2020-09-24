@@ -18,16 +18,16 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 43–51 | 42–51 | 40–53 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 43–51 | 42–52 | 40–53 |
 | Bündnis 90/Die Grünen | DE | | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,15 +65,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 1.3% | 99.4% |  |
 | 42 | 3% | 98% |  |
 | 43 | 6% | 95% |  |
-| 44 | 9% | 89% |  |
+| 44 | 9% | 90% |  |
 | 45 | 13% | 80% |  |
-| 46 | 15% | 67% |  |
+| 46 | 15% | 68% |  |
 | 47 | 16% | 52% | Median |
-| 48 | 14% | 36% |  |
-| 49 | 10% | 22% |  |
-| 50 | 6% | 12% |  |
-| 51 | 3% | 6% |  |
-| 52 | 2% | 2% |  |
+| 48 | 14% | 37% |  |
+| 49 | 10% | 23% |  |
+| 50 | 7% | 13% |  |
+| 51 | 4% | 6% |  |
+| 52 | 2% | 3% |  |
 | 53 | 0.6% | 0.9% |  |
 | 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |

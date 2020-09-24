@@ -22,7 +22,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 8 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
-| Sinn Féin | IE | | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
+| Sinn Féin | IE | | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -67,18 +67,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 1.0% | 99.5% |  |
 | 49 | 2% | 98% |  |
 | 50 | 5% | 96% |  |
-| 51 | 8% | 91% |  |
-| 52 | 12% | 83% |  |
-| 53 | 15% | 71% |  |
-| 54 | 16% | 56% | Median |
-| 55 | 15% | 39% |  |
+| 51 | 8% | 92% |  |
+| 52 | 12% | 84% |  |
+| 53 | 15% | 72% |  |
+| 54 | 16% | 57% | Median |
+| 55 | 15% | 40% |  |
 | 56 | 11% | 25% |  |
 | 57 | 7% | 14% |  |
-| 58 | 4% | 6% |  |
+| 58 | 4% | 7% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.6% | 0.9% |  |
+| 60 | 0.7% | 0.9% |  |
 | 61 | 0.2% | 0.3% |  |
-| 62 | 0% | 0.1% |  |
+| 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
 
 
