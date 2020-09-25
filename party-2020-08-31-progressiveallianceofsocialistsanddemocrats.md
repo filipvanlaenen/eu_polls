@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **131** seats (-16 seats)
+Current median: **136** seats (-11 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 131 | 126–136 | 124–137 | 123–138 | 121–141 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 132–141 | 130–143 | 129–144 | 127–147 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 16–20 | 15–20 | 15–20 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–18 | 14–18 | 14–18 | 13–18 |
@@ -32,11 +32,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| HLAS–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 2–3 |
 | PRO România | RO | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| SMER–sociálna demokracia | SK | | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
+| SMER–sociálna demokracia | SK | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Socialni demokrati | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -65,34 +66,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 119 | 0.1% | 100% |  |
-| 120 | 0.2% | 99.9% |  |
-| 121 | 0.4% | 99.7% |  |
-| 122 | 0.7% | 99.3% |  |
-| 123 | 1.4% | 98.6% |  |
-| 124 | 2% | 97% |  |
-| 125 | 4% | 95% |  |
-| 126 | 5% | 91% |  |
-| 127 | 7% | 86% |  |
-| 128 | 8% | 80% |  |
-| 129 | 10% | 71% |  |
-| 130 | 10% | 62% |  |
-| 131 | 10% | 51% | Median |
-| 132 | 10% | 41% |  |
-| 133 | 8% | 32% |  |
-| 134 | 7% | 23% |  |
-| 135 | 5% | 16% |  |
-| 136 | 4% | 11% |  |
-| 137 | 3% | 7% |  |
-| 138 | 2% | 4% |  |
-| 139 | 1.1% | 2% |  |
-| 140 | 0.6% | 1.3% |  |
-| 141 | 0.3% | 0.7% |  |
-| 142 | 0.2% | 0.3% |  |
-| 143 | 0.1% | 0.1% |  |
-| 144 | 0% | 0.1% |  |
-| 145 | 0% | 0% |  |
-| 146 | 0% | 0% |  |
-| 147 | 0% | 0% | Last Result |
+| 124 | 0% | 100% |  |
+| 125 | 0.1% | 99.9% |  |
+| 126 | 0.2% | 99.9% |  |
+| 127 | 0.4% | 99.7% |  |
+| 128 | 0.8% | 99.2% |  |
+| 129 | 1.5% | 98% |  |
+| 130 | 2% | 97% |  |
+| 131 | 4% | 95% |  |
+| 132 | 5% | 91% |  |
+| 133 | 7% | 85% |  |
+| 134 | 9% | 78% |  |
+| 135 | 10% | 70% |  |
+| 136 | 10% | 60% | Median |
+| 137 | 10% | 50% |  |
+| 138 | 10% | 39% |  |
+| 139 | 8% | 30% |  |
+| 140 | 7% | 21% |  |
+| 141 | 5% | 15% |  |
+| 142 | 4% | 10% |  |
+| 143 | 2% | 6% |  |
+| 144 | 2% | 4% |  |
+| 145 | 0.9% | 2% |  |
+| 146 | 0.5% | 1.1% |  |
+| 147 | 0.3% | 0.5% | Last Result |
+| 148 | 0.1% | 0.3% |  |
+| 149 | 0.1% | 0.1% |  |
+| 150 | 0% | 0% |  |
 
 
