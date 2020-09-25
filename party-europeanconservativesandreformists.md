@@ -18,25 +18,25 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 67 | 62–71 | 60–72 | 59–73 | 57–75 |
-| Zjednoczona Prawica | PL | | 22 | 19–24 | 19–25 | 18–25 | 18–26 |
+| European Conservatives and Reformists | EU | 61 | 67 | 63–72 | 61–73 | 60–74 | 58–75 |
+| Zjednoczona Prawica | PL | | 23 | 20–24 | 20–25 | 19–25 | 19–26 |
 | Fratelli d’Italia | IT | | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
+| Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | Debout la France | FR | | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Forum voor Democratie | NL | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -45,35 +45,35 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-08-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-09-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0.1% | 100% |  |
-| 56 | 0.2% | 99.9% |  |
-| 57 | 0.5% | 99.7% |  |
-| 58 | 1.0% | 99.2% |  |
-| 59 | 2% | 98% |  |
-| 60 | 2% | 97% |  |
-| 61 | 4% | 94% | Last Result |
-| 62 | 5% | 91% |  |
-| 63 | 6% | 86% |  |
-| 64 | 8% | 80% |  |
-| 65 | 9% | 72% |  |
-| 66 | 10% | 63% |  |
-| 67 | 10% | 53% | Median |
-| 68 | 10% | 42% |  |
-| 69 | 9% | 32% |  |
-| 70 | 8% | 23% |  |
-| 71 | 6% | 15% |  |
-| 72 | 4% | 9% |  |
-| 73 | 2% | 5% |  |
-| 74 | 1.3% | 2% |  |
-| 75 | 0.6% | 1.0% |  |
-| 76 | 0.3% | 0.4% |  |
-| 77 | 0.1% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 56 | 0.1% | 100% |  |
+| 57 | 0.2% | 99.9% |  |
+| 58 | 0.5% | 99.7% |  |
+| 59 | 0.9% | 99.3% |  |
+| 60 | 2% | 98% |  |
+| 61 | 3% | 97% | Last Result |
+| 62 | 4% | 94% |  |
+| 63 | 5% | 90% |  |
+| 64 | 7% | 85% |  |
+| 65 | 8% | 78% |  |
+| 66 | 10% | 70% |  |
+| 67 | 11% | 61% | Median |
+| 68 | 11% | 50% |  |
+| 69 | 11% | 38% |  |
+| 70 | 9% | 28% |  |
+| 71 | 7% | 18% |  |
+| 72 | 5% | 11% |  |
+| 73 | 3% | 6% |  |
+| 74 | 2% | 3% |  |
+| 75 | 0.8% | 1.2% |  |
+| 76 | 0.3% | 0.5% |  |
+| 77 | 0.1% | 0.2% |  |
+| 78 | 0% | 0.1% |  |
+| 79 | 0% | 0% |  |
 
 
