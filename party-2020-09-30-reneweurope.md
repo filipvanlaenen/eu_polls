@@ -18,19 +18,19 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–97 | 87–98 | 86–100 | 83–102 |
+| Renew Europe | EU | 98 | 92 | 88–97 | 87–98 | 85–99 | 83–102 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 22–27 | 21–29 | 21–29 | 21–30 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–10 | 7–10 | 7–11 |
-| Alianța 2020 USR-PLUS | RO | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| Alianța 2020 USR-PLUS | RO | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 3–6 | 2–7 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 2–6 | 2–7 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Venstre | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Demokratesch Partei | LU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,7 +45,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -80,28 +80,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 0% | 100% |  |
 | 82 | 0.1% | 99.9% |  |
 | 83 | 0.3% | 99.8% |  |
-| 84 | 0.6% | 99.5% |  |
-| 85 | 1.2% | 98.9% |  |
-| 86 | 2% | 98% |  |
-| 87 | 3% | 95% |  |
-| 88 | 5% | 92% |  |
-| 89 | 7% | 87% |  |
-| 90 | 9% | 80% |  |
-| 91 | 10% | 71% |  |
-| 92 | 11% | 60% | Median |
-| 93 | 11% | 49% |  |
-| 94 | 10% | 38% |  |
-| 95 | 9% | 28% |  |
-| 96 | 7% | 19% |  |
-| 97 | 5% | 13% |  |
-| 98 | 3% | 8% | Last Result |
-| 99 | 2% | 5% |  |
-| 100 | 1.2% | 3% |  |
-| 101 | 0.7% | 1.4% |  |
-| 102 | 0.4% | 0.7% |  |
-| 103 | 0.2% | 0.3% |  |
-| 104 | 0.1% | 0.2% |  |
-| 105 | 0% | 0.1% |  |
-| 106 | 0% | 0% |  |
+| 84 | 0.7% | 99.5% |  |
+| 85 | 1.3% | 98.8% |  |
+| 86 | 2% | 97% |  |
+| 87 | 4% | 95% |  |
+| 88 | 6% | 91% |  |
+| 89 | 8% | 86% |  |
+| 90 | 9% | 78% |  |
+| 91 | 11% | 69% |  |
+| 92 | 12% | 58% | Median |
+| 93 | 11% | 46% |  |
+| 94 | 10% | 35% |  |
+| 95 | 8% | 25% |  |
+| 96 | 6% | 17% |  |
+| 97 | 4% | 11% |  |
+| 98 | 3% | 7% | Last Result |
+| 99 | 2% | 4% |  |
+| 100 | 1.0% | 2% |  |
+| 101 | 0.5% | 1.1% |  |
+| 102 | 0.3% | 0.5% |  |
+| 103 | 0.1% | 0.2% |  |
+| 104 | 0.1% | 0.1% |  |
+| 105 | 0% | 0% |  |
 
 

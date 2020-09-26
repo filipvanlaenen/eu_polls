@@ -18,14 +18,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 191 | 186–197 | 184–198 | 183–200 | 180–203 |
+| European People’s Party | EU | 187 | 191 | 185–197 | 184–198 | 183–200 | 180–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 26–30 | 25–30 | 24–32 | 24–32 |
 | Koalicja Obywatelska | PL | | 16 | 13–17 | 13–17 | 12–18 | 12–18 |
-| Partido Popular | ES | | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
+| Partido Popular | ES | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
-| Partidul Național Liberal | RO | | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
+| Partidul Național Liberal | RO | | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | Les Républicains | FR | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
-| Νέα Δημοκρατία | GR | | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
+| Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Österreichische Volkspartei | AT | | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–9 | 6–10 | 6–11 |
 | Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
@@ -34,7 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–7 | 4–8 | 3–8 | 3–8 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -66,10 +66,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Za ľudí | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -79,24 +79,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 177 | 0% | 100% |  |
+| 177 | 0.1% | 100% |  |
 | 178 | 0.1% | 99.9% |  |
 | 179 | 0.2% | 99.8% |  |
-| 180 | 0.3% | 99.7% |  |
-| 181 | 0.6% | 99.3% |  |
-| 182 | 1.0% | 98.7% |  |
+| 180 | 0.4% | 99.6% |  |
+| 181 | 0.6% | 99.2% |  |
+| 182 | 1.1% | 98.6% |  |
 | 183 | 2% | 98% |  |
 | 184 | 2% | 96% |  |
-| 185 | 3% | 94% |  |
-| 186 | 4% | 91% |  |
-| 187 | 6% | 86% | Last Result |
-| 188 | 7% | 81% |  |
-| 189 | 8% | 74% |  |
-| 190 | 9% | 66% |  |
-| 191 | 9% | 57% | Median |
-| 192 | 9% | 48% |  |
-| 193 | 8% | 39% |  |
-| 194 | 7% | 31% |  |
+| 185 | 3% | 93% |  |
+| 186 | 5% | 90% |  |
+| 187 | 6% | 85% | Last Result |
+| 188 | 7% | 80% |  |
+| 189 | 8% | 73% |  |
+| 190 | 9% | 65% |  |
+| 191 | 9% | 56% | Median |
+| 192 | 9% | 47% |  |
+| 193 | 8% | 38% |  |
+| 194 | 7% | 30% |  |
 | 195 | 6% | 23% |  |
 | 196 | 5% | 17% |  |
 | 197 | 4% | 12% |  |
