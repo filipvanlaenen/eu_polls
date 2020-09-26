@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 193 | 187–198 | 186–200 | 185–201 | 182–204 |
+| European People’s Party | EU | 187 | 193 | 188–199 | 186–200 | 185–201 | 182–204 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 26–30 | 26–31 | 25–32 | 25–32 |
 | Koalicja Obywatelska | PL | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Partido Popular | ES | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
@@ -58,7 +58,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
-| Kresťanskodemokratické hnutie | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -66,10 +66,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Za ľudí | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -84,30 +84,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 0.2% | 99.9% |  |
 | 182 | 0.3% | 99.7% |  |
 | 183 | 0.6% | 99.4% |  |
-| 184 | 1.1% | 98.7% |  |
+| 184 | 1.0% | 98.8% |  |
 | 185 | 2% | 98% |  |
-| 186 | 3% | 96% |  |
-| 187 | 4% | 93% | Last Result |
+| 186 | 2% | 96% |  |
+| 187 | 4% | 94% | Last Result |
 | 188 | 5% | 90% |  |
 | 189 | 6% | 85% |  |
-| 190 | 8% | 78% |  |
-| 191 | 9% | 71% |  |
-| 192 | 9% | 62% |  |
-| 193 | 9% | 53% | Median |
-| 194 | 9% | 44% |  |
-| 195 | 8% | 35% |  |
-| 196 | 7% | 27% |  |
-| 197 | 6% | 20% |  |
-| 198 | 5% | 14% |  |
-| 199 | 3% | 9% |  |
-| 200 | 2% | 6% |  |
+| 190 | 7% | 79% |  |
+| 191 | 8% | 72% |  |
+| 192 | 9% | 63% |  |
+| 193 | 9% | 54% | Median |
+| 194 | 9% | 45% |  |
+| 195 | 8% | 36% |  |
+| 196 | 7% | 28% |  |
+| 197 | 6% | 21% |  |
+| 198 | 5% | 15% |  |
+| 199 | 3% | 10% |  |
+| 200 | 2% | 7% |  |
 | 201 | 2% | 4% |  |
-| 202 | 1.0% | 2% |  |
-| 203 | 0.6% | 1.3% |  |
-| 204 | 0.3% | 0.7% |  |
-| 205 | 0.2% | 0.3% |  |
+| 202 | 1.1% | 2% |  |
+| 203 | 0.6% | 1.4% |  |
+| 204 | 0.4% | 0.8% |  |
+| 205 | 0.2% | 0.4% |  |
 | 206 | 0.1% | 0.2% |  |
-| 207 | 0% | 0.1% |  |
+| 207 | 0.1% | 0.1% |  |
 | 208 | 0% | 0% |  |
 
 
