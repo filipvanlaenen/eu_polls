@@ -41,7 +41,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialni demokrati | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Česká strana sociálně demokratická | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| Česká strana sociálně demokratická | CZ | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Socialistische Partij Anders | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -66,21 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 124 | 0.1% | 100% |  |
+| 123 | 0% | 100% |  |
+| 124 | 0.1% | 99.9% |  |
 | 125 | 0.2% | 99.9% |  |
 | 126 | 0.4% | 99.7% |  |
 | 127 | 0.7% | 99.3% |  |
-| 128 | 1.3% | 98.6% |  |
+| 128 | 1.3% | 98.5% |  |
 | 129 | 2% | 97% |  |
 | 130 | 3% | 95% |  |
 | 131 | 5% | 92% |  |
 | 132 | 6% | 87% |  |
-| 133 | 8% | 81% |  |
-| 134 | 9% | 73% |  |
+| 133 | 8% | 80% |  |
+| 134 | 9% | 72% |  |
 | 135 | 10% | 63% |  |
 | 136 | 10% | 53% | Median |
 | 137 | 10% | 43% |  |
-| 138 | 9% | 34% |  |
+| 138 | 9% | 33% |  |
 | 139 | 7% | 25% |  |
 | 140 | 6% | 18% |  |
 | 141 | 4% | 12% |  |

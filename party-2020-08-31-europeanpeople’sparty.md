@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **193** seats (+6 seats)
+Current median: **192** seats (+5 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 193 | 188–199 | 186–200 | 185–201 | 182–204 |
+| European People’s Party | EU | 187 | 192 | 186–198 | 184–200 | 183–201 | 180–204 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 26–30 | 26–31 | 25–32 | 25–32 |
-| Koalicja Obywatelska | PL | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
+| Koalicja Obywatelska | PL | | 15 | 12–17 | 12–18 | 12–18 | 11–19 |
 | Partido Popular | ES | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
@@ -52,7 +52,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Starostové a nezávislí | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Starostové a nezávislí | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| TOP 09 | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,7 +68,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -79,35 +79,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 179 | 0% | 100% |  |
-| 180 | 0.1% | 99.9% |  |
-| 181 | 0.2% | 99.9% |  |
-| 182 | 0.3% | 99.7% |  |
-| 183 | 0.6% | 99.4% |  |
-| 184 | 1.0% | 98.8% |  |
-| 185 | 2% | 98% |  |
-| 186 | 2% | 96% |  |
-| 187 | 4% | 94% | Last Result |
-| 188 | 5% | 90% |  |
-| 189 | 6% | 85% |  |
-| 190 | 7% | 79% |  |
-| 191 | 8% | 72% |  |
-| 192 | 9% | 63% |  |
-| 193 | 9% | 54% | Median |
-| 194 | 9% | 45% |  |
-| 195 | 8% | 36% |  |
-| 196 | 7% | 28% |  |
-| 197 | 6% | 21% |  |
-| 198 | 5% | 15% |  |
-| 199 | 3% | 10% |  |
-| 200 | 2% | 7% |  |
-| 201 | 2% | 4% |  |
-| 202 | 1.1% | 2% |  |
-| 203 | 0.6% | 1.4% |  |
-| 204 | 0.4% | 0.8% |  |
-| 205 | 0.2% | 0.4% |  |
+| 177 | 0.1% | 100% |  |
+| 178 | 0.1% | 99.9% |  |
+| 179 | 0.2% | 99.8% |  |
+| 180 | 0.4% | 99.6% |  |
+| 181 | 0.6% | 99.2% |  |
+| 182 | 0.9% | 98.6% |  |
+| 183 | 1.4% | 98% |  |
+| 184 | 2% | 96% |  |
+| 185 | 3% | 94% |  |
+| 186 | 4% | 91% |  |
+| 187 | 5% | 88% | Last Result |
+| 188 | 6% | 83% |  |
+| 189 | 7% | 78% |  |
+| 190 | 7% | 71% |  |
+| 191 | 8% | 63% |  |
+| 192 | 8% | 55% | Median |
+| 193 | 8% | 47% |  |
+| 194 | 8% | 39% |  |
+| 195 | 7% | 31% |  |
+| 196 | 6% | 24% |  |
+| 197 | 5% | 17% |  |
+| 198 | 4% | 12% |  |
+| 199 | 3% | 8% |  |
+| 200 | 2% | 6% |  |
+| 201 | 1.4% | 3% |  |
+| 202 | 0.9% | 2% |  |
+| 203 | 0.5% | 1.2% |  |
+| 204 | 0.3% | 0.6% |  |
+| 205 | 0.2% | 0.3% |  |
 | 206 | 0.1% | 0.2% |  |
-| 207 | 0.1% | 0.1% |  |
+| 207 | 0% | 0.1% |  |
 | 208 | 0% | 0% |  |
 
 
