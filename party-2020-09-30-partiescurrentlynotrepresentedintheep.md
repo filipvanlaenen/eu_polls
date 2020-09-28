@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> BG, DK, EE, FR, IE, IT, LT, NL, RO, SK
+> AT, BG, DK, EE, FR, IE, IT, LT, NL, RO, SK
 
 ## Seats
 
@@ -34,6 +34,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -48,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 6% | 99.1% |  |
-| 2 | 9% | 93% |  |
-| 3 | 13% | 84% |  |
-| 4 | 41% | 71% | Median |
-| 5 | 16% | 30% |  |
-| 6 | 11% | 14% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.1% | 0.1% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 5% | 99.2% |  |
+| 2 | 9% | 94% |  |
+| 3 | 12% | 86% |  |
+| 4 | 37% | 73% | Median |
+| 5 | 20% | 37% |  |
+| 6 | 12% | 17% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.5% | 0.5% |  |
 | 9 | 0% | 0% |  |
 
 
