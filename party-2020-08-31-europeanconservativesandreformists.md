@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 67 | 62–72 | 61–73 | 59–74 | 57–76 |
+| European Conservatives and Reformists | EU | 61 | 67 | 62–72 | 61–73 | 59–74 | 57–75 |
 | Zjednoczona Prawica | PL | | 22 | 19–24 | 19–25 | 18–25 | 18–26 |
 | Fratelli d’Italia | IT | | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
