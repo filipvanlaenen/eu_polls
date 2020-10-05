@@ -21,12 +21,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–57 | 49–58 | 47–60 |
 | La France insoumise | FR | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
+| Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Socialistische Partij | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 0–2 |
@@ -37,14 +37,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -64,15 +64,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0.1% | 100% |  |
 | 46 | 0.2% | 99.9% |  |
 | 47 | 0.6% | 99.7% |  |
-| 48 | 1.5% | 99.2% |  |
+| 48 | 2% | 99.1% |  |
 | 49 | 3% | 98% |  |
 | 50 | 6% | 94% |  |
 | 51 | 10% | 88% |  |
-| 52 | 13% | 79% |  |
-| 53 | 16% | 65% | Median |
+| 52 | 14% | 78% |  |
+| 53 | 16% | 64% | Median |
 | 54 | 16% | 49% |  |
-| 55 | 13% | 34% |  |
-| 56 | 10% | 20% |  |
+| 55 | 13% | 33% |  |
+| 56 | 9% | 20% |  |
 | 57 | 6% | 11% |  |
 | 58 | 3% | 5% |  |
 | 59 | 1.3% | 2% |  |

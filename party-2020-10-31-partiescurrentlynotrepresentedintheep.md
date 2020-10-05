@@ -38,7 +38,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Национален фронт за спасение на България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -49,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 5% | 99.2% |  |
-| 2 | 9% | 94% |  |
-| 3 | 12% | 86% |  |
-| 4 | 37% | 73% | Median |
-| 5 | 20% | 37% |  |
-| 6 | 12% | 17% |  |
-| 7 | 4% | 5% |  |
-| 8 | 0.5% | 0.5% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 5% | 99.3% |  |
+| 2 | 10% | 94% |  |
+| 3 | 16% | 85% |  |
+| 4 | 36% | 68% | Median |
+| 5 | 18% | 32% |  |
+| 6 | 11% | 14% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 
