@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 87–96 | 86–98 | 85–99 | 83–101 |
+| Renew Europe | EU | 98 | 92 | 87–96 | 86–97 | 85–99 | 83–101 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 22–27 | 21–29 | 21–29 | 21–30 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
@@ -40,7 +40,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Fianna Fáil | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
 | Freie Wähler | DE | | 1 | 1 | 1 | 1 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,26 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 0.1% | 100% |  |
 | 82 | 0.2% | 99.9% |  |
 | 83 | 0.5% | 99.7% |  |
-| 84 | 0.9% | 99.2% |  |
+| 84 | 1.0% | 99.2% |  |
 | 85 | 2% | 98% |  |
-| 86 | 3% | 97% |  |
-| 87 | 5% | 94% |  |
-| 88 | 6% | 89% |  |
-| 89 | 8% | 83% |  |
+| 86 | 3% | 96% |  |
+| 87 | 5% | 93% |  |
+| 88 | 7% | 89% |  |
+| 89 | 9% | 82% |  |
 | 90 | 10% | 74% |  |
-| 91 | 11% | 64% |  |
-| 92 | 12% | 53% | Median |
-| 93 | 11% | 41% |  |
+| 91 | 11% | 63% |  |
+| 92 | 12% | 52% | Median |
+| 93 | 11% | 40% |  |
 | 94 | 9% | 30% |  |
-| 95 | 7% | 21% |  |
-| 96 | 5% | 14% |  |
-| 97 | 4% | 9% |  |
+| 95 | 7% | 20% |  |
+| 96 | 5% | 13% |  |
+| 97 | 3% | 8% |  |
 | 98 | 2% | 5% | Last Result |
 | 99 | 1.3% | 3% |  |
-| 100 | 0.7% | 1.5% |  |
+| 100 | 0.7% | 1.4% |  |
 | 101 | 0.4% | 0.7% |  |
 | 102 | 0.2% | 0.3% |  |
-| 103 | 0.1% | 0.2% |  |
+| 103 | 0.1% | 0.1% |  |
 | 104 | 0% | 0.1% |  |
 | 105 | 0% | 0% |  |
 

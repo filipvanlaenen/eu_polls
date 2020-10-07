@@ -28,9 +28,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
+| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 5–7 | 5–7 | 5–8 | 3–8 |
-| Forza Italia | IT | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–7 | 4–8 | 3–8 | 3–8 |
@@ -104,12 +104,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 195 | 4% | 12% |  |
 | 196 | 3% | 8% |  |
 | 197 | 2% | 5% |  |
-| 198 | 1.3% | 3% |  |
-| 199 | 0.8% | 2% |  |
-| 200 | 0.5% | 1.1% |  |
+| 198 | 1.4% | 3% |  |
+| 199 | 0.9% | 2% |  |
+| 200 | 0.5% | 1.2% |  |
 | 201 | 0.3% | 0.6% |  |
 | 202 | 0.2% | 0.3% |  |
-| 203 | 0.1% | 0.1% |  |
+| 203 | 0.1% | 0.2% |  |
 | 204 | 0% | 0.1% |  |
 | 205 | 0% | 0% |  |
 
