@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 1–6 | 1–7 | 0–7 |
-| Има такъв народ [BG] (*) | BG | | 3 | 1–3 | 0–3 | 0–4 | 0–4 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–7 | 3–7 | 2–8 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +38,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Национален фронт за спасение на България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -49,15 +49,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 5% | 99.3% |  |
-| 2 | 10% | 94% |  |
-| 3 | 16% | 85% |  |
-| 4 | 36% | 68% | Median |
-| 5 | 18% | 32% |  |
-| 6 | 11% | 14% |  |
-| 7 | 3% | 4% |  |
-| 8 | 0.3% | 0.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 1.3% | 100% |  |
+| 3 | 14% | 98.7% |  |
+| 4 | 40% | 85% | Median |
+| 5 | 25% | 45% |  |
+| 6 | 14% | 20% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.6% | 0.6% |  |
 | 9 | 0% | 0% |  |
 
 

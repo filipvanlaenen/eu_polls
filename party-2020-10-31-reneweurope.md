@@ -20,10 +20,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 92 | 87–97 | 86–98 | 85–99 | 83–102 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 22–27 | 21–29 | 21–29 | 21–30 |
-| ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
-| Freie Demokratische Partei | DE | | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
+| Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -34,13 +34,13 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Движение за права и свободи | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Fianna Fáil | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -77,30 +77,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
-| 83 | 0.5% | 99.7% |  |
-| 84 | 1.0% | 99.2% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0.1% | 99.9% |  |
+| 82 | 0.3% | 99.8% |  |
+| 83 | 0.6% | 99.6% |  |
+| 84 | 1.1% | 99.0% |  |
 | 85 | 2% | 98% |  |
 | 86 | 3% | 96% |  |
-| 87 | 4% | 94% |  |
-| 88 | 6% | 89% |  |
-| 89 | 8% | 83% |  |
-| 90 | 10% | 75% |  |
-| 91 | 11% | 65% |  |
-| 92 | 11% | 54% | Median |
-| 93 | 10% | 43% |  |
-| 94 | 9% | 33% |  |
-| 95 | 7% | 24% |  |
-| 96 | 6% | 16% |  |
-| 97 | 4% | 11% |  |
-| 98 | 3% | 7% | Last Result |
+| 87 | 5% | 93% |  |
+| 88 | 7% | 88% |  |
+| 89 | 9% | 81% |  |
+| 90 | 10% | 73% |  |
+| 91 | 11% | 63% |  |
+| 92 | 11% | 52% | Median |
+| 93 | 10% | 41% |  |
+| 94 | 9% | 31% |  |
+| 95 | 7% | 22% |  |
+| 96 | 5% | 15% |  |
+| 97 | 4% | 10% |  |
+| 98 | 3% | 6% | Last Result |
 | 99 | 2% | 4% |  |
-| 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.3% |  |
-| 102 | 0.3% | 0.7% |  |
+| 100 | 1.0% | 2% |  |
+| 101 | 0.6% | 1.2% |  |
+| 102 | 0.3% | 0.6% |  |
 | 103 | 0.2% | 0.3% |  |
-| 104 | 0.1% | 0.2% |  |
+| 104 | 0.1% | 0.1% |  |
 | 105 | 0% | 0.1% |  |
 | 106 | 0% | 0% |  |
 
