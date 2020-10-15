@@ -21,14 +21,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Identity and Democracy | EU | 76 | 74 | 70–78 | 69–79 | 68–80 | 66–82 |
 | Rassemblement national | FR | | 23 | 21–27 | 20–27 | 20–27 | 19–28 |
 | Lega Nord | IT | | 22 | 20–23 | 19–24 | 18–24 | 17–25 |
-| Alternative für Deutschland | DE | | 9 | 8–11 | 7–12 | 7–12 | 7–13 |
+| Alternative für Deutschland | DE | | 9 | 8–11 | 7–12 | 7–12 | 7–12 |
 | Partij voor de Vrijheid | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Dansk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -48,20 +48,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 1.2% | 99.1% |  |
 | 68 | 2% | 98% |  |
 | 69 | 4% | 96% |  |
-| 70 | 6% | 92% |  |
-| 71 | 8% | 86% |  |
+| 70 | 6% | 91% |  |
+| 71 | 9% | 85% |  |
 | 72 | 11% | 77% |  |
 | 73 | 12% | 66% |  |
-| 74 | 12% | 55% | Median |
-| 75 | 11% | 43% |  |
-| 76 | 9% | 32% | Last Result |
-| 77 | 8% | 22% |  |
-| 78 | 6% | 15% |  |
-| 79 | 4% | 9% |  |
+| 74 | 12% | 54% | Median |
+| 75 | 11% | 42% |  |
+| 76 | 9% | 31% | Last Result |
+| 77 | 7% | 21% |  |
+| 78 | 6% | 14% |  |
+| 79 | 4% | 8% |  |
 | 80 | 2% | 5% |  |
-| 81 | 1.4% | 2% |  |
-| 82 | 0.7% | 1.1% |  |
-| 83 | 0.3% | 0.4% |  |
+| 81 | 1.3% | 2% |  |
+| 82 | 0.6% | 1.0% |  |
+| 83 | 0.2% | 0.4% |  |
 | 84 | 0.1% | 0.1% |  |
 | 85 | 0% | 0% |  |
 
