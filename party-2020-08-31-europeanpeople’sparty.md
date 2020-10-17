@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **192** seats (+5 seats)
+Current median: **189** seats (+2 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 192 | 186–198 | 184–199 | 182–201 | 179–204 |
+| European People’s Party | EU | 187 | 189 | 183–196 | 181–198 | 180–200 | 177–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 26–30 | 26–31 | 25–32 | 25–32 |
-| Koalicja Obywatelska | PL | | 15 | 12–17 | 12–18 | 12–18 | 11–19 |
 | Partido Popular | ES | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| Koalicja Obywatelska | PL | | 13 | 11–16 | 10–16 | 10–17 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | Les Républicains | FR | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
@@ -37,7 +37,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Δημοκρατικός Συναγερμός | CY | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -59,6 +58,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
+| Koalicja Polska | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Kresťanskodemokratické hnutie | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -79,38 +79,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 176 | 0% | 100% |  |
-| 177 | 0.1% | 99.9% |  |
-| 178 | 0.1% | 99.9% |  |
-| 179 | 0.2% | 99.7% |  |
-| 180 | 0.4% | 99.5% |  |
-| 181 | 0.7% | 99.1% |  |
-| 182 | 1.1% | 98% |  |
-| 183 | 2% | 97% |  |
-| 184 | 2% | 96% |  |
-| 185 | 3% | 94% |  |
-| 186 | 4% | 91% |  |
-| 187 | 5% | 87% | Last Result |
-| 188 | 6% | 82% |  |
-| 189 | 7% | 76% |  |
-| 190 | 8% | 69% |  |
-| 191 | 8% | 61% |  |
-| 192 | 8% | 53% | Median |
-| 193 | 8% | 45% |  |
-| 194 | 8% | 36% |  |
-| 195 | 7% | 29% |  |
-| 196 | 6% | 22% |  |
-| 197 | 5% | 16% |  |
-| 198 | 4% | 11% |  |
-| 199 | 3% | 8% |  |
-| 200 | 2% | 5% |  |
-| 201 | 1.3% | 3% |  |
-| 202 | 0.8% | 2% |  |
-| 203 | 0.5% | 1.0% |  |
-| 204 | 0.3% | 0.6% |  |
-| 205 | 0.1% | 0.3% |  |
-| 206 | 0.1% | 0.1% |  |
-| 207 | 0% | 0.1% |  |
-| 208 | 0% | 0% |  |
+| 174 | 0% | 100% |  |
+| 175 | 0.1% | 99.9% |  |
+| 176 | 0.2% | 99.8% |  |
+| 177 | 0.3% | 99.7% |  |
+| 178 | 0.6% | 99.4% |  |
+| 179 | 0.9% | 98.8% |  |
+| 180 | 1.4% | 98% |  |
+| 181 | 2% | 97% |  |
+| 182 | 3% | 94% |  |
+| 183 | 4% | 92% |  |
+| 184 | 5% | 88% |  |
+| 185 | 6% | 83% |  |
+| 186 | 6% | 78% |  |
+| 187 | 7% | 71% | Last Result |
+| 188 | 8% | 64% |  |
+| 189 | 8% | 57% | Median |
+| 190 | 8% | 49% |  |
+| 191 | 7% | 41% |  |
+| 192 | 7% | 34% |  |
+| 193 | 6% | 27% |  |
+| 194 | 5% | 22% |  |
+| 195 | 4% | 16% |  |
+| 196 | 3% | 12% |  |
+| 197 | 3% | 9% |  |
+| 198 | 2% | 6% |  |
+| 199 | 1.4% | 4% |  |
+| 200 | 1.0% | 3% |  |
+| 201 | 0.6% | 2% |  |
+| 202 | 0.4% | 0.9% |  |
+| 203 | 0.2% | 0.5% |  |
+| 204 | 0.1% | 0.3% |  |
+| 205 | 0.1% | 0.1% |  |
+| 206 | 0% | 0.1% |  |
+| 207 | 0% | 0% |  |
 
 
