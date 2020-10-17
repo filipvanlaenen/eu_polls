@@ -26,7 +26,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Venstre | DK | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Demokratesch Partei | LU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -36,7 +36,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Attīstībai/Par! | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -45,7 +45,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατική Παράταξη | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,7 +56,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,15 +79,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 78 | 0% | 100% |  |
 | 79 | 0.1% | 99.9% |  |
-| 80 | 0.3% | 99.8% |  |
+| 80 | 0.4% | 99.8% |  |
 | 81 | 0.8% | 99.5% |  |
-| 82 | 2% | 98.7% |  |
+| 82 | 2% | 98.6% |  |
 | 83 | 3% | 97% |  |
 | 84 | 5% | 94% |  |
 | 85 | 7% | 89% |  |
 | 86 | 9% | 82% |  |
 | 87 | 11% | 73% |  |
-| 88 | 11% | 63% |  |
+| 88 | 11% | 62% |  |
 | 89 | 11% | 51% | Median |
 | 90 | 10% | 40% |  |
 | 91 | 9% | 30% |  |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 1.5% | 3% |  |
 | 97 | 0.9% | 2% |  |
 | 98 | 0.5% | 0.9% | Last Result |
-| 99 | 0.2% | 0.4% |  |
+| 99 | 0.2% | 0.5% |  |
 | 100 | 0.1% | 0.2% |  |
 | 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |

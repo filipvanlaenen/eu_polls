@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **69** seats (+8 seats)
+Current median: **68** seats (+7 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 69 | 64–73 | 62–74 | 61–75 | 59–76 |
-| Zjednoczona Prawica | PL | | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
-| Fratelli d’Italia | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| European Conservatives and Reformists | EU | 61 | 68 | 63–72 | 61–73 | 60–74 | 58–76 |
+| Zjednoczona Prawica | PL | | 22 | 20–24 | 19–24 | 19–25 | 18–25 |
+| Fratelli d’Italia | IT | | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | Vox | ES | | 9 | 7–11 | 7–11 | 7–12 | 7–12 |
 | Debout la France | FR | | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Forum voor Democratie | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sloboda a Solidarita | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 2 | 2 | 2 | 2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -51,27 +51,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.4% | 99.7% |  |
-| 60 | 0.9% | 99.3% |  |
-| 61 | 2% | 98% | Last Result |
-| 62 | 3% | 97% |  |
-| 63 | 4% | 94% |  |
-| 64 | 5% | 91% |  |
-| 65 | 6% | 86% |  |
-| 66 | 8% | 79% |  |
-| 67 | 10% | 71% |  |
-| 68 | 11% | 62% |  |
-| 69 | 12% | 51% | Median |
-| 70 | 11% | 39% |  |
-| 71 | 10% | 28% |  |
-| 72 | 7% | 18% |  |
-| 73 | 5% | 10% |  |
-| 74 | 3% | 5% |  |
-| 75 | 2% | 3% |  |
-| 76 | 0.7% | 1.1% |  |
-| 77 | 0.3% | 0.4% |  |
+| 56 | 0.1% | 100% |  |
+| 57 | 0.2% | 99.9% |  |
+| 58 | 0.4% | 99.7% |  |
+| 59 | 0.8% | 99.3% |  |
+| 60 | 1.5% | 98% |  |
+| 61 | 2% | 97% | Last Result |
+| 62 | 3% | 95% |  |
+| 63 | 5% | 91% |  |
+| 64 | 6% | 87% |  |
+| 65 | 8% | 80% |  |
+| 66 | 9% | 73% |  |
+| 67 | 10% | 64% |  |
+| 68 | 11% | 53% | Median |
+| 69 | 11% | 42% |  |
+| 70 | 10% | 31% |  |
+| 71 | 8% | 21% |  |
+| 72 | 6% | 13% |  |
+| 73 | 4% | 7% |  |
+| 74 | 2% | 4% |  |
+| 75 | 1.0% | 2% |  |
+| 76 | 0.4% | 0.7% |  |
+| 77 | 0.2% | 0.2% |  |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0% |  |
 
