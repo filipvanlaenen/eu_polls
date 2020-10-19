@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+13 seats)
+Current median: **53** seats (+14 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 52 | 49–56 | 48–57 | 47–57 | 46–59 |
-| La France insoumise | FR | | 9 | 9–10 | 8–10 | 8–11 | 8–12 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 49–57 | 48–58 | 47–59 |
+| La France insoumise | FR | | 10 | 10 | 10 | 10 | 9–10 |
 | Die Linke | DE | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
@@ -60,23 +60,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
-| 45 | 0.2% | 99.9% |  |
-| 46 | 0.7% | 99.7% |  |
-| 47 | 2% | 99.0% |  |
-| 48 | 4% | 97% |  |
-| 49 | 7% | 94% |  |
-| 50 | 10% | 87% |  |
-| 51 | 13% | 77% |  |
-| 52 | 15% | 63% | Median |
-| 53 | 15% | 48% |  |
-| 54 | 13% | 33% |  |
-| 55 | 9% | 21% |  |
-| 56 | 6% | 11% |  |
-| 57 | 3% | 5% |  |
-| 58 | 1.5% | 2% |  |
-| 59 | 0.6% | 0.8% |  |
-| 60 | 0.2% | 0.3% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0.3% | 99.9% |  |
+| 47 | 0.8% | 99.6% |  |
+| 48 | 2% | 98.8% |  |
+| 49 | 4% | 97% |  |
+| 50 | 8% | 92% |  |
+| 51 | 12% | 84% |  |
+| 52 | 15% | 73% |  |
+| 53 | 16% | 58% | Median |
+| 54 | 15% | 42% |  |
+| 55 | 12% | 27% |  |
+| 56 | 8% | 16% |  |
+| 57 | 4% | 8% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.8% | 1.2% |  |
+| 60 | 0.3% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 

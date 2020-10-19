@@ -8,24 +8,23 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **137** seats (-10 seats)
+Current median: **132** seats (-15 seats)
 
-At least one member in **27 countries** have a median of 1 seat or more:
+At least one member in **26 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 131–142 | 129–144 | 128–145 | 125–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 125–139 | 124–141 | 121–144 |
 | Partito Democratico | IT | | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Partidul Social Democrat | RO | | 9 | 7–11 | 6–11 | 6–12 | 6–12 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| Parti socialiste | FR | | 5 | 4–5 | 0–5 | 0–5 | 0–5 |
 | Socialdemokraterne | DK | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Lewica | PL | | 4 | 2–7 | 0–8 | 0–8 | 0–9 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -55,6 +54,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Parti socialiste | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Алтернатива за българско възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -66,37 +66,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 121 | 0% | 100% |  |
-| 122 | 0.1% | 99.9% |  |
-| 123 | 0.1% | 99.9% |  |
-| 124 | 0.2% | 99.8% |  |
-| 125 | 0.4% | 99.5% |  |
-| 126 | 0.6% | 99.2% |  |
-| 127 | 0.9% | 98.6% |  |
-| 128 | 1.4% | 98% |  |
-| 129 | 2% | 96% |  |
-| 130 | 3% | 94% |  |
-| 131 | 4% | 91% |  |
-| 132 | 5% | 87% |  |
-| 133 | 6% | 82% |  |
-| 134 | 7% | 76% |  |
-| 135 | 8% | 68% |  |
-| 136 | 9% | 60% |  |
-| 137 | 9% | 51% | Median |
-| 138 | 9% | 42% |  |
-| 139 | 8% | 33% |  |
-| 140 | 7% | 26% |  |
-| 141 | 5% | 19% |  |
-| 142 | 4% | 14% |  |
-| 143 | 3% | 9% |  |
-| 144 | 2% | 6% |  |
-| 145 | 2% | 4% |  |
-| 146 | 1.0% | 2% |  |
-| 147 | 0.6% | 1.3% | Last Result |
-| 148 | 0.3% | 0.7% |  |
-| 149 | 0.2% | 0.4% |  |
-| 150 | 0.1% | 0.2% |  |
-| 151 | 0.1% | 0.1% |  |
-| 152 | 0% | 0% |  |
+| 118 | 0% | 100% |  |
+| 119 | 0.1% | 99.9% |  |
+| 120 | 0.2% | 99.8% |  |
+| 121 | 0.3% | 99.7% |  |
+| 122 | 0.6% | 99.3% |  |
+| 123 | 1.0% | 98.7% |  |
+| 124 | 2% | 98% |  |
+| 125 | 2% | 96% |  |
+| 126 | 4% | 94% |  |
+| 127 | 5% | 90% |  |
+| 128 | 6% | 85% |  |
+| 129 | 7% | 79% |  |
+| 130 | 8% | 72% |  |
+| 131 | 9% | 64% |  |
+| 132 | 9% | 55% | Median |
+| 133 | 9% | 46% |  |
+| 134 | 8% | 37% |  |
+| 135 | 7% | 28% |  |
+| 136 | 6% | 21% |  |
+| 137 | 5% | 15% |  |
+| 138 | 4% | 11% |  |
+| 139 | 3% | 7% |  |
+| 140 | 2% | 5% |  |
+| 141 | 1.2% | 3% |  |
+| 142 | 0.7% | 2% |  |
+| 143 | 0.5% | 1.0% |  |
+| 144 | 0.3% | 0.6% |  |
+| 145 | 0.1% | 0.3% |  |
+| 146 | 0.1% | 0.2% |  |
+| 147 | 0% | 0.1% | Last Result |
+| 148 | 0% | 0% |  |
 
 
