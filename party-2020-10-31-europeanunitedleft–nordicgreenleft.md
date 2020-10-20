@@ -23,13 +23,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Die Linke | DE | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Bloco de Esquerda | PT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
-| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 0–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,11 +72,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 16% | 58% | Median |
 | 54 | 15% | 42% |  |
 | 55 | 12% | 27% |  |
-| 56 | 8% | 16% |  |
+| 56 | 8% | 15% |  |
 | 57 | 4% | 8% |  |
 | 58 | 2% | 3% |  |
 | 59 | 0.8% | 1.2% |  |
-| 60 | 0.3% | 0.4% |  |
+| 60 | 0.3% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
