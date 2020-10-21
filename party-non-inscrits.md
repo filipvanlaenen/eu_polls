@@ -18,49 +18,48 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 23 | 20–26 | 19–27 | 19–28 | 17–30 |
-| Movimento 5 Stelle | IT | | 13 | 12–16 | 12–17 | 11–17 | 10–18 |
-| Konfederacja | PL | | 4 | 3–6 | 0–6 | 0–7 | 0–7 |
+| Non-Inscrits | EU | 29 | 23 | 19–26 | 18–27 | 17–27 | 16–29 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 12–18 | 11–20 |
+| Konfederacja | PL | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2020-08-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.3% | 99.9% |  |
-| 17 | 0.7% | 99.7% |  |
-| 18 | 1.4% | 99.0% |  |
-| 19 | 3% | 98% |  |
-| 20 | 6% | 95% |  |
-| 21 | 11% | 89% |  |
-| 22 | 16% | 78% |  |
-| 23 | 18% | 62% | Median |
-| 24 | 16% | 44% |  |
-| 25 | 12% | 28% |  |
-| 26 | 8% | 16% |  |
-| 27 | 4% | 8% |  |
-| 28 | 2% | 4% |  |
-| 29 | 1.0% | 2% | Last Result |
-| 30 | 0.4% | 0.6% |  |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 0.8% | 99.8% |  |
+| 17 | 2% | 99.0% |  |
+| 18 | 3% | 97% |  |
+| 19 | 5% | 94% |  |
+| 20 | 8% | 89% |  |
+| 21 | 13% | 81% |  |
+| 22 | 17% | 68% |  |
+| 23 | 17% | 52% | Median |
+| 24 | 14% | 34% |  |
+| 25 | 9% | 21% |  |
+| 26 | 6% | 11% |  |
+| 27 | 3% | 6% |  |
+| 28 | 1.5% | 2% |  |
+| 29 | 0.6% | 1.0% | Last Result |
+| 30 | 0.2% | 0.3% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 
