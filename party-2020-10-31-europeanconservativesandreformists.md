@@ -21,7 +21,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 61 | 69 | 65–72 | 64–73 | 63–74 | 61–76 |
 | Zjednoczona Prawica | PL | | 21 | 19–24 | 19–24 | 18–25 | 18–25 |
 | Fratelli d’Italia | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
-| Vox | ES | | 9 | 7–11 | 7–11 | 7–11 | 7–12 |
+| Vox | ES | | 9 | 7–11 | 7–11 | 7–12 | 7–12 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–4 | 2–4 |
@@ -41,7 +41,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Обединени Патриоти | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Обединени Патриоти | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -59,14 +59,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 6% | 93% |  |
 | 66 | 9% | 86% |  |
 | 67 | 12% | 77% |  |
-| 68 | 13% | 65% |  |
-| 69 | 14% | 52% | Median |
+| 68 | 14% | 65% |  |
+| 69 | 14% | 51% | Median |
 | 70 | 12% | 38% |  |
-| 71 | 10% | 26% |  |
+| 71 | 10% | 25% |  |
 | 72 | 7% | 16% |  |
 | 73 | 4% | 9% |  |
 | 74 | 2% | 4% |  |
-| 75 | 1.2% | 2% |  |
+| 75 | 1.1% | 2% |  |
 | 76 | 0.5% | 0.7% |  |
 | 77 | 0.2% | 0.2% |  |
 | 78 | 0.1% | 0.1% |  |
