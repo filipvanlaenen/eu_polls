@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (+9 seats)
+Current median: **8** seats (+8 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 5–11 | 4–11 | 4–12 | 3–12 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 4–10 | 3–11 | 3–11 | 2–12 |
 | Polska 2050 [PL] (*) | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -53,18 +53,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 1.5% | 99.9% |  |
-| 4 | 7% | 98% |  |
-| 5 | 11% | 91% |  |
-| 6 | 5% | 80% |  |
-| 7 | 2% | 75% |  |
-| 8 | 9% | 73% |  |
-| 9 | 23% | 64% | Median |
-| 10 | 25% | 41% |  |
-| 11 | 13% | 16% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.3% | 0.3% |  |
-| 14 | 0% | 0% |  |
+| 2 | 0.8% | 100% |  |
+| 3 | 6% | 99.2% |  |
+| 4 | 12% | 93% |  |
+| 5 | 6% | 82% |  |
+| 6 | 2% | 76% |  |
+| 7 | 6% | 74% |  |
+| 8 | 20% | 68% | Median |
+| 9 | 27% | 48% |  |
+| 10 | 16% | 21% |  |
+| 11 | 5% | 5% |  |
+| 12 | 0.7% | 0.7% |  |
+| 13 | 0% | 0% |  |
 
 

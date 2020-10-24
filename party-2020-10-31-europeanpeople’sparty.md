@@ -18,15 +18,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 192 | 186–198 | 185–199 | 183–201 | 181–203 |
-| Christlich Demokratische Union Deutschlands | DE | | 27 | 25–29 | 24–29 | 24–29 | 23–30 |
+| European People’s Party | EU | 187 | 192 | 186–198 | 184–199 | 183–201 | 180–204 |
+| Christlich Demokratische Union Deutschlands | DE | | 26 | 25–29 | 23–29 | 22–29 | 22–29 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
-| Partido Popular | ES | | 14 | 11–15 | 11–16 | 11–16 | 10–17 |
+| Partido Popular | ES | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
-| Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| Christlich-Soziale Union in Bayern | DE | | 8 | 6–10 | 6–10 | 6–10 | 6–10 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -48,8 +48,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Mișcarea Populară | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -81,34 +81,35 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 177 | 0% | 100% |  |
 | 178 | 0.1% | 99.9% |  |
-| 179 | 0.1% | 99.9% |  |
-| 180 | 0.2% | 99.8% |  |
-| 181 | 0.4% | 99.5% |  |
-| 182 | 0.7% | 99.1% |  |
-| 183 | 1.2% | 98% |  |
+| 179 | 0.2% | 99.9% |  |
+| 180 | 0.3% | 99.7% |  |
+| 181 | 0.5% | 99.4% |  |
+| 182 | 0.9% | 98.9% |  |
+| 183 | 1.4% | 98% |  |
 | 184 | 2% | 97% |  |
-| 185 | 3% | 95% |  |
-| 186 | 4% | 93% |  |
-| 187 | 5% | 89% | Last Result |
-| 188 | 6% | 84% |  |
-| 189 | 7% | 78% |  |
-| 190 | 8% | 71% |  |
-| 191 | 9% | 63% |  |
-| 192 | 9% | 54% | Median |
-| 193 | 9% | 45% |  |
-| 194 | 8% | 37% |  |
-| 195 | 7% | 29% |  |
-| 196 | 6% | 21% |  |
-| 197 | 5% | 15% |  |
-| 198 | 4% | 11% |  |
-| 199 | 3% | 7% |  |
-| 200 | 2% | 4% |  |
-| 201 | 1.1% | 3% |  |
-| 202 | 0.7% | 1.5% |  |
-| 203 | 0.4% | 0.8% |  |
-| 204 | 0.2% | 0.4% |  |
-| 205 | 0.1% | 0.2% |  |
-| 206 | 0% | 0.1% |  |
-| 207 | 0% | 0% |  |
+| 185 | 3% | 94% |  |
+| 186 | 4% | 91% |  |
+| 187 | 5% | 87% | Last Result |
+| 188 | 7% | 82% |  |
+| 189 | 8% | 75% |  |
+| 190 | 8% | 68% |  |
+| 191 | 9% | 59% |  |
+| 192 | 9% | 51% | Median |
+| 193 | 8% | 42% |  |
+| 194 | 7% | 34% |  |
+| 195 | 6% | 26% |  |
+| 196 | 5% | 20% |  |
+| 197 | 4% | 15% |  |
+| 198 | 3% | 10% |  |
+| 199 | 2% | 7% |  |
+| 200 | 2% | 5% |  |
+| 201 | 1.2% | 3% |  |
+| 202 | 0.7% | 2% |  |
+| 203 | 0.5% | 1.0% |  |
+| 204 | 0.3% | 0.6% |  |
+| 205 | 0.2% | 0.3% |  |
+| 206 | 0.1% | 0.2% |  |
+| 207 | 0% | 0.1% |  |
+| 208 | 0% | 0% |  |
 
 
