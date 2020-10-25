@@ -18,12 +18,12 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 23 | 20–26 | 19–27 | 18–28 | 17–30 |
+| Non-Inscrits | EU | 29 | 23 | 20–26 | 19–27 | 18–28 | 16–30 |
 | Movimento 5 Stelle | IT | | 13 | 12–16 | 11–16 | 11–17 | 10–18 |
-| Konfederacja | PL | | 4 | 3–6 | 0–6 | 0–7 | 0–7 |
+| Konfederacja | PL | | 4 | 2–6 | 0–6 | 0–7 | 0–7 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,20 +44,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.4% | 99.9% |  |
-| 17 | 0.9% | 99.5% |  |
-| 18 | 2% | 98.6% |  |
-| 19 | 3% | 97% |  |
-| 20 | 6% | 94% |  |
-| 21 | 10% | 88% |  |
-| 22 | 15% | 77% |  |
-| 23 | 18% | 62% | Median |
-| 24 | 16% | 45% |  |
-| 25 | 12% | 28% |  |
-| 26 | 8% | 16% |  |
+| 16 | 0.5% | 99.8% |  |
+| 17 | 1.2% | 99.3% |  |
+| 18 | 2% | 98% |  |
+| 19 | 4% | 96% |  |
+| 20 | 7% | 92% |  |
+| 21 | 11% | 86% |  |
+| 22 | 15% | 75% |  |
+| 23 | 17% | 59% | Median |
+| 24 | 16% | 42% |  |
+| 25 | 12% | 27% |  |
+| 26 | 7% | 15% |  |
 | 27 | 4% | 8% |  |
 | 28 | 2% | 4% |  |
-| 29 | 1.0% | 1.5% | Last Result |
+| 29 | 0.9% | 1.5% | Last Result |
 | 30 | 0.4% | 0.5% |  |
 | 31 | 0.1% | 0.2% |  |
 | 32 | 0% | 0% |  |

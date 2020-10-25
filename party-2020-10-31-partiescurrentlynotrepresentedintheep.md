@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+8 seats)
+Current median: **9** seats (+9 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 4–10 | 3–11 | 3–11 | 2–12 |
-| Polska 2050 [PL] (*) | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Parties currently not represented in the EP | EU | 0 | 9 | 4–11 | 3–11 | 3–12 | 2–13 |
+| Polska 2050 [PL] (*) | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige [DK] (*) | DK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -53,17 +53,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.8% | 100% |  |
-| 3 | 6% | 99.2% |  |
-| 4 | 12% | 93% |  |
-| 5 | 6% | 82% |  |
-| 6 | 2% | 76% |  |
-| 7 | 6% | 74% |  |
-| 8 | 20% | 68% | Median |
-| 9 | 27% | 48% |  |
-| 10 | 16% | 21% |  |
-| 11 | 5% | 5% |  |
-| 12 | 0.7% | 0.7% |  |
-| 13 | 0% | 0% |  |
+| 2 | 0.6% | 100% |  |
+| 3 | 5% | 99.4% |  |
+| 4 | 9% | 95% |  |
+| 5 | 5% | 86% |  |
+| 6 | 2% | 81% |  |
+| 7 | 5% | 80% |  |
+| 8 | 16% | 75% |  |
+| 9 | 24% | 59% | Median |
+| 10 | 20% | 34% |  |
+| 11 | 10% | 15% |  |
+| 12 | 4% | 4% |  |
+| 13 | 0.7% | 0.8% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
