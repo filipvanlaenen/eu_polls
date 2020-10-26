@@ -27,24 +27,24 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Lewica | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
-| Partit Laburista | MT | | 4 | 4 | 4 | 3–4 | 3–4 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Българска социалистическа партия | BG | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
-| Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | PRO România | RO | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Česká strana sociálně demokratická | CZ | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
+| Česká strana sociálně demokratická | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Magyar Szocialista Párt–Párbeszéd | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,10 +68,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 119 | 0.1% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
-| 121 | 0.3% | 99.7% |  |
-| 122 | 0.5% | 99.4% |  |
-| 123 | 0.9% | 98.9% |  |
-| 124 | 1.5% | 98% |  |
+| 121 | 0.3% | 99.8% |  |
+| 122 | 0.5% | 99.5% |  |
+| 123 | 0.9% | 99.0% |  |
+| 124 | 1.4% | 98% |  |
 | 125 | 2% | 97% |  |
 | 126 | 3% | 94% |  |
 | 127 | 4% | 91% |  |
@@ -85,12 +85,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 135 | 7% | 33% |  |
 | 136 | 6% | 25% |  |
 | 137 | 5% | 19% |  |
-| 138 | 4% | 14% |  |
+| 138 | 4% | 13% |  |
 | 139 | 3% | 9% |  |
 | 140 | 2% | 6% |  |
 | 141 | 2% | 4% |  |
 | 142 | 1.0% | 2% |  |
-| 143 | 0.6% | 1.5% |  |
+| 143 | 0.6% | 1.4% |  |
 | 144 | 0.4% | 0.8% |  |
 | 145 | 0.2% | 0.5% |  |
 | 146 | 0.1% | 0.2% |  |
