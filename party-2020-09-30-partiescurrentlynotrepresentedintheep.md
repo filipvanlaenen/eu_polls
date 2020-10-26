@@ -8,20 +8,21 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **10** seats (+10 seats)
+Current median: **11** seats (+11 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> BG, DK, PL
+> AT, BG, DK, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
+| Parties currently not represented in the EP | EU | 0 | 11 | 9–13 | 8–13 | 8–14 | 7–15 |
 | Polska 2050 [PL] (*) | PL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -34,7 +35,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -57,15 +57,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.9% | 100% |  |
-| 8 | 7% | 99.1% |  |
-| 9 | 20% | 92% |  |
-| 10 | 28% | 72% | Median |
-| 11 | 23% | 44% |  |
-| 12 | 14% | 21% |  |
-| 13 | 6% | 8% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.3% | 0.3% |  |
-| 16 | 0% | 0% |  |
+| 7 | 0.7% | 100% |  |
+| 8 | 5% | 99.3% |  |
+| 9 | 17% | 94% |  |
+| 10 | 27% | 77% |  |
+| 11 | 24% | 50% | Median |
+| 12 | 16% | 26% |  |
+| 13 | 7% | 10% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.5% | 0.6% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 

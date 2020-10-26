@@ -21,7 +21,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 98 | 92 | 88–96 | 87–97 | 86–98 | 84–100 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Freie Demokratische Partei | DE | | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
@@ -31,7 +31,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Demokratesch Partei | LU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Momentum Mozgalom | HU | | 2 | 2–4 | 2–4 | 1–4 | 1–4 |
+| Momentum Mozgalom | HU | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -78,26 +78,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0% | 100% |  |
 | 83 | 0.1% | 99.9% |  |
-| 84 | 0.3% | 99.8% |  |
-| 85 | 0.8% | 99.5% |  |
-| 86 | 2% | 98.6% |  |
-| 87 | 3% | 97% |  |
+| 84 | 0.4% | 99.8% |  |
+| 85 | 0.9% | 99.4% |  |
+| 86 | 2% | 98.5% |  |
+| 87 | 4% | 97% |  |
 | 88 | 6% | 93% |  |
-| 89 | 8% | 88% |  |
-| 90 | 11% | 79% |  |
-| 91 | 13% | 68% |  |
-| 92 | 13% | 55% | Median |
-| 93 | 12% | 42% |  |
-| 94 | 10% | 30% |  |
-| 95 | 8% | 20% |  |
-| 96 | 5% | 12% |  |
-| 97 | 3% | 7% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.0% | 2% |  |
-| 100 | 0.5% | 0.8% |  |
-| 101 | 0.2% | 0.4% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 89 | 9% | 87% |  |
+| 90 | 12% | 78% |  |
+| 91 | 13% | 66% |  |
+| 92 | 13% | 53% | Median |
+| 93 | 12% | 39% |  |
+| 94 | 10% | 27% |  |
+| 95 | 7% | 17% |  |
+| 96 | 5% | 10% |  |
+| 97 | 3% | 6% |  |
+| 98 | 1.5% | 3% | Last Result |
+| 99 | 0.7% | 1.4% |  |
+| 100 | 0.4% | 0.6% |  |
+| 101 | 0.2% | 0.3% |  |
+| 102 | 0.1% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 

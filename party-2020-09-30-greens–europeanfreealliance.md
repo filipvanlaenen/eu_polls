@@ -22,7 +22,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Bündnis 90/Die Grünen | DE | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
-| Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -63,19 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.1% | 100% |  |
 | 40 | 0.3% | 99.9% |  |
 | 41 | 0.9% | 99.6% |  |
-| 42 | 2% | 98.6% |  |
-| 43 | 4% | 96% |  |
-| 44 | 7% | 92% |  |
-| 45 | 10% | 85% |  |
-| 46 | 13% | 75% |  |
-| 47 | 14% | 62% | Median |
-| 48 | 14% | 48% |  |
-| 49 | 12% | 34% |  |
-| 50 | 9% | 22% |  |
-| 51 | 6% | 13% |  |
+| 42 | 2% | 98.7% |  |
+| 43 | 4% | 97% |  |
+| 44 | 7% | 93% |  |
+| 45 | 10% | 86% |  |
+| 46 | 13% | 76% |  |
+| 47 | 14% | 63% | Median |
+| 48 | 14% | 49% |  |
+| 49 | 12% | 35% |  |
+| 50 | 9% | 23% |  |
+| 51 | 6% | 14% |  |
 | 52 | 4% | 7% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.9% | 1.5% |  |
+| 53 | 2% | 4% |  |
+| 54 | 0.9% | 2% |  |
 | 55 | 0.4% | 0.6% |  |
 | 56 | 0.1% | 0.2% |  |
 | 57 | 0% | 0.1% |  |
