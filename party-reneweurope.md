@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–95 | 85–96 | 84–97 | 83–99 |
+| Renew Europe | EU | 98 | 91 | 87–95 | 86–96 | 85–97 | 83–99 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
 | ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
@@ -38,11 +38,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Darbo Partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Laisvės partija | LT | | 1 | 1 | 1 | 1 | 1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -57,11 +58,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -77,25 +77,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.3% | 99.8% |  |
-| 83 | 0.7% | 99.5% |  |
-| 84 | 1.5% | 98.8% |  |
-| 85 | 3% | 97% |  |
-| 86 | 5% | 95% |  |
-| 87 | 7% | 90% |  |
-| 88 | 9% | 83% |  |
-| 89 | 11% | 74% |  |
-| 90 | 12% | 63% |  |
-| 91 | 12% | 50% | Median |
-| 92 | 11% | 38% |  |
-| 93 | 9% | 27% |  |
-| 94 | 7% | 18% |  |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.6% | 99.6% |  |
+| 84 | 1.3% | 99.1% |  |
+| 85 | 2% | 98% |  |
+| 86 | 4% | 95% |  |
+| 87 | 7% | 91% |  |
+| 88 | 9% | 84% |  |
+| 89 | 11% | 75% |  |
+| 90 | 12% | 64% |  |
+| 91 | 12% | 52% | Median |
+| 92 | 11% | 39% |  |
+| 93 | 9% | 28% |  |
+| 94 | 7% | 19% |  |
 | 95 | 5% | 12% |  |
 | 96 | 3% | 7% |  |
 | 97 | 2% | 4% |  |
-| 98 | 1.0% | 2% | Last Result |
+| 98 | 1.1% | 2% | Last Result |
 | 99 | 0.6% | 1.0% |  |
 | 100 | 0.3% | 0.5% |  |
 | 101 | 0.1% | 0.2% |  |
