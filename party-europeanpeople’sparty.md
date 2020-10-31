@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **193** seats (+6 seats)
+Current median: **192** seats (+5 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 193 | 187–198 | 186–200 | 184–201 | 182–204 |
+| European People’s Party | EU | 187 | 192 | 187–198 | 185–199 | 184–201 | 181–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–29 | 24–29 | 22–30 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
 | Partido Popular | ES | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
-| Partidul Național Liberal | RO | | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
+| Partidul Național Liberal | RO | | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -41,6 +41,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Δημοκρατικός Συναγερμός | CY | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Partidul Mișcarea Populară | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Демократична България | BG | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -51,7 +52,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Partidul Mișcarea Populară | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -79,35 +79,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 179 | 0.1% | 100% |  |
-| 180 | 0.1% | 99.9% |  |
-| 181 | 0.2% | 99.8% |  |
-| 182 | 0.4% | 99.5% |  |
-| 183 | 0.7% | 99.1% |  |
-| 184 | 1.2% | 98% |  |
-| 185 | 2% | 97% |  |
-| 186 | 3% | 95% |  |
-| 187 | 4% | 93% | Last Result |
-| 188 | 5% | 89% |  |
-| 189 | 6% | 84% |  |
-| 190 | 7% | 77% |  |
-| 191 | 8% | 70% |  |
-| 192 | 9% | 62% |  |
-| 193 | 9% | 53% | Median |
-| 194 | 9% | 43% |  |
-| 195 | 8% | 35% |  |
-| 196 | 7% | 27% |  |
-| 197 | 6% | 19% |  |
-| 198 | 4% | 14% |  |
-| 199 | 3% | 9% |  |
-| 200 | 2% | 6% |  |
-| 201 | 2% | 4% |  |
-| 202 | 0.9% | 2% |  |
-| 203 | 0.5% | 1.1% |  |
-| 204 | 0.3% | 0.6% |  |
-| 205 | 0.2% | 0.3% |  |
+| 178 | 0% | 100% |  |
+| 179 | 0.1% | 99.9% |  |
+| 180 | 0.2% | 99.8% |  |
+| 181 | 0.3% | 99.7% |  |
+| 182 | 0.6% | 99.3% |  |
+| 183 | 1.0% | 98.8% |  |
+| 184 | 2% | 98% |  |
+| 185 | 2% | 96% |  |
+| 186 | 3% | 94% |  |
+| 187 | 4% | 91% | Last Result |
+| 188 | 6% | 86% |  |
+| 189 | 7% | 81% |  |
+| 190 | 8% | 74% |  |
+| 191 | 9% | 66% |  |
+| 192 | 9% | 57% | Median |
+| 193 | 9% | 48% |  |
+| 194 | 9% | 39% |  |
+| 195 | 8% | 30% |  |
+| 196 | 6% | 23% |  |
+| 197 | 5% | 16% |  |
+| 198 | 4% | 11% |  |
+| 199 | 3% | 7% |  |
+| 200 | 2% | 5% |  |
+| 201 | 1.2% | 3% |  |
+| 202 | 0.7% | 2% |  |
+| 203 | 0.4% | 0.8% |  |
+| 204 | 0.2% | 0.4% |  |
+| 205 | 0.1% | 0.2% |  |
 | 206 | 0.1% | 0.1% |  |
-| 207 | 0% | 0.1% |  |
-| 208 | 0% | 0% |  |
+| 207 | 0% | 0% |  |
 
 

@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> AT, BG, DK, EE, FR, HR, IE, IT, LT, NL, PL, RO, SK
+> AT, BG, DK, EE, FR, HR, IE, IT, LT, NL, PL, SK
 
 ## Seats
 
@@ -31,7 +31,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Alianța Liberalilor și Democraților [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,7 +58,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 4% | 85% |  |
 | 6 | 1.4% | 81% |  |
 | 7 | 5% | 79% |  |
-| 8 | 16% | 74% |  |
+| 8 | 17% | 74% |  |
 | 9 | 25% | 58% | Median |
 | 10 | 19% | 33% |  |
 | 11 | 10% | 14% |  |
