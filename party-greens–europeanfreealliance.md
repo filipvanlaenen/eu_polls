@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (-20 seats)
+Current median: **46** seats (-21 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 42–51 | 42–52 | 40–53 |
+| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–51 | 40–53 |
 | Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 16–22 | 16–22 | 16–22 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
@@ -28,11 +28,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.2% | 100% |  |
-| 40 | 0.6% | 99.8% |  |
-| 41 | 2% | 99.2% |  |
-| 42 | 3% | 98% |  |
-| 43 | 6% | 94% |  |
-| 44 | 10% | 88% |  |
-| 45 | 13% | 78% |  |
-| 46 | 15% | 66% |  |
-| 47 | 15% | 51% | Median |
-| 48 | 13% | 37% |  |
-| 49 | 10% | 23% |  |
-| 50 | 7% | 13% |  |
-| 51 | 4% | 7% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.8% | 1.1% |  |
-| 54 | 0.3% | 0.4% |  |
+| 40 | 0.7% | 99.8% |  |
+| 41 | 2% | 99.0% |  |
+| 42 | 4% | 97% |  |
+| 43 | 7% | 93% |  |
+| 44 | 10% | 86% |  |
+| 45 | 13% | 76% |  |
+| 46 | 15% | 63% | Median |
+| 47 | 15% | 48% |  |
+| 48 | 13% | 33% |  |
+| 49 | 9% | 21% |  |
+| 50 | 6% | 11% |  |
+| 51 | 3% | 6% |  |
+| 52 | 1.5% | 2% |  |
+| 53 | 0.6% | 0.8% |  |
+| 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |

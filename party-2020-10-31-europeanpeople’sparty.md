@@ -18,11 +18,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 192 | 187–198 | 185–199 | 184–201 | 181–203 |
+| European People’s Party | EU | 187 | 192 | 186–197 | 184–199 | 183–200 | 180–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–29 | 24–29 | 22–30 |
-| Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
+| Koalicja Obywatelska | PL | | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
-| Partido Popular | ES | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
+| Partido Popular | ES | | 14 | 11–15 | 11–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
@@ -32,7 +32,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 4 | 4 | 4 | 4 | 4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -60,7 +60,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
-| Koalicja Polska | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Kresťanskodemokratické hnutie | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -79,35 +79,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 178 | 0% | 100% |  |
-| 179 | 0.1% | 99.9% |  |
-| 180 | 0.2% | 99.8% |  |
-| 181 | 0.3% | 99.7% |  |
-| 182 | 0.6% | 99.3% |  |
-| 183 | 1.0% | 98.8% |  |
-| 184 | 2% | 98% |  |
-| 185 | 2% | 96% |  |
-| 186 | 3% | 94% |  |
-| 187 | 4% | 91% | Last Result |
-| 188 | 6% | 86% |  |
-| 189 | 7% | 81% |  |
-| 190 | 8% | 74% |  |
-| 191 | 9% | 66% |  |
-| 192 | 9% | 57% | Median |
-| 193 | 9% | 48% |  |
-| 194 | 9% | 39% |  |
-| 195 | 8% | 30% |  |
-| 196 | 6% | 23% |  |
-| 197 | 5% | 16% |  |
-| 198 | 4% | 11% |  |
-| 199 | 3% | 7% |  |
-| 200 | 2% | 5% |  |
-| 201 | 1.2% | 3% |  |
-| 202 | 0.7% | 2% |  |
-| 203 | 0.4% | 0.8% |  |
-| 204 | 0.2% | 0.4% |  |
-| 205 | 0.1% | 0.2% |  |
-| 206 | 0.1% | 0.1% |  |
+| 177 | 0% | 100% |  |
+| 178 | 0.1% | 99.9% |  |
+| 179 | 0.2% | 99.9% |  |
+| 180 | 0.3% | 99.7% |  |
+| 181 | 0.5% | 99.4% |  |
+| 182 | 0.9% | 98.9% |  |
+| 183 | 1.4% | 98% |  |
+| 184 | 2% | 97% |  |
+| 185 | 3% | 95% |  |
+| 186 | 4% | 92% |  |
+| 187 | 5% | 88% | Last Result |
+| 188 | 6% | 82% |  |
+| 189 | 7% | 76% |  |
+| 190 | 8% | 69% |  |
+| 191 | 9% | 60% |  |
+| 192 | 9% | 51% | Median |
+| 193 | 9% | 42% |  |
+| 194 | 8% | 34% |  |
+| 195 | 7% | 26% |  |
+| 196 | 6% | 19% |  |
+| 197 | 4% | 13% |  |
+| 198 | 3% | 9% |  |
+| 199 | 2% | 6% |  |
+| 200 | 1.5% | 4% |  |
+| 201 | 0.9% | 2% |  |
+| 202 | 0.5% | 1.2% |  |
+| 203 | 0.3% | 0.6% |  |
+| 204 | 0.2% | 0.3% |  |
+| 205 | 0.1% | 0.1% |  |
+| 206 | 0% | 0.1% |  |
 | 207 | 0% | 0% |  |
 
 
