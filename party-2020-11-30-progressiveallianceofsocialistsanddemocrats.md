@@ -18,12 +18,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 128–139 | 126–141 | 125–142 | 123–145 |
-| Partido Socialista Obrero Español | ES | | 17 | 16–20 | 15–20 | 15–20 | 14–20 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 127–138 | 126–140 | 124–141 | 122–144 |
+| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–20 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 12–17 | 12–18 | 12–20 |
+| Partidul Social Democrat | RO | | 10 | 8–12 | 7–12 | 7–12 | 7–13 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| Partidul Social Democrat | RO | | 9 | 7–12 | 7–12 | 7–12 | 7–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Lewica | PL | | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -32,7 +32,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| PRO România | RO | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| PRO România | RO | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -66,34 +66,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 120 | 0.1% | 100% |  |
-| 121 | 0.1% | 99.9% |  |
-| 122 | 0.2% | 99.8% |  |
-| 123 | 0.5% | 99.6% |  |
-| 124 | 0.8% | 99.1% |  |
-| 125 | 1.4% | 98% |  |
-| 126 | 2% | 97% |  |
-| 127 | 3% | 95% |  |
-| 128 | 4% | 92% |  |
-| 129 | 6% | 87% |  |
-| 130 | 7% | 81% |  |
-| 131 | 8% | 74% |  |
-| 132 | 9% | 66% |  |
-| 133 | 9% | 57% | Median |
-| 134 | 9% | 48% |  |
-| 135 | 8% | 39% |  |
-| 136 | 7% | 31% |  |
-| 137 | 6% | 23% |  |
-| 138 | 5% | 17% |  |
-| 139 | 4% | 12% |  |
-| 140 | 3% | 8% |  |
-| 141 | 2% | 5% |  |
-| 142 | 1.3% | 3% |  |
-| 143 | 0.8% | 2% |  |
-| 144 | 0.5% | 1.1% |  |
-| 145 | 0.3% | 0.6% |  |
-| 146 | 0.2% | 0.3% |  |
-| 147 | 0.1% | 0.2% | Last Result |
+| 119 | 0% | 100% |  |
+| 120 | 0.1% | 99.9% |  |
+| 121 | 0.2% | 99.8% |  |
+| 122 | 0.4% | 99.6% |  |
+| 123 | 0.7% | 99.3% |  |
+| 124 | 1.2% | 98.6% |  |
+| 125 | 2% | 97% |  |
+| 126 | 3% | 95% |  |
+| 127 | 4% | 93% |  |
+| 128 | 5% | 88% |  |
+| 129 | 7% | 83% |  |
+| 130 | 8% | 76% |  |
+| 131 | 9% | 69% |  |
+| 132 | 9% | 60% |  |
+| 133 | 9% | 51% | Median |
+| 134 | 9% | 41% |  |
+| 135 | 8% | 33% |  |
+| 136 | 7% | 25% |  |
+| 137 | 5% | 18% |  |
+| 138 | 4% | 13% |  |
+| 139 | 3% | 9% |  |
+| 140 | 2% | 6% |  |
+| 141 | 1.4% | 4% |  |
+| 142 | 0.9% | 2% |  |
+| 143 | 0.6% | 1.3% |  |
+| 144 | 0.3% | 0.8% |  |
+| 145 | 0.2% | 0.4% |  |
+| 146 | 0.1% | 0.2% |  |
+| 147 | 0.1% | 0.1% | Last Result |
 | 148 | 0% | 0.1% |  |
 | 149 | 0% | 0% |  |
 

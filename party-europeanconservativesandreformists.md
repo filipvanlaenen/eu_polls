@@ -45,9 +45,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2020-11-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 11% | 63% |  |
 | 66 | 11% | 52% | Median |
 | 67 | 11% | 40% |  |
-| 68 | 10% | 30% |  |
+| 68 | 10% | 29% |  |
 | 69 | 8% | 20% |  |
 | 70 | 5% | 12% |  |
 | 71 | 3% | 7% |  |
