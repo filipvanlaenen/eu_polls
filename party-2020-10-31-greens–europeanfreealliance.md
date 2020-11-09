@@ -25,7 +25,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -66,8 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 4% | 97% |  |
 | 43 | 7% | 93% |  |
 | 44 | 11% | 86% |  |
-| 45 | 13% | 75% |  |
-| 46 | 15% | 62% | Median |
+| 45 | 14% | 75% |  |
+| 46 | 15% | 61% | Median |
 | 47 | 14% | 47% |  |
 | 48 | 12% | 32% |  |
 | 49 | 9% | 20% |  |

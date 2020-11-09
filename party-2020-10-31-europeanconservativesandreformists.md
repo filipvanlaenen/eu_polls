@@ -20,7 +20,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 66 | 61–70 | 60–71 | 59–72 | 57–74 |
 | Zjednoczona Prawica | PL | | 19 | 15–22 | 14–23 | 14–23 | 13–24 |
-| Fratelli d’Italia | IT | | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Fratelli d’Italia | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2 | 2 | 2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
-| Forum voor Democratie | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Forum voor Democratie | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -54,18 +54,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0.1% | 100% |  |
 | 56 | 0.2% | 99.9% |  |
 | 57 | 0.5% | 99.7% |  |
-| 58 | 1.1% | 99.2% |  |
+| 58 | 1.2% | 99.1% |  |
 | 59 | 2% | 98% |  |
-| 60 | 3% | 96% |  |
-| 61 | 5% | 93% | Last Result |
-| 62 | 7% | 88% |  |
-| 63 | 8% | 81% |  |
-| 64 | 10% | 73% |  |
-| 65 | 11% | 63% |  |
-| 66 | 11% | 52% | Median |
-| 67 | 11% | 40% |  |
-| 68 | 10% | 30% |  |
-| 69 | 8% | 20% |  |
+| 60 | 4% | 96% |  |
+| 61 | 5% | 92% | Last Result |
+| 62 | 7% | 87% |  |
+| 63 | 8% | 80% |  |
+| 64 | 10% | 72% |  |
+| 65 | 11% | 62% |  |
+| 66 | 11% | 51% | Median |
+| 67 | 11% | 39% |  |
+| 68 | 9% | 29% |  |
+| 69 | 7% | 19% |  |
 | 70 | 5% | 12% |  |
 | 71 | 3% | 7% |  |
 | 72 | 2% | 4% |  |
