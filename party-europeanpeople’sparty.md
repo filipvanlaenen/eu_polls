@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **192** seats (+5 seats)
+Current median: **193** seats (+6 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 192 | 187–198 | 185–200 | 184–201 | 181–204 |
+| European People’s Party | EU | 187 | 193 | 187–198 | 185–200 | 184–201 | 181–204 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–29 | 24–29 | 22–30 |
 | Koalicja Obywatelska | PL | | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
@@ -28,11 +28,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
+| Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 3–8 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 4 | 4 | 4 | 4 | 4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -73,40 +73,40 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-11-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2020-11-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 178 | 0.1% | 100% |  |
+| 178 | 0% | 100% |  |
 | 179 | 0.1% | 99.9% |  |
 | 180 | 0.2% | 99.8% |  |
-| 181 | 0.4% | 99.6% |  |
+| 181 | 0.3% | 99.6% |  |
 | 182 | 0.6% | 99.3% |  |
-| 183 | 1.0% | 98.6% |  |
-| 184 | 2% | 98% |  |
+| 183 | 0.9% | 98.8% |  |
+| 184 | 1.4% | 98% |  |
 | 185 | 2% | 96% |  |
 | 186 | 3% | 94% |  |
 | 187 | 4% | 91% | Last Result |
-| 188 | 5% | 86% |  |
-| 189 | 7% | 81% |  |
-| 190 | 8% | 74% |  |
-| 191 | 8% | 66% |  |
-| 192 | 9% | 58% | Median |
-| 193 | 9% | 49% |  |
-| 194 | 8% | 40% |  |
-| 195 | 8% | 32% |  |
-| 196 | 7% | 24% |  |
-| 197 | 5% | 18% |  |
-| 198 | 4% | 12% |  |
-| 199 | 3% | 8% |  |
-| 200 | 2% | 5% |  |
-| 201 | 1.4% | 3% |  |
-| 202 | 0.8% | 2% |  |
-| 203 | 0.5% | 1.0% |  |
-| 204 | 0.3% | 0.5% |  |
-| 205 | 0.1% | 0.3% |  |
+| 188 | 5% | 87% |  |
+| 189 | 6% | 82% |  |
+| 190 | 8% | 75% |  |
+| 191 | 8% | 68% |  |
+| 192 | 9% | 60% |  |
+| 193 | 9% | 51% | Median |
+| 194 | 9% | 42% |  |
+| 195 | 8% | 33% |  |
+| 196 | 7% | 26% |  |
+| 197 | 6% | 19% |  |
+| 198 | 4% | 13% |  |
+| 199 | 3% | 9% |  |
+| 200 | 2% | 6% |  |
+| 201 | 1.5% | 4% |  |
+| 202 | 0.9% | 2% |  |
+| 203 | 0.5% | 1.2% |  |
+| 204 | 0.3% | 0.6% |  |
+| 205 | 0.2% | 0.3% |  |
 | 206 | 0.1% | 0.1% |  |
 | 207 | 0% | 0.1% |  |
 | 208 | 0% | 0% |  |

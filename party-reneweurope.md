@@ -18,15 +18,15 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–97 | 87–98 | 86–99 | 84–101 |
+| Renew Europe | EU | 98 | 92 | 88–96 | 87–98 | 86–99 | 84–101 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
 | Freie Demokratische Partei | DE | | 6 | 4–7 | 4–8 | 4–8 | 4–9 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Laisvės partija | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -71,31 +71,31 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2020-11-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0% | 100% |  |
 | 82 | 0.1% | 99.9% |  |
 | 83 | 0.3% | 99.8% |  |
-| 84 | 0.6% | 99.6% |  |
-| 85 | 1.3% | 98.9% |  |
+| 84 | 0.7% | 99.6% |  |
+| 85 | 1.4% | 98.9% |  |
 | 86 | 2% | 98% |  |
 | 87 | 4% | 95% |  |
 | 88 | 6% | 91% |  |
 | 89 | 8% | 85% |  |
 | 90 | 10% | 77% |  |
 | 91 | 11% | 67% |  |
-| 92 | 12% | 56% | Median |
+| 92 | 12% | 55% | Median |
 | 93 | 11% | 44% |  |
-| 94 | 10% | 33% |  |
-| 95 | 8% | 24% |  |
+| 94 | 9% | 33% |  |
+| 95 | 8% | 23% |  |
 | 96 | 6% | 16% |  |
 | 97 | 4% | 10% |  |
 | 98 | 3% | 6% | Last Result |
-| 99 | 2% | 4% |  |
+| 99 | 2% | 3% |  |
 | 100 | 0.9% | 2% |  |
 | 101 | 0.5% | 0.9% |  |
 | 102 | 0.2% | 0.4% |  |
