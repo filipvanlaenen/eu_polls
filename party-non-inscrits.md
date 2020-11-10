@@ -37,26 +37,26 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-11-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.2% | 100% |  |
 | 17 | 0.4% | 99.8% |  |
-| 18 | 1.0% | 99.3% |  |
+| 18 | 1.1% | 99.3% |  |
 | 19 | 3% | 98% |  |
 | 20 | 7% | 96% |  |
 | 21 | 13% | 89% |  |
-| 22 | 19% | 76% |  |
+| 22 | 18% | 76% |  |
 | 23 | 20% | 58% | Median |
-| 24 | 17% | 37% |  |
-| 25 | 11% | 20% |  |
-| 26 | 6% | 9% |  |
-| 27 | 2% | 3% |  |
-| 28 | 0.7% | 0.9% |  |
-| 29 | 0.2% | 0.2% | Last Result |
+| 24 | 17% | 38% |  |
+| 25 | 11% | 21% |  |
+| 26 | 6% | 10% |  |
+| 27 | 2% | 4% |  |
+| 28 | 0.8% | 1.1% |  |
+| 29 | 0.2% | 0.3% | Last Result |
 | 30 | 0% | 0% |  |
 
 
