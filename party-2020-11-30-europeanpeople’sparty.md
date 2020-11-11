@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **193** seats (+6 seats)
+Current median: **192** seats (+5 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 193 | 187–198 | 185–200 | 184–201 | 181–204 |
-| Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–29 | 24–29 | 22–30 |
+| European People’s Party | EU | 187 | 192 | 187–198 | 185–200 | 184–201 | 181–204 |
+| Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–28 | 24–29 | 22–30 |
 | Koalicja Obywatelska | PL | | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
 | Partido Popular | ES | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Forza Italia | IT | | 6 | 5–7 | 4–8 | 4–8 | 3–8 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -38,7 +38,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Δημοκρατικός Συναγερμός | CY | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partidul Mișcarea Populară | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -82,31 +82,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 178 | 0% | 100% |  |
 | 179 | 0.1% | 99.9% |  |
 | 180 | 0.2% | 99.8% |  |
-| 181 | 0.3% | 99.6% |  |
+| 181 | 0.3% | 99.7% |  |
 | 182 | 0.6% | 99.3% |  |
 | 183 | 0.9% | 98.8% |  |
-| 184 | 1.4% | 98% |  |
+| 184 | 1.5% | 98% |  |
 | 185 | 2% | 96% |  |
 | 186 | 3% | 94% |  |
 | 187 | 4% | 91% | Last Result |
 | 188 | 5% | 87% |  |
-| 189 | 6% | 82% |  |
+| 189 | 7% | 82% |  |
 | 190 | 8% | 75% |  |
-| 191 | 8% | 68% |  |
-| 192 | 9% | 60% |  |
-| 193 | 9% | 51% | Median |
-| 194 | 9% | 42% |  |
-| 195 | 8% | 33% |  |
-| 196 | 7% | 26% |  |
-| 197 | 6% | 19% |  |
+| 191 | 8% | 67% |  |
+| 192 | 9% | 59% | Median |
+| 193 | 9% | 50% |  |
+| 194 | 9% | 41% |  |
+| 195 | 8% | 32% |  |
+| 196 | 7% | 25% |  |
+| 197 | 5% | 18% |  |
 | 198 | 4% | 13% |  |
 | 199 | 3% | 9% |  |
-| 200 | 2% | 6% |  |
-| 201 | 1.5% | 4% |  |
+| 200 | 2% | 5% |  |
+| 201 | 1.4% | 3% |  |
 | 202 | 0.9% | 2% |  |
-| 203 | 0.5% | 1.2% |  |
+| 203 | 0.5% | 1.1% |  |
 | 204 | 0.3% | 0.6% |  |
-| 205 | 0.2% | 0.3% |  |
+| 205 | 0.1% | 0.3% |  |
 | 206 | 0.1% | 0.1% |  |
 | 207 | 0% | 0.1% |  |
 | 208 | 0% | 0% |  |
