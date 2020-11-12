@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **11 countries**:
 
-> BG, CY, CZ, ES, FI, GR, HR, HU, IT, PL, SI, SK
+> CY, CZ, ES, FI, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 23 | 20–25 | 20–26 | 19–27 | 17–28 |
+| Non-Inscrits | EU | 29 | 23 | 20–25 | 19–26 | 19–27 | 17–28 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
 | Konfederacja | PL | | 4 | 3–6 | 3–6 | 2–6 | 0–7 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -33,7 +33,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -43,20 +42,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0% | 100% |  |
+| 15 | 0.1% | 100% |  |
 | 16 | 0.2% | 99.9% |  |
-| 17 | 0.5% | 99.8% |  |
-| 18 | 1.1% | 99.3% |  |
+| 17 | 0.5% | 99.7% |  |
+| 18 | 1.2% | 99.2% |  |
 | 19 | 3% | 98% |  |
-| 20 | 7% | 95% |  |
-| 21 | 13% | 88% |  |
-| 22 | 19% | 75% |  |
-| 23 | 20% | 56% | Median |
-| 24 | 17% | 36% |  |
-| 25 | 11% | 19% |  |
-| 26 | 5% | 9% |  |
+| 20 | 8% | 95% |  |
+| 21 | 14% | 87% |  |
+| 22 | 19% | 73% |  |
+| 23 | 20% | 54% | Median |
+| 24 | 16% | 34% |  |
+| 25 | 10% | 18% |  |
+| 26 | 5% | 8% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.7% | 0.9% |  |
+| 28 | 0.6% | 0.8% |  |
 | 29 | 0.2% | 0.2% | Last Result |
 | 30 | 0% | 0% |  |
 

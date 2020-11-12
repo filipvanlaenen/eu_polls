@@ -21,7 +21,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 0 | 11 | 4–14 | 3–15 | 2–15 | 2–16 |
 | Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -38,31 +38,31 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-11-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2020-11-30.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 3% | 99.5% |  |
-| 3 | 4% | 97% |  |
-| 4 | 8% | 93% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 2% | 99.8% |  |
+| 3 | 3% | 97% |  |
+| 4 | 9% | 94% |  |
 | 5 | 4% | 85% |  |
-| 6 | 1.2% | 81% |  |
-| 7 | 2% | 79% |  |
-| 8 | 4% | 77% |  |
-| 9 | 9% | 73% |  |
-| 10 | 10% | 64% |  |
-| 11 | 12% | 53% | Median |
-| 12 | 12% | 42% |  |
-| 13 | 12% | 30% |  |
-| 14 | 10% | 18% |  |
+| 6 | 1.0% | 81% |  |
+| 7 | 2% | 80% |  |
+| 8 | 4% | 78% |  |
+| 9 | 9% | 74% |  |
+| 10 | 10% | 65% |  |
+| 11 | 12% | 55% | Median |
+| 12 | 12% | 43% |  |
+| 13 | 12% | 31% |  |
+| 14 | 11% | 19% |  |
 | 15 | 6% | 8% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.3% | 0.4% |  |
