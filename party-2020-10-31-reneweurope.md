@@ -35,18 +35,18 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Движение за права и свободи | BG | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Laisvės partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -55,7 +55,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | DéFI | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Iniciativa Liberal | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Iniciativa Liberal | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -77,26 +77,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0% | 100% |  |
-| 82 | 0.1% | 99.9% |  |
-| 83 | 0.3% | 99.8% |  |
+| 82 | 0.1% | 100% |  |
+| 83 | 0.2% | 99.9% |  |
 | 84 | 0.6% | 99.6% |  |
-| 85 | 1.3% | 98.9% |  |
+| 85 | 1.2% | 99.1% |  |
 | 86 | 2% | 98% |  |
-| 87 | 4% | 95% |  |
-| 88 | 6% | 91% |  |
-| 89 | 8% | 85% |  |
-| 90 | 10% | 77% |  |
-| 91 | 11% | 67% |  |
-| 92 | 12% | 56% | Median |
-| 93 | 11% | 44% |  |
-| 94 | 10% | 33% |  |
+| 87 | 4% | 96% |  |
+| 88 | 6% | 92% |  |
+| 89 | 8% | 86% |  |
+| 90 | 10% | 78% |  |
+| 91 | 11% | 68% |  |
+| 92 | 12% | 57% | Median |
+| 93 | 11% | 45% |  |
+| 94 | 10% | 34% |  |
 | 95 | 8% | 24% |  |
 | 96 | 6% | 16% |  |
 | 97 | 4% | 10% |  |
 | 98 | 3% | 6% | Last Result |
 | 99 | 2% | 4% |  |
-| 100 | 0.9% | 2% |  |
+| 100 | 1.0% | 2% |  |
 | 101 | 0.5% | 0.9% |  |
 | 102 | 0.2% | 0.4% |  |
 | 103 | 0.1% | 0.2% |  |

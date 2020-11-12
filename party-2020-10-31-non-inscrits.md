@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **11 countries**:
 
-> BG, CY, CZ, ES, FI, GR, HR, HU, IT, PL, SI, SK
+> CY, CZ, ES, FI, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -33,7 +33,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -43,20 +42,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.2% | 100% |  |
-| 17 | 0.4% | 99.8% |  |
-| 18 | 1.1% | 99.3% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 0.2% | 99.9% |  |
+| 17 | 0.5% | 99.8% |  |
+| 18 | 1.2% | 99.3% |  |
 | 19 | 3% | 98% |  |
-| 20 | 7% | 96% |  |
-| 21 | 13% | 89% |  |
-| 22 | 18% | 76% |  |
-| 23 | 20% | 58% | Median |
-| 24 | 17% | 38% |  |
-| 25 | 11% | 21% |  |
-| 26 | 6% | 10% |  |
-| 27 | 2% | 4% |  |
-| 28 | 0.8% | 1.1% |  |
-| 29 | 0.2% | 0.3% | Last Result |
+| 20 | 7% | 95% |  |
+| 21 | 13% | 88% |  |
+| 22 | 19% | 74% |  |
+| 23 | 20% | 56% | Median |
+| 24 | 16% | 36% |  |
+| 25 | 11% | 20% |  |
+| 26 | 6% | 9% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.7% | 1.0% |  |
+| 29 | 0.2% | 0.2% | Last Result |
 | 30 | 0% | 0% |  |
 
 
