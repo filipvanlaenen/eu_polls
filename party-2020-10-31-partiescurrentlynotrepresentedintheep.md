@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **11** seats (+11 seats)
+Current median: **10** seats (+10 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 11 | 4–14 | 3–15 | 2–15 | 2–16 |
-| Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 5–14 | 4–14 | 3–15 | 2–16 |
+| Polska 2050 [PL] (*) | PL | | 7 | 4–10 | 4–10 | 4–11 | 3–11 |
 | Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -49,23 +49,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 3% | 99.5% |  |
-| 3 | 4% | 97% |  |
-| 4 | 8% | 93% |  |
-| 5 | 4% | 85% |  |
-| 6 | 1.2% | 81% |  |
-| 7 | 2% | 79% |  |
-| 8 | 4% | 77% |  |
-| 9 | 9% | 73% |  |
-| 10 | 10% | 64% |  |
-| 11 | 12% | 53% | Median |
-| 12 | 12% | 42% |  |
-| 13 | 12% | 30% |  |
-| 14 | 10% | 18% |  |
-| 15 | 6% | 8% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.3% | 0.4% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 2% | 99.7% |  |
+| 3 | 2% | 98% |  |
+| 4 | 5% | 96% |  |
+| 5 | 3% | 90% |  |
+| 6 | 2% | 88% |  |
+| 7 | 4% | 85% |  |
+| 8 | 8% | 81% |  |
+| 9 | 12% | 73% |  |
+| 10 | 13% | 62% | Median |
+| 11 | 15% | 49% |  |
+| 12 | 15% | 35% |  |
+| 13 | 10% | 20% |  |
+| 14 | 6% | 10% |  |
+| 15 | 3% | 5% |  |
+| 16 | 1.1% | 1.3% |  |
+| 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
 

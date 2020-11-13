@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **23** seats (-6 seats)
+Current median: **22** seats (-7 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 23 | 20–25 | 20–26 | 19–27 | 17–28 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
-| Konfederacja | PL | | 4 | 3–6 | 3–6 | 2–6 | 0–7 |
+| Non-Inscrits | EU | 29 | 22 | 18–25 | 17–26 | 17–27 | 16–28 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
+| Konfederacja | PL | | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -42,20 +42,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.2% | 99.9% |  |
-| 17 | 0.5% | 99.8% |  |
-| 18 | 1.2% | 99.3% |  |
-| 19 | 3% | 98% |  |
-| 20 | 7% | 95% |  |
-| 21 | 13% | 88% |  |
-| 22 | 19% | 74% |  |
-| 23 | 20% | 56% | Median |
-| 24 | 16% | 36% |  |
-| 25 | 11% | 20% |  |
-| 26 | 6% | 9% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.4% | 99.9% |  |
+| 16 | 1.4% | 99.5% |  |
+| 17 | 3% | 98% |  |
+| 18 | 5% | 95% |  |
+| 19 | 7% | 90% |  |
+| 20 | 9% | 83% |  |
+| 21 | 13% | 74% |  |
+| 22 | 16% | 62% | Median |
+| 23 | 16% | 46% |  |
+| 24 | 13% | 29% |  |
+| 25 | 9% | 16% |  |
+| 26 | 5% | 7% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.7% | 1.0% |  |
+| 28 | 0.7% | 0.9% |  |
 | 29 | 0.2% | 0.2% | Last Result |
 | 30 | 0% | 0% |  |
 
