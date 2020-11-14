@@ -24,12 +24,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 12–17 | 12–17 | 12–19 |
 | Partidul Social Democrat | RO | | 10 | 8–12 | 7–12 | 7–12 | 7–13 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Lewica | PL | | 4 | 3–7 | 3–8 | 3–8 | 0–9 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Българска социалистическа партия | BG | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Българска социалистическа партия | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | PRO România | RO | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 120 | 0.2% | 99.9% |  |
 | 121 | 0.3% | 99.7% |  |
 | 122 | 0.6% | 99.4% |  |
-| 123 | 1.1% | 98.8% |  |
+| 123 | 1.0% | 98.8% |  |
 | 124 | 2% | 98% |  |
 | 125 | 3% | 96% |  |
 | 126 | 4% | 93% |  |
@@ -84,14 +84,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 8% | 35% |  |
 | 135 | 7% | 27% |  |
 | 136 | 6% | 20% |  |
-| 137 | 4% | 15% |  |
+| 137 | 4% | 14% |  |
 | 138 | 3% | 10% |  |
 | 139 | 2% | 7% |  |
-| 140 | 2% | 5% |  |
+| 140 | 2% | 4% |  |
 | 141 | 1.1% | 3% |  |
 | 142 | 0.7% | 2% |  |
 | 143 | 0.4% | 1.0% |  |
-| 144 | 0.3% | 0.6% |  |
+| 144 | 0.2% | 0.5% |  |
 | 145 | 0.1% | 0.3% |  |
 | 146 | 0.1% | 0.2% |  |
 | 147 | 0% | 0.1% | Last Result |

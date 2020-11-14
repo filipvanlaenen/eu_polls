@@ -23,8 +23,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -32,7 +32,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -45,16 +45,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 0.3% | 99.9% |  |
 | 16 | 1.1% | 99.6% |  |
-| 17 | 3% | 98% |  |
+| 17 | 2% | 98.5% |  |
 | 18 | 4% | 96% |  |
-| 19 | 6% | 92% |  |
-| 20 | 10% | 85% |  |
-| 21 | 14% | 76% |  |
-| 22 | 18% | 61% | Median |
-| 23 | 17% | 44% |  |
-| 24 | 13% | 26% |  |
-| 25 | 8% | 13% |  |
-| 26 | 4% | 5% |  |
+| 19 | 7% | 92% |  |
+| 20 | 11% | 85% |  |
+| 21 | 15% | 74% |  |
+| 22 | 18% | 59% | Median |
+| 23 | 17% | 42% |  |
+| 24 | 12% | 25% |  |
+| 25 | 7% | 13% |  |
+| 26 | 3% | 5% |  |
 | 27 | 1.3% | 2% |  |
 | 28 | 0.4% | 0.5% |  |
 | 29 | 0.1% | 0.1% | Last Result |
