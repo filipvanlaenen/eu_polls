@@ -18,9 +18,9 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 22 | 19–25 | 18–26 | 17–26 | 16–27 |
+| Non-Inscrits | EU | 29 | 22 | 19–25 | 17–26 | 17–27 | 16–28 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
-| Konfederacja | PL | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Konfederacja | PL | | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -36,28 +36,28 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-11-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2020-10-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
-| 15 | 0.3% | 99.9% |  |
-| 16 | 1.1% | 99.6% |  |
+| 15 | 0.4% | 99.9% |  |
+| 16 | 1.4% | 99.5% |  |
 | 17 | 3% | 98% |  |
-| 18 | 4% | 96% |  |
-| 19 | 6% | 92% |  |
-| 20 | 10% | 85% |  |
-| 21 | 14% | 76% |  |
-| 22 | 18% | 61% | Median |
-| 23 | 17% | 44% |  |
-| 24 | 13% | 26% |  |
-| 25 | 8% | 13% |  |
-| 26 | 4% | 5% |  |
-| 27 | 1.3% | 2% |  |
-| 28 | 0.4% | 0.5% |  |
-| 29 | 0.1% | 0.1% | Last Result |
+| 18 | 5% | 95% |  |
+| 19 | 7% | 90% |  |
+| 20 | 9% | 83% |  |
+| 21 | 13% | 74% |  |
+| 22 | 16% | 62% | Median |
+| 23 | 16% | 46% |  |
+| 24 | 13% | 30% |  |
+| 25 | 9% | 16% |  |
+| 26 | 5% | 8% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.7% | 0.9% |  |
+| 29 | 0.2% | 0.2% | Last Result |
 | 30 | 0% | 0% |  |
 
 
