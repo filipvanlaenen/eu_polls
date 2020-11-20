@@ -20,7 +20,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 54 | 51–57 | 50–58 | 49–58 | 48–60 |
 | La France insoumise | FR | | 10 | 10 | 10 | 10 | 9–10 |
-| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| Die Linke | DE | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Sinn Féin | IE | | 6 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -68,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 2% | 98.9% |  |
 | 50 | 4% | 97% |  |
 | 51 | 8% | 93% |  |
-| 52 | 12% | 84% |  |
+| 52 | 12% | 85% |  |
 | 53 | 16% | 72% |  |
 | 54 | 17% | 56% | Median |
-| 55 | 15% | 39% |  |
-| 56 | 11% | 23% |  |
+| 55 | 16% | 39% |  |
+| 56 | 11% | 24% |  |
 | 57 | 7% | 12% |  |
 | 58 | 3% | 5% |  |
 | 59 | 1.4% | 2% |  |
-| 60 | 0.5% | 0.6% |  |
+| 60 | 0.4% | 0.6% |  |
 | 61 | 0.1% | 0.2% |  |
 | 62 | 0% | 0% |  |
 

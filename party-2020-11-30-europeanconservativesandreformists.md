@@ -21,11 +21,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 61 | 66 | 62–70 | 61–71 | 60–72 | 59–74 |
 | Zjednoczona Prawica | PL | | 18 | 16–21 | 15–22 | 15–22 | 15–23 |
 | Fratelli d’Italia | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
-| Vox | ES | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| Vox | ES | | 9 | 8–11 | 8–11 | 8–11 | 7–13 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–4 | 2–4 |
-| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Forum voor Democratie | NL | | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -51,24 +51,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.7% | 99.7% |  |
-| 60 | 2% | 99.0% |  |
-| 61 | 3% | 97% | Last Result |
-| 62 | 6% | 94% |  |
-| 63 | 9% | 88% |  |
-| 64 | 11% | 79% |  |
-| 65 | 13% | 68% |  |
-| 66 | 13% | 55% | Median |
-| 67 | 12% | 42% |  |
-| 68 | 10% | 30% |  |
-| 69 | 8% | 20% |  |
-| 70 | 5% | 13% |  |
-| 71 | 3% | 7% |  |
-| 72 | 2% | 4% |  |
-| 73 | 1.0% | 2% |  |
-| 74 | 0.5% | 0.8% |  |
-| 75 | 0.2% | 0.3% |  |
+| 58 | 0.3% | 99.9% |  |
+| 59 | 0.9% | 99.5% |  |
+| 60 | 2% | 98.7% |  |
+| 61 | 4% | 97% | Last Result |
+| 62 | 7% | 93% |  |
+| 63 | 9% | 86% |  |
+| 64 | 12% | 77% |  |
+| 65 | 13% | 65% |  |
+| 66 | 13% | 52% | Median |
+| 67 | 12% | 39% |  |
+| 68 | 9% | 28% |  |
+| 69 | 7% | 18% |  |
+| 70 | 5% | 11% |  |
+| 71 | 3% | 6% |  |
+| 72 | 2% | 3% |  |
+| 73 | 0.9% | 1.5% |  |
+| 74 | 0.4% | 0.6% |  |
+| 75 | 0.2% | 0.2% |  |
 | 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 
