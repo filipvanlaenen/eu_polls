@@ -8,20 +8,20 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **91** seats (-7 seats)
 
-At least one member in **21 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HU, IE, LT, LU, LV, NL, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, LT, LU, LV, NL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–96 | 87–98 | 86–99 | 84–101 |
+| Renew Europe | EU | 98 | 91 | 87–96 | 86–97 | 85–98 | 83–100 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
-| ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
+| ANO 2011 | CZ | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
 | Freie Demokratische Partei | DE | | 6 | 4–7 | 4–8 | 4–8 | 4–9 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
@@ -48,7 +48,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Δημοκρατική Παράταξη | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -67,7 +66,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Συμμαχία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
+| Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -77,29 +76,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0.1% | 100% |  |
-| 83 | 0.3% | 99.9% |  |
-| 84 | 0.6% | 99.6% |  |
-| 85 | 1.3% | 99.0% |  |
-| 86 | 2% | 98% |  |
-| 87 | 4% | 95% |  |
-| 88 | 6% | 91% |  |
-| 89 | 8% | 85% |  |
-| 90 | 10% | 77% |  |
-| 91 | 11% | 67% |  |
-| 92 | 12% | 55% | Median |
-| 93 | 11% | 44% |  |
-| 94 | 10% | 32% |  |
-| 95 | 8% | 23% |  |
-| 96 | 6% | 15% |  |
-| 97 | 4% | 10% |  |
-| 98 | 3% | 6% | Last Result |
-| 99 | 2% | 3% |  |
-| 100 | 0.9% | 2% |  |
-| 101 | 0.5% | 0.8% |  |
-| 102 | 0.2% | 0.4% |  |
-| 103 | 0.1% | 0.1% |  |
-| 104 | 0% | 0.1% |  |
-| 105 | 0% | 0% |  |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.4% | 99.8% |  |
+| 84 | 0.9% | 99.4% |  |
+| 85 | 2% | 98% |  |
+| 86 | 3% | 97% |  |
+| 87 | 5% | 93% |  |
+| 88 | 7% | 88% |  |
+| 89 | 10% | 81% |  |
+| 90 | 11% | 71% |  |
+| 91 | 12% | 60% | Median |
+| 92 | 12% | 48% |  |
+| 93 | 10% | 36% |  |
+| 94 | 8% | 26% |  |
+| 95 | 6% | 18% |  |
+| 96 | 4% | 11% |  |
+| 97 | 3% | 7% |  |
+| 98 | 2% | 4% | Last Result |
+| 99 | 1.1% | 2% |  |
+| 100 | 0.6% | 1.0% |  |
+| 101 | 0.3% | 0.5% |  |
+| 102 | 0.1% | 0.2% |  |
+| 103 | 0% | 0.1% |  |
+| 104 | 0% | 0% |  |
 
 

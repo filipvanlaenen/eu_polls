@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 191 | 185–198 | 183–199 | 182–201 | 179–204 |
+| European People’s Party | EU | 187 | 191 | 184–197 | 183–199 | 181–200 | 178–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–28 | 24–29 | 22–29 |
 | Koalicja Obywatelska | PL | | 14 | 10–17 | 10–18 | 9–18 | 9–19 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
@@ -39,10 +39,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| Δημοκρατικός Συναγερμός | CY | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partidul Mișcarea Populară | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Starostové a nezávislí | CZ | | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -51,8 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
-| TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| TOP 09 | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -81,36 +81,36 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 175 | 0% | 100% |  |
 | 176 | 0.1% | 99.9% |  |
-| 177 | 0.1% | 99.9% |  |
-| 178 | 0.2% | 99.8% |  |
-| 179 | 0.4% | 99.5% |  |
-| 180 | 0.6% | 99.2% |  |
-| 181 | 0.9% | 98.6% |  |
-| 182 | 1.4% | 98% |  |
-| 183 | 2% | 96% |  |
-| 184 | 3% | 94% |  |
-| 185 | 4% | 92% |  |
-| 186 | 5% | 88% |  |
-| 187 | 6% | 83% | Last Result |
-| 188 | 6% | 78% |  |
-| 189 | 7% | 71% |  |
-| 190 | 8% | 64% |  |
-| 191 | 8% | 56% | Median |
-| 192 | 8% | 48% |  |
-| 193 | 8% | 40% |  |
-| 194 | 7% | 33% |  |
-| 195 | 6% | 26% |  |
-| 196 | 5% | 20% |  |
-| 197 | 4% | 14% |  |
-| 198 | 3% | 10% |  |
-| 199 | 2% | 7% |  |
-| 200 | 2% | 5% |  |
-| 201 | 1.2% | 3% |  |
-| 202 | 0.8% | 2% |  |
-| 203 | 0.5% | 1.1% |  |
-| 204 | 0.3% | 0.6% |  |
-| 205 | 0.2% | 0.3% |  |
-| 206 | 0.1% | 0.2% |  |
+| 177 | 0.2% | 99.8% |  |
+| 178 | 0.3% | 99.7% |  |
+| 179 | 0.5% | 99.4% |  |
+| 180 | 0.7% | 98.9% |  |
+| 181 | 1.1% | 98% |  |
+| 182 | 2% | 97% |  |
+| 183 | 2% | 95% |  |
+| 184 | 3% | 93% |  |
+| 185 | 4% | 90% |  |
+| 186 | 5% | 86% |  |
+| 187 | 6% | 81% | Last Result |
+| 188 | 7% | 75% |  |
+| 189 | 8% | 68% |  |
+| 190 | 8% | 60% |  |
+| 191 | 8% | 52% | Median |
+| 192 | 8% | 44% |  |
+| 193 | 7% | 36% |  |
+| 194 | 7% | 29% |  |
+| 195 | 6% | 22% |  |
+| 196 | 5% | 17% |  |
+| 197 | 4% | 12% |  |
+| 198 | 3% | 8% |  |
+| 199 | 2% | 6% |  |
+| 200 | 1.4% | 4% |  |
+| 201 | 0.9% | 2% |  |
+| 202 | 0.6% | 1.4% |  |
+| 203 | 0.4% | 0.8% |  |
+| 204 | 0.2% | 0.4% |  |
+| 205 | 0.1% | 0.2% |  |
+| 206 | 0.1% | 0.1% |  |
 | 207 | 0% | 0.1% |  |
 | 208 | 0% | 0% |  |
 
