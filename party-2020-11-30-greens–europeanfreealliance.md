@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (-21 seats)
+Current median: **47** seats (-20 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–52 | 40–54 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 42–51 | 41–52 | 40–54 |
 | Bündnis 90/Die Grünen | DE | | 18 | 17–20 | 16–22 | 16–22 | 15–22 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
@@ -29,7 +29,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -43,7 +43,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,25 +60,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 0.8% | 99.7% |  |
-| 41 | 2% | 98.8% |  |
+| 39 | 0.2% | 100% |  |
+| 40 | 0.6% | 99.8% |  |
+| 41 | 2% | 99.1% |  |
 | 42 | 4% | 97% |  |
-| 43 | 7% | 93% |  |
-| 44 | 10% | 86% |  |
-| 45 | 13% | 75% |  |
-| 46 | 14% | 63% | Median |
-| 47 | 14% | 49% |  |
-| 48 | 12% | 35% |  |
-| 49 | 9% | 23% |  |
-| 50 | 6% | 14% |  |
-| 51 | 4% | 7% |  |
+| 43 | 7% | 94% |  |
+| 44 | 10% | 87% |  |
+| 45 | 12% | 77% |  |
+| 46 | 14% | 65% |  |
+| 47 | 14% | 51% | Median |
+| 48 | 12% | 37% |  |
+| 49 | 10% | 25% |  |
+| 50 | 7% | 15% |  |
+| 51 | 4% | 9% |  |
 | 52 | 2% | 4% |  |
-| 53 | 1.0% | 2% |  |
-| 54 | 0.4% | 0.6% |  |
-| 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 53 | 1.2% | 2% |  |
+| 54 | 0.5% | 0.8% |  |
+| 55 | 0.2% | 0.3% |  |
+| 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
