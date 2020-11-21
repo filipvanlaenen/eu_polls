@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 125–140 | 124–141 | 122–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 125–139 | 124–141 | 121–144 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–20 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–17 | 12–17 | 12–19 |
@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Българска социалистическа партия | BG | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| Demokratikus Koalíció | HU | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | PRO România | RO | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -65,33 +65,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 119 | 0% | 100% |  |
+| 119 | 0.1% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
-| 121 | 0.2% | 99.8% |  |
-| 122 | 0.5% | 99.6% |  |
-| 123 | 0.8% | 99.1% |  |
-| 124 | 1.4% | 98% |  |
+| 121 | 0.3% | 99.8% |  |
+| 122 | 0.5% | 99.5% |  |
+| 123 | 0.9% | 99.0% |  |
+| 124 | 2% | 98% |  |
 | 125 | 2% | 97% |  |
-| 126 | 3% | 95% |  |
+| 126 | 3% | 94% |  |
 | 127 | 5% | 91% |  |
-| 128 | 6% | 87% |  |
-| 129 | 7% | 81% |  |
-| 130 | 8% | 74% |  |
-| 131 | 9% | 66% |  |
-| 132 | 9% | 57% | Median |
-| 133 | 9% | 47% |  |
-| 134 | 8% | 38% |  |
-| 135 | 7% | 30% |  |
-| 136 | 6% | 22% |  |
-| 137 | 5% | 16% |  |
+| 128 | 6% | 86% |  |
+| 129 | 7% | 80% |  |
+| 130 | 8% | 72% |  |
+| 131 | 9% | 64% |  |
+| 132 | 9% | 55% | Median |
+| 133 | 9% | 46% |  |
+| 134 | 8% | 37% |  |
+| 135 | 7% | 28% |  |
+| 136 | 6% | 21% |  |
+| 137 | 5% | 15% |  |
 | 138 | 4% | 11% |  |
-| 139 | 3% | 8% |  |
+| 139 | 3% | 7% |  |
 | 140 | 2% | 5% |  |
 | 141 | 1.2% | 3% |  |
-| 142 | 0.8% | 2% |  |
-| 143 | 0.5% | 1.1% |  |
+| 142 | 0.7% | 2% |  |
+| 143 | 0.4% | 1.0% |  |
 | 144 | 0.3% | 0.6% |  |
-| 145 | 0.2% | 0.3% |  |
+| 145 | 0.1% | 0.3% |  |
 | 146 | 0.1% | 0.2% |  |
 | 147 | 0% | 0.1% | Last Result |
 | 148 | 0% | 0% |  |

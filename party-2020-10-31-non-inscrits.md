@@ -18,15 +18,15 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 22 | 19–25 | 17–26 | 17–27 | 16–28 |
+| Non-Inscrits | EU | 29 | 22 | 18–25 | 17–26 | 17–27 | 15–28 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Konfederacja | PL | | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
-| Jobbik | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Jobbik | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -44,20 +44,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
 | 15 | 0.4% | 99.9% |  |
-| 16 | 1.4% | 99.6% |  |
+| 16 | 2% | 99.5% |  |
 | 17 | 3% | 98% |  |
 | 18 | 5% | 95% |  |
 | 19 | 7% | 90% |  |
-| 20 | 9% | 84% |  |
-| 21 | 13% | 75% |  |
-| 22 | 16% | 62% | Median |
+| 20 | 9% | 83% |  |
+| 21 | 13% | 74% |  |
+| 22 | 16% | 61% | Median |
 | 23 | 16% | 46% |  |
 | 24 | 13% | 30% |  |
 | 25 | 9% | 17% |  |
 | 26 | 5% | 8% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.7% | 0.9% |  |
-| 29 | 0.2% | 0.2% | Last Result |
-| 30 | 0% | 0% |  |
+| 28 | 0.7% | 1.0% |  |
+| 29 | 0.2% | 0.3% | Last Result |
+| 30 | 0% | 0.1% |  |
+| 31 | 0% | 0% |  |
 
 
