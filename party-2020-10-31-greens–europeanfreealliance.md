@@ -43,7 +43,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,19 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.1% | 100% |  |
 | 39 | 0.2% | 99.9% |  |
-| 40 | 0.7% | 99.7% |  |
-| 41 | 2% | 99.0% |  |
+| 40 | 0.8% | 99.7% |  |
+| 41 | 2% | 98.9% |  |
 | 42 | 4% | 97% |  |
 | 43 | 7% | 93% |  |
 | 44 | 11% | 86% |  |
 | 45 | 14% | 75% |  |
-| 46 | 15% | 62% | Median |
-| 47 | 14% | 47% |  |
-| 48 | 12% | 32% |  |
-| 49 | 9% | 20% |  |
-| 50 | 6% | 11% |  |
-| 51 | 3% | 6% |  |
-| 52 | 2% | 2% |  |
+| 46 | 15% | 61% | Median |
+| 47 | 14% | 46% |  |
+| 48 | 12% | 31% |  |
+| 49 | 9% | 19% |  |
+| 50 | 5% | 11% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.5% | 2% |  |
 | 53 | 0.6% | 0.9% |  |
 | 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |

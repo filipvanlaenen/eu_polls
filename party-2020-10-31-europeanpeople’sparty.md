@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **191** seats (+4 seats)
+Current median: **190** seats (+3 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 191 | 184–197 | 182–199 | 181–200 | 178–203 |
+| European People’s Party | EU | 187 | 190 | 184–196 | 182–198 | 181–200 | 178–203 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 24–28 | 24–28 | 24–29 | 22–29 |
 | Koalicja Obywatelska | PL | | 14 | 10–17 | 10–18 | 9–18 | 9–19 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
@@ -48,12 +48,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,38 +79,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 175 | 0.1% | 100% |  |
+| 174 | 0% | 100% |  |
+| 175 | 0.1% | 99.9% |  |
 | 176 | 0.1% | 99.9% |  |
 | 177 | 0.2% | 99.8% |  |
-| 178 | 0.3% | 99.6% |  |
-| 179 | 0.5% | 99.3% |  |
-| 180 | 0.8% | 98.8% |  |
-| 181 | 1.2% | 98% |  |
-| 182 | 2% | 97% |  |
-| 183 | 2% | 95% |  |
-| 184 | 3% | 93% |  |
-| 185 | 4% | 89% |  |
-| 186 | 5% | 85% |  |
-| 187 | 6% | 80% | Last Result |
-| 188 | 7% | 73% |  |
-| 189 | 8% | 66% |  |
-| 190 | 8% | 59% |  |
-| 191 | 8% | 51% | Median |
-| 192 | 8% | 42% |  |
-| 193 | 7% | 35% |  |
-| 194 | 6% | 27% |  |
-| 195 | 5% | 21% |  |
-| 196 | 4% | 16% |  |
-| 197 | 3% | 11% |  |
-| 198 | 3% | 8% |  |
-| 199 | 2% | 5% |  |
-| 200 | 1.3% | 3% |  |
-| 201 | 0.8% | 2% |  |
-| 202 | 0.5% | 1.2% |  |
-| 203 | 0.3% | 0.7% |  |
-| 204 | 0.2% | 0.4% |  |
-| 205 | 0.1% | 0.2% |  |
-| 206 | 0.1% | 0.1% |  |
+| 178 | 0.4% | 99.5% |  |
+| 179 | 0.6% | 99.2% |  |
+| 180 | 0.9% | 98.6% |  |
+| 181 | 1.4% | 98% |  |
+| 182 | 2% | 96% |  |
+| 183 | 3% | 94% |  |
+| 184 | 4% | 91% |  |
+| 185 | 5% | 88% |  |
+| 186 | 6% | 83% |  |
+| 187 | 7% | 77% | Last Result |
+| 188 | 7% | 71% |  |
+| 189 | 8% | 64% |  |
+| 190 | 8% | 56% | Median |
+| 191 | 8% | 47% |  |
+| 192 | 8% | 39% |  |
+| 193 | 7% | 32% |  |
+| 194 | 6% | 25% |  |
+| 195 | 5% | 19% |  |
+| 196 | 4% | 14% |  |
+| 197 | 3% | 10% |  |
+| 198 | 2% | 7% |  |
+| 199 | 2% | 4% |  |
+| 200 | 1.1% | 3% |  |
+| 201 | 0.7% | 2% |  |
+| 202 | 0.4% | 1.0% |  |
+| 203 | 0.3% | 0.5% |  |
+| 204 | 0.1% | 0.3% |  |
+| 205 | 0.1% | 0.1% |  |
+| 206 | 0% | 0.1% |  |
 | 207 | 0% | 0% |  |
 
 
