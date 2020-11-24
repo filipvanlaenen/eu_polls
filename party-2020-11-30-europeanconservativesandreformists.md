@@ -28,17 +28,18 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Forum voor Democratie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Обединени Патриоти | BG | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 
@@ -51,18 +52,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.3% | 99.8% |  |
-| 59 | 0.9% | 99.5% |  |
-| 60 | 2% | 98.6% |  |
+| 58 | 0.3% | 99.9% |  |
+| 59 | 0.8% | 99.5% |  |
+| 60 | 2% | 98.7% |  |
 | 61 | 4% | 97% | Last Result |
 | 62 | 6% | 93% |  |
-| 63 | 9% | 86% |  |
-| 64 | 11% | 77% |  |
+| 63 | 9% | 87% |  |
+| 64 | 11% | 78% |  |
 | 65 | 13% | 66% |  |
-| 66 | 13% | 53% | Median |
-| 67 | 12% | 40% |  |
+| 66 | 13% | 54% | Median |
+| 67 | 12% | 41% |  |
 | 68 | 10% | 29% |  |
-| 69 | 7% | 19% |  |
+| 69 | 7% | 20% |  |
 | 70 | 5% | 12% |  |
 | 71 | 3% | 7% |  |
 | 72 | 2% | 4% |  |
