@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 127–138 | 126–140 | 125–142 | 122–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 128–138 | 126–140 | 125–142 | 122–144 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–20 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–17 | 12–17 | 12–19 |
@@ -34,18 +34,18 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | PRO România | RO | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 3 | 3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 120 | 0.1% | 100% |  |
 | 121 | 0.1% | 99.9% |  |
 | 122 | 0.3% | 99.7% |  |
-| 123 | 0.6% | 99.4% |  |
+| 123 | 0.6% | 99.5% |  |
 | 124 | 1.0% | 98.9% |  |
 | 125 | 2% | 98% |  |
 | 126 | 3% | 96% |  |
@@ -85,10 +85,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 137 | 6% | 20% |  |
 | 138 | 4% | 14% |  |
 | 139 | 3% | 10% |  |
-| 140 | 2% | 7% |  |
+| 140 | 2% | 6% |  |
 | 141 | 2% | 4% |  |
 | 142 | 1.0% | 3% |  |
-| 143 | 0.7% | 2% |  |
+| 143 | 0.6% | 2% |  |
 | 144 | 0.4% | 0.9% |  |
 | 145 | 0.2% | 0.5% |  |
 | 146 | 0.1% | 0.3% |  |

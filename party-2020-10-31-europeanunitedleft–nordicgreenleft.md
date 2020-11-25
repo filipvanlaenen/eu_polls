@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Možemo! | HR | | 1 | 1 | 1 | 1 | 0–1 |
+| Možemo! | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -64,18 +64,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0.1% | 100% |  |
 | 47 | 0.3% | 99.9% |  |
-| 48 | 0.9% | 99.6% |  |
-| 49 | 2% | 98.7% |  |
+| 48 | 0.9% | 99.5% |  |
+| 49 | 2% | 98.6% |  |
 | 50 | 5% | 96% |  |
-| 51 | 8% | 92% |  |
+| 51 | 9% | 92% |  |
 | 52 | 13% | 83% |  |
 | 53 | 17% | 70% |  |
-| 54 | 18% | 54% | Median |
+| 54 | 18% | 53% | Median |
 | 55 | 15% | 36% |  |
 | 56 | 11% | 21% |  |
 | 57 | 6% | 10% |  |
 | 58 | 3% | 4% |  |
-| 59 | 1.0% | 1.5% |  |
+| 59 | 1.0% | 1.4% |  |
 | 60 | 0.3% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
