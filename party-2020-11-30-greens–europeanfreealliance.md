@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 42–50 | 42–51 | 41–51 | 39–53 |
+| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–52 | 39–53 |
 | Bündnis 90/Die Grünen | DE | | 18 | 16–19 | 16–20 | 15–21 | 15–22 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
@@ -42,7 +42,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,22 +61,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.1% | 100% |  |
-| 39 | 0.4% | 99.8% |  |
-| 40 | 1.3% | 99.4% |  |
+| 39 | 0.4% | 99.9% |  |
+| 40 | 1.2% | 99.5% |  |
 | 41 | 3% | 98% |  |
-| 42 | 6% | 95% |  |
-| 43 | 9% | 90% |  |
-| 44 | 11% | 81% |  |
-| 45 | 13% | 69% |  |
-| 46 | 14% | 56% | Median |
-| 47 | 13% | 42% |  |
-| 48 | 11% | 29% |  |
-| 49 | 8% | 18% |  |
+| 42 | 5% | 96% |  |
+| 43 | 8% | 90% |  |
+| 44 | 11% | 82% |  |
+| 45 | 13% | 71% |  |
+| 46 | 14% | 58% | Median |
+| 47 | 13% | 43% |  |
+| 48 | 11% | 30% |  |
+| 49 | 8% | 19% |  |
 | 50 | 5% | 11% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.5% | 2% |  |
-| 53 | 0.7% | 1.0% |  |
-| 54 | 0.2% | 0.3% |  |
+| 51 | 3% | 6% |  |
+| 52 | 2% | 3% |  |
+| 53 | 0.7% | 1.1% |  |
+| 54 | 0.3% | 0.4% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |

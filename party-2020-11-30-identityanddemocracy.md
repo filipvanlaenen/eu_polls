@@ -24,7 +24,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 10 | 8–11 | 8–12 | 7–13 | 7–14 |
 | Partij voor de Vrijheid | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -43,14 +43,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 62 | 0.1% | 100% |  |
-| 63 | 0.3% | 99.9% |  |
-| 64 | 0.7% | 99.6% |  |
-| 65 | 2% | 98.9% |  |
-| 66 | 4% | 97% |  |
+| 63 | 0.2% | 99.9% |  |
+| 64 | 0.7% | 99.7% |  |
+| 65 | 2% | 99.0% |  |
+| 66 | 3% | 97% |  |
 | 67 | 6% | 94% |  |
-| 68 | 9% | 87% |  |
+| 68 | 9% | 88% |  |
 | 69 | 13% | 78% |  |
-| 70 | 14% | 65% |  |
+| 70 | 15% | 66% |  |
 | 71 | 15% | 51% | Median |
 | 72 | 13% | 36% |  |
 | 73 | 10% | 23% |  |
