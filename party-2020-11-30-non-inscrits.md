@@ -18,12 +18,12 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 21 | 18–24 | 17–25 | 16–25 | 15–27 |
+| Non-Inscrits | EU | 29 | 21 | 18–24 | 17–25 | 16–26 | 15–27 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
-| Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Jobbik | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
@@ -43,20 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.2% | 100% |  |
-| 15 | 0.8% | 99.8% |  |
-| 16 | 2% | 99.0% |  |
-| 17 | 5% | 97% |  |
-| 18 | 7% | 92% |  |
-| 19 | 11% | 85% |  |
-| 20 | 14% | 74% |  |
-| 21 | 17% | 60% | Median |
-| 22 | 16% | 43% |  |
-| 23 | 13% | 26% |  |
-| 24 | 8% | 14% |  |
-| 25 | 4% | 6% |  |
-| 26 | 2% | 2% |  |
-| 27 | 0.5% | 0.7% |  |
-| 28 | 0.1% | 0.2% |  |
+| 15 | 0.9% | 99.8% |  |
+| 16 | 3% | 98.9% |  |
+| 17 | 5% | 96% |  |
+| 18 | 7% | 91% |  |
+| 19 | 10% | 85% |  |
+| 20 | 13% | 75% |  |
+| 21 | 16% | 62% | Median |
+| 22 | 16% | 46% |  |
+| 23 | 13% | 30% |  |
+| 24 | 9% | 16% |  |
+| 25 | 5% | 7% |  |
+| 26 | 2% | 3% |  |
+| 27 | 0.6% | 0.8% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% | Last Result |
 
 

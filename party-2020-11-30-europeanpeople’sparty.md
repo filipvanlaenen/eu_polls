@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **191** seats (+4 seats)
+Current median: **190** seats (+3 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 191 | 185–198 | 183–199 | 181–201 | 178–204 |
+| European People’s Party | EU | 187 | 190 | 184–196 | 183–198 | 181–200 | 178–202 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 25–29 | 25–30 | 24–30 | 24–30 |
-| Koalicja Obywatelska | PL | | 14 | 9–17 | 9–18 | 8–18 | 8–19 |
+| Koalicja Obywatelska | PL | | 14 | 10–17 | 10–18 | 9–18 | 9–19 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
-| Partido Popular | ES | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
+| Partido Popular | ES | | 14 | 11–15 | 11–15 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | Partidul Național Liberal | RO | | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
-| Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| Νέα Δημοκρατία | GR | | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | Christlich-Soziale Union in Bayern | DE | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
@@ -58,7 +58,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
-| Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Kresťanskodemokratické hnutie | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -79,40 +79,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 174 | 0% | 100% |  |
-| 175 | 0.1% | 99.9% |  |
+| 175 | 0% | 100% |  |
 | 176 | 0.1% | 99.9% |  |
-| 177 | 0.2% | 99.7% |  |
-| 178 | 0.3% | 99.5% |  |
-| 179 | 0.5% | 99.2% |  |
-| 180 | 0.8% | 98.6% |  |
-| 181 | 1.1% | 98% |  |
+| 177 | 0.2% | 99.8% |  |
+| 178 | 0.3% | 99.7% |  |
+| 179 | 0.5% | 99.4% |  |
+| 180 | 0.8% | 99.0% |  |
+| 181 | 1.2% | 98% |  |
 | 182 | 2% | 97% |  |
 | 183 | 2% | 95% |  |
 | 184 | 3% | 93% |  |
-| 185 | 3% | 90% |  |
-| 186 | 4% | 87% |  |
-| 187 | 5% | 83% | Last Result |
-| 188 | 6% | 77% |  |
-| 189 | 7% | 71% |  |
-| 190 | 7% | 65% |  |
-| 191 | 8% | 57% | Median |
-| 192 | 8% | 49% |  |
-| 193 | 8% | 41% |  |
-| 194 | 7% | 34% |  |
-| 195 | 6% | 27% |  |
-| 196 | 5% | 20% |  |
-| 197 | 4% | 15% |  |
-| 198 | 3% | 11% |  |
-| 199 | 3% | 7% |  |
-| 200 | 2% | 5% |  |
-| 201 | 1.2% | 3% |  |
-| 202 | 0.8% | 2% |  |
-| 203 | 0.5% | 1.0% |  |
-| 204 | 0.3% | 0.5% |  |
-| 205 | 0.1% | 0.3% |  |
-| 206 | 0.1% | 0.1% |  |
-| 207 | 0% | 0.1% |  |
-| 208 | 0% | 0% |  |
+| 185 | 4% | 90% |  |
+| 186 | 5% | 85% |  |
+| 187 | 6% | 80% | Last Result |
+| 188 | 7% | 73% |  |
+| 189 | 8% | 66% |  |
+| 190 | 8% | 58% | Median |
+| 191 | 8% | 49% |  |
+| 192 | 8% | 41% |  |
+| 193 | 7% | 33% |  |
+| 194 | 6% | 25% |  |
+| 195 | 5% | 19% |  |
+| 196 | 4% | 14% |  |
+| 197 | 3% | 10% |  |
+| 198 | 2% | 6% |  |
+| 199 | 2% | 4% |  |
+| 200 | 1.0% | 3% |  |
+| 201 | 0.7% | 2% |  |
+| 202 | 0.4% | 0.8% |  |
+| 203 | 0.2% | 0.5% |  |
+| 204 | 0.1% | 0.2% |  |
+| 205 | 0.1% | 0.1% |  |
+| 206 | 0% | 0.1% |  |
+| 207 | 0% | 0% |  |
 
 
