@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,21 +54,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.1% | 100% |  |
 | 57 | 0.2% | 99.9% |  |
 | 58 | 0.5% | 99.7% |  |
-| 59 | 1.2% | 99.2% |  |
+| 59 | 1.2% | 99.1% |  |
 | 60 | 2% | 98% |  |
 | 61 | 4% | 96% | Last Result |
-| 62 | 6% | 92% |  |
+| 62 | 6% | 91% |  |
 | 63 | 9% | 85% |  |
 | 64 | 11% | 76% |  |
 | 65 | 13% | 65% |  |
 | 66 | 13% | 52% | Median |
-| 67 | 12% | 40% |  |
+| 67 | 12% | 39% |  |
 | 68 | 10% | 28% |  |
 | 69 | 7% | 18% |  |
 | 70 | 5% | 11% |  |
 | 71 | 3% | 6% |  |
 | 72 | 2% | 3% |  |
-| 73 | 0.9% | 1.5% |  |
+| 73 | 0.8% | 1.5% |  |
 | 74 | 0.4% | 0.6% |  |
 | 75 | 0.2% | 0.2% |  |
 | 76 | 0.1% | 0.1% |  |
