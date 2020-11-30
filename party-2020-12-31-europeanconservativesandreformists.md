@@ -21,7 +21,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 61 | 66 | 62–70 | 61–71 | 60–72 | 58–74 |
 | Zjednoczona Prawica | PL | | 18 | 15–21 | 15–22 | 14–22 | 13–23 |
 | Fratelli d’Italia | IT | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
-| Vox | ES | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| Vox | ES | | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–4 | 2–4 |
@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,23 +54,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.1% | 100% |  |
 | 57 | 0.2% | 99.9% |  |
 | 58 | 0.5% | 99.7% |  |
-| 59 | 1.2% | 99.1% |  |
+| 59 | 1.2% | 99.2% |  |
 | 60 | 2% | 98% |  |
 | 61 | 4% | 96% | Last Result |
-| 62 | 6% | 91% |  |
+| 62 | 7% | 91% |  |
 | 63 | 9% | 85% |  |
 | 64 | 11% | 76% |  |
-| 65 | 13% | 65% |  |
-| 66 | 13% | 52% | Median |
-| 67 | 12% | 39% |  |
-| 68 | 10% | 28% |  |
-| 69 | 7% | 18% |  |
-| 70 | 5% | 11% |  |
-| 71 | 3% | 6% |  |
-| 72 | 2% | 3% |  |
-| 73 | 0.8% | 1.5% |  |
-| 74 | 0.4% | 0.6% |  |
-| 75 | 0.2% | 0.2% |  |
+| 65 | 12% | 65% |  |
+| 66 | 12% | 52% | Median |
+| 67 | 11% | 40% |  |
+| 68 | 9% | 29% |  |
+| 69 | 7% | 19% |  |
+| 70 | 5% | 12% |  |
+| 71 | 3% | 7% |  |
+| 72 | 2% | 4% |  |
+| 73 | 1.0% | 2% |  |
+| 74 | 0.5% | 0.9% |  |
+| 75 | 0.2% | 0.4% |  |
 | 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 
