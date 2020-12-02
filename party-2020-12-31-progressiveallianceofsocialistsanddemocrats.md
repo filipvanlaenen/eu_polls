@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 126–140 | 124–141 | 122–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 125–140 | 124–141 | 122–144 |
 | Partido Socialista Obrero Español | ES | | 17 | 14–19 | 14–19 | 13–20 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–16 | 13–17 | 13–18 | 12–18 |
@@ -30,7 +30,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | HLAS–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Българска социалистическа партия | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Българска социалистическа партия | BG | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Demokratikus Koalíció | HU | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 9% | 49% |  |
 | 134 | 9% | 40% |  |
 | 135 | 8% | 31% |  |
-| 136 | 6% | 24% |  |
+| 136 | 6% | 23% |  |
 | 137 | 5% | 17% |  |
 | 138 | 4% | 12% |  |
 | 139 | 3% | 8% |  |
