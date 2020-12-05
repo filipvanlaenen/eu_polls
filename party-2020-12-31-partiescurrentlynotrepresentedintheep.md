@@ -10,19 +10,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **11** seats (+11 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, DK, PL, RO
+> BG, DK, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 11 | 6–15 | 4–16 | 4–17 | 2–18 |
+| Parties currently not represented in the EP | EU | 0 | 11 | 6–15 | 4–16 | 4–16 | 2–18 |
 | Polska 2050 [PL] (*) | PL | | 7 | 4–10 | 4–11 | 4–12 | 3–13 |
 | Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
-| Alianța pentru Unirea Românilor [RO] (*) | RO | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Alianța pentru Unirea Românilor [RO] (*) | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -51,24 +51,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
-| 2 | 1.1% | 99.8% |  |
-| 3 | 0.9% | 98.7% |  |
-| 4 | 4% | 98% |  |
+| 2 | 1.4% | 99.8% |  |
+| 3 | 0.8% | 98% |  |
+| 4 | 5% | 98% |  |
 | 5 | 2% | 93% |  |
-| 6 | 3% | 91% |  |
-| 7 | 3% | 89% |  |
-| 8 | 6% | 86% |  |
-| 9 | 9% | 80% |  |
-| 10 | 11% | 70% |  |
-| 11 | 14% | 59% | Median |
-| 12 | 15% | 45% |  |
-| 13 | 11% | 30% |  |
-| 14 | 7% | 19% |  |
-| 15 | 5% | 12% |  |
+| 6 | 2% | 90% |  |
+| 7 | 3% | 88% |  |
+| 8 | 6% | 85% |  |
+| 9 | 10% | 79% |  |
+| 10 | 12% | 69% |  |
+| 11 | 15% | 57% | Median |
+| 12 | 15% | 42% |  |
+| 13 | 10% | 27% |  |
+| 14 | 6% | 17% |  |
+| 15 | 5% | 11% |  |
 | 16 | 3% | 6% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.9% | 1.3% |  |
-| 19 | 0.3% | 0.4% |  |
+| 17 | 1.5% | 2% |  |
+| 18 | 0.7% | 1.0% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

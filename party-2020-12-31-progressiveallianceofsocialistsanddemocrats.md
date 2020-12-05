@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **132** seats (-15 seats)
+Current median: **133** seats (-14 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 126–140 | 124–141 | 122–144 |
-| Partido Socialista Obrero Español | ES | | 17 | 14–19 | 14–19 | 13–20 | 13–20 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 127–139 | 126–140 | 125–142 | 122–145 |
+| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 14–19 | 13–20 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–16 | 13–17 | 13–18 | 12–18 |
-| Partidul Social Democrat | RO | | 10 | 8–11 | 7–11 | 7–12 | 7–12 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
+| Partidul Social Democrat | RO | | 10 | 8–13 | 7–13 | 7–14 | 7–14 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 3–6 | 3–7 | 3–7 | 0–8 |
-| Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Socialdemokraterne | DK | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -65,35 +65,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 119 | 0.1% | 100% |  |
+| 119 | 0% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
 | 121 | 0.2% | 99.8% |  |
 | 122 | 0.4% | 99.6% |  |
-| 123 | 0.8% | 99.1% |  |
-| 124 | 1.3% | 98% |  |
-| 125 | 2% | 97% |  |
-| 126 | 3% | 95% |  |
-| 127 | 4% | 92% |  |
-| 128 | 6% | 88% |  |
-| 129 | 7% | 82% |  |
-| 130 | 8% | 75% |  |
-| 131 | 9% | 67% |  |
-| 132 | 9% | 58% | Median |
-| 133 | 9% | 49% |  |
-| 134 | 9% | 40% |  |
-| 135 | 8% | 31% |  |
-| 136 | 6% | 24% |  |
-| 137 | 5% | 17% |  |
-| 138 | 4% | 12% |  |
-| 139 | 3% | 8% |  |
-| 140 | 2% | 5% |  |
-| 141 | 1.3% | 3% |  |
-| 142 | 0.9% | 2% |  |
-| 143 | 0.5% | 1.2% |  |
-| 144 | 0.3% | 0.7% |  |
-| 145 | 0.2% | 0.4% |  |
-| 146 | 0.1% | 0.2% |  |
-| 147 | 0% | 0.1% | Last Result |
-| 148 | 0% | 0% |  |
+| 123 | 0.6% | 99.3% |  |
+| 124 | 1.1% | 98.6% |  |
+| 125 | 2% | 98% |  |
+| 126 | 3% | 96% |  |
+| 127 | 4% | 93% |  |
+| 128 | 5% | 90% |  |
+| 129 | 6% | 85% |  |
+| 130 | 7% | 79% |  |
+| 131 | 8% | 71% |  |
+| 132 | 9% | 63% |  |
+| 133 | 9% | 54% | Median |
+| 134 | 9% | 45% |  |
+| 135 | 8% | 36% |  |
+| 136 | 7% | 28% |  |
+| 137 | 6% | 21% |  |
+| 138 | 5% | 16% |  |
+| 139 | 4% | 11% |  |
+| 140 | 3% | 7% |  |
+| 141 | 2% | 5% |  |
+| 142 | 1.2% | 3% |  |
+| 143 | 0.8% | 2% |  |
+| 144 | 0.5% | 1.1% |  |
+| 145 | 0.3% | 0.6% |  |
+| 146 | 0.2% | 0.4% |  |
+| 147 | 0.1% | 0.2% | Last Result |
+| 148 | 0% | 0.1% |  |
+| 149 | 0% | 0% |  |
 
 
