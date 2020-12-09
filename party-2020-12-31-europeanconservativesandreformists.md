@@ -20,8 +20,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 65 | 61–70 | 60–71 | 59–72 | 58–74 |
 | Zjednoczona Prawica | PL | | 18 | 15–20 | 14–21 | 14–22 | 13–23 |
-| Fratelli d’Italia | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
-| Vox | ES | | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| Fratelli d’Italia | IT | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Vox | ES | | 10 | 8–11 | 8–11 | 7–12 | 7–12 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–4 | 2–4 |
@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Обединени Патриоти | BG | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 
@@ -54,21 +54,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.1% | 100% |  |
 | 57 | 0.3% | 99.9% |  |
 | 58 | 0.7% | 99.6% |  |
-| 59 | 1.5% | 98.9% |  |
+| 59 | 2% | 98.8% |  |
 | 60 | 3% | 97% |  |
-| 61 | 5% | 95% | Last Result |
-| 62 | 7% | 90% |  |
-| 63 | 10% | 83% |  |
-| 64 | 11% | 73% |  |
-| 65 | 12% | 62% | Median |
-| 66 | 12% | 49% |  |
-| 67 | 11% | 37% |  |
-| 68 | 9% | 26% |  |
-| 69 | 7% | 17% |  |
-| 70 | 5% | 11% |  |
+| 61 | 5% | 94% | Last Result |
+| 62 | 7% | 89% |  |
+| 63 | 10% | 82% |  |
+| 64 | 12% | 72% |  |
+| 65 | 12% | 60% | Median |
+| 66 | 12% | 48% |  |
+| 67 | 11% | 36% |  |
+| 68 | 9% | 25% |  |
+| 69 | 6% | 17% |  |
+| 70 | 4% | 10% |  |
 | 71 | 3% | 6% |  |
 | 72 | 2% | 3% |  |
-| 73 | 0.9% | 2% |  |
+| 73 | 0.8% | 2% |  |
 | 74 | 0.4% | 0.7% |  |
 | 75 | 0.2% | 0.3% |  |
 | 76 | 0.1% | 0.1% |  |

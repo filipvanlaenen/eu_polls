@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 42–51 | 41–52 | 40–54 |
-| Bündnis 90/Die Grünen | DE | | 18 | 16–21 | 16–21 | 15–22 | 15–22 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 42–51 | 41–52 | 39–54 |
+| Bündnis 90/Die Grünen | DE | | 18 | 15–21 | 15–21 | 15–22 | 15–22 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
+| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Ecolo | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 0.8% | 99.6% |  |
-| 41 | 2% | 98.8% |  |
-| 42 | 4% | 97% |  |
-| 43 | 6% | 93% |  |
-| 44 | 9% | 86% |  |
-| 45 | 12% | 77% |  |
-| 46 | 13% | 65% |  |
+| 39 | 0.4% | 99.9% |  |
+| 40 | 1.1% | 99.5% |  |
+| 41 | 2% | 98% |  |
+| 42 | 4% | 96% |  |
+| 43 | 7% | 92% |  |
+| 44 | 9% | 85% |  |
+| 45 | 11% | 76% |  |
+| 46 | 13% | 64% |  |
 | 47 | 13% | 52% | Median |
 | 48 | 12% | 39% |  |
-| 49 | 10% | 26% |  |
-| 50 | 7% | 16% |  |
+| 49 | 10% | 27% |  |
+| 50 | 7% | 17% |  |
 | 51 | 5% | 9% |  |
 | 52 | 3% | 5% |  |
 | 53 | 1.3% | 2% |  |
