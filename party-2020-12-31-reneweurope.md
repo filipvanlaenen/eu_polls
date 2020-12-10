@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **93** seats (-5 seats)
+Current median: **92** seats (-6 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 88–97 | 87–98 | 86–99 | 85–102 |
+| Renew Europe | EU | 98 | 92 | 88–97 | 87–98 | 86–99 | 85–101 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
@@ -42,7 +42,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Laisvės partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -62,7 +62,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Pametno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -80,26 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 0% | 100% |  |
 | 83 | 0.1% | 99.9% |  |
 | 84 | 0.3% | 99.8% |  |
-| 85 | 0.7% | 99.5% |  |
-| 86 | 2% | 98.8% |  |
+| 85 | 0.8% | 99.5% |  |
+| 86 | 2% | 98.7% |  |
 | 87 | 3% | 97% |  |
 | 88 | 5% | 94% |  |
-| 89 | 7% | 90% |  |
-| 90 | 9% | 83% |  |
-| 91 | 11% | 74% |  |
-| 92 | 12% | 63% |  |
-| 93 | 12% | 51% | Median |
-| 94 | 11% | 39% |  |
-| 95 | 9% | 28% |  |
-| 96 | 7% | 19% |  |
-| 97 | 5% | 13% |  |
-| 98 | 3% | 8% | Last Result |
+| 89 | 7% | 89% |  |
+| 90 | 10% | 82% |  |
+| 91 | 12% | 72% |  |
+| 92 | 12% | 61% | Median |
+| 93 | 12% | 48% |  |
+| 94 | 11% | 36% |  |
+| 95 | 9% | 26% |  |
+| 96 | 6% | 17% |  |
+| 97 | 4% | 11% |  |
+| 98 | 3% | 6% | Last Result |
 | 99 | 2% | 4% |  |
-| 100 | 1.2% | 2% |  |
-| 101 | 0.7% | 1.2% |  |
-| 102 | 0.3% | 0.6% |  |
-| 103 | 0.2% | 0.3% |  |
-| 104 | 0.1% | 0.1% |  |
+| 100 | 1.0% | 2% |  |
+| 101 | 0.5% | 1.0% |  |
+| 102 | 0.3% | 0.4% |  |
+| 103 | 0.1% | 0.2% |  |
+| 104 | 0% | 0.1% |  |
 | 105 | 0% | 0% |  |
 
 
