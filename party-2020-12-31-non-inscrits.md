@@ -32,7 +32,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -43,11 +42,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.2% | 100% |  |
-| 15 | 0.9% | 99.8% |  |
-| 16 | 3% | 98.9% |  |
+| 15 | 1.0% | 99.8% |  |
+| 16 | 3% | 98.8% |  |
 | 17 | 5% | 96% |  |
 | 18 | 8% | 91% |  |
-| 19 | 10% | 84% |  |
+| 19 | 10% | 83% |  |
 | 20 | 13% | 73% |  |
 | 21 | 15% | 60% | Median |
 | 22 | 15% | 46% |  |
@@ -55,9 +54,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 9% | 18% |  |
 | 25 | 5% | 9% |  |
 | 26 | 2% | 4% |  |
-| 27 | 0.8% | 1.1% |  |
+| 27 | 0.9% | 1.2% |  |
 | 28 | 0.2% | 0.3% |  |
-| 29 | 0% | 0.1% | Last Result |
+| 29 | 0.1% | 0.1% | Last Result |
 | 30 | 0% | 0% |  |
 
 
