@@ -29,7 +29,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +53,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 14% | 64% | Median |
 | 71 | 14% | 49% |  |
 | 72 | 13% | 35% |  |
-| 73 | 10% | 23% |  |
+| 73 | 10% | 22% |  |
 | 74 | 6% | 13% |  |
 | 75 | 4% | 7% |  |
 | 76 | 2% | 3% | Last Result |
