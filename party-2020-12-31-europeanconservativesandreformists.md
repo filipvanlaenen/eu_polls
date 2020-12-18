@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Обединени Патриоти | BG | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 
@@ -60,17 +60,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 7% | 91% | Last Result |
 | 62 | 9% | 84% |  |
 | 63 | 11% | 75% |  |
-| 64 | 12% | 65% |  |
+| 64 | 12% | 64% |  |
 | 65 | 12% | 52% | Median |
 | 66 | 11% | 40% |  |
-| 67 | 9% | 29% |  |
-| 68 | 7% | 20% |  |
-| 69 | 5% | 13% |  |
+| 67 | 9% | 28% |  |
+| 68 | 7% | 19% |  |
+| 69 | 5% | 12% |  |
 | 70 | 3% | 7% |  |
 | 71 | 2% | 4% |  |
-| 72 | 1.1% | 2% |  |
-| 73 | 0.5% | 1.0% |  |
-| 74 | 0.3% | 0.4% |  |
+| 72 | 1.0% | 2% |  |
+| 73 | 0.5% | 0.9% |  |
+| 74 | 0.2% | 0.4% |  |
 | 75 | 0.1% | 0.2% |  |
 | 76 | 0% | 0.1% |  |
 | 77 | 0% | 0% |  |
