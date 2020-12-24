@@ -21,7 +21,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 0 | 11 | 6–15 | 4–16 | 3–17 | 2–18 |
 | Polska 2050 [PL] (*) | PL | | 7 | 6–10 | 5–11 | 5–12 | 5–13 |
 | Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1 |
 | Alianța pentru Unirea Românilor [RO] (*) | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -33,7 +33,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -51,24 +50,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 1.4% | 99.8% |  |
-| 3 | 1.3% | 98% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 1.4% | 99.9% |  |
+| 3 | 1.2% | 98% |  |
 | 4 | 4% | 97% |  |
-| 5 | 2% | 93% |  |
+| 5 | 3% | 93% |  |
 | 6 | 1.2% | 91% |  |
 | 7 | 2% | 90% |  |
 | 8 | 4% | 88% |  |
 | 9 | 8% | 84% |  |
 | 10 | 14% | 76% |  |
-| 11 | 18% | 61% | Median |
+| 11 | 18% | 62% | Median |
 | 12 | 15% | 44% |  |
 | 13 | 11% | 29% |  |
 | 14 | 7% | 18% |  |
 | 15 | 5% | 11% |  |
 | 16 | 3% | 6% |  |
 | 17 | 2% | 3% |  |
-| 18 | 0.7% | 1.1% |  |
+| 18 | 0.8% | 1.1% |  |
 | 19 | 0.3% | 0.4% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |

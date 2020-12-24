@@ -18,16 +18,16 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 45 | 41–48 | 41–49 | 40–50 | 39–52 |
-| Bündnis 90/Die Grünen | DE | | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
+| Greens–European Free Alliance | EU | 67 | 45 | 42–48 | 41–49 | 40–50 | 39–52 |
+| Bündnis 90/Die Grünen | DE | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
@@ -35,7 +35,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -60,24 +60,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.3% | 99.9% |  |
-| 39 | 1.1% | 99.6% |  |
-| 40 | 3% | 98.5% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.8% | 99.8% |  |
+| 40 | 3% | 99.0% |  |
 | 41 | 6% | 96% |  |
-| 42 | 10% | 90% |  |
-| 43 | 13% | 80% |  |
+| 42 | 10% | 91% |  |
+| 43 | 13% | 81% |  |
 | 44 | 15% | 68% |  |
 | 45 | 15% | 53% | Median |
-| 46 | 13% | 38% |  |
-| 47 | 10% | 25% |  |
-| 48 | 7% | 15% |  |
+| 46 | 13% | 37% |  |
+| 47 | 10% | 24% |  |
+| 48 | 7% | 14% |  |
 | 49 | 4% | 8% |  |
 | 50 | 2% | 4% |  |
 | 51 | 1.0% | 2% |  |
-| 52 | 0.4% | 0.7% |  |
-| 53 | 0.2% | 0.2% |  |
-| 54 | 0.1% | 0.1% |  |
+| 52 | 0.4% | 0.6% |  |
+| 53 | 0.1% | 0.2% |  |
+| 54 | 0% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
