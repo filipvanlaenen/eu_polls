@@ -20,12 +20,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 91 | 87–96 | 86–97 | 85–98 | 83–100 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–10 | 7–10 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
 | Freie Demokratische Partei | DE | | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Venstre | DK | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
