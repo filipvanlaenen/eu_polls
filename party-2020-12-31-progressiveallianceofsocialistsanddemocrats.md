@@ -30,11 +30,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 3 | 3–4 | 2–4 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | PRO România | RO | | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
@@ -85,7 +85,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 135 | 8% | 44% |  |
 | 136 | 7% | 36% |  |
 | 137 | 7% | 28% |  |
-| 138 | 6% | 21% |  |
+| 138 | 6% | 22% |  |
 | 139 | 5% | 16% |  |
 | 140 | 4% | 11% |  |
 | 141 | 3% | 8% |  |

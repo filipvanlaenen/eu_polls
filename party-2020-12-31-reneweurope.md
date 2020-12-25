@@ -37,7 +37,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -65,7 +65,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -79,17 +79,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% |  |
 | 85 | 0.2% | 99.9% |  |
-| 86 | 0.6% | 99.7% |  |
-| 87 | 1.2% | 99.1% |  |
+| 86 | 0.6% | 99.6% |  |
+| 87 | 1.3% | 99.0% |  |
 | 88 | 2% | 98% |  |
-| 89 | 4% | 96% |  |
-| 90 | 6% | 92% |  |
-| 91 | 8% | 86% |  |
+| 89 | 4% | 95% |  |
+| 90 | 6% | 91% |  |
+| 91 | 8% | 85% |  |
 | 92 | 10% | 77% |  |
-| 93 | 12% | 67% |  |
+| 93 | 12% | 66% |  |
 | 94 | 12% | 55% | Median |
-| 95 | 11% | 44% |  |
-| 96 | 9% | 33% |  |
+| 95 | 11% | 43% |  |
+| 96 | 9% | 32% |  |
 | 97 | 7% | 23% |  |
 | 98 | 6% | 16% | Last Result |
 | 99 | 4% | 10% |  |
