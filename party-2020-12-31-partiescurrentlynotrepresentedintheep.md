@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> AT, BG, DK, EE, FR, HR, IE, IT, LT, LU, NL, PL, RO, SK
+> AT, BG, DK, EE, FR, HR, IE, IT, LT, LU, NL, PL, SK
 
 ## Seats
 
@@ -22,7 +22,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Polska 2050 [PL] (*) | PL | | 7 | 6–10 | 5–11 | 5–12 | 5–13 |
 | Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1 |
-| Alianța pentru Unirea Românilor [RO] (*) | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |

@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BE, BG, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -33,6 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Alianța pentru Unirea Românilor | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
