@@ -21,16 +21,16 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Identity and Democracy | EU | 76 | 70 | 67–74 | 66–75 | 65–75 | 64–77 |
 | Lega Nord | IT | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
 | Rassemblement national | FR | | 21 | 21 | 21 | 21–22 | 20–23 |
-| Alternative für Deutschland | DE | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| Alternative für Deutschland | DE | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Partij voor de Vrijheid | NL | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Svoboda a přímá demokracie | CZ | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Svoboda a přímá demokracie | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| SME RODINA | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -44,7 +44,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 62 | 0.1% | 100% |  |
 | 63 | 0.3% | 99.9% |  |
-| 64 | 0.9% | 99.5% |  |
+| 64 | 0.8% | 99.6% |  |
 | 65 | 2% | 98.7% |  |
 | 66 | 4% | 97% |  |
 | 67 | 7% | 93% |  |
@@ -52,7 +52,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 13% | 76% |  |
 | 70 | 15% | 63% | Median |
 | 71 | 15% | 48% |  |
-| 72 | 13% | 34% |  |
+| 72 | 12% | 33% |  |
 | 73 | 9% | 21% |  |
 | 74 | 6% | 12% |  |
 | 75 | 3% | 6% |  |

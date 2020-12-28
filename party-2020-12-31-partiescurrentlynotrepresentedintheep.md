@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> AT, BG, DK, EE, FR, HR, IE, IT, LT, LU, NL, PL, SK
+> AT, BG, DK, EE, FR, HR, IE, IT, LU, NL, PL, SK
 
 ## Seats
 
@@ -19,7 +19,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 11 | 6–15 | 4–16 | 3–16 | 2–18 |
-| Polska 2050 [PL] (*) | PL | | 7 | 6–10 | 5–11 | 5–12 | 5–13 |
+| Polska 2050 [PL] (*) | PL | | 7 | 5–10 | 5–11 | 4–12 | 4–13 |
 | Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -32,7 +32,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Politinė partija “Lietuvos sąrašas” [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
@@ -54,13 +53,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 1.1% | 98% |  |
 | 4 | 4% | 97% |  |
 | 5 | 2% | 93% |  |
-| 6 | 1.1% | 91% |  |
+| 6 | 2% | 90% |  |
 | 7 | 2% | 89% |  |
-| 8 | 4% | 88% |  |
-| 9 | 8% | 84% |  |
-| 10 | 15% | 75% |  |
-| 11 | 19% | 61% | Median |
-| 12 | 15% | 42% |  |
+| 8 | 5% | 86% |  |
+| 9 | 10% | 81% |  |
+| 10 | 13% | 72% |  |
+| 11 | 17% | 58% | Median |
+| 12 | 14% | 41% |  |
 | 13 | 10% | 27% |  |
 | 14 | 7% | 17% |  |
 | 15 | 5% | 10% |  |

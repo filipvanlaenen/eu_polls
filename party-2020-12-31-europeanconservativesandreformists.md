@@ -8,38 +8,38 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **65** seats (+4 seats)
+Current median: **70** seats (+9 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, HR, IT, LT, LV, PL, SE, SK
+> BE, BG, CZ, ES, FR, GR, HR, IT, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 65 | 61–70 | 60–71 | 59–72 | 57–74 |
+| European Conservatives and Reformists | EU | 61 | 70 | 66–75 | 64–76 | 63–77 | 61–79 |
 | Zjednoczona Prawica | PL | | 18 | 15–22 | 14–23 | 13–23 | 12–24 |
 | Fratelli d’Italia | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | Vox | ES | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
+| Alianța pentru Unirea Românilor | RO | | 3 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Sloboda a Solidarita | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
-| Lietuvos lenkų rinkimų akcija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Обединени Патриоти | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
-| Alianța pentru Unirea Românilor | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
-| Hrvatski rast | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -52,29 +52,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0% | 100% |  |
-| 55 | 0.1% | 99.9% |  |
-| 56 | 0.3% | 99.8% |  |
-| 57 | 0.7% | 99.5% |  |
-| 58 | 1.3% | 98.9% |  |
-| 59 | 2% | 98% |  |
-| 60 | 4% | 95% |  |
-| 61 | 5% | 92% | Last Result |
-| 62 | 7% | 87% |  |
-| 63 | 9% | 79% |  |
-| 64 | 11% | 70% |  |
-| 65 | 12% | 59% | Median |
-| 66 | 11% | 47% |  |
-| 67 | 10% | 36% |  |
-| 68 | 8% | 26% |  |
-| 69 | 6% | 18% |  |
-| 70 | 5% | 11% |  |
-| 71 | 3% | 7% |  |
-| 72 | 2% | 4% |  |
-| 73 | 1.0% | 2% |  |
-| 74 | 0.5% | 0.9% |  |
-| 75 | 0.2% | 0.4% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0% |  |
+| 59 | 0.1% | 100% |  |
+| 60 | 0.2% | 99.9% |  |
+| 61 | 0.5% | 99.7% | Last Result |
+| 62 | 0.9% | 99.2% |  |
+| 63 | 2% | 98% |  |
+| 64 | 3% | 97% |  |
+| 65 | 4% | 94% |  |
+| 66 | 6% | 90% |  |
+| 67 | 8% | 84% |  |
+| 68 | 10% | 76% |  |
+| 69 | 11% | 67% |  |
+| 70 | 11% | 56% | Median |
+| 71 | 11% | 45% |  |
+| 72 | 10% | 34% |  |
+| 73 | 8% | 24% |  |
+| 74 | 6% | 16% |  |
+| 75 | 4% | 11% |  |
+| 76 | 3% | 6% |  |
+| 77 | 2% | 3% |  |
+| 78 | 0.9% | 2% |  |
+| 79 | 0.5% | 0.8% |  |
+| 80 | 0.2% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 
