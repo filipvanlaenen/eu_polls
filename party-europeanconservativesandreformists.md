@@ -22,9 +22,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Zjednoczona Prawica | PL | | 18 | 15–22 | 14–23 | 13–23 | 12–24 |
 | Fratelli d’Italia | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | Vox | ES | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| Alianța pentru Unirea Românilor | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Debout la France | FR | | 5 | 5 | 5 | 5 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
-| Alianța pentru Unirea Românilor | RO | | 3 | 0–6 | 0–6 | 0–6 | 0–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Sloboda a Solidarita | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |

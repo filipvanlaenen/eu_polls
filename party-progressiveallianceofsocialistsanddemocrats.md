@@ -18,11 +18,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 128–140 | 126–142 | 125–143 | 122–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 128–140 | 127–142 | 125–143 | 122–146 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 14–19 | 14–19 | 13–20 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
-| Partidul Social Democrat | RO | | 11 | 8–13 | 7–14 | 7–14 | 7–14 |
+| Partidul Social Democrat | RO | | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | Partido Socialista | PT | | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 0–7 | 0–8 | 0–8 | 0–9 |
@@ -36,7 +36,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Magyar Szocialista Párt–Párbeszéd | HU | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| PRO România | RO | | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -53,6 +52,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -65,39 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 118 | 0% | 100% |  |
-| 119 | 0.1% | 99.9% |  |
+| 119 | 0% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
 | 121 | 0.2% | 99.8% |  |
-| 122 | 0.3% | 99.6% |  |
-| 123 | 0.6% | 99.2% |  |
-| 124 | 0.9% | 98.7% |  |
-| 125 | 1.3% | 98% |  |
-| 126 | 2% | 96% |  |
-| 127 | 3% | 95% |  |
-| 128 | 4% | 92% |  |
-| 129 | 5% | 88% |  |
-| 130 | 6% | 84% |  |
-| 131 | 7% | 78% |  |
-| 132 | 8% | 71% |  |
-| 133 | 8% | 63% |  |
-| 134 | 9% | 55% | Median |
-| 135 | 8% | 46% |  |
-| 136 | 8% | 38% |  |
+| 122 | 0.3% | 99.7% |  |
+| 123 | 0.5% | 99.4% |  |
+| 124 | 0.7% | 99.0% |  |
+| 125 | 1.1% | 98% |  |
+| 126 | 2% | 97% |  |
+| 127 | 2% | 95% |  |
+| 128 | 3% | 93% |  |
+| 129 | 4% | 90% |  |
+| 130 | 6% | 85% |  |
+| 131 | 7% | 80% |  |
+| 132 | 8% | 73% |  |
+| 133 | 9% | 65% |  |
+| 134 | 9% | 56% | Median |
+| 135 | 9% | 47% |  |
+| 136 | 8% | 39% |  |
 | 137 | 7% | 30% |  |
 | 138 | 6% | 23% |  |
 | 139 | 5% | 17% |  |
 | 140 | 4% | 12% |  |
 | 141 | 3% | 8% |  |
-| 142 | 2% | 6% |  |
-| 143 | 1.4% | 4% |  |
-| 144 | 0.9% | 2% |  |
-| 145 | 0.6% | 1.3% |  |
-| 146 | 0.3% | 0.7% |  |
-| 147 | 0.2% | 0.4% | Last Result |
+| 142 | 2% | 5% |  |
+| 143 | 1.3% | 3% |  |
+| 144 | 0.8% | 2% |  |
+| 145 | 0.5% | 1.1% |  |
+| 146 | 0.3% | 0.6% |  |
+| 147 | 0.2% | 0.3% | Last Result |
 | 148 | 0.1% | 0.2% |  |
-| 149 | 0.1% | 0.1% |  |
-| 150 | 0% | 0.1% |  |
-| 151 | 0% | 0% |  |
+| 149 | 0% | 0.1% |  |
+| 150 | 0% | 0% |  |
 
 
