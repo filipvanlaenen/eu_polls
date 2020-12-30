@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> AT, BG, DK, EE, FR, HR, IE, IT, LU, NL, PL, SK
+> AT, BE, BG, DK, EE, FR, HR, IE, IT, LU, NL, PL, SK
 
 ## Seats
 
@@ -28,6 +28,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
+| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
