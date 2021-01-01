@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **186** seats (-1 seats)
+Current median: **185** seats (-2 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 186 | 180–191 | 178–193 | 177–194 | 174–197 |
+| European People’s Party | EU | 187 | 185 | 179–191 | 178–193 | 176–194 | 173–197 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 25–30 | 25–30 | 25–30 | 23–32 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
 | Partido Popular | ES | | 14 | 12–16 | 11–16 | 11–17 | 11–18 |
@@ -37,7 +37,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -79,35 +79,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 171 | 0.1% | 100% |  |
+| 170 | 0% | 100% |  |
+| 171 | 0.1% | 99.9% |  |
 | 172 | 0.1% | 99.9% |  |
-| 173 | 0.2% | 99.8% |  |
-| 174 | 0.3% | 99.6% |  |
-| 175 | 0.6% | 99.2% |  |
-| 176 | 0.9% | 98.7% |  |
-| 177 | 1.4% | 98% |  |
+| 173 | 0.2% | 99.7% |  |
+| 174 | 0.4% | 99.5% |  |
+| 175 | 0.7% | 99.1% |  |
+| 176 | 1.1% | 98% |  |
+| 177 | 2% | 97% |  |
 | 178 | 2% | 96% |  |
-| 179 | 3% | 94% |  |
-| 180 | 4% | 91% |  |
-| 181 | 5% | 87% |  |
-| 182 | 6% | 82% |  |
-| 183 | 7% | 76% |  |
-| 184 | 8% | 69% |  |
-| 185 | 9% | 61% |  |
-| 186 | 9% | 52% | Median |
-| 187 | 9% | 43% | Last Result |
-| 188 | 8% | 34% |  |
-| 189 | 7% | 27% |  |
-| 190 | 6% | 20% |  |
-| 191 | 4% | 14% |  |
-| 192 | 3% | 9% |  |
-| 193 | 2% | 6% |  |
-| 194 | 2% | 4% |  |
-| 195 | 1.0% | 2% |  |
-| 196 | 0.6% | 1.2% |  |
-| 197 | 0.3% | 0.6% |  |
-| 198 | 0.2% | 0.3% |  |
-| 199 | 0.1% | 0.2% |  |
+| 179 | 3% | 93% |  |
+| 180 | 4% | 90% |  |
+| 181 | 5% | 86% |  |
+| 182 | 7% | 80% |  |
+| 183 | 8% | 74% |  |
+| 184 | 8% | 66% |  |
+| 185 | 9% | 58% | Median |
+| 186 | 9% | 49% |  |
+| 187 | 8% | 40% | Last Result |
+| 188 | 8% | 32% |  |
+| 189 | 7% | 24% |  |
+| 190 | 5% | 18% |  |
+| 191 | 4% | 13% |  |
+| 192 | 3% | 8% |  |
+| 193 | 2% | 5% |  |
+| 194 | 1.4% | 3% |  |
+| 195 | 0.9% | 2% |  |
+| 196 | 0.5% | 1.1% |  |
+| 197 | 0.3% | 0.5% |  |
+| 198 | 0.1% | 0.3% |  |
+| 199 | 0.1% | 0.1% |  |
 | 200 | 0% | 0.1% |  |
 | 201 | 0% | 0% |  |
 
