@@ -11,12 +11,12 @@
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 187 | 185 | 179–191 |178–193 | 176–194 | 173–197 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 134 | 129–140 |127–142 | 125–143 | 122–146 |
-| <a href="#renew-europe">Renew Europe</a> | 98 | 95 | 91–99 |89–101 | 88–102 | 87–104 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 134 | 129–140 |127–142 | 125–143 | 123–146 |
+| <a href="#renew-europe">Renew Europe</a> | 98 | 95 | 90–99 |89–101 | 88–102 | 87–104 |
 | <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 70 | 67–74 |66–75 | 65–75 | 63–77 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 70 | 65–75 |64–76 | 63–77 | 61–79 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 52 | 50–55 |49–56 | 48–57 | 46–58 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 46 | 43–50 |42–51 | 41–51 | 40–53 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 46 | 43–49 |42–50 | 41–51 | 40–53 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 29 | 20 | 17–24 |16–25 | 15–26 | 14–28 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 11 | 5–14 |4–15 | 3–16 | 2–17 |
 
@@ -75,31 +75,31 @@
 | 122 | 0.2% | 99.7% |  |
 | 123 | 0.4% | 99.5% |  |
 | 124 | 0.7% | 99.1% |  |
-| 125 | 1.1% | 98% |  |
+| 125 | 1.0% | 98% |  |
 | 126 | 2% | 97% |  |
 | 127 | 2% | 96% |  |
-| 128 | 3% | 93% |  |
+| 128 | 3% | 94% |  |
 | 129 | 4% | 90% |  |
 | 130 | 5% | 86% |  |
-| 131 | 7% | 81% |  |
+| 131 | 6% | 81% |  |
 | 132 | 8% | 74% |  |
-| 133 | 8% | 66% |  |
-| 134 | 9% | 58% | Median |
-| 135 | 9% | 49% |  |
-| 136 | 8% | 40% |  |
+| 133 | 8% | 67% |  |
+| 134 | 9% | 59% | Median |
+| 135 | 9% | 50% |  |
+| 136 | 8% | 41% |  |
 | 137 | 8% | 32% |  |
-| 138 | 6% | 24% |  |
+| 138 | 7% | 25% |  |
 | 139 | 5% | 18% |  |
 | 140 | 4% | 13% |  |
 | 141 | 3% | 9% |  |
 | 142 | 2% | 6% |  |
-| 143 | 1.4% | 3% |  |
+| 143 | 1.4% | 4% |  |
 | 144 | 0.9% | 2% |  |
-| 145 | 0.5% | 1.2% |  |
+| 145 | 0.6% | 1.2% |  |
 | 146 | 0.3% | 0.7% |  |
 | 147 | 0.2% | 0.4% | Last Result |
 | 148 | 0.1% | 0.2% |  |
-| 149 | 0% | 0.1% |  |
+| 149 | 0.1% | 0.1% |  |
 | 150 | 0% | 0% |  |
 
 ### Renew Europe
@@ -114,21 +114,21 @@
 | 85 | 0.1% | 99.9% |  |
 | 86 | 0.3% | 99.8% |  |
 | 87 | 0.7% | 99.5% |  |
-| 88 | 1.5% | 98.9% |  |
+| 88 | 1.5% | 98.8% |  |
 | 89 | 3% | 97% |  |
 | 90 | 5% | 95% |  |
 | 91 | 7% | 90% |  |
 | 92 | 9% | 83% |  |
 | 93 | 11% | 74% |  |
 | 94 | 12% | 63% |  |
-| 95 | 12% | 52% | Median |
-| 96 | 11% | 40% |  |
+| 95 | 12% | 51% | Median |
+| 96 | 11% | 39% |  |
 | 97 | 9% | 29% |  |
 | 98 | 7% | 20% | Last Result |
-| 99 | 5% | 14% |  |
-| 100 | 3% | 9% |  |
+| 99 | 5% | 13% |  |
+| 100 | 3% | 8% |  |
 | 101 | 2% | 5% |  |
-| 102 | 1.4% | 3% |  |
+| 102 | 1.3% | 3% |  |
 | 103 | 0.8% | 2% |  |
 | 104 | 0.4% | 0.8% |  |
 | 105 | 0.2% | 0.4% |  |
@@ -157,7 +157,7 @@
 | 49 | 8% | 18% |  |
 | 50 | 5% | 10% |  |
 | 51 | 3% | 5% |  |
-| 52 | 1.4% | 2% |  |
+| 52 | 1.3% | 2% |  |
 | 53 | 0.6% | 0.9% |  |
 | 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |
