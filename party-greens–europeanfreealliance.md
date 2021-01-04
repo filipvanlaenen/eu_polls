@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
@@ -44,7 +44,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -61,20 +61,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.6% | 99.8% |  |
+| 40 | 0.7% | 99.8% |  |
 | 41 | 2% | 99.2% |  |
 | 42 | 5% | 97% |  |
-| 43 | 8% | 93% |  |
+| 43 | 8% | 92% |  |
 | 44 | 12% | 84% |  |
-| 45 | 14% | 73% |  |
-| 46 | 15% | 58% | Median |
-| 47 | 14% | 43% |  |
-| 48 | 11% | 29% |  |
-| 49 | 8% | 18% |  |
-| 50 | 5% | 10% |  |
+| 45 | 15% | 72% |  |
+| 46 | 15% | 57% | Median |
+| 47 | 14% | 42% |  |
+| 48 | 11% | 28% |  |
+| 49 | 8% | 17% |  |
+| 50 | 5% | 9% |  |
 | 51 | 3% | 5% |  |
 | 52 | 1.3% | 2% |  |
-| 53 | 0.6% | 0.9% |  |
+| 53 | 0.5% | 0.8% |  |
 | 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
