@@ -18,9 +18,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 5–13 | 4–13 | 3–14 | 2–15 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 5–12 | 4–13 | 3–13 | 2–14 |
 | Polska 2050 [PL] (*) | PL | | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
-| Има такъв народ [BG] (*) | BG | | 3 | 1–4 | 1–4 | 1–4 | 0–4 |
+| Има такъв народ [BG] (*) | BG | | 2 | 1–3 | 1–3 | 1–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +38,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Team HC Strache–Allianz für Österreich [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -51,20 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
 | 2 | 2% | 99.8% |  |
-| 3 | 1.3% | 98% |  |
-| 4 | 5% | 97% |  |
-| 5 | 3% | 91% |  |
+| 3 | 2% | 98% |  |
+| 4 | 6% | 96% |  |
+| 5 | 2% | 90% |  |
 | 6 | 0.9% | 89% |  |
 | 7 | 2% | 88% |  |
 | 8 | 7% | 86% |  |
-| 9 | 13% | 79% |  |
-| 10 | 17% | 66% | Median |
-| 11 | 23% | 49% |  |
-| 12 | 16% | 26% |  |
-| 13 | 7% | 10% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.6% | 0.6% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 9 | 14% | 79% |  |
+| 10 | 19% | 65% | Median |
+| 11 | 23% | 46% |  |
+| 12 | 14% | 23% |  |
+| 13 | 6% | 9% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.4% | 0.5% |  |
+| 16 | 0% | 0% |  |
 
 
