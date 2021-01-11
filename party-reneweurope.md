@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (-3 seats)
+Current median: **94** seats (-4 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 91–99 | 89–100 | 88–102 | 87–104 |
+| Renew Europe | EU | 98 | 94 | 90–99 | 89–100 | 88–102 | 86–104 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 5–10 | 4–10 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -59,7 +59,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -68,34 +68,35 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-12-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-01-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2020-12-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0.1% | 100% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0.1% | 99.9% |  |
 | 86 | 0.3% | 99.8% |  |
-| 87 | 0.7% | 99.6% |  |
-| 88 | 1.5% | 98.9% |  |
+| 87 | 0.8% | 99.5% |  |
+| 88 | 2% | 98.7% |  |
 | 89 | 3% | 97% |  |
-| 90 | 5% | 95% |  |
-| 91 | 7% | 90% |  |
-| 92 | 9% | 83% |  |
-| 93 | 11% | 74% |  |
-| 94 | 12% | 63% |  |
-| 95 | 12% | 51% | Median |
-| 96 | 11% | 39% |  |
+| 90 | 5% | 94% |  |
+| 91 | 7% | 89% |  |
+| 92 | 9% | 82% |  |
+| 93 | 11% | 73% |  |
+| 94 | 12% | 62% | Median |
+| 95 | 12% | 50% |  |
+| 96 | 10% | 38% |  |
 | 97 | 9% | 28% |  |
-| 98 | 7% | 20% | Last Result |
+| 98 | 7% | 19% | Last Result |
 | 99 | 5% | 13% |  |
 | 100 | 3% | 8% |  |
 | 101 | 2% | 5% |  |
-| 102 | 1.3% | 3% |  |
-| 103 | 0.7% | 1.5% |  |
+| 102 | 1.2% | 3% |  |
+| 103 | 0.7% | 1.4% |  |
 | 104 | 0.4% | 0.7% |  |
 | 105 | 0.2% | 0.3% |  |
-| 106 | 0.1% | 0.2% |  |
+| 106 | 0.1% | 0.1% |  |
 | 107 | 0% | 0.1% |  |
 | 108 | 0% | 0% |  |
 

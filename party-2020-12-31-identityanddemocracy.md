@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **70** seats (-6 seats)
+Current median: **71** seats (-5 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 70 | 67–74 | 66–75 | 65–75 | 64–77 |
-| Lega Nord | IT | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
+| Identity and Democracy | EU | 76 | 71 | 67–74 | 66–75 | 65–76 | 64–78 |
+| Lega Nord | IT | | 21 | 19–23 | 18–23 | 18–24 | 16–25 |
 | Rassemblement national | FR | | 21 | 21 | 21 | 21–22 | 20–23 |
-| Alternative für Deutschland | DE | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| Alternative für Deutschland | DE | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
 | Partij voor de Vrijheid | NL | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -45,21 +45,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0.1% | 100% |  |
 | 63 | 0.3% | 99.9% |  |
 | 64 | 0.8% | 99.6% |  |
-| 65 | 2% | 98.7% |  |
+| 65 | 2% | 98.8% |  |
 | 66 | 4% | 97% |  |
-| 67 | 7% | 93% |  |
-| 68 | 10% | 86% |  |
-| 69 | 13% | 76% |  |
-| 70 | 15% | 63% | Median |
-| 71 | 15% | 48% |  |
-| 72 | 12% | 33% |  |
-| 73 | 9% | 21% |  |
-| 74 | 6% | 12% |  |
-| 75 | 3% | 6% |  |
-| 76 | 2% | 2% | Last Result |
-| 77 | 0.6% | 0.9% |  |
-| 78 | 0.2% | 0.3% |  |
-| 79 | 0.1% | 0.1% |  |
-| 80 | 0% | 0% |  |
+| 67 | 6% | 93% |  |
+| 68 | 9% | 87% |  |
+| 69 | 12% | 78% |  |
+| 70 | 14% | 66% |  |
+| 71 | 14% | 53% | Median |
+| 72 | 13% | 38% |  |
+| 73 | 10% | 25% |  |
+| 74 | 7% | 15% |  |
+| 75 | 4% | 8% |  |
+| 76 | 2% | 4% | Last Result |
+| 77 | 1.0% | 2% |  |
+| 78 | 0.4% | 0.6% |  |
+| 79 | 0.1% | 0.2% |  |
+| 80 | 0% | 0.1% |  |
+| 81 | 0% | 0% |  |
 
 

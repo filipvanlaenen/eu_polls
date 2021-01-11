@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 186 | 180–191 | 178–193 | 177–194 | 174–197 |
+| European People’s Party | EU | 187 | 186 | 180–191 | 178–193 | 176–194 | 174–197 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 25–30 | 25–30 | 25–30 | 23–32 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
 | Partido Popular | ES | | 14 | 12–16 | 11–16 | 11–17 | 11–18 |
@@ -27,7 +27,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | Partidul Național Liberal | RO | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 7–8 | 7–9 | 6–9 | 5–10 |
+| Christlich-Soziale Union in Bayern | DE | | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–7 |
@@ -55,7 +55,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -73,9 +73,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-12-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-01-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2020-12-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -83,30 +83,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 0.1% | 99.9% |  |
 | 172 | 0.1% | 99.9% |  |
 | 173 | 0.2% | 99.8% |  |
-| 174 | 0.4% | 99.6% |  |
-| 175 | 0.6% | 99.2% |  |
-| 176 | 1.0% | 98.6% |  |
-| 177 | 1.5% | 98% |  |
+| 174 | 0.4% | 99.5% |  |
+| 175 | 0.7% | 99.1% |  |
+| 176 | 1.0% | 98% |  |
+| 177 | 2% | 97% |  |
 | 178 | 2% | 96% |  |
 | 179 | 3% | 94% |  |
-| 180 | 4% | 91% |  |
-| 181 | 5% | 87% |  |
-| 182 | 6% | 82% |  |
-| 183 | 7% | 76% |  |
-| 184 | 8% | 68% |  |
-| 185 | 9% | 60% |  |
-| 186 | 9% | 52% | Median |
-| 187 | 8% | 43% | Last Result |
-| 188 | 8% | 34% |  |
+| 180 | 4% | 90% |  |
+| 181 | 5% | 86% |  |
+| 182 | 6% | 81% |  |
+| 183 | 7% | 75% |  |
+| 184 | 8% | 67% |  |
+| 185 | 9% | 59% |  |
+| 186 | 9% | 50% | Median |
+| 187 | 8% | 42% | Last Result |
+| 188 | 8% | 33% |  |
 | 189 | 7% | 26% |  |
-| 190 | 6% | 20% |  |
-| 191 | 4% | 14% |  |
+| 190 | 5% | 19% |  |
+| 191 | 4% | 13% |  |
 | 192 | 3% | 9% |  |
 | 193 | 2% | 6% |  |
-| 194 | 2% | 4% |  |
-| 195 | 1.0% | 2% |  |
+| 194 | 1.5% | 4% |  |
+| 195 | 0.9% | 2% |  |
 | 196 | 0.6% | 1.2% |  |
-| 197 | 0.3% | 0.7% |  |
+| 197 | 0.3% | 0.6% |  |
 | 198 | 0.2% | 0.3% |  |
 | 199 | 0.1% | 0.2% |  |
 | 200 | 0% | 0.1% |  |

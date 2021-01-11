@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 128–140 | 127–141 | 125–143 | 122–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 129–140 | 127–142 | 126–143 | 123–146 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | Partidul Social Democrat | RO | | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | Partido Socialista | PT | | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -48,9 +48,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Liberi e Uguali | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
@@ -59,42 +59,42 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-01-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2020-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-01-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2020-12-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 119 | 0% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
 | 121 | 0.1% | 99.9% |  |
-| 122 | 0.3% | 99.7% |  |
+| 122 | 0.2% | 99.8% |  |
 | 123 | 0.4% | 99.5% |  |
-| 124 | 0.7% | 99.0% |  |
-| 125 | 1.1% | 98% |  |
-| 126 | 2% | 97% |  |
+| 124 | 0.6% | 99.2% |  |
+| 125 | 1.0% | 98.5% |  |
+| 126 | 2% | 98% |  |
 | 127 | 2% | 96% |  |
-| 128 | 3% | 93% |  |
-| 129 | 5% | 90% |  |
-| 130 | 6% | 85% |  |
-| 131 | 7% | 79% |  |
-| 132 | 8% | 73% |  |
-| 133 | 9% | 65% |  |
-| 134 | 9% | 56% | Median |
-| 135 | 9% | 47% |  |
-| 136 | 8% | 38% |  |
-| 137 | 7% | 30% |  |
-| 138 | 6% | 22% |  |
-| 139 | 5% | 16% |  |
-| 140 | 4% | 11% |  |
-| 141 | 3% | 7% |  |
-| 142 | 2% | 5% |  |
-| 143 | 1.2% | 3% |  |
-| 144 | 0.7% | 2% |  |
-| 145 | 0.4% | 1.0% |  |
-| 146 | 0.3% | 0.5% |  |
-| 147 | 0.1% | 0.3% | Last Result |
-| 148 | 0.1% | 0.1% |  |
+| 128 | 3% | 94% |  |
+| 129 | 4% | 91% |  |
+| 130 | 5% | 87% |  |
+| 131 | 7% | 81% |  |
+| 132 | 8% | 75% |  |
+| 133 | 8% | 67% |  |
+| 134 | 9% | 59% | Median |
+| 135 | 9% | 50% |  |
+| 136 | 9% | 41% |  |
+| 137 | 8% | 32% |  |
+| 138 | 7% | 24% |  |
+| 139 | 5% | 18% |  |
+| 140 | 4% | 13% |  |
+| 141 | 3% | 9% |  |
+| 142 | 2% | 6% |  |
+| 143 | 1.4% | 3% |  |
+| 144 | 0.9% | 2% |  |
+| 145 | 0.5% | 1.2% |  |
+| 146 | 0.3% | 0.6% |  |
+| 147 | 0.2% | 0.3% | Last Result |
+| 148 | 0.1% | 0.2% |  |
 | 149 | 0% | 0.1% |  |
 | 150 | 0% | 0% |  |
 
