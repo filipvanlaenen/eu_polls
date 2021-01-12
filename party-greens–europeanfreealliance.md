@@ -18,21 +18,21 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–52 | 40–53 |
-| Bündnis 90/Die Grünen | DE | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–52 | 41–53 | 40–55 |
+| Bündnis 90/Die Grünen | DE | | 18 | 16–20 | 16–21 | 16–22 | 15–23 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -48,37 +48,37 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2020-12-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-01-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2020-12-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2021-01-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
+| 39 | 0.2% | 100% |  |
 | 40 | 0.6% | 99.8% |  |
-| 41 | 2% | 99.3% |  |
+| 41 | 2% | 99.2% |  |
 | 42 | 4% | 97% |  |
-| 43 | 7% | 93% |  |
-| 44 | 11% | 86% |  |
-| 45 | 14% | 75% |  |
-| 46 | 15% | 61% | Median |
-| 47 | 14% | 46% |  |
-| 48 | 12% | 32% |  |
-| 49 | 9% | 20% |  |
-| 50 | 6% | 11% |  |
-| 51 | 3% | 6% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.7% | 1.0% |  |
-| 54 | 0.2% | 0.3% |  |
-| 55 | 0.1% | 0.1% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
+| 43 | 7% | 94% |  |
+| 44 | 10% | 87% |  |
+| 45 | 13% | 77% |  |
+| 46 | 14% | 64% | Median |
+| 47 | 14% | 50% |  |
+| 48 | 12% | 36% |  |
+| 49 | 9% | 24% |  |
+| 50 | 6% | 15% |  |
+| 51 | 4% | 9% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.4% | 3% |  |
+| 54 | 0.7% | 1.3% |  |
+| 55 | 0.4% | 0.6% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
