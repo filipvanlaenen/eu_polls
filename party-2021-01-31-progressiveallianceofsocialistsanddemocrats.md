@@ -39,13 +39,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialni demokrati | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -77,15 +77,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 3% | 94% |  |
 | 128 | 4% | 91% |  |
 | 129 | 5% | 87% |  |
-| 130 | 6% | 81% |  |
+| 130 | 6% | 82% |  |
 | 131 | 8% | 75% |  |
-| 132 | 8% | 67% |  |
+| 132 | 8% | 68% |  |
 | 133 | 9% | 59% |  |
-| 134 | 9% | 50% | Median |
-| 135 | 9% | 41% |  |
+| 134 | 9% | 51% | Median |
+| 135 | 9% | 42% |  |
 | 136 | 8% | 33% |  |
 | 137 | 7% | 25% |  |
-| 138 | 5% | 18% |  |
+| 138 | 5% | 19% |  |
 | 139 | 4% | 13% |  |
 | 140 | 3% | 9% |  |
 | 141 | 2% | 6% |  |
