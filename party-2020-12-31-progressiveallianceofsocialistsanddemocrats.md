@@ -41,7 +41,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -70,25 +70,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 0.1% | 99.9% |  |
 | 122 | 0.2% | 99.8% |  |
 | 123 | 0.4% | 99.5% |  |
-| 124 | 0.6% | 99.2% |  |
+| 124 | 0.6% | 99.1% |  |
 | 125 | 1.0% | 98.5% |  |
 | 126 | 2% | 98% |  |
 | 127 | 2% | 96% |  |
 | 128 | 3% | 94% |  |
 | 129 | 4% | 91% |  |
-| 130 | 5% | 87% |  |
+| 130 | 5% | 86% |  |
 | 131 | 7% | 81% |  |
 | 132 | 8% | 75% |  |
 | 133 | 8% | 67% |  |
-| 134 | 9% | 59% | Median |
+| 134 | 9% | 58% | Median |
 | 135 | 9% | 50% |  |
 | 136 | 9% | 41% |  |
 | 137 | 8% | 32% |  |
 | 138 | 7% | 24% |  |
 | 139 | 5% | 18% |  |
 | 140 | 4% | 13% |  |
-| 141 | 3% | 9% |  |
-| 142 | 2% | 6% |  |
+| 141 | 3% | 8% |  |
+| 142 | 2% | 5% |  |
 | 143 | 1.4% | 3% |  |
 | 144 | 0.9% | 2% |  |
 | 145 | 0.5% | 1.2% |  |
