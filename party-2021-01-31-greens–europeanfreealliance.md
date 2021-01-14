@@ -8,17 +8,17 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (-21 seats)
+Current median: **47** seats (-20 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, NL
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 41–52 | 40–55 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–50 | 42–52 | 42–53 | 40–55 |
 | Bündnis 90/Die Grünen | DE | | 18 | 16–20 | 16–21 | 16–22 | 15–23 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
 | Česká pirátská strana | CZ | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
@@ -30,6 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,7 +44,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
-| Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -60,24 +60,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.2% | 100% |  |
-| 40 | 0.7% | 99.8% |  |
-| 41 | 2% | 99.1% |  |
-| 42 | 4% | 97% |  |
-| 43 | 7% | 93% |  |
-| 44 | 10% | 86% |  |
-| 45 | 13% | 76% |  |
-| 46 | 14% | 63% | Median |
-| 47 | 14% | 48% |  |
-| 48 | 11% | 35% |  |
-| 49 | 9% | 23% |  |
-| 50 | 6% | 15% |  |
-| 51 | 4% | 9% |  |
-| 52 | 2% | 5% |  |
-| 53 | 1.3% | 2% |  |
-| 54 | 0.7% | 1.2% |  |
-| 55 | 0.3% | 0.5% |  |
-| 56 | 0.1% | 0.2% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.6% | 99.8% |  |
+| 41 | 2% | 99.3% |  |
+| 42 | 4% | 98% |  |
+| 43 | 6% | 94% |  |
+| 44 | 10% | 88% |  |
+| 45 | 13% | 78% |  |
+| 46 | 14% | 65% |  |
+| 47 | 14% | 51% | Median |
+| 48 | 12% | 37% |  |
+| 49 | 9% | 25% |  |
+| 50 | 7% | 16% |  |
+| 51 | 4% | 10% |  |
+| 52 | 3% | 5% |  |
+| 53 | 1.5% | 3% |  |
+| 54 | 0.8% | 1.4% |  |
+| 55 | 0.4% | 0.6% |  |
+| 56 | 0.2% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
