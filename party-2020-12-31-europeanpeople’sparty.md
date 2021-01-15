@@ -18,13 +18,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 185 | 180–191 | 178–193 | 176–194 | 174–197 |
+| European People’s Party | EU | 187 | 185 | 179–191 | 178–193 | 176–194 | 173–197 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 25–30 | 25–30 | 25–30 | 23–32 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
 | Partido Popular | ES | | 14 | 12–16 | 11–16 | 11–17 | 11–18 |
 | Koalicja Obywatelska | PL | | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
-| Νέα Δημοκρατία | GR | | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
+| Νέα Δημοκρατία | GR | | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | Partidul Național Liberal | RO | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | Österreichische Volkspartei | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
@@ -91,24 +91,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 3% | 93% |  |
 | 180 | 4% | 90% |  |
 | 181 | 5% | 86% |  |
-| 182 | 6% | 81% |  |
-| 183 | 7% | 74% |  |
-| 184 | 8% | 67% |  |
-| 185 | 9% | 59% | Median |
-| 186 | 9% | 50% |  |
-| 187 | 8% | 41% | Last Result |
-| 188 | 8% | 33% |  |
+| 182 | 7% | 80% |  |
+| 183 | 8% | 74% |  |
+| 184 | 8% | 66% |  |
+| 185 | 9% | 58% | Median |
+| 186 | 9% | 49% |  |
+| 187 | 8% | 40% | Last Result |
+| 188 | 8% | 32% |  |
 | 189 | 7% | 25% |  |
-| 190 | 5% | 19% |  |
+| 190 | 5% | 18% |  |
 | 191 | 4% | 13% |  |
 | 192 | 3% | 9% |  |
 | 193 | 2% | 6% |  |
-| 194 | 1.5% | 4% |  |
+| 194 | 1.4% | 3% |  |
 | 195 | 0.9% | 2% |  |
-| 196 | 0.6% | 1.2% |  |
+| 196 | 0.5% | 1.1% |  |
 | 197 | 0.3% | 0.6% |  |
 | 198 | 0.2% | 0.3% |  |
-| 199 | 0.1% | 0.2% |  |
+| 199 | 0.1% | 0.1% |  |
 | 200 | 0% | 0.1% |  |
 | 201 | 0% | 0% |  |
 
