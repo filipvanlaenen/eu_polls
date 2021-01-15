@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **94** seats (-4 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 94 | 90–98 | 89–99 | 88–100 | 86–103 |
+| Renew Europe | EU | 98 | 93 | 89–98 | 88–99 | 87–100 | 86–102 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
-| Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 5–9 | 4–10 |
+| Freie Demokratische Partei | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Democraten 66 | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Venstre | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,7 +43,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Laisvės partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -74,27 +74,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0.1% | 100% |  |
-| 85 | 0.2% | 99.9% |  |
-| 86 | 0.5% | 99.7% |  |
-| 87 | 1.2% | 99.2% |  |
-| 88 | 2% | 98% |  |
-| 89 | 4% | 96% |  |
-| 90 | 7% | 92% |  |
-| 91 | 9% | 85% |  |
-| 92 | 11% | 76% |  |
-| 93 | 12% | 65% |  |
-| 94 | 12% | 52% | Median |
-| 95 | 11% | 40% |  |
-| 96 | 9% | 29% |  |
-| 97 | 7% | 20% |  |
-| 98 | 5% | 13% | Last Result |
-| 99 | 3% | 8% |  |
+| 83 | 0% | 100% |  |
+| 84 | 0.1% | 99.9% |  |
+| 85 | 0.3% | 99.8% |  |
+| 86 | 0.7% | 99.5% |  |
+| 87 | 2% | 98.8% |  |
+| 88 | 3% | 97% |  |
+| 89 | 5% | 94% |  |
+| 90 | 7% | 89% |  |
+| 91 | 10% | 82% |  |
+| 92 | 11% | 73% |  |
+| 93 | 12% | 61% | Median |
+| 94 | 12% | 49% |  |
+| 95 | 11% | 37% |  |
+| 96 | 9% | 26% |  |
+| 97 | 6% | 18% |  |
+| 98 | 4% | 11% | Last Result |
+| 99 | 3% | 7% |  |
 | 100 | 2% | 4% |  |
-| 101 | 1.2% | 2% |  |
-| 102 | 0.7% | 1.3% |  |
-| 103 | 0.3% | 0.6% |  |
-| 104 | 0.2% | 0.3% |  |
+| 101 | 1.0% | 2% |  |
+| 102 | 0.5% | 1.0% |  |
+| 103 | 0.3% | 0.5% |  |
+| 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
 

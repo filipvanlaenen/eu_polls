@@ -31,12 +31,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
 | Обединени Патриоти | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,7 +55,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 0% | 100% |  |
 | 59 | 0.1% | 99.9% |  |
 | 60 | 0.3% | 99.8% |  |
-| 61 | 0.6% | 99.5% | Last Result |
+| 61 | 0.6% | 99.6% | Last Result |
 | 62 | 1.2% | 98.9% |  |
 | 63 | 2% | 98% |  |
 | 64 | 3% | 96% |  |
@@ -63,12 +63,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 6% | 88% |  |
 | 67 | 7% | 83% |  |
 | 68 | 8% | 76% |  |
-| 69 | 10% | 68% |  |
+| 69 | 9% | 68% |  |
 | 70 | 10% | 58% | Median |
 | 71 | 10% | 48% |  |
-| 72 | 10% | 37% |  |
+| 72 | 10% | 38% |  |
 | 73 | 8% | 28% |  |
-| 74 | 7% | 19% |  |
+| 74 | 7% | 20% |  |
 | 75 | 5% | 13% |  |
 | 76 | 3% | 8% |  |
 | 77 | 2% | 4% |  |
