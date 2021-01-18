@@ -18,14 +18,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 94 | 90–99 | 89–100 | 88–101 | 86–103 |
+| Renew Europe | EU | 98 | 94 | 90–99 | 89–100 | 88–101 | 86–104 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 5–10 | 4–10 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–6 | 3–6 | 3–7 | 2–7 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Democraten 66 | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Venstre | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -77,23 +77,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0.1% | 100% |  |
 | 85 | 0.2% | 99.9% |  |
 | 86 | 0.5% | 99.7% |  |
-| 87 | 1.2% | 99.1% |  |
+| 87 | 1.0% | 99.3% |  |
 | 88 | 2% | 98% |  |
-| 89 | 4% | 96% |  |
-| 90 | 6% | 92% |  |
-| 91 | 8% | 86% |  |
-| 92 | 10% | 78% |  |
-| 93 | 12% | 67% |  |
-| 94 | 12% | 56% | Median |
-| 95 | 11% | 44% |  |
-| 96 | 10% | 33% |  |
-| 97 | 8% | 23% |  |
-| 98 | 6% | 16% | Last Result |
-| 99 | 4% | 10% |  |
-| 100 | 3% | 6% |  |
+| 89 | 3% | 96% |  |
+| 90 | 6% | 93% |  |
+| 91 | 8% | 87% |  |
+| 92 | 10% | 79% |  |
+| 93 | 11% | 70% |  |
+| 94 | 12% | 58% | Median |
+| 95 | 11% | 46% |  |
+| 96 | 10% | 35% |  |
+| 97 | 8% | 25% |  |
+| 98 | 6% | 17% | Last Result |
+| 99 | 4% | 11% |  |
+| 100 | 3% | 7% |  |
 | 101 | 2% | 4% |  |
-| 102 | 0.9% | 2% |  |
-| 103 | 0.5% | 1.0% |  |
+| 102 | 1.0% | 2% |  |
+| 103 | 0.6% | 1.1% |  |
 | 104 | 0.3% | 0.5% |  |
 | 105 | 0.1% | 0.2% |  |
 | 106 | 0.1% | 0.1% |  |

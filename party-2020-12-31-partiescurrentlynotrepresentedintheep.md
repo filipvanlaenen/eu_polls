@@ -26,6 +26,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Code Oranje [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
