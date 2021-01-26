@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **134** seats (-13 seats)
+Current median: **135** seats (-12 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 129–140 | 127–142 | 125–143 | 122–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 129–141 | 128–142 | 126–144 | 123–146 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
@@ -39,13 +39,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialni demokrati | SI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -65,37 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 119 | 0% | 100% |  |
-| 120 | 0.1% | 99.9% |  |
+| 120 | 0% | 100% |  |
 | 121 | 0.1% | 99.9% |  |
-| 122 | 0.2% | 99.7% |  |
-| 123 | 0.4% | 99.5% |  |
-| 124 | 0.7% | 99.1% |  |
-| 125 | 1.1% | 98% |  |
-| 126 | 2% | 97% |  |
-| 127 | 2% | 96% |  |
-| 128 | 3% | 93% |  |
-| 129 | 4% | 90% |  |
-| 130 | 6% | 86% |  |
-| 131 | 7% | 80% |  |
-| 132 | 8% | 73% |  |
-| 133 | 9% | 66% |  |
-| 134 | 9% | 57% | Median |
-| 135 | 9% | 48% |  |
-| 136 | 8% | 39% |  |
-| 137 | 8% | 31% |  |
-| 138 | 6% | 23% |  |
-| 139 | 5% | 17% |  |
-| 140 | 4% | 12% |  |
-| 141 | 3% | 8% |  |
-| 142 | 2% | 5% |  |
-| 143 | 1.3% | 3% |  |
-| 144 | 0.8% | 2% |  |
-| 145 | 0.5% | 1.1% |  |
-| 146 | 0.3% | 0.6% |  |
-| 147 | 0.2% | 0.3% | Last Result |
-| 148 | 0.1% | 0.2% |  |
-| 149 | 0% | 0.1% |  |
-| 150 | 0% | 0% |  |
+| 122 | 0.2% | 99.8% |  |
+| 123 | 0.3% | 99.7% |  |
+| 124 | 0.5% | 99.4% |  |
+| 125 | 0.8% | 98.9% |  |
+| 126 | 1.2% | 98% |  |
+| 127 | 2% | 97% |  |
+| 128 | 3% | 95% |  |
+| 129 | 4% | 93% |  |
+| 130 | 5% | 89% |  |
+| 131 | 6% | 85% |  |
+| 132 | 7% | 79% |  |
+| 133 | 8% | 72% |  |
+| 134 | 9% | 64% |  |
+| 135 | 9% | 55% | Median |
+| 136 | 9% | 46% |  |
+| 137 | 8% | 37% |  |
+| 138 | 7% | 29% |  |
+| 139 | 6% | 22% |  |
+| 140 | 5% | 16% |  |
+| 141 | 4% | 11% |  |
+| 142 | 3% | 7% |  |
+| 143 | 2% | 5% |  |
+| 144 | 1.1% | 3% |  |
+| 145 | 0.7% | 2% |  |
+| 146 | 0.4% | 0.9% |  |
+| 147 | 0.2% | 0.5% | Last Result |
+| 148 | 0.1% | 0.3% |  |
+| 149 | 0.1% | 0.1% |  |
+| 150 | 0% | 0.1% |  |
+| 151 | 0% | 0% |  |
 
 

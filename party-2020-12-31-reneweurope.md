@@ -34,7 +34,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Lista Marjana Šarca | SI | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -79,15 +79,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0.4% | 99.7% |  |
 | 87 | 0.9% | 99.3% |  |
 | 88 | 2% | 98% |  |
-| 89 | 3% | 96% |  |
+| 89 | 3% | 97% |  |
 | 90 | 5% | 93% |  |
 | 91 | 8% | 88% |  |
 | 92 | 10% | 80% |  |
 | 93 | 11% | 70% |  |
 | 94 | 12% | 59% | Median |
 | 95 | 11% | 47% |  |
-| 96 | 10% | 35% |  |
-| 97 | 8% | 25% |  |
+| 96 | 10% | 36% |  |
+| 97 | 8% | 26% |  |
 | 98 | 6% | 17% | Last Result |
 | 99 | 4% | 11% |  |
 | 100 | 3% | 7% |  |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 1.1% | 2% |  |
 | 103 | 0.6% | 1.2% |  |
 | 104 | 0.3% | 0.6% |  |
-| 105 | 0.1% | 0.3% |  |
+| 105 | 0.2% | 0.3% |  |
 | 106 | 0.1% | 0.1% |  |
 | 107 | 0% | 0% |  |
 
