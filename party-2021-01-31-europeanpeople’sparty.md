@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 185 | 179–190 | 177–192 | 176–193 | 173–196 |
+| European People’s Party | EU | 187 | 185 | 179–190 | 177–192 | 175–193 | 173–196 |
 | Christlich Demokratische Union Deutschlands | DE | | 27 | 25–28 | 24–29 | 23–31 | 23–31 |
 | Les Républicains | FR | | 14 | 14 | 13–14 | 12–14 | 11–14 |
 | Partido Popular | ES | | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
@@ -27,8 +27,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Partidul Național Liberal | RO | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | Österreichische Volkspartei | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–8 | 5–10 | 5–10 |
-| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–10 | 4–10 |
+| Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–9 | 5–10 | 5–10 |
+| Forza Italia | IT | | 6 | 5–9 | 5–10 | 5–10 | 4–11 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -37,7 +37,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -52,7 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -79,32 +79,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 170 | 0.1% | 100% |  |
+| 169 | 0% | 100% |  |
+| 170 | 0.1% | 99.9% |  |
 | 171 | 0.1% | 99.9% |  |
 | 172 | 0.2% | 99.8% |  |
-| 173 | 0.4% | 99.6% |  |
-| 174 | 0.6% | 99.2% |  |
-| 175 | 1.0% | 98.6% |  |
-| 176 | 2% | 98% |  |
+| 173 | 0.4% | 99.5% |  |
+| 174 | 0.7% | 99.1% |  |
+| 175 | 1.0% | 98% |  |
+| 176 | 2% | 97% |  |
 | 177 | 2% | 96% |  |
 | 178 | 3% | 94% |  |
 | 179 | 4% | 91% |  |
-| 180 | 5% | 87% |  |
+| 180 | 5% | 86% |  |
 | 181 | 6% | 81% |  |
 | 182 | 7% | 75% |  |
-| 183 | 8% | 68% |  |
+| 183 | 8% | 67% |  |
 | 184 | 9% | 59% |  |
-| 185 | 9% | 51% | Median |
+| 185 | 9% | 50% | Median |
 | 186 | 8% | 42% |  |
 | 187 | 8% | 33% | Last Result |
 | 188 | 7% | 26% |  |
 | 189 | 6% | 19% |  |
-| 190 | 4% | 13% |  |
+| 190 | 4% | 14% |  |
 | 191 | 3% | 9% |  |
 | 192 | 2% | 6% |  |
 | 193 | 2% | 4% |  |
 | 194 | 1.0% | 2% |  |
-| 195 | 0.6% | 1.2% |  |
+| 195 | 0.6% | 1.3% |  |
 | 196 | 0.3% | 0.7% |  |
 | 197 | 0.2% | 0.3% |  |
 | 198 | 0.1% | 0.2% |  |

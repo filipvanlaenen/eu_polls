@@ -28,8 +28,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Sloboda a Solidarita | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Обединени Патриоти | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -55,26 +55,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
 | 60 | 0.2% | 99.9% |  |
-| 61 | 0.5% | 99.7% | Last Result |
+| 61 | 0.6% | 99.6% | Last Result |
 | 62 | 1.1% | 99.1% |  |
 | 63 | 2% | 98% |  |
 | 64 | 3% | 96% |  |
 | 65 | 4% | 93% |  |
 | 66 | 5% | 89% |  |
-| 67 | 7% | 84% |  |
+| 67 | 7% | 83% |  |
 | 68 | 8% | 77% |  |
-| 69 | 9% | 69% |  |
-| 70 | 10% | 60% | Median |
-| 71 | 11% | 49% |  |
-| 72 | 10% | 39% |  |
-| 73 | 9% | 29% |  |
+| 69 | 10% | 68% |  |
+| 70 | 10% | 59% | Median |
+| 71 | 11% | 48% |  |
+| 72 | 10% | 38% |  |
+| 73 | 9% | 28% |  |
 | 74 | 7% | 20% |  |
 | 75 | 5% | 13% |  |
-| 76 | 4% | 8% |  |
-| 77 | 2% | 5% |  |
-| 78 | 1.3% | 2% |  |
-| 79 | 0.6% | 1.1% |  |
-| 80 | 0.3% | 0.5% |  |
+| 76 | 3% | 8% |  |
+| 77 | 2% | 4% |  |
+| 78 | 1.2% | 2% |  |
+| 79 | 0.6% | 1.0% |  |
+| 80 | 0.3% | 0.4% |  |
 | 81 | 0.1% | 0.2% |  |
 | 82 | 0% | 0.1% |  |
 | 83 | 0% | 0% |  |

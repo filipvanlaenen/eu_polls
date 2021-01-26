@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **25 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -18,11 +18,11 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 89–98 | 88–99 | 87–101 | 85–103 |
+| Renew Europe | EU | 98 | 93 | 89–98 | 88–99 | 87–100 | 85–102 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–11 | 8–11 | 8–11 | 8–11 |
 | ANO 2011 | CZ | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
-| Freie Demokratische Partei | DE | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
+| Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -31,7 +31,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lista Marjana Šarca | SI | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -55,15 +55,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -74,30 +73,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0.1% | 100% |  |
-| 84 | 0.2% | 99.9% |  |
-| 85 | 0.5% | 99.6% |  |
-| 86 | 1.1% | 99.1% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0.1% | 99.9% |  |
+| 84 | 0.3% | 99.8% |  |
+| 85 | 0.6% | 99.6% |  |
+| 86 | 1.2% | 99.0% |  |
 | 87 | 2% | 98% |  |
-| 88 | 3% | 96% |  |
-| 89 | 5% | 93% |  |
-| 90 | 7% | 87% |  |
-| 91 | 9% | 80% |  |
-| 92 | 10% | 71% |  |
-| 93 | 11% | 61% | Median |
-| 94 | 11% | 50% |  |
-| 95 | 10% | 39% |  |
-| 96 | 9% | 29% |  |
-| 97 | 7% | 20% |  |
-| 98 | 5% | 13% | Last Result |
-| 99 | 3% | 8% |  |
-| 100 | 2% | 5% |  |
-| 101 | 1.3% | 3% |  |
-| 102 | 0.7% | 1.4% |  |
-| 103 | 0.4% | 0.7% |  |
-| 104 | 0.2% | 0.3% |  |
+| 88 | 4% | 96% |  |
+| 89 | 6% | 92% |  |
+| 90 | 8% | 86% |  |
+| 91 | 10% | 79% |  |
+| 92 | 11% | 69% |  |
+| 93 | 12% | 58% | Median |
+| 94 | 11% | 47% |  |
+| 95 | 10% | 35% |  |
+| 96 | 8% | 26% |  |
+| 97 | 6% | 17% |  |
+| 98 | 4% | 11% | Last Result |
+| 99 | 3% | 7% |  |
+| 100 | 2% | 4% |  |
+| 101 | 1.0% | 2% |  |
+| 102 | 0.5% | 1.0% |  |
+| 103 | 0.3% | 0.5% |  |
+| 104 | 0.1% | 0.2% |  |
 | 105 | 0.1% | 0.1% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 106 | 0% | 0% |  |
 
 
