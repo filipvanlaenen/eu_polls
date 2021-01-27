@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (-21 seats)
+Current median: **51** seats (-16 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–49 | 42–50 | 41–51 | 40–53 |
+| Greens–European Free Alliance | EU | 67 | 51 | 47–54 | 47–55 | 46–56 | 45–58 |
 | Bündnis 90/Die Grünen | DE | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6–7 | 5–7 |
-| Česká pirátská strana | CZ | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Česká pirátská strana | CZ | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -60,28 +60,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.2% | 100% |  |
-| 40 | 0.7% | 99.8% |  |
-| 41 | 2% | 99.1% |  |
-| 42 | 5% | 97% |  |
-| 43 | 8% | 92% |  |
-| 44 | 12% | 84% |  |
-| 45 | 14% | 72% |  |
-| 46 | 15% | 57% | Median |
-| 47 | 14% | 42% |  |
-| 48 | 11% | 28% |  |
-| 49 | 8% | 17% |  |
-| 50 | 5% | 9% |  |
-| 51 | 3% | 4% |  |
-| 52 | 1.2% | 2% |  |
-| 53 | 0.5% | 0.7% |  |
-| 54 | 0.2% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.4% | 99.9% |  |
+| 45 | 1.3% | 99.5% |  |
+| 46 | 3% | 98% |  |
+| 47 | 6% | 95% |  |
+| 48 | 9% | 90% |  |
+| 49 | 12% | 80% |  |
+| 50 | 14% | 68% |  |
+| 51 | 15% | 54% | Median |
+| 52 | 13% | 39% |  |
+| 53 | 10% | 26% |  |
+| 54 | 7% | 16% |  |
+| 55 | 4% | 8% |  |
+| 56 | 2% | 4% |  |
+| 57 | 1.1% | 2% |  |
+| 58 | 0.4% | 0.6% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
