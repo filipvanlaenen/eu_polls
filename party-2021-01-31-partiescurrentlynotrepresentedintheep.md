@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **11** seats (+11 seats)
+Current median: **12** seats (+12 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 11 | 5–13 | 4–13 | 3–14 | 2–15 |
-| Polska 2050 [PL] (*) | PL | | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
+| Parties currently not represented in the EP | EU | 0 | 12 | 9–16 | 9–17 | 8–18 | 8–19 |
+| Polska 2050 [PL] (*) | PL | | 7 | 6–12 | 6–13 | 6–13 | 5–14 |
 | Има такъв народ [BG] (*) | BG | | 2 | 1–3 | 1–3 | 1–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -50,22 +50,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 1.5% | 99.9% |  |
-| 3 | 2% | 98% |  |
-| 4 | 4% | 97% |  |
-| 5 | 3% | 92% |  |
-| 6 | 1.2% | 89% |  |
-| 7 | 2% | 88% |  |
-| 8 | 6% | 86% |  |
-| 9 | 12% | 81% |  |
-| 10 | 17% | 69% |  |
-| 11 | 22% | 52% | Median |
-| 12 | 17% | 31% |  |
-| 13 | 9% | 13% |  |
-| 14 | 3% | 5% |  |
-| 15 | 1.0% | 1.1% |  |
-| 16 | 0.2% | 0.2% |  |
-| 17 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 3% | 99.6% |  |
+| 9 | 7% | 97% |  |
+| 10 | 13% | 89% |  |
+| 11 | 19% | 76% |  |
+| 12 | 15% | 57% | Median |
+| 13 | 8% | 43% |  |
+| 14 | 8% | 34% |  |
+| 15 | 9% | 26% |  |
+| 16 | 8% | 17% |  |
+| 17 | 6% | 9% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.6% | 0.6% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
