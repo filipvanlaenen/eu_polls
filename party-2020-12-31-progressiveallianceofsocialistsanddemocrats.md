@@ -43,7 +43,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -77,9 +77,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 128 | 4% | 93% |  |
 | 129 | 5% | 89% |  |
 | 130 | 6% | 84% |  |
-| 131 | 7% | 79% |  |
-| 132 | 8% | 72% |  |
-| 133 | 9% | 64% |  |
+| 131 | 7% | 78% |  |
+| 132 | 8% | 71% |  |
+| 133 | 9% | 63% |  |
 | 134 | 9% | 55% | Median |
 | 135 | 9% | 46% |  |
 | 136 | 8% | 37% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 0.7% | 2% |  |
 | 145 | 0.4% | 0.9% |  |
 | 146 | 0.2% | 0.5% |  |
-| 147 | 0.1% | 0.3% | Last Result |
+| 147 | 0.1% | 0.2% | Last Result |
 | 148 | 0.1% | 0.1% |  |
 | 149 | 0% | 0.1% |  |
 | 150 | 0% | 0% |  |

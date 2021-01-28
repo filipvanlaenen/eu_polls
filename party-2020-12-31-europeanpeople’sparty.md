@@ -43,13 +43,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Koalicja Polska | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Starostové a nezávislí | CZ | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Starostové a nezávislí | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -104,8 +104,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 193 | 2% | 5% |  |
 | 194 | 1.3% | 3% |  |
 | 195 | 0.8% | 2% |  |
-| 196 | 0.5% | 1.0% |  |
-| 197 | 0.3% | 0.5% |  |
+| 196 | 0.5% | 0.9% |  |
+| 197 | 0.2% | 0.5% |  |
 | 198 | 0.1% | 0.2% |  |
 | 199 | 0.1% | 0.1% |  |
 | 200 | 0% | 0% |  |
