@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> CY, ES, FI, GR, HR, HU, IT, PL, SI, SK
+> BG, CY, ES, FI, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 22 | 19–25 | 18–26 | 18–27 | 16–29 |
-| Movimento 5 Stelle | IT | | 13 | 11–14 | 11–15 | 10–15 | 10–17 |
+| Non-Inscrits | EU | 29 | 22 | 19–25 | 18–26 | 17–27 | 16–29 |
+| Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
 | Konfederacja | PL | | 3 | 3–5 | 2–6 | 0–6 | 0–6 |
 | Jobbik | HU | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -32,6 +32,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -44,21 +45,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 0.2% | 99.9% |  |
 | 16 | 0.6% | 99.7% |  |
-| 17 | 2% | 99.1% |  |
-| 18 | 4% | 98% |  |
-| 19 | 8% | 94% |  |
-| 20 | 13% | 86% |  |
-| 21 | 16% | 73% |  |
-| 22 | 17% | 57% | Median |
-| 23 | 14% | 40% |  |
-| 24 | 11% | 26% |  |
-| 25 | 7% | 15% |  |
-| 26 | 4% | 8% |  |
+| 17 | 2% | 99.0% |  |
+| 18 | 4% | 97% |  |
+| 19 | 8% | 93% |  |
+| 20 | 13% | 85% |  |
+| 21 | 15% | 72% |  |
+| 22 | 16% | 56% | Median |
+| 23 | 14% | 41% |  |
+| 24 | 11% | 27% |  |
+| 25 | 7% | 16% |  |
+| 26 | 4% | 9% |  |
 | 27 | 2% | 4% |  |
-| 28 | 1.0% | 2% |  |
-| 29 | 0.4% | 0.6% | Last Result |
-| 30 | 0.1% | 0.2% |  |
-| 31 | 0% | 0.1% |  |
+| 28 | 1.2% | 2% |  |
+| 29 | 0.5% | 0.8% | Last Result |
+| 30 | 0.2% | 0.3% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 
