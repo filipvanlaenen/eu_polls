@@ -18,9 +18,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 4–12 | 4–13 | 3–14 | 2–15 |
-| Polska 2050 [PL] (*) | PL | | 7 | 5–9 | 5–9 | 4–10 | 4–10 |
-| Има такъв народ [BG] (*) | BG | | 2 | 1–3 | 1–3 | 1–4 | 0–4 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 4–13 | 3–13 | 2–14 | 2–15 |
+| Polska 2050 [PL] (*) | PL | | 7 | 5–9 | 4–9 | 4–10 | 4–10 |
+| Има такъв народ [BG] (*) | BG | | 3 | 1–3 | 1–4 | 1–4 | 0–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -51,22 +51,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 2% | 99.8% |  |
-| 3 | 2% | 98% |  |
-| 4 | 6% | 96% |  |
-| 5 | 2% | 89% |  |
-| 6 | 1.0% | 88% |  |
-| 7 | 2% | 87% |  |
-| 8 | 6% | 84% |  |
-| 9 | 13% | 78% |  |
-| 10 | 17% | 65% | Median |
-| 11 | 23% | 48% |  |
-| 12 | 15% | 25% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 4% | 99.6% |  |
+| 3 | 3% | 95% |  |
+| 4 | 11% | 92% |  |
+| 5 | 6% | 81% |  |
+| 6 | 1.3% | 75% |  |
+| 7 | 2% | 74% |  |
+| 8 | 6% | 72% |  |
+| 9 | 11% | 66% |  |
+| 10 | 13% | 55% | Median |
+| 11 | 18% | 42% |  |
+| 12 | 14% | 24% |  |
 | 13 | 7% | 10% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.5% | 0.5% |  |
-| 16 | 0% | 0.1% |  |
+| 14 | 3% | 4% |  |
+| 15 | 0.7% | 0.8% |  |
+| 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
 

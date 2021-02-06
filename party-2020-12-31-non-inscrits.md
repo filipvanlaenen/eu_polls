@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
+| Non-Inscrits | EU | 29 | 20 | 17–24 | 16–25 | 16–26 | 14–28 |
 | Movimento 5 Stelle | IT | | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
 | Konfederacja | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Jobbik | HU | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Kukiz’15 | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| Kukiz’15 | PL | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -43,20 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.7% | 99.8% |  |
-| 15 | 2% | 99.1% |  |
-| 16 | 5% | 97% |  |
-| 17 | 7% | 92% |  |
-| 18 | 10% | 84% |  |
-| 19 | 13% | 74% |  |
-| 20 | 15% | 61% | Median |
-| 21 | 14% | 46% |  |
-| 22 | 11% | 32% |  |
-| 23 | 8% | 21% |  |
-| 24 | 5% | 13% |  |
+| 14 | 0.5% | 99.9% |  |
+| 15 | 2% | 99.4% |  |
+| 16 | 4% | 98% |  |
+| 17 | 6% | 94% |  |
+| 18 | 9% | 88% |  |
+| 19 | 14% | 78% |  |
+| 20 | 16% | 65% | Median |
+| 21 | 15% | 49% |  |
+| 22 | 12% | 34% |  |
+| 23 | 8% | 22% |  |
+| 24 | 6% | 14% |  |
 | 25 | 4% | 8% |  |
 | 26 | 2% | 4% |  |
-| 27 | 1.1% | 2% |  |
+| 27 | 1.2% | 2% |  |
 | 28 | 0.6% | 1.1% |  |
 | 29 | 0.3% | 0.5% | Last Result |
 | 30 | 0.1% | 0.2% |  |
