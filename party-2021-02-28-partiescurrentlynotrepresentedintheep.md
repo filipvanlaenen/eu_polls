@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> BE, BG, DK, EE, FR, HR, IE, IT, LU, NL, PL, SK
+> BE, BG, DK, EE, FR, HR, IE, IT, LU, LV, NL, PL, SK
 
 ## Seats
 
@@ -33,6 +33,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |

@@ -18,16 +18,16 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 71 | 68–75 | 67–75 | 66–76 | 65–78 |
+| Identity and Democracy | EU | 76 | 71 | 68–75 | 67–76 | 67–76 | 65–78 |
+| Lega Nord | IT | | 21 | 18–22 | 18–23 | 18–24 | 17–25 |
 | Rassemblement national | FR | | 21 | 21 | 21 | 21–22 | 20–23 |
-| Lega Nord | IT | | 20 | 18–23 | 18–23 | 18–24 | 17–25 |
-| Alternative für Deutschland | DE | | 9 | 7–11 | 7–11 | 7–11 | 7–11 |
+| Alternative für Deutschland | DE | | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
 | Partij voor de Vrijheid | NL | | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Freiheitliche Partei Österreichs | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,11 +42,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0% | 100% |  |
-| 64 | 0.2% | 99.9% |  |
-| 65 | 0.6% | 99.7% |  |
-| 66 | 2% | 99.1% |  |
-| 67 | 4% | 97% |  |
+| 64 | 0.2% | 100% |  |
+| 65 | 0.6% | 99.8% |  |
+| 66 | 2% | 99.2% |  |
+| 67 | 4% | 98% |  |
 | 68 | 7% | 94% |  |
 | 69 | 11% | 87% |  |
 | 70 | 14% | 76% |  |
@@ -56,8 +55,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 9% | 19% |  |
 | 75 | 5% | 10% |  |
 | 76 | 3% | 5% | Last Result |
-| 77 | 1.3% | 2% |  |
-| 78 | 0.5% | 0.8% |  |
+| 77 | 1.4% | 2% |  |
+| 78 | 0.6% | 0.9% |  |
 | 79 | 0.2% | 0.3% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
