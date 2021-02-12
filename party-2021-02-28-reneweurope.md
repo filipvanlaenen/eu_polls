@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **90** seats (-8 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–97 | 87–98 | 86–99 | 84–102 |
-| La République en marche–Mouvement démocrate | FR | | 23 | 23 | 22–23 | 21–23 | 20–23 |
+| Renew Europe | EU | 98 | 90 | 86–95 | 84–96 | 83–98 | 81–100 |
+| La République en marche–Mouvement démocrate | FR | | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 8–10 | 7–10 | 7–11 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
@@ -38,9 +38,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
+| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| Eesti 200 | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Eesti 200 | EE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -49,7 +49,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,29 +72,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0.1% | 100% |  |
-| 83 | 0.2% | 99.9% |  |
-| 84 | 0.5% | 99.7% |  |
-| 85 | 1.0% | 99.2% |  |
-| 86 | 2% | 98% |  |
-| 87 | 3% | 96% |  |
-| 88 | 5% | 93% |  |
-| 89 | 7% | 88% |  |
-| 90 | 9% | 80% |  |
-| 91 | 11% | 71% |  |
-| 92 | 12% | 60% | Median |
-| 93 | 11% | 48% |  |
-| 94 | 10% | 37% |  |
-| 95 | 8% | 26% |  |
-| 96 | 6% | 18% |  |
-| 97 | 5% | 12% |  |
-| 98 | 3% | 7% | Last Result |
-| 99 | 2% | 4% |  |
-| 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.1% |  |
-| 102 | 0.3% | 0.5% |  |
-| 103 | 0.1% | 0.2% |  |
-| 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0% |  |
+| 79 | 0.1% | 100% |  |
+| 80 | 0.2% | 99.9% |  |
+| 81 | 0.4% | 99.7% |  |
+| 82 | 0.8% | 99.3% |  |
+| 83 | 2% | 98% |  |
+| 84 | 3% | 97% |  |
+| 85 | 4% | 94% |  |
+| 86 | 6% | 90% |  |
+| 87 | 8% | 84% |  |
+| 88 | 9% | 77% |  |
+| 89 | 10% | 67% |  |
+| 90 | 11% | 57% | Median |
+| 91 | 11% | 46% |  |
+| 92 | 9% | 35% |  |
+| 93 | 8% | 26% |  |
+| 94 | 6% | 18% |  |
+| 95 | 4% | 12% |  |
+| 96 | 3% | 8% |  |
+| 97 | 2% | 5% |  |
+| 98 | 1.2% | 3% | Last Result |
+| 99 | 0.7% | 1.4% |  |
+| 100 | 0.4% | 0.7% |  |
+| 101 | 0.2% | 0.3% |  |
+| 102 | 0.1% | 0.2% |  |
+| 103 | 0% | 0.1% |  |
+| 104 | 0% | 0% |  |
 
 
