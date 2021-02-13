@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **71** seats (+10 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, ES, FR, GR, HR, IT, LV, PL, RO, SE, SK
+> BE, CZ, ES, FR, GR, HR, IT, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -33,7 +33,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
-| Обединени Патриоти | BG | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,6 +44,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
+| Обединени Патриоти | BG | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 
 ### Probability Mass Function
 
@@ -55,23 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
-| 60 | 0.3% | 99.9% |  |
+| 60 | 0.3% | 99.8% |  |
 | 61 | 0.6% | 99.6% | Last Result |
-| 62 | 1.2% | 99.0% |  |
+| 62 | 1.2% | 98.9% |  |
 | 63 | 2% | 98% |  |
 | 64 | 3% | 96% |  |
 | 65 | 4% | 93% |  |
-| 66 | 5% | 89% |  |
+| 66 | 5% | 88% |  |
 | 67 | 6% | 83% |  |
 | 68 | 8% | 77% |  |
 | 69 | 8% | 69% |  |
 | 70 | 9% | 61% |  |
 | 71 | 9% | 52% | Median |
-| 72 | 9% | 43% |  |
-| 73 | 8% | 35% |  |
+| 72 | 8% | 43% |  |
+| 73 | 8% | 34% |  |
 | 74 | 7% | 27% |  |
 | 75 | 6% | 20% |  |
-| 76 | 4% | 15% |  |
+| 76 | 4% | 14% |  |
 | 77 | 3% | 10% |  |
 | 78 | 3% | 7% |  |
 | 79 | 2% | 4% |  |
