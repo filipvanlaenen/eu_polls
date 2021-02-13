@@ -34,15 +34,15 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
-| Darbo Partija | LT | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Darbo Partija | LT | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Eesti 200 | EE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Laisvės partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -76,19 +76,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 0.2% | 99.9% |  |
 | 81 | 0.4% | 99.7% |  |
 | 82 | 0.8% | 99.3% |  |
-| 83 | 2% | 98% |  |
+| 83 | 1.5% | 98.6% |  |
 | 84 | 3% | 97% |  |
-| 85 | 4% | 94% |  |
-| 86 | 6% | 90% |  |
-| 87 | 8% | 84% |  |
+| 85 | 4% | 95% |  |
+| 86 | 6% | 91% |  |
+| 87 | 8% | 85% |  |
 | 88 | 9% | 77% |  |
-| 89 | 10% | 67% |  |
-| 90 | 11% | 57% | Median |
-| 91 | 11% | 46% |  |
-| 92 | 9% | 35% |  |
-| 93 | 8% | 26% |  |
-| 94 | 6% | 18% |  |
-| 95 | 4% | 12% |  |
+| 89 | 10% | 68% |  |
+| 90 | 11% | 58% | Median |
+| 91 | 11% | 47% |  |
+| 92 | 10% | 36% |  |
+| 93 | 8% | 27% |  |
+| 94 | 6% | 19% |  |
+| 95 | 5% | 12% |  |
 | 96 | 3% | 8% |  |
 | 97 | 2% | 5% |  |
 | 98 | 1.2% | 3% | Last Result |

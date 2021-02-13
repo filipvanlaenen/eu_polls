@@ -35,7 +35,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -52,6 +51,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -64,16 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
-| 42 | 0.8% | 99.6% |  |
-| 43 | 2% | 98.8% |  |
-| 44 | 3% | 97% |  |
-| 45 | 6% | 94% |  |
-| 46 | 8% | 88% |  |
-| 47 | 11% | 79% |  |
-| 48 | 13% | 68% |  |
-| 49 | 14% | 55% | Median |
-| 50 | 13% | 42% |  |
-| 51 | 11% | 29% |  |
+| 42 | 0.9% | 99.5% |  |
+| 43 | 2% | 98.7% |  |
+| 44 | 4% | 97% |  |
+| 45 | 6% | 93% |  |
+| 46 | 9% | 87% |  |
+| 47 | 11% | 78% |  |
+| 48 | 13% | 67% |  |
+| 49 | 13% | 54% | Median |
+| 50 | 13% | 41% |  |
+| 51 | 10% | 28% |  |
 | 52 | 8% | 18% |  |
 | 53 | 5% | 10% |  |
 | 54 | 3% | 5% |  |
