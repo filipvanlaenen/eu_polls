@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **71** seats (+10 seats)
+Current median: **70** seats (+9 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 71 | 65–76 | 64–77 | 63–78 | 61–80 |
-| Zjednoczona Prawica | PL | | 18 | 14–23 | 14–23 | 13–24 | 13–24 |
+| European Conservatives and Reformists | EU | 61 | 70 | 65–75 | 64–77 | 63–78 | 61–80 |
+| Zjednoczona Prawica | PL | | 18 | 15–22 | 15–23 | 14–24 | 14–25 |
 | Fratelli d’Italia | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | Vox | ES | | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -54,31 +54,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0% | 100% |  |
-| 59 | 0.1% | 99.9% |  |
-| 60 | 0.3% | 99.8% |  |
-| 61 | 0.6% | 99.6% | Last Result |
-| 62 | 1.2% | 99.0% |  |
-| 63 | 2% | 98% |  |
-| 64 | 3% | 96% |  |
-| 65 | 4% | 93% |  |
-| 66 | 6% | 88% |  |
-| 67 | 7% | 82% |  |
-| 68 | 8% | 75% |  |
-| 69 | 9% | 67% |  |
-| 70 | 9% | 59% |  |
-| 71 | 9% | 50% | Median |
-| 72 | 9% | 41% |  |
-| 73 | 8% | 33% |  |
-| 74 | 7% | 25% |  |
-| 75 | 6% | 18% |  |
-| 76 | 5% | 12% |  |
-| 77 | 3% | 7% |  |
-| 78 | 2% | 4% |  |
-| 79 | 1.1% | 2% |  |
-| 80 | 0.6% | 1.0% |  |
+| 59 | 0% | 100% |  |
+| 60 | 0.1% | 99.9% |  |
+| 61 | 0.3% | 99.8% | Last Result |
+| 62 | 0.8% | 99.5% |  |
+| 63 | 2% | 98.7% |  |
+| 64 | 3% | 97% |  |
+| 65 | 4% | 94% |  |
+| 66 | 6% | 90% |  |
+| 67 | 8% | 84% |  |
+| 68 | 10% | 75% |  |
+| 69 | 11% | 66% |  |
+| 70 | 11% | 55% | Median |
+| 71 | 10% | 44% |  |
+| 72 | 9% | 35% |  |
+| 73 | 7% | 26% |  |
+| 74 | 6% | 19% |  |
+| 75 | 4% | 13% |  |
+| 76 | 3% | 9% |  |
+| 77 | 2% | 6% |  |
+| 78 | 1.5% | 3% |  |
+| 79 | 0.9% | 2% |  |
+| 80 | 0.5% | 0.9% |  |
 | 81 | 0.2% | 0.4% |  |
-| 82 | 0.1% | 0.1% |  |
-| 83 | 0% | 0% |  |
+| 82 | 0.1% | 0.2% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0% |  |
 
 

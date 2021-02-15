@@ -20,7 +20,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 90 | 86–95 | 84–96 | 83–98 | 81–100 |
 | La République en marche–Mouvement démocrate | FR | | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 8–10 | 7–10 | 7–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 8–10 | 7–10 | 7–10 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -47,7 +47,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -75,26 +75,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 79 | 0.1% | 100% |  |
 | 80 | 0.2% | 99.9% |  |
 | 81 | 0.4% | 99.7% |  |
-| 82 | 0.8% | 99.3% |  |
-| 83 | 1.5% | 98.6% |  |
-| 84 | 3% | 97% |  |
+| 82 | 0.8% | 99.4% |  |
+| 83 | 1.4% | 98.6% |  |
+| 84 | 2% | 97% |  |
 | 85 | 4% | 95% |  |
 | 86 | 6% | 91% |  |
-| 87 | 8% | 85% |  |
-| 88 | 9% | 77% |  |
-| 89 | 10% | 68% |  |
+| 87 | 7% | 85% |  |
+| 88 | 9% | 78% |  |
+| 89 | 10% | 69% |  |
 | 90 | 11% | 58% | Median |
 | 91 | 11% | 47% |  |
-| 92 | 10% | 36% |  |
+| 92 | 10% | 37% |  |
 | 93 | 8% | 27% |  |
 | 94 | 6% | 19% |  |
-| 95 | 5% | 12% |  |
+| 95 | 5% | 13% |  |
 | 96 | 3% | 8% |  |
 | 97 | 2% | 5% |  |
-| 98 | 1.2% | 3% | Last Result |
-| 99 | 0.7% | 1.4% |  |
-| 100 | 0.4% | 0.7% |  |
-| 101 | 0.2% | 0.3% |  |
+| 98 | 1.3% | 3% | Last Result |
+| 99 | 0.7% | 1.5% |  |
+| 100 | 0.4% | 0.8% |  |
+| 101 | 0.2% | 0.4% |  |
 | 102 | 0.1% | 0.2% |  |
 | 103 | 0% | 0.1% |  |
 | 104 | 0% | 0% |  |
