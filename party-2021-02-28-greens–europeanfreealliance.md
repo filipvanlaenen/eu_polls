@@ -23,7 +23,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Česká pirátská strana | CZ | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
-| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.7% | 99.7% |  |
+| 42 | 0.7% | 99.6% |  |
 | 43 | 2% | 99.0% |  |
 | 44 | 3% | 97% |  |
 | 45 | 5% | 94% |  |
@@ -74,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 13% | 58% | Median |
 | 50 | 13% | 45% |  |
 | 51 | 11% | 32% |  |
-| 52 | 9% | 21% |  |
-| 53 | 6% | 13% |  |
-| 54 | 4% | 7% |  |
+| 52 | 8% | 21% |  |
+| 53 | 6% | 12% |  |
+| 54 | 3% | 7% |  |
 | 55 | 2% | 3% |  |
-| 56 | 0.9% | 1.4% |  |
+| 56 | 0.8% | 1.4% |  |
 | 57 | 0.3% | 0.5% |  |
 | 58 | 0.1% | 0.2% |  |
 | 59 | 0% | 0.1% |  |

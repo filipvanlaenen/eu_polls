@@ -24,7 +24,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| Socialistische Partij | NL | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Socialistische Partij | NL | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
