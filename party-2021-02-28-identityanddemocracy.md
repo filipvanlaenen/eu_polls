@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **72** seats (-4 seats)
+Current median: **73** seats (-3 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 72 | 68–76 | 67–77 | 66–78 | 65–79 |
+| Identity and Democracy | EU | 76 | 73 | 69–77 | 68–78 | 67–79 | 65–80 |
 | Rassemblement national | FR | | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
 | Lega Nord | IT | | 20 | 18–23 | 18–23 | 17–24 | 17–25 |
-| Alternative für Deutschland | DE | | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
-| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
+| Alternative für Deutschland | DE | | 9 | 8–11 | 7–12 | 7–12 | 7–13 |
+| Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -42,26 +42,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0.1% | 100% |  |
-| 64 | 0.3% | 99.9% |  |
-| 65 | 0.7% | 99.6% |  |
-| 66 | 2% | 99.0% |  |
-| 67 | 3% | 97% |  |
-| 68 | 6% | 94% |  |
-| 69 | 8% | 89% |  |
-| 70 | 11% | 80% |  |
-| 71 | 13% | 69% |  |
-| 72 | 14% | 56% | Median |
-| 73 | 13% | 42% |  |
-| 74 | 11% | 29% |  |
-| 75 | 8% | 18% |  |
-| 76 | 5% | 11% | Last Result |
-| 77 | 3% | 6% |  |
-| 78 | 2% | 3% |  |
-| 79 | 0.7% | 1.2% |  |
-| 80 | 0.3% | 0.5% |  |
-| 81 | 0.1% | 0.2% |  |
-| 82 | 0% | 0.1% |  |
-| 83 | 0% | 0% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0.1% | 99.9% |  |
+| 65 | 0.4% | 99.8% |  |
+| 66 | 1.0% | 99.4% |  |
+| 67 | 2% | 98% |  |
+| 68 | 4% | 96% |  |
+| 69 | 6% | 92% |  |
+| 70 | 9% | 86% |  |
+| 71 | 12% | 77% |  |
+| 72 | 13% | 65% |  |
+| 73 | 13% | 52% | Median |
+| 74 | 12% | 39% |  |
+| 75 | 10% | 27% |  |
+| 76 | 7% | 17% | Last Result |
+| 77 | 5% | 10% |  |
+| 78 | 3% | 5% |  |
+| 79 | 1.5% | 3% |  |
+| 80 | 0.7% | 1.2% |  |
+| 81 | 0.3% | 0.5% |  |
+| 82 | 0.1% | 0.2% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0% |  |
 
 

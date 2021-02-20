@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 22 | 19–26 | 18–27 | 17–29 | 16–31 |
+| Non-Inscrits | EU | 29 | 22 | 19–26 | 18–28 | 17–29 | 16–31 |
 | Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 10–16 | 9–17 |
 | Konfederacja | PL | | 4 | 3–6 | 2–6 | 0–6 | 0–7 |
 | Jobbik | HU | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
@@ -27,7 +27,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -47,20 +47,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.8% | 99.6% |  |
 | 17 | 2% | 98.8% |  |
 | 18 | 4% | 97% |  |
-| 19 | 8% | 93% |  |
-| 20 | 11% | 85% |  |
+| 19 | 7% | 93% |  |
+| 20 | 11% | 86% |  |
 | 21 | 14% | 74% |  |
-| 22 | 14% | 60% | Median |
-| 23 | 13% | 46% |  |
-| 24 | 11% | 33% |  |
+| 22 | 14% | 61% | Median |
+| 23 | 13% | 47% |  |
+| 24 | 11% | 34% |  |
 | 25 | 8% | 23% |  |
-| 26 | 6% | 14% |  |
+| 26 | 6% | 15% |  |
 | 27 | 4% | 9% |  |
 | 28 | 2% | 5% |  |
-| 29 | 1.3% | 3% | Last Result |
+| 29 | 1.4% | 3% | Last Result |
 | 30 | 0.7% | 1.3% |  |
-| 31 | 0.3% | 0.6% |  |
-| 32 | 0.1% | 0.2% |  |
+| 31 | 0.4% | 0.6% |  |
+| 32 | 0.2% | 0.2% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 

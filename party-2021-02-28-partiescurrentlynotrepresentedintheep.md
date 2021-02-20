@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> BE, BG, DK, EE, FR, HR, IE, IT, LU, LV, NL, PL, SK
+> BE, BG, DK, FR, HR, IE, IT, LU, LV, NL, PL, SK
 
 ## Seats
 
@@ -18,11 +18,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 12–21 | 8–23 | 7–24 | 6–26 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 11–21 | 7–23 | 7–24 | 6–25 |
 | Polska 2050 [PL] (*) | PL | | 10 | 8–14 | 7–16 | 7–16 | 7–17 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Има такъв народ [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -32,17 +31,16 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Piratenpartij [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -57,29 +55,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0.9% | 100% |  |
-| 7 | 3% | 99.1% |  |
-| 8 | 4% | 96% |  |
-| 9 | 2% | 92% |  |
-| 10 | 0.4% | 90% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 2% | 99.6% |  |
+| 7 | 3% | 98% |  |
+| 8 | 3% | 94% |  |
+| 9 | 1.2% | 91% |  |
+| 10 | 0.2% | 90% |  |
 | 11 | 0% | 90% |  |
-| 12 | 0% | 90% |  |
-| 13 | 0.7% | 90% |  |
-| 14 | 4% | 89% |  |
-| 15 | 10% | 86% |  |
-| 16 | 14% | 76% |  |
-| 17 | 15% | 62% | Median |
-| 18 | 14% | 46% |  |
-| 19 | 12% | 32% |  |
-| 20 | 7% | 20% |  |
-| 21 | 3% | 13% |  |
-| 22 | 2% | 10% |  |
-| 23 | 3% | 7% |  |
-| 24 | 3% | 5% |  |
-| 25 | 1.4% | 2% |  |
-| 26 | 0.5% | 0.6% |  |
-| 27 | 0.1% | 0.1% |  |
+| 12 | 0.3% | 90% |  |
+| 13 | 2% | 90% |  |
+| 14 | 7% | 87% |  |
+| 15 | 12% | 81% |  |
+| 16 | 15% | 69% |  |
+| 17 | 15% | 54% | Median |
+| 18 | 13% | 39% |  |
+| 19 | 9% | 26% |  |
+| 20 | 5% | 17% |  |
+| 21 | 3% | 12% |  |
+| 22 | 3% | 9% |  |
+| 23 | 3% | 6% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.9% | 1.2% |  |
+| 26 | 0.3% | 0.3% |  |
+| 27 | 0% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
 
