@@ -18,13 +18,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–52 | 45–53 | 45–53 | 43–55 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 46–52 | 45–53 | 45–54 | 43–55 |
 | La France insoumise | FR | | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
-| Die Linke | DE | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
-| Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Socialistische Partij | NL | | 2 | 2 | 2 | 2 | 1–3 |
+| Socialistische Partij | NL | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -57,18 +57,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0.1% | 100% |  |
-| 43 | 0.5% | 99.8% |  |
+| 43 | 0.5% | 99.9% |  |
 | 44 | 2% | 99.3% |  |
 | 45 | 4% | 98% |  |
-| 46 | 8% | 93% |  |
-| 47 | 13% | 85% |  |
-| 48 | 16% | 72% |  |
-| 49 | 17% | 56% | Median |
-| 50 | 15% | 39% |  |
-| 51 | 11% | 24% |  |
-| 52 | 7% | 13% |  |
+| 46 | 8% | 94% |  |
+| 47 | 12% | 86% |  |
+| 48 | 16% | 74% |  |
+| 49 | 17% | 58% | Median |
+| 50 | 16% | 41% |  |
+| 51 | 12% | 25% |  |
+| 52 | 7% | 14% |  |
 | 53 | 4% | 6% |  |
-| 54 | 2% | 2% |  |
+| 54 | 2% | 3% |  |
 | 55 | 0.6% | 0.8% |  |
 | 56 | 0.2% | 0.2% |  |
 | 57 | 0% | 0.1% |  |
