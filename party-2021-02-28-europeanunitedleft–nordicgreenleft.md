@@ -10,17 +10,17 @@ Last result: **39** seats (General Election of 26 May 2019)
 
 Current median: **49** seats (+10 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
+> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–52 | 45–53 | 45–54 | 43–55 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 46–52 | 45–53 | 45–53 | 43–55 |
 | La France insoumise | FR | | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
-| Die Linke | DE | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Die Linke | DE | | 7 | 6–8 | 6–9 | 5–10 | 5–10 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -30,6 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +39,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -57,21 +57,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0.1% | 100% |  |
-| 43 | 0.5% | 99.9% |  |
-| 44 | 2% | 99.3% |  |
+| 43 | 0.4% | 99.9% |  |
+| 44 | 1.4% | 99.5% |  |
 | 45 | 4% | 98% |  |
-| 46 | 8% | 94% |  |
-| 47 | 12% | 86% |  |
-| 48 | 16% | 74% |  |
-| 49 | 17% | 58% | Median |
-| 50 | 16% | 41% |  |
-| 51 | 12% | 25% |  |
-| 52 | 7% | 14% |  |
-| 53 | 4% | 6% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.6% | 0.8% |  |
-| 56 | 0.2% | 0.2% |  |
-| 57 | 0% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 46 | 7% | 94% |  |
+| 47 | 12% | 87% |  |
+| 48 | 17% | 75% |  |
+| 49 | 18% | 58% | Median |
+| 50 | 16% | 40% |  |
+| 51 | 12% | 24% |  |
+| 52 | 7% | 12% |  |
+| 53 | 3% | 6% |  |
+| 54 | 1.4% | 2% |  |
+| 55 | 0.5% | 0.7% |  |
+| 56 | 0.1% | 0.2% |  |
+| 57 | 0% | 0% |  |
 
 
