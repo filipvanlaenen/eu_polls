@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 132–144 | 130–146 | 129–147 | 126–150 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 132–144 | 131–146 | 129–147 | 126–150 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
 | Partito Democratico | IT | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
@@ -47,7 +47,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Česká strana sociálně demokratická | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -71,27 +71,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 124 | 0.1% | 99.9% |  |
 | 125 | 0.2% | 99.8% |  |
 | 126 | 0.3% | 99.6% |  |
-| 127 | 0.5% | 99.2% |  |
-| 128 | 0.8% | 98.7% |  |
-| 129 | 1.3% | 98% |  |
+| 127 | 0.5% | 99.3% |  |
+| 128 | 0.8% | 98.8% |  |
+| 129 | 1.2% | 98% |  |
 | 130 | 2% | 97% |  |
-| 131 | 3% | 95% |  |
-| 132 | 3% | 92% |  |
+| 131 | 2% | 95% |  |
+| 132 | 3% | 93% |  |
 | 133 | 4% | 89% |  |
-| 134 | 6% | 84% |  |
+| 134 | 5% | 85% |  |
 | 135 | 7% | 79% |  |
-| 136 | 8% | 72% |  |
+| 136 | 8% | 73% |  |
 | 137 | 8% | 65% |  |
-| 138 | 9% | 56% | Median |
+| 138 | 9% | 57% | Median |
 | 139 | 8% | 48% |  |
-| 140 | 8% | 39% |  |
-| 141 | 7% | 31% |  |
-| 142 | 6% | 24% |  |
+| 140 | 8% | 40% |  |
+| 141 | 7% | 32% |  |
+| 142 | 6% | 25% |  |
 | 143 | 5% | 18% |  |
 | 144 | 4% | 13% |  |
 | 145 | 3% | 9% |  |
 | 146 | 2% | 6% |  |
-| 147 | 1.5% | 4% | Last Result |
+| 147 | 2% | 4% | Last Result |
 | 148 | 1.0% | 2% |  |
 | 149 | 0.6% | 1.5% |  |
 | 150 | 0.4% | 0.9% |  |
