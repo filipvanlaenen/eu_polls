@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> BE, BG, DK, EE, FR, HR, IE, IT, LU, LV, NL, PL, SK
+> BE, BG, DK, FR, HR, IE, IT, LU, LV, NL, PL, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+16 seats)
+Current median: **17** seats (+17 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,34 +18,36 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 8–23 | 7–24 | 7–25 | 6–26 |
-| Polska 2050 [PL] (*) | PL | | 9 | 7–15 | 7–16 | 7–16 | 6–17 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 9–22 | 7–23 | 7–24 | 6–25 |
+| Polska 2050 [PL] (*) | PL | | 9 | 8–15 | 7–16 | 7–16 | 6–17 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Code Oranje [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Eesti Vabaerakond [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-01-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-02-28-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-01-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-02-28.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -54,28 +56,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 1.3% | 100% |  |
-| 7 | 4% | 98.7% |  |
-| 8 | 5% | 94% |  |
-| 9 | 3% | 89% |  |
-| 10 | 0.6% | 86% |  |
-| 11 | 0% | 86% |  |
-| 12 | 0.1% | 86% |  |
-| 13 | 1.3% | 86% |  |
-| 14 | 6% | 84% |  |
-| 15 | 12% | 79% |  |
-| 16 | 17% | 66% | Median |
-| 17 | 16% | 49% |  |
-| 18 | 11% | 33% |  |
-| 19 | 5% | 22% |  |
-| 20 | 2% | 16% |  |
-| 21 | 1.3% | 15% |  |
-| 22 | 3% | 13% |  |
-| 23 | 4% | 11% |  |
-| 24 | 4% | 7% |  |
-| 25 | 2% | 3% |  |
-| 26 | 0.7% | 0.8% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 2% | 99.7% |  |
+| 7 | 4% | 98% |  |
+| 8 | 3% | 94% |  |
+| 9 | 2% | 91% |  |
+| 10 | 0.4% | 89% |  |
+| 11 | 0% | 89% |  |
+| 12 | 0.3% | 89% |  |
+| 13 | 2% | 89% |  |
+| 14 | 6% | 87% |  |
+| 15 | 12% | 80% |  |
+| 16 | 15% | 68% |  |
+| 17 | 15% | 53% | Median |
+| 18 | 12% | 38% |  |
+| 19 | 8% | 26% |  |
+| 20 | 5% | 17% |  |
+| 21 | 3% | 13% |  |
+| 22 | 3% | 10% |  |
+| 23 | 3% | 7% |  |
+| 24 | 3% | 4% |  |
+| 25 | 1.3% | 2% |  |
+| 26 | 0.4% | 0.5% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 

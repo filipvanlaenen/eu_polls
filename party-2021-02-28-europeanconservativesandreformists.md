@@ -35,7 +35,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -57,24 +57,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.1% | 100% | Last Result |
 | 62 | 0.1% | 99.9% |  |
 | 63 | 0.4% | 99.8% |  |
-| 64 | 0.9% | 99.4% |  |
-| 65 | 2% | 98.5% |  |
+| 64 | 0.8% | 99.4% |  |
+| 65 | 2% | 98.6% |  |
 | 66 | 3% | 97% |  |
 | 67 | 5% | 94% |  |
 | 68 | 7% | 89% |  |
 | 69 | 9% | 82% |  |
-| 70 | 11% | 72% |  |
+| 70 | 11% | 73% |  |
 | 71 | 11% | 62% |  |
 | 72 | 11% | 51% | Median |
 | 73 | 10% | 40% |  |
 | 74 | 8% | 30% |  |
 | 75 | 6% | 22% |  |
 | 76 | 5% | 15% |  |
-| 77 | 4% | 11% |  |
+| 77 | 4% | 10% |  |
 | 78 | 3% | 7% |  |
 | 79 | 2% | 4% |  |
 | 80 | 1.1% | 2% |  |
-| 81 | 0.7% | 1.3% |  |
+| 81 | 0.6% | 1.3% |  |
 | 82 | 0.3% | 0.6% |  |
 | 83 | 0.2% | 0.3% |  |
 | 84 | 0.1% | 0.1% |  |
