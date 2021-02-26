@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 132–144 | 130–146 | 129–147 | 126–150 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 132–144 | 131–146 | 129–147 | 126–150 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
 | Partito Democratico | IT | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
@@ -26,9 +26,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | Socialdemokraterne | DK | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Lewica | PL | | 5 | 3–6 | 0–7 | 0–7 | 0–8 |
+| Lewica | PL | | 5 | 3–6 | 0–6 | 0–6 | 0–7 |
 | Parti socialiste | FR | | 5 | 4–7 | 0–7 | 0–7 | 0–8 |
-| Българска социалистическа партия | BG | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Българска социалистическа партия | BG | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -72,18 +72,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 125 | 0.2% | 99.8% |  |
 | 126 | 0.3% | 99.6% |  |
 | 127 | 0.5% | 99.3% |  |
-| 128 | 0.8% | 98.7% |  |
+| 128 | 0.8% | 98.8% |  |
 | 129 | 1.2% | 98% |  |
 | 130 | 2% | 97% |  |
-| 131 | 3% | 95% |  |
-| 132 | 3% | 92% |  |
+| 131 | 2% | 95% |  |
+| 132 | 3% | 93% |  |
 | 133 | 4% | 89% |  |
-| 134 | 6% | 84% |  |
+| 134 | 6% | 85% |  |
 | 135 | 7% | 79% |  |
-| 136 | 8% | 72% |  |
+| 136 | 8% | 73% |  |
 | 137 | 8% | 65% |  |
-| 138 | 9% | 56% | Median |
-| 139 | 8% | 48% |  |
+| 138 | 9% | 57% | Median |
+| 139 | 9% | 48% |  |
 | 140 | 8% | 39% |  |
 | 141 | 7% | 31% |  |
 | 142 | 6% | 24% |  |
@@ -91,8 +91,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 4% | 13% |  |
 | 145 | 3% | 9% |  |
 | 146 | 2% | 6% |  |
-| 147 | 1.5% | 4% | Last Result |
-| 148 | 1.0% | 2% |  |
+| 147 | 1.4% | 4% | Last Result |
+| 148 | 0.9% | 2% |  |
 | 149 | 0.6% | 1.4% |  |
 | 150 | 0.4% | 0.8% |  |
 | 151 | 0.2% | 0.4% |  |
