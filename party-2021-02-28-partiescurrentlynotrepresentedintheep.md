@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (+17 seats)
+Current median: **18** seats (+18 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 9–22 | 7–23 | 7–24 | 6–25 |
-| Polska 2050 [PL] (*) | PL | | 9 | 8–15 | 7–16 | 7–16 | 6–17 |
+| Parties currently not represented in the EP | EU | 0 | 18 | 15–22 | 15–23 | 14–24 | 13–25 |
+| Polska 2050 [PL] (*) | PL | | 11 | 8–15 | 8–16 | 8–16 | 7–17 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -31,7 +31,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -42,6 +42,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Национален фронт за спасение на България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Републиканци за България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -56,27 +58,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.3% | 100% |  |
-| 6 | 2% | 99.7% |  |
-| 7 | 4% | 98% |  |
-| 8 | 3% | 94% |  |
-| 9 | 2% | 91% |  |
-| 10 | 0.4% | 89% |  |
-| 11 | 0% | 89% |  |
-| 12 | 0.3% | 89% |  |
-| 13 | 2% | 89% |  |
-| 14 | 6% | 87% |  |
-| 15 | 12% | 80% |  |
-| 16 | 15% | 68% |  |
-| 17 | 15% | 53% | Median |
-| 18 | 12% | 38% |  |
-| 19 | 8% | 26% |  |
-| 20 | 5% | 17% |  |
-| 21 | 3% | 13% |  |
-| 22 | 3% | 10% |  |
-| 23 | 3% | 7% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 3% | 99.3% |  |
+| 15 | 9% | 96% |  |
+| 16 | 13% | 87% |  |
+| 17 | 15% | 74% |  |
+| 18 | 15% | 59% | Median |
+| 19 | 13% | 44% |  |
+| 20 | 10% | 31% |  |
+| 21 | 7% | 21% |  |
+| 22 | 5% | 14% |  |
+| 23 | 4% | 8% |  |
 | 24 | 3% | 4% |  |
-| 25 | 1.3% | 2% |  |
+| 25 | 1.2% | 2% |  |
 | 26 | 0.4% | 0.5% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |

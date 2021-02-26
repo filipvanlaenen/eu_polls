@@ -20,14 +20,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 22 | 19–25 | 18–26 | 17–27 | 16–29 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 10–15 | 10–16 | 9–17 |
-| Konfederacja | PL | | 4 | 3–6 | 2–6 | 0–6 | 0–7 |
+| Konfederacja | PL | | 4 | 3–6 | 3–6 | 2–7 | 0–7 |
 | Jobbik | HU | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -44,16 +44,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
-| 15 | 0.3% | 99.9% |  |
-| 16 | 0.9% | 99.5% |  |
-| 17 | 2% | 98.6% |  |
-| 18 | 5% | 96% |  |
+| 15 | 0.2% | 99.9% |  |
+| 16 | 0.7% | 99.7% |  |
+| 17 | 2% | 98.9% |  |
+| 18 | 5% | 97% |  |
 | 19 | 9% | 92% |  |
 | 20 | 13% | 83% |  |
-| 21 | 15% | 70% |  |
+| 21 | 16% | 70% |  |
 | 22 | 15% | 54% | Median |
 | 23 | 13% | 39% |  |
-| 24 | 10% | 26% |  |
+| 24 | 10% | 25% |  |
 | 25 | 7% | 15% |  |
 | 26 | 4% | 8% |  |
 | 27 | 2% | 4% |  |
