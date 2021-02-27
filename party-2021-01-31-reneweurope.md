@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **89** seats (-9 seats)
+Current median: **88** seats (-10 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 89 | 84–94 | 83–95 | 81–96 | 79–99 |
+| Renew Europe | EU | 98 | 88 | 83–93 | 82–95 | 81–96 | 79–98 |
 | La République en marche–Mouvement démocrate | FR | | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 10 | 8–10 | 8–10 | 8–10 | 7–11 |
 | ANO 2011 | CZ | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -27,12 +27,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 3–6 | 3–6 | 2–6 | 2–6 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Momentum Mozgalom | HU | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Momentum Mozgalom | HU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -74,32 +74,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 77 | 0.1% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0.1% | 99.9% |  |
 | 78 | 0.2% | 99.9% |  |
-| 79 | 0.3% | 99.7% |  |
-| 80 | 0.7% | 99.4% |  |
-| 81 | 1.3% | 98.7% |  |
-| 82 | 2% | 97% |  |
-| 83 | 3% | 95% |  |
-| 84 | 5% | 92% |  |
-| 85 | 7% | 87% |  |
-| 86 | 8% | 80% |  |
-| 87 | 10% | 72% |  |
-| 88 | 10% | 62% |  |
-| 89 | 10% | 52% | Median |
-| 90 | 10% | 41% |  |
-| 91 | 9% | 31% |  |
-| 92 | 7% | 23% |  |
-| 93 | 5% | 16% |  |
-| 94 | 4% | 10% |  |
-| 95 | 3% | 7% |  |
-| 96 | 2% | 4% |  |
-| 97 | 1.0% | 2% |  |
-| 98 | 0.6% | 1.2% | Last Result |
-| 99 | 0.3% | 0.6% |  |
-| 100 | 0.2% | 0.3% |  |
+| 79 | 0.5% | 99.6% |  |
+| 80 | 1.0% | 99.1% |  |
+| 81 | 2% | 98% |  |
+| 82 | 3% | 96% |  |
+| 83 | 4% | 94% |  |
+| 84 | 6% | 89% |  |
+| 85 | 8% | 84% |  |
+| 86 | 9% | 76% |  |
+| 87 | 10% | 67% |  |
+| 88 | 10% | 57% | Median |
+| 89 | 10% | 46% |  |
+| 90 | 9% | 36% |  |
+| 91 | 8% | 27% |  |
+| 92 | 6% | 19% |  |
+| 93 | 5% | 13% |  |
+| 94 | 3% | 9% |  |
+| 95 | 2% | 5% |  |
+| 96 | 1.4% | 3% |  |
+| 97 | 0.8% | 2% |  |
+| 98 | 0.5% | 1.0% | Last Result |
+| 99 | 0.3% | 0.5% |  |
+| 100 | 0.1% | 0.2% |  |
 | 101 | 0.1% | 0.1% |  |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 102 | 0% | 0% |  |
 
 
