@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Možemo! | HR | | 1 | 1 | 1 | 1 | 1 |
+| Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 11% | 80% |  |
 | 49 | 13% | 69% |  |
 | 50 | 13% | 56% | Median |
-| 51 | 12% | 43% |  |
+| 51 | 12% | 42% |  |
 | 52 | 10% | 30% |  |
 | 53 | 8% | 20% |  |
 | 54 | 5% | 12% |  |

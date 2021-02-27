@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-7 seats)
+Current median: **21** seats (-8 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 22 | 19–25 | 18–26 | 17–27 | 15–29 |
+| Non-Inscrits | EU | 29 | 21 | 18–25 | 17–26 | 16–27 | 14–29 |
 | Movimento 5 Stelle | IT | | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
 | Konfederacja | PL | | 3 | 0–6 | 0–6 | 0–6 | 0–7 |
-| Jobbik | HU | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| Jobbik | HU | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,24 +43,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% |  |
-| 15 | 0.6% | 99.8% |  |
-| 16 | 1.4% | 99.2% |  |
-| 17 | 3% | 98% |  |
-| 18 | 5% | 95% |  |
-| 19 | 9% | 90% |  |
-| 20 | 13% | 81% |  |
-| 21 | 15% | 69% |  |
-| 22 | 15% | 54% | Median |
-| 23 | 13% | 39% |  |
-| 24 | 10% | 26% |  |
-| 25 | 7% | 16% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 0.5% | 99.8% |  |
+| 15 | 1.2% | 99.2% |  |
+| 16 | 2% | 98% |  |
+| 17 | 4% | 96% |  |
+| 18 | 7% | 91% |  |
+| 19 | 10% | 84% |  |
+| 20 | 13% | 74% |  |
+| 21 | 13% | 62% | Median |
+| 22 | 13% | 48% |  |
+| 23 | 11% | 35% |  |
+| 24 | 9% | 24% |  |
+| 25 | 6% | 15% |  |
 | 26 | 4% | 9% |  |
-| 27 | 2% | 4% |  |
-| 28 | 1.2% | 2% |  |
-| 29 | 0.5% | 0.9% | Last Result |
-| 30 | 0.2% | 0.3% |  |
-| 31 | 0.1% | 0.1% |  |
+| 27 | 2% | 5% |  |
+| 28 | 1.3% | 2% |  |
+| 29 | 0.7% | 1.1% | Last Result |
+| 30 | 0.3% | 0.4% |  |
+| 31 | 0.1% | 0.2% |  |
 | 32 | 0% | 0% |  |
 
 

@@ -23,15 +23,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | Koalicja Obywatelska | PL | | 12 | 8–13 | 7–14 | 7–14 | 6–15 |
 | Les Républicains | FR | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | Νέα Δημοκρατία | GR | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| Partidul Național Liberal | RO | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
+| Partidul Național Liberal | RO | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | Christlich-Soziale Union in Bayern | DE | | 8 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Österreichische Volkspartei | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–10 | 4–10 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 4 | 4–5 | 3–5 | 3–5 |
@@ -52,6 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -68,7 +69,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.1% | 99.8% |  |
+| 166 | 0.2% | 99.8% |  |
 | 167 | 0.3% | 99.7% |  |
 | 168 | 0.4% | 99.4% |  |
 | 169 | 0.7% | 99.0% |  |
@@ -93,21 +93,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 175 | 5% | 87% |  |
 | 176 | 6% | 82% |  |
 | 177 | 7% | 77% |  |
-| 178 | 8% | 70% |  |
-| 179 | 8% | 62% |  |
-| 180 | 8% | 54% | Median |
+| 178 | 7% | 70% |  |
+| 179 | 8% | 63% |  |
+| 180 | 8% | 55% | Median |
 | 181 | 8% | 46% |  |
 | 182 | 8% | 38% |  |
-| 183 | 7% | 30% |  |
-| 184 | 6% | 23% |  |
-| 185 | 5% | 17% |  |
-| 186 | 4% | 12% |  |
-| 187 | 3% | 8% | Last Result |
+| 183 | 7% | 31% |  |
+| 184 | 6% | 24% |  |
+| 185 | 5% | 18% |  |
+| 186 | 4% | 13% |  |
+| 187 | 3% | 9% | Last Result |
 | 188 | 2% | 6% |  |
 | 189 | 1.4% | 4% |  |
-| 190 | 0.9% | 2% |  |
-| 191 | 0.6% | 1.3% |  |
-| 192 | 0.3% | 0.7% |  |
+| 190 | 1.0% | 2% |  |
+| 191 | 0.6% | 1.4% |  |
+| 192 | 0.4% | 0.8% |  |
 | 193 | 0.2% | 0.4% |  |
 | 194 | 0.1% | 0.2% |  |
 | 195 | 0.1% | 0.1% |  |
