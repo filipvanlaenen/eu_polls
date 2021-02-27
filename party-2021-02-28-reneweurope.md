@@ -1,24 +1,24 @@
 # Renew Europe
 
-Members registered from **24 countries**:
+Members registered from **23 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **88** seats (-10 seats)
+Current median: **87** seats (-11 seats)
 
-At least one member in **21 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, LT, LU, LV, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IE, LT, LU, LV, NL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 88 | 83–93 | 82–94 | 81–95 | 79–98 |
+| Renew Europe | EU | 98 | 87 | 83–92 | 81–93 | 80–95 | 78–97 |
 | La République en marche–Mouvement démocrate | FR | | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -27,7 +27,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 2–6 | 1–6 | 1–6 | 1–7 |
 | Democraten 66 | NL | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Momentum Mozgalom | HU | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -74,32 +73,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0% | 100% |  |
+| 76 | 0.1% | 100% |  |
 | 77 | 0.1% | 99.9% |  |
 | 78 | 0.3% | 99.8% |  |
-| 79 | 0.6% | 99.5% |  |
-| 80 | 1.1% | 98.9% |  |
-| 81 | 2% | 98% |  |
-| 82 | 3% | 96% |  |
-| 83 | 5% | 93% |  |
-| 84 | 6% | 88% |  |
-| 85 | 8% | 81% |  |
-| 86 | 10% | 73% |  |
-| 87 | 10% | 64% |  |
-| 88 | 11% | 53% | Median |
-| 89 | 10% | 43% |  |
-| 90 | 9% | 33% |  |
-| 91 | 7% | 24% |  |
-| 92 | 6% | 17% |  |
-| 93 | 4% | 11% |  |
-| 94 | 3% | 7% |  |
-| 95 | 2% | 4% |  |
-| 96 | 1.1% | 2% |  |
-| 97 | 0.6% | 1.3% |  |
-| 98 | 0.3% | 0.7% | Last Result |
-| 99 | 0.2% | 0.3% |  |
-| 100 | 0.1% | 0.2% |  |
-| 101 | 0% | 0.1% |  |
-| 102 | 0% | 0% |  |
+| 79 | 0.7% | 99.4% |  |
+| 80 | 1.4% | 98.7% |  |
+| 81 | 2% | 97% |  |
+| 82 | 4% | 95% |  |
+| 83 | 5% | 91% |  |
+| 84 | 7% | 86% |  |
+| 85 | 9% | 78% |  |
+| 86 | 10% | 69% |  |
+| 87 | 11% | 59% | Median |
+| 88 | 11% | 48% |  |
+| 89 | 10% | 37% |  |
+| 90 | 8% | 27% |  |
+| 91 | 6% | 19% |  |
+| 92 | 5% | 13% |  |
+| 93 | 3% | 8% |  |
+| 94 | 2% | 5% |  |
+| 95 | 1.2% | 3% |  |
+| 96 | 0.7% | 1.4% |  |
+| 97 | 0.4% | 0.7% |  |
+| 98 | 0.2% | 0.3% | Last Result |
+| 99 | 0.1% | 0.2% |  |
+| 100 | 0% | 0.1% |  |
+| 101 | 0% | 0% |  |
 
 

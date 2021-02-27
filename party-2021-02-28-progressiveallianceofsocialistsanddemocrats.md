@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **149** seats (+2 seats)
+Current median: **146** seats (-1 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 149 | 143–154 | 142–156 | 140–157 | 137–160 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 141–152 | 139–153 | 138–155 | 135–157 |
 | Partido Socialista Obrero Español | ES | | 18 | 15–19 | 15–20 | 14–20 | 14–21 |
 | Partito Democratico | IT | | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
@@ -36,7 +36,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Demokratikus Koalíció | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij Anders | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -53,7 +52,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Szocialista Párt–Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -67,36 +65,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 134 | 0% | 100% |  |
-| 135 | 0.1% | 99.9% |  |
-| 136 | 0.1% | 99.9% |  |
-| 137 | 0.3% | 99.7% |  |
-| 138 | 0.5% | 99.4% |  |
-| 139 | 0.8% | 99.0% |  |
-| 140 | 1.3% | 98% |  |
-| 141 | 2% | 97% |  |
-| 142 | 3% | 95% |  |
-| 143 | 4% | 92% |  |
-| 144 | 5% | 88% |  |
-| 145 | 7% | 83% |  |
-| 146 | 8% | 76% |  |
-| 147 | 9% | 69% | Last Result |
-| 148 | 9% | 60% |  |
-| 149 | 9% | 50% | Median |
-| 150 | 9% | 41% |  |
-| 151 | 8% | 32% |  |
-| 152 | 7% | 24% |  |
-| 153 | 5% | 18% |  |
-| 154 | 4% | 12% |  |
-| 155 | 3% | 8% |  |
-| 156 | 2% | 5% |  |
-| 157 | 1.3% | 3% |  |
-| 158 | 0.8% | 2% |  |
-| 159 | 0.5% | 1.0% |  |
-| 160 | 0.3% | 0.6% |  |
-| 161 | 0.1% | 0.3% |  |
-| 162 | 0.1% | 0.1% |  |
-| 163 | 0% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 132 | 0% | 100% |  |
+| 133 | 0.1% | 99.9% |  |
+| 134 | 0.2% | 99.8% |  |
+| 135 | 0.3% | 99.7% |  |
+| 136 | 0.5% | 99.4% |  |
+| 137 | 0.9% | 98.8% |  |
+| 138 | 1.4% | 98% |  |
+| 139 | 2% | 97% |  |
+| 140 | 3% | 94% |  |
+| 141 | 4% | 91% |  |
+| 142 | 6% | 87% |  |
+| 143 | 7% | 81% |  |
+| 144 | 8% | 74% |  |
+| 145 | 9% | 66% |  |
+| 146 | 10% | 57% | Median |
+| 147 | 9% | 48% | Last Result |
+| 148 | 9% | 38% |  |
+| 149 | 8% | 29% |  |
+| 150 | 6% | 22% |  |
+| 151 | 5% | 16% |  |
+| 152 | 4% | 11% |  |
+| 153 | 3% | 7% |  |
+| 154 | 2% | 4% |  |
+| 155 | 1.1% | 3% |  |
+| 156 | 0.7% | 2% |  |
+| 157 | 0.4% | 0.8% |  |
+| 158 | 0.2% | 0.4% |  |
+| 159 | 0.1% | 0.2% |  |
+| 160 | 0.1% | 0.1% |  |
+| 161 | 0% | 0% |  |
 
 
