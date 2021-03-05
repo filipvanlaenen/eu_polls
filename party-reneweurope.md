@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **88** seats (-10 seats)
+Current median: **86** seats (-12 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 88 | 83–92 | 82–94 | 81–95 | 79–97 |
+| Renew Europe | EU | 98 | 86 | 82–91 | 81–92 | 80–93 | 78–96 |
 | La République en marche–Mouvement démocrate | FR | | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–10 | 8–10 | 8–11 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | ANO 2011 | CZ | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 4 | 1–6 | 1–6 | 1–6 | 1–7 |
-| Democraten 66 | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Democraten 66 | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,7 +41,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 1 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Laisvės partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,37 +67,36 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-02-28-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-03-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-02-28.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2021-03-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0% | 100% |  |
-| 77 | 0.1% | 99.9% |  |
-| 78 | 0.3% | 99.8% |  |
-| 79 | 0.6% | 99.5% |  |
-| 80 | 1.2% | 98.9% |  |
-| 81 | 2% | 98% |  |
-| 82 | 3% | 96% |  |
-| 83 | 5% | 92% |  |
-| 84 | 7% | 88% |  |
-| 85 | 8% | 81% |  |
-| 86 | 10% | 72% |  |
-| 87 | 11% | 63% |  |
-| 88 | 11% | 52% | Median |
-| 89 | 10% | 41% |  |
-| 90 | 9% | 30% |  |
-| 91 | 7% | 22% |  |
-| 92 | 5% | 15% |  |
-| 93 | 4% | 9% |  |
-| 94 | 2% | 6% |  |
-| 95 | 1.5% | 3% |  |
-| 96 | 0.8% | 2% |  |
-| 97 | 0.5% | 0.9% |  |
-| 98 | 0.2% | 0.4% | Last Result |
-| 99 | 0.1% | 0.2% |  |
-| 100 | 0% | 0.1% |  |
-| 101 | 0% | 0% |  |
+| 76 | 0.1% | 100% |  |
+| 77 | 0.3% | 99.8% |  |
+| 78 | 0.6% | 99.6% |  |
+| 79 | 1.2% | 99.0% |  |
+| 80 | 2% | 98% |  |
+| 81 | 3% | 96% |  |
+| 82 | 5% | 92% |  |
+| 83 | 7% | 87% |  |
+| 84 | 9% | 80% |  |
+| 85 | 11% | 71% |  |
+| 86 | 11% | 61% | Median |
+| 87 | 11% | 49% |  |
+| 88 | 10% | 38% |  |
+| 89 | 9% | 28% |  |
+| 90 | 7% | 19% |  |
+| 91 | 5% | 13% |  |
+| 92 | 3% | 8% |  |
+| 93 | 2% | 4% |  |
+| 94 | 1.2% | 2% |  |
+| 95 | 0.7% | 1.3% |  |
+| 96 | 0.3% | 0.6% |  |
+| 97 | 0.2% | 0.3% |  |
+| 98 | 0.1% | 0.1% | Last Result |
+| 99 | 0% | 0.1% |  |
+| 100 | 0% | 0% |  |
 
 

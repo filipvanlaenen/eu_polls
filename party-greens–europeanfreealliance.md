@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (-21 seats)
+Current median: **47** seats (-20 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 42–52 | 40–53 |
-| Bündnis 90/Die Grünen | DE | | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
+| Greens–European Free Alliance | EU | 67 | 47 | 44–50 | 43–51 | 42–52 | 41–53 |
+| Bündnis 90/Die Grünen | DE | | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Die PARTEI | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -54,28 +54,27 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-02-28-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-03-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-02-28.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2021-03-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0% | 100% |  |
-| 39 | 0.1% | 99.9% |  |
-| 40 | 0.5% | 99.8% |  |
-| 41 | 2% | 99.3% |  |
-| 42 | 4% | 98% |  |
-| 43 | 7% | 94% |  |
-| 44 | 11% | 87% |  |
-| 45 | 14% | 77% |  |
-| 46 | 15% | 63% | Median |
-| 47 | 15% | 48% |  |
-| 48 | 12% | 33% |  |
-| 49 | 9% | 20% |  |
-| 50 | 6% | 12% |  |
-| 51 | 3% | 6% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 0.9% | 99.6% |  |
+| 42 | 2% | 98.7% |  |
+| 43 | 5% | 96% |  |
+| 44 | 9% | 91% |  |
+| 45 | 12% | 83% |  |
+| 46 | 15% | 70% |  |
+| 47 | 16% | 55% | Median |
+| 48 | 14% | 39% |  |
+| 49 | 11% | 25% |  |
+| 50 | 7% | 15% |  |
+| 51 | 4% | 7% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.7% | 1.1% |  |
+| 53 | 0.8% | 1.3% |  |
 | 54 | 0.3% | 0.4% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |

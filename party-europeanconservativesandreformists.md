@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 72 | 68–77 | 66–78 | 65–79 | 63–81 |
+| European Conservatives and Reformists | EU | 61 | 72 | 68–77 | 66–78 | 65–79 | 63–82 |
 | Zjednoczona Prawica | PL | | 19 | 16–22 | 15–23 | 15–24 | 14–25 |
 | Fratelli d’Italia | IT | | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
 | Vox | ES | | 10 | 8–12 | 8–12 | 8–12 | 8–13 |
@@ -35,7 +35,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -49,34 +49,34 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-02-28-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-03-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-02-28.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-03-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0.1% | 100% | Last Result |
 | 62 | 0.2% | 99.9% |  |
-| 63 | 0.4% | 99.7% |  |
-| 64 | 0.8% | 99.3% |  |
-| 65 | 2% | 98% |  |
+| 63 | 0.4% | 99.8% |  |
+| 64 | 0.8% | 99.4% |  |
+| 65 | 1.5% | 98.6% |  |
 | 66 | 3% | 97% |  |
-| 67 | 4% | 94% |  |
-| 68 | 6% | 90% |  |
-| 69 | 8% | 84% |  |
-| 70 | 9% | 77% |  |
-| 71 | 10% | 67% |  |
-| 72 | 11% | 57% | Median |
-| 73 | 11% | 46% |  |
-| 74 | 10% | 36% |  |
-| 75 | 8% | 26% |  |
-| 76 | 6% | 18% |  |
-| 77 | 5% | 12% |  |
-| 78 | 3% | 7% |  |
-| 79 | 2% | 4% |  |
-| 80 | 1.1% | 2% |  |
-| 81 | 0.6% | 1.1% |  |
-| 82 | 0.3% | 0.5% |  |
+| 67 | 4% | 95% |  |
+| 68 | 6% | 91% |  |
+| 69 | 7% | 85% |  |
+| 70 | 9% | 78% |  |
+| 71 | 10% | 69% |  |
+| 72 | 11% | 58% | Median |
+| 73 | 11% | 48% |  |
+| 74 | 10% | 37% |  |
+| 75 | 8% | 27% |  |
+| 76 | 7% | 19% |  |
+| 77 | 5% | 13% |  |
+| 78 | 3% | 8% |  |
+| 79 | 2% | 5% |  |
+| 80 | 1.2% | 2% |  |
+| 81 | 0.7% | 1.2% |  |
+| 82 | 0.3% | 0.6% |  |
 | 83 | 0.1% | 0.2% |  |
 | 84 | 0.1% | 0.1% |  |
 | 85 | 0% | 0% |  |
