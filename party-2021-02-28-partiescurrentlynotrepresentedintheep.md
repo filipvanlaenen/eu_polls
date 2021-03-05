@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (+18 seats)
+Current median: **16** seats (+16 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,14 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 18 | 15–22 | 14–23 | 14–24 | 13–25 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 13–20 | 13–21 | 12–22 | 12–23 |
 | Polska 2050 [PL] (*) | PL | | 11 | 8–15 | 8–16 | 8–16 | 7–17 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Има такъв народ [BG] (*) | BG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Nye Borgerlige [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Code Oranje [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +33,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Toekomst [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -64,22 +61,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 0.9% | 99.9% |  |
-| 14 | 5% | 99.1% |  |
-| 15 | 11% | 94% |  |
-| 16 | 15% | 83% |  |
-| 17 | 15% | 68% |  |
-| 18 | 14% | 53% | Median |
-| 19 | 12% | 39% |  |
-| 20 | 9% | 27% |  |
-| 21 | 6% | 17% |  |
-| 22 | 5% | 11% |  |
-| 23 | 4% | 7% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.8% | 1.0% |  |
-| 26 | 0.2% | 0.2% |  |
-| 27 | 0% | 0% |  |
+| 11 | 0.5% | 100% |  |
+| 12 | 4% | 99.5% |  |
+| 13 | 11% | 96% |  |
+| 14 | 15% | 85% |  |
+| 15 | 15% | 69% |  |
+| 16 | 15% | 54% | Median |
+| 17 | 13% | 40% |  |
+| 18 | 9% | 27% |  |
+| 19 | 6% | 17% |  |
+| 20 | 5% | 11% |  |
+| 21 | 4% | 7% |  |
+| 22 | 2% | 3% |  |
+| 23 | 0.7% | 0.8% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
