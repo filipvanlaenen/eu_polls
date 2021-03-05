@@ -10,15 +10,15 @@
 
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 187 | 177 | 171–182 |170–184 | 168–185 | 166–188 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 146 | 141–152 |139–153 | 138–155 | 135–157 |
-| <a href="#renew-europe">Renew Europe</a> | 98 | 87 | 83–92 |81–93 | 80–95 | 78–97 |
-| <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 73 | 69–77 |68–78 | 67–79 | 66–80 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 72 | 68–77 |66–78 | 65–80 | 63–82 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 48 | 45–51 |44–52 | 44–53 | 42–54 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 46 | 43–50 |42–51 | 42–52 | 40–53 |
-| <a href="#non-inscrits">Non-Inscrits</a> | 29 | 19 | 17–22 |16–23 | 15–24 | 14–26 |
-| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 18 | 15–22 |14–23 | 14–24 | 13–25 |
+| <a href="#european-people’s-party">European People’s Party</a> | 187 | 1 | 1 |1 | 1 | 1 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#renew-europe">Renew Europe</a> | 98 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#non-inscrits">Non-Inscrits</a> | 29 | 0 | N/A |N/A | N/A | N/A |
+| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 0 | N/A |N/A | N/A | N/A |
 
 ### European People’s Party
 
@@ -28,137 +28,62 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 163 | 0% | 100% |  |
-| 164 | 0.1% | 99.9% |  |
-| 165 | 0.2% | 99.8% |  |
-| 166 | 0.4% | 99.6% |  |
-| 167 | 0.7% | 99.2% |  |
-| 168 | 1.1% | 98.6% |  |
-| 169 | 2% | 97% |  |
-| 170 | 3% | 96% |  |
-| 171 | 4% | 93% |  |
-| 172 | 5% | 89% |  |
-| 173 | 6% | 84% |  |
-| 174 | 7% | 78% |  |
-| 175 | 8% | 71% |  |
-| 176 | 9% | 62% |  |
-| 177 | 9% | 53% | Median |
-| 178 | 9% | 44% |  |
-| 179 | 8% | 35% |  |
-| 180 | 7% | 27% |  |
-| 181 | 6% | 20% |  |
-| 182 | 5% | 14% |  |
-| 183 | 3% | 10% |  |
-| 184 | 2% | 6% |  |
-| 185 | 2% | 4% |  |
-| 186 | 1.0% | 2% |  |
-| 187 | 0.6% | 1.3% | Last Result |
-| 188 | 0.4% | 0.7% |  |
-| 189 | 0.2% | 0.4% |  |
-| 190 | 0.1% | 0.2% |  |
-| 191 | 0% | 0.1% |  |
-| 192 | 0% | 0% |  |
-
-### Progressive Alliance of Socialists and Democrats
-
-*For a full overview of the results for this party, see the [Progressive Alliance of Socialists and Democrats](party-progressiveallianceofsocialistsanddemocrats.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 132 | 0% | 100% |  |
-| 133 | 0.1% | 99.9% |  |
-| 134 | 0.2% | 99.8% |  |
-| 135 | 0.3% | 99.7% |  |
-| 136 | 0.5% | 99.4% |  |
-| 137 | 0.9% | 98.8% |  |
-| 138 | 1.4% | 98% |  |
-| 139 | 2% | 97% |  |
-| 140 | 3% | 94% |  |
-| 141 | 4% | 91% |  |
-| 142 | 6% | 87% |  |
-| 143 | 7% | 81% |  |
-| 144 | 8% | 74% |  |
-| 145 | 9% | 66% |  |
-| 146 | 10% | 57% | Median |
-| 147 | 9% | 48% | Last Result |
-| 148 | 9% | 38% |  |
-| 149 | 8% | 29% |  |
-| 150 | 6% | 22% |  |
-| 151 | 5% | 16% |  |
-| 152 | 4% | 11% |  |
-| 153 | 3% | 7% |  |
-| 154 | 2% | 4% |  |
-| 155 | 1.1% | 3% |  |
-| 156 | 0.7% | 2% |  |
-| 157 | 0.4% | 0.8% |  |
-| 158 | 0.2% | 0.4% |  |
-| 159 | 0.1% | 0.2% |  |
-| 160 | 0.1% | 0.1% |  |
-| 161 | 0% | 0% |  |
-
-### Renew Europe
-
-*For a full overview of the results for this party, see the [Renew Europe](party-reneweurope.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-reneweurope.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0.1% | 100% |  |
-| 77 | 0.1% | 99.9% |  |
-| 78 | 0.3% | 99.8% |  |
-| 79 | 0.7% | 99.4% |  |
-| 80 | 1.4% | 98.7% |  |
-| 81 | 2% | 97% |  |
-| 82 | 4% | 95% |  |
-| 83 | 5% | 91% |  |
-| 84 | 7% | 86% |  |
-| 85 | 9% | 78% |  |
-| 86 | 10% | 69% |  |
-| 87 | 11% | 59% | Median |
-| 88 | 11% | 48% |  |
-| 89 | 10% | 37% |  |
-| 90 | 8% | 27% |  |
-| 91 | 6% | 19% |  |
-| 92 | 5% | 13% |  |
-| 93 | 3% | 8% |  |
-| 94 | 2% | 5% |  |
-| 95 | 1.2% | 3% |  |
-| 96 | 0.7% | 1.4% |  |
-| 97 | 0.4% | 0.7% |  |
-| 98 | 0.2% | 0.3% | Last Result |
-| 99 | 0.1% | 0.2% |  |
-| 100 | 0% | 0.1% |  |
-| 101 | 0% | 0% |  |
-
-### Greens–European Free Alliance
-
-*For a full overview of the results for this party, see the [Greens–European Free Alliance](party-greens–europeanfreealliance.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.8% |  |
-| 41 | 1.4% | 99.4% |  |
-| 42 | 3% | 98% |  |
-| 43 | 6% | 95% |  |
-| 44 | 10% | 88% |  |
-| 45 | 13% | 79% |  |
-| 46 | 15% | 65% | Median |
-| 47 | 15% | 50% |  |
-| 48 | 13% | 35% |  |
-| 49 | 10% | 22% |  |
-| 50 | 6% | 13% |  |
-| 51 | 3% | 6% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.8% | 1.2% |  |
-| 54 | 0.3% | 0.5% |  |
-| 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 1 | 100% | 100% | Median |
+| 2 | 0% | 0% |  |
+| 3 | 0% | 0% |  |
+| 4 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
+| 7 | 0% | 0% |  |
+| 8 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
+| 12 | 0% | 0% |  |
+| 13 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
+| 15 | 0% | 0% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
+| 32 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
+| 34 | 0% | 0% |  |
+| 35 | 0% | 0% |  |
+| 36 | 0% | 0% |  |
+| 37 | 0% | 0% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
+| 40 | 0% | 0% |  |
+| 41 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
+| 45 | 0% | 0% |  |
+| 46 | 0% | 0% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
+| 54 | 0% | 0% |  |
+| 55 | 0% | 0% |  |
+| 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
@@ -169,7 +94,145 @@
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
-| 67 | 0% | 0% | Last Result |
+| 67 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% |  |
+| 72 | 0% | 0% |  |
+| 73 | 0% | 0% |  |
+| 74 | 0% | 0% |  |
+| 75 | 0% | 0% |  |
+| 76 | 0% | 0% |  |
+| 77 | 0% | 0% |  |
+| 78 | 0% | 0% |  |
+| 79 | 0% | 0% |  |
+| 80 | 0% | 0% |  |
+| 81 | 0% | 0% |  |
+| 82 | 0% | 0% |  |
+| 83 | 0% | 0% |  |
+| 84 | 0% | 0% |  |
+| 85 | 0% | 0% |  |
+| 86 | 0% | 0% |  |
+| 87 | 0% | 0% |  |
+| 88 | 0% | 0% |  |
+| 89 | 0% | 0% |  |
+| 90 | 0% | 0% |  |
+| 91 | 0% | 0% |  |
+| 92 | 0% | 0% |  |
+| 93 | 0% | 0% |  |
+| 94 | 0% | 0% |  |
+| 95 | 0% | 0% |  |
+| 96 | 0% | 0% |  |
+| 97 | 0% | 0% |  |
+| 98 | 0% | 0% |  |
+| 99 | 0% | 0% |  |
+| 100 | 0% | 0% |  |
+| 101 | 0% | 0% |  |
+| 102 | 0% | 0% |  |
+| 103 | 0% | 0% |  |
+| 104 | 0% | 0% |  |
+| 105 | 0% | 0% |  |
+| 106 | 0% | 0% |  |
+| 107 | 0% | 0% |  |
+| 108 | 0% | 0% |  |
+| 109 | 0% | 0% |  |
+| 110 | 0% | 0% |  |
+| 111 | 0% | 0% |  |
+| 112 | 0% | 0% |  |
+| 113 | 0% | 0% |  |
+| 114 | 0% | 0% |  |
+| 115 | 0% | 0% |  |
+| 116 | 0% | 0% |  |
+| 117 | 0% | 0% |  |
+| 118 | 0% | 0% |  |
+| 119 | 0% | 0% |  |
+| 120 | 0% | 0% |  |
+| 121 | 0% | 0% |  |
+| 122 | 0% | 0% |  |
+| 123 | 0% | 0% |  |
+| 124 | 0% | 0% |  |
+| 125 | 0% | 0% |  |
+| 126 | 0% | 0% |  |
+| 127 | 0% | 0% |  |
+| 128 | 0% | 0% |  |
+| 129 | 0% | 0% |  |
+| 130 | 0% | 0% |  |
+| 131 | 0% | 0% |  |
+| 132 | 0% | 0% |  |
+| 133 | 0% | 0% |  |
+| 134 | 0% | 0% |  |
+| 135 | 0% | 0% |  |
+| 136 | 0% | 0% |  |
+| 137 | 0% | 0% |  |
+| 138 | 0% | 0% |  |
+| 139 | 0% | 0% |  |
+| 140 | 0% | 0% |  |
+| 141 | 0% | 0% |  |
+| 142 | 0% | 0% |  |
+| 143 | 0% | 0% |  |
+| 144 | 0% | 0% |  |
+| 145 | 0% | 0% |  |
+| 146 | 0% | 0% |  |
+| 147 | 0% | 0% |  |
+| 148 | 0% | 0% |  |
+| 149 | 0% | 0% |  |
+| 150 | 0% | 0% |  |
+| 151 | 0% | 0% |  |
+| 152 | 0% | 0% |  |
+| 153 | 0% | 0% |  |
+| 154 | 0% | 0% |  |
+| 155 | 0% | 0% |  |
+| 156 | 0% | 0% |  |
+| 157 | 0% | 0% |  |
+| 158 | 0% | 0% |  |
+| 159 | 0% | 0% |  |
+| 160 | 0% | 0% |  |
+| 161 | 0% | 0% |  |
+| 162 | 0% | 0% |  |
+| 163 | 0% | 0% |  |
+| 164 | 0% | 0% |  |
+| 165 | 0% | 0% |  |
+| 166 | 0% | 0% |  |
+| 167 | 0% | 0% |  |
+| 168 | 0% | 0% |  |
+| 169 | 0% | 0% |  |
+| 170 | 0% | 0% |  |
+| 171 | 0% | 0% |  |
+| 172 | 0% | 0% |  |
+| 173 | 0% | 0% |  |
+| 174 | 0% | 0% |  |
+| 175 | 0% | 0% |  |
+| 176 | 0% | 0% |  |
+| 177 | 0% | 0% |  |
+| 178 | 0% | 0% |  |
+| 179 | 0% | 0% |  |
+| 180 | 0% | 0% |  |
+| 181 | 0% | 0% |  |
+| 182 | 0% | 0% |  |
+| 183 | 0% | 0% |  |
+| 184 | 0% | 0% |  |
+| 185 | 0% | 0% |  |
+| 186 | 0% | 0% |  |
+| 187 | 0% | 0% | Last Result |
+
+### Progressive Alliance of Socialists and Democrats
+
+*For a full overview of the results for this party, see the [Progressive Alliance of Socialists and Democrats](party-progressiveallianceofsocialistsanddemocrats.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+
+### Renew Europe
+
+*For a full overview of the results for this party, see the [Renew Europe](party-reneweurope.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+
+### Greens–European Free Alliance
+
+*For a full overview of the results for this party, see the [Greens–European Free Alliance](party-greens–europeanfreealliance.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
 ### Identity and Democracy
 
@@ -177,63 +240,11 @@
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0.1% | 100% |  |
-| 65 | 0.3% | 99.8% |  |
-| 66 | 0.8% | 99.5% |  |
-| 67 | 2% | 98.8% |  |
-| 68 | 3% | 97% |  |
-| 69 | 5% | 94% |  |
-| 70 | 8% | 89% |  |
-| 71 | 11% | 81% |  |
-| 72 | 13% | 70% |  |
-| 73 | 14% | 58% | Median |
-| 74 | 13% | 44% |  |
-| 75 | 11% | 31% |  |
-| 76 | 8% | 20% | Last Result |
-| 77 | 6% | 12% |  |
-| 78 | 3% | 6% |  |
-| 79 | 2% | 3% |  |
-| 80 | 0.8% | 1.3% |  |
-| 81 | 0.3% | 0.5% |  |
-| 82 | 0.1% | 0.2% |  |
-| 83 | 0% | 0.1% |  |
-| 84 | 0% | 0% |  |
-
 ### European Conservatives and Reformists
 
 *For a full overview of the results for this party, see the [European Conservatives and Reformists](party-europeanconservativesandreformists.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% | Last Result |
-| 62 | 0.1% | 99.9% |  |
-| 63 | 0.3% | 99.8% |  |
-| 64 | 0.7% | 99.4% |  |
-| 65 | 1.4% | 98.7% |  |
-| 66 | 2% | 97% |  |
-| 67 | 4% | 95% |  |
-| 68 | 5% | 91% |  |
-| 69 | 7% | 86% |  |
-| 70 | 9% | 79% |  |
-| 71 | 10% | 70% |  |
-| 72 | 11% | 60% | Median |
-| 73 | 11% | 49% |  |
-| 74 | 10% | 38% |  |
-| 75 | 8% | 29% |  |
-| 76 | 7% | 20% |  |
-| 77 | 5% | 13% |  |
-| 78 | 3% | 8% |  |
-| 79 | 2% | 5% |  |
-| 80 | 1.3% | 3% |  |
-| 81 | 0.7% | 1.3% |  |
-| 82 | 0.3% | 0.6% |  |
-| 83 | 0.2% | 0.3% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
 
 ### European United Left–Nordic Green Left
 
@@ -241,91 +252,17 @@
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% | Last Result |
-| 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.4% | 99.9% |  |
-| 43 | 1.3% | 99.5% |  |
-| 44 | 3% | 98% |  |
-| 45 | 7% | 95% |  |
-| 46 | 11% | 88% |  |
-| 47 | 15% | 77% |  |
-| 48 | 17% | 63% | Median |
-| 49 | 16% | 46% |  |
-| 50 | 13% | 30% |  |
-| 51 | 8% | 17% |  |
-| 52 | 5% | 8% |  |
-| 53 | 2% | 4% |  |
-| 54 | 0.9% | 1.3% |  |
-| 55 | 0.3% | 0.4% |  |
-| 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
-
 ### Non-Inscrits
 
 *For a full overview of the results for this party, see the [Non-Inscrits](party-non-inscrits.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0.2% | 99.9% |  |
-| 14 | 0.6% | 99.7% |  |
-| 15 | 2% | 99.1% |  |
-| 16 | 5% | 97% |  |
-| 17 | 10% | 92% |  |
-| 18 | 15% | 82% |  |
-| 19 | 18% | 67% | Median |
-| 20 | 17% | 49% |  |
-| 21 | 13% | 32% |  |
-| 22 | 9% | 18% |  |
-| 23 | 5% | 9% |  |
-| 24 | 3% | 4% |  |
-| 25 | 1.1% | 2% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0.1% | 0.2% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% | Last Result |
-
 ### Parties currently not represented in the EP
 
 *For a full overview of the results for this party, see the [Parties currently not represented in the EP](party-partiescurrentlynotrepresentedintheep.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 0.9% | 99.9% |  |
-| 14 | 5% | 99.1% |  |
-| 15 | 11% | 94% |  |
-| 16 | 15% | 83% |  |
-| 17 | 15% | 68% |  |
-| 18 | 14% | 53% | Median |
-| 19 | 12% | 39% |  |
-| 20 | 9% | 27% |  |
-| 21 | 6% | 17% |  |
-| 22 | 5% | 11% |  |
-| 23 | 4% | 7% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.8% | 1.0% |  |
-| 26 | 0.2% | 0.2% |  |
-| 27 | 0% | 0% |  |
 
 
 ## Voting Intentions
