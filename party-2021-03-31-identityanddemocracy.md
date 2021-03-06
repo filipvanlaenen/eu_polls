@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 73 | 69–76 | 68–77 | 67–78 | 66–80 |
+| Identity and Democracy | EU | 76 | 73 | 70–77 | 68–78 | 68–79 | 66–80 |
 | Rassemblement national | FR | | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
 | Lega Nord | IT | | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
-| Alternative für Deutschland | DE | | 10 | 8–11 | 7–11 | 7–11 | 7–11 |
-| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Alternative für Deutschland | DE | | 10 | 9–11 | 7–11 | 7–11 | 7–12 |
+| Partij voor de Vrijheid | NL | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -33,6 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
+| Воля–Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -42,25 +43,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0% | 100% |  |
-| 64 | 0.1% | 99.9% |  |
-| 65 | 0.3% | 99.8% |  |
-| 66 | 0.8% | 99.5% |  |
-| 67 | 2% | 98.7% |  |
-| 68 | 3% | 97% |  |
-| 69 | 5% | 94% |  |
-| 70 | 8% | 89% |  |
-| 71 | 11% | 80% |  |
-| 72 | 14% | 69% |  |
-| 73 | 15% | 55% | Median |
-| 74 | 13% | 40% |  |
-| 75 | 11% | 27% |  |
-| 76 | 7% | 16% | Last Result |
-| 77 | 5% | 9% |  |
-| 78 | 2% | 4% |  |
-| 79 | 1.1% | 2% |  |
-| 80 | 0.4% | 0.7% |  |
-| 81 | 0.2% | 0.2% |  |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.2% | 99.9% |  |
+| 66 | 0.6% | 99.7% |  |
+| 67 | 1.3% | 99.1% |  |
+| 68 | 3% | 98% |  |
+| 69 | 5% | 95% |  |
+| 70 | 8% | 90% |  |
+| 71 | 11% | 82% |  |
+| 72 | 13% | 71% |  |
+| 73 | 14% | 58% | Median |
+| 74 | 14% | 44% |  |
+| 75 | 11% | 30% |  |
+| 76 | 8% | 19% | Last Result |
+| 77 | 5% | 11% |  |
+| 78 | 3% | 6% |  |
+| 79 | 2% | 3% |  |
+| 80 | 0.7% | 1.1% |  |
+| 81 | 0.3% | 0.4% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 
