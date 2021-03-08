@@ -18,9 +18,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 15 | 13–19 | 12–20 | 12–21 | 11–22 |
-| Polska 2050 [PL] (*) | PL | | 11 | 8–15 | 8–16 | 8–16 | 7–17 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Parties currently not represented in the EP | EU | 0 | 15 | 13–21 | 12–23 | 12–24 | 11–25 |
+| Polska 2050 [PL] (*) | PL | | 10 | 8–17 | 8–18 | 8–18 | 7–19 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -47,9 +47,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-03-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-02-28-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-03-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-02-28.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -66,18 +66,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 7% | 98% |  |
-| 13 | 13% | 91% |  |
-| 14 | 15% | 77% |  |
-| 15 | 15% | 62% | Median |
-| 16 | 14% | 47% |  |
-| 17 | 11% | 33% |  |
-| 18 | 8% | 22% |  |
-| 19 | 5% | 14% |  |
-| 20 | 4% | 9% |  |
-| 21 | 3% | 5% |  |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 13 | 14% | 91% |  |
+| 14 | 17% | 77% |  |
+| 15 | 15% | 60% | Median |
+| 16 | 12% | 45% |  |
+| 17 | 10% | 33% |  |
+| 18 | 7% | 23% |  |
+| 19 | 4% | 16% |  |
+| 20 | 2% | 12% |  |
+| 21 | 2% | 11% |  |
+| 22 | 3% | 9% |  |
+| 23 | 3% | 6% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.6% | 0.7% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **72** seats (+11 seats)
+Current median: **73** seats (+12 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 72 | 68–77 | 66–78 | 65–80 | 63–82 |
+| European Conservatives and Reformists | EU | 61 | 73 | 68–78 | 67–79 | 66–80 | 64–82 |
 | Zjednoczona Prawica | PL | | 19 | 16–22 | 15–23 | 15–24 | 14–25 |
-| Fratelli d’Italia | IT | | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
-| Vox | ES | | 11 | 8–12 | 8–13 | 8–13 | 8–14 |
+| Fratelli d’Italia | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Vox | ES | | 11 | 8–12 | 8–12 | 8–13 | 8–14 |
 | Debout la France | FR | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -35,7 +35,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -55,30 +55,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% | Last Result |
-| 62 | 0.2% | 99.9% |  |
-| 63 | 0.4% | 99.8% |  |
-| 64 | 0.7% | 99.4% |  |
-| 65 | 1.4% | 98.7% |  |
-| 66 | 2% | 97% |  |
-| 67 | 4% | 95% |  |
-| 68 | 5% | 91% |  |
-| 69 | 7% | 86% |  |
-| 70 | 9% | 79% |  |
-| 71 | 10% | 70% |  |
-| 72 | 11% | 60% | Median |
-| 73 | 11% | 49% |  |
-| 74 | 10% | 39% |  |
-| 75 | 8% | 29% |  |
-| 76 | 7% | 20% |  |
-| 77 | 5% | 14% |  |
-| 78 | 4% | 8% |  |
-| 79 | 2% | 5% |  |
-| 80 | 1.3% | 3% |  |
-| 81 | 0.7% | 1.3% |  |
-| 82 | 0.4% | 0.6% |  |
-| 83 | 0.2% | 0.3% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
+| 61 | 0% | 100% | Last Result |
+| 62 | 0.1% | 99.9% |  |
+| 63 | 0.3% | 99.8% |  |
+| 64 | 0.6% | 99.6% |  |
+| 65 | 1.1% | 99.0% |  |
+| 66 | 2% | 98% |  |
+| 67 | 3% | 96% |  |
+| 68 | 5% | 93% |  |
+| 69 | 7% | 88% |  |
+| 70 | 8% | 81% |  |
+| 71 | 10% | 73% |  |
+| 72 | 11% | 63% |  |
+| 73 | 11% | 52% | Median |
+| 74 | 10% | 42% |  |
+| 75 | 9% | 32% |  |
+| 76 | 7% | 23% |  |
+| 77 | 6% | 16% |  |
+| 78 | 4% | 10% |  |
+| 79 | 3% | 6% |  |
+| 80 | 2% | 4% |  |
+| 81 | 1.0% | 2% |  |
+| 82 | 0.5% | 0.9% |  |
+| 83 | 0.2% | 0.4% |  |
+| 84 | 0.1% | 0.2% |  |
+| 85 | 0% | 0.1% |  |
+| 86 | 0% | 0% |  |
 
 

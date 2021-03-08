@@ -23,8 +23,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die Linke | DE | | 7 | 6–9 | 6–10 | 5–10 | 5–10 |
 | Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| Sinn Féin | IE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Socialistische Partij | NL | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Sinn Féin | IE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| Socialistische Partij | NL | | 2 | 2 | 2 | 2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -34,7 +34,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 2% | 98.9% |  |
 | 45 | 5% | 97% |  |
 | 46 | 8% | 92% |  |
-| 47 | 12% | 83% |  |
-| 48 | 15% | 71% |  |
-| 49 | 15% | 56% | Median |
+| 47 | 12% | 84% |  |
+| 48 | 15% | 72% |  |
+| 49 | 16% | 57% | Median |
 | 50 | 14% | 41% |  |
 | 51 | 11% | 27% |  |
-| 52 | 7% | 16% |  |
+| 52 | 7% | 17% |  |
 | 53 | 5% | 9% |  |
-| 54 | 2% | 4% |  |
+| 54 | 3% | 5% |  |
 | 55 | 1.2% | 2% |  |
-| 56 | 0.5% | 0.7% |  |
+| 56 | 0.5% | 0.8% |  |
 | 57 | 0.2% | 0.2% |  |
-| 58 | 0% | 0.1% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
 

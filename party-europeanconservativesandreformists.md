@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 73 | 68–77 | 67–79 | 65–80 | 63–82 |
+| European Conservatives and Reformists | EU | 61 | 73 | 68–78 | 67–79 | 66–80 | 64–82 |
 | Zjednoczona Prawica | PL | | 19 | 16–22 | 15–23 | 15–24 | 14–25 |
-| Fratelli d’Italia | IT | | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
-| Vox | ES | | 11 | 9–12 | 8–13 | 8–13 | 8–14 |
+| Fratelli d’Italia | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Vox | ES | | 11 | 8–12 | 8–12 | 8–13 | 8–14 |
 | Debout la France | FR | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -31,11 +31,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -49,36 +49,37 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-03-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-02-28-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-03-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-02-28.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% | Last Result |
+| 61 | 0% | 100% | Last Result |
 | 62 | 0.1% | 99.9% |  |
 | 63 | 0.3% | 99.8% |  |
-| 64 | 0.7% | 99.4% |  |
-| 65 | 1.3% | 98.7% |  |
-| 66 | 2% | 97% |  |
-| 67 | 4% | 95% |  |
-| 68 | 5% | 92% |  |
-| 69 | 7% | 86% |  |
-| 70 | 9% | 79% |  |
-| 71 | 10% | 71% |  |
-| 72 | 11% | 61% |  |
-| 73 | 11% | 50% | Median |
-| 74 | 10% | 39% |  |
-| 75 | 9% | 30% |  |
-| 76 | 7% | 21% |  |
-| 77 | 5% | 14% |  |
-| 78 | 4% | 9% |  |
-| 79 | 2% | 5% |  |
-| 80 | 1.4% | 3% |  |
-| 81 | 0.8% | 1.4% |  |
-| 82 | 0.4% | 0.7% |  |
-| 83 | 0.2% | 0.3% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
+| 64 | 0.6% | 99.6% |  |
+| 65 | 1.1% | 99.0% |  |
+| 66 | 2% | 98% |  |
+| 67 | 3% | 96% |  |
+| 68 | 5% | 93% |  |
+| 69 | 7% | 88% |  |
+| 70 | 8% | 81% |  |
+| 71 | 10% | 73% |  |
+| 72 | 11% | 63% |  |
+| 73 | 11% | 52% | Median |
+| 74 | 10% | 42% |  |
+| 75 | 9% | 32% |  |
+| 76 | 7% | 23% |  |
+| 77 | 6% | 16% |  |
+| 78 | 4% | 10% |  |
+| 79 | 3% | 6% |  |
+| 80 | 2% | 4% |  |
+| 81 | 1.0% | 2% |  |
+| 82 | 0.5% | 0.9% |  |
+| 83 | 0.2% | 0.4% |  |
+| 84 | 0.1% | 0.2% |  |
+| 85 | 0% | 0.1% |  |
+| 86 | 0% | 0% |  |
 
 
