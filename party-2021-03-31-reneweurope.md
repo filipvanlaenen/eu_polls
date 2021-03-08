@@ -20,32 +20,32 @@ At least one member in **20 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 86 | 82–91 | 81–92 | 80–94 | 78–96 |
 | La République en marche–Mouvement démocrate | FR | | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
 | ANO 2011 | CZ | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 2–6 | 1–6 | 1–6 | 1–6 |
-| Democraten 66 | NL | | 3 | 3 | 2–4 | 2–4 | 2–4 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Democraten 66 | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 1 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Laisvės partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -54,7 +54,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -76,19 +76,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 0% | 100% |  |
 | 76 | 0.1% | 99.9% |  |
 | 77 | 0.3% | 99.8% |  |
-| 78 | 0.6% | 99.6% |  |
-| 79 | 1.2% | 98.9% |  |
+| 78 | 0.7% | 99.5% |  |
+| 79 | 1.3% | 98.9% |  |
 | 80 | 2% | 98% |  |
 | 81 | 4% | 95% |  |
-| 82 | 5% | 92% |  |
-| 83 | 7% | 86% |  |
-| 84 | 9% | 79% |  |
-| 85 | 10% | 70% |  |
-| 86 | 11% | 59% | Median |
-| 87 | 11% | 48% |  |
-| 88 | 10% | 38% |  |
-| 89 | 8% | 28% |  |
-| 90 | 6% | 20% |  |
+| 82 | 6% | 91% |  |
+| 83 | 8% | 86% |  |
+| 84 | 9% | 78% |  |
+| 85 | 11% | 69% |  |
+| 86 | 11% | 58% | Median |
+| 87 | 11% | 47% |  |
+| 88 | 10% | 36% |  |
+| 89 | 8% | 27% |  |
+| 90 | 6% | 19% |  |
 | 91 | 5% | 13% |  |
 | 92 | 3% | 8% |  |
 | 93 | 2% | 5% |  |

@@ -10,19 +10,19 @@ Last result: **76** seats (General Election of 26 May 2019)
 
 Current median: **73** seats (-3 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
+> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, PT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 73 | 70–77 | 68–78 | 68–79 | 66–80 |
+| Identity and Democracy | EU | 76 | 73 | 70–77 | 69–77 | 68–78 | 66–80 |
 | Rassemblement national | FR | | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
-| Lega Nord | IT | | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
+| Lega Nord | IT | | 20 | 19–22 | 18–23 | 18–24 | 17–25 |
 | Alternative für Deutschland | DE | | 10 | 9–11 | 7–11 | 7–11 | 7–12 |
-| Partij voor de Vrijheid | NL | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -30,7 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| SME RODINA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Воля | BG | | 0 | 0 | 0 | 0 | 0 |
 | Воля–Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -45,22 +45,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0.1% | 100% |  |
 | 65 | 0.2% | 99.9% |  |
-| 66 | 0.6% | 99.7% |  |
-| 67 | 1.3% | 99.1% |  |
-| 68 | 3% | 98% |  |
-| 69 | 5% | 95% |  |
-| 70 | 8% | 90% |  |
-| 71 | 11% | 82% |  |
-| 72 | 13% | 71% |  |
-| 73 | 14% | 58% | Median |
-| 74 | 14% | 44% |  |
-| 75 | 11% | 30% |  |
+| 66 | 0.4% | 99.8% |  |
+| 67 | 1.1% | 99.3% |  |
+| 68 | 2% | 98% |  |
+| 69 | 4% | 96% |  |
+| 70 | 7% | 92% |  |
+| 71 | 11% | 85% |  |
+| 72 | 14% | 74% |  |
+| 73 | 15% | 60% | Median |
+| 74 | 14% | 45% |  |
+| 75 | 12% | 31% |  |
 | 76 | 8% | 19% | Last Result |
-| 77 | 5% | 11% |  |
-| 78 | 3% | 6% |  |
-| 79 | 2% | 3% |  |
-| 80 | 0.7% | 1.1% |  |
-| 81 | 0.3% | 0.4% |  |
+| 77 | 5% | 10% |  |
+| 78 | 3% | 5% |  |
+| 79 | 1.3% | 2% |  |
+| 80 | 0.5% | 0.8% |  |
+| 81 | 0.2% | 0.3% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 
