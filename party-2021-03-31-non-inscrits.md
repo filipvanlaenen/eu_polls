@@ -20,7 +20,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 19 | 16–22 | 15–23 | 14–23 | 13–25 |
 | Movimento 5 Stelle | IT | | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
-| Konfederacja | PL | | 4 | 2–6 | 0–6 | 0–6 | 0–7 |
+| Konfederacja | PL | | 4 | 2–5 | 0–6 | 0–6 | 0–7 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |

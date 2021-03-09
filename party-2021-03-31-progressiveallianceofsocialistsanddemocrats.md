@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **146** seats (-1 seats)
+Current median: **147** seats (0 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 141–152 | 139–154 | 138–155 | 135–158 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 141–152 | 139–154 | 138–155 | 135–158 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Partito Democratico | IT | | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | Partidul Social Democrat | RO | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
-| United Opposition | HU | | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
+| United Opposition | HU | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | Socialdemokraterne | DK | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -79,8 +79,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 7% | 83% |  |
 | 144 | 8% | 76% |  |
 | 145 | 9% | 68% |  |
-| 146 | 9% | 59% | Median |
-| 147 | 9% | 50% | Last Result |
+| 146 | 9% | 59% |  |
+| 147 | 9% | 50% | Last Result, Median |
 | 148 | 9% | 41% |  |
 | 149 | 8% | 32% |  |
 | 150 | 7% | 24% |  |
@@ -88,8 +88,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 152 | 4% | 12% |  |
 | 153 | 3% | 8% |  |
 | 154 | 2% | 5% |  |
-| 155 | 1.3% | 3% |  |
-| 156 | 0.8% | 2% |  |
+| 155 | 1.4% | 3% |  |
+| 156 | 0.9% | 2% |  |
 | 157 | 0.5% | 1.1% |  |
 | 158 | 0.3% | 0.6% |  |
 | 159 | 0.2% | 0.3% |  |

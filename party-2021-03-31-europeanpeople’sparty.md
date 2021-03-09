@@ -23,7 +23,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
 | Les Républicains | FR | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
 | Koalicja Obywatelska | PL | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–8 | 6–10 | 6–10 |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 0% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.8% |  |
-| 165 | 0.3% | 99.7% |  |
+| 165 | 0.4% | 99.7% |  |
 | 166 | 0.6% | 99.3% |  |
 | 167 | 1.1% | 98.7% |  |
 | 168 | 2% | 98% |  |
