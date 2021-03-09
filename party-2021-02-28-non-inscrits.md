@@ -23,7 +23,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 4 | 2–5 | 0–6 | 0–6 | 0–7 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -46,7 +46,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.8% | 99.7% |  |
 | 14 | 2% | 98.9% |  |
 | 15 | 4% | 97% |  |
-| 16 | 7% | 93% |  |
+| 16 | 7% | 94% |  |
 | 17 | 13% | 86% |  |
 | 18 | 18% | 74% |  |
 | 19 | 19% | 56% | Median |
