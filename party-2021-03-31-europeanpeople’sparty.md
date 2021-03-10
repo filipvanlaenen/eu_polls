@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 176 | 170–182 | 169–183 | 168–185 | 165–188 |
+| European People’s Party | EU | 187 | 176 | 170–181 | 169–183 | 167–184 | 165–187 |
 | Christlich Demokratische Union Deutschlands | DE | | 26 | 23–29 | 23–29 | 23–29 | 22–31 |
 | Partido Popular | ES | | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
 | Les Républicains | FR | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
@@ -34,7 +34,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -45,7 +45,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 1–2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| ChristenUnie | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -53,7 +53,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| 50Plus | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -79,33 +79,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 0% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.8% |  |
-| 165 | 0.4% | 99.7% |  |
-| 166 | 0.6% | 99.3% |  |
-| 167 | 1.1% | 98.7% |  |
-| 168 | 2% | 98% |  |
+| 165 | 0.4% | 99.6% |  |
+| 166 | 0.7% | 99.3% |  |
+| 167 | 1.1% | 98.6% |  |
+| 168 | 2% | 97% |  |
 | 169 | 3% | 96% |  |
 | 170 | 4% | 93% |  |
-| 171 | 5% | 90% |  |
-| 172 | 6% | 85% |  |
-| 173 | 7% | 79% |  |
-| 174 | 8% | 72% |  |
-| 175 | 9% | 64% |  |
-| 176 | 9% | 55% | Median |
-| 177 | 9% | 46% |  |
-| 178 | 8% | 37% |  |
-| 179 | 7% | 29% |  |
-| 180 | 6% | 22% |  |
-| 181 | 5% | 16% |  |
-| 182 | 4% | 11% |  |
-| 183 | 3% | 7% |  |
-| 184 | 2% | 5% |  |
-| 185 | 1.2% | 3% |  |
-| 186 | 0.7% | 2% |  |
-| 187 | 0.4% | 1.0% | Last Result |
-| 188 | 0.2% | 0.5% |  |
-| 189 | 0.1% | 0.3% |  |
+| 171 | 5% | 89% |  |
+| 172 | 6% | 84% |  |
+| 173 | 7% | 78% |  |
+| 174 | 8% | 70% |  |
+| 175 | 9% | 62% |  |
+| 176 | 9% | 53% | Median |
+| 177 | 9% | 44% |  |
+| 178 | 8% | 35% |  |
+| 179 | 7% | 27% |  |
+| 180 | 6% | 20% |  |
+| 181 | 5% | 15% |  |
+| 182 | 3% | 10% |  |
+| 183 | 2% | 7% |  |
+| 184 | 2% | 4% |  |
+| 185 | 1.1% | 2% |  |
+| 186 | 0.6% | 1.4% |  |
+| 187 | 0.4% | 0.8% | Last Result |
+| 188 | 0.2% | 0.4% |  |
+| 189 | 0.1% | 0.2% |  |
 | 190 | 0.1% | 0.1% |  |
-| 191 | 0% | 0.1% |  |
-| 192 | 0% | 0% |  |
+| 191 | 0% | 0% |  |
 
 
