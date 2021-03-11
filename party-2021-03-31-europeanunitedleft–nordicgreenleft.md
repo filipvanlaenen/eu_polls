@@ -24,7 +24,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Sinn Féin | IE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Socialistische Partij | NL | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -34,7 +34,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
-| 42 | 0.2% | 100% |  |
+| 42 | 0.2% | 99.9% |  |
 | 43 | 0.6% | 99.8% |  |
 | 44 | 2% | 99.2% |  |
 | 45 | 4% | 98% |  |
 | 46 | 7% | 94% |  |
 | 47 | 11% | 87% |  |
-| 48 | 14% | 77% |  |
-| 49 | 16% | 63% | Median |
+| 48 | 14% | 76% |  |
+| 49 | 16% | 62% | Median |
 | 50 | 15% | 47% |  |
 | 51 | 13% | 32% |  |
 | 52 | 9% | 19% |  |
 | 53 | 5% | 10% |  |
-| 54 | 3% | 4% |  |
-| 55 | 1.1% | 2% |  |
-| 56 | 0.4% | 0.5% |  |
+| 54 | 3% | 5% |  |
+| 55 | 1.2% | 2% |  |
+| 56 | 0.4% | 0.6% |  |
 | 57 | 0.1% | 0.2% |  |
 | 58 | 0% | 0% |  |
 
