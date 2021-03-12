@@ -32,7 +32,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -49,7 +49,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -81,21 +81,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.2% | 99.8% |  |
 | 165 | 0.4% | 99.6% |  |
 | 166 | 0.7% | 99.2% |  |
-| 167 | 1.2% | 98.5% |  |
+| 167 | 1.2% | 98.6% |  |
 | 168 | 2% | 97% |  |
-| 169 | 3% | 95% |  |
+| 169 | 3% | 96% |  |
 | 170 | 4% | 93% |  |
 | 171 | 5% | 89% |  |
 | 172 | 6% | 84% |  |
-| 173 | 7% | 77% |  |
+| 173 | 7% | 78% |  |
 | 174 | 8% | 70% |  |
-| 175 | 9% | 61% |  |
+| 175 | 9% | 62% |  |
 | 176 | 9% | 53% | Median |
 | 177 | 9% | 44% |  |
 | 178 | 8% | 35% |  |
 | 179 | 7% | 27% |  |
 | 180 | 6% | 20% |  |
-| 181 | 4% | 14% |  |
+| 181 | 5% | 14% |  |
 | 182 | 3% | 10% |  |
 | 183 | 2% | 6% |  |
 | 184 | 2% | 4% |  |
