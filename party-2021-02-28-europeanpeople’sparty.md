@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 176 | 171–182 | 169–184 | 168–185 | 165–188 |
+| European People’s Party | EU | 187 | 176 | 171–182 | 169–184 | 168–185 | 166–188 |
 | Christlich Demokratische Union Deutschlands | DE | | 26 | 24–29 | 23–29 | 23–29 | 22–31 |
 | Partido Popular | ES | | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
 | Les Républicains | FR | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
@@ -32,7 +32,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -80,26 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.1% | 99.9% |  |
 | 165 | 0.3% | 99.8% |  |
 | 166 | 0.5% | 99.5% |  |
-| 167 | 0.9% | 99.0% |  |
+| 167 | 0.8% | 99.0% |  |
 | 168 | 1.4% | 98% |  |
 | 169 | 2% | 97% |  |
 | 170 | 3% | 95% |  |
-| 171 | 4% | 91% |  |
-| 172 | 6% | 87% |  |
+| 171 | 4% | 92% |  |
+| 172 | 5% | 87% |  |
 | 173 | 7% | 82% |  |
 | 174 | 8% | 75% |  |
 | 175 | 9% | 67% |  |
-| 176 | 9% | 58% | Median |
+| 176 | 9% | 59% | Median |
 | 177 | 9% | 49% |  |
-| 178 | 8% | 40% |  |
+| 178 | 9% | 40% |  |
 | 179 | 8% | 32% |  |
-| 180 | 6% | 24% |  |
-| 181 | 5% | 17% |  |
+| 180 | 7% | 24% |  |
+| 181 | 5% | 18% |  |
 | 182 | 4% | 12% |  |
 | 183 | 3% | 8% |  |
 | 184 | 2% | 5% |  |
-| 185 | 1.3% | 3% |  |
-| 186 | 0.8% | 2% |  |
+| 185 | 1.4% | 3% |  |
+| 186 | 0.9% | 2% |  |
 | 187 | 0.5% | 1.1% | Last Result |
 | 188 | 0.3% | 0.6% |  |
 | 189 | 0.2% | 0.3% |  |
