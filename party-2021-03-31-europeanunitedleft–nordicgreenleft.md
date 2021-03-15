@@ -25,11 +25,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Sinn Féin | IE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Socialistische Partij | NL | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,21 +57,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
-| 43 | 0.2% | 100% |  |
-| 44 | 0.6% | 99.8% |  |
-| 45 | 2% | 99.2% |  |
-| 46 | 4% | 98% |  |
-| 47 | 7% | 94% |  |
-| 48 | 11% | 86% |  |
-| 49 | 15% | 75% |  |
-| 50 | 16% | 60% | Median |
-| 51 | 15% | 44% |  |
-| 52 | 12% | 28% |  |
-| 53 | 8% | 16% |  |
-| 54 | 5% | 8% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.8% | 1.1% |  |
-| 57 | 0.3% | 0.3% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.5% | 99.8% |  |
+| 45 | 1.4% | 99.4% |  |
+| 46 | 3% | 98% |  |
+| 47 | 7% | 95% |  |
+| 48 | 11% | 88% |  |
+| 49 | 14% | 77% |  |
+| 50 | 16% | 63% | Median |
+| 51 | 16% | 47% |  |
+| 52 | 13% | 31% |  |
+| 53 | 9% | 18% |  |
+| 54 | 5% | 9% |  |
+| 55 | 3% | 4% |  |
+| 56 | 1.0% | 1.5% |  |
+| 57 | 0.3% | 0.4% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 

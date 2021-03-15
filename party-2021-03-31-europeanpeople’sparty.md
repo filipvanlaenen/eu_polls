@@ -34,7 +34,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Christen-Democratisch Appèl | NL | | 4 | 4 | 4 | 4 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -44,7 +44,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.3% | 99.8% |  |
 | 165 | 0.5% | 99.5% |  |
 | 166 | 0.9% | 99.0% |  |
-| 167 | 1.4% | 98% |  |
+| 167 | 1.5% | 98% |  |
 | 168 | 2% | 97% |  |
 | 169 | 3% | 94% |  |
 | 170 | 4% | 91% |  |
@@ -92,18 +92,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 175 | 9% | 58% | Median |
 | 176 | 9% | 49% |  |
 | 177 | 8% | 40% |  |
-| 178 | 8% | 31% |  |
+| 178 | 8% | 32% |  |
 | 179 | 6% | 24% |  |
-| 180 | 5% | 17% |  |
+| 180 | 5% | 18% |  |
 | 181 | 4% | 12% |  |
 | 182 | 3% | 8% |  |
 | 183 | 2% | 5% |  |
-| 184 | 1.3% | 3% |  |
-| 185 | 0.8% | 2% |  |
+| 184 | 1.4% | 3% |  |
+| 185 | 0.9% | 2% |  |
 | 186 | 0.5% | 1.1% |  |
 | 187 | 0.3% | 0.6% | Last Result |
 | 188 | 0.2% | 0.3% |  |
-| 189 | 0.1% | 0.1% |  |
+| 189 | 0.1% | 0.2% |  |
 | 190 | 0% | 0.1% |  |
 | 191 | 0% | 0% |  |
 
