@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **165** seats (-22 seats)
+Current median: **164** seats (-23 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 165 | 159–171 | 158–172 | 157–174 | 154–176 |
+| European People’s Party | EU | 187 | 164 | 159–170 | 157–171 | 156–173 | 153–175 |
 | Christlich Demokratische Union Deutschlands | DE | | 26 | 23–29 | 23–29 | 23–29 | 22–31 |
 | Partido Popular | ES | | 13 | 11–15 | 11–15 | 10–16 | 10–16 |
 | Les Républicains | FR | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
@@ -33,17 +33,17 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 1–2 |
-| ChristenUnie | NL | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -75,35 +75,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0% | 100% |  |
+| 151 | 0.1% | 100% |  |
 | 152 | 0.1% | 99.9% |  |
-| 153 | 0.2% | 99.9% |  |
-| 154 | 0.3% | 99.7% |  |
-| 155 | 0.6% | 99.4% |  |
-| 156 | 1.0% | 98.8% |  |
-| 157 | 2% | 98% |  |
-| 158 | 3% | 96% |  |
-| 159 | 4% | 94% |  |
-| 160 | 5% | 90% |  |
-| 161 | 6% | 85% |  |
-| 162 | 7% | 79% |  |
-| 163 | 8% | 72% |  |
-| 164 | 9% | 64% |  |
-| 165 | 9% | 55% | Median |
-| 166 | 9% | 46% |  |
-| 167 | 8% | 37% |  |
-| 168 | 7% | 29% |  |
-| 169 | 6% | 22% |  |
-| 170 | 5% | 16% |  |
-| 171 | 4% | 11% |  |
-| 172 | 3% | 7% |  |
-| 173 | 2% | 5% |  |
-| 174 | 1.2% | 3% |  |
-| 175 | 0.7% | 2% |  |
-| 176 | 0.4% | 0.9% |  |
-| 177 | 0.2% | 0.5% |  |
-| 178 | 0.1% | 0.2% |  |
-| 179 | 0.1% | 0.1% |  |
+| 153 | 0.3% | 99.8% |  |
+| 154 | 0.5% | 99.5% |  |
+| 155 | 0.9% | 99.0% |  |
+| 156 | 2% | 98% |  |
+| 157 | 2% | 97% |  |
+| 158 | 3% | 94% |  |
+| 159 | 5% | 91% |  |
+| 160 | 6% | 86% |  |
+| 161 | 7% | 80% |  |
+| 162 | 8% | 73% |  |
+| 163 | 9% | 65% |  |
+| 164 | 9% | 56% | Median |
+| 165 | 9% | 47% |  |
+| 166 | 8% | 38% |  |
+| 167 | 7% | 30% |  |
+| 168 | 6% | 22% |  |
+| 169 | 5% | 16% |  |
+| 170 | 4% | 11% |  |
+| 171 | 3% | 7% |  |
+| 172 | 2% | 5% |  |
+| 173 | 1.2% | 3% |  |
+| 174 | 0.7% | 2% |  |
+| 175 | 0.4% | 0.9% |  |
+| 176 | 0.2% | 0.5% |  |
+| 177 | 0.1% | 0.2% |  |
+| 178 | 0.1% | 0.1% |  |
+| 179 | 0% | 0% |  |
 | 180 | 0% | 0% |  |
 | 181 | 0% | 0% |  |
 | 182 | 0% | 0% |  |

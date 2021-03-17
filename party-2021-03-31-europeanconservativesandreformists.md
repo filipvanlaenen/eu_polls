@@ -8,17 +8,17 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **73** seats (+12 seats)
+Current median: **72** seats (+11 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, CZ, ES, FR, GR, HR, IT, LV, NL, PL, RO, SE, SK
+> BE, CZ, ES, FR, GR, HR, IT, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 73 | 68–77 | 67–79 | 66–80 | 64–82 |
+| European Conservatives and Reformists | EU | 61 | 72 | 68–77 | 67–78 | 66–79 | 64–81 |
 | Zjednoczona Prawica | PL | | 18 | 15–22 | 15–22 | 15–23 | 14–24 |
 | Fratelli d’Italia | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Vox | ES | | 11 | 9–12 | 8–13 | 8–13 | 8–14 |
@@ -29,13 +29,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -56,29 +56,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
-| 62 | 0.1% | 100% |  |
-| 63 | 0.2% | 99.9% |  |
-| 64 | 0.4% | 99.7% |  |
-| 65 | 0.9% | 99.3% |  |
+| 62 | 0.1% | 99.9% |  |
+| 63 | 0.3% | 99.8% |  |
+| 64 | 0.6% | 99.6% |  |
+| 65 | 1.2% | 99.0% |  |
 | 66 | 2% | 98% |  |
-| 67 | 3% | 97% |  |
-| 68 | 5% | 94% |  |
-| 69 | 7% | 89% |  |
-| 70 | 8% | 83% |  |
-| 71 | 10% | 74% |  |
-| 72 | 11% | 64% |  |
-| 73 | 11% | 53% | Median |
-| 74 | 10% | 42% |  |
-| 75 | 9% | 32% |  |
-| 76 | 7% | 23% |  |
-| 77 | 6% | 16% |  |
-| 78 | 4% | 10% |  |
-| 79 | 3% | 6% |  |
-| 80 | 2% | 3% |  |
-| 81 | 0.8% | 1.5% |  |
-| 82 | 0.4% | 0.7% |  |
-| 83 | 0.2% | 0.3% |  |
-| 84 | 0.1% | 0.1% |  |
+| 67 | 4% | 96% |  |
+| 68 | 5% | 92% |  |
+| 69 | 7% | 87% |  |
+| 70 | 9% | 79% |  |
+| 71 | 10% | 70% |  |
+| 72 | 11% | 60% | Median |
+| 73 | 11% | 49% |  |
+| 74 | 10% | 38% |  |
+| 75 | 8% | 28% |  |
+| 76 | 7% | 20% |  |
+| 77 | 5% | 13% |  |
+| 78 | 4% | 8% |  |
+| 79 | 2% | 5% |  |
+| 80 | 1.3% | 2% |  |
+| 81 | 0.7% | 1.2% |  |
+| 82 | 0.3% | 0.5% |  |
+| 83 | 0.1% | 0.2% |  |
+| 84 | 0% | 0.1% |  |
 | 85 | 0% | 0% |  |
 
 
