@@ -18,17 +18,17 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 140–151 | 139–153 | 137–154 | 134–156 |
-| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
-| Partito Democratico | IT | | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 140–151 | 138–153 | 137–154 | 134–157 |
+| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 13–19 | 13–19 | 12–19 |
+| Partito Democratico | IT | | 14 | 12–17 | 12–17 | 12–18 | 11–19 |
 | Partidul Social Democrat | RO | | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | United Opposition | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | Parti socialiste | FR | | 6 | 5–7 | 4–7 | 0–7 | 0–8 |
 | Socialdemokraterne | DK | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| Lewica | PL | | 5 | 3–6 | 3–7 | 3–7 | 0–8 |
+| Lewica | PL | | 5 | 3–6 | 3–6 | 3–7 | 0–7 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Българска социалистическа партия | BG | | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -40,7 +40,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 0–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -65,36 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 131 | 0% | 100% |  |
+| 130 | 0% | 100% |  |
+| 131 | 0.1% | 99.9% |  |
 | 132 | 0.1% | 99.9% |  |
 | 133 | 0.2% | 99.8% |  |
-| 134 | 0.3% | 99.7% |  |
-| 135 | 0.5% | 99.4% |  |
-| 136 | 0.8% | 98.9% |  |
-| 137 | 1.2% | 98% |  |
+| 134 | 0.3% | 99.6% |  |
+| 135 | 0.5% | 99.3% |  |
+| 136 | 0.8% | 98.8% |  |
+| 137 | 1.3% | 98% |  |
 | 138 | 2% | 97% |  |
 | 139 | 3% | 95% |  |
 | 140 | 4% | 92% |  |
 | 141 | 5% | 88% |  |
 | 142 | 7% | 83% |  |
-| 143 | 8% | 77% |  |
-| 144 | 9% | 69% |  |
+| 143 | 8% | 76% |  |
+| 144 | 9% | 68% |  |
 | 145 | 9% | 60% |  |
 | 146 | 9% | 51% | Median |
 | 147 | 9% | 41% | Last Result |
 | 148 | 8% | 33% |  |
 | 149 | 7% | 25% |  |
-| 150 | 5% | 18% |  |
-| 151 | 4% | 12% |  |
-| 152 | 3% | 8% |  |
-| 153 | 2% | 5% |  |
-| 154 | 1.3% | 3% |  |
-| 155 | 0.8% | 2% |  |
-| 156 | 0.5% | 1.0% |  |
-| 157 | 0.3% | 0.5% |  |
-| 158 | 0.1% | 0.2% |  |
-| 159 | 0.1% | 0.1% |  |
-| 160 | 0% | 0.1% |  |
+| 150 | 5% | 19% |  |
+| 151 | 4% | 13% |  |
+| 152 | 3% | 9% |  |
+| 153 | 2% | 6% |  |
+| 154 | 1.5% | 4% |  |
+| 155 | 0.9% | 2% |  |
+| 156 | 0.6% | 1.3% |  |
+| 157 | 0.3% | 0.7% |  |
+| 158 | 0.2% | 0.4% |  |
+| 159 | 0.1% | 0.2% |  |
+| 160 | 0.1% | 0.1% |  |
 | 161 | 0% | 0% |  |
 
 
