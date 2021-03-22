@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **15** seats (+15 seats)
+Current median: **17** seats (+17 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 15 | 13–21 | 12–22 | 11–23 | 11–25 |
-| Polska 2050 [PL] (*) | PL | | 10 | 8–16 | 8–18 | 7–18 | 7–19 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 13–21 | 12–23 | 12–23 | 11–25 |
+| Polska 2050 [PL] (*) | PL | | 13 | 8–17 | 8–18 | 7–18 | 7–19 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,22 +65,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.4% | 100% |  |
-| 11 | 2% | 99.6% |  |
-| 12 | 7% | 97% |  |
-| 13 | 14% | 91% |  |
-| 14 | 18% | 77% |  |
-| 15 | 14% | 59% | Median |
-| 16 | 9% | 45% |  |
-| 17 | 8% | 36% |  |
-| 18 | 8% | 27% |  |
-| 19 | 6% | 19% |  |
-| 20 | 3% | 14% |  |
-| 21 | 3% | 10% |  |
-| 22 | 3% | 8% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 2% | 99.7% |  |
+| 12 | 5% | 98% |  |
+| 13 | 8% | 93% |  |
+| 14 | 11% | 85% |  |
+| 15 | 11% | 74% |  |
+| 16 | 8% | 63% |  |
+| 17 | 8% | 56% | Median |
+| 18 | 12% | 48% |  |
+| 19 | 13% | 36% |  |
+| 20 | 9% | 23% |  |
+| 21 | 5% | 15% |  |
+| 22 | 4% | 9% |  |
 | 23 | 3% | 5% |  |
-| 24 | 1.4% | 2% |  |
-| 25 | 0.4% | 0.5% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.5% | 0.6% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 

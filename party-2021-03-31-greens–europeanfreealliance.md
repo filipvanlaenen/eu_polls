@@ -24,7 +24,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -35,7 +35,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Andrej Čuš in Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -46,12 +45,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -67,16 +67,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.6% | 99.8% |  |
 | 42 | 1.5% | 99.2% |  |
 | 43 | 3% | 98% |  |
-| 44 | 6% | 95% |  |
+| 44 | 6% | 94% |  |
 | 45 | 9% | 89% |  |
 | 46 | 12% | 80% |  |
-| 47 | 14% | 69% |  |
-| 48 | 15% | 54% | Median |
-| 49 | 14% | 40% |  |
-| 50 | 11% | 26% |  |
-| 51 | 7% | 15% |  |
-| 52 | 4% | 8% |  |
-| 53 | 2% | 4% |  |
+| 47 | 14% | 67% |  |
+| 48 | 15% | 53% | Median |
+| 49 | 13% | 38% |  |
+| 50 | 10% | 25% |  |
+| 51 | 7% | 14% |  |
+| 52 | 4% | 7% |  |
+| 53 | 2% | 3% |  |
 | 54 | 0.9% | 1.4% |  |
 | 55 | 0.3% | 0.5% |  |
 | 56 | 0.1% | 0.2% |  |

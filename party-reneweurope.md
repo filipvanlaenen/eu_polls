@@ -23,13 +23,13 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–10 | 6–10 | 6–10 | 5–11 |
 | ANO 2011 | CZ | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
-| Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Democraten 66 | NL | | 4 | 4 | 4 | 4 | 4–5 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 3 | 1–5 | 1–6 | 1–6 | 1–6 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -80,21 +80,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 1.2% | 99.1% |  |
 | 83 | 2% | 98% |  |
 | 84 | 4% | 96% |  |
-| 85 | 5% | 92% |  |
-| 86 | 8% | 87% |  |
-| 87 | 9% | 79% |  |
-| 88 | 11% | 70% |  |
-| 89 | 11% | 59% | Median |
-| 90 | 11% | 48% |  |
-| 91 | 10% | 37% |  |
-| 92 | 8% | 27% |  |
+| 85 | 6% | 92% |  |
+| 86 | 8% | 86% |  |
+| 87 | 10% | 79% |  |
+| 88 | 11% | 69% |  |
+| 89 | 11% | 58% | Median |
+| 90 | 11% | 47% |  |
+| 91 | 10% | 36% |  |
+| 92 | 8% | 26% |  |
 | 93 | 6% | 18% |  |
-| 94 | 5% | 12% |  |
+| 94 | 4% | 12% |  |
 | 95 | 3% | 7% |  |
 | 96 | 2% | 4% |  |
-| 97 | 1.2% | 2% |  |
-| 98 | 0.6% | 1.3% | Last Result |
-| 99 | 0.3% | 0.7% |  |
+| 97 | 1.1% | 2% |  |
+| 98 | 0.6% | 1.2% | Last Result |
+| 99 | 0.3% | 0.6% |  |
 | 100 | 0.2% | 0.3% |  |
 | 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0.1% |  |

@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **30** seats (+1 seats)
+Current median: **31** seats (+2 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 30 | 27–33 | 26–35 | 25–36 | 23–37 |
+| Non-Inscrits | EU | 29 | 31 | 28–34 | 27–35 | 26–36 | 25–38 |
 | Movimento 5 Stelle | IT | | 13 | 11–16 | 11–17 | 10–18 | 10–19 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
-| Konfederacja | PL | | 3 | 2–5 | 0–5 | 0–5 | 0–6 |
+| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,24 +43,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.4% | 99.8% |  |
-| 24 | 1.0% | 99.4% |  |
-| 25 | 2% | 98% |  |
-| 26 | 4% | 96% |  |
-| 27 | 7% | 92% |  |
-| 28 | 11% | 85% |  |
-| 29 | 15% | 74% | Last Result |
-| 30 | 16% | 59% | Median |
-| 31 | 15% | 43% |  |
-| 32 | 11% | 29% |  |
-| 33 | 7% | 17% |  |
-| 34 | 5% | 10% |  |
-| 35 | 3% | 5% |  |
-| 36 | 1.5% | 3% |  |
-| 37 | 0.7% | 1.2% |  |
-| 38 | 0.3% | 0.4% |  |
-| 39 | 0.1% | 0.1% |  |
-| 40 | 0% | 0% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.6% | 99.9% |  |
+| 26 | 2% | 99.2% |  |
+| 27 | 5% | 97% |  |
+| 28 | 9% | 92% |  |
+| 29 | 14% | 83% | Last Result |
+| 30 | 17% | 69% |  |
+| 31 | 16% | 52% | Median |
+| 32 | 13% | 36% |  |
+| 33 | 9% | 23% |  |
+| 34 | 6% | 13% |  |
+| 35 | 4% | 7% |  |
+| 36 | 2% | 4% |  |
+| 37 | 1.0% | 2% |  |
+| 38 | 0.5% | 0.7% |  |
+| 39 | 0.2% | 0.2% |  |
+| 40 | 0% | 0.1% |  |
+| 41 | 0% | 0% |  |
 
 
