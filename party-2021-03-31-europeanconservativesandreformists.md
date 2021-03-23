@@ -19,8 +19,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 71 | 66–75 | 65–76 | 64–77 | 62–79 |
-| Zjednoczona Prawica | PL | | 19 | 16–22 | 15–22 | 15–23 | 14–24 |
-| Fratelli d’Italia | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Zjednoczona Prawica | PL | | 18 | 16–22 | 15–22 | 15–23 | 14–24 |
+| Fratelli d’Italia | IT | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Vox | ES | | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
@@ -40,7 +40,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Noi con l’Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0–1 |
@@ -54,29 +53,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0% | 100% |  |
-| 60 | 0.1% | 99.9% |  |
+| 60 | 0.1% | 100% |  |
 | 61 | 0.2% | 99.9% | Last Result |
 | 62 | 0.4% | 99.7% |  |
 | 63 | 0.9% | 99.2% |  |
 | 64 | 2% | 98% |  |
-| 65 | 3% | 96% |  |
+| 65 | 3% | 97% |  |
 | 66 | 5% | 93% |  |
-| 67 | 7% | 88% |  |
-| 68 | 9% | 81% |  |
-| 69 | 11% | 72% |  |
-| 70 | 11% | 62% |  |
+| 67 | 7% | 89% |  |
+| 68 | 9% | 82% |  |
+| 69 | 10% | 73% |  |
+| 70 | 11% | 63% |  |
 | 71 | 11% | 51% | Median |
-| 72 | 10% | 39% |  |
-| 73 | 9% | 29% |  |
-| 74 | 7% | 20% |  |
+| 72 | 10% | 40% |  |
+| 73 | 9% | 30% |  |
+| 74 | 7% | 21% |  |
 | 75 | 5% | 13% |  |
-| 76 | 3% | 8% |  |
+| 76 | 4% | 8% |  |
 | 77 | 2% | 4% |  |
-| 78 | 1.1% | 2% |  |
-| 79 | 0.5% | 0.9% |  |
-| 80 | 0.2% | 0.4% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 78 | 1.2% | 2% |  |
+| 79 | 0.6% | 1.0% |  |
+| 80 | 0.3% | 0.4% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 
