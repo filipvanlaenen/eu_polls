@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, NL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -64,6 +64,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Ένωση Κεντρώων | GR | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -82,18 +83,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 3% | 97% |  |
 | 85 | 5% | 94% |  |
 | 86 | 7% | 89% |  |
-| 87 | 9% | 83% |  |
-| 88 | 11% | 74% |  |
-| 89 | 12% | 63% |  |
-| 90 | 12% | 51% | Median |
+| 87 | 9% | 82% |  |
+| 88 | 11% | 73% |  |
+| 89 | 12% | 62% |  |
+| 90 | 12% | 50% | Median |
 | 91 | 11% | 39% |  |
 | 92 | 9% | 28% |  |
 | 93 | 7% | 19% |  |
 | 94 | 5% | 12% |  |
 | 95 | 3% | 7% |  |
 | 96 | 2% | 4% |  |
-| 97 | 1.1% | 2% |  |
-| 98 | 0.6% | 1.0% | Last Result |
+| 97 | 1.0% | 2% |  |
+| 98 | 0.5% | 1.0% | Last Result |
 | 99 | 0.3% | 0.5% |  |
 | 100 | 0.1% | 0.2% |  |
 | 101 | 0.1% | 0.1% |  |

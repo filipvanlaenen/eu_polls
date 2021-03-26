@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Воля–Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Воля–Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
