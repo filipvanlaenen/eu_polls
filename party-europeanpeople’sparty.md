@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **156** seats (-31 seats)
+Current median: **155** seats (-32 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 150–161 | 149–163 | 148–164 | 145–166 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–23 | 18–24 | 17–25 |
-| Partido Popular | ES | | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
+| European People’s Party | EU | 187 | 155 | 149–161 | 148–162 | 147–164 | 144–166 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 17–23 | 17–25 |
+| Partido Popular | ES | | 14 | 11–16 | 10–17 | 10–17 | 9–17 |
 | Koalicja Obywatelska | PL | | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
-| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–10 | 4–10 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -75,32 +75,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 0% | 100% |  |
-| 143 | 0.1% | 99.9% |  |
-| 144 | 0.2% | 99.9% |  |
-| 145 | 0.4% | 99.7% |  |
-| 146 | 0.7% | 99.3% |  |
-| 147 | 1.1% | 98.6% |  |
-| 148 | 2% | 98% |  |
-| 149 | 3% | 96% |  |
-| 150 | 4% | 93% |  |
-| 151 | 5% | 89% |  |
-| 152 | 7% | 84% |  |
-| 153 | 8% | 77% |  |
-| 154 | 9% | 69% |  |
-| 155 | 9% | 60% |  |
-| 156 | 9% | 51% | Median |
-| 157 | 9% | 41% |  |
-| 158 | 8% | 32% |  |
-| 159 | 7% | 24% |  |
-| 160 | 5% | 18% |  |
-| 161 | 4% | 12% |  |
-| 162 | 3% | 8% |  |
-| 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
-| 165 | 0.8% | 2% |  |
-| 166 | 0.5% | 1.0% |  |
-| 167 | 0.3% | 0.5% |  |
+| 141 | 0% | 100% |  |
+| 142 | 0.1% | 99.9% |  |
+| 143 | 0.2% | 99.9% |  |
+| 144 | 0.3% | 99.7% |  |
+| 145 | 0.6% | 99.3% |  |
+| 146 | 1.1% | 98.7% |  |
+| 147 | 2% | 98% |  |
+| 148 | 3% | 96% |  |
+| 149 | 4% | 93% |  |
+| 150 | 5% | 90% |  |
+| 151 | 6% | 85% |  |
+| 152 | 7% | 78% |  |
+| 153 | 8% | 71% |  |
+| 154 | 9% | 63% |  |
+| 155 | 9% | 54% | Median |
+| 156 | 9% | 45% |  |
+| 157 | 8% | 36% |  |
+| 158 | 7% | 28% |  |
+| 159 | 6% | 21% |  |
+| 160 | 5% | 15% |  |
+| 161 | 4% | 10% |  |
+| 162 | 3% | 7% |  |
+| 163 | 2% | 4% |  |
+| 164 | 1.1% | 3% |  |
+| 165 | 0.7% | 1.5% |  |
+| 166 | 0.4% | 0.8% |  |
+| 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0.1% | 0.1% |  |
 | 170 | 0% | 0% |  |

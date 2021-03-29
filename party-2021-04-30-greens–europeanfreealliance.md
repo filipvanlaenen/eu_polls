@@ -19,15 +19,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 45–55 | 44–56 | 43–58 |
-| Bündnis 90/Die Grünen | DE | | 20 | 18–23 | 18–24 | 18–25 | 17–25 |
+| Bündnis 90/Die Grünen | DE | | 20 | 18–23 | 18–24 | 18–24 | 17–25 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 2 | 2 | 2 | 2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Coalició Compromís | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Coalició Compromís | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -51,7 +51,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
-| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -63,25 +63,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
-| 43 | 0.8% | 99.6% |  |
-| 44 | 2% | 98.8% |  |
-| 45 | 4% | 97% |  |
-| 46 | 7% | 93% |  |
-| 47 | 9% | 86% |  |
-| 48 | 11% | 77% |  |
-| 49 | 12% | 66% |  |
-| 50 | 12% | 54% | Median |
-| 51 | 11% | 42% |  |
-| 52 | 9% | 31% |  |
-| 53 | 8% | 22% |  |
+| 42 | 0.2% | 99.9% |  |
+| 43 | 0.7% | 99.7% |  |
+| 44 | 2% | 99.0% |  |
+| 45 | 3% | 97% |  |
+| 46 | 6% | 94% |  |
+| 47 | 8% | 88% |  |
+| 48 | 10% | 80% |  |
+| 49 | 12% | 70% |  |
+| 50 | 12% | 58% | Median |
+| 51 | 12% | 46% |  |
+| 52 | 11% | 34% |  |
+| 53 | 9% | 23% |  |
 | 54 | 6% | 14% |  |
 | 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
-| 57 | 1.1% | 2% |  |
-| 58 | 0.5% | 0.7% |  |
-| 59 | 0.2% | 0.2% |  |
-| 60 | 0.1% | 0.1% |  |
+| 57 | 0.9% | 1.4% |  |
+| 58 | 0.4% | 0.5% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |

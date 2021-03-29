@@ -8,20 +8,19 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (+17 seats)
+Current median: **16** seats (+16 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> BG, DK, PL
+> BG, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 13–22 | 12–23 | 12–24 | 11–25 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 12–20 | 11–21 | 10–22 | 9–23 |
 | Polska 2050 [PL] (*) | PL | | 13 | 8–17 | 8–18 | 7–18 | 7–19 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Nye Borgerlige [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -64,24 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.3% | 100% |  |
-| 11 | 2% | 99.7% |  |
-| 12 | 4% | 98% |  |
-| 13 | 8% | 94% |  |
-| 14 | 11% | 86% |  |
-| 15 | 10% | 75% |  |
-| 16 | 8% | 65% |  |
-| 17 | 8% | 57% | Median |
-| 18 | 11% | 48% |  |
-| 19 | 12% | 37% |  |
-| 20 | 9% | 25% |  |
-| 21 | 6% | 16% |  |
-| 22 | 4% | 10% |  |
-| 23 | 3% | 6% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.6% | 0.8% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0% |  |
+| 9 | 0.5% | 100% |  |
+| 10 | 2% | 99.5% |  |
+| 11 | 6% | 97% |  |
+| 12 | 9% | 91% |  |
+| 13 | 11% | 82% |  |
+| 14 | 10% | 70% |  |
+| 15 | 7% | 61% |  |
+| 16 | 9% | 53% | Median |
+| 17 | 13% | 44% |  |
+| 18 | 12% | 31% |  |
+| 19 | 7% | 20% |  |
+| 20 | 5% | 13% |  |
+| 21 | 4% | 8% |  |
+| 22 | 3% | 4% |  |
+| 23 | 1.1% | 1.3% |  |
+| 24 | 0.3% | 0.3% |  |
+| 25 | 0% | 0% |  |
 
 
