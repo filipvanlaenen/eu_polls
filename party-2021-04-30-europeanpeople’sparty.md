@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **155** seats (-32 seats)
+Current median: **154** seats (-33 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–161 | 148–162 | 147–164 | 144–166 |
+| European People’s Party | EU | 187 | 154 | 149–160 | 147–162 | 146–163 | 143–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 17–23 | 17–25 |
 | Partido Popular | ES | | 14 | 11–16 | 10–17 | 10–17 | 9–17 |
-| Koalicja Obywatelska | PL | | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| Koalicja Obywatelska | PL | | 11 | 8–12 | 8–12 | 8–12 | 7–13 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 4–9 | 4–10 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
-| Fine Gael | IE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Fine Gael | IE | | 5 | 5 | 5 | 4–5 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 3 | 3 |
@@ -75,35 +75,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0% | 100% |  |
-| 142 | 0.1% | 99.9% |  |
-| 143 | 0.2% | 99.9% |  |
-| 144 | 0.3% | 99.7% |  |
-| 145 | 0.6% | 99.3% |  |
-| 146 | 1.1% | 98.7% |  |
-| 147 | 2% | 98% |  |
-| 148 | 3% | 96% |  |
-| 149 | 4% | 93% |  |
-| 150 | 5% | 90% |  |
-| 151 | 6% | 85% |  |
-| 152 | 7% | 78% |  |
-| 153 | 8% | 71% |  |
-| 154 | 9% | 63% |  |
-| 155 | 9% | 54% | Median |
-| 156 | 9% | 45% |  |
-| 157 | 8% | 36% |  |
-| 158 | 7% | 28% |  |
-| 159 | 6% | 21% |  |
-| 160 | 5% | 15% |  |
-| 161 | 4% | 10% |  |
-| 162 | 3% | 7% |  |
-| 163 | 2% | 4% |  |
-| 164 | 1.1% | 3% |  |
-| 165 | 0.7% | 1.5% |  |
-| 166 | 0.4% | 0.8% |  |
+| 140 | 0% | 100% |  |
+| 141 | 0.1% | 99.9% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.6% | 99.3% |  |
+| 145 | 1.0% | 98.7% |  |
+| 146 | 2% | 98% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
+| 149 | 4% | 91% |  |
+| 150 | 5% | 86% |  |
+| 151 | 7% | 81% |  |
+| 152 | 8% | 74% |  |
+| 153 | 8% | 66% |  |
+| 154 | 9% | 58% | Median |
+| 155 | 9% | 49% |  |
+| 156 | 8% | 41% |  |
+| 157 | 7% | 33% |  |
+| 158 | 6% | 25% |  |
+| 159 | 5% | 19% |  |
+| 160 | 4% | 13% |  |
+| 161 | 3% | 9% |  |
+| 162 | 2% | 6% |  |
+| 163 | 1.5% | 4% |  |
+| 164 | 1.0% | 2% |  |
+| 165 | 0.6% | 1.3% |  |
+| 166 | 0.3% | 0.7% |  |
 | 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
-| 169 | 0.1% | 0.1% |  |
+| 169 | 0% | 0.1% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |

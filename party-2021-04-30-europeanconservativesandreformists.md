@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 72 | 67–77 | 66–78 | 65–79 | 63–81 |
-| Zjednoczona Prawica | PL | | 18 | 16–22 | 15–22 | 15–23 | 14–24 |
-| Fratelli d’Italia | IT | | 15 | 13–17 | 12–17 | 12–17 | 11–18 |
+| European Conservatives and Reformists | EU | 61 | 72 | 67–76 | 65–78 | 64–79 | 62–81 |
+| Zjednoczona Prawica | PL | | 18 | 15–21 | 14–22 | 13–23 | 13–24 |
+| Fratelli d’Italia | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Vox | ES | | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
@@ -53,22 +53,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% | Last Result |
-| 62 | 0.2% | 99.9% |  |
-| 63 | 0.4% | 99.7% |  |
-| 64 | 0.9% | 99.3% |  |
-| 65 | 2% | 98% |  |
-| 66 | 3% | 97% |  |
-| 67 | 4% | 94% |  |
-| 68 | 6% | 89% |  |
-| 69 | 8% | 83% |  |
-| 70 | 10% | 75% |  |
-| 71 | 11% | 65% |  |
-| 72 | 11% | 55% | Median |
-| 73 | 10% | 44% |  |
-| 74 | 9% | 33% |  |
-| 75 | 8% | 24% |  |
-| 76 | 6% | 16% |  |
+| 60 | 0.1% | 100% |  |
+| 61 | 0.2% | 99.9% | Last Result |
+| 62 | 0.4% | 99.7% |  |
+| 63 | 0.7% | 99.4% |  |
+| 64 | 1.4% | 98.6% |  |
+| 65 | 2% | 97% |  |
+| 66 | 4% | 95% |  |
+| 67 | 5% | 91% |  |
+| 68 | 7% | 86% |  |
+| 69 | 9% | 78% |  |
+| 70 | 10% | 70% |  |
+| 71 | 10% | 60% |  |
+| 72 | 10% | 50% | Median |
+| 73 | 9% | 40% |  |
+| 74 | 8% | 31% |  |
+| 75 | 7% | 22% |  |
+| 76 | 5% | 15% |  |
 | 77 | 4% | 10% |  |
 | 78 | 3% | 6% |  |
 | 79 | 2% | 3% |  |
