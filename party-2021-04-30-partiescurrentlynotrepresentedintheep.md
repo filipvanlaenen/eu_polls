@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **15** seats (+15 seats)
+Current median: **16** seats (+16 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 15 | 12–19 | 11–21 | 10–22 | 9–23 |
-| Polska 2050 [PL] (*) | PL | | 12 | 9–16 | 8–18 | 7–18 | 7–19 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 12–20 | 11–21 | 11–22 | 10–23 |
+| Polska 2050 [PL] (*) | PL | | 12 | 8–16 | 8–18 | 7–18 | 7–19 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +43,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Републиканци за България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -63,22 +63,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.5% | 100% |  |
-| 10 | 2% | 99.5% |  |
-| 11 | 6% | 97% |  |
-| 12 | 9% | 91% |  |
-| 13 | 11% | 83% |  |
-| 14 | 12% | 72% |  |
-| 15 | 13% | 60% | Median |
-| 16 | 15% | 47% |  |
-| 17 | 13% | 32% |  |
-| 18 | 7% | 19% |  |
-| 19 | 3% | 12% |  |
-| 20 | 3% | 9% |  |
-| 21 | 3% | 6% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.8% | 1.0% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 2% | 99.7% |  |
+| 11 | 5% | 98% |  |
+| 12 | 10% | 92% |  |
+| 13 | 12% | 82% |  |
+| 14 | 10% | 70% |  |
+| 15 | 10% | 61% |  |
+| 16 | 13% | 50% | Median |
+| 17 | 14% | 37% |  |
+| 18 | 9% | 23% |  |
+| 19 | 4% | 14% |  |
+| 20 | 3% | 10% |  |
+| 21 | 3% | 7% |  |
+| 22 | 3% | 4% |  |
+| 23 | 1.3% | 2% |  |
+| 24 | 0.3% | 0.4% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
