@@ -18,9 +18,10 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 12–20 | 11–21 | 11–22 | 10–23 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 12–20 | 12–22 | 11–23 | 10–24 |
 | Polska 2050 [PL] (*) | PL | | 12 | 8–16 | 8–18 | 7–18 | 7–19 |
-| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -34,7 +35,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartij [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Splinter [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +44,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг [BG] (*) | BG | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Републиканци за България [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -63,23 +63,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 2% | 99.7% |  |
-| 11 | 5% | 98% |  |
-| 12 | 10% | 92% |  |
-| 13 | 12% | 82% |  |
-| 14 | 10% | 70% |  |
-| 15 | 10% | 61% |  |
-| 16 | 13% | 50% | Median |
-| 17 | 14% | 37% |  |
-| 18 | 9% | 23% |  |
-| 19 | 4% | 14% |  |
-| 20 | 3% | 10% |  |
-| 21 | 3% | 7% |  |
-| 22 | 3% | 4% |  |
-| 23 | 1.3% | 2% |  |
-| 24 | 0.3% | 0.4% |  |
-| 25 | 0.1% | 0.1% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.9% | 99.9% |  |
+| 11 | 3% | 99.0% |  |
+| 12 | 7% | 96% |  |
+| 13 | 11% | 88% |  |
+| 14 | 11% | 77% |  |
+| 15 | 10% | 66% |  |
+| 16 | 11% | 56% | Median |
+| 17 | 13% | 45% |  |
+| 18 | 12% | 31% |  |
+| 19 | 7% | 20% |  |
+| 20 | 3% | 12% |  |
+| 21 | 3% | 9% |  |
+| 22 | 3% | 6% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.9% | 1.1% |  |
+| 25 | 0.2% | 0.3% |  |
 | 26 | 0% | 0% |  |
 
 
