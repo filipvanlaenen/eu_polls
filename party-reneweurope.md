@@ -43,14 +43,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Laisvės partija | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lista Marjana Šarca | SI | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Demokratična stranka upokojencev Slovenije | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -75,21 +75,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0% | 100% |  |
-| 82 | 0.1% | 99.9% |  |
+| 82 | 0.1% | 100% |  |
 | 83 | 0.3% | 99.8% |  |
 | 84 | 0.8% | 99.5% |  |
-| 85 | 2% | 98.7% |  |
+| 85 | 2% | 98.8% |  |
 | 86 | 3% | 97% |  |
 | 87 | 5% | 94% |  |
 | 88 | 8% | 89% |  |
 | 89 | 10% | 81% |  |
 | 90 | 12% | 71% |  |
-| 91 | 13% | 59% | Median |
+| 91 | 13% | 60% | Median |
 | 92 | 12% | 47% |  |
-| 93 | 11% | 34% |  |
+| 93 | 11% | 35% |  |
 | 94 | 8% | 24% |  |
-| 95 | 6% | 15% |  |
+| 95 | 6% | 16% |  |
 | 96 | 4% | 9% |  |
 | 97 | 2% | 5% |  |
 | 98 | 1.4% | 3% | Last Result |
