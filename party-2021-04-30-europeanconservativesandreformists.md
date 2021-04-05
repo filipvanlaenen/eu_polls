@@ -19,9 +19,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 71 | 67–76 | 65–78 | 64–79 | 62–81 |
-| Zjednoczona Prawica | PL | | 17 | 15–21 | 14–22 | 13–23 | 13–24 |
+| Zjednoczona Prawica | PL | | 17 | 15–22 | 14–22 | 13–23 | 13–24 |
 | Fratelli d’Italia | IT | | 15 | 13–17 | 12–17 | 12–17 | 11–18 |
-| Vox | ES | | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| Vox | ES | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
@@ -43,7 +43,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0–1 |
-| ВМРО–Българско Национално Движение | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ВМРО–Българско Национално Движение | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -57,22 +57,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.2% | 99.9% | Last Result |
 | 62 | 0.4% | 99.7% |  |
 | 63 | 0.8% | 99.3% |  |
-| 64 | 1.5% | 98.6% |  |
+| 64 | 1.4% | 98.6% |  |
 | 65 | 3% | 97% |  |
 | 66 | 4% | 95% |  |
-| 67 | 6% | 90% |  |
-| 68 | 8% | 84% |  |
+| 67 | 6% | 91% |  |
+| 68 | 7% | 85% |  |
 | 69 | 9% | 77% |  |
-| 70 | 10% | 67% |  |
-| 71 | 10% | 57% | Median |
-| 72 | 10% | 47% |  |
-| 73 | 9% | 37% |  |
-| 74 | 8% | 28% |  |
-| 75 | 6% | 20% |  |
+| 70 | 10% | 68% |  |
+| 71 | 10% | 59% | Median |
+| 72 | 10% | 48% |  |
+| 73 | 9% | 38% |  |
+| 74 | 8% | 29% |  |
+| 75 | 7% | 21% |  |
 | 76 | 5% | 14% |  |
 | 77 | 4% | 9% |  |
-| 78 | 2% | 5% |  |
-| 79 | 1.4% | 3% |  |
+| 78 | 2% | 6% |  |
+| 79 | 2% | 3% |  |
 | 80 | 0.8% | 2% |  |
 | 81 | 0.4% | 0.7% |  |
 | 82 | 0.2% | 0.3% |  |

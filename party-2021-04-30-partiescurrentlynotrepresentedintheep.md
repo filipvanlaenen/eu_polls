@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+16 seats)
+Current median: **15** seats (+15 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 12–20 | 12–22 | 11–23 | 10–24 |
-| Polska 2050 [PL] (*) | PL | | 12 | 8–16 | 8–18 | 7–18 | 7–19 |
+| Parties currently not represented in the EP | EU | 0 | 15 | 12–18 | 11–19 | 11–19 | 10–20 |
+| Polska 2050 [PL] (*) | PL | | 12 | 8–14 | 8–14 | 7–14 | 7–15 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -64,23 +64,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 1.0% | 99.8% |  |
-| 11 | 4% | 98.8% |  |
-| 12 | 8% | 95% |  |
-| 13 | 11% | 88% |  |
-| 14 | 11% | 77% |  |
-| 15 | 10% | 66% |  |
-| 16 | 12% | 56% | Median |
-| 17 | 13% | 44% |  |
-| 18 | 12% | 31% |  |
-| 19 | 7% | 19% |  |
-| 20 | 3% | 12% |  |
-| 21 | 3% | 9% |  |
-| 22 | 3% | 6% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.8% | 1.1% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 1.4% | 99.7% |  |
+| 11 | 4% | 98% |  |
+| 12 | 9% | 94% |  |
+| 13 | 12% | 85% |  |
+| 14 | 13% | 73% |  |
+| 15 | 13% | 61% | Median |
+| 16 | 15% | 48% |  |
+| 17 | 15% | 33% |  |
+| 18 | 11% | 18% |  |
+| 19 | 5% | 7% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.2% | 0.2% |  |
+| 22 | 0% | 0% |  |
 
 

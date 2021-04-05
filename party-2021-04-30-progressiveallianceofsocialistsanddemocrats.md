@@ -18,20 +18,20 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 140–152 | 139–154 | 137–155 | 134–158 |
-| Partido Socialista Obrero Español | ES | | 17 | 16–20 | 15–20 | 15–21 | 14–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 17 | 14–19 | 14–19 | 13–19 | 12–19 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 140–151 | 138–153 | 137–155 | 134–157 |
+| Partido Socialista Obrero Español | ES | | 17 | 15–20 | 15–20 | 15–21 | 14–21 |
 | Partito Democratico | IT | | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–18 | 14–18 | 13–18 | 12–19 |
 | Partidul Social Democrat | RO | | 13 | 12–14 | 12–14 | 11–14 | 11–14 |
-| United Opposition | HU | | 11 | 9–11 | 9–12 | 8–12 | 8–12 |
+| United Opposition | HU | | 11 | 9–12 | 9–12 | 8–12 | 8–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | Parti socialiste | FR | | 6 | 5–7 | 4–7 | 0–7 | 0–8 |
 | Socialdemokraterne | DK | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| Lewica | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
-| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| Lewica | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Българска социалистическа партия | BG | | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
+| Българска социалистическа партия | BG | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -65,36 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 131 | 0% | 100% |  |
+| 130 | 0% | 100% |  |
+| 131 | 0.1% | 99.9% |  |
 | 132 | 0.1% | 99.9% |  |
 | 133 | 0.2% | 99.8% |  |
-| 134 | 0.3% | 99.7% |  |
-| 135 | 0.4% | 99.4% |  |
-| 136 | 0.7% | 98.9% |  |
-| 137 | 1.2% | 98% |  |
-| 138 | 2% | 97% |  |
-| 139 | 3% | 95% |  |
-| 140 | 3% | 93% |  |
-| 141 | 5% | 89% |  |
-| 142 | 6% | 85% |  |
-| 143 | 7% | 79% |  |
-| 144 | 8% | 72% |  |
-| 145 | 8% | 64% |  |
-| 146 | 9% | 56% | Median |
-| 147 | 9% | 47% | Last Result |
-| 148 | 8% | 38% |  |
-| 149 | 7% | 30% |  |
-| 150 | 6% | 23% |  |
-| 151 | 5% | 17% |  |
-| 152 | 4% | 12% |  |
-| 153 | 3% | 8% |  |
-| 154 | 2% | 5% |  |
-| 155 | 1.3% | 3% |  |
-| 156 | 0.9% | 2% |  |
-| 157 | 0.5% | 1.2% |  |
-| 158 | 0.3% | 0.6% |  |
-| 159 | 0.2% | 0.3% |  |
-| 160 | 0.1% | 0.2% |  |
+| 134 | 0.3% | 99.6% |  |
+| 135 | 0.6% | 99.2% |  |
+| 136 | 0.9% | 98.7% |  |
+| 137 | 1.4% | 98% |  |
+| 138 | 2% | 96% |  |
+| 139 | 3% | 94% |  |
+| 140 | 4% | 91% |  |
+| 141 | 5% | 87% |  |
+| 142 | 7% | 82% |  |
+| 143 | 8% | 75% |  |
+| 144 | 8% | 68% |  |
+| 145 | 9% | 59% |  |
+| 146 | 9% | 50% | Median |
+| 147 | 8% | 42% | Last Result |
+| 148 | 8% | 33% |  |
+| 149 | 7% | 26% |  |
+| 150 | 5% | 19% |  |
+| 151 | 4% | 14% |  |
+| 152 | 3% | 10% |  |
+| 153 | 2% | 6% |  |
+| 154 | 2% | 4% |  |
+| 155 | 1.1% | 3% |  |
+| 156 | 0.7% | 2% |  |
+| 157 | 0.4% | 0.9% |  |
+| 158 | 0.2% | 0.5% |  |
+| 159 | 0.1% | 0.2% |  |
+| 160 | 0.1% | 0.1% |  |
 | 161 | 0% | 0.1% |  |
 | 162 | 0% | 0% |  |
 
