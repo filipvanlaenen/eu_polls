@@ -26,7 +26,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–9 | 4–9 | 4–10 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fine Gael | IE | | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -80,16 +80,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 0.2% | 99.8% |  |
 | 143 | 0.4% | 99.6% |  |
 | 144 | 0.7% | 99.2% |  |
-| 145 | 1.2% | 98% |  |
+| 145 | 1.2% | 98.5% |  |
 | 146 | 2% | 97% |  |
-| 147 | 3% | 95% |  |
+| 147 | 3% | 96% |  |
 | 148 | 4% | 93% |  |
 | 149 | 5% | 89% |  |
 | 150 | 6% | 84% |  |
 | 151 | 7% | 78% |  |
 | 152 | 8% | 71% |  |
 | 153 | 9% | 63% |  |
-| 154 | 9% | 54% | Median |
+| 154 | 9% | 55% | Median |
 | 155 | 9% | 46% |  |
 | 156 | 8% | 37% |  |
 | 157 | 7% | 29% |  |
@@ -100,8 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 2% | 5% |  |
 | 163 | 1.2% | 3% |  |
 | 164 | 0.7% | 2% |  |
-| 165 | 0.4% | 0.8% |  |
-| 166 | 0.2% | 0.4% |  |
+| 165 | 0.4% | 0.9% |  |
+| 166 | 0.2% | 0.5% |  |
 | 167 | 0.1% | 0.2% |  |
 | 168 | 0.1% | 0.1% |  |
 | 169 | 0% | 0% |  |
