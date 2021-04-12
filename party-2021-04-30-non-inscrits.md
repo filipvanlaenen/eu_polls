@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> BG, CY, CZ, DK, ES, FI, GR, HR, HU, IT, PL, SI, SK
+> BG, CY, DK, ES, FI, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -18,20 +18,20 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 30–37 | 29–38 | 29–39 | 27–40 |
-| Movimento 5 Stelle | IT | | 14 | 12–17 | 12–18 | 11–19 | 11–19 |
+| Non-Inscrits | EU | 29 | 33 | 30–36 | 29–37 | 28–38 | 27–40 |
+| Movimento 5 Stelle | IT | | 14 | 12–17 | 12–18 | 11–18 | 11–19 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
-| Konfederacja | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Nye Borgerlige | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
+| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| REPUBLIKA | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Атака | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -44,23 +44,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.4% | 99.9% |  |
-| 28 | 1.5% | 99.5% |  |
-| 29 | 4% | 98% | Last Result |
-| 30 | 7% | 94% |  |
-| 31 | 12% | 87% |  |
-| 32 | 15% | 75% |  |
-| 33 | 16% | 60% | Median |
-| 34 | 14% | 44% |  |
-| 35 | 11% | 29% |  |
-| 36 | 8% | 18% |  |
-| 37 | 5% | 11% |  |
-| 38 | 3% | 6% |  |
-| 39 | 2% | 3% |  |
-| 40 | 0.8% | 1.2% |  |
-| 41 | 0.3% | 0.5% |  |
-| 42 | 0.1% | 0.2% |  |
-| 43 | 0% | 0% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0.2% | 99.9% |  |
+| 27 | 0.6% | 99.8% |  |
+| 28 | 2% | 99.1% |  |
+| 29 | 5% | 97% | Last Result |
+| 30 | 9% | 92% |  |
+| 31 | 14% | 83% |  |
+| 32 | 17% | 69% |  |
+| 33 | 16% | 53% | Median |
+| 34 | 13% | 36% |  |
+| 35 | 10% | 23% |  |
+| 36 | 6% | 13% |  |
+| 37 | 4% | 7% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.9% | 2% |  |
+| 40 | 0.4% | 0.6% |  |
+| 41 | 0.1% | 0.2% |  |
+| 42 | 0% | 0% |  |
 
 
