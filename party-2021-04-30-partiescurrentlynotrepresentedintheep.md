@@ -27,7 +27,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | BoerBurgerBeweging [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Code Oranje [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -40,7 +39,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartij [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Splinter [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -74,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 14% | 50% | Median |
 | 17 | 15% | 37% |  |
 | 18 | 13% | 21% |  |
-| 19 | 7% | 9% |  |
+| 19 | 6% | 9% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |

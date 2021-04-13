@@ -20,8 +20,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 51 | 48–54 | 47–55 | 47–55 | 45–57 |
 | La France insoumise | FR | | 9 | 7–9 | 7–10 | 7–10 | 6–11 |
-| Die Linke | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
-| Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| Die Linke | DE | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
+| Unidos Podemos | ES | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Sinn Féin | IE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -30,7 +30,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
@@ -60,16 +60,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
-| 45 | 0.4% | 99.9% |  |
-| 46 | 1.3% | 99.5% |  |
-| 47 | 3% | 98% |  |
-| 48 | 7% | 95% |  |
-| 49 | 12% | 88% |  |
-| 50 | 16% | 76% |  |
-| 51 | 18% | 60% | Median |
-| 52 | 16% | 42% |  |
-| 53 | 12% | 26% |  |
-| 54 | 8% | 14% |  |
+| 45 | 0.6% | 99.8% |  |
+| 46 | 2% | 99.3% |  |
+| 47 | 4% | 98% |  |
+| 48 | 8% | 94% |  |
+| 49 | 12% | 86% |  |
+| 50 | 16% | 74% |  |
+| 51 | 17% | 58% | Median |
+| 52 | 16% | 40% |  |
+| 53 | 12% | 25% |  |
+| 54 | 7% | 13% |  |
 | 55 | 4% | 6% |  |
 | 56 | 2% | 2% |  |
 | 57 | 0.5% | 0.7% |  |
