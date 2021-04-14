@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **91** seats (-7 seats)
+Current median: **90** seats (-8 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–95 | 85–96 | 84–97 | 83–100 |
+| Renew Europe | EU | 98 | 90 | 86–95 | 85–96 | 84–97 | 82–99 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
-| Freie Demokratische Partei | DE | | 10 | 7–11 | 7–11 | 7–12 | 7–12 |
+| Freie Demokratische Partei | DE | | 9 | 7–11 | 7–11 | 7–12 | 7–12 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8 | 8 | 8 | 8 |
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -77,24 +77,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 80 | 0% | 100% |  |
 | 81 | 0.1% | 99.9% |  |
-| 82 | 0.3% | 99.8% |  |
-| 83 | 0.7% | 99.5% |  |
-| 84 | 1.5% | 98.8% |  |
+| 82 | 0.4% | 99.8% |  |
+| 83 | 0.8% | 99.4% |  |
+| 84 | 2% | 98.6% |  |
 | 85 | 3% | 97% |  |
-| 86 | 5% | 95% |  |
-| 87 | 7% | 90% |  |
-| 88 | 9% | 83% |  |
-| 89 | 11% | 74% |  |
-| 90 | 12% | 63% |  |
-| 91 | 12% | 51% | Median |
-| 92 | 11% | 40% |  |
-| 93 | 9% | 29% |  |
-| 94 | 7% | 20% |  |
+| 86 | 5% | 94% |  |
+| 87 | 7% | 89% |  |
+| 88 | 9% | 81% |  |
+| 89 | 11% | 72% |  |
+| 90 | 12% | 61% | Median |
+| 91 | 12% | 49% |  |
+| 92 | 10% | 37% |  |
+| 93 | 9% | 27% |  |
+| 94 | 7% | 18% |  |
 | 95 | 5% | 12% |  |
 | 96 | 3% | 7% |  |
 | 97 | 2% | 4% |  |
 | 98 | 1.1% | 2% | Last Result |
-| 99 | 0.6% | 1.1% |  |
+| 99 | 0.6% | 1.0% |  |
 | 100 | 0.3% | 0.5% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0.1% | 0.1% |  |
