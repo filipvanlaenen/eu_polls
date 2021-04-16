@@ -38,7 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -53,28 +53,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0% | 100% |  |
+| 59 | 0.1% | 100% |  |
 | 60 | 0.1% | 99.9% |  |
 | 61 | 0.3% | 99.8% | Last Result |
 | 62 | 0.6% | 99.5% |  |
-| 63 | 1.2% | 99.0% |  |
+| 63 | 1.2% | 98.9% |  |
 | 64 | 2% | 98% |  |
-| 65 | 4% | 96% |  |
-| 66 | 5% | 92% |  |
-| 67 | 7% | 87% |  |
+| 65 | 4% | 95% |  |
+| 66 | 6% | 92% |  |
+| 67 | 8% | 86% |  |
 | 68 | 9% | 79% |  |
-| 69 | 11% | 70% |  |
-| 70 | 11% | 60% | Median |
-| 71 | 11% | 48% |  |
-| 72 | 10% | 37% |  |
-| 73 | 8% | 27% |  |
-| 74 | 7% | 19% |  |
+| 69 | 11% | 69% |  |
+| 70 | 11% | 58% | Median |
+| 71 | 11% | 47% |  |
+| 72 | 10% | 36% |  |
+| 73 | 8% | 26% |  |
+| 74 | 6% | 18% |  |
 | 75 | 5% | 12% |  |
 | 76 | 3% | 7% |  |
 | 77 | 2% | 4% |  |
 | 78 | 1.1% | 2% |  |
-| 79 | 0.6% | 1.1% |  |
-| 80 | 0.3% | 0.5% |  |
+| 79 | 0.5% | 1.0% |  |
+| 80 | 0.3% | 0.4% |  |
 | 81 | 0.1% | 0.2% |  |
 | 82 | 0% | 0.1% |  |
 | 83 | 0% | 0% |  |

@@ -10,17 +10,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **16** seats (+16 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, PL
+> BG, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 13–18 | 12–19 | 12–19 | 11–20 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 13–18 | 12–19 | 12–20 | 11–21 |
 | Polska 2050 [PL] (*) | PL | | 12 | 9–14 | 9–14 | 8–15 | 8–15 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +36,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartij [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Splinter [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -63,18 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
-| 12 | 6% | 98% |  |
-| 13 | 11% | 93% |  |
-| 14 | 14% | 82% |  |
-| 15 | 15% | 68% |  |
-| 16 | 16% | 53% | Median |
-| 17 | 16% | 37% |  |
-| 18 | 12% | 21% |  |
-| 19 | 6% | 8% |  |
-| 20 | 2% | 2% |  |
-| 21 | 0.3% | 0.4% |  |
-| 22 | 0% | 0% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.2% | 99.9% |  |
+| 12 | 5% | 98.6% |  |
+| 13 | 10% | 94% |  |
+| 14 | 14% | 84% |  |
+| 15 | 15% | 70% |  |
+| 16 | 16% | 55% | Median |
+| 17 | 16% | 39% |  |
+| 18 | 13% | 23% |  |
+| 19 | 7% | 10% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.5% | 0.5% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 

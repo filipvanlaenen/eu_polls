@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (+4 seats)
+Current median: **32** seats (+3 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 29–36 | 28–37 | 27–38 | 26–40 |
+| Non-Inscrits | EU | 29 | 32 | 29–36 | 28–37 | 27–38 | 25–39 |
 | Movimento 5 Stelle | IT | | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–13 | 9–13 |
 | Konfederacja | PL | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
@@ -45,24 +45,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0.1% | 100% |  |
-| 25 | 0.3% | 99.9% |  |
-| 26 | 0.7% | 99.6% |  |
-| 27 | 2% | 98.8% |  |
+| 25 | 0.4% | 99.8% |  |
+| 26 | 0.8% | 99.5% |  |
+| 27 | 2% | 98.7% |  |
 | 28 | 3% | 97% |  |
 | 29 | 6% | 94% | Last Result |
-| 30 | 9% | 89% |  |
-| 31 | 13% | 79% |  |
-| 32 | 15% | 67% |  |
-| 33 | 15% | 52% | Median |
-| 34 | 13% | 37% |  |
-| 35 | 10% | 24% |  |
-| 36 | 7% | 14% |  |
-| 37 | 4% | 8% |  |
-| 38 | 2% | 4% |  |
-| 39 | 1.0% | 2% |  |
-| 40 | 0.4% | 0.6% |  |
+| 30 | 10% | 87% |  |
+| 31 | 13% | 78% |  |
+| 32 | 15% | 64% | Median |
+| 33 | 15% | 49% |  |
+| 34 | 13% | 34% |  |
+| 35 | 9% | 22% |  |
+| 36 | 6% | 13% |  |
+| 37 | 3% | 7% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.8% | 1.3% |  |
+| 40 | 0.3% | 0.5% |  |
 | 41 | 0.1% | 0.2% |  |
-| 42 | 0% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 42 | 0% | 0% |  |
 
 
