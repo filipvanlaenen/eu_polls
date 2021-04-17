@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–95 | 86–96 | 85–97 | 83–100 |
+| Renew Europe | EU | 98 | 91 | 87–95 | 85–96 | 85–97 | 83–99 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8 | 8 | 8 | 8 |
@@ -32,7 +32,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -47,7 +47,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -61,6 +60,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
+| Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -76,24 +76,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
-| 83 | 0.6% | 99.7% |  |
-| 84 | 1.3% | 99.1% |  |
+| 82 | 0.3% | 99.9% |  |
+| 83 | 0.6% | 99.6% |  |
+| 84 | 1.4% | 99.0% |  |
 | 85 | 3% | 98% |  |
-| 86 | 4% | 95% |  |
-| 87 | 7% | 91% |  |
-| 88 | 9% | 84% |  |
-| 89 | 11% | 75% |  |
-| 90 | 12% | 64% |  |
-| 91 | 12% | 52% | Median |
-| 92 | 11% | 40% |  |
-| 93 | 9% | 29% |  |
-| 94 | 7% | 20% |  |
-| 95 | 5% | 13% |  |
-| 96 | 3% | 8% |  |
+| 86 | 5% | 95% |  |
+| 87 | 7% | 90% |  |
+| 88 | 9% | 83% |  |
+| 89 | 11% | 74% |  |
+| 90 | 12% | 62% |  |
+| 91 | 12% | 50% | Median |
+| 92 | 11% | 38% |  |
+| 93 | 9% | 27% |  |
+| 94 | 7% | 19% |  |
+| 95 | 5% | 12% |  |
+| 96 | 3% | 7% |  |
 | 97 | 2% | 4% |  |
 | 98 | 1.1% | 2% | Last Result |
-| 99 | 0.6% | 1.1% |  |
+| 99 | 0.5% | 1.0% |  |
 | 100 | 0.3% | 0.5% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0.1% | 0.1% |  |
