@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **144** seats (-3 seats)
+Current median: **145** seats (-2 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 138–149 | 136–151 | 135–153 | 132–155 |
-| Partido Socialista Obrero Español | ES | | 17 | 15–20 | 15–20 | 15–21 | 14–21 |
-| Partito Democratico | IT | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 139–150 | 137–152 | 136–153 | 133–156 |
+| Partido Socialista Obrero Español | ES | | 17 | 16–20 | 15–20 | 15–21 | 14–21 |
+| Partito Democratico | IT | | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 13–18 | 13–18 | 11–19 |
 | Partidul Social Democrat | RO | | 13 | 12–14 | 12–14 | 11–14 | 11–14 |
 | United Opposition | HU | | 11 | 9–11 | 9–12 | 8–12 | 8–12 |
@@ -47,9 +47,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Liberi e Uguali | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,37 +65,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0% | 100% |  |
-| 129 | 0.1% | 99.9% |  |
+| 129 | 0% | 100% |  |
 | 130 | 0.1% | 99.9% |  |
-| 131 | 0.2% | 99.8% |  |
-| 132 | 0.3% | 99.6% |  |
-| 133 | 0.5% | 99.3% |  |
-| 134 | 0.8% | 98.8% |  |
-| 135 | 1.3% | 98% |  |
-| 136 | 2% | 97% |  |
-| 137 | 3% | 95% |  |
-| 138 | 4% | 92% |  |
-| 139 | 5% | 88% |  |
-| 140 | 6% | 83% |  |
-| 141 | 8% | 76% |  |
-| 142 | 8% | 69% |  |
-| 143 | 9% | 60% |  |
-| 144 | 9% | 51% | Median |
-| 145 | 8% | 42% |  |
-| 146 | 8% | 34% |  |
-| 147 | 7% | 26% | Last Result |
-| 148 | 5% | 20% |  |
-| 149 | 4% | 14% |  |
-| 150 | 3% | 10% |  |
-| 151 | 2% | 6% |  |
-| 152 | 2% | 4% |  |
-| 153 | 1.0% | 3% |  |
-| 154 | 0.7% | 2% |  |
-| 155 | 0.4% | 0.8% |  |
-| 156 | 0.2% | 0.5% |  |
-| 157 | 0.1% | 0.2% |  |
-| 158 | 0.1% | 0.1% |  |
+| 131 | 0.1% | 99.9% |  |
+| 132 | 0.2% | 99.8% |  |
+| 133 | 0.3% | 99.6% |  |
+| 134 | 0.5% | 99.3% |  |
+| 135 | 0.8% | 98.8% |  |
+| 136 | 1.3% | 98% |  |
+| 137 | 2% | 97% |  |
+| 138 | 3% | 95% |  |
+| 139 | 4% | 92% |  |
+| 140 | 5% | 88% |  |
+| 141 | 6% | 82% |  |
+| 142 | 8% | 76% |  |
+| 143 | 8% | 68% |  |
+| 144 | 9% | 60% |  |
+| 145 | 9% | 51% | Median |
+| 146 | 9% | 42% |  |
+| 147 | 8% | 33% | Last Result |
+| 148 | 7% | 26% |  |
+| 149 | 5% | 19% |  |
+| 150 | 4% | 13% |  |
+| 151 | 3% | 9% |  |
+| 152 | 2% | 6% |  |
+| 153 | 2% | 4% |  |
+| 154 | 1.0% | 2% |  |
+| 155 | 0.6% | 1.3% |  |
+| 156 | 0.3% | 0.7% |  |
+| 157 | 0.2% | 0.4% |  |
+| 158 | 0.1% | 0.2% |  |
 | 159 | 0% | 0.1% |  |
 | 160 | 0% | 0% |  |
 
