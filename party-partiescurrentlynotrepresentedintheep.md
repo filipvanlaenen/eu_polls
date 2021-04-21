@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+16 seats)
+Current median: **15** seats (+15 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 13–18 | 12–19 | 12–20 | 11–21 |
-| Polska 2050 [PL] (*) | PL | | 12 | 9–14 | 9–14 | 8–15 | 8–15 |
+| Parties currently not represented in the EP | EU | 0 | 15 | 12–18 | 12–19 | 11–19 | 10–20 |
+| Polska 2050 [PL] (*) | PL | | 11 | 8–14 | 8–14 | 7–14 | 7–15 |
 | Има такъв народ [BG] (*) | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -28,6 +28,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | BoerBurgerBeweging [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Cambiamo! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Code Oranje [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -39,6 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartij [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Splinter [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -47,9 +49,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-04-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-03-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-04-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-03-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,20 +64,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 1.2% | 99.9% |  |
-| 12 | 5% | 98.6% |  |
-| 13 | 10% | 94% |  |
-| 14 | 14% | 84% |  |
-| 15 | 15% | 70% |  |
-| 16 | 16% | 55% | Median |
-| 17 | 16% | 39% |  |
-| 18 | 13% | 23% |  |
-| 19 | 7% | 10% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.5% | 0.5% |  |
-| 22 | 0% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 1.0% | 99.8% |  |
+| 11 | 4% | 98.8% |  |
+| 12 | 8% | 95% |  |
+| 13 | 13% | 87% |  |
+| 14 | 14% | 74% |  |
+| 15 | 13% | 59% | Median |
+| 16 | 14% | 46% |  |
+| 17 | 14% | 33% |  |
+| 18 | 11% | 19% |  |
+| 19 | 6% | 8% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.3% | 0.3% |  |
+| 22 | 0% | 0% |  |
 
 
