@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **52** seats (-15 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 48–58 | 47–59 | 46–61 | 45–62 |
-| Bündnis 90/Die Grünen | DE | | 20 | 18–26 | 18–27 | 18–28 | 18–28 |
+| Greens–European Free Alliance | EU | 67 | 52 | 48–56 | 47–58 | 46–60 | 45–62 |
+| Bündnis 90/Die Grünen | DE | | 20 | 18–25 | 18–25 | 18–27 | 18–28 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 2 | 2 | 2 | 2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Coalició Compromís | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -61,29 +61,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.1% | 100% |  |
+| 43 | 0% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
 | 45 | 0.7% | 99.7% |  |
-| 46 | 2% | 99.0% |  |
+| 46 | 2% | 99.1% |  |
 | 47 | 4% | 97% |  |
-| 48 | 7% | 93% |  |
-| 49 | 10% | 86% |  |
-| 50 | 13% | 76% |  |
-| 51 | 14% | 63% | Median |
-| 52 | 13% | 49% |  |
-| 53 | 10% | 36% |  |
-| 54 | 7% | 26% |  |
-| 55 | 4% | 20% |  |
-| 56 | 3% | 16% |  |
-| 57 | 3% | 13% |  |
-| 58 | 3% | 10% |  |
-| 59 | 3% | 7% |  |
-| 60 | 2% | 5% |  |
-| 61 | 1.4% | 3% |  |
-| 62 | 0.7% | 1.2% |  |
-| 63 | 0.3% | 0.5% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0% |  |
+| 48 | 6% | 94% |  |
+| 49 | 10% | 87% |  |
+| 50 | 13% | 77% |  |
+| 51 | 14% | 65% |  |
+| 52 | 14% | 50% | Median |
+| 53 | 11% | 37% |  |
+| 54 | 8% | 26% |  |
+| 55 | 5% | 18% |  |
+| 56 | 3% | 13% |  |
+| 57 | 3% | 10% |  |
+| 58 | 2% | 7% |  |
+| 59 | 2% | 5% |  |
+| 60 | 1.2% | 3% |  |
+| 61 | 0.7% | 2% |  |
+| 62 | 0.4% | 0.9% |  |
+| 63 | 0.2% | 0.5% |  |
+| 64 | 0.1% | 0.2% |  |
+| 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% | Last Result |
 
