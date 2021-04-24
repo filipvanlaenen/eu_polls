@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 148–160 | 147–161 | 146–163 | 143–165 |
+| European People’s Party | EU | 187 | 154 | 149–160 | 147–161 | 146–163 | 143–165 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–22 | 17–23 | 17–24 |
 | Partido Popular | ES | | 14 | 10–16 | 10–17 | 9–17 | 9–17 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
@@ -42,7 +42,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 1–2 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 1 | 1 | 1 | 1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -75,26 +75,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0% | 100% |  |
-| 141 | 0.1% | 99.9% |  |
+| 141 | 0.1% | 100% |  |
 | 142 | 0.2% | 99.9% |  |
-| 143 | 0.4% | 99.7% |  |
-| 144 | 0.6% | 99.3% |  |
-| 145 | 1.1% | 98.7% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.6% | 99.4% |  |
+| 145 | 1.0% | 98.8% |  |
 | 146 | 2% | 98% |  |
-| 147 | 3% | 96% |  |
-| 148 | 4% | 93% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
 | 149 | 5% | 90% |  |
-| 150 | 6% | 85% |  |
-| 151 | 7% | 79% |  |
-| 152 | 8% | 72% |  |
+| 150 | 6% | 86% |  |
+| 151 | 7% | 80% |  |
+| 152 | 8% | 73% |  |
 | 153 | 9% | 64% |  |
-| 154 | 9% | 55% | Median |
+| 154 | 9% | 56% | Median |
 | 155 | 9% | 46% |  |
 | 156 | 8% | 37% |  |
 | 157 | 7% | 29% |  |
 | 158 | 6% | 22% |  |
-| 159 | 5% | 15% |  |
+| 159 | 5% | 16% |  |
 | 160 | 4% | 11% |  |
 | 161 | 3% | 7% |  |
 | 162 | 2% | 4% |  |
