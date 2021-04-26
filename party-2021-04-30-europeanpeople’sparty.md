@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–161 | 147–163 | 146–164 | 143–167 |
+| European People’s Party | EU | 187 | 155 | 149–161 | 147–162 | 146–164 | 143–167 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 16–22 | 15–24 | 15–24 | 14–25 |
 | Partido Popular | ES | | 15 | 13–16 | 13–17 | 12–18 | 12–19 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
@@ -27,7 +27,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–8 | 5–9 | 4–9 | 4–10 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 4–9 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -36,7 +36,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 3 | 3 | 3 | 3 | 3 |
 | Kansallinen Kokoomus | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
@@ -48,6 +48,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -59,7 +60,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -88,22 +88,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 5% | 87% |  |
 | 151 | 6% | 82% |  |
 | 152 | 7% | 76% |  |
-| 153 | 8% | 69% |  |
+| 153 | 8% | 68% |  |
 | 154 | 8% | 61% |  |
-| 155 | 9% | 53% | Median |
+| 155 | 9% | 52% | Median |
 | 156 | 8% | 44% |  |
-| 157 | 8% | 36% |  |
+| 157 | 8% | 35% |  |
 | 158 | 7% | 28% |  |
 | 159 | 6% | 21% |  |
-| 160 | 5% | 16% |  |
-| 161 | 4% | 11% |  |
-| 162 | 3% | 8% |  |
+| 160 | 4% | 15% |  |
+| 161 | 3% | 11% |  |
+| 162 | 3% | 7% |  |
 | 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
+| 164 | 1.2% | 3% |  |
 | 165 | 0.8% | 2% |  |
-| 166 | 0.5% | 1.2% |  |
-| 167 | 0.3% | 0.7% |  |
-| 168 | 0.2% | 0.4% |  |
+| 166 | 0.5% | 1.1% |  |
+| 167 | 0.3% | 0.6% |  |
+| 168 | 0.2% | 0.3% |  |
 | 169 | 0.1% | 0.2% |  |
 | 170 | 0% | 0.1% |  |
 | 171 | 0% | 0% |  |
