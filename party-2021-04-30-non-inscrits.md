@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **11 countries**:
 
-> BG, CY, DK, ES, FI, GR, HR, HU, IT, PL, SI, SK
+> CY, DK, ES, FI, GR, HR, HU, IT, PL, SI, SK
 
 ## Seats
 
@@ -34,7 +34,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Атака | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
