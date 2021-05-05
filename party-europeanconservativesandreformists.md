@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -21,7 +21,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 61 | 73 | 68–77 | 67–78 | 66–79 | 64–81 |
 | Zjednoczona Prawica | PL | | 19 | 15–21 | 14–21 | 14–21 | 13–22 |
 | Fratelli d’Italia | IT | | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
-| Vox | ES | | 11 | 9–11 | 9–12 | 8–12 | 7–13 |
+| Vox | ES | | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | SPOLU | CZ | | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
@@ -32,16 +32,17 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
+| ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -54,23 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.1% | 100% | Last Result |
 | 62 | 0.1% | 99.9% |  |
 | 63 | 0.3% | 99.8% |  |
-| 64 | 0.5% | 99.5% |  |
-| 65 | 1.0% | 99.0% |  |
+| 64 | 0.6% | 99.5% |  |
+| 65 | 1.0% | 98.9% |  |
 | 66 | 2% | 98% |  |
 | 67 | 3% | 96% |  |
 | 68 | 4% | 94% |  |
-| 69 | 6% | 90% |  |
+| 69 | 6% | 89% |  |
 | 70 | 8% | 84% |  |
-| 71 | 10% | 77% |  |
-| 72 | 11% | 67% |  |
-| 73 | 12% | 55% | Median |
-| 74 | 12% | 43% |  |
-| 75 | 10% | 31% |  |
-| 76 | 8% | 21% |  |
-| 77 | 6% | 13% |  |
+| 71 | 10% | 76% |  |
+| 72 | 12% | 66% |  |
+| 73 | 12% | 54% | Median |
+| 74 | 12% | 42% |  |
+| 75 | 10% | 30% |  |
+| 76 | 8% | 20% |  |
+| 77 | 5% | 12% |  |
 | 78 | 3% | 7% |  |
 | 79 | 2% | 3% |  |
-| 80 | 0.9% | 2% |  |
+| 80 | 0.9% | 1.4% |  |
 | 81 | 0.4% | 0.6% |  |
 | 82 | 0.1% | 0.2% |  |
 | 83 | 0% | 0.1% |  |
