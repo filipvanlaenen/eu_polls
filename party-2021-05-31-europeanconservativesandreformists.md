@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 73 | 68–77 | 67–78 | 66–79 | 64–81 |
+| European Conservatives and Reformists | EU | 61 | 73 | 69–77 | 67–78 | 66–79 | 64–81 |
 | Zjednoczona Prawica | PL | | 19 | 15–21 | 14–21 | 14–21 | 13–22 |
 | Fratelli d’Italia | IT | | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | Vox | ES | | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -52,29 +52,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% | Last Result |
+| 61 | 0% | 100% | Last Result |
 | 62 | 0.1% | 99.9% |  |
-| 63 | 0.3% | 99.8% |  |
-| 64 | 0.6% | 99.5% |  |
-| 65 | 1.0% | 98.9% |  |
+| 63 | 0.2% | 99.8% |  |
+| 64 | 0.5% | 99.6% |  |
+| 65 | 0.9% | 99.1% |  |
 | 66 | 2% | 98% |  |
-| 67 | 3% | 96% |  |
+| 67 | 3% | 97% |  |
 | 68 | 4% | 94% |  |
-| 69 | 6% | 89% |  |
-| 70 | 8% | 84% |  |
-| 71 | 10% | 76% |  |
-| 72 | 12% | 66% |  |
-| 73 | 12% | 54% | Median |
-| 74 | 12% | 42% |  |
-| 75 | 10% | 30% |  |
-| 76 | 8% | 20% |  |
-| 77 | 5% | 12% |  |
-| 78 | 3% | 7% |  |
-| 79 | 2% | 3% |  |
-| 80 | 0.9% | 1.4% |  |
-| 81 | 0.4% | 0.6% |  |
-| 82 | 0.1% | 0.2% |  |
-| 83 | 0% | 0.1% |  |
+| 69 | 5% | 90% |  |
+| 70 | 7% | 85% |  |
+| 71 | 9% | 77% |  |
+| 72 | 11% | 68% |  |
+| 73 | 12% | 57% | Median |
+| 74 | 12% | 44% |  |
+| 75 | 11% | 32% |  |
+| 76 | 8% | 22% |  |
+| 77 | 6% | 13% |  |
+| 78 | 4% | 7% |  |
+| 79 | 2% | 4% |  |
+| 80 | 1.0% | 2% |  |
+| 81 | 0.4% | 0.7% |  |
+| 82 | 0.2% | 0.2% |  |
+| 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |
 
 

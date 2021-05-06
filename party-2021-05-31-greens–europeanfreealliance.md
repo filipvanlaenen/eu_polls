@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **53** seats (-14 seats)
+Current median: **54** seats (-13 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 49–61 | 48–63 | 47–64 | 45–66 |
-| Bündnis 90/Die Grünen | DE | | 22 | 18–28 | 18–28 | 18–28 | 18–28 |
+| Greens–European Free Alliance | EU | 67 | 54 | 49–60 | 48–61 | 47–62 | 46–64 |
+| Bündnis 90/Die Grünen | DE | | 23 | 18–26 | 18–27 | 18–27 | 18–29 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | GroenLinks | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,31 +61,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
-| 44 | 0.2% | 99.9% |  |
-| 45 | 0.5% | 99.8% |  |
-| 46 | 1.1% | 99.3% |  |
-| 47 | 2% | 98% |  |
-| 48 | 4% | 96% |  |
-| 49 | 6% | 92% |  |
-| 50 | 8% | 86% |  |
-| 51 | 9% | 79% |  |
-| 52 | 10% | 69% |  |
-| 53 | 10% | 59% | Median |
-| 54 | 9% | 49% |  |
-| 55 | 8% | 40% |  |
-| 56 | 6% | 33% |  |
-| 57 | 5% | 27% |  |
-| 58 | 4% | 22% |  |
-| 59 | 3% | 18% |  |
-| 60 | 3% | 15% |  |
-| 61 | 3% | 12% |  |
-| 62 | 3% | 9% |  |
-| 63 | 2% | 6% |  |
-| 64 | 2% | 3% |  |
-| 65 | 0.9% | 1.4% |  |
-| 66 | 0.4% | 0.5% |  |
-| 67 | 0.1% | 0.1% | Last Result |
-| 68 | 0% | 0% |  |
+| 44 | 0.1% | 100% |  |
+| 45 | 0.3% | 99.9% |  |
+| 46 | 0.8% | 99.5% |  |
+| 47 | 2% | 98.7% |  |
+| 48 | 3% | 97% |  |
+| 49 | 4% | 94% |  |
+| 50 | 6% | 90% |  |
+| 51 | 8% | 84% |  |
+| 52 | 9% | 76% |  |
+| 53 | 10% | 67% |  |
+| 54 | 10% | 58% | Median |
+| 55 | 9% | 48% |  |
+| 56 | 9% | 39% |  |
+| 57 | 8% | 30% |  |
+| 58 | 7% | 22% |  |
+| 59 | 5% | 16% |  |
+| 60 | 4% | 10% |  |
+| 61 | 3% | 6% |  |
+| 62 | 2% | 4% |  |
+| 63 | 1.0% | 2% |  |
+| 64 | 0.5% | 0.9% |  |
+| 65 | 0.2% | 0.3% |  |
+| 66 | 0.1% | 0.1% |  |
+| 67 | 0% | 0% | Last Result |
 
 
