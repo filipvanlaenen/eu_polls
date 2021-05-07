@@ -23,11 +23,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die Linke | DE | | 7 | 6–9 | 6–10 | 5–10 | 5–10 |
 | Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Sinn Féin | IE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| Sinn Féin | IE | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -36,7 +37,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -60,14 +60,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
-| 45 | 0.8% | 99.7% |  |
+| 45 | 0.9% | 99.7% |  |
 | 46 | 2% | 98.8% |  |
-| 47 | 5% | 97% |  |
+| 47 | 5% | 96% |  |
 | 48 | 9% | 91% |  |
 | 49 | 14% | 82% |  |
-| 50 | 16% | 68% |  |
+| 50 | 16% | 69% |  |
 | 51 | 17% | 52% | Median |
-| 52 | 14% | 35% |  |
+| 52 | 14% | 36% |  |
 | 53 | 10% | 21% |  |
 | 54 | 6% | 11% |  |
 | 55 | 3% | 5% |  |
