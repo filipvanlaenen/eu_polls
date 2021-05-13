@@ -19,7 +19,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 67 | 56 | 52–60 | 51–61 | 50–62 | 49–64 |
-| Bündnis 90/Die Grünen | DE | | 24 | 22–26 | 21–27 | 21–28 | 19–28 |
+| Bündnis 90/Die Grünen | DE | | 24 | 22–27 | 21–27 | 21–27 | 19–28 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -48,7 +48,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,14 +71,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 10% | 82% |  |
 | 55 | 12% | 73% |  |
 | 56 | 13% | 61% | Median |
-| 57 | 13% | 47% |  |
+| 57 | 13% | 48% |  |
 | 58 | 11% | 35% |  |
-| 59 | 9% | 24% |  |
+| 59 | 9% | 23% |  |
 | 60 | 6% | 15% |  |
 | 61 | 4% | 8% |  |
 | 62 | 2% | 4% |  |
 | 63 | 1.2% | 2% |  |
-| 64 | 0.6% | 0.9% |  |
+| 64 | 0.5% | 0.9% |  |
 | 65 | 0.2% | 0.3% |  |
 | 66 | 0.1% | 0.1% |  |
 | 67 | 0% | 0% | Last Result |
