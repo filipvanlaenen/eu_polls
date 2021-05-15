@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 14–20 | 14–21 | 13–22 | 13–23 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–21 | 14–21 | 14–22 | 13–23 |
 | Polska 2050 [PL] (*) | PL | | 11 | 9–14 | 9–15 | 8–15 | 8–16 |
-| Има такъв народ [BG] (*) | BG | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Изправи се Бг [BG] (*) | BG | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,18 +62,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.4% | 100% |  |
-| 13 | 3% | 99.6% |  |
-| 14 | 8% | 97% |  |
-| 15 | 14% | 88% |  |
-| 16 | 16% | 74% |  |
-| 17 | 15% | 58% | Median |
-| 18 | 14% | 43% |  |
-| 19 | 12% | 29% |  |
-| 20 | 9% | 17% |  |
-| 21 | 5% | 8% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.5% | 0.6% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 1.3% | 99.9% |  |
+| 14 | 6% | 98.6% |  |
+| 15 | 13% | 93% |  |
+| 16 | 17% | 80% |  |
+| 17 | 16% | 63% | Median |
+| 18 | 14% | 48% |  |
+| 19 | 13% | 33% |  |
+| 20 | 10% | 21% |  |
+| 21 | 7% | 10% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.7% | 0.8% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 

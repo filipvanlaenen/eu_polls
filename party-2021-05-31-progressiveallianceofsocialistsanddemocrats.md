@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **142** seats (-5 seats)
+Current median: **143** seats (-4 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 137–148 | 135–150 | 134–151 | 131–154 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 143 | 137–149 | 135–150 | 134–151 | 131–154 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–19 | 14–19 | 14–19 |
 | Partito Democratico | IT | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–17 | 12–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
 | Partidul Social Democrat | RO | | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | United Opposition | HU | | 11 | 10–11 | 9–11 | 9–12 | 9–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -33,7 +33,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | HLAS–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2 | 2 | 2 | 1–2 |
@@ -50,7 +50,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Liberi e Uguali | IT | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | PRO România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,36 +64,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 127 | 0% | 100% |  |
-| 128 | 0.1% | 99.9% |  |
+| 128 | 0% | 100% |  |
 | 129 | 0.1% | 99.9% |  |
 | 130 | 0.2% | 99.8% |  |
-| 131 | 0.3% | 99.6% |  |
-| 132 | 0.5% | 99.3% |  |
-| 133 | 0.9% | 98.7% |  |
-| 134 | 1.4% | 98% |  |
-| 135 | 2% | 96% |  |
-| 136 | 3% | 94% |  |
-| 137 | 4% | 91% |  |
-| 138 | 6% | 87% |  |
-| 139 | 7% | 82% |  |
-| 140 | 8% | 75% |  |
-| 141 | 9% | 67% |  |
-| 142 | 9% | 58% | Median |
-| 143 | 9% | 50% |  |
-| 144 | 8% | 41% |  |
-| 145 | 7% | 33% |  |
-| 146 | 6% | 26% |  |
-| 147 | 5% | 19% | Last Result |
-| 148 | 4% | 14% |  |
+| 131 | 0.3% | 99.7% |  |
+| 132 | 0.5% | 99.4% |  |
+| 133 | 0.8% | 98.9% |  |
+| 134 | 1.3% | 98% |  |
+| 135 | 2% | 97% |  |
+| 136 | 3% | 95% |  |
+| 137 | 4% | 92% |  |
+| 138 | 5% | 88% |  |
+| 139 | 7% | 83% |  |
+| 140 | 8% | 76% |  |
+| 141 | 8% | 68% |  |
+| 142 | 9% | 60% |  |
+| 143 | 9% | 51% | Median |
+| 144 | 8% | 43% |  |
+| 145 | 8% | 34% |  |
+| 146 | 7% | 27% |  |
+| 147 | 6% | 20% | Last Result |
+| 148 | 5% | 15% |  |
 | 149 | 3% | 10% |  |
-| 150 | 2% | 6% |  |
+| 150 | 3% | 7% |  |
 | 151 | 2% | 4% |  |
-| 152 | 1.0% | 2% |  |
-| 153 | 0.6% | 1.3% |  |
-| 154 | 0.3% | 0.7% |  |
+| 152 | 1.1% | 2% |  |
+| 153 | 0.7% | 1.4% |  |
+| 154 | 0.4% | 0.7% |  |
 | 155 | 0.2% | 0.3% |  |
-| 156 | 0.1% | 0.1% |  |
+| 156 | 0.1% | 0.2% |  |
 | 157 | 0% | 0.1% |  |
 | 158 | 0% | 0% |  |
 

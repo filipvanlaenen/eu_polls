@@ -18,8 +18,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 153 | 147–158 | 146–160 | 145–161 | 142–164 |
-| Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–22 | 16–22 | 15–22 |
+| European People’s Party | EU | 187 | 153 | 147–158 | 146–160 | 144–161 | 142–164 |
+| Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–22 | 15–22 | 15–22 |
 | Partido Popular | ES | | 16 | 14–18 | 13–19 | 13–20 | 12–20 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | Koalicja Obywatelska | PL | | 10 | 8–13 | 8–13 | 8–14 | 7–15 |
@@ -28,15 +28,15 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–9 | 3–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 3 | 3 | 2–4 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
@@ -45,7 +45,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Демократична България | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -76,29 +76,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 139 | 0% | 100% |  |
 | 140 | 0.1% | 99.9% |  |
-| 141 | 0.2% | 99.9% |  |
-| 142 | 0.3% | 99.7% |  |
-| 143 | 0.6% | 99.4% |  |
-| 144 | 1.1% | 98.8% |  |
-| 145 | 2% | 98% |  |
+| 141 | 0.2% | 99.8% |  |
+| 142 | 0.4% | 99.7% |  |
+| 143 | 0.7% | 99.3% |  |
+| 144 | 1.1% | 98.6% |  |
+| 145 | 2% | 97% |  |
 | 146 | 3% | 96% |  |
 | 147 | 4% | 93% |  |
-| 148 | 5% | 90% |  |
+| 148 | 5% | 89% |  |
 | 149 | 7% | 84% |  |
-| 150 | 8% | 78% |  |
-| 151 | 9% | 70% |  |
-| 152 | 9% | 61% |  |
-| 153 | 9% | 52% | Median |
-| 154 | 9% | 43% |  |
-| 155 | 8% | 34% |  |
-| 156 | 7% | 26% |  |
-| 157 | 6% | 19% |  |
+| 150 | 8% | 77% |  |
+| 151 | 9% | 69% |  |
+| 152 | 9% | 60% |  |
+| 153 | 9% | 51% | Median |
+| 154 | 9% | 42% |  |
+| 155 | 8% | 33% |  |
+| 156 | 7% | 25% |  |
+| 157 | 5% | 19% |  |
 | 158 | 4% | 13% |  |
 | 159 | 3% | 9% |  |
 | 160 | 2% | 6% |  |
-| 161 | 1.4% | 3% |  |
+| 161 | 1.5% | 4% |  |
 | 162 | 0.9% | 2% |  |
-| 163 | 0.5% | 1.1% |  |
+| 163 | 0.6% | 1.2% |  |
 | 164 | 0.3% | 0.6% |  |
 | 165 | 0.2% | 0.3% |  |
 | 166 | 0.1% | 0.1% |  |

@@ -37,7 +37,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -55,23 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.1% | 100% | Last Result |
 | 62 | 0.1% | 99.9% |  |
 | 63 | 0.3% | 99.8% |  |
-| 64 | 0.6% | 99.5% |  |
+| 64 | 0.5% | 99.5% |  |
 | 65 | 1.0% | 98.9% |  |
 | 66 | 2% | 98% |  |
 | 67 | 3% | 96% |  |
 | 68 | 4% | 94% |  |
 | 69 | 6% | 90% |  |
 | 70 | 8% | 84% |  |
-| 71 | 10% | 76% |  |
+| 71 | 9% | 77% |  |
 | 72 | 11% | 67% |  |
-| 73 | 12% | 55% | Median |
-| 74 | 12% | 43% |  |
+| 73 | 12% | 56% | Median |
+| 74 | 12% | 44% |  |
 | 75 | 10% | 32% |  |
-| 76 | 8% | 21% |  |
-| 77 | 6% | 13% |  |
+| 76 | 8% | 22% |  |
+| 77 | 6% | 14% |  |
 | 78 | 4% | 8% |  |
 | 79 | 2% | 4% |  |
-| 80 | 1.0% | 2% |  |
+| 80 | 1.1% | 2% |  |
 | 81 | 0.5% | 0.8% |  |
 | 82 | 0.2% | 0.3% |  |
 | 83 | 0.1% | 0.1% |  |
