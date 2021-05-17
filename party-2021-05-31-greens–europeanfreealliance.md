@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (-11 seats)
+Current median: **58** seats (-9 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 56 | 52–60 | 51–62 | 50–63 | 48–64 |
+| Greens–European Free Alliance | EU | 67 | 58 | 53–61 | 52–62 | 51–63 | 50–65 |
 | Bündnis 90/Die Grünen | DE | | 24 | 20–26 | 20–27 | 19–27 | 18–28 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Coalició Compromís | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Coalició Compromís | ES | | 1 | 1–3 | 1–3 | 0–3 | 0–4 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | GroenLinks | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -38,7 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -61,28 +61,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 46 | 0.1% | 100% |  |
-| 47 | 0.2% | 99.9% |  |
-| 48 | 0.4% | 99.7% |  |
-| 49 | 0.9% | 99.3% |  |
-| 50 | 2% | 98% |  |
-| 51 | 3% | 97% |  |
-| 52 | 5% | 93% |  |
-| 53 | 7% | 88% |  |
-| 54 | 9% | 81% |  |
-| 55 | 11% | 72% |  |
-| 56 | 12% | 61% | Median |
-| 57 | 12% | 48% |  |
-| 58 | 11% | 36% |  |
-| 59 | 9% | 25% |  |
-| 60 | 7% | 16% |  |
-| 61 | 4% | 10% |  |
-| 62 | 3% | 5% |  |
-| 63 | 1.4% | 3% |  |
-| 64 | 0.7% | 1.2% |  |
-| 65 | 0.3% | 0.5% |  |
-| 66 | 0.1% | 0.2% |  |
-| 67 | 0% | 0.1% | Last Result |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.3% | 99.8% |  |
+| 50 | 0.8% | 99.6% |  |
+| 51 | 2% | 98.8% |  |
+| 52 | 3% | 97% |  |
+| 53 | 5% | 94% |  |
+| 54 | 7% | 89% |  |
+| 55 | 9% | 82% |  |
+| 56 | 11% | 74% |  |
+| 57 | 12% | 63% |  |
+| 58 | 12% | 51% | Median |
+| 59 | 12% | 38% |  |
+| 60 | 10% | 27% |  |
+| 61 | 7% | 17% |  |
+| 62 | 5% | 10% |  |
+| 63 | 3% | 5% |  |
+| 64 | 1.3% | 2% |  |
+| 65 | 0.6% | 0.9% |  |
+| 66 | 0.2% | 0.3% |  |
+| 67 | 0.1% | 0.1% | Last Result |
 | 68 | 0% | 0% |  |
 
 
