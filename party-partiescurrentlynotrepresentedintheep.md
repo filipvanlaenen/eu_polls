@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (+17 seats)
+Current median: **18** seats (+18 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–21 | 14–21 | 14–22 | 13–23 |
-| Polska 2050 [PL] (*) | PL | | 11 | 9–14 | 9–15 | 8–15 | 8–16 |
+| Parties currently not represented in the EP | EU | 0 | 18 | 16–21 | 16–22 | 15–22 | 15–24 |
+| Polska 2050 [PL] (*) | PL | | 12 | 11–15 | 10–15 | 10–16 | 10–17 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -62,19 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 1.3% | 99.9% |  |
-| 14 | 6% | 98.6% |  |
-| 15 | 12% | 93% |  |
-| 16 | 17% | 81% |  |
-| 17 | 16% | 64% | Median |
-| 18 | 14% | 48% |  |
-| 19 | 13% | 34% |  |
-| 20 | 11% | 21% |  |
-| 21 | 7% | 11% |  |
-| 22 | 3% | 4% |  |
-| 23 | 0.8% | 0.9% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.3% | 100% |  |
+| 15 | 3% | 99.7% |  |
+| 16 | 9% | 97% |  |
+| 17 | 19% | 88% |  |
+| 18 | 23% | 69% | Median |
+| 19 | 20% | 45% |  |
+| 20 | 13% | 26% |  |
+| 21 | 7% | 13% |  |
+| 22 | 4% | 6% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.4% | 0.5% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
