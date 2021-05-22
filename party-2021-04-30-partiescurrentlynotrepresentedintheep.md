@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+16 seats)
+Current median: **18** seats (+18 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 14–20 | 13–20 | 13–21 | 12–22 |
-| Polska 2050 [PL] (*) | PL | | 11 | 9–14 | 9–15 | 8–15 | 8–16 |
-| Има такъв народ [BG] (*) | BG | | 4 | 4 | 4 | 3–4 | 3–5 |
+| Parties currently not represented in the EP | EU | 0 | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
+| Polska 2050 [PL] (*) | PL | | 12 | 10–14 | 10–14 | 10–15 | 9–15 |
+| Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -39,6 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -60,18 +62,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 5% | 99.2% |  |
-| 14 | 12% | 94% |  |
-| 15 | 17% | 82% |  |
-| 16 | 16% | 65% | Median |
-| 17 | 14% | 49% |  |
-| 18 | 13% | 35% |  |
-| 19 | 11% | 22% |  |
-| 20 | 7% | 11% |  |
-| 21 | 3% | 4% |  |
-| 22 | 0.8% | 0.9% |  |
-| 23 | 0.1% | 0.1% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.8% | 99.9% |  |
+| 15 | 4% | 99.1% |  |
+| 16 | 11% | 95% |  |
+| 17 | 18% | 84% |  |
+| 18 | 22% | 66% | Median |
+| 19 | 21% | 44% |  |
+| 20 | 14% | 23% |  |
+| 21 | 7% | 9% |  |
+| 22 | 2% | 2% |  |
+| 23 | 0.4% | 0.4% |  |
 | 24 | 0% | 0% |  |
 
 
