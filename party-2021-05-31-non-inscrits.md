@@ -20,7 +20,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 34 | 31–37 | 30–38 | 29–39 | 28–40 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 5 | 3–7 | 3–7 | 3–7 | 0–8 |
 | Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -29,7 +29,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -44,18 +44,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
-| 27 | 0.3% | 99.9% |  |
-| 28 | 0.8% | 99.6% |  |
-| 29 | 2% | 98.8% | Last Result |
-| 30 | 5% | 97% |  |
-| 31 | 10% | 91% |  |
-| 32 | 14% | 82% |  |
-| 33 | 16% | 68% |  |
-| 34 | 16% | 52% | Median |
-| 35 | 13% | 36% |  |
-| 36 | 10% | 23% |  |
+| 27 | 0.3% | 99.8% |  |
+| 28 | 0.9% | 99.5% |  |
+| 29 | 3% | 98.6% | Last Result |
+| 30 | 6% | 96% |  |
+| 31 | 10% | 90% |  |
+| 32 | 14% | 80% |  |
+| 33 | 16% | 66% |  |
+| 34 | 15% | 50% | Median |
+| 35 | 13% | 35% |  |
+| 36 | 9% | 22% |  |
 | 37 | 6% | 13% |  |
-| 38 | 4% | 7% |  |
+| 38 | 3% | 6% |  |
 | 39 | 2% | 3% |  |
 | 40 | 0.8% | 1.2% |  |
 | 41 | 0.3% | 0.4% |  |

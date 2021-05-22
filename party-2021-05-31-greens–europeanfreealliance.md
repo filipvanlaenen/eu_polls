@@ -23,12 +23,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Coalició Compromís | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
+| Coalició Compromís | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–2 |
 | GroenLinks | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% |  |
 | 47 | 0.1% | 99.9% |  |
 | 48 | 0.3% | 99.8% |  |
-| 49 | 0.7% | 99.5% |  |
+| 49 | 0.6% | 99.5% |  |
 | 50 | 1.3% | 98.9% |  |
 | 51 | 2% | 98% |  |
 | 52 | 4% | 95% |  |
@@ -74,14 +74,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 12% | 66% |  |
 | 57 | 13% | 54% | Median |
 | 58 | 12% | 41% |  |
-| 59 | 10% | 29% |  |
+| 59 | 10% | 30% |  |
 | 60 | 8% | 19% |  |
-| 61 | 5% | 11% |  |
+| 61 | 5% | 12% |  |
 | 62 | 3% | 6% |  |
 | 63 | 2% | 3% |  |
 | 64 | 0.8% | 1.2% |  |
-| 65 | 0.3% | 0.5% |  |
-| 66 | 0.1% | 0.2% |  |
+| 65 | 0.3% | 0.4% |  |
+| 66 | 0.1% | 0.1% |  |
 | 67 | 0% | 0% | Last Result |
 
 
