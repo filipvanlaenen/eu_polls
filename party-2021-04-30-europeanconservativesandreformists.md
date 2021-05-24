@@ -24,7 +24,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Vox | ES | | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
-| SPOLU | CZ | | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
+| SPOLU | CZ | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Forum voor Democratie | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 2% | 98.5% |  |
 | 68 | 3% | 97% |  |
 | 69 | 5% | 94% |  |
-| 70 | 8% | 89% |  |
-| 71 | 10% | 81% |  |
-| 72 | 12% | 71% |  |
-| 73 | 13% | 59% | Median |
+| 70 | 7% | 89% |  |
+| 71 | 10% | 82% |  |
+| 72 | 12% | 72% |  |
+| 73 | 13% | 60% | Median |
 | 74 | 13% | 46% |  |
-| 75 | 11% | 33% |  |
-| 76 | 9% | 22% |  |
-| 77 | 6% | 13% |  |
-| 78 | 4% | 7% |  |
+| 75 | 11% | 34% |  |
+| 76 | 9% | 23% |  |
+| 77 | 6% | 14% |  |
+| 78 | 4% | 8% |  |
 | 79 | 2% | 4% |  |
-| 80 | 1.0% | 2% |  |
-| 81 | 0.5% | 0.7% |  |
+| 80 | 1.1% | 2% |  |
+| 81 | 0.5% | 0.8% |  |
 | 82 | 0.2% | 0.3% |  |
 | 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |
