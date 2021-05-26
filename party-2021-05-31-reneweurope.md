@@ -52,15 +52,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Stranka Alenke Bratušek | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -73,28 +72,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.4% | 99.8% |  |
-| 83 | 0.9% | 99.4% |  |
-| 84 | 2% | 98.6% |  |
-| 85 | 3% | 97% |  |
-| 86 | 6% | 93% |  |
-| 87 | 8% | 88% |  |
-| 88 | 11% | 79% |  |
-| 89 | 12% | 69% |  |
-| 90 | 13% | 56% | Median |
-| 91 | 12% | 43% |  |
-| 92 | 10% | 32% |  |
-| 93 | 8% | 21% |  |
-| 94 | 6% | 14% |  |
-| 95 | 4% | 8% |  |
-| 96 | 2% | 4% |  |
-| 97 | 1.2% | 2% |  |
-| 98 | 0.6% | 1.0% | Last Result |
-| 99 | 0.3% | 0.4% |  |
-| 100 | 0.1% | 0.2% |  |
-| 101 | 0% | 0.1% |  |
-| 102 | 0% | 0% |  |
+| 80 | 0.1% | 100% |  |
+| 81 | 0.2% | 99.9% |  |
+| 82 | 0.5% | 99.7% |  |
+| 83 | 1.2% | 99.2% |  |
+| 84 | 2% | 98% |  |
+| 85 | 4% | 96% |  |
+| 86 | 7% | 92% |  |
+| 87 | 9% | 85% |  |
+| 88 | 11% | 76% |  |
+| 89 | 13% | 64% |  |
+| 90 | 13% | 52% | Median |
+| 91 | 11% | 39% |  |
+| 92 | 9% | 28% |  |
+| 93 | 7% | 18% |  |
+| 94 | 5% | 11% |  |
+| 95 | 3% | 6% |  |
+| 96 | 2% | 3% |  |
+| 97 | 0.9% | 2% |  |
+| 98 | 0.4% | 0.8% | Last Result |
+| 99 | 0.2% | 0.3% |  |
+| 100 | 0.1% | 0.1% |  |
+| 101 | 0% | 0% |  |
 
 
