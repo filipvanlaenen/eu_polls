@@ -50,7 +50,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,26 +72,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
+| 80 | 0.1% | 100% |  |
+| 81 | 0.2% | 99.9% |  |
 | 82 | 0.4% | 99.8% |  |
-| 83 | 0.8% | 99.4% |  |
-| 84 | 2% | 98.6% |  |
+| 83 | 0.9% | 99.4% |  |
+| 84 | 2% | 98% |  |
 | 85 | 3% | 97% |  |
-| 86 | 5% | 94% |  |
-| 87 | 7% | 89% |  |
-| 88 | 10% | 81% |  |
-| 89 | 11% | 71% |  |
-| 90 | 12% | 60% | Median |
-| 91 | 11% | 48% |  |
-| 92 | 10% | 37% |  |
-| 93 | 8% | 27% |  |
+| 86 | 5% | 93% |  |
+| 87 | 8% | 88% |  |
+| 88 | 10% | 80% |  |
+| 89 | 11% | 70% |  |
+| 90 | 12% | 59% | Median |
+| 91 | 11% | 47% |  |
+| 92 | 10% | 36% |  |
+| 93 | 8% | 26% |  |
 | 94 | 6% | 18% |  |
-| 95 | 5% | 12% |  |
+| 95 | 4% | 12% |  |
 | 96 | 3% | 7% |  |
 | 97 | 2% | 4% |  |
-| 98 | 1.2% | 2% | Last Result |
-| 99 | 0.6% | 1.3% |  |
+| 98 | 1.1% | 2% | Last Result |
+| 99 | 0.6% | 1.2% |  |
 | 100 | 0.3% | 0.6% |  |
 | 101 | 0.2% | 0.3% |  |
 | 102 | 0.1% | 0.1% |  |

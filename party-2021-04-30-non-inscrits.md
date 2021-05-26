@@ -32,7 +32,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
+| Živi zid | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -48,14 +48,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 4% | 98.6% | Last Result |
 | 30 | 9% | 95% |  |
 | 31 | 14% | 86% |  |
-| 32 | 19% | 72% |  |
+| 32 | 18% | 72% |  |
 | 33 | 19% | 53% | Median |
-| 34 | 15% | 34% |  |
-| 35 | 10% | 19% |  |
-| 36 | 5% | 9% |  |
+| 34 | 15% | 35% |  |
+| 35 | 10% | 20% |  |
+| 36 | 6% | 10% |  |
 | 37 | 3% | 4% |  |
-| 38 | 1.0% | 1.5% |  |
-| 39 | 0.3% | 0.5% |  |
+| 38 | 1.0% | 2% |  |
+| 39 | 0.4% | 0.5% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
 

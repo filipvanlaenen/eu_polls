@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 18 | 16–21 | 16–22 | 15–22 | 15–23 |
-| Polska 2050 [PL] (*) | PL | | 12 | 11–15 | 11–15 | 10–16 | 10–17 |
+| Parties currently not represented in the EP | EU | 0 | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
+| Polska 2050 [PL] (*) | PL | | 12 | 10–14 | 10–14 | 10–15 | 9–15 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -40,14 +40,14 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0–1 |
+| Ανεξάρτητοι [CY] (*) | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-05-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-04-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-05-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-04-30.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -64,18 +64,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 2% | 99.7% |  |
-| 16 | 9% | 97% |  |
-| 17 | 19% | 88% |  |
-| 18 | 24% | 69% | Median |
-| 19 | 20% | 46% |  |
-| 20 | 13% | 26% |  |
-| 21 | 7% | 13% |  |
-| 22 | 4% | 5% |  |
-| 23 | 1.2% | 1.5% |  |
-| 24 | 0.2% | 0.3% |  |
-| 25 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.8% | 99.9% |  |
+| 15 | 4% | 99.1% |  |
+| 16 | 11% | 95% |  |
+| 17 | 18% | 84% |  |
+| 18 | 22% | 66% | Median |
+| 19 | 21% | 44% |  |
+| 20 | 14% | 23% |  |
+| 21 | 7% | 9% |  |
+| 22 | 2% | 2% |  |
+| 23 | 0.4% | 0.4% |  |
+| 24 | 0% | 0% |  |
 
 

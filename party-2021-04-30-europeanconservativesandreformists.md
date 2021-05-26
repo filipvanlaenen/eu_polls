@@ -29,7 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Forum voor Democratie | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -57,22 +57,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0.1% | 100% |  |
 | 64 | 0.2% | 99.9% |  |
 | 65 | 0.4% | 99.7% |  |
-| 66 | 0.8% | 99.3% |  |
-| 67 | 2% | 98.5% |  |
+| 66 | 0.8% | 99.4% |  |
+| 67 | 2% | 98.6% |  |
 | 68 | 3% | 97% |  |
 | 69 | 5% | 94% |  |
 | 70 | 7% | 89% |  |
 | 71 | 10% | 82% |  |
 | 72 | 12% | 72% |  |
 | 73 | 13% | 60% | Median |
-| 74 | 13% | 46% |  |
+| 74 | 13% | 47% |  |
 | 75 | 11% | 34% |  |
 | 76 | 9% | 23% |  |
 | 77 | 6% | 14% |  |
 | 78 | 4% | 8% |  |
 | 79 | 2% | 4% |  |
 | 80 | 1.1% | 2% |  |
-| 81 | 0.5% | 0.8% |  |
+| 81 | 0.5% | 0.9% |  |
 | 82 | 0.2% | 0.3% |  |
 | 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |
