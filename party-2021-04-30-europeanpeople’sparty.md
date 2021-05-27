@@ -30,7 +30,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
 | Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 0.2% | 99.9% |  |
 | 143 | 0.4% | 99.7% |  |
 | 144 | 0.7% | 99.3% |  |
-| 145 | 1.2% | 98.7% |  |
+| 145 | 1.2% | 98.6% |  |
 | 146 | 2% | 97% |  |
 | 147 | 3% | 96% |  |
 | 148 | 4% | 93% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 8% | 45% |  |
 | 156 | 7% | 37% |  |
 | 157 | 6% | 30% |  |
-| 158 | 6% | 24% |  |
+| 158 | 6% | 23% |  |
 | 159 | 5% | 18% |  |
 | 160 | 4% | 13% |  |
 | 161 | 3% | 10% |  |
@@ -101,7 +101,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 2% | 5% |  |
 | 164 | 1.1% | 3% |  |
 | 165 | 0.7% | 2% |  |
-| 166 | 0.5% | 1.1% |  |
+| 166 | 0.5% | 1.0% |  |
 | 167 | 0.3% | 0.6% |  |
 | 168 | 0.2% | 0.3% |  |
 | 169 | 0.1% | 0.2% |  |

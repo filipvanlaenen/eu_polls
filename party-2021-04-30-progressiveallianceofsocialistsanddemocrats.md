@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 136–147 | 135–149 | 133–151 | 131–153 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 136–148 | 135–149 | 133–151 | 131–153 |
 | Partido Socialista Obrero Español | ES | | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
 | Partito Democratico | IT | | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–17 | 11–17 | 11–17 |
@@ -32,7 +32,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 130 | 0.2% | 99.7% |  |
 | 131 | 0.4% | 99.5% |  |
 | 132 | 0.6% | 99.1% |  |
-| 133 | 1.0% | 98% |  |
+| 133 | 1.0% | 98.5% |  |
 | 134 | 2% | 97% |  |
 | 135 | 2% | 96% |  |
 | 136 | 4% | 93% |  |
@@ -79,12 +79,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 8% | 79% |  |
 | 140 | 9% | 71% |  |
 | 141 | 9% | 63% |  |
-| 142 | 9% | 53% | Median |
+| 142 | 9% | 54% | Median |
 | 143 | 9% | 44% |  |
 | 144 | 8% | 35% |  |
 | 145 | 7% | 27% |  |
 | 146 | 6% | 20% |  |
-| 147 | 5% | 14% | Last Result |
+| 147 | 5% | 15% | Last Result |
 | 148 | 3% | 10% |  |
 | 149 | 2% | 7% |  |
 | 150 | 2% | 4% |  |
