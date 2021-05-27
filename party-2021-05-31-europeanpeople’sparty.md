@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **152** seats (-35 seats)
+Current median: **153** seats (-34 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 146–157 | 145–159 | 144–160 | 142–163 |
+| European People’s Party | EU | 187 | 153 | 148–158 | 146–160 | 145–161 | 143–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–21 | 16–22 | 15–23 |
 | Partido Popular | ES | | 17 | 15–20 | 15–20 | 14–21 | 14–21 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
@@ -36,13 +36,14 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Christen-Democratisch Appèl | NL | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Christen-Democratisch Appèl | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,35 +74,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 139 | 0.1% | 100% |  |
-| 140 | 0.1% | 99.9% |  |
-| 141 | 0.3% | 99.8% |  |
-| 142 | 0.5% | 99.5% |  |
-| 143 | 1.0% | 99.0% |  |
-| 144 | 2% | 98% |  |
-| 145 | 3% | 96% |  |
-| 146 | 4% | 94% |  |
-| 147 | 5% | 90% |  |
-| 148 | 7% | 84% |  |
-| 149 | 8% | 78% |  |
-| 150 | 9% | 70% |  |
-| 151 | 10% | 61% |  |
-| 152 | 10% | 51% | Median |
-| 153 | 9% | 42% |  |
-| 154 | 8% | 33% |  |
-| 155 | 7% | 25% |  |
-| 156 | 5% | 18% |  |
-| 157 | 4% | 12% |  |
-| 158 | 3% | 8% |  |
-| 159 | 2% | 5% |  |
-| 160 | 1.4% | 3% |  |
-| 161 | 0.8% | 2% |  |
-| 162 | 0.5% | 1.1% |  |
-| 163 | 0.3% | 0.6% |  |
-| 164 | 0.2% | 0.3% |  |
-| 165 | 0.1% | 0.1% |  |
-| 166 | 0% | 0.1% |  |
-| 167 | 0% | 0% |  |
+| 140 | 0% | 100% |  |
+| 141 | 0.1% | 99.9% |  |
+| 142 | 0.3% | 99.8% |  |
+| 143 | 0.5% | 99.5% |  |
+| 144 | 0.9% | 99.0% |  |
+| 145 | 2% | 98% |  |
+| 146 | 3% | 97% |  |
+| 147 | 4% | 94% |  |
+| 148 | 5% | 90% |  |
+| 149 | 7% | 85% |  |
+| 150 | 8% | 79% |  |
+| 151 | 9% | 71% |  |
+| 152 | 9% | 62% |  |
+| 153 | 10% | 52% | Median |
+| 154 | 9% | 43% |  |
+| 155 | 8% | 34% |  |
+| 156 | 7% | 26% |  |
+| 157 | 6% | 19% |  |
+| 158 | 4% | 13% |  |
+| 159 | 3% | 9% |  |
+| 160 | 2% | 6% |  |
+| 161 | 1.4% | 4% |  |
+| 162 | 0.9% | 2% |  |
+| 163 | 0.5% | 1.2% |  |
+| 164 | 0.3% | 0.6% |  |
+| 165 | 0.2% | 0.3% |  |
+| 166 | 0.1% | 0.2% |  |
+| 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
