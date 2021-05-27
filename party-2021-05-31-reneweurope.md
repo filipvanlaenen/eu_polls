@@ -44,7 +44,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lista Marjana Šarca | SI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,7 +55,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -78,13 +78,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 1.2% | 99.2% |  |
 | 84 | 2% | 98% |  |
 | 85 | 4% | 96% |  |
-| 86 | 7% | 92% |  |
+| 86 | 7% | 91% |  |
 | 87 | 9% | 85% |  |
-| 88 | 11% | 76% |  |
+| 88 | 12% | 75% |  |
 | 89 | 13% | 64% |  |
-| 90 | 13% | 52% | Median |
-| 91 | 11% | 39% |  |
-| 92 | 9% | 28% |  |
+| 90 | 13% | 51% | Median |
+| 91 | 11% | 38% |  |
+| 92 | 9% | 27% |  |
 | 93 | 7% | 18% |  |
 | 94 | 5% | 11% |  |
 | 95 | 3% | 6% |  |
