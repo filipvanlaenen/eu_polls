@@ -22,7 +22,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Polska 2050 [PL] (*) | PL | | 12 | 11–15 | 10–15 | 10–16 | 10–17 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Изправи се Бг [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
