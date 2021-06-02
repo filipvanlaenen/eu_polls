@@ -20,7 +20,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 146–162 | 144–165 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 16–21 | 16–22 | 15–23 |
-| Partido Popular | ES | | 17 | 15–20 | 15–20 | 14–21 | 14–21 |
+| Partido Popular | ES | | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | Koalicja Obywatelska | PL | | 9 | 8–12 | 7–13 | 7–14 | 7–15 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
@@ -28,7 +28,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Fine Gael | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -80,18 +80,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 0.2% | 99.9% |  |
 | 144 | 0.4% | 99.7% |  |
 | 145 | 0.7% | 99.3% |  |
-| 146 | 1.3% | 98.5% |  |
+| 146 | 1.2% | 98.6% |  |
 | 147 | 2% | 97% |  |
 | 148 | 3% | 95% |  |
 | 149 | 4% | 92% |  |
 | 150 | 6% | 88% |  |
 | 151 | 7% | 82% |  |
-| 152 | 9% | 74% |  |
+| 152 | 9% | 75% |  |
 | 153 | 9% | 66% |  |
-| 154 | 10% | 56% | Median |
-| 155 | 9% | 47% |  |
+| 154 | 10% | 57% | Median |
+| 155 | 10% | 47% |  |
 | 156 | 9% | 37% |  |
-| 157 | 8% | 28% |  |
+| 157 | 8% | 29% |  |
 | 158 | 6% | 21% |  |
 | 159 | 5% | 15% |  |
 | 160 | 4% | 10% |  |
