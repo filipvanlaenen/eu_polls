@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (+18 seats)
+Current median: **17** seats (+17 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–20 | 15–20 | 15–21 | 14–22 |
 | Polska 2050 [PL] (*) | PL | | 12 | 11–15 | 10–15 | 10–16 | 10–17 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -32,7 +32,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -63,18 +63,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 2% | 99.9% |  |
-| 15 | 8% | 98% |  |
-| 16 | 17% | 91% |  |
-| 17 | 22% | 73% |  |
-| 18 | 21% | 51% | Median |
-| 19 | 15% | 30% |  |
-| 20 | 9% | 16% |  |
-| 21 | 5% | 7% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 10% | 98% |  |
+| 16 | 20% | 88% |  |
+| 17 | 23% | 69% | Median |
+| 18 | 20% | 45% |  |
+| 19 | 13% | 25% |  |
+| 20 | 7% | 12% |  |
+| 21 | 4% | 5% |  |
+| 22 | 1.1% | 1.3% |  |
+| 23 | 0.2% | 0.2% |  |
+| 24 | 0% | 0% |  |
 
 
