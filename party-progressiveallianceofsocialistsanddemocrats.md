@@ -18,15 +18,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 136–148 | 134–150 | 133–151 | 130–153 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 136–148 | 134–149 | 133–151 | 130–154 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| Partito Democratico | IT | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
+| Partito Democratico | IT | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
 | Partidul Social Democrat | RO | | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
-| United Opposition | HU | | 11 | 9–11 | 9–11 | 9–12 | 9–12 |
+| United Opposition | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Parti socialiste | FR | | 6 | 5–7 | 4–7 | 0–7 | 0–8 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 3–6 | 3–6 | 2–7 | 0–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | PRO România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
@@ -80,13 +80,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 7% | 77% |  |
 | 140 | 8% | 70% |  |
 | 141 | 8% | 62% |  |
-| 142 | 8% | 53% | Median |
+| 142 | 9% | 54% | Median |
 | 143 | 8% | 45% |  |
 | 144 | 8% | 37% |  |
 | 145 | 7% | 29% |  |
 | 146 | 6% | 22% |  |
 | 147 | 5% | 16% | Last Result |
-| 148 | 4% | 12% |  |
+| 148 | 4% | 11% |  |
 | 149 | 3% | 8% |  |
 | 150 | 2% | 5% |  |
 | 151 | 1.3% | 3% |  |

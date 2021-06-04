@@ -27,7 +27,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -62,20 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.7% | 99.7% |  |
 | 45 | 2% | 99.1% |  |
 | 46 | 4% | 97% |  |
-| 47 | 8% | 93% |  |
+| 47 | 7% | 93% |  |
 | 48 | 12% | 86% |  |
 | 49 | 15% | 74% |  |
-| 50 | 16% | 59% | Median |
-| 51 | 14% | 43% |  |
+| 50 | 16% | 60% | Median |
+| 51 | 14% | 44% |  |
 | 52 | 11% | 29% |  |
 | 53 | 7% | 18% |  |
-| 54 | 5% | 10% |  |
+| 54 | 5% | 11% |  |
 | 55 | 3% | 6% |  |
 | 56 | 2% | 3% |  |
 | 57 | 0.9% | 2% |  |
-| 58 | 0.4% | 0.6% |  |
+| 58 | 0.4% | 0.7% |  |
 | 59 | 0.2% | 0.2% |  |
-| 60 | 0% | 0.1% |  |
+| 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
 

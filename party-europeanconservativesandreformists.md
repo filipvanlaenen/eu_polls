@@ -18,21 +18,21 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 74 | 70–78 | 69–80 | 68–81 | 66–82 |
+| European Conservatives and Reformists | EU | 61 | 74 | 70–78 | 69–80 | 68–80 | 66–82 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 17–22 | 17–23 | 16–23 |
 | Fratelli d’Italia | IT | | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
 | Vox | ES | | 10 | 8–11 | 8–12 | 7–12 | 7–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | SPOLU | CZ | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -63,17 +63,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 3% | 97% |  |
 | 70 | 5% | 94% |  |
 | 71 | 7% | 89% |  |
-| 72 | 9% | 82% |  |
-| 73 | 11% | 73% |  |
+| 72 | 10% | 82% |  |
+| 73 | 12% | 72% |  |
 | 74 | 13% | 61% | Median |
-| 75 | 12% | 49% |  |
+| 75 | 12% | 48% |  |
 | 76 | 11% | 36% |  |
 | 77 | 9% | 25% |  |
-| 78 | 7% | 16% |  |
-| 79 | 4% | 10% |  |
+| 78 | 6% | 16% |  |
+| 79 | 4% | 9% |  |
 | 80 | 3% | 5% |  |
-| 81 | 1.4% | 3% |  |
-| 82 | 0.7% | 1.2% |  |
+| 81 | 1.4% | 2% |  |
+| 82 | 0.7% | 1.1% |  |
 | 83 | 0.3% | 0.5% |  |
 | 84 | 0.1% | 0.2% |  |
 | 85 | 0% | 0.1% |  |
