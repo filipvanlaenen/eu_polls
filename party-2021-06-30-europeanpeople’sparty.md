@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 148–159 | 147–160 | 146–162 | 143–164 |
+| European People’s Party | EU | 187 | 154 | 149–159 | 147–161 | 146–162 | 144–165 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 16–21 | 16–22 | 15–23 |
 | Partido Popular | ES | | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
 | Les Républicains | FR | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
@@ -42,7 +42,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,7 +55,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Изправи се Бг | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -75,34 +75,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0.1% | 100% |  |
-| 142 | 0.2% | 99.9% |  |
-| 143 | 0.3% | 99.7% |  |
-| 144 | 0.6% | 99.4% |  |
-| 145 | 1.1% | 98.8% |  |
-| 146 | 2% | 98% |  |
-| 147 | 3% | 96% |  |
-| 148 | 4% | 93% |  |
-| 149 | 5% | 89% |  |
-| 150 | 7% | 84% |  |
-| 151 | 8% | 77% |  |
-| 152 | 9% | 69% |  |
-| 153 | 10% | 60% |  |
-| 154 | 10% | 50% | Median |
-| 155 | 9% | 40% |  |
-| 156 | 8% | 31% |  |
-| 157 | 7% | 23% |  |
-| 158 | 5% | 17% |  |
-| 159 | 4% | 11% |  |
-| 160 | 3% | 7% |  |
-| 161 | 2% | 5% |  |
-| 162 | 1.2% | 3% |  |
-| 163 | 0.7% | 2% |  |
-| 164 | 0.4% | 0.8% |  |
-| 165 | 0.2% | 0.4% |  |
-| 166 | 0.1% | 0.2% |  |
+| 141 | 0% | 100% |  |
+| 142 | 0.1% | 99.9% |  |
+| 143 | 0.2% | 99.8% |  |
+| 144 | 0.4% | 99.6% |  |
+| 145 | 0.8% | 99.2% |  |
+| 146 | 1.3% | 98% |  |
+| 147 | 2% | 97% |  |
+| 148 | 3% | 95% |  |
+| 149 | 5% | 92% |  |
+| 150 | 6% | 87% |  |
+| 151 | 8% | 81% |  |
+| 152 | 9% | 73% |  |
+| 153 | 10% | 65% |  |
+| 154 | 10% | 55% | Median |
+| 155 | 9% | 45% |  |
+| 156 | 9% | 36% |  |
+| 157 | 7% | 27% |  |
+| 158 | 6% | 20% |  |
+| 159 | 5% | 14% |  |
+| 160 | 3% | 9% |  |
+| 161 | 2% | 6% |  |
+| 162 | 1.5% | 4% |  |
+| 163 | 0.9% | 2% |  |
+| 164 | 0.5% | 1.1% |  |
+| 165 | 0.3% | 0.6% |  |
+| 166 | 0.2% | 0.3% |  |
 | 167 | 0.1% | 0.1% |  |
-| 168 | 0% | 0% |  |
+| 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |

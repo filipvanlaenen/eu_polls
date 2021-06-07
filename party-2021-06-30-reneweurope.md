@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–95 | 86–96 | 85–97 | 83–100 |
+| Renew Europe | EU | 98 | 91 | 86–95 | 85–96 | 84–97 | 83–99 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -28,7 +28,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -45,7 +45,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,27 +73,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
-| 83 | 0.6% | 99.6% |  |
-| 84 | 1.3% | 99.0% |  |
-| 85 | 3% | 98% |  |
-| 86 | 4% | 95% |  |
-| 87 | 6% | 91% |  |
-| 88 | 9% | 85% |  |
-| 89 | 11% | 76% |  |
-| 90 | 12% | 65% |  |
-| 91 | 12% | 53% | Median |
-| 92 | 11% | 41% |  |
-| 93 | 9% | 30% |  |
-| 94 | 7% | 21% |  |
-| 95 | 5% | 14% |  |
-| 96 | 4% | 8% |  |
-| 97 | 2% | 5% |  |
-| 98 | 1.3% | 2% | Last Result |
-| 99 | 0.7% | 1.2% |  |
-| 100 | 0.3% | 0.6% |  |
+| 82 | 0.3% | 99.8% |  |
+| 83 | 0.7% | 99.5% |  |
+| 84 | 2% | 98.8% |  |
+| 85 | 3% | 97% |  |
+| 86 | 5% | 94% |  |
+| 87 | 7% | 90% |  |
+| 88 | 9% | 83% |  |
+| 89 | 11% | 73% |  |
+| 90 | 12% | 62% |  |
+| 91 | 12% | 50% | Median |
+| 92 | 11% | 38% |  |
+| 93 | 9% | 28% |  |
+| 94 | 7% | 19% |  |
+| 95 | 5% | 12% |  |
+| 96 | 3% | 7% |  |
+| 97 | 2% | 4% |  |
+| 98 | 1.1% | 2% | Last Result |
+| 99 | 0.5% | 1.0% |  |
+| 100 | 0.3% | 0.4% |  |
 | 101 | 0.1% | 0.2% |  |
-| 102 | 0.1% | 0.1% |  |
+| 102 | 0% | 0.1% |  |
 | 103 | 0% | 0% |  |
 
 
