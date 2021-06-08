@@ -23,7 +23,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 5 | 3–7 | 3–7 | 3–7 | 0–8 |
 | Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -49,7 +49,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 3% | 98% | Last Result |
 | 30 | 6% | 95% |  |
 | 31 | 10% | 89% |  |
-| 32 | 13% | 79% |  |
+| 32 | 14% | 79% |  |
 | 33 | 15% | 66% |  |
 | 34 | 15% | 51% | Median |
 | 35 | 13% | 36% |  |
