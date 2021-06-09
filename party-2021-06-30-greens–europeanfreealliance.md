@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 55 | 51–59 | 50–60 | 49–61 | 47–63 |
-| Bündnis 90/Die Grünen | DE | | 22 | 20–25 | 20–25 | 20–26 | 19–26 |
+| Greens–European Free Alliance | EU | 67 | 55 | 51–59 | 50–60 | 49–61 | 47–62 |
+| Bündnis 90/Die Grünen | DE | | 22 | 20–24 | 20–25 | 20–26 | 19–26 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -61,27 +61,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0.1% | 100% |  |
-| 46 | 0.2% | 99.9% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0.1% | 99.9% |  |
 | 47 | 0.4% | 99.8% |  |
-| 48 | 0.9% | 99.4% |  |
-| 49 | 2% | 98.5% |  |
+| 48 | 0.8% | 99.4% |  |
+| 49 | 2% | 98.6% |  |
 | 50 | 3% | 97% |  |
-| 51 | 5% | 94% |  |
+| 51 | 6% | 94% |  |
 | 52 | 8% | 88% |  |
-| 53 | 10% | 81% |  |
-| 54 | 12% | 71% |  |
-| 55 | 13% | 59% | Median |
-| 56 | 12% | 46% |  |
-| 57 | 11% | 34% |  |
-| 58 | 9% | 23% |  |
-| 59 | 6% | 14% |  |
-| 60 | 4% | 8% |  |
-| 61 | 2% | 4% |  |
-| 62 | 1.0% | 2% |  |
-| 63 | 0.4% | 0.6% |  |
+| 53 | 11% | 80% |  |
+| 54 | 13% | 69% |  |
+| 55 | 13% | 56% | Median |
+| 56 | 13% | 43% |  |
+| 57 | 11% | 30% |  |
+| 58 | 8% | 20% |  |
+| 59 | 5% | 12% |  |
+| 60 | 3% | 6% |  |
+| 61 | 2% | 3% |  |
+| 62 | 0.8% | 1.3% |  |
+| 63 | 0.3% | 0.5% |  |
 | 64 | 0.1% | 0.2% |  |
-| 65 | 0% | 0.1% |  |
+| 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% | Last Result |
 

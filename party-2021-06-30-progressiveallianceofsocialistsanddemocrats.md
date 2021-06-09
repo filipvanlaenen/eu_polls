@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **142** seats (-5 seats)
+Current median: **141** seats (-6 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 136–148 | 134–149 | 133–151 | 130–153 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 136–147 | 134–149 | 132–150 | 129–153 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | Partito Democratico | IT | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
@@ -28,7 +28,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Parti socialiste | FR | | 6 | 5–7 | 4–7 | 0–7 | 0–8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 3–6 | 3–6 | 2–7 | 0–7 |
-| Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Socialdemokraterne | DK | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -49,9 +49,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Liberi e Uguali | IT | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Liberi e Uguali | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | PRO România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,31 +67,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 126 | 0% | 100% |  |
 | 127 | 0.1% | 99.9% |  |
 | 128 | 0.1% | 99.9% |  |
-| 129 | 0.2% | 99.8% |  |
-| 130 | 0.3% | 99.6% |  |
-| 131 | 0.6% | 99.2% |  |
-| 132 | 0.9% | 98.7% |  |
-| 133 | 1.4% | 98% |  |
+| 129 | 0.2% | 99.7% |  |
+| 130 | 0.4% | 99.5% |  |
+| 131 | 0.6% | 99.1% |  |
+| 132 | 1.0% | 98% |  |
+| 133 | 2% | 97% |  |
 | 134 | 2% | 96% |  |
 | 135 | 3% | 94% |  |
-| 136 | 4% | 91% |  |
-| 137 | 5% | 87% |  |
-| 138 | 6% | 82% |  |
-| 139 | 7% | 76% |  |
-| 140 | 8% | 69% |  |
-| 141 | 9% | 61% |  |
-| 142 | 9% | 52% | Median |
-| 143 | 8% | 43% |  |
-| 144 | 8% | 35% |  |
-| 145 | 7% | 28% |  |
-| 146 | 6% | 21% |  |
-| 147 | 5% | 15% | Last Result |
-| 148 | 4% | 11% |  |
-| 149 | 3% | 7% |  |
-| 150 | 2% | 4% |  |
-| 151 | 1.2% | 3% |  |
-| 152 | 0.7% | 2% |  |
-| 153 | 0.4% | 0.8% |  |
+| 136 | 4% | 90% |  |
+| 137 | 6% | 86% |  |
+| 138 | 7% | 80% |  |
+| 139 | 8% | 73% |  |
+| 140 | 9% | 65% |  |
+| 141 | 9% | 56% | Median |
+| 142 | 9% | 47% |  |
+| 143 | 8% | 38% |  |
+| 144 | 7% | 30% |  |
+| 145 | 6% | 22% |  |
+| 146 | 5% | 16% |  |
+| 147 | 4% | 12% | Last Result |
+| 148 | 3% | 8% |  |
+| 149 | 2% | 5% |  |
+| 150 | 1.3% | 3% |  |
+| 151 | 0.8% | 2% |  |
+| 152 | 0.5% | 1.2% |  |
+| 153 | 0.3% | 0.7% |  |
 | 154 | 0.2% | 0.4% |  |
 | 155 | 0.1% | 0.2% |  |
 | 156 | 0.1% | 0.1% |  |
