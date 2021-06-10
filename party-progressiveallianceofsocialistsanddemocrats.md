@@ -18,9 +18,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 136–147 | 134–149 | 132–150 | 129–153 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 136–147 | 134–149 | 133–150 | 130–153 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| Partito Democratico | IT | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
+| Partito Democratico | IT | | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
 | Partidul Social Democrat | RO | | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | United Opposition | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
@@ -36,16 +36,15 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 2 | 2 | 2 | 1–3 |
+| Partij van de Arbeid | NL | | 2 | 2 | 2 | 2–3 | 1–3 |
 | SMER–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialni demokrati | SI | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų darbo partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos socialdemokratų partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -53,6 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Liberi e Uguali | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | PRO România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -69,32 +69,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 128 | 0.1% | 99.9% |  |
 | 129 | 0.2% | 99.7% |  |
 | 130 | 0.4% | 99.5% |  |
-| 131 | 0.6% | 99.1% |  |
-| 132 | 1.0% | 98% |  |
-| 133 | 2% | 97% |  |
+| 131 | 0.6% | 99.2% |  |
+| 132 | 1.0% | 98.6% |  |
+| 133 | 1.5% | 98% |  |
 | 134 | 2% | 96% |  |
 | 135 | 3% | 94% |  |
-| 136 | 4% | 90% |  |
+| 136 | 4% | 91% |  |
 | 137 | 6% | 86% |  |
-| 138 | 7% | 80% |  |
-| 139 | 8% | 73% |  |
-| 140 | 9% | 65% |  |
-| 141 | 9% | 56% | Median |
-| 142 | 9% | 47% |  |
-| 143 | 8% | 38% |  |
-| 144 | 7% | 30% |  |
-| 145 | 6% | 22% |  |
-| 146 | 5% | 16% |  |
+| 138 | 7% | 81% |  |
+| 139 | 8% | 74% |  |
+| 140 | 9% | 66% |  |
+| 141 | 9% | 57% | Median |
+| 142 | 9% | 48% |  |
+| 143 | 8% | 39% |  |
+| 144 | 7% | 31% |  |
+| 145 | 6% | 24% |  |
+| 146 | 5% | 18% |  |
 | 147 | 4% | 12% | Last Result |
-| 148 | 3% | 8% |  |
-| 149 | 2% | 5% |  |
-| 150 | 1.3% | 3% |  |
-| 151 | 0.8% | 2% |  |
-| 152 | 0.5% | 1.2% |  |
-| 153 | 0.3% | 0.7% |  |
+| 148 | 3% | 9% |  |
+| 149 | 2% | 6% |  |
+| 150 | 1.4% | 4% |  |
+| 151 | 0.9% | 2% |  |
+| 152 | 0.6% | 1.4% |  |
+| 153 | 0.3% | 0.8% |  |
 | 154 | 0.2% | 0.4% |  |
 | 155 | 0.1% | 0.2% |  |
 | 156 | 0.1% | 0.1% |  |
-| 157 | 0% | 0% |  |
+| 157 | 0% | 0.1% |  |
+| 158 | 0% | 0% |  |
 
 

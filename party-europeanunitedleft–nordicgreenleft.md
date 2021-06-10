@@ -26,6 +26,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Partij voor de Dieren | NL | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -34,7 +35,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -59,16 +59,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
-| 44 | 0.7% | 99.8% |  |
-| 45 | 2% | 99.1% |  |
-| 46 | 4% | 97% |  |
-| 47 | 9% | 93% |  |
-| 48 | 13% | 84% |  |
-| 49 | 17% | 71% |  |
-| 50 | 18% | 54% | Median |
-| 51 | 15% | 36% |  |
+| 44 | 0.7% | 99.7% |  |
+| 45 | 2% | 99.0% |  |
+| 46 | 5% | 97% |  |
+| 47 | 9% | 92% |  |
+| 48 | 14% | 84% |  |
+| 49 | 17% | 70% |  |
+| 50 | 18% | 53% | Median |
+| 51 | 15% | 35% |  |
 | 52 | 10% | 21% |  |
-| 53 | 6% | 11% |  |
+| 53 | 6% | 10% |  |
 | 54 | 3% | 5% |  |
 | 55 | 1.2% | 2% |  |
 | 56 | 0.4% | 0.6% |  |
