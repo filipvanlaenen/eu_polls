@@ -20,7 +20,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 91 | 86–95 | 85–97 | 84–98 | 82–100 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
-| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
+| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–15 | 9–15 | 8–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | ANO 2011 | CZ | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–9 | 5–9 | 4–9 | 4–10 |
@@ -55,7 +55,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -75,24 +75,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 0% | 100% |  |
 | 81 | 0.1% | 99.9% |  |
 | 82 | 0.4% | 99.8% |  |
-| 83 | 0.8% | 99.5% |  |
+| 83 | 0.8% | 99.4% |  |
 | 84 | 2% | 98.6% |  |
 | 85 | 3% | 97% |  |
 | 86 | 5% | 94% |  |
-| 87 | 7% | 90% |  |
-| 88 | 9% | 83% |  |
+| 87 | 7% | 89% |  |
+| 88 | 9% | 82% |  |
 | 89 | 10% | 74% |  |
-| 90 | 11% | 64% |  |
-| 91 | 11% | 53% | Median |
+| 90 | 11% | 63% |  |
+| 91 | 11% | 52% | Median |
 | 92 | 10% | 41% |  |
-| 93 | 9% | 31% |  |
-| 94 | 7% | 22% |  |
-| 95 | 5% | 15% |  |
+| 93 | 9% | 30% |  |
+| 94 | 7% | 21% |  |
+| 95 | 5% | 14% |  |
 | 96 | 4% | 9% |  |
-| 97 | 2% | 6% |  |
-| 98 | 1.5% | 3% | Last Result |
+| 97 | 2% | 5% |  |
+| 98 | 1.4% | 3% | Last Result |
 | 99 | 0.8% | 2% |  |
-| 100 | 0.5% | 0.9% |  |
+| 100 | 0.4% | 0.8% |  |
 | 101 | 0.2% | 0.4% |  |
 | 102 | 0.1% | 0.2% |  |
 | 103 | 0% | 0.1% |  |

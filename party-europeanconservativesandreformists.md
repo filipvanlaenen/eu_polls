@@ -20,7 +20,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 75 | 71–79 | 70–80 | 69–81 | 67–83 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 17–22 | 17–23 | 16–23 |
-| Fratelli d’Italia | IT | | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
+| Fratelli d’Italia | IT | | 16 | 15–18 | 14–19 | 13–20 | 13–20 |
 | Vox | ES | | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
@@ -35,7 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Cambiamo! | IT | | 0 | 0 | 0 | 0 | 0 |
-| Coraggio Italia | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Coraggio Italia | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,25 +59,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0% | 100% |  |
 | 64 | 0% | 100% |  |
 | 65 | 0.1% | 99.9% |  |
-| 66 | 0.3% | 99.8% |  |
-| 67 | 0.6% | 99.5% |  |
-| 68 | 1.1% | 99.0% |  |
+| 66 | 0.2% | 99.8% |  |
+| 67 | 0.5% | 99.6% |  |
+| 68 | 1.0% | 99.1% |  |
 | 69 | 2% | 98% |  |
 | 70 | 3% | 96% |  |
-| 71 | 5% | 92% |  |
-| 72 | 8% | 87% |  |
-| 73 | 10% | 79% |  |
+| 71 | 5% | 93% |  |
+| 72 | 7% | 88% |  |
+| 73 | 10% | 80% |  |
 | 74 | 12% | 70% |  |
-| 75 | 12% | 58% | Median |
+| 75 | 12% | 59% | Median |
 | 76 | 12% | 46% |  |
 | 77 | 11% | 34% |  |
-| 78 | 8% | 23% |  |
+| 78 | 8% | 24% |  |
 | 79 | 6% | 15% |  |
 | 80 | 4% | 9% |  |
 | 81 | 2% | 5% |  |
-| 82 | 1.2% | 2% |  |
-| 83 | 0.6% | 1.0% |  |
-| 84 | 0.3% | 0.4% |  |
+| 82 | 1.3% | 2% |  |
+| 83 | 0.7% | 1.1% |  |
+| 84 | 0.3% | 0.5% |  |
 | 85 | 0.1% | 0.2% |  |
 | 86 | 0% | 0.1% |  |
 | 87 | 0% | 0% |  |
