@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 75 | 71–79 | 70–80 | 69–81 | 66–83 |
+| European Conservatives and Reformists | EU | 61 | 75 | 71–79 | 69–80 | 68–81 | 66–83 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 17–22 | 17–23 | 16–23 |
 | Fratelli d’Italia | IT | | 16 | 15–18 | 14–19 | 13–20 | 13–20 |
-| Vox | ES | | 10 | 8–11 | 6–11 | 6–12 | 6–13 |
+| Vox | ES | | 10 | 8–11 | 8–11 | 7–12 | 6–13 |
 | Debout la France | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | SPOLU | CZ | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -29,8 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Juiste Antwoord 2021 | NL | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
@@ -38,6 +37,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Cambiamo! | IT | | 0 | 0 | 0 | 0 | 0 |
 | Coraggio Italia | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -58,25 +58,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0% | 100% |  |
 | 63 | 0% | 100% |  |
 | 64 | 0.1% | 100% |  |
-| 65 | 0.1% | 99.9% |  |
-| 66 | 0.3% | 99.8% |  |
-| 67 | 0.6% | 99.5% |  |
-| 68 | 1.2% | 98.8% |  |
-| 69 | 2% | 98% |  |
+| 65 | 0.2% | 99.9% |  |
+| 66 | 0.3% | 99.7% |  |
+| 67 | 0.7% | 99.4% |  |
+| 68 | 1.4% | 98.7% |  |
+| 69 | 2% | 97% |  |
 | 70 | 4% | 95% |  |
-| 71 | 5% | 92% |  |
-| 72 | 8% | 87% |  |
-| 73 | 10% | 79% |  |
-| 74 | 12% | 69% |  |
-| 75 | 13% | 57% | Median |
-| 76 | 12% | 45% |  |
-| 77 | 11% | 33% |  |
-| 78 | 8% | 22% |  |
-| 79 | 6% | 14% |  |
-| 80 | 4% | 8% |  |
-| 81 | 2% | 4% |  |
-| 82 | 1.1% | 2% |  |
-| 83 | 0.5% | 0.9% |  |
+| 71 | 6% | 91% |  |
+| 72 | 9% | 85% |  |
+| 73 | 11% | 76% |  |
+| 74 | 12% | 65% |  |
+| 75 | 13% | 53% | Median |
+| 76 | 12% | 41% |  |
+| 77 | 10% | 29% |  |
+| 78 | 7% | 19% |  |
+| 79 | 5% | 12% |  |
+| 80 | 3% | 7% |  |
+| 81 | 2% | 3% |  |
+| 82 | 0.9% | 2% |  |
+| 83 | 0.4% | 0.7% |  |
 | 84 | 0.2% | 0.3% |  |
 | 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |
