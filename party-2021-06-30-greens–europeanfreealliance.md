@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 54 | 50–58 | 49–59 | 48–60 | 46–62 |
-| Bündnis 90/Die Grünen | DE | | 20 | 19–23 | 18–24 | 18–24 | 17–26 |
+| Greens–European Free Alliance | EU | 67 | 54 | 50–57 | 49–58 | 48–59 | 46–62 |
+| Bündnis 90/Die Grünen | DE | | 20 | 18–23 | 18–23 | 17–24 | 17–26 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Europe Écologie Les Verts | FR | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Coalició Compromís | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,25 +61,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.1% | 100% |  |
-| 45 | 0.2% | 99.9% |  |
-| 46 | 0.5% | 99.7% |  |
-| 47 | 1.0% | 99.2% |  |
-| 48 | 2% | 98% |  |
-| 49 | 3% | 96% |  |
-| 50 | 5% | 93% |  |
-| 51 | 8% | 88% |  |
-| 52 | 11% | 80% |  |
-| 53 | 13% | 69% |  |
-| 54 | 14% | 56% | Median |
-| 55 | 13% | 43% |  |
-| 56 | 11% | 30% |  |
-| 57 | 8% | 19% |  |
-| 58 | 5% | 11% |  |
-| 59 | 3% | 6% |  |
-| 60 | 2% | 3% |  |
-| 61 | 0.8% | 1.3% |  |
-| 62 | 0.3% | 0.6% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0.3% | 99.8% |  |
+| 47 | 0.9% | 99.5% |  |
+| 48 | 2% | 98.6% |  |
+| 49 | 3% | 97% |  |
+| 50 | 6% | 93% |  |
+| 51 | 9% | 88% |  |
+| 52 | 12% | 79% |  |
+| 53 | 14% | 67% |  |
+| 54 | 14% | 54% | Median |
+| 55 | 13% | 40% |  |
+| 56 | 10% | 27% |  |
+| 57 | 7% | 16% |  |
+| 58 | 4% | 9% |  |
+| 59 | 2% | 5% |  |
+| 60 | 1.3% | 2% |  |
+| 61 | 0.6% | 1.2% |  |
+| 62 | 0.3% | 0.5% |  |
 | 63 | 0.1% | 0.2% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
