@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 86–95 | 85–96 | 84–98 | 82–100 |
+| Renew Europe | EU | 98 | 91 | 86–95 | 85–97 | 84–98 | 82–100 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -44,7 +44,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,24 +74,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 80 | 0.1% | 100% |  |
 | 81 | 0.2% | 99.9% |  |
-| 82 | 0.4% | 99.7% |  |
-| 83 | 0.9% | 99.3% |  |
+| 82 | 0.4% | 99.8% |  |
+| 83 | 0.9% | 99.4% |  |
 | 84 | 2% | 98% |  |
 | 85 | 3% | 97% |  |
-| 86 | 5% | 93% |  |
-| 87 | 7% | 88% |  |
-| 88 | 9% | 81% |  |
-| 89 | 11% | 72% |  |
-| 90 | 11% | 62% |  |
-| 91 | 11% | 50% | Median |
-| 92 | 10% | 39% |  |
-| 93 | 9% | 29% |  |
-| 94 | 7% | 20% |  |
-| 95 | 5% | 13% |  |
-| 96 | 3% | 8% |  |
+| 86 | 5% | 94% |  |
+| 87 | 7% | 89% |  |
+| 88 | 9% | 82% |  |
+| 89 | 10% | 73% |  |
+| 90 | 11% | 63% |  |
+| 91 | 11% | 51% | Median |
+| 92 | 10% | 40% |  |
+| 93 | 9% | 30% |  |
+| 94 | 7% | 21% |  |
+| 95 | 5% | 14% |  |
+| 96 | 4% | 9% |  |
 | 97 | 2% | 5% |  |
 | 98 | 1.3% | 3% | Last Result |
-| 99 | 0.7% | 1.4% |  |
+| 99 | 0.7% | 1.5% |  |
 | 100 | 0.4% | 0.7% |  |
 | 101 | 0.2% | 0.3% |  |
 | 102 | 0.1% | 0.1% |  |
