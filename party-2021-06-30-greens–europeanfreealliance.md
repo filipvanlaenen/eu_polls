@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (-13 seats)
+Current median: **53** seats (-14 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 54 | 50–57 | 49–59 | 48–60 | 46–62 |
-| Bündnis 90/Die Grünen | DE | | 20 | 18–22 | 17–22 | 15–22 | 15–24 |
+| Greens–European Free Alliance | EU | 67 | 53 | 49–58 | 47–59 | 46–60 | 43–63 |
+| Bündnis 90/Die Grünen | DE | | 20 | 17–22 | 17–22 | 15–23 | 15–24 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| Europe Écologie Les Verts | FR | | 6 | 6 | 6 | 6 | 6–7 |
-| Coalició Compromís | ES | | 3 | 2–3 | 1–4 | 1–4 | 0–4 |
+| Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
+| Coalició Compromís | ES | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -61,28 +61,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0% | 100% |  |
-| 45 | 0.1% | 99.9% |  |
-| 46 | 0.4% | 99.8% |  |
-| 47 | 0.8% | 99.4% |  |
-| 48 | 2% | 98.6% |  |
-| 49 | 3% | 97% |  |
-| 50 | 5% | 94% |  |
-| 51 | 8% | 88% |  |
-| 52 | 11% | 80% |  |
-| 53 | 13% | 69% |  |
-| 54 | 14% | 55% | Median |
-| 55 | 13% | 41% |  |
-| 56 | 11% | 28% |  |
-| 57 | 7% | 17% |  |
-| 58 | 5% | 10% |  |
-| 59 | 3% | 5% |  |
-| 60 | 1.4% | 3% |  |
-| 61 | 0.7% | 1.3% |  |
-| 62 | 0.3% | 0.6% |  |
-| 63 | 0.2% | 0.3% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.1% | 99.9% |  |
+| 42 | 0.2% | 99.9% |  |
+| 43 | 0.3% | 99.7% |  |
+| 44 | 0.6% | 99.4% |  |
+| 45 | 1.0% | 98.8% |  |
+| 46 | 2% | 98% |  |
+| 47 | 2% | 96% |  |
+| 48 | 4% | 94% |  |
+| 49 | 5% | 90% |  |
+| 50 | 7% | 85% |  |
+| 51 | 8% | 79% |  |
+| 52 | 10% | 70% |  |
+| 53 | 11% | 60% | Median |
+| 54 | 11% | 49% |  |
+| 55 | 10% | 38% |  |
+| 56 | 9% | 28% |  |
+| 57 | 7% | 19% |  |
+| 58 | 5% | 12% |  |
+| 59 | 3% | 7% |  |
+| 60 | 2% | 4% |  |
+| 61 | 1.0% | 2% |  |
+| 62 | 0.5% | 1.0% |  |
+| 63 | 0.3% | 0.5% |  |
+| 64 | 0.1% | 0.2% |  |
+| 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% | Last Result |
 

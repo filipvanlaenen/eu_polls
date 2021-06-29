@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **72** seats (+11 seats)
+Current median: **74** seats (+13 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 72 | 69–77 | 68–78 | 67–79 | 65–82 |
+| European Conservatives and Reformists | EU | 61 | 74 | 69–79 | 68–81 | 67–82 | 65–85 |
 | Zjednoczona Prawica | PL | | 20 | 18–21 | 18–21 | 17–22 | 17–23 |
-| Fratelli d’Italia | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
+| Fratelli d’Italia | IT | | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
-| Alianța pentru Unirea Românilor | RO | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
+| Alianța pentru Unirea Românilor | RO | | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
 | SPOLU | CZ | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
@@ -34,7 +34,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0–5 | 0–6 | 0–7 | 0–8 |
-| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
+| Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -57,26 +57,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0% | 100% |  |
 | 63 | 0.1% | 100% |  |
 | 64 | 0.2% | 99.9% |  |
-| 65 | 0.6% | 99.7% |  |
-| 66 | 1.3% | 99.1% |  |
-| 67 | 3% | 98% |  |
-| 68 | 4% | 95% |  |
-| 69 | 7% | 91% |  |
-| 70 | 10% | 84% |  |
-| 71 | 12% | 74% |  |
-| 72 | 13% | 63% | Median |
-| 73 | 12% | 50% |  |
-| 74 | 11% | 38% |  |
-| 75 | 9% | 27% |  |
-| 76 | 7% | 18% |  |
-| 77 | 4% | 11% |  |
-| 78 | 3% | 7% |  |
-| 79 | 2% | 4% |  |
-| 80 | 1.0% | 2% |  |
-| 81 | 0.6% | 1.1% |  |
-| 82 | 0.3% | 0.5% |  |
-| 83 | 0.1% | 0.3% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
+| 65 | 0.5% | 99.7% |  |
+| 66 | 1.1% | 99.1% |  |
+| 67 | 2% | 98% |  |
+| 68 | 3% | 96% |  |
+| 69 | 5% | 93% |  |
+| 70 | 7% | 88% |  |
+| 71 | 8% | 81% |  |
+| 72 | 9% | 73% |  |
+| 73 | 9% | 64% |  |
+| 74 | 9% | 55% | Median |
+| 75 | 9% | 46% |  |
+| 76 | 8% | 37% |  |
+| 77 | 7% | 28% |  |
+| 78 | 6% | 21% |  |
+| 79 | 5% | 15% |  |
+| 80 | 4% | 10% |  |
+| 81 | 2% | 6% |  |
+| 82 | 2% | 4% |  |
+| 83 | 1.0% | 2% |  |
+| 84 | 0.6% | 1.2% |  |
+| 85 | 0.3% | 0.6% |  |
+| 86 | 0.2% | 0.3% |  |
+| 87 | 0.1% | 0.1% |  |
+| 88 | 0% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 
