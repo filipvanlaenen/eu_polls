@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (+18 seats)
+Current median: **17** seats (+17 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,10 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
-| Polska 2050 [PL] (*) | PL | | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
-| Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 11–15 | 10–15 | 10–16 |
+| Има такъв народ [BG] (*) | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -29,11 +30,12 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -61,17 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 2% | 99.9% |  |
-| 16 | 8% | 98% |  |
-| 17 | 20% | 90% |  |
-| 18 | 29% | 70% | Median |
-| 19 | 25% | 41% |  |
-| 20 | 12% | 17% |  |
-| 21 | 4% | 4% |  |
-| 22 | 0.6% | 0.7% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 13 | 0.4% | 100% |  |
+| 14 | 3% | 99.6% |  |
+| 15 | 12% | 96% |  |
+| 16 | 19% | 85% |  |
+| 17 | 21% | 66% | Median |
+| 18 | 21% | 45% |  |
+| 19 | 15% | 24% |  |
+| 20 | 7% | 9% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.3% | 0.3% |  |
+| 23 | 0% | 0% |  |
 
 
