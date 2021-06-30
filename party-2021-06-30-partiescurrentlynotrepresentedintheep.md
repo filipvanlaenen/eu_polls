@@ -18,19 +18,19 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
-| Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 11–15 | 10–15 | 10–16 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
+| Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| BoerBurgerBeweging [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| BoerBurgerBeweging [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.4% | 100% |  |
-| 14 | 3% | 99.5% |  |
-| 15 | 12% | 96% |  |
-| 16 | 19% | 84% |  |
-| 17 | 21% | 65% | Median |
-| 18 | 21% | 44% |  |
-| 19 | 15% | 23% |  |
-| 20 | 6% | 8% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.3% | 0.3% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 5% | 99.4% |  |
+| 15 | 14% | 95% |  |
+| 16 | 20% | 81% |  |
+| 17 | 22% | 61% | Median |
+| 18 | 21% | 40% |  |
+| 19 | 13% | 19% |  |
+| 20 | 5% | 6% |  |
+| 21 | 1.0% | 1.1% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 

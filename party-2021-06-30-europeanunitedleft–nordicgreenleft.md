@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 51 | 48–55 | 47–56 | 46–56 | 45–58 |
+| European United Left–Nordic Green Left | EU | 39 | 51 | 48–54 | 47–55 | 46–56 | 44–57 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Die Linke | DE | | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
-| Sinn Féin | IE | | 6 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Sinn Féin | IE | | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Levica | SI | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Levica | SI | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -45,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
+| Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -59,22 +59,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
-| 43 | 0.1% | 100% |  |
-| 44 | 0.3% | 99.9% |  |
-| 45 | 1.0% | 99.5% |  |
-| 46 | 2% | 98.6% |  |
-| 47 | 4% | 96% |  |
-| 48 | 7% | 92% |  |
-| 49 | 10% | 85% |  |
-| 50 | 13% | 75% |  |
-| 51 | 14% | 63% | Median |
-| 52 | 15% | 48% |  |
-| 53 | 13% | 34% |  |
-| 54 | 10% | 21% |  |
-| 55 | 6% | 11% |  |
-| 56 | 3% | 5% |  |
-| 57 | 1.3% | 2% |  |
-| 58 | 0.4% | 0.6% |  |
+| 43 | 0.2% | 100% |  |
+| 44 | 0.5% | 99.8% |  |
+| 45 | 1.3% | 99.3% |  |
+| 46 | 3% | 98% |  |
+| 47 | 5% | 95% |  |
+| 48 | 8% | 90% |  |
+| 49 | 11% | 82% |  |
+| 50 | 13% | 71% |  |
+| 51 | 15% | 58% | Median |
+| 52 | 14% | 43% |  |
+| 53 | 12% | 29% |  |
+| 54 | 8% | 17% |  |
+| 55 | 5% | 9% |  |
+| 56 | 2% | 4% |  |
+| 57 | 1.0% | 1.4% |  |
+| 58 | 0.3% | 0.4% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
