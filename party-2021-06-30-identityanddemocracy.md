@@ -1,8 +1,8 @@
 # Identity and Democracy
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
 
 ## Seats
 
@@ -33,6 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | SME RODINA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Воля–Национален фронт за спасение на България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

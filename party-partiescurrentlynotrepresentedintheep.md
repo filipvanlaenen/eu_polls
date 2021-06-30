@@ -18,9 +18,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
-| Има такъв народ [BG] (*) | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -39,7 +39,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0–1 |
+| Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -63,15 +63,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.6% | 100% |  |
-| 14 | 5% | 99.4% |  |
-| 15 | 14% | 95% |  |
-| 16 | 20% | 81% |  |
-| 17 | 22% | 61% | Median |
-| 18 | 21% | 40% |  |
-| 19 | 13% | 19% |  |
-| 20 | 5% | 6% |  |
-| 21 | 1.0% | 1.1% |  |
+| 13 | 1.0% | 100% |  |
+| 14 | 6% | 98.9% |  |
+| 15 | 15% | 93% |  |
+| 16 | 20% | 78% |  |
+| 17 | 22% | 58% | Median |
+| 18 | 20% | 36% |  |
+| 19 | 12% | 16% |  |
+| 20 | 4% | 5% |  |
+| 21 | 0.7% | 0.8% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 

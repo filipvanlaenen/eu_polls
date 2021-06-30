@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 149–159 | 147–160 | 146–162 | 144–164 |
+| European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 146–162 | 144–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 19–24 | 18–25 |
 | Partido Popular | ES | | 18 | 15–20 | 15–20 | 15–21 | 14–21 |
 | Koalicja Obywatelska | PL | | 10 | 7–12 | 7–12 | 7–13 | 6–13 |
@@ -32,7 +32,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Граждани за европейско развитие на България | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 1–3 | 1–4 | 1–4 | 0–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -40,8 +40,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Демократична България | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| Демократична България | BG | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -75,30 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0.1% | 100% |  |
+| 141 | 0% | 100% |  |
 | 142 | 0.1% | 99.9% |  |
 | 143 | 0.2% | 99.8% |  |
-| 144 | 0.5% | 99.5% |  |
-| 145 | 0.8% | 99.1% |  |
-| 146 | 1.4% | 98% |  |
+| 144 | 0.4% | 99.6% |  |
+| 145 | 0.7% | 99.2% |  |
+| 146 | 1.3% | 98% |  |
 | 147 | 2% | 97% |  |
 | 148 | 3% | 95% |  |
-| 149 | 5% | 91% |  |
-| 150 | 6% | 87% |  |
-| 151 | 8% | 81% |  |
-| 152 | 9% | 73% |  |
-| 153 | 10% | 64% |  |
-| 154 | 10% | 55% | Median |
-| 155 | 10% | 45% |  |
-| 156 | 9% | 35% |  |
-| 157 | 8% | 26% |  |
-| 158 | 6% | 19% |  |
-| 159 | 5% | 13% |  |
-| 160 | 3% | 8% |  |
+| 149 | 4% | 92% |  |
+| 150 | 6% | 88% |  |
+| 151 | 7% | 82% |  |
+| 152 | 9% | 75% |  |
+| 153 | 10% | 66% |  |
+| 154 | 10% | 57% | Median |
+| 155 | 10% | 47% |  |
+| 156 | 9% | 37% |  |
+| 157 | 8% | 28% |  |
+| 158 | 6% | 20% |  |
+| 159 | 5% | 14% |  |
+| 160 | 3% | 9% |  |
 | 161 | 2% | 5% |  |
-| 162 | 1.3% | 3% |  |
-| 163 | 0.7% | 2% |  |
-| 164 | 0.4% | 0.8% |  |
+| 162 | 1.4% | 3% |  |
+| 163 | 0.8% | 2% |  |
+| 164 | 0.5% | 0.9% |  |
 | 165 | 0.2% | 0.4% |  |
 | 166 | 0.1% | 0.2% |  |
 | 167 | 0% | 0.1% |  |
