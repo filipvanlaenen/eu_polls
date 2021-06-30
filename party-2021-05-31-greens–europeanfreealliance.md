@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (-13 seats)
+Current median: **55** seats (-12 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 54 | 49–59 | 48–60 | 46–62 | 44–64 |
+| Greens–European Free Alliance | EU | 67 | 55 | 50–59 | 48–60 | 47–62 | 44–64 |
 | Bündnis 90/Die Grünen | DE | | 22 | 20–24 | 20–25 | 19–25 | 18–26 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Europe Écologie Les Verts | FR | | 5 | 0–8 | 0–8 | 0–9 | 0–9 |
@@ -62,21 +62,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 0.4% | 99.7% |  |
-| 45 | 0.7% | 99.3% |  |
-| 46 | 1.2% | 98.6% |  |
-| 47 | 2% | 97% |  |
-| 48 | 3% | 96% |  |
-| 49 | 4% | 93% |  |
-| 50 | 5% | 89% |  |
-| 51 | 7% | 84% |  |
-| 52 | 8% | 77% |  |
-| 53 | 9% | 69% |  |
-| 54 | 10% | 60% | Median |
-| 55 | 10% | 49% |  |
-| 56 | 10% | 39% |  |
-| 57 | 8% | 29% |  |
+| 43 | 0.1% | 99.9% |  |
+| 44 | 0.3% | 99.8% |  |
+| 45 | 0.5% | 99.5% |  |
+| 46 | 1.0% | 99.0% |  |
+| 47 | 2% | 98% |  |
+| 48 | 2% | 96% |  |
+| 49 | 3% | 94% |  |
+| 50 | 5% | 91% |  |
+| 51 | 7% | 86% |  |
+| 52 | 8% | 79% |  |
+| 53 | 10% | 71% |  |
+| 54 | 11% | 61% |  |
+| 55 | 11% | 51% | Median |
+| 56 | 10% | 40% |  |
+| 57 | 9% | 30% |  |
 | 58 | 7% | 21% |  |
 | 59 | 5% | 14% |  |
 | 60 | 4% | 9% |  |
