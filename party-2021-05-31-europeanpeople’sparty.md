@@ -32,17 +32,17 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Демократична България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Демократична България | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -51,6 +51,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Uniunea Democrată Maghiară din România | RO | | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -63,7 +64,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Изправи се Бг | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -77,16 +77,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 136 | 0% | 100% |  |
 | 137 | 0.1% | 99.9% |  |
-| 138 | 0.2% | 99.8% |  |
+| 138 | 0.2% | 99.9% |  |
 | 139 | 0.3% | 99.7% |  |
-| 140 | 0.6% | 99.3% |  |
-| 141 | 1.0% | 98.7% |  |
+| 140 | 0.6% | 99.4% |  |
+| 141 | 1.0% | 98.8% |  |
 | 142 | 2% | 98% |  |
 | 143 | 2% | 96% |  |
-| 144 | 4% | 94% |  |
+| 144 | 3% | 94% |  |
 | 145 | 5% | 90% |  |
-| 146 | 6% | 85% |  |
-| 147 | 7% | 79% |  |
+| 146 | 6% | 86% |  |
+| 147 | 7% | 80% |  |
 | 148 | 8% | 72% |  |
 | 149 | 9% | 64% |  |
 | 150 | 9% | 55% | Median |

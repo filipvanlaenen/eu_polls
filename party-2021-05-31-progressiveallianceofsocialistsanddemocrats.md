@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 159 | 151–167 | 148–169 | 146–171 | 142–175 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 159 | 151–167 | 148–169 | 146–171 | 142–174 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | Partito Democratico | IT | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
@@ -52,7 +52,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| PRO România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -70,9 +70,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 0.1% | 99.9% |  |
 | 140 | 0.1% | 99.9% |  |
 | 141 | 0.1% | 99.8% |  |
-| 142 | 0.2% | 99.7% |  |
-| 143 | 0.3% | 99.5% |  |
-| 144 | 0.4% | 99.2% |  |
+| 142 | 0.2% | 99.6% |  |
+| 143 | 0.3% | 99.4% |  |
+| 144 | 0.4% | 99.1% |  |
 | 145 | 0.6% | 98.7% |  |
 | 146 | 0.8% | 98% |  |
 | 147 | 1.1% | 97% | Last Result |
@@ -86,23 +86,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 5% | 77% |  |
 | 156 | 5% | 72% |  |
 | 157 | 6% | 67% |  |
-| 158 | 6% | 62% |  |
-| 159 | 6% | 56% | Median |
-| 160 | 6% | 50% |  |
-| 161 | 6% | 44% |  |
-| 162 | 6% | 38% |  |
-| 163 | 5% | 32% |  |
+| 158 | 6% | 61% |  |
+| 159 | 6% | 55% | Median |
+| 160 | 6% | 49% |  |
+| 161 | 6% | 43% |  |
+| 162 | 6% | 37% |  |
+| 163 | 5% | 31% |  |
 | 164 | 5% | 26% |  |
 | 165 | 4% | 21% |  |
-| 166 | 4% | 17% |  |
-| 167 | 3% | 13% |  |
-| 168 | 3% | 10% |  |
+| 166 | 4% | 16% |  |
+| 167 | 3% | 12% |  |
+| 168 | 3% | 9% |  |
 | 169 | 2% | 7% |  |
 | 170 | 2% | 5% |  |
 | 171 | 1.1% | 3% |  |
 | 172 | 0.8% | 2% |  |
-| 173 | 0.5% | 1.4% |  |
-| 174 | 0.4% | 0.9% |  |
+| 173 | 0.5% | 1.3% |  |
+| 174 | 0.3% | 0.8% |  |
 | 175 | 0.2% | 0.5% |  |
 | 176 | 0.1% | 0.3% |  |
 | 177 | 0.1% | 0.2% |  |
