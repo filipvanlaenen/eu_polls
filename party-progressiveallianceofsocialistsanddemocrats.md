@@ -49,8 +49,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
-| Articolo Uno | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Articolo Uno | IT | | 0 | 0 | 0 | 0 | 0 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -84,19 +84,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 6% | 71% |  |
 | 139 | 7% | 65% |  |
 | 140 | 7% | 58% |  |
-| 141 | 7% | 51% | Median |
+| 141 | 8% | 50% | Median |
 | 142 | 7% | 43% |  |
-| 143 | 7% | 36% |  |
-| 144 | 7% | 29% |  |
+| 143 | 7% | 35% |  |
+| 144 | 7% | 28% |  |
 | 145 | 6% | 22% |  |
 | 146 | 5% | 16% |  |
-| 147 | 4% | 12% | Last Result |
+| 147 | 4% | 11% | Last Result |
 | 148 | 3% | 8% |  |
 | 149 | 2% | 5% |  |
 | 150 | 1.3% | 3% |  |
 | 151 | 0.8% | 2% |  |
-| 152 | 0.5% | 1.1% |  |
-| 153 | 0.3% | 0.6% |  |
+| 152 | 0.5% | 1.0% |  |
+| 153 | 0.3% | 0.5% |  |
 | 154 | 0.1% | 0.3% |  |
 | 155 | 0.1% | 0.1% |  |
 | 156 | 0% | 0.1% |  |
