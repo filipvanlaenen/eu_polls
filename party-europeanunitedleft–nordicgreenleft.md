@@ -22,7 +22,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Die Linke | DE | | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| Unidos Podemos | ES | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Sinistra Italiana | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0–1 |
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
 | 44 | 0.7% | 99.7% |  |
-| 45 | 2% | 99.1% |  |
+| 45 | 2% | 99.0% |  |
 | 46 | 3% | 97% |  |
 | 47 | 6% | 94% |  |
 | 48 | 9% | 88% |  |
 | 49 | 12% | 79% |  |
-| 50 | 14% | 68% |  |
-| 51 | 15% | 54% | Median |
+| 50 | 14% | 67% |  |
+| 51 | 14% | 53% | Median |
 | 52 | 13% | 39% |  |
-| 53 | 11% | 26% |  |
+| 53 | 11% | 25% |  |
 | 54 | 7% | 15% |  |
 | 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
-| 57 | 0.9% | 2% |  |
-| 58 | 0.4% | 0.6% |  |
-| 59 | 0.2% | 0.2% |  |
+| 57 | 1.0% | 2% |  |
+| 58 | 0.4% | 0.7% |  |
+| 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
