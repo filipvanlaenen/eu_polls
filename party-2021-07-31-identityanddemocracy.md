@@ -20,12 +20,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Identity and Democracy | EU | 76 | 76 | 72–79 | 71–81 | 70–81 | 69–83 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
-| Lega Nord | IT | | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
-| Alternative für Deutschland | DE | | 9 | 8–11 | 7–12 | 7–12 | 7–14 |
-| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Lega Nord | IT | | 18 | 17–20 | 16–20 | 16–20 | 14–22 |
+| Alternative für Deutschland | DE | | 10 | 8–12 | 7–12 | 7–13 | 7–13 |
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Partij voor de Vrijheid | NL | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -43,14 +43,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
-| 68 | 0.3% | 99.9% |  |
-| 69 | 0.7% | 99.6% |  |
-| 70 | 2% | 99.0% |  |
+| 68 | 0.3% | 99.8% |  |
+| 69 | 0.8% | 99.5% |  |
+| 70 | 2% | 98.7% |  |
 | 71 | 3% | 97% |  |
-| 72 | 6% | 94% |  |
+| 72 | 6% | 93% |  |
 | 73 | 9% | 88% |  |
-| 74 | 12% | 80% |  |
-| 75 | 14% | 68% |  |
+| 74 | 12% | 79% |  |
+| 75 | 13% | 67% |  |
 | 76 | 14% | 54% | Last Result, Median |
 | 77 | 13% | 40% |  |
 | 78 | 10% | 28% |  |
