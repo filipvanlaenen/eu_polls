@@ -20,8 +20,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 134–147 | 132–149 | 130–150 | 127–153 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 13–18 | 12–18 |
-| Partito Democratico | IT | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 13–17 | 13–17 | 11–18 |
+| Partito Democratico | IT | | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 13–17 | 13–18 | 11–19 |
 | Partidul Social Democrat | RO | | 13 | 8–14 | 8–14 | 8–15 | 7–15 |
 | United Opposition | HU | | 11 | 9–12 | 9–12 | 9–12 | 8–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -34,15 +34,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
-| Българска социалистическа партия | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Българска социалистическа партия | BG | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2 | 2 | 2–3 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,6 +54,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -69,26 +69,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 124 | 0.1% | 99.9% |  |
 | 125 | 0.1% | 99.9% |  |
 | 126 | 0.2% | 99.7% |  |
-| 127 | 0.3% | 99.6% |  |
+| 127 | 0.3% | 99.5% |  |
 | 128 | 0.5% | 99.2% |  |
-| 129 | 0.7% | 98.8% |  |
+| 129 | 0.7% | 98.7% |  |
 | 130 | 1.0% | 98% |  |
 | 131 | 1.4% | 97% |  |
 | 132 | 2% | 96% |  |
-| 133 | 2% | 94% |  |
+| 133 | 3% | 94% |  |
 | 134 | 3% | 91% |  |
 | 135 | 4% | 88% |  |
 | 136 | 5% | 84% |  |
-| 137 | 5% | 80% |  |
+| 137 | 5% | 79% |  |
 | 138 | 6% | 74% |  |
 | 139 | 7% | 68% |  |
-| 140 | 7% | 62% |  |
+| 140 | 7% | 61% |  |
 | 141 | 8% | 54% | Median |
 | 142 | 8% | 47% |  |
 | 143 | 7% | 39% |  |
 | 144 | 7% | 32% |  |
 | 145 | 6% | 25% |  |
-| 146 | 5% | 19% |  |
+| 146 | 5% | 18% |  |
 | 147 | 4% | 13% | Last Result |
 | 148 | 3% | 9% |  |
 | 149 | 2% | 6% |  |
@@ -97,7 +97,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 152 | 0.6% | 1.2% |  |
 | 153 | 0.3% | 0.6% |  |
 | 154 | 0.2% | 0.3% |  |
-| 155 | 0.1% | 0.1% |  |
+| 155 | 0.1% | 0.2% |  |
 | 156 | 0% | 0.1% |  |
 | 157 | 0% | 0% |  |
 
