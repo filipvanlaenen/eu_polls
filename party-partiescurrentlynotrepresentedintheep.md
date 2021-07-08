@@ -18,14 +18,14 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
 | Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| BoerBurgerBeweging [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| BoerBurgerBeweging [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -63,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.8% | 100% |  |
-| 14 | 5% | 99.1% |  |
-| 15 | 14% | 94% |  |
-| 16 | 20% | 80% |  |
-| 17 | 22% | 60% | Median |
-| 18 | 20% | 39% |  |
-| 19 | 13% | 18% |  |
-| 20 | 5% | 6% |  |
-| 21 | 1.0% | 1.1% |  |
-| 22 | 0.1% | 0.1% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 4% | 99.4% |  |
+| 15 | 13% | 95% |  |
+| 16 | 19% | 82% |  |
+| 17 | 21% | 63% | Median |
+| 18 | 21% | 41% |  |
+| 19 | 14% | 21% |  |
+| 20 | 5% | 7% |  |
+| 21 | 1.2% | 1.4% |  |
+| 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
 
