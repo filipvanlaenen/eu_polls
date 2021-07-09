@@ -19,21 +19,21 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 155 | 149–160 | 147–161 | 146–163 | 143–165 |
-| Christlich Demokratische Union Deutschlands | DE | | 22 | 18–23 | 16–23 | 16–24 | 15–24 |
+| Christlich Demokratische Union Deutschlands | DE | | 22 | 19–23 | 17–24 | 16–24 | 16–25 |
 | Partido Popular | ES | | 18 | 15–20 | 15–20 | 15–20 | 14–21 |
 | Koalicja Obywatelska | PL | | 10 | 7–12 | 7–12 | 7–13 | 6–13 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Österreichische Volkspartei | AT | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3–4 | 2–4 |
+| Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
@@ -75,15 +75,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0% | 100% |  |
+| 140 | 0.1% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
 | 142 | 0.2% | 99.8% |  |
-| 143 | 0.3% | 99.7% |  |
-| 144 | 0.5% | 99.3% |  |
-| 145 | 0.9% | 98.8% |  |
+| 143 | 0.3% | 99.6% |  |
+| 144 | 0.6% | 99.3% |  |
+| 145 | 0.9% | 98.7% |  |
 | 146 | 1.4% | 98% |  |
-| 147 | 2% | 97% |  |
-| 148 | 3% | 95% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
 | 149 | 4% | 92% |  |
 | 150 | 5% | 88% |  |
 | 151 | 6% | 83% |  |
@@ -91,18 +91,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 8% | 69% |  |
 | 154 | 9% | 61% |  |
 | 155 | 9% | 52% | Median |
-| 156 | 9% | 42% |  |
-| 157 | 8% | 33% |  |
+| 156 | 9% | 43% |  |
+| 157 | 8% | 34% |  |
 | 158 | 7% | 25% |  |
 | 159 | 6% | 18% |  |
 | 160 | 4% | 12% |  |
-| 161 | 3% | 7% |  |
-| 162 | 2% | 4% |  |
-| 163 | 1.2% | 3% |  |
-| 164 | 0.7% | 1.3% |  |
-| 165 | 0.4% | 0.7% |  |
-| 166 | 0.2% | 0.3% |  |
-| 167 | 0.1% | 0.1% |  |
+| 161 | 3% | 8% |  |
+| 162 | 2% | 5% |  |
+| 163 | 1.3% | 3% |  |
+| 164 | 0.7% | 1.5% |  |
+| 165 | 0.4% | 0.8% |  |
+| 166 | 0.2% | 0.4% |  |
+| 167 | 0.1% | 0.2% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |

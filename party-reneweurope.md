@@ -20,7 +20,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 93 | 88–97 | 87–98 | 86–99 | 84–101 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
+| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | ANO 2011 | CZ | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -31,7 +31,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -61,7 +61,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -82,8 +82,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 7% | 89% |  |
 | 90 | 9% | 82% |  |
 | 91 | 11% | 73% |  |
-| 92 | 12% | 62% |  |
-| 93 | 12% | 50% | Median |
+| 92 | 12% | 63% |  |
+| 93 | 12% | 51% | Median |
 | 94 | 11% | 39% |  |
 | 95 | 9% | 28% |  |
 | 96 | 7% | 19% |  |
@@ -91,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 3% | 7% | Last Result |
 | 99 | 2% | 4% |  |
 | 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.0% |  |
+| 101 | 0.6% | 1.1% |  |
 | 102 | 0.3% | 0.5% |  |
 | 103 | 0.1% | 0.2% |  |
-| 104 | 0% | 0.1% |  |
+| 104 | 0.1% | 0.1% |  |
 | 105 | 0% | 0% |  |
 
 
