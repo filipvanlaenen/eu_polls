@@ -25,7 +25,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Democraten 66 | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Centerpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Centerpartiet | SE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -35,7 +35,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–3 | 0–3 | 0–4 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -57,7 +57,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -74,15 +74,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0% | 100% |  |
 | 83 | 0.1% | 99.9% |  |
-| 84 | 0.3% | 99.8% |  |
-| 85 | 0.7% | 99.5% |  |
-| 86 | 2% | 98.8% |  |
+| 84 | 0.4% | 99.8% |  |
+| 85 | 0.8% | 99.4% |  |
+| 86 | 2% | 98.7% |  |
 | 87 | 3% | 97% |  |
 | 88 | 5% | 94% |  |
 | 89 | 7% | 90% |  |
 | 90 | 9% | 83% |  |
 | 91 | 11% | 74% |  |
-| 92 | 12% | 64% |  |
+| 92 | 12% | 63% |  |
 | 93 | 12% | 52% | Median |
 | 94 | 11% | 40% |  |
 | 95 | 9% | 29% |  |
