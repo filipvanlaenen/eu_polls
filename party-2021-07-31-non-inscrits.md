@@ -20,7 +20,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 33 | 31–36 | 30–37 | 29–38 | 28–39 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -30,7 +30,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -44,19 +44,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.7% | 99.8% |  |
+| 28 | 0.6% | 99.8% |  |
 | 29 | 2% | 99.2% | Last Result |
-| 30 | 6% | 97% |  |
-| 31 | 11% | 91% |  |
-| 32 | 16% | 80% |  |
-| 33 | 18% | 63% | Median |
-| 34 | 17% | 45% |  |
-| 35 | 13% | 28% |  |
-| 36 | 8% | 15% |  |
-| 37 | 4% | 7% |  |
-| 38 | 2% | 3% |  |
-| 39 | 0.7% | 1.0% |  |
-| 40 | 0.2% | 0.3% |  |
+| 30 | 5% | 97% |  |
+| 31 | 10% | 92% |  |
+| 32 | 15% | 82% |  |
+| 33 | 18% | 67% | Median |
+| 34 | 18% | 49% |  |
+| 35 | 14% | 32% |  |
+| 36 | 9% | 18% |  |
+| 37 | 5% | 9% |  |
+| 38 | 2% | 4% |  |
+| 39 | 0.9% | 1.2% |  |
+| 40 | 0.3% | 0.3% |  |
 | 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 

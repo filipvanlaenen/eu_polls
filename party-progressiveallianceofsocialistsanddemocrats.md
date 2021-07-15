@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **141** seats (-6 seats)
+Current median: **140** seats (-7 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 134–147 | 132–149 | 130–150 | 126–153 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 133–146 | 131–148 | 129–149 | 126–152 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
-| Partito Democratico | IT | | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 12–18 | 11–18 |
+| Partito Democratico | IT | | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–17 | 12–17 | 11–17 |
 | Partidul Social Democrat | RO | | 13 | 8–14 | 8–14 | 8–15 | 7–15 |
-| United Opposition | HU | | 11 | 9–12 | 9–12 | 9–12 | 8–12 |
+| United Opposition | HU | | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Parti socialiste | FR | | 6 | 0–8 | 0–8 | 0–8 | 0–8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -50,7 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Articolo Uno | IT | | 0 | 0 | 0 | 0 | 0 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -65,40 +65,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 123 | 0% | 100% |  |
+| 122 | 0% | 100% |  |
+| 123 | 0.1% | 99.9% |  |
 | 124 | 0.1% | 99.9% |  |
-| 125 | 0.1% | 99.8% |  |
-| 126 | 0.2% | 99.7% |  |
-| 127 | 0.4% | 99.5% |  |
-| 128 | 0.6% | 99.1% |  |
-| 129 | 0.8% | 98.5% |  |
-| 130 | 1.1% | 98% |  |
-| 131 | 2% | 97% |  |
-| 132 | 2% | 95% |  |
-| 133 | 3% | 93% |  |
-| 134 | 3% | 90% |  |
-| 135 | 4% | 87% |  |
-| 136 | 5% | 83% |  |
-| 137 | 6% | 78% |  |
-| 138 | 6% | 72% |  |
-| 139 | 7% | 66% |  |
-| 140 | 7% | 59% |  |
-| 141 | 8% | 52% | Median |
-| 142 | 8% | 44% |  |
-| 143 | 7% | 36% |  |
-| 144 | 7% | 29% |  |
-| 145 | 6% | 22% |  |
-| 146 | 5% | 17% |  |
-| 147 | 4% | 12% | Last Result |
-| 148 | 3% | 8% |  |
-| 149 | 2% | 5% |  |
-| 150 | 1.3% | 3% |  |
-| 151 | 0.8% | 2% |  |
-| 152 | 0.5% | 1.0% |  |
-| 153 | 0.3% | 0.5% |  |
-| 154 | 0.1% | 0.3% |  |
-| 155 | 0.1% | 0.1% |  |
-| 156 | 0% | 0.1% |  |
-| 157 | 0% | 0% |  |
+| 125 | 0.2% | 99.8% |  |
+| 126 | 0.3% | 99.6% |  |
+| 127 | 0.5% | 99.3% |  |
+| 128 | 0.7% | 98.8% |  |
+| 129 | 1.0% | 98% |  |
+| 130 | 1.4% | 97% |  |
+| 131 | 2% | 96% |  |
+| 132 | 2% | 94% |  |
+| 133 | 3% | 91% |  |
+| 134 | 4% | 88% |  |
+| 135 | 5% | 84% |  |
+| 136 | 5% | 80% |  |
+| 137 | 6% | 74% |  |
+| 138 | 7% | 68% |  |
+| 139 | 7% | 61% |  |
+| 140 | 8% | 54% | Median |
+| 141 | 8% | 46% |  |
+| 142 | 8% | 39% |  |
+| 143 | 7% | 31% |  |
+| 144 | 6% | 24% |  |
+| 145 | 5% | 18% |  |
+| 146 | 4% | 12% |  |
+| 147 | 3% | 8% | Last Result |
+| 148 | 2% | 5% |  |
+| 149 | 1.4% | 3% |  |
+| 150 | 0.9% | 2% |  |
+| 151 | 0.5% | 1.0% |  |
+| 152 | 0.3% | 0.5% |  |
+| 153 | 0.1% | 0.3% |  |
+| 154 | 0.1% | 0.1% |  |
+| 155 | 0% | 0% |  |
 
 

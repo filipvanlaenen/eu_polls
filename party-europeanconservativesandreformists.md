@@ -20,7 +20,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 73 | 68–78 | 67–79 | 66–80 | 64–83 |
 | Zjednoczona Prawica | PL | | 20 | 18–21 | 18–21 | 17–22 | 17–23 |
-| Fratelli d’Italia | IT | | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| Fratelli d’Italia | IT | | 17 | 15–19 | 15–20 | 14–21 | 13–21 |
 | Vox | ES | | 10 | 8–11 | 7–11 | 7–12 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -69,15 +69,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 9% | 43% |  |
 | 75 | 8% | 34% |  |
 | 76 | 7% | 26% |  |
-| 77 | 6% | 18% |  |
+| 77 | 6% | 19% |  |
 | 78 | 5% | 12% |  |
 | 79 | 3% | 8% |  |
-| 80 | 2% | 4% |  |
+| 80 | 2% | 5% |  |
 | 81 | 1.2% | 2% |  |
-| 82 | 0.6% | 1.1% |  |
+| 82 | 0.7% | 1.2% |  |
 | 83 | 0.3% | 0.5% |  |
 | 84 | 0.1% | 0.2% |  |
-| 85 | 0% | 0.1% |  |
+| 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |
 
 
