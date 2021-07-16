@@ -42,7 +42,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Демократична България | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
