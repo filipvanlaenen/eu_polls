@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (+17 seats)
+Current median: **18** seats (+18 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,13 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| Parties currently not represented in the EP | EU | 0 | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
 | Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | BoerBurgerBeweging [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -63,16 +64,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.4% | 100% |  |
-| 14 | 4% | 99.6% |  |
-| 15 | 11% | 96% |  |
-| 16 | 18% | 85% |  |
-| 17 | 21% | 66% | Median |
-| 18 | 21% | 45% |  |
-| 19 | 15% | 24% |  |
-| 20 | 7% | 9% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.3% | 0.3% |  |
-| 23 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 1.1% | 99.9% |  |
+| 15 | 5% | 98.8% |  |
+| 16 | 13% | 93% |  |
+| 17 | 19% | 80% |  |
+| 18 | 21% | 61% | Median |
+| 19 | 20% | 40% |  |
+| 20 | 13% | 20% |  |
+| 21 | 5% | 7% |  |
+| 22 | 1.3% | 2% |  |
+| 23 | 0.2% | 0.2% |  |
+| 24 | 0% | 0% |  |
 
 
