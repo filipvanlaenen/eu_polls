@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 76 | 73–80 | 72–81 | 71–82 | 69–83 |
+| Identity and Democracy | EU | 76 | 76 | 73–80 | 71–81 | 71–82 | 69–84 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
-| Lega Nord | IT | | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
-| Alternative für Deutschland | DE | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
+| Lega Nord | IT | | 18 | 16–20 | 16–20 | 16–21 | 15–22 |
+| Alternative für Deutschland | DE | | 10 | 8–12 | 7–13 | 7–14 | 7–14 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -36,31 +36,32 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-07-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-06-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-07-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2021-06-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
+| 67 | 0.1% | 100% |  |
 | 68 | 0.2% | 99.9% |  |
-| 69 | 0.5% | 99.8% |  |
-| 70 | 1.2% | 99.3% |  |
+| 69 | 0.6% | 99.7% |  |
+| 70 | 1.4% | 99.0% |  |
 | 71 | 3% | 98% |  |
-| 72 | 5% | 96% |  |
-| 73 | 8% | 91% |  |
-| 74 | 11% | 83% |  |
-| 75 | 13% | 72% |  |
-| 76 | 14% | 59% | Last Result, Median |
-| 77 | 14% | 44% |  |
-| 78 | 11% | 31% |  |
-| 79 | 8% | 19% |  |
-| 80 | 5% | 11% |  |
-| 81 | 3% | 6% |  |
-| 82 | 2% | 3% |  |
-| 83 | 0.7% | 1.1% |  |
-| 84 | 0.3% | 0.4% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 72 | 5% | 95% |  |
+| 73 | 7% | 90% |  |
+| 74 | 10% | 83% |  |
+| 75 | 12% | 72% |  |
+| 76 | 13% | 60% | Last Result, Median |
+| 77 | 13% | 47% |  |
+| 78 | 11% | 34% |  |
+| 79 | 9% | 23% |  |
+| 80 | 6% | 15% |  |
+| 81 | 4% | 8% |  |
+| 82 | 2% | 4% |  |
+| 83 | 1.2% | 2% |  |
+| 84 | 0.6% | 1.0% |  |
+| 85 | 0.2% | 0.4% |  |
+| 86 | 0.1% | 0.1% |  |
+| 87 | 0% | 0% |  |
 
 

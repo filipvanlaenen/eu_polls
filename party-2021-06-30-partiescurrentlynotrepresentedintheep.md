@@ -37,7 +37,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| VLASŤ [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
