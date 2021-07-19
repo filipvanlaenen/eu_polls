@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **76** seats (0 seats)
+Current median: **75** seats (-1 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 76 | 73–80 | 72–81 | 71–82 | 69–83 |
+| Identity and Democracy | EU | 76 | 75 | 72–79 | 71–80 | 70–81 | 69–83 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
-| Lega Nord | IT | | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
+| Lega Nord | IT | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Alternative für Deutschland | DE | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -30,7 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| SME RODINA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| SME RODINA | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -42,25 +42,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.5% | 99.8% |  |
-| 70 | 1.2% | 99.3% |  |
-| 71 | 3% | 98% |  |
-| 72 | 5% | 96% |  |
-| 73 | 8% | 91% |  |
-| 74 | 11% | 83% |  |
-| 75 | 13% | 72% |  |
-| 76 | 14% | 59% | Last Result, Median |
-| 77 | 14% | 44% |  |
-| 78 | 11% | 31% |  |
-| 79 | 8% | 19% |  |
-| 80 | 5% | 11% |  |
-| 81 | 3% | 6% |  |
-| 82 | 2% | 3% |  |
-| 83 | 0.7% | 1.1% |  |
-| 84 | 0.3% | 0.4% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.3% | 99.9% |  |
+| 69 | 0.8% | 99.6% |  |
+| 70 | 2% | 98.8% |  |
+| 71 | 4% | 97% |  |
+| 72 | 7% | 93% |  |
+| 73 | 10% | 86% |  |
+| 74 | 13% | 76% |  |
+| 75 | 14% | 64% | Median |
+| 76 | 14% | 49% | Last Result |
+| 77 | 12% | 35% |  |
+| 78 | 9% | 23% |  |
+| 79 | 6% | 13% |  |
+| 80 | 4% | 7% |  |
+| 81 | 2% | 3% |  |
+| 82 | 0.9% | 1.4% |  |
+| 83 | 0.3% | 0.5% |  |
+| 84 | 0.1% | 0.2% |  |
+| 85 | 0% | 0% |  |
 
 
