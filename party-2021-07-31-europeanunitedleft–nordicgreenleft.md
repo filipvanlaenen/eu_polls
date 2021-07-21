@@ -22,7 +22,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Die Linke | DE | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,8 +61,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 100% |  |
 | 44 | 0.3% | 99.9% |  |
-| 45 | 0.9% | 99.6% |  |
-| 46 | 2% | 98.7% |  |
+| 45 | 1.0% | 99.6% |  |
+| 46 | 2% | 98.6% |  |
 | 47 | 5% | 96% |  |
 | 48 | 8% | 92% |  |
 | 49 | 11% | 84% |  |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 8% | 16% |  |
 | 55 | 5% | 8% |  |
 | 56 | 2% | 3% |  |
-| 57 | 0.9% | 1.4% |  |
+| 57 | 0.8% | 1.4% |  |
 | 58 | 0.3% | 0.5% |  |
 | 59 | 0.1% | 0.2% |  |
 | 60 | 0% | 0.1% |  |

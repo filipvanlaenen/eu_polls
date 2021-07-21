@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
+| Parties currently not represented in the EP | EU | 0 | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
 | Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +35,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -64,16 +64,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 1.1% | 99.9% |  |
-| 15 | 5% | 98.8% |  |
-| 16 | 13% | 93% |  |
-| 17 | 19% | 80% |  |
-| 18 | 21% | 61% | Median |
-| 19 | 20% | 40% |  |
-| 20 | 13% | 20% |  |
-| 21 | 5% | 7% |  |
-| 22 | 1.3% | 2% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0% |  |
+| 14 | 0.8% | 99.9% |  |
+| 15 | 4% | 99.1% |  |
+| 16 | 11% | 95% |  |
+| 17 | 18% | 84% |  |
+| 18 | 21% | 66% | Median |
+| 19 | 20% | 45% |  |
+| 20 | 15% | 25% |  |
+| 21 | 7% | 10% |  |
+| 22 | 2% | 3% |  |
+| 23 | 0.5% | 0.6% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
