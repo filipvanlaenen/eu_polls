@@ -18,31 +18,31 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 88–97 | 87–98 | 86–99 | 84–101 |
+| Renew Europe | EU | 98 | 93 | 89–97 | 88–98 | 87–99 | 85–101 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Democraten 66 | NL | | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
-| Democraten 66 | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Centerpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Centerpartiet | SE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 0–3 | 0–3 | 0–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| Движение за права и свободи | BG | | 2 | 2 | 2 | 1–3 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -57,42 +57,41 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-06-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-06-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2021-07-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0% | 100% |  |
-| 83 | 0.1% | 99.9% |  |
-| 84 | 0.4% | 99.8% |  |
-| 85 | 0.8% | 99.4% |  |
-| 86 | 2% | 98.6% |  |
-| 87 | 3% | 97% |  |
-| 88 | 5% | 94% |  |
-| 89 | 7% | 89% |  |
-| 90 | 9% | 82% |  |
-| 91 | 11% | 73% |  |
-| 92 | 12% | 63% |  |
-| 93 | 12% | 51% | Median |
-| 94 | 11% | 39% |  |
-| 95 | 9% | 28% |  |
-| 96 | 7% | 19% |  |
+| 83 | 0.1% | 100% |  |
+| 84 | 0.3% | 99.9% |  |
+| 85 | 0.6% | 99.6% |  |
+| 86 | 1.3% | 99.0% |  |
+| 87 | 2% | 98% |  |
+| 88 | 4% | 95% |  |
+| 89 | 6% | 91% |  |
+| 90 | 9% | 85% |  |
+| 91 | 11% | 76% |  |
+| 92 | 12% | 65% |  |
+| 93 | 12% | 53% | Median |
+| 94 | 11% | 41% |  |
+| 95 | 10% | 29% |  |
+| 96 | 7% | 20% |  |
 | 97 | 5% | 12% |  |
 | 98 | 3% | 7% | Last Result |
 | 99 | 2% | 4% |  |
-| 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.0% |  |
-| 102 | 0.3% | 0.5% |  |
+| 100 | 1.0% | 2% |  |
+| 101 | 0.5% | 0.9% |  |
+| 102 | 0.2% | 0.4% |  |
 | 103 | 0.1% | 0.2% |  |
 | 104 | 0% | 0.1% |  |
 | 105 | 0% | 0% |  |
