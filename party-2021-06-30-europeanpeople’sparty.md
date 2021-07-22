@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **155** seats (-32 seats)
+Current median: **154** seats (-33 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–160 | 147–161 | 146–163 | 143–165 |
+| European People’s Party | EU | 187 | 154 | 148–159 | 146–161 | 145–162 | 142–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 19–23 | 17–24 | 16–24 | 16–25 |
 | Partido Popular | ES | | 18 | 15–20 | 15–20 | 15–21 | 14–21 |
 | Koalicja Obywatelska | PL | | 10 | 7–12 | 7–12 | 7–13 | 6–13 |
@@ -35,11 +35,11 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Демократична България | BG | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -75,36 +75,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 139 | 0% | 100% |  |
+| 139 | 0.1% | 100% |  |
 | 140 | 0.1% | 99.9% |  |
-| 141 | 0.1% | 99.9% |  |
-| 142 | 0.2% | 99.8% |  |
-| 143 | 0.4% | 99.5% |  |
-| 144 | 0.6% | 99.2% |  |
-| 145 | 1.0% | 98.5% |  |
-| 146 | 1.5% | 98% |  |
-| 147 | 2% | 96% |  |
-| 148 | 3% | 94% |  |
-| 149 | 4% | 91% |  |
-| 150 | 5% | 87% |  |
-| 151 | 6% | 82% |  |
-| 152 | 7% | 76% |  |
-| 153 | 8% | 69% |  |
-| 154 | 9% | 60% |  |
-| 155 | 9% | 51% | Median |
-| 156 | 9% | 42% |  |
-| 157 | 8% | 33% |  |
-| 158 | 7% | 25% |  |
-| 159 | 6% | 18% |  |
-| 160 | 4% | 12% |  |
-| 161 | 3% | 8% |  |
-| 162 | 2% | 5% |  |
-| 163 | 1.2% | 3% |  |
-| 164 | 0.7% | 1.4% |  |
-| 165 | 0.4% | 0.7% |  |
-| 166 | 0.2% | 0.3% |  |
-| 167 | 0.1% | 0.2% |  |
-| 168 | 0% | 0.1% |  |
+| 141 | 0.2% | 99.8% |  |
+| 142 | 0.3% | 99.6% |  |
+| 143 | 0.6% | 99.3% |  |
+| 144 | 0.9% | 98.7% |  |
+| 145 | 1.3% | 98% |  |
+| 146 | 2% | 96% |  |
+| 147 | 3% | 94% |  |
+| 148 | 4% | 92% |  |
+| 149 | 5% | 88% |  |
+| 150 | 6% | 83% |  |
+| 151 | 7% | 77% |  |
+| 152 | 8% | 70% |  |
+| 153 | 9% | 62% |  |
+| 154 | 9% | 53% | Median |
+| 155 | 9% | 44% |  |
+| 156 | 8% | 35% |  |
+| 157 | 7% | 27% |  |
+| 158 | 6% | 19% |  |
+| 159 | 5% | 13% |  |
+| 160 | 3% | 9% |  |
+| 161 | 2% | 5% |  |
+| 162 | 1.4% | 3% |  |
+| 163 | 0.8% | 2% |  |
+| 164 | 0.5% | 0.9% |  |
+| 165 | 0.2% | 0.4% |  |
+| 166 | 0.1% | 0.2% |  |
+| 167 | 0.1% | 0.1% |  |
+| 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |

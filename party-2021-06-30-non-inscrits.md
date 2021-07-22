@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 31–37 | 30–37 | 30–38 | 28–40 |
+| Non-Inscrits | EU | 29 | 34 | 31–37 | 30–37 | 30–38 | 28–39 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
@@ -33,7 +33,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Živi zid | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -50,7 +50,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 9% | 93% |  |
 | 32 | 13% | 85% |  |
 | 33 | 17% | 71% |  |
-| 34 | 17% | 55% | Median |
+| 34 | 17% | 54% | Median |
 | 35 | 15% | 37% |  |
 | 36 | 11% | 22% |  |
 | 37 | 6% | 11% |  |

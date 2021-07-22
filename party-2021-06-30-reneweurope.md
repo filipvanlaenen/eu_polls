@@ -22,13 +22,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| ANO 2011 | CZ | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Democraten 66 | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Centerpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -37,14 +36,15 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
+| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Laisvės partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,27 +74,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0% | 100% |  |
 | 83 | 0.1% | 99.9% |  |
-| 84 | 0.3% | 99.8% |  |
-| 85 | 0.8% | 99.5% |  |
-| 86 | 2% | 98.7% |  |
+| 84 | 0.4% | 99.8% |  |
+| 85 | 0.8% | 99.4% |  |
+| 86 | 2% | 98.6% |  |
 | 87 | 3% | 97% |  |
-| 88 | 4% | 94% |  |
-| 89 | 7% | 90% |  |
-| 90 | 9% | 83% |  |
-| 91 | 11% | 75% |  |
-| 92 | 12% | 64% |  |
-| 93 | 12% | 52% | Median |
-| 94 | 11% | 41% |  |
-| 95 | 9% | 30% |  |
-| 96 | 7% | 20% |  |
-| 97 | 5% | 13% |  |
-| 98 | 3% | 8% | Last Result |
+| 88 | 5% | 94% |  |
+| 89 | 7% | 89% |  |
+| 90 | 9% | 82% |  |
+| 91 | 11% | 73% |  |
+| 92 | 12% | 63% |  |
+| 93 | 12% | 51% | Median |
+| 94 | 11% | 39% |  |
+| 95 | 9% | 28% |  |
+| 96 | 7% | 19% |  |
+| 97 | 5% | 12% |  |
+| 98 | 3% | 7% | Last Result |
 | 99 | 2% | 4% |  |
-| 100 | 1.2% | 2% |  |
-| 101 | 0.6% | 1.1% |  |
+| 100 | 1.1% | 2% |  |
+| 101 | 0.6% | 1.0% |  |
 | 102 | 0.3% | 0.5% |  |
 | 103 | 0.1% | 0.2% |  |
-| 104 | 0.1% | 0.1% |  |
+| 104 | 0% | 0.1% |  |
 | 105 | 0% | 0% |  |
 
 
