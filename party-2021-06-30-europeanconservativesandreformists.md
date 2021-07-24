@@ -27,9 +27,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
@@ -37,7 +37,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Juiste Antwoord 2021 | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -63,20 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 7% | 87% |  |
 | 70 | 9% | 80% |  |
 | 71 | 10% | 71% |  |
-| 72 | 10% | 62% |  |
-| 73 | 10% | 52% | Median |
+| 72 | 10% | 61% |  |
+| 73 | 10% | 51% | Median |
 | 74 | 9% | 42% |  |
-| 75 | 8% | 33% |  |
-| 76 | 7% | 25% |  |
+| 75 | 8% | 32% |  |
+| 76 | 7% | 24% |  |
 | 77 | 6% | 17% |  |
 | 78 | 4% | 11% |  |
 | 79 | 3% | 7% |  |
 | 80 | 2% | 4% |  |
-| 81 | 1.1% | 2% |  |
+| 81 | 1.0% | 2% |  |
 | 82 | 0.5% | 0.9% |  |
 | 83 | 0.2% | 0.4% |  |
 | 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 85 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 134–147 | 132–149 | 130–150 | 127–152 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 134–147 | 132–148 | 130–150 | 127–152 |
 | Partito Democratico | IT | | 16 | 14–17 | 14–18 | 13–18 | 12–19 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 12–17 | 11–18 |
@@ -31,7 +31,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Lewica | PL | | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
-| Partit Laburista | MT | | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista | MT | | 4 | 4 | 4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -39,9 +39,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | SMER–sociálna demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,7 +55,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos socialdemokratų darbo partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | PRO România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -73,31 +73,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 128 | 0.5% | 99.2% |  |
 | 129 | 0.8% | 98.7% |  |
 | 130 | 1.1% | 98% |  |
-| 131 | 1.5% | 97% |  |
+| 131 | 2% | 97% |  |
 | 132 | 2% | 95% |  |
 | 133 | 3% | 93% |  |
-| 134 | 3% | 91% |  |
-| 135 | 4% | 88% |  |
-| 136 | 5% | 84% |  |
-| 137 | 5% | 79% |  |
-| 138 | 6% | 73% |  |
-| 139 | 7% | 67% |  |
-| 140 | 7% | 60% |  |
-| 141 | 8% | 53% | Median |
-| 142 | 8% | 45% |  |
-| 143 | 7% | 38% |  |
-| 144 | 7% | 30% |  |
-| 145 | 6% | 23% |  |
-| 146 | 5% | 17% |  |
-| 147 | 4% | 12% | Last Result |
-| 148 | 3% | 8% |  |
+| 134 | 3% | 90% |  |
+| 135 | 4% | 87% |  |
+| 136 | 5% | 83% |  |
+| 137 | 6% | 78% |  |
+| 138 | 6% | 72% |  |
+| 139 | 7% | 66% |  |
+| 140 | 8% | 59% |  |
+| 141 | 8% | 51% | Median |
+| 142 | 8% | 43% |  |
+| 143 | 7% | 36% |  |
+| 144 | 7% | 28% |  |
+| 145 | 6% | 22% |  |
+| 146 | 5% | 16% |  |
+| 147 | 4% | 11% | Last Result |
+| 148 | 3% | 7% |  |
 | 149 | 2% | 5% |  |
-| 150 | 1.3% | 3% |  |
-| 151 | 0.8% | 2% |  |
-| 152 | 0.5% | 1.0% |  |
-| 153 | 0.3% | 0.5% |  |
+| 150 | 1.2% | 3% |  |
+| 151 | 0.7% | 2% |  |
+| 152 | 0.4% | 0.8% |  |
+| 153 | 0.2% | 0.4% |  |
 | 154 | 0.1% | 0.2% |  |
-| 155 | 0.1% | 0.1% |  |
+| 155 | 0% | 0.1% |  |
 | 156 | 0% | 0% |  |
 
 
