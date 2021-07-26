@@ -19,8 +19,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 133–147 | 131–148 | 130–150 | 126–152 |
-| Partito Democratico | IT | | 16 | 14–17 | 14–18 | 13–18 | 12–19 |
-| Partido Socialista Obrero Español | ES | | 15 | 14–18 | 13–18 | 13–18 | 12–19 |
+| Partito Democratico | IT | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
+| Partido Socialista Obrero Español | ES | | 15 | 14–18 | 14–18 | 13–18 | 12–19 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 13–18 | 13–19 | 12–19 |
 | Partidul Social Democrat | RO | | 13 | 8–14 | 8–14 | 8–15 | 7–15 |
 | United Opposition | HU | | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Lewica | PL | | 4 | 3–5 | 3–5 | 2–5 | 0–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Българска социалистическа партия | BG | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Българска социалистическа партия | BG | | 3 | 3 | 3 | 3 | 3 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -69,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 124 | 0.1% | 99.9% |  |
 | 125 | 0.1% | 99.8% |  |
 | 126 | 0.2% | 99.7% |  |
-| 127 | 0.4% | 99.4% |  |
-| 128 | 0.6% | 99.0% |  |
+| 127 | 0.4% | 99.5% |  |
+| 128 | 0.6% | 99.1% |  |
 | 129 | 0.9% | 98% |  |
 | 130 | 1.2% | 98% |  |
 | 131 | 2% | 96% |  |
@@ -89,16 +89,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 6% | 27% |  |
 | 145 | 5% | 20% |  |
 | 146 | 4% | 15% |  |
-| 147 | 3% | 11% | Last Result |
-| 148 | 3% | 7% |  |
-| 149 | 2% | 5% |  |
-| 150 | 1.2% | 3% |  |
+| 147 | 3% | 10% | Last Result |
+| 148 | 2% | 7% |  |
+| 149 | 2% | 4% |  |
+| 150 | 1.1% | 3% |  |
 | 151 | 0.7% | 2% |  |
-| 152 | 0.4% | 0.9% |  |
-| 153 | 0.2% | 0.5% |  |
+| 152 | 0.4% | 0.8% |  |
+| 153 | 0.2% | 0.4% |  |
 | 154 | 0.1% | 0.2% |  |
 | 155 | 0.1% | 0.1% |  |
-| 156 | 0% | 0.1% |  |
-| 157 | 0% | 0% |  |
+| 156 | 0% | 0% |  |
 
 
