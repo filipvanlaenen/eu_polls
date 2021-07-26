@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (+18 seats)
+Current median: **16** seats (+16 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 18 | 16–21 | 16–21 | 15–22 | 14–23 |
-| Polska 2050 [PL] (*) | PL | | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 14–17 | 14–18 | 13–18 | 12–19 |
+| Polska 2050 [PL] (*) | PL | | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -62,19 +62,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 0.6% | 99.9% |  |
-| 15 | 3% | 99.3% |  |
-| 16 | 10% | 96% |  |
-| 17 | 16% | 86% |  |
-| 18 | 20% | 70% | Median |
-| 19 | 20% | 50% |  |
-| 20 | 16% | 29% |  |
-| 21 | 9% | 13% |  |
-| 22 | 3% | 4% |  |
-| 23 | 0.7% | 0.9% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 12 | 0.7% | 100% |  |
+| 13 | 4% | 99.3% |  |
+| 14 | 14% | 95% |  |
+| 15 | 26% | 81% |  |
+| 16 | 28% | 55% | Median |
+| 17 | 18% | 28% |  |
+| 18 | 7% | 9% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.3% | 0.3% |  |
+| 21 | 0% | 0% |  |
 
 
