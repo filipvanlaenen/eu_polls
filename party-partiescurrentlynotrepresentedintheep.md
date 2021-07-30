@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (+17 seats)
+Current median: **16** seats (+16 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
 | Polska 2050 [PL] (*) | PL | | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | Има такъв народ [BG] (*) | BG | | 5 | 5 | 5 | 5 | 5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -27,7 +27,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -63,15 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 3% | 99.8% |  |
-| 15 | 13% | 97% |  |
-| 16 | 27% | 84% |  |
-| 17 | 30% | 58% | Median |
-| 18 | 19% | 27% |  |
-| 19 | 7% | 8% |  |
-| 20 | 1.3% | 2% |  |
-| 21 | 0.2% | 0.2% |  |
-| 22 | 0% | 0% |  |
+| 13 | 0.8% | 100% |  |
+| 14 | 6% | 99.2% |  |
+| 15 | 19% | 93% |  |
+| 16 | 30% | 74% | Median |
+| 17 | 27% | 44% |  |
+| 18 | 13% | 18% |  |
+| 19 | 4% | 4% |  |
+| 20 | 0.5% | 0.6% |  |
+| 21 | 0% | 0% |  |
 
 
