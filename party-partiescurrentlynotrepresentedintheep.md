@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | Polska 2050 [PL] (*) | PL | | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | Има такъв народ [BG] (*) | BG | | 5 | 5 | 5 | 5 | 5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -33,7 +33,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,14 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.8% | 100% |  |
-| 14 | 6% | 99.2% |  |
-| 15 | 19% | 93% |  |
-| 16 | 30% | 74% | Median |
-| 17 | 27% | 44% |  |
-| 18 | 13% | 18% |  |
-| 19 | 4% | 4% |  |
-| 20 | 0.5% | 0.6% |  |
+| 13 | 0.9% | 100% |  |
+| 14 | 7% | 99.0% |  |
+| 15 | 21% | 92% |  |
+| 16 | 31% | 72% | Median |
+| 17 | 26% | 41% |  |
+| 18 | 12% | 15% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.3% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
 
