@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> CY, DK, ES, FI, GR, HR, HU, IT, PL, SI, SK
+> CY, DK, ES, FI, GR, HR, HU, IT, LT, PL, SI, SK
 
 ## Seats
 
@@ -10,9 +10,9 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **33** seats (+4 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> CY, DK, ES, GR, HU, IT, PL
+> CY, DK, ES, GR, HU, IT, LT, PL
 
 ### Confidence Intervals
 
@@ -22,6 +22,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 4 | 3–6 | 2–6 | 2–6 | 0–7 |
+| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |

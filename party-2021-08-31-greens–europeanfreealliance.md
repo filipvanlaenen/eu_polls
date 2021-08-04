@@ -10,9 +10,9 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **51** seats (-16 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, NL
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, LV, NL
 
 ### Confidence Intervals
 
@@ -32,6 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | GroenLinks | NL | | 1 | 1–2 | 1–3 | 0–3 | 0–3 |
+| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
