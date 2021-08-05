@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **91** seats (-7 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–96 | 87–97 | 86–98 | 85–100 |
+| Renew Europe | EU | 98 | 91 | 87–95 | 86–96 | 85–97 | 83–99 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 12 | 10–13 | 9–13 | 9–14 | 8–14 |
+| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–9 | 7–9 | 7–11 |
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Democraten 66 | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -33,7 +33,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 2 | 2 | 2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -60,7 +60,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -71,27 +71,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0% | 100% |  |
-| 83 | 0.1% | 99.9% |  |
-| 84 | 0.3% | 99.8% |  |
-| 85 | 0.7% | 99.5% |  |
-| 86 | 2% | 98.8% |  |
-| 87 | 3% | 97% |  |
-| 88 | 5% | 94% |  |
-| 89 | 8% | 89% |  |
-| 90 | 11% | 81% |  |
-| 91 | 13% | 71% |  |
-| 92 | 13% | 58% | Median |
-| 93 | 13% | 45% |  |
-| 94 | 11% | 32% |  |
-| 95 | 8% | 21% |  |
-| 96 | 6% | 13% |  |
-| 97 | 3% | 7% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.0% | 2% |  |
-| 100 | 0.4% | 0.7% |  |
-| 101 | 0.2% | 0.3% |  |
-| 102 | 0.1% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.5% | 99.7% |  |
+| 84 | 1.0% | 99.3% |  |
+| 85 | 2% | 98% |  |
+| 86 | 4% | 96% |  |
+| 87 | 6% | 93% |  |
+| 88 | 9% | 87% |  |
+| 89 | 11% | 78% |  |
+| 90 | 13% | 67% |  |
+| 91 | 13% | 54% | Median |
+| 92 | 12% | 41% |  |
+| 93 | 10% | 29% |  |
+| 94 | 8% | 19% |  |
+| 95 | 5% | 11% |  |
+| 96 | 3% | 6% |  |
+| 97 | 2% | 3% |  |
+| 98 | 0.8% | 1.4% | Last Result |
+| 99 | 0.4% | 0.6% |  |
+| 100 | 0.1% | 0.2% |  |
+| 101 | 0% | 0.1% |  |
+| 102 | 0% | 0% |  |
 
 
