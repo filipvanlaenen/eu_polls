@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 150–162 | 149–164 | 147–165 | 144–168 |
+| European People’s Party | EU | 187 | 156 | 150–162 | 148–164 | 147–165 | 144–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 18–23 | 18–23 | 17–24 | 16–25 |
 | Partido Popular | ES | | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
 | Koalicja Obywatelska | PL | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
@@ -32,7 +32,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 5 | 5 | 5 | 5 |
+| Граждани за европейско развитие на България | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
@@ -40,7 +40,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| Демократична България | BG | | 2 | 2 | 2 | 2 | 2 |
+| Демократична България | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -52,6 +52,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Изправи се Бг | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +66,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
-| Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -77,34 +77,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 141 | 0% | 100% |  |
 | 142 | 0.1% | 99.9% |  |
-| 143 | 0.1% | 99.9% |  |
+| 143 | 0.2% | 99.8% |  |
 | 144 | 0.3% | 99.7% |  |
 | 145 | 0.5% | 99.4% |  |
-| 146 | 0.8% | 99.0% |  |
-| 147 | 1.2% | 98% |  |
+| 146 | 0.8% | 98.9% |  |
+| 147 | 1.3% | 98% |  |
 | 148 | 2% | 97% |  |
 | 149 | 3% | 95% |  |
-| 150 | 4% | 93% |  |
+| 150 | 4% | 92% |  |
 | 151 | 5% | 89% |  |
 | 152 | 6% | 84% |  |
-| 153 | 7% | 79% |  |
-| 154 | 8% | 72% |  |
+| 153 | 7% | 78% |  |
+| 154 | 8% | 71% |  |
 | 155 | 8% | 64% |  |
 | 156 | 9% | 55% | Median |
 | 157 | 9% | 47% |  |
 | 158 | 8% | 38% |  |
 | 159 | 7% | 30% |  |
 | 160 | 6% | 23% |  |
-| 161 | 5% | 16% |  |
+| 161 | 5% | 17% |  |
 | 162 | 4% | 12% |  |
 | 163 | 3% | 8% |  |
 | 164 | 2% | 5% |  |
 | 165 | 1.3% | 3% |  |
 | 166 | 0.8% | 2% |  |
-| 167 | 0.5% | 1.0% |  |
+| 167 | 0.5% | 1.1% |  |
 | 168 | 0.3% | 0.6% |  |
-| 169 | 0.1% | 0.3% |  |
-| 170 | 0.1% | 0.1% |  |
+| 169 | 0.2% | 0.3% |  |
+| 170 | 0.1% | 0.2% |  |
 | 171 | 0% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |

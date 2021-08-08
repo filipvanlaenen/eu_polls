@@ -35,12 +35,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| Движение за права и свободи | BG | | 2 | 2 | 2 | 2 | 2 |
+| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -74,22 +74,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 0.1% | 100% |  |
 | 82 | 0.2% | 99.9% |  |
 | 83 | 0.4% | 99.8% |  |
-| 84 | 0.9% | 99.4% |  |
+| 84 | 0.9% | 99.3% |  |
 | 85 | 2% | 98% |  |
 | 86 | 3% | 97% |  |
 | 87 | 5% | 93% |  |
 | 88 | 8% | 88% |  |
-| 89 | 10% | 81% |  |
-| 90 | 12% | 71% |  |
+| 89 | 10% | 80% |  |
+| 90 | 12% | 70% |  |
 | 91 | 13% | 59% | Median |
-| 92 | 13% | 46% |  |
+| 92 | 12% | 46% |  |
 | 93 | 11% | 33% |  |
-| 94 | 9% | 22% |  |
+| 94 | 9% | 23% |  |
 | 95 | 6% | 14% |  |
 | 96 | 4% | 8% |  |
 | 97 | 2% | 4% |  |
 | 98 | 1.1% | 2% | Last Result |
-| 99 | 0.5% | 0.8% |  |
+| 99 | 0.5% | 0.9% |  |
 | 100 | 0.2% | 0.3% |  |
 | 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |
