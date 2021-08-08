@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (+17 seats)
+Current median: **15** seats (+15 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| Parties currently not represented in the EP | EU | 0 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Polska 2050 [PL] (*) | PL | | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
-| Има такъв народ [BG] (*) | BG | | 5 | 5 | 5 | 5 | 5 |
+| Има такъв народ [BG] (*) | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -40,7 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -61,17 +61,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 3% | 99.8% |  |
-| 15 | 13% | 97% |  |
-| 16 | 27% | 84% |  |
-| 17 | 30% | 58% | Median |
-| 18 | 19% | 27% |  |
-| 19 | 7% | 8% |  |
-| 20 | 1.3% | 2% |  |
-| 21 | 0.2% | 0.2% |  |
-| 22 | 0% | 0% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.3% | 99.9% |  |
+| 13 | 7% | 98.6% |  |
+| 14 | 19% | 92% |  |
+| 15 | 28% | 73% | Median |
+| 16 | 26% | 45% |  |
+| 17 | 14% | 19% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.9% | 1.0% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
