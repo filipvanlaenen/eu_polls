@@ -20,7 +20,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 91 | 87–95 | 86–96 | 85–97 | 83–99 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
+| Freie Demokratische Partei | DE | | 12 | 9–13 | 9–14 | 9–14 | 9–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–9 | 7–9 | 7–11 |
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Democraten 66 | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -35,7 +35,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -71,25 +71,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0.1% | 100% |  |
+| 81 | 0% | 100% |  |
 | 82 | 0.1% | 99.9% |  |
 | 83 | 0.4% | 99.8% |  |
-| 84 | 0.9% | 99.4% |  |
-| 85 | 2% | 98.5% |  |
+| 84 | 0.8% | 99.4% |  |
+| 85 | 2% | 98.6% |  |
 | 86 | 3% | 97% |  |
-| 87 | 5% | 93% |  |
-| 88 | 8% | 88% |  |
-| 89 | 10% | 80% |  |
-| 90 | 12% | 70% |  |
-| 91 | 13% | 58% | Median |
-| 92 | 12% | 45% |  |
+| 87 | 5% | 94% |  |
+| 88 | 8% | 89% |  |
+| 89 | 10% | 81% |  |
+| 90 | 12% | 71% |  |
+| 91 | 13% | 59% | Median |
+| 92 | 13% | 46% |  |
 | 93 | 11% | 33% |  |
-| 94 | 8% | 22% |  |
+| 94 | 9% | 23% |  |
 | 95 | 6% | 14% |  |
 | 96 | 4% | 8% |  |
 | 97 | 2% | 4% |  |
 | 98 | 1.1% | 2% | Last Result |
-| 99 | 0.5% | 0.8% |  |
+| 99 | 0.5% | 0.9% |  |
 | 100 | 0.2% | 0.3% |  |
 | 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |
