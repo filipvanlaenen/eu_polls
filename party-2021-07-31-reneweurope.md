@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–95 | 86–96 | 85–97 | 83–99 |
+| Renew Europe | EU | 98 | 91 | 87–95 | 86–97 | 85–97 | 84–99 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 12 | 9–13 | 9–14 | 9–14 | 9–15 |
+| Freie Demokratische Partei | DE | | 12 | 10–13 | 9–13 | 9–14 | 8–14 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–9 | 7–9 | 7–11 |
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Democraten 66 | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -40,7 +40,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -73,25 +73,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0% | 100% |  |
 | 82 | 0.1% | 99.9% |  |
-| 83 | 0.4% | 99.8% |  |
-| 84 | 0.8% | 99.4% |  |
-| 85 | 2% | 98.6% |  |
+| 83 | 0.3% | 99.8% |  |
+| 84 | 0.7% | 99.5% |  |
+| 85 | 2% | 98.8% |  |
 | 86 | 3% | 97% |  |
 | 87 | 5% | 94% |  |
-| 88 | 8% | 89% |  |
-| 89 | 10% | 81% |  |
-| 90 | 12% | 71% |  |
-| 91 | 13% | 59% | Median |
-| 92 | 13% | 46% |  |
-| 93 | 11% | 33% |  |
-| 94 | 9% | 23% |  |
-| 95 | 6% | 14% |  |
-| 96 | 4% | 8% |  |
-| 97 | 2% | 4% |  |
-| 98 | 1.1% | 2% | Last Result |
-| 99 | 0.5% | 0.9% |  |
-| 100 | 0.2% | 0.3% |  |
-| 101 | 0.1% | 0.1% |  |
-| 102 | 0% | 0% |  |
+| 88 | 7% | 90% |  |
+| 89 | 10% | 83% |  |
+| 90 | 12% | 73% |  |
+| 91 | 13% | 62% | Median |
+| 92 | 13% | 49% |  |
+| 93 | 11% | 36% |  |
+| 94 | 9% | 25% |  |
+| 95 | 7% | 16% |  |
+| 96 | 4% | 9% |  |
+| 97 | 3% | 5% |  |
+| 98 | 1.4% | 2% | Last Result |
+| 99 | 0.7% | 1.1% |  |
+| 100 | 0.3% | 0.4% |  |
+| 101 | 0.1% | 0.2% |  |
+| 102 | 0% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 
