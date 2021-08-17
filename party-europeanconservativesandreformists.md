@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **74** seats (+13 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CZ, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
+> BE, CZ, DE, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -20,7 +20,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 61 | 74 | 69–79 | 68–80 | 67–81 | 65–83 |
 | Zjednoczona Prawica | PL | | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
-| Fratelli d’Italia | IT | | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
+| Fratelli d’Italia | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
@@ -28,6 +28,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -35,7 +36,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -47,9 +47,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-07-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -69,12 +69,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 10% | 51% | Median |
 | 75 | 9% | 41% |  |
 | 76 | 8% | 32% |  |
-| 77 | 7% | 23% |  |
+| 77 | 7% | 24% |  |
 | 78 | 6% | 16% |  |
 | 79 | 4% | 11% |  |
 | 80 | 3% | 6% |  |
 | 81 | 2% | 3% |  |
-| 82 | 0.9% | 2% |  |
+| 82 | 1.0% | 2% |  |
 | 83 | 0.4% | 0.7% |  |
 | 84 | 0.2% | 0.3% |  |
 | 85 | 0.1% | 0.1% |  |
