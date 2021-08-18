@@ -25,10 +25,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Democraten 66 | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 0–3 | 0–3 | 0–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
@@ -77,18 +77,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 1.3% | 99.0% |  |
 | 86 | 2% | 98% |  |
 | 87 | 4% | 95% |  |
-| 88 | 6% | 91% |  |
+| 88 | 7% | 91% |  |
 | 89 | 9% | 85% |  |
 | 90 | 11% | 76% |  |
 | 91 | 13% | 64% |  |
 | 92 | 13% | 52% | Median |
 | 93 | 12% | 39% |  |
 | 94 | 10% | 27% |  |
-| 95 | 7% | 18% |  |
+| 95 | 7% | 17% |  |
 | 96 | 5% | 10% |  |
 | 97 | 3% | 6% |  |
 | 98 | 2% | 3% | Last Result |
-| 99 | 0.8% | 1.3% |  |
+| 99 | 0.7% | 1.3% |  |
 | 100 | 0.3% | 0.5% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0% | 0.1% |  |

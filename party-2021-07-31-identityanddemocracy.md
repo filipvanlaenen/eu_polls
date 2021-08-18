@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3 |
 | Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -48,10 +48,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 3% | 98% |  |
 | 71 | 6% | 94% |  |
 | 72 | 9% | 88% |  |
-| 73 | 13% | 79% |  |
+| 73 | 12% | 79% |  |
 | 74 | 14% | 67% |  |
 | 75 | 15% | 52% | Median |
-| 76 | 13% | 37% | Last Result |
+| 76 | 13% | 38% | Last Result |
 | 77 | 10% | 25% |  |
 | 78 | 7% | 14% |  |
 | 79 | 4% | 8% |  |
