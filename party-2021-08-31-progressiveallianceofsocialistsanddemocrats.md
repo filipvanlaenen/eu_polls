@@ -10,18 +10,18 @@ Last result: **147** seats (General Election of 26 May 2019)
 
 Current median: **141** seats (-6 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **27 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 134–147 | 133–149 | 131–150 | 128–153 |
-| Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–19 | 14–20 | 14–20 | 12–21 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 135–147 | 133–149 | 131–150 | 128–153 |
+| Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–20 | 14–20 | 14–21 | 12–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
-| Partito Democratico | IT | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| Partito Democratico | IT | | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | Partidul Social Democrat | RO | | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | United Opposition | HU | | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -44,6 +44,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -54,7 +55,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -67,35 +67,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 125 | 0% | 100% |  |
 | 126 | 0.1% | 99.9% |  |
 | 127 | 0.2% | 99.8% |  |
-| 128 | 0.3% | 99.6% |  |
-| 129 | 0.5% | 99.3% |  |
-| 130 | 0.8% | 98.8% |  |
-| 131 | 1.2% | 98% |  |
+| 128 | 0.3% | 99.7% |  |
+| 129 | 0.5% | 99.4% |  |
+| 130 | 0.8% | 98.9% |  |
+| 131 | 1.1% | 98% |  |
 | 132 | 2% | 97% |  |
 | 133 | 2% | 95% |  |
 | 134 | 3% | 93% |  |
 | 135 | 4% | 90% |  |
-| 136 | 4% | 86% |  |
-| 137 | 5% | 82% |  |
-| 138 | 6% | 77% |  |
-| 139 | 7% | 70% |  |
-| 140 | 8% | 63% |  |
-| 141 | 8% | 56% | Median |
-| 142 | 8% | 48% |  |
-| 143 | 8% | 40% |  |
-| 144 | 7% | 32% |  |
-| 145 | 6% | 24% |  |
-| 146 | 5% | 18% |  |
-| 147 | 4% | 13% | Last Result |
-| 148 | 3% | 9% |  |
-| 149 | 2% | 6% |  |
-| 150 | 1.4% | 3% |  |
-| 151 | 0.9% | 2% |  |
-| 152 | 0.5% | 1.1% |  |
-| 153 | 0.3% | 0.6% |  |
-| 154 | 0.2% | 0.3% |  |
-| 155 | 0.1% | 0.1% |  |
-| 156 | 0% | 0.1% |  |
+| 136 | 4% | 87% |  |
+| 137 | 5% | 83% |  |
+| 138 | 6% | 78% |  |
+| 139 | 7% | 72% |  |
+| 140 | 7% | 65% |  |
+| 141 | 8% | 57% | Median |
+| 142 | 8% | 49% |  |
+| 143 | 8% | 41% |  |
+| 144 | 7% | 34% |  |
+| 145 | 6% | 26% |  |
+| 146 | 5% | 20% |  |
+| 147 | 4% | 14% | Last Result |
+| 148 | 3% | 10% |  |
+| 149 | 2% | 7% |  |
+| 150 | 2% | 4% |  |
+| 151 | 1.1% | 2% |  |
+| 152 | 0.6% | 1.4% |  |
+| 153 | 0.4% | 0.8% |  |
+| 154 | 0.2% | 0.4% |  |
+| 155 | 0.1% | 0.2% |  |
+| 156 | 0.1% | 0.1% |  |
 | 157 | 0% | 0% |  |
 
 
