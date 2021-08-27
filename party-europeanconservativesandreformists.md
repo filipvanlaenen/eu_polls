@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **73** seats (+12 seats)
+Current median: **74** seats (+13 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 73 | 69–78 | 68–80 | 66–81 | 65–83 |
-| Zjednoczona Prawica | PL | | 19 | 18–21 | 18–21 | 18–22 | 17–23 |
-| Fratelli d’Italia | IT | | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
-| Vox | ES | | 10 | 7–11 | 7–11 | 6–11 | 6–11 |
-| Alianța pentru Unirea Românilor | RO | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
+| European Conservatives and Reformists | EU | 61 | 74 | 69–79 | 68–80 | 67–81 | 65–83 |
+| Zjednoczona Prawica | PL | | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
+| Fratelli d’Italia | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| Alianța pentru Unirea Românilor | RO | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
@@ -47,37 +47,37 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-07-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
-| 63 | 0.1% | 99.9% |  |
-| 64 | 0.3% | 99.8% |  |
-| 65 | 0.7% | 99.5% |  |
-| 66 | 1.4% | 98.9% |  |
-| 67 | 2% | 97% |  |
-| 68 | 4% | 95% |  |
-| 69 | 6% | 91% |  |
-| 70 | 8% | 85% |  |
-| 71 | 9% | 78% |  |
-| 72 | 10% | 68% |  |
-| 73 | 10% | 59% | Median |
-| 74 | 10% | 48% |  |
-| 75 | 9% | 39% |  |
-| 76 | 8% | 30% |  |
-| 77 | 7% | 22% |  |
-| 78 | 5% | 15% |  |
-| 79 | 4% | 9% |  |
-| 80 | 3% | 5% |  |
+| 63 | 0.1% | 100% |  |
+| 64 | 0.3% | 99.9% |  |
+| 65 | 0.6% | 99.6% |  |
+| 66 | 1.2% | 99.0% |  |
+| 67 | 2% | 98% |  |
+| 68 | 4% | 96% |  |
+| 69 | 5% | 92% |  |
+| 70 | 7% | 86% |  |
+| 71 | 9% | 79% |  |
+| 72 | 10% | 70% |  |
+| 73 | 10% | 61% |  |
+| 74 | 10% | 51% | Median |
+| 75 | 9% | 41% |  |
+| 76 | 8% | 32% |  |
+| 77 | 7% | 24% |  |
+| 78 | 6% | 16% |  |
+| 79 | 4% | 11% |  |
+| 80 | 3% | 6% |  |
 | 81 | 2% | 3% |  |
-| 82 | 0.8% | 1.3% |  |
-| 83 | 0.3% | 0.5% |  |
-| 84 | 0.1% | 0.2% |  |
-| 85 | 0% | 0.1% |  |
+| 82 | 1.0% | 2% |  |
+| 83 | 0.4% | 0.7% |  |
+| 84 | 0.2% | 0.3% |  |
+| 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |
 
 

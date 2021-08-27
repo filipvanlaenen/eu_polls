@@ -20,7 +20,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 16 | 11–18 | 11–18 | 10–19 | 9–20 |
 | Polska 2050 [PL] (*) | PL | | 10 | 6–11 | 5–12 | 5–12 | 5–12 |
-| Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 8% | 90% |  |
 | 13 | 6% | 82% |  |
 | 14 | 8% | 76% |  |
-| 15 | 16% | 68% |  |
+| 15 | 16% | 67% |  |
 | 16 | 21% | 51% | Median |
 | 17 | 17% | 30% |  |
 | 18 | 9% | 12% |  |
