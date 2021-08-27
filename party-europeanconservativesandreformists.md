@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -18,13 +18,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 74 | 69–79 | 68–80 | 67–81 | 65–83 |
-| Zjednoczona Prawica | PL | | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
-| Fratelli d’Italia | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
-| Alianța pentru Unirea Românilor | RO | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
+| European Conservatives and Reformists | EU | 61 | 74 | 69–80 | 68–81 | 67–82 | 65–84 |
+| Zjednoczona Prawica | PL | | 20 | 18–23 | 18–23 | 18–24 | 17–25 |
+| Fratelli d’Italia | IT | | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
+| Vox | ES | | 10 | 7–11 | 7–11 | 6–11 | 6–11 |
+| Alianța pentru Unirea Românilor | RO | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| Sverigedemokraterna | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
@@ -42,42 +42,41 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
-| Българските патриоти | BG | | 0 | 0 | 0 | 0 | 0 |
-| ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-07-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-07-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
 | 63 | 0.1% | 100% |  |
-| 64 | 0.3% | 99.9% |  |
-| 65 | 0.6% | 99.6% |  |
-| 66 | 1.2% | 99.0% |  |
+| 64 | 0.2% | 99.9% |  |
+| 65 | 0.5% | 99.7% |  |
+| 66 | 1.0% | 99.2% |  |
 | 67 | 2% | 98% |  |
-| 68 | 4% | 96% |  |
-| 69 | 5% | 92% |  |
-| 70 | 7% | 86% |  |
-| 71 | 9% | 79% |  |
-| 72 | 10% | 70% |  |
-| 73 | 10% | 61% |  |
-| 74 | 10% | 51% | Median |
-| 75 | 9% | 41% |  |
-| 76 | 8% | 32% |  |
-| 77 | 7% | 24% |  |
-| 78 | 6% | 16% |  |
-| 79 | 4% | 11% |  |
-| 80 | 3% | 6% |  |
-| 81 | 2% | 3% |  |
-| 82 | 1.0% | 2% |  |
-| 83 | 0.4% | 0.7% |  |
-| 84 | 0.2% | 0.3% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 68 | 3% | 97% |  |
+| 69 | 4% | 94% |  |
+| 70 | 6% | 89% |  |
+| 71 | 8% | 83% |  |
+| 72 | 9% | 76% |  |
+| 73 | 9% | 67% |  |
+| 74 | 10% | 57% | Median |
+| 75 | 9% | 48% |  |
+| 76 | 9% | 38% |  |
+| 77 | 8% | 30% |  |
+| 78 | 7% | 22% |  |
+| 79 | 5% | 15% |  |
+| 80 | 4% | 10% |  |
+| 81 | 3% | 6% |  |
+| 82 | 2% | 3% |  |
+| 83 | 1.0% | 2% |  |
+| 84 | 0.5% | 0.8% |  |
+| 85 | 0.2% | 0.3% |  |
+| 86 | 0.1% | 0.1% |  |
+| 87 | 0% | 0% |  |
 
 
