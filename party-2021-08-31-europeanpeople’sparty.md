@@ -21,7 +21,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 187 | 155 | 148–161 | 147–163 | 145–165 | 143–168 |
 | Partido Popular | ES | | 18 | 17–21 | 17–21 | 17–21 | 15–22 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–21 | 15–22 | 15–23 | 14–24 |
-| Koalicja Obywatelska | PL | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 5–11 | 5–11 | 4–11 |
 | Νέα Δημοκρατία | GR | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
@@ -97,7 +97,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 6% | 29% |  |
 | 159 | 5% | 22% |  |
 | 160 | 4% | 17% |  |
-| 161 | 4% | 12% |  |
+| 161 | 4% | 13% |  |
 | 162 | 3% | 9% |  |
 | 163 | 2% | 6% |  |
 | 164 | 1.5% | 4% |  |
