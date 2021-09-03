@@ -28,7 +28,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 3% | 99.6% |  |
 | 10 | 9% | 97% |  |
 | 11 | 15% | 87% |  |
-| 12 | 14% | 73% |  |
+| 12 | 14% | 72% |  |
 | 13 | 10% | 59% | Median |
 | 14 | 11% | 49% |  |
 | 15 | 15% | 39% |  |
@@ -72,7 +72,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 7% | 10% |  |
 | 18 | 2% | 3% |  |
 | 19 | 0.4% | 0.5% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
 
 

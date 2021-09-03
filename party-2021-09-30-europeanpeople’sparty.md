@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 151 | 145–157 | 144–159 | 142–161 | 139–164 |
+| European People’s Party | EU | 187 | 151 | 145–158 | 144–159 | 142–161 | 139–164 |
 | Partido Popular | ES | | 18 | 15–20 | 14–21 | 14–21 | 13–21 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 15–19 | 14–21 | 14–21 | 14–22 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
@@ -27,11 +27,11 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
-| Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 4–6 | 3–6 | 3–7 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -43,7 +43,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Christen-Democratisch Appèl | NL | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -55,7 +55,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -78,7 +78,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 136 | 0% | 100% |  |
 | 137 | 0.1% | 99.9% |  |
-| 138 | 0.1% | 99.9% |  |
+| 138 | 0.2% | 99.9% |  |
 | 139 | 0.3% | 99.7% |  |
 | 140 | 0.5% | 99.4% |  |
 | 141 | 0.8% | 99.0% |  |
@@ -86,13 +86,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 2% | 97% |  |
 | 144 | 3% | 95% |  |
 | 145 | 3% | 93% |  |
-| 146 | 4% | 89% |  |
+| 146 | 5% | 89% |  |
 | 147 | 6% | 85% |  |
 | 148 | 7% | 79% |  |
-| 149 | 7% | 73% |  |
+| 149 | 8% | 72% |  |
 | 150 | 8% | 65% |  |
 | 151 | 8% | 57% | Median |
-| 152 | 8% | 49% |  |
+| 152 | 8% | 48% |  |
 | 153 | 8% | 40% |  |
 | 154 | 7% | 32% |  |
 | 155 | 6% | 25% |  |
@@ -100,15 +100,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 4% | 14% |  |
 | 158 | 3% | 10% |  |
 | 159 | 2% | 7% |  |
-| 160 | 2% | 4% |  |
+| 160 | 2% | 5% |  |
 | 161 | 1.1% | 3% |  |
-| 162 | 0.7% | 2% |  |
-| 163 | 0.4% | 1.0% |  |
-| 164 | 0.3% | 0.6% |  |
-| 165 | 0.2% | 0.3% |  |
+| 162 | 0.8% | 2% |  |
+| 163 | 0.5% | 1.2% |  |
+| 164 | 0.3% | 0.7% |  |
+| 165 | 0.2% | 0.4% |  |
 | 166 | 0.1% | 0.2% |  |
-| 167 | 0% | 0.1% |  |
-| 168 | 0% | 0% |  |
+| 167 | 0.1% | 0.1% |  |
+| 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
