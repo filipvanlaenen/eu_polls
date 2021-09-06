@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **13** seats (+13 seats)
+Current median: **14** seats (+14 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 13 | 10–17 | 10–17 | 9–18 | 9–18 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 10–17 | 10–17 | 9–18 | 9–19 |
 | Polska 2050 [PL] (*) | PL | | 8 | 5–11 | 5–11 | 5–11 | 5–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -34,9 +34,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,18 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.4% | 100% |  |
-| 9 | 3% | 99.6% |  |
-| 10 | 9% | 97% |  |
-| 11 | 15% | 87% |  |
-| 12 | 14% | 72% |  |
-| 13 | 10% | 59% | Median |
-| 14 | 11% | 49% |  |
-| 15 | 15% | 39% |  |
-| 16 | 14% | 24% |  |
-| 17 | 7% | 10% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.4% | 0.5% |  |
-| 20 | 0% | 0% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 2% | 99.7% |  |
+| 10 | 8% | 97% |  |
+| 11 | 14% | 90% |  |
+| 12 | 14% | 76% |  |
+| 13 | 11% | 62% |  |
+| 14 | 10% | 51% | Median |
+| 15 | 14% | 41% |  |
+| 16 | 14% | 27% |  |
+| 17 | 9% | 13% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.7% | 0.8% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 

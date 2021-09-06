@@ -8,17 +8,17 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **52** seats (-15 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, NL
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 45–56 | 43–57 | 41–59 |
+| Greens–European Free Alliance | EU | 67 | 52 | 47–56 | 45–57 | 44–58 | 41–60 |
 | Bündnis 90/Die Grünen | DE | | 16 | 14–19 | 14–19 | 14–19 | 13–20 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -32,6 +32,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
@@ -44,8 +46,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,28 +64,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
-| 41 | 0.4% | 99.7% |  |
-| 42 | 0.8% | 99.2% |  |
-| 43 | 1.3% | 98% |  |
-| 44 | 2% | 97% |  |
-| 45 | 3% | 95% |  |
-| 46 | 4% | 92% |  |
-| 47 | 6% | 88% |  |
-| 48 | 8% | 82% |  |
-| 49 | 10% | 74% |  |
-| 50 | 11% | 64% |  |
-| 51 | 11% | 54% | Median |
-| 52 | 11% | 42% |  |
-| 53 | 9% | 32% |  |
-| 54 | 8% | 22% |  |
-| 55 | 6% | 15% |  |
-| 56 | 4% | 9% |  |
-| 57 | 2% | 5% |  |
-| 58 | 1.4% | 2% |  |
-| 59 | 0.7% | 1.0% |  |
-| 60 | 0.3% | 0.4% |  |
-| 61 | 0.1% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 41 | 0.3% | 99.7% |  |
+| 42 | 0.6% | 99.4% |  |
+| 43 | 1.0% | 98.8% |  |
+| 44 | 2% | 98% |  |
+| 45 | 2% | 96% |  |
+| 46 | 4% | 94% |  |
+| 47 | 5% | 90% |  |
+| 48 | 7% | 85% |  |
+| 49 | 8% | 79% |  |
+| 50 | 10% | 70% |  |
+| 51 | 11% | 61% |  |
+| 52 | 11% | 50% | Median |
+| 53 | 10% | 39% |  |
+| 54 | 9% | 29% |  |
+| 55 | 7% | 20% |  |
+| 56 | 5% | 13% |  |
+| 57 | 4% | 7% |  |
+| 58 | 2% | 4% |  |
+| 59 | 1.1% | 2% |  |
+| 60 | 0.5% | 0.7% |  |
+| 61 | 0.2% | 0.2% |  |
+| 62 | 0% | 0.1% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
