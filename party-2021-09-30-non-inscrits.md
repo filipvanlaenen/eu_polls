@@ -18,13 +18,13 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 35 | 33–37 | 32–38 | 32–38 | 31–39 |
-| Movimento 5 Stelle | IT | | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| Non-Inscrits | EU | 29 | 35 | 33–37 | 32–38 | 32–39 | 31–40 |
+| Movimento 5 Stelle | IT | | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,18 +44,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% | Last Result |
-| 30 | 0.4% | 99.9% |  |
-| 31 | 2% | 99.6% |  |
-| 32 | 6% | 98% |  |
-| 33 | 14% | 92% |  |
-| 34 | 22% | 78% |  |
-| 35 | 24% | 56% | Median |
-| 36 | 18% | 32% |  |
-| 37 | 9% | 14% |  |
-| 38 | 4% | 5% |  |
-| 39 | 1.1% | 1.4% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0% | 0% |  |
+| 29 | 0% | 100% | Last Result |
+| 30 | 0.2% | 99.9% |  |
+| 31 | 1.1% | 99.7% |  |
+| 32 | 4% | 98.7% |  |
+| 33 | 10% | 95% |  |
+| 34 | 18% | 85% |  |
+| 35 | 23% | 67% | Median |
+| 36 | 21% | 44% |  |
+| 37 | 14% | 23% |  |
+| 38 | 6% | 9% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.5% | 0.6% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
