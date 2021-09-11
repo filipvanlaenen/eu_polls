@@ -19,18 +19,18 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 151 | 145–156 | 143–158 | 142–159 | 139–162 |
-| Partido Popular | ES | | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
-| Christlich Demokratische Union Deutschlands | DE | | 16 | 13–18 | 13–18 | 13–19 | 12–20 |
+| Partido Popular | ES | | 18 | 15–20 | 14–20 | 14–20 | 13–21 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 13–18 | 13–18 | 13–18 | 12–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 5–11 | 5–11 | 4–11 |
-| Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Moderata samlingspartiet | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -56,7 +56,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
+| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -76,32 +76,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 137 | 0.1% | 100% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0.3% | 99.7% |  |
-| 140 | 0.5% | 99.5% |  |
-| 141 | 0.8% | 99.0% |  |
-| 142 | 1.3% | 98% |  |
-| 143 | 2% | 97% |  |
-| 144 | 3% | 95% |  |
-| 145 | 4% | 92% |  |
-| 146 | 5% | 88% |  |
-| 147 | 6% | 83% |  |
-| 148 | 7% | 77% |  |
-| 149 | 8% | 69% |  |
-| 150 | 9% | 61% |  |
-| 151 | 9% | 52% | Median |
-| 152 | 9% | 43% |  |
-| 153 | 8% | 34% |  |
-| 154 | 7% | 26% |  |
-| 155 | 6% | 20% |  |
-| 156 | 4% | 14% |  |
-| 157 | 3% | 10% |  |
+| 136 | 0.1% | 100% |  |
+| 137 | 0.1% | 99.9% |  |
+| 138 | 0.2% | 99.8% |  |
+| 139 | 0.4% | 99.6% |  |
+| 140 | 0.6% | 99.2% |  |
+| 141 | 1.0% | 98.6% |  |
+| 142 | 2% | 98% |  |
+| 143 | 2% | 96% |  |
+| 144 | 3% | 94% |  |
+| 145 | 4% | 91% |  |
+| 146 | 5% | 87% |  |
+| 147 | 6% | 81% |  |
+| 148 | 7% | 75% |  |
+| 149 | 8% | 67% |  |
+| 150 | 9% | 59% |  |
+| 151 | 9% | 50% | Median |
+| 152 | 8% | 42% |  |
+| 153 | 8% | 33% |  |
+| 154 | 7% | 25% |  |
+| 155 | 5% | 19% |  |
+| 156 | 4% | 13% |  |
+| 157 | 3% | 9% |  |
 | 158 | 2% | 6% |  |
 | 159 | 2% | 4% |  |
 | 160 | 1.0% | 2% |  |
-| 161 | 0.6% | 1.4% |  |
-| 162 | 0.4% | 0.8% |  |
+| 161 | 0.6% | 1.3% |  |
+| 162 | 0.4% | 0.7% |  |
 | 163 | 0.2% | 0.4% |  |
 | 164 | 0.1% | 0.2% |  |
 | 165 | 0.1% | 0.1% |  |

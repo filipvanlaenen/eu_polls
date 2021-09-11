@@ -32,7 +32,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 10% | 51% | Median |
 | 15 | 14% | 41% |  |
 | 16 | 14% | 27% |  |
-| 17 | 9% | 12% |  |
+| 17 | 9% | 13% |  |
 | 18 | 3% | 4% |  |
-| 19 | 0.5% | 0.6% |  |
-| 20 | 0% | 0.1% |  |
+| 19 | 0.6% | 0.6% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 

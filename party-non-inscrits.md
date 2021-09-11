@@ -24,9 +24,9 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -45,13 +45,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.2% | 100% | Last Result |
-| 30 | 0.7% | 99.8% |  |
-| 31 | 3% | 99.1% |  |
+| 30 | 0.8% | 99.8% |  |
+| 31 | 3% | 99.0% |  |
 | 32 | 7% | 96% |  |
-| 33 | 13% | 90% |  |
-| 34 | 19% | 77% |  |
+| 33 | 13% | 89% |  |
+| 34 | 19% | 76% |  |
 | 35 | 21% | 57% | Median |
-| 36 | 18% | 36% |  |
+| 36 | 18% | 35% |  |
 | 37 | 11% | 18% |  |
 | 38 | 5% | 7% |  |
 | 39 | 2% | 2% |  |
