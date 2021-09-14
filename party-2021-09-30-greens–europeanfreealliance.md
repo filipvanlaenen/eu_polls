@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 45–57 | 44–58 | 41–59 |
-| Bündnis 90/Die Grünen | DE | | 15 | 14–18 | 13–19 | 13–19 | 13–19 |
+| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 45–56 | 43–57 | 41–59 |
+| Bündnis 90/Die Grünen | DE | | 15 | 13–19 | 13–19 | 13–19 | 12–19 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -29,13 +29,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Možemo! | HR | | 2 | 2 | 2 | 2 | 2–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,6 +51,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.4% | 99.7% |  |
 | 42 | 0.7% | 99.4% |  |
 | 43 | 1.2% | 98.7% |  |
-| 44 | 2% | 98% |  |
+| 44 | 2% | 97% |  |
 | 45 | 3% | 96% |  |
 | 46 | 4% | 93% |  |
 | 47 | 6% | 89% |  |
 | 48 | 8% | 83% |  |
-| 49 | 10% | 76% |  |
+| 49 | 10% | 75% |  |
 | 50 | 11% | 66% |  |
 | 51 | 11% | 55% | Median |
 | 52 | 11% | 43% |  |
 | 53 | 10% | 32% |  |
-| 54 | 8% | 23% |  |
+| 54 | 8% | 22% |  |
 | 55 | 6% | 15% |  |
 | 56 | 4% | 9% |  |
 | 57 | 2% | 5% |  |
-| 58 | 1.4% | 3% |  |
-| 59 | 0.7% | 1.2% |  |
-| 60 | 0.3% | 0.5% |  |
-| 61 | 0.1% | 0.2% |  |
+| 58 | 1.3% | 2% |  |
+| 59 | 0.7% | 1.0% |  |
+| 60 | 0.3% | 0.4% |  |
+| 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |

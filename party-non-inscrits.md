@@ -18,13 +18,13 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 35 | 32–37 | 32–38 | 31–38 | 30–40 |
-| Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–16 | 12–18 |
+| Non-Inscrits | EU | 29 | 35 | 32–37 | 32–38 | 31–38 | 30–39 |
+| Movimento 5 Stelle | IT | | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,15 +44,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.2% | 100% | Last Result |
-| 30 | 0.8% | 99.8% |  |
-| 31 | 3% | 99.0% |  |
-| 32 | 7% | 96% |  |
-| 33 | 13% | 89% |  |
-| 34 | 19% | 76% |  |
-| 35 | 21% | 57% | Median |
-| 36 | 18% | 35% |  |
-| 37 | 11% | 18% |  |
+| 29 | 0.1% | 100% | Last Result |
+| 30 | 0.7% | 99.8% |  |
+| 31 | 3% | 99.1% |  |
+| 32 | 7% | 97% |  |
+| 33 | 14% | 90% |  |
+| 34 | 20% | 76% |  |
+| 35 | 22% | 55% | Median |
+| 36 | 17% | 34% |  |
+| 37 | 10% | 17% |  |
 | 38 | 5% | 7% |  |
 | 39 | 2% | 2% |  |
 | 40 | 0.4% | 0.5% |  |
