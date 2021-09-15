@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 51 | 47–54 | 47–55 | 46–56 | 44–58 |
+| European United Left–Nordic Green Left | EU | 39 | 51 | 48–54 | 47–55 | 46–56 | 45–58 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Die Linke | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Levica | SI | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Levica | SI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,13 +61,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 100% |  |
 | 44 | 0.4% | 99.9% |  |
-| 45 | 1.3% | 99.4% |  |
+| 45 | 1.1% | 99.5% |  |
 | 46 | 3% | 98% |  |
-| 47 | 6% | 95% |  |
+| 47 | 5% | 96% |  |
 | 48 | 9% | 90% |  |
 | 49 | 12% | 81% |  |
-| 50 | 14% | 69% |  |
-| 51 | 15% | 55% | Median |
+| 50 | 14% | 70% |  |
+| 51 | 15% | 56% | Median |
 | 52 | 14% | 40% |  |
 | 53 | 11% | 26% |  |
 | 54 | 7% | 15% |  |

@@ -18,9 +18,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 151 | 144–157 | 143–158 | 141–160 | 138–162 |
+| European People’s Party | EU | 187 | 151 | 145–157 | 143–158 | 142–160 | 139–163 |
 | Partido Popular | ES | | 18 | 15–20 | 14–20 | 14–21 | 13–22 |
-| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 12–18 | 12–18 | 12–20 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 5–11 | 5–11 | 4–11 |
 | Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
@@ -31,10 +31,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Демократична България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -76,35 +76,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 135 | 0% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
-| 137 | 0.1% | 99.8% |  |
-| 138 | 0.3% | 99.7% |  |
-| 139 | 0.4% | 99.4% |  |
-| 140 | 0.7% | 99.0% |  |
-| 141 | 1.1% | 98% |  |
-| 142 | 2% | 97% |  |
-| 143 | 2% | 95% |  |
-| 144 | 3% | 93% |  |
-| 145 | 4% | 90% |  |
-| 146 | 5% | 86% |  |
-| 147 | 6% | 81% |  |
-| 148 | 7% | 74% |  |
-| 149 | 8% | 67% |  |
-| 150 | 8% | 59% |  |
-| 151 | 8% | 51% | Median |
-| 152 | 8% | 42% |  |
-| 153 | 7% | 34% |  |
-| 154 | 7% | 27% |  |
-| 155 | 5% | 20% |  |
-| 156 | 4% | 15% |  |
-| 157 | 3% | 10% |  |
-| 158 | 2% | 7% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.1% | 3% |  |
-| 161 | 0.7% | 2% |  |
-| 162 | 0.4% | 0.9% |  |
-| 163 | 0.2% | 0.5% |  |
+| 136 | 0.1% | 100% |  |
+| 137 | 0.1% | 99.9% |  |
+| 138 | 0.2% | 99.8% |  |
+| 139 | 0.4% | 99.6% |  |
+| 140 | 0.6% | 99.2% |  |
+| 141 | 1.0% | 98.6% |  |
+| 142 | 1.5% | 98% |  |
+| 143 | 2% | 96% |  |
+| 144 | 3% | 94% |  |
+| 145 | 4% | 91% |  |
+| 146 | 5% | 87% |  |
+| 147 | 6% | 82% |  |
+| 148 | 7% | 76% |  |
+| 149 | 8% | 69% |  |
+| 150 | 8% | 61% |  |
+| 151 | 9% | 53% | Median |
+| 152 | 8% | 44% |  |
+| 153 | 8% | 36% |  |
+| 154 | 7% | 28% |  |
+| 155 | 6% | 21% |  |
+| 156 | 5% | 16% |  |
+| 157 | 4% | 11% |  |
+| 158 | 3% | 7% |  |
+| 159 | 2% | 5% |  |
+| 160 | 1.2% | 3% |  |
+| 161 | 0.8% | 2% |  |
+| 162 | 0.5% | 1.0% |  |
+| 163 | 0.3% | 0.6% |  |
 | 164 | 0.1% | 0.3% |  |
 | 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0.1% |  |
