@@ -18,9 +18,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 150 | 144–156 | 142–158 | 140–159 | 137–162 |
+| European People’s Party | EU | 187 | 150 | 144–157 | 142–158 | 140–160 | 137–163 |
 | Partido Popular | ES | | 18 | 13–20 | 12–20 | 12–20 | 12–22 |
-| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 5–11 | 5–11 | 4–11 |
 | Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
@@ -30,8 +30,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -42,9 +42,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| Centre démocrate humaniste | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,35 +80,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 135 | 0.1% | 99.9% |  |
 | 136 | 0.2% | 99.8% |  |
 | 137 | 0.3% | 99.6% |  |
-| 138 | 0.5% | 99.3% |  |
+| 138 | 0.4% | 99.4% |  |
 | 139 | 0.7% | 98.9% |  |
-| 140 | 1.1% | 98% |  |
-| 141 | 2% | 97% |  |
+| 140 | 1.0% | 98% |  |
+| 141 | 1.4% | 97% |  |
 | 142 | 2% | 96% |  |
-| 143 | 3% | 93% |  |
-| 144 | 4% | 91% |  |
-| 145 | 5% | 87% |  |
-| 146 | 6% | 82% |  |
-| 147 | 6% | 77% |  |
-| 148 | 7% | 70% |  |
-| 149 | 8% | 63% |  |
-| 150 | 8% | 55% | Median |
-| 151 | 8% | 47% |  |
-| 152 | 8% | 39% |  |
-| 153 | 7% | 31% |  |
-| 154 | 6% | 24% |  |
-| 155 | 5% | 18% |  |
-| 156 | 4% | 13% |  |
-| 157 | 3% | 9% |  |
-| 158 | 2% | 6% |  |
+| 143 | 3% | 94% |  |
+| 144 | 3% | 91% |  |
+| 145 | 4% | 88% |  |
+| 146 | 5% | 83% |  |
+| 147 | 6% | 78% |  |
+| 148 | 7% | 72% |  |
+| 149 | 8% | 65% |  |
+| 150 | 8% | 57% | Median |
+| 151 | 8% | 49% |  |
+| 152 | 8% | 41% |  |
+| 153 | 7% | 33% |  |
+| 154 | 6% | 26% |  |
+| 155 | 5% | 20% |  |
+| 156 | 4% | 14% |  |
+| 157 | 3% | 10% |  |
+| 158 | 2% | 7% |  |
 | 159 | 2% | 4% |  |
-| 160 | 1.0% | 2% |  |
-| 161 | 0.6% | 1.4% |  |
-| 162 | 0.4% | 0.8% |  |
-| 163 | 0.2% | 0.4% |  |
-| 164 | 0.1% | 0.2% |  |
+| 160 | 1.1% | 3% |  |
+| 161 | 0.7% | 2% |  |
+| 162 | 0.4% | 0.9% |  |
+| 163 | 0.2% | 0.5% |  |
+| 164 | 0.1% | 0.3% |  |
 | 165 | 0.1% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
