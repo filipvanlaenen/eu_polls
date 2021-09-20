@@ -25,7 +25,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Alianța pentru Unirea Românilor | RO | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,24 +57,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0.1% | 100% |  |
 | 64 | 0.2% | 99.9% |  |
 | 65 | 0.5% | 99.7% |  |
-| 66 | 1.1% | 99.3% |  |
+| 66 | 1.1% | 99.2% |  |
 | 67 | 2% | 98% |  |
 | 68 | 4% | 96% |  |
-| 69 | 5% | 92% |  |
+| 69 | 6% | 92% |  |
 | 70 | 7% | 87% |  |
-| 71 | 9% | 80% |  |
+| 71 | 9% | 79% |  |
 | 72 | 10% | 71% |  |
-| 73 | 10% | 62% |  |
-| 74 | 10% | 52% | Median |
+| 73 | 10% | 61% |  |
+| 74 | 10% | 51% | Median |
 | 75 | 9% | 42% |  |
-| 76 | 8% | 33% |  |
+| 76 | 8% | 32% |  |
 | 77 | 7% | 24% |  |
 | 78 | 6% | 17% |  |
 | 79 | 4% | 11% |  |
 | 80 | 3% | 7% |  |
 | 81 | 2% | 4% |  |
 | 82 | 1.1% | 2% |  |
-| 83 | 0.6% | 0.9% |  |
+| 83 | 0.5% | 0.9% |  |
 | 84 | 0.2% | 0.4% |  |
 | 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |

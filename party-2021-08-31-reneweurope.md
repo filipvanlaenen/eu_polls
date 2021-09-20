@@ -44,7 +44,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Agir, la droite constructive–Union des démocrates et indépendants | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,23 +73,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 81 | 0% | 100% |  |
 | 82 | 0.1% | 99.9% |  |
-| 83 | 0.4% | 99.8% |  |
+| 83 | 0.3% | 99.8% |  |
 | 84 | 0.8% | 99.5% |  |
 | 85 | 2% | 98.6% |  |
 | 86 | 3% | 97% |  |
 | 87 | 5% | 94% |  |
 | 88 | 8% | 88% |  |
-| 89 | 10% | 80% |  |
+| 89 | 10% | 81% |  |
 | 90 | 12% | 70% |  |
 | 91 | 13% | 58% | Median |
 | 92 | 12% | 45% |  |
 | 93 | 11% | 33% |  |
-| 94 | 8% | 22% |  |
+| 94 | 8% | 23% |  |
 | 95 | 6% | 14% |  |
 | 96 | 4% | 8% |  |
-| 97 | 2% | 4% |  |
+| 97 | 2% | 5% |  |
 | 98 | 1.2% | 2% | Last Result |
-| 99 | 0.6% | 1.0% |  |
+| 99 | 0.6% | 1.1% |  |
 | 100 | 0.3% | 0.5% |  |
 | 101 | 0.1% | 0.2% |  |
 | 102 | 0% | 0.1% |  |

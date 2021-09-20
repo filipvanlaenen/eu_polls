@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 51 | 48–54 | 47–56 | 46–56 | 45–58 |
+| European United Left–Nordic Green Left | EU | 39 | 51 | 48–54 | 47–55 | 46–56 | 44–58 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Die Linke | DE | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 8% | 91% |  |
 | 49 | 11% | 83% |  |
 | 50 | 13% | 72% |  |
-| 51 | 15% | 59% | Median |
+| 51 | 15% | 58% | Median |
 | 52 | 14% | 44% |  |
 | 53 | 12% | 30% |  |
 | 54 | 8% | 18% |  |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 3% | 5% |  |
 | 57 | 1.3% | 2% |  |
 | 58 | 0.6% | 1.1% |  |
-| 59 | 0.3% | 0.5% |  |
+| 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |

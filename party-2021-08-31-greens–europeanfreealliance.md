@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -78,7 +78,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 11% | 53% | Median |
 | 53 | 11% | 42% |  |
 | 54 | 9% | 31% |  |
-| 55 | 8% | 22% |  |
+| 55 | 8% | 21% |  |
 | 56 | 6% | 14% |  |
 | 57 | 4% | 8% |  |
 | 58 | 2% | 4% |  |
