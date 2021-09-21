@@ -24,7 +24,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,6 +35,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
+| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -49,10 +50,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 2% | 99.5% |  |
 | 32 | 5% | 98% |  |
 | 33 | 12% | 93% |  |
-| 34 | 21% | 80% |  |
+| 34 | 21% | 81% |  |
 | 35 | 24% | 60% | Median |
 | 36 | 19% | 36% |  |
-| 37 | 10% | 17% |  |
+| 37 | 11% | 17% |  |
 | 38 | 4% | 6% |  |
 | 39 | 1.4% | 2% |  |
 | 40 | 0.3% | 0.4% |  |
