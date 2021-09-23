@@ -18,21 +18,21 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 151 | 145–157 | 143–159 | 141–161 | 138–163 |
-| Partido Popular | ES | | 18 | 14–20 | 12–20 | 12–21 | 12–21 |
-| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
+| European People’s Party | EU | 187 | 151 | 145–157 | 143–159 | 142–161 | 139–163 |
+| Partido Popular | ES | | 17 | 13–20 | 12–20 | 12–21 | 12–21 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 5–11 | 5–11 | 4–11 |
 | Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Forza Italia | IT | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| Forza Italia | IT | | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Fine Gael | IE | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Демократична България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -78,26 +78,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 135 | 0% | 100% |  |
 | 136 | 0.1% | 99.9% |  |
-| 137 | 0.1% | 99.8% |  |
+| 137 | 0.1% | 99.9% |  |
 | 138 | 0.2% | 99.7% |  |
-| 139 | 0.4% | 99.4% |  |
-| 140 | 0.6% | 99.0% |  |
-| 141 | 0.9% | 98% |  |
-| 142 | 1.4% | 97% |  |
+| 139 | 0.4% | 99.5% |  |
+| 140 | 0.6% | 99.1% |  |
+| 141 | 0.9% | 98.5% |  |
+| 142 | 1.3% | 98% |  |
 | 143 | 2% | 96% |  |
 | 144 | 3% | 94% |  |
-| 145 | 3% | 91% |  |
+| 145 | 3% | 92% |  |
 | 146 | 4% | 88% |  |
 | 147 | 5% | 84% |  |
-| 148 | 6% | 78% |  |
-| 149 | 7% | 72% |  |
+| 148 | 6% | 79% |  |
+| 149 | 7% | 73% |  |
 | 150 | 8% | 65% |  |
-| 151 | 8% | 57% | Median |
+| 151 | 8% | 58% | Median |
 | 152 | 8% | 49% |  |
 | 153 | 8% | 41% |  |
 | 154 | 7% | 33% |  |
 | 155 | 6% | 26% |  |
-| 156 | 5% | 19% |  |
+| 156 | 5% | 20% |  |
 | 157 | 4% | 14% |  |
 | 158 | 3% | 10% |  |
 | 159 | 2% | 7% |  |
@@ -106,7 +106,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 0.7% | 2% |  |
 | 163 | 0.4% | 0.9% |  |
 | 164 | 0.2% | 0.5% |  |
-| 165 | 0.1% | 0.3% |  |
+| 165 | 0.1% | 0.2% |  |
 | 166 | 0.1% | 0.1% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
