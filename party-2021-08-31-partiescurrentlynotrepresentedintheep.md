@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 14 | 11–17 | 10–17 | 10–18 | 9–19 |
-| Polska 2050 [PL] (*) | PL | | 8 | 5–11 | 5–11 | 5–11 | 5–12 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 10–17 | 10–18 | 9–18 | 9–19 |
+| Polska 2050 [PL] (*) | PL | | 8 | 5–11 | 5–11 | 5–12 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -62,19 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 2% | 99.7% |  |
-| 10 | 8% | 98% |  |
-| 11 | 14% | 90% |  |
-| 12 | 14% | 76% |  |
-| 13 | 11% | 62% |  |
-| 14 | 10% | 51% | Median |
-| 15 | 14% | 41% |  |
-| 16 | 14% | 28% |  |
-| 17 | 9% | 13% |  |
-| 18 | 3% | 4% |  |
-| 19 | 0.7% | 0.8% |  |
-| 20 | 0.1% | 0.1% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 3% | 99.6% |  |
+| 10 | 9% | 97% |  |
+| 11 | 15% | 88% |  |
+| 12 | 14% | 72% |  |
+| 13 | 7% | 58% |  |
+| 14 | 6% | 51% | Median |
+| 15 | 11% | 45% |  |
+| 16 | 15% | 34% |  |
+| 17 | 12% | 19% |  |
+| 18 | 5% | 7% |  |
+| 19 | 1.3% | 2% |  |
+| 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 
 

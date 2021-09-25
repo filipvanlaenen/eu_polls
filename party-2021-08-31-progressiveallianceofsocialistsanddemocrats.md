@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 140–153 | 138–155 | 137–157 | 134–159 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 140–153 | 138–155 | 137–157 | 134–160 |
 | Sozialdemokratische Partei Deutschlands | DE | | 22 | 19–26 | 19–27 | 18–27 | 18–27 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | Partito Democratico | IT | | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
@@ -29,12 +29,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Lewica | PL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Lewica | PL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -52,7 +52,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Articolo Uno | IT | | 0 | 0 | 0 | 0 | 0 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–1 | 0–2 |
 
@@ -64,25 +64,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 131 | 0.1% | 100% |  |
+| 131 | 0% | 100% |  |
 | 132 | 0.1% | 99.9% |  |
 | 133 | 0.2% | 99.8% |  |
-| 134 | 0.4% | 99.6% |  |
-| 135 | 0.6% | 99.2% |  |
-| 136 | 0.9% | 98.6% |  |
+| 134 | 0.3% | 99.6% |  |
+| 135 | 0.6% | 99.3% |  |
+| 136 | 0.9% | 98.7% |  |
 | 137 | 1.3% | 98% |  |
-| 138 | 2% | 96% |  |
+| 138 | 2% | 97% |  |
 | 139 | 2% | 95% |  |
-| 140 | 3% | 92% |  |
-| 141 | 4% | 89% |  |
+| 140 | 3% | 93% |  |
+| 141 | 4% | 90% |  |
 | 142 | 5% | 86% |  |
 | 143 | 5% | 81% |  |
 | 144 | 6% | 76% |  |
-| 145 | 7% | 69% |  |
-| 146 | 8% | 62% |  |
+| 145 | 7% | 70% |  |
+| 146 | 8% | 63% |  |
 | 147 | 8% | 55% | Last Result, Median |
 | 148 | 8% | 47% |  |
-| 149 | 7% | 39% |  |
+| 149 | 8% | 40% |  |
 | 150 | 7% | 32% |  |
 | 151 | 6% | 25% |  |
 | 152 | 5% | 19% |  |
