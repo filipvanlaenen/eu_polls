@@ -18,10 +18,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 14 | 10–17 | 10–18 | 9–18 | 9–19 |
-| Polska 2050 [PL] (*) | PL | | 8 | 5–11 | 5–11 | 5–12 | 4–12 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 12–16 | 11–16 | 11–17 | 10–17 |
+| Polska 2050 [PL] (*) | PL | | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -32,7 +32,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,9 +48,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,19 +62,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.4% | 100% |  |
-| 9 | 3% | 99.6% |  |
-| 10 | 9% | 97% |  |
-| 11 | 15% | 88% |  |
-| 12 | 14% | 72% |  |
-| 13 | 7% | 58% |  |
-| 14 | 6% | 51% | Median |
-| 15 | 11% | 45% |  |
-| 16 | 15% | 34% |  |
-| 17 | 12% | 19% |  |
-| 18 | 5% | 7% |  |
-| 19 | 1.3% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 2% | 99.7% |  |
+| 11 | 8% | 98% |  |
+| 12 | 16% | 90% |  |
+| 13 | 23% | 74% |  |
+| 14 | 24% | 52% | Median |
+| 15 | 17% | 28% |  |
+| 16 | 8% | 11% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.3% | 0.4% |  |
+| 19 | 0% | 0% |  |
 
 

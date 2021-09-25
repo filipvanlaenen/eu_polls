@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **75** seats (+14 seats)
+Current median: **74** seats (+13 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 75 | 70–80 | 68–81 | 67–82 | 66–84 |
-| Zjednoczona Prawica | PL | | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
-| Fratelli d’Italia | IT | | 18 | 16–19 | 16–19 | 15–20 | 14–21 |
-| Vox | ES | | 9 | 8–11 | 8–11 | 7–11 | 6–12 |
-| Alianța pentru Unirea Românilor | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
+| European Conservatives and Reformists | EU | 61 | 74 | 69–79 | 68–81 | 67–82 | 65–84 |
+| Zjednoczona Prawica | PL | | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
+| Fratelli d’Italia | IT | | 17 | 15–21 | 15–21 | 14–21 | 14–21 |
+| Vox | ES | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| Alianța pentru Unirea Românilor | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -46,39 +46,38 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
 | 63 | 0% | 100% |  |
-| 64 | 0.1% | 100% |  |
-| 65 | 0.3% | 99.8% |  |
-| 66 | 0.7% | 99.5% |  |
-| 67 | 1.5% | 98.8% |  |
+| 64 | 0.1% | 99.9% |  |
+| 65 | 0.4% | 99.8% |  |
+| 66 | 0.9% | 99.4% |  |
+| 67 | 2% | 98% |  |
 | 68 | 3% | 97% |  |
-| 69 | 4% | 95% |  |
-| 70 | 6% | 91% |  |
-| 71 | 7% | 85% |  |
-| 72 | 8% | 78% |  |
-| 73 | 9% | 70% |  |
-| 74 | 10% | 60% |  |
-| 75 | 10% | 51% | Median |
-| 76 | 9% | 41% |  |
-| 77 | 8% | 32% |  |
-| 78 | 7% | 24% |  |
-| 79 | 6% | 17% |  |
-| 80 | 4% | 12% |  |
-| 81 | 3% | 7% |  |
+| 69 | 5% | 93% |  |
+| 70 | 6% | 89% |  |
+| 71 | 8% | 82% |  |
+| 72 | 9% | 75% |  |
+| 73 | 9% | 66% |  |
+| 74 | 10% | 57% | Median |
+| 75 | 9% | 47% |  |
+| 76 | 9% | 38% |  |
+| 77 | 8% | 29% |  |
+| 78 | 6% | 21% |  |
+| 79 | 5% | 15% |  |
+| 80 | 4% | 10% |  |
+| 81 | 3% | 6% |  |
 | 82 | 2% | 4% |  |
-| 83 | 1.2% | 2% |  |
-| 84 | 0.6% | 1.0% |  |
-| 85 | 0.3% | 0.4% |  |
-| 86 | 0.1% | 0.2% |  |
-| 87 | 0% | 0.1% |  |
-| 88 | 0% | 0% |  |
+| 83 | 1.0% | 2% |  |
+| 84 | 0.5% | 0.9% |  |
+| 85 | 0.2% | 0.4% |  |
+| 86 | 0.1% | 0.1% |  |
+| 87 | 0% | 0% |  |
 
 
