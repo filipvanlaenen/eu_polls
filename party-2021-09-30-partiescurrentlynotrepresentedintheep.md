@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **14** seats (+14 seats)
+Current median: **13** seats (+13 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 14 | 12–16 | 11–16 | 11–17 | 10–17 |
-| Polska 2050 [PL] (*) | PL | | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| Parties currently not represented in the EP | EU | 0 | 13 | 11–16 | 10–17 | 10–18 | 9–19 |
+| Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–12 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,17 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 2% | 99.7% |  |
-| 11 | 8% | 98% |  |
-| 12 | 16% | 90% |  |
-| 13 | 23% | 74% |  |
-| 14 | 24% | 52% | Median |
-| 15 | 17% | 28% |  |
-| 16 | 8% | 11% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.3% | 0.4% |  |
-| 19 | 0% | 0% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 2% | 99.7% |  |
+| 10 | 6% | 98% |  |
+| 11 | 11% | 92% |  |
+| 12 | 16% | 82% |  |
+| 13 | 18% | 66% | Median |
+| 14 | 18% | 48% |  |
+| 15 | 14% | 30% |  |
+| 16 | 9% | 16% |  |
+| 17 | 5% | 8% |  |
+| 18 | 2% | 3% |  |
+| 19 | 0.8% | 1.0% |  |
+| 20 | 0.2% | 0.2% |  |
+| 21 | 0% | 0% |  |
 
 
