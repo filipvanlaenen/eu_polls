@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (+8 seats)
+Current median: **35** seats (+6 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,48 +18,45 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 37 | 35–40 | 34–40 | 34–41 | 33–42 |
-| Movimento 5 Stelle | IT | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
-| Konfederacja | PL | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Non-Inscrits | EU | 29 | 35 | 32–37 | 32–38 | 31–38 | 30–40 |
+| Movimento 5 Stelle | IT | | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
+| Konfederacja | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 1 | 1 | 1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
-| Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0% | 100% | Last Result |
-| 30 | 0% | 100% |  |
-| 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.9% |  |
-| 33 | 2% | 99.6% |  |
-| 34 | 5% | 98% |  |
-| 35 | 11% | 93% |  |
-| 36 | 18% | 82% |  |
-| 37 | 21% | 64% | Median |
-| 38 | 19% | 43% |  |
-| 39 | 13% | 25% |  |
-| 40 | 7% | 11% |  |
-| 41 | 3% | 4% |  |
-| 42 | 1.0% | 1.3% |  |
-| 43 | 0.2% | 0.3% |  |
-| 44 | 0% | 0% |  |
+| 29 | 0.1% | 100% | Last Result |
+| 30 | 0.7% | 99.8% |  |
+| 31 | 2% | 99.2% |  |
+| 32 | 7% | 97% |  |
+| 33 | 14% | 90% |  |
+| 34 | 20% | 76% |  |
+| 35 | 22% | 56% | Median |
+| 36 | 17% | 34% |  |
+| 37 | 10% | 17% |  |
+| 38 | 5% | 7% |  |
+| 39 | 2% | 2% |  |
+| 40 | 0.5% | 0.6% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
