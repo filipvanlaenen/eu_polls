@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **48** seats (-19 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 44–56 | 43–57 | 40–59 |
-| Bündnis 90/Die Grünen | DE | | 17 | 14–19 | 14–19 | 14–19 | 13–20 |
+| Greens–European Free Alliance | EU | 67 | 48 | 43–52 | 42–53 | 41–54 | 38–56 |
+| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
-| Česká pirátská strana–Starostové a nezávislí | CZ | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Coalició Compromís | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Česká pirátská strana–Starostové a nezávislí | CZ | | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
+| Coalició Compromís | ES | | 2 | 1–3 | 1–3 | 1–3 | 0–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
-| GroenLinks | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| GroenLinks | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2–3 |
 | Možemo! | HR | | 2 | 2 | 2 | 2 | 2–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -40,7 +40,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -56,36 +56,38 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-08-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.2% | 99.9% |  |
-| 40 | 0.3% | 99.7% |  |
-| 41 | 0.5% | 99.4% |  |
-| 42 | 0.9% | 98.9% |  |
-| 43 | 1.5% | 98% |  |
-| 44 | 2% | 96% |  |
-| 45 | 3% | 94% |  |
-| 46 | 5% | 91% |  |
-| 47 | 6% | 86% |  |
-| 48 | 8% | 80% |  |
-| 49 | 9% | 72% |  |
-| 50 | 10% | 63% |  |
-| 51 | 11% | 53% | Median |
-| 52 | 11% | 42% |  |
-| 53 | 10% | 31% |  |
-| 54 | 8% | 22% |  |
-| 55 | 6% | 14% |  |
-| 56 | 4% | 8% |  |
-| 57 | 2% | 4% |  |
-| 58 | 1.2% | 2% |  |
-| 59 | 0.5% | 0.8% |  |
-| 60 | 0.2% | 0.3% |  |
-| 61 | 0.1% | 0.1% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.1% | 99.9% |  |
+| 38 | 0.3% | 99.8% |  |
+| 39 | 0.7% | 99.5% |  |
+| 40 | 1.1% | 98.8% |  |
+| 41 | 2% | 98% |  |
+| 42 | 3% | 96% |  |
+| 43 | 4% | 93% |  |
+| 44 | 6% | 89% |  |
+| 45 | 8% | 84% |  |
+| 46 | 10% | 76% |  |
+| 47 | 11% | 66% |  |
+| 48 | 12% | 54% | Median |
+| 49 | 12% | 42% |  |
+| 50 | 10% | 31% |  |
+| 51 | 8% | 20% |  |
+| 52 | 6% | 12% |  |
+| 53 | 4% | 7% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.9% | 1.5% |  |
+| 56 | 0.4% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
