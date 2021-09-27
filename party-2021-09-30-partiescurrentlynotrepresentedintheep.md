@@ -38,7 +38,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -67,14 +67,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 2% | 99.7% |  |
 | 10 | 6% | 98% |  |
 | 11 | 11% | 92% |  |
-| 12 | 16% | 82% |  |
-| 13 | 18% | 66% | Median |
-| 14 | 18% | 48% |  |
-| 15 | 14% | 30% |  |
-| 16 | 9% | 16% |  |
-| 17 | 5% | 8% |  |
+| 12 | 16% | 81% |  |
+| 13 | 18% | 65% | Median |
+| 14 | 18% | 47% |  |
+| 15 | 14% | 29% |  |
+| 16 | 8% | 15% |  |
+| 17 | 4% | 7% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.7% | 0.8% |  |
+| 19 | 0.6% | 0.7% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
