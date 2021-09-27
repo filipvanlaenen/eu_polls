@@ -27,15 +27,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Parti socialiste | FR | | 6 | 0–8 | 0–8 | 0–8 | 0–8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Lewica | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Българска социалистическа партия | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | SMER–sociálna demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -79,19 +79,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 5% | 83% |  |
 | 144 | 6% | 78% |  |
 | 145 | 7% | 72% |  |
-| 146 | 7% | 66% |  |
+| 146 | 7% | 65% |  |
 | 147 | 8% | 58% | Last Result |
-| 148 | 8% | 51% | Median |
+| 148 | 8% | 50% | Median |
 | 149 | 8% | 43% |  |
 | 150 | 7% | 35% |  |
 | 151 | 6% | 28% |  |
-| 152 | 6% | 22% |  |
+| 152 | 5% | 21% |  |
 | 153 | 5% | 16% |  |
-| 154 | 4% | 12% |  |
+| 154 | 4% | 11% |  |
 | 155 | 3% | 8% |  |
 | 156 | 2% | 5% |  |
 | 157 | 1.3% | 3% |  |
-| 158 | 0.9% | 2% |  |
+| 158 | 0.8% | 2% |  |
 | 159 | 0.5% | 1.2% |  |
 | 160 | 0.3% | 0.7% |  |
 | 161 | 0.2% | 0.4% |  |

@@ -30,7 +30,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -41,7 +41,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–3 | 1–3 | 1–3 | 0–4 |
 | Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -56,6 +55,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -80,9 +80,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 3% | 97% |  |
 | 87 | 5% | 94% |  |
 | 88 | 7% | 90% |  |
-| 89 | 9% | 83% |  |
-| 90 | 11% | 73% |  |
-| 91 | 12% | 62% | Median |
+| 89 | 10% | 83% |  |
+| 90 | 12% | 73% |  |
+| 91 | 13% | 62% | Median |
 | 92 | 12% | 49% |  |
 | 93 | 11% | 37% |  |
 | 94 | 9% | 26% |  |
@@ -90,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 4% | 10% |  |
 | 97 | 3% | 6% |  |
 | 98 | 2% | 3% | Last Result |
-| 99 | 0.8% | 1.5% |  |
-| 100 | 0.4% | 0.7% |  |
+| 99 | 0.8% | 1.4% |  |
+| 100 | 0.4% | 0.6% |  |
 | 101 | 0.2% | 0.3% |  |
 | 102 | 0.1% | 0.1% |  |
 | 103 | 0% | 0% |  |
