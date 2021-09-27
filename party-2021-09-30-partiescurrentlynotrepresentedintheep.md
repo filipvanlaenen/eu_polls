@@ -19,7 +19,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 13 | 11–16 | 10–17 | 10–18 | 9–19 |
-| Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–12 | 4–12 |
+| Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -74,8 +74,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 9% | 16% |  |
 | 17 | 5% | 8% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.8% | 1.0% |  |
-| 20 | 0.2% | 0.2% |  |
+| 19 | 0.7% | 0.8% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
