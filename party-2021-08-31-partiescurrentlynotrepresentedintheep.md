@@ -10,9 +10,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **13** seats (+13 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> BG, NL, PL
+> BG, CZ, NL, PL
 
 ### Confidence Intervals
 
@@ -22,6 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Polska 2050 [PL] (*) | PL | | 7 | 5–10 | 4–11 | 4–11 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Přísaha [CZ] (*) | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -37,7 +38,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -61,19 +61,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
-| 8 | 1.4% | 99.8% |  |
-| 9 | 5% | 98% |  |
-| 10 | 12% | 93% |  |
-| 11 | 15% | 81% |  |
-| 12 | 12% | 67% |  |
-| 13 | 10% | 54% | Median |
+| 7 | 0.1% | 100% |  |
+| 8 | 1.3% | 99.9% |  |
+| 9 | 5% | 98.6% |  |
+| 10 | 11% | 93% |  |
+| 11 | 15% | 82% |  |
+| 12 | 13% | 67% |  |
+| 13 | 10% | 55% | Median |
 | 14 | 12% | 44% |  |
-| 15 | 13% | 32% |  |
-| 16 | 10% | 19% |  |
-| 17 | 6% | 8% |  |
+| 15 | 13% | 33% |  |
+| 16 | 11% | 20% |  |
+| 17 | 6% | 9% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.5% | 0.5% |  |
+| 19 | 0.5% | 0.6% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
