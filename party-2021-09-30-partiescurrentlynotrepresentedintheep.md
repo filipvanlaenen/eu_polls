@@ -1,27 +1,28 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> BE, BG, CY, CZ, DK, FR, HR, IE, LU, LV, NL, PL, SI, SK
+> BE, BG, CY, CZ, DE, DK, FR, HR, IE, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **13** seats (+13 seats)
+Current median: **14** seats (+14 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> BG, NL, PL
+> BG, DE, NL, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 13 | 11–16 | 10–17 | 9–17 | 9–19 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 12–17 | 11–18 | 10–18 | 10–20 |
 | Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| dieBasis [DE] (*) | DE | | 1 | 1 | 1 | 1 | 1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -63,19 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.4% | 100% |  |
-| 9 | 2% | 99.6% |  |
-| 10 | 6% | 97% |  |
-| 11 | 12% | 91% |  |
-| 12 | 16% | 80% |  |
-| 13 | 18% | 64% | Median |
-| 14 | 17% | 45% |  |
-| 15 | 13% | 28% |  |
-| 16 | 8% | 15% |  |
-| 17 | 4% | 7% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0.5% | 0.6% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 2% | 99.6% |  |
+| 11 | 6% | 97% |  |
+| 12 | 12% | 91% |  |
+| 13 | 16% | 80% |  |
+| 14 | 18% | 64% | Median |
+| 15 | 17% | 45% |  |
+| 16 | 13% | 28% |  |
+| 17 | 8% | 15% |  |
+| 18 | 4% | 7% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.5% | 0.6% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
