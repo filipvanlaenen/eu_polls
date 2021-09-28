@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 3% | 97% |  |
 | 88 | 5% | 94% |  |
 | 89 | 7% | 89% |  |
-| 90 | 9% | 82% |  |
+| 90 | 9% | 81% |  |
 | 91 | 11% | 72% |  |
 | 92 | 12% | 61% | Median |
 | 93 | 12% | 49% |  |

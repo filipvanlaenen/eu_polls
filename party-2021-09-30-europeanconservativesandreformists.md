@@ -23,7 +23,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Fratelli d’Italia | IT | | 18 | 15–20 | 15–21 | 14–21 | 14–21 |
 | Vox | ES | | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
-| SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| SPOLU | CZ | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -57,16 +57,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0% | 100% |  |
 | 64 | 0.1% | 99.9% |  |
 | 65 | 0.3% | 99.8% |  |
-| 66 | 0.7% | 99.5% |  |
-| 67 | 1.2% | 98.8% |  |
+| 66 | 0.6% | 99.5% |  |
+| 67 | 1.2% | 98.9% |  |
 | 68 | 2% | 98% |  |
-| 69 | 3% | 95% |  |
+| 69 | 3% | 96% |  |
 | 70 | 5% | 92% |  |
 | 71 | 6% | 88% |  |
 | 72 | 7% | 82% |  |
 | 73 | 8% | 74% |  |
 | 74 | 9% | 66% |  |
-| 75 | 9% | 56% | Median |
+| 75 | 9% | 57% | Median |
 | 76 | 9% | 47% |  |
 | 77 | 8% | 38% |  |
 | 78 | 8% | 30% |  |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 3% | 7% |  |
 | 83 | 2% | 4% |  |
 | 84 | 1.1% | 2% |  |
-| 85 | 0.6% | 1.0% |  |
+| 85 | 0.6% | 1.1% |  |
 | 86 | 0.3% | 0.5% |  |
 | 87 | 0.1% | 0.2% |  |
 | 88 | 0% | 0.1% |  |
