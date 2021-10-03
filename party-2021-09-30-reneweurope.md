@@ -59,7 +59,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -75,17 +75,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 0% | 100% |  |
 | 84 | 0.2% | 99.9% |  |
 | 85 | 0.5% | 99.8% |  |
-| 86 | 1.2% | 99.3% |  |
+| 86 | 1.1% | 99.3% |  |
 | 87 | 2% | 98% |  |
 | 88 | 4% | 96% |  |
-| 89 | 7% | 91% |  |
+| 89 | 7% | 92% |  |
 | 90 | 9% | 85% |  |
 | 91 | 12% | 75% |  |
-| 92 | 13% | 63% |  |
-| 93 | 13% | 50% | Median |
-| 94 | 12% | 37% |  |
+| 92 | 13% | 64% |  |
+| 93 | 13% | 51% | Median |
+| 94 | 12% | 38% |  |
 | 95 | 9% | 26% |  |
-| 96 | 7% | 16% |  |
+| 96 | 7% | 17% |  |
 | 97 | 4% | 10% |  |
 | 98 | 3% | 5% | Last Result |
 | 99 | 1.4% | 3% |  |
