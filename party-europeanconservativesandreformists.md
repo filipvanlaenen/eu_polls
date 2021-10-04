@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 75 | 70–80 | 69–82 | 67–83 | 65–85 |
+| European Conservatives and Reformists | EU | 61 | 75 | 70–81 | 69–82 | 67–83 | 65–85 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | Fratelli d’Italia | IT | | 18 | 15–20 | 15–21 | 14–21 | 14–21 |
-| Vox | ES | | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
+| Vox | ES | | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | SPOLU | CZ | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -37,7 +37,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Familienpartei Deutschlands | DE | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -46,18 +46,18 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
-| 63 | 0% | 100% |  |
+| 63 | 0.1% | 100% |  |
 | 64 | 0.1% | 99.9% |  |
 | 65 | 0.3% | 99.8% |  |
-| 66 | 0.7% | 99.5% |  |
+| 66 | 0.7% | 99.4% |  |
 | 67 | 1.3% | 98.7% |  |
 | 68 | 2% | 97% |  |
 | 69 | 3% | 95% |  |
@@ -65,20 +65,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 6% | 87% |  |
 | 72 | 8% | 81% |  |
 | 73 | 9% | 73% |  |
-| 74 | 9% | 64% |  |
+| 74 | 9% | 65% |  |
 | 75 | 9% | 55% | Median |
 | 76 | 9% | 46% |  |
 | 77 | 8% | 37% |  |
-| 78 | 7% | 28% |  |
+| 78 | 7% | 29% |  |
 | 79 | 6% | 21% |  |
 | 80 | 5% | 15% |  |
 | 81 | 4% | 10% |  |
 | 82 | 3% | 6% |  |
-| 83 | 2% | 3% |  |
-| 84 | 0.9% | 2% |  |
-| 85 | 0.5% | 0.8% |  |
+| 83 | 2% | 4% |  |
+| 84 | 1.0% | 2% |  |
+| 85 | 0.5% | 0.9% |  |
 | 86 | 0.2% | 0.4% |  |
-| 87 | 0.1% | 0.1% |  |
-| 88 | 0% | 0% |  |
+| 87 | 0.1% | 0.2% |  |
+| 88 | 0% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 

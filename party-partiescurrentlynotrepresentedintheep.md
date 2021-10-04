@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 14 | 12–17 | 11–18 | 11–18 | 10–20 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 12–17 | 11–18 | 10–18 | 10–20 |
 | Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -36,11 +36,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -50,9 +48,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -65,18 +63,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 2% | 99.7% |  |
-| 11 | 6% | 98% |  |
-| 12 | 11% | 92% |  |
-| 13 | 16% | 80% |  |
-| 14 | 18% | 64% | Median |
-| 15 | 18% | 46% |  |
-| 16 | 13% | 28% |  |
-| 17 | 8% | 15% |  |
-| 18 | 4% | 7% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 2% | 99.6% |  |
+| 11 | 7% | 97% |  |
+| 12 | 12% | 91% |  |
+| 13 | 16% | 79% |  |
+| 14 | 19% | 63% | Median |
+| 15 | 17% | 44% |  |
+| 16 | 13% | 27% |  |
+| 17 | 8% | 14% |  |
+| 18 | 4% | 6% |  |
 | 19 | 2% | 2% |  |
-| 20 | 0.5% | 0.6% |  |
+| 20 | 0.4% | 0.5% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 

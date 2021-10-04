@@ -24,6 +24,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | dieBasis [DE] (*) | DE | | 1 | 1 | 1 | 1 | 1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -35,11 +36,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,16 +65,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.4% | 100% |  |
 | 10 | 2% | 99.6% |  |
-| 11 | 6% | 97% |  |
+| 11 | 7% | 97% |  |
 | 12 | 12% | 91% |  |
-| 13 | 16% | 80% |  |
-| 14 | 18% | 64% | Median |
-| 15 | 17% | 45% |  |
-| 16 | 13% | 28% |  |
-| 17 | 8% | 15% |  |
-| 18 | 4% | 7% |  |
+| 13 | 16% | 79% |  |
+| 14 | 19% | 63% | Median |
+| 15 | 17% | 44% |  |
+| 16 | 13% | 27% |  |
+| 17 | 8% | 14% |  |
+| 18 | 4% | 6% |  |
 | 19 | 2% | 2% |  |
-| 20 | 0.5% | 0.6% |  |
+| 20 | 0.4% | 0.5% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
