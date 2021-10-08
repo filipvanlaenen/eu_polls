@@ -22,7 +22,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 11 | 11 | 11 | 11 | 11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -32,8 +32,8 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 2 | 2 | 2 | 2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -72,26 +72,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0.1% | 100% |  |
+| 83 | 0% | 100% |  |
+| 84 | 0.2% | 99.9% |  |
 | 85 | 0.4% | 99.8% |  |
-| 86 | 1.0% | 99.4% |  |
+| 86 | 1.1% | 99.3% |  |
 | 87 | 2% | 98% |  |
 | 88 | 4% | 96% |  |
 | 89 | 7% | 92% |  |
-| 90 | 10% | 85% |  |
+| 90 | 9% | 85% |  |
 | 91 | 12% | 76% |  |
-| 92 | 13% | 64% |  |
-| 93 | 13% | 50% | Median |
+| 92 | 14% | 64% |  |
+| 93 | 14% | 51% | Median |
 | 94 | 12% | 37% |  |
-| 95 | 9% | 25% |  |
+| 95 | 10% | 25% |  |
 | 96 | 7% | 15% |  |
-| 97 | 4% | 9% |  |
-| 98 | 2% | 5% | Last Result |
-| 99 | 1.2% | 2% |  |
-| 100 | 0.6% | 1.0% |  |
-| 101 | 0.3% | 0.4% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 97 | 4% | 8% |  |
+| 98 | 2% | 4% | Last Result |
+| 99 | 1.1% | 2% |  |
+| 100 | 0.5% | 0.8% |  |
+| 101 | 0.2% | 0.3% |  |
+| 102 | 0.1% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 
