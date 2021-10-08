@@ -18,14 +18,14 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 147–158 | 145–159 | 144–161 | 141–163 |
+| European People’s Party | EU | 187 | 152 | 146–158 | 145–159 | 143–160 | 141–163 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 19 | 19 | 19 | 19 |
 | Partido Popular | ES | | 17 | 13–19 | 13–20 | 12–20 | 12–21 |
 | Koalicja Obywatelska | PL | | 14 | 13–15 | 12–16 | 12–16 | 12–18 |
-| Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Partidul Național Liberal | RO | | 8 | 5–10 | 5–11 | 5–11 | 4–11 |
-| Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Forza Italia | IT | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5 | 5 | 5 | 5 |
@@ -44,7 +44,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -79,31 +79,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 0.1% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
 | 140 | 0.2% | 99.8% |  |
-| 141 | 0.4% | 99.6% |  |
-| 142 | 0.6% | 99.2% |  |
-| 143 | 1.0% | 98.6% |  |
-| 144 | 2% | 98% |  |
-| 145 | 2% | 96% |  |
-| 146 | 3% | 94% |  |
-| 147 | 4% | 90% |  |
-| 148 | 5% | 86% |  |
-| 149 | 7% | 81% |  |
-| 150 | 8% | 74% |  |
-| 151 | 8% | 67% |  |
-| 152 | 9% | 58% | Median |
-| 153 | 9% | 49% |  |
-| 154 | 9% | 40% |  |
-| 155 | 8% | 32% |  |
-| 156 | 7% | 24% |  |
-| 157 | 5% | 17% |  |
-| 158 | 4% | 12% |  |
-| 159 | 3% | 8% |  |
-| 160 | 2% | 5% |  |
-| 161 | 1.3% | 3% |  |
-| 162 | 0.7% | 2% |  |
-| 163 | 0.4% | 0.8% |  |
-| 164 | 0.2% | 0.4% |  |
-| 165 | 0.1% | 0.2% |  |
+| 141 | 0.4% | 99.5% |  |
+| 142 | 0.7% | 99.1% |  |
+| 143 | 1.2% | 98% |  |
+| 144 | 2% | 97% |  |
+| 145 | 3% | 95% |  |
+| 146 | 3% | 93% |  |
+| 147 | 5% | 89% |  |
+| 148 | 6% | 85% |  |
+| 149 | 7% | 79% |  |
+| 150 | 8% | 72% |  |
+| 151 | 9% | 65% |  |
+| 152 | 9% | 56% | Median |
+| 153 | 9% | 47% |  |
+| 154 | 8% | 38% |  |
+| 155 | 8% | 30% |  |
+| 156 | 6% | 22% |  |
+| 157 | 5% | 16% |  |
+| 158 | 4% | 11% |  |
+| 159 | 3% | 7% |  |
+| 160 | 2% | 4% |  |
+| 161 | 1.1% | 2% |  |
+| 162 | 0.6% | 1.3% |  |
+| 163 | 0.3% | 0.7% |  |
+| 164 | 0.2% | 0.3% |  |
+| 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
