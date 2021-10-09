@@ -24,7 +24,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 10 | 10 | 10 | 10 | 10 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -35,22 +35,22 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
 | 68 | 0.5% | 99.8% |  |
-| 69 | 1.4% | 99.4% |  |
+| 69 | 1.4% | 99.3% |  |
 | 70 | 3% | 98% |  |
-| 71 | 6% | 95% |  |
+| 71 | 7% | 94% |  |
 | 72 | 11% | 88% |  |
-| 73 | 14% | 78% |  |
-| 74 | 16% | 63% | Median |
-| 75 | 16% | 47% |  |
-| 76 | 13% | 31% | Last Result |
+| 73 | 15% | 77% |  |
+| 74 | 16% | 62% | Median |
+| 75 | 16% | 46% |  |
+| 76 | 13% | 30% | Last Result |
 | 77 | 9% | 18% |  |
 | 78 | 5% | 9% |  |
 | 79 | 2% | 4% |  |
