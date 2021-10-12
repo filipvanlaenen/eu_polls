@@ -20,12 +20,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 152 | 146–157 | 144–159 | 143–160 | 140–162 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 19 | 19 | 19 | 19 |
-| Partido Popular | ES | | 17 | 13–19 | 13–20 | 12–20 | 12–21 |
+| Partido Popular | ES | | 17 | 13–19 | 13–19 | 12–20 | 12–21 |
 | Koalicja Obywatelska | PL | | 14 | 13–15 | 12–16 | 12–16 | 12–18 |
 | Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Partidul Național Liberal | RO | | 8 | 5–10 | 5–11 | 5–11 | 4–11 |
-| Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| Österreichische Volkspartei | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5 | 5 | 5 | 5 |
@@ -51,7 +51,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -81,28 +81,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 0.2% | 99.8% |  |
 | 140 | 0.3% | 99.7% |  |
 | 141 | 0.6% | 99.3% |  |
-| 142 | 0.9% | 98.7% |  |
+| 142 | 0.9% | 98.8% |  |
 | 143 | 1.4% | 98% |  |
 | 144 | 2% | 96% |  |
 | 145 | 3% | 94% |  |
 | 146 | 4% | 91% |  |
-| 147 | 5% | 87% |  |
+| 147 | 5% | 88% |  |
 | 148 | 6% | 82% |  |
 | 149 | 7% | 76% |  |
 | 150 | 8% | 69% |  |
-| 151 | 9% | 60% |  |
+| 151 | 9% | 61% |  |
 | 152 | 9% | 52% | Median |
 | 153 | 9% | 43% |  |
 | 154 | 8% | 34% |  |
 | 155 | 7% | 26% |  |
 | 156 | 6% | 19% |  |
-| 157 | 4% | 13% |  |
+| 157 | 5% | 13% |  |
 | 158 | 3% | 9% |  |
-| 159 | 2% | 5% |  |
-| 160 | 1.4% | 3% |  |
+| 159 | 2% | 6% |  |
+| 160 | 1.5% | 3% |  |
 | 161 | 0.9% | 2% |  |
-| 162 | 0.5% | 0.9% |  |
-| 163 | 0.2% | 0.5% |  |
+| 162 | 0.5% | 1.0% |  |
+| 163 | 0.3% | 0.5% |  |
 | 164 | 0.1% | 0.2% |  |
 | 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0% |  |
