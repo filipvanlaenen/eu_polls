@@ -34,7 +34,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Venstre | DK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Venstre | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -56,7 +56,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stranka Alenke Bratušek | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,23 +74,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 83 | 0.1% | 100% |  |
 | 84 | 0.3% | 99.9% |  |
-| 85 | 0.7% | 99.6% |  |
-| 86 | 2% | 98.9% |  |
+| 85 | 0.8% | 99.6% |  |
+| 86 | 2% | 98.8% |  |
 | 87 | 3% | 97% |  |
 | 88 | 6% | 94% |  |
 | 89 | 8% | 88% |  |
 | 90 | 11% | 80% |  |
 | 91 | 13% | 69% |  |
 | 92 | 13% | 56% | Median |
-| 93 | 13% | 43% |  |
+| 93 | 13% | 42% |  |
 | 94 | 11% | 30% |  |
-| 95 | 8% | 20% |  |
-| 96 | 5% | 12% |  |
+| 95 | 8% | 19% |  |
+| 96 | 5% | 11% |  |
 | 97 | 3% | 6% |  |
 | 98 | 2% | 3% | Last Result |
-| 99 | 0.8% | 1.5% |  |
+| 99 | 0.8% | 1.4% |  |
 | 100 | 0.4% | 0.6% |  |
-| 101 | 0.2% | 0.2% |  |
+| 101 | 0.1% | 0.2% |  |
 | 102 | 0.1% | 0.1% |  |
 | 103 | 0% | 0% |  |
 
