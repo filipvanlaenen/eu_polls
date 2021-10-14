@@ -12,7 +12,7 @@ Current median: **46** seats (-21 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, LV, NL
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, NL, SE
 
 ### Confidence Intervals
 
@@ -29,11 +29,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2–3 |
 | Možemo! | HR | | 2 | 2 | 2 | 2 | 2–3 |
+| Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1 | 1 | 1 | 1 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -43,8 +43,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0 | 0 | 0 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -56,30 +56,30 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.1% | 100% |  |
 | 37 | 0.4% | 99.8% |  |
-| 38 | 0.8% | 99.5% |  |
-| 39 | 2% | 98.7% |  |
+| 38 | 0.9% | 99.4% |  |
+| 39 | 2% | 98.5% |  |
 | 40 | 2% | 97% |  |
 | 41 | 3% | 95% |  |
-| 42 | 4% | 92% |  |
+| 42 | 5% | 91% |  |
 | 43 | 7% | 87% |  |
-| 44 | 10% | 81% |  |
-| 45 | 13% | 70% |  |
-| 46 | 14% | 57% | Median |
-| 47 | 13% | 43% |  |
-| 48 | 11% | 30% |  |
-| 49 | 9% | 19% |  |
-| 50 | 6% | 10% |  |
+| 44 | 11% | 79% |  |
+| 45 | 13% | 69% |  |
+| 46 | 14% | 56% | Median |
+| 47 | 13% | 42% |  |
+| 48 | 11% | 28% |  |
+| 49 | 8% | 17% |  |
+| 50 | 5% | 9% |  |
 | 51 | 3% | 4% |  |
-| 52 | 1.2% | 2% |  |
-| 53 | 0.4% | 0.5% |  |
+| 52 | 1.0% | 1.4% |  |
+| 53 | 0.3% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
