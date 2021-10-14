@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 75 | 70–81 | 69–82 | 68–83 | 66–85 |
+| European Conservatives and Reformists | EU | 61 | 75 | 70–80 | 68–82 | 67–83 | 65–85 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | Fratelli d’Italia | IT | | 18 | 15–20 | 15–21 | 14–21 | 14–21 |
 | Vox | ES | | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
@@ -46,40 +46,39 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
-| 63 | 0% | 100% |  |
-| 64 | 0.1% | 99.9% |  |
-| 65 | 0.3% | 99.8% |  |
-| 66 | 0.7% | 99.5% |  |
-| 67 | 1.3% | 98.8% |  |
-| 68 | 2% | 98% |  |
-| 69 | 3% | 95% |  |
-| 70 | 5% | 92% |  |
-| 71 | 6% | 87% |  |
-| 72 | 8% | 81% |  |
-| 73 | 9% | 74% |  |
-| 74 | 9% | 65% |  |
-| 75 | 9% | 56% | Median |
-| 76 | 9% | 47% |  |
-| 77 | 8% | 38% |  |
-| 78 | 7% | 29% |  |
-| 79 | 6% | 22% |  |
-| 80 | 5% | 15% |  |
-| 81 | 4% | 10% |  |
-| 82 | 3% | 6% |  |
-| 83 | 2% | 4% |  |
-| 84 | 1.0% | 2% |  |
-| 85 | 0.5% | 0.9% |  |
-| 86 | 0.2% | 0.4% |  |
-| 87 | 0.1% | 0.2% |  |
-| 88 | 0% | 0.1% |  |
-| 89 | 0% | 0% |  |
+| 63 | 0.1% | 100% |  |
+| 64 | 0.2% | 99.9% |  |
+| 65 | 0.4% | 99.8% |  |
+| 66 | 0.8% | 99.4% |  |
+| 67 | 1.5% | 98.6% |  |
+| 68 | 2% | 97% |  |
+| 69 | 4% | 95% |  |
+| 70 | 5% | 91% |  |
+| 71 | 7% | 86% |  |
+| 72 | 8% | 79% |  |
+| 73 | 9% | 71% |  |
+| 74 | 9% | 63% |  |
+| 75 | 9% | 53% | Median |
+| 76 | 9% | 44% |  |
+| 77 | 8% | 35% |  |
+| 78 | 7% | 27% |  |
+| 79 | 6% | 20% |  |
+| 80 | 5% | 14% |  |
+| 81 | 3% | 9% |  |
+| 82 | 2% | 6% |  |
+| 83 | 2% | 3% |  |
+| 84 | 0.9% | 2% |  |
+| 85 | 0.5% | 0.8% |  |
+| 86 | 0.2% | 0.3% |  |
+| 87 | 0.1% | 0.1% |  |
+| 88 | 0% | 0% |  |
 
 

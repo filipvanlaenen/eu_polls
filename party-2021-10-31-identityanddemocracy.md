@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **74** seats (-2 seats)
+Current median: **75** seats (-1 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 74 | 71–77 | 70–78 | 70–79 | 68–80 |
+| Identity and Democracy | EU | 76 | 75 | 71–78 | 71–78 | 70–79 | 68–81 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
 | Lega Nord | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | Alternative für Deutschland | DE | | 10 | 10 | 10 | 10 | 10 |
+| Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Freiheitliche Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -42,20 +42,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
-| 68 | 0.5% | 99.8% |  |
-| 69 | 1.5% | 99.3% |  |
+| 68 | 0.4% | 99.9% |  |
+| 69 | 1.2% | 99.5% |  |
 | 70 | 3% | 98% |  |
-| 71 | 7% | 94% |  |
-| 72 | 11% | 88% |  |
-| 73 | 15% | 77% |  |
-| 74 | 16% | 62% | Median |
-| 75 | 16% | 46% |  |
-| 76 | 13% | 30% | Last Result |
-| 77 | 9% | 18% |  |
-| 78 | 5% | 9% |  |
-| 79 | 2% | 4% |  |
-| 80 | 0.9% | 1.2% |  |
-| 81 | 0.3% | 0.4% |  |
+| 71 | 6% | 95% |  |
+| 72 | 10% | 90% |  |
+| 73 | 14% | 80% |  |
+| 74 | 16% | 66% |  |
+| 75 | 16% | 50% | Median |
+| 76 | 14% | 34% | Last Result |
+| 77 | 10% | 20% |  |
+| 78 | 6% | 11% |  |
+| 79 | 3% | 5% |  |
+| 80 | 1.2% | 2% |  |
+| 81 | 0.4% | 0.5% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 

@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 89–96 | 88–97 | 87–98 | 85–100 |
+| Renew Europe | EU | 98 | 93 | 89–97 | 88–98 | 87–99 | 85–100 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 11 | 11 | 11 | 11 | 11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -32,17 +32,17 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 2 | 2 | 2 | 2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Lista Marjana Šarca | SI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -72,26 +72,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0% | 100% |  |
-| 84 | 0.2% | 99.9% |  |
-| 85 | 0.4% | 99.8% |  |
-| 86 | 1.0% | 99.4% |  |
-| 87 | 2% | 98% |  |
-| 88 | 4% | 96% |  |
-| 89 | 6% | 92% |  |
-| 90 | 9% | 86% |  |
-| 91 | 12% | 77% |  |
-| 92 | 13% | 65% |  |
-| 93 | 14% | 51% | Median |
-| 94 | 12% | 38% |  |
-| 95 | 10% | 25% |  |
-| 96 | 7% | 15% |  |
-| 97 | 4% | 9% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.1% | 2% |  |
-| 100 | 0.5% | 0.8% |  |
-| 101 | 0.2% | 0.3% |  |
-| 102 | 0.1% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 84 | 0.1% | 100% |  |
+| 85 | 0.3% | 99.8% |  |
+| 86 | 0.9% | 99.5% |  |
+| 87 | 2% | 98.6% |  |
+| 88 | 3% | 97% |  |
+| 89 | 6% | 93% |  |
+| 90 | 8% | 88% |  |
+| 91 | 11% | 79% |  |
+| 92 | 13% | 68% |  |
+| 93 | 14% | 55% | Median |
+| 94 | 13% | 42% |  |
+| 95 | 11% | 29% |  |
+| 96 | 8% | 18% |  |
+| 97 | 5% | 11% |  |
+| 98 | 3% | 6% | Last Result |
+| 99 | 2% | 3% |  |
+| 100 | 0.7% | 1.2% |  |
+| 101 | 0.3% | 0.5% |  |
+| 102 | 0.1% | 0.2% |  |
+| 103 | 0% | 0.1% |  |
+| 104 | 0% | 0% |  |
 
 
