@@ -49,13 +49,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Jaunā konservatīvā partija | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -87,21 +87,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 3% | 95% |  |
 | 146 | 4% | 93% |  |
 | 147 | 5% | 89% |  |
-| 148 | 6% | 85% |  |
+| 148 | 6% | 84% |  |
 | 149 | 7% | 79% |  |
 | 150 | 8% | 72% |  |
 | 151 | 9% | 64% |  |
-| 152 | 9% | 56% | Median |
+| 152 | 9% | 55% | Median |
 | 153 | 9% | 47% |  |
 | 154 | 8% | 38% |  |
-| 155 | 7% | 30% |  |
+| 155 | 7% | 29% |  |
 | 156 | 6% | 22% |  |
 | 157 | 5% | 16% |  |
 | 158 | 4% | 11% |  |
 | 159 | 3% | 7% |  |
 | 160 | 2% | 4% |  |
 | 161 | 1.1% | 2% |  |
-| 162 | 0.7% | 1.3% |  |
+| 162 | 0.6% | 1.3% |  |
 | 163 | 0.4% | 0.7% |  |
 | 164 | 0.2% | 0.3% |  |
 | 165 | 0.1% | 0.1% |  |
