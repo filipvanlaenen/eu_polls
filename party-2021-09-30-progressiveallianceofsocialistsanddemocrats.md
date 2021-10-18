@@ -36,10 +36,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3 | 2–4 |
 | Българска социалистическа партия | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Partij van de Arbeid | NL | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | SMER–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socialni demokrati | SI | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -77,23 +77,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 5% | 86% | Last Result |
 | 148 | 6% | 82% |  |
 | 149 | 7% | 76% |  |
-| 150 | 7% | 70% |  |
+| 150 | 8% | 70% |  |
 | 151 | 8% | 62% |  |
 | 152 | 9% | 54% | Median |
 | 153 | 9% | 45% |  |
 | 154 | 8% | 36% |  |
 | 155 | 7% | 28% |  |
-| 156 | 6% | 21% |  |
+| 156 | 6% | 20% |  |
 | 157 | 5% | 14% |  |
-| 158 | 4% | 10% |  |
+| 158 | 3% | 9% |  |
 | 159 | 2% | 6% |  |
-| 160 | 2% | 4% |  |
+| 160 | 2% | 3% |  |
 | 161 | 0.9% | 2% |  |
-| 162 | 0.5% | 1.1% |  |
-| 163 | 0.3% | 0.6% |  |
-| 164 | 0.1% | 0.3% |  |
+| 162 | 0.5% | 1.0% |  |
+| 163 | 0.3% | 0.5% |  |
+| 164 | 0.1% | 0.2% |  |
 | 165 | 0.1% | 0.1% |  |
-| 166 | 0% | 0.1% |  |
-| 167 | 0% | 0% |  |
+| 166 | 0% | 0% |  |
 
 
