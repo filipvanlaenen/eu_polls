@@ -23,7 +23,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Coalició Compromís | ES | | 2 | 1–3 | 1–3 | 1–3 | 0–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -35,7 +35,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Volt Europa | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -71,17 +71,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 4% | 93% |  |
 | 43 | 6% | 90% |  |
 | 44 | 8% | 84% |  |
-| 45 | 11% | 75% |  |
-| 46 | 13% | 64% |  |
+| 45 | 12% | 76% |  |
+| 46 | 14% | 64% |  |
 | 47 | 14% | 51% | Median |
 | 48 | 12% | 37% |  |
-| 49 | 10% | 25% |  |
+| 49 | 10% | 24% |  |
 | 50 | 7% | 14% |  |
 | 51 | 4% | 7% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.8% | 1.1% |  |
+| 53 | 0.7% | 1.0% |  |
 | 54 | 0.2% | 0.3% |  |
-| 55 | 0.1% | 0.1% |  |
+| 55 | 0% | 0.1% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |

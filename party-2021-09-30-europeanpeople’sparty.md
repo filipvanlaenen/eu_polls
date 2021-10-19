@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 146–157 | 144–159 | 143–160 | 140–162 |
+| European People’s Party | EU | 187 | 152 | 146–157 | 144–159 | 143–160 | 140–163 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 19 | 19 | 19 | 19 |
 | Partido Popular | ES | | 17 | 13–19 | 13–20 | 12–20 | 12–21 |
 | Koalicja Obywatelska | PL | | 14 | 13–15 | 12–16 | 12–16 | 12–18 |
@@ -29,7 +29,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5 | 5 | 5 | 5 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
@@ -46,7 +46,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch Appèl | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -79,27 +79,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 137 | 0% | 100% |  |
 | 138 | 0.1% | 99.9% |  |
 | 139 | 0.2% | 99.8% |  |
-| 140 | 0.3% | 99.6% |  |
-| 141 | 0.6% | 99.3% |  |
-| 142 | 0.9% | 98.7% |  |
-| 143 | 1.5% | 98% |  |
-| 144 | 2% | 96% |  |
-| 145 | 3% | 94% |  |
-| 146 | 4% | 91% |  |
-| 147 | 5% | 87% |  |
-| 148 | 6% | 82% |  |
-| 149 | 7% | 76% |  |
-| 150 | 8% | 69% |  |
-| 151 | 9% | 60% |  |
-| 152 | 9% | 52% | Median |
-| 153 | 9% | 43% |  |
-| 154 | 8% | 34% |  |
-| 155 | 7% | 26% |  |
-| 156 | 6% | 19% |  |
-| 157 | 4% | 13% |  |
+| 140 | 0.3% | 99.7% |  |
+| 141 | 0.5% | 99.4% |  |
+| 142 | 0.9% | 98.8% |  |
+| 143 | 1.4% | 98% |  |
+| 144 | 2% | 97% |  |
+| 145 | 3% | 95% |  |
+| 146 | 4% | 92% |  |
+| 147 | 5% | 88% |  |
+| 148 | 6% | 83% |  |
+| 149 | 7% | 77% |  |
+| 150 | 8% | 70% |  |
+| 151 | 9% | 61% |  |
+| 152 | 9% | 53% | Median |
+| 153 | 9% | 44% |  |
+| 154 | 8% | 35% |  |
+| 155 | 7% | 27% |  |
+| 156 | 6% | 20% |  |
+| 157 | 5% | 14% |  |
 | 158 | 3% | 9% |  |
 | 159 | 2% | 6% |  |
-| 160 | 1.5% | 3% |  |
+| 160 | 2% | 4% |  |
 | 161 | 0.9% | 2% |  |
 | 162 | 0.5% | 1.0% |  |
 | 163 | 0.3% | 0.5% |  |
