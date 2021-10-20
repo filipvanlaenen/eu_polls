@@ -27,7 +27,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 1–4 | 0–4 | 0–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 2 | 2 | 2 | 2 |
@@ -37,6 +36,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–4 | 0–4 | 0–4 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 4% | 7% |  |
 | 98 | 2% | 4% | Last Result |
 | 99 | 1.0% | 2% |  |
-| 100 | 0.4% | 0.8% |  |
+| 100 | 0.4% | 0.7% |  |
 | 101 | 0.2% | 0.3% |  |
 | 102 | 0.1% | 0.1% |  |
 | 103 | 0% | 0% |  |
