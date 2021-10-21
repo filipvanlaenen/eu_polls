@@ -33,7 +33,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Българска социалистическа партия | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -89,7 +89,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 3% | 6% |  |
 | 160 | 2% | 4% |  |
 | 161 | 1.0% | 2% |  |
-| 162 | 0.5% | 1.0% |  |
+| 162 | 0.5% | 1.1% |  |
 | 163 | 0.3% | 0.5% |  |
 | 164 | 0.1% | 0.2% |  |
 | 165 | 0.1% | 0.1% |  |
