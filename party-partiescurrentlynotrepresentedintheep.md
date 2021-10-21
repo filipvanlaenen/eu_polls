@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, FR, HR, IE, LU, LV, NL, PL, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, FR, IE, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -28,23 +28,20 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Borgerlisten [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Stram Kurs [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -52,9 +49,9 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-09-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-09-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -68,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 0.7% | 99.9% |  |
+| 10 | 0.6% | 99.9% |  |
 | 11 | 3% | 99.3% |  |
 | 12 | 7% | 97% |  |
 | 13 | 12% | 90% |  |
@@ -77,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 17% | 44% |  |
 | 17 | 13% | 27% |  |
 | 18 | 8% | 14% |  |
-| 19 | 4% | 7% |  |
+| 19 | 4% | 6% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.5% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |

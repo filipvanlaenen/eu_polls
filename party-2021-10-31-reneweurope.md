@@ -36,7 +36,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–4 | 0–4 | 0–4 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–3 | 0–4 | 0–4 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -73,23 +73,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0% | 100% |  |
-| 83 | 0.1% | 99.9% |  |
+| 83 | 0.2% | 99.9% |  |
 | 84 | 0.4% | 99.8% |  |
 | 85 | 0.9% | 99.4% |  |
-| 86 | 2% | 98.6% |  |
+| 86 | 2% | 98% |  |
 | 87 | 3% | 97% |  |
-| 88 | 5% | 94% |  |
+| 88 | 6% | 93% |  |
 | 89 | 8% | 88% |  |
-| 90 | 10% | 80% |  |
-| 91 | 12% | 70% |  |
-| 92 | 13% | 58% | Median |
-| 93 | 13% | 45% |  |
-| 94 | 11% | 32% |  |
-| 95 | 8% | 21% |  |
-| 96 | 6% | 13% |  |
-| 97 | 4% | 7% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.0% | 2% |  |
+| 90 | 11% | 80% |  |
+| 91 | 12% | 69% |  |
+| 92 | 13% | 57% | Median |
+| 93 | 13% | 43% |  |
+| 94 | 11% | 31% |  |
+| 95 | 8% | 20% |  |
+| 96 | 5% | 12% |  |
+| 97 | 3% | 7% |  |
+| 98 | 2% | 3% | Last Result |
+| 99 | 0.9% | 2% |  |
 | 100 | 0.4% | 0.7% |  |
 | 101 | 0.2% | 0.3% |  |
 | 102 | 0.1% | 0.1% |  |
