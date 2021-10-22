@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **15** seats (+15 seats)
+Current median: **14** seats (+14 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 15 | 12–18 | 12–19 | 11–19 | 10–21 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 11–17 | 10–17 | 10–18 | 9–19 |
 | Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
-| Има такъв народ [BG] (*) | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Има такъв народ [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,7 +45,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Възраждане [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -63,21 +63,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 0.6% | 99.9% |  |
-| 11 | 3% | 99.3% |  |
-| 12 | 7% | 97% |  |
-| 13 | 12% | 90% |  |
-| 14 | 16% | 78% |  |
-| 15 | 18% | 62% | Median |
-| 16 | 17% | 44% |  |
-| 17 | 13% | 27% |  |
-| 18 | 8% | 14% |  |
-| 19 | 4% | 6% |  |
-| 20 | 2% | 2% |  |
-| 21 | 0.5% | 0.6% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 1.2% | 99.8% |  |
+| 10 | 4% | 98.5% |  |
+| 11 | 9% | 94% |  |
+| 12 | 14% | 86% |  |
+| 13 | 17% | 72% |  |
+| 14 | 18% | 55% | Median |
+| 15 | 15% | 37% |  |
+| 16 | 11% | 22% |  |
+| 17 | 6% | 11% |  |
+| 18 | 3% | 5% |  |
+| 19 | 1.3% | 2% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
