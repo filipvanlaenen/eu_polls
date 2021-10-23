@@ -18,9 +18,9 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 14 | 11–17 | 10–17 | 10–18 | 9–19 |
+| Parties currently not represented in the EP | EU | 0 | 14 | 11–16 | 10–17 | 10–18 | 9–19 |
 | Polska 2050 [PL] (*) | PL | | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
-| Има такъв народ [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
+| Има такъв народ [BG] (*) | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,19 +64,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
-| 9 | 1.2% | 99.8% |  |
+| 9 | 1.3% | 99.8% |  |
 | 10 | 4% | 98.5% |  |
 | 11 | 9% | 94% |  |
-| 12 | 14% | 86% |  |
-| 13 | 17% | 72% |  |
-| 14 | 18% | 55% | Median |
-| 15 | 15% | 37% |  |
-| 16 | 11% | 22% |  |
-| 17 | 6% | 11% |  |
-| 18 | 3% | 5% |  |
-| 19 | 1.3% | 2% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 12 | 14% | 85% |  |
+| 13 | 18% | 70% |  |
+| 14 | 18% | 53% | Median |
+| 15 | 15% | 35% |  |
+| 16 | 10% | 20% |  |
+| 17 | 6% | 10% |  |
+| 18 | 3% | 4% |  |
+| 19 | 1.0% | 1.3% |  |
+| 20 | 0.2% | 0.3% |  |
+| 21 | 0% | 0% |  |
 
 
