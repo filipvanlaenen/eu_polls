@@ -27,7 +27,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Wähler | DE | | 2 | 2 | 2 | 2 | 2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -37,7 +37,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 1–3 | 0–4 | 0–4 |
-| Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -72,27 +72,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0.1% | 100% |  |
-| 82 | 0.2% | 99.9% |  |
-| 83 | 0.5% | 99.8% |  |
-| 84 | 1.1% | 99.3% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0.1% | 99.9% |  |
+| 83 | 0.4% | 99.8% |  |
+| 84 | 1.0% | 99.4% |  |
 | 85 | 2% | 98% |  |
 | 86 | 4% | 96% |  |
-| 87 | 7% | 92% |  |
-| 88 | 9% | 85% |  |
-| 89 | 11% | 76% |  |
-| 90 | 13% | 65% |  |
-| 91 | 13% | 52% | Median |
-| 92 | 12% | 39% |  |
-| 93 | 10% | 27% |  |
-| 94 | 7% | 18% |  |
-| 95 | 5% | 10% |  |
-| 96 | 3% | 6% |  |
+| 87 | 6% | 93% |  |
+| 88 | 9% | 87% |  |
+| 89 | 11% | 78% |  |
+| 90 | 12% | 67% |  |
+| 91 | 13% | 55% | Median |
+| 92 | 12% | 42% |  |
+| 93 | 10% | 30% |  |
+| 94 | 8% | 20% |  |
+| 95 | 5% | 12% |  |
+| 96 | 3% | 7% |  |
 | 97 | 2% | 3% |  |
-| 98 | 0.8% | 1.3% | Last Result |
-| 99 | 0.3% | 0.5% |  |
-| 100 | 0.1% | 0.2% |  |
-| 101 | 0% | 0.1% |  |
+| 98 | 0.9% | 2% | Last Result |
+| 99 | 0.4% | 0.7% |  |
+| 100 | 0.2% | 0.3% |  |
+| 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |
 
 

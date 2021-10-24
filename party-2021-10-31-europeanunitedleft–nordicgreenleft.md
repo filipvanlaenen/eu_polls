@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Levica | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 1 | 1 |
@@ -43,7 +43,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Sinistra Italiana | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,23 +60,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
-| 43 | 0.7% | 99.7% |  |
-| 44 | 2% | 99.0% |  |
+| 43 | 0.7% | 99.8% |  |
+| 44 | 2% | 99.1% |  |
 | 45 | 4% | 97% |  |
 | 46 | 6% | 94% |  |
 | 47 | 9% | 87% |  |
 | 48 | 12% | 78% |  |
 | 49 | 14% | 66% |  |
 | 50 | 14% | 52% | Median |
-| 51 | 13% | 38% |  |
-| 52 | 10% | 25% |  |
-| 53 | 7% | 15% |  |
-| 54 | 4% | 9% |  |
-| 55 | 2% | 5% |  |
-| 56 | 1.3% | 2% |  |
-| 57 | 0.7% | 1.1% |  |
-| 58 | 0.3% | 0.5% |  |
-| 59 | 0.1% | 0.2% |  |
+| 51 | 13% | 37% |  |
+| 52 | 10% | 24% |  |
+| 53 | 6% | 14% |  |
+| 54 | 4% | 8% |  |
+| 55 | 2% | 4% |  |
+| 56 | 1.1% | 2% |  |
+| 57 | 0.6% | 1.0% |  |
+| 58 | 0.3% | 0.4% |  |
+| 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
 
