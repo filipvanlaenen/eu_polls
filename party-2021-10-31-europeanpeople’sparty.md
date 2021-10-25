@@ -18,9 +18,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 147–158 | 145–159 | 144–160 | 141–163 |
+| European People’s Party | EU | 187 | 152 | 147–157 | 145–159 | 144–160 | 142–163 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 19 | 19 | 19 | 19 |
-| Partido Popular | ES | | 17 | 14–19 | 13–19 | 13–20 | 12–21 |
+| Partido Popular | ES | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
 | Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
@@ -34,7 +34,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 5 | 5 | 5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -52,7 +52,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -60,6 +59,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -76,32 +76,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0% | 100% |  |
-| 139 | 0.1% | 99.9% |  |
-| 140 | 0.2% | 99.9% |  |
-| 141 | 0.3% | 99.7% |  |
-| 142 | 0.6% | 99.4% |  |
-| 143 | 1.0% | 98.8% |  |
-| 144 | 2% | 98% |  |
-| 145 | 2% | 96% |  |
+| 139 | 0.1% | 100% |  |
+| 140 | 0.1% | 99.9% |  |
+| 141 | 0.3% | 99.8% |  |
+| 142 | 0.5% | 99.5% |  |
+| 143 | 0.9% | 99.0% |  |
+| 144 | 1.5% | 98% |  |
+| 145 | 2% | 97% |  |
 | 146 | 3% | 94% |  |
-| 147 | 5% | 90% |  |
+| 147 | 5% | 91% |  |
 | 148 | 6% | 86% |  |
 | 149 | 7% | 80% |  |
 | 150 | 8% | 73% |  |
-| 151 | 9% | 64% |  |
-| 152 | 9% | 55% | Median |
+| 151 | 9% | 65% |  |
+| 152 | 10% | 55% | Median |
 | 153 | 9% | 46% |  |
-| 154 | 8% | 37% |  |
-| 155 | 7% | 29% |  |
+| 154 | 9% | 36% |  |
+| 155 | 7% | 28% |  |
 | 156 | 6% | 21% |  |
-| 157 | 5% | 15% |  |
+| 157 | 5% | 14% |  |
 | 158 | 4% | 10% |  |
-| 159 | 3% | 7% |  |
+| 159 | 2% | 6% |  |
 | 160 | 2% | 4% |  |
 | 161 | 1.0% | 2% |  |
-| 162 | 0.6% | 1.3% |  |
-| 163 | 0.3% | 0.7% |  |
+| 162 | 0.6% | 1.2% |  |
+| 163 | 0.3% | 0.6% |  |
 | 164 | 0.2% | 0.3% |  |
 | 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0.1% |  |
