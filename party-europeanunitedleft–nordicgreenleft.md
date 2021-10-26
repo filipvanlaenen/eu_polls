@@ -18,29 +18,29 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–53 | 45–54 | 44–55 | 43–57 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 45–52 | 44–53 | 44–54 | 42–56 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 5 | 5 | 5 | 5 |
+| Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Levica | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 1 | 1 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 1–2 | 1–3 | 0–3 | 0–3 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
@@ -58,25 +58,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.8% | 99.7% |  |
-| 44 | 2% | 98.9% |  |
-| 45 | 4% | 97% |  |
-| 46 | 7% | 93% |  |
-| 47 | 10% | 86% |  |
-| 48 | 13% | 76% |  |
-| 49 | 14% | 63% | Median |
-| 50 | 15% | 49% |  |
-| 51 | 13% | 34% |  |
-| 52 | 9% | 22% |  |
-| 53 | 6% | 12% |  |
-| 54 | 3% | 6% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.8% | 1.4% |  |
-| 57 | 0.4% | 0.6% |  |
-| 58 | 0.2% | 0.2% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.5% | 99.8% |  |
+| 43 | 1.4% | 99.3% |  |
+| 44 | 3% | 98% |  |
+| 45 | 5% | 95% |  |
+| 46 | 8% | 89% |  |
+| 47 | 11% | 81% |  |
+| 48 | 14% | 70% |  |
+| 49 | 15% | 56% | Median |
+| 50 | 14% | 42% |  |
+| 51 | 11% | 28% |  |
+| 52 | 8% | 17% |  |
+| 53 | 4% | 9% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.1% | 2% |  |
+| 56 | 0.5% | 0.9% |  |
+| 57 | 0.2% | 0.4% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 

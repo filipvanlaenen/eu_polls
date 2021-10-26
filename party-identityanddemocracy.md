@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **74** seats (-2 seats)
+Current median: **73** seats (-3 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 74 | 71–77 | 70–78 | 69–79 | 68–80 |
+| Identity and Democracy | EU | 76 | 73 | 70–77 | 69–78 | 68–78 | 67–80 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
-| Lega Nord | IT | | 16 | 15–18 | 15–19 | 14–20 | 13–20 |
-| Alternative für Deutschland | DE | | 10 | 10 | 10 | 10 | 10 |
+| Lega Nord | IT | | 16 | 15–18 | 15–19 | 14–19 | 13–20 |
+| Alternative für Deutschland | DE | | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
-| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–3 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Svoboda a přímá demokracie | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Dansk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 1 | 1 | 1 | 1 | 0–2 |
-| Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -41,22 +41,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0.1% | 100% |  |
-| 67 | 0.2% | 99.9% |  |
-| 68 | 0.8% | 99.7% |  |
-| 69 | 2% | 98.9% |  |
-| 70 | 5% | 97% |  |
-| 71 | 8% | 92% |  |
-| 72 | 13% | 84% |  |
-| 73 | 15% | 71% |  |
-| 74 | 16% | 56% | Median |
-| 75 | 14% | 40% |  |
-| 76 | 11% | 25% | Last Result |
-| 77 | 7% | 14% |  |
-| 78 | 4% | 7% |  |
-| 79 | 2% | 3% |  |
-| 80 | 0.8% | 1.1% |  |
-| 81 | 0.3% | 0.4% |  |
+| 65 | 0.1% | 100% |  |
+| 66 | 0.3% | 99.9% |  |
+| 67 | 0.7% | 99.6% |  |
+| 68 | 2% | 98.9% |  |
+| 69 | 4% | 97% |  |
+| 70 | 7% | 93% |  |
+| 71 | 10% | 86% |  |
+| 72 | 13% | 76% |  |
+| 73 | 15% | 62% | Median |
+| 74 | 15% | 47% |  |
+| 75 | 12% | 33% |  |
+| 76 | 9% | 20% | Last Result |
+| 77 | 6% | 11% |  |
+| 78 | 3% | 5% |  |
+| 79 | 1.5% | 2% |  |
+| 80 | 0.6% | 0.8% |  |
+| 81 | 0.2% | 0.3% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 

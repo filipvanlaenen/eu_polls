@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **152** seats (+5 seats)
+Current median: **151** seats (+4 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 152 | 146–157 | 144–159 | 142–160 | 140–162 |
-| Sozialdemokratische Partei Deutschlands | DE | | 26 | 26 | 26 | 26 | 26 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 151 | 144–157 | 142–159 | 140–160 | 137–163 |
+| Sozialdemokratische Partei Deutschlands | DE | | 26 | 22–28 | 22–30 | 22–30 | 22–31 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–18 | 13–18 | 12–19 |
-| Partito Democratico | IT | | 16 | 15–18 | 15–18 | 14–19 | 13–19 |
+| Partito Democratico | IT | | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
 | Partidul Social Democrat | RO | | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
 | United Opposition | HU | | 10 | 8–12 | 8–12 | 8–12 | 8–12 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
@@ -53,7 +53,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -63,35 +63,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 137 | 0.1% | 100% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0.2% | 99.8% |  |
-| 140 | 0.4% | 99.6% |  |
-| 141 | 0.7% | 99.1% |  |
-| 142 | 1.2% | 98% |  |
-| 143 | 2% | 97% |  |
-| 144 | 2% | 96% |  |
-| 145 | 3% | 93% |  |
-| 146 | 4% | 90% |  |
-| 147 | 5% | 86% | Last Result |
-| 148 | 6% | 82% |  |
-| 149 | 7% | 76% |  |
-| 150 | 8% | 70% |  |
-| 151 | 8% | 62% |  |
-| 152 | 9% | 54% | Median |
-| 153 | 9% | 45% |  |
-| 154 | 8% | 36% |  |
-| 155 | 8% | 28% |  |
-| 156 | 6% | 20% |  |
-| 157 | 5% | 14% |  |
-| 158 | 3% | 9% |  |
+| 134 | 0% | 100% |  |
+| 135 | 0.1% | 99.9% |  |
+| 136 | 0.2% | 99.9% |  |
+| 137 | 0.3% | 99.7% |  |
+| 138 | 0.5% | 99.4% |  |
+| 139 | 0.7% | 99.0% |  |
+| 140 | 1.0% | 98% |  |
+| 141 | 1.5% | 97% |  |
+| 142 | 2% | 96% |  |
+| 143 | 3% | 94% |  |
+| 144 | 3% | 91% |  |
+| 145 | 4% | 88% |  |
+| 146 | 5% | 84% |  |
+| 147 | 6% | 79% | Last Result |
+| 148 | 6% | 73% |  |
+| 149 | 7% | 67% |  |
+| 150 | 8% | 60% |  |
+| 151 | 8% | 52% | Median |
+| 152 | 8% | 44% |  |
+| 153 | 7% | 37% |  |
+| 154 | 7% | 29% |  |
+| 155 | 6% | 23% |  |
+| 156 | 5% | 17% |  |
+| 157 | 4% | 12% |  |
+| 158 | 3% | 8% |  |
 | 159 | 2% | 5% |  |
-| 160 | 1.4% | 3% |  |
-| 161 | 0.8% | 2% |  |
-| 162 | 0.4% | 0.8% |  |
-| 163 | 0.2% | 0.4% |  |
-| 164 | 0.1% | 0.2% |  |
-| 165 | 0% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 160 | 1.3% | 3% |  |
+| 161 | 0.9% | 2% |  |
+| 162 | 0.5% | 1.1% |  |
+| 163 | 0.3% | 0.6% |  |
+| 164 | 0.2% | 0.3% |  |
+| 165 | 0.1% | 0.1% |  |
+| 166 | 0% | 0.1% |  |
+| 167 | 0% | 0% |  |
 
 

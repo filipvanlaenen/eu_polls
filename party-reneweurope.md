@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **91** seats (-7 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,17 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–96 | 86–97 | 85–98 | 83–100 |
+| Renew Europe | EU | 98 | 93 | 89–97 | 87–99 | 87–100 | 85–102 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 11 | 11 | 11 | 11 | 11 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| Freie Demokratische Partei | DE | | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| ANO 2011 | CZ | | 7 | 7 | 7 | 7 | 7 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Wähler | DE | | 2 | 2 | 2 | 2 | 2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
@@ -40,6 +39,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -73,28 +73,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0.1% | 100% |  |
-| 83 | 0.3% | 99.8% |  |
-| 84 | 0.8% | 99.5% |  |
-| 85 | 2% | 98.7% |  |
-| 86 | 3% | 97% |  |
-| 87 | 5% | 94% |  |
-| 88 | 7% | 89% |  |
-| 89 | 10% | 81% |  |
-| 90 | 11% | 71% |  |
-| 91 | 12% | 60% | Median |
-| 92 | 12% | 48% |  |
-| 93 | 10% | 36% |  |
-| 94 | 8% | 25% |  |
-| 95 | 6% | 17% |  |
-| 96 | 4% | 11% |  |
-| 97 | 3% | 6% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 0.9% | 2% |  |
-| 100 | 0.5% | 0.9% |  |
-| 101 | 0.2% | 0.4% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 83 | 0.1% | 100% |  |
+| 84 | 0.3% | 99.9% |  |
+| 85 | 0.7% | 99.6% |  |
+| 86 | 1.4% | 98.9% |  |
+| 87 | 3% | 98% |  |
+| 88 | 4% | 95% |  |
+| 89 | 6% | 91% |  |
+| 90 | 9% | 84% |  |
+| 91 | 11% | 75% |  |
+| 92 | 12% | 65% |  |
+| 93 | 12% | 53% | Median |
+| 94 | 11% | 41% |  |
+| 95 | 9% | 31% |  |
+| 96 | 7% | 21% |  |
+| 97 | 5% | 14% |  |
+| 98 | 4% | 9% | Last Result |
+| 99 | 2% | 5% |  |
+| 100 | 1.4% | 3% |  |
+| 101 | 0.8% | 2% |  |
+| 102 | 0.4% | 0.8% |  |
+| 103 | 0.2% | 0.4% |  |
+| 104 | 0.1% | 0.2% |  |
+| 105 | 0% | 0.1% |  |
+| 106 | 0% | 0% |  |
 
 
