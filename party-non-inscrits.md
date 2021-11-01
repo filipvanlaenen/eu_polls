@@ -10,22 +10,21 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **34** seats (+5 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> CY, DK, ES, GR, HU, IT, LT, PL, SK
+> CY, DK, ES, GR, HU, IT, LT, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 32–37 | 31–38 | 31–38 | 30–39 |
+| Non-Inscrits | EU | 29 | 34 | 31–36 | 31–37 | 30–38 | 29–39 |
 | Movimento 5 Stelle | IT | | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | Konfederacja | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -33,6 +32,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -45,19 +45,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.3% | 100% | Last Result |
-| 30 | 1.4% | 99.7% |  |
-| 31 | 5% | 98% |  |
-| 32 | 11% | 94% |  |
-| 33 | 17% | 83% |  |
-| 34 | 20% | 66% | Median |
-| 35 | 19% | 45% |  |
-| 36 | 13% | 27% |  |
-| 37 | 8% | 13% |  |
-| 38 | 4% | 5% |  |
-| 39 | 1.3% | 2% |  |
-| 40 | 0.3% | 0.4% |  |
-| 41 | 0.1% | 0.1% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.8% | 99.8% | Last Result |
+| 30 | 3% | 99.1% |  |
+| 31 | 7% | 96% |  |
+| 32 | 14% | 89% |  |
+| 33 | 19% | 75% |  |
+| 34 | 20% | 56% | Median |
+| 35 | 16% | 37% |  |
+| 36 | 11% | 20% |  |
+| 37 | 6% | 9% |  |
+| 38 | 2% | 4% |  |
+| 39 | 0.8% | 1.1% |  |
+| 40 | 0.2% | 0.3% |  |
+| 41 | 0% | 0.1% |  |
 | 42 | 0% | 0% |  |
 
 
