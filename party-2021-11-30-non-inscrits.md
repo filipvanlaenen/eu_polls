@@ -23,8 +23,8 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | Konfederacja | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
