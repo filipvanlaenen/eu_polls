@@ -18,13 +18,13 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 31–37 | 31–37 | 30–38 | 29–39 |
-| Movimento 5 Stelle | IT | | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
+| Non-Inscrits | EU | 29 | 34 | 32–37 | 31–37 | 31–38 | 29–39 |
+| Movimento 5 Stelle | IT | | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | Konfederacja | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -46,18 +46,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
-| 29 | 0.7% | 99.9% | Last Result |
-| 30 | 3% | 99.2% |  |
-| 31 | 7% | 97% |  |
-| 32 | 13% | 90% |  |
-| 33 | 18% | 77% |  |
-| 34 | 20% | 58% | Median |
-| 35 | 17% | 38% |  |
-| 36 | 11% | 22% |  |
-| 37 | 6% | 10% |  |
+| 29 | 0.4% | 99.9% | Last Result |
+| 30 | 2% | 99.5% |  |
+| 31 | 5% | 98% |  |
+| 32 | 11% | 92% |  |
+| 33 | 17% | 81% |  |
+| 34 | 21% | 64% | Median |
+| 35 | 19% | 43% |  |
+| 36 | 13% | 25% |  |
+| 37 | 7% | 12% |  |
 | 38 | 3% | 4% |  |
-| 39 | 0.9% | 1.2% |  |
-| 40 | 0.2% | 0.3% |  |
+| 39 | 1.0% | 1.3% |  |
+| 40 | 0.3% | 0.3% |  |
 | 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 
