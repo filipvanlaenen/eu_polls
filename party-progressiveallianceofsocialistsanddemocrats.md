@@ -18,8 +18,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 151 | 145–157 | 143–159 | 141–160 | 138–163 |
-| Sozialdemokratische Partei Deutschlands | DE | | 25 | 23–27 | 23–30 | 23–30 | 22–31 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 151 | 144–157 | 142–158 | 141–160 | 138–163 |
+| Sozialdemokratische Partei Deutschlands | DE | | 24 | 23–27 | 23–30 | 23–30 | 22–31 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
 | Partito Democratico | IT | | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
 | Partidul Social Democrat | RO | | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
@@ -34,7 +34,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -57,43 +57,43 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 135 | 0% | 100% |  |
 | 136 | 0.1% | 99.9% |  |
-| 137 | 0.1% | 99.9% |  |
-| 138 | 0.3% | 99.7% |  |
-| 139 | 0.5% | 99.5% |  |
-| 140 | 0.8% | 99.0% |  |
-| 141 | 1.1% | 98% |  |
-| 142 | 2% | 97% |  |
-| 143 | 2% | 95% |  |
-| 144 | 3% | 93% |  |
-| 145 | 4% | 90% |  |
-| 146 | 4% | 87% |  |
-| 147 | 5% | 82% | Last Result |
-| 148 | 6% | 77% |  |
-| 149 | 7% | 71% |  |
-| 150 | 8% | 64% |  |
-| 151 | 8% | 56% | Median |
-| 152 | 8% | 48% |  |
-| 153 | 8% | 39% |  |
-| 154 | 7% | 31% |  |
-| 155 | 6% | 24% |  |
-| 156 | 5% | 18% |  |
-| 157 | 4% | 12% |  |
-| 158 | 3% | 8% |  |
-| 159 | 2% | 5% |  |
-| 160 | 1.4% | 3% |  |
-| 161 | 0.9% | 2% |  |
-| 162 | 0.5% | 1.2% |  |
-| 163 | 0.3% | 0.7% |  |
-| 164 | 0.2% | 0.3% |  |
-| 165 | 0.1% | 0.2% |  |
+| 137 | 0.2% | 99.8% |  |
+| 138 | 0.3% | 99.6% |  |
+| 139 | 0.6% | 99.3% |  |
+| 140 | 0.9% | 98.7% |  |
+| 141 | 1.4% | 98% |  |
+| 142 | 2% | 96% |  |
+| 143 | 3% | 95% |  |
+| 144 | 3% | 92% |  |
+| 145 | 4% | 89% |  |
+| 146 | 5% | 85% |  |
+| 147 | 6% | 80% | Last Result |
+| 148 | 7% | 74% |  |
+| 149 | 7% | 67% |  |
+| 150 | 8% | 60% |  |
+| 151 | 8% | 52% | Median |
+| 152 | 8% | 43% |  |
+| 153 | 8% | 35% |  |
+| 154 | 7% | 27% |  |
+| 155 | 6% | 21% |  |
+| 156 | 5% | 15% |  |
+| 157 | 3% | 10% |  |
+| 158 | 2% | 7% |  |
+| 159 | 2% | 4% |  |
+| 160 | 1.1% | 3% |  |
+| 161 | 0.7% | 2% |  |
+| 162 | 0.4% | 1.0% |  |
+| 163 | 0.3% | 0.5% |  |
+| 164 | 0.1% | 0.3% |  |
+| 165 | 0.1% | 0.1% |  |
 | 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 

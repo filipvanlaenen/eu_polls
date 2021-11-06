@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Levica | SI | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -50,26 +50,26 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% |  |
+| 41 | 0.2% | 99.9% |  |
 | 42 | 0.8% | 99.7% |  |
-| 43 | 2% | 98.8% |  |
+| 43 | 2% | 98.9% |  |
 | 44 | 4% | 97% |  |
 | 45 | 7% | 93% |  |
 | 46 | 10% | 86% |  |
 | 47 | 13% | 76% |  |
-| 48 | 14% | 63% | Median |
-| 49 | 14% | 49% |  |
-| 50 | 13% | 34% |  |
-| 51 | 9% | 22% |  |
-| 52 | 6% | 12% |  |
+| 48 | 14% | 64% | Median |
+| 49 | 15% | 50% |  |
+| 50 | 13% | 35% |  |
+| 51 | 10% | 22% |  |
+| 52 | 6% | 13% |  |
 | 53 | 3% | 6% |  |
 | 54 | 2% | 3% |  |
 | 55 | 0.8% | 1.4% |  |
