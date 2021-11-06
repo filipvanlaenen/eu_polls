@@ -46,15 +46,15 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.9% | 100% |  |
+| 2 | 1.0% | 100% |  |
 | 3 | 9% | 99.0% |  |
 | 4 | 26% | 90% |  |
 | 5 | 37% | 64% | Median |

@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **78** seats (+17 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, CZ, DE, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
+> BE, CZ, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -21,13 +21,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 61 | 78 | 73–83 | 72–84 | 71–85 | 69–87 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
 | Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| Vox | ES | | 9 | 8–11 | 8–12 | 8–12 | 7–12 |
+| Vox | ES | | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -36,6 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,9 +46,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -61,25 +61,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0.1% | 100% |  |
 | 68 | 0.2% | 99.9% |  |
 | 69 | 0.5% | 99.7% |  |
-| 70 | 1.1% | 99.2% |  |
+| 70 | 1.1% | 99.1% |  |
 | 71 | 2% | 98% |  |
-| 72 | 3% | 96% |  |
-| 73 | 5% | 93% |  |
+| 72 | 4% | 96% |  |
+| 73 | 5% | 92% |  |
 | 74 | 7% | 87% |  |
 | 75 | 9% | 80% |  |
-| 76 | 10% | 72% |  |
-| 77 | 10% | 62% |  |
-| 78 | 10% | 52% | Median |
+| 76 | 10% | 71% |  |
+| 77 | 10% | 61% |  |
+| 78 | 10% | 51% | Median |
 | 79 | 9% | 42% |  |
-| 80 | 8% | 33% |  |
-| 81 | 7% | 25% |  |
+| 80 | 8% | 32% |  |
+| 81 | 7% | 24% |  |
 | 82 | 6% | 17% |  |
-| 83 | 5% | 11% |  |
+| 83 | 4% | 11% |  |
 | 84 | 3% | 7% |  |
 | 85 | 2% | 4% |  |
-| 86 | 1.1% | 2% |  |
-| 87 | 0.5% | 0.9% |  |
-| 88 | 0.2% | 0.4% |  |
+| 86 | 1.0% | 2% |  |
+| 87 | 0.5% | 0.8% |  |
+| 88 | 0.2% | 0.3% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
