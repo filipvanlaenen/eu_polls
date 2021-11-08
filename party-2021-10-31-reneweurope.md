@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 101 | 96–106 | 95–107 | 94–108 | 92–111 |
+| Renew Europe | EU | 98 | 101 | 96–106 | 95–107 | 94–109 | 92–111 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 13 | 12–16 | 11–16 | 11–16 | 11–17 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -41,7 +41,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -74,13 +74,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 90 | 0.1% | 100% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0.1% | 99.9% |  |
 | 91 | 0.2% | 99.9% |  |
 | 92 | 0.5% | 99.6% |  |
-| 93 | 1.0% | 99.2% |  |
+| 93 | 1.0% | 99.1% |  |
 | 94 | 2% | 98% |  |
 | 95 | 3% | 96% |  |
-| 96 | 4% | 94% |  |
+| 96 | 4% | 93% |  |
 | 97 | 6% | 89% |  |
 | 98 | 8% | 83% | Last Result |
 | 99 | 9% | 75% |  |
@@ -93,8 +94,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 106 | 4% | 12% |  |
 | 107 | 3% | 7% |  |
 | 108 | 2% | 4% |  |
-| 109 | 1.1% | 2% |  |
-| 110 | 0.7% | 1.3% |  |
+| 109 | 1.1% | 3% |  |
+| 110 | 0.7% | 1.4% |  |
 | 111 | 0.4% | 0.7% |  |
 | 112 | 0.2% | 0.3% |  |
 | 113 | 0.1% | 0.2% |  |
