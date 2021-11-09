@@ -21,11 +21,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 98 | 101 | 96–106 | 95–107 | 94–108 | 92–111 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 13 | 12–15 | 11–15 | 11–15 | 11–17 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | ANO 2011 | CZ | | 7 | 7 | 7 | 7 | 7 |
 | Polska 2050 | PL | | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
-| Democraten 66 | NL | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
+| Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 1–3 | 0–4 | 0–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -84,17 +84,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 6% | 90% |  |
 | 98 | 8% | 83% | Last Result |
 | 99 | 10% | 75% |  |
-| 100 | 11% | 65% |  |
+| 100 | 11% | 66% |  |
 | 101 | 11% | 55% | Median |
 | 102 | 10% | 44% |  |
 | 103 | 9% | 33% |  |
 | 104 | 8% | 24% |  |
-| 105 | 6% | 16% |  |
+| 105 | 6% | 17% |  |
 | 106 | 4% | 11% |  |
 | 107 | 3% | 7% |  |
 | 108 | 2% | 4% |  |
 | 109 | 1.0% | 2% |  |
-| 110 | 0.6% | 1.1% |  |
+| 110 | 0.6% | 1.2% |  |
 | 111 | 0.3% | 0.6% |  |
 | 112 | 0.2% | 0.3% |  |
 | 113 | 0.1% | 0.1% |  |
