@@ -18,23 +18,23 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 101 | 96–106 | 95–107 | 94–109 | 92–111 |
+| Renew Europe | EU | 98 | 101 | 96–106 | 95–107 | 94–108 | 92–111 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 13 | 12–16 | 11–16 | 11–16 | 11–17 |
+| Freie Demokratische Partei | DE | | 13 | 11–14 | 11–14 | 11–15 | 11–17 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | ANO 2011 | CZ | | 7 | 7 | 7 | 7 | 7 |
 | Polska 2050 | PL | | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
 | Alianța 2020 USR-PLUS | RO | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 1–3 | 0–4 | 0–4 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
+| Eesti Reformierakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
+| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -63,41 +63,41 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-10-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 90 | 0.1% | 100% |  |
 | 91 | 0.2% | 99.9% |  |
 | 92 | 0.5% | 99.6% |  |
-| 93 | 1.0% | 99.1% |  |
+| 93 | 1.1% | 99.1% |  |
 | 94 | 2% | 98% |  |
 | 95 | 3% | 96% |  |
-| 96 | 4% | 94% |  |
-| 97 | 6% | 89% |  |
-| 98 | 8% | 83% | Last Result |
-| 99 | 9% | 75% |  |
-| 100 | 10% | 66% |  |
-| 101 | 11% | 55% | Median |
-| 102 | 10% | 45% |  |
-| 103 | 9% | 34% |  |
-| 104 | 8% | 25% |  |
-| 105 | 6% | 18% |  |
-| 106 | 4% | 12% |  |
-| 107 | 3% | 7% |  |
+| 96 | 5% | 93% |  |
+| 97 | 7% | 88% |  |
+| 98 | 8% | 81% | Last Result |
+| 99 | 10% | 73% |  |
+| 100 | 11% | 63% |  |
+| 101 | 11% | 53% | Median |
+| 102 | 10% | 42% |  |
+| 103 | 9% | 32% |  |
+| 104 | 7% | 23% |  |
+| 105 | 5% | 16% |  |
+| 106 | 4% | 10% |  |
+| 107 | 3% | 6% |  |
 | 108 | 2% | 4% |  |
-| 109 | 1.2% | 3% |  |
-| 110 | 0.7% | 1.4% |  |
-| 111 | 0.4% | 0.7% |  |
+| 109 | 1.0% | 2% |  |
+| 110 | 0.6% | 1.2% |  |
+| 111 | 0.3% | 0.6% |  |
 | 112 | 0.2% | 0.3% |  |
-| 113 | 0.1% | 0.2% |  |
+| 113 | 0.1% | 0.1% |  |
 | 114 | 0% | 0.1% |  |
 | 115 | 0% | 0% |  |
 
