@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **148** seats (-39 seats)
+Current median: **147** seats (-40 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 148 | 142–153 | 140–155 | 139–156 | 136–159 |
+| European People’s Party | EU | 187 | 147 | 142–153 | 140–155 | 139–156 | 136–159 |
 | Partido Popular | ES | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | Christlich Demokratische Union Deutschlands | DE | | 15 | 14–17 | 14–18 | 14–19 | 13–19 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
@@ -37,7 +37,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2–3 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -78,34 +78,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 133 | 0% | 100% |  |
 | 134 | 0.1% | 99.9% |  |
-| 135 | 0.1% | 99.9% |  |
+| 135 | 0.2% | 99.9% |  |
 | 136 | 0.3% | 99.7% |  |
-| 137 | 0.5% | 99.5% |  |
-| 138 | 0.8% | 99.0% |  |
-| 139 | 1.4% | 98% |  |
-| 140 | 2% | 97% |  |
-| 141 | 3% | 95% |  |
-| 142 | 4% | 92% |  |
-| 143 | 5% | 88% |  |
-| 144 | 7% | 82% |  |
-| 145 | 8% | 76% |  |
-| 146 | 8% | 68% |  |
-| 147 | 9% | 60% |  |
-| 148 | 9% | 51% | Median |
-| 149 | 8% | 42% |  |
-| 150 | 8% | 33% |  |
-| 151 | 7% | 26% |  |
-| 152 | 5% | 19% |  |
-| 153 | 4% | 14% |  |
-| 154 | 3% | 9% |  |
-| 155 | 2% | 6% |  |
-| 156 | 2% | 4% |  |
-| 157 | 1.0% | 2% |  |
-| 158 | 0.6% | 1.3% |  |
-| 159 | 0.4% | 0.7% |  |
-| 160 | 0.2% | 0.4% |  |
+| 137 | 0.6% | 99.4% |  |
+| 138 | 0.9% | 98.8% |  |
+| 139 | 2% | 98% |  |
+| 140 | 2% | 96% |  |
+| 141 | 3% | 94% |  |
+| 142 | 4% | 91% |  |
+| 143 | 6% | 86% |  |
+| 144 | 7% | 81% |  |
+| 145 | 8% | 74% |  |
+| 146 | 9% | 66% |  |
+| 147 | 9% | 58% | Median |
+| 148 | 9% | 49% |  |
+| 149 | 8% | 40% |  |
+| 150 | 7% | 31% |  |
+| 151 | 6% | 24% |  |
+| 152 | 5% | 18% |  |
+| 153 | 4% | 12% |  |
+| 154 | 3% | 8% |  |
+| 155 | 2% | 5% |  |
+| 156 | 1.4% | 3% |  |
+| 157 | 0.9% | 2% |  |
+| 158 | 0.5% | 1.1% |  |
+| 159 | 0.3% | 0.6% |  |
+| 160 | 0.2% | 0.3% |  |
 | 161 | 0.1% | 0.2% |  |
-| 162 | 0.1% | 0.1% |  |
+| 162 | 0% | 0.1% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
 | 165 | 0% | 0% |  |
