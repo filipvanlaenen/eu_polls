@@ -1,59 +1,56 @@
 # Greens–European Free Alliance
 
-Members registered from **22 countries**:
+Members registered from **20 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI
+> AT, BE, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **50** seats (-17 seats)
+Current median: **49** seats (-18 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, ES, FI, FR, HR, LT, LU, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, LT, LU, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 50 | 45–54 | 44–55 | 43–56 | 40–58 |
-| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 13–18 | 12–19 | 12–19 |
+| Greens–European Free Alliance | EU | 67 | 49 | 45–53 | 44–54 | 42–55 | 40–57 |
+| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 14–17 | 14–19 | 13–19 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
-| Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4 | 4 | 4 | 4 |
-| Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Coalició Compromís | ES | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
-| Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| GroenLinks | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 2 | 2 | 2–3 |
-| Možemo! | HR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Coalició Compromís | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Možemo! | HR | | 2 | 2 | 2 | 2 | 2–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| GroenLinks | NL | | 1 | 1–2 | 1–3 | 0–3 | 0–3 |
 | Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Volt Europa | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| PROGRESĪVIE | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -63,30 +60,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.2% | 99.9% |  |
-| 40 | 0.3% | 99.7% |  |
-| 41 | 0.6% | 99.4% |  |
-| 42 | 1.1% | 98.8% |  |
-| 43 | 2% | 98% |  |
-| 44 | 3% | 96% |  |
-| 45 | 4% | 93% |  |
-| 46 | 5% | 89% |  |
-| 47 | 7% | 84% |  |
-| 48 | 9% | 76% |  |
-| 49 | 11% | 67% |  |
-| 50 | 12% | 56% | Median |
-| 51 | 11% | 44% |  |
-| 52 | 10% | 33% |  |
-| 53 | 8% | 22% |  |
-| 54 | 6% | 14% |  |
-| 55 | 4% | 8% |  |
-| 56 | 2% | 5% |  |
-| 57 | 1.2% | 2% |  |
-| 58 | 0.6% | 1.0% |  |
-| 59 | 0.3% | 0.5% |  |
-| 60 | 0.1% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.1% | 99.9% |  |
+| 40 | 0.4% | 99.8% |  |
+| 41 | 0.7% | 99.5% |  |
+| 42 | 1.3% | 98.7% |  |
+| 43 | 2% | 97% |  |
+| 44 | 3% | 95% |  |
+| 45 | 4% | 92% |  |
+| 46 | 6% | 88% |  |
+| 47 | 9% | 82% |  |
+| 48 | 11% | 73% |  |
+| 49 | 13% | 62% | Median |
+| 50 | 13% | 49% |  |
+| 51 | 11% | 36% |  |
+| 52 | 9% | 24% |  |
+| 53 | 7% | 15% |  |
+| 54 | 4% | 9% |  |
+| 55 | 2% | 4% |  |
+| 56 | 1.1% | 2% |  |
+| 57 | 0.5% | 0.9% |  |
+| 58 | 0.2% | 0.4% |  |
+| 59 | 0.1% | 0.1% |  |
+| 60 | 0% | 0% |  |
+| 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |

@@ -1,14 +1,14 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (+17 seats)
+Current median: **73** seats (+12 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,30 +18,30 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 78 | 73–83 | 72–84 | 71–85 | 69–87 |
-| Zjednoczona Prawica | PL | | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
-| Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| Vox | ES | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
-| SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
-| Alianța pentru Unirea Românilor | RO | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
-| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–2 |
+| European Conservatives and Reformists | EU | 61 | 73 | 69–78 | 67–79 | 66–80 | 65–82 |
+| Zjednoczona Prawica | PL | | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
+| Fratelli d’Italia | IT | | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
+| Vox | ES | | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
+| SPOLU | CZ | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Sverigedemokraterna | SE | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Alianța pentru Unirea Românilor | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
+| Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
+| Juiste Antwoord 2021 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
-| Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Българските патриоти | BG | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -54,33 +54,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
-| 63 | 0% | 100% |  |
-| 64 | 0% | 100% |  |
-| 65 | 0% | 100% |  |
-| 66 | 0% | 100% |  |
-| 67 | 0.1% | 100% |  |
-| 68 | 0.3% | 99.9% |  |
-| 69 | 0.6% | 99.6% |  |
-| 70 | 1.2% | 99.0% |  |
-| 71 | 2% | 98% |  |
-| 72 | 4% | 96% |  |
-| 73 | 5% | 92% |  |
-| 74 | 7% | 87% |  |
-| 75 | 9% | 80% |  |
-| 76 | 10% | 71% |  |
-| 77 | 10% | 61% |  |
-| 78 | 10% | 52% | Median |
-| 79 | 9% | 42% |  |
-| 80 | 8% | 33% |  |
-| 81 | 7% | 24% |  |
-| 82 | 6% | 17% |  |
-| 83 | 4% | 11% |  |
-| 84 | 3% | 7% |  |
-| 85 | 2% | 4% |  |
-| 86 | 1.0% | 2% |  |
-| 87 | 0.5% | 0.9% |  |
-| 88 | 0.2% | 0.4% |  |
-| 89 | 0.1% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 63 | 0.1% | 100% |  |
+| 64 | 0.3% | 99.9% |  |
+| 65 | 0.7% | 99.6% |  |
+| 66 | 1.5% | 98.9% |  |
+| 67 | 3% | 97% |  |
+| 68 | 4% | 95% |  |
+| 69 | 6% | 90% |  |
+| 70 | 8% | 84% |  |
+| 71 | 10% | 76% |  |
+| 72 | 10% | 66% |  |
+| 73 | 10% | 56% | Median |
+| 74 | 10% | 46% |  |
+| 75 | 9% | 36% |  |
+| 76 | 8% | 27% |  |
+| 77 | 7% | 19% |  |
+| 78 | 5% | 13% |  |
+| 79 | 4% | 8% |  |
+| 80 | 2% | 4% |  |
+| 81 | 1.2% | 2% |  |
+| 82 | 0.6% | 0.9% |  |
+| 83 | 0.2% | 0.3% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% |  |
 
 
