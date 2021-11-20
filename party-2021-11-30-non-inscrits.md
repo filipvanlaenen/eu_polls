@@ -18,13 +18,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 30–36 | 29–37 | 28–37 | 27–39 |
+| Non-Inscrits | EU | 29 | 33 | 30–36 | 29–37 | 29–37 | 27–39 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 12–17 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 4 | 3–6 | 2–6 | 2–6 | 0–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +47,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 0.2% | 99.9% |  |
 | 27 | 0.6% | 99.7% |  |
 | 28 | 2% | 99.2% |  |
-| 29 | 4% | 97% | Last Result |
+| 29 | 4% | 98% | Last Result |
 | 30 | 8% | 93% |  |
 | 31 | 13% | 85% |  |
 | 32 | 17% | 72% |  |
