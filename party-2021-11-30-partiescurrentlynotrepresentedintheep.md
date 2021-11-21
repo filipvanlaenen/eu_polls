@@ -32,7 +32,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
