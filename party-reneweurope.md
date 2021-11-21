@@ -31,7 +31,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -71,16 +71,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% |  |
-| 85 | 0.3% | 99.9% |  |
-| 86 | 0.7% | 99.6% |  |
-| 87 | 2% | 98.9% |  |
+| 85 | 0.2% | 99.9% |  |
+| 86 | 0.7% | 99.7% |  |
+| 87 | 2% | 99.0% |  |
 | 88 | 4% | 97% |  |
 | 89 | 6% | 94% |  |
-| 90 | 9% | 87% |  |
+| 90 | 9% | 88% |  |
 | 91 | 12% | 78% |  |
 | 92 | 14% | 66% |  |
 | 93 | 14% | 52% | Median |
-| 94 | 12% | 38% |  |
+| 94 | 13% | 38% |  |
 | 95 | 10% | 26% |  |
 | 96 | 7% | 16% |  |
 | 97 | 4% | 9% |  |
