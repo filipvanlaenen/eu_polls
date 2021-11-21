@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (+4 seats)
+Current median: **35** seats (+6 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 30–36 | 29–37 | 29–37 | 27–39 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 12–17 | 11–17 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
+| Non-Inscrits | EU | 29 | 35 | 33–37 | 32–38 | 31–39 | 30–40 |
+| Movimento 5 Stelle | IT | | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
 | Konfederacja | PL | | 4 | 3–6 | 2–6 | 2–6 | 0–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 0–1 |
-| Nye Borgerlige | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Nye Borgerlige | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -43,22 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.2% | 99.9% |  |
-| 27 | 0.6% | 99.7% |  |
-| 28 | 2% | 99.2% |  |
-| 29 | 4% | 98% | Last Result |
-| 30 | 8% | 93% |  |
-| 31 | 13% | 85% |  |
-| 32 | 17% | 72% |  |
-| 33 | 18% | 55% | Median |
-| 34 | 15% | 38% |  |
-| 35 | 11% | 22% |  |
-| 36 | 6% | 12% |  |
-| 37 | 3% | 5% |  |
-| 38 | 1.3% | 2% |  |
-| 39 | 0.5% | 0.6% |  |
-| 40 | 0.1% | 0.2% |  |
-| 41 | 0% | 0% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0.2% | 99.9% | Last Result |
+| 30 | 0.6% | 99.7% |  |
+| 31 | 2% | 99.1% |  |
+| 32 | 5% | 97% |  |
+| 33 | 12% | 92% |  |
+| 34 | 20% | 80% |  |
+| 35 | 22% | 60% | Median |
+| 36 | 18% | 37% |  |
+| 37 | 11% | 19% |  |
+| 38 | 5% | 8% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.6% | 0.7% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 

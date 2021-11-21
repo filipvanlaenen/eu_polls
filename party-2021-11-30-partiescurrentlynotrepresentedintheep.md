@@ -1,27 +1,28 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> AT, BE, BG, CZ, DK, FR, HR, IE, LU, LV, NL, PL, SI, SK
+> AT, BE, BG, CZ, FR, HR, IE, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+16 seats)
+Current median: **17** seats (+17 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> AT, BG, NL, PL
+> AT, BG, LV, NL, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
+| Parties currently not represented in the EP | EU | 0 | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Polska 2050 [PL] (*) | PL | | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -34,12 +35,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -62,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.5% | 100% |  |
-| 13 | 4% | 99.5% |  |
-| 14 | 12% | 96% |  |
-| 15 | 23% | 84% |  |
-| 16 | 27% | 61% | Median |
-| 17 | 20% | 34% |  |
-| 18 | 10% | 14% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.7% | 0.8% |  |
-| 21 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 1.1% | 99.9% |  |
+| 14 | 6% | 98.8% |  |
+| 15 | 15% | 93% |  |
+| 16 | 25% | 78% |  |
+| 17 | 26% | 53% | Median |
+| 18 | 17% | 27% |  |
+| 19 | 7% | 10% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.4% | 0.4% |  |
 | 22 | 0% | 0% |  |
 
 

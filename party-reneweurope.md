@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 90–97 | 89–98 | 88–99 | 86–101 |
+| Renew Europe | EU | 98 | 93 | 89–97 | 88–98 | 88–99 | 86–101 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
-| Freie Demokratische Partei | DE | | 13 | 12–14 | 11–14 | 11–15 | 11–17 |
+| Freie Demokratische Partei | DE | | 12 | 11–14 | 11–15 | 11–15 | 10–17 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 9 | 8–9 | 8–9 | 7–9 | 7–11 |
 | ANO 2011 | CZ | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -33,15 +33,15 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Venstre | DK | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Iniciativa Liberal | PT | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 0–1 |
@@ -55,12 +55,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
-| Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
+| Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -73,23 +73,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% |  |
 | 85 | 0.2% | 99.9% |  |
 | 86 | 0.5% | 99.8% |  |
-| 87 | 1.2% | 99.3% |  |
+| 87 | 1.4% | 99.2% |  |
 | 88 | 3% | 98% |  |
-| 89 | 5% | 96% |  |
-| 90 | 8% | 91% |  |
-| 91 | 11% | 83% |  |
-| 92 | 13% | 72% |  |
-| 93 | 14% | 59% | Median |
-| 94 | 13% | 45% |  |
-| 95 | 11% | 32% |  |
-| 96 | 8% | 21% |  |
-| 97 | 6% | 12% |  |
-| 98 | 3% | 7% | Last Result |
-| 99 | 2% | 3% |  |
-| 100 | 0.9% | 2% |  |
-| 101 | 0.4% | 0.6% |  |
-| 102 | 0.2% | 0.2% |  |
-| 103 | 0.1% | 0.1% |  |
+| 89 | 5% | 95% |  |
+| 90 | 9% | 89% |  |
+| 91 | 12% | 81% |  |
+| 92 | 14% | 69% |  |
+| 93 | 14% | 55% | Median |
+| 94 | 13% | 41% |  |
+| 95 | 10% | 28% |  |
+| 96 | 7% | 18% |  |
+| 97 | 5% | 10% |  |
+| 98 | 3% | 5% | Last Result |
+| 99 | 1.5% | 3% |  |
+| 100 | 0.7% | 1.2% |  |
+| 101 | 0.3% | 0.5% |  |
+| 102 | 0.1% | 0.2% |  |
+| 103 | 0% | 0.1% |  |
 | 104 | 0% | 0% |  |
 
 
