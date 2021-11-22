@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> AT, BE, BG, CZ, DK, FR, HR, IE, LU, LV, NL, PL, SI, SK
+> AT, BE, BG, CZ, DK, FR, IE, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -18,14 +18,13 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -58,13 +57,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.4% | 100% |  |
-| 5 | 6% | 99.6% |  |
-| 6 | 26% | 94% |  |
-| 7 | 37% | 68% | Median |
-| 8 | 23% | 31% |  |
-| 9 | 7% | 9% |  |
-| 10 | 1.3% | 1.4% |  |
-| 11 | 0.1% | 0.1% |  |
+| 5 | 5% | 99.6% |  |
+| 6 | 23% | 94% |  |
+| 7 | 35% | 71% | Median |
+| 8 | 24% | 36% |  |
+| 9 | 9% | 11% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 

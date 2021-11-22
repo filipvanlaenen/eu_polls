@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (-18 seats)
+Current median: **50** seats (-17 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 45–54 | 43–55 | 42–56 | 40–57 |
+| Greens–European Free Alliance | EU | 67 | 50 | 45–55 | 44–56 | 43–57 | 40–59 |
 | Bündnis 90/Die Grünen | DE | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Coalició Compromís | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Coalició Compromís | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| GroenLinks | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Možemo! | HR | | 2 | 2 | 2 | 2 | 2–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| GroenLinks | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | NL | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Volt Europa | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -61,31 +61,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% |  |
-| 38 | 0.1% | 99.9% |  |
-| 39 | 0.3% | 99.8% |  |
-| 40 | 0.5% | 99.5% |  |
-| 41 | 0.9% | 99.0% |  |
-| 42 | 2% | 98% |  |
-| 43 | 2% | 97% |  |
-| 44 | 3% | 94% |  |
-| 45 | 5% | 91% |  |
-| 46 | 7% | 86% |  |
-| 47 | 9% | 79% |  |
-| 48 | 10% | 70% |  |
-| 49 | 11% | 60% | Median |
-| 50 | 11% | 49% |  |
-| 51 | 11% | 37% |  |
-| 52 | 9% | 27% |  |
-| 53 | 7% | 18% |  |
-| 54 | 5% | 11% |  |
-| 55 | 3% | 6% |  |
-| 56 | 2% | 3% |  |
-| 57 | 0.8% | 1.3% |  |
-| 58 | 0.3% | 0.5% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.2% | 99.9% |  |
+| 40 | 0.4% | 99.7% |  |
+| 41 | 0.6% | 99.4% |  |
+| 42 | 1.1% | 98.7% |  |
+| 43 | 2% | 98% |  |
+| 44 | 3% | 96% |  |
+| 45 | 4% | 93% |  |
+| 46 | 5% | 90% |  |
+| 47 | 7% | 84% |  |
+| 48 | 9% | 77% |  |
+| 49 | 10% | 69% |  |
+| 50 | 11% | 59% | Median |
+| 51 | 11% | 48% |  |
+| 52 | 10% | 37% |  |
+| 53 | 9% | 26% |  |
+| 54 | 7% | 18% |  |
+| 55 | 5% | 11% |  |
+| 56 | 3% | 6% |  |
+| 57 | 2% | 3% |  |
+| 58 | 0.9% | 2% |  |
+| 59 | 0.4% | 0.6% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
