@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Има такъв народ [BG] (*) | BG | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,7 +37,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,14 +56,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.4% | 100% |  |
-| 5 | 5% | 99.6% |  |
-| 6 | 23% | 94% |  |
-| 7 | 35% | 71% | Median |
-| 8 | 24% | 36% |  |
-| 9 | 9% | 11% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 10% | 99.2% |  |
+| 6 | 37% | 89% |  |
+| 7 | 34% | 52% | Median |
+| 8 | 14% | 18% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
 
 

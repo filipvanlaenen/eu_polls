@@ -8,17 +8,17 @@ Members registered from **15 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (+9 seats)
+Current median: **47** seats (+8 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, CZ, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
+> BE, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 48 | 44–51 | 43–52 | 42–53 | 41–55 |
+| European United Left–Nordic Green Left | EU | 39 | 47 | 44–51 | 43–52 | 42–53 | 40–55 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
@@ -31,13 +31,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Komunistická strana Čech a Moravy | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0 | 0 | 0 | 0 |
@@ -55,24 +55,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% | Last Result |
-| 40 | 0.2% | 99.9% |  |
-| 41 | 0.7% | 99.7% |  |
-| 42 | 2% | 99.0% |  |
-| 43 | 4% | 97% |  |
-| 44 | 6% | 94% |  |
-| 45 | 9% | 88% |  |
-| 46 | 12% | 79% |  |
-| 47 | 14% | 67% |  |
-| 48 | 14% | 53% | Median |
-| 49 | 13% | 39% |  |
-| 50 | 10% | 26% |  |
-| 51 | 7% | 16% |  |
-| 52 | 4% | 9% |  |
-| 53 | 2% | 5% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.6% | 1.0% |  |
-| 56 | 0.3% | 0.4% |  |
-| 57 | 0.1% | 0.2% |  |
+| 40 | 0.4% | 99.9% |  |
+| 41 | 1.1% | 99.5% |  |
+| 42 | 3% | 98% |  |
+| 43 | 5% | 96% |  |
+| 44 | 8% | 91% |  |
+| 45 | 11% | 83% |  |
+| 46 | 13% | 72% |  |
+| 47 | 15% | 58% | Median |
+| 48 | 14% | 44% |  |
+| 49 | 11% | 30% |  |
+| 50 | 8% | 18% |  |
+| 51 | 5% | 10% |  |
+| 52 | 3% | 5% |  |
+| 53 | 1.4% | 3% |  |
+| 54 | 0.7% | 1.2% |  |
+| 55 | 0.3% | 0.5% |  |
+| 56 | 0.1% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 
