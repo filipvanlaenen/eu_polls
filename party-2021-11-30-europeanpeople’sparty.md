@@ -18,20 +18,20 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 141 | 136–147 | 134–148 | 133–149 | 131–152 |
+| European People’s Party | EU | 187 | 141 | 136–146 | 134–148 | 133–149 | 130–152 |
 | Partido Popular | ES | | 17 | 14–19 | 13–19 | 13–20 | 12–21 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | Koalicja Obywatelska | PL | | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
-| Νέα Δημοκρατία | GR | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| Νέα Δημοκρατία | GR | | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
-| Forza Italia | IT | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| Fine Gael | IE | | 5 | 2–5 | 2–5 | 2–5 | 2–5 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 4–6 | 3–6 | 3–7 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
+| Fine Gael | IE | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -74,33 +74,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0.1% | 100% |  |
+| 127 | 0% | 100% |  |
+| 128 | 0.1% | 99.9% |  |
 | 129 | 0.1% | 99.9% |  |
-| 130 | 0.2% | 99.8% |  |
+| 130 | 0.3% | 99.7% |  |
 | 131 | 0.5% | 99.5% |  |
-| 132 | 0.8% | 99.1% |  |
-| 133 | 1.3% | 98% |  |
+| 132 | 0.9% | 98.9% |  |
+| 133 | 1.4% | 98% |  |
 | 134 | 2% | 97% |  |
-| 135 | 3% | 95% |  |
-| 136 | 4% | 92% |  |
-| 137 | 5% | 88% |  |
-| 138 | 7% | 83% |  |
-| 139 | 8% | 76% |  |
-| 140 | 9% | 68% |  |
-| 141 | 9% | 59% | Median |
-| 142 | 9% | 50% |  |
-| 143 | 9% | 40% |  |
-| 144 | 8% | 31% |  |
-| 145 | 7% | 23% |  |
-| 146 | 5% | 16% |  |
-| 147 | 4% | 11% |  |
-| 148 | 3% | 7% |  |
+| 135 | 3% | 94% |  |
+| 136 | 4% | 91% |  |
+| 137 | 6% | 87% |  |
+| 138 | 7% | 81% |  |
+| 139 | 8% | 74% |  |
+| 140 | 9% | 65% |  |
+| 141 | 10% | 56% | Median |
+| 142 | 9% | 47% |  |
+| 143 | 9% | 37% |  |
+| 144 | 8% | 29% |  |
+| 145 | 6% | 21% |  |
+| 146 | 5% | 15% |  |
+| 147 | 4% | 10% |  |
+| 148 | 2% | 6% |  |
 | 149 | 2% | 4% |  |
-| 150 | 1.1% | 2% |  |
-| 151 | 0.6% | 1.3% |  |
-| 152 | 0.4% | 0.7% |  |
+| 150 | 1.0% | 2% |  |
+| 151 | 0.6% | 1.2% |  |
+| 152 | 0.3% | 0.6% |  |
 | 153 | 0.2% | 0.3% |  |
-| 154 | 0.1% | 0.2% |  |
+| 154 | 0.1% | 0.1% |  |
 | 155 | 0% | 0.1% |  |
 | 156 | 0% | 0% |  |
 | 157 | 0% | 0% |  |
