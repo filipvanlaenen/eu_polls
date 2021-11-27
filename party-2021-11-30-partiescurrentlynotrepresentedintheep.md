@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, BG, CZ, DK, FR, IE, LU, LV, NL, PL, SI, SK
+> AT, BE, BG, CY, CZ, DK, FR, IE, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -42,6 +42,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function

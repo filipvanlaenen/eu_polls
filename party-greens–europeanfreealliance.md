@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **21 countries**:
+Members registered from **22 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI
 
 ## Seats
 
@@ -53,6 +53,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

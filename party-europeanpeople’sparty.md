@@ -1,24 +1,24 @@
 # European People’s Party
 
-Members registered from **24 countries**:
+Members registered from **25 countries**:
 
-> AT, BE, BG, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **141** seats (-46 seats)
+Current median: **144** seats (-43 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, DE, DK, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 141 | 135–146 | 134–148 | 133–149 | 130–151 |
+| European People’s Party | EU | 187 | 144 | 138–149 | 137–151 | 136–152 | 133–154 |
 | Partido Popular | ES | | 17 | 14–19 | 13–19 | 13–20 | 12–21 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 15–18 | 14–18 | 13–19 |
 | Koalicja Obywatelska | PL | | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
@@ -40,9 +40,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–3 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,37 +76,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 127 | 0% | 100% |  |
-| 128 | 0.1% | 99.9% |  |
-| 129 | 0.2% | 99.8% |  |
-| 130 | 0.3% | 99.7% |  |
-| 131 | 0.6% | 99.3% |  |
-| 132 | 1.1% | 98.7% |  |
-| 133 | 2% | 98% |  |
-| 134 | 3% | 96% |  |
-| 135 | 4% | 93% |  |
-| 136 | 5% | 90% |  |
-| 137 | 6% | 85% |  |
-| 138 | 8% | 78% |  |
-| 139 | 9% | 71% |  |
-| 140 | 9% | 62% |  |
-| 141 | 10% | 52% | Median |
-| 142 | 9% | 43% |  |
-| 143 | 8% | 34% |  |
-| 144 | 7% | 25% |  |
-| 145 | 6% | 18% |  |
-| 146 | 4% | 13% |  |
-| 147 | 3% | 8% |  |
-| 148 | 2% | 5% |  |
-| 149 | 1.3% | 3% |  |
-| 150 | 0.8% | 2% |  |
-| 151 | 0.5% | 0.9% |  |
-| 152 | 0.2% | 0.5% |  |
-| 153 | 0.1% | 0.2% |  |
-| 154 | 0.1% | 0.1% |  |
-| 155 | 0% | 0% |  |
-| 156 | 0% | 0% |  |
-| 157 | 0% | 0% |  |
+| 130 | 0% | 100% |  |
+| 131 | 0.1% | 99.9% |  |
+| 132 | 0.2% | 99.8% |  |
+| 133 | 0.3% | 99.7% |  |
+| 134 | 0.6% | 99.3% |  |
+| 135 | 1.1% | 98.7% |  |
+| 136 | 2% | 98% |  |
+| 137 | 3% | 96% |  |
+| 138 | 4% | 93% |  |
+| 139 | 5% | 90% |  |
+| 140 | 6% | 85% |  |
+| 141 | 8% | 78% |  |
+| 142 | 9% | 71% |  |
+| 143 | 9% | 62% |  |
+| 144 | 10% | 52% | Median |
+| 145 | 9% | 43% |  |
+| 146 | 8% | 34% |  |
+| 147 | 7% | 25% |  |
+| 148 | 6% | 18% |  |
+| 149 | 4% | 13% |  |
+| 150 | 3% | 8% |  |
+| 151 | 2% | 5% |  |
+| 152 | 1.3% | 3% |  |
+| 153 | 0.8% | 2% |  |
+| 154 | 0.5% | 0.9% |  |
+| 155 | 0.2% | 0.5% |  |
+| 156 | 0.1% | 0.2% |  |
+| 157 | 0.1% | 0.1% |  |
 | 158 | 0% | 0% |  |
 | 159 | 0% | 0% |  |
 | 160 | 0% | 0% |  |

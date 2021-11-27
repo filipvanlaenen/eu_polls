@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -64,6 +64,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

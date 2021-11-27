@@ -1,24 +1,24 @@
 # European United Left–Nordic Green Left
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BE, CZ, DE, DK, ES, FI, FR, GR, IE, IT, LU, NL, PT, SE, SI
+> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, IT, LU, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (+9 seats)
+Current median: **49** seats (+10 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 48 | 44–51 | 43–52 | 43–53 | 41–55 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 45–52 | 44–53 | 44–54 | 42–56 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
@@ -35,6 +35,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -55,24 +56,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0.2% | 100% |  |
-| 41 | 0.5% | 99.8% |  |
-| 42 | 1.4% | 99.2% |  |
-| 43 | 3% | 98% |  |
-| 44 | 6% | 95% |  |
-| 45 | 8% | 89% |  |
-| 46 | 11% | 81% |  |
-| 47 | 14% | 69% |  |
-| 48 | 15% | 56% | Median |
-| 49 | 14% | 41% |  |
-| 50 | 11% | 28% |  |
-| 51 | 8% | 17% |  |
-| 52 | 5% | 9% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.5% | 0.9% |  |
-| 56 | 0.2% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.5% | 99.8% |  |
+| 43 | 1.4% | 99.2% |  |
+| 44 | 3% | 98% |  |
+| 45 | 6% | 95% |  |
+| 46 | 8% | 89% |  |
+| 47 | 11% | 81% |  |
+| 48 | 14% | 69% |  |
+| 49 | 15% | 56% | Median |
+| 50 | 14% | 41% |  |
+| 51 | 11% | 28% |  |
+| 52 | 8% | 17% |  |
+| 53 | 5% | 9% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.2% | 2% |  |
+| 56 | 0.5% | 0.9% |  |
+| 57 | 0.2% | 0.4% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
