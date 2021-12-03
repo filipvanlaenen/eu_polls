@@ -34,7 +34,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–2 | 0–3 | 0–3 | 0–4 |
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 100 | 11% | 63% |  |
 | 101 | 11% | 52% | Median |
 | 102 | 10% | 41% |  |
-| 103 | 9% | 30% |  |
-| 104 | 7% | 21% |  |
+| 103 | 9% | 31% |  |
+| 104 | 7% | 22% |  |
 | 105 | 5% | 14% |  |
 | 106 | 4% | 9% |  |
 | 107 | 2% | 5% |  |
