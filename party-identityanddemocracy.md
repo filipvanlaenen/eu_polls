@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 74 | 71–78 | 70–79 | 69–80 | 67–81 |
+| Identity and Democracy | EU | 76 | 74 | 71–78 | 70–79 | 69–79 | 67–81 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
 | Lega Nord | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
-| Alternative für Deutschland | DE | | 11 | 9–12 | 8–12 | 8–12 | 8–13 |
+| Alternative für Deutschland | DE | | 10 | 8–12 | 8–12 | 8–12 | 8–13 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–3 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2 | 2 | 2 | 2 |
@@ -44,21 +44,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0.2% | 99.9% |  |
 | 67 | 0.5% | 99.8% |  |
-| 68 | 1.1% | 99.3% |  |
-| 69 | 2% | 98% |  |
-| 70 | 5% | 96% |  |
-| 71 | 7% | 91% |  |
-| 72 | 10% | 84% |  |
-| 73 | 13% | 73% |  |
-| 74 | 14% | 61% | Median |
-| 75 | 14% | 46% |  |
-| 76 | 12% | 33% | Last Result |
-| 77 | 9% | 21% |  |
-| 78 | 6% | 12% |  |
-| 79 | 3% | 6% |  |
-| 80 | 2% | 3% |  |
-| 81 | 0.7% | 1.1% |  |
-| 82 | 0.3% | 0.4% |  |
+| 68 | 1.3% | 99.3% |  |
+| 69 | 3% | 98% |  |
+| 70 | 5% | 95% |  |
+| 71 | 8% | 90% |  |
+| 72 | 11% | 82% |  |
+| 73 | 14% | 71% |  |
+| 74 | 14% | 57% | Median |
+| 75 | 13% | 43% |  |
+| 76 | 11% | 30% | Last Result |
+| 77 | 8% | 19% |  |
+| 78 | 5% | 10% |  |
+| 79 | 3% | 5% |  |
+| 80 | 1.4% | 2% |  |
+| 81 | 0.6% | 0.9% |  |
+| 82 | 0.2% | 0.3% |  |
 | 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |
 
