@@ -57,9 +57,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,33 +67,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 136 | 0.1% | 99.9% |  |
 | 137 | 0.2% | 99.8% |  |
 | 138 | 0.3% | 99.6% |  |
-| 139 | 0.6% | 99.3% |  |
+| 139 | 0.5% | 99.3% |  |
 | 140 | 0.8% | 98.7% |  |
 | 141 | 1.2% | 98% |  |
 | 142 | 2% | 97% |  |
 | 143 | 2% | 95% |  |
 | 144 | 3% | 93% |  |
 | 145 | 4% | 90% |  |
-| 146 | 5% | 86% |  |
-| 147 | 5% | 81% | Last Result |
+| 146 | 4% | 86% |  |
+| 147 | 5% | 82% | Last Result |
 | 148 | 6% | 76% |  |
 | 149 | 7% | 70% |  |
 | 150 | 8% | 63% |  |
-| 151 | 8% | 55% | Median |
-| 152 | 8% | 47% |  |
-| 153 | 8% | 39% |  |
+| 151 | 8% | 56% | Median |
+| 152 | 8% | 48% |  |
+| 153 | 8% | 40% |  |
 | 154 | 7% | 32% |  |
 | 155 | 6% | 25% |  |
-| 156 | 5% | 18% |  |
-| 157 | 4% | 13% |  |
+| 156 | 5% | 19% |  |
+| 157 | 4% | 14% |  |
 | 158 | 3% | 9% |  |
 | 159 | 2% | 6% |  |
 | 160 | 2% | 4% |  |
 | 161 | 1.0% | 2% |  |
-| 162 | 0.6% | 1.2% |  |
-| 163 | 0.3% | 0.6% |  |
+| 162 | 0.6% | 1.3% |  |
+| 163 | 0.3% | 0.7% |  |
 | 164 | 0.2% | 0.3% |  |
-| 165 | 0.1% | 0.1% |  |
+| 165 | 0.1% | 0.2% |  |
 | 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 

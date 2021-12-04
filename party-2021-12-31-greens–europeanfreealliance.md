@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (-15 seats)
+Current median: **53** seats (-14 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 48–56 | 46–57 | 45–58 | 43–60 |
+| Greens–European Free Alliance | EU | 67 | 53 | 48–57 | 47–58 | 46–59 | 43–61 |
 | Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 14–18 | 13–18 | 13–19 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -33,6 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -49,7 +50,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,27 +65,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
-| 43 | 0.5% | 99.6% |  |
-| 44 | 0.9% | 99.1% |  |
-| 45 | 1.5% | 98% |  |
-| 46 | 2% | 97% |  |
-| 47 | 3% | 94% |  |
-| 48 | 5% | 91% |  |
-| 49 | 7% | 86% |  |
-| 50 | 9% | 79% |  |
-| 51 | 11% | 70% |  |
-| 52 | 12% | 60% | Median |
-| 53 | 12% | 48% |  |
-| 54 | 11% | 36% |  |
-| 55 | 9% | 25% |  |
-| 56 | 7% | 16% |  |
-| 57 | 4% | 9% |  |
-| 58 | 3% | 5% |  |
-| 59 | 1.3% | 2% |  |
-| 60 | 0.6% | 0.9% |  |
-| 61 | 0.2% | 0.3% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
+| 43 | 0.3% | 99.8% |  |
+| 44 | 0.6% | 99.4% |  |
+| 45 | 1.1% | 98.8% |  |
+| 46 | 2% | 98% |  |
+| 47 | 3% | 96% |  |
+| 48 | 4% | 93% |  |
+| 49 | 6% | 89% |  |
+| 50 | 8% | 84% |  |
+| 51 | 10% | 76% |  |
+| 52 | 11% | 67% |  |
+| 53 | 12% | 55% | Median |
+| 54 | 12% | 44% |  |
+| 55 | 10% | 32% |  |
+| 56 | 8% | 22% |  |
+| 57 | 6% | 14% |  |
+| 58 | 4% | 8% |  |
+| 59 | 2% | 4% |  |
+| 60 | 1.1% | 2% |  |
+| 61 | 0.4% | 0.7% |  |
+| 62 | 0.2% | 0.2% |  |
+| 63 | 0% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
