@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 151 | 145–157 | 143–159 | 141–160 | 138–163 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 151 | 145–158 | 143–159 | 141–161 | 138–163 |
 | Sozialdemokratische Partei Deutschlands | DE | | 24 | 22–27 | 22–27 | 21–27 | 21–28 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -57,9 +57,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -76,21 +76,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 4% | 90% |  |
 | 146 | 4% | 87% |  |
 | 147 | 5% | 83% | Last Result |
-| 148 | 6% | 77% |  |
-| 149 | 7% | 71% |  |
-| 150 | 7% | 64% |  |
+| 148 | 6% | 78% |  |
+| 149 | 7% | 72% |  |
+| 150 | 7% | 65% |  |
 | 151 | 8% | 57% | Median |
-| 152 | 8% | 49% |  |
-| 153 | 8% | 41% |  |
-| 154 | 7% | 33% |  |
-| 155 | 6% | 26% |  |
-| 156 | 5% | 20% |  |
-| 157 | 4% | 14% |  |
+| 152 | 8% | 50% |  |
+| 153 | 8% | 42% |  |
+| 154 | 7% | 34% |  |
+| 155 | 6% | 27% |  |
+| 156 | 6% | 20% |  |
+| 157 | 4% | 15% |  |
 | 158 | 3% | 10% |  |
 | 159 | 2% | 7% |  |
 | 160 | 2% | 4% |  |
-| 161 | 1.1% | 2% |  |
-| 162 | 0.7% | 1.4% |  |
+| 161 | 1.1% | 3% |  |
+| 162 | 0.7% | 1.5% |  |
 | 163 | 0.4% | 0.8% |  |
 | 164 | 0.2% | 0.4% |  |
 | 165 | 0.1% | 0.2% |  |
