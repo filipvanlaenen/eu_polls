@@ -28,7 +28,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -46,7 +46,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -78,28 +78,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 129 | 0% | 100% |  |
 | 130 | 0.1% | 99.9% |  |
 | 131 | 0.2% | 99.8% |  |
-| 132 | 0.4% | 99.6% |  |
-| 133 | 0.6% | 99.3% |  |
-| 134 | 1.0% | 98.7% |  |
+| 132 | 0.3% | 99.7% |  |
+| 133 | 0.6% | 99.4% |  |
+| 134 | 1.0% | 98.8% |  |
 | 135 | 2% | 98% |  |
 | 136 | 2% | 96% |  |
 | 137 | 3% | 94% |  |
-| 138 | 5% | 90% |  |
+| 138 | 4% | 91% |  |
 | 139 | 6% | 86% |  |
-| 140 | 7% | 80% |  |
-| 141 | 8% | 73% |  |
-| 142 | 9% | 65% |  |
-| 143 | 9% | 56% | Median |
-| 144 | 9% | 47% |  |
-| 145 | 8% | 38% |  |
-| 146 | 7% | 30% |  |
-| 147 | 6% | 22% |  |
-| 148 | 5% | 16% |  |
-| 149 | 4% | 11% |  |
-| 150 | 3% | 7% |  |
+| 140 | 7% | 81% |  |
+| 141 | 8% | 74% |  |
+| 142 | 9% | 66% |  |
+| 143 | 9% | 57% | Median |
+| 144 | 9% | 48% |  |
+| 145 | 8% | 39% |  |
+| 146 | 8% | 31% |  |
+| 147 | 6% | 23% |  |
+| 148 | 5% | 17% |  |
+| 149 | 4% | 12% |  |
+| 150 | 3% | 8% |  |
 | 151 | 2% | 5% |  |
-| 152 | 1.2% | 3% |  |
-| 153 | 0.7% | 2% |  |
+| 152 | 1.3% | 3% |  |
+| 153 | 0.8% | 2% |  |
 | 154 | 0.4% | 0.9% |  |
 | 155 | 0.2% | 0.5% |  |
 | 156 | 0.1% | 0.2% |  |

@@ -28,7 +28,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
-| Centerpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -83,14 +83,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 7% | 88% |  |
 | 97 | 8% | 82% |  |
 | 98 | 10% | 73% | Last Result |
-| 99 | 11% | 64% |  |
-| 100 | 11% | 53% | Median |
-| 101 | 10% | 42% |  |
+| 99 | 11% | 63% |  |
+| 100 | 11% | 52% | Median |
+| 101 | 10% | 41% |  |
 | 102 | 9% | 31% |  |
 | 103 | 7% | 22% |  |
 | 104 | 5% | 15% |  |
 | 105 | 4% | 10% |  |
-| 106 | 3% | 6% |  |
+| 106 | 2% | 6% |  |
 | 107 | 2% | 3% |  |
 | 108 | 0.9% | 2% |  |
 | 109 | 0.5% | 1.0% |  |
