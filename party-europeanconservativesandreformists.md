@@ -21,7 +21,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 61 | 79 | 74–84 | 73–85 | 72–86 | 70–88 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
 | Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
-| Vox | ES | | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
+| Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -47,9 +47,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -69,20 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 5% | 93% |  |
 | 75 | 7% | 88% |  |
 | 76 | 8% | 81% |  |
-| 77 | 9% | 72% |  |
+| 77 | 9% | 73% |  |
 | 78 | 10% | 63% |  |
 | 79 | 10% | 53% | Median |
-| 80 | 9% | 43% |  |
+| 80 | 9% | 44% |  |
 | 81 | 8% | 34% |  |
-| 82 | 7% | 25% |  |
+| 82 | 7% | 26% |  |
 | 83 | 6% | 18% |  |
 | 84 | 5% | 12% |  |
-| 85 | 3% | 7% |  |
+| 85 | 3% | 8% |  |
 | 86 | 2% | 4% |  |
 | 87 | 1.2% | 2% |  |
-| 88 | 0.6% | 1.0% |  |
+| 88 | 0.6% | 1.1% |  |
 | 89 | 0.3% | 0.4% |  |
 | 90 | 0.1% | 0.2% |  |
-| 91 | 0% | 0% |  |
+| 91 | 0% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 
