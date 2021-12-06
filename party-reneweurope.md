@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 100 | 95–105 | 94–106 | 93–107 | 91–110 |
+| Renew Europe | EU | 98 | 100 | 95–104 | 94–106 | 93–107 | 91–109 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 12 | 10–14 | 10–15 | 10–15 | 9–17 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
@@ -67,37 +67,37 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 89 | 0.1% | 100% |  |
-| 90 | 0.2% | 99.9% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 0.2% | 99.8% |  |
 | 91 | 0.5% | 99.6% |  |
-| 92 | 1.0% | 99.2% |  |
+| 92 | 1.1% | 99.1% |  |
 | 93 | 2% | 98% |  |
 | 94 | 3% | 96% |  |
 | 95 | 5% | 93% |  |
-| 96 | 6% | 89% |  |
-| 97 | 8% | 82% |  |
-| 98 | 10% | 74% | Last Result |
-| 99 | 11% | 64% |  |
-| 100 | 11% | 53% | Median |
-| 101 | 10% | 42% |  |
-| 102 | 9% | 32% |  |
-| 103 | 7% | 23% |  |
-| 104 | 6% | 16% |  |
-| 105 | 4% | 10% |  |
-| 106 | 3% | 6% |  |
-| 107 | 2% | 4% |  |
-| 108 | 0.9% | 2% |  |
-| 109 | 0.5% | 1.0% |  |
-| 110 | 0.3% | 0.5% |  |
-| 111 | 0.1% | 0.3% |  |
+| 96 | 7% | 88% |  |
+| 97 | 9% | 81% |  |
+| 98 | 10% | 72% | Last Result |
+| 99 | 11% | 62% |  |
+| 100 | 11% | 51% | Median |
+| 101 | 10% | 40% |  |
+| 102 | 9% | 30% |  |
+| 103 | 7% | 21% |  |
+| 104 | 5% | 14% |  |
+| 105 | 4% | 9% |  |
+| 106 | 2% | 6% |  |
+| 107 | 1.4% | 3% |  |
+| 108 | 0.8% | 2% |  |
+| 109 | 0.5% | 0.9% |  |
+| 110 | 0.2% | 0.5% |  |
+| 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |
-| 113 | 0% | 0.1% |  |
-| 114 | 0% | 0% |  |
+| 113 | 0% | 0% |  |
 
 
