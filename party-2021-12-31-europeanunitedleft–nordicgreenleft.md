@@ -31,9 +31,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Levica | SI | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,7 +60,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.1% | 100% |  |
 | 42 | 0.3% | 99.9% |  |
 | 43 | 1.0% | 99.6% |  |
-| 44 | 2% | 98.5% |  |
+| 44 | 2% | 98.6% |  |
 | 45 | 5% | 96% |  |
 | 46 | 8% | 91% |  |
 | 47 | 11% | 84% |  |

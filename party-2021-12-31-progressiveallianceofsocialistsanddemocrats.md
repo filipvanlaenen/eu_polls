@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 152 | 145–158 | 143–160 | 141–161 | 139–163 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 152 | 146–158 | 144–160 | 142–161 | 139–164 |
 | Sozialdemokratische Partei Deutschlands | DE | | 25 | 22–27 | 22–27 | 22–27 | 21–29 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -37,14 +37,14 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Partij van de Arbeid | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Socialni demokrati | SI | | 2 | 2 | 2 | 2 | 1–3 |
+| Socialni demokrati | SI | | 2 | 2 | 2 | 2 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Articolo Uno | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -63,38 +63,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 135 | 0% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
+| 136 | 0% | 100% |  |
 | 137 | 0.1% | 99.9% |  |
-| 138 | 0.2% | 99.7% |  |
-| 139 | 0.4% | 99.5% |  |
-| 140 | 0.7% | 99.1% |  |
-| 141 | 1.0% | 98% |  |
-| 142 | 1.4% | 97% |  |
-| 143 | 2% | 96% |  |
-| 144 | 3% | 94% |  |
-| 145 | 3% | 92% |  |
-| 146 | 4% | 88% |  |
-| 147 | 5% | 84% | Last Result |
-| 148 | 6% | 80% |  |
-| 149 | 6% | 74% |  |
-| 150 | 7% | 67% |  |
-| 151 | 8% | 60% |  |
-| 152 | 8% | 53% | Median |
-| 153 | 8% | 45% |  |
-| 154 | 8% | 37% |  |
-| 155 | 7% | 29% |  |
-| 156 | 6% | 23% |  |
-| 157 | 5% | 17% |  |
-| 158 | 4% | 12% |  |
-| 159 | 3% | 8% |  |
-| 160 | 2% | 5% |  |
-| 161 | 1.3% | 3% |  |
-| 162 | 0.8% | 2% |  |
-| 163 | 0.5% | 0.9% |  |
-| 164 | 0.3% | 0.5% |  |
-| 165 | 0.1% | 0.2% |  |
-| 166 | 0.1% | 0.1% |  |
-| 167 | 0% | 0% |  |
+| 138 | 0.2% | 99.8% |  |
+| 139 | 0.3% | 99.7% |  |
+| 140 | 0.5% | 99.3% |  |
+| 141 | 0.8% | 98.8% |  |
+| 142 | 1.2% | 98% |  |
+| 143 | 2% | 97% |  |
+| 144 | 2% | 95% |  |
+| 145 | 3% | 93% |  |
+| 146 | 4% | 90% |  |
+| 147 | 4% | 87% | Last Result |
+| 148 | 5% | 82% |  |
+| 149 | 6% | 77% |  |
+| 150 | 7% | 71% |  |
+| 151 | 7% | 64% |  |
+| 152 | 8% | 57% | Median |
+| 153 | 8% | 49% |  |
+| 154 | 8% | 41% |  |
+| 155 | 7% | 33% |  |
+| 156 | 6% | 26% |  |
+| 157 | 5% | 19% |  |
+| 158 | 4% | 14% |  |
+| 159 | 3% | 10% |  |
+| 160 | 2% | 6% |  |
+| 161 | 2% | 4% |  |
+| 162 | 1.0% | 2% |  |
+| 163 | 0.6% | 1.3% |  |
+| 164 | 0.3% | 0.7% |  |
+| 165 | 0.2% | 0.3% |  |
+| 166 | 0.1% | 0.2% |  |
+| 167 | 0% | 0.1% |  |
+| 168 | 0% | 0% |  |
 
 

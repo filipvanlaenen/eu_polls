@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **100** seats (+2 seats)
+Current median: **99** seats (+1 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 100 | 95–104 | 94–106 | 93–107 | 91–109 |
+| Renew Europe | EU | 98 | 99 | 95–104 | 94–106 | 93–107 | 91–109 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 12 | 10–14 | 10–15 | 10–15 | 9–17 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
@@ -43,8 +43,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 0–1 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 1–2 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,7 +60,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -75,27 +75,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
-| 90 | 0.2% | 99.8% |  |
-| 91 | 0.5% | 99.6% |  |
-| 92 | 1.1% | 99.1% |  |
+| 90 | 0.3% | 99.8% |  |
+| 91 | 0.6% | 99.6% |  |
+| 92 | 1.2% | 99.0% |  |
 | 93 | 2% | 98% |  |
 | 94 | 3% | 96% |  |
-| 95 | 5% | 93% |  |
-| 96 | 7% | 88% |  |
-| 97 | 9% | 81% |  |
-| 98 | 10% | 72% | Last Result |
-| 99 | 11% | 62% |  |
-| 100 | 11% | 51% | Median |
-| 101 | 10% | 40% |  |
-| 102 | 9% | 30% |  |
-| 103 | 7% | 21% |  |
-| 104 | 5% | 14% |  |
-| 105 | 4% | 9% |  |
-| 106 | 2% | 6% |  |
-| 107 | 1.4% | 3% |  |
+| 95 | 5% | 92% |  |
+| 96 | 7% | 87% |  |
+| 97 | 9% | 80% |  |
+| 98 | 10% | 71% | Last Result |
+| 99 | 11% | 61% | Median |
+| 100 | 11% | 50% |  |
+| 101 | 10% | 39% |  |
+| 102 | 9% | 29% |  |
+| 103 | 7% | 20% |  |
+| 104 | 5% | 13% |  |
+| 105 | 3% | 9% |  |
+| 106 | 2% | 5% |  |
+| 107 | 1.3% | 3% |  |
 | 108 | 0.8% | 2% |  |
-| 109 | 0.5% | 0.9% |  |
-| 110 | 0.2% | 0.5% |  |
+| 109 | 0.4% | 0.8% |  |
+| 110 | 0.2% | 0.4% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |

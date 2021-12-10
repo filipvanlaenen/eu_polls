@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 4% | 92% |  |
 | 49 | 6% | 88% |  |
 | 50 | 8% | 82% |  |
-| 51 | 10% | 74% |  |
+| 51 | 10% | 73% |  |
 | 52 | 12% | 63% |  |
 | 53 | 12% | 52% | Median |
 | 54 | 11% | 40% |  |

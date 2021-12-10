@@ -25,7 +25,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -69,10 +69,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 5% | 93% |  |
 | 75 | 7% | 88% |  |
 | 76 | 8% | 81% |  |
-| 77 | 9% | 72% |  |
+| 77 | 9% | 73% |  |
 | 78 | 10% | 63% |  |
 | 79 | 10% | 53% | Median |
-| 80 | 9% | 43% |  |
+| 80 | 9% | 44% |  |
 | 81 | 8% | 34% |  |
 | 82 | 7% | 26% |  |
 | 83 | 6% | 18% |  |
