@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **99** seats (+1 seats)
+Current median: **100** seats (+2 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 99 | 95–104 | 94–106 | 93–107 | 91–109 |
+| Renew Europe | EU | 98 | 100 | 95–104 | 94–106 | 93–107 | 91–109 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 12 | 10–14 | 10–15 | 10–15 | 9–17 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
@@ -31,7 +31,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -77,24 +77,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.3% | 99.8% |  |
 | 91 | 0.6% | 99.6% |  |
-| 92 | 1.2% | 99.0% |  |
+| 92 | 1.1% | 99.0% |  |
 | 93 | 2% | 98% |  |
 | 94 | 3% | 96% |  |
-| 95 | 5% | 92% |  |
+| 95 | 5% | 93% |  |
 | 96 | 7% | 87% |  |
-| 97 | 9% | 80% |  |
-| 98 | 10% | 71% | Last Result |
-| 99 | 11% | 61% | Median |
-| 100 | 11% | 50% |  |
+| 97 | 9% | 81% |  |
+| 98 | 10% | 72% | Last Result |
+| 99 | 11% | 61% |  |
+| 100 | 11% | 50% | Median |
 | 101 | 10% | 39% |  |
 | 102 | 9% | 29% |  |
-| 103 | 7% | 20% |  |
-| 104 | 5% | 13% |  |
+| 103 | 7% | 21% |  |
+| 104 | 5% | 14% |  |
 | 105 | 3% | 9% |  |
 | 106 | 2% | 5% |  |
-| 107 | 1.3% | 3% |  |
+| 107 | 1.4% | 3% |  |
 | 108 | 0.8% | 2% |  |
-| 109 | 0.4% | 0.8% |  |
+| 109 | 0.4% | 0.9% |  |
 | 110 | 0.2% | 0.4% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |
