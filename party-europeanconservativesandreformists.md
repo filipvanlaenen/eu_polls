@@ -25,7 +25,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -47,9 +47,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 3% | 8% |  |
 | 86 | 2% | 4% |  |
 | 87 | 1.2% | 2% |  |
-| 88 | 0.6% | 1.0% |  |
+| 88 | 0.6% | 1.1% |  |
 | 89 | 0.3% | 0.4% |  |
 | 90 | 0.1% | 0.2% |  |
 | 91 | 0% | 0.1% |  |
