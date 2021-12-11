@@ -36,7 +36,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Partij van de Arbeid | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Socialni demokrati | SI | | 2 | 2 | 2 | 2 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 7% | 72% |  |
 | 151 | 7% | 66% |  |
 | 152 | 8% | 58% |  |
-| 153 | 8% | 51% | Median |
+| 153 | 8% | 50% | Median |
 | 154 | 8% | 43% |  |
 | 155 | 7% | 35% |  |
 | 156 | 7% | 27% |  |
@@ -89,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 4% | 11% |  |
 | 160 | 3% | 7% |  |
 | 161 | 2% | 4% |  |
-| 162 | 1.2% | 3% |  |
-| 163 | 0.7% | 2% |  |
+| 162 | 1.1% | 3% |  |
+| 163 | 0.7% | 1.5% |  |
 | 164 | 0.4% | 0.8% |  |
 | 165 | 0.2% | 0.4% |  |
 | 166 | 0.1% | 0.2% |  |
