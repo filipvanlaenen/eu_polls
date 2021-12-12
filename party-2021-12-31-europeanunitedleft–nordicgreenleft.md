@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -42,7 +42,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
+| Sinistra Italiana | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0–1 |
@@ -57,24 +57,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
+| 41 | 0% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
 | 43 | 0.8% | 99.7% |  |
-| 44 | 2% | 98.9% |  |
+| 44 | 2% | 99.0% |  |
 | 45 | 4% | 97% |  |
-| 46 | 7% | 92% |  |
-| 47 | 10% | 85% |  |
-| 48 | 13% | 75% |  |
-| 49 | 15% | 62% | Median |
-| 50 | 15% | 48% |  |
-| 51 | 12% | 33% |  |
-| 52 | 9% | 21% |  |
-| 53 | 6% | 12% |  |
-| 54 | 3% | 6% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.8% | 1.4% |  |
-| 57 | 0.4% | 0.6% |  |
-| 58 | 0.2% | 0.2% |  |
+| 46 | 7% | 93% |  |
+| 47 | 10% | 86% |  |
+| 48 | 13% | 76% |  |
+| 49 | 14% | 64% | Median |
+| 50 | 14% | 49% |  |
+| 51 | 12% | 35% |  |
+| 52 | 9% | 23% |  |
+| 53 | 6% | 13% |  |
+| 54 | 4% | 7% |  |
+| 55 | 2% | 4% |  |
+| 56 | 1.1% | 2% |  |
+| 57 | 0.5% | 0.9% |  |
+| 58 | 0.2% | 0.4% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 

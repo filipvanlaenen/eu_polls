@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 99 | 95–103 | 94–104 | 93–105 | 91–108 |
+| Renew Europe | EU | 98 | 99 | 95–104 | 94–105 | 93–106 | 91–108 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 6–8 | 6–9 | 6–10 |
@@ -39,7 +39,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -52,10 +51,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -76,25 +76,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0.1% | 100% |  |
 | 90 | 0.3% | 99.9% |  |
 | 91 | 0.6% | 99.6% |  |
-| 92 | 1.3% | 98.9% |  |
+| 92 | 1.2% | 99.0% |  |
 | 93 | 2% | 98% |  |
 | 94 | 4% | 95% |  |
-| 95 | 6% | 91% |  |
-| 96 | 8% | 85% |  |
-| 97 | 10% | 77% |  |
-| 98 | 12% | 66% | Last Result |
-| 99 | 12% | 55% | Median |
-| 100 | 11% | 43% |  |
-| 101 | 10% | 31% |  |
-| 102 | 8% | 22% |  |
-| 103 | 6% | 14% |  |
-| 104 | 4% | 8% |  |
-| 105 | 2% | 5% |  |
-| 106 | 1.2% | 2% |  |
-| 107 | 0.6% | 1.2% |  |
-| 108 | 0.3% | 0.5% |  |
-| 109 | 0.1% | 0.2% |  |
-| 110 | 0.1% | 0.1% |  |
-| 111 | 0% | 0% |  |
+| 95 | 6% | 92% |  |
+| 96 | 8% | 86% |  |
+| 97 | 10% | 78% |  |
+| 98 | 11% | 68% | Last Result |
+| 99 | 12% | 57% | Median |
+| 100 | 11% | 45% |  |
+| 101 | 10% | 34% |  |
+| 102 | 8% | 24% |  |
+| 103 | 6% | 16% |  |
+| 104 | 4% | 10% |  |
+| 105 | 3% | 6% |  |
+| 106 | 2% | 4% |  |
+| 107 | 0.9% | 2% |  |
+| 108 | 0.5% | 1.0% |  |
+| 109 | 0.3% | 0.5% |  |
+| 110 | 0.1% | 0.2% |  |
+| 111 | 0.1% | 0.1% |  |
+| 112 | 0% | 0% |  |
 
 

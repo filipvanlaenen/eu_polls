@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 74 | 70–78 | 69–79 | 68–79 | 67–81 |
+| Identity and Democracy | EU | 76 | 74 | 70–77 | 69–78 | 68–79 | 67–81 |
 | Rassemblement national | FR | | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
-| Lega Nord | IT | | 16 | 15–18 | 14–19 | 14–20 | 13–21 |
+| Lega Nord | IT | | 16 | 15–18 | 14–19 | 14–19 | 13–21 |
 | Alternative für Deutschland | DE | | 11 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -42,23 +42,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 65 | 0.1% | 100% |  |
-| 66 | 0.3% | 99.9% |  |
-| 67 | 0.7% | 99.6% |  |
-| 68 | 2% | 98.9% |  |
-| 69 | 3% | 97% |  |
-| 70 | 6% | 94% |  |
-| 71 | 9% | 88% |  |
-| 72 | 11% | 79% |  |
-| 73 | 13% | 68% |  |
-| 74 | 14% | 55% | Median |
-| 75 | 13% | 41% |  |
-| 76 | 10% | 28% | Last Result |
-| 77 | 8% | 18% |  |
-| 78 | 5% | 10% |  |
-| 79 | 3% | 5% |  |
-| 80 | 1.4% | 2% |  |
-| 81 | 0.6% | 1.0% |  |
-| 82 | 0.2% | 0.4% |  |
+| 66 | 0.3% | 99.8% |  |
+| 67 | 0.9% | 99.5% |  |
+| 68 | 2% | 98.6% |  |
+| 69 | 4% | 97% |  |
+| 70 | 6% | 93% |  |
+| 71 | 9% | 87% |  |
+| 72 | 12% | 77% |  |
+| 73 | 14% | 65% |  |
+| 74 | 14% | 52% | Median |
+| 75 | 12% | 38% |  |
+| 76 | 10% | 26% | Last Result |
+| 77 | 7% | 16% |  |
+| 78 | 4% | 9% |  |
+| 79 | 2% | 4% |  |
+| 80 | 1.2% | 2% |  |
+| 81 | 0.5% | 0.8% |  |
+| 82 | 0.2% | 0.3% |  |
 | 83 | 0.1% | 0.1% |  |
 | 84 | 0% | 0% |  |
 

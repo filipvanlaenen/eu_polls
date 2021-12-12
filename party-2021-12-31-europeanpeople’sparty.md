@@ -43,8 +43,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -55,7 +56,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Jaunā konservatīvā partija | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Koalicja Polska | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -77,7 +77,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 130 | 0.1% | 100% |  |
 | 131 | 0.1% | 99.9% |  |
-| 132 | 0.3% | 99.7% |  |
+| 132 | 0.3% | 99.8% |  |
 | 133 | 0.5% | 99.5% |  |
 | 134 | 0.9% | 98.9% |  |
 | 135 | 2% | 98% |  |
@@ -86,19 +86,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 5% | 91% |  |
 | 139 | 6% | 86% |  |
 | 140 | 7% | 80% |  |
-| 141 | 8% | 73% |  |
+| 141 | 9% | 73% |  |
 | 142 | 9% | 64% |  |
 | 143 | 10% | 55% | Median |
-| 144 | 9% | 46% |  |
+| 144 | 9% | 45% |  |
 | 145 | 9% | 36% |  |
 | 146 | 7% | 28% |  |
 | 147 | 6% | 20% |  |
 | 148 | 5% | 14% |  |
-| 149 | 3% | 10% |  |
+| 149 | 3% | 9% |  |
 | 150 | 2% | 6% |  |
 | 151 | 2% | 4% |  |
-| 152 | 1.0% | 2% |  |
-| 153 | 0.6% | 1.2% |  |
+| 152 | 0.9% | 2% |  |
+| 153 | 0.5% | 1.1% |  |
 | 154 | 0.3% | 0.6% |  |
 | 155 | 0.2% | 0.3% |  |
 | 156 | 0.1% | 0.1% |  |
