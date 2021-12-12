@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–53 | 45–54 | 44–54 | 42–56 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 46–52 | 45–53 | 44–54 | 42–56 |
 | La France insoumise | FR | | 9 | 7–11 | 7–11 | 6–11 | 6–12 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0.1% | 100% |  |
 | 42 | 0.4% | 99.9% |  |
-| 43 | 1.2% | 99.5% |  |
+| 43 | 1.2% | 99.4% |  |
 | 44 | 3% | 98% |  |
-| 45 | 5% | 96% |  |
+| 45 | 5% | 95% |  |
 | 46 | 8% | 90% |  |
-| 47 | 11% | 83% |  |
-| 48 | 13% | 72% |  |
+| 47 | 11% | 82% |  |
+| 48 | 13% | 71% |  |
 | 49 | 15% | 58% | Median |
-| 50 | 14% | 44% |  |
-| 51 | 12% | 30% |  |
+| 50 | 14% | 43% |  |
+| 51 | 11% | 29% |  |
 | 52 | 8% | 18% |  |
 | 53 | 5% | 10% |  |
 | 54 | 3% | 5% |  |
 | 55 | 1.3% | 2% |  |
-| 56 | 0.6% | 1.1% |  |
+| 56 | 0.6% | 1.0% |  |
 | 57 | 0.3% | 0.4% |  |
 | 58 | 0.1% | 0.2% |  |
 | 59 | 0% | 0.1% |  |
