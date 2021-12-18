@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> CY, DK, ES, FI, GR, HR, HU, IT, LT, PL, SI, SK
+> CY, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
 
 ## Seats
 
@@ -30,6 +30,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |

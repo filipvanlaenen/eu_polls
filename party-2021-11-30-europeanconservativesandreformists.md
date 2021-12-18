@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (+18 seats)
+Current median: **77** seats (+16 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 79 | 74–84 | 73–86 | 72–87 | 70–89 |
+| European Conservatives and Reformists | EU | 61 | 77 | 73–81 | 72–82 | 71–83 | 69–85 |
 | Zjednoczona Prawica | PL | | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
 | Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
 | Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
@@ -34,7 +34,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
-| Debout la France | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,31 +60,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0.1% | 100% |  |
-| 69 | 0.2% | 99.9% |  |
-| 70 | 0.6% | 99.6% |  |
-| 71 | 1.2% | 99.1% |  |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 5% | 92% |  |
-| 75 | 7% | 87% |  |
-| 76 | 8% | 81% |  |
-| 77 | 9% | 73% |  |
-| 78 | 9% | 64% |  |
-| 79 | 9% | 54% | Median |
-| 80 | 9% | 45% |  |
-| 81 | 8% | 36% |  |
-| 82 | 7% | 28% |  |
-| 83 | 6% | 20% |  |
-| 84 | 5% | 14% |  |
-| 85 | 3% | 9% |  |
-| 86 | 2% | 6% |  |
-| 87 | 2% | 3% |  |
-| 88 | 0.9% | 2% |  |
-| 89 | 0.5% | 1.0% |  |
-| 90 | 0.3% | 0.5% |  |
-| 91 | 0.1% | 0.2% |  |
-| 92 | 0% | 0.1% |  |
-| 93 | 0% | 0% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.4% | 99.8% |  |
+| 70 | 1.0% | 99.4% |  |
+| 71 | 2% | 98% |  |
+| 72 | 4% | 96% |  |
+| 73 | 6% | 93% |  |
+| 74 | 8% | 87% |  |
+| 75 | 11% | 78% |  |
+| 76 | 12% | 68% |  |
+| 77 | 12% | 56% | Median |
+| 78 | 12% | 43% |  |
+| 79 | 10% | 32% |  |
+| 80 | 8% | 22% |  |
+| 81 | 6% | 14% |  |
+| 82 | 4% | 8% |  |
+| 83 | 2% | 5% |  |
+| 84 | 1.3% | 2% |  |
+| 85 | 0.7% | 1.2% |  |
+| 86 | 0.3% | 0.5% |  |
+| 87 | 0.1% | 0.2% |  |
+| 88 | 0% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 
