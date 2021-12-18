@@ -28,7 +28,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Partido Social Democrata | PT | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -75,9 +75,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 130 | 0.1% | 100% |  |
+| 129 | 0% | 100% |  |
+| 130 | 0.1% | 99.9% |  |
 | 131 | 0.1% | 99.9% |  |
-| 132 | 0.3% | 99.8% |  |
+| 132 | 0.3% | 99.7% |  |
 | 133 | 0.5% | 99.5% |  |
 | 134 | 0.8% | 99.0% |  |
 | 135 | 1.3% | 98% |  |
@@ -86,15 +87,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 4% | 92% |  |
 | 139 | 5% | 88% |  |
 | 140 | 6% | 83% |  |
-| 141 | 7% | 77% |  |
+| 141 | 7% | 76% |  |
 | 142 | 8% | 69% |  |
 | 143 | 9% | 61% |  |
 | 144 | 9% | 52% | Median |
-| 145 | 9% | 44% |  |
+| 145 | 9% | 43% |  |
 | 146 | 8% | 35% |  |
 | 147 | 7% | 27% |  |
 | 148 | 6% | 20% |  |
-| 149 | 5% | 14% |  |
+| 149 | 4% | 14% |  |
 | 150 | 3% | 10% |  |
 | 151 | 2% | 6% |  |
 | 152 | 2% | 4% |  |

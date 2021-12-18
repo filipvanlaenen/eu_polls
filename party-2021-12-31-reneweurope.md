@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 99 | 95–103 | 93–105 | 92–106 | 90–108 |
+| Renew Europe | EU | 98 | 99 | 94–103 | 93–105 | 92–106 | 90–108 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 23–25 | 23–26 | 22–26 | 22–28 |
 | Freie Demokratische Partei | DE | | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | ANO 2011 | CZ | | 7 | 7 | 7 | 7 | 7 |
@@ -28,7 +28,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
-| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 3% | 97% |  |
 | 94 | 4% | 94% |  |
 | 95 | 6% | 90% |  |
-| 96 | 9% | 84% |  |
+| 96 | 9% | 83% |  |
 | 97 | 10% | 75% |  |
 | 98 | 11% | 65% | Last Result |
 | 99 | 12% | 53% | Median |
