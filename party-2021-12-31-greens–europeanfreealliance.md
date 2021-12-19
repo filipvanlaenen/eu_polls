@@ -49,7 +49,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.1% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
 | 43 | 0.5% | 99.7% |  |
-| 44 | 1.0% | 99.1% |  |
+| 44 | 1.0% | 99.2% |  |
 | 45 | 2% | 98% |  |
 | 46 | 2% | 97% |  |
 | 47 | 3% | 94% |  |
@@ -74,12 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 6% | 87% |  |
 | 50 | 8% | 81% |  |
 | 51 | 11% | 73% |  |
-| 52 | 12% | 62% |  |
+| 52 | 12% | 63% |  |
 | 53 | 13% | 50% | Median |
-| 54 | 12% | 37% |  |
+| 54 | 12% | 38% |  |
 | 55 | 10% | 26% |  |
 | 56 | 7% | 16% |  |
-| 57 | 4% | 9% |  |
+| 57 | 5% | 9% |  |
 | 58 | 3% | 5% |  |
 | 59 | 1.3% | 2% |  |
 | 60 | 0.6% | 0.9% |  |

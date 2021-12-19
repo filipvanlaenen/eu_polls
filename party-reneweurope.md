@@ -40,7 +40,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
