@@ -18,10 +18,10 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 31–37 | 30–37 | 29–38 | 27–39 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 10–15 | 9–16 | 9–17 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
-| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
+| Non-Inscrits | EU | 29 | 34 | 31–37 | 30–38 | 29–39 | 27–40 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 10–16 | 9–17 | 9–18 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| Konfederacja | PL | | 4 | 3–6 | 3–6 | 3–6 | 0–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -40,29 +40,30 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
 | 26 | 0.2% | 99.9% |  |
-| 27 | 0.4% | 99.8% |  |
-| 28 | 1.0% | 99.3% |  |
+| 27 | 0.5% | 99.7% |  |
+| 28 | 1.0% | 99.2% |  |
 | 29 | 2% | 98% | Last Result |
-| 30 | 4% | 96% |  |
-| 31 | 7% | 93% |  |
-| 32 | 11% | 86% |  |
-| 33 | 16% | 75% |  |
-| 34 | 18% | 59% | Median |
-| 35 | 17% | 40% |  |
-| 36 | 12% | 23% |  |
-| 37 | 7% | 11% |  |
-| 38 | 3% | 4% |  |
-| 39 | 0.9% | 1.2% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0.1% | 0.1% |  |
-| 42 | 0% | 0% |  |
+| 30 | 3% | 96% |  |
+| 31 | 6% | 93% |  |
+| 32 | 10% | 87% |  |
+| 33 | 15% | 76% |  |
+| 34 | 17% | 62% | Median |
+| 35 | 16% | 44% |  |
+| 36 | 13% | 28% |  |
+| 37 | 8% | 15% |  |
+| 38 | 4% | 7% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.7% | 1.0% |  |
+| 41 | 0.2% | 0.3% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
