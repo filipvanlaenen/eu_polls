@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+10 seats)
+Current median: **48** seats (+9 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–51 | 45–52 | 44–53 | 43–55 |
-| La France insoumise | FR | | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
+| European United Left–Nordic Green Left | EU | 39 | 48 | 45–51 | 44–52 | 43–53 | 42–55 |
+| La France insoumise | FR | | 8 | 7–9 | 7–9 | 6–9 | 4–10 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -56,24 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 100% |  |
-| 43 | 0.6% | 99.8% |  |
-| 44 | 2% | 99.3% |  |
-| 45 | 5% | 97% |  |
-| 46 | 9% | 93% |  |
-| 47 | 15% | 84% |  |
-| 48 | 18% | 69% |  |
-| 49 | 18% | 51% | Median |
-| 50 | 14% | 33% |  |
-| 51 | 9% | 19% |  |
-| 52 | 5% | 10% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.6% | 0.9% |  |
-| 56 | 0.2% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.7% | 99.7% |  |
+| 43 | 2% | 98.9% |  |
+| 44 | 5% | 97% |  |
+| 45 | 9% | 92% |  |
+| 46 | 13% | 84% |  |
+| 47 | 17% | 71% |  |
+| 48 | 17% | 54% | Median |
+| 49 | 14% | 37% |  |
+| 50 | 10% | 23% |  |
+| 51 | 6% | 13% |  |
+| 52 | 3% | 6% |  |
+| 53 | 2% | 3% |  |
+| 54 | 0.8% | 1.3% |  |
+| 55 | 0.3% | 0.5% |  |
+| 56 | 0.1% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 

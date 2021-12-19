@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **98** seats (0 seats)
+Current median: **99** seats (+1 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 98 | 94–103 | 92–104 | 91–106 | 89–108 |
-| La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 21–24 | 21–25 | 19–28 |
+| Renew Europe | EU | 98 | 99 | 94–104 | 93–105 | 91–106 | 89–109 |
+| La République en marche–Mouvement démocrate | FR | | 23 | 21–25 | 21–26 | 20–27 | 19–28 |
 | Freie Demokratische Partei | DE | | 12 | 10–14 | 10–15 | 10–15 | 9–17 |
 | Polska 2050 | PL | | 8 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
@@ -74,29 +74,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 87 | 0.1% | 100% |  |
 | 88 | 0.2% | 99.9% |  |
-| 89 | 0.4% | 99.7% |  |
-| 90 | 0.8% | 99.3% |  |
-| 91 | 1.5% | 98.5% |  |
-| 92 | 3% | 97% |  |
-| 93 | 4% | 94% |  |
-| 94 | 6% | 91% |  |
-| 95 | 7% | 85% |  |
-| 96 | 9% | 77% |  |
-| 97 | 10% | 68% |  |
-| 98 | 11% | 58% | Last Result, Median |
-| 99 | 11% | 47% |  |
-| 100 | 10% | 37% |  |
-| 101 | 8% | 27% |  |
-| 102 | 6% | 19% |  |
-| 103 | 5% | 13% |  |
-| 104 | 3% | 8% |  |
-| 105 | 2% | 5% |  |
-| 106 | 1.3% | 3% |  |
-| 107 | 0.8% | 2% |  |
-| 108 | 0.4% | 0.8% |  |
-| 109 | 0.2% | 0.4% |  |
-| 110 | 0.1% | 0.2% |  |
-| 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0% |  |
+| 89 | 0.3% | 99.7% |  |
+| 90 | 0.7% | 99.4% |  |
+| 91 | 1.3% | 98.7% |  |
+| 92 | 2% | 97% |  |
+| 93 | 3% | 95% |  |
+| 94 | 5% | 92% |  |
+| 95 | 7% | 87% |  |
+| 96 | 8% | 80% |  |
+| 97 | 10% | 72% |  |
+| 98 | 10% | 62% | Last Result |
+| 99 | 10% | 52% | Median |
+| 100 | 10% | 41% |  |
+| 101 | 8% | 32% |  |
+| 102 | 7% | 23% |  |
+| 103 | 5% | 16% |  |
+| 104 | 4% | 11% |  |
+| 105 | 3% | 7% |  |
+| 106 | 2% | 4% |  |
+| 107 | 1.1% | 2% |  |
+| 108 | 0.6% | 1.4% |  |
+| 109 | 0.4% | 0.7% |  |
+| 110 | 0.2% | 0.4% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 
 
