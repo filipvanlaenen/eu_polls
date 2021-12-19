@@ -18,17 +18,17 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 77 | 73–81 | 72–82 | 71–83 | 69–86 |
-| Zjednoczona Prawica | PL | | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
-| Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| European Conservatives and Reformists | EU | 61 | 77 | 73–81 | 72–82 | 71–83 | 69–85 |
+| Zjednoczona Prawica | PL | | 20 | 18–23 | 18–24 | 18–24 | 17–25 |
+| Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | Vox | ES | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -41,15 +41,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Българските патриоти | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -66,19 +66,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 2% | 98% |  |
 | 72 | 4% | 96% |  |
 | 73 | 6% | 93% |  |
-| 74 | 8% | 87% |  |
+| 74 | 9% | 86% |  |
 | 75 | 11% | 78% |  |
-| 76 | 12% | 68% |  |
-| 77 | 12% | 56% | Median |
-| 78 | 12% | 43% |  |
-| 79 | 10% | 32% |  |
-| 80 | 8% | 22% |  |
-| 81 | 6% | 14% |  |
-| 82 | 4% | 8% |  |
-| 83 | 2% | 5% |  |
-| 84 | 1.3% | 2% |  |
-| 85 | 0.7% | 1.2% |  |
-| 86 | 0.3% | 0.5% |  |
+| 76 | 12% | 67% |  |
+| 77 | 13% | 55% | Median |
+| 78 | 12% | 42% |  |
+| 79 | 10% | 30% |  |
+| 80 | 8% | 21% |  |
+| 81 | 5% | 13% |  |
+| 82 | 3% | 8% |  |
+| 83 | 2% | 4% |  |
+| 84 | 1.2% | 2% |  |
+| 85 | 0.6% | 1.0% |  |
+| 86 | 0.3% | 0.4% |  |
 | 87 | 0.1% | 0.2% |  |
 | 88 | 0% | 0.1% |  |
 | 89 | 0% | 0% |  |

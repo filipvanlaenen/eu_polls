@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 14–19 | 14–20 | 13–21 | 12–22 |
-| Reconquête [FR] (*) | FR | | 13 | 11–16 | 10–16 | 10–16 | 9–17 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
+| Reconquête [FR] (*) | FR | | 12 | 10–14 | 10–14 | 9–14 | 9–16 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -50,9 +50,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-11-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-11-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,19 +67,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.5% | 100% |  |
-| 13 | 4% | 99.4% |  |
-| 14 | 15% | 96% |  |
-| 15 | 18% | 81% |  |
-| 16 | 14% | 63% | Median |
-| 17 | 16% | 49% |  |
-| 18 | 15% | 33% |  |
-| 19 | 10% | 18% |  |
-| 20 | 6% | 8% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.4% | 0.5% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 2% | 99.8% |  |
+| 13 | 5% | 98% |  |
+| 14 | 11% | 93% |  |
+| 15 | 17% | 81% |  |
+| 16 | 22% | 64% | Median |
+| 17 | 22% | 42% |  |
+| 18 | 13% | 20% |  |
+| 19 | 5% | 6% |  |
+| 20 | 1.3% | 2% |  |
+| 21 | 0.3% | 0.3% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
