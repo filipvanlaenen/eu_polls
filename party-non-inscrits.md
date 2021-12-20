@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (+4 seats)
+Current median: **34** seats (+5 seats)
 
 At least one member in **9 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 30–36 | 29–37 | 28–37 | 27–38 |
+| Non-Inscrits | EU | 29 | 34 | 31–36 | 30–37 | 29–38 | 27–39 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 10–15 | 9–16 | 9–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
-| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
+| Konfederacja | PL | | 4 | 3–6 | 3–6 | 2–7 | 0–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nye Borgerlige | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
@@ -48,20 +48,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
 | 26 | 0.2% | 99.9% |  |
-| 27 | 0.7% | 99.6% |  |
-| 28 | 2% | 99.0% |  |
-| 29 | 3% | 97% | Last Result |
+| 27 | 0.6% | 99.7% |  |
+| 28 | 1.3% | 99.1% |  |
+| 29 | 3% | 98% | Last Result |
 | 30 | 5% | 95% |  |
-| 31 | 10% | 89% |  |
-| 32 | 16% | 79% |  |
-| 33 | 19% | 64% | Median |
-| 34 | 18% | 44% |  |
-| 35 | 13% | 26% |  |
-| 36 | 8% | 13% |  |
-| 37 | 3% | 5% |  |
-| 38 | 1.2% | 2% |  |
-| 39 | 0.4% | 0.5% |  |
-| 40 | 0.1% | 0.1% |  |
-| 41 | 0% | 0% |  |
+| 31 | 9% | 90% |  |
+| 32 | 14% | 81% |  |
+| 33 | 17% | 68% |  |
+| 34 | 18% | 50% | Median |
+| 35 | 15% | 33% |  |
+| 36 | 10% | 18% |  |
+| 37 | 5% | 8% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.8% | 1.1% |  |
+| 40 | 0.2% | 0.3% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
