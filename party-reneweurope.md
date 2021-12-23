@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **97** seats (-1 seats)
+Current median: **96** seats (-2 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–102 | 90–103 | 89–105 | 87–107 |
+| Renew Europe | EU | 98 | 96 | 92–102 | 90–103 | 89–105 | 87–107 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–27 | 20–27 | 20–27 | 19–28 |
 | Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | ANO 2011 | CZ | | 7 | 7 | 7 | 7 | 7 |
@@ -31,7 +31,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -54,7 +54,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -75,16 +75,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
 | 87 | 0.4% | 99.7% |  |
-| 88 | 0.7% | 99.4% |  |
-| 89 | 1.4% | 98.6% |  |
-| 90 | 2% | 97% |  |
-| 91 | 4% | 95% |  |
+| 88 | 0.8% | 99.3% |  |
+| 89 | 1.5% | 98% |  |
+| 90 | 3% | 97% |  |
+| 91 | 4% | 94% |  |
 | 92 | 5% | 91% |  |
-| 93 | 7% | 86% |  |
-| 94 | 9% | 79% |  |
-| 95 | 10% | 70% |  |
-| 96 | 10% | 61% |  |
-| 97 | 10% | 51% | Median |
+| 93 | 7% | 85% |  |
+| 94 | 9% | 78% |  |
+| 95 | 10% | 69% |  |
+| 96 | 10% | 60% | Median |
+| 97 | 10% | 50% |  |
 | 98 | 9% | 40% | Last Result |
 | 99 | 8% | 31% |  |
 | 100 | 7% | 23% |  |
