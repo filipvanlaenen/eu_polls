@@ -31,7 +31,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
 | 87 | 0.4% | 99.7% |  |
-| 88 | 0.8% | 99.4% |  |
+| 88 | 0.7% | 99.4% |  |
 | 89 | 1.4% | 98.6% |  |
 | 90 | 2% | 97% |  |
 | 91 | 4% | 95% |  |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 9% | 79% |  |
 | 95 | 10% | 70% |  |
 | 96 | 10% | 61% |  |
-| 97 | 10% | 50% | Median |
+| 97 | 10% | 51% | Median |
 | 98 | 9% | 40% | Last Result |
 | 99 | 8% | 31% |  |
 | 100 | 7% | 23% |  |
@@ -94,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 2% | 5% |  |
 | 105 | 1.2% | 3% |  |
 | 106 | 0.7% | 2% |  |
-| 107 | 0.4% | 0.8% |  |
+| 107 | 0.4% | 0.9% |  |
 | 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
 | 110 | 0.1% | 0.1% |  |
