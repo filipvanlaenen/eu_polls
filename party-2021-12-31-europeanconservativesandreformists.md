@@ -18,18 +18,17 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 77 | 73–81 | 72–82 | 72–83 | 70–85 |
+| European Conservatives and Reformists | EU | 61 | 77 | 74–81 | 73–82 | 72–83 | 70–85 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
 | Fratelli d’Italia | IT | | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
 | Vox | ES | | 10 | 9–12 | 9–13 | 8–13 | 8–14 |
 | SPOLU | CZ | | 8 | 8 | 8 | 8 | 8 |
-| Alianța pentru Unirea Românilor | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
+| Alianța pentru Unirea Românilor | RO | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Sloboda a Solidarita | SK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Juiste Antwoord 2021 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
@@ -37,11 +36,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Българските патриоти | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -60,23 +60,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0.1% | 100% |  |
-| 69 | 0.2% | 99.9% |  |
-| 70 | 0.6% | 99.7% |  |
-| 71 | 1.5% | 99.0% |  |
-| 72 | 3% | 98% |  |
-| 73 | 5% | 95% |  |
-| 74 | 8% | 90% |  |
-| 75 | 10% | 82% |  |
-| 76 | 12% | 72% |  |
-| 77 | 13% | 59% | Median |
-| 78 | 13% | 46% |  |
-| 79 | 11% | 33% |  |
-| 80 | 9% | 23% |  |
-| 81 | 6% | 14% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.4% | 99.8% |  |
+| 71 | 1.0% | 99.5% |  |
+| 72 | 2% | 98.5% |  |
+| 73 | 4% | 96% |  |
+| 74 | 7% | 92% |  |
+| 75 | 10% | 85% |  |
+| 76 | 12% | 76% |  |
+| 77 | 14% | 63% | Median |
+| 78 | 13% | 50% |  |
+| 79 | 12% | 36% |  |
+| 80 | 9% | 24% |  |
+| 81 | 7% | 15% |  |
 | 82 | 4% | 8% |  |
 | 83 | 2% | 4% |  |
-| 84 | 1.1% | 2% |  |
+| 84 | 1.2% | 2% |  |
 | 85 | 0.5% | 0.8% |  |
 | 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |

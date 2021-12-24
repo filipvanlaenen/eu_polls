@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 153 | 148–159 | 146–160 | 145–162 | 142–164 |
+| European People’s Party | EU | 187 | 153 | 148–159 | 146–161 | 145–162 | 142–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | Partido Popular | ES | | 17 | 14–19 | 13–19 | 13–19 | 12–20 |
 | Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–19 |
@@ -37,16 +37,16 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2–3 |
+| Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -63,7 +63,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -85,23 +85,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 2% | 96% |  |
 | 147 | 3% | 94% |  |
 | 148 | 4% | 91% |  |
-| 149 | 6% | 86% |  |
+| 149 | 5% | 86% |  |
 | 150 | 7% | 81% |  |
 | 151 | 8% | 74% |  |
-| 152 | 9% | 66% |  |
+| 152 | 8% | 67% |  |
 | 153 | 9% | 58% | Median |
 | 154 | 9% | 49% |  |
 | 155 | 8% | 40% |  |
-| 156 | 8% | 31% |  |
+| 156 | 8% | 32% |  |
 | 157 | 7% | 24% |  |
-| 158 | 5% | 17% |  |
+| 158 | 5% | 18% |  |
 | 159 | 4% | 12% |  |
 | 160 | 3% | 8% |  |
 | 161 | 2% | 5% |  |
 | 162 | 1.3% | 3% |  |
 | 163 | 0.8% | 2% |  |
-| 164 | 0.4% | 0.9% |  |
-| 165 | 0.2% | 0.4% |  |
+| 164 | 0.5% | 1.0% |  |
+| 165 | 0.3% | 0.5% |  |
 | 166 | 0.1% | 0.2% |  |
 | 167 | 0.1% | 0.1% |  |
 | 168 | 0% | 0% |  |
