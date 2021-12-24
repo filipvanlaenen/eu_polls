@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–101 | 90–102 | 89–104 | 86–106 |
+| Renew Europe | EU | 98 | 96 | 91–101 | 89–102 | 88–104 | 86–106 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–27 | 20–27 | 20–27 | 19–28 |
 | Freie Demokratische Partei | DE | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | ANO 2011 | CZ | | 7 | 7 | 7 | 7 | 7 |
@@ -45,7 +45,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Partija „Laisvė ir teisingumas“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,27 +73,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% |  |
-| 85 | 0.1% | 99.9% |  |
-| 86 | 0.3% | 99.8% |  |
-| 87 | 0.7% | 99.5% |  |
-| 88 | 1.3% | 98.8% |  |
-| 89 | 2% | 98% |  |
+| 85 | 0.2% | 99.9% |  |
+| 86 | 0.4% | 99.7% |  |
+| 87 | 0.8% | 99.4% |  |
+| 88 | 1.4% | 98.6% |  |
+| 89 | 2% | 97% |  |
 | 90 | 4% | 95% |  |
-| 91 | 5% | 92% |  |
-| 92 | 7% | 87% |  |
-| 93 | 8% | 80% |  |
-| 94 | 10% | 71% |  |
-| 95 | 10% | 62% |  |
-| 96 | 10% | 52% | Median |
-| 97 | 9% | 41% |  |
-| 98 | 8% | 32% | Last Result |
-| 99 | 7% | 24% |  |
-| 100 | 5% | 17% |  |
-| 101 | 4% | 12% |  |
-| 102 | 3% | 8% |  |
+| 91 | 5% | 91% |  |
+| 92 | 7% | 86% |  |
+| 93 | 9% | 79% |  |
+| 94 | 10% | 70% |  |
+| 95 | 10% | 60% |  |
+| 96 | 10% | 50% | Median |
+| 97 | 9% | 40% |  |
+| 98 | 8% | 31% | Last Result |
+| 99 | 7% | 23% |  |
+| 100 | 5% | 16% |  |
+| 101 | 4% | 11% |  |
+| 102 | 3% | 7% |  |
 | 103 | 2% | 5% |  |
 | 104 | 1.2% | 3% |  |
-| 105 | 0.8% | 2% |  |
+| 105 | 0.7% | 2% |  |
 | 106 | 0.4% | 0.9% |  |
 | 107 | 0.2% | 0.5% |  |
 | 108 | 0.1% | 0.2% |  |

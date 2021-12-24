@@ -39,7 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -64,19 +64,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 0.1% | 100% |  |
 | 70 | 0.4% | 99.8% |  |
 | 71 | 1.0% | 99.5% |  |
-| 72 | 2% | 98.5% |  |
+| 72 | 2% | 98% |  |
 | 73 | 4% | 96% |  |
 | 74 | 7% | 92% |  |
 | 75 | 10% | 85% |  |
-| 76 | 12% | 76% |  |
+| 76 | 12% | 75% |  |
 | 77 | 14% | 63% | Median |
-| 78 | 13% | 50% |  |
+| 78 | 13% | 49% |  |
 | 79 | 12% | 36% |  |
 | 80 | 9% | 24% |  |
-| 81 | 7% | 15% |  |
+| 81 | 6% | 15% |  |
 | 82 | 4% | 8% |  |
 | 83 | 2% | 4% |  |
-| 84 | 1.2% | 2% |  |
+| 84 | 1.1% | 2% |  |
 | 85 | 0.5% | 0.8% |  |
 | 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |
