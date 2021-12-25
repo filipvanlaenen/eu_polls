@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (+5 seats)
+Current median: **35** seats (+6 seats)
 
 At least one member in **9 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 32–37 | 31–38 | 30–39 | 29–40 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–16 | 10–17 |
+| Non-Inscrits | EU | 29 | 35 | 32–38 | 31–38 | 30–39 | 29–41 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 4 | 3–6 | 3–6 | 2–7 | 0–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -48,20 +48,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
 | 28 | 0.3% | 99.9% |  |
-| 29 | 0.9% | 99.5% | Last Result |
-| 30 | 2% | 98.7% |  |
-| 31 | 6% | 96% |  |
-| 32 | 10% | 91% |  |
-| 33 | 15% | 81% |  |
-| 34 | 18% | 66% | Median |
-| 35 | 17% | 48% |  |
-| 36 | 13% | 31% |  |
-| 37 | 9% | 18% |  |
-| 38 | 5% | 9% |  |
-| 39 | 2% | 4% |  |
-| 40 | 0.9% | 1.4% |  |
-| 41 | 0.3% | 0.4% |  |
-| 42 | 0.1% | 0.1% |  |
+| 29 | 0.8% | 99.6% | Last Result |
+| 30 | 2% | 98.8% |  |
+| 31 | 5% | 97% |  |
+| 32 | 9% | 92% |  |
+| 33 | 14% | 83% |  |
+| 34 | 17% | 69% |  |
+| 35 | 17% | 52% | Median |
+| 36 | 14% | 35% |  |
+| 37 | 10% | 21% |  |
+| 38 | 6% | 11% |  |
+| 39 | 3% | 5% |  |
+| 40 | 1.3% | 2% |  |
+| 41 | 0.4% | 0.6% |  |
+| 42 | 0.1% | 0.2% |  |
 | 43 | 0% | 0% |  |
 
 
