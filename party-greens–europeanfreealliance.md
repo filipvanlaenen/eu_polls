@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 48–57 | 47–58 | 45–59 | 43–61 |
-| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 13–18 | 12–18 | 12–18 |
+| Greens–European Free Alliance | EU | 67 | 53 | 48–57 | 47–58 | 46–59 | 43–61 |
+| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 14–18 | 13–18 | 12–18 |
 | Europe Écologie Les Verts | FR | | 6 | 0–8 | 0–8 | 0–8 | 0–8 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -33,6 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -49,7 +50,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -62,23 +62,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.4% | 99.7% |  |
-| 44 | 0.7% | 99.3% |  |
-| 45 | 1.2% | 98.6% |  |
-| 46 | 2% | 97% |  |
-| 47 | 3% | 95% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0.1% | 99.9% |  |
+| 43 | 0.3% | 99.8% |  |
+| 44 | 0.6% | 99.5% |  |
+| 45 | 1.1% | 98.8% |  |
+| 46 | 2% | 98% |  |
+| 47 | 3% | 96% |  |
 | 48 | 4% | 93% |  |
-| 49 | 5% | 89% |  |
-| 50 | 7% | 83% |  |
-| 51 | 9% | 76% |  |
-| 52 | 11% | 67% |  |
-| 53 | 12% | 57% | Median |
-| 54 | 12% | 45% |  |
+| 49 | 5% | 90% |  |
+| 50 | 7% | 85% |  |
+| 51 | 9% | 78% |  |
+| 52 | 11% | 69% |  |
+| 53 | 12% | 58% | Median |
+| 54 | 12% | 46% |  |
 | 55 | 11% | 33% |  |
 | 56 | 9% | 22% |  |
-| 57 | 6% | 13% |  |
+| 57 | 6% | 14% |  |
 | 58 | 4% | 7% |  |
 | 59 | 2% | 4% |  |
 | 60 | 1.0% | 2% |  |

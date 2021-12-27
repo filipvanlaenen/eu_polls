@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **76** seats (+15 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, CZ, ES, GR, HR, IT, LU, LV, NL, PL, RO, SE, SK
+> BE, CZ, DE, ES, GR, HR, IT, LU, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -28,6 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Sloboda a Solidarita | SK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -35,7 +36,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,7 +62,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0.1% | 100% |  |
 | 68 | 0.3% | 99.9% |  |
 | 69 | 0.7% | 99.6% |  |
-| 70 | 2% | 98.8% |  |
+| 70 | 2% | 98.9% |  |
 | 71 | 3% | 97% |  |
 | 72 | 5% | 94% |  |
 | 73 | 8% | 89% |  |
@@ -71,13 +71,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 13% | 59% | Median |
 | 77 | 12% | 46% |  |
 | 78 | 11% | 33% |  |
-| 79 | 8% | 22% |  |
+| 79 | 8% | 23% |  |
 | 80 | 6% | 14% |  |
 | 81 | 4% | 8% |  |
 | 82 | 2% | 4% |  |
-| 83 | 1.1% | 2% |  |
+| 83 | 1.2% | 2% |  |
 | 84 | 0.5% | 0.9% |  |
-| 85 | 0.2% | 0.3% |  |
+| 85 | 0.2% | 0.4% |  |
 | 86 | 0.1% | 0.1% |  |
 | 87 | 0% | 0% |  |
 
