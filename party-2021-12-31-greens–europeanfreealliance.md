@@ -18,18 +18,18 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 48–57 | 47–58 | 46–59 | 43–61 |
+| Greens–European Free Alliance | EU | 67 | 53 | 49–57 | 47–58 | 46–59 | 44–61 |
 | Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 14–18 | 13–18 | 12–18 |
 | Europe Écologie Les Verts | FR | | 6 | 0–8 | 0–8 | 0–8 | 0–8 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Coalició Compromís | ES | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Coalició Compromís | ES | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -44,7 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,25 +65,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0.1% | 99.9% |  |
 | 43 | 0.3% | 99.8% |  |
-| 44 | 0.6% | 99.5% |  |
-| 45 | 1.1% | 98.8% |  |
+| 44 | 0.6% | 99.6% |  |
+| 45 | 1.0% | 99.0% |  |
 | 46 | 2% | 98% |  |
-| 47 | 3% | 96% |  |
-| 48 | 4% | 93% |  |
+| 47 | 2% | 96% |  |
+| 48 | 3% | 94% |  |
 | 49 | 5% | 90% |  |
-| 50 | 7% | 85% |  |
-| 51 | 9% | 78% |  |
-| 52 | 11% | 69% |  |
-| 53 | 12% | 58% | Median |
-| 54 | 12% | 46% |  |
-| 55 | 11% | 33% |  |
-| 56 | 9% | 22% |  |
-| 57 | 6% | 14% |  |
-| 58 | 4% | 7% |  |
+| 50 | 7% | 86% |  |
+| 51 | 9% | 79% |  |
+| 52 | 11% | 71% |  |
+| 53 | 12% | 60% | Median |
+| 54 | 12% | 48% |  |
+| 55 | 11% | 35% |  |
+| 56 | 9% | 24% |  |
+| 57 | 7% | 15% |  |
+| 58 | 4% | 8% |  |
 | 59 | 2% | 4% |  |
-| 60 | 1.0% | 2% |  |
+| 60 | 1.1% | 2% |  |
 | 61 | 0.4% | 0.6% |  |
-| 62 | 0.1% | 0.2% |  |
+| 62 | 0.2% | 0.2% |  |
 | 63 | 0% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
