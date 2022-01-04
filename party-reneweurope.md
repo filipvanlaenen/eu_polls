@@ -18,9 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–101 | 90–103 | 89–104 | 87–107 |
+| Renew Europe | EU | 98 | 96 | 91–102 | 90–103 | 89–104 | 87–107 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–27 | 20–27 | 20–27 | 19–28 |
-| Freie Demokratische Partei | DE | | 10 | 9–13 | 9–13 | 9–13 | 8–14 |
+| Freie Demokratische Partei | DE | | 10 | 9–13 | 8–13 | 8–13 | 8–14 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | Polska 2050 | PL | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
@@ -29,7 +29,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
@@ -38,9 +39,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 1–2 |
@@ -72,33 +72,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0% | 100% |  |
-| 85 | 0.1% | 99.9% |  |
-| 86 | 0.3% | 99.8% |  |
-| 87 | 0.6% | 99.6% |  |
-| 88 | 1.1% | 99.0% |  |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.5% | 99.6% |  |
+| 88 | 1.0% | 99.1% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 96% |  |
-| 91 | 5% | 93% |  |
-| 92 | 6% | 88% |  |
-| 93 | 8% | 82% |  |
-| 94 | 9% | 74% |  |
-| 95 | 10% | 65% |  |
-| 96 | 10% | 55% | Median |
-| 97 | 10% | 44% |  |
-| 98 | 9% | 35% | Last Result |
-| 99 | 7% | 26% |  |
-| 100 | 6% | 19% |  |
-| 101 | 4% | 13% |  |
-| 102 | 3% | 9% |  |
-| 103 | 2% | 6% |  |
-| 104 | 1.5% | 4% |  |
-| 105 | 0.9% | 2% |  |
-| 106 | 0.6% | 1.2% |  |
-| 107 | 0.3% | 0.6% |  |
-| 108 | 0.2% | 0.3% |  |
+| 91 | 4% | 93% |  |
+| 92 | 6% | 89% |  |
+| 93 | 8% | 83% |  |
+| 94 | 9% | 76% |  |
+| 95 | 10% | 67% |  |
+| 96 | 10% | 57% | Median |
+| 97 | 10% | 47% |  |
+| 98 | 9% | 37% | Last Result |
+| 99 | 7% | 28% |  |
+| 100 | 6% | 21% |  |
+| 101 | 5% | 15% |  |
+| 102 | 3% | 10% |  |
+| 103 | 2% | 7% |  |
+| 104 | 2% | 4% |  |
+| 105 | 1.1% | 2% |  |
+| 106 | 0.6% | 1.4% |  |
+| 107 | 0.4% | 0.8% |  |
+| 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
-| 110 | 0% | 0.1% |  |
+| 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0% |  |
 
 
