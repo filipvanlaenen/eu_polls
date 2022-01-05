@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–102 | 90–103 | 89–104 | 87–107 |
+| Renew Europe | EU | 98 | 96 | 91–102 | 90–103 | 89–105 | 87–107 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–27 | 20–27 | 20–27 | 19–28 |
 | Freie Demokratische Partei | DE | | 10 | 9–13 | 8–13 | 8–13 | 8–14 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -66,9 +66,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -86,14 +86,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 10% | 57% | Median |
 | 97 | 10% | 47% |  |
 | 98 | 9% | 37% | Last Result |
-| 99 | 7% | 28% |  |
+| 99 | 8% | 28% |  |
 | 100 | 6% | 21% |  |
 | 101 | 5% | 15% |  |
 | 102 | 3% | 10% |  |
 | 103 | 2% | 7% |  |
 | 104 | 2% | 4% |  |
-| 105 | 1.1% | 2% |  |
-| 106 | 0.6% | 1.4% |  |
+| 105 | 1.1% | 3% |  |
+| 106 | 0.7% | 1.4% |  |
 | 107 | 0.4% | 0.8% |  |
 | 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
