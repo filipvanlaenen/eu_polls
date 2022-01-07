@@ -28,7 +28,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
-| Centerpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -66,39 +66,39 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0% | 100% |  |
 | 85 | 0.1% | 99.9% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.5% | 99.6% |  |
-| 88 | 1.0% | 99.1% |  |
+| 86 | 0.3% | 99.8% |  |
+| 87 | 0.6% | 99.6% |  |
+| 88 | 1.1% | 99.0% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 96% |  |
-| 91 | 4% | 93% |  |
-| 92 | 6% | 89% |  |
-| 93 | 8% | 83% |  |
+| 91 | 5% | 93% |  |
+| 92 | 6% | 88% |  |
+| 93 | 8% | 82% |  |
 | 94 | 9% | 75% |  |
 | 95 | 10% | 66% |  |
 | 96 | 10% | 56% | Median |
 | 97 | 10% | 46% |  |
-| 98 | 9% | 37% | Last Result |
+| 98 | 9% | 36% | Last Result |
 | 99 | 7% | 28% |  |
-| 100 | 6% | 21% |  |
-| 101 | 5% | 15% |  |
+| 100 | 6% | 20% |  |
+| 101 | 5% | 14% |  |
 | 102 | 3% | 10% |  |
-| 103 | 2% | 7% |  |
+| 103 | 2% | 6% |  |
 | 104 | 2% | 4% |  |
 | 105 | 1.0% | 2% |  |
 | 106 | 0.6% | 1.4% |  |
-| 107 | 0.4% | 0.8% |  |
+| 107 | 0.4% | 0.7% |  |
 | 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
-| 110 | 0.1% | 0.1% |  |
+| 110 | 0% | 0.1% |  |
 | 111 | 0% | 0% |  |
 
 
