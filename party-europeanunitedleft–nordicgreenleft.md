@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 48 | 45–51 | 44–53 | 44–54 | 42–56 |
+| European United Left–Nordic Green Left | EU | 39 | 48 | 45–51 | 44–53 | 43–54 | 42–56 |
 | La France insoumise | FR | | 8 | 7–11 | 7–12 | 7–12 | 6–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -49,31 +49,31 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
 | 41 | 0.1% | 100% |  |
-| 42 | 0.5% | 99.9% |  |
+| 42 | 0.6% | 99.8% |  |
 | 43 | 2% | 99.3% |  |
-| 44 | 4% | 98% |  |
-| 45 | 8% | 93% |  |
-| 46 | 13% | 85% |  |
-| 47 | 16% | 72% |  |
-| 48 | 16% | 56% | Median |
-| 49 | 14% | 40% |  |
-| 50 | 10% | 27% |  |
-| 51 | 7% | 17% |  |
-| 52 | 4% | 10% |  |
+| 44 | 4% | 97% |  |
+| 45 | 9% | 93% |  |
+| 46 | 13% | 84% |  |
+| 47 | 16% | 71% |  |
+| 48 | 16% | 55% | Median |
+| 49 | 13% | 39% |  |
+| 50 | 10% | 26% |  |
+| 51 | 7% | 16% |  |
+| 52 | 4% | 9% |  |
 | 53 | 3% | 5% |  |
-| 54 | 1.4% | 3% |  |
-| 55 | 0.7% | 1.3% |  |
-| 56 | 0.3% | 0.6% |  |
-| 57 | 0.2% | 0.3% |  |
+| 54 | 1.3% | 3% |  |
+| 55 | 0.7% | 1.2% |  |
+| 56 | 0.3% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
