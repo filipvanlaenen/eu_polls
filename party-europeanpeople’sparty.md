@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–161 | 148–162 | 146–164 | 144–166 |
+| European People’s Party | EU | 187 | 155 | 149–161 | 147–162 | 146–164 | 143–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | Partido Popular | ES | | 17 | 14–19 | 14–19 | 13–19 | 12–20 |
 | Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–19 |
@@ -48,7 +48,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -70,42 +70,42 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 140 | 0% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
-| 142 | 0.1% | 99.9% |  |
-| 143 | 0.2% | 99.8% |  |
-| 144 | 0.4% | 99.5% |  |
-| 145 | 0.7% | 99.1% |  |
-| 146 | 1.1% | 98% |  |
+| 142 | 0.2% | 99.9% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.5% | 99.4% |  |
+| 145 | 0.8% | 98.9% |  |
+| 146 | 1.3% | 98% |  |
 | 147 | 2% | 97% |  |
-| 148 | 3% | 96% |  |
-| 149 | 3% | 93% |  |
-| 150 | 5% | 89% |  |
-| 151 | 6% | 85% |  |
-| 152 | 7% | 79% |  |
-| 153 | 8% | 72% |  |
-| 154 | 9% | 64% |  |
-| 155 | 9% | 56% | Median |
-| 156 | 9% | 47% |  |
-| 157 | 8% | 38% |  |
-| 158 | 7% | 30% |  |
-| 159 | 6% | 23% |  |
-| 160 | 5% | 16% |  |
-| 161 | 4% | 11% |  |
-| 162 | 3% | 8% |  |
-| 163 | 2% | 5% |  |
-| 164 | 1.2% | 3% |  |
-| 165 | 0.7% | 2% |  |
-| 166 | 0.4% | 0.9% |  |
+| 148 | 3% | 95% |  |
+| 149 | 4% | 92% |  |
+| 150 | 5% | 88% |  |
+| 151 | 6% | 83% |  |
+| 152 | 7% | 77% |  |
+| 153 | 8% | 70% |  |
+| 154 | 9% | 62% |  |
+| 155 | 9% | 54% | Median |
+| 156 | 9% | 45% |  |
+| 157 | 8% | 36% |  |
+| 158 | 7% | 28% |  |
+| 159 | 6% | 21% |  |
+| 160 | 5% | 15% |  |
+| 161 | 4% | 10% |  |
+| 162 | 3% | 7% |  |
+| 163 | 2% | 4% |  |
+| 164 | 1.1% | 3% |  |
+| 165 | 0.7% | 1.4% |  |
+| 166 | 0.4% | 0.8% |  |
 | 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
-| 169 | 0.1% | 0.1% |  |
+| 169 | 0% | 0.1% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |

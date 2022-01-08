@@ -61,7 +61,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -82,20 +82,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 5% | 93% |  |
 | 92 | 6% | 88% |  |
 | 93 | 8% | 82% |  |
-| 94 | 9% | 75% |  |
-| 95 | 10% | 66% |  |
+| 94 | 9% | 74% |  |
+| 95 | 10% | 65% |  |
 | 96 | 10% | 56% | Median |
 | 97 | 10% | 46% |  |
 | 98 | 9% | 36% | Last Result |
-| 99 | 7% | 28% |  |
+| 99 | 7% | 27% |  |
 | 100 | 6% | 20% |  |
 | 101 | 5% | 14% |  |
 | 102 | 3% | 10% |  |
 | 103 | 2% | 6% |  |
 | 104 | 2% | 4% |  |
 | 105 | 1.0% | 2% |  |
-| 106 | 0.6% | 1.4% |  |
-| 107 | 0.4% | 0.7% |  |
+| 106 | 0.6% | 1.3% |  |
+| 107 | 0.3% | 0.7% |  |
 | 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
 | 110 | 0% | 0.1% |  |
