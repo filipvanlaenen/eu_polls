@@ -18,9 +18,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–161 | 147–162 | 146–163 | 143–166 |
+| European People’s Party | EU | 187 | 155 | 149–161 | 148–162 | 146–163 | 143–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
-| Partido Popular | ES | | 17 | 14–19 | 14–19 | 13–19 | 12–20 |
+| Partido Popular | ES | | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
 | Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–19 |
 | Koalicja Obywatelska | PL | | 14 | 13–17 | 13–18 | 12–18 | 12–19 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
@@ -29,7 +29,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
@@ -70,28 +70,28 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 140 | 0% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
-| 142 | 0.2% | 99.9% |  |
+| 142 | 0.1% | 99.9% |  |
 | 143 | 0.3% | 99.7% |  |
 | 144 | 0.5% | 99.4% |  |
-| 145 | 0.8% | 98.9% |  |
-| 146 | 1.3% | 98% |  |
+| 145 | 0.8% | 99.0% |  |
+| 146 | 1.2% | 98% |  |
 | 147 | 2% | 97% |  |
 | 148 | 3% | 95% |  |
 | 149 | 4% | 92% |  |
-| 150 | 5% | 88% |  |
-| 151 | 6% | 83% |  |
-| 152 | 7% | 77% |  |
-| 153 | 8% | 70% |  |
-| 154 | 9% | 62% |  |
-| 155 | 9% | 53% | Median |
+| 150 | 5% | 89% |  |
+| 151 | 6% | 84% |  |
+| 152 | 7% | 78% |  |
+| 153 | 8% | 71% |  |
+| 154 | 9% | 63% |  |
+| 155 | 9% | 54% | Median |
 | 156 | 9% | 45% |  |
 | 157 | 8% | 36% |  |
 | 158 | 7% | 28% |  |
@@ -101,7 +101,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 3% | 7% |  |
 | 163 | 2% | 4% |  |
 | 164 | 1.1% | 2% |  |
-| 165 | 0.7% | 1.4% |  |
+| 165 | 0.6% | 1.4% |  |
 | 166 | 0.4% | 0.7% |  |
 | 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
