@@ -33,7 +33,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -49,9 +49,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -70,11 +70,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 3% | 99.5% |  |
 | 13 | 8% | 97% |  |
 | 14 | 15% | 88% |  |
-| 15 | 19% | 74% |  |
+| 15 | 19% | 73% |  |
 | 16 | 20% | 54% | Median |
-| 17 | 16% | 35% |  |
-| 18 | 11% | 18% |  |
-| 19 | 5% | 8% |  |
+| 17 | 16% | 34% |  |
+| 18 | 10% | 18% |  |
+| 19 | 5% | 7% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.5% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |
