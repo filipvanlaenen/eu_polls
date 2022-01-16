@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **154** seats (-33 seats)
+Current median: **153** seats (-34 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 148–159 | 146–161 | 145–162 | 142–165 |
+| European People’s Party | EU | 187 | 153 | 148–159 | 146–161 | 145–162 | 142–165 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–20 | 13–20 |
 | Partido Popular | ES | | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | Les Républicains | FR | | 15 | 13–16 | 12–18 | 12–18 | 12–18 |
@@ -78,28 +78,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 139 | 0% | 100% |  |
 | 140 | 0.1% | 99.9% |  |
-| 141 | 0.1% | 99.9% |  |
+| 141 | 0.2% | 99.9% |  |
 | 142 | 0.3% | 99.7% |  |
-| 143 | 0.5% | 99.4% |  |
-| 144 | 0.9% | 98.9% |  |
-| 145 | 1.4% | 98% |  |
-| 146 | 2% | 97% |  |
+| 143 | 0.6% | 99.4% |  |
+| 144 | 0.9% | 98.8% |  |
+| 145 | 1.5% | 98% |  |
+| 146 | 2% | 96% |  |
 | 147 | 3% | 94% |  |
 | 148 | 4% | 91% |  |
 | 149 | 5% | 87% |  |
-| 150 | 7% | 82% |  |
+| 150 | 7% | 81% |  |
 | 151 | 8% | 75% |  |
-| 152 | 8% | 68% |  |
-| 153 | 9% | 59% |  |
-| 154 | 9% | 50% | Median |
-| 155 | 9% | 42% |  |
-| 156 | 8% | 33% |  |
+| 152 | 8% | 67% |  |
+| 153 | 9% | 58% | Median |
+| 154 | 9% | 50% |  |
+| 155 | 8% | 41% |  |
+| 156 | 8% | 32% |  |
 | 157 | 7% | 25% |  |
-| 158 | 5% | 19% |  |
+| 158 | 5% | 18% |  |
 | 159 | 4% | 13% |  |
 | 160 | 3% | 9% |  |
 | 161 | 2% | 6% |  |
-| 162 | 1.5% | 4% |  |
+| 162 | 1.4% | 3% |  |
 | 163 | 0.9% | 2% |  |
 | 164 | 0.5% | 1.1% |  |
 | 165 | 0.3% | 0.6% |  |
