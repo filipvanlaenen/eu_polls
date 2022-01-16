@@ -18,8 +18,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–102 | 91–104 | 90–105 | 88–108 |
-| La République en marche–Mouvement démocrate | FR | | 22 | 21–27 | 20–27 | 20–27 | 19–28 |
+| Renew Europe | EU | 98 | 97 | 92–102 | 90–104 | 89–105 | 87–108 |
+| La République en marche–Mouvement démocrate | FR | | 22 | 20–27 | 20–27 | 20–27 | 19–28 |
 | Freie Demokratische Partei | DE | | 10 | 9–13 | 8–13 | 8–13 | 8–14 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | Polska 2050 | PL | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
@@ -29,7 +29,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -47,7 +47,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -72,31 +72,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0% | 100% |  |
-| 86 | 0.1% | 99.9% |  |
-| 87 | 0.3% | 99.8% |  |
-| 88 | 0.6% | 99.6% |  |
-| 89 | 1.1% | 99.0% |  |
-| 90 | 2% | 98% |  |
-| 91 | 3% | 96% |  |
-| 92 | 5% | 93% |  |
-| 93 | 6% | 88% |  |
-| 94 | 8% | 81% |  |
-| 95 | 9% | 73% |  |
-| 96 | 10% | 64% |  |
-| 97 | 10% | 54% | Median |
-| 98 | 10% | 44% | Last Result |
-| 99 | 9% | 34% |  |
-| 100 | 7% | 25% |  |
-| 101 | 6% | 18% |  |
-| 102 | 4% | 13% |  |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.4% | 99.7% |  |
+| 88 | 0.8% | 99.3% |  |
+| 89 | 2% | 98.5% |  |
+| 90 | 3% | 97% |  |
+| 91 | 4% | 94% |  |
+| 92 | 5% | 91% |  |
+| 93 | 7% | 85% |  |
+| 94 | 8% | 78% |  |
+| 95 | 9% | 70% |  |
+| 96 | 10% | 60% |  |
+| 97 | 10% | 51% | Median |
+| 98 | 9% | 41% | Last Result |
+| 99 | 8% | 32% |  |
+| 100 | 7% | 24% |  |
+| 101 | 5% | 17% |  |
+| 102 | 4% | 12% |  |
 | 103 | 3% | 8% |  |
 | 104 | 2% | 5% |  |
-| 105 | 1.4% | 3% |  |
-| 106 | 0.9% | 2% |  |
-| 107 | 0.5% | 1.1% |  |
-| 108 | 0.3% | 0.6% |  |
-| 109 | 0.1% | 0.3% |  |
+| 105 | 1.3% | 3% |  |
+| 106 | 0.8% | 2% |  |
+| 107 | 0.5% | 1.0% |  |
+| 108 | 0.3% | 0.5% |  |
+| 109 | 0.1% | 0.2% |  |
 | 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0.1% |  |
 | 112 | 0% | 0% |  |

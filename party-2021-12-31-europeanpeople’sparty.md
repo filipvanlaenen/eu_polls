@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **155** seats (-32 seats)
+Current median: **154** seats (-33 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–161 | 148–162 | 146–163 | 143–166 |
+| European People’s Party | EU | 187 | 154 | 149–160 | 147–162 | 146–163 | 143–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
-| Partido Popular | ES | | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
-| Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–19 |
+| Partido Popular | ES | | 16 | 14–19 | 14–19 | 13–19 | 12–20 |
+| Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–20 |
 | Koalicja Obywatelska | PL | | 14 | 13–17 | 13–18 | 12–18 | 12–19 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 4–10 |
@@ -34,7 +34,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
+| Fine Gael | IE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -76,33 +76,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0% | 100% |  |
+| 140 | 0.1% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
-| 142 | 0.1% | 99.9% |  |
-| 143 | 0.3% | 99.7% |  |
-| 144 | 0.5% | 99.4% |  |
-| 145 | 0.8% | 99.0% |  |
-| 146 | 1.2% | 98% |  |
-| 147 | 2% | 97% |  |
-| 148 | 3% | 95% |  |
-| 149 | 4% | 92% |  |
-| 150 | 5% | 89% |  |
-| 151 | 6% | 84% |  |
-| 152 | 7% | 78% |  |
-| 153 | 8% | 71% |  |
-| 154 | 9% | 63% |  |
-| 155 | 9% | 54% | Median |
-| 156 | 9% | 45% |  |
-| 157 | 8% | 36% |  |
-| 158 | 7% | 28% |  |
-| 159 | 6% | 21% |  |
-| 160 | 5% | 15% |  |
-| 161 | 4% | 10% |  |
-| 162 | 3% | 7% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.4% | 99.6% |  |
+| 144 | 0.6% | 99.2% |  |
+| 145 | 1.0% | 98.6% |  |
+| 146 | 2% | 98% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
+| 149 | 4% | 91% |  |
+| 150 | 5% | 86% |  |
+| 151 | 7% | 81% |  |
+| 152 | 8% | 74% |  |
+| 153 | 8% | 67% |  |
+| 154 | 9% | 59% | Median |
+| 155 | 9% | 50% |  |
+| 156 | 8% | 41% |  |
+| 157 | 8% | 33% |  |
+| 158 | 7% | 25% |  |
+| 159 | 5% | 19% |  |
+| 160 | 4% | 13% |  |
+| 161 | 3% | 9% |  |
+| 162 | 2% | 6% |  |
 | 163 | 2% | 4% |  |
-| 164 | 1.1% | 2% |  |
-| 165 | 0.6% | 1.4% |  |
-| 166 | 0.4% | 0.7% |  |
+| 164 | 1.0% | 2% |  |
+| 165 | 0.6% | 1.3% |  |
+| 166 | 0.3% | 0.7% |  |
 | 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0% | 0.1% |  |
