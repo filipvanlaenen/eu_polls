@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+16 seats)
+Current median: **30** seats (+30 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 13–19 | 12–21 | 12–22 | 11–24 |
-| Reconquête [FR] (*) | FR | | 12 | 10–14 | 9–14 | 9–14 | 8–14 |
+| Parties currently not represented in the EP | EU | 0 | 30 | 27–34 | 26–35 | 25–36 | 23–37 |
+| Reconquête [FR] (*) | FR | | 12 | 10–14 | 10–15 | 9–15 | 9–16 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,15 +45,15 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -67,22 +67,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 1.0% | 99.9% |  |
-| 12 | 5% | 98.9% |  |
-| 13 | 10% | 94% |  |
-| 14 | 15% | 84% |  |
-| 15 | 17% | 69% |  |
-| 16 | 16% | 52% | Median |
-| 17 | 13% | 36% |  |
-| 18 | 9% | 23% |  |
-| 19 | 4% | 14% |  |
-| 20 | 3% | 9% |  |
-| 21 | 3% | 7% |  |
-| 22 | 2% | 4% |  |
-| 23 | 1.3% | 2% |  |
-| 24 | 0.5% | 0.6% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 0.6% | 99.8% |  |
+| 24 | 1.4% | 99.1% |  |
+| 25 | 3% | 98% |  |
+| 26 | 5% | 95% |  |
+| 27 | 8% | 91% |  |
+| 28 | 13% | 82% |  |
+| 29 | 16% | 69% |  |
+| 30 | 16% | 53% | Median |
+| 31 | 12% | 38% |  |
+| 32 | 9% | 25% |  |
+| 33 | 6% | 16% |  |
+| 34 | 4% | 10% |  |
+| 35 | 3% | 6% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.8% | 1.1% |  |
+| 38 | 0.3% | 0.4% |  |
+| 39 | 0.1% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 
