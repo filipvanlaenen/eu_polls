@@ -18,10 +18,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 148–160 | 147–161 | 145–163 | 142–165 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 14–19 | 14–19 | 13–20 |
-| Partido Popular | ES | | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
-| Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–19 |
+| European People’s Party | EU | 187 | 154 | 148–159 | 147–161 | 145–162 | 143–165 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–20 | 13–20 |
+| Partido Popular | ES | | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
+| Les Républicains | FR | | 15 | 14–16 | 13–17 | 13–18 | 12–20 |
 | Koalicja Obywatelska | PL | | 14 | 13–17 | 13–18 | 12–18 | 12–19 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 4–10 |
@@ -33,12 +33,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
+| Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -76,36 +76,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 139 | 0% | 100% |  |
-| 140 | 0.1% | 99.9% |  |
+| 140 | 0.1% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
-| 142 | 0.3% | 99.7% |  |
-| 143 | 0.5% | 99.4% |  |
-| 144 | 0.8% | 99.0% |  |
-| 145 | 1.2% | 98% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.4% | 99.5% |  |
+| 144 | 0.8% | 99.1% |  |
+| 145 | 1.3% | 98% |  |
 | 146 | 2% | 97% |  |
 | 147 | 3% | 95% |  |
 | 148 | 4% | 92% |  |
-| 149 | 5% | 89% |  |
-| 150 | 6% | 84% |  |
-| 151 | 7% | 78% |  |
-| 152 | 8% | 71% |  |
-| 153 | 9% | 63% |  |
-| 154 | 9% | 55% | Median |
-| 155 | 9% | 46% |  |
-| 156 | 8% | 37% |  |
-| 157 | 7% | 29% |  |
-| 158 | 6% | 22% |  |
-| 159 | 5% | 16% |  |
-| 160 | 4% | 11% |  |
-| 161 | 3% | 7% |  |
-| 162 | 2% | 5% |  |
-| 163 | 1.2% | 3% |  |
-| 164 | 0.7% | 2% |  |
-| 165 | 0.4% | 0.9% |  |
-| 166 | 0.2% | 0.4% |  |
+| 149 | 5% | 88% |  |
+| 150 | 6% | 83% |  |
+| 151 | 8% | 77% |  |
+| 152 | 8% | 69% |  |
+| 153 | 9% | 61% |  |
+| 154 | 9% | 52% | Median |
+| 155 | 9% | 43% |  |
+| 156 | 8% | 34% |  |
+| 157 | 7% | 26% |  |
+| 158 | 6% | 19% |  |
+| 159 | 4% | 14% |  |
+| 160 | 3% | 9% |  |
+| 161 | 2% | 6% |  |
+| 162 | 2% | 4% |  |
+| 163 | 1.0% | 2% |  |
+| 164 | 0.6% | 1.3% |  |
+| 165 | 0.3% | 0.7% |  |
+| 166 | 0.2% | 0.3% |  |
 | 167 | 0.1% | 0.2% |  |
-| 168 | 0.1% | 0.1% |  |
+| 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |

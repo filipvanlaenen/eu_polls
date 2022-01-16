@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 62 | 59–65 | 58–66 | 57–67 | 55–68 |
+| Identity and Democracy | EU | 76 | 62 | 59–66 | 58–67 | 57–67 | 56–69 |
 | Lega Nord | IT | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
-| Rassemblement national | FR | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Rassemblement national | FR | | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | Alternative für Deutschland | DE | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -42,23 +42,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.1% | 100% |  |
-| 55 | 0.4% | 99.9% |  |
-| 56 | 1.1% | 99.5% |  |
-| 57 | 3% | 98% |  |
-| 58 | 5% | 96% |  |
-| 59 | 9% | 91% |  |
-| 60 | 12% | 82% |  |
-| 61 | 15% | 69% |  |
-| 62 | 16% | 54% | Median |
-| 63 | 14% | 39% |  |
-| 64 | 11% | 25% |  |
-| 65 | 7% | 14% |  |
-| 66 | 4% | 7% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.9% | 1.4% |  |
-| 69 | 0.3% | 0.5% |  |
-| 70 | 0.1% | 0.2% |  |
-| 71 | 0% | 0% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.7% | 99.7% |  |
+| 57 | 2% | 99.1% |  |
+| 58 | 4% | 97% |  |
+| 59 | 7% | 93% |  |
+| 60 | 10% | 87% |  |
+| 61 | 14% | 76% |  |
+| 62 | 15% | 63% | Median |
+| 63 | 15% | 48% |  |
+| 64 | 12% | 33% |  |
+| 65 | 9% | 20% |  |
+| 66 | 6% | 11% |  |
+| 67 | 3% | 6% |  |
+| 68 | 1.5% | 2% |  |
+| 69 | 0.6% | 0.9% |  |
+| 70 | 0.2% | 0.3% |  |
+| 71 | 0.1% | 0.1% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
