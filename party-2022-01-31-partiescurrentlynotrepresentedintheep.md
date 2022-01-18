@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 13–20 | 12–21 | 12–22 | 11–24 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 13–19 | 12–21 | 12–22 | 11–24 |
 | Reconquête [FR] (*) | FR | | 12 | 10–14 | 9–14 | 9–14 | 8–14 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -45,7 +45,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -69,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 1.0% | 99.9% |  |
-| 12 | 4% | 98.9% |  |
-| 13 | 9% | 95% |  |
-| 14 | 14% | 85% |  |
-| 15 | 17% | 71% |  |
-| 16 | 17% | 55% | Median |
-| 17 | 14% | 38% |  |
-| 18 | 9% | 24% |  |
-| 19 | 5% | 15% |  |
-| 20 | 3% | 11% |  |
-| 21 | 3% | 8% |  |
-| 22 | 3% | 5% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.5% | 0.7% |  |
+| 12 | 5% | 98.9% |  |
+| 13 | 10% | 94% |  |
+| 14 | 15% | 84% |  |
+| 15 | 17% | 69% |  |
+| 16 | 16% | 52% | Median |
+| 17 | 13% | 36% |  |
+| 18 | 9% | 23% |  |
+| 19 | 4% | 14% |  |
+| 20 | 3% | 9% |  |
+| 21 | 3% | 7% |  |
+| 22 | 2% | 4% |  |
+| 23 | 1.3% | 2% |  |
+| 24 | 0.5% | 0.6% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 

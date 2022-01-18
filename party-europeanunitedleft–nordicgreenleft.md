@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (+9 seats)
+Current median: **49** seats (+10 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 48 | 45–52 | 44–53 | 44–55 | 42–57 |
-| La France insoumise | FR | | 9 | 7–10 | 7–14 | 6–14 | 6–14 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 45–52 | 45–53 | 44–54 | 42–56 |
+| La France insoumise | FR | | 9 | 7–11 | 7–12 | 6–12 | 6–13 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
-| Sinn Féin | IE | | 6 | 6 | 5–7 | 5–8 | 5–8 |
+| Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Die Linke | DE | | 5 | 4–6 | 4–6 | 3–7 | 2–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -49,9 +49,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,24 +59,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0.1% | 100% |  |
 | 42 | 0.5% | 99.8% |  |
-| 43 | 2% | 99.3% |  |
-| 44 | 4% | 98% |  |
-| 45 | 7% | 94% |  |
-| 46 | 12% | 86% |  |
-| 47 | 15% | 75% |  |
-| 48 | 16% | 60% | Median |
-| 49 | 14% | 43% |  |
-| 50 | 10% | 29% |  |
-| 51 | 7% | 19% |  |
-| 52 | 4% | 12% |  |
-| 53 | 3% | 8% |  |
-| 54 | 2% | 5% |  |
-| 55 | 1.3% | 3% |  |
-| 56 | 0.7% | 1.3% |  |
-| 57 | 0.3% | 0.6% |  |
-| 58 | 0.2% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 43 | 1.3% | 99.3% |  |
+| 44 | 3% | 98% |  |
+| 45 | 6% | 95% |  |
+| 46 | 9% | 89% |  |
+| 47 | 13% | 80% |  |
+| 48 | 15% | 67% |  |
+| 49 | 15% | 52% | Median |
+| 50 | 13% | 37% |  |
+| 51 | 10% | 25% |  |
+| 52 | 7% | 15% |  |
+| 53 | 4% | 8% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.1% | 2% |  |
+| 56 | 0.6% | 1.0% |  |
+| 57 | 0.3% | 0.5% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 
