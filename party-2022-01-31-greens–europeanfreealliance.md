@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 47–56 | 45–57 | 44–58 | 42–60 |
-| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
+| Greens–European Free Alliance | EU | 67 | 52 | 47–56 | 46–57 | 44–58 | 42–60 |
+| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | Europe Écologie Les Verts | FR | | 5 | 0–7 | 0–8 | 0–9 | 0–9 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -33,6 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -49,7 +50,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -62,27 +62,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
-| 41 | 0.1% | 99.9% |  |
-| 42 | 0.4% | 99.8% |  |
-| 43 | 0.8% | 99.4% |  |
-| 44 | 1.4% | 98.6% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.4% | 99.7% |  |
+| 43 | 0.8% | 99.3% |  |
+| 44 | 1.3% | 98.6% |  |
 | 45 | 2% | 97% |  |
 | 46 | 3% | 95% |  |
 | 47 | 4% | 92% |  |
 | 48 | 5% | 88% |  |
 | 49 | 6% | 83% |  |
 | 50 | 8% | 77% |  |
-| 51 | 10% | 68% |  |
-| 52 | 12% | 58% | Median |
-| 53 | 12% | 46% |  |
-| 54 | 11% | 34% |  |
-| 55 | 9% | 23% |  |
-| 56 | 6% | 14% |  |
+| 51 | 10% | 69% |  |
+| 52 | 11% | 59% | Median |
+| 53 | 12% | 48% |  |
+| 54 | 11% | 36% |  |
+| 55 | 9% | 25% |  |
+| 56 | 7% | 15% |  |
 | 57 | 4% | 8% |  |
 | 58 | 2% | 4% |  |
 | 59 | 1.1% | 2% |  |
-| 60 | 0.5% | 0.8% |  |
+| 60 | 0.5% | 0.7% |  |
 | 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
