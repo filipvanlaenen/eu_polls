@@ -49,7 +49,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0–5 |
+| Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0–4 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Social Democrats | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 2% | 6% |  |
 | 156 | 1.5% | 3% |  |
 | 157 | 0.9% | 2% |  |
-| 158 | 0.5% | 1.0% |  |
-| 159 | 0.3% | 0.5% |  |
+| 158 | 0.5% | 0.9% |  |
+| 159 | 0.2% | 0.5% |  |
 | 160 | 0.1% | 0.2% |  |
 | 161 | 0.1% | 0.1% |  |
 | 162 | 0% | 0% |  |
