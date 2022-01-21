@@ -10,33 +10,33 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **76** seats (+15 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, CZ, ES, GR, HR, IT, LU, LV, NL, PL, RO, SE, SK
+> BE, CZ, DE, ES, GR, HR, IT, LU, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 76 | 72–80 | 71–81 | 70–82 | 69–84 |
-| Zjednoczona Prawica | PL | | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| European Conservatives and Reformists | EU | 61 | 76 | 72–80 | 71–81 | 70–82 | 69–83 |
+| Zjednoczona Prawica | PL | | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | Fratelli d’Italia | IT | | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
-| Vox | ES | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
+| Vox | ES | | 11 | 9–12 | 9–13 | 8–13 | 8–15 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Sloboda a Solidarita | SK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Coraggio Italia | IT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -47,9 +47,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,25 +60,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0.1% | 100% |  |
-| 68 | 0.3% | 99.9% |  |
-| 69 | 0.7% | 99.6% |  |
-| 70 | 1.5% | 98.9% |  |
-| 71 | 3% | 97% |  |
-| 72 | 5% | 95% |  |
-| 73 | 7% | 90% |  |
-| 74 | 10% | 82% |  |
-| 75 | 12% | 72% |  |
-| 76 | 13% | 60% | Median |
-| 77 | 13% | 47% |  |
-| 78 | 11% | 34% |  |
-| 79 | 9% | 23% |  |
-| 80 | 6% | 14% |  |
-| 81 | 4% | 8% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.1% | 2% |  |
-| 84 | 0.5% | 0.9% |  |
-| 85 | 0.2% | 0.3% |  |
-| 86 | 0.1% | 0.1% |  |
-| 87 | 0% | 0% |  |
+| 68 | 0.3% | 99.8% |  |
+| 69 | 0.8% | 99.5% |  |
+| 70 | 2% | 98.7% |  |
+| 71 | 4% | 97% |  |
+| 72 | 6% | 93% |  |
+| 73 | 9% | 87% |  |
+| 74 | 11% | 79% |  |
+| 75 | 13% | 67% |  |
+| 76 | 14% | 54% | Median |
+| 77 | 13% | 41% |  |
+| 78 | 10% | 28% |  |
+| 79 | 8% | 18% |  |
+| 80 | 5% | 10% |  |
+| 81 | 3% | 5% |  |
+| 82 | 1.4% | 3% |  |
+| 83 | 0.7% | 1.1% |  |
+| 84 | 0.3% | 0.4% |  |
+| 85 | 0.1% | 0.1% |  |
+| 86 | 0% | 0% |  |
 
 
