@@ -21,8 +21,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 187 | 154 | 149–160 | 147–162 | 146–163 | 143–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | Partido Popular | ES | | 16 | 14–19 | 14–19 | 13–19 | 12–20 |
+| Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | Les Républicains | FR | | 15 | 13–17 | 12–18 | 11–18 | 10–20 |
-| Koalicja Obywatelska | PL | | 14 | 13–17 | 13–18 | 12–18 | 12–19 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 4–10 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -35,10 +35,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 0.1% | 99.9% |  |
 | 142 | 0.2% | 99.8% |  |
 | 143 | 0.4% | 99.6% |  |
-| 144 | 0.6% | 99.2% |  |
-| 145 | 1.0% | 98.6% |  |
+| 144 | 0.6% | 99.3% |  |
+| 145 | 1.0% | 98.7% |  |
 | 146 | 2% | 98% |  |
 | 147 | 2% | 96% |  |
 | 148 | 3% | 94% |  |
@@ -99,11 +99,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 4% | 13% |  |
 | 161 | 3% | 9% |  |
 | 162 | 2% | 6% |  |
-| 163 | 2% | 4% |  |
-| 164 | 1.0% | 2% |  |
-| 165 | 0.6% | 1.3% |  |
+| 163 | 1.5% | 4% |  |
+| 164 | 0.9% | 2% |  |
+| 165 | 0.6% | 1.2% |  |
 | 166 | 0.3% | 0.7% |  |
-| 167 | 0.2% | 0.4% |  |
+| 167 | 0.2% | 0.3% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0% | 0.1% |  |
 | 170 | 0% | 0% |  |
