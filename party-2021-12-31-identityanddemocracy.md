@@ -19,7 +19,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Identity and Democracy | EU | 76 | 62 | 58–65 | 57–66 | 57–67 | 55–69 |
-| Lega Nord | IT | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| Lega Nord | IT | | 16 | 15–18 | 14–18 | 13–19 | 13–20 |
 | Rassemblement national | FR | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Alternative für Deutschland | DE | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
