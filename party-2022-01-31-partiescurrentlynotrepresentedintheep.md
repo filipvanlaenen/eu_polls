@@ -18,8 +18,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 13–22 | 13–23 | 12–23 | 11–24 |
-| Reconquête [FR] (*) | FR | | 12 | 10–13 | 9–14 | 9–14 | 8–15 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 13–22 | 13–23 | 12–23 | 11–25 |
+| Reconquête [FR] (*) | FR | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,7 +45,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -74,16 +74,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 12% | 88% |  |
 | 15 | 14% | 76% |  |
 | 16 | 13% | 62% | Median |
-| 17 | 9% | 49% |  |
+| 17 | 10% | 49% |  |
 | 18 | 7% | 39% |  |
-| 19 | 6% | 33% |  |
-| 20 | 7% | 27% |  |
-| 21 | 8% | 20% |  |
-| 22 | 7% | 12% |  |
-| 23 | 4% | 5% |  |
-| 24 | 1.2% | 2% |  |
-| 25 | 0.3% | 0.3% |  |
-| 26 | 0% | 0.1% |  |
-| 27 | 0% | 0% |  |
+| 19 | 7% | 32% |  |
+| 20 | 7% | 25% |  |
+| 21 | 7% | 18% |  |
+| 22 | 6% | 11% |  |
+| 23 | 3% | 5% |  |
+| 24 | 1.4% | 2% |  |
+| 25 | 0.5% | 0.7% |  |
+| 26 | 0.2% | 0.2% |  |
+| 27 | 0% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 
