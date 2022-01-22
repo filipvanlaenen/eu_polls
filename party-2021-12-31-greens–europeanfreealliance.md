@@ -43,7 +43,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -69,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 2% | 98% |  |
 | 46 | 2% | 97% |  |
 | 47 | 3% | 94% |  |
-| 48 | 4% | 91% |  |
-| 49 | 6% | 87% |  |
+| 48 | 5% | 91% |  |
+| 49 | 6% | 86% |  |
 | 50 | 8% | 80% |  |
 | 51 | 10% | 72% |  |
 | 52 | 12% | 62% | Median |
@@ -79,9 +79,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 10% | 25% |  |
 | 56 | 7% | 16% |  |
 | 57 | 4% | 9% |  |
-| 58 | 2% | 5% |  |
+| 58 | 2% | 4% |  |
 | 59 | 1.2% | 2% |  |
-| 60 | 0.6% | 0.9% |  |
+| 60 | 0.5% | 0.8% |  |
 | 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
