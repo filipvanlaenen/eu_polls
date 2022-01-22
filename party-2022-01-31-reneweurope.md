@@ -18,9 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 93–102 | 92–103 | 91–105 | 89–107 |
+| Renew Europe | EU | 98 | 97 | 93–102 | 91–103 | 90–104 | 88–107 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
-| Freie Demokratische Partei | DE | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
+| Freie Demokratische Partei | DE | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | Polska 2050 | PL | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
@@ -29,13 +29,13 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
-| Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -72,30 +72,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 86 | 0% | 100% |  |
-| 87 | 0.1% | 99.9% |  |
-| 88 | 0.3% | 99.8% |  |
-| 89 | 0.6% | 99.5% |  |
-| 90 | 1.2% | 98.9% |  |
-| 91 | 2% | 98% |  |
-| 92 | 3% | 96% |  |
-| 93 | 5% | 92% |  |
-| 94 | 7% | 87% |  |
-| 95 | 9% | 80% |  |
-| 96 | 11% | 71% |  |
-| 97 | 11% | 60% | Median |
-| 98 | 11% | 49% | Last Result |
-| 99 | 10% | 38% |  |
-| 100 | 8% | 28% |  |
-| 101 | 7% | 19% |  |
-| 102 | 5% | 13% |  |
-| 103 | 3% | 8% |  |
-| 104 | 2% | 5% |  |
-| 105 | 1.2% | 3% |  |
-| 106 | 0.7% | 1.4% |  |
-| 107 | 0.4% | 0.7% |  |
+| 86 | 0.1% | 100% |  |
+| 87 | 0.2% | 99.9% |  |
+| 88 | 0.4% | 99.7% |  |
+| 89 | 0.8% | 99.3% |  |
+| 90 | 2% | 98.5% |  |
+| 91 | 3% | 97% |  |
+| 92 | 4% | 94% |  |
+| 93 | 6% | 90% |  |
+| 94 | 8% | 84% |  |
+| 95 | 10% | 77% |  |
+| 96 | 11% | 67% |  |
+| 97 | 11% | 56% | Median |
+| 98 | 11% | 45% | Last Result |
+| 99 | 10% | 34% |  |
+| 100 | 8% | 24% |  |
+| 101 | 6% | 17% |  |
+| 102 | 4% | 11% |  |
+| 103 | 3% | 7% |  |
+| 104 | 2% | 4% |  |
+| 105 | 1.0% | 2% |  |
+| 106 | 0.6% | 1.2% |  |
+| 107 | 0.3% | 0.6% |  |
 | 108 | 0.2% | 0.3% |  |
-| 109 | 0.1% | 0.2% |  |
+| 109 | 0.1% | 0.1% |  |
 | 110 | 0% | 0.1% |  |
 | 111 | 0% | 0% |  |
 

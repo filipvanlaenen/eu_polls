@@ -19,19 +19,19 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 67 | 52 | 46–57 | 45–58 | 44–59 | 42–60 |
-| Bündnis 90/Die Grünen | DE | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| Bündnis 90/Die Grünen | DE | | 15 | 14–16 | 13–17 | 13–17 | 12–17 |
 | Europe Écologie Les Verts | FR | | 5 | 0–7 | 0–8 | 0–9 | 0–9 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Coalició Compromís | ES | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | GroenLinks | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Volt Europa | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,7 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -63,26 +63,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% |  |
-| 42 | 0.6% | 99.6% |  |
-| 43 | 1.2% | 99.0% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.5% | 99.6% |  |
+| 43 | 1.1% | 99.1% |  |
 | 44 | 2% | 98% |  |
 | 45 | 3% | 96% |  |
 | 46 | 4% | 93% |  |
-| 47 | 6% | 88% |  |
+| 47 | 5% | 89% |  |
 | 48 | 6% | 83% |  |
-| 49 | 7% | 76% |  |
-| 50 | 8% | 69% |  |
-| 51 | 8% | 61% |  |
-| 52 | 9% | 53% | Median |
-| 53 | 10% | 44% |  |
-| 54 | 9% | 35% |  |
-| 55 | 8% | 25% |  |
+| 49 | 7% | 77% |  |
+| 50 | 8% | 70% |  |
+| 51 | 8% | 62% |  |
+| 52 | 9% | 54% | Median |
+| 53 | 10% | 45% |  |
+| 54 | 10% | 36% |  |
+| 55 | 9% | 26% |  |
 | 56 | 7% | 17% |  |
 | 57 | 5% | 10% |  |
 | 58 | 3% | 5% |  |
 | 59 | 1.5% | 3% |  |
-| 60 | 0.7% | 1.1% |  |
+| 60 | 0.7% | 1.0% |  |
 | 61 | 0.3% | 0.4% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |

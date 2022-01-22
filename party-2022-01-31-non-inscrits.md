@@ -18,13 +18,13 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 35 | 33–38 | 32–39 | 32–40 | 31–41 |
-| Movimento 5 Stelle | IT | | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
+| Non-Inscrits | EU | 29 | 35 | 33–38 | 32–39 | 31–39 | 30–41 |
+| Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | Konfederacja | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -47,20 +47,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% | Last Result |
-| 30 | 0.4% | 99.9% |  |
-| 31 | 1.5% | 99.6% |  |
-| 32 | 4% | 98% |  |
-| 33 | 10% | 94% |  |
-| 34 | 16% | 84% |  |
-| 35 | 19% | 68% | Median |
-| 36 | 18% | 49% |  |
-| 37 | 14% | 31% |  |
-| 38 | 9% | 17% |  |
-| 39 | 5% | 8% |  |
-| 40 | 2% | 3% |  |
-| 41 | 0.8% | 1.1% |  |
-| 42 | 0.2% | 0.3% |  |
-| 43 | 0.1% | 0.1% |  |
-| 44 | 0% | 0% |  |
+| 30 | 0.5% | 99.9% |  |
+| 31 | 2% | 99.4% |  |
+| 32 | 6% | 97% |  |
+| 33 | 12% | 91% |  |
+| 34 | 18% | 79% |  |
+| 35 | 20% | 62% | Median |
+| 36 | 17% | 42% |  |
+| 37 | 12% | 25% |  |
+| 38 | 7% | 13% |  |
+| 39 | 4% | 6% |  |
+| 40 | 1.4% | 2% |  |
+| 41 | 0.5% | 0.7% |  |
+| 42 | 0.1% | 0.2% |  |
+| 43 | 0% | 0% |  |
 
 
