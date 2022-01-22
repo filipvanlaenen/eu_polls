@@ -18,8 +18,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 16 | 13–21 | 12–22 | 12–23 | 11–24 |
-| Reconquête [FR] (*) | FR | | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
+| Parties currently not represented in the EP | EU | 0 | 16 | 13–22 | 13–22 | 12–23 | 11–24 |
+| Reconquête [FR] (*) | FR | | 12 | 10–13 | 9–14 | 9–14 | 8–15 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,7 +45,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -69,20 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 0.6% | 99.9% |  |
-| 12 | 5% | 99.3% |  |
-| 13 | 11% | 95% |  |
-| 14 | 15% | 84% |  |
-| 15 | 15% | 69% |  |
-| 16 | 14% | 54% | Median |
-| 17 | 12% | 40% |  |
-| 18 | 9% | 27% |  |
-| 19 | 5% | 19% |  |
-| 20 | 3% | 14% |  |
-| 21 | 4% | 10% |  |
-| 22 | 3% | 7% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.8% | 1.1% |  |
-| 25 | 0.2% | 0.3% |  |
-| 26 | 0% | 0% |  |
+| 12 | 3% | 99.3% |  |
+| 13 | 8% | 96% |  |
+| 14 | 12% | 88% |  |
+| 15 | 14% | 76% |  |
+| 16 | 13% | 62% | Median |
+| 17 | 10% | 49% |  |
+| 18 | 7% | 39% |  |
+| 19 | 6% | 32% |  |
+| 20 | 7% | 26% |  |
+| 21 | 8% | 19% |  |
+| 22 | 6% | 11% |  |
+| 23 | 3% | 5% |  |
+| 24 | 1.1% | 1.5% |  |
+| 25 | 0.3% | 0.3% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
