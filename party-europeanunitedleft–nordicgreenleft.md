@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+10 seats)
+Current median: **48** seats (+9 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–53 | 45–54 | 44–55 | 43–57 |
-| La France insoumise | FR | | 8 | 7–12 | 7–12 | 6–13 | 6–13 |
-| Unidos Podemos | ES | | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
-| Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| Die Linke | DE | | 5 | 4–6 | 4–7 | 3–7 | 2–8 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
+| European United Left–Nordic Green Left | EU | 39 | 48 | 45–52 | 44–53 | 43–54 | 42–56 |
+| La France insoumise | FR | | 9 | 7–10 | 7–14 | 6–14 | 6–14 |
+| Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
+| Sinn Féin | IE | | 6 | 6 | 5–7 | 5–8 | 5–8 |
+| Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -42,41 +42,40 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
-| 43 | 0.8% | 99.6% |  |
-| 44 | 2% | 98.8% |  |
-| 45 | 5% | 97% |  |
-| 46 | 9% | 92% |  |
-| 47 | 13% | 83% |  |
-| 48 | 15% | 71% |  |
-| 49 | 15% | 56% | Median |
-| 50 | 13% | 41% |  |
-| 51 | 10% | 28% |  |
-| 52 | 7% | 18% |  |
-| 53 | 5% | 11% |  |
-| 54 | 3% | 7% |  |
-| 55 | 2% | 4% |  |
-| 56 | 0.9% | 2% |  |
-| 57 | 0.5% | 0.9% |  |
-| 58 | 0.2% | 0.4% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.6% | 99.8% |  |
+| 43 | 2% | 99.2% |  |
+| 44 | 4% | 97% |  |
+| 45 | 8% | 93% |  |
+| 46 | 12% | 85% |  |
+| 47 | 16% | 73% |  |
+| 48 | 16% | 57% | Median |
+| 49 | 14% | 41% |  |
+| 50 | 10% | 27% |  |
+| 51 | 6% | 17% |  |
+| 52 | 4% | 11% |  |
+| 53 | 3% | 7% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.1% | 2% |  |
+| 56 | 0.6% | 1.1% |  |
+| 57 | 0.3% | 0.5% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0.1% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 

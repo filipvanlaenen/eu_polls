@@ -10,9 +10,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **29** seats (+29 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> AT, BG, FR, NL
+> AT, BG, FR, LV, NL
 
 ### Confidence Intervals
 
@@ -22,6 +22,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Reconquête [FR] (*) | FR | | 11 | 10–14 | 9–15 | 9–15 | 9–16 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -35,8 +36,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | L’Engagement [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -79,24 +79,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.2% | 100% |  |
-| 22 | 0.9% | 99.8% |  |
-| 23 | 2% | 98.9% |  |
+| 22 | 0.8% | 99.8% |  |
+| 23 | 2% | 99.0% |  |
 | 24 | 4% | 97% |  |
 | 25 | 6% | 92% |  |
 | 26 | 8% | 86% |  |
 | 27 | 10% | 78% |  |
 | 28 | 13% | 68% |  |
 | 29 | 14% | 55% | Median |
-| 30 | 12% | 42% |  |
+| 30 | 13% | 41% |  |
 | 31 | 10% | 29% |  |
 | 32 | 7% | 19% |  |
 | 33 | 5% | 12% |  |
 | 34 | 3% | 8% |  |
 | 35 | 2% | 4% |  |
-| 36 | 1.3% | 2% |  |
-| 37 | 0.6% | 0.9% |  |
-| 38 | 0.2% | 0.3% |  |
-| 39 | 0.1% | 0.1% |  |
+| 36 | 1.2% | 2% |  |
+| 37 | 0.6% | 0.8% |  |
+| 38 | 0.2% | 0.2% |  |
+| 39 | 0% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
 
