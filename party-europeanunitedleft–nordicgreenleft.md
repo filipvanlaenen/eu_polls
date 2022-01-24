@@ -18,22 +18,22 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 48 | 45–52 | 44–53 | 43–54 | 42–57 |
-| La France insoumise | FR | | 9 | 7–10 | 7–14 | 6–14 | 6–14 |
-| Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
-| Sinn Féin | IE | | 6 | 6 | 5–7 | 5–8 | 5–8 |
-| Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| European United Left–Nordic Green Left | EU | 39 | 48 | 45–52 | 44–53 | 44–54 | 42–55 |
+| La France insoumise | FR | | 8 | 7–12 | 7–12 | 6–13 | 6–13 |
+| Unidos Podemos | ES | | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
+| Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| Die Linke | DE | | 5 | 4–6 | 4–6 | 3–7 | 2–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,41 +42,38 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2021-12-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2021-12-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.2% | 100% |  |
-| 42 | 0.6% | 99.8% |  |
-| 43 | 2% | 99.2% |  |
-| 44 | 4% | 97% |  |
-| 45 | 8% | 93% |  |
-| 46 | 12% | 85% |  |
-| 47 | 15% | 73% |  |
-| 48 | 16% | 57% | Median |
-| 49 | 14% | 42% |  |
-| 50 | 10% | 28% |  |
-| 51 | 6% | 18% |  |
-| 52 | 4% | 11% |  |
-| 53 | 3% | 7% |  |
-| 54 | 2% | 4% |  |
-| 55 | 1.2% | 2% |  |
-| 56 | 0.6% | 1.2% |  |
-| 57 | 0.3% | 0.6% |  |
-| 58 | 0.1% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 0.4% | 99.9% |  |
+| 43 | 1.2% | 99.5% |  |
+| 44 | 3% | 98% |  |
+| 45 | 7% | 95% |  |
+| 46 | 12% | 88% |  |
+| 47 | 15% | 77% |  |
+| 48 | 16% | 61% | Median |
+| 49 | 14% | 45% |  |
+| 50 | 11% | 31% |  |
+| 51 | 8% | 19% |  |
+| 52 | 5% | 11% |  |
+| 53 | 3% | 6% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.8% | 1.3% |  |
+| 56 | 0.3% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0% |  |
 
 

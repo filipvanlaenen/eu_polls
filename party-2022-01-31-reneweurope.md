@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 98 | 93–104 | 92–105 | 90–106 | 88–109 |
+| Renew Europe | EU | 98 | 98 | 93–104 | 92–105 | 91–106 | 88–109 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 21–24 | 20–25 | 19–26 | 19–27 |
 | Freie Demokratische Partei | DE | | 10 | 8–12 | 8–13 | 8–13 | 7–13 |
 | Polska 2050 | PL | | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
@@ -34,7 +34,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -76,27 +76,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 86 | 0.1% | 100% |  |
 | 87 | 0.2% | 99.9% |  |
-| 88 | 0.4% | 99.7% |  |
-| 89 | 0.7% | 99.3% |  |
-| 90 | 1.3% | 98.6% |  |
-| 91 | 2% | 97% |  |
-| 92 | 3% | 95% |  |
-| 93 | 4% | 92% |  |
+| 88 | 0.3% | 99.7% |  |
+| 89 | 0.7% | 99.4% |  |
+| 90 | 1.2% | 98.7% |  |
+| 91 | 2% | 98% |  |
+| 92 | 3% | 96% |  |
+| 93 | 4% | 93% |  |
 | 94 | 6% | 88% |  |
-| 95 | 7% | 82% |  |
-| 96 | 8% | 75% |  |
+| 95 | 7% | 83% |  |
+| 96 | 8% | 76% |  |
 | 97 | 9% | 67% |  |
-| 98 | 9% | 57% | Last Result, Median |
-| 99 | 9% | 48% |  |
+| 98 | 9% | 58% | Last Result, Median |
+| 99 | 9% | 49% |  |
 | 100 | 9% | 39% |  |
-| 101 | 8% | 30% |  |
-| 102 | 6% | 22% |  |
+| 101 | 8% | 31% |  |
+| 102 | 7% | 23% |  |
 | 103 | 5% | 16% |  |
 | 104 | 4% | 11% |  |
 | 105 | 3% | 7% |  |
 | 106 | 2% | 4% |  |
 | 107 | 1.1% | 2% |  |
-| 108 | 0.6% | 1.2% |  |
+| 108 | 0.6% | 1.3% |  |
 | 109 | 0.3% | 0.6% |  |
 | 110 | 0.2% | 0.3% |  |
 | 111 | 0.1% | 0.1% |  |
