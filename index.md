@@ -11,13 +11,13 @@
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 187 | 153 | 147–158 |145–160 | 144–161 | 141–164 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 147 | 142–153 |140–154 | 139–155 | 137–158 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 148 | 142–153 |141–154 | 140–156 | 137–158 |
 | <a href="#renew-europe">Renew Europe</a> | 98 | 98 | 93–103 |91–105 | 90–106 | 88–108 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 75 | 71–79 |70–80 | 70–81 | 68–83 |
 | <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 62 | 59–66 |58–67 | 57–68 | 56–70 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 52 | 47–56 |45–57 | 44–58 | 42–60 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 48 | 45–51 |44–52 | 43–53 | 42–54 |
-| <a href="#non-inscrits">Non-Inscrits</a> | 29 | 46 | 43–49 |42–50 | 41–51 | 39–52 |
+| <a href="#non-inscrits">Non-Inscrits</a> | 29 | 46 | 43–49 |42–49 | 41–50 | 40–51 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 5 | 3–10 |3–10 | 2–11 | 2–11 |
 
 ### European People’s Party
@@ -86,33 +86,33 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 134 | 0.1% | 100% |  |
+| 134 | 0% | 100% |  |
 | 135 | 0.1% | 99.9% |  |
-| 136 | 0.2% | 99.8% |  |
-| 137 | 0.5% | 99.5% |  |
-| 138 | 0.8% | 99.1% |  |
-| 139 | 1.3% | 98% |  |
-| 140 | 2% | 97% |  |
-| 141 | 3% | 95% |  |
-| 142 | 4% | 92% |  |
-| 143 | 6% | 87% |  |
-| 144 | 7% | 82% |  |
-| 145 | 8% | 75% |  |
-| 146 | 9% | 67% |  |
-| 147 | 10% | 57% | Last Result, Median |
-| 148 | 9% | 48% |  |
-| 149 | 9% | 39% |  |
-| 150 | 8% | 30% |  |
-| 151 | 6% | 22% |  |
-| 152 | 5% | 15% |  |
-| 153 | 4% | 10% |  |
-| 154 | 3% | 7% |  |
-| 155 | 2% | 4% |  |
-| 156 | 1.0% | 2% |  |
-| 157 | 0.6% | 1.2% |  |
-| 158 | 0.3% | 0.6% |  |
+| 136 | 0.2% | 99.9% |  |
+| 137 | 0.3% | 99.7% |  |
+| 138 | 0.6% | 99.4% |  |
+| 139 | 1.1% | 98.8% |  |
+| 140 | 2% | 98% |  |
+| 141 | 3% | 96% |  |
+| 142 | 4% | 93% |  |
+| 143 | 5% | 90% |  |
+| 144 | 7% | 84% |  |
+| 145 | 8% | 78% |  |
+| 146 | 9% | 70% |  |
+| 147 | 10% | 61% | Last Result |
+| 148 | 10% | 52% | Median |
+| 149 | 9% | 42% |  |
+| 150 | 8% | 33% |  |
+| 151 | 7% | 24% |  |
+| 152 | 6% | 17% |  |
+| 153 | 4% | 12% |  |
+| 154 | 3% | 8% |  |
+| 155 | 2% | 5% |  |
+| 156 | 1.2% | 3% |  |
+| 157 | 0.7% | 1.4% |  |
+| 158 | 0.4% | 0.7% |  |
 | 159 | 0.2% | 0.3% |  |
-| 160 | 0.1% | 0.1% |  |
+| 160 | 0.1% | 0.2% |  |
 | 161 | 0% | 0.1% |  |
 | 162 | 0% | 0% |  |
 
@@ -303,22 +303,21 @@
 | 37 | 0% | 100% |  |
 | 38 | 0.1% | 100% |  |
 | 39 | 0.4% | 99.9% |  |
-| 40 | 1.2% | 99.5% |  |
+| 40 | 1.1% | 99.5% |  |
 | 41 | 3% | 98% |  |
-| 42 | 5% | 96% |  |
+| 42 | 6% | 96% |  |
 | 43 | 9% | 90% |  |
 | 44 | 13% | 81% |  |
-| 45 | 15% | 69% |  |
-| 46 | 16% | 53% | Median |
-| 47 | 14% | 37% |  |
-| 48 | 10% | 23% |  |
-| 49 | 7% | 13% |  |
-| 50 | 4% | 6% |  |
-| 51 | 2% | 3% |  |
-| 52 | 0.7% | 1.0% |  |
-| 53 | 0.2% | 0.3% |  |
-| 54 | 0.1% | 0.1% |  |
-| 55 | 0% | 0% |  |
+| 45 | 16% | 67% |  |
+| 46 | 17% | 51% | Median |
+| 47 | 14% | 35% |  |
+| 48 | 10% | 21% |  |
+| 49 | 6% | 10% |  |
+| 50 | 3% | 4% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.4% | 0.5% |  |
+| 53 | 0.1% | 0.1% |  |
+| 54 | 0% | 0% |  |
 
 ### Parties currently not represented in the EP
 
