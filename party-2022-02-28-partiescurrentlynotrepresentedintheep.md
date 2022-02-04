@@ -43,7 +43,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -62,12 +62,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 23% | 79% |  |
 | 5 | 17% | 56% | Median |
 | 6 | 6% | 40% |  |
-| 7 | 3% | 34% |  |
-| 8 | 7% | 30% |  |
-| 9 | 10% | 23% |  |
-| 10 | 8% | 13% |  |
+| 7 | 4% | 34% |  |
+| 8 | 8% | 30% |  |
+| 9 | 11% | 22% |  |
+| 10 | 8% | 11% |  |
 | 11 | 3% | 4% |  |
-| 12 | 0.8% | 0.9% |  |
+| 12 | 0.6% | 0.7% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
