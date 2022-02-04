@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 148–159 | 146–161 | 145–162 | 142–165 |
+| European People’s Party | EU | 187 | 154 | 149–160 | 147–161 | 146–162 | 143–165 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 15–20 | 13–21 |
 | Koalicja Obywatelska | PL | | 16 | 13–18 | 12–18 | 12–19 | 11–19 |
 | Partido Popular | ES | | 16 | 14–18 | 13–18 | 13–19 | 13–20 |
@@ -70,40 +70,40 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0.1% | 100% |  |
+| 140 | 0% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
-| 142 | 0.3% | 99.8% |  |
-| 143 | 0.5% | 99.5% |  |
-| 144 | 0.8% | 99.0% |  |
-| 145 | 1.3% | 98% |  |
-| 146 | 2% | 97% |  |
-| 147 | 3% | 95% |  |
-| 148 | 4% | 92% |  |
-| 149 | 5% | 88% |  |
-| 150 | 6% | 83% |  |
-| 151 | 8% | 76% |  |
-| 152 | 9% | 69% |  |
-| 153 | 9% | 60% |  |
-| 154 | 9% | 51% | Median |
-| 155 | 9% | 42% |  |
-| 156 | 8% | 33% |  |
-| 157 | 7% | 25% |  |
-| 158 | 6% | 18% |  |
-| 159 | 4% | 13% |  |
-| 160 | 3% | 9% |  |
-| 161 | 2% | 5% |  |
-| 162 | 1.4% | 3% |  |
-| 163 | 0.9% | 2% |  |
-| 164 | 0.5% | 1.0% |  |
-| 165 | 0.3% | 0.5% |  |
-| 166 | 0.1% | 0.3% |  |
-| 167 | 0.1% | 0.1% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.6% | 99.3% |  |
+| 145 | 1.0% | 98.8% |  |
+| 146 | 2% | 98% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
+| 149 | 5% | 90% |  |
+| 150 | 6% | 86% |  |
+| 151 | 7% | 80% |  |
+| 152 | 8% | 73% |  |
+| 153 | 9% | 65% |  |
+| 154 | 9% | 56% | Median |
+| 155 | 9% | 46% |  |
+| 156 | 9% | 37% |  |
+| 157 | 7% | 29% |  |
+| 158 | 6% | 21% |  |
+| 159 | 5% | 15% |  |
+| 160 | 4% | 10% |  |
+| 161 | 3% | 6% |  |
+| 162 | 2% | 4% |  |
+| 163 | 1.0% | 2% |  |
+| 164 | 0.6% | 1.3% |  |
+| 165 | 0.3% | 0.7% |  |
+| 166 | 0.2% | 0.3% |  |
+| 167 | 0.1% | 0.2% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |

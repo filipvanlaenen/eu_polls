@@ -63,44 +63,44 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
-| 87 | 0.3% | 99.8% |  |
-| 88 | 0.5% | 99.5% |  |
-| 89 | 0.9% | 99.0% |  |
+| 87 | 0.2% | 99.8% |  |
+| 88 | 0.5% | 99.6% |  |
+| 89 | 0.9% | 99.1% |  |
 | 90 | 2% | 98% |  |
-| 91 | 2% | 96% |  |
-| 92 | 4% | 94% |  |
-| 93 | 5% | 90% |  |
+| 91 | 2% | 97% |  |
+| 92 | 3% | 94% |  |
+| 93 | 5% | 91% |  |
 | 94 | 6% | 86% |  |
 | 95 | 7% | 80% |  |
-| 96 | 8% | 72% |  |
-| 97 | 9% | 64% |  |
-| 98 | 9% | 55% | Last Result, Median |
-| 99 | 9% | 45% |  |
-| 100 | 9% | 36% |  |
-| 101 | 7% | 28% |  |
-| 102 | 6% | 20% |  |
-| 103 | 5% | 14% |  |
-| 104 | 3% | 9% |  |
-| 105 | 2% | 6% |  |
-| 106 | 2% | 3% |  |
-| 107 | 0.9% | 2% |  |
-| 108 | 0.5% | 0.9% |  |
-| 109 | 0.2% | 0.4% |  |
+| 96 | 8% | 73% |  |
+| 97 | 9% | 65% |  |
+| 98 | 9% | 56% | Last Result, Median |
+| 99 | 9% | 47% |  |
+| 100 | 9% | 37% |  |
+| 101 | 8% | 29% |  |
+| 102 | 6% | 21% |  |
+| 103 | 5% | 15% |  |
+| 104 | 4% | 10% |  |
+| 105 | 3% | 6% |  |
+| 106 | 2% | 4% |  |
+| 107 | 1.0% | 2% |  |
+| 108 | 0.5% | 1.0% |  |
+| 109 | 0.3% | 0.5% |  |
 | 110 | 0.1% | 0.2% |  |
-| 111 | 0% | 0.1% |  |
+| 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0% |  |
 
 

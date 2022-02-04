@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–56 | 45–57 | 43–57 | 41–59 |
+| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 44–57 | 43–57 | 41–59 |
 | Bündnis 90/Die Grünen | DE | | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | Europe Écologie Les Verts | FR | | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -56,27 +56,27 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.4% | 99.8% |  |
 | 42 | 0.8% | 99.4% |  |
-| 43 | 1.4% | 98.7% |  |
+| 43 | 1.4% | 98.6% |  |
 | 44 | 2% | 97% |  |
 | 45 | 3% | 95% |  |
 | 46 | 5% | 92% |  |
 | 47 | 6% | 87% |  |
 | 48 | 7% | 81% |  |
-| 49 | 8% | 74% |  |
+| 49 | 8% | 73% |  |
 | 50 | 9% | 65% |  |
 | 51 | 10% | 56% | Median |
 | 52 | 10% | 46% |  |
-| 53 | 10% | 36% |  |
-| 54 | 9% | 26% |  |
+| 53 | 10% | 35% |  |
+| 54 | 9% | 25% |  |
 | 55 | 7% | 17% |  |
 | 56 | 5% | 10% |  |
 | 57 | 3% | 5% |  |

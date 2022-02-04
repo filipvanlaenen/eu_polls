@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 46 | 43–49 | 42–50 | 41–51 | 39–52 |
+| Non-Inscrits | EU | 29 | 46 | 42–49 | 42–50 | 41–50 | 39–52 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 11–14 | 10–15 | 10–16 |
 | Reconquête | FR | | 12 | 10–14 | 9–14 | 9–14 | 9–14 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
@@ -40,9 +40,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -56,20 +56,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0.1% | 100% |  |
-| 39 | 0.4% | 99.8% |  |
-| 40 | 1.1% | 99.4% |  |
+| 39 | 0.5% | 99.8% |  |
+| 40 | 1.3% | 99.3% |  |
 | 41 | 3% | 98% |  |
-| 42 | 5% | 96% |  |
-| 43 | 8% | 91% |  |
-| 44 | 12% | 82% |  |
-| 45 | 15% | 70% |  |
-| 46 | 16% | 55% | Median |
-| 47 | 14% | 39% |  |
-| 48 | 11% | 25% |  |
-| 49 | 7% | 14% |  |
-| 50 | 4% | 7% |  |
-| 51 | 2% | 3% |  |
-| 52 | 0.6% | 0.9% |  |
+| 42 | 5% | 95% |  |
+| 43 | 9% | 90% |  |
+| 44 | 12% | 81% |  |
+| 45 | 15% | 69% |  |
+| 46 | 16% | 53% | Median |
+| 47 | 14% | 38% |  |
+| 48 | 11% | 24% |  |
+| 49 | 7% | 13% |  |
+| 50 | 4% | 6% |  |
+| 51 | 2% | 2% |  |
+| 52 | 0.6% | 0.8% |  |
 | 53 | 0.2% | 0.2% |  |
 | 54 | 0% | 0.1% |  |
 | 55 | 0% | 0% |  |
