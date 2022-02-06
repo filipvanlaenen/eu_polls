@@ -10,16 +10,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **6** seats (+6 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> AT, BG, FR, LV, NL
+> AT, BG, LV, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 6 | 3–10 | 3–11 | 2–11 | 2–12 |
-| Walwari [FR] (*) | FR | | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,6 +42,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -56,15 +56,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 12% | 97% |  |
-| 4 | 17% | 85% |  |
-| 5 | 12% | 67% |  |
-| 6 | 5% | 55% | Median |
-| 7 | 6% | 50% |  |
-| 8 | 12% | 43% |  |
-| 9 | 15% | 31% |  |
-| 10 | 10% | 16% |  |
+| 2 | 4% | 100% |  |
+| 3 | 13% | 96% |  |
+| 4 | 19% | 83% |  |
+| 5 | 13% | 65% |  |
+| 6 | 5% | 51% | Median |
+| 7 | 6% | 46% |  |
+| 8 | 11% | 40% |  |
+| 9 | 14% | 29% |  |
+| 10 | 10% | 15% |  |
 | 11 | 4% | 6% |  |
 | 12 | 1.1% | 1.3% |  |
 | 13 | 0.2% | 0.2% |  |
