@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (+18 seats)
+Current median: **46** seats (+17 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 47 | 44–51 | 43–52 | 42–53 | 41–54 |
-| Reconquête | FR | | 13 | 11–15 | 11–17 | 11–17 | 10–17 |
+| Non-Inscrits | EU | 29 | 46 | 43–49 | 42–50 | 41–51 | 40–52 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 11–14 | 10–15 | 10–16 |
+| Reconquête | FR | | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | Konfederacja | PL | | 5 | 3–6 | 3–6 | 3–7 | 2–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -40,9 +40,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -55,25 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
-| 38 | 0% | 100% |  |
-| 39 | 0.1% | 100% |  |
-| 40 | 0.2% | 99.9% |  |
-| 41 | 0.8% | 99.7% |  |
-| 42 | 2% | 98.9% |  |
-| 43 | 4% | 97% |  |
-| 44 | 8% | 93% |  |
-| 45 | 11% | 85% |  |
-| 46 | 14% | 74% |  |
-| 47 | 15% | 60% | Median |
-| 48 | 14% | 45% |  |
-| 49 | 11% | 31% |  |
-| 50 | 8% | 20% |  |
-| 51 | 5% | 11% |  |
-| 52 | 3% | 6% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.8% | 1.2% |  |
-| 55 | 0.3% | 0.4% |  |
-| 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.3% | 99.9% |  |
+| 40 | 0.7% | 99.6% |  |
+| 41 | 2% | 98.9% |  |
+| 42 | 4% | 97% |  |
+| 43 | 7% | 93% |  |
+| 44 | 11% | 86% |  |
+| 45 | 14% | 76% |  |
+| 46 | 16% | 61% | Median |
+| 47 | 16% | 45% |  |
+| 48 | 13% | 29% |  |
+| 49 | 9% | 16% |  |
+| 50 | 5% | 8% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.8% | 1.1% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 
