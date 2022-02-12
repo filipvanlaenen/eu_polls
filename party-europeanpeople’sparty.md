@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **154** seats (-33 seats)
+Current median: **155** seats (-32 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 149–160 | 147–162 | 146–164 | 143–166 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–20 | 15–20 | 15–21 | 13–22 |
+| European People’s Party | EU | 187 | 155 | 149–160 | 148–162 | 146–163 | 144–166 |
+| Christlich Demokratische Union Deutschlands | DE | | 18 | 15–20 | 15–21 | 15–22 | 13–23 |
 | Koalicja Obywatelska | PL | | 16 | 13–18 | 12–18 | 12–19 | 11–19 |
 | Partido Popular | ES | | 16 | 14–18 | 13–18 | 13–19 | 13–20 |
-| Les Républicains | FR | | 15 | 11–18 | 11–18 | 11–18 | 11–18 |
+| Les Républicains | FR | | 15 | 11–16 | 11–17 | 11–17 | 11–18 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
@@ -56,7 +56,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Koalicja Polska | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -70,43 +70,42 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0% | 100% |  |
-| 141 | 0.1% | 99.9% |  |
-| 142 | 0.2% | 99.8% |  |
-| 143 | 0.3% | 99.6% |  |
-| 144 | 0.6% | 99.3% |  |
-| 145 | 1.0% | 98.7% |  |
-| 146 | 2% | 98% |  |
-| 147 | 2% | 96% |  |
-| 148 | 3% | 94% |  |
-| 149 | 4% | 91% |  |
-| 150 | 5% | 86% |  |
-| 151 | 7% | 81% |  |
-| 152 | 8% | 74% |  |
-| 153 | 8% | 67% |  |
-| 154 | 9% | 58% | Median |
-| 155 | 9% | 50% |  |
-| 156 | 8% | 41% |  |
-| 157 | 7% | 33% |  |
-| 158 | 6% | 26% |  |
-| 159 | 5% | 19% |  |
-| 160 | 4% | 14% |  |
+| 141 | 0.1% | 100% |  |
+| 142 | 0.1% | 99.9% |  |
+| 143 | 0.2% | 99.8% |  |
+| 144 | 0.4% | 99.6% |  |
+| 145 | 0.7% | 99.1% |  |
+| 146 | 1.2% | 98% |  |
+| 147 | 2% | 97% |  |
+| 148 | 3% | 95% |  |
+| 149 | 4% | 93% |  |
+| 150 | 5% | 89% |  |
+| 151 | 6% | 84% |  |
+| 152 | 7% | 78% |  |
+| 153 | 8% | 71% |  |
+| 154 | 9% | 62% |  |
+| 155 | 9% | 53% | Median |
+| 156 | 9% | 44% |  |
+| 157 | 8% | 35% |  |
+| 158 | 7% | 27% |  |
+| 159 | 6% | 20% |  |
+| 160 | 5% | 15% |  |
 | 161 | 3% | 10% |  |
-| 162 | 2% | 6% |  |
+| 162 | 2% | 7% |  |
 | 163 | 2% | 4% |  |
-| 164 | 1.0% | 3% |  |
-| 165 | 0.6% | 1.5% |  |
+| 164 | 1.1% | 2% |  |
+| 165 | 0.6% | 1.4% |  |
 | 166 | 0.4% | 0.8% |  |
 | 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0.1% | 0.1% |  |
-| 170 | 0% | 0.1% |  |
+| 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
