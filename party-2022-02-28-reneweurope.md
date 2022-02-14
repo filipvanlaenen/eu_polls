@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 99 | 93–105 | 91–107 | 90–108 | 87–111 |
+| Renew Europe | EU | 98 | 99 | 93–105 | 91–107 | 90–108 | 88–111 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 21–28 | 20–28 | 20–28 | 20–28 |
 | Freie Demokratische Partei | DE | | 10 | 8–13 | 7–13 | 7–13 | 6–13 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -59,7 +59,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -79,20 +79,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 0.3% | 99.8% |  |
 | 88 | 0.5% | 99.5% |  |
 | 89 | 0.9% | 99.0% |  |
-| 90 | 1.5% | 98% |  |
+| 90 | 1.4% | 98% |  |
 | 91 | 2% | 97% |  |
-| 92 | 3% | 94% |  |
+| 92 | 3% | 95% |  |
 | 93 | 4% | 91% |  |
 | 94 | 5% | 87% |  |
 | 95 | 6% | 82% |  |
 | 96 | 7% | 76% |  |
-| 97 | 8% | 68% |  |
-| 98 | 8% | 60% | Last Result |
+| 97 | 8% | 69% |  |
+| 98 | 8% | 61% | Last Result |
 | 99 | 8% | 52% | Median |
 | 100 | 8% | 44% |  |
-| 101 | 7% | 35% |  |
+| 101 | 8% | 36% |  |
 | 102 | 7% | 28% |  |
-| 103 | 6% | 21% |  |
+| 103 | 6% | 22% |  |
 | 104 | 5% | 16% |  |
 | 105 | 4% | 11% |  |
 | 106 | 3% | 8% |  |
