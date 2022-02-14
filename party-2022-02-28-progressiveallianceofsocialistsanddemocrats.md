@@ -23,7 +23,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 14–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | Partidul Social Democrat | RO | | 13 | 10–16 | 10–16 | 10–17 | 9–17 |
-| United Opposition | HU | | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
+| United Opposition | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Partido Socialista | PT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 135 | 0.9% | 99.0% |  |
 | 136 | 1.4% | 98% |  |
 | 137 | 2% | 97% |  |
-| 138 | 3% | 95% |  |
+| 138 | 3% | 94% |  |
 | 139 | 4% | 91% |  |
 | 140 | 6% | 87% |  |
 | 141 | 7% | 81% |  |
@@ -86,10 +86,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 151 | 3% | 9% |  |
 | 152 | 2% | 6% |  |
 | 153 | 1.5% | 4% |  |
-| 154 | 0.9% | 2% |  |
+| 154 | 1.0% | 2% |  |
 | 155 | 0.6% | 1.3% |  |
 | 156 | 0.3% | 0.7% |  |
-| 157 | 0.2% | 0.3% |  |
+| 157 | 0.2% | 0.4% |  |
 | 158 | 0.1% | 0.2% |  |
 | 159 | 0% | 0.1% |  |
 | 160 | 0% | 0% |  |

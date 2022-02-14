@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **146** seats (-1 seats)
+Current median: **144** seats (-3 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 140–151 | 139–153 | 137–154 | 135–157 |
-| Sozialdemokratische Partei Deutschlands | DE | | 23 | 21–26 | 21–27 | 21–28 | 19–29 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 139–150 | 137–152 | 136–153 | 134–156 |
+| Sozialdemokratische Partei Deutschlands | DE | | 22 | 20–26 | 20–27 | 19–28 | 19–29 |
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 14–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | Partidul Social Democrat | RO | | 13 | 10–16 | 10–16 | 10–17 | 9–17 |
-| United Opposition | HU | | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
+| United Opposition | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Partido Socialista | PT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Lewica | PL | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| Lewica | PL | | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
@@ -57,40 +57,41 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 132 | 0% | 100% |  |
-| 133 | 0.1% | 99.9% |  |
-| 134 | 0.2% | 99.8% |  |
-| 135 | 0.4% | 99.7% |  |
-| 136 | 0.7% | 99.3% |  |
-| 137 | 1.2% | 98.6% |  |
-| 138 | 2% | 97% |  |
-| 139 | 3% | 96% |  |
-| 140 | 4% | 93% |  |
-| 141 | 5% | 89% |  |
-| 142 | 7% | 84% |  |
-| 143 | 8% | 77% |  |
-| 144 | 9% | 69% |  |
-| 145 | 9% | 60% |  |
-| 146 | 9% | 51% | Median |
-| 147 | 9% | 42% | Last Result |
-| 148 | 8% | 33% |  |
-| 149 | 7% | 25% |  |
-| 150 | 5% | 18% |  |
-| 151 | 4% | 13% |  |
-| 152 | 3% | 8% |  |
-| 153 | 2% | 5% |  |
-| 154 | 1.4% | 3% |  |
-| 155 | 0.8% | 2% |  |
-| 156 | 0.5% | 1.0% |  |
-| 157 | 0.3% | 0.5% |  |
-| 158 | 0.1% | 0.3% |  |
-| 159 | 0.1% | 0.1% |  |
+| 131 | 0.1% | 100% |  |
+| 132 | 0.1% | 99.9% |  |
+| 133 | 0.3% | 99.8% |  |
+| 134 | 0.5% | 99.5% |  |
+| 135 | 0.9% | 99.0% |  |
+| 136 | 1.4% | 98% |  |
+| 137 | 2% | 97% |  |
+| 138 | 3% | 94% |  |
+| 139 | 4% | 91% |  |
+| 140 | 6% | 87% |  |
+| 141 | 7% | 81% |  |
+| 142 | 8% | 74% |  |
+| 143 | 9% | 66% |  |
+| 144 | 9% | 58% | Median |
+| 145 | 9% | 49% |  |
+| 146 | 8% | 40% |  |
+| 147 | 7% | 32% | Last Result |
+| 148 | 6% | 24% |  |
+| 149 | 5% | 18% |  |
+| 150 | 4% | 13% |  |
+| 151 | 3% | 9% |  |
+| 152 | 2% | 6% |  |
+| 153 | 1.5% | 4% |  |
+| 154 | 1.0% | 2% |  |
+| 155 | 0.6% | 1.3% |  |
+| 156 | 0.3% | 0.7% |  |
+| 157 | 0.2% | 0.4% |  |
+| 158 | 0.1% | 0.2% |  |
+| 159 | 0% | 0.1% |  |
 | 160 | 0% | 0% |  |
 
 
