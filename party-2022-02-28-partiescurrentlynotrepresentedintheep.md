@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> AT, BE, BG, CY, CZ, DK, FR, IE, LU, LV, NL, SI, SK
+> AT, BE, BG, CY, DK, FR, IE, LU, LV, NL, SI, SK
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–8 | 2–9 | 2–10 | 2–11 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–7 | 2–9 | 2–9 | 2–10 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,12 +37,11 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Walwari [FR] (*) | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -57,16 +56,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 6% | 100% |  |
-| 3 | 20% | 94% |  |
-| 4 | 28% | 75% | Median |
-| 5 | 20% | 46% |  |
-| 6 | 7% | 26% |  |
-| 7 | 4% | 19% |  |
-| 8 | 6% | 14% |  |
-| 9 | 5% | 8% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.5% | 0.6% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 3 | 22% | 94% |  |
+| 4 | 31% | 72% | Median |
+| 5 | 21% | 41% |  |
+| 6 | 7% | 20% |  |
+| 7 | 3% | 13% |  |
+| 8 | 4% | 10% |  |
+| 9 | 4% | 6% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.3% | 0.3% |  |
+| 12 | 0% | 0% |  |
 
 
