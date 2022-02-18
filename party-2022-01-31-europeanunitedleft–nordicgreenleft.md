@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -38,7 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -61,17 +61,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0.7% | 99.7% |  |
 | 44 | 2% | 99.0% |  |
 | 45 | 4% | 97% |  |
-| 46 | 7% | 94% |  |
-| 47 | 11% | 87% |  |
+| 46 | 7% | 93% |  |
+| 47 | 11% | 86% |  |
 | 48 | 14% | 76% |  |
-| 49 | 15% | 62% | Median |
-| 50 | 15% | 47% |  |
-| 51 | 12% | 32% |  |
-| 52 | 9% | 20% |  |
-| 53 | 6% | 11% |  |
-| 54 | 3% | 6% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.7% | 1.2% |  |
+| 49 | 16% | 61% | Median |
+| 50 | 15% | 46% |  |
+| 51 | 12% | 31% |  |
+| 52 | 9% | 19% |  |
+| 53 | 5% | 11% |  |
+| 54 | 3% | 5% |  |
+| 55 | 1.5% | 3% |  |
+| 56 | 0.7% | 1.0% |  |
 | 57 | 0.3% | 0.4% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
