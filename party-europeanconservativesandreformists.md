@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **73** seats (+12 seats)
+Current median: **72** seats (+11 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 73 | 70–77 | 69–78 | 68–79 | 66–81 |
-| Zjednoczona Prawica | PL | | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
-| Fratelli d’Italia | IT | | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
-| Vox | ES | | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
+| European Conservatives and Reformists | EU | 61 | 72 | 69–76 | 68–77 | 67–78 | 65–80 |
+| Zjednoczona Prawica | PL | | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
+| Fratelli d’Italia | IT | | 16 | 14–18 | 14–19 | 14–19 | 14–20 |
+| Vox | ES | | 10 | 9–12 | 9–13 | 9–14 | 8–15 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -29,7 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Forum voor Democratie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -47,35 +47,34 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0% | 100% | Last Result |
 | 62 | 0% | 100% |  |
 | 63 | 0% | 100% |  |
-| 64 | 0% | 100% |  |
-| 65 | 0.2% | 99.9% |  |
-| 66 | 0.5% | 99.8% |  |
-| 67 | 1.2% | 99.3% |  |
-| 68 | 2% | 98% |  |
-| 69 | 4% | 96% |  |
-| 70 | 7% | 91% |  |
-| 71 | 10% | 84% |  |
-| 72 | 12% | 74% |  |
-| 73 | 14% | 62% | Median |
-| 74 | 13% | 48% |  |
-| 75 | 12% | 35% |  |
-| 76 | 9% | 23% |  |
-| 77 | 6% | 14% |  |
-| 78 | 4% | 8% |  |
-| 79 | 2% | 4% |  |
-| 80 | 1.1% | 2% |  |
-| 81 | 0.5% | 0.8% |  |
-| 82 | 0.2% | 0.3% |  |
-| 83 | 0.1% | 0.1% |  |
-| 84 | 0% | 0% |  |
+| 64 | 0.2% | 99.9% |  |
+| 65 | 0.5% | 99.8% |  |
+| 66 | 1.2% | 99.3% |  |
+| 67 | 3% | 98% |  |
+| 68 | 5% | 95% |  |
+| 69 | 8% | 91% |  |
+| 70 | 10% | 83% |  |
+| 71 | 13% | 73% |  |
+| 72 | 14% | 60% | Median |
+| 73 | 13% | 47% |  |
+| 74 | 11% | 34% |  |
+| 75 | 9% | 22% |  |
+| 76 | 6% | 14% |  |
+| 77 | 4% | 8% |  |
+| 78 | 2% | 4% |  |
+| 79 | 1.1% | 2% |  |
+| 80 | 0.5% | 0.9% |  |
+| 81 | 0.2% | 0.3% |  |
+| 82 | 0.1% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 
