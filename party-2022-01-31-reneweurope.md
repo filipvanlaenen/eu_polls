@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–103 | 90–104 | 89–106 | 86–108 |
+| Renew Europe | EU | 98 | 97 | 92–103 | 91–104 | 89–106 | 87–108 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–25 | 20–25 | 19–25 | 19–26 |
 | Freie Demokratische Partei | DE | | 10 | 8–13 | 7–13 | 7–13 | 7–13 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -26,11 +26,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–6 | 3–7 | 3–7 | 3–7 |
 | Democraten 66 | NL | | 4 | 4 | 4 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 4 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -38,6 +37,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -73,30 +73,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0.1% | 100% |  |
-| 85 | 0.1% | 99.9% |  |
-| 86 | 0.3% | 99.8% |  |
-| 87 | 0.6% | 99.5% |  |
-| 88 | 1.0% | 98.9% |  |
-| 89 | 2% | 98% |  |
-| 90 | 2% | 96% |  |
-| 91 | 3% | 94% |  |
-| 92 | 5% | 90% |  |
-| 93 | 6% | 86% |  |
-| 94 | 7% | 80% |  |
-| 95 | 8% | 73% |  |
-| 96 | 9% | 65% |  |
-| 97 | 9% | 56% | Median |
-| 98 | 9% | 47% | Last Result |
-| 99 | 8% | 38% |  |
-| 100 | 7% | 30% |  |
-| 101 | 6% | 22% |  |
-| 102 | 5% | 16% |  |
-| 103 | 4% | 11% |  |
-| 104 | 3% | 7% |  |
-| 105 | 2% | 4% |  |
-| 106 | 1.2% | 3% |  |
-| 107 | 0.7% | 1.5% |  |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.4% | 99.7% |  |
+| 88 | 0.8% | 99.3% |  |
+| 89 | 1.3% | 98.5% |  |
+| 90 | 2% | 97% |  |
+| 91 | 3% | 95% |  |
+| 92 | 4% | 92% |  |
+| 93 | 6% | 88% |  |
+| 94 | 7% | 82% |  |
+| 95 | 8% | 75% |  |
+| 96 | 9% | 68% |  |
+| 97 | 9% | 59% | Median |
+| 98 | 9% | 50% | Last Result |
+| 99 | 9% | 40% |  |
+| 100 | 8% | 32% |  |
+| 101 | 7% | 24% |  |
+| 102 | 5% | 17% |  |
+| 103 | 4% | 12% |  |
+| 104 | 3% | 8% |  |
+| 105 | 2% | 5% |  |
+| 106 | 1.3% | 3% |  |
+| 107 | 0.8% | 2% |  |
 | 108 | 0.4% | 0.8% |  |
 | 109 | 0.2% | 0.4% |  |
 | 110 | 0.1% | 0.2% |  |

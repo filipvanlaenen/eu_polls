@@ -25,12 +25,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Volt Europa | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,28 +63,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% |  |
+| 37 | 0.1% | 100% |  |
 | 38 | 0.2% | 99.9% |  |
-| 39 | 0.4% | 99.8% |  |
-| 40 | 1.0% | 99.4% |  |
+| 39 | 0.5% | 99.8% |  |
+| 40 | 1.1% | 99.3% |  |
 | 41 | 2% | 98% |  |
 | 42 | 3% | 96% |  |
 | 43 | 5% | 93% |  |
-| 44 | 6% | 89% |  |
-| 45 | 7% | 83% |  |
-| 46 | 8% | 76% |  |
-| 47 | 9% | 67% |  |
-| 48 | 11% | 58% | Median |
-| 49 | 12% | 47% |  |
+| 44 | 6% | 88% |  |
+| 45 | 7% | 82% |  |
+| 46 | 8% | 75% |  |
+| 47 | 10% | 67% |  |
+| 48 | 11% | 57% | Median |
+| 49 | 11% | 46% |  |
 | 50 | 11% | 35% |  |
 | 51 | 9% | 24% |  |
 | 52 | 7% | 15% |  |
 | 53 | 4% | 8% |  |
 | 54 | 2% | 4% |  |
 | 55 | 1.1% | 2% |  |
-| 56 | 0.4% | 0.6% |  |
-| 57 | 0.1% | 0.2% |  |
-| 58 | 0% | 0.1% |  |
+| 56 | 0.5% | 0.7% |  |
+| 57 | 0.2% | 0.2% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
