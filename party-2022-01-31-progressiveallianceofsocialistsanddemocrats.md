@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **144** seats (-3 seats)
+Current median: **145** seats (-2 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 139–150 | 138–152 | 136–153 | 134–156 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 139–150 | 138–152 | 136–153 | 134–156 |
 | Sozialdemokratische Partei Deutschlands | DE | | 23 | 21–26 | 21–27 | 21–28 | 19–29 |
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 14–20 | 14–21 |
-| Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
+| Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | Partidul Social Democrat | RO | | 13 | 10–16 | 10–16 | 10–17 | 9–17 |
 | United Opposition | HU | | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | Partido Socialista | PT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
@@ -51,7 +51,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
-| Social Democrats | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Social Democrats | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 0.2% | 99.8% |  |
 | 134 | 0.4% | 99.6% |  |
 | 135 | 0.7% | 99.2% |  |
-| 136 | 1.3% | 98% |  |
+| 136 | 1.2% | 98.5% |  |
 | 137 | 2% | 97% |  |
 | 138 | 3% | 95% |  |
 | 139 | 4% | 92% |  |
@@ -76,8 +76,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 7% | 83% |  |
 | 142 | 8% | 76% |  |
 | 143 | 9% | 68% |  |
-| 144 | 9% | 59% | Median |
-| 145 | 9% | 50% |  |
+| 144 | 9% | 59% |  |
+| 145 | 9% | 50% | Median |
 | 146 | 9% | 41% |  |
 | 147 | 8% | 32% | Last Result |
 | 148 | 7% | 24% |  |
