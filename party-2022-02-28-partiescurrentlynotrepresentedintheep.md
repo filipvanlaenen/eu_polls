@@ -8,22 +8,22 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+4 seats)
+Current median: **7** seats (+7 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> AT, BG, LV, NL
+> AT, BG, LV, NL, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–7 | 2–9 | 2–9 | 2–10 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–10 | 5–12 | 5–12 | 4–13 |
+| Lista Roberta Goloba [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -37,6 +37,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -55,16 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 22% | 94% |  |
-| 4 | 31% | 72% | Median |
-| 5 | 21% | 41% |  |
-| 6 | 7% | 20% |  |
-| 7 | 3% | 13% |  |
-| 8 | 4% | 10% |  |
-| 9 | 4% | 6% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.3% | 0.3% |  |
-| 12 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 1.1% | 100% |  |
+| 5 | 9% | 98.9% |  |
+| 6 | 23% | 90% |  |
+| 7 | 29% | 68% | Median |
+| 8 | 19% | 39% |  |
+| 9 | 7% | 20% |  |
+| 10 | 3% | 13% |  |
+| 11 | 4% | 9% |  |
+| 12 | 3% | 5% |  |
+| 13 | 1.4% | 2% |  |
+| 14 | 0.3% | 0.4% |  |
+| 15 | 0% | 0% |  |
 
 

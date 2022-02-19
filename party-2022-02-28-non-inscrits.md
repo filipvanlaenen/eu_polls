@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 44–53 | 42–54 |
+| Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 43–53 | 42–54 |
 | Reconquête | FR | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Movimento 5 Stelle | IT | | 12 | 11–14 | 11–14 | 10–15 | 10–16 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
@@ -35,7 +35,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -62,18 +62,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.2% | 99.9% |  |
 | 42 | 0.6% | 99.7% |  |
 | 43 | 2% | 99.1% |  |
-| 44 | 4% | 98% |  |
+| 44 | 4% | 97% |  |
 | 45 | 7% | 94% |  |
-| 46 | 11% | 87% |  |
-| 47 | 15% | 76% |  |
-| 48 | 17% | 61% | Median |
-| 49 | 16% | 45% |  |
-| 50 | 12% | 29% |  |
-| 51 | 8% | 16% |  |
-| 52 | 5% | 8% |  |
-| 53 | 2% | 4% |  |
-| 54 | 0.9% | 1.4% |  |
-| 55 | 0.3% | 0.5% |  |
+| 46 | 11% | 86% |  |
+| 47 | 15% | 75% |  |
+| 48 | 17% | 60% | Median |
+| 49 | 16% | 43% |  |
+| 50 | 12% | 27% |  |
+| 51 | 8% | 15% |  |
+| 52 | 4% | 7% |  |
+| 53 | 2% | 3% |  |
+| 54 | 0.8% | 1.2% |  |
+| 55 | 0.3% | 0.4% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 

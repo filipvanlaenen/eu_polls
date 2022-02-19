@@ -10,15 +10,15 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **99** seats (+1 seats)
 
-At least one member in **22 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 99 | 94–105 | 92–106 | 91–108 | 89–110 |
+| Renew Europe | EU | 98 | 99 | 93–104 | 92–106 | 90–107 | 88–109 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 22–25 | 21–25 | 21–26 | 21–27 |
 | Freie Demokratische Partei | DE | | 9 | 7–11 | 7–12 | 7–13 | 6–13 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -44,7 +44,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lista Marjana Šarca | SI | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,8 +59,9 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Stranka Alenke Bratušek | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -73,34 +73,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 86 | 0% | 100% |  |
-| 87 | 0.1% | 99.9% |  |
-| 88 | 0.2% | 99.8% |  |
-| 89 | 0.5% | 99.6% |  |
-| 90 | 0.8% | 99.2% |  |
-| 91 | 1.4% | 98% |  |
-| 92 | 2% | 97% |  |
-| 93 | 3% | 95% |  |
-| 94 | 4% | 92% |  |
-| 95 | 6% | 87% |  |
-| 96 | 7% | 82% |  |
-| 97 | 8% | 75% |  |
-| 98 | 9% | 67% | Last Result |
-| 99 | 9% | 59% | Median |
-| 100 | 9% | 50% |  |
-| 101 | 9% | 40% |  |
-| 102 | 8% | 32% |  |
-| 103 | 7% | 24% |  |
-| 104 | 5% | 17% |  |
-| 105 | 4% | 12% |  |
-| 106 | 3% | 8% |  |
-| 107 | 2% | 5% |  |
-| 108 | 1.3% | 3% |  |
-| 109 | 0.8% | 2% |  |
-| 110 | 0.4% | 0.8% |  |
-| 111 | 0.2% | 0.4% |  |
-| 112 | 0.1% | 0.2% |  |
-| 113 | 0% | 0.1% |  |
-| 114 | 0% | 0% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.2% | 99.9% |  |
+| 88 | 0.4% | 99.6% |  |
+| 89 | 0.8% | 99.2% |  |
+| 90 | 1.3% | 98% |  |
+| 91 | 2% | 97% |  |
+| 92 | 3% | 95% |  |
+| 93 | 4% | 92% |  |
+| 94 | 5% | 88% |  |
+| 95 | 7% | 83% |  |
+| 96 | 8% | 76% |  |
+| 97 | 9% | 68% |  |
+| 98 | 9% | 60% | Last Result |
+| 99 | 9% | 51% | Median |
+| 100 | 9% | 42% |  |
+| 101 | 8% | 33% |  |
+| 102 | 7% | 25% |  |
+| 103 | 6% | 18% |  |
+| 104 | 4% | 13% |  |
+| 105 | 3% | 8% |  |
+| 106 | 2% | 5% |  |
+| 107 | 1.4% | 3% |  |
+| 108 | 0.8% | 2% |  |
+| 109 | 0.5% | 0.9% |  |
+| 110 | 0.2% | 0.4% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 
 

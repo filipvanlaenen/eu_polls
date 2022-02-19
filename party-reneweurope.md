@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **97** seats (-1 seats)
+Current median: **99** seats (+1 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–103 | 90–104 | 89–106 | 86–108 |
-| La République en marche–Mouvement démocrate | FR | | 22 | 20–25 | 20–25 | 19–25 | 19–26 |
-| Freie Demokratische Partei | DE | | 10 | 8–13 | 7–13 | 7–13 | 7–13 |
+| Renew Europe | EU | 98 | 99 | 93–104 | 92–106 | 90–107 | 88–109 |
+| La République en marche–Mouvement démocrate | FR | | 23 | 22–25 | 21–25 | 21–26 | 21–27 |
+| Freie Demokratische Partei | DE | | 9 | 7–11 | 7–12 | 7–13 | 6–13 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Polska 2050 | PL | | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -31,21 +31,21 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
+| Eesti 200 | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -61,46 +61,46 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0.1% | 100% |  |
-| 85 | 0.1% | 99.9% |  |
-| 86 | 0.3% | 99.8% |  |
-| 87 | 0.6% | 99.5% |  |
-| 88 | 1.0% | 98.9% |  |
-| 89 | 2% | 98% |  |
-| 90 | 2% | 96% |  |
-| 91 | 3% | 94% |  |
-| 92 | 5% | 90% |  |
-| 93 | 6% | 86% |  |
-| 94 | 7% | 80% |  |
-| 95 | 8% | 73% |  |
-| 96 | 9% | 65% |  |
-| 97 | 9% | 56% | Median |
-| 98 | 9% | 47% | Last Result |
-| 99 | 8% | 38% |  |
-| 100 | 7% | 30% |  |
-| 101 | 6% | 22% |  |
-| 102 | 5% | 16% |  |
-| 103 | 4% | 11% |  |
-| 104 | 3% | 7% |  |
-| 105 | 2% | 4% |  |
-| 106 | 1.2% | 3% |  |
-| 107 | 0.7% | 1.5% |  |
-| 108 | 0.4% | 0.8% |  |
-| 109 | 0.2% | 0.4% |  |
-| 110 | 0.1% | 0.2% |  |
-| 111 | 0% | 0.1% |  |
-| 112 | 0% | 0% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.2% | 99.9% |  |
+| 88 | 0.4% | 99.6% |  |
+| 89 | 0.8% | 99.2% |  |
+| 90 | 1.3% | 98% |  |
+| 91 | 2% | 97% |  |
+| 92 | 3% | 95% |  |
+| 93 | 4% | 92% |  |
+| 94 | 5% | 88% |  |
+| 95 | 7% | 83% |  |
+| 96 | 8% | 76% |  |
+| 97 | 9% | 68% |  |
+| 98 | 9% | 60% | Last Result |
+| 99 | 9% | 51% | Median |
+| 100 | 9% | 42% |  |
+| 101 | 8% | 33% |  |
+| 102 | 7% | 25% |  |
+| 103 | 6% | 18% |  |
+| 104 | 4% | 13% |  |
+| 105 | 3% | 8% |  |
+| 106 | 2% | 5% |  |
+| 107 | 1.4% | 3% |  |
+| 108 | 0.8% | 2% |  |
+| 109 | 0.5% | 0.9% |  |
+| 110 | 0.2% | 0.4% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 
 
