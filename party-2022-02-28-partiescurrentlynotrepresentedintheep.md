@@ -23,7 +23,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -60,14 +60,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 1.1% | 100% |  |
 | 5 | 9% | 98.9% |  |
-| 6 | 23% | 90% |  |
+| 6 | 22% | 90% |  |
 | 7 | 29% | 68% | Median |
 | 8 | 19% | 39% |  |
 | 9 | 7% | 20% |  |
-| 10 | 3% | 13% |  |
+| 10 | 4% | 13% |  |
 | 11 | 4% | 9% |  |
 | 12 | 3% | 5% |  |
-| 13 | 1.4% | 2% |  |
+| 13 | 1.5% | 2% |  |
 | 14 | 0.3% | 0.4% |  |
 | 15 | 0% | 0% |  |
 
