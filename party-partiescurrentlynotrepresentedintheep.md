@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **7** seats (+7 seats)
+Current median: **8** seats (+8 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,13 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 6–10 | 5–12 | 5–12 | 4–13 |
-| Lista Roberta Goloba [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 4–12 | 3–13 | 3–13 | 2–14 |
+| Lista Roberta Goloba [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -42,33 +43,34 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Walwari [FR] (*) | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 9% | 98.9% |  |
-| 6 | 23% | 90% |  |
-| 7 | 29% | 68% | Median |
-| 8 | 19% | 39% |  |
-| 9 | 7% | 20% |  |
-| 10 | 3% | 13% |  |
-| 11 | 4% | 9% |  |
-| 12 | 3% | 5% |  |
-| 13 | 1.4% | 2% |  |
-| 14 | 0.3% | 0.4% |  |
-| 15 | 0% | 0% |  |
+| 2 | 1.4% | 100% |  |
+| 3 | 5% | 98.6% |  |
+| 4 | 7% | 94% |  |
+| 5 | 9% | 86% |  |
+| 6 | 12% | 77% |  |
+| 7 | 14% | 65% |  |
+| 8 | 12% | 50% | Median |
+| 9 | 8% | 39% |  |
+| 10 | 8% | 31% |  |
+| 11 | 9% | 23% |  |
+| 12 | 8% | 15% |  |
+| 13 | 5% | 7% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.3% | 0.3% |  |
+| 16 | 0% | 0% |  |
 
 
