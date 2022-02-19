@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 140–151 | 139–152 | 137–154 | 135–156 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 139–150 | 138–152 | 136–153 | 134–156 |
 | Sozialdemokratische Partei Deutschlands | DE | | 23 | 21–26 | 21–27 | 21–28 | 19–29 |
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 14–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
@@ -31,17 +31,17 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
-| HLAS–sociálna demokracia | SK | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| HLAS–sociálna demokracia | SK | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| SMER–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Socialni demokrati | SI | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -63,34 +63,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 132 | 0% | 100% |  |
-| 133 | 0.1% | 99.9% |  |
-| 134 | 0.2% | 99.8% |  |
-| 135 | 0.4% | 99.6% |  |
-| 136 | 0.7% | 99.2% |  |
-| 137 | 1.3% | 98% |  |
-| 138 | 2% | 97% |  |
-| 139 | 3% | 95% |  |
-| 140 | 4% | 92% |  |
-| 141 | 6% | 88% |  |
-| 142 | 7% | 82% |  |
-| 143 | 8% | 75% |  |
-| 144 | 9% | 67% |  |
-| 145 | 9% | 58% | Median |
-| 146 | 9% | 49% |  |
-| 147 | 9% | 39% | Last Result |
-| 148 | 8% | 31% |  |
-| 149 | 6% | 23% |  |
-| 150 | 5% | 16% |  |
-| 151 | 4% | 11% |  |
-| 152 | 3% | 7% |  |
-| 153 | 2% | 5% |  |
-| 154 | 1.2% | 3% |  |
-| 155 | 0.7% | 2% |  |
-| 156 | 0.4% | 0.8% |  |
-| 157 | 0.2% | 0.4% |  |
-| 158 | 0.1% | 0.2% |  |
-| 159 | 0.1% | 0.1% |  |
-| 160 | 0% | 0% |  |
+| 131 | 0% | 100% |  |
+| 132 | 0.1% | 99.9% |  |
+| 133 | 0.2% | 99.8% |  |
+| 134 | 0.4% | 99.7% |  |
+| 135 | 0.7% | 99.3% |  |
+| 136 | 1.2% | 98.6% |  |
+| 137 | 2% | 97% |  |
+| 138 | 3% | 96% |  |
+| 139 | 4% | 93% |  |
+| 140 | 5% | 89% |  |
+| 141 | 7% | 83% |  |
+| 142 | 8% | 77% |  |
+| 143 | 9% | 69% |  |
+| 144 | 9% | 60% |  |
+| 145 | 9% | 51% | Median |
+| 146 | 9% | 41% |  |
+| 147 | 8% | 32% | Last Result |
+| 148 | 7% | 25% |  |
+| 149 | 5% | 18% |  |
+| 150 | 4% | 12% |  |
+| 151 | 3% | 8% |  |
+| 152 | 2% | 5% |  |
+| 153 | 1.3% | 3% |  |
+| 154 | 0.8% | 2% |  |
+| 155 | 0.5% | 1.0% |  |
+| 156 | 0.3% | 0.5% |  |
+| 157 | 0.1% | 0.2% |  |
+| 158 | 0.1% | 0.1% |  |
+| 159 | 0% | 0% |  |
 
 
