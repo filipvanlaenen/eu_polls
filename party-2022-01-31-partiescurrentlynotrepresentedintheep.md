@@ -18,10 +18,10 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 4–12 | 3–13 | 3–14 | 2–15 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 5–13 | 4–13 | 4–14 | 3–15 |
 | Lista Roberta Goloba [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
-| BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Andrej Čuš in Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -57,20 +57,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.2% | 100% |  |
-| 3 | 4% | 98.8% |  |
-| 4 | 7% | 95% |  |
-| 5 | 9% | 88% |  |
-| 6 | 12% | 79% |  |
-| 7 | 14% | 67% |  |
-| 8 | 12% | 53% | Median |
-| 9 | 8% | 41% |  |
-| 10 | 8% | 32% |  |
-| 11 | 9% | 25% |  |
-| 12 | 8% | 16% |  |
-| 13 | 5% | 8% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.5% | 0.6% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 2% | 99.9% |  |
+| 4 | 6% | 98% |  |
+| 5 | 8% | 92% |  |
+| 6 | 9% | 84% |  |
+| 7 | 14% | 74% |  |
+| 8 | 15% | 61% | Median |
+| 9 | 10% | 46% |  |
+| 10 | 7% | 36% |  |
+| 11 | 8% | 29% |  |
+| 12 | 9% | 21% |  |
+| 13 | 7% | 12% |  |
+| 14 | 3% | 4% |  |
+| 15 | 0.9% | 1.0% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
