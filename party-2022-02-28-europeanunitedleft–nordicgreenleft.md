@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,12 +69,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 13% | 45% |  |
 | 52 | 11% | 32% |  |
 | 53 | 8% | 21% |  |
-| 54 | 5% | 12% |  |
+| 54 | 5% | 13% |  |
 | 55 | 3% | 7% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.0% | 2% |  |
 | 58 | 0.5% | 1.0% |  |
-| 59 | 0.3% | 0.4% |  |
+| 59 | 0.3% | 0.5% |  |
 | 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
