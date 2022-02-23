@@ -21,13 +21,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 138–149 | 137–151 | 135–152 | 133–155 |
 | Sozialdemokratische Partei Deutschlands | DE | | 22 | 20–25 | 19–26 | 19–26 | 19–26 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–19 | 14–21 |
-| Partido Socialista Obrero Español | ES | | 16 | 15–18 | 15–20 | 14–21 | 13–21 |
+| Partido Socialista Obrero Español | ES | | 16 | 15–18 | 15–20 | 14–20 | 13–21 |
 | Partidul Social Democrat | RO | | 13 | 10–16 | 10–16 | 10–17 | 9–17 |
 | United Opposition | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Partido Socialista | PT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Lewica | PL | | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
+| Lewica | PL | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
@@ -63,29 +63,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 130 | 0.1% | 100% |  |
+| 130 | 0% | 100% |  |
 | 131 | 0.1% | 99.9% |  |
 | 132 | 0.2% | 99.8% |  |
 | 133 | 0.4% | 99.6% |  |
-| 134 | 0.7% | 99.2% |  |
-| 135 | 1.2% | 98% |  |
+| 134 | 0.7% | 99.3% |  |
+| 135 | 1.1% | 98.6% |  |
 | 136 | 2% | 97% |  |
-| 137 | 3% | 95% |  |
+| 137 | 3% | 96% |  |
 | 138 | 4% | 93% |  |
 | 139 | 5% | 89% |  |
-| 140 | 7% | 83% |  |
+| 140 | 7% | 84% |  |
 | 141 | 8% | 77% |  |
-| 142 | 9% | 69% |  |
-| 143 | 9% | 60% |  |
-| 144 | 9% | 51% | Median |
+| 142 | 9% | 70% |  |
+| 143 | 9% | 61% |  |
+| 144 | 9% | 52% | Median |
 | 145 | 9% | 42% |  |
 | 146 | 8% | 33% |  |
 | 147 | 7% | 25% | Last Result |
 | 148 | 6% | 18% |  |
 | 149 | 4% | 13% |  |
-| 150 | 3% | 8% |  |
+| 150 | 3% | 9% |  |
 | 151 | 2% | 5% |  |
-| 152 | 1.3% | 3% |  |
+| 152 | 1.4% | 3% |  |
 | 153 | 0.8% | 2% |  |
 | 154 | 0.5% | 1.0% |  |
 | 155 | 0.3% | 0.5% |  |

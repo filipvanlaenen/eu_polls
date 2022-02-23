@@ -18,32 +18,32 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 47 | 44–50 | 43–50 | 42–51 | 40–53 |
-| Movimento 5 Stelle | IT | | 12 | 11–14 | 10–14 | 10–15 | 10–16 |
-| Reconquête | FR | | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
-| Konfederacja | PL | | 5 | 3–6 | 3–6 | 3–7 | 2–7 |
+| Non-Inscrits | EU | 29 | 47 | 44–50 | 44–51 | 43–52 | 42–54 |
+| Reconquête | FR | | 14 | 12–15 | 12–15 | 12–16 | 10–16 |
+| Movimento 5 Stelle | IT | | 12 | 10–14 | 10–14 | 9–15 | 9–16 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| Konfederacja | PL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -57,22 +57,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
-| 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.8% |  |
-| 41 | 1.2% | 99.4% |  |
-| 42 | 3% | 98% |  |
-| 43 | 5% | 95% |  |
-| 44 | 9% | 90% |  |
-| 45 | 13% | 81% |  |
-| 46 | 16% | 68% |  |
-| 47 | 17% | 53% | Median |
-| 48 | 14% | 36% |  |
-| 49 | 10% | 21% |  |
-| 50 | 6% | 11% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.2% | 2% |  |
-| 53 | 0.4% | 0.6% |  |
-| 54 | 0.1% | 0.2% |  |
-| 55 | 0% | 0% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 1.1% | 99.5% |  |
+| 43 | 3% | 98% |  |
+| 44 | 6% | 95% |  |
+| 45 | 10% | 89% |  |
+| 46 | 15% | 79% |  |
+| 47 | 17% | 64% | Median |
+| 48 | 16% | 47% |  |
+| 49 | 13% | 31% |  |
+| 50 | 9% | 18% |  |
+| 51 | 5% | 9% |  |
+| 52 | 2% | 4% |  |
+| 53 | 1.0% | 2% |  |
+| 54 | 0.4% | 0.5% |  |
+| 55 | 0.1% | 0.2% |  |
+| 56 | 0% | 0% |  |
 
 
