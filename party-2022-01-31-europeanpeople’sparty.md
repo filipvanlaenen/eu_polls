@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 152–163 | 150–165 | 148–166 | 146–169 |
+| European People’s Party | EU | 187 | 157 | 152–163 | 150–165 | 149–166 | 146–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 17 | 15–20 | 15–20 | 15–21 | 13–22 |
-| Koalicja Obywatelska | PL | | 16 | 13–18 | 12–18 | 12–19 | 11–19 |
 | Partido Popular | ES | | 16 | 13–18 | 13–18 | 12–19 | 12–19 |
+| Koalicja Obywatelska | PL | | 15 | 13–18 | 12–18 | 12–19 | 11–19 |
 | Les Républicains | FR | | 15 | 11–18 | 11–18 | 11–18 | 11–18 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -37,6 +37,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -58,7 +59,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Koalicja Polska | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -84,29 +84,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 0.1% | 99.9% |  |
 | 145 | 0.2% | 99.8% |  |
 | 146 | 0.4% | 99.6% |  |
-| 147 | 0.7% | 99.2% |  |
-| 148 | 1.1% | 98.5% |  |
-| 149 | 2% | 97% |  |
+| 147 | 0.6% | 99.2% |  |
+| 148 | 1.0% | 98.6% |  |
+| 149 | 2% | 98% |  |
 | 150 | 2% | 96% |  |
-| 151 | 3% | 93% |  |
+| 151 | 3% | 94% |  |
 | 152 | 4% | 90% |  |
-| 153 | 6% | 86% |  |
-| 154 | 7% | 80% |  |
-| 155 | 8% | 73% |  |
-| 156 | 8% | 66% |  |
-| 157 | 9% | 57% | Median |
-| 158 | 9% | 49% |  |
-| 159 | 8% | 40% |  |
-| 160 | 7% | 32% |  |
-| 161 | 6% | 25% |  |
-| 162 | 5% | 18% |  |
-| 163 | 4% | 13% |  |
-| 164 | 3% | 9% |  |
+| 153 | 5% | 86% |  |
+| 154 | 7% | 81% |  |
+| 155 | 8% | 74% |  |
+| 156 | 8% | 67% |  |
+| 157 | 9% | 58% | Median |
+| 158 | 9% | 50% |  |
+| 159 | 8% | 41% |  |
+| 160 | 7% | 33% |  |
+| 161 | 6% | 26% |  |
+| 162 | 5% | 19% |  |
+| 163 | 4% | 14% |  |
+| 164 | 3% | 10% |  |
 | 165 | 2% | 6% |  |
-| 166 | 1.5% | 4% |  |
+| 166 | 2% | 4% |  |
 | 167 | 1.0% | 2% |  |
-| 168 | 0.6% | 1.3% |  |
-| 169 | 0.4% | 0.7% |  |
+| 168 | 0.6% | 1.5% |  |
+| 169 | 0.4% | 0.8% |  |
 | 170 | 0.2% | 0.4% |  |
 | 171 | 0.1% | 0.2% |  |
 | 172 | 0.1% | 0.1% |  |
