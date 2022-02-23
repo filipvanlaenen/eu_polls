@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+8 seats)
+Current median: **7** seats (+7 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–11 | 6–12 | 5–13 | 5–14 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–11 | 6–12 | 5–13 | 5–14 |
 | Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
+| BoerBurgerBeweging [NL] (*) | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -59,16 +59,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 3% | 99.9% |  |
-| 6 | 14% | 97% |  |
-| 7 | 28% | 83% |  |
-| 8 | 27% | 56% | Median |
-| 9 | 13% | 29% |  |
-| 10 | 4% | 16% |  |
-| 11 | 4% | 12% |  |
-| 12 | 4% | 8% |  |
+| 5 | 4% | 99.9% |  |
+| 6 | 18% | 96% |  |
+| 7 | 29% | 78% | Median |
+| 8 | 23% | 48% |  |
+| 9 | 10% | 25% |  |
+| 10 | 4% | 15% |  |
+| 11 | 4% | 11% |  |
+| 12 | 4% | 6% |  |
 | 13 | 2% | 3% |  |
-| 14 | 0.8% | 0.9% |  |
+| 14 | 0.5% | 0.6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

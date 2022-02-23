@@ -18,12 +18,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 98 | 93–104 | 91–106 | 90–107 | 87–110 |
+| Renew Europe | EU | 98 | 98 | 93–103 | 91–105 | 90–106 | 87–109 |
 | La République en marche–Mouvement démocrate | FR | | 24 | 21–25 | 21–25 | 21–26 | 20–26 |
-| Freie Demokratische Partei | DE | | 9 | 7–12 | 7–12 | 7–13 | 6–13 |
+| Freie Demokratische Partei | DE | | 9 | 8–11 | 7–12 | 7–12 | 7–13 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Polska 2050 | PL | | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 4–7 | 4–8 | 4–8 | 4–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| Polska 2050 | PL | | 6 | 5–9 | 5–9 | 4–10 | 4–11 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–6 | 3–7 | 3–7 | 3–7 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Venstre | DK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,36 +73,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0% | 100% |  |
-| 85 | 0.1% | 99.9% |  |
-| 86 | 0.2% | 99.8% |  |
-| 87 | 0.4% | 99.7% |  |
-| 88 | 0.6% | 99.3% |  |
-| 89 | 1.1% | 98.6% |  |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.3% | 99.8% |  |
+| 88 | 0.6% | 99.5% |  |
+| 89 | 1.0% | 98.9% |  |
 | 90 | 2% | 98% |  |
-| 91 | 2% | 96% |  |
-| 92 | 3% | 93% |  |
-| 93 | 4% | 90% |  |
-| 94 | 6% | 86% |  |
-| 95 | 7% | 80% |  |
-| 96 | 8% | 73% |  |
-| 97 | 8% | 66% |  |
-| 98 | 9% | 58% | Last Result, Median |
-| 99 | 9% | 49% |  |
-| 100 | 8% | 40% |  |
-| 101 | 7% | 32% |  |
-| 102 | 6% | 25% |  |
-| 103 | 5% | 18% |  |
-| 104 | 4% | 13% |  |
-| 105 | 3% | 9% |  |
-| 106 | 2% | 6% |  |
-| 107 | 1.5% | 4% |  |
-| 108 | 0.9% | 2% |  |
-| 109 | 0.5% | 1.2% |  |
-| 110 | 0.3% | 0.6% |  |
-| 111 | 0.2% | 0.3% |  |
-| 112 | 0.1% | 0.1% |  |
-| 113 | 0% | 0.1% |  |
-| 114 | 0% | 0% |  |
+| 91 | 3% | 96% |  |
+| 92 | 4% | 94% |  |
+| 93 | 5% | 90% |  |
+| 94 | 6% | 85% |  |
+| 95 | 7% | 79% |  |
+| 96 | 8% | 72% |  |
+| 97 | 9% | 64% |  |
+| 98 | 9% | 55% | Last Result, Median |
+| 99 | 9% | 45% |  |
+| 100 | 8% | 36% |  |
+| 101 | 7% | 28% |  |
+| 102 | 6% | 21% |  |
+| 103 | 5% | 15% |  |
+| 104 | 4% | 10% |  |
+| 105 | 2% | 6% |  |
+| 106 | 2% | 4% |  |
+| 107 | 1.0% | 2% |  |
+| 108 | 0.6% | 1.3% |  |
+| 109 | 0.3% | 0.7% |  |
+| 110 | 0.2% | 0.3% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 
 
