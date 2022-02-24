@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **155** seats (-32 seats)
+Current median: **154** seats (-33 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 149–161 | 148–163 | 146–164 | 144–167 |
+| European People’s Party | EU | 187 | 154 | 149–160 | 147–162 | 146–163 | 143–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 15 | 13–18 | 13–19 | 13–19 | 12–20 |
-| Partido Popular | ES | | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
-| Les Républicains | FR | | 13 | 11–15 | 10–16 | 9–16 | 9–16 |
+| Partido Popular | ES | | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
+| Les Républicains | FR | | 13 | 10–15 | 10–15 | 9–16 | 9–16 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
@@ -52,12 +52,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -80,36 +80,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0.1% | 100% |  |
-| 142 | 0.1% | 99.9% |  |
-| 143 | 0.2% | 99.8% |  |
-| 144 | 0.4% | 99.6% |  |
-| 145 | 0.7% | 99.2% |  |
-| 146 | 1.1% | 98.5% |  |
-| 147 | 2% | 97% |  |
-| 148 | 2% | 96% |  |
-| 149 | 3% | 93% |  |
-| 150 | 5% | 90% |  |
-| 151 | 6% | 85% |  |
-| 152 | 7% | 79% |  |
-| 153 | 8% | 72% |  |
-| 154 | 9% | 64% |  |
-| 155 | 9% | 56% | Median |
-| 156 | 9% | 47% |  |
-| 157 | 8% | 38% |  |
-| 158 | 7% | 30% |  |
-| 159 | 6% | 23% |  |
-| 160 | 5% | 17% |  |
-| 161 | 4% | 12% |  |
-| 162 | 3% | 8% |  |
-| 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
-| 165 | 0.8% | 2% |  |
-| 166 | 0.5% | 1.1% |  |
-| 167 | 0.3% | 0.6% |  |
-| 168 | 0.1% | 0.3% |  |
-| 169 | 0.1% | 0.1% |  |
-| 170 | 0% | 0.1% |  |
+| 140 | 0% | 100% |  |
+| 141 | 0.1% | 99.9% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.6% | 99.3% |  |
+| 145 | 1.0% | 98.7% |  |
+| 146 | 2% | 98% |  |
+| 147 | 2% | 96% |  |
+| 148 | 3% | 94% |  |
+| 149 | 4% | 91% |  |
+| 150 | 6% | 86% |  |
+| 151 | 7% | 81% |  |
+| 152 | 8% | 74% |  |
+| 153 | 8% | 66% |  |
+| 154 | 9% | 58% | Median |
+| 155 | 9% | 49% |  |
+| 156 | 8% | 40% |  |
+| 157 | 7% | 32% |  |
+| 158 | 6% | 25% |  |
+| 159 | 5% | 18% |  |
+| 160 | 4% | 13% |  |
+| 161 | 3% | 9% |  |
+| 162 | 2% | 6% |  |
+| 163 | 1.5% | 4% |  |
+| 164 | 0.9% | 2% |  |
+| 165 | 0.6% | 1.3% |  |
+| 166 | 0.3% | 0.7% |  |
+| 167 | 0.2% | 0.4% |  |
+| 168 | 0.1% | 0.2% |  |
+| 169 | 0% | 0.1% |  |
+| 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |

@@ -36,7 +36,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -45,7 +45,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Walwari [FR] (*) | FR | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -63,15 +63,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 4% | 99.9% |  |
-| 6 | 18% | 95% |  |
-| 7 | 30% | 77% | Median |
-| 8 | 24% | 47% |  |
-| 9 | 10% | 24% |  |
-| 10 | 4% | 14% |  |
-| 11 | 4% | 10% |  |
-| 12 | 3% | 6% |  |
+| 6 | 18% | 96% |  |
+| 7 | 30% | 78% | Median |
+| 8 | 25% | 48% |  |
+| 9 | 11% | 23% |  |
+| 10 | 4% | 12% |  |
+| 11 | 3% | 9% |  |
+| 12 | 3% | 5% |  |
 | 13 | 2% | 2% |  |
-| 14 | 0.5% | 0.6% |  |
+| 14 | 0.5% | 0.5% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
