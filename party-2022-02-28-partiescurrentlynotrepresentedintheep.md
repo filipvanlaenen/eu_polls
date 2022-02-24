@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 6–10 | 6–12 | 5–12 | 5–14 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–10 | 6–11 | 5–12 | 5–13 |
 | Lista Roberta Goloba [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -45,7 +45,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Walwari [FR] (*) | FR | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -64,14 +64,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 4% | 99.9% |  |
 | 6 | 18% | 96% |  |
-| 7 | 30% | 78% | Median |
-| 8 | 25% | 48% |  |
-| 9 | 11% | 23% |  |
-| 10 | 4% | 12% |  |
-| 11 | 3% | 9% |  |
+| 7 | 31% | 78% | Median |
+| 8 | 25% | 47% |  |
+| 9 | 11% | 22% |  |
+| 10 | 4% | 11% |  |
+| 11 | 3% | 8% |  |
 | 12 | 3% | 5% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.5% | 0.5% |  |
+| 13 | 1.4% | 2% |  |
+| 14 | 0.4% | 0.5% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
