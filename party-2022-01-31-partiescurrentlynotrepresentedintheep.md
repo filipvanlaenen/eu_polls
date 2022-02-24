@@ -35,7 +35,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -64,15 +64,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 6% | 98% |  |
 | 5 | 8% | 92% |  |
 | 6 | 9% | 84% |  |
-| 7 | 14% | 74% |  |
+| 7 | 14% | 75% |  |
 | 8 | 15% | 61% | Median |
 | 9 | 10% | 46% |  |
 | 10 | 7% | 36% |  |
 | 11 | 8% | 29% |  |
 | 12 | 9% | 21% |  |
 | 13 | 7% | 12% |  |
-| 14 | 3% | 4% |  |
-| 15 | 0.9% | 1.0% |  |
+| 14 | 4% | 5% |  |
+| 15 | 1.0% | 1.1% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 

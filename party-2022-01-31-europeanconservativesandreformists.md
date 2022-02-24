@@ -38,7 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,19 +60,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0.1% | 100% |  |
 | 66 | 0.2% | 99.9% |  |
 | 67 | 0.6% | 99.7% |  |
-| 68 | 1.5% | 99.0% |  |
+| 68 | 1.5% | 99.1% |  |
 | 69 | 3% | 98% |  |
 | 70 | 5% | 95% |  |
-| 71 | 8% | 89% |  |
+| 71 | 8% | 90% |  |
 | 72 | 10% | 82% |  |
-| 73 | 12% | 71% |  |
+| 73 | 12% | 72% |  |
 | 74 | 13% | 59% | Median |
 | 75 | 13% | 46% |  |
-| 76 | 11% | 33% |  |
-| 77 | 8% | 22% |  |
+| 76 | 11% | 34% |  |
+| 77 | 8% | 23% |  |
 | 78 | 6% | 14% |  |
 | 79 | 4% | 8% |  |
-| 80 | 2% | 4% |  |
+| 80 | 2% | 5% |  |
 | 81 | 1.2% | 2% |  |
 | 82 | 0.6% | 1.0% |  |
 | 83 | 0.3% | 0.4% |  |
