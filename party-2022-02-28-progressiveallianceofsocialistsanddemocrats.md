@@ -30,7 +30,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Lewica | PL | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -69,16 +69,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 135 | 0.5% | 99.5% |  |
 | 136 | 0.9% | 99.0% |  |
 | 137 | 2% | 98% |  |
-| 138 | 3% | 96% |  |
+| 138 | 2% | 97% |  |
 | 139 | 4% | 94% |  |
 | 140 | 5% | 90% |  |
 | 141 | 7% | 85% |  |
-| 142 | 8% | 78% |  |
+| 142 | 8% | 79% |  |
 | 143 | 9% | 70% |  |
 | 144 | 10% | 61% |  |
 | 145 | 10% | 51% | Median |
 | 146 | 9% | 41% |  |
-| 147 | 8% | 31% | Last Result |
+| 147 | 8% | 32% | Last Result |
 | 148 | 7% | 23% |  |
 | 149 | 5% | 16% |  |
 | 150 | 4% | 11% |  |
