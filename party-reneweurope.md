@@ -18,40 +18,40 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–103 | 90–104 | 89–105 | 87–108 |
-| La République en marche–Mouvement démocrate | FR | | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
-| Freie Demokratische Partei | DE | | 9 | 8–12 | 7–12 | 7–12 | 7–13 |
+| Renew Europe | EU | 98 | 97 | 91–103 | 89–104 | 88–106 | 85–108 |
+| La République en marche–Mouvement démocrate | FR | | 22 | 20–25 | 20–25 | 19–25 | 19–26 |
+| Freie Demokratische Partei | DE | | 10 | 8–13 | 7–13 | 7–13 | 7–13 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
-| Polska 2050 | PL | | 6 | 5–9 | 4–9 | 4–10 | 4–10 |
+| Polska 2050 | PL | | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Eesti 200 | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Venstre | DK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
+| Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,47 +60,49 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
-| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-01-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0% | 100% |  |
-| 85 | 0.1% | 99.9% |  |
-| 86 | 0.2% | 99.8% |  |
-| 87 | 0.5% | 99.6% |  |
-| 88 | 0.9% | 99.1% |  |
-| 89 | 1.5% | 98% |  |
-| 90 | 2% | 97% |  |
-| 91 | 3% | 95% |  |
-| 92 | 5% | 91% |  |
-| 93 | 6% | 87% |  |
-| 94 | 7% | 81% |  |
-| 95 | 8% | 74% |  |
-| 96 | 9% | 66% |  |
-| 97 | 9% | 57% | Median |
-| 98 | 9% | 47% | Last Result |
-| 99 | 9% | 38% |  |
-| 100 | 8% | 30% |  |
-| 101 | 6% | 22% |  |
-| 102 | 5% | 16% |  |
-| 103 | 4% | 11% |  |
-| 104 | 3% | 7% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0.1% | 99.9% |  |
+| 84 | 0.2% | 99.9% |  |
+| 85 | 0.3% | 99.7% |  |
+| 86 | 0.6% | 99.4% |  |
+| 87 | 0.9% | 98.9% |  |
+| 88 | 1.5% | 98% |  |
+| 89 | 2% | 96% |  |
+| 90 | 3% | 94% |  |
+| 91 | 4% | 91% |  |
+| 92 | 5% | 87% |  |
+| 93 | 6% | 82% |  |
+| 94 | 7% | 75% |  |
+| 95 | 8% | 68% |  |
+| 96 | 9% | 60% |  |
+| 97 | 9% | 51% | Median |
+| 98 | 8% | 43% | Last Result |
+| 99 | 8% | 35% |  |
+| 100 | 7% | 27% |  |
+| 101 | 6% | 20% |  |
+| 102 | 4% | 15% |  |
+| 103 | 3% | 10% |  |
+| 104 | 2% | 7% |  |
 | 105 | 2% | 4% |  |
-| 106 | 1.1% | 2% |  |
-| 107 | 0.6% | 1.3% |  |
-| 108 | 0.4% | 0.7% |  |
-| 109 | 0.2% | 0.3% |  |
+| 106 | 1.1% | 3% |  |
+| 107 | 0.7% | 2% |  |
+| 108 | 0.4% | 0.8% |  |
+| 109 | 0.2% | 0.4% |  |
 | 110 | 0.1% | 0.2% |  |
-| 111 | 0% | 0.1% |  |
+| 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0% |  |
 
 
