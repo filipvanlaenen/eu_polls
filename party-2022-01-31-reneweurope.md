@@ -21,7 +21,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 98 | 97 | 91–103 | 89–104 | 88–106 | 85–108 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 20–25 | 20–25 | 19–25 | 19–26 |
 | Freie Demokratische Partei | DE | | 10 | 8–13 | 7–13 | 7–13 | 7–13 |
-| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Polska 2050 | PL | | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 4–7 | 4–8 | 4–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -41,7 +41,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -73,33 +73,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0.1% | 100% |  |
-| 84 | 0.1% | 99.9% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0.1% | 99.9% |  |
+| 84 | 0.2% | 99.9% |  |
 | 85 | 0.3% | 99.7% |  |
-| 86 | 0.5% | 99.4% |  |
+| 86 | 0.6% | 99.4% |  |
 | 87 | 0.9% | 98.9% |  |
-| 88 | 1.4% | 98% |  |
-| 89 | 2% | 97% |  |
+| 88 | 1.5% | 98% |  |
+| 89 | 2% | 96% |  |
 | 90 | 3% | 94% |  |
 | 91 | 4% | 91% |  |
 | 92 | 5% | 87% |  |
 | 93 | 6% | 82% |  |
-| 94 | 7% | 76% |  |
-| 95 | 8% | 69% |  |
-| 96 | 8% | 61% |  |
-| 97 | 9% | 52% | Median |
-| 98 | 8% | 44% | Last Result |
+| 94 | 7% | 75% |  |
+| 95 | 8% | 68% |  |
+| 96 | 9% | 60% |  |
+| 97 | 9% | 51% | Median |
+| 98 | 8% | 43% | Last Result |
 | 99 | 8% | 35% |  |
-| 100 | 7% | 28% |  |
-| 101 | 6% | 21% |  |
-| 102 | 5% | 15% |  |
-| 103 | 4% | 11% |  |
-| 104 | 3% | 7% |  |
-| 105 | 2% | 5% |  |
-| 106 | 1.2% | 3% |  |
+| 100 | 7% | 27% |  |
+| 101 | 6% | 20% |  |
+| 102 | 4% | 15% |  |
+| 103 | 3% | 10% |  |
+| 104 | 2% | 7% |  |
+| 105 | 2% | 4% |  |
+| 106 | 1.1% | 3% |  |
 | 107 | 0.7% | 2% |  |
-| 108 | 0.4% | 0.9% |  |
-| 109 | 0.2% | 0.5% |  |
+| 108 | 0.4% | 0.8% |  |
+| 109 | 0.2% | 0.4% |  |
 | 110 | 0.1% | 0.2% |  |
 | 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0% |  |
