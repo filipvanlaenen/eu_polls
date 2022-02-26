@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **7** seats (+7 seats)
+Current median: **8** seats (+8 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 6–10 | 6–11 | 5–12 | 5–13 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 6–10 | 6–12 | 5–12 | 5–14 |
 | Lista Roberta Goloba [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -63,15 +63,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 4% | 99.9% |  |
-| 6 | 18% | 96% |  |
-| 7 | 31% | 78% | Median |
-| 8 | 25% | 47% |  |
-| 9 | 11% | 22% |  |
-| 10 | 4% | 11% |  |
+| 6 | 16% | 96% |  |
+| 7 | 30% | 80% |  |
+| 8 | 26% | 50% | Median |
+| 9 | 12% | 24% |  |
+| 10 | 4% | 12% |  |
 | 11 | 3% | 8% |  |
 | 12 | 3% | 5% |  |
-| 13 | 1.4% | 2% |  |
-| 14 | 0.4% | 0.5% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.5% | 0.6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
