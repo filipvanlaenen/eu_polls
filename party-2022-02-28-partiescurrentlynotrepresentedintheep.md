@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, BG, CY, CZ, DK, FR, IE, LU, LV, NL, PL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, FR, IE, LU, LV, NL, RO, SI, SK
 
 ## Seats
 
@@ -24,7 +24,6 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
