@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, DK, FR, IE, LU, LV, NL, PL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, FR, IE, LU, LV, NL, PL, RO, SI, SK
 
 ## Seats
 
@@ -41,6 +41,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,11 +63,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 4% | 99.9% |  |
+| 5 | 3% | 99.9% |  |
 | 6 | 16% | 96% |  |
-| 7 | 30% | 80% |  |
-| 8 | 26% | 50% | Median |
-| 9 | 12% | 24% |  |
+| 7 | 29% | 81% |  |
+| 8 | 26% | 52% | Median |
+| 9 | 13% | 25% |  |
 | 10 | 4% | 12% |  |
 | 11 | 3% | 8% |  |
 | 12 | 3% | 5% |  |
