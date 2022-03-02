@@ -44,7 +44,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
-| Europe Écologie Les Verts | FR | | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
+| Europe Écologie Les Verts | FR | | 0 | 0–6 | 0–6 | 0–7 | 0–7 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 2% | 98.7% |  |
 | 41 | 3% | 97% |  |
 | 42 | 4% | 94% |  |
-| 43 | 5% | 90% |  |
+| 43 | 6% | 90% |  |
 | 44 | 7% | 85% |  |
 | 45 | 8% | 78% |  |
 | 46 | 9% | 69% |  |
@@ -82,8 +82,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 3% | 7% |  |
 | 55 | 2% | 4% |  |
 | 56 | 1.1% | 2% |  |
-| 57 | 0.6% | 1.0% |  |
-| 58 | 0.3% | 0.4% |  |
+| 57 | 0.6% | 1.1% |  |
+| 58 | 0.3% | 0.5% |  |
 | 59 | 0.1% | 0.2% |  |
 | 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
