@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 47 | 44–50 | 43–51 | 42–52 | 41–53 |
+| Non-Inscrits | EU | 29 | 47 | 44–50 | 43–51 | 42–52 | 40–53 |
 | Reconquête | FR | | 13 | 11–15 | 10–16 | 10–16 | 10–17 |
 | Movimento 5 Stelle | IT | | 12 | 10–14 | 10–14 | 9–15 | 9–16 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
@@ -28,7 +28,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 1.1% | 99.5% |  |
 | 42 | 3% | 98% |  |
 | 43 | 5% | 96% |  |
-| 44 | 9% | 91% |  |
-| 45 | 12% | 82% |  |
+| 44 | 9% | 90% |  |
+| 45 | 13% | 81% |  |
 | 46 | 15% | 69% |  |
 | 47 | 15% | 54% | Median |
-| 48 | 14% | 39% |  |
-| 49 | 11% | 25% |  |
-| 50 | 7% | 15% |  |
-| 51 | 4% | 8% |  |
+| 48 | 14% | 38% |  |
+| 49 | 10% | 25% |  |
+| 50 | 7% | 14% |  |
+| 51 | 4% | 7% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.9% | 1.4% |  |
+| 53 | 0.9% | 1.3% |  |
 | 54 | 0.3% | 0.5% |  |
-| 55 | 0.1% | 0.2% |  |
+| 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 
 

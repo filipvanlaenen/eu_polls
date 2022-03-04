@@ -18,19 +18,19 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 151 | 146–158 | 144–159 | 143–161 | 140–164 |
+| European People’s Party | EU | 187 | 151 | 145–157 | 144–159 | 142–161 | 140–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 16–23 | 16–23 |
-| Koalicja Obywatelska | PL | | 16 | 13–18 | 13–19 | 13–19 | 12–20 |
+| Koalicja Obywatelska | PL | | 15 | 14–18 | 13–18 | 13–19 | 12–20 |
 | Partido Popular | ES | | 14 | 12–16 | 11–17 | 11–18 | 10–19 |
 | Les Républicains | FR | | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
-| Νέα Δημοκρατία | GR | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| Νέα Δημοκρατία | GR | | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 3–4 | 3–4 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
@@ -55,7 +55,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -78,36 +78,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 137 | 0% | 100% |  |
+| 137 | 0.1% | 100% |  |
 | 138 | 0.1% | 99.9% |  |
 | 139 | 0.2% | 99.8% |  |
 | 140 | 0.4% | 99.6% |  |
-| 141 | 0.6% | 99.3% |  |
-| 142 | 1.0% | 98.6% |  |
-| 143 | 2% | 98% |  |
-| 144 | 2% | 96% |  |
-| 145 | 3% | 94% |  |
-| 146 | 4% | 90% |  |
-| 147 | 5% | 86% |  |
-| 148 | 7% | 81% |  |
-| 149 | 7% | 74% |  |
-| 150 | 8% | 67% |  |
-| 151 | 8% | 58% | Median |
-| 152 | 8% | 50% |  |
-| 153 | 8% | 42% |  |
-| 154 | 7% | 34% |  |
-| 155 | 6% | 26% |  |
-| 156 | 5% | 20% |  |
-| 157 | 4% | 15% |  |
+| 141 | 0.7% | 99.2% |  |
+| 142 | 1.1% | 98% |  |
+| 143 | 2% | 97% |  |
+| 144 | 3% | 96% |  |
+| 145 | 3% | 93% |  |
+| 146 | 5% | 90% |  |
+| 147 | 6% | 85% |  |
+| 148 | 7% | 79% |  |
+| 149 | 8% | 73% |  |
+| 150 | 8% | 65% |  |
+| 151 | 8% | 57% | Median |
+| 152 | 8% | 49% |  |
+| 153 | 8% | 40% |  |
+| 154 | 7% | 32% |  |
+| 155 | 6% | 25% |  |
+| 156 | 5% | 19% |  |
+| 157 | 4% | 14% |  |
 | 158 | 3% | 10% |  |
 | 159 | 2% | 7% |  |
-| 160 | 2% | 5% |  |
+| 160 | 2% | 4% |  |
 | 161 | 1.1% | 3% |  |
 | 162 | 0.7% | 2% |  |
-| 163 | 0.5% | 1.0% |  |
-| 164 | 0.3% | 0.6% |  |
-| 165 | 0.2% | 0.3% |  |
-| 166 | 0.1% | 0.2% |  |
+| 163 | 0.4% | 1.0% |  |
+| 164 | 0.3% | 0.5% |  |
+| 165 | 0.1% | 0.3% |  |
+| 166 | 0.1% | 0.1% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
