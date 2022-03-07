@@ -35,7 +35,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -60,7 +60,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -91,23 +91,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 6% | 84% |  |
 | 148 | 7% | 78% |  |
 | 149 | 8% | 71% |  |
-| 150 | 8% | 63% |  |
-| 151 | 9% | 55% | Median |
+| 150 | 9% | 63% |  |
+| 151 | 9% | 54% | Median |
 | 152 | 8% | 46% |  |
-| 153 | 8% | 38% |  |
-| 154 | 7% | 30% |  |
+| 153 | 8% | 37% |  |
+| 154 | 7% | 29% |  |
 | 155 | 6% | 23% |  |
 | 156 | 5% | 17% |  |
 | 157 | 4% | 12% |  |
 | 158 | 3% | 8% |  |
 | 159 | 2% | 5% |  |
-| 160 | 1.4% | 3% |  |
+| 160 | 1.3% | 3% |  |
 | 161 | 0.9% | 2% |  |
 | 162 | 0.5% | 1.2% |  |
 | 163 | 0.3% | 0.7% |  |
 | 164 | 0.2% | 0.4% |  |
 | 165 | 0.1% | 0.2% |  |
-| 166 | 0.1% | 0.1% |  |
+| 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
