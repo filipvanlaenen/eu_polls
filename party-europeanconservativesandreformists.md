@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 79 | 74–83 | 73–85 | 72–86 | 70–88 |
+| European Conservatives and Reformists | EU | 61 | 79 | 74–83 | 73–84 | 72–85 | 70–87 |
 | Zjednoczona Prawica | PL | | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | Fratelli d’Italia | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | Vox | ES | | 11 | 9–14 | 9–15 | 9–15 | 8–16 |
@@ -27,10 +27,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Juiste Antwoord 2021 | NL | | 2 | 1–3 | 1–3 | 1–4 | 0–4 |
+| Juiste Antwoord 2021 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Forum voor Democratie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Българските патриоти | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -62,27 +62,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0.1% | 100% |  |
 | 69 | 0.2% | 99.9% |  |
-| 70 | 0.4% | 99.7% |  |
-| 71 | 0.9% | 99.3% |  |
+| 70 | 0.5% | 99.7% |  |
+| 71 | 1.0% | 99.2% |  |
 | 72 | 2% | 98% |  |
-| 73 | 3% | 97% |  |
-| 74 | 5% | 94% |  |
-| 75 | 6% | 89% |  |
-| 76 | 8% | 83% |  |
+| 73 | 3% | 96% |  |
+| 74 | 5% | 93% |  |
+| 75 | 7% | 89% |  |
+| 76 | 9% | 82% |  |
 | 77 | 10% | 74% |  |
-| 78 | 11% | 64% |  |
-| 79 | 11% | 53% | Median |
-| 80 | 11% | 42% |  |
-| 81 | 9% | 31% |  |
-| 82 | 8% | 22% |  |
-| 83 | 6% | 14% |  |
-| 84 | 4% | 9% |  |
+| 78 | 11% | 63% |  |
+| 79 | 11% | 52% | Median |
+| 80 | 11% | 41% |  |
+| 81 | 9% | 30% |  |
+| 82 | 7% | 21% |  |
+| 83 | 5% | 14% |  |
+| 84 | 4% | 8% |  |
 | 85 | 2% | 5% |  |
-| 86 | 1.4% | 3% |  |
-| 87 | 0.7% | 1.3% |  |
-| 88 | 0.3% | 0.6% |  |
+| 86 | 1.3% | 2% |  |
+| 87 | 0.6% | 1.1% |  |
+| 88 | 0.3% | 0.5% |  |
 | 89 | 0.1% | 0.2% |  |
-| 90 | 0.1% | 0.1% |  |
+| 90 | 0% | 0.1% |  |
 | 91 | 0% | 0% |  |
 
 

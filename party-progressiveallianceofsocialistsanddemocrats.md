@@ -18,13 +18,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 142–152 | 140–153 | 139–155 | 137–157 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 142–152 | 140–154 | 139–155 | 137–157 |
 | Sozialdemokratische Partei Deutschlands | DE | | 23 | 20–27 | 20–28 | 19–28 | 19–28 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
 | Partidul Social Democrat | RO | | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | United Opposition | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Lewica | PL | | 4 | 3–5 | 3–5 | 2–5 | 0–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -64,28 +64,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 134 | 0% | 100% |  |
 | 135 | 0.1% | 99.9% |  |
-| 136 | 0.2% | 99.8% |  |
+| 136 | 0.2% | 99.9% |  |
 | 137 | 0.4% | 99.6% |  |
-| 138 | 0.9% | 99.2% |  |
-| 139 | 2% | 98% |  |
+| 138 | 0.8% | 99.2% |  |
+| 139 | 1.5% | 98% |  |
 | 140 | 2% | 97% |  |
-| 141 | 4% | 94% |  |
+| 141 | 4% | 95% |  |
 | 142 | 5% | 91% |  |
-| 143 | 7% | 85% |  |
-| 144 | 8% | 78% |  |
-| 145 | 9% | 70% |  |
+| 143 | 7% | 86% |  |
+| 144 | 8% | 79% |  |
+| 145 | 9% | 71% |  |
 | 146 | 10% | 61% |  |
 | 147 | 10% | 51% | Last Result, Median |
-| 148 | 9% | 41% |  |
+| 148 | 9% | 42% |  |
 | 149 | 8% | 32% |  |
 | 150 | 7% | 24% |  |
-| 151 | 5% | 17% |  |
+| 151 | 5% | 18% |  |
 | 152 | 4% | 12% |  |
 | 153 | 3% | 8% |  |
 | 154 | 2% | 5% |  |
 | 155 | 1.3% | 3% |  |
 | 156 | 0.8% | 2% |  |
-| 157 | 0.4% | 0.9% |  |
+| 157 | 0.5% | 0.9% |  |
 | 158 | 0.2% | 0.5% |  |
 | 159 | 0.1% | 0.2% |  |
 | 160 | 0.1% | 0.1% |  |

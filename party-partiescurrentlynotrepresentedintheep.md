@@ -20,8 +20,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 5–9 | 5–10 | 4–10 |
 | Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
+| BoerBurgerBeweging [NL] (*) | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
-| BoerBurgerBeweging [NL] (*) | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
@@ -29,7 +29,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -64,14 +64,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 5% | 99.4% |  |
-| 6 | 20% | 94% |  |
-| 7 | 33% | 74% | Median |
-| 8 | 28% | 42% |  |
-| 9 | 12% | 14% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.2% | 0.3% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 5% | 99.1% |  |
+| 6 | 17% | 94% |  |
+| 7 | 30% | 77% | Median |
+| 8 | 29% | 46% |  |
+| 9 | 14% | 17% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
