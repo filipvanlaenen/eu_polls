@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 44–54 | 42–55 | 41–56 | 39–58 |
+| Greens–European Free Alliance | EU | 67 | 49 | 43–54 | 42–55 | 41–56 | 39–58 |
 | Bündnis 90/Die Grünen | DE | | 15 | 14–19 | 13–19 | 13–19 | 12–21 |
 | Europe Écologie Les Verts | FR | | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -29,8 +29,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -64,28 +64,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.5% | 99.7% |  |
-| 40 | 0.9% | 99.2% |  |
+| 38 | 0.3% | 99.9% |  |
+| 39 | 0.6% | 99.6% |  |
+| 40 | 1.1% | 99.0% |  |
 | 41 | 2% | 98% |  |
-| 42 | 2% | 97% |  |
-| 43 | 3% | 94% |  |
-| 44 | 5% | 91% |  |
-| 45 | 6% | 86% |  |
-| 46 | 7% | 80% |  |
-| 47 | 8% | 73% |  |
-| 48 | 9% | 64% |  |
-| 49 | 10% | 55% | Median |
-| 50 | 10% | 45% |  |
-| 51 | 9% | 35% |  |
-| 52 | 8% | 25% |  |
-| 53 | 6% | 18% |  |
+| 42 | 3% | 96% |  |
+| 43 | 4% | 93% |  |
+| 44 | 5% | 90% |  |
+| 45 | 6% | 84% |  |
+| 46 | 8% | 78% |  |
+| 47 | 9% | 71% |  |
+| 48 | 9% | 62% |  |
+| 49 | 10% | 52% | Median |
+| 50 | 10% | 42% |  |
+| 51 | 9% | 33% |  |
+| 52 | 7% | 24% |  |
+| 53 | 6% | 16% |  |
 | 54 | 4% | 11% |  |
-| 55 | 3% | 7% |  |
+| 55 | 3% | 6% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.0% | 2% |  |
-| 58 | 0.5% | 0.9% |  |
-| 59 | 0.2% | 0.4% |  |
+| 58 | 0.5% | 0.8% |  |
+| 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
