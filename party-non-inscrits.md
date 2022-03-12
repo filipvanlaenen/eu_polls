@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (+17 seats)
+Current median: **45** seats (+16 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 46 | 42–49 | 41–50 | 41–51 | 39–53 |
+| Non-Inscrits | EU | 29 | 45 | 42–49 | 41–49 | 41–50 | 39–52 |
 | Movimento 5 Stelle | IT | | 12 | 10–14 | 10–14 | 9–15 | 9–16 |
-| Reconquête | FR | | 12 | 10–14 | 9–15 | 9–16 | 8–17 |
+| Reconquête | FR | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | Konfederacja | PL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -56,23 +56,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0.1% | 100% |  |
-| 39 | 0.5% | 99.8% |  |
-| 40 | 1.4% | 99.3% |  |
+| 39 | 0.4% | 99.8% |  |
+| 40 | 1.3% | 99.4% |  |
 | 41 | 3% | 98% |  |
 | 42 | 6% | 95% |  |
-| 43 | 9% | 89% |  |
-| 44 | 13% | 80% |  |
-| 45 | 15% | 67% |  |
-| 46 | 15% | 53% | Median |
-| 47 | 13% | 38% |  |
-| 48 | 10% | 25% |  |
-| 49 | 7% | 15% |  |
-| 50 | 4% | 8% |  |
-| 51 | 2% | 4% |  |
-| 52 | 1.1% | 2% |  |
-| 53 | 0.5% | 0.7% |  |
-| 54 | 0.2% | 0.3% |  |
-| 55 | 0.1% | 0.1% |  |
-| 56 | 0% | 0% |  |
+| 43 | 10% | 89% |  |
+| 44 | 14% | 78% |  |
+| 45 | 16% | 64% | Median |
+| 46 | 16% | 48% |  |
+| 47 | 13% | 32% |  |
+| 48 | 9% | 19% |  |
+| 49 | 5% | 10% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.3% | 2% |  |
+| 52 | 0.5% | 0.7% |  |
+| 53 | 0.2% | 0.2% |  |
+| 54 | 0% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 
