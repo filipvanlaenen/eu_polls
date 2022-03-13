@@ -41,6 +41,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
@@ -50,7 +51,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -75,22 +75,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0.1% | 99.9% |  |
 | 88 | 0.2% | 99.8% |  |
-| 89 | 0.4% | 99.6% |  |
+| 89 | 0.3% | 99.6% |  |
 | 90 | 0.6% | 99.3% |  |
-| 91 | 1.0% | 98.7% |  |
-| 92 | 1.5% | 98% |  |
+| 91 | 0.9% | 98.7% |  |
+| 92 | 1.4% | 98% |  |
 | 93 | 2% | 96% |  |
 | 94 | 3% | 94% |  |
 | 95 | 4% | 91% |  |
-| 96 | 5% | 87% |  |
+| 96 | 5% | 88% |  |
 | 97 | 6% | 83% |  |
 | 98 | 7% | 77% | Last Result |
 | 99 | 8% | 70% |  |
-| 100 | 8% | 62% |  |
-| 101 | 8% | 54% | Median |
-| 102 | 8% | 46% |  |
+| 100 | 8% | 63% |  |
+| 101 | 8% | 55% | Median |
+| 102 | 8% | 47% |  |
 | 103 | 8% | 38% |  |
-| 104 | 7% | 30% |  |
+| 104 | 7% | 31% |  |
 | 105 | 6% | 24% |  |
 | 106 | 5% | 18% |  |
 | 107 | 4% | 13% |  |

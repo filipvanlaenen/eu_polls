@@ -29,7 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -71,17 +71,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 3% | 96% |  |
 | 43 | 4% | 93% |  |
 | 44 | 5% | 90% |  |
-| 45 | 6% | 84% |  |
-| 46 | 8% | 78% |  |
+| 45 | 6% | 85% |  |
+| 46 | 7% | 78% |  |
 | 47 | 9% | 71% |  |
 | 48 | 9% | 62% |  |
-| 49 | 10% | 52% | Median |
-| 50 | 10% | 42% |  |
+| 49 | 10% | 53% | Median |
+| 50 | 10% | 43% |  |
 | 51 | 9% | 33% |  |
 | 52 | 7% | 24% |  |
-| 53 | 6% | 16% |  |
+| 53 | 6% | 17% |  |
 | 54 | 4% | 11% |  |
-| 55 | 3% | 6% |  |
+| 55 | 3% | 7% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.0% | 2% |  |
 | 58 | 0.5% | 0.8% |  |
