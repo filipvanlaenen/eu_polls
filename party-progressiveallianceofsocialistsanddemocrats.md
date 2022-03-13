@@ -1,8 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **26 countries**:
+Members registered from **27 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -10,19 +10,20 @@ Last result: **147** seats (General Election of 26 May 2019)
 
 Current median: **147** seats (0 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 142–152 | 141–153 | 140–154 | 138–157 |
-| Sozialdemokratische Partei Deutschlands | DE | | 23 | 22–26 | 21–27 | 21–27 | 20–27 |
-| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 141–152 | 140–153 | 139–155 | 137–157 |
+| Sozialdemokratische Partei Deutschlands | DE | | 23 | 20–27 | 20–28 | 19–28 | 19–28 |
+| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
 | Partidul Social Democrat | RO | | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
+| Partido Socialista | PT | | 10 | 10 | 10 | 10 | 10 |
 | United Opposition | HU | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -30,9 +31,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
@@ -41,7 +42,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -49,42 +50,43 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
-| Parti socialiste | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
+| Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 135 | 0% | 100% |  |
-| 136 | 0.1% | 99.9% |  |
-| 137 | 0.3% | 99.8% |  |
-| 138 | 0.6% | 99.6% |  |
-| 139 | 1.1% | 99.0% |  |
-| 140 | 2% | 98% |  |
-| 141 | 3% | 96% |  |
-| 142 | 5% | 93% |  |
-| 143 | 7% | 88% |  |
-| 144 | 9% | 81% |  |
-| 145 | 10% | 73% |  |
-| 146 | 11% | 63% |  |
-| 147 | 11% | 52% | Last Result, Median |
-| 148 | 10% | 41% |  |
-| 149 | 9% | 32% |  |
+| 134 | 0% | 100% |  |
+| 135 | 0.1% | 99.9% |  |
+| 136 | 0.3% | 99.8% |  |
+| 137 | 0.5% | 99.6% |  |
+| 138 | 1.0% | 99.0% |  |
+| 139 | 2% | 98% |  |
+| 140 | 3% | 96% |  |
+| 141 | 4% | 94% |  |
+| 142 | 5% | 90% |  |
+| 143 | 7% | 84% |  |
+| 144 | 8% | 77% |  |
+| 145 | 9% | 69% |  |
+| 146 | 10% | 60% |  |
+| 147 | 10% | 50% | Last Result, Median |
+| 148 | 9% | 40% |  |
+| 149 | 8% | 31% |  |
 | 150 | 7% | 23% |  |
-| 151 | 5% | 16% |  |
+| 151 | 5% | 17% |  |
 | 152 | 4% | 11% |  |
 | 153 | 3% | 7% |  |
-| 154 | 2% | 4% |  |
-| 155 | 1.1% | 2% |  |
-| 156 | 0.6% | 1.3% |  |
-| 157 | 0.3% | 0.7% |  |
+| 154 | 2% | 5% |  |
+| 155 | 1.2% | 3% |  |
+| 156 | 0.7% | 2% |  |
+| 157 | 0.4% | 0.8% |  |
 | 158 | 0.2% | 0.4% |  |
 | 159 | 0.1% | 0.2% |  |
 | 160 | 0% | 0.1% |  |
