@@ -47,7 +47,6 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Walwari [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -70,8 +69,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 29% | 46% |  |
 | 9 | 14% | 17% |  |
 | 10 | 3% | 3% |  |
-| 11 | 0.3% | 0.3% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 11 | 0.2% | 0.3% |  |
+| 12 | 0% | 0% |  |
 
 
