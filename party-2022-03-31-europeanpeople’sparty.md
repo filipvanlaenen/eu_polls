@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 149 | 144–155 | 142–157 | 141–158 | 138–161 |
+| European People’s Party | EU | 187 | 149 | 144–155 | 142–157 | 141–158 | 139–161 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–23 | 16–23 |
 | Koalicja Obywatelska | PL | | 15 | 14–18 | 13–18 | 13–19 | 12–20 |
 | Partido Popular | ES | | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
@@ -30,7 +30,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
@@ -85,24 +85,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 0.9% | 99.0% |  |
 | 141 | 1.4% | 98% |  |
 | 142 | 2% | 97% |  |
-| 143 | 3% | 94% |  |
+| 143 | 3% | 95% |  |
 | 144 | 4% | 91% |  |
 | 145 | 6% | 87% |  |
 | 146 | 7% | 81% |  |
 | 147 | 8% | 74% |  |
-| 148 | 9% | 66% |  |
+| 148 | 9% | 67% |  |
 | 149 | 9% | 58% | Median |
 | 150 | 9% | 49% |  |
 | 151 | 8% | 40% |  |
-| 152 | 7% | 31% |  |
+| 152 | 7% | 32% |  |
 | 153 | 6% | 24% |  |
 | 154 | 5% | 18% |  |
-| 155 | 4% | 12% |  |
-| 156 | 3% | 8% |  |
+| 155 | 4% | 13% |  |
+| 156 | 3% | 9% |  |
 | 157 | 2% | 6% |  |
-| 158 | 1.4% | 3% |  |
+| 158 | 1.4% | 4% |  |
 | 159 | 0.9% | 2% |  |
-| 160 | 0.5% | 1.2% |  |
+| 160 | 0.6% | 1.2% |  |
 | 161 | 0.3% | 0.7% |  |
 | 162 | 0.2% | 0.4% |  |
 | 163 | 0.1% | 0.2% |  |

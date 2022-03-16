@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 142–152 | 141–153 | 140–154 | 138–157 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 147 | 142–152 | 141–153 | 140–155 | 138–157 |
 | Sozialdemokratische Partei Deutschlands | DE | | 23 | 22–26 | 21–27 | 21–27 | 20–27 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | Partito Democratico | IT | | 17 | 15–18 | 15–19 | 14–20 | 14–21 |
@@ -32,7 +32,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
@@ -64,27 +64,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 135 | 0% | 100% |  |
 | 136 | 0.1% | 99.9% |  |
-| 137 | 0.3% | 99.8% |  |
-| 138 | 0.6% | 99.6% |  |
-| 139 | 1.1% | 99.0% |  |
+| 137 | 0.2% | 99.8% |  |
+| 138 | 0.5% | 99.6% |  |
+| 139 | 1.1% | 99.1% |  |
 | 140 | 2% | 98% |  |
 | 141 | 3% | 96% |  |
 | 142 | 5% | 93% |  |
 | 143 | 7% | 88% |  |
-| 144 | 9% | 81% |  |
+| 144 | 8% | 82% |  |
 | 145 | 10% | 73% |  |
 | 146 | 11% | 63% |  |
-| 147 | 11% | 52% | Last Result, Median |
-| 148 | 10% | 41% |  |
+| 147 | 11% | 53% | Last Result, Median |
+| 148 | 10% | 42% |  |
 | 149 | 9% | 32% |  |
-| 150 | 7% | 23% |  |
+| 150 | 7% | 24% |  |
 | 151 | 5% | 16% |  |
 | 152 | 4% | 11% |  |
 | 153 | 3% | 7% |  |
 | 154 | 2% | 4% |  |
-| 155 | 1.1% | 2% |  |
-| 156 | 0.6% | 1.3% |  |
-| 157 | 0.3% | 0.7% |  |
+| 155 | 1.1% | 3% |  |
+| 156 | 0.7% | 1.4% |  |
+| 157 | 0.4% | 0.8% |  |
 | 158 | 0.2% | 0.4% |  |
 | 159 | 0.1% | 0.2% |  |
 | 160 | 0% | 0.1% |  |

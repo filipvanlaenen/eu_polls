@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 43–53 | 42–55 | 41–56 | 39–58 |
+| Greens–European Free Alliance | EU | 67 | 49 | 43–54 | 42–55 | 41–56 | 39–58 |
 | Bündnis 90/Die Grünen | DE | | 15 | 14–19 | 13–19 | 13–19 | 12–21 |
 | Europe Écologie Les Verts | FR | | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -35,7 +35,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,11 +69,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 1.1% | 99.0% |  |
 | 41 | 2% | 98% |  |
 | 42 | 3% | 96% |  |
-| 43 | 4% | 93% |  |
+| 43 | 4% | 94% |  |
 | 44 | 5% | 90% |  |
-| 45 | 7% | 85% |  |
+| 45 | 6% | 85% |  |
 | 46 | 8% | 78% |  |
-| 47 | 9% | 70% |  |
+| 47 | 9% | 71% |  |
 | 48 | 10% | 62% |  |
 | 49 | 10% | 52% | Median |
 | 50 | 10% | 42% |  |
