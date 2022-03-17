@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 51 | 48–54 | 48–55 | 47–56 | 45–58 |
-| La France insoumise | FR | | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
+| European United Left–Nordic Green Left | EU | 39 | 51 | 48–55 | 47–56 | 47–57 | 45–58 |
+| La France insoumise | FR | | 11 | 9–13 | 9–13 | 8–14 | 8–14 |
 | Unidos Podemos | ES | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | Die Linke | DE | | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
@@ -39,7 +39,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
-| Parti communiste français | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
+| Parti communiste français | FR | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -58,23 +58,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
-| 45 | 0.4% | 99.9% |  |
-| 46 | 1.3% | 99.4% |  |
+| 44 | 0.2% | 99.9% |  |
+| 45 | 0.6% | 99.8% |  |
+| 46 | 2% | 99.2% |  |
 | 47 | 3% | 98% |  |
-| 48 | 6% | 95% |  |
-| 49 | 11% | 89% |  |
-| 50 | 15% | 78% |  |
-| 51 | 17% | 63% | Median |
-| 52 | 16% | 46% |  |
-| 53 | 13% | 30% |  |
-| 54 | 8% | 17% |  |
-| 55 | 5% | 9% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.0% | 2% |  |
-| 58 | 0.4% | 0.6% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0.1% |  |
+| 48 | 6% | 94% |  |
+| 49 | 10% | 88% |  |
+| 50 | 14% | 78% |  |
+| 51 | 15% | 64% | Median |
+| 52 | 15% | 49% |  |
+| 53 | 12% | 34% |  |
+| 54 | 9% | 22% |  |
+| 55 | 6% | 13% |  |
+| 56 | 4% | 7% |  |
+| 57 | 2% | 3% |  |
+| 58 | 0.8% | 1.3% |  |
+| 59 | 0.3% | 0.5% |  |
+| 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0% |  |
 
 
