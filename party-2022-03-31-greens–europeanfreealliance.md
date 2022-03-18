@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (-18 seats)
+Current median: **48** seats (-19 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 43–54 | 42–55 | 41–56 | 39–58 |
+| Greens–European Free Alliance | EU | 67 | 48 | 43–54 | 42–55 | 41–56 | 39–58 |
 | Bündnis 90/Die Grünen | DE | | 15 | 14–19 | 13–19 | 13–19 | 12–21 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Europe Écologie Les Verts | FR | | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
@@ -64,22 +64,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.3% | 99.9% |  |
-| 39 | 0.7% | 99.6% |  |
-| 40 | 1.2% | 98.9% |  |
+| 38 | 0.3% | 99.8% |  |
+| 39 | 0.7% | 99.5% |  |
+| 40 | 1.3% | 98.8% |  |
 | 41 | 2% | 98% |  |
-| 42 | 3% | 96% |  |
-| 43 | 4% | 93% |  |
-| 44 | 5% | 89% |  |
+| 42 | 3% | 95% |  |
+| 43 | 4% | 92% |  |
+| 44 | 6% | 88% |  |
 | 45 | 7% | 83% |  |
 | 46 | 8% | 76% |  |
-| 47 | 9% | 69% |  |
-| 48 | 9% | 60% |  |
-| 49 | 10% | 51% | Median |
-| 50 | 9% | 41% |  |
-| 51 | 9% | 31% |  |
-| 52 | 7% | 23% |  |
-| 53 | 6% | 16% |  |
+| 47 | 9% | 68% |  |
+| 48 | 9% | 59% | Median |
+| 49 | 10% | 50% |  |
+| 50 | 9% | 40% |  |
+| 51 | 8% | 31% |  |
+| 52 | 7% | 22% |  |
+| 53 | 5% | 15% |  |
 | 54 | 4% | 10% |  |
 | 55 | 3% | 6% |  |
 | 56 | 2% | 3% |  |

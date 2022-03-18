@@ -36,7 +36,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -82,22 +82,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 136 | 0.1% | 99.9% |  |
 | 137 | 0.2% | 99.8% |  |
 | 138 | 0.4% | 99.6% |  |
-| 139 | 0.7% | 99.2% |  |
-| 140 | 1.2% | 98% |  |
+| 139 | 0.8% | 99.2% |  |
+| 140 | 1.3% | 98% |  |
 | 141 | 2% | 97% |  |
 | 142 | 3% | 95% |  |
 | 143 | 4% | 92% |  |
 | 144 | 5% | 88% |  |
 | 145 | 7% | 83% |  |
-| 146 | 8% | 77% |  |
+| 146 | 8% | 76% |  |
 | 147 | 9% | 69% |  |
 | 148 | 9% | 60% |  |
 | 149 | 9% | 51% | Median |
 | 150 | 9% | 42% |  |
-| 151 | 8% | 34% |  |
+| 151 | 8% | 33% |  |
 | 152 | 7% | 26% |  |
-| 153 | 6% | 19% |  |
-| 154 | 4% | 14% |  |
+| 153 | 5% | 19% |  |
+| 154 | 4% | 13% |  |
 | 155 | 3% | 9% |  |
 | 156 | 2% | 6% |  |
 | 157 | 2% | 4% |  |

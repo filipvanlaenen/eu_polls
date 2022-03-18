@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **101** seats (+3 seats)
+Current median: **102** seats (+4 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 101 | 96–107 | 95–108 | 93–110 | 91–112 |
+| Renew Europe | EU | 98 | 102 | 96–107 | 95–108 | 93–110 | 91–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 25–30 | 25–30 | 24–31 | 23–32 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -33,7 +33,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
 | Eesti 200 | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Eesti Reformierakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -61,6 +61,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -75,18 +76,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.2% | 99.9% |  |
-| 91 | 0.4% | 99.6% |  |
-| 92 | 0.8% | 99.2% |  |
+| 91 | 0.4% | 99.7% |  |
+| 92 | 0.8% | 99.3% |  |
 | 93 | 1.3% | 98% |  |
 | 94 | 2% | 97% |  |
 | 95 | 3% | 95% |  |
 | 96 | 4% | 92% |  |
 | 97 | 5% | 88% |  |
-| 98 | 7% | 82% | Last Result |
+| 98 | 7% | 83% | Last Result |
 | 99 | 8% | 76% |  |
 | 100 | 9% | 68% |  |
-| 101 | 9% | 59% | Median |
-| 102 | 9% | 50% |  |
+| 101 | 9% | 59% |  |
+| 102 | 9% | 50% | Median |
 | 103 | 9% | 41% |  |
 | 104 | 8% | 32% |  |
 | 105 | 7% | 24% |  |
@@ -95,7 +96,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
 | 110 | 1.3% | 3% |  |
-| 111 | 0.7% | 2% |  |
+| 111 | 0.8% | 2% |  |
 | 112 | 0.4% | 0.8% |  |
 | 113 | 0.2% | 0.4% |  |
 | 114 | 0.1% | 0.2% |  |
