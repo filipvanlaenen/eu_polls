@@ -47,7 +47,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Miljöpartiet de gröna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0% | 100% |  |
 | 37 | 0.2% | 99.9% |  |
-| 38 | 0.4% | 99.8% |  |
+| 38 | 0.5% | 99.8% |  |
 | 39 | 1.0% | 99.3% |  |
 | 40 | 2% | 98% |  |
 | 41 | 3% | 97% |  |
