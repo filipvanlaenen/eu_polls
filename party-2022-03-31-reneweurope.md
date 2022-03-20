@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **102** seats (+4 seats)
+Current median: **101** seats (+3 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 96–107 | 95–108 | 93–110 | 91–112 |
+| Renew Europe | EU | 98 | 101 | 96–107 | 94–108 | 93–110 | 91–112 |
 | La République en marche–Mouvement démocrate | FR | | 28 | 25–29 | 24–30 | 24–31 | 24–32 |
-| Freie Demokratische Partei | DE | | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
+| Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–8 | 4–9 | 4–9 | 4–10 |
@@ -83,20 +83,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 3% | 95% |  |
 | 96 | 4% | 92% |  |
 | 97 | 5% | 88% |  |
-| 98 | 7% | 83% | Last Result |
+| 98 | 7% | 82% | Last Result |
 | 99 | 8% | 76% |  |
 | 100 | 9% | 68% |  |
-| 101 | 9% | 59% |  |
-| 102 | 9% | 50% | Median |
+| 101 | 9% | 59% | Median |
+| 102 | 9% | 50% |  |
 | 103 | 9% | 41% |  |
 | 104 | 8% | 32% |  |
 | 105 | 7% | 24% |  |
-| 106 | 5% | 18% |  |
+| 106 | 5% | 17% |  |
 | 107 | 4% | 12% |  |
 | 108 | 3% | 8% |  |
 | 109 | 2% | 5% |  |
-| 110 | 1.3% | 3% |  |
-| 111 | 0.8% | 2% |  |
+| 110 | 1.2% | 3% |  |
+| 111 | 0.7% | 1.5% |  |
 | 112 | 0.4% | 0.8% |  |
 | 113 | 0.2% | 0.4% |  |
 | 114 | 0.1% | 0.2% |  |
