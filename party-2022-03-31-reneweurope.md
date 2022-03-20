@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **102** seats (+4 seats)
+Current median: **101** seats (+3 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 96–107 | 95–108 | 93–110 | 91–112 |
+| Renew Europe | EU | 98 | 101 | 96–107 | 94–108 | 93–110 | 90–112 |
 | La République en marche–Mouvement démocrate | FR | | 28 | 25–29 | 24–30 | 24–31 | 24–32 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -38,7 +38,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Venstre | DK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -46,7 +46,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,32 +73,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 88 | 0% | 100% |  |
+| 88 | 0.1% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
-| 90 | 0.2% | 99.8% |  |
-| 91 | 0.4% | 99.6% |  |
-| 92 | 0.8% | 99.2% |  |
-| 93 | 1.3% | 98% |  |
+| 90 | 0.3% | 99.8% |  |
+| 91 | 0.5% | 99.5% |  |
+| 92 | 0.9% | 99.0% |  |
+| 93 | 2% | 98% |  |
 | 94 | 2% | 97% |  |
-| 95 | 3% | 95% |  |
-| 96 | 4% | 92% |  |
-| 97 | 5% | 88% |  |
-| 98 | 7% | 83% | Last Result |
-| 99 | 8% | 76% |  |
-| 100 | 9% | 69% |  |
-| 101 | 9% | 60% |  |
-| 102 | 9% | 51% | Median |
-| 103 | 9% | 42% |  |
-| 104 | 8% | 33% |  |
-| 105 | 7% | 25% |  |
-| 106 | 6% | 18% |  |
-| 107 | 4% | 12% |  |
-| 108 | 3% | 8% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.3% | 3% |  |
-| 111 | 0.8% | 2% |  |
-| 112 | 0.4% | 0.8% |  |
-| 113 | 0.2% | 0.4% |  |
+| 95 | 3% | 94% |  |
+| 96 | 4% | 91% |  |
+| 97 | 6% | 87% |  |
+| 98 | 7% | 81% | Last Result |
+| 99 | 8% | 74% |  |
+| 100 | 9% | 66% |  |
+| 101 | 9% | 57% | Median |
+| 102 | 9% | 48% |  |
+| 103 | 9% | 39% |  |
+| 104 | 8% | 30% |  |
+| 105 | 7% | 23% |  |
+| 106 | 5% | 16% |  |
+| 107 | 4% | 11% |  |
+| 108 | 3% | 7% |  |
+| 109 | 2% | 4% |  |
+| 110 | 1.1% | 3% |  |
+| 111 | 0.7% | 1.4% |  |
+| 112 | 0.4% | 0.7% |  |
+| 113 | 0.2% | 0.3% |  |
 | 114 | 0.1% | 0.2% |  |
 | 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |

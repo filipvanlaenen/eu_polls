@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
@@ -38,7 +38,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
+| Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -61,15 +61,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.2% | 100% |  |
-| 5 | 2% | 99.8% |  |
-| 6 | 9% | 98% |  |
-| 7 | 23% | 89% |  |
-| 8 | 33% | 66% | Median |
-| 9 | 24% | 33% |  |
-| 10 | 8% | 9% |  |
-| 11 | 0.9% | 1.0% |  |
-| 12 | 0.1% | 0.1% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 1.5% | 99.8% |  |
+| 6 | 8% | 98% |  |
+| 7 | 21% | 91% |  |
+| 8 | 32% | 70% | Median |
+| 9 | 26% | 38% |  |
+| 10 | 10% | 12% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
