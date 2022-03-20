@@ -23,7 +23,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Europe Écologie Les Verts | FR | | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | GroenLinks | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.1% | 100% |  |
 | 38 | 0.3% | 99.9% |  |
 | 39 | 0.7% | 99.5% |  |
-| 40 | 1.3% | 98.8% |  |
+| 40 | 1.4% | 98.8% |  |
 | 41 | 2% | 97% |  |
-| 42 | 3% | 95% |  |
+| 42 | 4% | 95% |  |
 | 43 | 5% | 92% |  |
 | 44 | 6% | 87% |  |
 | 45 | 8% | 80% |  |
-| 46 | 9% | 73% |  |
-| 47 | 9% | 64% |  |
+| 46 | 9% | 72% |  |
+| 47 | 9% | 63% |  |
 | 48 | 10% | 54% | Median |
-| 49 | 9% | 45% |  |
+| 49 | 9% | 44% |  |
 | 50 | 9% | 35% |  |
-| 51 | 8% | 27% |  |
+| 51 | 8% | 26% |  |
 | 52 | 6% | 19% |  |
 | 53 | 5% | 13% |  |
 | 54 | 4% | 8% |  |
 | 55 | 2% | 4% |  |
 | 56 | 1.2% | 2% |  |
-| 57 | 0.6% | 0.9% |  |
-| 58 | 0.2% | 0.4% |  |
+| 57 | 0.5% | 0.8% |  |
+| 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
