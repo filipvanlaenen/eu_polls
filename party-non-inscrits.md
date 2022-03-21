@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **45** seats (+16 seats)
+Current median: **47** seats (+18 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 45 | 42–48 | 41–48 | 40–49 | 39–51 |
+| Non-Inscrits | EU | 29 | 47 | 44–50 | 44–51 | 43–52 | 42–53 |
+| Reconquête | FR | | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Movimento 5 Stelle | IT | | 12 | 10–14 | 10–14 | 9–15 | 9–16 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
-| Reconquête | FR | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | Konfederacja | PL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -40,9 +40,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-02-28-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-02-28.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -55,22 +55,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.9% | 99.7% |  |
-| 40 | 2% | 98.8% |  |
-| 41 | 5% | 96% |  |
-| 42 | 10% | 91% |  |
-| 43 | 14% | 82% |  |
-| 44 | 17% | 68% |  |
-| 45 | 17% | 51% | Median |
-| 46 | 14% | 34% |  |
-| 47 | 10% | 20% |  |
-| 48 | 6% | 11% |  |
-| 49 | 3% | 5% |  |
-| 50 | 1.2% | 2% |  |
-| 51 | 0.5% | 0.7% |  |
-| 52 | 0.1% | 0.2% |  |
-| 53 | 0% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 1.0% | 99.7% |  |
+| 43 | 3% | 98.6% |  |
+| 44 | 7% | 96% |  |
+| 45 | 12% | 89% |  |
+| 46 | 16% | 77% |  |
+| 47 | 18% | 61% | Median |
+| 48 | 16% | 44% |  |
+| 49 | 12% | 28% |  |
+| 50 | 8% | 16% |  |
+| 51 | 4% | 8% |  |
+| 52 | 2% | 3% |  |
+| 53 | 0.9% | 1.3% |  |
+| 54 | 0.3% | 0.4% |  |
+| 55 | 0.1% | 0.1% |  |
+| 56 | 0% | 0% |  |
 
 
