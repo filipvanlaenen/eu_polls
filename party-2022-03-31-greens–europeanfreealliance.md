@@ -10,18 +10,17 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **48** seats (-19 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, ES, FI, FR, HR, LT, LU, LV, NL
+> AT, BE, BG, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 67 | 48 | 43–53 | 42–54 | 41–55 | 39–57 |
-| Bündnis 90/Die Grünen | DE | | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
+| Bündnis 90/Die Grünen | DE | | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
-| Europe Écologie Les Verts | FR | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -34,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
@@ -44,7 +43,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
+| Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -70,20 +70,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 2% | 98% |  |
 | 42 | 3% | 96% |  |
 | 43 | 5% | 92% |  |
-| 44 | 6% | 88% |  |
+| 44 | 7% | 87% |  |
 | 45 | 8% | 81% |  |
-| 46 | 9% | 74% |  |
-| 47 | 9% | 65% |  |
-| 48 | 10% | 55% | Median |
-| 49 | 9% | 46% |  |
-| 50 | 9% | 36% |  |
-| 51 | 8% | 28% |  |
-| 52 | 6% | 20% |  |
-| 53 | 5% | 13% |  |
+| 46 | 9% | 72% |  |
+| 47 | 10% | 63% |  |
+| 48 | 10% | 53% | Median |
+| 49 | 9% | 43% |  |
+| 50 | 8% | 34% |  |
+| 51 | 7% | 25% |  |
+| 52 | 6% | 18% |  |
+| 53 | 5% | 12% |  |
 | 54 | 4% | 8% |  |
 | 55 | 2% | 4% |  |
 | 56 | 1.2% | 2% |  |
-| 57 | 0.6% | 0.9% |  |
+| 57 | 0.5% | 0.7% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |

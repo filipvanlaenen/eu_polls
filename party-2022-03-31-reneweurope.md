@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **101** seats (+3 seats)
+Current median: **102** seats (+4 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 101 | 96–107 | 94–108 | 93–109 | 90–112 |
-| La République en marche–Mouvement démocrate | FR | | 28 | 25–30 | 24–30 | 24–31 | 24–32 |
-| Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
+| Renew Europe | EU | 98 | 102 | 96–107 | 95–108 | 93–110 | 91–112 |
+| La République en marche–Mouvement démocrate | FR | | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
+| Freie Demokratische Partei | DE | | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Polska 2050 | PL | | 6 | 5–8 | 4–9 | 4–9 | 4–10 |
@@ -46,20 +46,18 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,32 +72,32 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 88 | 0.1% | 100% |  |
-| 89 | 0.2% | 99.9% |  |
-| 90 | 0.3% | 99.7% |  |
-| 91 | 0.6% | 99.4% |  |
-| 92 | 1.0% | 98.8% |  |
-| 93 | 2% | 98% |  |
-| 94 | 2% | 96% |  |
-| 95 | 3% | 94% |  |
-| 96 | 5% | 90% |  |
-| 97 | 6% | 86% |  |
-| 98 | 7% | 80% | Last Result |
-| 99 | 8% | 73% |  |
-| 100 | 9% | 65% |  |
-| 101 | 9% | 56% | Median |
-| 102 | 9% | 47% |  |
-| 103 | 8% | 38% |  |
-| 104 | 7% | 29% |  |
-| 105 | 6% | 22% |  |
-| 106 | 5% | 16% |  |
-| 107 | 4% | 11% |  |
-| 108 | 3% | 7% |  |
-| 109 | 2% | 4% |  |
-| 110 | 1.1% | 2% |  |
-| 111 | 0.6% | 1.3% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 0.2% | 99.8% |  |
+| 91 | 0.4% | 99.6% |  |
+| 92 | 0.7% | 99.2% |  |
+| 93 | 1.1% | 98% |  |
+| 94 | 2% | 97% |  |
+| 95 | 3% | 96% |  |
+| 96 | 4% | 93% |  |
+| 97 | 5% | 89% |  |
+| 98 | 6% | 84% | Last Result |
+| 99 | 8% | 78% |  |
+| 100 | 9% | 71% |  |
+| 101 | 9% | 62% |  |
+| 102 | 10% | 52% | Median |
+| 103 | 9% | 43% |  |
+| 104 | 8% | 34% |  |
+| 105 | 7% | 25% |  |
+| 106 | 6% | 18% |  |
+| 107 | 4% | 12% |  |
+| 108 | 3% | 8% |  |
+| 109 | 2% | 5% |  |
+| 110 | 1.2% | 3% |  |
+| 111 | 0.7% | 1.4% |  |
 | 112 | 0.4% | 0.7% |  |
 | 113 | 0.2% | 0.3% |  |
-| 114 | 0.1% | 0.2% |  |
+| 114 | 0.1% | 0.1% |  |
 | 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |
 
