@@ -18,11 +18,11 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–10 | 6–12 | 5–13 | 5–14 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 7–11 | 6–12 | 6–13 | 5–14 |
 | Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging [NL] (*) | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -36,8 +36,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Liberalni demokrati [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -64,18 +64,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 3% | 99.6% |  |
-| 6 | 10% | 97% |  |
-| 7 | 22% | 87% |  |
-| 8 | 28% | 65% | Median |
-| 9 | 19% | 36% |  |
-| 10 | 7% | 17% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 1.3% | 99.9% |  |
+| 6 | 7% | 98.5% |  |
+| 7 | 19% | 92% |  |
+| 8 | 30% | 72% | Median |
+| 9 | 24% | 42% |  |
+| 10 | 8% | 19% |  |
 | 11 | 3% | 10% |  |
-| 12 | 3% | 6% |  |
-| 13 | 2% | 4% |  |
-| 14 | 1.0% | 1.3% |  |
-| 15 | 0.2% | 0.3% |  |
+| 12 | 3% | 7% |  |
+| 13 | 3% | 4% |  |
+| 14 | 1.2% | 1.5% |  |
+| 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
 
 
