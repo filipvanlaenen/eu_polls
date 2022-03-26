@@ -22,9 +22,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
-| Likums un kārtība [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -36,7 +36,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -62,12 +62,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 1.4% | 99.9% |  |
-| 6 | 7% | 98% |  |
-| 7 | 20% | 91% |  |
-| 8 | 32% | 71% | Median |
-| 9 | 26% | 39% |  |
-| 10 | 11% | 13% |  |
+| 5 | 0.7% | 99.9% |  |
+| 6 | 5% | 99.3% |  |
+| 7 | 16% | 95% |  |
+| 8 | 32% | 78% | Median |
+| 9 | 32% | 46% |  |
+| 10 | 12% | 14% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |

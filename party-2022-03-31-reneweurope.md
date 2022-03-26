@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -10,54 +10,57 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **102** seats (+4 seats)
 
-At least one member in **20 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IE, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 96–107 | 95–108 | 93–110 | 91–112 |
+| Renew Europe | EU | 98 | 102 | 96–106 | 95–108 | 94–109 | 92–111 |
 | La République en marche–Mouvement démocrate | FR | | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
-| Freie Demokratische Partei | DE | | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
+| Freie Demokratische Partei | DE | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| Polska 2050 | PL | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| Polska 2050 | PL | | 6 | 5–8 | 4–9 | 4–9 | 4–10 |
-| Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 4 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
 | Eesti 200 | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka modernega centra | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,34 +74,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 88 | 0.1% | 100% |  |
-| 89 | 0.1% | 99.9% |  |
-| 90 | 0.2% | 99.8% |  |
-| 91 | 0.4% | 99.6% |  |
-| 92 | 0.7% | 99.2% |  |
-| 93 | 1.1% | 98% |  |
-| 94 | 2% | 97% |  |
+| 89 | 0.1% | 100% |  |
+| 90 | 0.1% | 99.9% |  |
+| 91 | 0.3% | 99.8% |  |
+| 92 | 0.5% | 99.5% |  |
+| 93 | 1.0% | 99.0% |  |
+| 94 | 2% | 98% |  |
 | 95 | 3% | 96% |  |
-| 96 | 4% | 93% |  |
-| 97 | 5% | 89% |  |
-| 98 | 6% | 84% | Last Result |
+| 96 | 4% | 94% |  |
+| 97 | 5% | 90% |  |
+| 98 | 7% | 85% | Last Result |
 | 99 | 8% | 78% |  |
-| 100 | 9% | 71% |  |
-| 101 | 9% | 62% |  |
-| 102 | 10% | 52% | Median |
-| 103 | 9% | 43% |  |
-| 104 | 8% | 34% |  |
-| 105 | 7% | 25% |  |
-| 106 | 6% | 18% |  |
-| 107 | 4% | 12% |  |
-| 108 | 3% | 8% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.2% | 3% |  |
-| 111 | 0.7% | 1.4% |  |
-| 112 | 0.4% | 0.7% |  |
-| 113 | 0.2% | 0.3% |  |
-| 114 | 0.1% | 0.1% |  |
-| 115 | 0% | 0.1% |  |
-| 116 | 0% | 0% |  |
+| 100 | 9% | 70% |  |
+| 101 | 10% | 60% |  |
+| 102 | 10% | 50% | Median |
+| 103 | 10% | 40% |  |
+| 104 | 9% | 31% |  |
+| 105 | 7% | 22% |  |
+| 106 | 5% | 15% |  |
+| 107 | 4% | 9% |  |
+| 108 | 2% | 6% |  |
+| 109 | 1.5% | 3% |  |
+| 110 | 0.8% | 2% |  |
+| 111 | 0.4% | 0.7% |  |
+| 112 | 0.2% | 0.3% |  |
+| 113 | 0.1% | 0.1% |  |
+| 114 | 0% | 0.1% |  |
+| 115 | 0% | 0% |  |
 
 
