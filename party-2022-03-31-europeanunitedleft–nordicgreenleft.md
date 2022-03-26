@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
-| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
+| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–4 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -58,22 +58,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
-| 43 | 0.1% | 100% |  |
-| 44 | 0.4% | 99.8% |  |
-| 45 | 1.0% | 99.5% |  |
-| 46 | 2% | 98% |  |
-| 47 | 5% | 96% |  |
-| 48 | 8% | 92% |  |
-| 49 | 12% | 84% |  |
-| 50 | 15% | 72% |  |
-| 51 | 16% | 57% | Median |
-| 52 | 15% | 40% |  |
-| 53 | 11% | 25% |  |
-| 54 | 7% | 14% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.5% | 99.8% |  |
+| 45 | 1.2% | 99.3% |  |
+| 46 | 3% | 98% |  |
+| 47 | 5% | 95% |  |
+| 48 | 8% | 90% |  |
+| 49 | 12% | 82% |  |
+| 50 | 15% | 71% |  |
+| 51 | 16% | 56% | Median |
+| 52 | 14% | 40% |  |
+| 53 | 11% | 26% |  |
+| 54 | 7% | 15% |  |
 | 55 | 4% | 7% |  |
 | 56 | 2% | 3% |  |
-| 57 | 0.8% | 1.2% |  |
-| 58 | 0.3% | 0.4% |  |
+| 57 | 0.8% | 1.3% |  |
+| 58 | 0.3% | 0.5% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
