@@ -22,7 +22,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 13–19 | 12–20 |
 | Partido Popular | ES | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
-| Les Républicains | FR | | 8 | 8–11 | 8–11 | 8–12 | 7–12 |
+| Les Républicains | FR | | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 0.1% | 99.9% |  |
 | 135 | 0.2% | 99.8% |  |
 | 136 | 0.4% | 99.6% |  |
-| 137 | 0.8% | 99.2% |  |
+| 137 | 0.7% | 99.2% |  |
 | 138 | 1.3% | 98% |  |
 | 139 | 2% | 97% |  |
 | 140 | 3% | 95% |  |
@@ -104,7 +104,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 2% | 6% |  |
 | 155 | 2% | 4% |  |
 | 156 | 1.0% | 2% |  |
-| 157 | 0.6% | 1.5% |  |
+| 157 | 0.6% | 1.4% |  |
 | 158 | 0.4% | 0.8% |  |
 | 159 | 0.2% | 0.4% |  |
 | 160 | 0.1% | 0.2% |  |
