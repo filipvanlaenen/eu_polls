@@ -19,15 +19,15 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 147 | 142–153 | 140–154 | 139–156 | 136–159 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 13–19 | 12–20 |
 | Partido Popular | ES | | 15 | 13–16 | 12–16 | 11–17 | 11–17 |
-| Les Républicains | FR | | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
+| Les Républicains | FR | | 9 | 8–10 | 8–11 | 7–12 | 7–12 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Partidul Național Liberal | RO | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -94,9 +94,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 8% | 73% |  |
 | 146 | 9% | 65% |  |
 | 147 | 9% | 56% | Median |
-| 148 | 9% | 46% |  |
+| 148 | 9% | 47% |  |
 | 149 | 8% | 38% |  |
-| 150 | 7% | 29% |  |
+| 150 | 7% | 30% |  |
 | 151 | 6% | 22% |  |
 | 152 | 5% | 16% |  |
 | 153 | 4% | 11% |  |
@@ -106,8 +106,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0.8% | 2% |  |
 | 158 | 0.5% | 1.0% |  |
 | 159 | 0.3% | 0.6% |  |
-| 160 | 0.2% | 0.3% |  |
-| 161 | 0.1% | 0.2% |  |
+| 160 | 0.1% | 0.3% |  |
+| 161 | 0.1% | 0.1% |  |
 | 162 | 0% | 0.1% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |

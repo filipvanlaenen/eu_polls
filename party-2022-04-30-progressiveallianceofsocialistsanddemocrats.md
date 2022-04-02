@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **144** seats (-3 seats)
+Current median: **145** seats (-2 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 139–150 | 138–151 | 137–153 | 134–155 |
-| Sozialdemokratische Partei Deutschlands | DE | | 23 | 22–26 | 22–27 | 21–27 | 20–28 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 139–150 | 138–151 | 137–153 | 134–155 |
+| Sozialdemokratische Partei Deutschlands | DE | | 23 | 22–26 | 21–27 | 21–27 | 20–27 |
 | Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 15–21 | 14–21 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | Partidul Social Democrat | RO | | 13 | 11–15 | 10–16 | 10–16 | 10–17 |
-| United Opposition | HU | | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
+| United Opposition | HU | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -36,7 +36,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Partij van de Arbeid | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
+| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
@@ -63,11 +63,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 132 | 0.1% | 100% |  |
+| 131 | 0% | 100% |  |
+| 132 | 0.1% | 99.9% |  |
 | 133 | 0.2% | 99.9% |  |
 | 134 | 0.3% | 99.7% |  |
 | 135 | 0.6% | 99.4% |  |
-| 136 | 1.0% | 98.8% |  |
+| 136 | 1.1% | 98.8% |  |
 | 137 | 2% | 98% |  |
 | 138 | 3% | 96% |  |
 | 139 | 4% | 93% |  |
@@ -75,21 +76,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 7% | 84% |  |
 | 142 | 8% | 77% |  |
 | 143 | 9% | 69% |  |
-| 144 | 10% | 60% | Median |
-| 145 | 10% | 50% |  |
-| 146 | 9% | 40% |  |
-| 147 | 8% | 31% | Last Result |
-| 148 | 7% | 23% |  |
-| 149 | 5% | 16% |  |
-| 150 | 4% | 11% |  |
-| 151 | 3% | 7% |  |
+| 144 | 10% | 60% |  |
+| 145 | 10% | 51% | Median |
+| 146 | 9% | 41% |  |
+| 147 | 8% | 32% | Last Result |
+| 148 | 7% | 24% |  |
+| 149 | 5% | 17% |  |
+| 150 | 4% | 12% |  |
+| 151 | 3% | 8% |  |
 | 152 | 2% | 5% |  |
-| 153 | 1.2% | 3% |  |
-| 154 | 0.7% | 2% |  |
-| 155 | 0.4% | 0.8% |  |
-| 156 | 0.2% | 0.4% |  |
+| 153 | 1.3% | 3% |  |
+| 154 | 0.8% | 2% |  |
+| 155 | 0.4% | 0.9% |  |
+| 156 | 0.2% | 0.5% |  |
 | 157 | 0.1% | 0.2% |  |
 | 158 | 0.1% | 0.1% |  |
-| 159 | 0% | 0% |  |
+| 159 | 0% | 0.1% |  |
+| 160 | 0% | 0% |  |
 
 
