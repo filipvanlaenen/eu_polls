@@ -42,7 +42,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -63,20 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 131 | 0% | 100% |  |
-| 132 | 0.1% | 99.9% |  |
+| 132 | 0.1% | 100% |  |
 | 133 | 0.2% | 99.9% |  |
 | 134 | 0.3% | 99.7% |  |
 | 135 | 0.6% | 99.4% |  |
-| 136 | 1.1% | 98.8% |  |
+| 136 | 1.0% | 98.8% |  |
 | 137 | 2% | 98% |  |
 | 138 | 3% | 96% |  |
 | 139 | 4% | 93% |  |
-| 140 | 5% | 89% |  |
+| 140 | 5% | 90% |  |
 | 141 | 7% | 84% |  |
-| 142 | 8% | 77% |  |
-| 143 | 9% | 69% |  |
-| 144 | 10% | 60% |  |
+| 142 | 8% | 78% |  |
+| 143 | 9% | 70% |  |
+| 144 | 10% | 61% |  |
 | 145 | 10% | 51% | Median |
 | 146 | 9% | 41% |  |
 | 147 | 8% | 32% | Last Result |

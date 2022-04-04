@@ -18,8 +18,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 7–10 | 7–10 | 6–11 | 5–11 |
-| Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
+| Gibanje Svoboda [SI] (*) | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,10 +62,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 4% | 99.4% |  |
-| 7 | 15% | 96% |  |
-| 8 | 31% | 81% | Median |
+| 5 | 0.3% | 100% |  |
+| 6 | 3% | 99.7% |  |
+| 7 | 15% | 97% |  |
+| 8 | 32% | 82% | Median |
 | 9 | 33% | 50% |  |
 | 10 | 14% | 17% |  |
 | 11 | 3% | 3% |  |
