@@ -31,17 +31,17 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Българските патриоти | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -61,26 +61,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.4% | 99.7% |  |
-| 72 | 0.9% | 99.3% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.3% | 99.8% |  |
+| 71 | 0.6% | 99.6% |  |
+| 72 | 1.1% | 99.0% |  |
 | 73 | 2% | 98% |  |
-| 74 | 3% | 97% |  |
-| 75 | 4% | 94% |  |
-| 76 | 6% | 90% |  |
-| 77 | 8% | 83% |  |
-| 78 | 10% | 75% |  |
-| 79 | 11% | 65% |  |
-| 80 | 12% | 54% | Median |
-| 81 | 11% | 42% |  |
-| 82 | 10% | 31% |  |
-| 83 | 8% | 22% |  |
-| 84 | 6% | 14% |  |
-| 85 | 4% | 8% |  |
-| 86 | 2% | 5% |  |
-| 87 | 1.3% | 2% |  |
-| 88 | 0.7% | 1.2% |  |
+| 74 | 3% | 96% |  |
+| 75 | 5% | 92% |  |
+| 76 | 7% | 87% |  |
+| 77 | 9% | 80% |  |
+| 78 | 10% | 72% |  |
+| 79 | 11% | 61% |  |
+| 80 | 11% | 50% | Median |
+| 81 | 10% | 39% |  |
+| 82 | 9% | 29% |  |
+| 83 | 7% | 20% |  |
+| 84 | 5% | 13% |  |
+| 85 | 3% | 8% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.2% | 2% |  |
+| 88 | 0.6% | 1.1% |  |
 | 89 | 0.3% | 0.5% |  |
 | 90 | 0.1% | 0.2% |  |
 | 91 | 0.1% | 0.1% |  |
