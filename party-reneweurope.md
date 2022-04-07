@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **101** seats (+3 seats)
+Current median: **100** seats (+2 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 101 | 96–106 | 94–107 | 93–108 | 91–110 |
-| La République en marche–Mouvement démocrate | FR | | 25 | 24–28 | 24–28 | 23–28 | 23–29 |
+| Renew Europe | EU | 98 | 100 | 95–105 | 93–106 | 92–107 | 90–110 |
+| La République en marche–Mouvement démocrate | FR | | 25 | 23–27 | 23–28 | 22–29 | 21–29 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Polska 2050 | PL | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
@@ -62,43 +62,44 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-04-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-04-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 88 | 0% | 100% |  |
-| 89 | 0.1% | 99.9% |  |
-| 90 | 0.2% | 99.9% |  |
-| 91 | 0.4% | 99.6% |  |
-| 92 | 0.8% | 99.2% |  |
-| 93 | 1.4% | 98% |  |
-| 94 | 2% | 97% |  |
-| 95 | 3% | 95% |  |
-| 96 | 5% | 91% |  |
-| 97 | 6% | 86% |  |
-| 98 | 8% | 80% | Last Result |
-| 99 | 9% | 72% |  |
-| 100 | 10% | 63% |  |
-| 101 | 10% | 53% | Median |
-| 102 | 10% | 43% |  |
-| 103 | 9% | 33% |  |
-| 104 | 7% | 25% |  |
-| 105 | 6% | 17% |  |
-| 106 | 4% | 11% |  |
-| 107 | 3% | 7% |  |
-| 108 | 2% | 4% |  |
-| 109 | 1.1% | 2% |  |
-| 110 | 0.6% | 1.1% |  |
-| 111 | 0.3% | 0.5% |  |
-| 112 | 0.1% | 0.2% |  |
-| 113 | 0.1% | 0.1% |  |
+| 87 | 0% | 100% |  |
+| 88 | 0.1% | 99.9% |  |
+| 89 | 0.2% | 99.8% |  |
+| 90 | 0.4% | 99.6% |  |
+| 91 | 0.8% | 99.2% |  |
+| 92 | 1.4% | 98% |  |
+| 93 | 2% | 97% |  |
+| 94 | 3% | 95% |  |
+| 95 | 5% | 91% |  |
+| 96 | 6% | 87% |  |
+| 97 | 8% | 80% |  |
+| 98 | 9% | 73% | Last Result |
+| 99 | 10% | 64% |  |
+| 100 | 10% | 54% | Median |
+| 101 | 10% | 44% |  |
+| 102 | 9% | 34% |  |
+| 103 | 8% | 25% |  |
+| 104 | 6% | 17% |  |
+| 105 | 4% | 11% |  |
+| 106 | 3% | 7% |  |
+| 107 | 2% | 4% |  |
+| 108 | 1.1% | 2% |  |
+| 109 | 0.6% | 1.2% |  |
+| 110 | 0.3% | 0.6% |  |
+| 111 | 0.2% | 0.3% |  |
+| 112 | 0.1% | 0.1% |  |
+| 113 | 0% | 0.1% |  |
 | 114 | 0% | 0% |  |
 
 
