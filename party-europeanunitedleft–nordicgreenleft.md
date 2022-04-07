@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 52 | 49–55 | 48–56 | 47–57 | 46–58 |
-| La France insoumise | FR | | 14 | 13–16 | 12–17 | 12–17 | 11–17 |
+| European United Left–Nordic Green Left | EU | 39 | 52 | 49–55 | 48–55 | 47–56 | 46–58 |
+| La France insoumise | FR | | 14 | 13–16 | 13–16 | 12–16 | 11–16 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | Die Linke | DE | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
@@ -41,16 +41,16 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
-| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–5 |
+| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-04-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-04-30.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,23 +59,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
-| 45 | 0.3% | 99.9% |  |
-| 46 | 0.9% | 99.6% |  |
-| 47 | 2% | 98.7% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.2% | 99.9% |  |
+| 46 | 0.7% | 99.8% |  |
+| 47 | 2% | 99.1% |  |
 | 48 | 4% | 97% |  |
-| 49 | 8% | 92% |  |
-| 50 | 12% | 84% |  |
-| 51 | 15% | 72% |  |
-| 52 | 16% | 57% | Median |
-| 53 | 15% | 41% |  |
-| 54 | 11% | 27% |  |
-| 55 | 8% | 15% |  |
-| 56 | 4% | 8% |  |
-| 57 | 2% | 3% |  |
-| 58 | 0.9% | 1.3% |  |
-| 59 | 0.3% | 0.5% |  |
-| 60 | 0.1% | 0.1% |  |
+| 49 | 8% | 93% |  |
+| 50 | 13% | 85% |  |
+| 51 | 17% | 72% |  |
+| 52 | 18% | 55% | Median |
+| 53 | 15% | 37% |  |
+| 54 | 11% | 22% |  |
+| 55 | 6% | 11% |  |
+| 56 | 3% | 5% |  |
+| 57 | 1.2% | 2% |  |
+| 58 | 0.4% | 0.6% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
 
