@@ -19,7 +19,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 98 | 101 | 96–106 | 94–107 | 93–108 | 91–110 |
-| La République en marche–Mouvement démocrate | FR | | 25 | 24–28 | 24–28 | 23–28 | 22–28 |
+| La République en marche–Mouvement démocrate | FR | | 25 | 24–28 | 24–28 | 23–28 | 22–29 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Polska 2050 | PL | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
@@ -58,7 +58,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Lista Marjana Šarca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -75,18 +75,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 99.9% |  |
-| 90 | 0.3% | 99.8% |  |
-| 91 | 0.5% | 99.5% |  |
-| 92 | 1.0% | 99.0% |  |
+| 90 | 0.2% | 99.8% |  |
+| 91 | 0.5% | 99.6% |  |
+| 92 | 0.9% | 99.1% |  |
 | 93 | 2% | 98% |  |
-| 94 | 3% | 96% |  |
+| 94 | 3% | 97% |  |
 | 95 | 4% | 94% |  |
 | 96 | 5% | 90% |  |
 | 97 | 7% | 85% |  |
-| 98 | 8% | 78% | Last Result |
-| 99 | 9% | 70% |  |
-| 100 | 10% | 61% |  |
-| 101 | 10% | 51% | Median |
+| 98 | 8% | 79% | Last Result |
+| 99 | 9% | 71% |  |
+| 100 | 10% | 62% |  |
+| 101 | 10% | 52% | Median |
 | 102 | 10% | 41% |  |
 | 103 | 9% | 32% |  |
 | 104 | 7% | 23% |  |
