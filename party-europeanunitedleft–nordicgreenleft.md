@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+13 seats)
+Current median: **53** seats (+14 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 52 | 49–55 | 48–55 | 47–56 | 46–58 |
-| La France insoumise | FR | | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 49–57 | 48–58 | 47–60 |
+| La France insoumise | FR | | 15 | 14–18 | 13–18 | 13–19 | 13–21 |
 | Unidos Podemos | ES | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | Die Linke | DE | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Vänsterpartiet | SE | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -34,7 +34,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,9 +48,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-04-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-04-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,22 +59,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
-| 45 | 0.3% | 99.9% |  |
-| 46 | 0.9% | 99.6% |  |
-| 47 | 2% | 98.7% |  |
-| 48 | 5% | 96% |  |
-| 49 | 9% | 91% |  |
-| 50 | 14% | 82% |  |
-| 51 | 17% | 69% |  |
-| 52 | 17% | 52% | Median |
-| 53 | 14% | 35% |  |
-| 54 | 10% | 20% |  |
-| 55 | 6% | 10% |  |
-| 56 | 3% | 4% |  |
-| 57 | 1.1% | 2% |  |
-| 58 | 0.4% | 0.6% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0.2% | 99.9% |  |
+| 47 | 0.7% | 99.7% |  |
+| 48 | 2% | 99.0% |  |
+| 49 | 5% | 97% |  |
+| 50 | 8% | 92% |  |
+| 51 | 12% | 84% |  |
+| 52 | 15% | 72% |  |
+| 53 | 16% | 56% | Median |
+| 54 | 14% | 40% |  |
+| 55 | 11% | 26% |  |
+| 56 | 7% | 16% |  |
+| 57 | 4% | 9% |  |
+| 58 | 2% | 4% |  |
+| 59 | 1.1% | 2% |  |
+| 60 | 0.5% | 0.8% |  |
+| 61 | 0.2% | 0.3% |  |
+| 62 | 0.1% | 0.1% |  |
+| 63 | 0% | 0% |  |
 
 
