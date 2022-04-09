@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 100 | 95–105 | 94–107 | 93–108 | 90–110 |
+| Renew Europe | EU | 98 | 100 | 95–105 | 94–107 | 92–108 | 90–110 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 24–28 | 24–28 | 23–28 | 22–29 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -26,7 +26,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Fianna Fáil | IE | | 4 | 2–4 | 2–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,7 +41,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -74,28 +74,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 88 | 0.1% | 100% |  |
-| 89 | 0.1% | 99.9% |  |
-| 90 | 0.3% | 99.8% |  |
-| 91 | 0.6% | 99.5% |  |
-| 92 | 1.1% | 98.9% |  |
-| 93 | 2% | 98% |  |
-| 94 | 3% | 96% |  |
-| 95 | 4% | 93% |  |
-| 96 | 5% | 89% |  |
-| 97 | 7% | 84% |  |
-| 98 | 8% | 77% | Last Result |
-| 99 | 9% | 69% |  |
-| 100 | 10% | 60% | Median |
-| 101 | 10% | 50% |  |
-| 102 | 9% | 40% |  |
-| 103 | 8% | 30% |  |
-| 104 | 7% | 22% |  |
-| 105 | 5% | 15% |  |
-| 106 | 4% | 10% |  |
-| 107 | 3% | 6% |  |
-| 108 | 2% | 3% |  |
-| 109 | 0.9% | 2% |  |
-| 110 | 0.5% | 0.9% |  |
+| 89 | 0.2% | 99.9% |  |
+| 90 | 0.4% | 99.7% |  |
+| 91 | 0.7% | 99.3% |  |
+| 92 | 1.2% | 98.6% |  |
+| 93 | 2% | 97% |  |
+| 94 | 3% | 95% |  |
+| 95 | 4% | 92% |  |
+| 96 | 6% | 88% |  |
+| 97 | 7% | 83% |  |
+| 98 | 8% | 76% | Last Result |
+| 99 | 9% | 67% |  |
+| 100 | 10% | 58% | Median |
+| 101 | 10% | 48% |  |
+| 102 | 9% | 38% |  |
+| 103 | 8% | 29% |  |
+| 104 | 7% | 21% |  |
+| 105 | 5% | 14% |  |
+| 106 | 4% | 9% |  |
+| 107 | 2% | 6% |  |
+| 108 | 1.5% | 3% |  |
+| 109 | 0.8% | 2% |  |
+| 110 | 0.4% | 0.8% |  |
 | 111 | 0.2% | 0.4% |  |
 | 112 | 0.1% | 0.2% |  |
 | 113 | 0% | 0.1% |  |

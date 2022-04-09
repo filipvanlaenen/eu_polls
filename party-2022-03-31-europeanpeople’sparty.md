@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 147 | 141–153 | 140–154 | 139–156 | 136–159 |
+| European People’s Party | EU | 187 | 147 | 142–153 | 140–155 | 139–156 | 136–159 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 13–19 | 12–20 |
 | Partido Popular | ES | | 15 | 13–16 | 12–16 | 11–17 | 11–17 |
@@ -49,17 +49,17 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
-| Jaunā konservatīvā partija | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -80,35 +80,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 133 | 0% | 100% |  |
-| 134 | 0.1% | 99.9% |  |
-| 135 | 0.2% | 99.8% |  |
-| 136 | 0.4% | 99.7% |  |
-| 137 | 0.6% | 99.3% |  |
-| 138 | 1.1% | 98.7% |  |
-| 139 | 2% | 98% |  |
-| 140 | 3% | 96% |  |
-| 141 | 4% | 93% |  |
-| 142 | 5% | 90% |  |
-| 143 | 6% | 85% |  |
-| 144 | 7% | 78% |  |
-| 145 | 8% | 71% |  |
-| 146 | 9% | 63% |  |
-| 147 | 9% | 54% | Median |
-| 148 | 9% | 45% |  |
-| 149 | 8% | 36% |  |
-| 150 | 7% | 28% |  |
-| 151 | 6% | 21% |  |
-| 152 | 5% | 15% |  |
-| 153 | 3% | 11% |  |
-| 154 | 3% | 7% |  |
+| 134 | 0.1% | 100% |  |
+| 135 | 0.1% | 99.9% |  |
+| 136 | 0.3% | 99.7% |  |
+| 137 | 0.5% | 99.5% |  |
+| 138 | 0.9% | 98.9% |  |
+| 139 | 1.5% | 98% |  |
+| 140 | 2% | 97% |  |
+| 141 | 3% | 94% |  |
+| 142 | 5% | 91% |  |
+| 143 | 6% | 86% |  |
+| 144 | 7% | 81% |  |
+| 145 | 8% | 74% |  |
+| 146 | 9% | 65% |  |
+| 147 | 9% | 57% | Median |
+| 148 | 9% | 48% |  |
+| 149 | 8% | 39% |  |
+| 150 | 7% | 30% |  |
+| 151 | 6% | 23% |  |
+| 152 | 5% | 17% |  |
+| 153 | 4% | 12% |  |
+| 154 | 3% | 8% |  |
 | 155 | 2% | 5% |  |
-| 156 | 1.1% | 3% |  |
-| 157 | 0.7% | 2% |  |
-| 158 | 0.4% | 0.9% |  |
-| 159 | 0.2% | 0.5% |  |
-| 160 | 0.1% | 0.3% |  |
-| 161 | 0.1% | 0.1% |  |
+| 156 | 1.3% | 3% |  |
+| 157 | 0.8% | 2% |  |
+| 158 | 0.5% | 1.1% |  |
+| 159 | 0.3% | 0.6% |  |
+| 160 | 0.2% | 0.3% |  |
+| 161 | 0.1% | 0.2% |  |
 | 162 | 0% | 0.1% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
