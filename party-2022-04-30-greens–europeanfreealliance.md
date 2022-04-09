@@ -18,17 +18,17 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 42–52 | 41–53 | 40–54 | 38–56 |
-| Bündnis 90/Die Grünen | DE | | 16 | 14–18 | 14–18 | 14–19 | 14–20 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–52 | 41–54 | 40–55 | 38–57 |
+| Bündnis 90/Die Grünen | DE | | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | GroenLinks | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -43,7 +43,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
-| Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -64,29 +64,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.1% | 100% |  |
-| 37 | 0.2% | 99.9% |  |
-| 38 | 0.5% | 99.7% |  |
-| 39 | 1.1% | 99.2% |  |
-| 40 | 2% | 98% |  |
-| 41 | 3% | 96% |  |
-| 42 | 5% | 93% |  |
-| 43 | 6% | 89% |  |
-| 44 | 8% | 82% |  |
-| 45 | 9% | 75% |  |
-| 46 | 10% | 65% |  |
-| 47 | 10% | 56% | Median |
-| 48 | 10% | 45% |  |
-| 49 | 9% | 36% |  |
-| 50 | 8% | 27% |  |
-| 51 | 6% | 19% |  |
-| 52 | 5% | 13% |  |
-| 53 | 3% | 8% |  |
-| 54 | 2% | 5% |  |
-| 55 | 1.4% | 2% |  |
-| 56 | 0.7% | 1.1% |  |
-| 57 | 0.3% | 0.4% |  |
-| 58 | 0.1% | 0.1% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.3% | 99.8% |  |
+| 39 | 0.8% | 99.5% |  |
+| 40 | 2% | 98.7% |  |
+| 41 | 3% | 97% |  |
+| 42 | 4% | 95% |  |
+| 43 | 6% | 91% |  |
+| 44 | 7% | 85% |  |
+| 45 | 9% | 78% |  |
+| 46 | 10% | 69% |  |
+| 47 | 10% | 59% | Median |
+| 48 | 10% | 49% |  |
+| 49 | 9% | 39% |  |
+| 50 | 8% | 30% |  |
+| 51 | 7% | 22% |  |
+| 52 | 5% | 15% |  |
+| 53 | 4% | 10% |  |
+| 54 | 3% | 6% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.9% | 1.4% |  |
+| 57 | 0.4% | 0.6% |  |
+| 58 | 0.1% | 0.2% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
