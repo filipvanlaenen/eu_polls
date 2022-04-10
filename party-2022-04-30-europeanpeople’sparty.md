@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **146** seats (-41 seats)
+Current median: **147** seats (-40 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 146 | 140–152 | 139–154 | 137–156 | 134–159 |
+| European People’s Party | EU | 187 | 147 | 141–153 | 139–154 | 137–156 | 134–159 |
 | Christlich Demokratische Union Deutschlands | DE | | 18 | 17–20 | 17–21 | 17–21 | 16–22 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 13–19 | 12–20 |
 | Partido Popular | ES | | 15 | 13–17 | 12–18 | 11–18 | 11–19 |
@@ -36,7 +36,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Koalicja Polska | PL | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -63,11 +63,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
-| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
+| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -83,34 +83,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 130 | 0% | 100% |  |
 | 131 | 0.1% | 99.9% |  |
 | 132 | 0.1% | 99.9% |  |
-| 133 | 0.2% | 99.7% |  |
+| 133 | 0.2% | 99.8% |  |
 | 134 | 0.3% | 99.6% |  |
-| 135 | 0.5% | 99.2% |  |
-| 136 | 0.8% | 98.7% |  |
-| 137 | 1.2% | 98% |  |
+| 135 | 0.4% | 99.3% |  |
+| 136 | 0.7% | 98.9% |  |
+| 137 | 1.0% | 98% |  |
 | 138 | 2% | 97% |  |
-| 139 | 2% | 95% |  |
+| 139 | 2% | 96% |  |
 | 140 | 3% | 93% |  |
-| 141 | 4% | 89% |  |
-| 142 | 5% | 85% |  |
-| 143 | 7% | 80% |  |
-| 144 | 7% | 73% |  |
-| 145 | 8% | 66% |  |
-| 146 | 8% | 57% | Median |
-| 147 | 8% | 49% |  |
-| 148 | 8% | 41% |  |
-| 149 | 7% | 33% |  |
-| 150 | 6% | 25% |  |
-| 151 | 5% | 19% |  |
-| 152 | 4% | 14% |  |
+| 141 | 4% | 90% |  |
+| 142 | 5% | 86% |  |
+| 143 | 6% | 81% |  |
+| 144 | 7% | 75% |  |
+| 145 | 8% | 67% |  |
+| 146 | 8% | 59% |  |
+| 147 | 8% | 51% | Median |
+| 148 | 8% | 42% |  |
+| 149 | 7% | 34% |  |
+| 150 | 6% | 27% |  |
+| 151 | 5% | 20% |  |
+| 152 | 4% | 15% |  |
 | 153 | 3% | 10% |  |
 | 154 | 2% | 7% |  |
-| 155 | 2% | 4% |  |
-| 156 | 1.1% | 3% |  |
-| 157 | 0.7% | 2% |  |
-| 158 | 0.4% | 1.0% |  |
+| 155 | 2% | 5% |  |
+| 156 | 1.2% | 3% |  |
+| 157 | 0.8% | 2% |  |
+| 158 | 0.5% | 1.1% |  |
 | 159 | 0.3% | 0.6% |  |
-| 160 | 0.1% | 0.3% |  |
+| 160 | 0.2% | 0.3% |  |
 | 161 | 0.1% | 0.2% |  |
 | 162 | 0% | 0.1% |  |
 | 163 | 0% | 0% |  |
