@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 79 | 75–84 | 74–85 | 73–86 | 71–88 |
+| European Conservatives and Reformists | EU | 61 | 79 | 75–84 | 73–85 | 72–86 | 70–89 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–24 | 18–25 | 17–26 |
 | Fratelli d’Italia | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
-| Vox | ES | | 12 | 10–14 | 10–15 | 10–15 | 9–16 |
+| Vox | ES | | 12 | 10–14 | 9–16 | 9–16 | 8–17 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Juiste Antwoord 2021 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -47,9 +47,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-04-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-04-30.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,30 +60,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.3% | 99.8% |  |
-| 71 | 0.6% | 99.5% |  |
-| 72 | 1.2% | 98.9% |  |
-| 73 | 2% | 98% |  |
-| 74 | 4% | 95% |  |
-| 75 | 5% | 92% |  |
-| 76 | 7% | 87% |  |
-| 77 | 9% | 79% |  |
-| 78 | 11% | 70% |  |
-| 79 | 11% | 60% | Median |
-| 80 | 11% | 48% |  |
-| 81 | 10% | 37% |  |
-| 82 | 9% | 27% |  |
-| 83 | 7% | 18% |  |
-| 84 | 5% | 12% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.4% | 99.7% |  |
+| 71 | 0.9% | 99.3% |  |
+| 72 | 2% | 98% |  |
+| 73 | 3% | 97% |  |
+| 74 | 4% | 94% |  |
+| 75 | 6% | 90% |  |
+| 76 | 8% | 84% |  |
+| 77 | 9% | 77% |  |
+| 78 | 11% | 67% |  |
+| 79 | 11% | 57% | Median |
+| 80 | 11% | 46% |  |
+| 81 | 9% | 35% |  |
+| 82 | 8% | 26% |  |
+| 83 | 6% | 18% |  |
+| 84 | 4% | 12% |  |
 | 85 | 3% | 7% |  |
 | 86 | 2% | 4% |  |
 | 87 | 1.1% | 2% |  |
-| 88 | 0.6% | 1.0% |  |
-| 89 | 0.3% | 0.4% |  |
+| 88 | 0.6% | 1.2% |  |
+| 89 | 0.3% | 0.6% |  |
 | 90 | 0.1% | 0.2% |  |
-| 91 | 0% | 0.1% |  |
+| 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
 

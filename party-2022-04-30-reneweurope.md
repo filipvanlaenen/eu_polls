@@ -59,7 +59,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
-| Lista Marjana Šarca | SI | | 0 | 0 | 0 | 0 | 0 |
+| Lista Marjana Šarca | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 1.4% | 98% |  |
 | 91 | 2% | 97% |  |
 | 92 | 3% | 95% |  |
-| 93 | 4% | 91% |  |
+| 93 | 4% | 92% |  |
 | 94 | 6% | 87% |  |
 | 95 | 7% | 81% |  |
 | 96 | 8% | 74% |  |

@@ -63,7 +63,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -85,23 +85,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 0.1% | 99.9% |  |
 | 133 | 0.2% | 99.8% |  |
 | 134 | 0.3% | 99.6% |  |
-| 135 | 0.4% | 99.3% |  |
+| 135 | 0.4% | 99.4% |  |
 | 136 | 0.7% | 98.9% |  |
 | 137 | 1.0% | 98% |  |
 | 138 | 2% | 97% |  |
 | 139 | 2% | 96% |  |
-| 140 | 3% | 93% |  |
+| 140 | 3% | 94% |  |
 | 141 | 4% | 90% |  |
 | 142 | 5% | 86% |  |
 | 143 | 6% | 81% |  |
 | 144 | 7% | 75% |  |
-| 145 | 8% | 67% |  |
-| 146 | 8% | 59% |  |
+| 145 | 8% | 68% |  |
+| 146 | 8% | 60% |  |
 | 147 | 8% | 51% | Median |
-| 148 | 8% | 42% |  |
-| 149 | 7% | 34% |  |
-| 150 | 6% | 27% |  |
-| 151 | 5% | 20% |  |
+| 148 | 8% | 43% |  |
+| 149 | 7% | 35% |  |
+| 150 | 7% | 27% |  |
+| 151 | 5% | 21% |  |
 | 152 | 4% | 15% |  |
 | 153 | 3% | 11% |  |
 | 154 | 2% | 7% |  |
