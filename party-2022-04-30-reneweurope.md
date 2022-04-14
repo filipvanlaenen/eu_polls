@@ -23,7 +23,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 9 | 7–10 | 7–11 | 6–11 | 6–12 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Polska 2050 | PL | | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -73,24 +73,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0% | 100% |  |
+| 85 | 0.1% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
-| 87 | 0.2% | 99.8% |  |
-| 88 | 0.5% | 99.6% |  |
-| 89 | 0.8% | 99.1% |  |
+| 87 | 0.3% | 99.8% |  |
+| 88 | 0.5% | 99.5% |  |
+| 89 | 0.9% | 99.0% |  |
 | 90 | 1.4% | 98% |  |
 | 91 | 2% | 97% |  |
-| 92 | 3% | 95% |  |
-| 93 | 4% | 92% |  |
+| 92 | 3% | 94% |  |
+| 93 | 4% | 91% |  |
 | 94 | 6% | 87% |  |
 | 95 | 7% | 81% |  |
 | 96 | 8% | 74% |  |
-| 97 | 9% | 66% |  |
-| 98 | 10% | 57% | Last Result, Median |
+| 97 | 9% | 65% |  |
+| 98 | 10% | 56% | Last Result, Median |
 | 99 | 10% | 47% |  |
 | 100 | 9% | 37% |  |
 | 101 | 8% | 28% |  |
-| 102 | 6% | 21% |  |
+| 102 | 6% | 20% |  |
 | 103 | 5% | 14% |  |
 | 104 | 4% | 9% |  |
 | 105 | 2% | 6% |  |

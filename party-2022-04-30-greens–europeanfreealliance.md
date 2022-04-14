@@ -36,7 +36,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká pirátská strana | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,6 +53,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -73,18 +73,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 5% | 93% |  |
 | 44 | 6% | 89% |  |
 | 45 | 8% | 82% |  |
-| 46 | 9% | 74% |  |
+| 46 | 9% | 75% |  |
 | 47 | 10% | 65% |  |
-| 48 | 10% | 55% | Median |
+| 48 | 10% | 56% | Median |
 | 49 | 10% | 45% |  |
-| 50 | 9% | 35% |  |
+| 50 | 9% | 36% |  |
 | 51 | 8% | 27% |  |
 | 52 | 6% | 19% |  |
 | 53 | 5% | 13% |  |
 | 54 | 3% | 8% |  |
 | 55 | 2% | 5% |  |
 | 56 | 1.3% | 2% |  |
-| 57 | 0.6% | 1.0% |  |
+| 57 | 0.7% | 1.1% |  |
 | 58 | 0.3% | 0.4% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
