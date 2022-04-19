@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 64 | 61–68 | 60–69 | 59–69 | 58–71 |
+| Identity and Democracy | EU | 76 | 64 | 61–68 | 60–69 | 59–70 | 58–71 |
 | Rassemblement national | FR | | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
-| Lega Nord | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
+| Lega Nord | IT | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Alternative für Deutschland | DE | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -42,23 +42,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.1% | 100% |  |
-| 57 | 0.4% | 99.9% |  |
-| 58 | 1.0% | 99.5% |  |
-| 59 | 2% | 98% |  |
-| 60 | 5% | 96% |  |
-| 61 | 8% | 91% |  |
-| 62 | 12% | 83% |  |
-| 63 | 14% | 72% |  |
-| 64 | 15% | 58% | Median |
-| 65 | 14% | 43% |  |
-| 66 | 11% | 29% |  |
-| 67 | 8% | 18% |  |
-| 68 | 5% | 10% |  |
-| 69 | 3% | 5% |  |
-| 70 | 1.4% | 2% |  |
-| 71 | 0.6% | 1.0% |  |
-| 72 | 0.2% | 0.4% |  |
-| 73 | 0.1% | 0.1% |  |
+| 57 | 0.3% | 99.9% |  |
+| 58 | 0.9% | 99.6% |  |
+| 59 | 2% | 98.7% |  |
+| 60 | 4% | 97% |  |
+| 61 | 7% | 92% |  |
+| 62 | 11% | 85% |  |
+| 63 | 13% | 75% |  |
+| 64 | 15% | 61% | Median |
+| 65 | 14% | 46% |  |
+| 66 | 12% | 32% |  |
+| 67 | 9% | 21% |  |
+| 68 | 6% | 12% |  |
+| 69 | 3% | 6% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.7% | 1.2% |  |
+| 72 | 0.3% | 0.5% |  |
+| 73 | 0.1% | 0.2% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |
 | 76 | 0% | 0% | Last Result |
