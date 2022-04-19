@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **144** seats (-3 seats)
+Current median: **145** seats (-2 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 138–149 | 137–151 | 135–152 | 133–155 |
-| Sozialdemokratische Partei Deutschlands | DE | | 24 | 20–27 | 20–27 | 19–28 | 19–28 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 139–150 | 138–151 | 137–153 | 134–155 |
+| Sozialdemokratische Partei Deutschlands | DE | | 23 | 22–26 | 21–27 | 21–27 | 20–27 |
+| Partido Socialista Obrero Español | ES | | 17 | 15–19 | 15–20 | 14–21 | 14–21 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
-| Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Partidul Social Democrat | RO | | 13 | 11–15 | 10–16 | 10–16 | 10–17 |
 | United Opposition | HU | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
@@ -42,7 +42,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -57,41 +57,40 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-04-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-03-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-04-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-03-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 130 | 0.1% | 100% |  |
-| 131 | 0.1% | 99.9% |  |
-| 132 | 0.2% | 99.8% |  |
-| 133 | 0.4% | 99.5% |  |
-| 134 | 0.7% | 99.1% |  |
-| 135 | 1.1% | 98% |  |
-| 136 | 2% | 97% |  |
-| 137 | 3% | 96% |  |
-| 138 | 4% | 93% |  |
-| 139 | 5% | 89% |  |
-| 140 | 6% | 85% |  |
-| 141 | 7% | 79% |  |
-| 142 | 8% | 72% |  |
-| 143 | 9% | 64% |  |
-| 144 | 9% | 55% | Median |
-| 145 | 9% | 46% |  |
-| 146 | 8% | 37% |  |
-| 147 | 7% | 28% | Last Result |
-| 148 | 6% | 21% |  |
-| 149 | 5% | 15% |  |
-| 150 | 4% | 10% |  |
-| 151 | 2% | 6% |  |
-| 152 | 2% | 4% |  |
-| 153 | 1.0% | 2% |  |
-| 154 | 0.6% | 1.2% |  |
-| 155 | 0.3% | 0.6% |  |
-| 156 | 0.2% | 0.3% |  |
-| 157 | 0.1% | 0.1% |  |
-| 158 | 0% | 0.1% |  |
+| 131 | 0% | 100% |  |
+| 132 | 0.1% | 99.9% |  |
+| 133 | 0.2% | 99.9% |  |
+| 134 | 0.3% | 99.7% |  |
+| 135 | 0.6% | 99.4% |  |
+| 136 | 1.1% | 98.8% |  |
+| 137 | 2% | 98% |  |
+| 138 | 3% | 96% |  |
+| 139 | 4% | 93% |  |
+| 140 | 5% | 89% |  |
+| 141 | 7% | 84% |  |
+| 142 | 8% | 77% |  |
+| 143 | 9% | 69% |  |
+| 144 | 10% | 60% |  |
+| 145 | 10% | 51% | Median |
+| 146 | 9% | 41% |  |
+| 147 | 8% | 32% | Last Result |
+| 148 | 7% | 24% |  |
+| 149 | 5% | 17% |  |
+| 150 | 4% | 12% |  |
+| 151 | 3% | 8% |  |
+| 152 | 2% | 5% |  |
+| 153 | 1.2% | 3% |  |
+| 154 | 0.7% | 2% |  |
+| 155 | 0.4% | 0.9% |  |
+| 156 | 0.2% | 0.4% |  |
+| 157 | 0.1% | 0.2% |  |
+| 158 | 0.1% | 0.1% |  |
 | 159 | 0% | 0% |  |
 
 
