@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–58 | 48–59 | 46–60 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–58 | 48–58 | 46–60 |
 | La France insoumise | FR | | 15 | 13–18 | 13–19 | 12–19 | 11–19 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -42,7 +42,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–5 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 
@@ -66,17 +66,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 2% | 98% |  |
 | 49 | 4% | 96% |  |
 | 50 | 7% | 92% |  |
-| 51 | 11% | 85% |  |
+| 51 | 11% | 84% |  |
 | 52 | 14% | 74% |  |
 | 53 | 15% | 60% | Median |
 | 54 | 14% | 45% |  |
 | 55 | 12% | 31% |  |
-| 56 | 9% | 20% |  |
+| 56 | 8% | 19% |  |
 | 57 | 5% | 11% |  |
 | 58 | 3% | 6% |  |
-| 59 | 2% | 3% |  |
-| 60 | 0.7% | 1.0% |  |
-| 61 | 0.3% | 0.4% |  |
+| 59 | 2% | 2% |  |
+| 60 | 0.6% | 1.0% |  |
+| 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
 
