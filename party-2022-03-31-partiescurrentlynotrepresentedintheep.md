@@ -34,7 +34,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,15 +65,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 1.1% | 99.9% |  |
 | 6 | 8% | 98.8% |  |
-| 7 | 23% | 91% |  |
-| 8 | 32% | 68% | Median |
+| 7 | 24% | 91% |  |
+| 8 | 32% | 67% | Median |
 | 9 | 22% | 35% |  |
 | 10 | 9% | 13% |  |
-| 11 | 3% | 5% |  |
-| 12 | 1.1% | 2% |  |
-| 13 | 0.6% | 0.9% |  |
-| 14 | 0.2% | 0.3% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 11 | 2% | 4% |  |
+| 12 | 0.9% | 2% |  |
+| 13 | 0.4% | 0.6% |  |
+| 14 | 0.2% | 0.2% |  |
+| 15 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **101** seats (+3 seats)
+Current median: **100** seats (+2 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 101 | 95–106 | 94–107 | 92–108 | 90–110 |
+| Renew Europe | EU | 98 | 100 | 95–106 | 94–107 | 92–108 | 90–110 |
 | La République en marche–Mouvement démocrate | FR | | 25 | 24–28 | 24–28 | 23–28 | 22–29 |
 | Freie Demokratische Partei | DE | | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -55,7 +55,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
@@ -79,17 +79,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.7% | 99.3% |  |
 | 92 | 1.2% | 98.6% |  |
 | 93 | 2% | 97% |  |
-| 94 | 3% | 96% |  |
+| 94 | 3% | 95% |  |
 | 95 | 4% | 93% |  |
-| 96 | 5% | 89% |  |
+| 96 | 5% | 88% |  |
 | 97 | 7% | 83% |  |
-| 98 | 8% | 77% | Last Result |
-| 99 | 9% | 69% |  |
-| 100 | 10% | 60% |  |
-| 101 | 10% | 50% | Median |
+| 98 | 8% | 76% | Last Result |
+| 99 | 9% | 68% |  |
+| 100 | 10% | 59% | Median |
+| 101 | 10% | 50% |  |
 | 102 | 9% | 40% |  |
 | 103 | 8% | 31% |  |
-| 104 | 7% | 23% |  |
+| 104 | 7% | 22% |  |
 | 105 | 5% | 16% |  |
 | 106 | 4% | 10% |  |
 | 107 | 3% | 6% |  |
