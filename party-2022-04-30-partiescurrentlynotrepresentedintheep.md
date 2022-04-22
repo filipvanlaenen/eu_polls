@@ -23,7 +23,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -66,14 +66,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.2% | 100% |  |
 | 6 | 3% | 99.8% |  |
 | 7 | 16% | 97% |  |
-| 8 | 33% | 81% | Median |
-| 9 | 28% | 48% |  |
-| 10 | 13% | 20% |  |
-| 11 | 5% | 7% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.8% | 1.0% |  |
-| 14 | 0.2% | 0.3% |  |
-| 15 | 0% | 0.1% |  |
+| 8 | 32% | 81% | Median |
+| 9 | 28% | 49% |  |
+| 10 | 13% | 22% |  |
+| 11 | 5% | 9% |  |
+| 12 | 2% | 4% |  |
+| 13 | 0.9% | 1.3% |  |
+| 14 | 0.3% | 0.4% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
