@@ -20,7 +20,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 147 | 142–153 | 140–155 | 139–156 | 137–159 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
-| Koalicja Obywatelska | PL | | 15 | 13–17 | 13–18 | 13–19 | 12–20 |
+| Koalicja Obywatelska | PL | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | Partido Popular | ES | | 15 | 13–16 | 12–16 | 11–17 | 11–17 |
 | Les Républicains | FR | | 8 | 7–10 | 7–11 | 6–11 | 5–11 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
@@ -99,13 +99,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 8% | 32% |  |
 | 151 | 6% | 24% |  |
 | 152 | 5% | 18% |  |
-| 153 | 4% | 12% |  |
-| 154 | 3% | 8% |  |
+| 153 | 4% | 13% |  |
+| 154 | 3% | 9% |  |
 | 155 | 2% | 6% |  |
-| 156 | 1.4% | 3% |  |
+| 156 | 1.4% | 4% |  |
 | 157 | 0.9% | 2% |  |
 | 158 | 0.5% | 1.2% |  |
-| 159 | 0.3% | 0.6% |  |
+| 159 | 0.3% | 0.7% |  |
 | 160 | 0.2% | 0.3% |  |
 | 161 | 0.1% | 0.2% |  |
 | 162 | 0% | 0.1% |  |
