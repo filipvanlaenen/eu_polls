@@ -25,7 +25,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 4 | 3–6 | 3–6 | 2–6 | 0–7 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
