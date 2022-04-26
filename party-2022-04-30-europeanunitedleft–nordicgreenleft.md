@@ -10,15 +10,15 @@ Last result: **39** seats (General Election of 26 May 2019)
 
 Current median: **53** seats (+14 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE, SI
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–58 | 48–58 | 46–60 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–57 | 49–57 | 48–58 | 46–60 |
 | La France insoumise | FR | | 15 | 13–18 | 13–19 | 12–19 | 11–19 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -30,7 +30,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -40,6 +39,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -65,18 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0.4% | 99.8% |  |
 | 47 | 1.0% | 99.4% |  |
 | 48 | 2% | 98% |  |
-| 49 | 4% | 96% |  |
+| 49 | 5% | 96% |  |
 | 50 | 8% | 92% |  |
 | 51 | 11% | 84% |  |
 | 52 | 14% | 73% |  |
 | 53 | 15% | 59% | Median |
 | 54 | 14% | 44% |  |
 | 55 | 12% | 30% |  |
-| 56 | 8% | 19% |  |
+| 56 | 8% | 18% |  |
 | 57 | 5% | 10% |  |
 | 58 | 3% | 5% |  |
-| 59 | 1.4% | 2% |  |
-| 60 | 0.6% | 0.9% |  |
+| 59 | 1.3% | 2% |  |
+| 60 | 0.5% | 0.8% |  |
 | 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |

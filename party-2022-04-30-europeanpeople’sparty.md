@@ -18,13 +18,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 148 | 141–154 | 139–156 | 138–158 | 134–161 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 16–20 | 16–20 | 16–21 | 15–22 |
-| Partido Popular | ES | | 16 | 14–18 | 13–19 | 12–19 | 11–20 |
+| European People’s Party | EU | 187 | 148 | 141–154 | 140–156 | 138–158 | 134–161 |
+| Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–20 | 16–21 | 15–22 |
+| Partido Popular | ES | | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Partido Social Democrata | PT | | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–10 | 5–10 |
 | Les Républicains | FR | | 7 | 5–9 | 5–9 | 0–9 | 0–10 |
 | Partidul Național Liberal | RO | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -36,7 +36,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -45,7 +45,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,7 +67,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
-| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -95,14 +95,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 4% | 90% |  |
 | 143 | 5% | 86% |  |
 | 144 | 6% | 81% |  |
-| 145 | 6% | 76% |  |
+| 145 | 7% | 75% |  |
 | 146 | 7% | 69% |  |
 | 147 | 8% | 62% |  |
 | 148 | 8% | 54% | Median |
 | 149 | 8% | 46% |  |
 | 150 | 7% | 39% |  |
 | 151 | 7% | 31% |  |
-| 152 | 6% | 25% |  |
+| 152 | 6% | 24% |  |
 | 153 | 5% | 19% |  |
 | 154 | 4% | 14% |  |
 | 155 | 3% | 10% |  |
