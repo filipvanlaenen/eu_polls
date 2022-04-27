@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (+9 seats)
+Current median: **10** seats (+10 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 7–11 | 7–11 | 7–12 | 6–14 |
-| Gibanje Svoboda [SI] (*) | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–13 | 8–14 | 8–15 |
+| Gibanje Svoboda [SI] (*) | SI | | 5 | 5 | 5 | 5 | 5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -62,17 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 2% | 99.9% |  |
-| 7 | 11% | 98% |  |
-| 8 | 27% | 87% |  |
-| 9 | 29% | 60% | Median |
-| 10 | 18% | 30% |  |
-| 11 | 8% | 12% |  |
-| 12 | 3% | 5% |  |
-| 13 | 1.3% | 2% |  |
-| 14 | 0.5% | 0.6% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 16% | 97% |  |
+| 10 | 32% | 82% | Median |
+| 11 | 28% | 49% |  |
+| 12 | 13% | 21% |  |
+| 13 | 5% | 8% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.9% | 1.2% |  |
+| 16 | 0.3% | 0.3% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 

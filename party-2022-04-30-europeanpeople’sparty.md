@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 148 | 141–154 | 140–156 | 138–158 | 134–161 |
+| European People’s Party | EU | 187 | 148 | 141–154 | 139–156 | 137–157 | 134–160 |
 | Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–20 | 16–21 | 15–22 |
 | Partido Popular | ES | | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
@@ -36,7 +36,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3 | 3 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -63,11 +63,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
-| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -81,39 +81,39 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 130 | 0% | 100% |  |
-| 131 | 0% | 99.9% |  |
+| 131 | 0.1% | 99.9% |  |
 | 132 | 0.1% | 99.9% |  |
-| 133 | 0.1% | 99.8% |  |
-| 134 | 0.2% | 99.7% |  |
-| 135 | 0.3% | 99.5% |  |
-| 136 | 0.5% | 99.1% |  |
-| 137 | 0.8% | 98.6% |  |
-| 138 | 1.2% | 98% |  |
-| 139 | 2% | 97% |  |
-| 140 | 2% | 95% |  |
-| 141 | 3% | 93% |  |
-| 142 | 4% | 90% |  |
-| 143 | 5% | 86% |  |
-| 144 | 6% | 81% |  |
-| 145 | 7% | 75% |  |
-| 146 | 7% | 69% |  |
-| 147 | 8% | 62% |  |
-| 148 | 8% | 54% | Median |
-| 149 | 8% | 46% |  |
-| 150 | 7% | 39% |  |
-| 151 | 7% | 31% |  |
-| 152 | 6% | 24% |  |
-| 153 | 5% | 19% |  |
-| 154 | 4% | 14% |  |
-| 155 | 3% | 10% |  |
-| 156 | 2% | 7% |  |
-| 157 | 2% | 4% |  |
-| 158 | 1.1% | 3% |  |
-| 159 | 0.7% | 2% |  |
-| 160 | 0.4% | 1.0% |  |
-| 161 | 0.3% | 0.6% |  |
-| 162 | 0.1% | 0.3% |  |
-| 163 | 0.1% | 0.2% |  |
+| 133 | 0.2% | 99.8% |  |
+| 134 | 0.3% | 99.6% |  |
+| 135 | 0.4% | 99.4% |  |
+| 136 | 0.6% | 99.0% |  |
+| 137 | 0.9% | 98% |  |
+| 138 | 1.3% | 97% |  |
+| 139 | 2% | 96% |  |
+| 140 | 3% | 94% |  |
+| 141 | 3% | 92% |  |
+| 142 | 4% | 88% |  |
+| 143 | 5% | 84% |  |
+| 144 | 6% | 79% |  |
+| 145 | 7% | 73% |  |
+| 146 | 7% | 66% |  |
+| 147 | 8% | 58% |  |
+| 148 | 8% | 51% | Median |
+| 149 | 8% | 43% |  |
+| 150 | 7% | 35% |  |
+| 151 | 6% | 28% |  |
+| 152 | 5% | 22% |  |
+| 153 | 4% | 16% |  |
+| 154 | 4% | 12% |  |
+| 155 | 3% | 8% |  |
+| 156 | 2% | 5% |  |
+| 157 | 1.3% | 4% |  |
+| 158 | 0.9% | 2% |  |
+| 159 | 0.6% | 1.3% |  |
+| 160 | 0.3% | 0.8% |  |
+| 161 | 0.2% | 0.4% |  |
+| 162 | 0.1% | 0.2% |  |
+| 163 | 0.1% | 0.1% |  |
 | 164 | 0% | 0.1% |  |
 | 165 | 0% | 0% |  |
 | 166 | 0% | 0% |  |
