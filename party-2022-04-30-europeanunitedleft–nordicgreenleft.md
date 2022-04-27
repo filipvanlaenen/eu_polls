@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+13 seats)
+Current median: **53** seats (+14 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 52 | 49–56 | 48–57 | 47–58 | 46–59 |
-| La France insoumise | FR | | 15 | 13–18 | 13–19 | 12–19 | 11–19 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 51–56 | 50–57 | 49–58 | 48–59 |
+| La France insoumise | FR | | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -40,8 +40,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
-| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–5 |
+| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -60,24 +59,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
-| 45 | 0.3% | 99.9% |  |
-| 46 | 0.7% | 99.6% |  |
-| 47 | 2% | 98.9% |  |
-| 48 | 4% | 97% |  |
-| 49 | 6% | 94% |  |
-| 50 | 10% | 87% |  |
-| 51 | 13% | 77% |  |
-| 52 | 15% | 64% | Median |
-| 53 | 15% | 49% |  |
-| 54 | 13% | 34% |  |
-| 55 | 9% | 22% |  |
-| 56 | 6% | 12% |  |
-| 57 | 3% | 6% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0% | 100% |  |
+| 47 | 0.2% | 100% |  |
+| 48 | 0.8% | 99.7% |  |
+| 49 | 3% | 98.9% |  |
+| 50 | 6% | 96% |  |
+| 51 | 11% | 90% |  |
+| 52 | 16% | 80% |  |
+| 53 | 18% | 64% | Median |
+| 54 | 17% | 46% |  |
+| 55 | 13% | 29% |  |
+| 56 | 8% | 15% |  |
+| 57 | 4% | 7% |  |
 | 58 | 2% | 3% |  |
-| 59 | 0.7% | 1.1% |  |
-| 60 | 0.3% | 0.4% |  |
-| 61 | 0.1% | 0.1% |  |
+| 59 | 0.6% | 0.8% |  |
+| 60 | 0.2% | 0.2% |  |
+| 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
 
