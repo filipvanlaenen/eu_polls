@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **146** seats (-41 seats)
+Current median: **147** seats (-40 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 146 | 140–153 | 139–154 | 137–156 | 135–159 |
-| Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–20 | 16–21 | 15–22 |
+| European People’s Party | EU | 187 | 147 | 140–153 | 139–155 | 137–156 | 135–159 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 16–20 | 16–21 | 16–21 | 15–22 |
 | Partido Popular | ES | | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–10 | 5–10 |
+| Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–10 | 5–11 |
 | Les Républicains | FR | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Partidul Național Liberal | RO | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
-| Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3 | 3 |
@@ -82,36 +82,36 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 132 | 0.1% | 100% |  |
 | 133 | 0.1% | 99.9% |  |
-| 134 | 0.3% | 99.8% |  |
+| 134 | 0.2% | 99.8% |  |
 | 135 | 0.4% | 99.5% |  |
-| 136 | 0.8% | 99.1% |  |
-| 137 | 1.2% | 98% |  |
+| 136 | 0.7% | 99.1% |  |
+| 137 | 1.1% | 98% |  |
 | 138 | 2% | 97% |  |
-| 139 | 3% | 95% |  |
+| 139 | 2% | 96% |  |
 | 140 | 3% | 93% |  |
-| 141 | 4% | 89% |  |
-| 142 | 5% | 85% |  |
-| 143 | 6% | 79% |  |
-| 144 | 7% | 73% |  |
-| 145 | 8% | 66% |  |
-| 146 | 8% | 58% | Median |
-| 147 | 8% | 50% |  |
-| 148 | 8% | 41% |  |
-| 149 | 7% | 33% |  |
-| 150 | 6% | 26% |  |
-| 151 | 5% | 20% |  |
-| 152 | 4% | 15% |  |
-| 153 | 3% | 10% |  |
-| 154 | 2% | 7% |  |
-| 155 | 2% | 5% |  |
-| 156 | 1.2% | 3% |  |
-| 157 | 0.7% | 2% |  |
-| 158 | 0.5% | 1.0% |  |
-| 159 | 0.3% | 0.6% |  |
-| 160 | 0.2% | 0.3% |  |
+| 141 | 4% | 90% |  |
+| 142 | 5% | 86% |  |
+| 143 | 6% | 81% |  |
+| 144 | 7% | 74% |  |
+| 145 | 8% | 67% |  |
+| 146 | 8% | 60% |  |
+| 147 | 8% | 52% | Median |
+| 148 | 8% | 44% |  |
+| 149 | 7% | 36% |  |
+| 150 | 7% | 28% |  |
+| 151 | 6% | 22% |  |
+| 152 | 5% | 16% |  |
+| 153 | 4% | 12% |  |
+| 154 | 3% | 8% |  |
+| 155 | 2% | 6% |  |
+| 156 | 1.4% | 4% |  |
+| 157 | 0.9% | 2% |  |
+| 158 | 0.6% | 1.3% |  |
+| 159 | 0.3% | 0.7% |  |
+| 160 | 0.2% | 0.4% |  |
 | 161 | 0.1% | 0.2% |  |
-| 162 | 0% | 0.1% |  |
-| 163 | 0% | 0% |  |
+| 162 | 0.1% | 0.1% |  |
+| 163 | 0% | 0.1% |  |
 | 164 | 0% | 0% |  |
 | 165 | 0% | 0% |  |
 | 166 | 0% | 0% |  |

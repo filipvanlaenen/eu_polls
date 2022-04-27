@@ -38,7 +38,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -64,16 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 2% | 99.9% |  |
-| 9 | 16% | 97% |  |
-| 10 | 32% | 82% | Median |
-| 11 | 28% | 49% |  |
-| 12 | 13% | 21% |  |
-| 13 | 5% | 8% |  |
+| 8 | 3% | 99.9% |  |
+| 9 | 18% | 97% |  |
+| 10 | 35% | 79% | Median |
+| 11 | 27% | 44% |  |
+| 12 | 11% | 18% |  |
+| 13 | 4% | 7% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.9% | 1.2% |  |
-| 16 | 0.3% | 0.3% |  |
-| 17 | 0.1% | 0.1% |  |
+| 15 | 0.7% | 1.0% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 

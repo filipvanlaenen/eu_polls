@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 54 | 50–58 | 48–59 | 47–60 | 45–62 |
-| Bündnis 90/Die Grünen | DE | | 18 | 15–21 | 14–21 | 13–21 | 12–21 |
+| Greens–European Free Alliance | EU | 67 | 54 | 49–58 | 48–59 | 47–60 | 45–61 |
+| Bündnis 90/Die Grünen | DE | | 18 | 15–19 | 14–19 | 13–20 | 12–21 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -35,9 +35,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká pirátská strana | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -53,6 +52,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0.1% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
 | 45 | 0.4% | 99.7% |  |
-| 46 | 0.8% | 99.4% |  |
-| 47 | 1.5% | 98.6% |  |
+| 46 | 1.0% | 99.3% |  |
+| 47 | 2% | 98% |  |
 | 48 | 3% | 97% |  |
-| 49 | 4% | 95% |  |
-| 50 | 6% | 91% |  |
-| 51 | 8% | 85% |  |
-| 52 | 10% | 77% |  |
-| 53 | 11% | 67% |  |
-| 54 | 12% | 56% | Median |
-| 55 | 12% | 44% |  |
-| 56 | 10% | 32% |  |
-| 57 | 8% | 22% |  |
-| 58 | 6% | 14% |  |
-| 59 | 4% | 8% |  |
-| 60 | 2% | 4% |  |
-| 61 | 1.1% | 2% |  |
-| 62 | 0.4% | 0.6% |  |
-| 63 | 0.1% | 0.2% |  |
+| 49 | 5% | 93% |  |
+| 50 | 7% | 89% |  |
+| 51 | 9% | 82% |  |
+| 52 | 11% | 73% |  |
+| 53 | 12% | 63% |  |
+| 54 | 12% | 51% | Median |
+| 55 | 11% | 39% |  |
+| 56 | 10% | 28% |  |
+| 57 | 8% | 18% |  |
+| 58 | 5% | 11% |  |
+| 59 | 3% | 6% |  |
+| 60 | 2% | 3% |  |
+| 61 | 0.7% | 1.0% |  |
+| 62 | 0.2% | 0.3% |  |
+| 63 | 0.1% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |

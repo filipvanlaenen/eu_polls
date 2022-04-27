@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **93** seats (-5 seats)
+Current median: **94** seats (-4 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 88–99 | 86–100 | 85–102 | 83–105 |
+| Renew Europe | EU | 98 | 94 | 88–99 | 87–101 | 86–102 | 83–105 |
 | La République en marche–Mouvement démocrate | FR | | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 8 | 7–12 | 7–13 | 7–13 | 6–14 |
@@ -35,14 +35,14 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
-| Venstre | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -73,25 +73,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.2% | 99.8% |  |
-| 83 | 0.4% | 99.6% |  |
-| 84 | 0.8% | 99.2% |  |
-| 85 | 1.4% | 98% |  |
-| 86 | 2% | 97% |  |
-| 87 | 3% | 95% |  |
-| 88 | 4% | 92% |  |
-| 89 | 6% | 88% |  |
-| 90 | 7% | 82% |  |
-| 91 | 8% | 75% |  |
-| 92 | 9% | 67% |  |
-| 93 | 9% | 58% | Median |
-| 94 | 9% | 49% |  |
-| 95 | 9% | 40% |  |
-| 96 | 8% | 31% |  |
-| 97 | 7% | 24% |  |
-| 98 | 5% | 17% | Last Result |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.3% | 99.7% |  |
+| 84 | 0.6% | 99.4% |  |
+| 85 | 1.1% | 98.7% |  |
+| 86 | 2% | 98% |  |
+| 87 | 3% | 96% |  |
+| 88 | 4% | 93% |  |
+| 89 | 5% | 89% |  |
+| 90 | 7% | 84% |  |
+| 91 | 8% | 78% |  |
+| 92 | 9% | 70% |  |
+| 93 | 9% | 61% |  |
+| 94 | 10% | 51% | Median |
+| 95 | 9% | 42% |  |
+| 96 | 8% | 33% |  |
+| 97 | 7% | 25% |  |
+| 98 | 5% | 18% | Last Result |
 | 99 | 4% | 12% |  |
 | 100 | 3% | 8% |  |
 | 101 | 2% | 5% |  |
