@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 44–54 | 43–56 | 42–57 | 39–59 |
+| Greens–European Free Alliance | EU | 67 | 49 | 44–54 | 43–56 | 41–57 | 39–59 |
 | Bündnis 90/Die Grünen | DE | | 18 | 15–21 | 14–21 | 13–21 | 12–21 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -46,7 +46,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,15 +65,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.1% | 99.9% |  |
+| 38 | 0.2% | 99.9% |  |
 | 39 | 0.3% | 99.8% |  |
 | 40 | 0.7% | 99.4% |  |
-| 41 | 1.2% | 98.8% |  |
-| 42 | 2% | 98% |  |
+| 41 | 1.2% | 98.7% |  |
+| 42 | 2% | 97% |  |
 | 43 | 3% | 95% |  |
 | 44 | 5% | 92% |  |
 | 45 | 6% | 88% |  |
-| 46 | 8% | 82% |  |
+| 46 | 8% | 81% |  |
 | 47 | 9% | 74% |  |
 | 48 | 10% | 65% |  |
 | 49 | 10% | 56% | Median |
