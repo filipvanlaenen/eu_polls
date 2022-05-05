@@ -18,9 +18,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–13 | 8–14 | 8–15 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–13 | 9–14 | 8–15 |
 | Gibanje Svoboda [SI] (*) | SI | | 5 | 5 | 5 | 5 | 5 |
-| BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
+| BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0–2 | 0–3 | 0–3 |
@@ -28,7 +28,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -63,17 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 3% | 99.9% |  |
-| 9 | 18% | 97% |  |
-| 10 | 35% | 79% | Median |
-| 11 | 27% | 44% |  |
-| 12 | 11% | 18% |  |
-| 13 | 4% | 7% |  |
+| 7 | 0% | 100% |  |
+| 8 | 2% | 100% |  |
+| 9 | 19% | 98% |  |
+| 10 | 37% | 79% | Median |
+| 11 | 26% | 42% |  |
+| 12 | 10% | 16% |  |
+| 13 | 4% | 6% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.7% | 1.0% |  |
-| 16 | 0.2% | 0.3% |  |
-| 17 | 0% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 15 | 0.7% | 0.9% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 

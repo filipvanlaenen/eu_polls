@@ -26,14 +26,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die Linke | DE | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,17 +64,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% |  |
 | 47 | 0.2% | 100% |  |
 | 48 | 0.7% | 99.8% |  |
-| 49 | 2% | 99.1% |  |
-| 50 | 6% | 97% |  |
-| 51 | 11% | 91% |  |
-| 52 | 16% | 81% |  |
-| 53 | 19% | 65% | Median |
-| 54 | 18% | 46% |  |
-| 55 | 13% | 28% |  |
-| 56 | 8% | 15% |  |
+| 49 | 2% | 99.2% |  |
+| 50 | 5% | 97% |  |
+| 51 | 10% | 92% |  |
+| 52 | 15% | 81% |  |
+| 53 | 19% | 66% | Median |
+| 54 | 18% | 47% |  |
+| 55 | 14% | 30% |  |
+| 56 | 9% | 16% |  |
 | 57 | 4% | 7% |  |
 | 58 | 2% | 3% |  |
-| 59 | 0.6% | 0.9% |  |
+| 59 | 0.7% | 0.9% |  |
 | 60 | 0.2% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
