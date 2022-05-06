@@ -24,7 +24,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 10 | 8–12 | 8–12 | 7–12 | 7–13 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
+| Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |

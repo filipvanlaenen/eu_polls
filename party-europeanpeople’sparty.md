@@ -44,7 +44,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Centre démocrate humaniste | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch Appèl | NL | | 1 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -85,14 +85,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 0.2% | 99.9% |  |
 | 134 | 0.3% | 99.7% |  |
 | 135 | 0.5% | 99.4% |  |
-| 136 | 0.8% | 98.9% |  |
+| 136 | 0.9% | 98.9% |  |
 | 137 | 1.3% | 98% |  |
 | 138 | 2% | 97% |  |
 | 139 | 3% | 95% |  |
 | 140 | 4% | 92% |  |
 | 141 | 5% | 89% |  |
 | 142 | 6% | 84% |  |
-| 143 | 6% | 79% |  |
+| 143 | 6% | 78% |  |
 | 144 | 7% | 72% |  |
 | 145 | 8% | 65% |  |
 | 146 | 8% | 57% | Median |
