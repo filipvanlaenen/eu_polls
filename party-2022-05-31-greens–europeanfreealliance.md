@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (-13 seats)
+Current median: **55** seats (-12 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 54 | 50–58 | 48–59 | 47–60 | 45–62 |
-| Bündnis 90/Die Grünen | DE | | 18 | 15–19 | 14–19 | 13–20 | 12–21 |
+| Greens–European Free Alliance | EU | 67 | 55 | 51–59 | 50–60 | 49–61 | 47–62 |
+| Bündnis 90/Die Grünen | DE | | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
 | Europe Écologie Les Verts | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -37,6 +37,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká pirátská strana | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,7 +53,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -64,28 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
-| 44 | 0.1% | 99.9% |  |
-| 45 | 0.3% | 99.8% |  |
-| 46 | 0.7% | 99.5% |  |
-| 47 | 1.5% | 98.7% |  |
-| 48 | 3% | 97% |  |
-| 49 | 4% | 95% |  |
-| 50 | 6% | 91% |  |
-| 51 | 8% | 85% |  |
-| 52 | 10% | 77% |  |
-| 53 | 11% | 67% |  |
-| 54 | 12% | 56% | Median |
-| 55 | 12% | 44% |  |
-| 56 | 10% | 32% |  |
-| 57 | 8% | 22% |  |
-| 58 | 6% | 14% |  |
-| 59 | 4% | 8% |  |
-| 60 | 2% | 4% |  |
-| 61 | 1.0% | 2% |  |
-| 62 | 0.4% | 0.6% |  |
-| 63 | 0.1% | 0.2% |  |
-| 64 | 0% | 0% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0.2% | 99.9% |  |
+| 47 | 0.6% | 99.7% |  |
+| 48 | 1.2% | 99.1% |  |
+| 49 | 2% | 98% |  |
+| 50 | 4% | 95% |  |
+| 51 | 6% | 91% |  |
+| 52 | 9% | 85% |  |
+| 53 | 11% | 77% |  |
+| 54 | 12% | 66% |  |
+| 55 | 13% | 53% | Median |
+| 56 | 12% | 40% |  |
+| 57 | 10% | 28% |  |
+| 58 | 8% | 18% |  |
+| 59 | 5% | 11% |  |
+| 60 | 3% | 6% |  |
+| 61 | 2% | 3% |  |
+| 62 | 0.7% | 1.1% |  |
+| 63 | 0.3% | 0.4% |  |
+| 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% | Last Result |
