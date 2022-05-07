@@ -10,9 +10,9 @@ Last result: **76** seats (General Election of 26 May 2019)
 
 Current median: **63** seats (-13 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
+> AT, BE, CZ, DE, EE, FI, FR, IT, NL, PT, SK
 
 ### Confidence Intervals
 
@@ -29,8 +29,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Chega | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -43,20 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
 | 56 | 0.3% | 99.9% |  |
-| 57 | 0.8% | 99.6% |  |
-| 58 | 2% | 98.8% |  |
+| 57 | 0.9% | 99.6% |  |
+| 58 | 2% | 98.7% |  |
 | 59 | 4% | 97% |  |
-| 60 | 7% | 93% |  |
+| 60 | 7% | 92% |  |
 | 61 | 11% | 85% |  |
-| 62 | 13% | 75% |  |
+| 62 | 14% | 74% |  |
 | 63 | 15% | 61% | Median |
 | 64 | 14% | 46% |  |
 | 65 | 12% | 32% |  |
-| 66 | 9% | 20% |  |
+| 66 | 9% | 19% |  |
 | 67 | 6% | 11% |  |
 | 68 | 3% | 5% |  |
-| 69 | 1.5% | 2% |  |
-| 70 | 0.6% | 0.9% |  |
+| 69 | 1.4% | 2% |  |
+| 70 | 0.6% | 0.8% |  |
 | 71 | 0.2% | 0.3% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
