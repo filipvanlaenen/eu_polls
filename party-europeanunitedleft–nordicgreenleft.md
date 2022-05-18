@@ -18,12 +18,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 50–56 | 49–57 | 48–59 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–56 | 50–57 | 49–58 | 48–59 |
 | La France insoumise | FR | | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–10 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Die Linke | DE | | 4 | 3–5 | 3–6 | 2–6 | 2–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -63,19 +63,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0.1% | 100% |  |
 | 47 | 0.3% | 99.9% |  |
-| 48 | 1.0% | 99.7% |  |
-| 49 | 3% | 98.7% |  |
-| 50 | 7% | 96% |  |
+| 48 | 1.0% | 99.6% |  |
+| 49 | 3% | 98.6% |  |
+| 50 | 6% | 96% |  |
 | 51 | 12% | 89% |  |
-| 52 | 17% | 77% |  |
-| 53 | 19% | 60% | Median |
-| 54 | 17% | 40% |  |
-| 55 | 12% | 23% |  |
-| 56 | 7% | 11% |  |
-| 57 | 3% | 5% |  |
-| 58 | 1.1% | 2% |  |
-| 59 | 0.4% | 0.5% |  |
-| 60 | 0.1% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 52 | 16% | 78% |  |
+| 53 | 19% | 61% | Median |
+| 54 | 17% | 43% |  |
+| 55 | 12% | 26% |  |
+| 56 | 7% | 14% |  |
+| 57 | 4% | 6% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.6% | 0.9% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 
