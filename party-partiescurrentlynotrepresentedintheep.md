@@ -20,7 +20,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–13 | 9–14 | 8–15 |
 | Gibanje Svoboda [SI] (*) | SI | | 5 | 5 | 5 | 5 | 5 |
-| BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
+| BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0–2 | 0–3 | 0–3 |
@@ -64,15 +64,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 2% | 100% |  |
-| 9 | 20% | 98% |  |
-| 10 | 39% | 79% | Median |
-| 11 | 26% | 40% |  |
-| 12 | 8% | 14% |  |
-| 13 | 3% | 6% |  |
+| 8 | 0.9% | 100% |  |
+| 9 | 15% | 99.1% |  |
+| 10 | 39% | 84% | Median |
+| 11 | 29% | 44% |  |
+| 12 | 9% | 16% |  |
+| 13 | 4% | 6% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.6% | 0.8% |  |
-| 16 | 0.1% | 0.2% |  |
+| 15 | 0.7% | 0.9% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 

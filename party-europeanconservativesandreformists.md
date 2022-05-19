@@ -25,9 +25,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3–4 |
-| Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -36,7 +36,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -62,9 +62,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.9% |  |
+| 70 | 0.3% | 99.8% |  |
 | 71 | 0.6% | 99.6% |  |
-| 72 | 1.1% | 99.0% |  |
+| 72 | 1.2% | 99.0% |  |
 | 73 | 2% | 98% |  |
 | 74 | 3% | 96% |  |
 | 75 | 5% | 92% |  |
