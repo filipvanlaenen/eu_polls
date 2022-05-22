@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **149** seats (-38 seats)
+Current median: **150** seats (-37 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 149 | 143–155 | 141–157 | 140–158 | 137–161 |
+| European People’s Party | EU | 187 | 150 | 144–155 | 143–157 | 141–158 | 139–161 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
+| Koalicja Obywatelska | PL | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | Partido Popular | ES | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
-| Koalicja Obywatelska | PL | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
 | Les Républicains | FR | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -38,6 +38,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3 | 3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Koalicja Polska | PL | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -59,7 +60,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
-| Koalicja Polska | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -80,37 +80,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 134 | 0% | 100% |  |
-| 135 | 0.1% | 99.9% |  |
-| 136 | 0.2% | 99.8% |  |
-| 137 | 0.3% | 99.7% |  |
-| 138 | 0.6% | 99.3% |  |
-| 139 | 0.9% | 98.7% |  |
-| 140 | 1.4% | 98% |  |
-| 141 | 2% | 96% |  |
-| 142 | 3% | 94% |  |
-| 143 | 4% | 91% |  |
-| 144 | 5% | 88% |  |
-| 145 | 6% | 83% |  |
-| 146 | 7% | 77% |  |
-| 147 | 8% | 70% |  |
-| 148 | 8% | 62% |  |
-| 149 | 8% | 54% | Median |
-| 150 | 8% | 46% |  |
-| 151 | 8% | 38% |  |
-| 152 | 7% | 30% |  |
-| 153 | 6% | 23% |  |
-| 154 | 5% | 17% |  |
-| 155 | 4% | 12% |  |
+| 136 | 0% | 100% |  |
+| 137 | 0.1% | 99.9% |  |
+| 138 | 0.2% | 99.8% |  |
+| 139 | 0.4% | 99.6% |  |
+| 140 | 0.8% | 99.2% |  |
+| 141 | 1.3% | 98% |  |
+| 142 | 2% | 97% |  |
+| 143 | 3% | 95% |  |
+| 144 | 4% | 92% |  |
+| 145 | 5% | 88% |  |
+| 146 | 7% | 82% |  |
+| 147 | 8% | 76% |  |
+| 148 | 9% | 68% |  |
+| 149 | 9% | 59% |  |
+| 150 | 9% | 50% | Median |
+| 151 | 9% | 41% |  |
+| 152 | 8% | 33% |  |
+| 153 | 7% | 25% |  |
+| 154 | 5% | 19% |  |
+| 155 | 4% | 13% |  |
 | 156 | 3% | 9% |  |
 | 157 | 2% | 6% |  |
-| 158 | 1.4% | 4% |  |
-| 159 | 0.9% | 2% |  |
+| 158 | 1.5% | 4% |  |
+| 159 | 1.0% | 2% |  |
 | 160 | 0.6% | 1.3% |  |
-| 161 | 0.4% | 0.8% |  |
+| 161 | 0.3% | 0.7% |  |
 | 162 | 0.2% | 0.4% |  |
 | 163 | 0.1% | 0.2% |  |
-| 164 | 0.1% | 0.1% |  |
+| 164 | 0% | 0.1% |  |
 | 165 | 0% | 0% |  |
 | 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |

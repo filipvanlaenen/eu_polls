@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, CZ, DK, FR, IE, IT, LU, LV, NL, PL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, FR, IE, IT, LU, LV, NL, RO, SI, SK
 
 ## Seats
 
@@ -18,12 +18,11 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–14 | 9–14 | 8–16 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–13 | 9–14 | 8–16 |
 | Gibanje Svoboda [SI] (*) | SI | | 5 | 5 | 5 | 5 | 5 |
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -66,14 +65,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 1.0% | 100% |  |
 | 9 | 18% | 99.0% |  |
-| 10 | 42% | 81% | Median |
-| 11 | 24% | 39% |  |
-| 12 | 7% | 15% |  |
-| 13 | 3% | 9% |  |
+| 10 | 43% | 81% | Median |
+| 11 | 24% | 38% |  |
+| 12 | 6% | 14% |  |
+| 13 | 3% | 8% |  |
 | 14 | 3% | 5% |  |
 | 15 | 2% | 2% |  |
-| 16 | 0.5% | 0.7% |  |
-| 17 | 0.1% | 0.2% |  |
+| 16 | 0.5% | 0.6% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 
