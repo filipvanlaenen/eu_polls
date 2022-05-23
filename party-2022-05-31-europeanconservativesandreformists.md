@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 75–84 | 74–85 | 73–86 | 71–89 |
+| European Conservatives and Reformists | EU | 61 | 80 | 75–84 | 74–85 | 73–87 | 71–89 |
 | Zjednoczona Prawica | PL | | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
 | Fratelli d’Italia | IT | | 19 | 16–21 | 15–21 | 15–22 | 14–23 |
 | Vox | ES | | 11 | 10–14 | 9–14 | 9–15 | 8–16 |
@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,25 +63,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
-| 71 | 0.6% | 99.6% |  |
+| 71 | 0.5% | 99.6% |  |
 | 72 | 1.1% | 99.0% |  |
 | 73 | 2% | 98% |  |
 | 74 | 3% | 96% |  |
 | 75 | 5% | 93% |  |
 | 76 | 7% | 88% |  |
-| 77 | 9% | 81% |  |
+| 77 | 8% | 81% |  |
 | 78 | 10% | 73% |  |
 | 79 | 11% | 63% |  |
-| 80 | 11% | 51% | Median |
-| 81 | 10% | 40% |  |
+| 80 | 11% | 52% | Median |
+| 81 | 10% | 41% |  |
 | 82 | 9% | 30% |  |
 | 83 | 7% | 21% |  |
 | 84 | 5% | 14% |  |
-| 85 | 4% | 8% |  |
+| 85 | 4% | 9% |  |
 | 86 | 2% | 5% |  |
-| 87 | 1.3% | 2% |  |
-| 88 | 0.7% | 1.2% |  |
-| 89 | 0.3% | 0.5% |  |
+| 87 | 1.3% | 3% |  |
+| 88 | 0.7% | 1.3% |  |
+| 89 | 0.3% | 0.6% |  |
 | 90 | 0.1% | 0.2% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
