@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, ES, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DE, ES, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -33,7 +33,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
