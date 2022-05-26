@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 151 | 145–156 | 144–158 | 143–159 | 140–162 |
+| European People’s Party | EU | 187 | 151 | 146–157 | 144–159 | 143–160 | 141–163 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 17–22 | 17–23 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | Partido Popular | ES | | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
@@ -26,7 +26,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–8 | 6–9 | 5–10 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
-| Partido Social Democrata | PT | | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
+| Partido Social Democrata | PT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–9 | 5–9 | 5–9 | 5–10 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 5 | 5 | 4–6 | 4–6 |
@@ -57,7 +57,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -80,35 +80,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0.1% | 100% |  |
+| 138 | 0% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
-| 140 | 0.3% | 99.8% |  |
-| 141 | 0.6% | 99.5% |  |
-| 142 | 1.0% | 98.9% |  |
-| 143 | 2% | 98% |  |
-| 144 | 3% | 96% |  |
-| 145 | 4% | 94% |  |
-| 146 | 5% | 90% |  |
-| 147 | 7% | 85% |  |
-| 148 | 8% | 78% |  |
-| 149 | 9% | 70% |  |
-| 150 | 9% | 61% |  |
-| 151 | 9% | 52% | Median |
-| 152 | 9% | 43% |  |
-| 153 | 8% | 34% |  |
-| 154 | 7% | 26% |  |
-| 155 | 6% | 19% |  |
-| 156 | 4% | 14% |  |
-| 157 | 3% | 9% |  |
-| 158 | 2% | 6% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.0% | 2% |  |
-| 161 | 0.6% | 1.3% |  |
-| 162 | 0.3% | 0.7% |  |
-| 163 | 0.2% | 0.4% |  |
-| 164 | 0.1% | 0.2% |  |
-| 165 | 0% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 140 | 0.2% | 99.8% |  |
+| 141 | 0.4% | 99.6% |  |
+| 142 | 0.8% | 99.2% |  |
+| 143 | 1.3% | 98% |  |
+| 144 | 2% | 97% |  |
+| 145 | 3% | 95% |  |
+| 146 | 4% | 92% |  |
+| 147 | 6% | 88% |  |
+| 148 | 7% | 82% |  |
+| 149 | 8% | 75% |  |
+| 150 | 9% | 67% |  |
+| 151 | 9% | 58% | Median |
+| 152 | 9% | 49% |  |
+| 153 | 8% | 40% |  |
+| 154 | 7% | 31% |  |
+| 155 | 6% | 24% |  |
+| 156 | 5% | 17% |  |
+| 157 | 4% | 12% |  |
+| 158 | 3% | 8% |  |
+| 159 | 2% | 5% |  |
+| 160 | 1.4% | 3% |  |
+| 161 | 0.9% | 2% |  |
+| 162 | 0.5% | 1.2% |  |
+| 163 | 0.3% | 0.7% |  |
+| 164 | 0.2% | 0.3% |  |
+| 165 | 0.1% | 0.2% |  |
+| 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
