@@ -18,12 +18,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 143 | 137–148 | 136–150 | 134–152 | 132–154 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 143 | 138–149 | 136–150 | 135–151 | 132–154 |
 | Sozialdemokratische Partei Deutschlands | DE | | 21 | 19–23 | 18–24 | 18–25 | 17–27 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–20 | 14–20 | 13–20 |
-| Partidul Social Democrat | RO | | 13 | 11–15 | 10–16 | 10–16 | 10–17 |
-| Partido Socialista | PT | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
+| Partido Socialista | PT | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | United Opposition | HU | | 8 | 8 | 8 | 8 | 8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -50,7 +50,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0–2 |
+| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Socialni demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,36 +63,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 129 | 0% | 100% |  |
-| 130 | 0.1% | 99.9% |  |
-| 131 | 0.2% | 99.8% |  |
-| 132 | 0.4% | 99.6% |  |
-| 133 | 0.7% | 99.2% |  |
-| 134 | 1.3% | 98% |  |
-| 135 | 2% | 97% |  |
-| 136 | 3% | 95% |  |
-| 137 | 4% | 92% |  |
-| 138 | 5% | 88% |  |
-| 139 | 6% | 83% |  |
-| 140 | 7% | 77% |  |
-| 141 | 8% | 69% |  |
-| 142 | 9% | 61% |  |
-| 143 | 9% | 52% | Median |
-| 144 | 9% | 43% |  |
-| 145 | 8% | 35% |  |
-| 146 | 7% | 27% |  |
-| 147 | 6% | 20% | Last Result |
-| 148 | 4% | 14% |  |
-| 149 | 3% | 10% |  |
-| 150 | 2% | 7% |  |
+| 130 | 0.1% | 100% |  |
+| 131 | 0.1% | 99.9% |  |
+| 132 | 0.3% | 99.8% |  |
+| 133 | 0.5% | 99.5% |  |
+| 134 | 1.0% | 99.0% |  |
+| 135 | 2% | 98% |  |
+| 136 | 2% | 96% |  |
+| 137 | 3% | 94% |  |
+| 138 | 5% | 91% |  |
+| 139 | 6% | 86% |  |
+| 140 | 7% | 80% |  |
+| 141 | 8% | 73% |  |
+| 142 | 9% | 64% |  |
+| 143 | 9% | 55% | Median |
+| 144 | 9% | 46% |  |
+| 145 | 8% | 37% |  |
+| 146 | 7% | 29% |  |
+| 147 | 6% | 21% | Last Result |
+| 148 | 5% | 15% |  |
+| 149 | 4% | 10% |  |
+| 150 | 3% | 7% |  |
 | 151 | 2% | 4% |  |
-| 152 | 1.0% | 3% |  |
-| 153 | 0.6% | 1.5% |  |
+| 152 | 1.1% | 2% |  |
+| 153 | 0.6% | 1.4% |  |
 | 154 | 0.4% | 0.8% |  |
 | 155 | 0.2% | 0.4% |  |
 | 156 | 0.1% | 0.2% |  |
 | 157 | 0.1% | 0.1% |  |
-| 158 | 0% | 0.1% |  |
-| 159 | 0% | 0% |  |
+| 158 | 0% | 0% |  |
 
 
