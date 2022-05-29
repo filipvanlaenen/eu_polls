@@ -51,7 +51,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Socialni demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
+| Socialni demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -67,25 +67,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 0.2% | 99.9% |  |
 | 135 | 0.4% | 99.7% |  |
 | 136 | 0.8% | 99.3% |  |
-| 137 | 1.5% | 98% |  |
+| 137 | 1.4% | 98.6% |  |
 | 138 | 2% | 97% |  |
 | 139 | 4% | 95% |  |
-| 140 | 6% | 91% |  |
-| 141 | 7% | 85% |  |
+| 140 | 5% | 91% |  |
+| 141 | 7% | 86% |  |
 | 142 | 9% | 78% |  |
 | 143 | 10% | 69% |  |
-| 144 | 11% | 58% | Median |
+| 144 | 11% | 59% | Median |
 | 145 | 11% | 48% |  |
-| 146 | 10% | 37% |  |
+| 146 | 10% | 38% |  |
 | 147 | 8% | 28% | Last Result |
 | 148 | 6% | 20% |  |
-| 149 | 5% | 13% |  |
+| 149 | 5% | 14% |  |
 | 150 | 3% | 9% |  |
 | 151 | 2% | 5% |  |
 | 152 | 1.4% | 3% |  |
 | 153 | 0.8% | 2% |  |
-| 154 | 0.4% | 0.9% |  |
-| 155 | 0.2% | 0.5% |  |
+| 154 | 0.5% | 1.0% |  |
+| 155 | 0.3% | 0.5% |  |
 | 156 | 0.1% | 0.2% |  |
 | 157 | 0.1% | 0.1% |  |
 | 158 | 0% | 0% |  |

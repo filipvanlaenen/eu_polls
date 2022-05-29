@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **151** seats (-36 seats)
+Current median: **152** seats (-35 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 151 | 146–157 | 144–159 | 143–160 | 141–163 |
+| European People’s Party | EU | 187 | 152 | 146–158 | 145–159 | 144–161 | 141–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 17–22 | 17–23 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | Partido Popular | ES | | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
@@ -35,7 +35,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3 | 3 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Koalicja Polska | PL | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -52,6 +52,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -63,7 +64,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -82,34 +82,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 138 | 0% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
-| 140 | 0.2% | 99.8% |  |
-| 141 | 0.4% | 99.6% |  |
-| 142 | 0.8% | 99.2% |  |
-| 143 | 1.3% | 98% |  |
-| 144 | 2% | 97% |  |
-| 145 | 3% | 95% |  |
-| 146 | 4% | 92% |  |
-| 147 | 6% | 88% |  |
-| 148 | 7% | 82% |  |
-| 149 | 8% | 75% |  |
-| 150 | 9% | 67% |  |
-| 151 | 9% | 58% | Median |
-| 152 | 9% | 49% |  |
-| 153 | 8% | 40% |  |
-| 154 | 7% | 31% |  |
-| 155 | 6% | 24% |  |
-| 156 | 5% | 17% |  |
-| 157 | 4% | 12% |  |
-| 158 | 3% | 8% |  |
-| 159 | 2% | 5% |  |
-| 160 | 1.4% | 3% |  |
-| 161 | 0.9% | 2% |  |
-| 162 | 0.5% | 1.2% |  |
-| 163 | 0.3% | 0.7% |  |
-| 164 | 0.2% | 0.3% |  |
-| 165 | 0.1% | 0.2% |  |
-| 166 | 0% | 0.1% |  |
-| 167 | 0% | 0% |  |
+| 140 | 0.2% | 99.9% |  |
+| 141 | 0.3% | 99.7% |  |
+| 142 | 0.6% | 99.3% |  |
+| 143 | 1.1% | 98.7% |  |
+| 144 | 2% | 98% |  |
+| 145 | 3% | 96% |  |
+| 146 | 4% | 93% |  |
+| 147 | 5% | 89% |  |
+| 148 | 6% | 84% |  |
+| 149 | 7% | 78% |  |
+| 150 | 8% | 71% |  |
+| 151 | 9% | 62% |  |
+| 152 | 9% | 53% | Median |
+| 153 | 9% | 44% |  |
+| 154 | 8% | 35% |  |
+| 155 | 7% | 28% |  |
+| 156 | 6% | 21% |  |
+| 157 | 5% | 15% |  |
+| 158 | 3% | 10% |  |
+| 159 | 2% | 7% |  |
+| 160 | 2% | 5% |  |
+| 161 | 1.1% | 3% |  |
+| 162 | 0.7% | 2% |  |
+| 163 | 0.4% | 0.9% |  |
+| 164 | 0.2% | 0.5% |  |
+| 165 | 0.1% | 0.3% |  |
+| 166 | 0.1% | 0.1% |  |
+| 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
