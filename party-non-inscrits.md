@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> CY, CZ, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SK
+> CY, CZ, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
 
 ## Seats
 
@@ -25,7 +25,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 3 | 2–5 | 0–5 | 0–5 | 0–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -34,6 +34,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -49,17 +50,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0.2% | 100% |  |
 | 32 | 0.9% | 99.7% |  |
-| 33 | 2% | 98.8% |  |
+| 33 | 2% | 98.9% |  |
 | 34 | 4% | 97% |  |
 | 35 | 9% | 92% |  |
-| 36 | 16% | 84% |  |
+| 36 | 15% | 84% |  |
 | 37 | 21% | 68% | Median |
-| 38 | 20% | 47% |  |
+| 38 | 20% | 48% |  |
 | 39 | 14% | 28% |  |
 | 40 | 8% | 14% |  |
 | 41 | 4% | 6% |  |
 | 42 | 2% | 2% |  |
-| 43 | 0.5% | 0.7% |  |
+| 43 | 0.6% | 0.7% |  |
 | 44 | 0.1% | 0.2% |  |
 | 45 | 0% | 0% |  |
 

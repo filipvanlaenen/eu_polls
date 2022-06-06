@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (-3 seats)
+Current median: **94** seats (-4 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 89–100 | 88–101 | 87–102 | 84–105 |
+| Renew Europe | EU | 98 | 94 | 89–99 | 87–101 | 86–102 | 84–104 |
 | La République en marche–Mouvement démocrate | FR | | 23 | 23 | 23 | 23 | 23 |
-| Freie Demokratische Partei | DE | | 9 | 7–11 | 6–12 | 6–12 | 5–13 |
 | ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Freie Demokratische Partei | DE | | 8 | 6–11 | 6–11 | 6–12 | 5–13 |
 | Polska 2050 | PL | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -54,10 +54,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
+| Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0 |
+| Liberal Alliance | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -69,33 +71,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0.1% | 100% |  |
-| 83 | 0.2% | 99.9% |  |
-| 84 | 0.3% | 99.7% |  |
-| 85 | 0.6% | 99.4% |  |
-| 86 | 1.1% | 98.8% |  |
-| 87 | 2% | 98% |  |
-| 88 | 3% | 96% |  |
-| 89 | 4% | 93% |  |
-| 90 | 5% | 90% |  |
-| 91 | 6% | 85% |  |
-| 92 | 8% | 78% |  |
-| 93 | 9% | 70% |  |
-| 94 | 10% | 61% |  |
-| 95 | 10% | 52% | Median |
-| 96 | 9% | 42% |  |
-| 97 | 8% | 32% |  |
-| 98 | 7% | 24% | Last Result |
-| 99 | 6% | 17% |  |
-| 100 | 4% | 11% |  |
-| 101 | 3% | 7% |  |
-| 102 | 2% | 4% |  |
-| 103 | 1.1% | 2% |  |
-| 104 | 0.6% | 1.2% |  |
-| 105 | 0.3% | 0.6% |  |
-| 106 | 0.2% | 0.3% |  |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.1% | 99.9% |  |
+| 83 | 0.3% | 99.8% |  |
+| 84 | 0.5% | 99.5% |  |
+| 85 | 0.9% | 99.0% |  |
+| 86 | 2% | 98% |  |
+| 87 | 2% | 96% |  |
+| 88 | 3% | 94% |  |
+| 89 | 5% | 91% |  |
+| 90 | 6% | 86% |  |
+| 91 | 8% | 80% |  |
+| 92 | 9% | 72% |  |
+| 93 | 9% | 64% |  |
+| 94 | 10% | 54% | Median |
+| 95 | 9% | 44% |  |
+| 96 | 9% | 35% |  |
+| 97 | 7% | 26% |  |
+| 98 | 6% | 19% | Last Result |
+| 99 | 5% | 13% |  |
+| 100 | 3% | 8% |  |
+| 101 | 2% | 5% |  |
+| 102 | 1.4% | 3% |  |
+| 103 | 0.8% | 2% |  |
+| 104 | 0.4% | 0.9% |  |
+| 105 | 0.2% | 0.4% |  |
+| 106 | 0.1% | 0.2% |  |
 | 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0.1% |  |
-| 109 | 0% | 0% |  |
+| 108 | 0% | 0% |  |
 
 
