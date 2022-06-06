@@ -1,25 +1,37 @@
 # Identity and Democracy
 
-Members registered from **1 countries**:
+Members registered from **12 countries**:
 
-> FR
+> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
 
 ## Seats
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **19** seats (-57 seats)
+Current median: **62** seats (-14 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> FR
+> AT, BE, CZ, DE, DK, EE, FI, FR, IT, NL, PT, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 19 | 19 | 19 | 19 | 19 |
+| Identity and Democracy | EU | 76 | 62 | 59–65 | 58–66 | 58–67 | 56–68 |
 | Rassemblement national | FR | | 19 | 19 | 19 | 19 | 19 |
+| Lega Nord | IT | | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
+| Alternative für Deutschland | DE | | 9 | 8–12 | 7–13 | 7–13 | 6–13 |
+| Freiheitliche Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Partij voor de Vrijheid | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
+| Chega | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| SME RODINA | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Trikolóra hnutí občanů–Strana svobodných občanů–Strana soukromníků České republiky | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -29,58 +41,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 100% | 100% | Median |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.5% | 99.8% |  |
+| 57 | 2% | 99.3% |  |
+| 58 | 4% | 98% |  |
+| 59 | 8% | 94% |  |
+| 60 | 12% | 86% |  |
+| 61 | 15% | 74% |  |
+| 62 | 16% | 59% | Median |
+| 63 | 15% | 43% |  |
+| 64 | 12% | 28% |  |
+| 65 | 8% | 17% |  |
+| 66 | 5% | 8% |  |
+| 67 | 2% | 4% |  |
+| 68 | 0.9% | 1.3% |  |
+| 69 | 0.3% | 0.3% |  |
+| 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
