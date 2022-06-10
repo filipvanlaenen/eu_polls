@@ -51,7 +51,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -84,15 +84,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 0% | 100% |  |
 | 139 | 0.1% | 99.9% |  |
 | 140 | 0.2% | 99.8% |  |
-| 141 | 0.4% | 99.6% |  |
+| 141 | 0.4% | 99.7% |  |
 | 142 | 0.7% | 99.3% |  |
 | 143 | 1.2% | 98.6% |  |
 | 144 | 2% | 97% |  |
-| 145 | 3% | 95% |  |
+| 145 | 3% | 96% |  |
 | 146 | 4% | 93% |  |
 | 147 | 5% | 89% |  |
 | 148 | 6% | 84% |  |
-| 149 | 7% | 77% |  |
+| 149 | 7% | 78% |  |
 | 150 | 8% | 70% |  |
 | 151 | 9% | 62% |  |
 | 152 | 9% | 53% | Median |
@@ -100,9 +100,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 8% | 36% |  |
 | 155 | 7% | 28% |  |
 | 156 | 6% | 21% |  |
-| 157 | 5% | 15% |  |
-| 158 | 3% | 11% |  |
-| 159 | 3% | 7% |  |
+| 157 | 5% | 16% |  |
+| 158 | 4% | 11% |  |
+| 159 | 3% | 8% |  |
 | 160 | 2% | 5% |  |
 | 161 | 1.2% | 3% |  |
 | 162 | 0.8% | 2% |  |
