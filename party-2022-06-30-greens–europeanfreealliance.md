@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **60** seats (-7 seats)
+Current median: **61** seats (-6 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 60 | 55–65 | 54–66 | 53–67 | 51–69 |
-| Bündnis 90/Die Grünen | DE | | 20 | 15–23 | 14–24 | 14–24 | 13–26 |
+| Greens–European Free Alliance | EU | 67 | 61 | 56–65 | 55–66 | 54–67 | 52–69 |
+| Bündnis 90/Die Grünen | DE | | 21 | 18–22 | 18–23 | 18–23 | 16–25 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -30,7 +30,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Latvijas Krievu savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,7 +48,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
-| Miljöpartiet de gröna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -65,31 +65,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.3% | 99.8% |  |
-| 51 | 0.6% | 99.6% |  |
-| 52 | 1.2% | 99.0% |  |
-| 53 | 2% | 98% |  |
-| 54 | 3% | 96% |  |
-| 55 | 5% | 92% |  |
-| 56 | 6% | 88% |  |
-| 57 | 8% | 81% |  |
-| 58 | 9% | 73% |  |
-| 59 | 10% | 64% |  |
-| 60 | 10% | 54% | Median |
-| 61 | 10% | 44% |  |
-| 62 | 9% | 34% |  |
-| 63 | 7% | 26% |  |
-| 64 | 6% | 19% |  |
-| 65 | 5% | 13% |  |
-| 66 | 3% | 8% |  |
-| 67 | 2% | 5% | Last Result |
-| 68 | 1.3% | 2% |  |
-| 69 | 0.6% | 1.1% |  |
-| 70 | 0.3% | 0.5% |  |
-| 71 | 0.1% | 0.2% |  |
-| 72 | 0% | 0.1% |  |
-| 73 | 0% | 0% |  |
+| 50 | 0% | 100% |  |
+| 51 | 0.1% | 99.9% |  |
+| 52 | 0.4% | 99.8% |  |
+| 53 | 0.9% | 99.4% |  |
+| 54 | 2% | 98% |  |
+| 55 | 3% | 97% |  |
+| 56 | 5% | 94% |  |
+| 57 | 7% | 89% |  |
+| 58 | 9% | 82% |  |
+| 59 | 11% | 74% |  |
+| 60 | 12% | 63% |  |
+| 61 | 12% | 51% | Median |
+| 62 | 11% | 39% |  |
+| 63 | 10% | 28% |  |
+| 64 | 7% | 18% |  |
+| 65 | 5% | 11% |  |
+| 66 | 3% | 6% |  |
+| 67 | 2% | 3% | Last Result |
+| 68 | 0.8% | 1.3% |  |
+| 69 | 0.3% | 0.5% |  |
+| 70 | 0.1% | 0.2% |  |
+| 71 | 0% | 0.1% |  |
+| 72 | 0% | 0% |  |
 
 

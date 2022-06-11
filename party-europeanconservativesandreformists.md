@@ -18,14 +18,14 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 79 | 75–84 | 74–85 | 72–87 | 70–89 |
+| European Conservatives and Reformists | EU | 61 | 79 | 75–84 | 73–85 | 72–87 | 70–89 |
 | Zjednoczona Prawica | PL | | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
 | Fratelli d’Italia | IT | | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
 | Vox | ES | | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3–4 |
 | Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -62,8 +62,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
-| 71 | 0.7% | 99.5% |  |
-| 72 | 1.3% | 98.8% |  |
+| 71 | 0.7% | 99.4% |  |
+| 72 | 1.4% | 98.7% |  |
 | 73 | 2% | 97% |  |
 | 74 | 4% | 95% |  |
 | 75 | 5% | 91% |  |
@@ -72,8 +72,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 10% | 70% |  |
 | 79 | 11% | 60% | Median |
 | 80 | 11% | 49% |  |
-| 81 | 10% | 39% |  |
-| 82 | 9% | 29% |  |
+| 81 | 10% | 38% |  |
+| 82 | 8% | 28% |  |
 | 83 | 7% | 20% |  |
 | 84 | 5% | 13% |  |
 | 85 | 3% | 8% |  |
