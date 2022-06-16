@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **61** seats (-6 seats)
+Current median: **60** seats (-7 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 61 | 57–65 | 55–66 | 54–67 | 53–69 |
+| Greens–European Free Alliance | EU | 67 | 60 | 56–63 | 55–65 | 54–65 | 52–67 |
 | Bündnis 90/Die Grünen | DE | | 21 | 18–22 | 18–23 | 18–23 | 16–25 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
-| Česká pirátská strana–Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -37,11 +37,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Česká pirátská strana | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Česká pirátská strana | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,27 +65,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 51 | 0.1% | 100% |  |
-| 52 | 0.3% | 99.8% |  |
-| 53 | 0.7% | 99.5% |  |
-| 54 | 1.5% | 98.8% |  |
-| 55 | 3% | 97% |  |
-| 56 | 4% | 95% |  |
-| 57 | 6% | 91% |  |
-| 58 | 8% | 84% |  |
-| 59 | 10% | 76% |  |
-| 60 | 12% | 66% |  |
-| 61 | 12% | 54% | Median |
-| 62 | 12% | 42% |  |
-| 63 | 10% | 31% |  |
-| 64 | 8% | 21% |  |
-| 65 | 6% | 12% |  |
-| 66 | 3% | 7% |  |
-| 67 | 2% | 3% | Last Result |
-| 68 | 0.9% | 2% |  |
-| 69 | 0.4% | 0.6% |  |
-| 70 | 0.2% | 0.2% |  |
-| 71 | 0.1% | 0.1% |  |
-| 72 | 0% | 0% |  |
+| 50 | 0.1% | 100% |  |
+| 51 | 0.2% | 99.9% |  |
+| 52 | 0.5% | 99.7% |  |
+| 53 | 1.3% | 99.2% |  |
+| 54 | 2% | 98% |  |
+| 55 | 4% | 95% |  |
+| 56 | 7% | 91% |  |
+| 57 | 9% | 85% |  |
+| 58 | 11% | 76% |  |
+| 59 | 13% | 64% |  |
+| 60 | 13% | 52% | Median |
+| 61 | 12% | 39% |  |
+| 62 | 10% | 27% |  |
+| 63 | 7% | 17% |  |
+| 64 | 5% | 10% |  |
+| 65 | 3% | 5% |  |
+| 66 | 1.4% | 2% |  |
+| 67 | 0.6% | 1.0% | Last Result |
+| 68 | 0.3% | 0.4% |  |
+| 69 | 0.1% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 

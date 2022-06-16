@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 51–56 | 50–56 | 50–57 | 49–58 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 51–55 | 50–56 | 50–57 | 48–58 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
 | Sinn Féin | IE | | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–9 | 5–10 |
@@ -38,7 +38,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -64,16 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.1% | 100% |  |
 | 48 | 0.4% | 99.9% |  |
 | 49 | 2% | 99.5% |  |
-| 50 | 5% | 98% |  |
-| 51 | 12% | 92% |  |
-| 52 | 19% | 80% |  |
-| 53 | 21% | 61% | Median |
-| 54 | 18% | 40% |  |
-| 55 | 12% | 22% |  |
-| 56 | 6% | 10% |  |
-| 57 | 3% | 4% |  |
-| 58 | 1.0% | 1.4% |  |
-| 59 | 0.3% | 0.4% |  |
+| 50 | 6% | 98% |  |
+| 51 | 13% | 92% |  |
+| 52 | 20% | 79% |  |
+| 53 | 21% | 59% | Median |
+| 54 | 17% | 38% |  |
+| 55 | 11% | 20% |  |
+| 56 | 6% | 9% |  |
+| 57 | 2% | 4% |  |
+| 58 | 0.8% | 1.2% |  |
+| 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
