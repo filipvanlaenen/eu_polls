@@ -26,7 +26,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Občanská demokratická strana | CZ | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,18 +62,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
-| 71 | 0.8% | 99.5% |  |
+| 71 | 0.7% | 99.5% |  |
 | 72 | 1.5% | 98.7% |  |
 | 73 | 3% | 97% |  |
 | 74 | 4% | 95% |  |
 | 75 | 6% | 90% |  |
 | 76 | 8% | 84% |  |
 | 77 | 10% | 76% |  |
-| 78 | 11% | 66% |  |
+| 78 | 11% | 67% |  |
 | 79 | 11% | 56% | Median |
-| 80 | 11% | 44% |  |
+| 80 | 11% | 45% |  |
 | 81 | 9% | 34% |  |
-| 82 | 8% | 24% |  |
+| 82 | 8% | 25% |  |
 | 83 | 6% | 17% |  |
 | 84 | 4% | 11% |  |
 | 85 | 3% | 6% |  |
