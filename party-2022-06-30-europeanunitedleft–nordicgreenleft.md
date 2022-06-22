@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 51–55 | 50–56 | 49–57 | 48–58 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 51–56 | 50–56 | 50–57 | 48–59 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
 | Sinn Féin | IE | | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–9 | 5–10 |
@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,16 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.1% | 100% |  |
 | 48 | 0.5% | 99.9% |  |
 | 49 | 2% | 99.4% |  |
-| 50 | 6% | 97% |  |
-| 51 | 13% | 91% |  |
-| 52 | 20% | 78% |  |
-| 53 | 21% | 58% | Median |
-| 54 | 17% | 37% |  |
-| 55 | 11% | 20% |  |
-| 56 | 6% | 9% |  |
-| 57 | 2% | 3% |  |
-| 58 | 0.8% | 1.1% |  |
-| 59 | 0.2% | 0.3% |  |
+| 50 | 6% | 98% |  |
+| 51 | 12% | 92% |  |
+| 52 | 19% | 80% |  |
+| 53 | 21% | 61% | Median |
+| 54 | 18% | 40% |  |
+| 55 | 12% | 23% |  |
+| 56 | 6% | 11% |  |
+| 57 | 3% | 5% |  |
+| 58 | 1.1% | 2% |  |
+| 59 | 0.4% | 0.5% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 

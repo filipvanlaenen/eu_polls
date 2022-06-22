@@ -25,19 +25,19 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | United Opposition | HU | | 8 | 8 | 8 | 8 | 8 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Parti socialiste | FR | | 4 | 4 | 4 | 4 | 4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
@@ -77,11 +77,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 9% | 70% |  |
 | 145 | 9% | 61% |  |
 | 146 | 9% | 52% | Median |
-| 147 | 9% | 43% | Last Result |
+| 147 | 9% | 42% | Last Result |
 | 148 | 8% | 34% |  |
 | 149 | 7% | 26% |  |
-| 150 | 6% | 19% |  |
-| 151 | 4% | 14% |  |
+| 150 | 5% | 19% |  |
+| 151 | 4% | 13% |  |
 | 152 | 3% | 9% |  |
 | 153 | 2% | 6% |  |
 | 154 | 2% | 4% |  |

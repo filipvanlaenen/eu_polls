@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 146–158 | 145–159 | 144–161 | 141–164 |
+| European People’s Party | EU | 187 | 152 | 146–158 | 145–160 | 144–161 | 141–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–24 | 17–24 | 17–25 |
 | Koalicja Obywatelska | PL | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | Partido Popular | ES | | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
@@ -29,12 +29,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–9 | 5–9 | 5–9 | 5–10 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 5 | 5 | 4–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Koalicja Polska | PL | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -43,14 +44,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| ChristenUnie | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| ChristenUnie | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā konservatīvā partija | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
@@ -85,29 +85,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 0.2% | 99.9% |  |
 | 141 | 0.3% | 99.7% |  |
 | 142 | 0.6% | 99.4% |  |
-| 143 | 1.1% | 98.8% |  |
+| 143 | 1.0% | 98.8% |  |
 | 144 | 2% | 98% |  |
 | 145 | 3% | 96% |  |
 | 146 | 4% | 93% |  |
-| 147 | 5% | 89% |  |
-| 148 | 6% | 84% |  |
-| 149 | 8% | 78% |  |
+| 147 | 5% | 90% |  |
+| 148 | 6% | 85% |  |
+| 149 | 7% | 79% |  |
 | 150 | 8% | 71% |  |
-| 151 | 9% | 62% |  |
-| 152 | 9% | 53% | Median |
-| 153 | 9% | 44% |  |
+| 151 | 9% | 63% |  |
+| 152 | 9% | 54% | Median |
+| 153 | 9% | 45% |  |
 | 154 | 8% | 36% |  |
-| 155 | 7% | 28% |  |
-| 156 | 6% | 21% |  |
-| 157 | 5% | 15% |  |
-| 158 | 3% | 11% |  |
-| 159 | 3% | 7% |  |
+| 155 | 7% | 29% |  |
+| 156 | 6% | 22% |  |
+| 157 | 5% | 16% |  |
+| 158 | 4% | 11% |  |
+| 159 | 3% | 8% |  |
 | 160 | 2% | 5% |  |
 | 161 | 1.2% | 3% |  |
 | 162 | 0.8% | 2% |  |
-| 163 | 0.5% | 1.1% |  |
-| 164 | 0.3% | 0.6% |  |
-| 165 | 0.2% | 0.3% |  |
+| 163 | 0.5% | 1.2% |  |
+| 164 | 0.3% | 0.7% |  |
+| 165 | 0.2% | 0.4% |  |
 | 166 | 0.1% | 0.2% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
