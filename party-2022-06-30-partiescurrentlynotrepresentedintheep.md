@@ -2,7 +2,7 @@
 
 Members registered from **14 countries**:
 
-> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SK
 
 ## Seats
 
@@ -18,10 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–9 | 4–11 | 3–12 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 4–9 | 3–11 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -31,16 +32,14 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
-| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -56,17 +55,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.8% | 100% |  |
-| 4 | 11% | 99.2% |  |
-| 5 | 14% | 88% |  |
-| 6 | 31% | 74% | Median |
-| 7 | 26% | 43% |  |
-| 8 | 10% | 17% |  |
-| 9 | 3% | 7% |  |
-| 10 | 2% | 5% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.7% | 0.9% |  |
-| 13 | 0.2% | 0.2% |  |
-| 14 | 0% | 0% |  |
+| 3 | 1.1% | 100% |  |
+| 4 | 12% | 98.9% |  |
+| 5 | 14% | 87% |  |
+| 6 | 32% | 73% | Median |
+| 7 | 26% | 41% |  |
+| 8 | 10% | 15% |  |
+| 9 | 3% | 5% |  |
+| 10 | 1.3% | 2% |  |
+| 11 | 0.7% | 1.0% |  |
+| 12 | 0.2% | 0.3% |  |
+| 13 | 0% | 0% |  |
 
 

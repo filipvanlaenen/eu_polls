@@ -8,28 +8,27 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **146** seats (-1 seats)
+Current median: **138** seats (-9 seats)
 
-At least one member in **25 countries** have a median of 1 seat or more:
+At least one member in **23 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 140–151 | 139–153 | 138–154 | 135–157 |
-| Sozialdemokratische Partei Deutschlands | DE | | 21 | 18–24 | 17–25 | 16–27 | 16–27 |
-| Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
-| Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–20 | 14–20 | 13–20 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 134–142 | 133–144 | 132–145 | 130–147 |
+| Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–21 | 16–21 | 16–22 | 16–24 |
+| Partito Democratico | IT | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
+| Partido Socialista Obrero Español | ES | | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | United Opposition | HU | | 8 | 8 | 8 | 8 | 8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| Sozialdemokratische Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
-| Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Parti socialiste | FR | | 4 | 4 | 4 | 4 | 4 |
+| Lewica | PL | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Socialdemokraterne | DK | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -43,7 +42,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -51,8 +49,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
+| Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
@@ -63,34 +63,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 133 | 0.1% | 100% |  |
-| 134 | 0.2% | 99.9% |  |
-| 135 | 0.3% | 99.7% |  |
-| 136 | 0.6% | 99.4% |  |
-| 137 | 1.1% | 98.8% |  |
-| 138 | 2% | 98% |  |
-| 139 | 3% | 96% |  |
-| 140 | 4% | 93% |  |
-| 141 | 5% | 89% |  |
-| 142 | 7% | 84% |  |
-| 143 | 8% | 78% |  |
-| 144 | 9% | 70% |  |
-| 145 | 9% | 61% |  |
-| 146 | 9% | 52% | Median |
-| 147 | 9% | 42% | Last Result |
-| 148 | 8% | 34% |  |
-| 149 | 7% | 26% |  |
-| 150 | 5% | 19% |  |
-| 151 | 4% | 13% |  |
-| 152 | 3% | 9% |  |
-| 153 | 2% | 6% |  |
-| 154 | 2% | 4% |  |
-| 155 | 1.0% | 2% |  |
-| 156 | 0.6% | 1.4% |  |
-| 157 | 0.4% | 0.8% |  |
-| 158 | 0.2% | 0.4% |  |
-| 159 | 0.1% | 0.2% |  |
-| 160 | 0.1% | 0.1% |  |
-| 161 | 0% | 0% |  |
+| 127 | 0% | 100% |  |
+| 128 | 0.1% | 99.9% |  |
+| 129 | 0.3% | 99.8% |  |
+| 130 | 0.7% | 99.5% |  |
+| 131 | 1.3% | 98.9% |  |
+| 132 | 2% | 98% |  |
+| 133 | 4% | 95% |  |
+| 134 | 6% | 91% |  |
+| 135 | 8% | 85% |  |
+| 136 | 10% | 77% |  |
+| 137 | 11% | 67% |  |
+| 138 | 12% | 56% | Median |
+| 139 | 11% | 44% |  |
+| 140 | 10% | 33% |  |
+| 141 | 8% | 23% |  |
+| 142 | 6% | 15% |  |
+| 143 | 4% | 9% |  |
+| 144 | 3% | 6% |  |
+| 145 | 1.5% | 3% |  |
+| 146 | 0.8% | 2% |  |
+| 147 | 0.4% | 0.7% | Last Result |
+| 148 | 0.2% | 0.3% |  |
+| 149 | 0.1% | 0.1% |  |
+| 150 | 0% | 0.1% |  |
+| 151 | 0% | 0% |  |
 
 
