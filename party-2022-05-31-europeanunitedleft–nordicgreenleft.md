@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 51–55 | 50–56 | 49–57 | 48–58 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 51–56 | 50–56 | 50–57 | 48–59 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
+| Unidos Podemos | ES | | 7 | 6–8 | 5–8 | 5–9 | 5–10 |
 | Sinn Féin | IE | | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
-| Unidos Podemos | ES | | 6 | 6–8 | 5–8 | 5–9 | 5–10 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Die Linke | DE | | 4 | 3–5 | 3–6 | 3–6 | 2–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,19 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
 | 47 | 0.1% | 100% |  |
-| 48 | 0.5% | 99.9% |  |
-| 49 | 2% | 99.4% |  |
-| 50 | 7% | 97% |  |
-| 51 | 14% | 90% |  |
-| 52 | 21% | 76% |  |
-| 53 | 21% | 56% | Median |
-| 54 | 16% | 35% |  |
-| 55 | 10% | 19% |  |
-| 56 | 5% | 9% |  |
-| 57 | 2% | 3% |  |
-| 58 | 0.8% | 1.2% |  |
-| 59 | 0.3% | 0.4% |  |
-| 60 | 0.1% | 0.1% |  |
+| 48 | 0.4% | 99.9% |  |
+| 49 | 2% | 99.5% |  |
+| 50 | 5% | 98% |  |
+| 51 | 12% | 92% |  |
+| 52 | 18% | 81% |  |
+| 53 | 21% | 62% | Median |
+| 54 | 18% | 42% |  |
+| 55 | 12% | 24% |  |
+| 56 | 7% | 11% |  |
+| 57 | 3% | 5% |  |
+| 58 | 1.2% | 2% |  |
+| 59 | 0.4% | 0.5% |  |
+| 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0% |  |
 
 
