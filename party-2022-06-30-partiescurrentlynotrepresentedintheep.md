@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–7 | 3–7 | 3–8 | 3–10 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–10 | 3–11 | 3–12 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -31,8 +31,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0–3 | 0–4 | 0–5 | 0–5 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -58,15 +58,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 23% | 93% |  |
-| 5 | 19% | 70% |  |
-| 6 | 30% | 51% | Median |
-| 7 | 18% | 21% |  |
-| 8 | 1.0% | 3% |  |
-| 9 | 0.8% | 2% |  |
-| 10 | 0.7% | 1.0% |  |
-| 11 | 0.3% | 0.3% |  |
-| 12 | 0% | 0% |  |
+| 3 | 4% | 100% |  |
+| 4 | 15% | 96% |  |
+| 5 | 14% | 81% |  |
+| 6 | 25% | 67% | Median |
+| 7 | 29% | 42% |  |
+| 8 | 6% | 13% |  |
+| 9 | 2% | 8% |  |
+| 10 | 2% | 6% |  |
+| 11 | 2% | 3% |  |
+| 12 | 1.0% | 1.1% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
