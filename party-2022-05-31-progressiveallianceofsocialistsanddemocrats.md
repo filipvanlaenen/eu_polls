@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **145** seats (-2 seats)
+Current median: **146** seats (-1 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 145 | 141–151 | 139–152 | 138–153 | 136–156 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 146 | 141–151 | 140–152 | 138–154 | 136–157 |
 | Sozialdemokratische Partei Deutschlands | DE | | 21 | 18–23 | 18–25 | 17–26 | 17–27 |
-| Partito Democratico | IT | | 17 | 16–19 | 15–19 | 14–20 | 14–21 |
-| Partido Socialista Obrero Español | ES | | 16 | 15–19 | 14–20 | 14–20 | 13–20 |
+| Partito Democratico | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–20 | 14–20 | 13–20 |
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | United Opposition | HU | | 8 | 8 | 8 | 8 | 8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| Lewica | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Lewica | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Parti socialiste | FR | | 4 | 4 | 4 | 4 | 4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -63,33 +63,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 133 | 0% | 100% |  |
-| 134 | 0.1% | 99.9% |  |
-| 135 | 0.2% | 99.8% |  |
-| 136 | 0.5% | 99.6% |  |
-| 137 | 0.9% | 99.1% |  |
-| 138 | 2% | 98% |  |
-| 139 | 3% | 97% |  |
-| 140 | 4% | 94% |  |
-| 141 | 5% | 90% |  |
-| 142 | 7% | 85% |  |
-| 143 | 9% | 78% |  |
-| 144 | 10% | 69% |  |
-| 145 | 10% | 59% | Median |
-| 146 | 10% | 49% |  |
-| 147 | 9% | 39% | Last Result |
-| 148 | 8% | 30% |  |
-| 149 | 6% | 22% |  |
-| 150 | 5% | 15% |  |
-| 151 | 4% | 10% |  |
-| 152 | 3% | 7% |  |
-| 153 | 2% | 4% |  |
-| 154 | 1.1% | 2% |  |
-| 155 | 0.6% | 1.4% |  |
-| 156 | 0.4% | 0.8% |  |
-| 157 | 0.2% | 0.4% |  |
-| 158 | 0.1% | 0.2% |  |
+| 134 | 0.1% | 100% |  |
+| 135 | 0.2% | 99.9% |  |
+| 136 | 0.4% | 99.7% |  |
+| 137 | 0.7% | 99.3% |  |
+| 138 | 1.3% | 98.6% |  |
+| 139 | 2% | 97% |  |
+| 140 | 3% | 95% |  |
+| 141 | 5% | 92% |  |
+| 142 | 7% | 87% |  |
+| 143 | 8% | 80% |  |
+| 144 | 9% | 72% |  |
+| 145 | 10% | 63% |  |
+| 146 | 10% | 53% | Median |
+| 147 | 10% | 42% | Last Result |
+| 148 | 8% | 33% |  |
+| 149 | 7% | 24% |  |
+| 150 | 5% | 17% |  |
+| 151 | 4% | 12% |  |
+| 152 | 3% | 8% |  |
+| 153 | 2% | 5% |  |
+| 154 | 1.2% | 3% |  |
+| 155 | 0.8% | 2% |  |
+| 156 | 0.4% | 0.9% |  |
+| 157 | 0.2% | 0.5% |  |
+| 158 | 0.1% | 0.3% |  |
 | 159 | 0.1% | 0.1% |  |
-| 160 | 0% | 0% |  |
+| 160 | 0% | 0.1% |  |
+| 161 | 0% | 0% |  |
 
 
