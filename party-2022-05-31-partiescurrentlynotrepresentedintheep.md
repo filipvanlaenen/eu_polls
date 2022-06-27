@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SI, SK
 
 ## Seats
 
@@ -18,10 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–8 | 4–9 | 4–10 | 3–12 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 4–9 | 4–10 | 3–11 |
 | BoerBurgerBeweging [NL] (*) | NL | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -58,14 +59,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 19% | 98% |  |
-| 5 | 40% | 79% | Median |
-| 6 | 15% | 40% |  |
+| 4 | 21% | 98% |  |
+| 5 | 41% | 77% | Median |
+| 6 | 13% | 37% |  |
 | 7 | 14% | 24% |  |
-| 8 | 5% | 11% |  |
-| 9 | 2% | 6% |  |
+| 8 | 4% | 9% |  |
+| 9 | 3% | 6% |  |
 | 10 | 2% | 3% |  |
-| 11 | 1.0% | 2% |  |
+| 11 | 1.0% | 1.4% |  |
 | 12 | 0.4% | 0.5% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
