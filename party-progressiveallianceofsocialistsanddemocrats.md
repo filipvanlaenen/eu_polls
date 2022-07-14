@@ -18,14 +18,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–146 | 134–147 | 133–148 | 131–151 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–146 | 134–147 | 133–148 | 130–151 |
 | Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–21 | 16–23 | 16–24 | 16–24 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–20 | 15–20 | 13–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 13–18 | 13–19 | 12–19 |
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | United Opposition | HU | | 8 | 8 | 8 | 8 | 8 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -36,7 +36,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 2% | 98% |  |
 | 134 | 3% | 96% |  |
 | 135 | 4% | 93% |  |
-| 136 | 6% | 89% |  |
+| 136 | 5% | 89% |  |
 | 137 | 7% | 84% |  |
 | 138 | 8% | 77% |  |
-| 139 | 10% | 68% |  |
+| 139 | 9% | 69% |  |
 | 140 | 10% | 59% | Median |
 | 141 | 10% | 49% |  |
 | 142 | 9% | 39% |  |
