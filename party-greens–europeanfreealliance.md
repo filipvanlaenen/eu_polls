@@ -18,18 +18,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 54–64 | 53–65 | 51–67 |
-| Bündnis 90/Die Grünen | DE | | 21 | 18–25 | 18–25 | 17–25 | 16–26 |
+| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 54–64 | 53–65 | 52–67 |
+| Bündnis 90/Die Grünen | DE | | 21 | 18–24 | 18–24 | 18–25 | 17–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
@@ -39,7 +39,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -65,26 +65,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 49 | 0.1% | 100% |  |
-| 50 | 0.2% | 99.9% |  |
-| 51 | 0.6% | 99.7% |  |
-| 52 | 1.4% | 99.0% |  |
-| 53 | 3% | 98% |  |
-| 54 | 4% | 95% |  |
-| 55 | 6% | 91% |  |
-| 56 | 8% | 84% |  |
-| 57 | 10% | 76% |  |
-| 58 | 12% | 66% |  |
-| 59 | 12% | 54% | Median |
-| 60 | 12% | 42% |  |
-| 61 | 10% | 30% |  |
-| 62 | 8% | 20% |  |
-| 63 | 5% | 12% |  |
-| 64 | 3% | 7% |  |
+| 50 | 0.1% | 100% |  |
+| 51 | 0.3% | 99.9% |  |
+| 52 | 0.7% | 99.6% |  |
+| 53 | 2% | 98.9% |  |
+| 54 | 3% | 97% |  |
+| 55 | 5% | 94% |  |
+| 56 | 8% | 89% |  |
+| 57 | 10% | 81% |  |
+| 58 | 12% | 70% |  |
+| 59 | 13% | 58% | Median |
+| 60 | 12% | 45% |  |
+| 61 | 11% | 33% |  |
+| 62 | 9% | 22% |  |
+| 63 | 6% | 13% |  |
+| 64 | 4% | 7% |  |
 | 65 | 2% | 4% |  |
 | 66 | 1.0% | 2% |  |
 | 67 | 0.4% | 0.6% | Last Result |
-| 68 | 0.2% | 0.2% |  |
+| 68 | 0.1% | 0.2% |  |
 | 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |
 
