@@ -25,7 +25,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -48,12 +48,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
 | 27 | 0.7% | 99.8% |  |
-| 28 | 2% | 99.2% |  |
+| 28 | 2% | 99.1% |  |
 | 29 | 4% | 97% | Last Result |
-| 30 | 7% | 93% |  |
+| 30 | 8% | 93% |  |
 | 31 | 13% | 86% |  |
-| 32 | 20% | 73% |  |
-| 33 | 22% | 53% | Median |
+| 32 | 20% | 72% |  |
+| 33 | 22% | 52% | Median |
 | 34 | 17% | 30% |  |
 | 35 | 9% | 13% |  |
 | 36 | 3% | 4% |  |
