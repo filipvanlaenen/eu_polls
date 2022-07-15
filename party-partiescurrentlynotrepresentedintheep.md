@@ -10,18 +10,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **6** seats (+6 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> AT, BG, NL
+> BG, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 5–9 | 5–10 | 4–11 | 4–13 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 4–10 | 4–11 | 4–12 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -36,6 +35,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -59,17 +59,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 4% | 100% |  |
-| 5 | 20% | 96% |  |
-| 6 | 28% | 76% | Median |
-| 7 | 21% | 48% |  |
-| 8 | 16% | 26% |  |
-| 9 | 4% | 11% |  |
-| 10 | 3% | 7% |  |
+| 4 | 9% | 100% |  |
+| 5 | 24% | 91% |  |
+| 6 | 26% | 68% | Median |
+| 7 | 21% | 42% |  |
+| 8 | 12% | 21% |  |
+| 9 | 4% | 10% |  |
+| 10 | 3% | 6% |  |
 | 11 | 2% | 4% |  |
-| 12 | 1.4% | 2% |  |
-| 13 | 0.5% | 0.6% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 12 | 1.1% | 2% |  |
+| 13 | 0.3% | 0.4% |  |
+| 14 | 0% | 0% |  |
 
 

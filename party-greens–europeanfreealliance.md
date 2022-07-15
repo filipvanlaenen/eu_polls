@@ -25,7 +25,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
@@ -66,13 +66,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.1% | 100% |  |
-| 51 | 0.3% | 99.9% |  |
-| 52 | 0.7% | 99.6% |  |
-| 53 | 2% | 98.9% |  |
+| 51 | 0.2% | 99.9% |  |
+| 52 | 0.7% | 99.7% |  |
+| 53 | 2% | 99.0% |  |
 | 54 | 3% | 97% |  |
 | 55 | 5% | 94% |  |
 | 56 | 8% | 89% |  |
-| 57 | 10% | 81% |  |
+| 57 | 11% | 81% |  |
 | 58 | 12% | 70% |  |
 | 59 | 13% | 58% | Median |
 | 60 | 12% | 45% |  |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 6% | 13% |  |
 | 64 | 4% | 7% |  |
 | 65 | 2% | 4% |  |
-| 66 | 1.0% | 2% |  |
+| 66 | 0.9% | 2% |  |
 | 67 | 0.4% | 0.6% | Last Result |
 | 68 | 0.1% | 0.2% |  |
 | 69 | 0% | 0.1% |  |
