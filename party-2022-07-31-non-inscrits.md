@@ -18,9 +18,9 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 31 | 29–34 | 28–34 | 27–35 | 26–36 |
+| Non-Inscrits | EU | 29 | 31 | 28–33 | 27–34 | 27–35 | 25–36 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12 | 12 | 12 | 12 |
-| Movimento 5 Stelle | IT | | 10 | 8–11 | 7–12 | 7–12 | 7–12 |
+| Movimento 5 Stelle | IT | | 9 | 7–11 | 6–11 | 5–12 | 5–12 |
 | Konfederacja | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
@@ -29,7 +29,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Insieme per il Futuro | IT | | 0 | 0 | 0 | 0 | 0 |
+| Insieme per il Futuro | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -47,18 +47,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.3% | 100% |  |
-| 26 | 1.0% | 99.6% |  |
-| 27 | 2% | 98.6% |  |
-| 28 | 5% | 96% |  |
-| 29 | 9% | 91% | Last Result |
-| 30 | 14% | 82% |  |
-| 31 | 20% | 68% | Median |
-| 32 | 21% | 48% |  |
-| 33 | 16% | 27% |  |
-| 34 | 8% | 12% |  |
-| 35 | 3% | 4% |  |
-| 36 | 0.7% | 0.9% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.5% | 99.9% |  |
+| 26 | 1.5% | 99.4% |  |
+| 27 | 3% | 98% |  |
+| 28 | 6% | 95% |  |
+| 29 | 11% | 89% | Last Result |
+| 30 | 16% | 78% |  |
+| 31 | 20% | 62% | Median |
+| 32 | 19% | 42% |  |
+| 33 | 13% | 23% |  |
+| 34 | 6% | 9% |  |
+| 35 | 2% | 3% |  |
+| 36 | 0.6% | 0.7% |  |
 | 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
 
