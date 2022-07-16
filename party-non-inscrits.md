@@ -25,7 +25,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
 | Nye Borgerlige | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,22 +41,22 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-06-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0.1% | 100% |  |
-| 25 | 0.5% | 99.9% |  |
-| 26 | 1.5% | 99.4% |  |
+| 25 | 0.6% | 99.9% |  |
+| 26 | 2% | 99.3% |  |
 | 27 | 3% | 98% |  |
 | 28 | 6% | 95% |  |
-| 29 | 11% | 89% | Last Result |
-| 30 | 16% | 78% |  |
-| 31 | 20% | 62% | Median |
-| 32 | 19% | 42% |  |
-| 33 | 13% | 23% |  |
+| 29 | 11% | 88% | Last Result |
+| 30 | 16% | 77% |  |
+| 31 | 20% | 61% | Median |
+| 32 | 19% | 41% |  |
+| 33 | 13% | 22% |  |
 | 34 | 6% | 9% |  |
 | 35 | 2% | 3% |  |
 | 36 | 0.6% | 0.7% |  |
