@@ -23,14 +23,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 4–5 | 3–6 | 3–6 | 2–7 |
+| Die Linke | DE | | 4 | 3–5 | 3–6 | 3–7 | 2–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -61,16 +61,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0.2% | 100% |  |
-| 49 | 0.8% | 99.7% |  |
-| 50 | 3% | 98.9% |  |
-| 51 | 7% | 96% |  |
-| 52 | 13% | 89% |  |
-| 53 | 18% | 77% |  |
-| 54 | 20% | 58% | Median |
-| 55 | 17% | 38% |  |
-| 56 | 11% | 21% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.3% | 99.9% |  |
+| 49 | 1.1% | 99.7% |  |
+| 50 | 3% | 98.6% |  |
+| 51 | 7% | 95% |  |
+| 52 | 13% | 88% |  |
+| 53 | 18% | 75% |  |
+| 54 | 20% | 56% | Median |
+| 55 | 17% | 37% |  |
+| 56 | 11% | 20% |  |
 | 57 | 6% | 9% |  |
 | 58 | 2% | 3% |  |
 | 59 | 0.7% | 0.9% |  |

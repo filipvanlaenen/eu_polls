@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **59** seats (-8 seats)
+Current median: **60** seats (-7 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 54–64 | 53–65 | 52–67 |
-| Bündnis 90/Die Grünen | DE | | 21 | 18–24 | 18–24 | 18–25 | 17–26 |
+| Greens–European Free Alliance | EU | 67 | 60 | 56–65 | 55–66 | 54–67 | 52–69 |
+| Bündnis 90/Die Grünen | DE | | 22 | 18–24 | 18–26 | 18–26 | 17–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Coalició Compromís | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Latvijas Krievu savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -39,12 +39,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
+| Europa Verde | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,25 +66,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.1% | 100% |  |
-| 51 | 0.3% | 99.9% |  |
-| 52 | 0.7% | 99.6% |  |
-| 53 | 1.5% | 99.0% |  |
-| 54 | 3% | 97% |  |
-| 55 | 5% | 95% |  |
-| 56 | 7% | 90% |  |
-| 57 | 10% | 83% |  |
-| 58 | 12% | 73% |  |
-| 59 | 13% | 61% | Median |
-| 60 | 12% | 49% |  |
-| 61 | 11% | 37% |  |
-| 62 | 9% | 25% |  |
-| 63 | 7% | 16% |  |
-| 64 | 5% | 9% |  |
-| 65 | 3% | 5% |  |
-| 66 | 1.3% | 2% |  |
-| 67 | 0.6% | 0.9% | Last Result |
-| 68 | 0.2% | 0.3% |  |
-| 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 51 | 0.2% | 99.9% |  |
+| 52 | 0.5% | 99.8% |  |
+| 53 | 1.1% | 99.3% |  |
+| 54 | 2% | 98% |  |
+| 55 | 4% | 96% |  |
+| 56 | 6% | 92% |  |
+| 57 | 8% | 86% |  |
+| 58 | 10% | 79% |  |
+| 59 | 11% | 69% |  |
+| 60 | 12% | 58% | Median |
+| 61 | 11% | 46% |  |
+| 62 | 10% | 35% |  |
+| 63 | 8% | 25% |  |
+| 64 | 6% | 17% |  |
+| 65 | 4% | 10% |  |
+| 66 | 3% | 6% |  |
+| 67 | 2% | 3% | Last Result |
+| 68 | 0.9% | 2% |  |
+| 69 | 0.4% | 0.7% |  |
+| 70 | 0.2% | 0.3% |  |
+| 71 | 0.1% | 0.1% |  |
+| 72 | 0% | 0% |  |
 
 

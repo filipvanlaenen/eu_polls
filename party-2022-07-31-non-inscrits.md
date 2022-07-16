@@ -18,13 +18,13 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 31 | 28–33 | 27–34 | 27–35 | 25–36 |
+| Non-Inscrits | EU | 29 | 31 | 28–33 | 27–34 | 26–35 | 25–36 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12 | 12 | 12 | 12 |
-| Movimento 5 Stelle | IT | | 9 | 7–11 | 6–11 | 5–12 | 5–12 |
+| Movimento 5 Stelle | IT | | 9 | 7–11 | 6–12 | 6–12 | 5–13 |
 | Konfederacja | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -47,20 +47,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 0.5% | 99.9% |  |
-| 26 | 1.5% | 99.4% |  |
-| 27 | 3% | 98% |  |
-| 28 | 6% | 95% |  |
-| 29 | 11% | 89% | Last Result |
-| 30 | 16% | 78% |  |
-| 31 | 20% | 62% | Median |
-| 32 | 19% | 42% |  |
-| 33 | 13% | 23% |  |
-| 34 | 6% | 9% |  |
-| 35 | 2% | 3% |  |
-| 36 | 0.6% | 0.7% |  |
-| 37 | 0.1% | 0.1% |  |
+| 24 | 0.2% | 100% |  |
+| 25 | 0.7% | 99.8% |  |
+| 26 | 2% | 99.0% |  |
+| 27 | 4% | 97% |  |
+| 28 | 7% | 93% |  |
+| 29 | 12% | 86% | Last Result |
+| 30 | 17% | 74% |  |
+| 31 | 19% | 57% | Median |
+| 32 | 17% | 38% |  |
+| 33 | 11% | 21% |  |
+| 34 | 6% | 10% |  |
+| 35 | 3% | 4% |  |
+| 36 | 0.8% | 1.1% |  |
+| 37 | 0.2% | 0.3% |  |
 | 38 | 0% | 0% |  |
 
 
