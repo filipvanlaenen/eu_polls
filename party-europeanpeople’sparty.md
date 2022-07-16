@@ -10,26 +10,26 @@ Last result: **187** seats (General Election of 26 May 2019)
 
 Current median: **156** seats (-31 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–162 | 149–164 | 148–166 | 145–169 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 17–22 | 16–24 | 16–24 |
-| Partido Popular | ES | | 19 | 16–21 | 15–22 | 14–22 | 13–24 |
+| European People’s Party | EU | 187 | 156 | 150–162 | 149–163 | 148–165 | 145–168 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–24 | 18–24 | 17–24 |
+| Partido Popular | ES | | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
 | Les Républicains | FR | | 11 | 11 | 11 | 11 | 11 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| Forza Italia | IT | | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
 | Partido Social Democrata | PT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–9 | 5–9 | 5–9 | 5–10 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
@@ -46,9 +46,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Erakond Isamaa | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,6 +57,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -75,43 +75,42 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-06-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-06-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 0% | 100% |  |
-| 143 | 0.1% | 99.9% |  |
-| 144 | 0.2% | 99.8% |  |
-| 145 | 0.3% | 99.6% |  |
-| 146 | 0.6% | 99.3% |  |
-| 147 | 1.0% | 98.7% |  |
+| 143 | 0.1% | 100% |  |
+| 144 | 0.2% | 99.9% |  |
+| 145 | 0.3% | 99.7% |  |
+| 146 | 0.6% | 99.4% |  |
+| 147 | 1.1% | 98.8% |  |
 | 148 | 2% | 98% |  |
-| 149 | 2% | 96% |  |
-| 150 | 3% | 94% |  |
-| 151 | 4% | 91% |  |
-| 152 | 5% | 86% |  |
-| 153 | 7% | 81% |  |
-| 154 | 8% | 74% |  |
-| 155 | 8% | 67% |  |
-| 156 | 9% | 59% | Median |
-| 157 | 9% | 50% |  |
-| 158 | 8% | 41% |  |
-| 159 | 7% | 33% |  |
-| 160 | 6% | 25% |  |
-| 161 | 5% | 19% |  |
-| 162 | 4% | 14% |  |
-| 163 | 3% | 10% |  |
-| 164 | 2% | 6% |  |
-| 165 | 2% | 4% |  |
-| 166 | 1.0% | 3% |  |
-| 167 | 0.7% | 2% |  |
-| 168 | 0.4% | 0.9% |  |
-| 169 | 0.2% | 0.5% |  |
-| 170 | 0.1% | 0.3% |  |
+| 149 | 3% | 96% |  |
+| 150 | 4% | 93% |  |
+| 151 | 5% | 89% |  |
+| 152 | 6% | 84% |  |
+| 153 | 8% | 77% |  |
+| 154 | 8% | 70% |  |
+| 155 | 9% | 61% |  |
+| 156 | 9% | 52% | Median |
+| 157 | 8% | 44% |  |
+| 158 | 8% | 35% |  |
+| 159 | 7% | 28% |  |
+| 160 | 6% | 21% |  |
+| 161 | 4% | 15% |  |
+| 162 | 3% | 11% |  |
+| 163 | 3% | 7% |  |
+| 164 | 2% | 5% |  |
+| 165 | 1.2% | 3% |  |
+| 166 | 0.8% | 2% |  |
+| 167 | 0.5% | 1.2% |  |
+| 168 | 0.3% | 0.7% |  |
+| 169 | 0.2% | 0.4% |  |
+| 170 | 0.1% | 0.2% |  |
 | 171 | 0.1% | 0.1% |  |
-| 172 | 0% | 0.1% |  |
+| 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |
 | 175 | 0% | 0% |  |

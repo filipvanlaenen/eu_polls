@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 4–9 | 4–10 | 4–11 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–7 | 4–9 | 4–10 | 4–11 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,12 +62,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 7% | 100% |  |
 | 5 | 23% | 93% |  |
 | 6 | 34% | 71% | Median |
-| 7 | 26% | 37% |  |
+| 7 | 26% | 36% |  |
 | 8 | 4% | 10% |  |
-| 9 | 2% | 6% |  |
+| 9 | 2% | 5% |  |
 | 10 | 2% | 4% |  |
 | 11 | 2% | 2% |  |
-| 12 | 0.4% | 0.4% |  |
+| 12 | 0.3% | 0.4% |  |
 | 13 | 0% | 0% |  |
 
 
