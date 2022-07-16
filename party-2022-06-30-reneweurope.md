@@ -18,14 +18,14 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–102 | 91–104 | 89–105 | 87–108 |
+| Renew Europe | EU | 98 | 97 | 92–103 | 91–104 | 89–105 | 87–108 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
 | Polska 2050 | PL | | 6 | 4–8 | 4–9 | 4–9 | 3–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -79,23 +79,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 2% | 97% |  |
 | 91 | 3% | 95% |  |
 | 92 | 4% | 92% |  |
-| 93 | 6% | 88% |  |
+| 93 | 6% | 87% |  |
 | 94 | 7% | 82% |  |
 | 95 | 8% | 75% |  |
 | 96 | 9% | 67% |  |
-| 97 | 10% | 58% | Median |
-| 98 | 10% | 48% | Last Result |
+| 97 | 10% | 57% | Median |
+| 98 | 9% | 48% | Last Result |
 | 99 | 9% | 38% |  |
-| 100 | 8% | 29% |  |
-| 101 | 7% | 21% |  |
+| 100 | 8% | 30% |  |
+| 101 | 7% | 22% |  |
 | 102 | 5% | 15% |  |
 | 103 | 4% | 10% |  |
 | 104 | 3% | 6% |  |
 | 105 | 2% | 4% |  |
 | 106 | 1.0% | 2% |  |
-| 107 | 0.5% | 1.1% |  |
-| 108 | 0.3% | 0.5% |  |
-| 109 | 0.1% | 0.2% |  |
+| 107 | 0.6% | 1.2% |  |
+| 108 | 0.3% | 0.6% |  |
+| 109 | 0.2% | 0.3% |  |
 | 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0% |  |
 

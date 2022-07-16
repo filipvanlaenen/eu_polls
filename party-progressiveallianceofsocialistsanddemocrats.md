@@ -18,10 +18,10 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 136–146 | 135–147 | 134–148 | 132–151 |
-| Sozialdemokratische Partei Deutschlands | DE | | 20 | 18–22 | 17–23 | 17–24 | 16–24 |
-| Partito Democratico | IT | | 18 | 16–20 | 16–21 | 16–21 | 15–21 |
-| Partido Socialista Obrero Español | ES | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 136–146 | 135–147 | 133–148 | 131–151 |
+| Sozialdemokratische Partei Deutschlands | DE | | 20 | 18–22 | 17–23 | 16–23 | 16–24 |
+| Partito Democratico | IT | | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
+| Partido Socialista Obrero Español | ES | | 15 | 14–18 | 13–18 | 13–18 | 12–19 |
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
 | United Opposition | HU | | 8 | 8 | 8 | 8 | 8 |
@@ -57,38 +57,37 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-06-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-06-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 129 | 0% | 100% |  |
-| 130 | 0.1% | 99.9% |  |
-| 131 | 0.3% | 99.8% |  |
-| 132 | 0.6% | 99.6% |  |
-| 133 | 1.1% | 99.0% |  |
-| 134 | 2% | 98% |  |
-| 135 | 3% | 96% |  |
-| 136 | 5% | 93% |  |
-| 137 | 6% | 88% |  |
-| 138 | 8% | 82% |  |
-| 139 | 10% | 74% |  |
-| 140 | 10% | 64% |  |
-| 141 | 11% | 54% | Median |
-| 142 | 10% | 43% |  |
-| 143 | 9% | 33% |  |
-| 144 | 7% | 24% |  |
-| 145 | 6% | 17% |  |
-| 146 | 4% | 11% |  |
-| 147 | 3% | 7% | Last Result |
+| 129 | 0.1% | 100% |  |
+| 130 | 0.2% | 99.9% |  |
+| 131 | 0.4% | 99.7% |  |
+| 132 | 0.7% | 99.4% |  |
+| 133 | 1.3% | 98.7% |  |
+| 134 | 2% | 97% |  |
+| 135 | 3% | 95% |  |
+| 136 | 5% | 92% |  |
+| 137 | 7% | 87% |  |
+| 138 | 8% | 80% |  |
+| 139 | 10% | 72% |  |
+| 140 | 10% | 62% |  |
+| 141 | 11% | 52% | Median |
+| 142 | 10% | 41% |  |
+| 143 | 9% | 31% |  |
+| 144 | 7% | 23% |  |
+| 145 | 5% | 16% |  |
+| 146 | 4% | 10% |  |
+| 147 | 3% | 6% | Last Result |
 | 148 | 2% | 4% |  |
-| 149 | 1.1% | 2% |  |
-| 150 | 0.6% | 1.3% |  |
-| 151 | 0.3% | 0.7% |  |
-| 152 | 0.2% | 0.3% |  |
+| 149 | 1.0% | 2% |  |
+| 150 | 0.5% | 1.1% |  |
+| 151 | 0.3% | 0.5% |  |
+| 152 | 0.1% | 0.2% |  |
 | 153 | 0.1% | 0.1% |  |
-| 154 | 0% | 0.1% |  |
-| 155 | 0% | 0% |  |
+| 154 | 0% | 0% |  |
 
 

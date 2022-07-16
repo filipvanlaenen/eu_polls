@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 53–64 | 52–65 | 51–67 |
+| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 53–64 | 52–65 | 51–66 |
 | Bündnis 90/Die Grünen | DE | | 21 | 18–24 | 18–24 | 17–25 | 16–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -44,7 +44,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Europa Verde | IT | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.1% | 100% |  |
 | 50 | 0.3% | 99.9% |  |
 | 51 | 0.7% | 99.6% |  |
-| 52 | 2% | 98.9% |  |
+| 52 | 2% | 98.8% |  |
 | 53 | 3% | 97% |  |
 | 54 | 4% | 95% |  |
 | 55 | 6% | 90% |  |
@@ -77,15 +77,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 11% | 66% |  |
 | 59 | 12% | 55% | Median |
 | 60 | 12% | 43% |  |
-| 61 | 10% | 32% |  |
+| 61 | 10% | 31% |  |
 | 62 | 8% | 21% |  |
 | 63 | 6% | 13% |  |
 | 64 | 4% | 7% |  |
 | 65 | 2% | 3% |  |
-| 66 | 0.9% | 1.4% |  |
+| 66 | 0.8% | 1.3% |  |
 | 67 | 0.3% | 0.5% | Last Result |
-| 68 | 0.1% | 0.2% |  |
-| 69 | 0% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 68 | 0.1% | 0.1% |  |
+| 69 | 0% | 0% |  |
 
 
