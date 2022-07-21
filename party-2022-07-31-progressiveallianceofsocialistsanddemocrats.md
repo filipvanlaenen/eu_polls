@@ -10,15 +10,15 @@ Last result: **147** seats (General Election of 26 May 2019)
 
 Current median: **140** seats (-7 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–145 | 134–146 | 133–147 | 131–150 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 136–145 | 134–146 | 133–148 | 131–150 |
 | Sozialdemokratische Partei Deutschlands | DE | | 19 | 18–22 | 17–23 | 17–24 | 16–24 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
@@ -42,6 +42,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -51,8 +52,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
@@ -63,31 +63,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0% | 100% |  |
-| 129 | 0.1% | 99.9% |  |
+| 129 | 0.1% | 100% |  |
 | 130 | 0.2% | 99.9% |  |
-| 131 | 0.5% | 99.6% |  |
-| 132 | 1.0% | 99.1% |  |
-| 133 | 2% | 98% |  |
-| 134 | 3% | 96% |  |
-| 135 | 4% | 93% |  |
-| 136 | 6% | 89% |  |
-| 137 | 8% | 83% |  |
-| 138 | 10% | 75% |  |
-| 139 | 11% | 65% |  |
-| 140 | 11% | 55% | Median |
-| 141 | 10% | 44% |  |
-| 142 | 9% | 34% |  |
-| 143 | 8% | 25% |  |
-| 144 | 6% | 17% |  |
-| 145 | 4% | 11% |  |
-| 146 | 3% | 7% |  |
-| 147 | 2% | 4% | Last Result |
-| 148 | 1.1% | 2% |  |
-| 149 | 0.6% | 1.2% |  |
-| 150 | 0.3% | 0.6% |  |
-| 151 | 0.2% | 0.3% |  |
-| 152 | 0.1% | 0.1% |  |
-| 153 | 0% | 0% |  |
+| 131 | 0.4% | 99.7% |  |
+| 132 | 0.8% | 99.3% |  |
+| 133 | 1.5% | 98.5% |  |
+| 134 | 3% | 97% |  |
+| 135 | 4% | 95% |  |
+| 136 | 6% | 91% |  |
+| 137 | 7% | 85% |  |
+| 138 | 9% | 78% |  |
+| 139 | 10% | 69% |  |
+| 140 | 11% | 58% | Median |
+| 141 | 10% | 48% |  |
+| 142 | 10% | 37% |  |
+| 143 | 8% | 28% |  |
+| 144 | 6% | 20% |  |
+| 145 | 5% | 13% |  |
+| 146 | 3% | 8% |  |
+| 147 | 2% | 5% | Last Result |
+| 148 | 1.3% | 3% |  |
+| 149 | 0.8% | 2% |  |
+| 150 | 0.4% | 0.8% |  |
+| 151 | 0.2% | 0.4% |  |
+| 152 | 0.1% | 0.2% |  |
+| 153 | 0% | 0.1% |  |
+| 154 | 0% | 0% |  |
 
 

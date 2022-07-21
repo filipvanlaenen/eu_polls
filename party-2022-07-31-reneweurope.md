@@ -27,7 +27,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -39,8 +39,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -74,27 +74,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
 | 87 | 0.4% | 99.7% |  |
-| 88 | 0.7% | 99.4% |  |
-| 89 | 1.2% | 98.7% |  |
+| 88 | 0.8% | 99.3% |  |
+| 89 | 1.3% | 98.6% |  |
 | 90 | 2% | 97% |  |
 | 91 | 3% | 95% |  |
 | 92 | 4% | 92% |  |
-| 93 | 6% | 88% |  |
-| 94 | 7% | 82% |  |
-| 95 | 9% | 75% |  |
-| 96 | 10% | 66% |  |
-| 97 | 10% | 57% | Median |
-| 98 | 10% | 47% | Last Result |
-| 99 | 9% | 37% |  |
-| 100 | 8% | 28% |  |
-| 101 | 6% | 20% |  |
-| 102 | 5% | 14% |  |
-| 103 | 3% | 9% |  |
+| 93 | 6% | 87% |  |
+| 94 | 7% | 81% |  |
+| 95 | 9% | 74% |  |
+| 96 | 10% | 65% |  |
+| 97 | 10% | 56% | Median |
+| 98 | 10% | 46% | Last Result |
+| 99 | 9% | 36% |  |
+| 100 | 8% | 27% |  |
+| 101 | 6% | 19% |  |
+| 102 | 5% | 13% |  |
+| 103 | 3% | 8% |  |
 | 104 | 2% | 5% |  |
 | 105 | 1.4% | 3% |  |
 | 106 | 0.8% | 2% |  |
-| 107 | 0.5% | 0.9% |  |
-| 108 | 0.3% | 0.5% |  |
+| 107 | 0.4% | 0.9% |  |
+| 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
 | 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0% |  |

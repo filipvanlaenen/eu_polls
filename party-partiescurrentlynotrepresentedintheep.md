@@ -12,16 +12,16 @@ Current median: **6** seats (+6 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
-> AT, BG, NL
+> BG, DK, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 5–7 | 4–9 | 4–10 | 4–11 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–9 | 4–10 | 4–11 | 4–12 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -36,6 +36,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -49,9 +50,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-06-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-06-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,14 +61,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 7% | 100% |  |
-| 5 | 23% | 93% |  |
-| 6 | 34% | 71% | Median |
-| 7 | 26% | 36% |  |
-| 8 | 4% | 10% |  |
-| 9 | 2% | 5% |  |
-| 10 | 2% | 4% |  |
-| 11 | 2% | 2% |  |
-| 12 | 0.3% | 0.4% |  |
-| 13 | 0% | 0% |  |
+| 5 | 20% | 93% |  |
+| 6 | 24% | 73% | Median |
+| 7 | 22% | 50% |  |
+| 8 | 15% | 27% |  |
+| 9 | 6% | 13% |  |
+| 10 | 4% | 6% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.8% | 1.3% |  |
+| 13 | 0.3% | 0.5% |  |
+| 14 | 0.1% | 0.2% |  |
+| 15 | 0% | 0% |  |
 
 
