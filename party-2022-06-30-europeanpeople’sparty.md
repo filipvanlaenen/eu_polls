@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 150–162 | 149–163 | 148–165 | 145–168 |
+| European People’s Party | EU | 187 | 156 | 150–162 | 149–164 | 148–165 | 145–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–24 | 18–24 | 17–24 |
 | Partido Popular | ES | | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
@@ -33,7 +33,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 4 | 4 | 4 |
-| Fine Gael | IE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
+| Fine Gael | IE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Koalicja Polska | PL | | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -48,7 +48,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -68,7 +68,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 143 | 0.1% | 100% |  |
-| 144 | 0.2% | 99.9% |  |
+| 144 | 0.1% | 99.9% |  |
 | 145 | 0.3% | 99.7% |  |
 | 146 | 0.6% | 99.4% |  |
 | 147 | 1.1% | 98.8% |  |
@@ -91,17 +91,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 4% | 93% |  |
 | 151 | 5% | 89% |  |
 | 152 | 6% | 84% |  |
-| 153 | 8% | 77% |  |
+| 153 | 8% | 78% |  |
 | 154 | 8% | 70% |  |
-| 155 | 9% | 61% |  |
-| 156 | 9% | 52% | Median |
+| 155 | 9% | 62% |  |
+| 156 | 9% | 53% | Median |
 | 157 | 8% | 44% |  |
-| 158 | 8% | 35% |  |
+| 158 | 8% | 36% |  |
 | 159 | 7% | 28% |  |
 | 160 | 6% | 21% |  |
-| 161 | 4% | 15% |  |
+| 161 | 5% | 16% |  |
 | 162 | 3% | 11% |  |
-| 163 | 3% | 7% |  |
+| 163 | 3% | 8% |  |
 | 164 | 2% | 5% |  |
 | 165 | 1.2% | 3% |  |
 | 166 | 0.8% | 2% |  |
