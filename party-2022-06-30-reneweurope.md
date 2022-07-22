@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **98** seats (0 seats)
+Current median: **97** seats (-1 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 98 | 92–103 | 91–104 | 90–105 | 87–108 |
+| Renew Europe | EU | 98 | 97 | 92–103 | 91–104 | 89–105 | 87–108 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 8 | 6–9 | 5–9 | 5–9 | 5–10 |
@@ -72,28 +72,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 85 | 0.1% | 100% |  |
-| 86 | 0.1% | 99.9% |  |
-| 87 | 0.3% | 99.8% |  |
-| 88 | 0.6% | 99.5% |  |
-| 89 | 1.1% | 98.9% |  |
-| 90 | 2% | 98% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.4% | 99.7% |  |
+| 88 | 0.7% | 99.4% |  |
+| 89 | 1.2% | 98.7% |  |
+| 90 | 2% | 97% |  |
 | 91 | 3% | 96% |  |
 | 92 | 4% | 93% |  |
-| 93 | 5% | 89% |  |
-| 94 | 7% | 84% |  |
-| 95 | 8% | 77% |  |
-| 96 | 9% | 69% |  |
-| 97 | 10% | 60% |  |
-| 98 | 10% | 51% | Last Result, Median |
-| 99 | 9% | 41% |  |
-| 100 | 8% | 32% |  |
-| 101 | 7% | 24% |  |
-| 102 | 5% | 17% |  |
-| 103 | 4% | 11% |  |
+| 93 | 5% | 88% |  |
+| 94 | 7% | 83% |  |
+| 95 | 8% | 76% |  |
+| 96 | 9% | 68% |  |
+| 97 | 10% | 59% | Median |
+| 98 | 10% | 49% | Last Result |
+| 99 | 9% | 40% |  |
+| 100 | 8% | 31% |  |
+| 101 | 7% | 22% |  |
+| 102 | 5% | 16% |  |
+| 103 | 4% | 10% |  |
 | 104 | 3% | 7% |  |
 | 105 | 2% | 4% |  |
-| 106 | 1.1% | 2% |  |
-| 107 | 0.6% | 1.3% |  |
+| 106 | 1.0% | 2% |  |
+| 107 | 0.6% | 1.2% |  |
 | 108 | 0.3% | 0.6% |  |
 | 109 | 0.2% | 0.3% |  |
 | 110 | 0.1% | 0.1% |  |
