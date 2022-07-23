@@ -43,7 +43,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Stabilitātei! [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Stabilitātei! [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -60,9 +60,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 6% | 100% |  |
-| 5 | 20% | 94% |  |
-| 6 | 33% | 74% | Median |
+| 4 | 5% | 100% |  |
+| 5 | 20% | 95% |  |
+| 6 | 32% | 75% | Median |
 | 7 | 28% | 42% |  |
 | 8 | 8% | 14% |  |
 | 9 | 2% | 6% |  |
