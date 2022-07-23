@@ -18,20 +18,20 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 31 | 28–34 | 27–34 | 27–35 | 25–36 |
+| Non-Inscrits | EU | 29 | 31 | 29–34 | 28–34 | 27–35 | 26–36 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12 | 12 | 12 | 12 |
 | Movimento 5 Stelle | IT | | 9 | 7–11 | 6–12 | 6–12 | 5–13 |
-| Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
-| Nye Borgerlige | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Insieme per il Futuro | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -41,25 +41,25 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-06-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-06-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 0.6% | 99.8% |  |
-| 26 | 2% | 99.2% |  |
-| 27 | 3% | 98% |  |
-| 28 | 6% | 94% |  |
-| 29 | 11% | 88% | Last Result |
-| 30 | 15% | 77% |  |
-| 31 | 19% | 62% | Median |
-| 32 | 18% | 43% |  |
-| 33 | 13% | 25% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0.2% | 99.9% |  |
+| 26 | 0.6% | 99.8% |  |
+| 27 | 2% | 99.2% |  |
+| 28 | 5% | 97% |  |
+| 29 | 12% | 92% | Last Result |
+| 30 | 18% | 80% |  |
+| 31 | 20% | 63% | Median |
+| 32 | 18% | 42% |  |
+| 33 | 13% | 24% |  |
 | 34 | 7% | 12% |  |
 | 35 | 3% | 5% |  |
-| 36 | 1.1% | 2% |  |
+| 36 | 1.1% | 1.5% |  |
 | 37 | 0.3% | 0.4% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
