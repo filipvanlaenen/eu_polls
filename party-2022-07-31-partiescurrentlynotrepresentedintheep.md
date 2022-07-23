@@ -34,10 +34,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Nacionālā Savienība Taisnīgums [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -64,12 +65,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 17% | 95% |  |
 | 6 | 23% | 78% |  |
 | 7 | 23% | 55% | Median |
-| 8 | 16% | 32% |  |
-| 9 | 8% | 16% |  |
-| 10 | 4% | 7% |  |
+| 8 | 17% | 33% |  |
+| 9 | 9% | 16% |  |
+| 10 | 4% | 8% |  |
 | 11 | 2% | 4% |  |
 | 12 | 0.9% | 2% |  |
-| 13 | 0.4% | 0.6% |  |
+| 13 | 0.4% | 0.7% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0% | 0% |  |
