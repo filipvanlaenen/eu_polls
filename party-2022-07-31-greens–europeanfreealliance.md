@@ -18,18 +18,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 60 | 56–64 | 55–65 | 54–66 | 52–68 |
-| Bündnis 90/Die Grünen | DE | | 21 | 18–24 | 18–26 | 18–26 | 17–26 |
+| Greens–European Free Alliance | EU | 67 | 60 | 56–64 | 55–65 | 55–66 | 53–68 |
+| Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 18–26 | 18–26 | 17–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
@@ -38,20 +39,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Česká pirátská strana | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -65,25 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 50 | 0.1% | 100% |  |
-| 51 | 0.2% | 99.9% |  |
-| 52 | 0.6% | 99.7% |  |
-| 53 | 1.3% | 99.1% |  |
-| 54 | 3% | 98% |  |
-| 55 | 4% | 95% |  |
-| 56 | 6% | 91% |  |
-| 57 | 9% | 84% |  |
-| 58 | 10% | 76% |  |
-| 59 | 11% | 66% |  |
-| 60 | 12% | 54% | Median |
-| 61 | 11% | 42% |  |
-| 62 | 10% | 31% |  |
-| 63 | 8% | 21% |  |
-| 64 | 6% | 14% |  |
-| 65 | 4% | 8% |  |
-| 66 | 2% | 4% |  |
-| 67 | 1.2% | 2% | Last Result |
-| 68 | 0.6% | 1.0% |  |
+| 51 | 0.1% | 100% |  |
+| 52 | 0.2% | 99.9% |  |
+| 53 | 0.6% | 99.7% |  |
+| 54 | 1.5% | 99.1% |  |
+| 55 | 3% | 98% |  |
+| 56 | 5% | 95% |  |
+| 57 | 7% | 90% |  |
+| 58 | 9% | 82% |  |
+| 59 | 11% | 73% |  |
+| 60 | 13% | 62% | Median |
+| 61 | 13% | 49% |  |
+| 62 | 12% | 36% |  |
+| 63 | 9% | 25% |  |
+| 64 | 7% | 15% |  |
+| 65 | 4% | 9% |  |
+| 66 | 2% | 5% |  |
+| 67 | 1.3% | 2% | Last Result |
+| 68 | 0.6% | 1.1% |  |
 | 69 | 0.3% | 0.4% |  |
 | 70 | 0.1% | 0.2% |  |
 | 71 | 0% | 0.1% |  |

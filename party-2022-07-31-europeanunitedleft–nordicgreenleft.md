@@ -18,24 +18,24 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 54 | 51–56 | 51–57 | 50–58 | 49–59 |
+| European United Left–Nordic Green Left | EU | 39 | 54 | 52–57 | 51–57 | 51–58 | 50–59 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
 | Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| Die Linke | DE | | 4 | 3–6 | 3–6 | 3–7 | 2–7 |
+| Die Linke | DE | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
-| Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bloco de Esquerda | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -62,17 +62,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
 | 47 | 0% | 100% |  |
-| 48 | 0.2% | 100% |  |
-| 49 | 0.9% | 99.7% |  |
-| 50 | 3% | 98.9% |  |
-| 51 | 7% | 96% |  |
-| 52 | 13% | 89% |  |
-| 53 | 18% | 76% |  |
-| 54 | 20% | 58% | Median |
-| 55 | 17% | 38% |  |
-| 56 | 11% | 21% |  |
-| 57 | 6% | 10% |  |
-| 58 | 2% | 4% |  |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.3% | 99.9% |  |
+| 50 | 1.4% | 99.6% |  |
+| 51 | 5% | 98% |  |
+| 52 | 10% | 94% |  |
+| 53 | 18% | 83% |  |
+| 54 | 22% | 65% | Median |
+| 55 | 20% | 44% |  |
+| 56 | 13% | 24% |  |
+| 57 | 7% | 11% |  |
+| 58 | 3% | 4% |  |
 | 59 | 0.8% | 1.1% |  |
 | 60 | 0.2% | 0.2% |  |
 | 61 | 0% | 0% |  |

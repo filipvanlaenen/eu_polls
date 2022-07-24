@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> CY, CZ, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
+> CY, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
 
 ## Seats
 
@@ -18,9 +18,9 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 31 | 29–34 | 28–34 | 27–35 | 26–36 |
+| Non-Inscrits | EU | 29 | 31 | 29–33 | 28–34 | 27–34 | 26–36 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12 | 12 | 12 | 12 |
-| Movimento 5 Stelle | IT | | 9 | 7–11 | 6–12 | 6–12 | 5–13 |
+| Movimento 5 Stelle | IT | | 9 | 7–10 | 6–11 | 6–12 | 5–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
@@ -36,7 +36,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -47,21 +46,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0% | 100% |  |
+| 24 | 0.1% | 100% |  |
 | 25 | 0.2% | 99.9% |  |
-| 26 | 0.6% | 99.8% |  |
-| 27 | 2% | 99.2% |  |
+| 26 | 0.7% | 99.7% |  |
+| 27 | 2% | 99.1% |  |
 | 28 | 6% | 97% |  |
-| 29 | 12% | 92% | Last Result |
-| 30 | 18% | 80% |  |
-| 31 | 21% | 62% | Median |
-| 32 | 18% | 42% |  |
-| 33 | 12% | 23% |  |
-| 34 | 7% | 11% |  |
-| 35 | 3% | 4% |  |
-| 36 | 1.0% | 1.4% |  |
-| 37 | 0.3% | 0.4% |  |
-| 38 | 0.1% | 0.1% |  |
-| 39 | 0% | 0% |  |
+| 29 | 14% | 91% | Last Result |
+| 30 | 21% | 77% |  |
+| 31 | 22% | 56% | Median |
+| 32 | 17% | 34% |  |
+| 33 | 10% | 17% |  |
+| 34 | 5% | 7% |  |
+| 35 | 2% | 2% |  |
+| 36 | 0.5% | 0.6% |  |
+| 37 | 0.1% | 0.1% |  |
+| 38 | 0% | 0% |  |
 
 
