@@ -25,7 +25,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 11 | 11 | 11 | 11 | 11 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
-| Partido Social Democrata | PT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Partido Social Democrata | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Partidul Național Liberal | RO | | 6 | 5–9 | 5–9 | 5–9 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -56,7 +56,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -83,25 +83,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 143 | 0.1% | 100% |  |
 | 144 | 0.1% | 99.9% |  |
-| 145 | 0.3% | 99.7% |  |
+| 145 | 0.3% | 99.8% |  |
 | 146 | 0.6% | 99.4% |  |
 | 147 | 1.1% | 98.8% |  |
 | 148 | 2% | 98% |  |
 | 149 | 3% | 96% |  |
 | 150 | 4% | 93% |  |
 | 151 | 5% | 89% |  |
-| 152 | 7% | 84% |  |
-| 153 | 8% | 77% |  |
-| 154 | 9% | 70% |  |
-| 155 | 9% | 61% |  |
-| 156 | 9% | 52% | Median |
-| 157 | 8% | 43% |  |
+| 152 | 6% | 84% |  |
+| 153 | 8% | 78% |  |
+| 154 | 8% | 70% |  |
+| 155 | 9% | 62% |  |
+| 156 | 9% | 53% | Median |
+| 157 | 9% | 44% |  |
 | 158 | 8% | 35% |  |
-| 159 | 7% | 27% |  |
-| 160 | 6% | 20% |  |
+| 159 | 7% | 28% |  |
+| 160 | 6% | 21% |  |
 | 161 | 4% | 15% |  |
 | 162 | 3% | 11% |  |
-| 163 | 2% | 7% |  |
+| 163 | 3% | 7% |  |
 | 164 | 2% | 5% |  |
 | 165 | 1.2% | 3% |  |
 | 166 | 0.8% | 2% |  |
