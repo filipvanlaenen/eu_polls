@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **31** seats (+2 seats)
+Current median: **35** seats (+6 seats)
 
 At least one member in **9 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,14 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 31 | 29–33 | 28–34 | 27–34 | 26–36 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 12 | 12 | 12 | 12 |
+| Non-Inscrits | EU | 29 | 35 | 32–37 | 31–38 | 30–39 | 29–40 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 9 | 7–10 | 6–11 | 6–12 | 5–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
-| Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
+| Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -33,7 +35,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,20 +47,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 0.2% | 99.9% |  |
-| 26 | 0.7% | 99.7% |  |
-| 27 | 2% | 99.1% |  |
-| 28 | 6% | 97% |  |
-| 29 | 14% | 91% | Last Result |
-| 30 | 21% | 77% |  |
-| 31 | 22% | 56% | Median |
-| 32 | 17% | 34% |  |
-| 33 | 10% | 17% |  |
-| 34 | 5% | 7% |  |
-| 35 | 2% | 2% |  |
-| 36 | 0.5% | 0.6% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.2% | 99.9% |  |
+| 29 | 0.7% | 99.7% | Last Result |
+| 30 | 2% | 99.0% |  |
+| 31 | 4% | 97% |  |
+| 32 | 9% | 93% |  |
+| 33 | 14% | 84% |  |
+| 34 | 19% | 70% |  |
+| 35 | 19% | 51% | Median |
+| 36 | 15% | 32% |  |
+| 37 | 9% | 17% |  |
+| 38 | 5% | 7% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.6% | 0.8% |  |
+| 41 | 0.2% | 0.2% |  |
+| 42 | 0% | 0% |  |
 
 

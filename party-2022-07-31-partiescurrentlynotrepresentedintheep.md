@@ -18,11 +18,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–10 | 5–11 | 5–12 | 4–14 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 6–11 | 6–12 | 5–13 | 4–15 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
+| Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -48,7 +49,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -62,19 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 7% | 98% |  |
-| 6 | 13% | 91% |  |
-| 7 | 20% | 79% |  |
-| 8 | 24% | 58% | Median |
-| 9 | 17% | 34% |  |
-| 10 | 9% | 17% |  |
-| 11 | 4% | 8% |  |
-| 12 | 2% | 4% |  |
-| 13 | 1.0% | 2% |  |
-| 14 | 0.5% | 0.8% |  |
-| 15 | 0.2% | 0.3% |  |
-| 16 | 0.1% | 0.1% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 4% | 99.2% |  |
+| 6 | 9% | 95% |  |
+| 7 | 16% | 86% |  |
+| 8 | 22% | 70% | Median |
+| 9 | 21% | 48% |  |
+| 10 | 14% | 27% |  |
+| 11 | 7% | 13% |  |
+| 12 | 3% | 7% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.8% | 1.4% |  |
+| 15 | 0.4% | 0.6% |  |
+| 16 | 0.1% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 

@@ -1,14 +1,14 @@
 # Greens–European Free Alliance
 
-Members registered from **21 countries**:
+Members registered from **22 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, IE, IT, LT, LU, LV, NL, PT, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **60** seats (-7 seats)
+Current median: **59** seats (-8 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 60 | 56–64 | 55–65 | 55–66 | 53–68 |
+| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 54–64 | 53–65 | 52–67 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 18–26 | 18–26 | 17–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
-| Продължаваме промяната | BG | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Продължаваме промяната | BG | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -47,10 +47,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,27 +67,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 51 | 0.1% | 100% |  |
-| 52 | 0.2% | 99.9% |  |
-| 53 | 0.6% | 99.7% |  |
-| 54 | 1.5% | 99.1% |  |
-| 55 | 3% | 98% |  |
-| 56 | 5% | 95% |  |
-| 57 | 7% | 90% |  |
-| 58 | 9% | 82% |  |
-| 59 | 11% | 73% |  |
-| 60 | 13% | 62% | Median |
-| 61 | 13% | 49% |  |
-| 62 | 12% | 36% |  |
-| 63 | 9% | 25% |  |
-| 64 | 7% | 15% |  |
-| 65 | 4% | 9% |  |
-| 66 | 2% | 5% |  |
-| 67 | 1.2% | 2% | Last Result |
-| 68 | 0.6% | 1.1% |  |
-| 69 | 0.3% | 0.4% |  |
-| 70 | 0.1% | 0.2% |  |
-| 71 | 0% | 0.1% |  |
-| 72 | 0% | 0% |  |
+| 50 | 0.1% | 100% |  |
+| 51 | 0.3% | 99.9% |  |
+| 52 | 0.8% | 99.6% |  |
+| 53 | 2% | 98.7% |  |
+| 54 | 3% | 97% |  |
+| 55 | 5% | 93% |  |
+| 56 | 8% | 88% |  |
+| 57 | 10% | 80% |  |
+| 58 | 11% | 71% |  |
+| 59 | 13% | 59% | Median |
+| 60 | 12% | 47% |  |
+| 61 | 11% | 34% |  |
+| 62 | 9% | 23% |  |
+| 63 | 6% | 15% |  |
+| 64 | 4% | 8% |  |
+| 65 | 2% | 5% |  |
+| 66 | 1.2% | 2% |  |
+| 67 | 0.6% | 1.0% | Last Result |
+| 68 | 0.3% | 0.4% |  |
+| 69 | 0.1% | 0.2% |  |
+| 70 | 0% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 
