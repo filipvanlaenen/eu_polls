@@ -33,7 +33,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 3 | 3 | 3–4 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | SMER–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -65,9 +65,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 128 | 0% | 100% |  |
 | 129 | 0.1% | 99.9% |  |
-| 130 | 0.2% | 99.8% |  |
-| 131 | 0.5% | 99.6% |  |
-| 132 | 1.1% | 99.1% |  |
+| 130 | 0.3% | 99.8% |  |
+| 131 | 0.6% | 99.6% |  |
+| 132 | 1.1% | 99.0% |  |
 | 133 | 2% | 98% |  |
 | 134 | 3% | 96% |  |
 | 135 | 5% | 93% |  |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 137 | 8% | 82% |  |
 | 138 | 10% | 74% |  |
 | 139 | 10% | 64% |  |
-| 140 | 11% | 54% | Median |
+| 140 | 11% | 53% | Median |
 | 141 | 10% | 43% |  |
 | 142 | 9% | 33% |  |
 | 143 | 7% | 24% |  |
@@ -84,10 +84,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 3% | 7% |  |
 | 147 | 2% | 4% | Last Result |
 | 148 | 1.1% | 2% |  |
-| 149 | 0.7% | 1.3% |  |
+| 149 | 0.6% | 1.3% |  |
 | 150 | 0.4% | 0.7% |  |
 | 151 | 0.2% | 0.3% |  |
-| 152 | 0.1% | 0.2% |  |
+| 152 | 0.1% | 0.1% |  |
 | 153 | 0% | 0.1% |  |
 | 154 | 0% | 0% |  |
 
