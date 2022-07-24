@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+8 seats)
+Current median: **10** seats (+10 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,13 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–11 | 6–12 | 5–13 | 4–15 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–14 | 6–16 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Възраждане [BG] (*) | BG | | 2 | 2 | 2 | 2 | 1–2 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Има такъв народ [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Български възход [BG] (*) | BG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Има такъв народ [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -62,19 +63,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.8% | 100% |  |
-| 5 | 4% | 99.2% |  |
-| 6 | 9% | 95% |  |
-| 7 | 16% | 86% |  |
-| 8 | 22% | 70% | Median |
-| 9 | 21% | 48% |  |
-| 10 | 14% | 27% |  |
-| 11 | 7% | 13% |  |
-| 12 | 3% | 7% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.8% | 1.4% |  |
-| 15 | 0.4% | 0.6% |  |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 2% | 99.8% |  |
+| 7 | 6% | 98% |  |
+| 8 | 13% | 91% |  |
+| 9 | 19% | 79% |  |
+| 10 | 23% | 59% | Median |
+| 11 | 18% | 37% |  |
+| 12 | 10% | 19% |  |
+| 13 | 5% | 9% |  |
+| 14 | 2% | 4% |  |
+| 15 | 1.2% | 2% |  |
+| 16 | 0.6% | 0.9% |  |
+| 17 | 0.2% | 0.3% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

@@ -32,14 +32,14 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 3 | 3 | 2–3 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Demokratikus Koalíció | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | SMER–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
-| Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 1–2 |
+| Българска социалистическа партия | BG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -72,8 +72,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 2% | 98% |  |
 | 128 | 3% | 96% |  |
 | 129 | 4% | 94% |  |
-| 130 | 6% | 90% |  |
-| 131 | 7% | 84% |  |
+| 130 | 6% | 89% |  |
+| 131 | 8% | 83% |  |
 | 132 | 9% | 76% |  |
 | 133 | 10% | 67% |  |
 | 134 | 10% | 57% | Median |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 139 | 5% | 14% |  |
 | 140 | 3% | 9% |  |
 | 141 | 2% | 6% |  |
-| 142 | 2% | 4% |  |
+| 142 | 1.5% | 4% |  |
 | 143 | 0.9% | 2% |  |
 | 144 | 0.5% | 1.1% |  |
 | 145 | 0.3% | 0.6% |  |
