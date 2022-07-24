@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (-9 seats)
+Current median: **57** seats (-10 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 58 | 53–61 | 52–62 | 51–63 | 50–65 |
+| Greens–European Free Alliance | EU | 67 | 57 | 53–61 | 52–62 | 51–63 | 49–64 |
 | Bündnis 90/Die Grünen | DE | | 21 | 18–24 | 18–24 | 17–25 | 16–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -26,7 +26,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Coalició Compromís | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -34,6 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,26 +67,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 0.7% | 99.7% |  |
-| 51 | 2% | 98.9% |  |
-| 52 | 3% | 97% |  |
-| 53 | 5% | 94% |  |
-| 54 | 7% | 89% |  |
-| 55 | 9% | 82% |  |
-| 56 | 11% | 73% |  |
-| 57 | 12% | 63% |  |
-| 58 | 13% | 51% | Median |
-| 59 | 12% | 38% |  |
-| 60 | 10% | 26% |  |
-| 61 | 7% | 16% |  |
-| 62 | 5% | 9% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.1% | 2% |  |
-| 65 | 0.4% | 0.6% |  |
-| 66 | 0.1% | 0.2% |  |
-| 67 | 0% | 0.1% | Last Result |
-| 68 | 0% | 0% |  |
+| 47 | 0% | 100% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.5% | 99.8% |  |
+| 50 | 1.3% | 99.2% |  |
+| 51 | 3% | 98% |  |
+| 52 | 4% | 95% |  |
+| 53 | 6% | 91% |  |
+| 54 | 8% | 85% |  |
+| 55 | 10% | 77% |  |
+| 56 | 12% | 67% |  |
+| 57 | 13% | 55% | Median |
+| 58 | 12% | 43% |  |
+| 59 | 11% | 30% |  |
+| 60 | 8% | 20% |  |
+| 61 | 6% | 11% |  |
+| 62 | 3% | 6% |  |
+| 63 | 2% | 3% |  |
+| 64 | 0.7% | 1.0% |  |
+| 65 | 0.2% | 0.3% |  |
+| 66 | 0.1% | 0.1% |  |
+| 67 | 0% | 0% | Last Result |
 
 

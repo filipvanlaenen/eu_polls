@@ -42,7 +42,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -88,12 +88,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 0.9% | 99.0% |  |
 | 148 | 2% | 98% |  |
 | 149 | 2% | 97% |  |
-| 150 | 4% | 94% |  |
+| 150 | 3% | 94% |  |
 | 151 | 5% | 91% |  |
 | 152 | 6% | 86% |  |
 | 153 | 7% | 80% |  |
 | 154 | 8% | 73% |  |
-| 155 | 9% | 64% |  |
+| 155 | 9% | 65% |  |
 | 156 | 9% | 56% | Median |
 | 157 | 9% | 47% |  |
 | 158 | 8% | 38% |  |
@@ -107,7 +107,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 0.9% | 2% |  |
 | 167 | 0.6% | 1.4% |  |
 | 168 | 0.4% | 0.8% |  |
-| 169 | 0.2% | 0.4% |  |
+| 169 | 0.2% | 0.5% |  |
 | 170 | 0.1% | 0.2% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
