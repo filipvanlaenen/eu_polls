@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 131–141 | 130–143 | 129–144 | 127–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 131–141 | 129–142 | 128–144 | 126–146 |
 | Partito Democratico | IT | | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–22 | 17–23 | 16–24 | 16–24 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
@@ -33,7 +33,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Demokratikus Koalíció | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 2 | 2 | 1–2 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
@@ -49,7 +49,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Articolo Uno | IT | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,29 +66,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 124 | 0.1% | 100% |  |
-| 125 | 0.1% | 99.9% |  |
-| 126 | 0.3% | 99.8% |  |
-| 127 | 0.6% | 99.5% |  |
-| 128 | 1.1% | 98.9% |  |
-| 129 | 2% | 98% |  |
-| 130 | 3% | 96% |  |
-| 131 | 5% | 93% |  |
-| 132 | 6% | 88% |  |
-| 133 | 8% | 82% |  |
-| 134 | 9% | 74% |  |
-| 135 | 10% | 65% |  |
-| 136 | 10% | 54% | Median |
-| 137 | 10% | 44% |  |
-| 138 | 9% | 34% |  |
-| 139 | 7% | 26% |  |
-| 140 | 6% | 18% |  |
-| 141 | 4% | 12% |  |
-| 142 | 3% | 8% |  |
+| 125 | 0.2% | 99.9% |  |
+| 126 | 0.4% | 99.7% |  |
+| 127 | 0.8% | 99.3% |  |
+| 128 | 1.4% | 98.6% |  |
+| 129 | 2% | 97% |  |
+| 130 | 4% | 95% |  |
+| 131 | 5% | 91% |  |
+| 132 | 7% | 86% |  |
+| 133 | 8% | 79% |  |
+| 134 | 9% | 71% |  |
+| 135 | 10% | 62% |  |
+| 136 | 10% | 52% | Median |
+| 137 | 9% | 41% |  |
+| 138 | 8% | 32% |  |
+| 139 | 7% | 24% |  |
+| 140 | 5% | 17% |  |
+| 141 | 4% | 11% |  |
+| 142 | 3% | 7% |  |
 | 143 | 2% | 5% |  |
-| 144 | 1.3% | 3% |  |
-| 145 | 0.8% | 2% |  |
-| 146 | 0.4% | 0.9% |  |
-| 147 | 0.2% | 0.5% | Last Result |
+| 144 | 1.2% | 3% |  |
+| 145 | 0.7% | 2% |  |
+| 146 | 0.4% | 0.8% |  |
+| 147 | 0.2% | 0.4% | Last Result |
 | 148 | 0.1% | 0.2% |  |
 | 149 | 0.1% | 0.1% |  |
 | 150 | 0% | 0% |  |

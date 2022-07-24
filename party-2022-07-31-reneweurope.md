@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–102 | 90–103 | 89–105 | 87–107 |
+| Renew Europe | EU | 98 | 97 | 92–102 | 91–103 | 89–105 | 87–107 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–10 | 4–11 |
@@ -48,7 +48,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1 | 1 |
+| Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -75,27 +75,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
 | 87 | 0.4% | 99.8% |  |
-| 88 | 0.8% | 99.4% |  |
-| 89 | 1.4% | 98.6% |  |
+| 88 | 0.7% | 99.4% |  |
+| 89 | 1.3% | 98.7% |  |
 | 90 | 2% | 97% |  |
 | 91 | 3% | 95% |  |
-| 92 | 5% | 91% |  |
+| 92 | 5% | 92% |  |
 | 93 | 6% | 87% |  |
-| 94 | 8% | 80% |  |
-| 95 | 9% | 72% |  |
-| 96 | 10% | 63% |  |
-| 97 | 10% | 53% | Median |
-| 98 | 10% | 43% | Last Result |
-| 99 | 9% | 33% |  |
+| 94 | 8% | 81% |  |
+| 95 | 9% | 73% |  |
+| 96 | 10% | 64% |  |
+| 97 | 10% | 54% | Median |
+| 98 | 10% | 44% | Last Result |
+| 99 | 9% | 34% |  |
 | 100 | 7% | 25% |  |
-| 101 | 6% | 17% |  |
+| 101 | 6% | 18% |  |
 | 102 | 4% | 12% |  |
-| 103 | 3% | 7% |  |
-| 104 | 2% | 4% |  |
+| 103 | 3% | 8% |  |
+| 104 | 2% | 5% |  |
 | 105 | 1.2% | 3% |  |
 | 106 | 0.7% | 1.4% |  |
 | 107 | 0.4% | 0.7% |  |
-| 108 | 0.2% | 0.3% |  |
+| 108 | 0.2% | 0.4% |  |
 | 109 | 0.1% | 0.2% |  |
 | 110 | 0% | 0.1% |  |
 | 111 | 0% | 0% |  |
