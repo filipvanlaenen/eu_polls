@@ -23,7 +23,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
 | Koalicja Obywatelska | PL | | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
 | Les Républicains | FR | | 11 | 11 | 11 | 11 | 11 |
-| Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
 | Partido Social Democrata | PT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–9 | 5–9 | 5–9 | 5–10 |
@@ -86,9 +86,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.2% | 99.8% |  |
 | 146 | 0.5% | 99.6% |  |
 | 147 | 0.9% | 99.1% |  |
-| 148 | 1.5% | 98% |  |
+| 148 | 1.4% | 98% |  |
 | 149 | 2% | 97% |  |
-| 150 | 3% | 94% |  |
+| 150 | 3% | 95% |  |
 | 151 | 5% | 91% |  |
 | 152 | 6% | 87% |  |
 | 153 | 7% | 81% |  |
@@ -97,13 +97,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 156 | 9% | 57% | Median |
 | 157 | 9% | 48% |  |
 | 158 | 8% | 40% |  |
-| 159 | 7% | 31% |  |
+| 159 | 7% | 32% |  |
 | 160 | 6% | 24% |  |
 | 161 | 5% | 18% |  |
 | 162 | 4% | 13% |  |
 | 163 | 3% | 9% |  |
 | 164 | 2% | 6% |  |
-| 165 | 1.5% | 4% |  |
+| 165 | 2% | 4% |  |
 | 166 | 1.0% | 3% |  |
 | 167 | 0.6% | 2% |  |
 | 168 | 0.4% | 0.9% |  |
