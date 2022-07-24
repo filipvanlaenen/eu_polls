@@ -8,21 +8,21 @@ Members registered from **15 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+8 seats)
+Current median: **7** seats (+7 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, DK, LV, NL
+> AT, BG, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–10 | 5–11 | 5–12 | 4–14 |
-| BoerBurgerBeweging [NL] (*) | NL | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
-| Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Има такъв народ [BG] (*) | BG | | 2 | 2 | 2 | 2 | 2 |
-| Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 5–9 | 5–10 | 5–11 | 4–12 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ [BG] (*) | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -35,8 +35,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Nacionālā Savienība Taisnīgums [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -45,16 +45,14 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Възраждане [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-06-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2022-06-30.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,18 +61,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 7% | 98% |  |
-| 6 | 13% | 91% |  |
-| 7 | 20% | 79% |  |
-| 8 | 24% | 58% | Median |
-| 9 | 17% | 34% |  |
-| 10 | 9% | 17% |  |
-| 11 | 4% | 8% |  |
-| 12 | 2% | 4% |  |
-| 13 | 1.0% | 2% |  |
-| 14 | 0.5% | 0.8% |  |
-| 15 | 0.2% | 0.3% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 5 | 12% | 98% |  |
+| 6 | 25% | 86% |  |
+| 7 | 30% | 61% | Median |
+| 8 | 20% | 31% |  |
+| 9 | 6% | 11% |  |
+| 10 | 2% | 5% |  |
+| 11 | 2% | 3% |  |
+| 12 | 1.2% | 2% |  |
+| 13 | 0.4% | 0.4% |  |
+| 14 | 0% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
