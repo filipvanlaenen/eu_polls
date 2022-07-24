@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **10** seats (+10 seats)
+Current median: **8** seats (+8 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–14 | 6–16 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 5–10 | 5–11 | 4–12 | 3–14 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Възраждане [BG] (*) | BG | | 2 | 2 | 2 | 2 | 1–2 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Български възход [BG] (*) | BG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Има такъв народ [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Български възход [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Възраждане [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -50,6 +49,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ [BG] (*) | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -62,22 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 2% | 99.8% |  |
-| 7 | 6% | 98% |  |
-| 8 | 13% | 91% |  |
-| 9 | 19% | 79% |  |
-| 10 | 23% | 59% | Median |
-| 11 | 18% | 37% |  |
-| 12 | 10% | 19% |  |
-| 13 | 5% | 9% |  |
-| 14 | 2% | 4% |  |
-| 15 | 1.2% | 2% |  |
-| 16 | 0.6% | 0.9% |  |
-| 17 | 0.2% | 0.3% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 3 | 0.8% | 100% |  |
+| 4 | 3% | 99.2% |  |
+| 5 | 8% | 96% |  |
+| 6 | 14% | 88% |  |
+| 7 | 20% | 73% |  |
+| 8 | 20% | 54% | Median |
+| 9 | 15% | 34% |  |
+| 10 | 9% | 18% |  |
+| 11 | 5% | 9% |  |
+| 12 | 2% | 4% |  |
+| 13 | 1.1% | 2% |  |
+| 14 | 0.5% | 0.8% |  |
+| 15 | 0.2% | 0.3% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
