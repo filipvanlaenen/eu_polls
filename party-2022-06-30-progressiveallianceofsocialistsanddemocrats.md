@@ -39,7 +39,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
-| Българска социалистическа партия | BG | | 2 | 2 | 2 | 2 | 1–2 |
+| Българска социалистическа партия | BG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 3% | 8% |  |
 | 143 | 2% | 5% |  |
 | 144 | 1.2% | 3% |  |
-| 145 | 0.7% | 1.5% |  |
-| 146 | 0.4% | 0.8% |  |
+| 145 | 0.7% | 1.4% |  |
+| 146 | 0.4% | 0.7% |  |
 | 147 | 0.2% | 0.4% | Last Result |
 | 148 | 0.1% | 0.2% |  |
 | 149 | 0% | 0.1% |  |
