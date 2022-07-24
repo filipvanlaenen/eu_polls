@@ -22,7 +22,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
 | Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Unidos Podemos | ES | | 6 | 6–7 | 5–8 | 5–8 | 4–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Die Linke | DE | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -35,6 +35,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +43,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -62,16 +62,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% |  |
 | 47 | 0% | 100% |  |
 | 48 | 0.2% | 100% |  |
-| 49 | 0.9% | 99.7% |  |
-| 50 | 3% | 98.8% |  |
+| 49 | 0.9% | 99.8% |  |
+| 50 | 3% | 98.9% |  |
 | 51 | 8% | 96% |  |
-| 52 | 15% | 88% |  |
+| 52 | 14% | 88% |  |
 | 53 | 20% | 74% |  |
-| 54 | 21% | 53% | Median |
-| 55 | 16% | 32% |  |
+| 54 | 21% | 54% | Median |
+| 55 | 16% | 33% |  |
 | 56 | 10% | 16% |  |
 | 57 | 4% | 6% |  |
-| 58 | 1.5% | 2% |  |
+| 58 | 2% | 2% |  |
 | 59 | 0.4% | 0.5% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
