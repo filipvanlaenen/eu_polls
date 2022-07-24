@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> CY, CZ, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
+> CY, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
 
 ## Seats
 
@@ -36,7 +36,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
