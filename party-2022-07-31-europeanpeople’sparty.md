@@ -65,8 +65,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
-| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -85,7 +83,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.2% | 99.8% |  |
 | 146 | 0.4% | 99.6% |  |
 | 147 | 0.7% | 99.2% |  |
-| 148 | 1.1% | 98.5% |  |
+| 148 | 1.1% | 98% |  |
 | 149 | 2% | 97% |  |
 | 150 | 2% | 96% |  |
 | 151 | 3% | 93% |  |
@@ -97,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 8% | 58% | Median |
 | 158 | 8% | 50% |  |
 | 159 | 8% | 41% |  |
-| 160 | 7% | 34% |  |
+| 160 | 7% | 33% |  |
 | 161 | 6% | 26% |  |
 | 162 | 5% | 20% |  |
 | 163 | 4% | 15% |  |

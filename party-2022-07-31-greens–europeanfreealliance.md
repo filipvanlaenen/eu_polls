@@ -21,7 +21,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 54–65 | 53–66 | 51–68 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 18–26 | 18–26 | 17–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
-| Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Gibanje Svoboda | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Продължаваме промяната | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -55,7 +55,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0–1 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -68,25 +67,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 50 | 0.1% | 100% |  |
-| 51 | 0.4% | 99.8% |  |
-| 52 | 1.0% | 99.5% |  |
-| 53 | 2% | 98.5% |  |
+| 49 | 0% | 100% |  |
+| 50 | 0.2% | 99.9% |  |
+| 51 | 0.5% | 99.8% |  |
+| 52 | 1.2% | 99.3% |  |
+| 53 | 2% | 98% |  |
 | 54 | 4% | 96% |  |
-| 55 | 6% | 93% |  |
-| 56 | 8% | 87% |  |
-| 57 | 10% | 80% |  |
-| 58 | 11% | 70% |  |
-| 59 | 12% | 59% | Median |
-| 60 | 12% | 47% |  |
-| 61 | 10% | 35% |  |
-| 62 | 8% | 24% |  |
-| 63 | 6% | 16% |  |
-| 64 | 4% | 10% |  |
-| 65 | 3% | 6% |  |
-| 66 | 2% | 3% |  |
-| 67 | 0.8% | 2% | Last Result |
-| 68 | 0.4% | 0.7% |  |
+| 55 | 6% | 92% |  |
+| 56 | 8% | 86% |  |
+| 57 | 10% | 78% |  |
+| 58 | 11% | 68% |  |
+| 59 | 12% | 57% | Median |
+| 60 | 12% | 45% |  |
+| 61 | 10% | 33% |  |
+| 62 | 8% | 23% |  |
+| 63 | 6% | 15% |  |
+| 64 | 4% | 9% |  |
+| 65 | 3% | 5% |  |
+| 66 | 1.5% | 3% |  |
+| 67 | 0.8% | 1.4% | Last Result |
+| 68 | 0.4% | 0.6% |  |
 | 69 | 0.2% | 0.3% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |

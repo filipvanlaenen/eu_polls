@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> CY, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SI, SK
+> CY, DK, ES, FI, FR, GR, HR, HU, IT, LT, PL, SK
 
 ## Seats
 
@@ -36,7 +36,6 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
