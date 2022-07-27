@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 7–10 | 6–11 | 6–12 | 6–14 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 6–10 | 5–11 | 5–12 | 4–13 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Възраждане [BG] (*) | BG | | 2 | 2 | 2 | 2 | 1–2 |
+| Възраждане [BG] (*) | BG | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Български възход [BG] (*) | BG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Български възход [BG] (*) | BG | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Има такъв народ [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 6% | 99.5% |  |
-| 7 | 19% | 94% |  |
-| 8 | 30% | 75% | Median |
-| 9 | 27% | 45% |  |
-| 10 | 11% | 18% |  |
-| 11 | 3% | 7% |  |
-| 12 | 2% | 4% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.7% | 0.8% |  |
-| 15 | 0.1% | 0.2% |  |
+| 4 | 0.7% | 100% |  |
+| 5 | 5% | 99.3% |  |
+| 6 | 15% | 94% |  |
+| 7 | 26% | 79% |  |
+| 8 | 27% | 53% | Median |
+| 9 | 16% | 27% |  |
+| 10 | 6% | 11% |  |
+| 11 | 2% | 5% |  |
+| 12 | 2% | 3% |  |
+| 13 | 1.0% | 1.3% |  |
+| 14 | 0.3% | 0.4% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
