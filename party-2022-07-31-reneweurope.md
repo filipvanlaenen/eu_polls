@@ -36,7 +36,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Движение за права и свободи | BG | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -56,9 +56,11 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -73,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
 | 87 | 0.3% | 99.8% |  |
-| 88 | 0.7% | 99.5% |  |
+| 88 | 0.6% | 99.5% |  |
 | 89 | 1.2% | 98.8% |  |
 | 90 | 2% | 98% |  |
 | 91 | 3% | 96% |  |
@@ -90,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 4% | 12% |  |
 | 103 | 3% | 8% |  |
 | 104 | 2% | 5% |  |
-| 105 | 1.3% | 3% |  |
+| 105 | 1.2% | 3% |  |
 | 106 | 0.7% | 1.5% |  |
 | 107 | 0.4% | 0.8% |  |
 | 108 | 0.2% | 0.4% |  |

@@ -10,15 +10,15 @@ Last result: **147** seats (General Election of 26 May 2019)
 
 Current median: **135** seats (-12 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, ES, FI, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 130–140 | 129–142 | 128–143 | 126–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 131–141 | 129–142 | 128–143 | 126–146 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–22 | 17–23 | 16–24 | 16–24 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
@@ -40,8 +40,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
-| Българска социалистическа партия | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Българска социалистическа партия | BG | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Česká strana sociálně demokratická | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -54,7 +55,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -67,29 +67,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 123 | 0% | 100% |  |
 | 124 | 0.1% | 99.9% |  |
-| 125 | 0.2% | 99.8% |  |
+| 125 | 0.2% | 99.9% |  |
 | 126 | 0.5% | 99.6% |  |
-| 127 | 1.0% | 99.1% |  |
+| 127 | 0.9% | 99.2% |  |
 | 128 | 2% | 98% |  |
-| 129 | 3% | 96% |  |
+| 129 | 3% | 97% |  |
 | 130 | 4% | 94% |  |
-| 131 | 6% | 90% |  |
-| 132 | 7% | 84% |  |
-| 133 | 9% | 77% |  |
-| 134 | 10% | 68% |  |
-| 135 | 10% | 58% | Median |
-| 136 | 10% | 48% |  |
-| 137 | 9% | 38% |  |
-| 138 | 8% | 29% |  |
-| 139 | 6% | 21% |  |
+| 131 | 5% | 90% |  |
+| 132 | 7% | 85% |  |
+| 133 | 9% | 78% |  |
+| 134 | 10% | 69% |  |
+| 135 | 10% | 60% | Median |
+| 136 | 10% | 49% |  |
+| 137 | 9% | 39% |  |
+| 138 | 8% | 30% |  |
+| 139 | 7% | 22% |  |
 | 140 | 5% | 15% |  |
 | 141 | 4% | 10% |  |
-| 142 | 2% | 6% |  |
+| 142 | 3% | 7% |  |
 | 143 | 2% | 4% |  |
-| 144 | 1.0% | 2% |  |
-| 145 | 0.6% | 1.2% |  |
-| 146 | 0.3% | 0.6% |  |
-| 147 | 0.2% | 0.3% | Last Result |
+| 144 | 1.1% | 2% |  |
+| 145 | 0.6% | 1.3% |  |
+| 146 | 0.4% | 0.7% |  |
+| 147 | 0.2% | 0.4% | Last Result |
 | 148 | 0.1% | 0.2% |  |
 | 149 | 0% | 0.1% |  |
 | 150 | 0% | 0% |  |

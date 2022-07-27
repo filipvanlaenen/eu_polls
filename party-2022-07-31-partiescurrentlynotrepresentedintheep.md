@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SK
+> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SI, SK
 
 ## Seats
 
@@ -18,12 +18,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 5–10 | 5–11 | 4–12 | 3–14 |
+| Parties currently not represented in the EP | EU | 0 | 8 | 6–11 | 5–12 | 4–13 | 4–15 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Български възход [BG] (*) | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Възраждане [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Български възход [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -43,11 +43,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ [BG] (*) | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -60,20 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.8% | 100% |  |
-| 4 | 3% | 99.2% |  |
-| 5 | 8% | 96% |  |
-| 6 | 14% | 88% |  |
-| 7 | 20% | 73% |  |
-| 8 | 20% | 53% | Median |
-| 9 | 15% | 33% |  |
-| 10 | 9% | 18% |  |
-| 11 | 5% | 9% |  |
-| 12 | 2% | 4% |  |
-| 13 | 1.1% | 2% |  |
-| 14 | 0.5% | 0.8% |  |
-| 15 | 0.2% | 0.3% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 2% | 99.5% |  |
+| 5 | 5% | 97% |  |
+| 6 | 10% | 92% |  |
+| 7 | 16% | 82% |  |
+| 8 | 18% | 66% | Median |
+| 9 | 18% | 48% |  |
+| 10 | 14% | 30% |  |
+| 11 | 8% | 16% |  |
+| 12 | 4% | 8% |  |
+| 13 | 2% | 4% |  |
+| 14 | 0.9% | 2% |  |
+| 15 | 0.4% | 0.7% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
