@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 53–64 | 53–65 | 51–68 |
+| Greens–European Free Alliance | EU | 67 | 59 | 55–63 | 53–64 | 53–65 | 51–67 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 18–26 | 18–26 | 17–26 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Gibanje Svoboda | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -61,31 +61,31 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 49 | 0.1% | 100% |  |
 | 50 | 0.2% | 99.9% |  |
-| 51 | 0.6% | 99.7% |  |
-| 52 | 1.4% | 99.1% |  |
+| 51 | 0.7% | 99.7% |  |
+| 52 | 1.5% | 99.0% |  |
 | 53 | 3% | 98% |  |
-| 54 | 4% | 95% |  |
-| 55 | 6% | 91% |  |
-| 56 | 8% | 84% |  |
-| 57 | 10% | 76% |  |
-| 58 | 12% | 66% |  |
-| 59 | 12% | 54% | Median |
-| 60 | 11% | 42% |  |
-| 61 | 10% | 31% |  |
-| 62 | 7% | 21% |  |
-| 63 | 5% | 14% |  |
-| 64 | 4% | 8% |  |
-| 65 | 2% | 5% |  |
-| 66 | 1.3% | 2% |  |
-| 67 | 0.7% | 1.2% | Last Result |
+| 54 | 5% | 95% |  |
+| 55 | 7% | 90% |  |
+| 56 | 9% | 84% |  |
+| 57 | 10% | 75% |  |
+| 58 | 12% | 65% |  |
+| 59 | 12% | 53% | Median |
+| 60 | 11% | 41% |  |
+| 61 | 9% | 30% |  |
+| 62 | 7% | 20% |  |
+| 63 | 5% | 13% |  |
+| 64 | 3% | 8% |  |
+| 65 | 2% | 4% |  |
+| 66 | 1.2% | 2% |  |
+| 67 | 0.6% | 1.1% | Last Result |
 | 68 | 0.3% | 0.5% |  |
 | 69 | 0.1% | 0.2% |  |
 | 70 | 0% | 0.1% |  |
