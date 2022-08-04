@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 63 | 60–65 | 59–66 | 59–67 | 58–68 |
+| Identity and Democracy | EU | 76 | 63 | 60–66 | 59–66 | 59–67 | 58–68 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
 | Lega Nord | IT | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
 | Alternative für Deutschland | DE | | 10 | 9–12 | 9–12 | 8–12 | 7–13 |
@@ -42,19 +42,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.1% | 100% |  |
-| 57 | 0.4% | 99.9% |  |
-| 58 | 2% | 99.5% |  |
-| 59 | 5% | 98% |  |
-| 60 | 10% | 93% |  |
-| 61 | 15% | 84% |  |
-| 62 | 19% | 69% |  |
-| 63 | 18% | 50% | Median |
-| 64 | 14% | 32% |  |
-| 65 | 9% | 18% |  |
-| 66 | 5% | 9% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.8% | 1.1% |  |
-| 69 | 0.2% | 0.3% |  |
+| 57 | 0.3% | 99.9% |  |
+| 58 | 1.2% | 99.6% |  |
+| 59 | 4% | 98% |  |
+| 60 | 8% | 95% |  |
+| 61 | 14% | 86% |  |
+| 62 | 18% | 73% |  |
+| 63 | 18% | 55% | Median |
+| 64 | 15% | 37% |  |
+| 65 | 11% | 21% |  |
+| 66 | 6% | 11% |  |
+| 67 | 3% | 5% |  |
+| 68 | 1.1% | 2% |  |
+| 69 | 0.4% | 0.5% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
