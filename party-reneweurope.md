@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–102 | 91–103 | 89–104 | 87–107 |
+| Renew Europe | EU | 98 | 97 | 92–102 | 91–103 | 90–105 | 88–107 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–10 | 4–11 |
@@ -27,22 +27,22 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Più Europa–Azione | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Eesti Reformierakond | EE | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Liberalerna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -61,42 +61,42 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0.1% | 100% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.8% |  |
-| 88 | 0.8% | 99.4% |  |
-| 89 | 1.4% | 98.6% |  |
-| 90 | 2% | 97% |  |
-| 91 | 3% | 95% |  |
-| 92 | 5% | 92% |  |
-| 93 | 6% | 87% |  |
-| 94 | 8% | 80% |  |
-| 95 | 9% | 73% |  |
-| 96 | 10% | 63% |  |
-| 97 | 10% | 53% | Median |
-| 98 | 10% | 43% | Last Result |
-| 99 | 9% | 33% |  |
-| 100 | 7% | 24% |  |
-| 101 | 6% | 17% |  |
-| 102 | 4% | 11% |  |
-| 103 | 3% | 7% |  |
-| 104 | 2% | 4% |  |
-| 105 | 1.1% | 2% |  |
-| 106 | 0.6% | 1.3% |  |
-| 107 | 0.3% | 0.7% |  |
-| 108 | 0.2% | 0.3% |  |
-| 109 | 0.1% | 0.1% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.3% | 99.8% |  |
+| 88 | 0.6% | 99.5% |  |
+| 89 | 1.2% | 98.9% |  |
+| 90 | 2% | 98% |  |
+| 91 | 3% | 96% |  |
+| 92 | 4% | 93% |  |
+| 93 | 6% | 88% |  |
+| 94 | 7% | 82% |  |
+| 95 | 9% | 75% |  |
+| 96 | 10% | 66% |  |
+| 97 | 10% | 56% | Median |
+| 98 | 10% | 46% | Last Result |
+| 99 | 9% | 36% |  |
+| 100 | 8% | 27% |  |
+| 101 | 6% | 19% |  |
+| 102 | 5% | 13% |  |
+| 103 | 3% | 8% |  |
+| 104 | 2% | 5% |  |
+| 105 | 1.3% | 3% |  |
+| 106 | 0.7% | 2% |  |
+| 107 | 0.4% | 0.8% |  |
+| 108 | 0.2% | 0.4% |  |
+| 109 | 0.1% | 0.2% |  |
 | 110 | 0% | 0.1% |  |
 | 111 | 0% | 0% |  |
 
