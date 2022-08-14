@@ -18,14 +18,14 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 76 | 71–80 | 70–82 | 68–83 | 66–85 |
+| European Conservatives and Reformists | EU | 61 | 76 | 71–81 | 70–82 | 68–83 | 66–85 |
 | Zjednoczona Prawica | PL | | 20 | 17–22 | 17–23 | 16–23 | 16–24 |
 | Fratelli d’Italia | IT | | 19 | 18–21 | 17–22 | 16–23 | 16–24 |
 | Vox | ES | | 10 | 8–12 | 7–13 | 7–13 | 7–14 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,24 +58,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0.1% | 100% |  |
 | 65 | 0.1% | 99.9% |  |
 | 66 | 0.3% | 99.8% |  |
-| 67 | 0.7% | 99.4% |  |
-| 68 | 1.3% | 98.7% |  |
+| 67 | 0.7% | 99.5% |  |
+| 68 | 1.3% | 98.8% |  |
 | 69 | 2% | 97% |  |
-| 70 | 4% | 95% |  |
+| 70 | 3% | 95% |  |
 | 71 | 5% | 92% |  |
 | 72 | 7% | 87% |  |
 | 73 | 8% | 80% |  |
-| 74 | 10% | 71% |  |
+| 74 | 10% | 72% |  |
 | 75 | 10% | 62% |  |
-| 76 | 10% | 51% | Median |
+| 76 | 10% | 52% | Median |
 | 77 | 10% | 41% |  |
 | 78 | 9% | 31% |  |
-| 79 | 7% | 22% |  |
-| 80 | 5% | 15% |  |
+| 79 | 7% | 23% |  |
+| 80 | 5% | 16% |  |
 | 81 | 4% | 10% |  |
 | 82 | 3% | 6% |  |
 | 83 | 2% | 4% |  |
-| 84 | 0.9% | 2% |  |
+| 84 | 1.0% | 2% |  |
 | 85 | 0.5% | 1.0% |  |
 | 86 | 0.3% | 0.5% |  |
 | 87 | 0.1% | 0.2% |  |
