@@ -18,13 +18,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 130–140 | 129–142 | 128–143 | 126–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 131–141 | 129–142 | 128–143 | 126–146 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–22 | 17–23 | 16–24 | 16–24 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Lewica | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
@@ -59,38 +59,38 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 123 | 0% | 100% |  |
 | 124 | 0.1% | 99.9% |  |
-| 125 | 0.3% | 99.8% |  |
-| 126 | 0.5% | 99.6% |  |
-| 127 | 1.0% | 99.1% |  |
+| 125 | 0.2% | 99.9% |  |
+| 126 | 0.4% | 99.7% |  |
+| 127 | 0.9% | 99.2% |  |
 | 128 | 2% | 98% |  |
-| 129 | 3% | 96% |  |
+| 129 | 3% | 97% |  |
 | 130 | 4% | 94% |  |
-| 131 | 6% | 89% |  |
-| 132 | 7% | 84% |  |
-| 133 | 9% | 76% |  |
-| 134 | 10% | 67% |  |
-| 135 | 10% | 58% | Median |
-| 136 | 10% | 47% |  |
-| 137 | 9% | 37% |  |
-| 138 | 8% | 28% |  |
-| 139 | 6% | 21% |  |
-| 140 | 5% | 14% |  |
-| 141 | 3% | 10% |  |
-| 142 | 2% | 6% |  |
+| 131 | 5% | 90% |  |
+| 132 | 7% | 85% |  |
+| 133 | 9% | 78% |  |
+| 134 | 10% | 70% |  |
+| 135 | 10% | 60% | Median |
+| 136 | 10% | 50% |  |
+| 137 | 9% | 40% |  |
+| 138 | 8% | 30% |  |
+| 139 | 7% | 22% |  |
+| 140 | 5% | 16% |  |
+| 141 | 4% | 10% |  |
+| 142 | 3% | 7% |  |
 | 143 | 2% | 4% |  |
-| 144 | 1.0% | 2% |  |
-| 145 | 0.6% | 1.2% |  |
-| 146 | 0.3% | 0.6% |  |
-| 147 | 0.2% | 0.3% | Last Result |
-| 148 | 0.1% | 0.1% |  |
+| 144 | 1.1% | 2% |  |
+| 145 | 0.6% | 1.3% |  |
+| 146 | 0.4% | 0.7% |  |
+| 147 | 0.2% | 0.4% | Last Result |
+| 148 | 0.1% | 0.2% |  |
 | 149 | 0% | 0.1% |  |
 | 150 | 0% | 0% |  |
 
