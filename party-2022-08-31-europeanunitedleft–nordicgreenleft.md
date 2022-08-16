@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 100% |  |
 | 49 | 0.4% | 99.9% |  |
-| 50 | 2% | 99.5% |  |
+| 50 | 2% | 99.4% |  |
 | 51 | 5% | 98% |  |
 | 52 | 11% | 93% |  |
 | 53 | 18% | 82% |  |
