@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -47,9 +47,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,13 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% |  |
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 1.4% | 99.6% |  |
-| 51 | 4% | 98% |  |
-| 52 | 10% | 94% |  |
-| 53 | 17% | 84% |  |
+| 49 | 0.4% | 99.9% |  |
+| 50 | 1.5% | 99.6% |  |
+| 51 | 5% | 98% |  |
+| 52 | 10% | 93% |  |
+| 53 | 17% | 83% |  |
 | 54 | 21% | 66% | Median |
-| 55 | 20% | 45% |  |
+| 55 | 20% | 44% |  |
 | 56 | 14% | 25% |  |
 | 57 | 7% | 11% |  |
 | 58 | 3% | 4% |  |
