@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 56 | 52–61 | 51–62 | 50–63 | 49–65 |
+| Greens–European Free Alliance | EU | 67 | 56 | 52–61 | 51–63 | 50–64 | 49–66 |
 | Bündnis 90/Die Grünen | DE | | 21 | 20–24 | 20–25 | 19–27 | 18–27 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -40,10 +40,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Europa Verde | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -66,28 +67,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 0.1% | 100% |  |
+| 47 | 0% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.8% | 99.7% |  |
-| 50 | 2% | 98.9% |  |
+| 49 | 0.7% | 99.7% |  |
+| 50 | 2% | 99.0% |  |
 | 51 | 4% | 97% |  |
-| 52 | 7% | 93% |  |
-| 53 | 9% | 86% |  |
-| 54 | 10% | 78% |  |
-| 55 | 11% | 67% |  |
-| 56 | 11% | 57% | Median |
-| 57 | 11% | 45% |  |
-| 58 | 10% | 35% |  |
-| 59 | 8% | 25% |  |
-| 60 | 6% | 17% |  |
-| 61 | 4% | 11% |  |
-| 62 | 3% | 7% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.1% | 2% |  |
-| 65 | 0.6% | 1.0% |  |
-| 66 | 0.3% | 0.4% |  |
-| 67 | 0.1% | 0.2% | Last Result |
-| 68 | 0% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 52 | 6% | 94% |  |
+| 53 | 8% | 88% |  |
+| 54 | 9% | 80% |  |
+| 55 | 10% | 71% |  |
+| 56 | 11% | 60% | Median |
+| 57 | 11% | 50% |  |
+| 58 | 10% | 39% |  |
+| 59 | 8% | 29% |  |
+| 60 | 7% | 21% |  |
+| 61 | 5% | 14% |  |
+| 62 | 4% | 9% |  |
+| 63 | 2% | 6% |  |
+| 64 | 1.5% | 3% |  |
+| 65 | 0.9% | 2% |  |
+| 66 | 0.5% | 0.9% |  |
+| 67 | 0.2% | 0.4% | Last Result |
+| 68 | 0.1% | 0.2% |  |
+| 69 | 0% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 
