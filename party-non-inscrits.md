@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (+4 seats)
+Current median: **34** seats (+5 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 31–36 | 30–37 | 29–37 | 28–38 |
+| Non-Inscrits | EU | 29 | 34 | 31–36 | 30–37 | 30–37 | 28–39 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -41,26 +41,26 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
+| 26 | 0% | 100% |  |
 | 27 | 0.2% | 99.9% |  |
-| 28 | 0.8% | 99.7% |  |
-| 29 | 2% | 98.9% | Last Result |
-| 30 | 5% | 97% |  |
-| 31 | 9% | 92% |  |
-| 32 | 15% | 83% |  |
-| 33 | 19% | 68% | Median |
-| 34 | 19% | 49% |  |
-| 35 | 15% | 30% |  |
-| 36 | 9% | 15% |  |
-| 37 | 4% | 6% |  |
-| 38 | 1.3% | 2% |  |
-| 39 | 0.3% | 0.4% |  |
+| 28 | 0.5% | 99.8% |  |
+| 29 | 2% | 99.2% | Last Result |
+| 30 | 4% | 98% |  |
+| 31 | 8% | 94% |  |
+| 32 | 13% | 86% |  |
+| 33 | 18% | 73% |  |
+| 34 | 20% | 55% | Median |
+| 35 | 17% | 35% |  |
+| 36 | 11% | 18% |  |
+| 37 | 5% | 7% |  |
+| 38 | 2% | 2% |  |
+| 39 | 0.5% | 0.6% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
 

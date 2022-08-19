@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **63** seats (-13 seats)
+Current median: **64** seats (-12 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 63 | 61–66 | 60–67 | 59–68 | 58–69 |
+| Identity and Democracy | EU | 76 | 64 | 61–66 | 60–67 | 59–67 | 58–69 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
-| Lega Nord | IT | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
-| Alternative für Deutschland | DE | | 10 | 9–12 | 9–12 | 8–12 | 7–13 |
-| Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Alternative für Deutschland | DE | | 12 | 9–13 | 9–14 | 9–14 | 9–14 |
+| Lega Nord | IT | | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
+| Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Partij voor de Vrijheid | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Chega | PT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -41,20 +41,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.6% | 99.8% |  |
-| 59 | 2% | 99.2% |  |
-| 60 | 6% | 97% |  |
-| 61 | 11% | 91% |  |
-| 62 | 16% | 81% |  |
-| 63 | 19% | 64% | Median |
-| 64 | 17% | 46% |  |
-| 65 | 13% | 29% |  |
-| 66 | 8% | 15% |  |
-| 67 | 4% | 7% |  |
-| 68 | 2% | 3% |  |
-| 69 | 0.6% | 0.8% |  |
-| 70 | 0.2% | 0.2% |  |
+| 57 | 0.2% | 100% |  |
+| 58 | 0.7% | 99.8% |  |
+| 59 | 2% | 99.1% |  |
+| 60 | 5% | 97% |  |
+| 61 | 9% | 92% |  |
+| 62 | 14% | 83% |  |
+| 63 | 18% | 69% |  |
+| 64 | 19% | 52% | Median |
+| 65 | 16% | 33% |  |
+| 66 | 10% | 17% |  |
+| 67 | 5% | 7% |  |
+| 68 | 2% | 2% |  |
+| 69 | 0.5% | 0.6% |  |
+| 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
