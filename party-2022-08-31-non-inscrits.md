@@ -18,19 +18,19 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 31–36 | 30–37 | 30–37 | 28–39 |
+| Non-Inscrits | EU | 29 | 34 | 31–36 | 30–37 | 30–38 | 28–40 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Insieme per il Futuro | IT | | 0 | 0 | 0 | 0 | 0 |
+| Insieme per il Futuro | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -49,19 +49,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0% | 100% |  |
 | 27 | 0.2% | 99.9% |  |
-| 28 | 0.5% | 99.8% |  |
+| 28 | 0.6% | 99.8% |  |
 | 29 | 2% | 99.2% | Last Result |
 | 30 | 4% | 98% |  |
 | 31 | 8% | 94% |  |
-| 32 | 13% | 86% |  |
-| 33 | 18% | 73% |  |
-| 34 | 20% | 55% | Median |
-| 35 | 17% | 35% |  |
-| 36 | 11% | 18% |  |
-| 37 | 5% | 7% |  |
-| 38 | 2% | 2% |  |
-| 39 | 0.5% | 0.6% |  |
-| 40 | 0.1% | 0.1% |  |
-| 41 | 0% | 0% |  |
+| 32 | 14% | 85% |  |
+| 33 | 18% | 72% |  |
+| 34 | 19% | 53% | Median |
+| 35 | 15% | 34% |  |
+| 36 | 10% | 19% |  |
+| 37 | 5% | 9% |  |
+| 38 | 2% | 4% |  |
+| 39 | 1.0% | 1.5% |  |
+| 40 | 0.3% | 0.5% |  |
+| 41 | 0.1% | 0.2% |  |
+| 42 | 0% | 0% |  |
 
 
