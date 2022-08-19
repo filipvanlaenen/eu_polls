@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (+4 seats)
+Current median: **42** seats (+13 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 33 | 31–36 | 30–37 | 29–38 | 28–39 |
+| Non-Inscrits | EU | 29 | 42 | 39–45 | 38–46 | 37–47 | 36–48 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
@@ -47,22 +47,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.2% | 99.9% |  |
-| 28 | 0.8% | 99.7% |  |
-| 29 | 2% | 98.9% | Last Result |
-| 30 | 5% | 97% |  |
-| 31 | 10% | 92% |  |
-| 32 | 15% | 82% |  |
-| 33 | 19% | 67% | Median |
-| 34 | 18% | 48% |  |
-| 35 | 14% | 30% |  |
-| 36 | 9% | 16% |  |
-| 37 | 4% | 7% |  |
-| 38 | 2% | 3% |  |
-| 39 | 0.8% | 1.2% |  |
-| 40 | 0.3% | 0.4% |  |
-| 41 | 0.1% | 0.1% |  |
-| 42 | 0% | 0% |  |
+| 29 | 0% | 100% | Last Result |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.2% | 99.9% |  |
+| 36 | 0.7% | 99.7% |  |
+| 37 | 2% | 99.0% |  |
+| 38 | 4% | 97% |  |
+| 39 | 7% | 93% |  |
+| 40 | 12% | 86% |  |
+| 41 | 15% | 74% |  |
+| 42 | 17% | 59% | Median |
+| 43 | 15% | 42% |  |
+| 44 | 12% | 26% |  |
+| 45 | 7% | 15% |  |
+| 46 | 4% | 7% |  |
+| 47 | 2% | 3% |  |
+| 48 | 0.8% | 1.3% |  |
+| 49 | 0.3% | 0.5% |  |
+| 50 | 0.1% | 0.1% |  |
+| 51 | 0% | 0% |  |
 
 
