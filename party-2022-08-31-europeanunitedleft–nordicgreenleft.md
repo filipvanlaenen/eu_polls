@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 54 | 51–56 | 51–57 | 50–58 | 49–59 |
+| European United Left–Nordic Green Left | EU | 39 | 54 | 51–56 | 50–57 | 50–58 | 49–59 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
-| Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Die Linke | DE | | 4 | 4–6 | 3–6 | 3–6 | 2–7 |
@@ -30,7 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 1 | 1 | 1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -63,18 +63,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% |  |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.3% | 99.9% |  |
-| 49 | 1.1% | 99.7% |  |
-| 50 | 4% | 98.5% |  |
-| 51 | 8% | 95% |  |
-| 52 | 14% | 87% |  |
-| 53 | 19% | 73% |  |
-| 54 | 19% | 54% | Median |
-| 55 | 16% | 35% |  |
-| 56 | 10% | 19% |  |
-| 57 | 5% | 9% |  |
+| 49 | 1.3% | 99.6% |  |
+| 50 | 4% | 98% |  |
+| 51 | 9% | 94% |  |
+| 52 | 15% | 86% |  |
+| 53 | 19% | 71% |  |
+| 54 | 19% | 52% | Median |
+| 55 | 15% | 33% |  |
+| 56 | 10% | 18% |  |
+| 57 | 5% | 8% |  |
 | 58 | 2% | 3% |  |
-| 59 | 0.8% | 1.0% |  |
-| 60 | 0.2% | 0.3% |  |
+| 59 | 0.7% | 0.9% |  |
+| 60 | 0.2% | 0.2% |  |
 | 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
 

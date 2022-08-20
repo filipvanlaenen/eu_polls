@@ -18,10 +18,10 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 98–107 | 96–108 | 95–109 | 93–112 |
+| Renew Europe | EU | 98 | 102 | 98–107 | 97–108 | 95–110 | 93–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Freie Demokratische Partei | DE | | 6 | 6–8 | 5–10 | 5–10 | 5–11 |
+| Freie Demokratische Partei | DE | | 7 | 6–8 | 5–10 | 5–10 | 5–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Azione–Italia Viva | IT | | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
@@ -30,7 +30,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Più Europa–Azione | IT | | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -79,27 +79,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.1% | 99.9% |  |
 | 92 | 0.2% | 99.9% |  |
 | 93 | 0.4% | 99.7% |  |
-| 94 | 0.8% | 99.2% |  |
-| 95 | 1.5% | 98% |  |
-| 96 | 3% | 97% |  |
-| 97 | 4% | 94% |  |
-| 98 | 6% | 90% | Last Result |
-| 99 | 8% | 84% |  |
-| 100 | 10% | 76% |  |
-| 101 | 11% | 66% |  |
-| 102 | 11% | 55% | Median |
-| 103 | 11% | 44% |  |
-| 104 | 9% | 33% |  |
-| 105 | 8% | 24% |  |
-| 106 | 6% | 16% |  |
-| 107 | 4% | 10% |  |
-| 108 | 3% | 6% |  |
-| 109 | 2% | 4% |  |
-| 110 | 1.0% | 2% |  |
-| 111 | 0.6% | 1.1% |  |
-| 112 | 0.3% | 0.6% |  |
-| 113 | 0.2% | 0.3% |  |
-| 114 | 0.1% | 0.1% |  |
+| 94 | 0.7% | 99.3% |  |
+| 95 | 1.3% | 98.6% |  |
+| 96 | 2% | 97% |  |
+| 97 | 4% | 95% |  |
+| 98 | 5% | 91% | Last Result |
+| 99 | 7% | 86% |  |
+| 100 | 9% | 78% |  |
+| 101 | 11% | 69% |  |
+| 102 | 11% | 58% | Median |
+| 103 | 11% | 47% |  |
+| 104 | 10% | 36% |  |
+| 105 | 8% | 26% |  |
+| 106 | 6% | 18% |  |
+| 107 | 5% | 12% |  |
+| 108 | 3% | 8% |  |
+| 109 | 2% | 5% |  |
+| 110 | 1.2% | 3% |  |
+| 111 | 0.7% | 1.4% |  |
+| 112 | 0.4% | 0.7% |  |
+| 113 | 0.2% | 0.4% |  |
+| 114 | 0.1% | 0.2% |  |
 | 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |
 
