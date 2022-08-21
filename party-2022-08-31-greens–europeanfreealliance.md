@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (-11 seats)
+Current median: **57** seats (-10 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 56 | 52–61 | 51–63 | 50–64 | 49–66 |
+| Greens–European Free Alliance | EU | 67 | 57 | 52–62 | 51–63 | 50–64 | 49–67 |
 | Bündnis 90/Die Grünen | DE | | 22 | 20–24 | 19–25 | 19–27 | 18–27 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
-| Продължаваме промяната | BG | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Продължаваме промяната | BG | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -34,7 +34,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| PROGRESĪVIE | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -47,9 +47,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -69,28 +68,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 47 | 0.1% | 100% |  |
-| 48 | 0.3% | 99.9% |  |
-| 49 | 0.9% | 99.5% |  |
-| 50 | 2% | 98.6% |  |
-| 51 | 4% | 97% |  |
-| 52 | 6% | 93% |  |
-| 53 | 8% | 87% |  |
-| 54 | 10% | 80% |  |
-| 55 | 11% | 70% |  |
-| 56 | 11% | 59% | Median |
-| 57 | 11% | 48% |  |
-| 58 | 10% | 38% |  |
-| 59 | 8% | 28% |  |
-| 60 | 6% | 20% |  |
-| 61 | 5% | 14% |  |
-| 62 | 3% | 9% |  |
-| 63 | 2% | 5% |  |
-| 64 | 1.4% | 3% |  |
-| 65 | 0.8% | 2% |  |
-| 66 | 0.5% | 0.9% |  |
-| 67 | 0.2% | 0.5% | Last Result |
-| 68 | 0.1% | 0.2% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.7% | 99.7% |  |
+| 50 | 2% | 99.0% |  |
+| 51 | 3% | 97% |  |
+| 52 | 5% | 94% |  |
+| 53 | 7% | 90% |  |
+| 54 | 9% | 83% |  |
+| 55 | 10% | 74% |  |
+| 56 | 11% | 63% |  |
+| 57 | 11% | 52% | Median |
+| 58 | 10% | 42% |  |
+| 59 | 9% | 32% |  |
+| 60 | 7% | 23% |  |
+| 61 | 5% | 16% |  |
+| 62 | 4% | 11% |  |
+| 63 | 3% | 7% |  |
+| 64 | 2% | 4% |  |
+| 65 | 1.1% | 2% |  |
+| 66 | 0.6% | 1.3% |  |
+| 67 | 0.3% | 0.7% | Last Result |
+| 68 | 0.2% | 0.3% |  |
 | 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 70 | 0% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 

@@ -10,18 +10,19 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **44** seats (+15 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> CY, ES, GR, HU, IT, PL, SK
+> CY, ES, GR, HU, IT, LT, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 44 | 41–47 | 40–47 | 40–48 | 38–49 |
+| Non-Inscrits | EU | 29 | 44 | 41–47 | 41–48 | 40–48 | 38–50 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -29,7 +30,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Insieme per il Futuro | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 100% |  |
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
-| 37 | 0.1% | 99.9% |  |
-| 38 | 0.5% | 99.8% |  |
-| 39 | 1.4% | 99.3% |  |
-| 40 | 4% | 98% |  |
-| 41 | 7% | 94% |  |
-| 42 | 13% | 87% |  |
-| 43 | 18% | 74% |  |
-| 44 | 19% | 57% | Median |
-| 45 | 16% | 38% |  |
-| 46 | 11% | 21% |  |
-| 47 | 6% | 10% |  |
-| 48 | 3% | 4% |  |
-| 49 | 1.0% | 1.4% |  |
-| 50 | 0.3% | 0.4% |  |
-| 51 | 0.1% | 0.1% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.4% | 99.9% |  |
+| 39 | 1.1% | 99.5% |  |
+| 40 | 3% | 98% |  |
+| 41 | 6% | 95% |  |
+| 42 | 11% | 89% |  |
+| 43 | 16% | 78% |  |
+| 44 | 19% | 62% | Median |
+| 45 | 18% | 42% |  |
+| 46 | 13% | 25% |  |
+| 47 | 7% | 12% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.3% | 2% |  |
+| 50 | 0.4% | 0.6% |  |
+| 51 | 0.1% | 0.2% |  |
 | 52 | 0% | 0% |  |
 
 
