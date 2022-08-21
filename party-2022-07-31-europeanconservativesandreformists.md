@@ -28,13 +28,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
+| Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,26 +58,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0% | 100% |  |
 | 65 | 0.1% | 100% |  |
 | 66 | 0.2% | 99.9% |  |
-| 67 | 0.5% | 99.6% |  |
-| 68 | 1.0% | 99.1% |  |
+| 67 | 0.5% | 99.7% |  |
+| 68 | 0.9% | 99.2% |  |
 | 69 | 2% | 98% |  |
-| 70 | 3% | 96% |  |
+| 70 | 3% | 97% |  |
 | 71 | 4% | 94% |  |
 | 72 | 6% | 90% |  |
-| 73 | 7% | 84% |  |
+| 73 | 8% | 84% |  |
 | 74 | 9% | 76% |  |
-| 75 | 10% | 68% |  |
-| 76 | 10% | 58% | Median |
+| 75 | 10% | 67% |  |
+| 76 | 10% | 57% | Median |
 | 77 | 10% | 47% |  |
 | 78 | 9% | 37% |  |
-| 79 | 8% | 28% |  |
-| 80 | 6% | 20% |  |
-| 81 | 5% | 14% |  |
-| 82 | 3% | 9% |  |
+| 79 | 8% | 27% |  |
+| 80 | 6% | 19% |  |
+| 81 | 5% | 13% |  |
+| 82 | 3% | 8% |  |
 | 83 | 2% | 5% |  |
-| 84 | 1.4% | 3% |  |
+| 84 | 1.3% | 3% |  |
 | 85 | 0.8% | 2% |  |
-| 86 | 0.5% | 0.9% |  |
+| 86 | 0.4% | 0.8% |  |
 | 87 | 0.2% | 0.4% |  |
 | 88 | 0.1% | 0.2% |  |
 | 89 | 0% | 0.1% |  |

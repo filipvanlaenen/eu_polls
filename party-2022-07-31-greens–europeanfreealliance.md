@@ -27,7 +27,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Možemo! | HR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 6% | 92% |  |
 | 53 | 8% | 86% |  |
 | 54 | 9% | 78% |  |
-| 55 | 10% | 69% |  |
+| 55 | 11% | 69% |  |
 | 56 | 11% | 58% | Median |
-| 57 | 10% | 48% |  |
+| 57 | 10% | 47% |  |
 | 58 | 9% | 37% |  |
 | 59 | 8% | 28% |  |
 | 60 | 6% | 20% |  |
@@ -86,7 +86,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 1.4% | 3% |  |
 | 65 | 0.8% | 2% |  |
 | 66 | 0.5% | 0.9% |  |
-| 67 | 0.3% | 0.5% | Last Result |
+| 67 | 0.2% | 0.4% | Last Result |
 | 68 | 0.1% | 0.2% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
