@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **166** seats (-21 seats)
+Current median: **167** seats (-20 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 166 | 160–172 | 159–174 | 158–176 | 155–179 |
+| European People’s Party | EU | 187 | 167 | 161–173 | 159–174 | 158–176 | 155–179 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–22 | 17–23 |
 | Partido Popular | ES | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
@@ -35,11 +35,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Det Konservative Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Koalicja Polska | PL | | 2 | 0–3 | 0–4 | 0–4 | 0–4 |
-| Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -82,36 +82,36 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 152 | 0% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.2% | 99.8% |  |
-| 155 | 0.4% | 99.6% |  |
-| 156 | 0.6% | 99.3% |  |
-| 157 | 1.1% | 98.6% |  |
-| 158 | 2% | 98% |  |
-| 159 | 3% | 96% |  |
-| 160 | 4% | 93% |  |
-| 161 | 5% | 90% |  |
-| 162 | 6% | 85% |  |
-| 163 | 7% | 79% |  |
-| 164 | 8% | 72% |  |
-| 165 | 8% | 64% |  |
-| 166 | 9% | 55% | Median |
-| 167 | 8% | 47% |  |
-| 168 | 8% | 38% |  |
-| 169 | 7% | 31% |  |
-| 170 | 6% | 24% |  |
-| 171 | 5% | 18% |  |
-| 172 | 4% | 13% |  |
-| 173 | 3% | 9% |  |
-| 174 | 2% | 6% |  |
-| 175 | 1.5% | 4% |  |
-| 176 | 1.0% | 3% |  |
-| 177 | 0.6% | 2% |  |
-| 178 | 0.4% | 0.9% |  |
-| 179 | 0.2% | 0.5% |  |
-| 180 | 0.1% | 0.3% |  |
+| 154 | 0.1% | 99.9% |  |
+| 155 | 0.3% | 99.7% |  |
+| 156 | 0.5% | 99.5% |  |
+| 157 | 0.9% | 98.9% |  |
+| 158 | 1.5% | 98% |  |
+| 159 | 2% | 97% |  |
+| 160 | 3% | 94% |  |
+| 161 | 4% | 91% |  |
+| 162 | 6% | 87% |  |
+| 163 | 7% | 81% |  |
+| 164 | 8% | 75% |  |
+| 165 | 8% | 67% |  |
+| 166 | 9% | 59% |  |
+| 167 | 9% | 50% | Median |
+| 168 | 8% | 42% |  |
+| 169 | 7% | 33% |  |
+| 170 | 6% | 26% |  |
+| 171 | 5% | 20% |  |
+| 172 | 4% | 15% |  |
+| 173 | 3% | 10% |  |
+| 174 | 2% | 7% |  |
+| 175 | 2% | 5% |  |
+| 176 | 1.2% | 3% |  |
+| 177 | 0.8% | 2% |  |
+| 178 | 0.5% | 1.2% |  |
+| 179 | 0.3% | 0.7% |  |
+| 180 | 0.2% | 0.4% |  |
 | 181 | 0.1% | 0.2% |  |
-| 182 | 0% | 0.1% |  |
-| 183 | 0% | 0% |  |
+| 182 | 0.1% | 0.1% |  |
+| 183 | 0% | 0.1% |  |
 | 184 | 0% | 0% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |

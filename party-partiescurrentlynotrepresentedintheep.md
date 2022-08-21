@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (+9 seats)
+Current median: **10** seats (+10 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 7–12 | 6–12 | 5–13 | 4–14 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–13 | 6–15 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Български възход [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -34,12 +34,13 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Moderaterne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā Savienība Taisnīgums [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -52,9 +53,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-07-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-07-31.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,19 +63,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 2% | 99.4% |  |
-| 6 | 6% | 97% |  |
-| 7 | 12% | 91% |  |
-| 8 | 17% | 79% |  |
-| 9 | 19% | 62% | Median |
-| 10 | 18% | 43% |  |
-| 11 | 13% | 25% |  |
-| 12 | 8% | 12% |  |
-| 13 | 3% | 4% |  |
-| 14 | 0.8% | 1.0% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 2% | 99.8% |  |
+| 7 | 6% | 98% |  |
+| 8 | 13% | 92% |  |
+| 9 | 20% | 79% |  |
+| 10 | 22% | 59% | Median |
+| 11 | 19% | 37% |  |
+| 12 | 11% | 18% |  |
+| 13 | 5% | 7% |  |
+| 14 | 1.3% | 2% |  |
+| 15 | 0.4% | 0.6% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
