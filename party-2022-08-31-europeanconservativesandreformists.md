@@ -28,12 +28,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
-| Domovinski pokret Miroslava Škore | HR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -57,30 +57,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0% | 100% |  |
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
-| 66 | 0.1% | 100% |  |
-| 67 | 0.3% | 99.9% |  |
+| 66 | 0.1% | 99.9% |  |
+| 67 | 0.3% | 99.8% |  |
 | 68 | 0.6% | 99.6% |  |
-| 69 | 1.1% | 99.0% |  |
+| 69 | 1.2% | 99.0% |  |
 | 70 | 2% | 98% |  |
 | 71 | 3% | 96% |  |
-| 72 | 5% | 93% |  |
-| 73 | 7% | 88% |  |
-| 74 | 8% | 81% |  |
-| 75 | 10% | 73% |  |
-| 76 | 11% | 63% |  |
-| 77 | 11% | 52% | Median |
-| 78 | 10% | 41% |  |
-| 79 | 9% | 31% |  |
-| 80 | 7% | 22% |  |
-| 81 | 5% | 15% |  |
+| 72 | 5% | 92% |  |
+| 73 | 7% | 87% |  |
+| 74 | 9% | 80% |  |
+| 75 | 10% | 72% |  |
+| 76 | 11% | 62% |  |
+| 77 | 11% | 51% | Median |
+| 78 | 10% | 40% |  |
+| 79 | 9% | 30% |  |
+| 80 | 7% | 21% |  |
+| 81 | 5% | 14% |  |
 | 82 | 4% | 9% |  |
-| 83 | 2% | 6% |  |
-| 84 | 1.5% | 3% |  |
-| 85 | 0.8% | 2% |  |
-| 86 | 0.4% | 0.8% |  |
+| 83 | 2% | 5% |  |
+| 84 | 1.4% | 3% |  |
+| 85 | 0.8% | 1.5% |  |
+| 86 | 0.4% | 0.7% |  |
 | 87 | 0.2% | 0.3% |  |
 | 88 | 0.1% | 0.1% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 89 | 0% | 0% |  |
 
 
