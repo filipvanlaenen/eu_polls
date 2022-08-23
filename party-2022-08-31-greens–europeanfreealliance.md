@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 56 | 52–61 | 51–63 | 50–64 | 48–66 |
+| Greens–European Free Alliance | EU | 67 | 56 | 52–61 | 51–63 | 50–64 | 49–67 |
 | Bündnis 90/Die Grünen | DE | | 22 | 20–24 | 19–25 | 19–27 | 18–27 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -68,26 +68,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 47 | 0.1% | 100% |  |
-| 48 | 0.4% | 99.8% |  |
-| 49 | 1.0% | 99.4% |  |
-| 50 | 2% | 98% |  |
-| 51 | 4% | 96% |  |
-| 52 | 6% | 92% |  |
-| 53 | 8% | 86% |  |
-| 54 | 10% | 79% |  |
-| 55 | 11% | 69% |  |
-| 56 | 11% | 58% | Median |
-| 57 | 10% | 47% |  |
-| 58 | 9% | 37% |  |
-| 59 | 8% | 27% |  |
-| 60 | 6% | 20% |  |
-| 61 | 5% | 13% |  |
+| 48 | 0.3% | 99.9% |  |
+| 49 | 0.9% | 99.5% |  |
+| 50 | 2% | 98.6% |  |
+| 51 | 3% | 97% |  |
+| 52 | 5% | 93% |  |
+| 53 | 8% | 88% |  |
+| 54 | 9% | 80% |  |
+| 55 | 11% | 71% |  |
+| 56 | 11% | 60% | Median |
+| 57 | 11% | 49% |  |
+| 58 | 10% | 39% |  |
+| 59 | 8% | 29% |  |
+| 60 | 7% | 21% |  |
+| 61 | 5% | 14% |  |
 | 62 | 3% | 9% |  |
-| 63 | 2% | 5% |  |
-| 64 | 1.4% | 3% |  |
-| 65 | 0.8% | 2% |  |
-| 66 | 0.5% | 0.9% |  |
-| 67 | 0.2% | 0.5% | Last Result |
+| 63 | 2% | 6% |  |
+| 64 | 2% | 3% |  |
+| 65 | 0.9% | 2% |  |
+| 66 | 0.5% | 1.0% |  |
+| 67 | 0.3% | 0.5% | Last Result |
 | 68 | 0.1% | 0.2% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |

@@ -47,7 +47,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalerna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Liberalerna | SE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -82,22 +82,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 1.3% | 98.7% |  |
 | 96 | 2% | 97% |  |
 | 97 | 4% | 95% |  |
-| 98 | 6% | 91% | Last Result |
-| 99 | 8% | 86% |  |
-| 100 | 9% | 78% |  |
+| 98 | 5% | 92% | Last Result |
+| 99 | 7% | 86% |  |
+| 100 | 9% | 79% |  |
 | 101 | 11% | 69% |  |
-| 102 | 11% | 58% | Median |
+| 102 | 11% | 59% | Median |
 | 103 | 11% | 47% |  |
-| 104 | 10% | 36% |  |
-| 105 | 8% | 26% |  |
-| 106 | 6% | 18% |  |
-| 107 | 4% | 12% |  |
-| 108 | 3% | 7% |  |
-| 109 | 2% | 4% |  |
+| 104 | 10% | 37% |  |
+| 105 | 8% | 27% |  |
+| 106 | 6% | 19% |  |
+| 107 | 5% | 12% |  |
+| 108 | 3% | 8% |  |
+| 109 | 2% | 5% |  |
 | 110 | 1.2% | 3% |  |
 | 111 | 0.7% | 1.4% |  |
 | 112 | 0.4% | 0.7% |  |
-| 113 | 0.2% | 0.3% |  |
+| 113 | 0.2% | 0.4% |  |
 | 114 | 0.1% | 0.2% |  |
 | 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |

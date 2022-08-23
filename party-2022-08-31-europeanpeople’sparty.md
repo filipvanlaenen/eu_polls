@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 165 | 160–172 | 158–174 | 157–175 | 154–178 |
+| European People’s Party | EU | 187 | 165 | 159–172 | 158–173 | 156–175 | 154–178 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–23 | 17–24 |
 | Partido Popular | ES | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
@@ -31,7 +31,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,17 +84,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 152 | 0.1% | 99.9% |  |
 | 153 | 0.2% | 99.8% |  |
 | 154 | 0.4% | 99.6% |  |
-| 155 | 0.6% | 99.3% |  |
+| 155 | 0.7% | 99.2% |  |
 | 156 | 1.1% | 98.6% |  |
-| 157 | 2% | 98% |  |
+| 157 | 2% | 97% |  |
 | 158 | 2% | 96% |  |
 | 159 | 3% | 93% |  |
-| 160 | 4% | 90% |  |
-| 161 | 6% | 86% |  |
+| 160 | 5% | 90% |  |
+| 161 | 6% | 85% |  |
 | 162 | 7% | 80% |  |
 | 163 | 8% | 73% |  |
-| 164 | 8% | 66% |  |
-| 165 | 8% | 58% | Median |
+| 164 | 8% | 65% |  |
+| 165 | 8% | 57% | Median |
 | 166 | 8% | 49% |  |
 | 167 | 8% | 41% |  |
 | 168 | 7% | 33% |  |
