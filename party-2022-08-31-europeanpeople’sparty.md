@@ -10,9 +10,9 @@ Last result: **187** seats (General Election of 26 May 2019)
 
 Current median: **165** seats (-22 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -31,7 +31,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -46,7 +46,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Erakond Isamaa | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -58,6 +57,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -80,34 +80,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0% | 100% |  |
+| 151 | 0.1% | 100% |  |
 | 152 | 0.1% | 99.9% |  |
 | 153 | 0.2% | 99.8% |  |
 | 154 | 0.4% | 99.6% |  |
 | 155 | 0.7% | 99.2% |  |
-| 156 | 1.1% | 98.6% |  |
+| 156 | 1.1% | 98% |  |
 | 157 | 2% | 97% |  |
-| 158 | 2% | 96% |  |
-| 159 | 3% | 93% |  |
-| 160 | 5% | 90% |  |
+| 158 | 3% | 96% |  |
+| 159 | 4% | 93% |  |
+| 160 | 5% | 89% |  |
 | 161 | 6% | 85% |  |
-| 162 | 7% | 80% |  |
-| 163 | 8% | 73% |  |
-| 164 | 8% | 65% |  |
-| 165 | 8% | 57% | Median |
-| 166 | 8% | 49% |  |
-| 167 | 8% | 41% |  |
-| 168 | 7% | 33% |  |
-| 169 | 6% | 26% |  |
-| 170 | 5% | 20% |  |
-| 171 | 4% | 15% |  |
-| 172 | 3% | 11% |  |
+| 162 | 7% | 79% |  |
+| 163 | 8% | 72% |  |
+| 164 | 8% | 64% |  |
+| 165 | 8% | 56% | Median |
+| 166 | 8% | 48% |  |
+| 167 | 8% | 40% |  |
+| 168 | 7% | 32% |  |
+| 169 | 6% | 25% |  |
+| 170 | 5% | 19% |  |
+| 171 | 4% | 14% |  |
+| 172 | 3% | 10% |  |
 | 173 | 2% | 7% |  |
 | 174 | 2% | 5% |  |
-| 175 | 1.2% | 3% |  |
+| 175 | 1.1% | 3% |  |
 | 176 | 0.8% | 2% |  |
-| 177 | 0.5% | 1.3% |  |
-| 178 | 0.3% | 0.8% |  |
+| 177 | 0.5% | 1.2% |  |
+| 178 | 0.3% | 0.7% |  |
 | 179 | 0.2% | 0.4% |  |
 | 180 | 0.1% | 0.2% |  |
 | 181 | 0.1% | 0.1% |  |

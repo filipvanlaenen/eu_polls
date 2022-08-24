@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 98–107 | 97–108 | 95–110 | 93–112 |
+| Renew Europe | EU | 98 | 102 | 98–107 | 96–108 | 95–109 | 93–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 6 | 6–9 | 5–10 | 5–10 | 5–11 |
@@ -29,7 +29,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Più Europa–Azione | IT | | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -43,11 +43,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalerna | SE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Liberalerna | SE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -75,29 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 91 | 0.1% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0.1% | 99.9% |  |
 | 92 | 0.2% | 99.9% |  |
-| 93 | 0.3% | 99.7% |  |
-| 94 | 0.7% | 99.4% |  |
-| 95 | 1.3% | 98.7% |  |
-| 96 | 2% | 97% |  |
+| 93 | 0.4% | 99.7% |  |
+| 94 | 0.8% | 99.3% |  |
+| 95 | 1.5% | 98% |  |
+| 96 | 3% | 97% |  |
 | 97 | 4% | 95% |  |
-| 98 | 5% | 92% | Last Result |
-| 99 | 7% | 86% |  |
-| 100 | 9% | 79% |  |
-| 101 | 11% | 69% |  |
-| 102 | 11% | 59% | Median |
-| 103 | 11% | 47% |  |
-| 104 | 10% | 37% |  |
-| 105 | 8% | 27% |  |
-| 106 | 6% | 19% |  |
-| 107 | 5% | 12% |  |
-| 108 | 3% | 8% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.2% | 3% |  |
-| 111 | 0.7% | 1.4% |  |
-| 112 | 0.4% | 0.7% |  |
-| 113 | 0.2% | 0.4% |  |
+| 98 | 6% | 91% | Last Result |
+| 99 | 8% | 85% |  |
+| 100 | 10% | 77% |  |
+| 101 | 11% | 67% |  |
+| 102 | 11% | 56% | Median |
+| 103 | 11% | 45% |  |
+| 104 | 9% | 35% |  |
+| 105 | 8% | 25% |  |
+| 106 | 6% | 17% |  |
+| 107 | 4% | 11% |  |
+| 108 | 3% | 7% |  |
+| 109 | 2% | 4% |  |
+| 110 | 1.1% | 2% |  |
+| 111 | 0.6% | 1.3% |  |
+| 112 | 0.3% | 0.7% |  |
+| 113 | 0.2% | 0.3% |  |
 | 114 | 0.1% | 0.2% |  |
 | 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |
