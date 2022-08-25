@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **165** seats (-22 seats)
+Current median: **166** seats (-21 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 165 | 159–172 | 158–173 | 156–175 | 154–178 |
+| European People’s Party | EU | 187 | 166 | 160–172 | 158–174 | 157–175 | 154–178 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 18–23 | 17–24 |
 | Partido Popular | ES | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
@@ -31,7 +31,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -48,7 +48,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,37 +80,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0.1% | 100% |  |
+| 151 | 0% | 100% |  |
 | 152 | 0.1% | 99.9% |  |
 | 153 | 0.2% | 99.8% |  |
-| 154 | 0.4% | 99.6% |  |
-| 155 | 0.7% | 99.2% |  |
-| 156 | 1.1% | 98% |  |
-| 157 | 2% | 97% |  |
-| 158 | 3% | 96% |  |
-| 159 | 4% | 93% |  |
-| 160 | 5% | 89% |  |
-| 161 | 6% | 85% |  |
-| 162 | 7% | 79% |  |
-| 163 | 8% | 72% |  |
-| 164 | 8% | 64% |  |
-| 165 | 8% | 56% | Median |
-| 166 | 8% | 48% |  |
-| 167 | 8% | 40% |  |
-| 168 | 7% | 32% |  |
-| 169 | 6% | 25% |  |
-| 170 | 5% | 19% |  |
-| 171 | 4% | 14% |  |
-| 172 | 3% | 10% |  |
-| 173 | 2% | 7% |  |
+| 154 | 0.3% | 99.7% |  |
+| 155 | 0.6% | 99.3% |  |
+| 156 | 1.0% | 98.7% |  |
+| 157 | 2% | 98% |  |
+| 158 | 2% | 96% |  |
+| 159 | 3% | 94% |  |
+| 160 | 4% | 91% |  |
+| 161 | 5% | 86% |  |
+| 162 | 6% | 81% |  |
+| 163 | 7% | 74% |  |
+| 164 | 8% | 67% |  |
+| 165 | 8% | 59% |  |
+| 166 | 8% | 51% | Median |
+| 167 | 8% | 42% |  |
+| 168 | 7% | 34% |  |
+| 169 | 6% | 27% |  |
+| 170 | 5% | 21% |  |
+| 171 | 4% | 16% |  |
+| 172 | 3% | 11% |  |
+| 173 | 3% | 8% |  |
 | 174 | 2% | 5% |  |
-| 175 | 1.1% | 3% |  |
-| 176 | 0.8% | 2% |  |
-| 177 | 0.5% | 1.2% |  |
-| 178 | 0.3% | 0.7% |  |
-| 179 | 0.2% | 0.4% |  |
-| 180 | 0.1% | 0.2% |  |
-| 181 | 0.1% | 0.1% |  |
+| 175 | 1.3% | 4% |  |
+| 176 | 0.9% | 2% |  |
+| 177 | 0.6% | 1.4% |  |
+| 178 | 0.4% | 0.9% |  |
+| 179 | 0.2% | 0.5% |  |
+| 180 | 0.1% | 0.3% |  |
+| 181 | 0.1% | 0.2% |  |
 | 182 | 0% | 0.1% |  |
 | 183 | 0% | 0% |  |
 | 184 | 0% | 0% |  |
