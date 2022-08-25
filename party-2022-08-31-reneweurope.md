@@ -18,12 +18,12 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 97–106 | 96–107 | 95–108 | 93–110 |
+| Renew Europe | EU | 98 | 102 | 98–106 | 97–108 | 96–109 | 94–111 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| Freie Demokratische Partei | DE | | 6 | 6–8 | 6–10 | 5–10 | 5–11 |
+| Freie Demokratische Partei | DE | | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Azione–Italia Viva | IT | | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
+| Azione–Italia Viva | IT | | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 4 | 4 | 3–4 | 3–5 | 3–5 |
@@ -32,7 +32,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -60,7 +60,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lista Marjana Šarca | SI | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Stranka Alenke Bratušek | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -73,29 +73,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 91 | 0.1% | 100% |  |
+| 91 | 0% | 100% |  |
 | 92 | 0.1% | 99.9% |  |
 | 93 | 0.3% | 99.8% |  |
-| 94 | 0.7% | 99.4% |  |
-| 95 | 2% | 98.7% |  |
-| 96 | 3% | 97% |  |
-| 97 | 5% | 94% |  |
-| 98 | 7% | 90% | Last Result |
-| 99 | 9% | 83% |  |
-| 100 | 11% | 74% |  |
-| 101 | 12% | 63% |  |
-| 102 | 12% | 51% | Median |
-| 103 | 11% | 38% |  |
-| 104 | 9% | 28% |  |
-| 105 | 7% | 19% |  |
-| 106 | 5% | 12% |  |
-| 107 | 3% | 7% |  |
-| 108 | 2% | 4% |  |
-| 109 | 1.0% | 2% |  |
-| 110 | 0.5% | 0.9% |  |
-| 111 | 0.2% | 0.4% |  |
-| 112 | 0.1% | 0.2% |  |
-| 113 | 0% | 0.1% |  |
+| 94 | 0.6% | 99.6% |  |
+| 95 | 1.2% | 99.0% |  |
+| 96 | 2% | 98% |  |
+| 97 | 4% | 95% |  |
+| 98 | 6% | 91% | Last Result |
+| 99 | 8% | 85% |  |
+| 100 | 10% | 77% |  |
+| 101 | 12% | 67% |  |
+| 102 | 12% | 55% | Median |
+| 103 | 11% | 43% |  |
+| 104 | 10% | 32% |  |
+| 105 | 8% | 22% |  |
+| 106 | 6% | 15% |  |
+| 107 | 4% | 9% |  |
+| 108 | 2% | 5% |  |
+| 109 | 1.4% | 3% |  |
+| 110 | 0.7% | 1.4% |  |
+| 111 | 0.4% | 0.6% |  |
+| 112 | 0.2% | 0.3% |  |
+| 113 | 0.1% | 0.1% |  |
 | 114 | 0% | 0% |  |
 
 

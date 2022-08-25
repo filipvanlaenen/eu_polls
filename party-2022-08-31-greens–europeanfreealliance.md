@@ -18,19 +18,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 57 | 54–61 | 53–63 | 52–64 | 50–66 |
-| Bündnis 90/Die Grünen | DE | | 21 | 20–24 | 20–25 | 19–27 | 18–27 |
+| Greens–European Free Alliance | EU | 67 | 57 | 53–61 | 52–63 | 51–64 | 50–66 |
+| Bündnis 90/Die Grünen | DE | | 21 | 20–24 | 19–25 | 18–27 | 18–27 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Alleanza Verdi e Sinistra | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,24 +65,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 49 | 0.1% | 100% |  |
-| 50 | 0.4% | 99.9% |  |
-| 51 | 1.2% | 99.4% |  |
-| 52 | 3% | 98% |  |
-| 53 | 5% | 95% |  |
-| 54 | 8% | 90% |  |
-| 55 | 11% | 82% |  |
-| 56 | 13% | 71% |  |
-| 57 | 13% | 59% | Median |
-| 58 | 12% | 45% |  |
-| 59 | 10% | 33% |  |
-| 60 | 8% | 23% |  |
-| 61 | 6% | 15% |  |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.2% | 99.9% |  |
+| 50 | 0.7% | 99.7% |  |
+| 51 | 2% | 99.0% |  |
+| 52 | 3% | 97% |  |
+| 53 | 6% | 94% |  |
+| 54 | 8% | 89% |  |
+| 55 | 11% | 80% |  |
+| 56 | 12% | 70% |  |
+| 57 | 13% | 57% | Median |
+| 58 | 12% | 44% |  |
+| 59 | 10% | 32% |  |
+| 60 | 8% | 22% |  |
+| 61 | 6% | 14% |  |
 | 62 | 4% | 9% |  |
 | 63 | 2% | 5% |  |
 | 64 | 1.4% | 3% |  |
 | 65 | 0.7% | 1.4% |  |
-| 66 | 0.4% | 0.7% |  |
+| 66 | 0.4% | 0.6% |  |
 | 67 | 0.2% | 0.3% | Last Result |
 | 68 | 0.1% | 0.1% |  |
 | 69 | 0% | 0% |  |
