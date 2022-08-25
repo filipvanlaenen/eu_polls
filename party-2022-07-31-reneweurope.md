@@ -18,10 +18,10 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 106 | 100–111 | 98–113 | 97–114 | 94–117 |
+| Renew Europe | EU | 98 | 106 | 100–112 | 98–113 | 97–115 | 94–117 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
-| Freie Demokratische Partei | DE | | 7 | 6–9 | 5–9 | 5–10 | 5–11 |
+| Freie Demokratische Partei | DE | | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -30,7 +30,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -45,6 +44,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Liberalerna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -78,30 +78,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 0.3% | 99.7% |  |
 | 95 | 0.5% | 99.5% |  |
 | 96 | 0.8% | 99.0% |  |
-| 97 | 1.4% | 98% |  |
+| 97 | 1.3% | 98% |  |
 | 98 | 2% | 97% | Last Result |
 | 99 | 3% | 95% |  |
 | 100 | 4% | 92% |  |
 | 101 | 5% | 88% |  |
 | 102 | 6% | 83% |  |
-| 103 | 7% | 77% |  |
-| 104 | 8% | 70% |  |
-| 105 | 8% | 62% |  |
-| 106 | 9% | 53% | Median |
-| 107 | 9% | 45% |  |
-| 108 | 8% | 36% |  |
-| 109 | 7% | 28% |  |
-| 110 | 6% | 21% |  |
-| 111 | 5% | 15% |  |
-| 112 | 4% | 10% |  |
-| 113 | 2% | 6% |  |
+| 103 | 7% | 78% |  |
+| 104 | 8% | 71% |  |
+| 105 | 8% | 63% |  |
+| 106 | 9% | 55% | Median |
+| 107 | 9% | 46% |  |
+| 108 | 8% | 37% |  |
+| 109 | 7% | 29% |  |
+| 110 | 6% | 22% |  |
+| 111 | 5% | 16% |  |
+| 112 | 4% | 11% |  |
+| 113 | 3% | 7% |  |
 | 114 | 2% | 4% |  |
-| 115 | 1.0% | 2% |  |
-| 116 | 0.6% | 1.3% |  |
-| 117 | 0.3% | 0.7% |  |
+| 115 | 1.1% | 3% |  |
+| 116 | 0.7% | 1.5% |  |
+| 117 | 0.4% | 0.8% |  |
 | 118 | 0.2% | 0.4% |  |
 | 119 | 0.1% | 0.2% |  |
-| 120 | 0% | 0.1% |  |
+| 120 | 0.1% | 0.1% |  |
 | 121 | 0% | 0% |  |
 
 
