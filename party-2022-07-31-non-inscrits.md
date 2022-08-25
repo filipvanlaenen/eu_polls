@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> CY, DK, ES, FI, FR, GR, HU, IT, LT, PL, SI, SK
+> CY, DK, ES, FI, FR, GR, HU, IT, LT, LV, PL, SI, SK
 
 ## Seats
 
@@ -33,6 +33,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Insieme per il Futuro | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–2 |
+| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,7 +60,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 5% | 96% |  |
 | 40 | 9% | 91% |  |
 | 41 | 13% | 82% |  |
-| 42 | 16% | 70% |  |
+| 42 | 16% | 69% |  |
 | 43 | 17% | 53% | Median |
 | 44 | 14% | 37% |  |
 | 45 | 10% | 22% |  |
