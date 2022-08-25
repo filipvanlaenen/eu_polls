@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 77 | 72–82 | 71–83 | 70–84 | 68–86 |
-| Fratelli d’Italia | IT | | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
+| European Conservatives and Reformists | EU | 61 | 77 | 73–82 | 71–83 | 70–85 | 68–87 |
+| Fratelli d’Italia | IT | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | Zjednoczona Prawica | PL | | 20 | 17–22 | 17–23 | 16–23 | 16–24 |
 | Vox | ES | | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -30,6 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sloboda a Solidarita | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
@@ -37,7 +38,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Reģionu Apvienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -59,28 +59,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0.1% | 100% |  |
 | 67 | 0.2% | 99.9% |  |
-| 68 | 0.5% | 99.7% |  |
-| 69 | 1.0% | 99.2% |  |
-| 70 | 2% | 98% |  |
-| 71 | 3% | 96% |  |
-| 72 | 5% | 93% |  |
-| 73 | 6% | 89% |  |
-| 74 | 8% | 83% |  |
-| 75 | 10% | 75% |  |
-| 76 | 11% | 65% |  |
-| 77 | 11% | 54% | Median |
-| 78 | 10% | 44% |  |
-| 79 | 9% | 33% |  |
-| 80 | 8% | 24% |  |
-| 81 | 6% | 17% |  |
-| 82 | 4% | 11% |  |
-| 83 | 3% | 7% |  |
-| 84 | 2% | 4% |  |
-| 85 | 1.0% | 2% |  |
-| 86 | 0.5% | 1.0% |  |
-| 87 | 0.3% | 0.4% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
+| 68 | 0.4% | 99.7% |  |
+| 69 | 0.8% | 99.4% |  |
+| 70 | 1.5% | 98.6% |  |
+| 71 | 3% | 97% |  |
+| 72 | 4% | 95% |  |
+| 73 | 6% | 91% |  |
+| 74 | 7% | 85% |  |
+| 75 | 9% | 78% |  |
+| 76 | 10% | 69% |  |
+| 77 | 11% | 59% | Median |
+| 78 | 10% | 48% |  |
+| 79 | 10% | 38% |  |
+| 80 | 8% | 28% |  |
+| 81 | 7% | 20% |  |
+| 82 | 5% | 13% |  |
+| 83 | 3% | 8% |  |
+| 84 | 2% | 5% |  |
+| 85 | 1.3% | 3% |  |
+| 86 | 0.7% | 1.4% |  |
+| 87 | 0.4% | 0.7% |  |
+| 88 | 0.2% | 0.3% |  |
+| 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
 
