@@ -18,10 +18,10 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 34 | 32–37 | 31–37 | 30–38 | 29–39 |
+| Non-Inscrits | EU | 29 | 34 | 31–37 | 30–37 | 29–38 | 28–39 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
-| Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -32,7 +32,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–2 |
+| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -47,20 +47,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 0.2% | 99.9% |  |
-| 29 | 0.7% | 99.7% | Last Result |
-| 30 | 2% | 99.0% |  |
-| 31 | 5% | 97% |  |
-| 32 | 10% | 92% |  |
-| 33 | 16% | 82% |  |
-| 34 | 21% | 65% | Median |
-| 35 | 20% | 44% |  |
-| 36 | 14% | 25% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.3% | 99.9% |  |
+| 28 | 0.9% | 99.5% |  |
+| 29 | 2% | 98.6% | Last Result |
+| 30 | 4% | 97% |  |
+| 31 | 7% | 92% |  |
+| 32 | 12% | 85% |  |
+| 33 | 16% | 73% |  |
+| 34 | 18% | 57% | Median |
+| 35 | 16% | 39% |  |
+| 36 | 12% | 23% |  |
 | 37 | 7% | 11% |  |
 | 38 | 3% | 4% |  |
-| 39 | 0.8% | 1.1% |  |
-| 40 | 0.2% | 0.2% |  |
-| 41 | 0% | 0% |  |
+| 39 | 1.0% | 1.4% |  |
+| 40 | 0.3% | 0.4% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 

@@ -23,7 +23,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Български възход [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -64,16 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 1.5% | 99.8% |  |
+| 6 | 1.4% | 99.8% |  |
 | 7 | 6% | 98% |  |
 | 8 | 14% | 92% |  |
 | 9 | 21% | 79% |  |
 | 10 | 23% | 58% | Median |
 | 11 | 18% | 35% |  |
 | 12 | 10% | 17% |  |
-| 13 | 4% | 7% |  |
+| 13 | 5% | 7% |  |
 | 14 | 2% | 2% |  |
-| 15 | 0.5% | 0.7% |  |
+| 15 | 0.5% | 0.8% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |

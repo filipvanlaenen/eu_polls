@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **102** seats (+4 seats)
+Current median: **103** seats (+5 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 98–106 | 97–108 | 96–109 | 94–111 |
+| Renew Europe | EU | 98 | 103 | 98–108 | 97–109 | 96–110 | 94–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
+| Polska 2050 | PL | | 6 | 4–9 | 4–9 | 4–10 | 3–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Azione–Italia Viva | IT | | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
-| Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -46,7 +46,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalerna | SE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Liberalerna | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -75,27 +75,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 91 | 0% | 100% |  |
 | 92 | 0.1% | 99.9% |  |
-| 93 | 0.3% | 99.8% |  |
-| 94 | 0.6% | 99.6% |  |
-| 95 | 1.2% | 99.0% |  |
+| 93 | 0.2% | 99.9% |  |
+| 94 | 0.4% | 99.7% |  |
+| 95 | 0.9% | 99.2% |  |
 | 96 | 2% | 98% |  |
-| 97 | 4% | 95% |  |
-| 98 | 6% | 91% | Last Result |
-| 99 | 8% | 85% |  |
-| 100 | 10% | 77% |  |
-| 101 | 12% | 67% |  |
-| 102 | 12% | 55% | Median |
-| 103 | 11% | 43% |  |
-| 104 | 10% | 32% |  |
-| 105 | 8% | 22% |  |
-| 106 | 6% | 15% |  |
-| 107 | 4% | 9% |  |
-| 108 | 2% | 5% |  |
-| 109 | 1.4% | 3% |  |
-| 110 | 0.7% | 1.4% |  |
-| 111 | 0.4% | 0.6% |  |
-| 112 | 0.2% | 0.3% |  |
-| 113 | 0.1% | 0.1% |  |
-| 114 | 0% | 0% |  |
+| 97 | 3% | 97% |  |
+| 98 | 5% | 94% | Last Result |
+| 99 | 6% | 89% |  |
+| 100 | 8% | 83% |  |
+| 101 | 10% | 75% |  |
+| 102 | 11% | 65% |  |
+| 103 | 11% | 54% | Median |
+| 104 | 10% | 43% |  |
+| 105 | 9% | 33% |  |
+| 106 | 7% | 24% |  |
+| 107 | 6% | 16% |  |
+| 108 | 4% | 11% |  |
+| 109 | 3% | 6% |  |
+| 110 | 2% | 4% |  |
+| 111 | 1.0% | 2% |  |
+| 112 | 0.5% | 1.0% |  |
+| 113 | 0.3% | 0.5% |  |
+| 114 | 0.1% | 0.2% |  |
+| 115 | 0.1% | 0.1% |  |
+| 116 | 0% | 0% |  |
 
 
