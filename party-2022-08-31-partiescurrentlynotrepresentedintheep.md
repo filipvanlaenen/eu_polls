@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SK
+> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SI, SK
 
 ## Seats
 
@@ -39,9 +39,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -71,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 10% | 18% |  |
 | 13 | 5% | 8% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.7% | 1.1% |  |
-| 16 | 0.3% | 0.4% |  |
+| 15 | 0.7% | 1.0% |  |
+| 16 | 0.2% | 0.4% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
