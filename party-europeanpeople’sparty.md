@@ -74,24 +74,24 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 144 | 0.1% | 100% |  |
-| 145 | 0.1% | 99.9% |  |
+| 145 | 0.2% | 99.9% |  |
 | 146 | 0.3% | 99.7% |  |
 | 147 | 0.6% | 99.4% |  |
-| 148 | 1.0% | 98.8% |  |
+| 148 | 1.1% | 98.8% |  |
 | 149 | 2% | 98% |  |
 | 150 | 3% | 96% |  |
 | 151 | 4% | 93% |  |
 | 152 | 5% | 90% |  |
-| 153 | 6% | 85% |  |
+| 153 | 6% | 84% |  |
 | 154 | 8% | 78% |  |
-| 155 | 9% | 71% |  |
+| 155 | 9% | 70% |  |
 | 156 | 9% | 62% |  |
 | 157 | 9% | 53% | Median |
 | 158 | 9% | 44% |  |
@@ -101,11 +101,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 4% | 15% |  |
 | 163 | 3% | 10% |  |
 | 164 | 2% | 7% |  |
-| 165 | 2% | 5% |  |
+| 165 | 2% | 4% |  |
 | 166 | 1.1% | 3% |  |
 | 167 | 0.7% | 2% |  |
 | 168 | 0.4% | 1.0% |  |
-| 169 | 0.3% | 0.5% |  |
+| 169 | 0.2% | 0.5% |  |
 | 170 | 0.1% | 0.3% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |

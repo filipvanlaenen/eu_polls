@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 104 | 100–109 | 98–110 | 97–111 | 95–113 |
+| Renew Europe | EU | 98 | 104 | 100–109 | 98–110 | 97–111 | 95–114 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
@@ -46,7 +46,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalerna | SE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Liberalerna | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -64,9 +64,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -78,11 +78,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 3% | 97% | Last Result |
 | 99 | 4% | 94% |  |
 | 100 | 6% | 90% |  |
-| 101 | 8% | 84% |  |
+| 101 | 8% | 85% |  |
 | 102 | 9% | 77% |  |
 | 103 | 10% | 68% |  |
-| 104 | 11% | 57% | Median |
-| 105 | 11% | 46% |  |
+| 104 | 11% | 58% | Median |
+| 105 | 11% | 47% |  |
 | 106 | 10% | 36% |  |
 | 107 | 8% | 26% |  |
 | 108 | 6% | 18% |  |

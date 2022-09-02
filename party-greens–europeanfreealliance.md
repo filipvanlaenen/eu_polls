@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -57,9 +57,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -69,21 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 2% | 98.9% |  |
 | 50 | 4% | 97% |  |
 | 51 | 6% | 93% |  |
-| 52 | 8% | 87% |  |
+| 52 | 9% | 87% |  |
 | 53 | 10% | 79% |  |
-| 54 | 11% | 69% |  |
-| 55 | 11% | 58% | Median |
+| 54 | 11% | 68% |  |
+| 55 | 11% | 57% | Median |
 | 56 | 10% | 47% |  |
 | 57 | 9% | 37% |  |
 | 58 | 8% | 28% |  |
 | 59 | 7% | 20% |  |
 | 60 | 5% | 13% |  |
-| 61 | 3% | 9% |  |
+| 61 | 3% | 8% |  |
 | 62 | 2% | 5% |  |
-| 63 | 1.5% | 3% |  |
+| 63 | 1.4% | 3% |  |
 | 64 | 0.9% | 2% |  |
 | 65 | 0.4% | 0.7% |  |
-| 66 | 0.2% | 0.3% |  |
+| 66 | 0.2% | 0.2% |  |
 | 67 | 0.1% | 0.1% | Last Result |
 | 68 | 0% | 0% |  |
 
