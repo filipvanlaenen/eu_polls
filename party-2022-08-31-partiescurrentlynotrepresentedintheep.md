@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–13 | 6–15 |
-| BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–14 | 6–15 |
+| BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Български възход [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -28,7 +28,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -39,11 +39,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -63,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 1.4% | 99.8% |  |
-| 7 | 6% | 98% |  |
-| 8 | 14% | 92% |  |
-| 9 | 21% | 79% |  |
-| 10 | 23% | 58% | Median |
-| 11 | 18% | 35% |  |
-| 12 | 10% | 17% |  |
-| 13 | 5% | 7% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.5% | 0.8% |  |
-| 16 | 0.2% | 0.2% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 2% | 99.7% |  |
+| 7 | 7% | 98% |  |
+| 8 | 14% | 91% |  |
+| 9 | 20% | 77% |  |
+| 10 | 22% | 57% | Median |
+| 11 | 17% | 36% |  |
+| 12 | 10% | 18% |  |
+| 13 | 5% | 8% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.7% | 1.1% |  |
+| 16 | 0.3% | 0.4% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
