@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -59,9 +59,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -75,10 +75,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 11% | 79% |  |
 | 54 | 12% | 68% |  |
 | 55 | 12% | 56% | Median |
-| 56 | 10% | 44% |  |
+| 56 | 10% | 45% |  |
 | 57 | 9% | 34% |  |
 | 58 | 8% | 25% |  |
-| 59 | 6% | 17% |  |
+| 59 | 6% | 18% |  |
 | 60 | 4% | 11% |  |
 | 61 | 3% | 7% |  |
 | 62 | 2% | 4% |  |

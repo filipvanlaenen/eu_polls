@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 128–138 | 127–139 | 126–140 | 124–142 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 129–138 | 127–139 | 126–140 | 124–143 |
 | Partito Democratico | IT | | 19 | 16–21 | 16–21 | 15–22 | 14–23 |
 | Sozialdemokratische Partei Deutschlands | DE | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
@@ -30,6 +30,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Demokratikus Koalíció | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -37,7 +38,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| SMER–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -58,36 +58,36 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 121 | 0% | 100% |  |
 | 122 | 0.1% | 99.9% |  |
-| 123 | 0.2% | 99.8% |  |
-| 124 | 0.5% | 99.6% |  |
-| 125 | 1.0% | 99.1% |  |
+| 123 | 0.2% | 99.9% |  |
+| 124 | 0.4% | 99.7% |  |
+| 125 | 0.8% | 99.2% |  |
 | 126 | 2% | 98% |  |
-| 127 | 3% | 96% |  |
+| 127 | 3% | 97% |  |
 | 128 | 4% | 94% |  |
-| 129 | 6% | 89% |  |
-| 130 | 8% | 83% |  |
-| 131 | 9% | 76% |  |
-| 132 | 10% | 66% |  |
-| 133 | 11% | 56% | Median |
-| 134 | 10% | 45% |  |
-| 135 | 9% | 35% |  |
-| 136 | 8% | 25% |  |
-| 137 | 6% | 17% |  |
-| 138 | 4% | 11% |  |
-| 139 | 3% | 7% |  |
+| 129 | 6% | 90% |  |
+| 130 | 7% | 85% |  |
+| 131 | 9% | 78% |  |
+| 132 | 10% | 69% |  |
+| 133 | 11% | 58% | Median |
+| 134 | 11% | 47% |  |
+| 135 | 10% | 37% |  |
+| 136 | 8% | 27% |  |
+| 137 | 6% | 19% |  |
+| 138 | 5% | 12% |  |
+| 139 | 3% | 8% |  |
 | 140 | 2% | 4% |  |
-| 141 | 1.1% | 2% |  |
-| 142 | 0.6% | 1.1% |  |
-| 143 | 0.3% | 0.5% |  |
-| 144 | 0.1% | 0.2% |  |
+| 141 | 1.2% | 2% |  |
+| 142 | 0.6% | 1.2% |  |
+| 143 | 0.3% | 0.6% |  |
+| 144 | 0.2% | 0.3% |  |
 | 145 | 0.1% | 0.1% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |
