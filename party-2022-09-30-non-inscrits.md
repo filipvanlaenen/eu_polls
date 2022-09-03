@@ -27,11 +27,11 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -47,21 +47,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.5% | 99.8% |  |
-| 29 | 1.2% | 99.3% | Last Result |
-| 30 | 3% | 98% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.4% | 99.8% |  |
+| 29 | 1.0% | 99.4% | Last Result |
+| 30 | 2% | 98% |  |
 | 31 | 5% | 96% |  |
 | 32 | 8% | 91% |  |
-| 33 | 13% | 82% |  |
-| 34 | 16% | 70% |  |
-| 35 | 18% | 53% | Median |
-| 36 | 15% | 36% |  |
-| 37 | 11% | 21% |  |
-| 38 | 6% | 10% |  |
-| 39 | 3% | 4% |  |
-| 40 | 1.0% | 1.5% |  |
-| 41 | 0.3% | 0.4% |  |
+| 33 | 12% | 84% |  |
+| 34 | 16% | 72% |  |
+| 35 | 18% | 56% | Median |
+| 36 | 16% | 38% |  |
+| 37 | 11% | 22% |  |
+| 38 | 6% | 11% |  |
+| 39 | 3% | 5% |  |
+| 40 | 1.1% | 2% |  |
+| 41 | 0.4% | 0.5% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 
