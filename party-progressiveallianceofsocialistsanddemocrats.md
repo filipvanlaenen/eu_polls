@@ -25,7 +25,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 13 | 11–14 | 10–15 | 10–15 | 10–15 |
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Lewica | PL | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -58,34 +58,33 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 121 | 0% | 100% |  |
-| 122 | 0.1% | 99.9% |  |
+| 122 | 0.1% | 100% |  |
 | 123 | 0.2% | 99.9% |  |
 | 124 | 0.4% | 99.7% |  |
-| 125 | 0.8% | 99.2% |  |
-| 126 | 2% | 98% |  |
-| 127 | 3% | 97% |  |
-| 128 | 4% | 94% |  |
-| 129 | 6% | 90% |  |
+| 125 | 0.8% | 99.3% |  |
+| 126 | 1.5% | 98% |  |
+| 127 | 2% | 97% |  |
+| 128 | 4% | 95% |  |
+| 129 | 5% | 91% |  |
 | 130 | 7% | 85% |  |
 | 131 | 9% | 78% |  |
 | 132 | 10% | 69% |  |
-| 133 | 11% | 58% | Median |
-| 134 | 11% | 47% |  |
+| 133 | 11% | 59% | Median |
+| 134 | 11% | 48% |  |
 | 135 | 10% | 37% |  |
-| 136 | 8% | 27% |  |
-| 137 | 6% | 19% |  |
-| 138 | 5% | 12% |  |
+| 136 | 8% | 28% |  |
+| 137 | 7% | 19% |  |
+| 138 | 5% | 13% |  |
 | 139 | 3% | 8% |  |
-| 140 | 2% | 4% |  |
+| 140 | 2% | 5% |  |
 | 141 | 1.2% | 2% |  |
-| 142 | 0.6% | 1.2% |  |
+| 142 | 0.7% | 1.3% |  |
 | 143 | 0.3% | 0.6% |  |
 | 144 | 0.2% | 0.3% |  |
 | 145 | 0.1% | 0.1% |  |

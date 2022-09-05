@@ -31,7 +31,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
@@ -48,7 +48,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -75,24 +75,24 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 143 | 0.1% | 100% |  |
-| 144 | 0.2% | 99.9% |  |
-| 145 | 0.3% | 99.7% |  |
-| 146 | 0.6% | 99.4% |  |
-| 147 | 1.1% | 98.8% |  |
+| 144 | 0.1% | 99.9% |  |
+| 145 | 0.3% | 99.8% |  |
+| 146 | 0.6% | 99.5% |  |
+| 147 | 1.0% | 98.9% |  |
 | 148 | 2% | 98% |  |
 | 149 | 3% | 96% |  |
-| 150 | 4% | 93% |  |
+| 150 | 4% | 94% |  |
 | 151 | 5% | 90% |  |
-| 152 | 6% | 84% |  |
+| 152 | 6% | 85% |  |
 | 153 | 8% | 78% |  |
-| 154 | 9% | 70% |  |
+| 154 | 9% | 71% |  |
 | 155 | 9% | 62% |  |
 | 156 | 9% | 53% | Median |
 | 157 | 9% | 44% |  |

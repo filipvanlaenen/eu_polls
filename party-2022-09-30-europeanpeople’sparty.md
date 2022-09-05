@@ -31,7 +31,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Det Konservative Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
@@ -48,7 +48,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -83,12 +83,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 143 | 0.1% | 100% |  |
 | 144 | 0.1% | 99.9% |  |
-| 145 | 0.3% | 99.7% |  |
-| 146 | 0.6% | 99.4% |  |
+| 145 | 0.3% | 99.8% |  |
+| 146 | 0.6% | 99.5% |  |
 | 147 | 1.0% | 98.9% |  |
 | 148 | 2% | 98% |  |
 | 149 | 3% | 96% |  |
-| 150 | 4% | 93% |  |
+| 150 | 4% | 94% |  |
 | 151 | 5% | 90% |  |
 | 152 | 6% | 85% |  |
 | 153 | 8% | 78% |  |
@@ -105,7 +105,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 2% | 4% |  |
 | 165 | 1.1% | 3% |  |
 | 166 | 0.7% | 2% |  |
-| 167 | 0.4% | 1.0% |  |
+| 167 | 0.4% | 0.9% |  |
 | 168 | 0.2% | 0.5% |  |
 | 169 | 0.1% | 0.3% |  |
 | 170 | 0.1% | 0.1% |  |
