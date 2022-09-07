@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 55 | 51–60 | 50–61 | 49–62 | 48–64 |
+| Greens–European Free Alliance | EU | 67 | 55 | 51–60 | 50–61 | 49–62 | 48–65 |
 | Bündnis 90/Die Grünen | DE | | 21 | 19–24 | 19–25 | 18–27 | 18–27 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната | BG | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -59,9 +59,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -69,23 +69,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.2% | 99.9% |  |
 | 48 | 0.7% | 99.7% |  |
 | 49 | 2% | 99.0% |  |
-| 50 | 4% | 97% |  |
+| 50 | 3% | 97% |  |
 | 51 | 6% | 94% |  |
-| 52 | 9% | 88% |  |
-| 53 | 11% | 79% |  |
-| 54 | 12% | 68% |  |
-| 55 | 12% | 56% | Median |
-| 56 | 10% | 45% |  |
-| 57 | 9% | 34% |  |
-| 58 | 8% | 25% |  |
+| 52 | 8% | 88% |  |
+| 53 | 11% | 80% |  |
+| 54 | 12% | 69% |  |
+| 55 | 12% | 57% | Median |
+| 56 | 10% | 46% |  |
+| 57 | 9% | 35% |  |
+| 58 | 8% | 26% |  |
 | 59 | 6% | 18% |  |
-| 60 | 4% | 11% |  |
+| 60 | 5% | 12% |  |
 | 61 | 3% | 7% |  |
 | 62 | 2% | 4% |  |
-| 63 | 1.1% | 2% |  |
-| 64 | 0.6% | 1.1% |  |
+| 63 | 1.2% | 2% |  |
+| 64 | 0.7% | 1.2% |  |
 | 65 | 0.3% | 0.5% |  |
 | 66 | 0.1% | 0.2% |  |
-| 67 | 0% | 0% | Last Result |
+| 67 | 0% | 0.1% | Last Result |
+| 68 | 0% | 0% |  |
 
 

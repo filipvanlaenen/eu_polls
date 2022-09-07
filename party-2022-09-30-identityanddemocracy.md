@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 65 | 62–68 | 61–69 | 60–69 | 59–71 |
+| Identity and Democracy | EU | 76 | 65 | 62–68 | 61–68 | 60–69 | 59–71 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
 | Alternative für Deutschland | DE | | 12 | 10–14 | 10–15 | 9–15 | 9–15 |
 | Lega Nord | IT | | 12 | 10–13 | 10–14 | 9–15 | 8–16 |
@@ -28,7 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Chega | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -42,18 +42,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
-| 59 | 0.5% | 99.9% |  |
+| 59 | 0.6% | 99.9% |  |
 | 60 | 2% | 99.3% |  |
 | 61 | 5% | 97% |  |
 | 62 | 10% | 92% |  |
 | 63 | 15% | 83% |  |
-| 64 | 17% | 68% |  |
-| 65 | 17% | 51% | Median |
-| 66 | 14% | 34% |  |
+| 64 | 18% | 68% |  |
+| 65 | 17% | 50% | Median |
+| 66 | 14% | 33% |  |
 | 67 | 9% | 20% |  |
-| 68 | 6% | 11% |  |
+| 68 | 6% | 10% |  |
 | 69 | 3% | 5% |  |
-| 70 | 1.3% | 2% |  |
+| 70 | 1.2% | 2% |  |
 | 71 | 0.5% | 0.7% |  |
 | 72 | 0.2% | 0.2% |  |
 | 73 | 0% | 0.1% |  |
