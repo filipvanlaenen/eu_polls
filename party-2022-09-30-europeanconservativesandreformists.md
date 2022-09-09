@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 76 | 71–80 | 70–81 | 69–82 | 68–84 |
+| European Conservatives and Reformists | EU | 61 | 76 | 72–80 | 70–81 | 70–82 | 68–84 |
 | Fratelli d’Italia | IT | | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
@@ -60,8 +60,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0.1% | 100% |  |
 | 67 | 0.3% | 99.9% |  |
 | 68 | 0.7% | 99.6% |  |
-| 69 | 1.5% | 98.9% |  |
-| 70 | 3% | 97% |  |
+| 69 | 1.4% | 99.0% |  |
+| 70 | 3% | 98% |  |
 | 71 | 5% | 95% |  |
 | 72 | 7% | 90% |  |
 | 73 | 9% | 83% |  |
@@ -73,9 +73,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 79 | 7% | 19% |  |
 | 80 | 5% | 12% |  |
 | 81 | 3% | 7% |  |
-| 82 | 2% | 3% |  |
-| 83 | 0.9% | 2% |  |
-| 84 | 0.4% | 0.7% |  |
+| 82 | 2% | 4% |  |
+| 83 | 1.0% | 2% |  |
+| 84 | 0.5% | 0.7% |  |
 | 85 | 0.2% | 0.3% |  |
 | 86 | 0.1% | 0.1% |  |
 | 87 | 0% | 0% |  |
