@@ -48,7 +48,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -85,24 +85,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 0.1% | 99.9% |  |
 | 148 | 0.2% | 99.8% |  |
 | 149 | 0.5% | 99.6% |  |
-| 150 | 0.8% | 99.1% |  |
-| 151 | 1.4% | 98% |  |
+| 150 | 0.9% | 99.1% |  |
+| 151 | 1.5% | 98% |  |
 | 152 | 2% | 97% |  |
-| 153 | 3% | 95% |  |
+| 153 | 3% | 94% |  |
 | 154 | 5% | 91% |  |
 | 155 | 6% | 86% |  |
 | 156 | 8% | 80% |  |
 | 157 | 9% | 72% |  |
-| 158 | 10% | 64% |  |
+| 158 | 10% | 63% |  |
 | 159 | 10% | 54% | Median |
 | 160 | 9% | 44% |  |
 | 161 | 8% | 35% |  |
-| 162 | 7% | 27% |  |
+| 162 | 7% | 26% |  |
 | 163 | 6% | 19% |  |
 | 164 | 4% | 13% |  |
 | 165 | 3% | 9% |  |
 | 166 | 2% | 6% |  |
-| 167 | 1.5% | 3% |  |
+| 167 | 1.4% | 3% |  |
 | 168 | 0.9% | 2% |  |
 | 169 | 0.5% | 1.1% |  |
 | 170 | 0.3% | 0.6% |  |
