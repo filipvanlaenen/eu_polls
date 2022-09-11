@@ -18,7 +18,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 36 | 33–39 | 32–40 | 31–41 | 30–42 |
+| Non-Inscrits | EU | 29 | 36 | 33–39 | 32–40 | 31–41 | 30–43 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 10–14 | 9–15 | 8–15 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -26,7 +26,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -51,18 +51,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.3% | 99.9% | Last Result |
 | 30 | 0.7% | 99.6% |  |
 | 31 | 2% | 98.9% |  |
-| 32 | 4% | 97% |  |
+| 32 | 3% | 97% |  |
 | 33 | 6% | 94% |  |
-| 34 | 10% | 87% |  |
-| 35 | 14% | 77% |  |
-| 36 | 17% | 64% | Median |
-| 37 | 16% | 47% |  |
-| 38 | 13% | 31% |  |
+| 34 | 10% | 88% |  |
+| 35 | 14% | 78% |  |
+| 36 | 16% | 64% | Median |
+| 37 | 16% | 48% |  |
+| 38 | 13% | 32% |  |
 | 39 | 9% | 18% |  |
 | 40 | 5% | 9% |  |
-| 41 | 2% | 4% |  |
-| 42 | 1.0% | 1.4% |  |
-| 43 | 0.3% | 0.5% |  |
+| 41 | 3% | 4% |  |
+| 42 | 1.0% | 2% |  |
+| 43 | 0.4% | 0.5% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
