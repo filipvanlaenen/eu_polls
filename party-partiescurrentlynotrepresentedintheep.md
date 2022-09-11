@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–14 | 6–16 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–13 | 7–14 | 6–15 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -33,7 +33,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -52,9 +52,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,20 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 1.4% | 99.8% |  |
-| 7 | 6% | 98% |  |
-| 8 | 13% | 93% |  |
-| 9 | 20% | 80% |  |
-| 10 | 22% | 61% | Median |
-| 11 | 18% | 39% |  |
-| 12 | 11% | 21% |  |
-| 13 | 6% | 10% |  |
-| 14 | 2% | 4% |  |
-| 15 | 1.0% | 2% |  |
-| 16 | 0.4% | 0.7% |  |
-| 17 | 0.2% | 0.2% |  |
-| 18 | 0% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 2% | 99.7% |  |
+| 7 | 7% | 98% |  |
+| 8 | 14% | 91% |  |
+| 9 | 20% | 77% |  |
+| 10 | 22% | 57% | Median |
+| 11 | 17% | 35% |  |
+| 12 | 10% | 18% |  |
+| 13 | 5% | 8% |  |
+| 14 | 2% | 3% |  |
+| 15 | 0.6% | 1.0% |  |
+| 16 | 0.2% | 0.3% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
