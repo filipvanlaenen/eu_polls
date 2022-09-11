@@ -10,9 +10,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **10** seats (+10 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> BG, DK, NL
+> AT, BG, DK, NL
 
 ### Confidence Intervals
 
@@ -22,6 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Български възход [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -37,7 +38,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -65,16 +65,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
 | 6 | 2% | 99.7% |  |
-| 7 | 7% | 98% |  |
-| 8 | 14% | 91% |  |
-| 9 | 20% | 77% |  |
-| 10 | 22% | 57% | Median |
-| 11 | 17% | 35% |  |
-| 12 | 10% | 18% |  |
+| 7 | 6% | 98% |  |
+| 8 | 13% | 92% |  |
+| 9 | 20% | 78% |  |
+| 10 | 22% | 58% | Median |
+| 11 | 18% | 37% |  |
+| 12 | 11% | 19% |  |
 | 13 | 5% | 8% |  |
 | 14 | 2% | 3% |  |
-| 15 | 0.6% | 1.0% |  |
-| 16 | 0.2% | 0.3% |  |
+| 15 | 0.7% | 1.0% |  |
+| 16 | 0.2% | 0.4% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 

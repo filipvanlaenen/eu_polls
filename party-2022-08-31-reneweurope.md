@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 104 | 99–108 | 98–110 | 97–111 | 95–113 |
+| Renew Europe | EU | 98 | 104 | 99–108 | 98–109 | 97–111 | 95–113 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
@@ -33,7 +33,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -72,26 +72,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 92 | 0% | 100% |  |
 | 93 | 0.1% | 99.9% |  |
-| 94 | 0.2% | 99.8% |  |
-| 95 | 0.5% | 99.6% |  |
-| 96 | 1.0% | 99.1% |  |
+| 94 | 0.3% | 99.8% |  |
+| 95 | 0.6% | 99.6% |  |
+| 96 | 1.1% | 99.0% |  |
 | 97 | 2% | 98% |  |
 | 98 | 3% | 96% | Last Result |
 | 99 | 5% | 93% |  |
 | 100 | 7% | 88% |  |
-| 101 | 8% | 82% |  |
-| 102 | 10% | 73% |  |
-| 103 | 11% | 63% |  |
-| 104 | 11% | 52% | Median |
-| 105 | 10% | 41% |  |
-| 106 | 9% | 31% |  |
-| 107 | 7% | 22% |  |
-| 108 | 5% | 15% |  |
+| 101 | 9% | 81% |  |
+| 102 | 10% | 72% |  |
+| 103 | 11% | 62% |  |
+| 104 | 11% | 51% | Median |
+| 105 | 10% | 40% |  |
+| 106 | 9% | 30% |  |
+| 107 | 7% | 21% |  |
+| 108 | 5% | 14% |  |
 | 109 | 4% | 9% |  |
 | 110 | 2% | 5% |  |
-| 111 | 1.4% | 3% |  |
-| 112 | 0.8% | 1.5% |  |
-| 113 | 0.4% | 0.7% |  |
+| 111 | 1.3% | 3% |  |
+| 112 | 0.7% | 1.3% |  |
+| 113 | 0.4% | 0.6% |  |
 | 114 | 0.2% | 0.3% |  |
 | 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0% |  |
