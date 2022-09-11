@@ -18,44 +18,45 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 65 | 62–68 | 61–69 | 61–70 | 59–71 |
+| Identity and Democracy | EU | 76 | 65 | 61–68 | 61–69 | 60–70 | 58–72 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
-| Alternative für Deutschland | DE | | 12 | 10–14 | 10–15 | 9–15 | 9–15 |
-| Lega Nord | IT | | 12 | 10–14 | 10–14 | 10–15 | 9–16 |
+| Alternative für Deutschland | DE | | 13 | 11–16 | 10–16 | 9–16 | 9–16 |
+| Lega Nord | IT | | 10 | 9–13 | 8–13 | 8–14 | 7–15 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Chega | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0.1% | 100% |  |
-| 59 | 0.4% | 99.9% |  |
-| 60 | 2% | 99.5% |  |
-| 61 | 5% | 98% |  |
-| 62 | 9% | 93% |  |
-| 63 | 14% | 84% |  |
-| 64 | 17% | 70% |  |
-| 65 | 17% | 54% | Median |
-| 66 | 14% | 37% |  |
-| 67 | 10% | 23% |  |
-| 68 | 7% | 13% |  |
-| 69 | 4% | 6% |  |
-| 70 | 2% | 3% |  |
-| 71 | 0.7% | 1.0% |  |
-| 72 | 0.2% | 0.3% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.4% | 99.9% |  |
+| 59 | 1.2% | 99.4% |  |
+| 60 | 3% | 98% |  |
+| 61 | 6% | 95% |  |
+| 62 | 9% | 90% |  |
+| 63 | 13% | 80% |  |
+| 64 | 15% | 68% |  |
+| 65 | 15% | 53% | Median |
+| 66 | 13% | 38% |  |
+| 67 | 10% | 25% |  |
+| 68 | 7% | 15% |  |
+| 69 | 4% | 8% |  |
+| 70 | 2% | 4% |  |
+| 71 | 0.9% | 1.4% |  |
+| 72 | 0.4% | 0.5% |  |
 | 73 | 0.1% | 0.1% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |
