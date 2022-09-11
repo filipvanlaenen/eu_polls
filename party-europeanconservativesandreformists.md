@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **76** seats (+15 seats)
+Current median: **75** seats (+14 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 76 | 72–80 | 70–81 | 70–82 | 68–84 |
-| Fratelli d’Italia | IT | | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
+| European Conservatives and Reformists | EU | 61 | 75 | 71–80 | 70–81 | 69–82 | 68–84 |
+| Fratelli d’Italia | IT | | 21 | 19–22 | 19–23 | 18–24 | 17–24 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
-| Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
+| Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Alianța pentru Unirea Românilor | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -46,9 +46,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,24 +59,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0.1% | 100% |  |
 | 67 | 0.3% | 99.9% |  |
-| 68 | 0.6% | 99.6% |  |
-| 69 | 1.4% | 99.0% |  |
-| 70 | 3% | 98% |  |
-| 71 | 5% | 95% |  |
-| 72 | 7% | 90% |  |
-| 73 | 9% | 84% |  |
-| 74 | 11% | 75% |  |
-| 75 | 12% | 64% |  |
-| 76 | 12% | 52% | Median |
-| 77 | 11% | 40% |  |
-| 78 | 9% | 29% |  |
-| 79 | 7% | 19% |  |
-| 80 | 5% | 12% |  |
-| 81 | 3% | 7% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.0% | 2% |  |
-| 84 | 0.5% | 0.8% |  |
-| 85 | 0.2% | 0.3% |  |
+| 68 | 0.8% | 99.5% |  |
+| 69 | 2% | 98.7% |  |
+| 70 | 3% | 97% |  |
+| 71 | 5% | 94% |  |
+| 72 | 7% | 89% |  |
+| 73 | 10% | 81% |  |
+| 74 | 11% | 71% |  |
+| 75 | 12% | 60% | Median |
+| 76 | 12% | 48% |  |
+| 77 | 11% | 36% |  |
+| 78 | 9% | 25% |  |
+| 79 | 7% | 17% |  |
+| 80 | 4% | 10% |  |
+| 81 | 3% | 6% |  |
+| 82 | 2% | 3% |  |
+| 83 | 0.8% | 1.4% |  |
+| 84 | 0.4% | 0.6% |  |
+| 85 | 0.2% | 0.2% |  |
 | 86 | 0.1% | 0.1% |  |
 | 87 | 0% | 0% |  |
 

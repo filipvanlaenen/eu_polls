@@ -23,7 +23,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Polska 2050 | PL | | 6 | 4–9 | 4–9 | 4–10 | 3–10 |
-| Azione–Italia Viva | IT | | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
+| Azione–Italia Viva | IT | | 5 | 4–7 | 4–7 | 4–7 | 0–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -44,7 +44,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -74,19 +74,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0.1% | 99.9% |  |
 | 94 | 0.2% | 99.8% |  |
 | 95 | 0.5% | 99.6% |  |
-| 96 | 1.1% | 99.1% |  |
+| 96 | 1.0% | 99.1% |  |
 | 97 | 2% | 98% |  |
 | 98 | 3% | 96% | Last Result |
 | 99 | 5% | 93% |  |
 | 100 | 7% | 88% |  |
-| 101 | 9% | 81% |  |
+| 101 | 8% | 82% |  |
 | 102 | 10% | 73% |  |
 | 103 | 11% | 63% |  |
 | 104 | 11% | 52% | Median |
 | 105 | 10% | 41% |  |
 | 106 | 9% | 31% |  |
 | 107 | 7% | 22% |  |
-| 108 | 5% | 14% |  |
+| 108 | 5% | 15% |  |
 | 109 | 4% | 9% |  |
 | 110 | 2% | 5% |  |
 | 111 | 1.4% | 3% |  |
