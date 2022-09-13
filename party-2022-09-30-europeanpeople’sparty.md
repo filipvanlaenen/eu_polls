@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **158** seats (-29 seats)
+Current median: **159** seats (-28 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 153–164 | 152–165 | 151–167 | 148–169 |
+| European People’s Party | EU | 187 | 159 | 154–164 | 152–166 | 151–167 | 149–170 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–24 | 15–25 |
 | Partido Popular | ES | | 20 | 17–22 | 17–22 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -43,6 +43,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| Демократична България | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,7 +53,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Демократична България | BG | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -81,35 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 145 | 0% | 100% |  |
-| 146 | 0.1% | 99.9% |  |
-| 147 | 0.2% | 99.9% |  |
-| 148 | 0.4% | 99.7% |  |
-| 149 | 0.7% | 99.3% |  |
-| 150 | 1.1% | 98.7% |  |
-| 151 | 2% | 98% |  |
-| 152 | 3% | 96% |  |
-| 153 | 4% | 93% |  |
-| 154 | 5% | 89% |  |
-| 155 | 7% | 83% |  |
-| 156 | 8% | 76% |  |
-| 157 | 9% | 68% |  |
-| 158 | 10% | 59% | Median |
-| 159 | 10% | 49% |  |
-| 160 | 9% | 39% |  |
-| 161 | 8% | 30% |  |
-| 162 | 7% | 23% |  |
-| 163 | 5% | 16% |  |
-| 164 | 4% | 11% |  |
-| 165 | 3% | 7% |  |
-| 166 | 2% | 4% |  |
-| 167 | 1.1% | 3% |  |
-| 168 | 0.7% | 1.4% |  |
-| 169 | 0.4% | 0.8% |  |
-| 170 | 0.2% | 0.4% |  |
-| 171 | 0.1% | 0.2% |  |
-| 172 | 0% | 0.1% |  |
-| 173 | 0% | 0% |  |
+| 146 | 0% | 100% |  |
+| 147 | 0.1% | 99.9% |  |
+| 148 | 0.2% | 99.8% |  |
+| 149 | 0.4% | 99.6% |  |
+| 150 | 0.8% | 99.2% |  |
+| 151 | 1.4% | 98% |  |
+| 152 | 2% | 97% |  |
+| 153 | 3% | 95% |  |
+| 154 | 5% | 91% |  |
+| 155 | 6% | 87% |  |
+| 156 | 8% | 81% |  |
+| 157 | 9% | 73% |  |
+| 158 | 10% | 64% |  |
+| 159 | 10% | 55% | Median |
+| 160 | 10% | 45% |  |
+| 161 | 9% | 35% |  |
+| 162 | 7% | 27% |  |
+| 163 | 6% | 19% |  |
+| 164 | 5% | 13% |  |
+| 165 | 3% | 9% |  |
+| 166 | 2% | 6% |  |
+| 167 | 1.4% | 3% |  |
+| 168 | 0.9% | 2% |  |
+| 169 | 0.5% | 1.0% |  |
+| 170 | 0.3% | 0.5% |  |
+| 171 | 0.1% | 0.3% |  |
+| 172 | 0.1% | 0.1% |  |
+| 173 | 0% | 0.1% |  |
 | 174 | 0% | 0% |  |
 | 175 | 0% | 0% |  |
 | 176 | 0% | 0% |  |
