@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 129–138 | 128–139 | 127–140 | 125–143 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 129–138 | 128–139 | 127–140 | 125–142 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–20 | 14–21 | 14–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–19 | 15–20 | 15–21 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
@@ -26,7 +26,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| Lewica | PL | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| Lewica | PL | | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -71,19 +71,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 2% | 98% |  |
 | 128 | 3% | 96% |  |
 | 129 | 5% | 93% |  |
-| 130 | 7% | 88% |  |
-| 131 | 9% | 81% |  |
-| 132 | 11% | 72% |  |
-| 133 | 11% | 61% | Median |
-| 134 | 11% | 50% |  |
-| 135 | 10% | 38% |  |
-| 136 | 9% | 28% |  |
+| 130 | 7% | 87% |  |
+| 131 | 9% | 80% |  |
+| 132 | 11% | 71% |  |
+| 133 | 11% | 60% | Median |
+| 134 | 11% | 49% |  |
+| 135 | 10% | 37% |  |
+| 136 | 9% | 27% |  |
 | 137 | 7% | 19% |  |
 | 138 | 5% | 12% |  |
-| 139 | 3% | 8% |  |
+| 139 | 3% | 7% |  |
 | 140 | 2% | 4% |  |
-| 141 | 1.2% | 2% |  |
-| 142 | 0.6% | 1.2% |  |
+| 141 | 1.1% | 2% |  |
+| 142 | 0.6% | 1.1% |  |
 | 143 | 0.3% | 0.5% |  |
 | 144 | 0.1% | 0.2% |  |
 | 145 | 0.1% | 0.1% |  |

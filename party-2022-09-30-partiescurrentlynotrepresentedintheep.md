@@ -22,7 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–3 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |

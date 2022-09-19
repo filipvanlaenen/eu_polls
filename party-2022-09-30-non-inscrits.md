@@ -18,10 +18,10 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 36 | 33–39 | 32–40 | 31–41 | 30–43 |
+| Non-Inscrits | EU | 29 | 36 | 33–39 | 32–40 | 31–41 | 30–42 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 10–14 | 9–15 | 8–15 |
-| Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Konfederacja | PL | | 3 | 2–4 | 0–5 | 0–5 | 0–6 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -32,7 +32,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
-| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,15 +54,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 3% | 97% |  |
 | 33 | 6% | 94% |  |
 | 34 | 10% | 88% |  |
-| 35 | 14% | 78% |  |
-| 36 | 16% | 64% | Median |
-| 37 | 16% | 48% |  |
-| 38 | 13% | 32% |  |
+| 35 | 14% | 79% |  |
+| 36 | 17% | 65% | Median |
+| 37 | 17% | 48% |  |
+| 38 | 14% | 32% |  |
 | 39 | 9% | 18% |  |
 | 40 | 5% | 9% |  |
-| 41 | 3% | 4% |  |
-| 42 | 1.0% | 2% |  |
-| 43 | 0.4% | 0.5% |  |
+| 41 | 2% | 4% |  |
+| 42 | 1.0% | 1.4% |  |
+| 43 | 0.3% | 0.4% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
