@@ -42,7 +42,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 10% | 76% |  |
 | 103 | 11% | 66% |  |
 | 104 | 11% | 56% | Median |
-| 105 | 11% | 44% |  |
+| 105 | 11% | 45% |  |
 | 106 | 10% | 34% |  |
 | 107 | 8% | 24% |  |
 | 108 | 6% | 16% |  |

@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> AT, BE, BG, CY, CZ, DK, IE, IT, LU, LV, NL, PL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, EE, IE, IT, LU, LV, NL, PL, RO, SI, SK
 
 ## Seats
 
@@ -30,6 +30,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
