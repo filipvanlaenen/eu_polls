@@ -27,7 +27,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Democraten 66 | NL | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Democraten 66 | NL | | 3 | 3–4 | 3–5 | 2–5 | 2–6 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +38,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 1 |
+| Attīstībai/Par! | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,14 +50,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
-| Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Liberal Alliance | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Liberal Alliance | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -74,13 +74,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0.1% | 99.9% |  |
 | 94 | 0.3% | 99.8% |  |
 | 95 | 0.6% | 99.6% |  |
-| 96 | 1.2% | 99.0% |  |
+| 96 | 1.2% | 98.9% |  |
 | 97 | 2% | 98% |  |
-| 98 | 4% | 96% | Last Result |
+| 98 | 4% | 95% | Last Result |
 | 99 | 5% | 92% |  |
 | 100 | 7% | 86% |  |
 | 101 | 9% | 79% |  |
-| 102 | 11% | 70% |  |
+| 102 | 11% | 69% |  |
 | 103 | 11% | 59% | Median |
 | 104 | 11% | 47% |  |
 | 105 | 10% | 36% |  |
@@ -90,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 3% | 7% |  |
 | 110 | 2% | 4% |  |
 | 111 | 1.0% | 2% |  |
-| 112 | 0.5% | 0.9% |  |
-| 113 | 0.2% | 0.4% |  |
+| 112 | 0.5% | 1.0% |  |
+| 113 | 0.3% | 0.4% |  |
 | 114 | 0.1% | 0.2% |  |
 | 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |
