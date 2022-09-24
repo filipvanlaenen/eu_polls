@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **35** seats (+6 seats)
+Current median: **34** seats (+5 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 35 | 31–38 | 30–38 | 30–39 | 28–40 |
+| Non-Inscrits | EU | 29 | 34 | 31–37 | 30–38 | 29–39 | 28–40 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -33,7 +33,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -47,21 +47,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.6% | 99.8% |  |
-| 29 | 1.5% | 99.2% | Last Result |
-| 30 | 3% | 98% |  |
-| 31 | 6% | 95% |  |
-| 32 | 9% | 89% |  |
-| 33 | 12% | 80% |  |
-| 34 | 15% | 68% |  |
-| 35 | 16% | 53% | Median |
-| 36 | 15% | 37% |  |
-| 37 | 11% | 22% |  |
-| 38 | 6% | 11% |  |
-| 39 | 3% | 5% |  |
-| 40 | 1.2% | 2% |  |
-| 41 | 0.4% | 0.5% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.2% | 99.9% |  |
+| 28 | 0.7% | 99.7% |  |
+| 29 | 2% | 99.0% | Last Result |
+| 30 | 4% | 97% |  |
+| 31 | 6% | 94% |  |
+| 32 | 10% | 87% |  |
+| 33 | 13% | 78% |  |
+| 34 | 16% | 65% | Median |
+| 35 | 17% | 49% |  |
+| 36 | 14% | 32% |  |
+| 37 | 10% | 18% |  |
+| 38 | 5% | 9% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.8% | 1.1% |  |
+| 41 | 0.2% | 0.3% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 
