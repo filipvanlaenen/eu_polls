@@ -25,7 +25,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–2 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -71,11 +71,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 15% | 91% |  |
 | 10 | 23% | 76% |  |
 | 11 | 23% | 53% | Median |
-| 12 | 16% | 30% |  |
-| 13 | 8% | 14% |  |
+| 12 | 16% | 29% |  |
+| 13 | 8% | 13% |  |
 | 14 | 3% | 6% |  |
 | 15 | 1.4% | 2% |  |
-| 16 | 0.7% | 1.0% |  |
+| 16 | 0.6% | 1.0% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
