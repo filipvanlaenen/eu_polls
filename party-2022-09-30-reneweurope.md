@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 103 | 99–107 | 97–108 | 96–109 | 94–112 |
+| Renew Europe | EU | 98 | 103 | 99–107 | 98–109 | 97–110 | 95–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -33,7 +33,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -47,9 +47,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Partija „Laisvė ir teisingumas“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -70,28 +70,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 92 | 0.1% | 100% |  |
+| 92 | 0% | 100% |  |
 | 93 | 0.1% | 99.9% |  |
 | 94 | 0.3% | 99.8% |  |
-| 95 | 0.8% | 99.4% |  |
-| 96 | 2% | 98.7% |  |
-| 97 | 3% | 97% |  |
-| 98 | 4% | 94% | Last Result |
-| 99 | 6% | 90% |  |
-| 100 | 8% | 84% |  |
-| 101 | 10% | 75% |  |
-| 102 | 11% | 65% |  |
-| 103 | 12% | 54% | Median |
-| 104 | 11% | 42% |  |
-| 105 | 9% | 31% |  |
-| 106 | 8% | 21% |  |
-| 107 | 5% | 14% |  |
-| 108 | 4% | 8% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.3% | 2% |  |
-| 111 | 0.7% | 1.2% |  |
-| 112 | 0.3% | 0.5% |  |
-| 113 | 0.1% | 0.2% |  |
+| 95 | 0.6% | 99.6% |  |
+| 96 | 1.3% | 98.9% |  |
+| 97 | 2% | 98% |  |
+| 98 | 4% | 95% | Last Result |
+| 99 | 6% | 91% |  |
+| 100 | 8% | 86% |  |
+| 101 | 10% | 78% |  |
+| 102 | 11% | 68% |  |
+| 103 | 12% | 57% | Median |
+| 104 | 11% | 45% |  |
+| 105 | 10% | 34% |  |
+| 106 | 8% | 24% |  |
+| 107 | 6% | 16% |  |
+| 108 | 4% | 10% |  |
+| 109 | 3% | 6% |  |
+| 110 | 1.5% | 3% |  |
+| 111 | 0.8% | 1.4% |  |
+| 112 | 0.4% | 0.7% |  |
+| 113 | 0.2% | 0.3% |  |
 | 114 | 0.1% | 0.1% |  |
 | 115 | 0% | 0% |  |
 

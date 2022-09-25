@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **136** seats (-11 seats)
+Current median: **134** seats (-13 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,29 +18,29 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 131–141 | 130–142 | 129–143 | 127–146 |
-| Partito Democratico | IT | | 19 | 17–21 | 16–21 | 15–22 | 14–23 |
-| Sozialdemokratische Partei Deutschlands | DE | | 18 | 16–20 | 15–21 | 15–22 | 15–22 |
-| Partido Socialista Obrero Español | ES | | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 129–138 | 128–140 | 126–141 | 124–143 |
+| Sozialdemokratische Partei Deutschlands | DE | | 18 | 15–20 | 15–20 | 14–21 | 13–22 |
+| Partito Democratico | IT | | 17 | 15–19 | 15–20 | 14–21 | 14–22 |
+| Partido Socialista Obrero Español | ES | | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | Partidul Social Democrat | RO | | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| Sozialdemokratische Partei Österreichs | AT | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Lewica | PL | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
-| Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Partido Socialista | PT | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| Sozialdemokratische Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 0–6 |
+| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partij van de Arbeid | NL | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Demokratikus Koalíció | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 2 | 2 | 1–2 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Vooruit | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Българска социалистическа партия | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 2–3 |
+| Българска социалистическа партия | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -54,41 +54,42 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti socialiste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Socialni demokrati | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Socialni demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-08-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-08-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 124 | 0% | 100% |  |
-| 125 | 0.1% | 99.9% |  |
-| 126 | 0.3% | 99.8% |  |
-| 127 | 0.6% | 99.5% |  |
-| 128 | 1.1% | 99.0% |  |
-| 129 | 2% | 98% |  |
-| 130 | 3% | 96% |  |
-| 131 | 4% | 93% |  |
-| 132 | 6% | 89% |  |
-| 133 | 8% | 82% |  |
-| 134 | 9% | 75% |  |
-| 135 | 10% | 65% |  |
-| 136 | 11% | 55% | Median |
-| 137 | 10% | 44% |  |
-| 138 | 9% | 34% |  |
-| 139 | 8% | 25% |  |
-| 140 | 6% | 17% |  |
-| 141 | 4% | 11% |  |
-| 142 | 3% | 7% |  |
-| 143 | 2% | 4% |  |
-| 144 | 1.1% | 2% |  |
-| 145 | 0.6% | 1.2% |  |
-| 146 | 0.3% | 0.6% |  |
-| 147 | 0.2% | 0.3% | Last Result |
-| 148 | 0.1% | 0.1% |  |
-| 149 | 0% | 0% |  |
+| 121 | 0% | 100% |  |
+| 122 | 0.1% | 99.9% |  |
+| 123 | 0.2% | 99.9% |  |
+| 124 | 0.4% | 99.7% |  |
+| 125 | 0.7% | 99.3% |  |
+| 126 | 1.3% | 98.6% |  |
+| 127 | 2% | 97% |  |
+| 128 | 3% | 95% |  |
+| 129 | 5% | 92% |  |
+| 130 | 7% | 86% |  |
+| 131 | 9% | 80% |  |
+| 132 | 10% | 71% |  |
+| 133 | 11% | 61% |  |
+| 134 | 11% | 50% | Median |
+| 135 | 10% | 40% |  |
+| 136 | 9% | 30% |  |
+| 137 | 7% | 21% |  |
+| 138 | 5% | 14% |  |
+| 139 | 4% | 9% |  |
+| 140 | 2% | 5% |  |
+| 141 | 1.4% | 3% |  |
+| 142 | 0.8% | 2% |  |
+| 143 | 0.4% | 0.8% |  |
+| 144 | 0.2% | 0.4% |  |
+| 145 | 0.1% | 0.2% |  |
+| 146 | 0% | 0.1% |  |
+| 147 | 0% | 0% | Last Result |
 
 
