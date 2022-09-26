@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **53** seats (-14 seats)
+Current median: **52** seats (-15 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 49–57 | 48–58 | 47–59 | 46–61 |
+| Greens–European Free Alliance | EU | 67 | 52 | 49–56 | 48–58 | 47–59 | 46–61 |
 | Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–24 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -33,11 +33,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
@@ -53,8 +54,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -65,26 +65,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0% | 100% |  |
-| 45 | 0.2% | 99.9% |  |
-| 46 | 0.6% | 99.8% |  |
-| 47 | 2% | 99.1% |  |
-| 48 | 4% | 97% |  |
-| 49 | 7% | 94% |  |
-| 50 | 10% | 87% |  |
-| 51 | 12% | 77% |  |
-| 52 | 13% | 65% |  |
-| 53 | 13% | 51% | Median |
-| 54 | 11% | 39% |  |
-| 55 | 9% | 28% |  |
-| 56 | 7% | 19% |  |
-| 57 | 5% | 12% |  |
-| 58 | 3% | 7% |  |
-| 59 | 2% | 4% |  |
-| 60 | 1.1% | 2% |  |
-| 61 | 0.5% | 0.8% |  |
-| 62 | 0.2% | 0.3% |  |
-| 63 | 0.1% | 0.1% |  |
+| 44 | 0.1% | 100% |  |
+| 45 | 0.3% | 99.9% |  |
+| 46 | 1.0% | 99.6% |  |
+| 47 | 3% | 98.5% |  |
+| 48 | 5% | 96% |  |
+| 49 | 8% | 91% |  |
+| 50 | 11% | 83% |  |
+| 51 | 13% | 72% |  |
+| 52 | 13% | 59% | Median |
+| 53 | 12% | 46% |  |
+| 54 | 10% | 34% |  |
+| 55 | 8% | 24% |  |
+| 56 | 6% | 16% |  |
+| 57 | 4% | 10% |  |
+| 58 | 3% | 6% |  |
+| 59 | 2% | 3% |  |
+| 60 | 0.8% | 1.3% |  |
+| 61 | 0.3% | 0.5% |  |
+| 62 | 0.1% | 0.2% |  |
+| 63 | 0% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
