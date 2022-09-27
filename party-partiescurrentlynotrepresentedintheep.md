@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–13 | 7–14 | 6–16 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–13 | 7–13 | 6–14 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -34,7 +34,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -65,18 +65,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.5% | 100% |  |
+| 6 | 0.6% | 100% |  |
 | 7 | 3% | 99.4% |  |
 | 8 | 11% | 96% |  |
-| 9 | 21% | 86% |  |
-| 10 | 25% | 65% | Median |
-| 11 | 20% | 40% |  |
-| 12 | 11% | 20% |  |
-| 13 | 5% | 9% |  |
-| 14 | 2% | 4% |  |
-| 15 | 0.9% | 2% |  |
-| 16 | 0.4% | 0.6% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0% | 0% |  |
+| 9 | 22% | 85% |  |
+| 10 | 26% | 63% | Median |
+| 11 | 21% | 37% |  |
+| 12 | 11% | 16% |  |
+| 13 | 4% | 5% |  |
+| 14 | 1.0% | 1.1% |  |
+| 15 | 0.1% | 0.2% |  |
+| 16 | 0% | 0% |  |
 
 

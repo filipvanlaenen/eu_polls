@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (+17 seats)
+Current median: **80** seats (+19 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 78 | 74–82 | 72–84 | 72–85 | 70–87 |
-| Fratelli d’Italia | IT | | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
+| European Conservatives and Reformists | EU | 61 | 80 | 76–84 | 75–85 | 74–86 | 73–88 |
+| Fratelli d’Italia | IT | | 23 | 23 | 23 | 23 | 23 |
 | Zjednoczona Prawica | PL | | 20 | 18–23 | 18–23 | 17–24 | 17–25 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
 | SPOLU | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -59,28 +59,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0.1% | 100% |  |
-| 69 | 0.3% | 99.9% |  |
-| 70 | 0.7% | 99.6% |  |
-| 71 | 1.4% | 98.9% |  |
-| 72 | 3% | 98% |  |
-| 73 | 4% | 95% |  |
-| 74 | 6% | 91% |  |
-| 75 | 8% | 84% |  |
-| 76 | 10% | 76% |  |
-| 77 | 11% | 66% |  |
-| 78 | 12% | 55% | Median |
-| 79 | 11% | 43% |  |
-| 80 | 10% | 32% |  |
-| 81 | 8% | 23% |  |
-| 82 | 6% | 15% |  |
-| 83 | 4% | 9% |  |
-| 84 | 2% | 5% |  |
-| 85 | 1.4% | 3% |  |
-| 86 | 0.8% | 1.4% |  |
-| 87 | 0.4% | 0.6% |  |
-| 88 | 0.2% | 0.3% |  |
-| 89 | 0.1% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0.2% | 100% |  |
+| 73 | 0.7% | 99.8% |  |
+| 74 | 2% | 99.1% |  |
+| 75 | 4% | 97% |  |
+| 76 | 6% | 94% |  |
+| 77 | 9% | 87% |  |
+| 78 | 12% | 78% |  |
+| 79 | 13% | 67% |  |
+| 80 | 13% | 54% | Median |
+| 81 | 12% | 41% |  |
+| 82 | 10% | 29% |  |
+| 83 | 7% | 19% |  |
+| 84 | 5% | 11% |  |
+| 85 | 3% | 6% |  |
+| 86 | 2% | 3% |  |
+| 87 | 0.9% | 1.4% |  |
+| 88 | 0.4% | 0.6% |  |
+| 89 | 0.1% | 0.2% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
