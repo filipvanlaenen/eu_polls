@@ -18,9 +18,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–13 | 8–13 | 7–14 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–13 | 7–13 | 7–14 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,7 +43,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -65,15 +65,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.2% | 100% |  |
-| 7 | 2% | 99.8% |  |
-| 8 | 9% | 98% |  |
-| 9 | 20% | 89% |  |
-| 10 | 27% | 69% | Median |
-| 11 | 23% | 42% |  |
-| 12 | 13% | 20% |  |
-| 13 | 5% | 7% |  |
-| 14 | 1.3% | 2% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 3% | 99.6% |  |
+| 8 | 10% | 97% |  |
+| 9 | 21% | 87% |  |
+| 10 | 26% | 66% | Median |
+| 11 | 22% | 40% |  |
+| 12 | 12% | 18% |  |
+| 13 | 5% | 6% |  |
+| 14 | 1.2% | 1.4% |  |
 | 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
