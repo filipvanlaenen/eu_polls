@@ -18,17 +18,17 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 53 | 50–55 | 49–56 | 49–57 | 47–58 |
+| European United Left–Nordic Green Left | EU | 39 | 53 | 50–55 | 49–56 | 48–57 | 47–59 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
 | Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 4–6 | 3–7 | 3–8 | 2–8 |
+| Die Linke | DE | | 5 | 3–7 | 3–7 | 2–8 | 2–8 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -39,16 +39,16 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Levica | SI | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,19 +59,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
-| 46 | 0.1% | 100% |  |
-| 47 | 0.5% | 99.9% |  |
-| 48 | 2% | 99.4% |  |
-| 49 | 4% | 98% |  |
-| 50 | 9% | 94% |  |
-| 51 | 14% | 85% |  |
-| 52 | 18% | 71% |  |
-| 53 | 18% | 53% | Median |
+| 46 | 0.2% | 100% |  |
+| 47 | 0.7% | 99.8% |  |
+| 48 | 2% | 99.2% |  |
+| 49 | 5% | 97% |  |
+| 50 | 9% | 92% |  |
+| 51 | 14% | 83% |  |
+| 52 | 18% | 69% |  |
+| 53 | 18% | 52% | Median |
 | 54 | 15% | 34% |  |
-| 55 | 10% | 19% |  |
-| 56 | 5% | 9% |  |
-| 57 | 2% | 4% |  |
-| 58 | 1.0% | 1.5% |  |
+| 55 | 10% | 20% |  |
+| 56 | 6% | 10% |  |
+| 57 | 3% | 4% |  |
+| 58 | 1.1% | 2% |  |
 | 59 | 0.4% | 0.5% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
