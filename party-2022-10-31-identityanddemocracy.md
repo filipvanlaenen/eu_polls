@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 63 | 61–65 | 60–66 | 60–66 | 59–67 |
+| Identity and Democracy | EU | 76 | 63 | 61–65 | 60–66 | 60–67 | 59–67 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
-| Alternative für Deutschland | DE | | 13 | 12–15 | 11–15 | 11–16 | 9–16 |
+| Alternative für Deutschland | DE | | 13 | 11–15 | 11–15 | 11–15 | 9–16 |
 | Lega Nord | IT | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -29,7 +29,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Chega | PT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| SME RODINA | SK | | 1 | 1 | 1 | 1 | 0–2 |
+| SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -42,16 +42,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.4% | 99.9% |  |
-| 59 | 1.2% | 99.5% |  |
+| 58 | 0.3% | 99.9% |  |
+| 59 | 1.4% | 99.6% |  |
 | 60 | 4% | 98% |  |
-| 61 | 9% | 94% |  |
-| 62 | 17% | 85% |  |
-| 63 | 24% | 68% | Median |
-| 64 | 22% | 44% |  |
-| 65 | 14% | 22% |  |
-| 66 | 6% | 9% |  |
-| 67 | 2% | 2% |  |
+| 61 | 10% | 94% |  |
+| 62 | 17% | 84% |  |
+| 63 | 22% | 66% | Median |
+| 64 | 21% | 44% |  |
+| 65 | 14% | 24% |  |
+| 66 | 7% | 10% |  |
+| 67 | 2% | 3% |  |
 | 68 | 0.4% | 0.5% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |

@@ -43,7 +43,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -69,9 +69,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 5% | 98.8% |  |
 | 8 | 13% | 94% |  |
 | 9 | 22% | 80% |  |
-| 10 | 24% | 58% | Median |
+| 10 | 24% | 59% | Median |
 | 11 | 19% | 34% |  |
-| 12 | 10% | 15% |  |
+| 12 | 10% | 16% |  |
 | 13 | 4% | 5% |  |
 | 14 | 1.1% | 1.3% |  |
 | 15 | 0.2% | 0.2% |  |
