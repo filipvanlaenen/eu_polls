@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **50** seats (-17 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 48–54 | 47–55 | 47–56 | 45–57 |
-| Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–24 |
+| Greens–European Free Alliance | EU | 67 | 50 | 47–53 | 47–54 | 46–55 | 45–56 |
+| Bündnis 90/Die Grünen | DE | | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -27,18 +27,17 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alleanza Verdi e Sinistra | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +52,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -65,22 +64,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.1% | 100% |  |
-| 45 | 0.5% | 99.9% |  |
-| 46 | 1.5% | 99.4% |  |
-| 47 | 4% | 98% |  |
-| 48 | 7% | 94% |  |
-| 49 | 11% | 88% |  |
-| 50 | 15% | 77% |  |
-| 51 | 17% | 62% | Median |
-| 52 | 16% | 45% |  |
-| 53 | 13% | 30% |  |
-| 54 | 9% | 17% |  |
-| 55 | 5% | 8% |  |
-| 56 | 2% | 3% |  |
-| 57 | 0.8% | 1.2% |  |
-| 58 | 0.3% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.3% | 99.9% |  |
+| 45 | 1.2% | 99.6% |  |
+| 46 | 3% | 98% |  |
+| 47 | 7% | 95% |  |
+| 48 | 12% | 88% |  |
+| 49 | 16% | 77% |  |
+| 50 | 17% | 61% | Median |
+| 51 | 16% | 44% |  |
+| 52 | 12% | 28% |  |
+| 53 | 8% | 16% |  |
+| 54 | 4% | 8% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.8% | 1.1% |  |
+| 57 | 0.2% | 0.3% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

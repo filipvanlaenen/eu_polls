@@ -12,7 +12,7 @@ Current median: **39** seats (+10 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
-> CY, ES, GR, HU, IT, LT, PL, SK
+> CY, DK, ES, GR, HU, IT, PL, SK
 
 ### Confidence Intervals
 
@@ -22,20 +22,20 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | Movimento 5 Stelle | IT | | 14 | 14 | 14 | 14 | 14 |
 | Konfederacja | PL | | 3 | 2–4 | 0–5 | 0–5 | 0–5 |
-| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
@@ -50,15 +50,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% | Last Result |
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
-| 32 | 0.3% | 100% |  |
+| 32 | 0.2% | 100% |  |
 | 33 | 0.7% | 99.7% |  |
 | 34 | 2% | 99.0% |  |
 | 35 | 4% | 97% |  |
 | 36 | 8% | 93% |  |
-| 37 | 13% | 85% |  |
+| 37 | 12% | 86% |  |
 | 38 | 19% | 73% |  |
-| 39 | 23% | 53% | Median |
-| 40 | 18% | 30% |  |
+| 39 | 23% | 54% | Median |
+| 40 | 18% | 31% |  |
 | 41 | 9% | 13% |  |
 | 42 | 3% | 4% |  |
 | 43 | 0.7% | 0.8% |  |
