@@ -25,7 +25,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–8 | 4–8 | 4–9 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
-| Gibanje Svoboda | SI | | 4 | 4 | 4 | 4–5 | 3–5 |
+| Gibanje Svoboda | SI | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -43,7 +43,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
@@ -72,24 +72,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 93 | 0.1% | 100% |  |
 | 94 | 0.2% | 99.9% |  |
-| 95 | 0.5% | 99.7% |  |
-| 96 | 1.1% | 99.2% |  |
+| 95 | 0.5% | 99.8% |  |
+| 96 | 1.0% | 99.3% |  |
 | 97 | 2% | 98% |  |
 | 98 | 4% | 96% | Last Result |
-| 99 | 6% | 92% |  |
-| 100 | 8% | 86% |  |
-| 101 | 11% | 77% |  |
-| 102 | 12% | 67% |  |
-| 103 | 12% | 55% | Median |
-| 104 | 12% | 42% |  |
-| 105 | 10% | 31% |  |
-| 106 | 8% | 21% |  |
-| 107 | 5% | 13% |  |
-| 108 | 3% | 7% |  |
+| 99 | 6% | 93% |  |
+| 100 | 8% | 87% |  |
+| 101 | 10% | 79% |  |
+| 102 | 12% | 68% |  |
+| 103 | 12% | 56% | Median |
+| 104 | 12% | 44% |  |
+| 105 | 10% | 32% |  |
+| 106 | 8% | 22% |  |
+| 107 | 6% | 14% |  |
+| 108 | 4% | 8% |  |
 | 109 | 2% | 4% |  |
-| 110 | 1.0% | 2% |  |
-| 111 | 0.5% | 0.8% |  |
-| 112 | 0.2% | 0.3% |  |
+| 110 | 1.2% | 2% |  |
+| 111 | 0.6% | 0.9% |  |
+| 112 | 0.2% | 0.4% |  |
 | 113 | 0.1% | 0.1% |  |
 | 114 | 0% | 0% |  |
 

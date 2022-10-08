@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 63 | 61–65 | 60–66 | 60–67 | 59–67 |
+| Identity and Democracy | EU | 76 | 63 | 60–65 | 60–66 | 59–67 | 58–68 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
-| Alternative für Deutschland | DE | | 13 | 11–15 | 11–15 | 11–15 | 9–16 |
+| Alternative für Deutschland | DE | | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
 | Lega Nord | IT | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -29,30 +29,30 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Chega | PT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.3% | 99.9% |  |
-| 59 | 1.4% | 99.6% |  |
-| 60 | 4% | 98% |  |
-| 61 | 10% | 94% |  |
-| 62 | 17% | 84% |  |
-| 63 | 22% | 66% | Median |
-| 64 | 21% | 44% |  |
-| 65 | 14% | 24% |  |
-| 66 | 7% | 10% |  |
+| 57 | 0.2% | 100% |  |
+| 58 | 0.9% | 99.8% |  |
+| 59 | 3% | 98.9% |  |
+| 60 | 7% | 96% |  |
+| 61 | 12% | 89% |  |
+| 62 | 18% | 77% |  |
+| 63 | 21% | 59% | Median |
+| 64 | 18% | 38% |  |
+| 65 | 12% | 20% |  |
+| 66 | 6% | 8% |  |
 | 67 | 2% | 3% |  |
-| 68 | 0.4% | 0.5% |  |
+| 68 | 0.5% | 0.6% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
