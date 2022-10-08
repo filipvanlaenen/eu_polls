@@ -10,9 +10,9 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **39** seats (+10 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **9 countries** have a median of 1 seat or more:
 
-> CY, ES, GR, HU, IT, LT, PL, SK
+> CY, DK, ES, GR, HU, IT, LT, PL, SK
 
 ### Confidence Intervals
 
@@ -26,6 +26,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -35,35 +36,34 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0% | 100% | Last Result |
 | 30 | 0% | 100% |  |
-| 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.9% |  |
-| 33 | 0.8% | 99.7% |  |
-| 34 | 2% | 98.9% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0.2% | 100% |  |
+| 33 | 0.6% | 99.7% |  |
+| 34 | 2% | 99.1% |  |
 | 35 | 4% | 97% |  |
-| 36 | 8% | 93% |  |
-| 37 | 13% | 85% |  |
-| 38 | 19% | 72% |  |
-| 39 | 23% | 53% | Median |
-| 40 | 18% | 30% |  |
-| 41 | 9% | 13% |  |
-| 42 | 3% | 4% |  |
-| 43 | 0.7% | 0.8% |  |
-| 44 | 0.1% | 0.1% |  |
+| 36 | 7% | 94% |  |
+| 37 | 12% | 87% |  |
+| 38 | 18% | 75% |  |
+| 39 | 23% | 57% | Median |
+| 40 | 19% | 34% |  |
+| 41 | 10% | 15% |  |
+| 42 | 4% | 5% |  |
+| 43 | 0.8% | 1.0% |  |
+| 44 | 0.2% | 0.2% |  |
 | 45 | 0% | 0% |  |
 
 

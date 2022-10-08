@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 79 | 75–83 | 74–84 | 74–85 | 72–87 |
+| European Conservatives and Reformists | EU | 61 | 79 | 75–83 | 74–84 | 73–85 | 72–87 |
 | Fratelli d’Italia | IT | | 23 | 23 | 23 | 23 | 23 |
 | Zjednoczona Prawica | PL | | 20 | 18–23 | 18–23 | 17–24 | 17–25 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
@@ -28,18 +28,18 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Juiste Antwoord 2021 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -62,12 +62,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
-| 71 | 0.2% | 100% |  |
-| 72 | 0.6% | 99.8% |  |
-| 73 | 2% | 99.2% |  |
-| 74 | 3% | 98% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.6% | 99.7% |  |
+| 73 | 2% | 99.1% |  |
+| 74 | 3% | 97% |  |
 | 75 | 6% | 94% |  |
-| 76 | 8% | 89% |  |
+| 76 | 8% | 88% |  |
 | 77 | 11% | 80% |  |
 | 78 | 13% | 69% |  |
 | 79 | 13% | 57% | Median |
@@ -75,10 +75,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 10% | 31% |  |
 | 82 | 8% | 21% |  |
 | 83 | 6% | 13% |  |
-| 84 | 3% | 7% |  |
+| 84 | 4% | 7% |  |
 | 85 | 2% | 4% |  |
-| 86 | 1.0% | 2% |  |
-| 87 | 0.5% | 0.7% |  |
+| 86 | 1.1% | 2% |  |
+| 87 | 0.5% | 0.8% |  |
 | 88 | 0.2% | 0.3% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
