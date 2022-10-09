@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 48–54 | 47–55 | 46–56 | 45–58 |
+| Greens–European Free Alliance | EU | 67 | 51 | 48–54 | 47–55 | 46–56 | 45–57 |
 | Bündnis 90/Die Grünen | DE | | 20 | 17–22 | 17–22 | 16–22 | 16–23 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -46,11 +46,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
-| Lehet Más a Politika | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
+| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,13 +74,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 10% | 85% |  |
 | 50 | 13% | 75% |  |
 | 51 | 15% | 62% | Median |
-| 52 | 15% | 47% |  |
-| 53 | 13% | 32% |  |
-| 54 | 9% | 19% |  |
-| 55 | 5% | 10% |  |
+| 52 | 15% | 46% |  |
+| 53 | 13% | 31% |  |
+| 54 | 9% | 18% |  |
+| 55 | 5% | 9% |  |
 | 56 | 3% | 4% |  |
-| 57 | 1.1% | 2% |  |
-| 58 | 0.4% | 0.5% |  |
+| 57 | 1.0% | 1.5% |  |
+| 58 | 0.3% | 0.5% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |

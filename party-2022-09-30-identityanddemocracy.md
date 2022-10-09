@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 63 | 60–65 | 60–66 | 59–67 | 58–68 |
+| Identity and Democracy | EU | 76 | 63 | 61–65 | 60–66 | 59–67 | 58–68 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
 | Alternative für Deutschland | DE | | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
 | Lega Nord | IT | | 8 | 8 | 8 | 8 | 8 |
@@ -27,7 +27,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
-| Chega | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Chega | PT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -41,18 +41,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.2% | 100% |  |
+| 57 | 0.1% | 100% |  |
 | 58 | 0.8% | 99.8% |  |
-| 59 | 3% | 99.0% |  |
-| 60 | 7% | 96% |  |
-| 61 | 12% | 90% |  |
-| 62 | 17% | 78% |  |
-| 63 | 20% | 61% | Median |
-| 64 | 19% | 41% |  |
-| 65 | 13% | 22% |  |
-| 66 | 6% | 9% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.6% | 0.7% |  |
+| 59 | 3% | 99.1% |  |
+| 60 | 6% | 96% |  |
+| 61 | 11% | 90% |  |
+| 62 | 17% | 79% |  |
+| 63 | 20% | 62% | Median |
+| 64 | 19% | 42% |  |
+| 65 | 13% | 23% |  |
+| 66 | 7% | 10% |  |
+| 67 | 3% | 3% |  |
+| 68 | 0.7% | 0.8% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
