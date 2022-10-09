@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **64** seats (-12 seats)
+Current median: **63** seats (-13 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 64 | 61–66 | 61–66 | 60–67 | 59–68 |
+| Identity and Democracy | EU | 76 | 63 | 61–65 | 60–66 | 59–67 | 58–68 |
 | Rassemblement national | FR | | 20 | 20 | 20 | 20 | 20 |
-| Alternative für Deutschland | DE | | 13 | 12–15 | 11–15 | 11–16 | 9–16 |
+| Alternative für Deutschland | DE | | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
 | Lega Nord | IT | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -35,24 +35,24 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.8% | 99.7% |  |
-| 60 | 3% | 98.9% |  |
-| 61 | 7% | 96% |  |
-| 62 | 15% | 89% |  |
-| 63 | 22% | 74% |  |
-| 64 | 23% | 53% | Median |
-| 65 | 17% | 30% |  |
-| 66 | 9% | 13% |  |
-| 67 | 3% | 4% |  |
-| 68 | 0.8% | 0.9% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.8% | 99.8% |  |
+| 59 | 3% | 99.1% |  |
+| 60 | 6% | 96% |  |
+| 61 | 11% | 90% |  |
+| 62 | 17% | 79% |  |
+| 63 | 20% | 62% | Median |
+| 64 | 19% | 42% |  |
+| 65 | 13% | 23% |  |
+| 66 | 7% | 10% |  |
+| 67 | 3% | 3% |  |
+| 68 | 0.7% | 0.8% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
