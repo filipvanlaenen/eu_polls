@@ -25,9 +25,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7 | 7 | 7 | 7 |
-| Sozialdemokratische Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| Sozialdemokratische Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 0–6 |
-| Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 125 | 0.1% | 100% |  |
 | 126 | 0.2% | 99.9% |  |
 | 127 | 0.4% | 99.7% |  |
-| 128 | 0.9% | 99.3% |  |
+| 128 | 0.9% | 99.2% |  |
 | 129 | 2% | 98% |  |
-| 130 | 3% | 97% |  |
+| 130 | 3% | 96% |  |
 | 131 | 5% | 93% |  |
-| 132 | 8% | 88% |  |
+| 132 | 7% | 88% |  |
 | 133 | 10% | 81% |  |
 | 134 | 12% | 71% |  |
-| 135 | 12% | 59% | Median |
+| 135 | 12% | 60% | Median |
 | 136 | 12% | 47% |  |
-| 137 | 10% | 35% |  |
-| 138 | 8% | 25% |  |
+| 137 | 11% | 35% |  |
+| 138 | 9% | 25% |  |
 | 139 | 6% | 16% |  |
 | 140 | 4% | 10% |  |
-| 141 | 3% | 6% |  |
-| 142 | 2% | 3% |  |
-| 143 | 0.8% | 2% |  |
-| 144 | 0.4% | 0.7% |  |
-| 145 | 0.2% | 0.3% |  |
+| 141 | 3% | 5% |  |
+| 142 | 1.5% | 3% |  |
+| 143 | 0.8% | 1.4% |  |
+| 144 | 0.4% | 0.6% |  |
+| 145 | 0.2% | 0.2% |  |
 | 146 | 0.1% | 0.1% |  |
 | 147 | 0% | 0% | Last Result |
 
