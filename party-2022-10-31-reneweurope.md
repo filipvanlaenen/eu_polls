@@ -28,7 +28,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fianna Fáil | IE | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -74,13 +74,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0.1% | 100% |  |
 | 93 | 0.2% | 99.9% |  |
 | 94 | 0.6% | 99.7% |  |
-| 95 | 1.4% | 99.1% |  |
+| 95 | 1.3% | 99.1% |  |
 | 96 | 3% | 98% |  |
 | 97 | 5% | 95% |  |
 | 98 | 7% | 90% | Last Result |
 | 99 | 10% | 83% |  |
 | 100 | 12% | 73% |  |
-| 101 | 14% | 60% | Median |
+| 101 | 13% | 61% | Median |
 | 102 | 13% | 47% |  |
 | 103 | 11% | 34% |  |
 | 104 | 9% | 22% |  |
