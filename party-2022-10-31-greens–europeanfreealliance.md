@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **50** seats (-17 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 47–54 | 46–55 | 46–55 | 44–57 |
+| Greens–European Free Alliance | EU | 67 | 50 | 47–53 | 46–54 | 45–55 | 44–57 |
 | Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -65,23 +65,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.1% | 100% |  |
-| 44 | 0.5% | 99.9% |  |
-| 45 | 1.4% | 99.4% |  |
-| 46 | 3% | 98% |  |
-| 47 | 6% | 95% |  |
-| 48 | 10% | 89% |  |
-| 49 | 13% | 79% |  |
-| 50 | 15% | 66% |  |
-| 51 | 15% | 50% | Median |
-| 52 | 13% | 35% |  |
-| 53 | 10% | 22% |  |
-| 54 | 7% | 12% |  |
-| 55 | 3% | 6% |  |
-| 56 | 1.5% | 2% |  |
-| 57 | 0.5% | 0.8% |  |
-| 58 | 0.2% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
+| 43 | 0.2% | 100% |  |
+| 44 | 0.7% | 99.8% |  |
+| 45 | 2% | 99.1% |  |
+| 46 | 4% | 97% |  |
+| 47 | 7% | 93% |  |
+| 48 | 11% | 86% |  |
+| 49 | 14% | 75% |  |
+| 50 | 15% | 61% | Median |
+| 51 | 15% | 46% |  |
+| 52 | 12% | 31% |  |
+| 53 | 9% | 19% |  |
+| 54 | 5% | 10% |  |
+| 55 | 3% | 4% |  |
+| 56 | 1.0% | 2% |  |
+| 57 | 0.4% | 0.5% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
