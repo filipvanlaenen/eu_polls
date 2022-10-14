@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **102** seats (+4 seats)
+Current median: **103** seats (+5 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 99–106 | 98–107 | 97–108 | 95–110 |
+| Renew Europe | EU | 98 | 103 | 99–106 | 98–107 | 97–108 | 95–110 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
@@ -35,7 +35,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -73,21 +73,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0.1% | 100% |  |
 | 94 | 0.2% | 99.9% |  |
 | 95 | 0.6% | 99.7% |  |
-| 96 | 1.4% | 99.0% |  |
-| 97 | 3% | 98% |  |
-| 98 | 5% | 95% | Last Result |
-| 99 | 7% | 90% |  |
-| 100 | 10% | 83% |  |
-| 101 | 12% | 74% |  |
-| 102 | 13% | 62% | Median |
-| 103 | 13% | 48% |  |
-| 104 | 12% | 35% |  |
-| 105 | 9% | 24% |  |
-| 106 | 6% | 15% |  |
-| 107 | 4% | 8% |  |
-| 108 | 2% | 4% |  |
-| 109 | 1.1% | 2% |  |
-| 110 | 0.5% | 0.8% |  |
+| 96 | 1.3% | 99.1% |  |
+| 97 | 2% | 98% |  |
+| 98 | 4% | 95% | Last Result |
+| 99 | 7% | 91% |  |
+| 100 | 9% | 84% |  |
+| 101 | 12% | 75% |  |
+| 102 | 13% | 63% |  |
+| 103 | 13% | 50% | Median |
+| 104 | 12% | 37% |  |
+| 105 | 9% | 25% |  |
+| 106 | 7% | 16% |  |
+| 107 | 4% | 9% |  |
+| 108 | 3% | 5% |  |
+| 109 | 1.3% | 2% |  |
+| 110 | 0.6% | 0.9% |  |
 | 111 | 0.2% | 0.3% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
