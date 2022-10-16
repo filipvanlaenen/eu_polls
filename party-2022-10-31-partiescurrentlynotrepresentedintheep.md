@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **10** seats (+10 seats)
+Current median: **9** seats (+9 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–11 | 7–12 | 7–12 | 6–13 |
+| Parties currently not represented in the EP | EU | 0 | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Moderaterne [DK] (*) | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Moderaterne [DK] (*) | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,12 +65,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
 | 6 | 1.0% | 99.9% |  |
-| 7 | 6% | 98.9% |  |
+| 7 | 6% | 99.0% |  |
 | 8 | 17% | 93% |  |
-| 9 | 26% | 77% |  |
-| 10 | 26% | 50% | Median |
-| 11 | 16% | 25% |  |
-| 12 | 6% | 9% |  |
+| 9 | 27% | 76% | Median |
+| 10 | 26% | 49% |  |
+| 11 | 15% | 23% |  |
+| 12 | 6% | 8% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |

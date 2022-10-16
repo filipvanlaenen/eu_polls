@@ -18,11 +18,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 98–106 | 97–107 | 96–108 | 95–109 |
+| Renew Europe | EU | 98 | 102 | 98–106 | 97–107 | 96–108 | 95–110 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
-| Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 5–9 | 4–9 |
+| Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Polska 2050 | PL | | 6 | 5–8 | 4–8 | 4–9 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Gibanje Svoboda | SI | | 4 | 4 | 4 | 4–5 | 3–5 |
@@ -72,24 +72,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 93 | 0.1% | 100% |  |
-| 94 | 0.3% | 99.8% |  |
-| 95 | 0.8% | 99.5% |  |
-| 96 | 2% | 98.7% |  |
+| 94 | 0.3% | 99.9% |  |
+| 95 | 0.7% | 99.6% |  |
+| 96 | 2% | 98.8% |  |
 | 97 | 3% | 97% |  |
-| 98 | 6% | 94% | Last Result |
-| 99 | 8% | 88% |  |
-| 100 | 11% | 80% |  |
-| 101 | 13% | 69% |  |
-| 102 | 13% | 56% | Median |
-| 103 | 13% | 43% |  |
-| 104 | 11% | 30% |  |
-| 105 | 8% | 19% |  |
-| 106 | 5% | 11% |  |
+| 98 | 5% | 94% | Last Result |
+| 99 | 8% | 89% |  |
+| 100 | 11% | 81% |  |
+| 101 | 13% | 70% |  |
+| 102 | 13% | 57% | Median |
+| 103 | 13% | 44% |  |
+| 104 | 11% | 31% |  |
+| 105 | 8% | 20% |  |
+| 106 | 5% | 12% |  |
 | 107 | 3% | 6% |  |
 | 108 | 2% | 3% |  |
-| 109 | 0.8% | 1.3% |  |
+| 109 | 0.8% | 1.4% |  |
 | 110 | 0.3% | 0.5% |  |
 | 111 | 0.1% | 0.2% |  |
-| 112 | 0% | 0% |  |
+| 112 | 0% | 0.1% |  |
+| 113 | 0% | 0% |  |
 
 
