@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **79** seats (+18 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, CZ, DE, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
+> BE, CZ, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -30,12 +30,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -67,12 +67,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 2% | 98.8% |  |
 | 74 | 4% | 97% |  |
 | 75 | 6% | 93% |  |
-| 76 | 8% | 88% |  |
+| 76 | 8% | 87% |  |
 | 77 | 11% | 79% |  |
 | 78 | 12% | 68% |  |
 | 79 | 13% | 56% | Median |
-| 80 | 12% | 44% |  |
-| 81 | 10% | 32% |  |
+| 80 | 12% | 43% |  |
+| 81 | 10% | 31% |  |
 | 82 | 8% | 21% |  |
 | 83 | 6% | 13% |  |
 | 84 | 4% | 8% |  |
