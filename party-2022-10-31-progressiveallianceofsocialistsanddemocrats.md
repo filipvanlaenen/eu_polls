@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **136** seats (-11 seats)
+Current median: **135** seats (-12 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 132–140 | 130–141 | 129–142 | 127–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 131–139 | 130–140 | 129–141 | 127–143 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 16–20 | 15–21 | 14–21 | 13–21 |
-| Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
+| Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | Partito Democratico | IT | | 16 | 16 | 16 | 16 | 16 |
 | Partidul Social Democrat | RO | | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -30,7 +30,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Demokratikus Koalíció | HU | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Partij van de Arbeid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -39,6 +38,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Partij van de Arbeid | NL | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -64,28 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 125 | 0.1% | 100% |  |
-| 126 | 0.2% | 99.9% |  |
-| 127 | 0.4% | 99.7% |  |
-| 128 | 0.8% | 99.3% |  |
-| 129 | 1.5% | 98.6% |  |
-| 130 | 3% | 97% |  |
-| 131 | 4% | 94% |  |
-| 132 | 6% | 90% |  |
-| 133 | 8% | 84% |  |
-| 134 | 10% | 76% |  |
-| 135 | 12% | 66% |  |
-| 136 | 12% | 54% | Median |
-| 137 | 11% | 42% |  |
-| 138 | 10% | 31% |  |
-| 139 | 8% | 21% |  |
-| 140 | 6% | 13% |  |
-| 141 | 4% | 8% |  |
-| 142 | 2% | 4% |  |
-| 143 | 1.1% | 2% |  |
-| 144 | 0.5% | 0.8% |  |
-| 145 | 0.2% | 0.3% |  |
-| 146 | 0.1% | 0.1% |  |
+| 124 | 0% | 100% |  |
+| 125 | 0.1% | 99.9% |  |
+| 126 | 0.2% | 99.8% |  |
+| 127 | 0.5% | 99.6% |  |
+| 128 | 1.0% | 99.0% |  |
+| 129 | 2% | 98% |  |
+| 130 | 3% | 96% |  |
+| 131 | 5% | 93% |  |
+| 132 | 7% | 88% |  |
+| 133 | 10% | 80% |  |
+| 134 | 11% | 71% |  |
+| 135 | 12% | 60% | Median |
+| 136 | 12% | 47% |  |
+| 137 | 11% | 35% |  |
+| 138 | 9% | 24% |  |
+| 139 | 6% | 16% |  |
+| 140 | 4% | 9% |  |
+| 141 | 3% | 5% |  |
+| 142 | 1.3% | 2% |  |
+| 143 | 0.7% | 1.1% |  |
+| 144 | 0.3% | 0.5% |  |
+| 145 | 0.1% | 0.2% |  |
+| 146 | 0% | 0.1% |  |
 | 147 | 0% | 0% | Last Result |
 
 
