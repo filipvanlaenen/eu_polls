@@ -10,9 +10,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **10** seats (+10 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, DK, IE, NL
+> DK, IE, NL
 
 ### Confidence Intervals
 
@@ -21,7 +21,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–13 | 7–13 | 7–14 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -49,7 +48,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Veganerpartiet [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Български възход [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Има такъв народ [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 

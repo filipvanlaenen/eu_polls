@@ -23,7 +23,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 11–13 | 11–14 | 10–14 | 10–14 |
 | Konfederacja | PL | | 3 | 2–4 | 0–5 | 0–5 | 0–5 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Възраждане | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
