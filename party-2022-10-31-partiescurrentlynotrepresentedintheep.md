@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (+9 seats)
+Current median: **10** seats (+10 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 7–12 | 7–13 | 6–13 |
 | BoerBurgerBeweging [NL] (*) | NL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Възраждане [BG] (*) | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -64,15 +64,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.9% | 100% |  |
-| 7 | 6% | 99.1% |  |
-| 8 | 19% | 93% |  |
-| 9 | 29% | 74% | Median |
-| 10 | 25% | 45% |  |
-| 11 | 14% | 20% |  |
-| 12 | 5% | 6% |  |
-| 13 | 1.1% | 1.3% |  |
-| 14 | 0.2% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 5% | 99.1% |  |
+| 8 | 15% | 94% |  |
+| 9 | 25% | 79% |  |
+| 10 | 26% | 53% | Median |
+| 11 | 17% | 27% |  |
+| 12 | 7% | 10% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.4% | 0.5% |  |
+| 15 | 0% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
