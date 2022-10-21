@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 103 | 99–106 | 98–107 | 97–108 | 95–110 |
+| Renew Europe | EU | 98 | 103 | 99–106 | 98–108 | 97–108 | 95–110 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
@@ -29,7 +29,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Fianna Fáil | IE | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
-| Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -72,23 +72,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 93 | 0.1% | 100% |  |
 | 94 | 0.2% | 99.9% |  |
-| 95 | 0.6% | 99.7% |  |
-| 96 | 1.3% | 99.1% |  |
+| 95 | 0.5% | 99.7% |  |
+| 96 | 1.2% | 99.2% |  |
 | 97 | 2% | 98% |  |
-| 98 | 4% | 95% | Last Result |
-| 99 | 7% | 91% |  |
-| 100 | 9% | 84% |  |
-| 101 | 12% | 75% |  |
-| 102 | 13% | 63% |  |
-| 103 | 13% | 50% | Median |
-| 104 | 12% | 37% |  |
-| 105 | 9% | 25% |  |
-| 106 | 7% | 16% |  |
-| 107 | 4% | 9% |  |
+| 98 | 4% | 96% | Last Result |
+| 99 | 6% | 92% |  |
+| 100 | 9% | 85% |  |
+| 101 | 11% | 76% |  |
+| 102 | 13% | 65% |  |
+| 103 | 13% | 52% | Median |
+| 104 | 12% | 39% |  |
+| 105 | 10% | 27% |  |
+| 106 | 7% | 17% |  |
+| 107 | 5% | 10% |  |
 | 108 | 3% | 5% |  |
-| 109 | 1.3% | 2% |  |
-| 110 | 0.6% | 0.9% |  |
-| 111 | 0.2% | 0.3% |  |
+| 109 | 1.4% | 2% |  |
+| 110 | 0.6% | 1.0% |  |
+| 111 | 0.3% | 0.4% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 
