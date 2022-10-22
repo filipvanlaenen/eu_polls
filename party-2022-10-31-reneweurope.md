@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **103** seats (+5 seats)
+Current median: **102** seats (+4 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 103 | 99–106 | 98–107 | 97–108 | 96–110 |
+| Renew Europe | EU | 98 | 102 | 98–106 | 97–107 | 97–108 | 95–109 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
-| Polska 2050 | PL | | 6 | 5–8 | 4–8 | 4–9 | 4–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| Polska 2050 | PL | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Democraten 66 | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Alianța 2020 USR-PLUS | RO | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Democraten 66 | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Fianna Fáil | IE | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
@@ -48,7 +48,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 0–2 |
-| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Momentum Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,6 +60,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -71,25 +72,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 94 | 0.1% | 100% |  |
-| 95 | 0.3% | 99.8% |  |
-| 96 | 0.9% | 99.5% |  |
-| 97 | 2% | 98.6% |  |
-| 98 | 4% | 97% | Last Result |
-| 99 | 6% | 93% |  |
-| 100 | 9% | 87% |  |
-| 101 | 12% | 78% |  |
-| 102 | 13% | 67% |  |
-| 103 | 14% | 53% | Median |
-| 104 | 13% | 39% |  |
-| 105 | 10% | 27% |  |
-| 106 | 7% | 17% |  |
-| 107 | 5% | 9% |  |
-| 108 | 3% | 5% |  |
-| 109 | 1.3% | 2% |  |
-| 110 | 0.5% | 0.8% |  |
-| 111 | 0.2% | 0.3% |  |
-| 112 | 0.1% | 0.1% |  |
-| 113 | 0% | 0% |  |
+| 93 | 0.1% | 100% |  |
+| 94 | 0.2% | 99.9% |  |
+| 95 | 0.6% | 99.7% |  |
+| 96 | 1.4% | 99.0% |  |
+| 97 | 3% | 98% |  |
+| 98 | 5% | 95% | Last Result |
+| 99 | 8% | 90% |  |
+| 100 | 11% | 82% |  |
+| 101 | 13% | 71% |  |
+| 102 | 14% | 58% | Median |
+| 103 | 13% | 44% |  |
+| 104 | 11% | 31% |  |
+| 105 | 8% | 20% |  |
+| 106 | 5% | 11% |  |
+| 107 | 3% | 6% |  |
+| 108 | 2% | 3% |  |
+| 109 | 0.8% | 1.2% |  |
+| 110 | 0.3% | 0.5% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0% | 0% |  |
 
 
