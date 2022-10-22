@@ -40,7 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Moderaterne [DK] (*) | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,12 +64,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.3% | 100% |  |
 | 5 | 3% | 99.7% |  |
 | 6 | 13% | 97% |  |
-| 7 | 26% | 83% |  |
-| 8 | 30% | 57% | Median |
-| 9 | 19% | 27% |  |
-| 10 | 7% | 8% |  |
-| 11 | 1.2% | 1.3% |  |
-| 12 | 0.1% | 0.1% |  |
+| 7 | 26% | 84% |  |
+| 8 | 30% | 58% | Median |
+| 9 | 20% | 29% |  |
+| 10 | 7% | 9% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
