@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **50** seats (-17 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 48–54 | 47–55 | 46–55 | 45–57 |
+| Greens–European Free Alliance | EU | 67 | 50 | 47–53 | 47–54 | 46–55 | 45–56 |
 | Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Česká pirátská strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
@@ -36,7 +35,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistisk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -65,21 +64,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.1% | 100% |  |
-| 45 | 0.6% | 99.9% |  |
-| 46 | 2% | 99.3% |  |
-| 47 | 5% | 97% |  |
-| 48 | 9% | 92% |  |
-| 49 | 14% | 83% |  |
-| 50 | 16% | 69% |  |
-| 51 | 16% | 53% | Median |
-| 52 | 14% | 37% |  |
-| 53 | 10% | 23% |  |
-| 54 | 7% | 12% |  |
-| 55 | 3% | 6% |  |
-| 56 | 1.5% | 2% |  |
-| 57 | 0.5% | 0.7% |  |
-| 58 | 0.2% | 0.2% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0.3% | 99.9% |  |
+| 45 | 1.1% | 99.7% |  |
+| 46 | 3% | 98.5% |  |
+| 47 | 7% | 95% |  |
+| 48 | 11% | 88% |  |
+| 49 | 15% | 77% |  |
+| 50 | 16% | 62% | Median |
+| 51 | 15% | 46% |  |
+| 52 | 12% | 30% |  |
+| 53 | 9% | 18% |  |
+| 54 | 5% | 9% |  |
+| 55 | 3% | 4% |  |
+| 56 | 1.0% | 2% |  |
+| 57 | 0.4% | 0.5% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |

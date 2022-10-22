@@ -18,10 +18,10 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Moderaterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -39,7 +39,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,13 +59,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 25% | 98.9% |  |
-| 6 | 41% | 74% | Median |
-| 7 | 25% | 33% |  |
-| 8 | 7% | 8% |  |
-| 9 | 1.0% | 1.1% |  |
-| 10 | 0.1% | 0.1% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 19% | 99.2% |  |
+| 6 | 37% | 80% | Median |
+| 7 | 29% | 43% |  |
+| 8 | 11% | 14% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 
