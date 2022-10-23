@@ -18,11 +18,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 99–106 | 98–107 | 97–108 | 95–109 |
+| Renew Europe | EU | 98 | 102 | 99–106 | 98–107 | 97–108 | 95–110 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
-| Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
+| Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -38,12 +38,12 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 1 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberal Alliance | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
@@ -79,17 +79,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 4% | 96% | Last Result |
 | 99 | 7% | 92% |  |
 | 100 | 10% | 85% |  |
-| 101 | 13% | 74% |  |
-| 102 | 14% | 61% | Median |
-| 103 | 14% | 47% |  |
-| 104 | 12% | 33% |  |
-| 105 | 9% | 21% |  |
-| 106 | 6% | 12% |  |
-| 107 | 3% | 6% |  |
+| 101 | 13% | 75% |  |
+| 102 | 14% | 62% | Median |
+| 103 | 14% | 48% |  |
+| 104 | 12% | 34% |  |
+| 105 | 9% | 22% |  |
+| 106 | 6% | 13% |  |
+| 107 | 4% | 7% |  |
 | 108 | 2% | 3% |  |
-| 109 | 0.8% | 1.2% |  |
-| 110 | 0.3% | 0.4% |  |
-| 111 | 0.1% | 0.1% |  |
+| 109 | 0.9% | 1.4% |  |
+| 110 | 0.3% | 0.5% |  |
+| 111 | 0.1% | 0.2% |  |
 | 112 | 0% | 0% |  |
 
 

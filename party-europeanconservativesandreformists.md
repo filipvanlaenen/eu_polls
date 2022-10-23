@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (+19 seats)
+Current median: **79** seats (+18 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 76–84 | 75–85 | 74–86 | 72–88 |
+| European Conservatives and Reformists | EU | 61 | 79 | 75–83 | 75–84 | 74–85 | 72–87 |
 | Fratelli d’Italia | IT | | 23 | 23 | 23 | 23 | 23 |
-| Zjednoczona Prawica | PL | | 20 | 18–22 | 18–23 | 18–24 | 17–25 |
-| Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
+| Zjednoczona Prawica | PL | | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| Vox | ES | | 9 | 7–11 | 7–11 | 7–11 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–9 | 4–9 | 3–9 | 3–10 |
 | Sverigedemokraterna | SE | | 5 | 5 | 5 | 5 | 5 |
 | Občanská demokratická strana | CZ | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
-| Juiste Antwoord 2021 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -38,16 +38,16 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-09-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-09-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,25 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0.2% | 100% |  |
 | 72 | 0.5% | 99.8% |  |
-| 73 | 1.2% | 99.3% |  |
+| 73 | 1.3% | 99.3% |  |
 | 74 | 3% | 98% |  |
 | 75 | 5% | 95% |  |
-| 76 | 7% | 91% |  |
-| 77 | 10% | 83% |  |
-| 78 | 11% | 74% |  |
-| 79 | 12% | 62% |  |
-| 80 | 12% | 50% | Median |
-| 81 | 11% | 39% |  |
-| 82 | 9% | 28% |  |
-| 83 | 7% | 19% |  |
-| 84 | 5% | 12% |  |
-| 85 | 3% | 7% |  |
-| 86 | 2% | 4% |  |
-| 87 | 1.1% | 2% |  |
-| 88 | 0.5% | 0.9% |  |
-| 89 | 0.2% | 0.4% |  |
-| 90 | 0.1% | 0.1% |  |
-| 91 | 0% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 76 | 8% | 90% |  |
+| 77 | 11% | 82% |  |
+| 78 | 13% | 71% |  |
+| 79 | 13% | 58% | Median |
+| 80 | 12% | 45% |  |
+| 81 | 11% | 33% |  |
+| 82 | 8% | 22% |  |
+| 83 | 6% | 14% |  |
+| 84 | 4% | 8% |  |
+| 85 | 2% | 4% |  |
+| 86 | 1.1% | 2% |  |
+| 87 | 0.4% | 0.6% |  |
+| 88 | 0.1% | 0.2% |  |
+| 89 | 0% | 0% |  |
 
 

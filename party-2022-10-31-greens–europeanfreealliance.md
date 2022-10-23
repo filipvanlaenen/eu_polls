@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 50 | 47–53 | 47–54 | 46–55 | 45–56 |
-| Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
+| Greens–European Free Alliance | EU | 67 | 50 | 47–53 | 46–54 | 46–55 | 44–56 |
+| Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 17–22 | 16–22 | 15–22 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -27,7 +27,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -64,21 +64,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
-| 44 | 0.3% | 99.9% |  |
-| 45 | 1.1% | 99.7% |  |
-| 46 | 3% | 98.5% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.5% | 99.7% |  |
+| 45 | 1.3% | 99.2% |  |
+| 46 | 3% | 98% |  |
 | 47 | 7% | 95% |  |
 | 48 | 11% | 88% |  |
 | 49 | 15% | 77% |  |
-| 50 | 16% | 62% | Median |
-| 51 | 15% | 46% |  |
-| 52 | 12% | 30% |  |
-| 53 | 9% | 18% |  |
-| 54 | 5% | 9% |  |
-| 55 | 3% | 4% |  |
-| 56 | 1.0% | 2% |  |
-| 57 | 0.4% | 0.5% |  |
+| 50 | 17% | 62% | Median |
+| 51 | 16% | 45% |  |
+| 52 | 13% | 29% |  |
+| 53 | 8% | 16% |  |
+| 54 | 5% | 8% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.7% | 1.1% |  |
+| 57 | 0.2% | 0.3% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
