@@ -29,7 +29,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Lewica | PL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Demokratikus Koalíció | HU | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
-| HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 123 | 0.1% | 99.9% |  |
 | 124 | 0.2% | 99.8% |  |
 | 125 | 0.5% | 99.6% |  |
-| 126 | 0.9% | 99.2% |  |
+| 126 | 0.9% | 99.1% |  |
 | 127 | 2% | 98% |  |
 | 128 | 3% | 97% |  |
 | 129 | 4% | 94% |  |

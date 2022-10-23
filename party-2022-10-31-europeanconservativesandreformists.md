@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Sloboda a Solidarita | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -38,7 +38,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -67,17 +67,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 3% | 98% |  |
 | 75 | 5% | 95% |  |
 | 76 | 8% | 90% |  |
-| 77 | 11% | 81% |  |
-| 78 | 13% | 70% |  |
+| 77 | 11% | 82% |  |
+| 78 | 13% | 71% |  |
 | 79 | 13% | 58% | Median |
 | 80 | 12% | 45% |  |
 | 81 | 11% | 32% |  |
 | 82 | 8% | 22% |  |
-| 83 | 6% | 13% |  |
-| 84 | 4% | 7% |  |
+| 83 | 6% | 14% |  |
+| 84 | 4% | 8% |  |
 | 85 | 2% | 4% |  |
 | 86 | 1.0% | 2% |  |
-| 87 | 0.4% | 0.5% |  |
+| 87 | 0.4% | 0.6% |  |
 | 88 | 0.1% | 0.2% |  |
 | 89 | 0% | 0% |  |
 

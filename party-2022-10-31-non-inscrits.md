@@ -18,7 +18,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 40 | 37–42 | 36–43 | 35–44 | 34–45 |
+| Non-Inscrits | EU | 29 | 40 | 37–43 | 36–43 | 36–44 | 34–45 |
 | Movimento 5 Stelle | IT | | 14 | 14 | 14 | 14 | 14 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 11–17 | 11–17 | 10–17 | 10–18 |
 | Konfederacja | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -27,7 +27,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Impegno Civico | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -54,20 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
-| 33 | 0.2% | 100% |  |
-| 34 | 0.7% | 99.8% |  |
-| 35 | 2% | 99.1% |  |
-| 36 | 4% | 97% |  |
-| 37 | 8% | 93% |  |
-| 38 | 14% | 85% |  |
-| 39 | 19% | 71% |  |
-| 40 | 19% | 51% | Median |
-| 41 | 14% | 33% |  |
-| 42 | 9% | 19% |  |
-| 43 | 6% | 9% |  |
+| 33 | 0.1% | 100% |  |
+| 34 | 0.5% | 99.9% |  |
+| 35 | 2% | 99.4% |  |
+| 36 | 3% | 98% |  |
+| 37 | 7% | 95% |  |
+| 38 | 13% | 88% |  |
+| 39 | 19% | 75% |  |
+| 40 | 20% | 56% | Median |
+| 41 | 15% | 36% |  |
+| 42 | 10% | 21% |  |
+| 43 | 6% | 11% |  |
 | 44 | 3% | 4% |  |
-| 45 | 0.9% | 1.1% |  |
-| 46 | 0.2% | 0.2% |  |
+| 45 | 1.0% | 1.3% |  |
+| 46 | 0.2% | 0.3% |  |
 | 47 | 0% | 0% |  |
 
 

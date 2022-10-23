@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **158** seats (-29 seats)
+Current median: **157** seats (-30 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 152–163 | 151–165 | 150–166 | 147–169 |
+| European People’s Party | EU | 187 | 157 | 152–163 | 151–165 | 149–166 | 147–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–24 | 18–24 | 17–25 |
 | Partido Popular | ES | | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
@@ -46,9 +46,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Südtiroler Volkspartei | IT | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 0–1 |
@@ -83,33 +83,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 145 | 0.1% | 100% |  |
-| 146 | 0.1% | 99.9% |  |
-| 147 | 0.3% | 99.7% |  |
-| 148 | 0.6% | 99.4% |  |
-| 149 | 1.0% | 98.9% |  |
-| 150 | 2% | 98% |  |
+| 144 | 0% | 100% |  |
+| 145 | 0.1% | 99.9% |  |
+| 146 | 0.2% | 99.9% |  |
+| 147 | 0.4% | 99.7% |  |
+| 148 | 0.7% | 99.3% |  |
+| 149 | 1.2% | 98.6% |  |
+| 150 | 2% | 97% |  |
 | 151 | 3% | 96% |  |
-| 152 | 4% | 94% |  |
-| 153 | 5% | 90% |  |
-| 154 | 6% | 85% |  |
-| 155 | 8% | 78% |  |
-| 156 | 9% | 71% |  |
-| 157 | 9% | 62% |  |
-| 158 | 9% | 53% | Median |
-| 159 | 9% | 43% |  |
-| 160 | 8% | 34% |  |
-| 161 | 7% | 26% |  |
-| 162 | 6% | 19% |  |
-| 163 | 4% | 13% |  |
-| 164 | 3% | 9% |  |
-| 165 | 2% | 6% |  |
-| 166 | 1.5% | 4% |  |
-| 167 | 0.9% | 2% |  |
-| 168 | 0.6% | 1.2% |  |
-| 169 | 0.3% | 0.6% |  |
-| 170 | 0.2% | 0.3% |  |
-| 171 | 0.1% | 0.2% |  |
+| 152 | 4% | 93% |  |
+| 153 | 5% | 89% |  |
+| 154 | 7% | 83% |  |
+| 155 | 8% | 76% |  |
+| 156 | 9% | 68% |  |
+| 157 | 9% | 59% | Median |
+| 158 | 9% | 50% |  |
+| 159 | 9% | 40% |  |
+| 160 | 8% | 32% |  |
+| 161 | 7% | 24% |  |
+| 162 | 5% | 17% |  |
+| 163 | 4% | 12% |  |
+| 164 | 3% | 8% |  |
+| 165 | 2% | 5% |  |
+| 166 | 1.3% | 3% |  |
+| 167 | 0.8% | 2% |  |
+| 168 | 0.5% | 1.0% |  |
+| 169 | 0.3% | 0.5% |  |
+| 170 | 0.1% | 0.3% |  |
+| 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |

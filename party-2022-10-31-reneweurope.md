@@ -32,7 +32,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -72,23 +72,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0% | 100% |  |
-| 94 | 0.1% | 99.9% |  |
+| 94 | 0.1% | 100% |  |
 | 95 | 0.4% | 99.8% |  |
-| 96 | 1.1% | 99.4% |  |
+| 96 | 1.0% | 99.4% |  |
 | 97 | 2% | 98% |  |
 | 98 | 4% | 96% | Last Result |
-| 99 | 7% | 91% |  |
-| 100 | 10% | 84% |  |
+| 99 | 7% | 92% |  |
+| 100 | 10% | 85% |  |
 | 101 | 13% | 74% |  |
 | 102 | 14% | 61% | Median |
-| 103 | 14% | 46% |  |
-| 104 | 12% | 32% |  |
+| 103 | 14% | 47% |  |
+| 104 | 12% | 33% |  |
 | 105 | 9% | 21% |  |
 | 106 | 6% | 12% |  |
 | 107 | 3% | 6% |  |
 | 108 | 2% | 3% |  |
-| 109 | 0.7% | 1.2% |  |
+| 109 | 0.8% | 1.2% |  |
 | 110 | 0.3% | 0.4% |  |
 | 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0% |  |
