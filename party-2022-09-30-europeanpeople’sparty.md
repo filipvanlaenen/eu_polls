@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 153–164 | 151–165 | 150–167 | 147–169 |
+| European People’s Party | EU | 187 | 158 | 153–164 | 151–165 | 150–167 | 147–170 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–25 | 17–25 |
 | Partido Popular | ES | | 20 | 17–22 | 17–22 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 14–19 | 14–20 | 13–21 |
@@ -70,7 +70,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -98,12 +98,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 156 | 8% | 72% |  |
 | 157 | 9% | 64% |  |
 | 158 | 9% | 55% | Median |
-| 159 | 9% | 45% |  |
-| 160 | 8% | 36% |  |
-| 161 | 7% | 28% |  |
+| 159 | 9% | 46% |  |
+| 160 | 8% | 37% |  |
+| 161 | 7% | 29% |  |
 | 162 | 6% | 21% |  |
 | 163 | 5% | 15% |  |
-| 164 | 4% | 10% |  |
+| 164 | 4% | 11% |  |
 | 165 | 3% | 7% |  |
 | 166 | 2% | 4% |  |
 | 167 | 1.1% | 3% |  |
