@@ -48,7 +48,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Südtiroler Volkspartei | IT | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 0–1 |
@@ -70,7 +70,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Изправи се Бг | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -88,15 +88,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.2% | 99.8% |  |
 | 146 | 0.4% | 99.6% |  |
 | 147 | 0.7% | 99.2% |  |
-| 148 | 1.1% | 98.5% |  |
+| 148 | 1.1% | 98.6% |  |
 | 149 | 2% | 97% |  |
 | 150 | 2% | 96% |  |
 | 151 | 3% | 93% |  |
 | 152 | 5% | 90% |  |
 | 153 | 6% | 85% |  |
-| 154 | 7% | 79% |  |
-| 155 | 8% | 72% |  |
-| 156 | 9% | 64% |  |
+| 154 | 7% | 80% |  |
+| 155 | 8% | 73% |  |
+| 156 | 9% | 65% |  |
 | 157 | 9% | 56% | Median |
 | 158 | 9% | 47% |  |
 | 159 | 8% | 38% |  |
@@ -108,9 +108,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 165 | 2% | 5% |  |
 | 166 | 1.3% | 3% |  |
 | 167 | 0.8% | 2% |  |
-| 168 | 0.5% | 1.0% |  |
+| 168 | 0.5% | 1.1% |  |
 | 169 | 0.3% | 0.6% |  |
-| 170 | 0.1% | 0.3% |  |
+| 170 | 0.2% | 0.3% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
 | 173 | 0% | 0% |  |
