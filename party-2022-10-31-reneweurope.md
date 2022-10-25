@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **102** seats (+4 seats)
+Current median: **103** seats (+5 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 102 | 99–106 | 98–107 | 97–108 | 95–110 |
+| Renew Europe | EU | 98 | 103 | 99–106 | 98–107 | 97–108 | 95–110 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Gibanje Svoboda | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -74,22 +74,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 94 | 0.1% | 100% |  |
 | 95 | 0.4% | 99.8% |  |
-| 96 | 1.0% | 99.4% |  |
-| 97 | 2% | 98% |  |
-| 98 | 4% | 96% | Last Result |
-| 99 | 7% | 92% |  |
-| 100 | 10% | 85% |  |
-| 101 | 13% | 75% |  |
-| 102 | 14% | 63% | Median |
-| 103 | 14% | 48% |  |
-| 104 | 12% | 34% |  |
-| 105 | 9% | 22% |  |
-| 106 | 6% | 13% |  |
-| 107 | 4% | 7% |  |
-| 108 | 2% | 3% |  |
-| 109 | 0.9% | 1.4% |  |
-| 110 | 0.4% | 0.5% |  |
-| 111 | 0.1% | 0.2% |  |
+| 96 | 0.9% | 99.5% |  |
+| 97 | 2% | 98.6% |  |
+| 98 | 4% | 97% | Last Result |
+| 99 | 6% | 93% |  |
+| 100 | 9% | 86% |  |
+| 101 | 12% | 77% |  |
+| 102 | 14% | 65% |  |
+| 103 | 14% | 51% | Median |
+| 104 | 12% | 37% |  |
+| 105 | 10% | 24% |  |
+| 106 | 7% | 15% |  |
+| 107 | 4% | 8% |  |
+| 108 | 2% | 4% |  |
+| 109 | 1.0% | 2% |  |
+| 110 | 0.4% | 0.7% |  |
+| 111 | 0.2% | 0.2% |  |
 | 112 | 0% | 0.1% |  |
 | 113 | 0% | 0% |  |
 
