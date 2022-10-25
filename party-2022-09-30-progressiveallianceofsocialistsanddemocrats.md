@@ -35,7 +35,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -66,8 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 122 | 0.1% | 100% |  |
 | 123 | 0.2% | 99.9% |  |
-| 124 | 0.4% | 99.7% |  |
-| 125 | 0.9% | 99.3% |  |
+| 124 | 0.5% | 99.7% |  |
+| 125 | 0.9% | 99.2% |  |
 | 126 | 2% | 98% |  |
 | 127 | 3% | 97% |  |
 | 128 | 4% | 94% |  |
@@ -77,17 +77,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 10% | 67% |  |
 | 133 | 11% | 57% | Median |
 | 134 | 10% | 46% |  |
-| 135 | 10% | 36% |  |
+| 135 | 9% | 35% |  |
 | 136 | 8% | 26% |  |
 | 137 | 6% | 18% |  |
 | 138 | 5% | 12% |  |
 | 139 | 3% | 7% |  |
 | 140 | 2% | 4% |  |
 | 141 | 1.1% | 2% |  |
-| 142 | 0.6% | 1.1% |  |
+| 142 | 0.6% | 1.0% |  |
 | 143 | 0.3% | 0.5% |  |
 | 144 | 0.1% | 0.2% |  |
-| 145 | 0.1% | 0.1% |  |
+| 145 | 0% | 0.1% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |
 
