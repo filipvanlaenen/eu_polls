@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> AT, BE, BG, CY, CZ, DK, EE, IE, IT, LU, LV, NL, RO, SI, SK
+> AT, BE, BG, CY, CZ, DK, EE, IE, IT, LU, LV, NL, PL, RO, SI, SK
 
 ## Seats
 
@@ -22,6 +22,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |

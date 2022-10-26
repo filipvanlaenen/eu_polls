@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 151–163 | 150–164 | 148–166 | 146–169 |
+| European People’s Party | EU | 187 | 157 | 151–163 | 150–165 | 148–166 | 145–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–23 | 17–24 | 16–25 | 16–25 |
 | Partido Popular | ES | | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
-| Koalicja Obywatelska | PL | | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
+| Koalicja Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
 | Les Républicains | FR | | 11 | 11 | 11 | 11 | 11 |
 | Partidul Național Liberal | RO | | 8 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -34,7 +34,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 4 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fine Gael | IE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
-| Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -58,7 +58,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -83,35 +83,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 143 | 0.1% | 100% |  |
-| 144 | 0.1% | 99.9% |  |
-| 145 | 0.2% | 99.8% |  |
-| 146 | 0.4% | 99.6% |  |
-| 147 | 0.7% | 99.1% |  |
-| 148 | 1.1% | 98% |  |
+| 142 | 0% | 100% |  |
+| 143 | 0.1% | 99.9% |  |
+| 144 | 0.2% | 99.8% |  |
+| 145 | 0.3% | 99.7% |  |
+| 146 | 0.5% | 99.4% |  |
+| 147 | 0.8% | 98.9% |  |
+| 148 | 1.2% | 98% |  |
 | 149 | 2% | 97% |  |
-| 150 | 3% | 96% |  |
+| 150 | 3% | 95% |  |
 | 151 | 3% | 93% |  |
-| 152 | 5% | 90% |  |
+| 152 | 5% | 89% |  |
 | 153 | 6% | 85% |  |
 | 154 | 7% | 79% |  |
 | 155 | 8% | 72% |  |
-| 156 | 9% | 64% |  |
+| 156 | 8% | 65% |  |
 | 157 | 9% | 56% | Median |
-| 158 | 9% | 47% |  |
-| 159 | 8% | 38% |  |
-| 160 | 7% | 30% |  |
-| 161 | 6% | 22% |  |
-| 162 | 5% | 16% |  |
-| 163 | 4% | 11% |  |
-| 164 | 3% | 8% |  |
-| 165 | 2% | 5% |  |
-| 166 | 1.2% | 3% |  |
-| 167 | 0.8% | 2% |  |
-| 168 | 0.5% | 1.0% |  |
-| 169 | 0.3% | 0.5% |  |
-| 170 | 0.1% | 0.3% |  |
-| 171 | 0.1% | 0.1% |  |
+| 158 | 8% | 48% |  |
+| 159 | 8% | 39% |  |
+| 160 | 7% | 31% |  |
+| 161 | 6% | 24% |  |
+| 162 | 5% | 18% |  |
+| 163 | 4% | 13% |  |
+| 164 | 3% | 9% |  |
+| 165 | 2% | 6% |  |
+| 166 | 1.4% | 4% |  |
+| 167 | 0.9% | 2% |  |
+| 168 | 0.6% | 1.2% |  |
+| 169 | 0.3% | 0.7% |  |
+| 170 | 0.2% | 0.4% |  |
+| 171 | 0.1% | 0.2% |  |
 | 172 | 0% | 0.1% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |
