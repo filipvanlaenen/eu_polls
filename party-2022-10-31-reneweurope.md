@@ -18,10 +18,10 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 103 | 99–107 | 98–108 | 97–109 | 95–111 |
+| Renew Europe | EU | 98 | 103 | 99–108 | 98–109 | 97–110 | 95–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| Azione–Italia Viva | IT | | 7 | 7 | 7 | 7 | 7 |
+| Azione–Italia Viva | IT | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–10 | 4–10 | 4–11 | 4–12 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -37,7 +37,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 1 | 1 |
+| Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +46,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberal Alliance | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
+| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 0–2 |
 | Momentum Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
@@ -58,7 +58,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -72,28 +72,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0% | 100% |  |
-| 94 | 0.1% | 99.9% |  |
-| 95 | 0.4% | 99.8% |  |
-| 96 | 1.0% | 99.4% |  |
+| 93 | 0.1% | 100% |  |
+| 94 | 0.2% | 99.9% |  |
+| 95 | 0.5% | 99.7% |  |
+| 96 | 1.1% | 99.2% |  |
 | 97 | 2% | 98% |  |
 | 98 | 4% | 96% | Last Result |
-| 99 | 6% | 93% |  |
-| 100 | 9% | 86% |  |
-| 101 | 11% | 78% |  |
+| 99 | 6% | 92% |  |
+| 100 | 8% | 86% |  |
+| 101 | 10% | 78% |  |
 | 102 | 12% | 67% |  |
-| 103 | 12% | 54% | Median |
-| 104 | 11% | 42% |  |
-| 105 | 10% | 31% |  |
-| 106 | 7% | 21% |  |
-| 107 | 5% | 14% |  |
-| 108 | 4% | 8% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.3% | 2% |  |
-| 111 | 0.7% | 1.2% |  |
-| 112 | 0.3% | 0.5% |  |
-| 113 | 0.1% | 0.2% |  |
-| 114 | 0% | 0.1% |  |
-| 115 | 0% | 0% |  |
+| 103 | 12% | 56% | Median |
+| 104 | 11% | 44% |  |
+| 105 | 10% | 33% |  |
+| 106 | 8% | 24% |  |
+| 107 | 6% | 16% |  |
+| 108 | 4% | 10% |  |
+| 109 | 3% | 6% |  |
+| 110 | 2% | 3% |  |
+| 111 | 0.9% | 2% |  |
+| 112 | 0.5% | 0.9% |  |
+| 113 | 0.2% | 0.4% |  |
+| 114 | 0.1% | 0.2% |  |
+| 115 | 0% | 0.1% |  |
+| 116 | 0% | 0% |  |
 
 
