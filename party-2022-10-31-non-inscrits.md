@@ -10,9 +10,9 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **40** seats (+11 seats)
 
-At least one member in **10 countries** have a median of 1 seat or more:
+At least one member in **9 countries** have a median of 1 seat or more:
 
-> BG, CY, DK, ES, GR, HU, IT, LT, PL, SK
+> BG, CY, ES, GR, HU, IT, LT, PL, SK
 
 ### Confidence Intervals
 
@@ -20,13 +20,12 @@ At least one member in **10 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 40 | 37–43 | 36–44 | 35–45 | 34–47 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–16 | 11–18 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 11–17 | 11–17 | 10–17 | 10–18 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–17 | 12–17 | 12–17 | 11–18 |
 | Konfederacja | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Jobbik | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -36,7 +35,8 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -54,23 +54,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0.1% | 100% |  |
-| 33 | 0.3% | 99.9% |  |
-| 34 | 1.0% | 99.6% |  |
-| 35 | 2% | 98.6% |  |
+| 33 | 0.4% | 99.9% |  |
+| 34 | 1.1% | 99.5% |  |
+| 35 | 2% | 98% |  |
 | 36 | 4% | 96% |  |
 | 37 | 7% | 92% |  |
-| 38 | 11% | 85% |  |
-| 39 | 14% | 75% |  |
-| 40 | 16% | 61% | Median |
-| 41 | 15% | 45% |  |
-| 42 | 12% | 30% |  |
-| 43 | 8% | 18% |  |
-| 44 | 5% | 10% |  |
-| 45 | 3% | 5% |  |
-| 46 | 1.2% | 2% |  |
-| 47 | 0.5% | 0.7% |  |
-| 48 | 0.2% | 0.2% |  |
-| 49 | 0% | 0.1% |  |
-| 50 | 0% | 0% |  |
+| 38 | 11% | 84% |  |
+| 39 | 15% | 73% |  |
+| 40 | 16% | 58% | Median |
+| 41 | 15% | 42% |  |
+| 42 | 11% | 28% |  |
+| 43 | 8% | 16% |  |
+| 44 | 5% | 9% |  |
+| 45 | 2% | 4% |  |
+| 46 | 1.0% | 2% |  |
+| 47 | 0.4% | 0.6% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0% | 0% |  |
 
 

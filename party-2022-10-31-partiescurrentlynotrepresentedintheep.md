@@ -18,16 +18,16 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -60,13 +60,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.9% | 100% |  |
-| 5 | 21% | 99.1% |  |
-| 6 | 39% | 78% | Median |
-| 7 | 27% | 39% |  |
-| 8 | 10% | 12% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.2% | 0.3% |  |
+| 4 | 4% | 100% |  |
+| 5 | 24% | 96% |  |
+| 6 | 37% | 72% | Median |
+| 7 | 25% | 35% |  |
+| 8 | 8% | 10% |  |
+| 9 | 1.4% | 2% |  |
+| 10 | 0.1% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 

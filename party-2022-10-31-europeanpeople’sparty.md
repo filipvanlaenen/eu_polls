@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 151–163 | 149–164 | 147–166 | 145–169 |
+| European People’s Party | EU | 187 | 157 | 151–163 | 149–164 | 148–166 | 145–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–23 | 17–24 | 16–25 | 16–25 |
 | Partido Popular | ES | | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
@@ -42,10 +42,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Christen-Democratisch Appèl | NL | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,7 +57,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -82,35 +82,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0% | 100% |  |
-| 142 | 0.1% | 99.9% |  |
+| 142 | 0.1% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
-| 144 | 0.2% | 99.7% |  |
-| 145 | 0.4% | 99.5% |  |
-| 146 | 0.7% | 99.1% |  |
-| 147 | 1.0% | 98% |  |
-| 148 | 2% | 97% |  |
+| 144 | 0.2% | 99.8% |  |
+| 145 | 0.4% | 99.6% |  |
+| 146 | 0.6% | 99.2% |  |
+| 147 | 1.0% | 98.6% |  |
+| 148 | 1.5% | 98% |  |
 | 149 | 2% | 96% |  |
 | 150 | 3% | 94% |  |
 | 151 | 4% | 91% |  |
 | 152 | 5% | 87% |  |
-| 153 | 6% | 81% |  |
-| 154 | 7% | 75% |  |
-| 155 | 8% | 68% |  |
-| 156 | 8% | 60% |  |
-| 157 | 8% | 52% | Median |
+| 153 | 6% | 82% |  |
+| 154 | 7% | 76% |  |
+| 155 | 8% | 69% |  |
+| 156 | 9% | 61% |  |
+| 157 | 9% | 52% | Median |
 | 158 | 8% | 43% |  |
 | 159 | 8% | 35% |  |
-| 160 | 7% | 28% |  |
+| 160 | 7% | 27% |  |
 | 161 | 6% | 21% |  |
 | 162 | 5% | 15% |  |
-| 163 | 3% | 11% |  |
+| 163 | 3% | 10% |  |
 | 164 | 3% | 7% |  |
 | 165 | 2% | 5% |  |
-| 166 | 1.2% | 3% |  |
-| 167 | 0.8% | 2% |  |
-| 168 | 0.5% | 1.0% |  |
-| 169 | 0.3% | 0.6% |  |
+| 166 | 1.1% | 3% |  |
+| 167 | 0.7% | 2% |  |
+| 168 | 0.4% | 0.9% |  |
+| 169 | 0.2% | 0.5% |  |
 | 170 | 0.1% | 0.3% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
