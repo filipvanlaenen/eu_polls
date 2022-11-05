@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fine Gael | IE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
@@ -76,9 +76,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -88,29 +88,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.4% | 99.6% |  |
 | 146 | 0.6% | 99.2% |  |
 | 147 | 1.0% | 98.6% |  |
-| 148 | 1.5% | 98% |  |
+| 148 | 2% | 98% |  |
 | 149 | 2% | 96% |  |
 | 150 | 3% | 94% |  |
 | 151 | 4% | 91% |  |
 | 152 | 5% | 87% |  |
 | 153 | 6% | 82% |  |
-| 154 | 7% | 76% |  |
-| 155 | 8% | 69% |  |
-| 156 | 9% | 61% |  |
+| 154 | 7% | 75% |  |
+| 155 | 8% | 68% |  |
+| 156 | 9% | 60% |  |
 | 157 | 9% | 52% | Median |
 | 158 | 8% | 43% |  |
 | 159 | 8% | 35% |  |
 | 160 | 7% | 27% |  |
-| 161 | 6% | 21% |  |
-| 162 | 5% | 15% |  |
+| 161 | 6% | 20% |  |
+| 162 | 4% | 15% |  |
 | 163 | 3% | 10% |  |
-| 164 | 3% | 7% |  |
-| 165 | 2% | 5% |  |
+| 164 | 2% | 7% |  |
+| 165 | 2% | 4% |  |
 | 166 | 1.1% | 3% |  |
 | 167 | 0.7% | 2% |  |
 | 168 | 0.4% | 0.9% |  |
 | 169 | 0.2% | 0.5% |  |
-| 170 | 0.1% | 0.3% |  |
+| 170 | 0.1% | 0.2% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
 | 173 | 0% | 0% |  |
