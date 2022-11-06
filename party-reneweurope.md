@@ -18,11 +18,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 103 | 99–108 | 97–109 | 96–110 | 95–112 |
+| Renew Europe | EU | 98 | 103 | 98–107 | 97–109 | 96–110 | 94–112 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–9 | 5–10 |
 | Polska 2050 | PL | | 6 | 5–10 | 4–10 | 4–11 | 4–12 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -34,7 +34,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Venstre | DK | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Attīstībai/Par! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,39 +61,39 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 92 | 0% | 100% |  |
 | 93 | 0.1% | 99.9% |  |
-| 94 | 0.3% | 99.8% |  |
-| 95 | 0.7% | 99.5% |  |
-| 96 | 2% | 98.8% |  |
+| 94 | 0.4% | 99.8% |  |
+| 95 | 0.9% | 99.4% |  |
+| 96 | 2% | 98.6% |  |
 | 97 | 3% | 97% |  |
-| 98 | 5% | 95% | Last Result |
-| 99 | 7% | 90% |  |
-| 100 | 9% | 83% |  |
-| 101 | 10% | 75% |  |
-| 102 | 11% | 64% |  |
-| 103 | 11% | 53% | Median |
-| 104 | 10% | 42% |  |
-| 105 | 9% | 32% |  |
-| 106 | 7% | 23% |  |
-| 107 | 5% | 16% |  |
+| 98 | 5% | 94% | Last Result |
+| 99 | 7% | 89% |  |
+| 100 | 9% | 82% |  |
+| 101 | 10% | 73% |  |
+| 102 | 11% | 63% |  |
+| 103 | 11% | 52% | Median |
+| 104 | 10% | 41% |  |
+| 105 | 9% | 31% |  |
+| 106 | 7% | 22% |  |
+| 107 | 5% | 15% |  |
 | 108 | 4% | 10% |  |
-| 109 | 3% | 6% |  |
-| 110 | 2% | 4% |  |
+| 109 | 2% | 6% |  |
+| 110 | 2% | 3% |  |
 | 111 | 0.9% | 2% |  |
-| 112 | 0.5% | 1.0% |  |
-| 113 | 0.3% | 0.5% |  |
+| 112 | 0.5% | 0.9% |  |
+| 113 | 0.2% | 0.4% |  |
 | 114 | 0.1% | 0.2% |  |
 | 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0% |  |
