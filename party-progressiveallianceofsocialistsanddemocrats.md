@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **131** seats (-16 seats)
+Current median: **132** seats (-15 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 131 | 126–136 | 125–138 | 124–139 | 121–141 |
-| Sozialdemokratische Partei Deutschlands | DE | | 18 | 15–20 | 15–20 | 14–21 | 13–21 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–137 | 125–138 | 124–140 | 121–142 |
+| Sozialdemokratische Partei Deutschlands | DE | | 18 | 16–22 | 15–22 | 14–22 | 13–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | Partidul Social Democrat | RO | | 14 | 11–16 | 10–16 | 10–16 | 10–17 |
 | Partito Democratico | IT | | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
@@ -34,7 +34,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -58,40 +58,40 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 118 | 0% | 100% |  |
 | 119 | 0.1% | 99.9% |  |
 | 120 | 0.2% | 99.9% |  |
-| 121 | 0.4% | 99.7% |  |
-| 122 | 0.7% | 99.3% |  |
+| 121 | 0.3% | 99.7% |  |
+| 122 | 0.6% | 99.4% |  |
 | 123 | 1.1% | 98.7% |  |
 | 124 | 2% | 98% |  |
 | 125 | 3% | 96% |  |
 | 126 | 4% | 93% |  |
 | 127 | 5% | 89% |  |
-| 128 | 7% | 83% |  |
-| 129 | 8% | 76% |  |
-| 130 | 9% | 68% |  |
-| 131 | 10% | 59% | Median |
-| 132 | 10% | 49% |  |
-| 133 | 9% | 39% |  |
-| 134 | 8% | 30% |  |
-| 135 | 7% | 22% |  |
-| 136 | 5% | 15% |  |
-| 137 | 4% | 10% |  |
-| 138 | 3% | 6% |  |
-| 139 | 2% | 3% |  |
-| 140 | 0.9% | 2% |  |
-| 141 | 0.5% | 0.9% |  |
-| 142 | 0.2% | 0.4% |  |
-| 143 | 0.1% | 0.2% |  |
-| 144 | 0% | 0.1% |  |
-| 145 | 0% | 0% |  |
+| 128 | 7% | 84% |  |
+| 129 | 8% | 78% |  |
+| 130 | 9% | 70% |  |
+| 131 | 10% | 61% |  |
+| 132 | 10% | 52% | Median |
+| 133 | 9% | 42% |  |
+| 134 | 8% | 33% |  |
+| 135 | 7% | 24% |  |
+| 136 | 6% | 17% |  |
+| 137 | 4% | 12% |  |
+| 138 | 3% | 8% |  |
+| 139 | 2% | 5% |  |
+| 140 | 1.2% | 3% |  |
+| 141 | 0.7% | 1.5% |  |
+| 142 | 0.4% | 0.7% |  |
+| 143 | 0.2% | 0.4% |  |
+| 144 | 0.1% | 0.2% |  |
+| 145 | 0% | 0.1% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |
 
