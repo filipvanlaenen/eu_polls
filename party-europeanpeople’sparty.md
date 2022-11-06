@@ -18,19 +18,19 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–162 | 150–164 | 148–165 | 146–168 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–24 | 18–24 | 18–25 |
+| European People’s Party | EU | 187 | 156 | 151–162 | 149–164 | 148–165 | 145–168 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–24 | 17–24 | 17–25 |
 | Partido Popular | ES | | 19 | 18–21 | 17–22 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
 | Les Républicains | FR | | 11 | 11 | 11 | 11 | 11 |
 | Partidul Național Liberal | RO | | 8 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fine Gael | IE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
@@ -57,7 +57,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -76,30 +76,30 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 143 | 0% | 100% |  |
+| 143 | 0.1% | 100% |  |
 | 144 | 0.1% | 99.9% |  |
-| 145 | 0.2% | 99.8% |  |
-| 146 | 0.4% | 99.6% |  |
-| 147 | 0.8% | 99.2% |  |
-| 148 | 1.3% | 98% |  |
+| 145 | 0.3% | 99.8% |  |
+| 146 | 0.5% | 99.5% |  |
+| 147 | 0.8% | 99.0% |  |
+| 148 | 1.4% | 98% |  |
 | 149 | 2% | 97% |  |
 | 150 | 3% | 95% |  |
 | 151 | 4% | 92% |  |
-| 152 | 6% | 88% |  |
+| 152 | 6% | 87% |  |
 | 153 | 7% | 82% |  |
 | 154 | 8% | 75% |  |
-| 155 | 9% | 68% |  |
+| 155 | 9% | 67% |  |
 | 156 | 9% | 59% | Median |
-| 157 | 9% | 50% |  |
-| 158 | 9% | 41% |  |
+| 157 | 9% | 49% |  |
+| 158 | 9% | 40% |  |
 | 159 | 8% | 32% |  |
-| 160 | 7% | 24% |  |
+| 160 | 6% | 24% |  |
 | 161 | 5% | 18% |  |
 | 162 | 4% | 12% |  |
 | 163 | 3% | 8% |  |
