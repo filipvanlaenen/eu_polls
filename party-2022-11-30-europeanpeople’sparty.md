@@ -57,7 +57,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -91,9 +91,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 149 | 2% | 97% |  |
 | 150 | 3% | 95% |  |
 | 151 | 4% | 92% |  |
-| 152 | 6% | 88% |  |
+| 152 | 5% | 88% |  |
 | 153 | 7% | 82% |  |
-| 154 | 8% | 75% |  |
+| 154 | 8% | 76% |  |
 | 155 | 9% | 68% |  |
 | 156 | 9% | 59% | Median |
 | 157 | 9% | 50% |  |
@@ -101,9 +101,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 8% | 32% |  |
 | 160 | 7% | 24% |  |
 | 161 | 5% | 18% |  |
-| 162 | 4% | 12% |  |
-| 163 | 3% | 8% |  |
-| 164 | 2% | 5% |  |
+| 162 | 4% | 13% |  |
+| 163 | 3% | 9% |  |
+| 164 | 2% | 6% |  |
 | 165 | 1.4% | 3% |  |
 | 166 | 0.9% | 2% |  |
 | 167 | 0.5% | 1.1% |  |
