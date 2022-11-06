@@ -20,7 +20,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -37,7 +37,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -64,8 +64,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 28% | 95% |  |
 | 6 | 39% | 67% | Median |
 | 7 | 22% | 28% |  |
-| 8 | 6% | 6% |  |
-| 9 | 0.7% | 0.8% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
