@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (+17 seats)
+Current median: **79** seats (+18 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 78 | 74–83 | 73–84 | 72–85 | 70–87 |
-| Fratelli d’Italia | IT | | 23 | 21–24 | 20–25 | 20–26 | 19–26 |
+| European Conservatives and Reformists | EU | 61 | 79 | 75–83 | 73–84 | 72–85 | 71–87 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
 | Zjednoczona Prawica | PL | | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–9 | 4–9 | 3–9 | 3–10 |
@@ -45,9 +45,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,26 +60,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
-| 70 | 0.4% | 99.8% |  |
-| 71 | 0.8% | 99.5% |  |
-| 72 | 2% | 98.6% |  |
+| 70 | 0.3% | 99.8% |  |
+| 71 | 0.7% | 99.5% |  |
+| 72 | 1.4% | 98.8% |  |
 | 73 | 3% | 97% |  |
-| 74 | 5% | 94% |  |
-| 75 | 8% | 88% |  |
-| 76 | 10% | 80% |  |
-| 77 | 12% | 71% |  |
-| 78 | 12% | 59% | Median |
-| 79 | 12% | 47% |  |
-| 80 | 10% | 35% |  |
-| 81 | 8% | 25% |  |
-| 82 | 6% | 16% |  |
-| 83 | 4% | 10% |  |
-| 84 | 3% | 6% |  |
-| 85 | 2% | 3% |  |
-| 86 | 0.8% | 1.3% |  |
-| 87 | 0.3% | 0.5% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
+| 74 | 4% | 95% |  |
+| 75 | 6% | 90% |  |
+| 76 | 9% | 84% |  |
+| 77 | 10% | 76% |  |
+| 78 | 12% | 65% |  |
+| 79 | 12% | 54% | Median |
+| 80 | 11% | 42% |  |
+| 81 | 9% | 31% |  |
+| 82 | 8% | 21% |  |
+| 83 | 6% | 14% |  |
+| 84 | 4% | 8% |  |
+| 85 | 2% | 4% |  |
+| 86 | 1.2% | 2% |  |
+| 87 | 0.6% | 0.9% |  |
+| 88 | 0.2% | 0.4% |  |
+| 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
 
