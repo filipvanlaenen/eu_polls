@@ -48,7 +48,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 1 | 1 | 1 | 1 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 0–2 |
-| Momentum Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -74,21 +74,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 93 | 0.1% | 100% |  |
 | 94 | 0.2% | 99.9% |  |
-| 95 | 0.6% | 99.6% |  |
+| 95 | 0.5% | 99.6% |  |
 | 96 | 1.1% | 99.1% |  |
 | 97 | 2% | 98% |  |
-| 98 | 4% | 96% | Last Result |
-| 99 | 5% | 92% |  |
+| 98 | 3% | 96% | Last Result |
+| 99 | 5% | 93% |  |
 | 100 | 7% | 87% |  |
 | 101 | 9% | 80% |  |
 | 102 | 10% | 71% |  |
-| 103 | 11% | 60% | Median |
-| 104 | 11% | 49% |  |
-| 105 | 10% | 38% |  |
+| 103 | 11% | 61% | Median |
+| 104 | 11% | 50% |  |
+| 105 | 10% | 39% |  |
 | 106 | 8% | 29% |  |
-| 107 | 7% | 20% |  |
+| 107 | 7% | 21% |  |
 | 108 | 5% | 14% |  |
-| 109 | 3% | 9% |  |
+| 109 | 4% | 9% |  |
 | 110 | 2% | 5% |  |
 | 111 | 1.4% | 3% |  |
 | 112 | 0.8% | 2% |  |
