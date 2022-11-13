@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **55** seats (+16 seats)
+Current median: **54** seats (+15 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 55 | 52–57 | 52–58 | 51–59 | 50–60 |
+| European United Left–Nordic Green Left | EU | 39 | 54 | 51–56 | 51–57 | 50–58 | 49–59 |
 | La France insoumise | FR | | 16 | 16 | 16 | 16 | 16 |
-| Sinn Féin | IE | | 8 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Sinn Féin | IE | | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Die Linke | DE | | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
@@ -61,20 +61,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
 | 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0.2% | 100% |  |
-| 50 | 0.9% | 99.8% |  |
-| 51 | 3% | 98.9% |  |
-| 52 | 7% | 96% |  |
-| 53 | 13% | 89% |  |
-| 54 | 19% | 76% |  |
-| 55 | 21% | 57% | Median |
-| 56 | 17% | 36% |  |
-| 57 | 11% | 19% |  |
-| 58 | 5% | 8% |  |
-| 59 | 2% | 3% |  |
-| 60 | 0.6% | 0.8% |  |
-| 61 | 0.1% | 0.2% |  |
+| 48 | 0.2% | 100% |  |
+| 49 | 1.0% | 99.8% |  |
+| 50 | 4% | 98.7% |  |
+| 51 | 8% | 95% |  |
+| 52 | 15% | 87% |  |
+| 53 | 19% | 72% |  |
+| 54 | 19% | 53% | Median |
+| 55 | 15% | 34% |  |
+| 56 | 10% | 18% |  |
+| 57 | 5% | 8% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.7% | 1.0% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
 
