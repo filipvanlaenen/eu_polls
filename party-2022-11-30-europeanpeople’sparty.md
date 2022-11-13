@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 150–161 | 149–163 | 147–164 | 145–167 |
+| European People’s Party | EU | 187 | 156 | 150–161 | 149–163 | 148–164 | 145–167 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–23 | 18–24 | 17–25 |
 | Partido Popular | ES | | 19 | 18–21 | 17–21 | 17–22 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
@@ -27,17 +27,17 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Fine Gael | IE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -84,33 +84,33 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 142 | 0% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
-| 144 | 0.2% | 99.8% |  |
-| 145 | 0.4% | 99.6% |  |
-| 146 | 0.7% | 99.3% |  |
-| 147 | 1.2% | 98.6% |  |
-| 148 | 2% | 97% |  |
+| 144 | 0.2% | 99.9% |  |
+| 145 | 0.3% | 99.7% |  |
+| 146 | 0.6% | 99.4% |  |
+| 147 | 1.0% | 98.8% |  |
+| 148 | 2% | 98% |  |
 | 149 | 3% | 96% |  |
 | 150 | 4% | 93% |  |
-| 151 | 5% | 89% |  |
-| 152 | 7% | 84% |  |
-| 153 | 8% | 77% |  |
-| 154 | 9% | 69% |  |
-| 155 | 9% | 61% |  |
-| 156 | 9% | 51% | Median |
-| 157 | 9% | 42% |  |
-| 158 | 8% | 33% |  |
-| 159 | 7% | 26% |  |
-| 160 | 6% | 19% |  |
-| 161 | 4% | 13% |  |
-| 162 | 3% | 9% |  |
+| 151 | 5% | 90% |  |
+| 152 | 6% | 85% |  |
+| 153 | 7% | 79% |  |
+| 154 | 8% | 71% |  |
+| 155 | 9% | 63% |  |
+| 156 | 9% | 54% | Median |
+| 157 | 9% | 44% |  |
+| 158 | 8% | 36% |  |
+| 159 | 7% | 27% |  |
+| 160 | 6% | 20% |  |
+| 161 | 5% | 14% |  |
+| 162 | 3% | 10% |  |
 | 163 | 2% | 6% |  |
-| 164 | 1.5% | 4% |  |
-| 165 | 0.9% | 2% |  |
-| 166 | 0.6% | 1.2% |  |
-| 167 | 0.3% | 0.7% |  |
+| 164 | 2% | 4% |  |
+| 165 | 1.0% | 2% |  |
+| 166 | 0.6% | 1.4% |  |
+| 167 | 0.4% | 0.8% |  |
 | 168 | 0.2% | 0.4% |  |
 | 169 | 0.1% | 0.2% |  |
-| 170 | 0% | 0.1% |  |
+| 170 | 0.1% | 0.1% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |

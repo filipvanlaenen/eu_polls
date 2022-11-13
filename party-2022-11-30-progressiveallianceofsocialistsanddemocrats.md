@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **132** seats (-15 seats)
+Current median: **131** seats (-16 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–137 | 125–138 | 124–139 | 122–142 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 131 | 126–137 | 125–138 | 124–139 | 121–142 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–22 | 16–22 | 16–22 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | Partidul Social Democrat | RO | | 14 | 11–16 | 10–16 | 10–16 | 10–17 |
-| Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
+| Partito Democratico | IT | | 14 | 12–15 | 12–16 | 11–16 | 10–18 |
 | Partido Socialista | PT | | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7 | 6–7 | 6–7 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -42,7 +42,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Social Democrats | IE | | 1 | 1 | 1 | 1 | 1 |
+| Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -64,20 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 119 | 0% | 100% |  |
+| 119 | 0.1% | 100% |  |
 | 120 | 0.1% | 99.9% |  |
 | 121 | 0.3% | 99.8% |  |
-| 122 | 0.5% | 99.6% |  |
-| 123 | 1.0% | 99.0% |  |
+| 122 | 0.6% | 99.5% |  |
+| 123 | 1.1% | 98.9% |  |
 | 124 | 2% | 98% |  |
 | 125 | 3% | 96% |  |
-| 126 | 4% | 94% |  |
-| 127 | 5% | 90% |  |
-| 128 | 7% | 85% |  |
-| 129 | 8% | 78% |  |
-| 130 | 9% | 69% |  |
-| 131 | 10% | 60% |  |
-| 132 | 10% | 50% | Median |
+| 126 | 4% | 93% |  |
+| 127 | 5% | 89% |  |
+| 128 | 7% | 84% |  |
+| 129 | 8% | 77% |  |
+| 130 | 9% | 68% |  |
+| 131 | 10% | 59% | Median |
+| 132 | 10% | 49% |  |
 | 133 | 9% | 40% |  |
 | 134 | 8% | 31% |  |
 | 135 | 7% | 23% |  |
@@ -86,11 +86,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 3% | 7% |  |
 | 139 | 2% | 4% |  |
 | 140 | 1.1% | 2% |  |
-| 141 | 0.6% | 1.2% |  |
-| 142 | 0.3% | 0.6% |  |
+| 141 | 0.7% | 1.3% |  |
+| 142 | 0.4% | 0.7% |  |
 | 143 | 0.2% | 0.3% |  |
 | 144 | 0.1% | 0.1% |  |
-| 145 | 0% | 0% |  |
+| 145 | 0% | 0.1% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |
 
