@@ -19,7 +19,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 39 | 36–42 | 35–43 | 34–44 | 33–45 |
-| Movimento 5 Stelle | IT | | 14 | 13–15 | 12–16 | 12–17 | 11–18 |
+| Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | Konfederacja | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
@@ -45,9 +45,9 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,13 +62,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 9% | 88% |  |
 | 38 | 13% | 79% |  |
 | 39 | 16% | 66% | Median |
-| 40 | 17% | 49% |  |
+| 40 | 17% | 50% |  |
 | 41 | 14% | 33% |  |
-| 42 | 9% | 19% |  |
-| 43 | 5% | 9% |  |
+| 42 | 10% | 19% |  |
+| 43 | 5% | 10% |  |
 | 44 | 3% | 4% |  |
-| 45 | 1.0% | 1.5% |  |
-| 46 | 0.3% | 0.5% |  |
+| 45 | 1.0% | 2% |  |
+| 46 | 0.4% | 0.5% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 
