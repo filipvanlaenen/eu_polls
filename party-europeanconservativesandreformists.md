@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 79 | 75–84 | 74–85 | 73–86 | 71–88 |
-| Fratelli d’Italia | IT | | 24 | 22–26 | 21–26 | 20–28 | 19–29 |
+| European Conservatives and Reformists | EU | 61 | 79 | 75–83 | 73–85 | 72–86 | 71–88 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–27 | 19–29 |
 | Zjednoczona Prawica | PL | | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
-| Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
+| Vox | ES | | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–9 | 4–9 | 3–9 | 3–10 |
 | Občanská demokratická strana | CZ | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -45,9 +45,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-10-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2022-10-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,28 +59,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.5% | 99.7% |  |
-| 72 | 1.1% | 99.2% |  |
-| 73 | 2% | 98% |  |
-| 74 | 4% | 96% |  |
-| 75 | 6% | 92% |  |
-| 76 | 8% | 87% |  |
-| 77 | 10% | 79% |  |
-| 78 | 11% | 69% |  |
-| 79 | 12% | 58% | Median |
-| 80 | 11% | 46% |  |
-| 81 | 10% | 35% |  |
-| 82 | 8% | 25% |  |
-| 83 | 6% | 17% |  |
-| 84 | 4% | 11% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.3% | 99.8% |  |
+| 71 | 0.7% | 99.5% |  |
+| 72 | 1.4% | 98.9% |  |
+| 73 | 3% | 97% |  |
+| 74 | 4% | 95% |  |
+| 75 | 6% | 91% |  |
+| 76 | 8% | 84% |  |
+| 77 | 10% | 76% |  |
+| 78 | 11% | 66% |  |
+| 79 | 11% | 55% | Median |
+| 80 | 11% | 43% |  |
+| 81 | 9% | 33% |  |
+| 82 | 8% | 23% |  |
+| 83 | 6% | 16% |  |
+| 84 | 4% | 10% |  |
 | 85 | 3% | 6% |  |
-| 86 | 2% | 4% |  |
-| 87 | 1.0% | 2% |  |
-| 88 | 0.5% | 0.9% |  |
-| 89 | 0.2% | 0.4% |  |
-| 90 | 0.1% | 0.2% |  |
+| 86 | 2% | 3% |  |
+| 87 | 0.8% | 2% |  |
+| 88 | 0.4% | 0.8% |  |
+| 89 | 0.2% | 0.3% |  |
+| 90 | 0.1% | 0.1% |  |
 | 91 | 0% | 0.1% |  |
 | 92 | 0% | 0% |  |
 

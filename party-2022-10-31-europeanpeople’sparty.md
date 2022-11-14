@@ -52,7 +52,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 0–2 |
 | Демократична България | BG | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -87,7 +87,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 0.2% | 99.9% |  |
 | 145 | 0.3% | 99.7% |  |
 | 146 | 0.6% | 99.4% |  |
-| 147 | 1.0% | 98.8% |  |
+| 147 | 0.9% | 98.8% |  |
 | 148 | 2% | 98% |  |
 | 149 | 2% | 96% |  |
 | 150 | 3% | 94% |  |

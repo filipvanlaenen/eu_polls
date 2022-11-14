@@ -10,15 +10,15 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **103** seats (+5 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 103 | 99–108 | 98–110 | 97–111 | 95–113 |
+| Renew Europe | EU | 98 | 103 | 99–108 | 98–109 | 97–111 | 95–113 |
 | La République en marche–Mouvement démocrate | FR | | 27 | 27 | 27 | 27 | 27 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
@@ -36,7 +36,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| Attīstībai/Par! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -51,6 +50,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Attīstībai/Par! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -72,29 +72,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0.1% | 100% |  |
-| 94 | 0.2% | 99.9% |  |
-| 95 | 0.5% | 99.6% |  |
-| 96 | 1.1% | 99.1% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0.1% | 99.9% |  |
+| 94 | 0.3% | 99.8% |  |
+| 95 | 0.7% | 99.5% |  |
+| 96 | 1.3% | 98.9% |  |
 | 97 | 2% | 98% |  |
-| 98 | 3% | 96% | Last Result |
-| 99 | 5% | 93% |  |
-| 100 | 7% | 87% |  |
-| 101 | 9% | 80% |  |
-| 102 | 10% | 71% |  |
-| 103 | 11% | 61% | Median |
-| 104 | 11% | 50% |  |
-| 105 | 10% | 39% |  |
-| 106 | 8% | 29% |  |
-| 107 | 7% | 21% |  |
-| 108 | 5% | 14% |  |
-| 109 | 4% | 9% |  |
+| 98 | 4% | 95% | Last Result |
+| 99 | 6% | 91% |  |
+| 100 | 8% | 85% |  |
+| 101 | 9% | 78% |  |
+| 102 | 11% | 68% |  |
+| 103 | 11% | 58% | Median |
+| 104 | 11% | 47% |  |
+| 105 | 9% | 36% |  |
+| 106 | 8% | 26% |  |
+| 107 | 6% | 19% |  |
+| 108 | 5% | 12% |  |
+| 109 | 3% | 8% |  |
 | 110 | 2% | 5% |  |
-| 111 | 1.4% | 3% |  |
-| 112 | 0.8% | 2% |  |
-| 113 | 0.4% | 0.8% |  |
-| 114 | 0.2% | 0.4% |  |
-| 115 | 0.1% | 0.2% |  |
+| 111 | 1.2% | 3% |  |
+| 112 | 0.7% | 1.4% |  |
+| 113 | 0.4% | 0.7% |  |
+| 114 | 0.2% | 0.3% |  |
+| 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0.1% |  |
 | 117 | 0% | 0% |  |
 
