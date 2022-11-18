@@ -27,14 +27,14 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Socialdemokraterne | DK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Demokratikus Koalíció | HU | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
+| Demokratikus Koalíció | HU | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Lewica | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3–4 | 2–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 119 | 0.1% | 100% |  |
 | 120 | 0.2% | 99.9% |  |
-| 121 | 0.3% | 99.7% |  |
+| 121 | 0.4% | 99.7% |  |
 | 122 | 0.7% | 99.4% |  |
 | 123 | 1.2% | 98.7% |  |
 | 124 | 2% | 97% |  |
 | 125 | 3% | 95% |  |
-| 126 | 4% | 92% |  |
+| 126 | 5% | 92% |  |
 | 127 | 6% | 88% |  |
 | 128 | 8% | 82% |  |
 | 129 | 9% | 74% |  |
 | 130 | 10% | 65% |  |
-| 131 | 10% | 56% | Median |
+| 131 | 10% | 55% | Median |
 | 132 | 10% | 45% |  |
-| 133 | 9% | 36% |  |
+| 133 | 9% | 35% |  |
 | 134 | 8% | 26% |  |
-| 135 | 6% | 19% |  |
-| 136 | 5% | 13% |  |
+| 135 | 6% | 18% |  |
+| 136 | 5% | 12% |  |
 | 137 | 3% | 8% |  |
 | 138 | 2% | 5% |  |
-| 139 | 1.3% | 3% |  |
+| 139 | 1.2% | 3% |  |
 | 140 | 0.7% | 1.4% |  |
 | 141 | 0.4% | 0.7% |  |
 | 142 | 0.2% | 0.3% |  |
