@@ -19,8 +19,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 16% | 97% |  |
 | 6 | 26% | 81% |  |
 | 7 | 32% | 55% | Median |
-| 8 | 18% | 24% |  |
-| 9 | 5% | 5% |  |
-| 10 | 0.6% | 0.8% |  |
+| 8 | 18% | 23% |  |
+| 9 | 4% | 5% |  |
+| 10 | 0.5% | 0.7% |  |
 | 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
