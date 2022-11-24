@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 150–161 | 149–162 | 148–164 | 145–166 |
+| European People’s Party | EU | 187 | 156 | 151–161 | 149–163 | 148–164 | 145–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 19–22 | 18–23 | 17–24 |
 | Partido Popular | ES | | 19 | 17–21 | 17–21 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
@@ -57,7 +57,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -86,30 +86,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 0.1% | 99.9% |  |
 | 144 | 0.2% | 99.9% |  |
 | 145 | 0.3% | 99.7% |  |
-| 146 | 0.6% | 99.3% |  |
-| 147 | 1.1% | 98.7% |  |
+| 146 | 0.6% | 99.4% |  |
+| 147 | 1.0% | 98.8% |  |
 | 148 | 2% | 98% |  |
 | 149 | 3% | 96% |  |
-| 150 | 4% | 93% |  |
+| 150 | 4% | 94% |  |
 | 151 | 5% | 90% |  |
-| 152 | 7% | 84% |  |
-| 153 | 8% | 78% |  |
-| 154 | 9% | 70% |  |
-| 155 | 10% | 61% |  |
-| 156 | 10% | 52% | Median |
-| 157 | 9% | 42% |  |
-| 158 | 8% | 33% |  |
-| 159 | 7% | 25% |  |
-| 160 | 6% | 18% |  |
-| 161 | 4% | 12% |  |
+| 152 | 6% | 85% |  |
+| 153 | 8% | 79% |  |
+| 154 | 9% | 71% |  |
+| 155 | 9% | 62% |  |
+| 156 | 10% | 53% | Median |
+| 157 | 9% | 43% |  |
+| 158 | 8% | 34% |  |
+| 159 | 7% | 26% |  |
+| 160 | 6% | 19% |  |
+| 161 | 4% | 13% |  |
 | 162 | 3% | 8% |  |
 | 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
+| 164 | 1.4% | 3% |  |
 | 165 | 0.8% | 2% |  |
-| 166 | 0.4% | 0.8% |  |
-| 167 | 0.2% | 0.4% |  |
+| 166 | 0.5% | 0.9% |  |
+| 167 | 0.2% | 0.5% |  |
 | 168 | 0.1% | 0.2% |  |
-| 169 | 0% | 0.1% |  |
+| 169 | 0.1% | 0.1% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
