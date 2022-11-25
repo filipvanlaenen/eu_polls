@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–162 | 149–164 | 148–165 | 145–168 |
+| European People’s Party | EU | 187 | 156 | 150–162 | 149–163 | 147–165 | 145–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–24 | 17–24 | 17–25 |
 | Partido Popular | ES | | 19 | 18–21 | 17–21 | 17–22 | 16–24 |
-| Koalicja Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| Koalicja Obywatelska | PL | | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
 | Les Républicains | FR | | 11 | 11 | 11 | 11 | 11 |
 | Partidul Național Liberal | RO | | 8 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -34,7 +34,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fine Gael | IE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -60,6 +59,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
+| Koalicja Polska | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -82,35 +82,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 0% | 100% |  |
+| 142 | 0.1% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
-| 144 | 0.2% | 99.9% |  |
-| 145 | 0.3% | 99.7% |  |
-| 146 | 0.6% | 99.4% |  |
-| 147 | 0.9% | 98.8% |  |
-| 148 | 2% | 98% |  |
-| 149 | 2% | 96% |  |
-| 150 | 3% | 94% |  |
-| 151 | 4% | 91% |  |
-| 152 | 6% | 86% |  |
-| 153 | 7% | 81% |  |
-| 154 | 8% | 74% |  |
-| 155 | 9% | 66% |  |
-| 156 | 9% | 57% | Median |
-| 157 | 9% | 48% |  |
-| 158 | 8% | 39% |  |
-| 159 | 7% | 31% |  |
-| 160 | 6% | 23% |  |
-| 161 | 5% | 17% |  |
-| 162 | 4% | 12% |  |
-| 163 | 3% | 8% |  |
+| 144 | 0.2% | 99.8% |  |
+| 145 | 0.4% | 99.6% |  |
+| 146 | 0.7% | 99.1% |  |
+| 147 | 1.2% | 98% |  |
+| 148 | 2% | 97% |  |
+| 149 | 3% | 95% |  |
+| 150 | 4% | 93% |  |
+| 151 | 5% | 89% |  |
+| 152 | 6% | 84% |  |
+| 153 | 7% | 78% |  |
+| 154 | 8% | 71% |  |
+| 155 | 9% | 62% |  |
+| 156 | 9% | 54% | Median |
+| 157 | 9% | 45% |  |
+| 158 | 8% | 36% |  |
+| 159 | 7% | 29% |  |
+| 160 | 6% | 22% |  |
+| 161 | 5% | 16% |  |
+| 162 | 4% | 11% |  |
+| 163 | 3% | 7% |  |
 | 164 | 2% | 5% |  |
-| 165 | 1.3% | 3% |  |
+| 165 | 1.2% | 3% |  |
 | 166 | 0.8% | 2% |  |
-| 167 | 0.5% | 1.1% |  |
+| 167 | 0.5% | 1.0% |  |
 | 168 | 0.3% | 0.6% |  |
-| 169 | 0.2% | 0.3% |  |
-| 170 | 0.1% | 0.2% |  |
+| 169 | 0.1% | 0.3% |  |
+| 170 | 0.1% | 0.1% |  |
 | 171 | 0% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
