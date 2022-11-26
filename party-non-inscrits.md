@@ -8,23 +8,25 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (+10 seats)
+Current median: **43** seats (+14 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> BG, CY, ES, GR, HU, IT, LT, PL, SK
+> BG, CY, DK, ES, FR, GR, HU, IT, LT, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 39 | 36–43 | 35–44 | 34–44 | 33–46 |
-| Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| Non-Inscrits | EU | 29 | 43 | 38–47 | 37–48 | 36–48 | 34–50 |
+| Movimento 5 Stelle | IT | | 14 | 13–16 | 13–16 | 12–17 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| Reconquête | FR | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -36,8 +38,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Nye Borgerlige | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Reconquête | FR | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -52,23 +52,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0% | 100% | Last Result |
 | 30 | 0% | 100% |  |
-| 31 | 0.1% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.8% | 99.7% |  |
-| 34 | 2% | 98.9% |  |
-| 35 | 4% | 97% |  |
-| 36 | 7% | 92% |  |
-| 37 | 10% | 85% |  |
-| 38 | 13% | 75% |  |
-| 39 | 14% | 63% | Median |
-| 40 | 15% | 48% |  |
-| 41 | 13% | 34% |  |
-| 42 | 10% | 21% |  |
-| 43 | 6% | 11% |  |
-| 44 | 3% | 5% |  |
-| 45 | 1.3% | 2% |  |
-| 46 | 0.5% | 0.6% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0.2% | 99.9% |  |
+| 34 | 0.5% | 99.8% |  |
+| 35 | 1.2% | 99.3% |  |
+| 36 | 2% | 98% |  |
+| 37 | 3% | 96% |  |
+| 38 | 5% | 93% |  |
+| 39 | 7% | 88% |  |
+| 40 | 9% | 81% |  |
+| 41 | 10% | 72% |  |
+| 42 | 11% | 62% |  |
+| 43 | 11% | 51% | Median |
+| 44 | 11% | 39% |  |
+| 45 | 10% | 28% |  |
+| 46 | 8% | 18% |  |
+| 47 | 5% | 10% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.4% | 2% |  |
+| 50 | 0.6% | 0.8% |  |
+| 51 | 0.2% | 0.2% |  |
+| 52 | 0% | 0.1% |  |
+| 53 | 0% | 0% |  |
 
 
