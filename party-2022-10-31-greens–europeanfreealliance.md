@@ -31,7 +31,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,14 +66,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 43 | 0.1% | 100% |  |
 | 44 | 0.3% | 99.9% |  |
-| 45 | 1.0% | 99.6% |  |
+| 45 | 1.1% | 99.6% |  |
 | 46 | 3% | 98.5% |  |
 | 47 | 5% | 96% |  |
-| 48 | 8% | 91% |  |
+| 48 | 8% | 90% |  |
 | 49 | 11% | 82% |  |
-| 50 | 12% | 71% |  |
+| 50 | 12% | 72% |  |
 | 51 | 13% | 59% | Median |
-| 52 | 12% | 46% |  |
+| 52 | 12% | 47% |  |
 | 53 | 11% | 34% |  |
 | 54 | 9% | 24% |  |
 | 55 | 6% | 15% |  |
@@ -81,7 +81,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 2% | 5% |  |
 | 58 | 1.3% | 2% |  |
 | 59 | 0.6% | 0.9% |  |
-| 60 | 0.2% | 0.4% |  |
+| 60 | 0.2% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
