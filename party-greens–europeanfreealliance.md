@@ -1,25 +1,26 @@
 # Greens–European Free Alliance
 
-Members registered from **21 countries**:
+Members registered from **22 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LU, LV, NL, PT, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (-20 seats)
+Current median: **52** seats (-15 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL, SE
+> AT, BE, BG, CZ, DE, DK, ES, FI, FR, HR, LT, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–51 | 42–52 | 41–53 | 39–55 |
+| Greens–European Free Alliance | EU | 67 | 52 | 48–56 | 47–58 | 46–59 | 44–61 |
 | Bündnis 90/Die Grünen | DE | | 19 | 17–21 | 16–22 | 16–23 | 15–25 |
+| Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -57,39 +58,33 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.6% | 99.7% |  |
-| 40 | 1.3% | 99.2% |  |
-| 41 | 3% | 98% |  |
-| 42 | 5% | 95% |  |
-| 43 | 7% | 90% |  |
-| 44 | 9% | 83% |  |
-| 45 | 11% | 74% |  |
-| 46 | 12% | 63% |  |
-| 47 | 12% | 50% | Median |
-| 48 | 11% | 38% |  |
-| 49 | 9% | 28% |  |
-| 50 | 7% | 19% |  |
-| 51 | 5% | 12% |  |
-| 52 | 3% | 7% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.9% | 2% |  |
-| 55 | 0.4% | 0.7% |  |
-| 56 | 0.2% | 0.3% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.4% | 99.8% |  |
+| 45 | 0.9% | 99.5% |  |
+| 46 | 2% | 98.6% |  |
+| 47 | 4% | 97% |  |
+| 48 | 6% | 93% |  |
+| 49 | 8% | 87% |  |
+| 50 | 10% | 79% |  |
+| 51 | 12% | 69% |  |
+| 52 | 12% | 58% | Median |
+| 53 | 11% | 46% |  |
+| 54 | 10% | 34% |  |
+| 55 | 8% | 24% |  |
+| 56 | 6% | 16% |  |
+| 57 | 4% | 10% |  |
+| 58 | 3% | 5% |  |
+| 59 | 1.5% | 3% |  |
+| 60 | 0.7% | 1.3% |  |
+| 61 | 0.3% | 0.5% |  |
+| 62 | 0.1% | 0.2% |  |
+| 63 | 0% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |

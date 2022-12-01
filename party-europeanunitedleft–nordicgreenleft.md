@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (+19 seats)
+Current median: **47** seats (+8 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 58 | 55–62 | 55–62 | 54–63 | 53–65 |
-| La France insoumise | FR | | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| European United Left–Nordic Green Left | EU | 39 | 47 | 44–50 | 44–51 | 43–52 | 42–53 |
+| La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -40,47 +40,36 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0% | 100% |  |
-| 43 | 0% | 100% |  |
-| 44 | 0% | 100% |  |
-| 45 | 0% | 100% |  |
-| 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0% | 100% |  |
-| 50 | 0% | 100% |  |
-| 51 | 0.1% | 100% |  |
-| 52 | 0.3% | 99.9% |  |
-| 53 | 1.1% | 99.6% |  |
-| 54 | 3% | 98.5% |  |
-| 55 | 6% | 96% |  |
-| 56 | 10% | 90% |  |
-| 57 | 14% | 80% |  |
-| 58 | 17% | 65% | Median |
-| 59 | 16% | 49% |  |
-| 60 | 13% | 32% |  |
-| 61 | 9% | 19% |  |
-| 62 | 5% | 10% |  |
-| 63 | 3% | 5% |  |
-| 64 | 1.2% | 2% |  |
-| 65 | 0.5% | 0.7% |  |
-| 66 | 0.2% | 0.2% |  |
-| 67 | 0% | 0.1% |  |
-| 68 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 1.0% | 99.7% |  |
+| 43 | 3% | 98.7% |  |
+| 44 | 6% | 96% |  |
+| 45 | 11% | 90% |  |
+| 46 | 16% | 78% |  |
+| 47 | 18% | 62% | Median |
+| 48 | 16% | 45% |  |
+| 49 | 13% | 28% |  |
+| 50 | 8% | 16% |  |
+| 51 | 4% | 8% |  |
+| 52 | 2% | 3% |  |
+| 53 | 0.8% | 1.2% |  |
+| 54 | 0.3% | 0.4% |  |
+| 55 | 0.1% | 0.1% |  |
+| 56 | 0% | 0% |  |
 
 
