@@ -27,12 +27,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,19 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% | Last Result |
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
-| 42 | 1.0% | 99.7% |  |
-| 43 | 3% | 98.7% |  |
-| 44 | 6% | 96% |  |
-| 45 | 11% | 90% |  |
-| 46 | 16% | 78% |  |
-| 47 | 18% | 62% | Median |
-| 48 | 16% | 45% |  |
-| 49 | 13% | 28% |  |
-| 50 | 8% | 16% |  |
-| 51 | 4% | 8% |  |
+| 42 | 1.2% | 99.6% |  |
+| 43 | 3% | 98% |  |
+| 44 | 7% | 95% |  |
+| 45 | 12% | 88% |  |
+| 46 | 16% | 76% |  |
+| 47 | 18% | 59% | Median |
+| 48 | 16% | 41% |  |
+| 49 | 12% | 25% |  |
+| 50 | 7% | 14% |  |
+| 51 | 4% | 7% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.8% | 1.2% |  |
-| 54 | 0.3% | 0.4% |  |
+| 53 | 0.7% | 1.0% |  |
+| 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 
