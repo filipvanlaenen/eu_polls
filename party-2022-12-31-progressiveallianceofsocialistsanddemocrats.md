@@ -18,13 +18,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 132–143 | 131–144 | 130–146 | 128–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 133–143 | 131–145 | 130–146 | 128–148 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–21 | 14–21 | 13–21 |
 | Partidul Social Democrat | RO | | 14 | 11–16 | 10–16 | 10–16 | 10–17 |
 | Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | Partido Socialista | PT | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Socialdemokraterne | DK | | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | Lewica | PL | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
@@ -37,9 +37,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 2–3 |
+| Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -64,33 +64,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 125 | 0.1% | 100% |  |
+| 125 | 0% | 100% |  |
 | 126 | 0.1% | 99.9% |  |
-| 127 | 0.3% | 99.8% |  |
-| 128 | 0.5% | 99.5% |  |
-| 129 | 1.0% | 99.0% |  |
-| 130 | 2% | 98% |  |
-| 131 | 3% | 96% |  |
-| 132 | 4% | 94% |  |
-| 133 | 5% | 90% |  |
-| 134 | 7% | 85% |  |
-| 135 | 8% | 78% |  |
-| 136 | 9% | 69% |  |
-| 137 | 10% | 60% |  |
-| 138 | 10% | 50% | Median |
-| 139 | 9% | 40% |  |
-| 140 | 8% | 31% |  |
-| 141 | 7% | 23% |  |
-| 142 | 5% | 16% |  |
-| 143 | 4% | 11% |  |
-| 144 | 3% | 7% |  |
-| 145 | 2% | 4% |  |
-| 146 | 1.1% | 3% |  |
-| 147 | 0.7% | 1.5% | Last Result |
-| 148 | 0.4% | 0.8% |  |
-| 149 | 0.2% | 0.4% |  |
+| 127 | 0.2% | 99.8% |  |
+| 128 | 0.4% | 99.6% |  |
+| 129 | 0.8% | 99.2% |  |
+| 130 | 1.4% | 98% |  |
+| 131 | 2% | 97% |  |
+| 132 | 3% | 95% |  |
+| 133 | 5% | 91% |  |
+| 134 | 6% | 86% |  |
+| 135 | 8% | 80% |  |
+| 136 | 9% | 72% |  |
+| 137 | 10% | 63% |  |
+| 138 | 10% | 53% | Median |
+| 139 | 9% | 43% |  |
+| 140 | 9% | 34% |  |
+| 141 | 7% | 25% |  |
+| 142 | 6% | 18% |  |
+| 143 | 4% | 12% |  |
+| 144 | 3% | 8% |  |
+| 145 | 2% | 5% |  |
+| 146 | 1.3% | 3% |  |
+| 147 | 0.8% | 2% | Last Result |
+| 148 | 0.5% | 1.0% |  |
+| 149 | 0.3% | 0.5% |  |
 | 150 | 0.1% | 0.2% |  |
 | 151 | 0.1% | 0.1% |  |
-| 152 | 0% | 0% |  |
+| 152 | 0% | 0.1% |  |
+| 153 | 0% | 0% |  |
 
 
