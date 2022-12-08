@@ -33,7 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
+| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -47,29 +47,29 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0.1% | 100% |  |
 | 41 | 0.4% | 99.9% |  |
-| 42 | 1.5% | 99.5% |  |
+| 42 | 1.4% | 99.5% |  |
 | 43 | 4% | 98% |  |
 | 44 | 8% | 94% |  |
 | 45 | 13% | 86% |  |
 | 46 | 17% | 73% |  |
 | 47 | 18% | 56% | Median |
-| 48 | 15% | 38% |  |
+| 48 | 15% | 39% |  |
 | 49 | 11% | 23% |  |
 | 50 | 7% | 12% |  |
 | 51 | 3% | 6% |  |
-| 52 | 1.5% | 2% |  |
+| 52 | 2% | 2% |  |
 | 53 | 0.6% | 0.8% |  |
-| 54 | 0.2% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
+| 54 | 0.2% | 0.3% |  |
+| 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |
 
 
