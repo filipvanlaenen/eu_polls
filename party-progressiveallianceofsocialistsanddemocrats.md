@@ -24,7 +24,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 14 | 11–16 | 10–16 | 10–16 | 10–17 |
 | Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | Partido Socialista | PT | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Socialdemokraterne | DK | | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | Lewica | PL | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
@@ -38,7 +38,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partij van de Arbeid | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -58,9 +58,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -73,23 +73,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 131 | 2% | 97% |  |
 | 132 | 3% | 95% |  |
 | 133 | 5% | 91% |  |
-| 134 | 6% | 86% |  |
+| 134 | 6% | 87% |  |
 | 135 | 8% | 80% |  |
-| 136 | 9% | 72% |  |
-| 137 | 10% | 63% |  |
-| 138 | 10% | 53% | Median |
-| 139 | 9% | 43% |  |
-| 140 | 9% | 34% |  |
-| 141 | 7% | 25% |  |
-| 142 | 6% | 18% |  |
-| 143 | 4% | 12% |  |
+| 136 | 9% | 73% |  |
+| 137 | 10% | 64% |  |
+| 138 | 10% | 54% | Median |
+| 139 | 10% | 44% |  |
+| 140 | 9% | 35% |  |
+| 141 | 7% | 26% |  |
+| 142 | 6% | 19% |  |
+| 143 | 4% | 13% |  |
 | 144 | 3% | 8% |  |
 | 145 | 2% | 5% |  |
 | 146 | 1.3% | 3% |  |
 | 147 | 0.8% | 2% | Last Result |
 | 148 | 0.5% | 1.0% |  |
 | 149 | 0.3% | 0.5% |  |
-| 150 | 0.1% | 0.2% |  |
+| 150 | 0.1% | 0.3% |  |
 | 151 | 0.1% | 0.1% |  |
 | 152 | 0% | 0.1% |  |
 | 153 | 0% | 0% |  |
