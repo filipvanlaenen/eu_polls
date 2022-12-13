@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **154** seats (-33 seats)
+Current median: **153** seats (-34 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 148–159 | 147–161 | 145–162 | 143–164 |
+| European People’s Party | EU | 187 | 153 | 148–159 | 147–160 | 145–162 | 143–164 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 19–23 | 18–24 | 17–25 |
 | Partido Popular | ES | | 19 | 17–21 | 17–21 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 14–19 | 14–20 | 14–21 |
@@ -30,7 +30,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Fine Gael | IE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -59,7 +59,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -75,37 +75,37 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 140 | 0% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
 | 142 | 0.2% | 99.8% |  |
-| 143 | 0.4% | 99.7% |  |
+| 143 | 0.4% | 99.6% |  |
 | 144 | 0.7% | 99.3% |  |
 | 145 | 1.2% | 98.6% |  |
 | 146 | 2% | 97% |  |
-| 147 | 3% | 96% |  |
+| 147 | 3% | 95% |  |
 | 148 | 4% | 93% |  |
 | 149 | 5% | 89% |  |
 | 150 | 7% | 83% |  |
-| 151 | 8% | 77% |  |
-| 152 | 9% | 69% |  |
-| 153 | 9% | 60% |  |
-| 154 | 9% | 50% | Median |
-| 155 | 9% | 41% |  |
+| 151 | 8% | 76% |  |
+| 152 | 9% | 68% |  |
+| 153 | 9% | 59% | Median |
+| 154 | 9% | 50% |  |
+| 155 | 9% | 40% |  |
 | 156 | 8% | 32% |  |
 | 157 | 7% | 24% |  |
 | 158 | 5% | 17% |  |
 | 159 | 4% | 12% |  |
 | 160 | 3% | 8% |  |
 | 161 | 2% | 5% |  |
-| 162 | 1.3% | 3% |  |
+| 162 | 1.2% | 3% |  |
 | 163 | 0.8% | 2% |  |
-| 164 | 0.5% | 0.9% |  |
+| 164 | 0.4% | 0.9% |  |
 | 165 | 0.2% | 0.5% |  |
 | 166 | 0.1% | 0.2% |  |
 | 167 | 0.1% | 0.1% |  |
