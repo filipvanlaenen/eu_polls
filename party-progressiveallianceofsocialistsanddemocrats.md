@@ -18,23 +18,23 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 133–143 | 132–145 | 130–146 | 128–149 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 133–143 | 131–145 | 130–146 | 128–149 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–21 | 14–21 | 13–21 |
 | Partidul Social Democrat | RO | | 14 | 11–16 | 10–16 | 10–16 | 10–17 |
 | Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | Partido Socialista | PT | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Socialdemokraterne | DK | | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | Lewica | PL | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Demokratikus Koalíció | HU | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
-| HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -58,9 +58,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-progressiveallianceofsocialistsanddemocrats.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Progressive Alliance of Socialists and Democrats.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Progressive Alliance of Socialists and Democrats.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -68,28 +68,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 126 | 0.1% | 99.9% |  |
 | 127 | 0.2% | 99.9% |  |
 | 128 | 0.4% | 99.7% |  |
-| 129 | 0.7% | 99.3% |  |
-| 130 | 1.3% | 98.5% |  |
+| 129 | 0.8% | 99.3% |  |
+| 130 | 1.3% | 98% |  |
 | 131 | 2% | 97% |  |
 | 132 | 3% | 95% |  |
 | 133 | 5% | 92% |  |
 | 134 | 6% | 87% |  |
 | 135 | 8% | 81% |  |
-| 136 | 9% | 74% |  |
+| 136 | 9% | 73% |  |
 | 137 | 10% | 65% |  |
 | 138 | 10% | 55% | Median |
 | 139 | 10% | 45% |  |
-| 140 | 9% | 36% |  |
+| 140 | 9% | 35% |  |
 | 141 | 7% | 27% |  |
-| 142 | 6% | 20% |  |
-| 143 | 5% | 14% |  |
+| 142 | 6% | 19% |  |
+| 143 | 5% | 13% |  |
 | 144 | 3% | 9% |  |
 | 145 | 2% | 6% |  |
 | 146 | 1.4% | 3% |  |
 | 147 | 0.9% | 2% | Last Result |
 | 148 | 0.5% | 1.1% |  |
 | 149 | 0.3% | 0.6% |  |
-| 150 | 0.2% | 0.3% |  |
+| 150 | 0.1% | 0.3% |  |
 | 151 | 0.1% | 0.1% |  |
 | 152 | 0% | 0.1% |  |
 | 153 | 0% | 0% |  |
