@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (+8 seats)
+Current median: **46** seats (+7 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 47 | 44–49 | 43–50 | 43–51 | 41–52 |
+| European United Left–Nordic Green Left | EU | 39 | 46 | 44–49 | 43–50 | 42–51 | 41–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| Sinn Féin | IE | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| Sinn Féin | IE | | 6 | 6 | 5–7 | 5–8 | 5–8 |
 | Unidos Podemos | ES | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| Die Linke | DE | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -54,20 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0.1% | 100% |  |
-| 41 | 0.5% | 99.9% |  |
-| 42 | 2% | 99.4% |  |
-| 43 | 4% | 98% |  |
-| 44 | 8% | 94% |  |
-| 45 | 14% | 85% |  |
-| 46 | 18% | 72% |  |
-| 47 | 18% | 54% | Median |
-| 48 | 15% | 36% |  |
-| 49 | 10% | 20% |  |
-| 50 | 6% | 10% |  |
-| 51 | 3% | 4% |  |
-| 52 | 1.0% | 1.5% |  |
-| 53 | 0.3% | 0.4% |  |
+| 40 | 0.2% | 100% |  |
+| 41 | 0.7% | 99.8% |  |
+| 42 | 2% | 99.1% |  |
+| 43 | 5% | 97% |  |
+| 44 | 10% | 92% |  |
+| 45 | 15% | 82% |  |
+| 46 | 18% | 67% | Median |
+| 47 | 18% | 49% |  |
+| 48 | 14% | 32% |  |
+| 49 | 9% | 18% |  |
+| 50 | 5% | 8% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.8% | 1.1% |  |
+| 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
