@@ -19,7 +19,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 154 | 149–160 | 147–161 | 146–163 | 143–165 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–24 | 18–25 | 17–25 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 18–23 | 18–23 | 18–24 | 17–25 |
 | Partido Popular | ES | | 19 | 17–21 | 16–22 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 14–19 | 14–20 | 14–21 |
 | Les Républicains | FR | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -33,7 +33,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Fine Gael | IE | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Fine Gael | IE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -84,30 +84,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 0% | 100% |  |
 | 141 | 0.1% | 99.9% |  |
 | 142 | 0.2% | 99.8% |  |
-| 143 | 0.4% | 99.6% |  |
+| 143 | 0.3% | 99.7% |  |
 | 144 | 0.6% | 99.3% |  |
 | 145 | 1.0% | 98.7% |  |
 | 146 | 2% | 98% |  |
 | 147 | 2% | 96% |  |
-| 148 | 3% | 94% |  |
+| 148 | 4% | 94% |  |
 | 149 | 5% | 90% |  |
-| 150 | 6% | 86% |  |
-| 151 | 7% | 80% |  |
-| 152 | 8% | 73% |  |
-| 153 | 9% | 65% |  |
-| 154 | 9% | 56% | Median |
-| 155 | 9% | 47% |  |
-| 156 | 8% | 38% |  |
-| 157 | 7% | 30% |  |
+| 150 | 6% | 85% |  |
+| 151 | 7% | 79% |  |
+| 152 | 8% | 72% |  |
+| 153 | 9% | 64% |  |
+| 154 | 9% | 55% | Median |
+| 155 | 9% | 46% |  |
+| 156 | 8% | 37% |  |
+| 157 | 7% | 29% |  |
 | 158 | 6% | 22% |  |
 | 159 | 5% | 16% |  |
 | 160 | 4% | 11% |  |
 | 161 | 3% | 7% |  |
-| 162 | 2% | 5% |  |
+| 162 | 2% | 4% |  |
 | 163 | 1.2% | 3% |  |
 | 164 | 0.7% | 2% |  |
-| 165 | 0.4% | 0.9% |  |
-| 166 | 0.2% | 0.5% |  |
+| 165 | 0.4% | 0.8% |  |
+| 166 | 0.2% | 0.4% |  |
 | 167 | 0.1% | 0.2% |  |
 | 168 | 0.1% | 0.1% |  |
 | 169 | 0% | 0% |  |

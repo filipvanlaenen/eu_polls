@@ -8,18 +8,18 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **137** seats (-10 seats)
+Current median: **138** seats (-9 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LU, MT, NL, PL, PT, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 132–143 | 131–145 | 130–146 | 127–149 |
-| Sozialdemokratische Partei Deutschlands | DE | | 17 | 16–20 | 16–20 | 16–21 | 15–21 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 132–143 | 131–145 | 130–146 | 127–149 |
+| Sozialdemokratische Partei Deutschlands | DE | | 18 | 16–20 | 16–21 | 15–22 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–21 | 13–21 | 13–21 |
 | Partidul Social Democrat | RO | | 14 | 11–16 | 10–16 | 10–16 | 10–17 |
 | Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
@@ -44,13 +44,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Szocialista Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0–1 | 0–2 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
+| Social Democrats | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -76,12 +76,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 7% | 84% |  |
 | 135 | 8% | 77% |  |
 | 136 | 9% | 69% |  |
-| 137 | 10% | 60% | Median |
-| 138 | 9% | 50% |  |
+| 137 | 9% | 60% |  |
+| 138 | 9% | 51% | Median |
 | 139 | 9% | 41% |  |
 | 140 | 8% | 32% |  |
 | 141 | 7% | 24% |  |
-| 142 | 5% | 17% |  |
+| 142 | 5% | 18% |  |
 | 143 | 4% | 12% |  |
 | 144 | 3% | 8% |  |
 | 145 | 2% | 5% |  |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 148 | 0.5% | 1.1% |  |
 | 149 | 0.3% | 0.6% |  |
 | 150 | 0.2% | 0.3% |  |
-| 151 | 0.1% | 0.1% |  |
+| 151 | 0.1% | 0.2% |  |
 | 152 | 0% | 0.1% |  |
 | 153 | 0% | 0% |  |
 
