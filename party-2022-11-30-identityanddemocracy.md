@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 62 | 59–65 | 58–66 | 57–67 | 56–68 |
+| Identity and Democracy | EU | 76 | 62 | 59–65 | 58–66 | 57–67 | 56–69 |
 | Rassemblement national | FR | | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| Alternative für Deutschland | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| Alternative für Deutschland | DE | | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
 | Lega Nord | IT | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
@@ -41,23 +41,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
-| 56 | 0.7% | 99.8% |  |
-| 57 | 2% | 99.1% |  |
-| 58 | 5% | 97% |  |
-| 59 | 8% | 93% |  |
-| 60 | 13% | 84% |  |
-| 61 | 16% | 71% |  |
-| 62 | 17% | 55% | Median |
-| 63 | 15% | 38% |  |
-| 64 | 11% | 24% |  |
-| 65 | 7% | 13% |  |
-| 66 | 4% | 6% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.7% | 1.1% |  |
-| 69 | 0.3% | 0.4% |  |
-| 70 | 0.1% | 0.1% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.3% | 99.9% |  |
+| 56 | 0.8% | 99.7% |  |
+| 57 | 2% | 98.9% |  |
+| 58 | 4% | 97% |  |
+| 59 | 8% | 92% |  |
+| 60 | 12% | 84% |  |
+| 61 | 15% | 72% |  |
+| 62 | 16% | 57% | Median |
+| 63 | 15% | 41% |  |
+| 64 | 11% | 27% |  |
+| 65 | 7% | 15% |  |
+| 66 | 4% | 8% |  |
+| 67 | 2% | 4% |  |
+| 68 | 0.9% | 1.5% |  |
+| 69 | 0.4% | 0.5% |  |
+| 70 | 0.1% | 0.2% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |

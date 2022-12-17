@@ -27,13 +27,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Nye Borgerlige | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| REPUBLIKA | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -44,9 +44,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -55,22 +55,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0.1% | 100% |  |
 | 33 | 0.2% | 99.9% |  |
-| 34 | 0.5% | 99.7% |  |
-| 35 | 1.2% | 99.2% |  |
+| 34 | 0.6% | 99.7% |  |
+| 35 | 1.3% | 99.1% |  |
 | 36 | 2% | 98% |  |
 | 37 | 3% | 96% |  |
-| 38 | 5% | 93% |  |
-| 39 | 7% | 88% |  |
-| 40 | 9% | 81% |  |
-| 41 | 11% | 72% |  |
-| 42 | 12% | 61% | Median |
-| 43 | 12% | 50% |  |
-| 44 | 11% | 38% |  |
-| 45 | 10% | 27% |  |
-| 46 | 7% | 17% |  |
+| 38 | 5% | 92% |  |
+| 39 | 7% | 87% |  |
+| 40 | 9% | 80% |  |
+| 41 | 11% | 71% |  |
+| 42 | 12% | 60% | Median |
+| 43 | 12% | 49% |  |
+| 44 | 11% | 37% |  |
+| 45 | 10% | 26% |  |
+| 46 | 7% | 16% |  |
 | 47 | 5% | 9% |  |
-| 48 | 3% | 4% |  |
-| 49 | 1.2% | 2% |  |
+| 48 | 2% | 4% |  |
+| 49 | 1.1% | 2% |  |
 | 50 | 0.4% | 0.6% |  |
 | 51 | 0.1% | 0.2% |  |
 | 52 | 0% | 0% |  |
