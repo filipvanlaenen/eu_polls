@@ -21,7 +21,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 98 | 97 | 93–101 | 92–103 | 91–104 | 89–106 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| Azione–Italia Viva | IT | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Freie Demokratische Partei | DE | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Polska 2050 | PL | | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
@@ -34,20 +34,20 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Venstre | DK | | 2 | 2 | 2 | 2 | 2–3 |
+| Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Liberal Alliance | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Partija „Laisvė ir teisingumas“ | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Attīstībai/Par! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -55,7 +55,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -84,14 +84,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 12% | 59% | Median |
 | 98 | 12% | 47% | Last Result |
 | 99 | 11% | 35% |  |
-| 100 | 9% | 25% |  |
+| 100 | 9% | 24% |  |
 | 101 | 6% | 16% |  |
-| 102 | 4% | 10% |  |
-| 103 | 3% | 6% |  |
-| 104 | 1.5% | 3% |  |
-| 105 | 0.8% | 1.4% |  |
-| 106 | 0.4% | 0.6% |  |
-| 107 | 0.2% | 0.3% |  |
+| 102 | 4% | 9% |  |
+| 103 | 3% | 5% |  |
+| 104 | 1.4% | 3% |  |
+| 105 | 0.7% | 1.2% |  |
+| 106 | 0.3% | 0.5% |  |
+| 107 | 0.1% | 0.2% |  |
 | 108 | 0.1% | 0.1% |  |
 | 109 | 0% | 0% |  |
 

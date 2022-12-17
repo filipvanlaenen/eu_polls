@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **63** seats (-13 seats)
+Current median: **62** seats (-14 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,46 +18,46 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 63 | 60–66 | 59–67 | 58–68 | 57–69 |
+| Identity and Democracy | EU | 76 | 62 | 59–65 | 58–66 | 58–67 | 56–69 |
 | Rassemblement national | FR | | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| Alternative für Deutschland | DE | | 14 | 11–15 | 11–16 | 10–16 | 10–17 |
-| Lega Nord | IT | | 7 | 7–9 | 6–9 | 6–9 | 5–10 |
+| Alternative für Deutschland | DE | | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| Lega Nord | IT | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 2–4 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
+| Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Chega | PT | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| Chega | PT | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| SME RODINA | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-11-30-seats-pmf-identityanddemocracy.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Identity and Democracy.
+The following table shows the probability mass function per seat for the [poll average](average-2022-11-30.html) for Identity and Democracy.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
-| 56 | 0.3% | 99.9% |  |
-| 57 | 0.9% | 99.6% |  |
-| 58 | 2% | 98.7% |  |
-| 59 | 5% | 96% |  |
-| 60 | 8% | 92% |  |
-| 61 | 12% | 84% |  |
-| 62 | 14% | 72% |  |
-| 63 | 16% | 58% | Median |
-| 64 | 15% | 42% |  |
-| 65 | 12% | 27% |  |
-| 66 | 8% | 15% |  |
-| 67 | 4% | 7% |  |
-| 68 | 2% | 3% |  |
-| 69 | 0.7% | 1.0% |  |
-| 70 | 0.2% | 0.3% |  |
-| 71 | 0.1% | 0.1% |  |
+| 56 | 0.5% | 99.8% |  |
+| 57 | 2% | 99.3% |  |
+| 58 | 4% | 98% |  |
+| 59 | 7% | 94% |  |
+| 60 | 11% | 87% |  |
+| 61 | 15% | 75% |  |
+| 62 | 16% | 61% | Median |
+| 63 | 15% | 44% |  |
+| 64 | 12% | 29% |  |
+| 65 | 8% | 17% |  |
+| 66 | 5% | 9% |  |
+| 67 | 2% | 4% |  |
+| 68 | 1.0% | 2% |  |
+| 69 | 0.4% | 0.5% |  |
+| 70 | 0.1% | 0.1% |  |
+| 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |

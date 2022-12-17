@@ -18,10 +18,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Moderaterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Moderaterne [DK] (*) | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Alianța pentru Patrie [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -32,6 +32,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
+| Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -62,12 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 19% | 98% |  |
-| 6 | 27% | 79% |  |
-| 7 | 34% | 52% | Median |
-| 8 | 15% | 18% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 5 | 18% | 98% |  |
+| 6 | 26% | 80% |  |
+| 7 | 34% | 53% | Median |
+| 8 | 16% | 19% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.2% | 0.3% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
