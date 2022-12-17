@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (+19 seats)
+Current median: **81** seats (+20 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 76–85 | 74–87 | 73–88 | 71–90 |
+| European Conservatives and Reformists | EU | 61 | 81 | 76–86 | 75–87 | 74–88 | 72–91 |
 | Fratelli d’Italia | IT | | 25 | 23–28 | 22–29 | 22–30 | 20–30 |
 | Zjednoczona Prawica | PL | | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | Vox | ES | | 9 | 7–11 | 6–11 | 6–11 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 5 | 4–9 | 4–9 | 3–9 | 3–10 |
 | Občanská demokratická strana | CZ | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Sverigedemokraterna | SE | | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| Juiste Antwoord 2021 | NL | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Juiste Antwoord 2021 | NL | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -39,7 +39,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 | ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -59,31 +59,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.4% | 99.7% |  |
-| 72 | 0.8% | 99.3% |  |
-| 73 | 2% | 98% |  |
-| 74 | 3% | 97% |  |
-| 75 | 4% | 94% |  |
-| 76 | 6% | 90% |  |
-| 77 | 8% | 84% |  |
-| 78 | 9% | 77% |  |
-| 79 | 10% | 68% |  |
-| 80 | 11% | 57% | Median |
-| 81 | 10% | 47% |  |
-| 82 | 9% | 37% |  |
-| 83 | 8% | 28% |  |
-| 84 | 6% | 20% |  |
-| 85 | 5% | 13% |  |
-| 86 | 3% | 9% |  |
-| 87 | 2% | 5% |  |
-| 88 | 1.4% | 3% |  |
-| 89 | 0.8% | 2% |  |
-| 90 | 0.4% | 0.9% |  |
-| 91 | 0.2% | 0.4% |  |
-| 92 | 0.1% | 0.2% |  |
-| 93 | 0% | 0.1% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0.1% | 99.9% |  |
+| 71 | 0.3% | 99.8% |  |
+| 72 | 0.6% | 99.5% |  |
+| 73 | 1.2% | 98.9% |  |
+| 74 | 2% | 98% |  |
+| 75 | 3% | 96% |  |
+| 76 | 5% | 92% |  |
+| 77 | 7% | 88% |  |
+| 78 | 8% | 81% |  |
+| 79 | 10% | 73% |  |
+| 80 | 10% | 63% |  |
+| 81 | 10% | 53% | Median |
+| 82 | 10% | 42% |  |
+| 83 | 9% | 32% |  |
+| 84 | 7% | 24% |  |
+| 85 | 6% | 17% |  |
+| 86 | 4% | 11% |  |
+| 87 | 3% | 7% |  |
+| 88 | 2% | 4% |  |
+| 89 | 1.1% | 2% |  |
+| 90 | 0.6% | 1.2% |  |
+| 91 | 0.3% | 0.6% |  |
+| 92 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 

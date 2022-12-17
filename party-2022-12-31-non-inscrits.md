@@ -10,9 +10,9 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **42** seats (+13 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> BG, CY, ES, FR, GR, HU, IT, PL, SK
+> BG, CY, ES, FR, GR, HU, IT, LT, PL, SK
 
 ### Confidence Intervals
 
@@ -25,11 +25,11 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 12% | 55% | Median |
 | 43 | 12% | 43% |  |
 | 44 | 11% | 31% |  |
-| 45 | 9% | 21% |  |
+| 45 | 8% | 20% |  |
 | 46 | 6% | 12% |  |
 | 47 | 3% | 6% |  |
 | 48 | 2% | 3% |  |
