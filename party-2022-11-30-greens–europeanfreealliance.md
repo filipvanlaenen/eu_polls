@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **53** seats (-14 seats)
+Current median: **52** seats (-15 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 48–57 | 47–58 | 47–59 | 45–61 |
+| Greens–European Free Alliance | EU | 67 | 52 | 48–57 | 47–58 | 46–59 | 45–61 |
 | Bündnis 90/Die Grünen | DE | | 19 | 16–21 | 15–22 | 15–24 | 15–25 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -35,7 +35,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -48,6 +47,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratepartei Lëtzebuerg | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -64,26 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
+| 43 | 0.1% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
-| 45 | 0.6% | 99.8% |  |
-| 46 | 1.5% | 99.2% |  |
-| 47 | 3% | 98% |  |
-| 48 | 5% | 95% |  |
-| 49 | 7% | 90% |  |
-| 50 | 9% | 82% |  |
-| 51 | 11% | 73% |  |
-| 52 | 12% | 62% |  |
-| 53 | 11% | 50% | Median |
-| 54 | 10% | 39% |  |
-| 55 | 9% | 29% |  |
-| 56 | 7% | 20% |  |
-| 57 | 5% | 13% |  |
-| 58 | 3% | 8% |  |
-| 59 | 2% | 5% |  |
-| 60 | 1.3% | 2% |  |
-| 61 | 0.6% | 1.1% |  |
-| 62 | 0.3% | 0.5% |  |
+| 45 | 0.8% | 99.7% |  |
+| 46 | 2% | 98.9% |  |
+| 47 | 4% | 97% |  |
+| 48 | 6% | 94% |  |
+| 49 | 8% | 88% |  |
+| 50 | 10% | 80% |  |
+| 51 | 11% | 70% |  |
+| 52 | 12% | 59% | Median |
+| 53 | 11% | 48% |  |
+| 54 | 10% | 36% |  |
+| 55 | 8% | 26% |  |
+| 56 | 6% | 18% |  |
+| 57 | 5% | 12% |  |
+| 58 | 3% | 7% |  |
+| 59 | 2% | 4% |  |
+| 60 | 1.1% | 2% |  |
+| 61 | 0.5% | 1.0% |  |
+| 62 | 0.3% | 0.4% |  |
 | 63 | 0.1% | 0.2% |  |
 | 64 | 0% | 0.1% |  |
 | 65 | 0% | 0% |  |
