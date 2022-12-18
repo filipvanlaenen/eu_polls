@@ -53,7 +53,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
@@ -68,29 +68,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 126 | 0.1% | 99.9% |  |
 | 127 | 0.3% | 99.8% |  |
 | 128 | 0.5% | 99.5% |  |
-| 129 | 0.9% | 99.0% |  |
+| 129 | 0.9% | 99.1% |  |
 | 130 | 2% | 98% |  |
 | 131 | 2% | 97% |  |
-| 132 | 4% | 94% |  |
+| 132 | 3% | 94% |  |
 | 133 | 5% | 91% |  |
 | 134 | 6% | 86% |  |
-| 135 | 8% | 79% |  |
+| 135 | 8% | 80% |  |
 | 136 | 9% | 72% |  |
 | 137 | 9% | 63% |  |
-| 138 | 10% | 53% | Median |
+| 138 | 10% | 54% | Median |
 | 139 | 9% | 44% |  |
 | 140 | 8% | 35% |  |
-| 141 | 7% | 26% |  |
+| 141 | 7% | 27% |  |
 | 142 | 6% | 19% |  |
-| 143 | 4% | 13% |  |
+| 143 | 5% | 14% |  |
 | 144 | 3% | 9% |  |
 | 145 | 2% | 6% |  |
-| 146 | 1.4% | 3% |  |
+| 146 | 1.5% | 4% |  |
 | 147 | 0.9% | 2% | Last Result |
-| 148 | 0.5% | 1.1% |  |
+| 148 | 0.5% | 1.2% |  |
 | 149 | 0.3% | 0.6% |  |
 | 150 | 0.2% | 0.3% |  |
-| 151 | 0.1% | 0.1% |  |
+| 151 | 0.1% | 0.2% |  |
 | 152 | 0% | 0.1% |  |
 | 153 | 0% | 0% |  |
 

@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **96** seats (-2 seats)
+Current median: **97** seats (-1 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 92–101 | 91–102 | 90–103 | 88–105 |
+| Renew Europe | EU | 98 | 97 | 92–101 | 91–102 | 90–103 | 88–105 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Azione–Italia Viva | IT | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
@@ -29,7 +29,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -40,7 +40,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -73,25 +73,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
-| 87 | 0.3% | 99.8% |  |
+| 87 | 0.2% | 99.9% |  |
 | 88 | 0.5% | 99.6% |  |
-| 89 | 1.1% | 99.0% |  |
+| 89 | 1.0% | 99.1% |  |
 | 90 | 2% | 98% |  |
 | 91 | 3% | 96% |  |
 | 92 | 5% | 93% |  |
 | 93 | 7% | 88% |  |
-| 94 | 9% | 81% |  |
-| 95 | 11% | 72% |  |
-| 96 | 12% | 61% | Median |
-| 97 | 12% | 50% |  |
-| 98 | 11% | 38% | Last Result |
+| 94 | 9% | 82% |  |
+| 95 | 10% | 73% |  |
+| 96 | 12% | 62% |  |
+| 97 | 12% | 51% | Median |
+| 98 | 11% | 39% | Last Result |
 | 99 | 9% | 28% |  |
 | 100 | 7% | 19% |  |
 | 101 | 5% | 12% |  |
 | 102 | 3% | 7% |  |
 | 103 | 2% | 4% |  |
-| 104 | 1.0% | 2% |  |
-| 105 | 0.5% | 0.9% |  |
+| 104 | 1.1% | 2% |  |
+| 105 | 0.5% | 1.0% |  |
 | 106 | 0.2% | 0.4% |  |
 | 107 | 0.1% | 0.2% |  |
 | 108 | 0% | 0.1% |  |
