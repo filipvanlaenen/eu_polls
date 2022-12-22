@@ -18,16 +18,16 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 48–56 | 46–57 | 45–59 | 44–61 |
-| Bündnis 90/Die Grünen | DE | | 18 | 16–21 | 16–22 | 16–22 | 15–22 |
+| Greens–European Free Alliance | EU | 67 | 52 | 47–56 | 46–58 | 45–59 | 44–61 |
+| Bündnis 90/Die Grünen | DE | | 18 | 15–21 | 15–22 | 15–22 | 14–22 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
+| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Alternativet | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
 | 43 | 0.3% | 99.9% |  |
-| 44 | 0.7% | 99.6% |  |
-| 45 | 1.5% | 98.8% |  |
+| 44 | 0.8% | 99.6% |  |
+| 45 | 2% | 98.9% |  |
 | 46 | 3% | 97% |  |
-| 47 | 5% | 95% |  |
-| 48 | 7% | 90% |  |
-| 49 | 9% | 83% |  |
-| 50 | 11% | 74% |  |
-| 51 | 12% | 63% |  |
-| 52 | 11% | 51% | Median |
+| 47 | 5% | 94% |  |
+| 48 | 7% | 89% |  |
+| 49 | 9% | 82% |  |
+| 50 | 11% | 73% |  |
+| 51 | 12% | 62% |  |
+| 52 | 11% | 50% | Median |
 | 53 | 10% | 39% |  |
-| 54 | 9% | 29% |  |
-| 55 | 7% | 20% |  |
-| 56 | 5% | 13% |  |
-| 57 | 3% | 8% |  |
+| 54 | 8% | 29% |  |
+| 55 | 7% | 21% |  |
+| 56 | 5% | 14% |  |
+| 57 | 4% | 9% |  |
 | 58 | 2% | 5% |  |
-| 59 | 1.3% | 3% |  |
-| 60 | 0.7% | 1.3% |  |
-| 61 | 0.3% | 0.6% |  |
-| 62 | 0.2% | 0.2% |  |
+| 59 | 1.4% | 3% |  |
+| 60 | 0.8% | 2% |  |
+| 61 | 0.4% | 0.7% |  |
+| 62 | 0.2% | 0.3% |  |
 | 63 | 0.1% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
