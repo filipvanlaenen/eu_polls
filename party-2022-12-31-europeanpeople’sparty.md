@@ -19,9 +19,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 155 | 150–161 | 148–163 | 147–164 | 144–167 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 17–24 | 16–24 | 16–25 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–23 | 16–24 | 16–25 |
 | Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
-| Koalicja Obywatelska | PL | | 16 | 15–18 | 14–19 | 14–20 | 14–21 |
+| Koalicja Obywatelska | PL | | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
 | Les Républicains | FR | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Partidul Național Liberal | RO | | 8 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
@@ -34,10 +34,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Fine Gael | IE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
-| Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2–3 |
+| Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -57,7 +57,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -83,32 +83,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 141 | 0% | 100% |  |
 | 142 | 0.1% | 99.9% |  |
-| 143 | 0.2% | 99.8% |  |
+| 143 | 0.1% | 99.9% |  |
 | 144 | 0.3% | 99.7% |  |
 | 145 | 0.5% | 99.4% |  |
-| 146 | 0.9% | 98.8% |  |
+| 146 | 0.9% | 98.9% |  |
 | 147 | 1.4% | 98% |  |
-| 148 | 2% | 96% |  |
-| 149 | 3% | 94% |  |
-| 150 | 4% | 91% |  |
-| 151 | 6% | 87% |  |
-| 152 | 7% | 81% |  |
+| 148 | 2% | 97% |  |
+| 149 | 3% | 95% |  |
+| 150 | 4% | 92% |  |
+| 151 | 5% | 87% |  |
+| 152 | 7% | 82% |  |
 | 153 | 8% | 75% |  |
 | 154 | 9% | 67% |  |
-| 155 | 9% | 58% | Median |
-| 156 | 9% | 49% |  |
-| 157 | 8% | 40% |  |
-| 158 | 8% | 31% |  |
-| 159 | 6% | 24% |  |
-| 160 | 5% | 17% |  |
+| 155 | 9% | 59% | Median |
+| 156 | 9% | 50% |  |
+| 157 | 9% | 41% |  |
+| 158 | 8% | 32% |  |
+| 159 | 7% | 24% |  |
+| 160 | 5% | 18% |  |
 | 161 | 4% | 12% |  |
 | 162 | 3% | 8% |  |
 | 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
-| 165 | 0.8% | 2% |  |
+| 164 | 1.4% | 3% |  |
+| 165 | 0.9% | 2% |  |
 | 166 | 0.5% | 1.1% |  |
 | 167 | 0.3% | 0.6% |  |
-| 168 | 0.1% | 0.3% |  |
+| 168 | 0.2% | 0.3% |  |
 | 169 | 0.1% | 0.1% |  |
 | 170 | 0% | 0.1% |  |
 | 171 | 0% | 0% |  |
