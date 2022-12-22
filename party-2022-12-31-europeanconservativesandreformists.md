@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 4% | 11% |  |
 | 87 | 3% | 7% |  |
 | 88 | 2% | 4% |  |
-| 89 | 1.1% | 2% |  |
+| 89 | 1.0% | 2% |  |
 | 90 | 0.6% | 1.1% |  |
 | 91 | 0.3% | 0.5% |  |
 | 92 | 0.1% | 0.2% |  |
