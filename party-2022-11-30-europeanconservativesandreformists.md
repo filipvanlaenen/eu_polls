@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
