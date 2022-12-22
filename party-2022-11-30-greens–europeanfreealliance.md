@@ -1,14 +1,14 @@
 # Greens–European Free Alliance
 
-Members registered from **22 countries**:
+Members registered from **23 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (-15 seats)
+Current median: **53** seats (-14 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 48–57 | 47–58 | 46–59 | 45–61 |
+| Greens–European Free Alliance | EU | 67 | 53 | 48–57 | 47–58 | 47–59 | 45–62 |
 | Bündnis 90/Die Grünen | DE | | 19 | 16–21 | 15–22 | 15–24 | 15–25 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Česká pirátská strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
@@ -41,6 +41,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -64,25 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.1% | 100% |  |
-| 44 | 0.2% | 99.9% |  |
-| 45 | 0.7% | 99.7% |  |
-| 46 | 2% | 99.0% |  |
-| 47 | 3% | 97% |  |
-| 48 | 5% | 94% |  |
-| 49 | 8% | 89% |  |
-| 50 | 10% | 81% |  |
-| 51 | 11% | 71% |  |
-| 52 | 12% | 61% | Median |
-| 53 | 11% | 49% |  |
-| 54 | 10% | 38% |  |
-| 55 | 8% | 28% |  |
-| 56 | 7% | 19% |  |
+| 44 | 0.2% | 100% |  |
+| 45 | 0.6% | 99.8% |  |
+| 46 | 1.4% | 99.2% |  |
+| 47 | 3% | 98% |  |
+| 48 | 5% | 95% |  |
+| 49 | 7% | 90% |  |
+| 50 | 9% | 83% |  |
+| 51 | 11% | 73% |  |
+| 52 | 12% | 62% |  |
+| 53 | 11% | 51% | Median |
+| 54 | 10% | 39% |  |
+| 55 | 9% | 29% |  |
+| 56 | 7% | 20% |  |
 | 57 | 5% | 13% |  |
-| 58 | 3% | 8% |  |
-| 59 | 2% | 4% |  |
-| 60 | 1.2% | 2% |  |
-| 61 | 0.6% | 1.1% |  |
+| 58 | 4% | 8% |  |
+| 59 | 2% | 5% |  |
+| 60 | 1.3% | 2% |  |
+| 61 | 0.7% | 1.2% |  |
 | 62 | 0.3% | 0.5% |  |
 | 63 | 0.1% | 0.2% |  |
 | 64 | 0% | 0.1% |  |

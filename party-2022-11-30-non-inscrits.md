@@ -18,13 +18,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 42 | 38–46 | 37–47 | 35–48 | 34–49 |
+| Non-Inscrits | EU | 29 | 42 | 38–46 | 37–47 | 36–48 | 34–49 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 13 | 11–14 | 10–14 | 10–15 | 10–15 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Konfederacja | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Възраждане | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -57,7 +57,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.3% | 99.9% |  |
 | 34 | 0.7% | 99.6% |  |
 | 35 | 1.4% | 98.9% |  |
-| 36 | 2% | 97% |  |
+| 36 | 2% | 98% |  |
 | 37 | 4% | 95% |  |
 | 38 | 5% | 92% |  |
 | 39 | 8% | 86% |  |
@@ -65,13 +65,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 11% | 69% |  |
 | 42 | 12% | 58% | Median |
 | 43 | 12% | 47% |  |
-| 44 | 11% | 35% |  |
+| 44 | 12% | 34% |  |
 | 45 | 9% | 23% |  |
-| 46 | 7% | 14% |  |
+| 46 | 7% | 13% |  |
 | 47 | 4% | 7% |  |
 | 48 | 2% | 3% |  |
-| 49 | 0.8% | 1.2% |  |
-| 50 | 0.3% | 0.4% |  |
+| 49 | 0.7% | 1.0% |  |
+| 50 | 0.2% | 0.3% |  |
 | 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0% |  |
 

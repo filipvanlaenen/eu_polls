@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **7** seats (+7 seats)
+Current median: **6** seats (+6 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–8 | 5–9 | 4–10 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partei fir Integral Demokratie [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -64,13 +64,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 16% | 98% |  |
-| 6 | 25% | 82% |  |
-| 7 | 33% | 57% | Median |
-| 8 | 19% | 23% |  |
-| 9 | 4% | 5% |  |
-| 10 | 0.5% | 0.6% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 5 | 21% | 97% |  |
+| 6 | 27% | 77% | Median |
+| 7 | 35% | 50% |  |
+| 8 | 12% | 14% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.2% | 0.2% |  |
+| 11 | 0% | 0% |  |
 
 

@@ -38,7 +38,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0–1 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -63,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 17% | 71% |  |
 | 47 | 18% | 54% | Median |
 | 48 | 15% | 36% |  |
-| 49 | 10% | 22% |  |
+| 49 | 10% | 21% |  |
 | 50 | 6% | 11% |  |
 | 51 | 3% | 5% |  |
 | 52 | 1.3% | 2% |  |
