@@ -43,7 +43,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partei fir Integral Demokratie [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Partidul S.O.S. România [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -65,11 +65,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 1.3% | 100% |  |
 | 5 | 13% | 98.7% |  |
-| 6 | 24% | 86% |  |
-| 7 | 32% | 62% | Median |
-| 8 | 23% | 30% |  |
-| 9 | 7% | 8% |  |
-| 10 | 0.9% | 1.0% |  |
+| 6 | 29% | 85% |  |
+| 7 | 32% | 57% | Median |
+| 8 | 19% | 25% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.7% | 0.8% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
