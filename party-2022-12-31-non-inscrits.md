@@ -18,13 +18,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 43 | 38–46 | 37–47 | 36–48 | 34–50 |
+| Non-Inscrits | EU | 29 | 43 | 38–46 | 37–47 | 36–48 | 34–49 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Konfederacja | PL | | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Възраждане | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Възраждане | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Živi zid | HR | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -53,7 +53,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% | Last Result |
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
-| 32 | 0.1% | 100% |  |
+| 32 | 0% | 100% |  |
 | 33 | 0.2% | 99.9% |  |
 | 34 | 0.4% | 99.8% |  |
 | 35 | 0.9% | 99.3% |  |
@@ -61,18 +61,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 3% | 97% |  |
 | 38 | 5% | 94% |  |
 | 39 | 7% | 89% |  |
-| 40 | 8% | 82% |  |
+| 40 | 9% | 82% |  |
 | 41 | 10% | 74% |  |
-| 42 | 12% | 64% |  |
-| 43 | 13% | 52% | Median |
-| 44 | 13% | 39% |  |
-| 45 | 10% | 26% |  |
-| 46 | 7% | 16% |  |
+| 42 | 12% | 63% |  |
+| 43 | 13% | 51% | Median |
+| 44 | 13% | 38% |  |
+| 45 | 10% | 25% |  |
+| 46 | 7% | 15% |  |
 | 47 | 4% | 8% |  |
 | 48 | 2% | 4% |  |
-| 49 | 1.0% | 2% |  |
-| 50 | 0.4% | 0.5% |  |
-| 51 | 0.1% | 0.2% |  |
+| 49 | 0.9% | 1.4% |  |
+| 50 | 0.3% | 0.5% |  |
+| 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
 
