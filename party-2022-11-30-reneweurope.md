@@ -23,7 +23,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Azione–Italia Viva | IT | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Freie Demokratische Partei | DE | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
-| Polska 2050 | PL | | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
+| Polska 2050 | PL | | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -83,16 +83,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 9% | 80% |  |
 | 95 | 11% | 71% |  |
 | 96 | 12% | 60% | Median |
-| 97 | 12% | 49% |  |
-| 98 | 11% | 37% | Last Result |
+| 97 | 12% | 48% |  |
+| 98 | 10% | 36% | Last Result |
 | 99 | 9% | 26% |  |
-| 100 | 7% | 18% |  |
-| 101 | 5% | 11% |  |
+| 100 | 7% | 17% |  |
+| 101 | 4% | 11% |  |
 | 102 | 3% | 6% |  |
 | 103 | 2% | 3% |  |
 | 104 | 0.9% | 2% |  |
-| 105 | 0.5% | 0.8% |  |
-| 106 | 0.2% | 0.4% |  |
+| 105 | 0.4% | 0.8% |  |
+| 106 | 0.2% | 0.3% |  |
 | 107 | 0.1% | 0.1% |  |
 | 108 | 0% | 0.1% |  |
 | 109 | 0% | 0% |  |
