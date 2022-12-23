@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–145 | 134–147 | 133–148 | 131–150 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–145 | 134–147 | 133–148 | 131–151 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 16–20 | 16–20 | 16–22 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 14–18 | 14–21 | 14–21 | 13–21 |
 | Partidul Social Democrat | RO | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
@@ -53,6 +53,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–1 | 0–2 |
 | Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
@@ -64,32 +65,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0.1% | 100% |  |
+| 128 | 0% | 100% |  |
 | 129 | 0.1% | 99.9% |  |
 | 130 | 0.3% | 99.8% |  |
-| 131 | 0.6% | 99.5% |  |
-| 132 | 1.1% | 98.9% |  |
+| 131 | 0.5% | 99.5% |  |
+| 132 | 1.0% | 99.0% |  |
 | 133 | 2% | 98% |  |
 | 134 | 3% | 96% |  |
 | 135 | 4% | 93% |  |
 | 136 | 6% | 89% |  |
 | 137 | 8% | 83% |  |
-| 138 | 9% | 75% |  |
-| 139 | 10% | 66% |  |
-| 140 | 10% | 56% | Median |
-| 141 | 10% | 46% |  |
+| 138 | 9% | 76% |  |
+| 139 | 10% | 67% |  |
+| 140 | 10% | 57% | Median |
+| 141 | 10% | 47% |  |
 | 142 | 9% | 36% |  |
-| 143 | 8% | 26% |  |
+| 143 | 8% | 27% |  |
 | 144 | 6% | 19% |  |
-| 145 | 4% | 13% |  |
-| 146 | 3% | 8% |  |
+| 145 | 5% | 13% |  |
+| 146 | 3% | 9% |  |
 | 147 | 2% | 5% | Last Result |
-| 148 | 1.3% | 3% |  |
+| 148 | 1.4% | 3% |  |
 | 149 | 0.8% | 2% |  |
-| 150 | 0.5% | 0.9% |  |
-| 151 | 0.2% | 0.5% |  |
+| 150 | 0.5% | 1.0% |  |
+| 151 | 0.3% | 0.5% |  |
 | 152 | 0.1% | 0.2% |  |
 | 153 | 0.1% | 0.1% |  |
-| 154 | 0% | 0% |  |
+| 154 | 0% | 0.1% |  |
+| 155 | 0% | 0% |  |
 
 
