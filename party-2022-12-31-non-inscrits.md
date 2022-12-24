@@ -38,7 +38,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -62,14 +62,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 5% | 94% |  |
 | 39 | 7% | 89% |  |
 | 40 | 9% | 82% |  |
-| 41 | 10% | 74% |  |
+| 41 | 10% | 73% |  |
 | 42 | 12% | 63% |  |
 | 43 | 13% | 51% | Median |
 | 44 | 13% | 38% |  |
 | 45 | 10% | 25% |  |
 | 46 | 7% | 15% |  |
 | 47 | 4% | 8% |  |
-| 48 | 2% | 4% |  |
+| 48 | 2% | 3% |  |
 | 49 | 0.9% | 1.4% |  |
 | 50 | 0.3% | 0.5% |  |
 | 51 | 0.1% | 0.1% |  |

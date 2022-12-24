@@ -27,7 +27,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Lewica | PL | | 5 | 3–6 | 3–7 | 2–7 | 0–8 |
-| Socialdemokraterne | DK | | 5 | 5 | 5 | 4–6 | 4–6 |
+| Socialdemokraterne | DK | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Demokratikus Koalíció | HU | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -87,10 +87,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 4% | 13% |  |
 | 145 | 3% | 9% |  |
 | 146 | 2% | 6% |  |
-| 147 | 1.5% | 3% | Last Result |
+| 147 | 1.5% | 4% | Last Result |
 | 148 | 0.9% | 2% |  |
 | 149 | 0.5% | 1.1% |  |
-| 150 | 0.3% | 0.5% |  |
+| 150 | 0.3% | 0.6% |  |
 | 151 | 0.1% | 0.3% |  |
 | 152 | 0.1% | 0.1% |  |
 | 153 | 0% | 0.1% |  |
