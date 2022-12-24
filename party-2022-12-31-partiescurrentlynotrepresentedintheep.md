@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 3 | 3 | 3 | 3 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -29,7 +29,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,11 +66,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.2% | 100% |  |
-| 5 | 13% | 98.8% |  |
-| 6 | 28% | 86% |  |
-| 7 | 32% | 58% | Median |
-| 8 | 20% | 26% |  |
+| 4 | 0% | 100% |  |
+| 5 | 11% | 100% |  |
+| 6 | 27% | 89% |  |
+| 7 | 33% | 62% | Median |
+| 8 | 21% | 29% |  |
 | 9 | 6% | 7% |  |
 | 10 | 0.9% | 1.0% |  |
 | 11 | 0.1% | 0.1% |  |
