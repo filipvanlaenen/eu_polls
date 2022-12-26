@@ -22,10 +22,10 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Gibanje Svoboda | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Gibanje Svoboda | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–5 | 3–5 | 3–6 | 2–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 3 | 3 | 3 | 2–3 | 2–4 |
@@ -55,6 +55,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
+| Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
@@ -73,27 +74,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.7% |  |
-| 88 | 0.9% | 99.3% |  |
+| 87 | 0.5% | 99.7% |  |
+| 88 | 1.1% | 99.2% |  |
 | 89 | 2% | 98% |  |
-| 90 | 3% | 97% |  |
+| 90 | 3% | 96% |  |
 | 91 | 5% | 93% |  |
-| 92 | 7% | 89% |  |
-| 93 | 9% | 82% |  |
-| 94 | 11% | 72% |  |
-| 95 | 12% | 62% | Median |
-| 96 | 12% | 50% |  |
-| 97 | 11% | 38% |  |
-| 98 | 9% | 27% | Last Result |
-| 99 | 7% | 18% |  |
-| 100 | 5% | 12% |  |
-| 101 | 3% | 7% |  |
-| 102 | 2% | 4% |  |
-| 103 | 1.0% | 2% |  |
-| 104 | 0.5% | 0.8% |  |
-| 105 | 0.2% | 0.4% |  |
+| 92 | 8% | 87% |  |
+| 93 | 10% | 80% |  |
+| 94 | 11% | 70% |  |
+| 95 | 12% | 59% | Median |
+| 96 | 12% | 47% |  |
+| 97 | 10% | 35% |  |
+| 98 | 8% | 25% | Last Result |
+| 99 | 6% | 17% |  |
+| 100 | 4% | 10% |  |
+| 101 | 3% | 6% |  |
+| 102 | 2% | 3% |  |
+| 103 | 0.8% | 2% |  |
+| 104 | 0.4% | 0.7% |  |
+| 105 | 0.2% | 0.3% |  |
 | 106 | 0.1% | 0.1% |  |
-| 107 | 0% | 0.1% |  |
-| 108 | 0% | 0% |  |
+| 107 | 0% | 0% |  |
 
 
