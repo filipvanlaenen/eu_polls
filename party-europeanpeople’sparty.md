@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 150–160 | 148–162 | 147–163 | 145–166 |
+| European People’s Party | EU | 187 | 155 | 150–161 | 148–162 | 147–163 | 145–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–23 | 16–24 | 16–25 |
 | Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
@@ -45,7 +45,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kristdemokraterna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -57,7 +57,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -75,16 +75,16 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2023-01-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2023-01-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 142 | 0.1% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
 | 144 | 0.2% | 99.8% |  |
-| 145 | 0.4% | 99.6% |  |
+| 145 | 0.4% | 99.5% |  |
 | 146 | 0.8% | 99.1% |  |
 | 147 | 1.3% | 98% |  |
 | 148 | 2% | 97% |  |
@@ -92,21 +92,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 4% | 92% |  |
 | 151 | 6% | 87% |  |
 | 152 | 7% | 82% |  |
-| 153 | 8% | 74% |  |
+| 153 | 8% | 75% |  |
 | 154 | 9% | 66% |  |
 | 155 | 10% | 57% | Median |
-| 156 | 9% | 47% |  |
-| 157 | 9% | 37% |  |
+| 156 | 9% | 48% |  |
+| 157 | 9% | 38% |  |
 | 158 | 8% | 29% |  |
-| 159 | 6% | 21% |  |
+| 159 | 6% | 22% |  |
 | 160 | 5% | 15% |  |
 | 161 | 4% | 10% |  |
-| 162 | 2% | 6% |  |
+| 162 | 3% | 7% |  |
 | 163 | 2% | 4% |  |
-| 164 | 1.0% | 2% |  |
-| 165 | 0.6% | 1.2% |  |
-| 166 | 0.3% | 0.7% |  |
-| 167 | 0.2% | 0.3% |  |
+| 164 | 1.1% | 2% |  |
+| 165 | 0.6% | 1.3% |  |
+| 166 | 0.4% | 0.7% |  |
+| 167 | 0.2% | 0.4% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0% | 0.1% |  |
 | 170 | 0% | 0% |  |
