@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 91–99 | 90–100 | 89–102 | 87–104 |
+| Renew Europe | EU | 98 | 95 | 91–100 | 90–101 | 89–102 | 87–104 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -34,6 +34,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -47,7 +48,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -61,38 +61,38 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2023-01-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2023-01-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.5% | 99.7% |  |
-| 88 | 1.1% | 99.1% |  |
+| 87 | 0.4% | 99.7% |  |
+| 88 | 0.9% | 99.3% |  |
 | 89 | 2% | 98% |  |
-| 90 | 4% | 96% |  |
-| 91 | 6% | 92% |  |
-| 92 | 8% | 86% |  |
-| 93 | 10% | 78% |  |
-| 94 | 12% | 68% |  |
-| 95 | 12% | 57% | Median |
-| 96 | 12% | 45% |  |
-| 97 | 10% | 33% |  |
-| 98 | 8% | 23% | Last Result |
-| 99 | 6% | 15% |  |
-| 100 | 4% | 9% |  |
-| 101 | 2% | 5% |  |
-| 102 | 1.3% | 3% |  |
-| 103 | 0.7% | 1.2% |  |
-| 104 | 0.3% | 0.5% |  |
-| 105 | 0.1% | 0.2% |  |
+| 90 | 3% | 97% |  |
+| 91 | 5% | 93% |  |
+| 92 | 7% | 88% |  |
+| 93 | 10% | 81% |  |
+| 94 | 11% | 71% |  |
+| 95 | 12% | 60% | Median |
+| 96 | 12% | 48% |  |
+| 97 | 11% | 36% |  |
+| 98 | 9% | 25% | Last Result |
+| 99 | 7% | 17% |  |
+| 100 | 4% | 10% |  |
+| 101 | 3% | 6% |  |
+| 102 | 2% | 3% |  |
+| 103 | 0.8% | 1.5% |  |
+| 104 | 0.4% | 0.6% |  |
+| 105 | 0.2% | 0.3% |  |
 | 106 | 0.1% | 0.1% |  |
 | 107 | 0% | 0% |  |
 

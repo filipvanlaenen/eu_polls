@@ -33,7 +33,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -70,28 +70,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 0.2% | 99.8% |  |
 | 128 | 0.3% | 99.7% |  |
 | 129 | 0.6% | 99.3% |  |
-| 130 | 1.0% | 98.7% |  |
+| 130 | 1.1% | 98.7% |  |
 | 131 | 2% | 98% |  |
 | 132 | 3% | 96% |  |
 | 133 | 4% | 93% |  |
 | 134 | 5% | 90% |  |
 | 135 | 6% | 85% |  |
-| 136 | 8% | 79% |  |
+| 136 | 8% | 78% |  |
 | 137 | 9% | 71% |  |
-| 138 | 9% | 63% |  |
+| 138 | 9% | 62% |  |
 | 139 | 9% | 53% | Median |
 | 140 | 9% | 44% |  |
 | 141 | 8% | 35% |  |
-| 142 | 7% | 27% |  |
-| 143 | 6% | 20% |  |
-| 144 | 5% | 14% |  |
+| 142 | 7% | 26% |  |
+| 143 | 6% | 19% |  |
+| 144 | 4% | 13% |  |
 | 145 | 3% | 9% |  |
 | 146 | 2% | 6% |  |
 | 147 | 1.5% | 3% | Last Result |
 | 148 | 0.9% | 2% |  |
-| 149 | 0.5% | 1.1% |  |
+| 149 | 0.5% | 1.0% |  |
 | 150 | 0.3% | 0.5% |  |
-| 151 | 0.1% | 0.3% |  |
+| 151 | 0.1% | 0.2% |  |
 | 152 | 0.1% | 0.1% |  |
 | 153 | 0% | 0% |  |
 
