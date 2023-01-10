@@ -18,13 +18,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 43 | 39–47 | 38–48 | 37–48 | 35–50 |
+| Non-Inscrits | EU | 29 | 43 | 39–47 | 38–47 | 37–48 | 35–50 |
 | Movimento 5 Stelle | IT | | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Konfederacja | PL | | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Възраждане | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Възраждане | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -40,13 +40,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2023-01-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2022-12-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2023-01-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2022-12-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -56,24 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0.1% | 100% |  |
 | 34 | 0.3% | 99.9% |  |
-| 35 | 0.6% | 99.6% |  |
-| 36 | 1.2% | 98.9% |  |
+| 35 | 0.7% | 99.5% |  |
+| 36 | 1.3% | 98.8% |  |
 | 37 | 2% | 98% |  |
 | 38 | 4% | 95% |  |
-| 39 | 6% | 92% |  |
-| 40 | 8% | 86% |  |
-| 41 | 9% | 78% |  |
-| 42 | 11% | 69% |  |
-| 43 | 13% | 58% | Median |
-| 44 | 13% | 45% |  |
-| 45 | 12% | 32% |  |
-| 46 | 9% | 20% |  |
-| 47 | 6% | 11% |  |
-| 48 | 3% | 6% |  |
-| 49 | 2% | 2% |  |
-| 50 | 0.6% | 0.9% |  |
-| 51 | 0.2% | 0.3% |  |
-| 52 | 0.1% | 0.1% |  |
+| 39 | 6% | 91% |  |
+| 40 | 8% | 85% |  |
+| 41 | 10% | 77% |  |
+| 42 | 11% | 67% |  |
+| 43 | 13% | 56% | Median |
+| 44 | 13% | 43% |  |
+| 45 | 11% | 30% |  |
+| 46 | 8% | 19% |  |
+| 47 | 5% | 10% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.3% | 2% |  |
+| 50 | 0.5% | 0.7% |  |
+| 51 | 0.2% | 0.2% |  |
+| 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
 
