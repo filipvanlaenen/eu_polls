@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 5–9 | 5–11 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 3 | 3 | 3 | 3 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -42,6 +42,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -70,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 33% | 62% | Median |
 | 8 | 21% | 29% |  |
 | 9 | 7% | 8% |  |
-| 10 | 1.2% | 2% |  |
+| 10 | 1.3% | 2% |  |
 | 11 | 0.3% | 0.5% |  |
 | 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |
