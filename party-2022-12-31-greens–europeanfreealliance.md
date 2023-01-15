@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 49–57 | 48–58 | 47–60 | 46–62 |
+| Greens–European Free Alliance | EU | 67 | 53 | 49–57 | 48–58 | 47–59 | 46–62 |
 | Bündnis 90/Die Grünen | DE | | 18 | 16–20 | 16–22 | 15–22 | 14–22 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -51,7 +51,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,15 +73,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 7% | 93% |  |
 | 50 | 10% | 86% |  |
 | 51 | 12% | 76% |  |
-| 52 | 13% | 64% |  |
-| 53 | 12% | 51% | Median |
-| 54 | 10% | 39% |  |
+| 52 | 13% | 63% |  |
+| 53 | 12% | 50% | Median |
+| 54 | 10% | 38% |  |
 | 55 | 9% | 28% |  |
-| 56 | 7% | 20% |  |
+| 56 | 7% | 19% |  |
 | 57 | 5% | 13% |  |
 | 58 | 3% | 8% |  |
 | 59 | 2% | 5% |  |
-| 60 | 1.2% | 3% |  |
+| 60 | 1.2% | 2% |  |
 | 61 | 0.7% | 1.3% |  |
 | 62 | 0.4% | 0.6% |  |
 | 63 | 0.2% | 0.3% |  |
