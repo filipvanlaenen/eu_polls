@@ -18,20 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 46 | 43–49 | 42–50 | 42–50 | 40–52 |
+| European United Left–Nordic Green Left | EU | 39 | 46 | 43–49 | 42–50 | 42–51 | 40–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| Die Linke | DE | | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -55,20 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% | Last Result |
-| 40 | 0.5% | 99.9% |  |
-| 41 | 1.5% | 99.4% |  |
-| 42 | 4% | 98% |  |
-| 43 | 7% | 94% |  |
-| 44 | 11% | 87% |  |
-| 45 | 16% | 76% |  |
-| 46 | 18% | 60% | Median |
-| 47 | 16% | 43% |  |
-| 48 | 13% | 26% |  |
-| 49 | 8% | 14% |  |
-| 50 | 4% | 6% |  |
-| 51 | 2% | 2% |  |
-| 52 | 0.5% | 0.6% |  |
-| 53 | 0.1% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 40 | 0.4% | 99.9% |  |
+| 41 | 1.3% | 99.4% |  |
+| 42 | 3% | 98% |  |
+| 43 | 7% | 95% |  |
+| 44 | 11% | 88% |  |
+| 45 | 15% | 78% |  |
+| 46 | 17% | 63% | Median |
+| 47 | 16% | 46% |  |
+| 48 | 13% | 29% |  |
+| 49 | 9% | 16% |  |
+| 50 | 5% | 8% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.7% | 1.0% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 
