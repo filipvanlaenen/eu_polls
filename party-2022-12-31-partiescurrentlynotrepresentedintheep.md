@@ -42,9 +42,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā [LV] (*) | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -69,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 12% | 100% |  |
 | 6 | 28% | 88% |  |
 | 7 | 33% | 60% | Median |
-| 8 | 20% | 28% |  |
+| 8 | 20% | 27% |  |
 | 9 | 6% | 8% |  |
 | 10 | 1.1% | 2% |  |
 | 11 | 0.3% | 0.5% |  |
