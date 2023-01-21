@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **81** seats (+20 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CZ, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
+> BE, CZ, DE, ES, GR, HR, IT, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -28,13 +28,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -63,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.1% | 100% |  |
 | 71 | 0.2% | 99.9% |  |
 | 72 | 0.4% | 99.8% |  |
-| 73 | 0.9% | 99.4% |  |
-| 74 | 2% | 98% |  |
+| 73 | 0.8% | 99.4% |  |
+| 74 | 2% | 98.5% |  |
 | 75 | 3% | 97% |  |
 | 76 | 5% | 94% |  |
 | 77 | 7% | 89% |  |
-| 78 | 9% | 82% |  |
-| 79 | 10% | 73% |  |
+| 78 | 9% | 83% |  |
+| 79 | 10% | 74% |  |
 | 80 | 11% | 63% |  |
-| 81 | 11% | 51% | Median |
-| 82 | 10% | 40% |  |
+| 81 | 11% | 52% | Median |
+| 82 | 10% | 41% |  |
 | 83 | 9% | 30% |  |
 | 84 | 7% | 21% |  |
 | 85 | 5% | 14% |  |
@@ -81,8 +81,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 1.4% | 3% |  |
 | 89 | 0.8% | 2% |  |
 | 90 | 0.4% | 0.8% |  |
-| 91 | 0.2% | 0.3% |  |
-| 92 | 0.1% | 0.1% |  |
+| 91 | 0.2% | 0.4% |  |
+| 92 | 0.1% | 0.2% |  |
 | 93 | 0% | 0.1% |  |
 | 94 | 0% | 0% |  |
 

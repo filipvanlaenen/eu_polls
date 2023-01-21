@@ -23,7 +23,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Die Linke | DE | | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
+| Die Linke | DE | | 5 | 4–6 | 3–7 | 3–7 | 3–8 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -31,7 +31,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -55,20 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% | Last Result |
-| 40 | 0.4% | 99.9% |  |
-| 41 | 1.3% | 99.5% |  |
-| 42 | 3% | 98% |  |
-| 43 | 7% | 95% |  |
-| 44 | 11% | 88% |  |
-| 45 | 15% | 77% |  |
-| 46 | 17% | 62% | Median |
-| 47 | 17% | 45% |  |
-| 48 | 13% | 28% |  |
+| 40 | 0.5% | 99.9% |  |
+| 41 | 1.5% | 99.4% |  |
+| 42 | 4% | 98% |  |
+| 43 | 7% | 94% |  |
+| 44 | 11% | 87% |  |
+| 45 | 15% | 76% |  |
+| 46 | 17% | 61% | Median |
+| 47 | 16% | 44% |  |
+| 48 | 12% | 27% |  |
 | 49 | 8% | 15% |  |
 | 50 | 4% | 7% |  |
 | 51 | 2% | 3% |  |
-| 52 | 0.6% | 0.8% |  |
+| 52 | 0.6% | 0.9% |  |
 | 53 | 0.2% | 0.2% |  |
-| 54 | 0% | 0% |  |
+| 54 | 0% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 
