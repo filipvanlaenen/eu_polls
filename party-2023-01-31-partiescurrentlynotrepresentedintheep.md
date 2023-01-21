@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 5–9 | 5–11 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 3 | 3 | 3 | 3 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -48,7 +48,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Partidul Ecologist Român [RO] (*) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Republika [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Български възход [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 33% | 62% | Median |
 | 8 | 21% | 29% |  |
 | 9 | 7% | 8% |  |
-| 10 | 1.3% | 2% |  |
+| 10 | 1.2% | 2% |  |
 | 11 | 0.3% | 0.5% |  |
 | 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |

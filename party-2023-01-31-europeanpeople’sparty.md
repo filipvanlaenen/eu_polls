@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 155 | 150–160 | 148–162 | 147–163 | 145–166 |
+| European People’s Party | EU | 187 | 155 | 150–161 | 149–162 | 147–163 | 145–166 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–24 | 18–24 | 18–24 | 17–25 |
 | Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–22 | 15–23 |
 | Koalicja Obywatelska | PL | | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
@@ -34,11 +34,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -65,7 +65,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Politiskā partija „KPV LV” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
-| Povežimo Slovenijo | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -81,33 +80,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 0.1% | 100% |  |
+| 142 | 0% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
-| 144 | 0.3% | 99.8% |  |
-| 145 | 0.5% | 99.5% |  |
-| 146 | 0.9% | 99.1% |  |
-| 147 | 1.5% | 98% |  |
+| 144 | 0.2% | 99.8% |  |
+| 145 | 0.4% | 99.6% |  |
+| 146 | 0.7% | 99.2% |  |
+| 147 | 1.3% | 98.5% |  |
 | 148 | 2% | 97% |  |
-| 149 | 3% | 94% |  |
-| 150 | 5% | 91% |  |
-| 151 | 6% | 86% |  |
-| 152 | 8% | 80% |  |
-| 153 | 9% | 72% |  |
-| 154 | 9% | 64% |  |
-| 155 | 10% | 54% | Median |
-| 156 | 9% | 45% |  |
-| 157 | 8% | 35% |  |
-| 158 | 7% | 27% |  |
-| 159 | 6% | 20% |  |
-| 160 | 5% | 14% |  |
-| 161 | 3% | 9% |  |
-| 162 | 2% | 6% |  |
-| 163 | 1.5% | 4% |  |
-| 164 | 0.9% | 2% |  |
-| 165 | 0.5% | 1.1% |  |
-| 166 | 0.3% | 0.6% |  |
-| 167 | 0.2% | 0.3% |  |
-| 168 | 0.1% | 0.1% |  |
+| 149 | 3% | 95% |  |
+| 150 | 4% | 92% |  |
+| 151 | 6% | 88% |  |
+| 152 | 7% | 82% |  |
+| 153 | 8% | 75% |  |
+| 154 | 9% | 66% |  |
+| 155 | 10% | 57% | Median |
+| 156 | 9% | 48% |  |
+| 157 | 9% | 38% |  |
+| 158 | 8% | 29% |  |
+| 159 | 6% | 22% |  |
+| 160 | 5% | 15% |  |
+| 161 | 4% | 10% |  |
+| 162 | 3% | 7% |  |
+| 163 | 2% | 4% |  |
+| 164 | 1.1% | 2% |  |
+| 165 | 0.6% | 1.3% |  |
+| 166 | 0.3% | 0.7% |  |
+| 167 | 0.2% | 0.4% |  |
+| 168 | 0.1% | 0.2% |  |
 | 169 | 0% | 0.1% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |

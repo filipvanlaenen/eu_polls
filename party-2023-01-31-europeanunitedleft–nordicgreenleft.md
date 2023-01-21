@@ -22,7 +22,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Die Linke | DE | | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,7 +39,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0–1 |
-| Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -56,20 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% | Last Result |
 | 40 | 0.4% | 99.9% |  |
-| 41 | 1.3% | 99.4% |  |
+| 41 | 1.3% | 99.5% |  |
 | 42 | 3% | 98% |  |
 | 43 | 7% | 95% |  |
 | 44 | 11% | 88% |  |
-| 45 | 15% | 78% |  |
-| 46 | 17% | 63% | Median |
-| 47 | 16% | 46% |  |
-| 48 | 13% | 29% |  |
-| 49 | 9% | 16% |  |
-| 50 | 5% | 8% |  |
+| 45 | 15% | 77% |  |
+| 46 | 17% | 62% | Median |
+| 47 | 17% | 45% |  |
+| 48 | 13% | 28% |  |
+| 49 | 8% | 15% |  |
+| 50 | 4% | 7% |  |
 | 51 | 2% | 3% |  |
-| 52 | 0.7% | 1.0% |  |
-| 53 | 0.2% | 0.3% |  |
-| 54 | 0.1% | 0.1% |  |
-| 55 | 0% | 0% |  |
+| 52 | 0.6% | 0.8% |  |
+| 53 | 0.2% | 0.2% |  |
+| 54 | 0% | 0% |  |
 
 
