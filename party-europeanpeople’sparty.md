@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–160 | 150–162 | 149–163 | 146–165 |
+| European People’s Party | EU | 187 | 156 | 151–160 | 150–161 | 148–163 | 146–165 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | Partido Popular | ES | | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
@@ -36,7 +36,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -52,7 +52,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -78,29 +78,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 144 | 0.1% | 100% |  |
 | 145 | 0.2% | 99.9% |  |
-| 146 | 0.3% | 99.7% |  |
-| 147 | 0.7% | 99.4% |  |
-| 148 | 1.2% | 98.8% |  |
-| 149 | 2% | 98% |  |
-| 150 | 3% | 96% |  |
+| 146 | 0.4% | 99.7% |  |
+| 147 | 0.7% | 99.3% |  |
+| 148 | 1.3% | 98.6% |  |
+| 149 | 2% | 97% |  |
+| 150 | 3% | 95% |  |
 | 151 | 5% | 92% |  |
 | 152 | 7% | 87% |  |
-| 153 | 8% | 81% |  |
-| 154 | 10% | 72% |  |
-| 155 | 11% | 63% |  |
-| 156 | 11% | 52% | Median |
-| 157 | 10% | 41% |  |
-| 158 | 9% | 31% |  |
-| 159 | 7% | 22% |  |
-| 160 | 5% | 15% |  |
-| 161 | 4% | 9% |  |
-| 162 | 2% | 6% |  |
-| 163 | 1.5% | 3% |  |
-| 164 | 0.8% | 2% |  |
-| 165 | 0.4% | 0.8% |  |
-| 166 | 0.2% | 0.4% |  |
+| 153 | 9% | 80% |  |
+| 154 | 10% | 71% |  |
+| 155 | 11% | 61% |  |
+| 156 | 11% | 50% | Median |
+| 157 | 10% | 39% |  |
+| 158 | 9% | 29% |  |
+| 159 | 7% | 21% |  |
+| 160 | 5% | 14% |  |
+| 161 | 4% | 8% |  |
+| 162 | 2% | 5% |  |
+| 163 | 1.3% | 3% |  |
+| 164 | 0.7% | 1.4% |  |
+| 165 | 0.4% | 0.7% |  |
+| 166 | 0.2% | 0.3% |  |
 | 167 | 0.1% | 0.1% |  |
-| 168 | 0% | 0.1% |  |
+| 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
