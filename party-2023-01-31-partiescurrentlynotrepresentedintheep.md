@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+8 seats)
+Current median: **7** seats (+7 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 3 | 3 | 3 | 3 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Danmarksdemokraterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne [DK] (*) | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -37,10 +37,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -62,15 +62,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 11% | 100% |  |
-| 7 | 36% | 89% |  |
-| 8 | 36% | 52% | Median |
-| 9 | 13% | 16% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.4% | 0.8% |  |
-| 12 | 0.2% | 0.3% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 5 | 2% | 100% |  |
+| 6 | 16% | 98% |  |
+| 7 | 38% | 83% | Median |
+| 8 | 33% | 45% |  |
+| 9 | 10% | 11% |  |
+| 10 | 1.2% | 1.4% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **93** seats (-5 seats)
+Current median: **92** seats (-6 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 89–97 | 88–98 | 87–99 | 85–100 |
+| Renew Europe | EU | 98 | 92 | 88–96 | 87–97 | 86–98 | 84–100 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
+| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Polska 2050 | PL | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -55,10 +55,10 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -71,27 +71,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0% | 100% |  |
-| 84 | 0.1% | 99.9% |  |
-| 85 | 0.4% | 99.8% |  |
-| 86 | 1.0% | 99.4% |  |
-| 87 | 2% | 98% |  |
-| 88 | 4% | 96% |  |
-| 89 | 6% | 93% |  |
-| 90 | 9% | 86% |  |
-| 91 | 12% | 77% |  |
-| 92 | 13% | 66% |  |
-| 93 | 13% | 53% | Median |
-| 94 | 12% | 39% |  |
-| 95 | 10% | 27% |  |
-| 96 | 7% | 17% |  |
-| 97 | 5% | 10% |  |
-| 98 | 3% | 5% | Last Result |
-| 99 | 1.5% | 3% |  |
-| 100 | 0.7% | 1.2% |  |
-| 101 | 0.3% | 0.5% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0.1% | 99.9% |  |
+| 84 | 0.4% | 99.8% |  |
+| 85 | 0.9% | 99.5% |  |
+| 86 | 2% | 98.6% |  |
+| 87 | 3% | 97% |  |
+| 88 | 5% | 93% |  |
+| 89 | 8% | 88% |  |
+| 90 | 10% | 80% |  |
+| 91 | 12% | 70% |  |
+| 92 | 13% | 58% | Median |
+| 93 | 12% | 45% |  |
+| 94 | 11% | 33% |  |
+| 95 | 8% | 22% |  |
+| 96 | 6% | 14% |  |
+| 97 | 4% | 8% |  |
+| 98 | 2% | 4% | Last Result |
+| 99 | 1.1% | 2% |  |
+| 100 | 0.5% | 0.8% |  |
+| 101 | 0.2% | 0.3% |  |
+| 102 | 0.1% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 
