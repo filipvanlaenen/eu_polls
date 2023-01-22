@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Juiste Antwoord 2021 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -61,23 +61,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 100% |  |
 | 72 | 0.3% | 99.9% |  |
-| 73 | 0.7% | 99.6% |  |
-| 74 | 2% | 98.9% |  |
-| 75 | 3% | 97% |  |
-| 76 | 6% | 94% |  |
-| 77 | 9% | 88% |  |
-| 78 | 11% | 79% |  |
-| 79 | 13% | 68% |  |
-| 80 | 13% | 55% | Median |
-| 81 | 12% | 42% |  |
-| 82 | 10% | 30% |  |
-| 83 | 8% | 20% |  |
-| 84 | 5% | 13% |  |
-| 85 | 3% | 7% |  |
-| 86 | 2% | 4% |  |
-| 87 | 1.1% | 2% |  |
-| 88 | 0.5% | 0.9% |  |
-| 89 | 0.2% | 0.4% |  |
+| 73 | 0.9% | 99.5% |  |
+| 74 | 2% | 98.6% |  |
+| 75 | 4% | 97% |  |
+| 76 | 6% | 93% |  |
+| 77 | 9% | 87% |  |
+| 78 | 12% | 77% |  |
+| 79 | 13% | 66% |  |
+| 80 | 13% | 53% | Median |
+| 81 | 12% | 40% |  |
+| 82 | 10% | 28% |  |
+| 83 | 7% | 19% |  |
+| 84 | 5% | 11% |  |
+| 85 | 3% | 6% |  |
+| 86 | 2% | 3% |  |
+| 87 | 0.9% | 2% |  |
+| 88 | 0.4% | 0.7% |  |
+| 89 | 0.2% | 0.3% |  |
 | 90 | 0.1% | 0.1% |  |
 | 91 | 0% | 0% |  |
 
