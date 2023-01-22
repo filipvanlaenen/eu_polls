@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–96 | 87–97 | 86–98 | 84–100 |
+| Renew Europe | EU | 98 | 93 | 89–97 | 87–98 | 87–99 | 85–101 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -32,7 +32,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -71,27 +71,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0% | 100% |  |
-| 83 | 0.1% | 99.9% |  |
-| 84 | 0.4% | 99.8% |  |
-| 85 | 0.9% | 99.5% |  |
-| 86 | 2% | 98.6% |  |
-| 87 | 3% | 97% |  |
-| 88 | 5% | 94% |  |
-| 89 | 8% | 88% |  |
-| 90 | 10% | 80% |  |
-| 91 | 12% | 70% |  |
-| 92 | 13% | 58% | Median |
-| 93 | 12% | 45% |  |
-| 94 | 11% | 33% |  |
-| 95 | 8% | 22% |  |
-| 96 | 6% | 14% |  |
-| 97 | 4% | 8% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.1% | 2% |  |
-| 100 | 0.5% | 0.9% |  |
-| 101 | 0.2% | 0.3% |  |
-| 102 | 0.1% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 83 | 0.1% | 100% |  |
+| 84 | 0.2% | 99.9% |  |
+| 85 | 0.6% | 99.6% |  |
+| 86 | 1.4% | 99.0% |  |
+| 87 | 3% | 98% |  |
+| 88 | 5% | 95% |  |
+| 89 | 7% | 90% |  |
+| 90 | 9% | 84% |  |
+| 91 | 11% | 74% |  |
+| 92 | 13% | 63% |  |
+| 93 | 13% | 50% | Median |
+| 94 | 11% | 38% |  |
+| 95 | 9% | 26% |  |
+| 96 | 7% | 17% |  |
+| 97 | 5% | 10% |  |
+| 98 | 3% | 6% | Last Result |
+| 99 | 1.5% | 3% |  |
+| 100 | 0.7% | 1.3% |  |
+| 101 | 0.3% | 0.5% |  |
+| 102 | 0.1% | 0.2% |  |
+| 103 | 0% | 0.1% |  |
+| 104 | 0% | 0% |  |
 
 
