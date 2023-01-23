@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, BG, CY, DK, EE, HR, HU, IE, IT, LU, LV, NL, PL, SI, SK
+> AT, BE, BG, CY, DK, EE, HR, IE, IT, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -40,9 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
-| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -65,10 +63,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 11% | 99.1% |  |
 | 7 | 37% | 88% |  |
 | 8 | 38% | 51% | Median |
-| 9 | 12% | 14% |  |
-| 10 | 1.5% | 2% |  |
+| 9 | 12% | 13% |  |
+| 10 | 1.3% | 1.5% |  |
 | 11 | 0.1% | 0.2% |  |
-| 12 | 0.1% | 0.1% |  |
+| 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 
