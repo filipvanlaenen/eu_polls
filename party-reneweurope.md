@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (-3 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 91–99 | 90–100 | 89–101 | 87–103 |
+| Renew Europe | EU | 98 | 93 | 89–97 | 88–98 | 87–99 | 85–101 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -72,28 +72,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0.1% | 100% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.8% |  |
-| 88 | 1.0% | 99.3% |  |
-| 89 | 2% | 98% |  |
-| 90 | 4% | 96% |  |
-| 91 | 6% | 93% |  |
-| 92 | 8% | 87% |  |
-| 93 | 10% | 78% |  |
-| 94 | 12% | 68% |  |
-| 95 | 13% | 56% | Median |
-| 96 | 12% | 43% |  |
-| 97 | 10% | 32% |  |
-| 98 | 8% | 21% | Last Result |
-| 99 | 6% | 13% |  |
-| 100 | 4% | 8% |  |
-| 101 | 2% | 4% |  |
-| 102 | 1.2% | 2% |  |
-| 103 | 0.6% | 1.0% |  |
-| 104 | 0.3% | 0.4% |  |
-| 105 | 0.1% | 0.2% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 83 | 0.1% | 100% |  |
+| 84 | 0.2% | 99.9% |  |
+| 85 | 0.4% | 99.8% |  |
+| 86 | 1.0% | 99.3% |  |
+| 87 | 2% | 98% |  |
+| 88 | 4% | 96% |  |
+| 89 | 6% | 93% |  |
+| 90 | 8% | 87% |  |
+| 91 | 10% | 79% |  |
+| 92 | 12% | 68% |  |
+| 93 | 13% | 56% | Median |
+| 94 | 12% | 44% |  |
+| 95 | 10% | 32% |  |
+| 96 | 8% | 22% |  |
+| 97 | 6% | 14% |  |
+| 98 | 4% | 8% | Last Result |
+| 99 | 2% | 4% |  |
+| 100 | 1.2% | 2% |  |
+| 101 | 0.6% | 1.0% |  |
+| 102 | 0.3% | 0.4% |  |
+| 103 | 0.1% | 0.2% |  |
+| 104 | 0% | 0.1% |  |
+| 105 | 0% | 0% |  |
 
 
