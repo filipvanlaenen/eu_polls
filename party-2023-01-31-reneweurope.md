@@ -8,17 +8,17 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **95** seats (-3 seats)
 
-At least one member in **22 countries** have a median of 1 seat or more:
+At least one member in **23 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–96 | 87–97 | 86–98 | 84–100 |
+| Renew Europe | EU | 98 | 95 | 91–99 | 90–100 | 89–101 | 87–103 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -48,6 +48,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Momentum Mozgalom | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Attīstībai/Par! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -71,28 +72,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 82 | 0.1% | 100% |  |
-| 83 | 0.2% | 99.9% |  |
-| 84 | 0.4% | 99.8% |  |
-| 85 | 1.0% | 99.3% |  |
-| 86 | 2% | 98% |  |
-| 87 | 4% | 96% |  |
-| 88 | 6% | 92% |  |
-| 89 | 8% | 87% |  |
-| 90 | 11% | 78% |  |
-| 91 | 12% | 68% |  |
-| 92 | 13% | 56% | Median |
-| 93 | 12% | 43% |  |
-| 94 | 10% | 31% |  |
-| 95 | 8% | 21% |  |
-| 96 | 6% | 13% |  |
-| 97 | 4% | 8% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.1% | 2% |  |
-| 100 | 0.6% | 1.0% |  |
-| 101 | 0.3% | 0.4% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.4% | 99.8% |  |
+| 88 | 1.0% | 99.3% |  |
+| 89 | 2% | 98% |  |
+| 90 | 4% | 96% |  |
+| 91 | 6% | 93% |  |
+| 92 | 8% | 87% |  |
+| 93 | 10% | 78% |  |
+| 94 | 12% | 68% |  |
+| 95 | 13% | 56% | Median |
+| 96 | 12% | 43% |  |
+| 97 | 10% | 32% |  |
+| 98 | 8% | 21% | Last Result |
+| 99 | 6% | 13% |  |
+| 100 | 4% | 8% |  |
+| 101 | 2% | 4% |  |
+| 102 | 1.2% | 2% |  |
+| 103 | 0.6% | 1.0% |  |
+| 104 | 0.3% | 0.4% |  |
+| 105 | 0.1% | 0.2% |  |
+| 106 | 0% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 
