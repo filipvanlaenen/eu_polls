@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 46 | 44–49 | 43–50 | 42–51 | 41–52 |
+| European United Left–Nordic Green Left | EU | 39 | 46 | 44–49 | 43–50 | 42–50 | 41–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -27,7 +27,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -59,14 +59,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0.9% | 99.7% |  |
 | 42 | 3% | 98.8% |  |
 | 43 | 6% | 96% |  |
-| 44 | 10% | 91% |  |
+| 44 | 11% | 90% |  |
 | 45 | 15% | 80% |  |
-| 46 | 18% | 65% | Median |
-| 47 | 18% | 47% |  |
+| 46 | 18% | 64% | Median |
+| 47 | 17% | 46% |  |
 | 48 | 14% | 29% |  |
-| 49 | 9% | 16% |  |
+| 49 | 8% | 15% |  |
 | 50 | 4% | 7% |  |
-| 51 | 2% | 3% |  |
+| 51 | 2% | 2% |  |
 | 52 | 0.6% | 0.8% |  |
 | 53 | 0.2% | 0.2% |  |
 | 54 | 0% | 0% |  |
