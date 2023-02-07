@@ -23,9 +23,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Възраждане | BG | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Latvija pirmajā vietā | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1–2 |
