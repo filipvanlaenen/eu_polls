@@ -25,7 +25,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Възраждане | BG | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Latvija pirmajā vietā | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1–2 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 100% |  |
 | 41 | 0.4% | 99.8% |  |
-| 42 | 1.1% | 99.4% |  |
+| 42 | 1.1% | 99.5% |  |
 | 43 | 3% | 98% |  |
 | 44 | 5% | 96% |  |
 | 45 | 7% | 91% |  |
@@ -76,10 +76,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 10% | 76% |  |
 | 48 | 13% | 66% |  |
 | 49 | 15% | 53% | Median |
-| 50 | 15% | 38% |  |
+| 50 | 15% | 39% |  |
 | 51 | 11% | 24% |  |
-| 52 | 7% | 12% |  |
-| 53 | 3% | 5% |  |
+| 52 | 7% | 13% |  |
+| 53 | 4% | 5% |  |
 | 54 | 1.3% | 2% |  |
 | 55 | 0.4% | 0.5% |  |
 | 56 | 0.1% | 0.1% |  |

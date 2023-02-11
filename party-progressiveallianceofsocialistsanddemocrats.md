@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **135** seats (-12 seats)
+Current median: **134** seats (-13 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 131–139 | 129–140 | 128–141 | 126–143 |
-| Sozialdemokratische Partei Deutschlands | DE | | 19 | 18–21 | 18–22 | 18–22 | 17–23 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 129–138 | 128–139 | 126–140 | 124–142 |
+| Sozialdemokratische Partei Deutschlands | DE | | 19 | 18–21 | 18–22 | 17–23 | 17–23 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
 | Partidul Social Democrat | RO | | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
-| Partido Socialista | PT | | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Lewica | PL | | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Socialdemokraterne | DK | | 5 | 5 | 4–5 | 4–6 | 4–6 |
@@ -43,7 +43,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Social Democrats | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -63,29 +63,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 123 | 0% | 100% |  |
-| 124 | 0.1% | 99.9% |  |
-| 125 | 0.3% | 99.8% |  |
-| 126 | 0.5% | 99.6% |  |
-| 127 | 1.0% | 99.0% |  |
-| 128 | 2% | 98% |  |
-| 129 | 3% | 96% |  |
-| 130 | 4% | 94% |  |
-| 131 | 5% | 90% |  |
-| 132 | 7% | 85% |  |
-| 133 | 9% | 77% |  |
-| 134 | 11% | 68% |  |
-| 135 | 12% | 57% | Median |
-| 136 | 12% | 45% |  |
-| 137 | 10% | 33% |  |
-| 138 | 8% | 23% |  |
-| 139 | 6% | 14% |  |
-| 140 | 4% | 8% |  |
-| 141 | 2% | 4% |  |
-| 142 | 1.2% | 2% |  |
-| 143 | 0.5% | 0.9% |  |
-| 144 | 0.2% | 0.3% |  |
-| 145 | 0.1% | 0.1% |  |
+| 122 | 0.1% | 100% |  |
+| 123 | 0.2% | 99.9% |  |
+| 124 | 0.4% | 99.7% |  |
+| 125 | 0.7% | 99.3% |  |
+| 126 | 1.3% | 98.6% |  |
+| 127 | 2% | 97% |  |
+| 128 | 3% | 95% |  |
+| 129 | 5% | 92% |  |
+| 130 | 6% | 87% |  |
+| 131 | 8% | 81% |  |
+| 132 | 10% | 73% |  |
+| 133 | 11% | 63% |  |
+| 134 | 12% | 51% | Median |
+| 135 | 11% | 40% |  |
+| 136 | 9% | 29% |  |
+| 137 | 7% | 19% |  |
+| 138 | 5% | 12% |  |
+| 139 | 3% | 7% |  |
+| 140 | 2% | 4% |  |
+| 141 | 1.0% | 2% |  |
+| 142 | 0.5% | 0.8% |  |
+| 143 | 0.2% | 0.3% |  |
+| 144 | 0.1% | 0.1% |  |
+| 145 | 0% | 0% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |
 
