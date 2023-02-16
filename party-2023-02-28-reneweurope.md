@@ -26,7 +26,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–8 | 4–8 | 3–9 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Gibanje Svoboda | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -55,7 +55,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -79,20 +78,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 2% | 98% |  |
 | 90 | 3% | 96% |  |
 | 91 | 5% | 93% |  |
-| 92 | 7% | 89% |  |
-| 93 | 8% | 82% |  |
-| 94 | 10% | 74% |  |
-| 95 | 11% | 64% |  |
-| 96 | 11% | 53% | Median |
-| 97 | 10% | 42% |  |
+| 92 | 7% | 88% |  |
+| 93 | 9% | 82% |  |
+| 94 | 10% | 73% |  |
+| 95 | 11% | 63% |  |
+| 96 | 11% | 52% | Median |
+| 97 | 10% | 41% |  |
 | 98 | 9% | 31% | Last Result |
 | 99 | 7% | 22% |  |
-| 100 | 6% | 15% |  |
+| 100 | 5% | 14% |  |
 | 101 | 4% | 9% |  |
 | 102 | 2% | 5% |  |
 | 103 | 1.4% | 3% |  |
-| 104 | 0.8% | 1.5% |  |
-| 105 | 0.4% | 0.7% |  |
+| 104 | 0.7% | 1.4% |  |
+| 105 | 0.4% | 0.6% |  |
 | 106 | 0.2% | 0.3% |  |
 | 107 | 0.1% | 0.1% |  |
 | 108 | 0% | 0% |  |
