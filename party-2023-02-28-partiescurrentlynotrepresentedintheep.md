@@ -27,7 +27,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
-| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,10 +52,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.8% | 100% |  |
-| 3 | 30% | 99.2% |  |
-| 4 | 50% | 69% | Median |
-| 5 | 19% | 20% |  |
-| 6 | 0.6% | 0.7% |  |
+| 3 | 29% | 99.2% |  |
+| 4 | 49% | 70% | Median |
+| 5 | 20% | 21% |  |
+| 6 | 0.9% | 1.1% |  |
 | 7 | 0.1% | 0.2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

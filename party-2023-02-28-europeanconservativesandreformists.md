@@ -26,7 +26,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Juiste Antwoord 2021 | NL | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,12 +61,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0.1% | 100% |  |
-| 73 | 0.4% | 99.9% |  |
-| 74 | 1.1% | 99.5% |  |
+| 73 | 0.4% | 99.8% |  |
+| 74 | 1.1% | 99.4% |  |
 | 75 | 3% | 98% |  |
 | 76 | 5% | 96% |  |
 | 77 | 8% | 91% |  |
-| 78 | 12% | 83% |  |
+| 78 | 12% | 82% |  |
 | 79 | 14% | 71% |  |
 | 80 | 15% | 57% | Median |
 | 81 | 13% | 42% |  |
