@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, CY, DK, EE, HR, IE, IT, LU, LV, NL, PL, SI, SK
+> AT, BE, CY, DK, EE, HR, IE, IT, LT, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -34,9 +34,12 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Jaunoji Lietuva [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Krikščionių sąjunga [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | MFG–Österreich Menschen–Freiheit–Grundrechte [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |

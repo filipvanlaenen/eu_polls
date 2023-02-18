@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–101 | 90–102 | 89–103 | 87–105 |
+| Renew Europe | EU | 98 | 96 | 92–101 | 91–102 | 89–103 | 87–106 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -44,7 +44,8 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Momentum Mozgalom | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -55,9 +56,8 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,30 +71,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0.1% | 100% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.7% |  |
-| 88 | 0.9% | 99.3% |  |
-| 89 | 2% | 98% |  |
-| 90 | 3% | 97% |  |
-| 91 | 4% | 94% |  |
-| 92 | 6% | 90% |  |
-| 93 | 8% | 84% |  |
-| 94 | 10% | 76% |  |
-| 95 | 11% | 66% |  |
-| 96 | 11% | 55% | Median |
-| 97 | 11% | 44% |  |
-| 98 | 9% | 34% | Last Result |
-| 99 | 8% | 24% |  |
-| 100 | 6% | 17% |  |
-| 101 | 4% | 11% |  |
-| 102 | 3% | 6% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.3% | 99.8% |  |
+| 88 | 0.7% | 99.5% |  |
+| 89 | 1.4% | 98.8% |  |
+| 90 | 2% | 97% |  |
+| 91 | 4% | 95% |  |
+| 92 | 5% | 91% |  |
+| 93 | 7% | 86% |  |
+| 94 | 9% | 79% |  |
+| 95 | 10% | 70% |  |
+| 96 | 11% | 59% | Median |
+| 97 | 11% | 48% |  |
+| 98 | 10% | 38% | Last Result |
+| 99 | 8% | 28% |  |
+| 100 | 7% | 19% |  |
+| 101 | 5% | 13% |  |
+| 102 | 3% | 8% |  |
 | 103 | 2% | 4% |  |
-| 104 | 0.9% | 2% |  |
-| 105 | 0.5% | 0.9% |  |
-| 106 | 0.2% | 0.4% |  |
+| 104 | 1.2% | 2% |  |
+| 105 | 0.6% | 1.2% |  |
+| 106 | 0.3% | 0.5% |  |
 | 107 | 0.1% | 0.2% |  |
-| 108 | 0% | 0.1% |  |
+| 108 | 0.1% | 0.1% |  |
 | 109 | 0% | 0% |  |
 
 
