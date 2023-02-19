@@ -28,7 +28,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -40,7 +40,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -82,17 +82,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 7% | 86% |  |
 | 94 | 9% | 79% |  |
 | 95 | 10% | 70% |  |
-| 96 | 11% | 59% | Median |
-| 97 | 11% | 48% |  |
+| 96 | 11% | 60% | Median |
+| 97 | 11% | 49% |  |
 | 98 | 10% | 38% | Last Result |
 | 99 | 8% | 28% |  |
-| 100 | 7% | 19% |  |
+| 100 | 7% | 20% |  |
 | 101 | 5% | 13% |  |
 | 102 | 3% | 8% |  |
-| 103 | 2% | 4% |  |
+| 103 | 2% | 5% |  |
 | 104 | 1.2% | 2% |  |
-| 105 | 0.6% | 1.2% |  |
-| 106 | 0.3% | 0.5% |  |
+| 105 | 0.7% | 1.2% |  |
+| 106 | 0.3% | 0.6% |  |
 | 107 | 0.1% | 0.2% |  |
 | 108 | 0.1% | 0.1% |  |
 | 109 | 0% | 0% |  |
