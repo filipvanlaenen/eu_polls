@@ -40,7 +40,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |

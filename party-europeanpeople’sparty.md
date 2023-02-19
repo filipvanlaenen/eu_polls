@@ -56,7 +56,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Centre démocrate humaniste | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -85,19 +85,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 4% | 95% |  |
 | 146 | 5% | 91% |  |
 | 147 | 7% | 86% |  |
-| 148 | 9% | 79% |  |
-| 149 | 10% | 70% |  |
+| 148 | 8% | 79% |  |
+| 149 | 10% | 71% |  |
 | 150 | 10% | 61% |  |
 | 151 | 10% | 50% | Median |
 | 152 | 10% | 40% |  |
 | 153 | 8% | 30% |  |
-| 154 | 7% | 21% |  |
+| 154 | 7% | 22% |  |
 | 155 | 5% | 15% |  |
-| 156 | 4% | 9% |  |
+| 156 | 4% | 10% |  |
 | 157 | 2% | 6% |  |
 | 158 | 2% | 3% |  |
 | 159 | 0.9% | 2% |  |
-| 160 | 0.5% | 1.0% |  |
+| 160 | 0.5% | 1.1% |  |
 | 161 | 0.3% | 0.6% |  |
 | 162 | 0.1% | 0.3% |  |
 | 163 | 0.1% | 0.1% |  |
