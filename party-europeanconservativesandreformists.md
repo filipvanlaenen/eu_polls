@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (+19 seats)
+Current median: **79** seats (+18 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 77–84 | 76–85 | 75–85 | 73–87 |
+| European Conservatives and Reformists | EU | 61 | 79 | 76–83 | 75–84 | 74–85 | 73–86 |
 | Fratelli d’Italia | IT | | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
 | Zjednoczona Prawica | PL | | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | Vox | ES | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Juiste Antwoord 2021 | NL | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Juiste Antwoord 2021 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,7 +39,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -60,25 +60,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
-| 71 | 0% | 100% |  |
-| 72 | 0.1% | 100% |  |
-| 73 | 0.4% | 99.9% |  |
-| 74 | 1.0% | 99.5% |  |
-| 75 | 2% | 98% |  |
-| 76 | 5% | 96% |  |
-| 77 | 8% | 91% |  |
-| 78 | 11% | 83% |  |
-| 79 | 14% | 72% |  |
-| 80 | 15% | 58% | Median |
-| 81 | 14% | 43% |  |
-| 82 | 11% | 30% |  |
-| 83 | 8% | 19% |  |
-| 84 | 5% | 11% |  |
-| 85 | 3% | 5% |  |
-| 86 | 1.5% | 2% |  |
-| 87 | 0.6% | 0.9% |  |
-| 88 | 0.2% | 0.3% |  |
-| 89 | 0.1% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.3% | 99.9% |  |
+| 73 | 0.9% | 99.6% |  |
+| 74 | 2% | 98.7% |  |
+| 75 | 4% | 97% |  |
+| 76 | 7% | 92% |  |
+| 77 | 11% | 85% |  |
+| 78 | 13% | 74% |  |
+| 79 | 15% | 61% | Median |
+| 80 | 14% | 46% |  |
+| 81 | 12% | 33% |  |
+| 82 | 9% | 21% |  |
+| 83 | 6% | 12% |  |
+| 84 | 3% | 6% |  |
+| 85 | 2% | 3% |  |
+| 86 | 0.8% | 1.2% |  |
+| 87 | 0.3% | 0.4% |  |
+| 88 | 0.1% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 
