@@ -23,13 +23,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Socialista Obrero Español | ES | | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | Partito Democratico | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
 | Partidul Social Democrat | RO | | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Socialista | PT | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Lewica | PL | | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Socialdemokraterne | DK | | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| Sozialdemokratische Partei Österreichs | AT | | 5 | 5 | 4–6 | 4–6 | 4–6 |
-| Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Partit Laburista | MT | | 4 | 4 | 4 | 4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–4 |
@@ -64,9 +64,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 122 | 0.1% | 100% |  |
-| 123 | 0.2% | 99.9% |  |
-| 124 | 0.3% | 99.7% |  |
-| 125 | 0.6% | 99.4% |  |
+| 123 | 0.1% | 99.9% |  |
+| 124 | 0.3% | 99.8% |  |
+| 125 | 0.6% | 99.5% |  |
 | 126 | 1.0% | 98.9% |  |
 | 127 | 2% | 98% |  |
 | 128 | 3% | 96% |  |
@@ -84,8 +84,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 3% | 7% |  |
 | 141 | 2% | 4% |  |
 | 142 | 1.1% | 2% |  |
-| 143 | 0.6% | 1.0% |  |
-| 144 | 0.3% | 0.4% |  |
+| 143 | 0.5% | 1.0% |  |
+| 144 | 0.2% | 0.4% |  |
 | 145 | 0.1% | 0.2% |  |
 | 146 | 0% | 0.1% |  |
 | 147 | 0% | 0% | Last Result |

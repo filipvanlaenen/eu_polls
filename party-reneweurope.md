@@ -37,7 +37,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -73,15 +73,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 86 | 0% | 100% |  |
 | 87 | 0.1% | 99.9% |  |
-| 88 | 0.4% | 99.8% |  |
+| 88 | 0.3% | 99.8% |  |
 | 89 | 0.8% | 99.5% |  |
-| 90 | 2% | 98.6% |  |
+| 90 | 2% | 98.7% |  |
 | 91 | 3% | 97% |  |
 | 92 | 5% | 94% |  |
 | 93 | 7% | 90% |  |
 | 94 | 9% | 83% |  |
 | 95 | 11% | 74% |  |
-| 96 | 12% | 63% |  |
+| 96 | 12% | 64% |  |
 | 97 | 12% | 52% | Median |
 | 98 | 11% | 40% | Last Result |
 | 99 | 9% | 29% |  |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 3% | 7% |  |
 | 103 | 2% | 4% |  |
 | 104 | 1.1% | 2% |  |
-| 105 | 0.6% | 1.0% |  |
+| 105 | 0.5% | 1.0% |  |
 | 106 | 0.3% | 0.4% |  |
 | 107 | 0.1% | 0.2% |  |
 | 108 | 0% | 0.1% |  |

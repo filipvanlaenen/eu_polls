@@ -31,15 +31,15 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
-| Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
@@ -82,25 +82,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 1.0% | 99.0% |  |
 | 144 | 2% | 98% |  |
 | 145 | 3% | 96% |  |
-| 146 | 4% | 94% |  |
+| 146 | 4% | 93% |  |
 | 147 | 6% | 89% |  |
 | 148 | 7% | 84% |  |
-| 149 | 9% | 77% |  |
+| 149 | 9% | 76% |  |
 | 150 | 10% | 68% |  |
-| 151 | 10% | 59% | Median |
+| 151 | 10% | 58% | Median |
 | 152 | 10% | 48% |  |
-| 153 | 9% | 39% |  |
+| 153 | 9% | 38% |  |
 | 154 | 8% | 29% |  |
 | 155 | 7% | 21% |  |
-| 156 | 5% | 15% |  |
-| 157 | 4% | 10% |  |
+| 156 | 5% | 14% |  |
+| 157 | 4% | 9% |  |
 | 158 | 2% | 6% |  |
-| 159 | 2% | 3% |  |
+| 159 | 1.5% | 3% |  |
 | 160 | 0.9% | 2% |  |
-| 161 | 0.5% | 1.0% |  |
-| 162 | 0.3% | 0.5% |  |
+| 161 | 0.5% | 0.9% |  |
+| 162 | 0.2% | 0.4% |  |
 | 163 | 0.1% | 0.2% |  |
-| 164 | 0.1% | 0.1% |  |
+| 164 | 0% | 0.1% |  |
 | 165 | 0% | 0% |  |
 | 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
