@@ -10,9 +10,9 @@ Last result: **147** seats (General Election of 26 May 2019)
 
 Current median: **134** seats (-13 seats)
 
-At least one member in **24 countries** have a median of 1 seat or more:
+At least one member in **23 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -44,12 +44,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,23 +64,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 122 | 0.1% | 100% |  |
-| 123 | 0.1% | 99.9% |  |
-| 124 | 0.3% | 99.8% |  |
+| 123 | 0.2% | 99.9% |  |
+| 124 | 0.3% | 99.7% |  |
 | 125 | 0.6% | 99.4% |  |
-| 126 | 1.0% | 98.9% |  |
+| 126 | 1.0% | 98.8% |  |
 | 127 | 2% | 98% |  |
 | 128 | 3% | 96% |  |
-| 129 | 4% | 94% |  |
+| 129 | 4% | 93% |  |
 | 130 | 5% | 90% |  |
-| 131 | 7% | 85% |  |
-| 132 | 9% | 78% |  |
-| 133 | 10% | 69% |  |
-| 134 | 11% | 59% | Median |
-| 135 | 11% | 48% |  |
-| 136 | 10% | 37% |  |
-| 137 | 9% | 27% |  |
+| 131 | 7% | 84% |  |
+| 132 | 9% | 77% |  |
+| 133 | 10% | 68% |  |
+| 134 | 11% | 58% | Median |
+| 135 | 11% | 47% |  |
+| 136 | 10% | 36% |  |
+| 137 | 8% | 26% |  |
 | 138 | 7% | 18% |  |
-| 139 | 5% | 12% |  |
+| 139 | 5% | 11% |  |
 | 140 | 3% | 7% |  |
 | 141 | 2% | 4% |  |
 | 142 | 1.0% | 2% |  |
