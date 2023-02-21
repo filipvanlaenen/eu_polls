@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 45–52 | 44–53 | 43–53 | 42–55 |
+| Non-Inscrits | EU | 29 | 49 | 45–52 | 44–53 | 43–53 | 42–54 |
 | Movimento 5 Stelle | IT | | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
@@ -35,7 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Italia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -68,21 +68,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
-| 42 | 0.9% | 99.6% |  |
-| 43 | 2% | 98.7% |  |
+| 42 | 1.0% | 99.5% |  |
+| 43 | 2% | 98.5% |  |
 | 44 | 4% | 96% |  |
-| 45 | 6% | 92% |  |
-| 46 | 8% | 86% |  |
-| 47 | 10% | 78% |  |
-| 48 | 12% | 69% |  |
-| 49 | 14% | 56% | Median |
-| 50 | 15% | 42% |  |
-| 51 | 12% | 27% |  |
-| 52 | 8% | 15% |  |
-| 53 | 4% | 7% |  |
-| 54 | 2% | 2% |  |
-| 55 | 0.5% | 0.7% |  |
-| 56 | 0.1% | 0.2% |  |
+| 45 | 7% | 92% |  |
+| 46 | 8% | 85% |  |
+| 47 | 10% | 77% |  |
+| 48 | 13% | 67% |  |
+| 49 | 15% | 54% | Median |
+| 50 | 15% | 39% |  |
+| 51 | 12% | 24% |  |
+| 52 | 7% | 12% |  |
+| 53 | 3% | 5% |  |
+| 54 | 1.3% | 2% |  |
+| 55 | 0.4% | 0.5% |  |
+| 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
 

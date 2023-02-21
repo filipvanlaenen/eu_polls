@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **97** seats (-1 seats)
+Current median: **98** seats (0 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 93–101 | 91–102 | 90–103 | 89–105 |
+| Renew Europe | EU | 98 | 98 | 94–102 | 93–103 | 92–104 | 90–106 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| Azione–Italia Viva | IT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| Azione–Italia Viva | IT | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Alianța 2020 USR-PLUS | RO | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–8 | 4–8 | 3–9 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–2 |
@@ -60,6 +60,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -71,28 +72,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 87 | 0.1% | 100% |  |
-| 88 | 0.3% | 99.8% |  |
-| 89 | 0.7% | 99.5% |  |
-| 90 | 1.4% | 98.8% |  |
-| 91 | 3% | 97% |  |
-| 92 | 4% | 95% |  |
-| 93 | 6% | 90% |  |
-| 94 | 9% | 84% |  |
-| 95 | 10% | 76% |  |
-| 96 | 12% | 65% |  |
-| 97 | 12% | 53% | Median |
-| 98 | 11% | 41% | Last Result |
-| 99 | 10% | 30% |  |
-| 100 | 7% | 21% |  |
-| 101 | 5% | 13% |  |
-| 102 | 4% | 8% |  |
-| 103 | 2% | 4% |  |
-| 104 | 1.2% | 2% |  |
-| 105 | 0.6% | 1.1% |  |
-| 106 | 0.3% | 0.5% |  |
-| 107 | 0.1% | 0.2% |  |
-| 108 | 0% | 0.1% |  |
-| 109 | 0% | 0% |  |
+| 88 | 0.1% | 100% |  |
+| 89 | 0.3% | 99.9% |  |
+| 90 | 0.6% | 99.6% |  |
+| 91 | 1.3% | 99.0% |  |
+| 92 | 2% | 98% |  |
+| 93 | 4% | 95% |  |
+| 94 | 6% | 91% |  |
+| 95 | 8% | 85% |  |
+| 96 | 10% | 77% |  |
+| 97 | 12% | 67% |  |
+| 98 | 12% | 55% | Last Result, Median |
+| 99 | 11% | 43% |  |
+| 100 | 10% | 31% |  |
+| 101 | 8% | 22% |  |
+| 102 | 6% | 14% |  |
+| 103 | 4% | 8% |  |
+| 104 | 2% | 5% |  |
+| 105 | 1.2% | 2% |  |
+| 106 | 0.6% | 1.1% |  |
+| 107 | 0.3% | 0.5% |  |
+| 108 | 0.1% | 0.2% |  |
+| 109 | 0.1% | 0.1% |  |
+| 110 | 0% | 0% |  |
 
 
