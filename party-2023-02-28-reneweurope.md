@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **97** seats (-1 seats)
+Current median: **98** seats (0 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 93–102 | 91–103 | 90–104 | 88–106 |
+| Renew Europe | EU | 98 | 98 | 93–102 | 92–103 | 91–105 | 89–107 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
@@ -30,13 +30,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Движение за права и свободи | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–2 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -72,30 +72,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 86 | 0% | 100% |  |
-| 87 | 0.1% | 99.9% |  |
-| 88 | 0.3% | 99.8% |  |
-| 89 | 0.7% | 99.5% |  |
-| 90 | 1.4% | 98.7% |  |
-| 91 | 3% | 97% |  |
-| 92 | 4% | 95% |  |
-| 93 | 6% | 91% |  |
-| 94 | 8% | 85% |  |
-| 95 | 10% | 77% |  |
-| 96 | 11% | 67% |  |
-| 97 | 11% | 56% | Median |
-| 98 | 11% | 45% | Last Result |
-| 99 | 10% | 34% |  |
-| 100 | 8% | 24% |  |
-| 101 | 6% | 16% |  |
-| 102 | 4% | 10% |  |
-| 103 | 3% | 6% |  |
-| 104 | 2% | 3% |  |
-| 105 | 0.9% | 2% |  |
-| 106 | 0.5% | 0.8% |  |
-| 107 | 0.2% | 0.4% |  |
-| 108 | 0.1% | 0.2% |  |
-| 109 | 0% | 0.1% |  |
+| 87 | 0.1% | 100% |  |
+| 88 | 0.2% | 99.9% |  |
+| 89 | 0.5% | 99.6% |  |
+| 90 | 1.1% | 99.1% |  |
+| 91 | 2% | 98% |  |
+| 92 | 3% | 96% |  |
+| 93 | 5% | 93% |  |
+| 94 | 7% | 88% |  |
+| 95 | 9% | 81% |  |
+| 96 | 10% | 72% |  |
+| 97 | 11% | 62% |  |
+| 98 | 11% | 51% | Last Result, Median |
+| 99 | 10% | 40% |  |
+| 100 | 9% | 29% |  |
+| 101 | 7% | 20% |  |
+| 102 | 5% | 13% |  |
+| 103 | 3% | 8% |  |
+| 104 | 2% | 5% |  |
+| 105 | 1.3% | 3% |  |
+| 106 | 0.7% | 1.3% |  |
+| 107 | 0.3% | 0.6% |  |
+| 108 | 0.2% | 0.3% |  |
+| 109 | 0.1% | 0.1% |  |
 | 110 | 0% | 0% |  |
 
 

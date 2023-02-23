@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BE, CY, CZ, ES, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, ES, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -41,6 +41,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
+| ВМРО–Българско Национално Движение | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

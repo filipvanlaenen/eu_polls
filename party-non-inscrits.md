@@ -18,12 +18,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 45–52 | 44–53 | 43–53 | 41–55 |
+| Non-Inscrits | EU | 29 | 49 | 45–52 | 44–53 | 43–53 | 42–55 |
 | Movimento 5 Stelle | IT | | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
 | Konfederacja | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| Възраждане | BG | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Възраждане | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -44,7 +44,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -66,21 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 100% |  |
-| 41 | 0.4% | 99.9% |  |
-| 42 | 1.1% | 99.5% |  |
-| 43 | 2% | 98% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 1.0% | 99.5% |  |
+| 43 | 2% | 98.6% |  |
 | 44 | 4% | 96% |  |
 | 45 | 6% | 92% |  |
-| 46 | 8% | 85% |  |
-| 47 | 10% | 77% |  |
-| 48 | 13% | 67% |  |
-| 49 | 15% | 54% | Median |
-| 50 | 15% | 39% |  |
-| 51 | 12% | 24% |  |
-| 52 | 7% | 13% |  |
+| 46 | 8% | 86% |  |
+| 47 | 10% | 78% |  |
+| 48 | 12% | 68% |  |
+| 49 | 15% | 55% | Median |
+| 50 | 15% | 41% |  |
+| 51 | 12% | 26% |  |
+| 52 | 8% | 14% |  |
 | 53 | 4% | 6% |  |
-| 54 | 1.4% | 2% |  |
-| 55 | 0.5% | 0.6% |  |
+| 54 | 2% | 2% |  |
+| 55 | 0.5% | 0.7% |  |
 | 56 | 0.1% | 0.2% |  |
 | 57 | 0% | 0% |  |
 
