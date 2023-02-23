@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **65** seats (-11 seats)
+Current median: **64** seats (-12 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 65 | 62–68 | 61–69 | 60–70 | 59–71 |
+| Identity and Democracy | EU | 76 | 64 | 61–68 | 60–69 | 60–70 | 58–71 |
 | Rassemblement national | FR | | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| Alternative für Deutschland | DE | | 14 | 12–17 | 12–17 | 12–17 | 12–18 |
+| Alternative für Deutschland | DE | | 14 | 12–17 | 12–17 | 11–17 | 11–18 |
 | Lega Nord | IT | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -40,21 +40,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0.2% | 100% |  |
-| 59 | 0.8% | 99.8% |  |
-| 60 | 2% | 99.0% |  |
-| 61 | 5% | 97% |  |
-| 62 | 9% | 91% |  |
-| 63 | 13% | 82% |  |
-| 64 | 15% | 70% |  |
-| 65 | 15% | 55% | Median |
-| 66 | 13% | 40% |  |
-| 67 | 11% | 27% |  |
-| 68 | 8% | 16% |  |
-| 69 | 5% | 8% |  |
-| 70 | 2% | 4% |  |
-| 71 | 1.0% | 1.4% |  |
-| 72 | 0.3% | 0.4% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.5% | 99.9% |  |
+| 59 | 2% | 99.3% |  |
+| 60 | 4% | 98% |  |
+| 61 | 8% | 94% |  |
+| 62 | 11% | 86% |  |
+| 63 | 14% | 75% |  |
+| 64 | 15% | 61% | Median |
+| 65 | 14% | 46% |  |
+| 66 | 12% | 32% |  |
+| 67 | 9% | 20% |  |
+| 68 | 6% | 12% |  |
+| 69 | 3% | 6% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.6% | 0.9% |  |
+| 72 | 0.2% | 0.3% |  |
 | 73 | 0.1% | 0.1% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |

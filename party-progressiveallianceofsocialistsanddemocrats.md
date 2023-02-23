@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **136** seats (-11 seats)
+Current median: **137** seats (-10 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 131–142 | 129–144 | 128–145 | 125–148 |
-| Sozialdemokratische Partei Deutschlands | DE | | 19 | 18–21 | 17–22 | 17–23 | 16–23 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 132–142 | 130–144 | 129–145 | 127–148 |
+| Sozialdemokratische Partei Deutschlands | DE | | 19 | 18–21 | 17–21 | 17–23 | 16–23 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | Partito Democratico | IT | | 14 | 12–15 | 11–16 | 11–16 | 10–18 |
 | Partidul Social Democrat | RO | | 12 | 10–15 | 10–16 | 9–16 | 9–16 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Socialista | PT | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
-| Lewica | PL | | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Socialdemokraterne | DK | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Lewica | PL | | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | Partit Laburista | MT | | 4 | 4 | 4 | 4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -65,32 +65,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 122 | 0% | 100% |  |
-| 123 | 0.1% | 99.9% |  |
-| 124 | 0.2% | 99.8% |  |
-| 125 | 0.4% | 99.6% |  |
-| 126 | 0.6% | 99.2% |  |
-| 127 | 1.0% | 98.6% |  |
-| 128 | 2% | 98% |  |
-| 129 | 2% | 96% |  |
-| 130 | 3% | 94% |  |
-| 131 | 4% | 90% |  |
-| 132 | 5% | 86% |  |
-| 133 | 7% | 81% |  |
-| 134 | 8% | 74% |  |
-| 135 | 8% | 67% |  |
-| 136 | 9% | 58% | Median |
-| 137 | 9% | 50% |  |
-| 138 | 8% | 41% |  |
-| 139 | 8% | 33% |  |
-| 140 | 7% | 25% |  |
-| 141 | 5% | 19% |  |
-| 142 | 4% | 13% |  |
-| 143 | 3% | 9% |  |
+| 124 | 0% | 100% |  |
+| 125 | 0.1% | 99.9% |  |
+| 126 | 0.2% | 99.8% |  |
+| 127 | 0.5% | 99.6% |  |
+| 128 | 1.0% | 99.1% |  |
+| 129 | 2% | 98% |  |
+| 130 | 3% | 96% |  |
+| 131 | 4% | 94% |  |
+| 132 | 5% | 90% |  |
+| 133 | 6% | 85% |  |
+| 134 | 8% | 79% |  |
+| 135 | 8% | 71% |  |
+| 136 | 9% | 63% |  |
+| 137 | 9% | 54% | Median |
+| 138 | 9% | 45% |  |
+| 139 | 8% | 36% |  |
+| 140 | 7% | 28% |  |
+| 141 | 6% | 21% |  |
+| 142 | 5% | 15% |  |
+| 143 | 4% | 10% |  |
 | 144 | 2% | 6% |  |
 | 145 | 2% | 4% |  |
-| 146 | 0.9% | 2% |  |
-| 147 | 0.5% | 1.1% | Last Result |
+| 146 | 1.0% | 2% |  |
+| 147 | 0.6% | 1.1% | Last Result |
 | 148 | 0.3% | 0.6% |  |
 | 149 | 0.1% | 0.3% |  |
 | 150 | 0.1% | 0.1% |  |
