@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 159 | 153–164 | 152–165 | 151–167 | 148–169 |
+| European People’s Party | EU | 187 | 159 | 154–164 | 152–165 | 151–167 | 148–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–24 | 18–24 | 18–24 | 17–25 |
 | Partido Popular | ES | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
@@ -38,7 +38,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partidul Mișcarea Populară | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2–3 |
@@ -95,14 +95,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 10% | 62% |  |
 | 159 | 10% | 53% | Median |
 | 160 | 9% | 43% |  |
-| 161 | 8% | 33% |  |
+| 161 | 8% | 34% |  |
 | 162 | 7% | 25% |  |
 | 163 | 6% | 18% |  |
 | 164 | 4% | 12% |  |
 | 165 | 3% | 8% |  |
 | 166 | 2% | 5% |  |
 | 167 | 1.2% | 3% |  |
-| 168 | 0.7% | 1.4% |  |
+| 168 | 0.7% | 1.5% |  |
 | 169 | 0.4% | 0.7% |  |
 | 170 | 0.2% | 0.3% |  |
 | 171 | 0.1% | 0.2% |  |

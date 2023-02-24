@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **97** seats (-1 seats)
+Current median: **96** seats (-2 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 97 | 92–101 | 91–102 | 90–104 | 88–106 |
+| Renew Europe | EU | 98 | 96 | 92–101 | 91–102 | 90–103 | 88–106 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Azione–Italia Viva | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
@@ -49,13 +49,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Attīstībai/Par! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
+| Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
@@ -72,28 +73,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 86 | 0.1% | 100% |  |
-| 87 | 0.2% | 99.9% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.3% | 99.8% |  |
 | 88 | 0.6% | 99.6% |  |
-| 89 | 1.1% | 99.1% |  |
+| 89 | 1.2% | 98.9% |  |
 | 90 | 2% | 98% |  |
-| 91 | 3% | 96% |  |
-| 92 | 5% | 93% |  |
-| 93 | 7% | 88% |  |
-| 94 | 9% | 81% |  |
-| 95 | 10% | 72% |  |
-| 96 | 11% | 62% |  |
-| 97 | 11% | 50% | Median |
-| 98 | 10% | 39% | Last Result |
-| 99 | 9% | 29% |  |
-| 100 | 7% | 20% |  |
-| 101 | 5% | 13% |  |
-| 102 | 3% | 8% |  |
-| 103 | 2% | 5% |  |
-| 104 | 1.3% | 3% |  |
-| 105 | 0.7% | 1.3% |  |
-| 106 | 0.4% | 0.6% |  |
-| 107 | 0.2% | 0.3% |  |
+| 91 | 4% | 95% |  |
+| 92 | 5% | 92% |  |
+| 93 | 7% | 86% |  |
+| 94 | 9% | 79% |  |
+| 95 | 11% | 70% |  |
+| 96 | 11% | 59% | Median |
+| 97 | 11% | 48% |  |
+| 98 | 10% | 37% | Last Result |
+| 99 | 8% | 27% |  |
+| 100 | 7% | 19% |  |
+| 101 | 5% | 12% |  |
+| 102 | 3% | 7% |  |
+| 103 | 2% | 4% |  |
+| 104 | 1.1% | 2% |  |
+| 105 | 0.6% | 1.1% |  |
+| 106 | 0.3% | 0.5% |  |
+| 107 | 0.1% | 0.2% |  |
 | 108 | 0.1% | 0.1% |  |
 | 109 | 0% | 0% |  |
 
