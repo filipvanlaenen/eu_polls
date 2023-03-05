@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 64 | 61–67 | 60–68 | 59–69 | 58–71 |
+| Identity and Democracy | EU | 76 | 64 | 60–67 | 59–68 | 59–69 | 57–70 |
 | Rassemblement national | FR | | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | Alternative für Deutschland | DE | | 14 | 12–17 | 11–17 | 11–17 | 11–18 |
 | Lega Nord | IT | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
@@ -28,7 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Svoboda a přímá demokracie | CZ | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | SME RODINA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 
@@ -41,22 +41,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.1% | 100% |  |
-| 57 | 0.3% | 99.9% |  |
-| 58 | 0.9% | 99.7% |  |
-| 59 | 2% | 98.8% |  |
-| 60 | 5% | 97% |  |
-| 61 | 8% | 92% |  |
-| 62 | 12% | 84% |  |
-| 63 | 14% | 72% |  |
-| 64 | 15% | 58% | Median |
-| 65 | 14% | 43% |  |
-| 66 | 11% | 29% |  |
-| 67 | 8% | 17% |  |
-| 68 | 5% | 9% |  |
-| 69 | 3% | 4% |  |
-| 70 | 1.2% | 2% |  |
-| 71 | 0.4% | 0.6% |  |
-| 72 | 0.1% | 0.2% |  |
+| 57 | 0.4% | 99.9% |  |
+| 58 | 1.3% | 99.4% |  |
+| 59 | 3% | 98% |  |
+| 60 | 6% | 95% |  |
+| 61 | 10% | 89% |  |
+| 62 | 13% | 79% |  |
+| 63 | 15% | 66% |  |
+| 64 | 15% | 51% | Median |
+| 65 | 13% | 36% |  |
+| 66 | 10% | 23% |  |
+| 67 | 7% | 13% |  |
+| 68 | 4% | 7% |  |
+| 69 | 2% | 3% |  |
+| 70 | 0.8% | 1.1% |  |
+| 71 | 0.3% | 0.4% |  |
+| 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |

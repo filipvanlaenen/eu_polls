@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BE, CY, DE, DK, EE, HR, IE, IT, LT, LU, LV, NL, PL, SI, SK
+> BE, CY, DE, DK, EE, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 3–7 | 3–7 | 3–8 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 3–8 | 3–8 | 3–8 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -40,7 +40,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Krikščionių sąjunga [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
+| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -58,11 +61,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.3% | 100% |  |
 | 3 | 8% | 99.7% |  |
 | 4 | 25% | 91% |  |
-| 5 | 33% | 66% | Median |
-| 6 | 25% | 33% |  |
-| 7 | 8% | 8% |  |
-| 8 | 0.5% | 0.6% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 5 | 25% | 66% | Median |
+| 6 | 16% | 42% |  |
+| 7 | 18% | 25% |  |
+| 8 | 7% | 8% |  |
+| 9 | 0.4% | 0.4% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
