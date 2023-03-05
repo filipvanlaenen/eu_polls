@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 3–8 | 3–8 | 3–8 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 3–7 | 3–7 | 3–8 | 3–8 |
 | BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -34,7 +34,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jaunoji Lietuva [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -58,14 +58,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.3% | 100% |  |
-| 3 | 8% | 99.7% |  |
-| 4 | 25% | 91% |  |
-| 5 | 25% | 66% | Median |
-| 6 | 16% | 42% |  |
-| 7 | 18% | 25% |  |
-| 8 | 7% | 8% |  |
-| 9 | 0.4% | 0.4% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 10% | 99.6% |  |
+| 4 | 30% | 89% |  |
+| 5 | 23% | 59% | Median |
+| 6 | 13% | 36% |  |
+| 7 | 21% | 23% |  |
+| 8 | 2% | 3% |  |
+| 9 | 0.1% | 0.2% |  |
 | 10 | 0% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

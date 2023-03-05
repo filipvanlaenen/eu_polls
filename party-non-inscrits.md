@@ -23,7 +23,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Konfederacja | PL | | 3 | 3–5 | 3–5 | 2–5 | 0–6 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Moderaterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,18 +67,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0.1% | 100% |  |
 | 39 | 0.2% | 99.9% |  |
 | 40 | 0.6% | 99.7% |  |
-| 41 | 1.4% | 99.1% |  |
+| 41 | 1.3% | 99.1% |  |
 | 42 | 2% | 98% |  |
 | 43 | 4% | 95% |  |
-| 44 | 5% | 91% |  |
+| 44 | 5% | 92% |  |
 | 45 | 7% | 86% |  |
 | 46 | 9% | 79% |  |
 | 47 | 11% | 70% |  |
 | 48 | 12% | 59% | Median |
 | 49 | 12% | 47% |  |
-| 50 | 10% | 35% |  |
+| 50 | 10% | 36% |  |
 | 51 | 9% | 25% |  |
-| 52 | 7% | 16% |  |
+| 52 | 7% | 17% |  |
 | 53 | 5% | 10% |  |
 | 54 | 3% | 5% |  |
 | 55 | 1.4% | 2% |  |
