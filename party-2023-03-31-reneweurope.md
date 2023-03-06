@@ -38,7 +38,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–2 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -93,10 +93,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 2% | 5% |  |
 | 104 | 1.3% | 3% |  |
 | 105 | 0.7% | 1.3% |  |
-| 106 | 0.4% | 0.6% |  |
+| 106 | 0.3% | 0.6% |  |
 | 107 | 0.2% | 0.3% |  |
 | 108 | 0.1% | 0.1% |  |
-| 109 | 0% | 0.1% |  |
-| 110 | 0% | 0% |  |
+| 109 | 0% | 0% |  |
 
 
