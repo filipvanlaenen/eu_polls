@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+5 seats)
+Current median: **6** seats (+6 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–8 | 3–8 | 3–8 | 3–9 |
-| BoerBurgerBeweging [NL] (*) | NL | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
+| BoerBurgerBeweging [NL] (*) | NL | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -35,7 +35,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Jaunoji Lietuva [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Krikščionių sąjunga [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -58,14 +58,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 6% | 99.8% |  |
-| 4 | 21% | 94% |  |
-| 5 | 27% | 73% | Median |
-| 6 | 18% | 46% |  |
-| 7 | 17% | 28% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 10% | 100% |  |
+| 5 | 31% | 90% |  |
+| 6 | 29% | 60% | Median |
+| 7 | 18% | 31% |  |
 | 8 | 11% | 12% |  |
-| 9 | 0.5% | 0.5% |  |
-| 10 | 0% | 0% |  |
+| 9 | 0.6% | 0.9% |  |
+| 10 | 0.1% | 0.3% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

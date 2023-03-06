@@ -36,13 +36,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Fine Gael | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Partidul Mișcarea Populară | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Partit Nazzjonalista | MT | | 2 | 2 | 2 | 2 | 2–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
@@ -81,19 +81,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 145 | 0% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
-| 147 | 0.1% | 99.9% |  |
+| 147 | 0.2% | 99.9% |  |
 | 148 | 0.3% | 99.7% |  |
-| 149 | 0.5% | 99.4% |  |
+| 149 | 0.6% | 99.4% |  |
 | 150 | 1.0% | 98.9% |  |
 | 151 | 2% | 98% |  |
 | 152 | 2% | 96% |  |
 | 153 | 3% | 94% |  |
-| 154 | 5% | 91% |  |
+| 154 | 5% | 90% |  |
 | 155 | 6% | 86% |  |
 | 156 | 7% | 80% |  |
-| 157 | 9% | 72% |  |
+| 157 | 8% | 72% |  |
 | 158 | 9% | 64% |  |
-| 159 | 10% | 54% | Median |
+| 159 | 9% | 55% | Median |
 | 160 | 9% | 45% |  |
 | 161 | 8% | 36% |  |
 | 162 | 7% | 27% |  |
@@ -101,10 +101,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 5% | 14% |  |
 | 165 | 3% | 9% |  |
 | 166 | 2% | 6% |  |
-| 167 | 2% | 3% |  |
+| 167 | 2% | 4% |  |
 | 168 | 0.9% | 2% |  |
 | 169 | 0.5% | 1.1% |  |
-| 170 | 0.3% | 0.5% |  |
+| 170 | 0.3% | 0.6% |  |
 | 171 | 0.1% | 0.3% |  |
 | 172 | 0.1% | 0.1% |  |
 | 173 | 0% | 0.1% |  |
