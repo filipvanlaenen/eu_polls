@@ -24,7 +24,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vox | ES | | 9 | 8–10 | 7–10 | 7–11 | 6–12 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
@@ -60,10 +60,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
-| 70 | 0.1% | 100% |  |
+| 70 | 0% | 100% |  |
 | 71 | 0.2% | 99.9% |  |
 | 72 | 0.5% | 99.8% |  |
-| 73 | 1.3% | 99.2% |  |
+| 73 | 1.3% | 99.3% |  |
 | 74 | 3% | 98% |  |
 | 75 | 5% | 95% |  |
 | 76 | 9% | 90% |  |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 14% | 69% |  |
 | 79 | 15% | 55% | Median |
 | 80 | 13% | 40% |  |
-| 81 | 10% | 27% |  |
-| 82 | 7% | 16% |  |
+| 81 | 11% | 27% |  |
+| 82 | 7% | 17% |  |
 | 83 | 5% | 9% |  |
-| 84 | 2% | 4% |  |
+| 84 | 3% | 5% |  |
 | 85 | 1.2% | 2% |  |
 | 86 | 0.5% | 0.8% |  |
 | 87 | 0.2% | 0.3% |  |
