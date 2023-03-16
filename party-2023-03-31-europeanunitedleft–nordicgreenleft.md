@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 47 | 44–50 | 44–50 | 43–51 | 42–52 |
+| European United Left–Nordic Green Left | EU | 39 | 47 | 45–50 | 44–50 | 43–51 | 42–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Die Linke | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 2 | 2 | 2 | 1–3 |
@@ -55,21 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0.1% | 100% |  |
-| 41 | 0.2% | 99.9% |  |
-| 42 | 0.9% | 99.7% |  |
-| 43 | 3% | 98.8% |  |
-| 44 | 6% | 96% |  |
-| 45 | 12% | 90% |  |
-| 46 | 17% | 78% |  |
-| 47 | 20% | 61% | Median |
-| 48 | 18% | 41% |  |
-| 49 | 12% | 23% |  |
-| 50 | 7% | 11% |  |
-| 51 | 3% | 4% |  |
-| 52 | 0.9% | 1.2% |  |
-| 53 | 0.2% | 0.3% |  |
-| 54 | 0% | 0.1% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.8% | 99.7% |  |
+| 43 | 2% | 98.9% |  |
+| 44 | 6% | 97% |  |
+| 45 | 11% | 91% |  |
+| 46 | 16% | 80% |  |
+| 47 | 20% | 63% | Median |
+| 48 | 18% | 44% |  |
+| 49 | 13% | 26% |  |
+| 50 | 7% | 12% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.1% | 1.4% |  |
+| 53 | 0.3% | 0.4% |  |
+| 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
 
