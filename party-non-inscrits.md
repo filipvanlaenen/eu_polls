@@ -23,7 +23,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Konfederacja | PL | | 3 | 3–5 | 3–5 | 2–5 | 0–6 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 3% | 97% |  |
 | 43 | 4% | 94% |  |
 | 44 | 6% | 90% |  |
-| 45 | 8% | 83% |  |
-| 46 | 10% | 75% |  |
-| 47 | 12% | 65% |  |
-| 48 | 13% | 53% | Median |
+| 45 | 8% | 84% |  |
+| 46 | 10% | 76% |  |
+| 47 | 12% | 66% |  |
+| 48 | 13% | 54% | Median |
 | 49 | 12% | 41% |  |
 | 50 | 10% | 29% |  |
 | 51 | 8% | 19% |  |
