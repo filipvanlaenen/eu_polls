@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 47 | 45–50 | 44–51 | 43–51 | 42–53 |
+| European United Left–Nordic Green Left | EU | 39 | 47 | 45–50 | 44–50 | 43–51 | 42–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
@@ -38,7 +38,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij van de Arbeid van België | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,19 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.6% | 99.8% |  |
-| 43 | 2% | 99.2% |  |
-| 44 | 6% | 97% |  |
-| 45 | 11% | 91% |  |
-| 46 | 16% | 81% |  |
-| 47 | 20% | 64% | Median |
-| 48 | 18% | 45% |  |
-| 49 | 13% | 27% |  |
-| 50 | 8% | 13% |  |
-| 51 | 4% | 5% |  |
-| 52 | 1.3% | 2% |  |
-| 53 | 0.4% | 0.5% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.8% | 99.8% |  |
+| 43 | 3% | 99.0% |  |
+| 44 | 6% | 96% |  |
+| 45 | 12% | 90% |  |
+| 46 | 18% | 78% |  |
+| 47 | 20% | 60% | Median |
+| 48 | 18% | 40% |  |
+| 49 | 12% | 23% |  |
+| 50 | 7% | 10% |  |
+| 51 | 3% | 4% |  |
+| 52 | 0.9% | 1.2% |  |
+| 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 

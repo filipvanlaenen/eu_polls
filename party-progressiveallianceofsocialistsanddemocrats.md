@@ -10,15 +10,15 @@ Last result: **147** seats (General Election of 26 May 2019)
 
 Current median: **141** seats (-6 seats)
 
-At least one member in **24 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 135–147 | 133–149 | 132–150 | 129–153 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 135–147 | 134–149 | 132–151 | 130–153 |
 | Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–21 | 16–21 | 16–21 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–21 | 14–21 | 13–22 |
 | Partito Democratico | IT | | 15 | 13–16 | 12–17 | 12–17 | 11–18 |
@@ -44,6 +44,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Social Democrats | IE | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -52,7 +53,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | PRO România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0–2 |
-| Socialni demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0–1 |
@@ -65,37 +65,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0% | 100% |  |
-| 127 | 0.1% | 99.9% |  |
-| 128 | 0.2% | 99.9% |  |
-| 129 | 0.3% | 99.7% |  |
-| 130 | 0.5% | 99.4% |  |
-| 131 | 0.9% | 98.8% |  |
-| 132 | 1.5% | 98% |  |
-| 133 | 2% | 96% |  |
-| 134 | 3% | 94% |  |
-| 135 | 4% | 91% |  |
-| 136 | 5% | 87% |  |
-| 137 | 6% | 82% |  |
-| 138 | 7% | 76% |  |
-| 139 | 8% | 69% |  |
-| 140 | 8% | 61% |  |
-| 141 | 8% | 52% | Median |
-| 142 | 8% | 44% |  |
-| 143 | 7% | 36% |  |
-| 144 | 7% | 29% |  |
-| 145 | 6% | 22% |  |
-| 146 | 5% | 16% |  |
-| 147 | 4% | 12% | Last Result |
-| 148 | 3% | 8% |  |
-| 149 | 2% | 5% |  |
-| 150 | 1.3% | 3% |  |
-| 151 | 0.9% | 2% |  |
-| 152 | 0.5% | 1.2% |  |
-| 153 | 0.3% | 0.7% |  |
-| 154 | 0.2% | 0.4% |  |
+| 127 | 0.1% | 100% |  |
+| 128 | 0.1% | 99.9% |  |
+| 129 | 0.2% | 99.8% |  |
+| 130 | 0.4% | 99.6% |  |
+| 131 | 0.7% | 99.1% |  |
+| 132 | 1.2% | 98% |  |
+| 133 | 2% | 97% |  |
+| 134 | 3% | 95% |  |
+| 135 | 4% | 93% |  |
+| 136 | 5% | 89% |  |
+| 137 | 6% | 84% |  |
+| 138 | 7% | 79% |  |
+| 139 | 8% | 72% |  |
+| 140 | 8% | 64% |  |
+| 141 | 8% | 56% | Median |
+| 142 | 8% | 48% |  |
+| 143 | 8% | 39% |  |
+| 144 | 7% | 32% |  |
+| 145 | 6% | 25% |  |
+| 146 | 5% | 19% |  |
+| 147 | 4% | 13% | Last Result |
+| 148 | 3% | 9% |  |
+| 149 | 2% | 6% |  |
+| 150 | 2% | 4% |  |
+| 151 | 1.0% | 3% |  |
+| 152 | 0.6% | 1.5% |  |
+| 153 | 0.4% | 0.9% |  |
+| 154 | 0.2% | 0.5% |  |
 | 155 | 0.1% | 0.2% |  |
-| 156 | 0% | 0.1% |  |
-| 157 | 0% | 0% |  |
+| 156 | 0.1% | 0.1% |  |
+| 157 | 0% | 0.1% |  |
+| 158 | 0% | 0% |  |
 
 
