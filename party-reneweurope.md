@@ -60,7 +60,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -77,22 +77,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.1% | 100% |  |
 | 86 | 0.2% | 99.9% |  |
 | 87 | 0.4% | 99.7% |  |
-| 88 | 0.9% | 99.3% |  |
+| 88 | 0.8% | 99.3% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 97% |  |
 | 91 | 4% | 94% |  |
 | 92 | 6% | 90% |  |
-| 93 | 9% | 83% |  |
+| 93 | 8% | 83% |  |
 | 94 | 10% | 75% |  |
-| 95 | 12% | 64% |  |
+| 95 | 12% | 65% |  |
 | 96 | 12% | 53% | Median |
 | 97 | 11% | 41% |  |
-| 98 | 9% | 30% | Last Result |
-| 99 | 7% | 20% |  |
+| 98 | 10% | 30% | Last Result |
+| 99 | 7% | 21% |  |
 | 100 | 5% | 13% |  |
-| 101 | 3% | 8% |  |
+| 101 | 4% | 8% |  |
 | 102 | 2% | 4% |  |
-| 103 | 1.1% | 2% |  |
+| 103 | 1.2% | 2% |  |
 | 104 | 0.6% | 1.0% |  |
 | 105 | 0.3% | 0.4% |  |
 | 106 | 0.1% | 0.2% |  |
