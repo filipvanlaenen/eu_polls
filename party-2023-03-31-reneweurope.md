@@ -18,27 +18,27 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–100 | 90–101 | 89–102 | 87–104 |
+| Renew Europe | EU | 98 | 96 | 92–101 | 91–102 | 90–103 | 88–105 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 4–8 | 4–9 | 4–9 |
-| Azione–Italia Viva | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| Azione–Italia Viva | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Polska 2050 | PL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Fianna Fáil | IE | | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -74,29 +74,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0.1% | 100% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.7% |  |
-| 88 | 0.8% | 99.3% |  |
-| 89 | 2% | 98% |  |
-| 90 | 3% | 97% |  |
-| 91 | 4% | 94% |  |
-| 92 | 6% | 90% |  |
-| 93 | 8% | 83% |  |
-| 94 | 10% | 75% |  |
-| 95 | 12% | 65% |  |
-| 96 | 12% | 53% | Median |
-| 97 | 11% | 41% |  |
-| 98 | 10% | 30% | Last Result |
-| 99 | 7% | 21% |  |
-| 100 | 5% | 13% |  |
-| 101 | 4% | 8% |  |
-| 102 | 2% | 4% |  |
-| 103 | 1.2% | 2% |  |
-| 104 | 0.6% | 1.0% |  |
-| 105 | 0.3% | 0.4% |  |
-| 106 | 0.1% | 0.2% |  |
-| 107 | 0% | 0.1% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0.1% | 99.9% |  |
+| 87 | 0.3% | 99.8% |  |
+| 88 | 0.6% | 99.5% |  |
+| 89 | 1.2% | 98.9% |  |
+| 90 | 2% | 98% |  |
+| 91 | 4% | 96% |  |
+| 92 | 5% | 92% |  |
+| 93 | 7% | 87% |  |
+| 94 | 9% | 79% |  |
+| 95 | 11% | 70% |  |
+| 96 | 12% | 59% | Median |
+| 97 | 12% | 47% |  |
+| 98 | 10% | 36% | Last Result |
+| 99 | 8% | 25% |  |
+| 100 | 6% | 17% |  |
+| 101 | 4% | 10% |  |
+| 102 | 3% | 6% |  |
+| 103 | 2% | 3% |  |
+| 104 | 0.9% | 2% |  |
+| 105 | 0.4% | 0.7% |  |
+| 106 | 0.2% | 0.3% |  |
+| 107 | 0.1% | 0.1% |  |
 | 108 | 0% | 0% |  |
 
 
