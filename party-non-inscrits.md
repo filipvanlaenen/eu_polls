@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (+19 seats)
+Current median: **49** seats (+20 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 43–52 | 42–53 | 41–54 | 40–55 |
+| Non-Inscrits | EU | 29 | 49 | 44–53 | 43–54 | 42–55 | 40–56 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
+| Konfederacja | PL | | 4 | 3–5 | 3–6 | 2–6 | 0–7 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| Konfederacja | PL | | 3 | 3–5 | 3–5 | 2–5 | 0–6 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Възраждане | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -65,25 +65,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.8% |  |
-| 40 | 0.8% | 99.5% |  |
-| 41 | 2% | 98.7% |  |
-| 42 | 3% | 97% |  |
-| 43 | 4% | 94% |  |
-| 44 | 6% | 90% |  |
-| 45 | 8% | 84% |  |
-| 46 | 10% | 76% |  |
-| 47 | 12% | 66% |  |
-| 48 | 13% | 54% | Median |
-| 49 | 12% | 41% |  |
-| 50 | 10% | 30% |  |
-| 51 | 8% | 20% |  |
-| 52 | 5% | 12% |  |
-| 53 | 3% | 6% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.8% | 1.3% |  |
-| 56 | 0.3% | 0.5% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 39 | 0.2% | 99.9% |  |
+| 40 | 0.5% | 99.7% |  |
+| 41 | 1.0% | 99.2% |  |
+| 42 | 2% | 98% |  |
+| 43 | 3% | 96% |  |
+| 44 | 5% | 93% |  |
+| 45 | 7% | 88% |  |
+| 46 | 8% | 82% |  |
+| 47 | 10% | 73% |  |
+| 48 | 12% | 63% |  |
+| 49 | 12% | 51% | Median |
+| 50 | 11% | 39% |  |
+| 51 | 9% | 27% |  |
+| 52 | 7% | 18% |  |
+| 53 | 5% | 11% |  |
+| 54 | 3% | 6% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.7% | 1.1% |  |
+| 57 | 0.3% | 0.4% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
