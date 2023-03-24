@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BG, CY, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, PL, SI, SK
+> BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, PL, SI, SK
 
 ## Seats
 
@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 44–52 | 42–53 | 41–54 | 39–56 |
+| Non-Inscrits | EU | 29 | 48 | 44–52 | 43–54 | 42–54 | 40–56 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
-| Konfederacja | PL | | 4 | 3–5 | 3–6 | 2–6 | 0–7 |
+| Konfederacja | PL | | 4 | 3–6 | 3–6 | 3–6 | 0–7 |
 | Reconquête | FR | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -37,6 +37,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -44,8 +45,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Χρυσή Αυγή | GR | | 0 | 0 | 0 | 0 | 0 |
-| Български възход | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Има такъв народ | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Български възход | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -63,27 +64,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 100% |  |
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
-| 37 | 0.1% | 100% |  |
+| 37 | 0% | 100% |  |
 | 38 | 0.1% | 99.9% |  |
 | 39 | 0.3% | 99.8% |  |
-| 40 | 0.8% | 99.5% |  |
-| 41 | 2% | 98.7% |  |
-| 42 | 3% | 97% |  |
-| 43 | 4% | 94% |  |
-| 44 | 6% | 90% |  |
-| 45 | 8% | 85% |  |
-| 46 | 9% | 77% |  |
-| 47 | 11% | 68% |  |
-| 48 | 12% | 57% | Median |
-| 49 | 12% | 44% |  |
-| 50 | 10% | 33% |  |
-| 51 | 8% | 22% |  |
-| 52 | 6% | 14% |  |
-| 53 | 4% | 8% |  |
-| 54 | 2% | 4% |  |
-| 55 | 1.2% | 2% |  |
-| 56 | 0.5% | 0.8% |  |
-| 57 | 0.2% | 0.3% |  |
+| 40 | 0.7% | 99.6% |  |
+| 41 | 1.4% | 98.9% |  |
+| 42 | 2% | 98% |  |
+| 43 | 4% | 95% |  |
+| 44 | 5% | 91% |  |
+| 45 | 7% | 86% |  |
+| 46 | 9% | 79% |  |
+| 47 | 11% | 70% |  |
+| 48 | 12% | 59% | Median |
+| 49 | 12% | 47% |  |
+| 50 | 11% | 35% |  |
+| 51 | 9% | 24% |  |
+| 52 | 6% | 16% |  |
+| 53 | 4% | 9% |  |
+| 54 | 3% | 5% |  |
+| 55 | 1.4% | 2% |  |
+| 56 | 0.6% | 1.0% |  |
+| 57 | 0.3% | 0.4% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
