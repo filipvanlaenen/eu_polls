@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, CY, CZ, DE, DK, EE, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI, SK
+> BE, BG, CY, CZ, DE, DK, EE, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -48,6 +48,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
+| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -62,12 +63,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 9% | 100% |  |
-| 5 | 30% | 91% |  |
-| 6 | 29% | 61% | Median |
-| 7 | 18% | 31% |  |
+| 5 | 29% | 91% |  |
+| 6 | 29% | 62% | Median |
+| 7 | 19% | 32% |  |
 | 8 | 12% | 13% |  |
-| 9 | 0.7% | 0.7% |  |
-| 10 | 0% | 0.1% |  |
+| 9 | 1.2% | 1.3% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
