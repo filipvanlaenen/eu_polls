@@ -21,14 +21,14 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 134–145 | 133–147 | 132–148 | 129–151 |
 | Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–21 | 16–21 | 16–22 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–21 | 14–21 | 13–22 |
-| Partito Democratico | IT | | 16 | 14–18 | 13–18 | 12–19 | 11–19 |
+| Partito Democratico | IT | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
 | Partidul Social Democrat | RO | | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Parti socialiste | FR | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Socialdemokraterne | DK | | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Demokratikus Koalíció | HU | | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -64,33 +64,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0% | 100% |  |
-| 127 | 0.1% | 99.9% |  |
-| 128 | 0.2% | 99.8% |  |
+| 127 | 0.1% | 100% |  |
+| 128 | 0.1% | 99.9% |  |
 | 129 | 0.3% | 99.7% |  |
-| 130 | 0.6% | 99.3% |  |
-| 131 | 1.1% | 98.7% |  |
+| 130 | 0.6% | 99.4% |  |
+| 131 | 1.0% | 98.9% |  |
 | 132 | 2% | 98% |  |
 | 133 | 3% | 96% |  |
-| 134 | 4% | 93% |  |
+| 134 | 4% | 94% |  |
 | 135 | 5% | 90% |  |
-| 136 | 6% | 84% |  |
+| 136 | 7% | 85% |  |
 | 137 | 8% | 78% |  |
 | 138 | 9% | 70% |  |
-| 139 | 9% | 61% |  |
-| 140 | 10% | 52% | Median |
+| 139 | 10% | 61% |  |
+| 140 | 10% | 51% | Median |
 | 141 | 9% | 42% |  |
 | 142 | 8% | 33% |  |
-| 143 | 7% | 25% |  |
-| 144 | 6% | 18% |  |
-| 145 | 4% | 13% |  |
+| 143 | 7% | 24% |  |
+| 144 | 5% | 18% |  |
+| 145 | 4% | 12% |  |
 | 146 | 3% | 8% |  |
 | 147 | 2% | 5% | Last Result |
-| 148 | 1.4% | 3% |  |
-| 149 | 0.9% | 2% |  |
-| 150 | 0.5% | 1.1% |  |
-| 151 | 0.3% | 0.6% |  |
-| 152 | 0.2% | 0.3% |  |
+| 148 | 1.3% | 3% |  |
+| 149 | 0.8% | 2% |  |
+| 150 | 0.5% | 1.0% |  |
+| 151 | 0.3% | 0.5% |  |
+| 152 | 0.1% | 0.3% |  |
 | 153 | 0.1% | 0.1% |  |
 | 154 | 0% | 0.1% |  |
 | 155 | 0% | 0% |  |

@@ -35,7 +35,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jaunoji Lietuva [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Krikščionių sąjunga [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -66,9 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 29% | 61% | Median |
 | 7 | 18% | 31% |  |
 | 8 | 12% | 13% |  |
-| 9 | 0.8% | 1.0% |  |
-| 10 | 0.1% | 0.3% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 9 | 0.7% | 0.7% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
