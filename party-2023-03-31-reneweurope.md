@@ -18,13 +18,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–100 | 90–102 | 89–103 | 87–105 |
+| Renew Europe | EU | 98 | 96 | 91–100 | 90–102 | 88–103 | 86–105 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 7 | 6–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 7 | 5–8 | 4–8 | 4–9 | 4–9 |
 | Azione–Italia Viva | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Freie Demokratische Partei | DE | | 6 | 5–8 | 4–9 | 4–9 | 4–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Polska 2050 | PL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -42,7 +42,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 1 | 1 | 1 | 1 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,7 +59,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Radikale Venstre | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -75,29 +75,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0.1% | 100% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.7% |  |
-| 88 | 0.8% | 99.3% |  |
-| 89 | 2% | 98% |  |
-| 90 | 3% | 97% |  |
-| 91 | 4% | 94% |  |
-| 92 | 6% | 90% |  |
-| 93 | 8% | 84% |  |
-| 94 | 10% | 75% |  |
-| 95 | 11% | 66% |  |
-| 96 | 12% | 54% | Median |
-| 97 | 11% | 43% |  |
-| 98 | 10% | 32% | Last Result |
-| 99 | 8% | 22% |  |
-| 100 | 6% | 15% |  |
+| 84 | 0.1% | 100% |  |
+| 85 | 0.1% | 99.9% |  |
+| 86 | 0.3% | 99.8% |  |
+| 87 | 0.7% | 99.4% |  |
+| 88 | 1.3% | 98.7% |  |
+| 89 | 2% | 97% |  |
+| 90 | 3% | 95% |  |
+| 91 | 5% | 92% |  |
+| 92 | 7% | 87% |  |
+| 93 | 9% | 80% |  |
+| 94 | 10% | 71% |  |
+| 95 | 11% | 61% |  |
+| 96 | 11% | 50% | Median |
+| 97 | 10% | 40% |  |
+| 98 | 9% | 30% | Last Result |
+| 99 | 7% | 21% |  |
+| 100 | 5% | 14% |  |
 | 101 | 4% | 9% |  |
 | 102 | 2% | 5% |  |
 | 103 | 1.4% | 3% |  |
-| 104 | 0.8% | 1.4% |  |
+| 104 | 0.8% | 2% |  |
 | 105 | 0.4% | 0.7% |  |
 | 106 | 0.2% | 0.3% |  |
 | 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0% |  |
+| 108 | 0% | 0.1% |  |
+| 109 | 0% | 0% |  |
 
 

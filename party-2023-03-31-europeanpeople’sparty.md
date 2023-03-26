@@ -18,8 +18,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 152–164 | 151–165 | 150–167 | 147–170 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–25 | 18–25 | 17–26 |
+| European People’s Party | EU | 187 | 158 | 153–164 | 151–166 | 150–167 | 147–170 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–25 | 18–25 | 18–26 |
 | Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–19 | 14–19 | 14–20 | 13–21 |
 | Les Républicains | FR | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната–Демократична България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -41,7 +41,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
@@ -54,7 +54,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | AGROunia–Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -83,31 +83,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.1% | 99.9% |  |
 | 146 | 0.2% | 99.9% |  |
 | 147 | 0.3% | 99.7% |  |
-| 148 | 0.6% | 99.3% |  |
-| 149 | 1.0% | 98.7% |  |
+| 148 | 0.6% | 99.4% |  |
+| 149 | 1.0% | 98.8% |  |
 | 150 | 2% | 98% |  |
-| 151 | 3% | 96% |  |
-| 152 | 4% | 93% |  |
+| 151 | 2% | 96% |  |
+| 152 | 3% | 94% |  |
 | 153 | 5% | 90% |  |
-| 154 | 6% | 85% |  |
-| 155 | 7% | 79% |  |
-| 156 | 8% | 72% |  |
-| 157 | 9% | 64% |  |
-| 158 | 9% | 55% | Median |
-| 159 | 9% | 46% |  |
-| 160 | 8% | 37% |  |
-| 161 | 7% | 29% |  |
-| 162 | 6% | 22% |  |
-| 163 | 5% | 16% |  |
-| 164 | 4% | 11% |  |
+| 154 | 6% | 86% |  |
+| 155 | 7% | 80% |  |
+| 156 | 8% | 73% |  |
+| 157 | 9% | 65% |  |
+| 158 | 9% | 56% | Median |
+| 159 | 9% | 47% |  |
+| 160 | 8% | 38% |  |
+| 161 | 7% | 30% |  |
+| 162 | 6% | 23% |  |
+| 163 | 5% | 17% |  |
+| 164 | 4% | 12% |  |
 | 165 | 3% | 8% |  |
 | 166 | 2% | 5% |  |
-| 167 | 1.2% | 3% |  |
+| 167 | 1.3% | 3% |  |
 | 168 | 0.8% | 2% |  |
-| 169 | 0.5% | 1.0% |  |
+| 169 | 0.5% | 1.1% |  |
 | 170 | 0.3% | 0.6% |  |
-| 171 | 0.1% | 0.3% |  |
-| 172 | 0.1% | 0.1% |  |
+| 171 | 0.2% | 0.3% |  |
+| 172 | 0.1% | 0.2% |  |
 | 173 | 0% | 0.1% |  |
 | 174 | 0% | 0% |  |
 | 175 | 0% | 0% |  |
