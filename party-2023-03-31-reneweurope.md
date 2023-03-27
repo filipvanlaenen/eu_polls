@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **96** seats (-2 seats)
+Current median: **95** seats (-3 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 96 | 91–100 | 90–102 | 88–103 | 86–105 |
+| Renew Europe | EU | 98 | 95 | 91–100 | 90–102 | 88–103 | 86–105 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 7 | 6–9 | 6–10 | 6–10 | 6–11 |
 | Azione–Italia Viva | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
@@ -28,7 +28,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -40,8 +40,8 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Eesti 200 | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti 200 | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 1 | 1 | 1 | 1 | 0–2 |
@@ -81,25 +81,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 0.7% | 99.4% |  |
 | 88 | 1.3% | 98.7% |  |
 | 89 | 2% | 97% |  |
-| 90 | 3% | 95% |  |
+| 90 | 4% | 95% |  |
 | 91 | 5% | 92% |  |
-| 92 | 7% | 87% |  |
-| 93 | 9% | 80% |  |
+| 92 | 7% | 86% |  |
+| 93 | 9% | 79% |  |
 | 94 | 10% | 71% |  |
-| 95 | 11% | 61% |  |
-| 96 | 11% | 50% | Median |
-| 97 | 10% | 40% |  |
-| 98 | 9% | 30% | Last Result |
-| 99 | 7% | 21% |  |
+| 95 | 11% | 61% | Median |
+| 96 | 11% | 50% |  |
+| 97 | 10% | 39% |  |
+| 98 | 9% | 29% | Last Result |
+| 99 | 7% | 20% |  |
 | 100 | 5% | 14% |  |
 | 101 | 4% | 9% |  |
 | 102 | 2% | 5% |  |
-| 103 | 1.4% | 3% |  |
-| 104 | 0.8% | 2% |  |
+| 103 | 1.3% | 3% |  |
+| 104 | 0.7% | 1.4% |  |
 | 105 | 0.4% | 0.7% |  |
 | 106 | 0.2% | 0.3% |  |
 | 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0.1% |  |
-| 109 | 0% | 0% |  |
+| 108 | 0% | 0% |  |
 
 
