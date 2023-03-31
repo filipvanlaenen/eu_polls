@@ -30,7 +30,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Dobrá voľba [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
-| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0–1 |
+| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +43,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -65,13 +64,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 6% | 100% |  |
 | 5 | 21% | 94% |  |
 | 6 | 19% | 73% |  |
-| 7 | 4% | 54% |  |
-| 8 | 0.3% | 50% |  |
+| 7 | 3% | 54% |  |
+| 8 | 0.2% | 50% |  |
 | 9 | 0% | 50% |  |
 | 10 | 6% | 50% | Median |
 | 11 | 23% | 44% |  |
-| 12 | 19% | 21% |  |
-| 13 | 2% | 2% |  |
+| 12 | 19% | 20% |  |
+| 13 | 1.4% | 2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
