@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **138** seats (-9 seats)
+Current median: **139** seats (-8 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 133–143 | 132–145 | 131–146 | 129–149 |
-| Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–21 | 16–21 | 16–21 | 15–22 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 134–144 | 132–145 | 131–147 | 129–149 |
+| Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–21 | 16–22 | 16–22 | 15–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–21 | 14–21 | 13–22 |
 | Partito Democratico | IT | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
 | Partidul Social Democrat | RO | | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
@@ -29,7 +29,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Lewica | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | Demokratikus Koalíció | HU | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
-| Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -43,7 +43,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Social Democrats | IE | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Social Democrats | IE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -64,32 +64,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0.1% | 100% |  |
+| 126 | 0% | 100% |  |
 | 127 | 0.1% | 99.9% |  |
-| 128 | 0.3% | 99.8% |  |
-| 129 | 0.5% | 99.5% |  |
-| 130 | 1.0% | 99.0% |  |
-| 131 | 2% | 98% |  |
-| 132 | 3% | 96% |  |
-| 133 | 4% | 94% |  |
-| 134 | 6% | 89% |  |
-| 135 | 7% | 84% |  |
-| 136 | 9% | 76% |  |
-| 137 | 10% | 67% |  |
-| 138 | 10% | 57% | Median |
-| 139 | 10% | 47% |  |
-| 140 | 9% | 37% |  |
-| 141 | 8% | 27% |  |
-| 142 | 6% | 20% |  |
-| 143 | 5% | 13% |  |
-| 144 | 3% | 9% |  |
-| 145 | 2% | 5% |  |
-| 146 | 1.4% | 3% |  |
-| 147 | 0.9% | 2% | Last Result |
-| 148 | 0.5% | 1.0% |  |
-| 149 | 0.3% | 0.5% |  |
-| 150 | 0.1% | 0.3% |  |
-| 151 | 0.1% | 0.1% |  |
+| 128 | 0.2% | 99.9% |  |
+| 129 | 0.4% | 99.7% |  |
+| 130 | 0.8% | 99.3% |  |
+| 131 | 1.4% | 98% |  |
+| 132 | 2% | 97% |  |
+| 133 | 4% | 95% |  |
+| 134 | 5% | 91% |  |
+| 135 | 7% | 86% |  |
+| 136 | 8% | 79% |  |
+| 137 | 10% | 71% |  |
+| 138 | 10% | 61% |  |
+| 139 | 10% | 51% | Median |
+| 140 | 9% | 40% |  |
+| 141 | 8% | 31% |  |
+| 142 | 7% | 23% |  |
+| 143 | 5% | 16% |  |
+| 144 | 4% | 11% |  |
+| 145 | 3% | 7% |  |
+| 146 | 2% | 4% |  |
+| 147 | 1.1% | 3% | Last Result |
+| 148 | 0.7% | 1.4% |  |
+| 149 | 0.4% | 0.8% |  |
+| 150 | 0.2% | 0.4% |  |
+| 151 | 0.1% | 0.2% |  |
 | 152 | 0% | 0.1% |  |
 | 153 | 0% | 0% |  |
 

@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **157** seats (-30 seats)
+Current median: **158** seats (-29 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 152–163 | 150–165 | 149–166 | 146–169 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–25 | 18–25 | 18–26 |
-| Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–23 | 16–24 |
+| European People’s Party | EU | 187 | 158 | 152–164 | 150–165 | 149–167 | 146–169 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–25 | 18–25 | 17–26 |
+| Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 14–19 | 14–19 | 14–20 | 13–21 |
 | Les Républicains | FR | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Partidul Național Liberal | RO | | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
@@ -32,8 +32,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната–Демократична България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Fine Gael | IE | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Fine Gael | IE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3–4 | 3–4 |
@@ -83,31 +83,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.1% | 99.9% |  |
 | 146 | 0.3% | 99.8% |  |
 | 147 | 0.5% | 99.5% |  |
-| 148 | 0.9% | 99.0% |  |
+| 148 | 0.8% | 99.0% |  |
 | 149 | 1.4% | 98% |  |
 | 150 | 2% | 97% |  |
 | 151 | 3% | 95% |  |
-| 152 | 4% | 91% |  |
-| 153 | 6% | 87% |  |
-| 154 | 7% | 82% |  |
-| 155 | 8% | 75% |  |
-| 156 | 9% | 67% |  |
-| 157 | 9% | 58% | Median |
-| 158 | 9% | 49% |  |
-| 159 | 8% | 40% |  |
-| 160 | 8% | 32% |  |
-| 161 | 6% | 24% |  |
-| 162 | 5% | 18% |  |
-| 163 | 4% | 13% |  |
-| 164 | 3% | 9% |  |
-| 165 | 2% | 6% |  |
-| 166 | 1.4% | 3% |  |
-| 167 | 0.9% | 2% |  |
-| 168 | 0.5% | 1.2% |  |
-| 169 | 0.3% | 0.6% |  |
-| 170 | 0.2% | 0.3% |  |
+| 152 | 4% | 92% |  |
+| 153 | 5% | 88% |  |
+| 154 | 6% | 83% |  |
+| 155 | 7% | 76% |  |
+| 156 | 8% | 69% |  |
+| 157 | 9% | 61% |  |
+| 158 | 9% | 52% | Median |
+| 159 | 8% | 43% |  |
+| 160 | 8% | 35% |  |
+| 161 | 7% | 27% |  |
+| 162 | 6% | 20% |  |
+| 163 | 5% | 15% |  |
+| 164 | 3% | 10% |  |
+| 165 | 2% | 7% |  |
+| 166 | 2% | 4% |  |
+| 167 | 1.1% | 3% |  |
+| 168 | 0.7% | 2% |  |
+| 169 | 0.4% | 0.9% |  |
+| 170 | 0.2% | 0.5% |  |
 | 171 | 0.1% | 0.2% |  |
-| 172 | 0% | 0.1% |  |
+| 172 | 0.1% | 0.1% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |
 | 175 | 0% | 0% |  |
