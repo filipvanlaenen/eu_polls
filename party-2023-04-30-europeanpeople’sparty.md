@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 153–164 | 151–166 | 150–167 | 147–170 |
+| European People’s Party | EU | 187 | 158 | 152–163 | 150–165 | 149–166 | 147–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 18–25 | 18–25 | 18–26 |
 | Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 14–19 | 14–19 | 14–20 | 13–21 |
@@ -37,13 +37,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3–4 | 3–4 |
-| Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| Christen-Democratisch Appèl | NL | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -55,7 +55,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | AGROunia–Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Isamaa | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -79,36 +79,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 144 | 0% | 100% |  |
+| 144 | 0.1% | 100% |  |
 | 145 | 0.1% | 99.9% |  |
-| 146 | 0.2% | 99.9% |  |
-| 147 | 0.3% | 99.7% |  |
-| 148 | 0.6% | 99.4% |  |
-| 149 | 1.0% | 98.8% |  |
-| 150 | 2% | 98% |  |
-| 151 | 2% | 96% |  |
-| 152 | 3% | 94% |  |
-| 153 | 5% | 90% |  |
-| 154 | 6% | 86% |  |
-| 155 | 7% | 80% |  |
-| 156 | 8% | 73% |  |
-| 157 | 9% | 65% |  |
-| 158 | 9% | 56% | Median |
-| 159 | 9% | 47% |  |
-| 160 | 8% | 38% |  |
-| 161 | 7% | 30% |  |
-| 162 | 6% | 23% |  |
-| 163 | 5% | 17% |  |
-| 164 | 4% | 12% |  |
-| 165 | 3% | 8% |  |
-| 166 | 2% | 5% |  |
-| 167 | 1.3% | 3% |  |
-| 168 | 0.8% | 2% |  |
-| 169 | 0.5% | 1.1% |  |
-| 170 | 0.3% | 0.6% |  |
-| 171 | 0.1% | 0.3% |  |
-| 172 | 0.1% | 0.1% |  |
-| 173 | 0% | 0.1% |  |
+| 146 | 0.2% | 99.8% |  |
+| 147 | 0.5% | 99.5% |  |
+| 148 | 0.8% | 99.1% |  |
+| 149 | 1.3% | 98% |  |
+| 150 | 2% | 97% |  |
+| 151 | 3% | 95% |  |
+| 152 | 4% | 92% |  |
+| 153 | 5% | 88% |  |
+| 154 | 7% | 82% |  |
+| 155 | 8% | 76% |  |
+| 156 | 9% | 68% |  |
+| 157 | 9% | 59% |  |
+| 158 | 9% | 50% | Median |
+| 159 | 8% | 41% |  |
+| 160 | 8% | 33% |  |
+| 161 | 7% | 25% |  |
+| 162 | 5% | 18% |  |
+| 163 | 4% | 13% |  |
+| 164 | 3% | 9% |  |
+| 165 | 2% | 6% |  |
+| 166 | 1.5% | 4% |  |
+| 167 | 0.9% | 2% |  |
+| 168 | 0.6% | 1.3% |  |
+| 169 | 0.3% | 0.7% |  |
+| 170 | 0.2% | 0.4% |  |
+| 171 | 0.1% | 0.2% |  |
+| 172 | 0% | 0.1% |  |
+| 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |
 | 175 | 0% | 0% |  |
 | 176 | 0% | 0% |  |

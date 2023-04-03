@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (-3 seats)
+Current median: **94** seats (-4 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 90–100 | 89–101 | 88–102 | 86–104 |
+| Renew Europe | EU | 98 | 94 | 90–99 | 89–100 | 88–101 | 86–103 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 7 | 6–9 | 6–10 | 6–10 | 6–11 |
 | Azione–Italia Viva | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 4–9 | 4–9 | 4–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Polska 2050 | PL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -77,29 +77,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 83 | 0% | 100% |  |
 | 84 | 0.1% | 99.9% |  |
-| 85 | 0.2% | 99.9% |  |
-| 86 | 0.5% | 99.6% |  |
-| 87 | 0.9% | 99.2% |  |
+| 85 | 0.3% | 99.8% |  |
+| 86 | 0.6% | 99.6% |  |
+| 87 | 1.1% | 99.0% |  |
 | 88 | 2% | 98% |  |
-| 89 | 3% | 97% |  |
-| 90 | 4% | 94% |  |
-| 91 | 6% | 90% |  |
-| 92 | 8% | 84% |  |
-| 93 | 9% | 76% |  |
-| 94 | 10% | 67% |  |
-| 95 | 11% | 56% | Median |
-| 96 | 11% | 45% |  |
-| 97 | 9% | 35% |  |
-| 98 | 8% | 25% | Last Result |
-| 99 | 6% | 17% |  |
-| 100 | 4% | 11% |  |
-| 101 | 3% | 7% |  |
-| 102 | 2% | 4% |  |
-| 103 | 1.0% | 2% |  |
-| 104 | 0.6% | 1.0% |  |
-| 105 | 0.3% | 0.5% |  |
-| 106 | 0.1% | 0.2% |  |
-| 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0% |  |
+| 89 | 3% | 96% |  |
+| 90 | 5% | 92% |  |
+| 91 | 7% | 87% |  |
+| 92 | 9% | 80% |  |
+| 93 | 11% | 71% |  |
+| 94 | 11% | 61% | Median |
+| 95 | 11% | 49% |  |
+| 96 | 10% | 38% |  |
+| 97 | 9% | 27% |  |
+| 98 | 7% | 19% | Last Result |
+| 99 | 5% | 12% |  |
+| 100 | 3% | 7% |  |
+| 101 | 2% | 4% |  |
+| 102 | 1.1% | 2% |  |
+| 103 | 0.6% | 1.0% |  |
+| 104 | 0.3% | 0.4% |  |
+| 105 | 0.1% | 0.2% |  |
+| 106 | 0% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 

@@ -32,13 +32,13 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3–4 | 3–4 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -67,29 +67,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 126 | 0.1% | 100% |  |
 | 127 | 0.1% | 99.9% |  |
 | 128 | 0.3% | 99.8% |  |
-| 129 | 0.6% | 99.5% |  |
-| 130 | 1.0% | 98.9% |  |
+| 129 | 0.5% | 99.5% |  |
+| 130 | 1.0% | 99.0% |  |
 | 131 | 2% | 98% |  |
 | 132 | 3% | 96% |  |
-| 133 | 4% | 93% |  |
+| 133 | 4% | 94% |  |
 | 134 | 6% | 89% |  |
-| 135 | 8% | 83% |  |
-| 136 | 9% | 75% |  |
-| 137 | 10% | 66% |  |
-| 138 | 10% | 56% | Median |
-| 139 | 10% | 46% |  |
-| 140 | 9% | 36% |  |
+| 135 | 7% | 84% |  |
+| 136 | 9% | 76% |  |
+| 137 | 10% | 67% |  |
+| 138 | 10% | 57% | Median |
+| 139 | 10% | 47% |  |
+| 140 | 9% | 37% |  |
 | 141 | 8% | 27% |  |
-| 142 | 6% | 19% |  |
+| 142 | 6% | 20% |  |
 | 143 | 5% | 13% |  |
-| 144 | 3% | 8% |  |
+| 144 | 3% | 9% |  |
 | 145 | 2% | 5% |  |
-| 146 | 1.3% | 3% |  |
-| 147 | 0.8% | 2% | Last Result |
+| 146 | 1.4% | 3% |  |
+| 147 | 0.9% | 2% | Last Result |
 | 148 | 0.5% | 1.0% |  |
 | 149 | 0.3% | 0.5% |  |
-| 150 | 0.1% | 0.2% |  |
+| 150 | 0.1% | 0.3% |  |
 | 151 | 0.1% | 0.1% |  |
-| 152 | 0% | 0% |  |
+| 152 | 0% | 0.1% |  |
+| 153 | 0% | 0% |  |
 
 
