@@ -35,7 +35,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -82,21 +82,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 1.1% | 99.0% |  |
 | 88 | 2% | 98% |  |
 | 89 | 3% | 96% |  |
-| 90 | 5% | 92% |  |
-| 91 | 7% | 87% |  |
-| 92 | 9% | 80% |  |
-| 93 | 11% | 71% |  |
+| 90 | 5% | 93% |  |
+| 91 | 7% | 88% |  |
+| 92 | 9% | 81% |  |
+| 93 | 11% | 72% |  |
 | 94 | 11% | 61% | Median |
-| 95 | 11% | 49% |  |
-| 96 | 10% | 38% |  |
-| 97 | 9% | 27% |  |
+| 95 | 11% | 50% |  |
+| 96 | 10% | 39% |  |
+| 97 | 9% | 28% |  |
 | 98 | 7% | 19% | Last Result |
 | 99 | 5% | 12% |  |
-| 100 | 3% | 7% |  |
+| 100 | 3% | 8% |  |
 | 101 | 2% | 4% |  |
 | 102 | 1.1% | 2% |  |
-| 103 | 0.6% | 1.0% |  |
-| 104 | 0.3% | 0.4% |  |
+| 103 | 0.6% | 1.1% |  |
+| 104 | 0.3% | 0.5% |  |
 | 105 | 0.1% | 0.2% |  |
 | 106 | 0% | 0.1% |  |
 | 107 | 0% | 0% |  |
