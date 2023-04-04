@@ -41,16 +41,16 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Momentum Mozgalom | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,26 +77,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% |  |
 | 85 | 0.2% | 99.9% |  |
-| 86 | 0.6% | 99.6% |  |
-| 87 | 1.2% | 99.0% |  |
+| 86 | 0.5% | 99.7% |  |
+| 87 | 1.1% | 99.2% |  |
 | 88 | 2% | 98% |  |
-| 89 | 4% | 96% |  |
-| 90 | 6% | 92% |  |
-| 91 | 8% | 86% |  |
-| 92 | 10% | 78% |  |
-| 93 | 11% | 69% |  |
-| 94 | 12% | 58% | Median |
-| 95 | 11% | 46% |  |
-| 96 | 10% | 35% |  |
-| 97 | 8% | 25% |  |
-| 98 | 6% | 17% | Last Result |
-| 99 | 4% | 10% |  |
-| 100 | 3% | 6% |  |
-| 101 | 2% | 3% |  |
-| 102 | 0.9% | 2% |  |
-| 103 | 0.5% | 0.8% |  |
-| 104 | 0.2% | 0.4% |  |
-| 105 | 0.1% | 0.1% |  |
+| 89 | 3% | 96% |  |
+| 90 | 5% | 93% |  |
+| 91 | 7% | 87% |  |
+| 92 | 9% | 80% |  |
+| 93 | 11% | 71% |  |
+| 94 | 12% | 60% | Median |
+| 95 | 11% | 48% |  |
+| 96 | 10% | 37% |  |
+| 97 | 9% | 27% |  |
+| 98 | 7% | 18% | Last Result |
+| 99 | 5% | 12% |  |
+| 100 | 3% | 7% |  |
+| 101 | 2% | 4% |  |
+| 102 | 1.1% | 2% |  |
+| 103 | 0.5% | 1.0% |  |
+| 104 | 0.3% | 0.5% |  |
+| 105 | 0.1% | 0.2% |  |
 | 106 | 0% | 0.1% |  |
 | 107 | 0% | 0% |  |
 

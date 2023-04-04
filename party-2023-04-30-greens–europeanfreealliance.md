@@ -27,9 +27,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
-| Coalició Compromís | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Lehet Más a Politika | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,22 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.1% | 100% |  |
 | 37 | 0.3% | 99.9% |  |
-| 38 | 1.0% | 99.5% |  |
-| 39 | 3% | 98% |  |
+| 38 | 1.0% | 99.6% |  |
+| 39 | 2% | 98.6% |  |
 | 40 | 5% | 96% |  |
-| 41 | 9% | 91% |  |
-| 42 | 12% | 82% |  |
-| 43 | 14% | 70% |  |
-| 44 | 14% | 56% | Median |
-| 45 | 12% | 42% |  |
-| 46 | 10% | 30% |  |
-| 47 | 8% | 20% |  |
-| 48 | 5% | 12% |  |
+| 41 | 8% | 91% |  |
+| 42 | 12% | 83% |  |
+| 43 | 13% | 71% |  |
+| 44 | 14% | 57% | Median |
+| 45 | 12% | 44% |  |
+| 46 | 11% | 32% |  |
+| 47 | 8% | 21% |  |
+| 48 | 6% | 13% |  |
 | 49 | 3% | 7% |  |
 | 50 | 2% | 4% |  |
 | 51 | 1.0% | 2% |  |
-| 52 | 0.5% | 0.8% |  |
-| 53 | 0.2% | 0.3% |  |
+| 52 | 0.5% | 0.9% |  |
+| 53 | 0.2% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
