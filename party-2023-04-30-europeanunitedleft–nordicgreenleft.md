@@ -21,7 +21,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 39 | 46 | 43–49 | 43–50 | 42–50 | 41–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Die Linke | DE | | 5 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Partij voor de Dieren | NL | | 2 | 2 | 2 | 2 | 2 |
@@ -35,7 +35,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0–1 |
@@ -45,6 +45,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
+| Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -63,11 +64,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 17% | 77% |  |
 | 46 | 19% | 60% | Median |
 | 47 | 17% | 41% |  |
-| 48 | 12% | 25% |  |
-| 49 | 7% | 13% |  |
-| 50 | 4% | 6% |  |
-| 51 | 1.4% | 2% |  |
-| 52 | 0.5% | 0.7% |  |
+| 48 | 12% | 24% |  |
+| 49 | 7% | 12% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.3% | 2% |  |
+| 52 | 0.4% | 0.6% |  |
 | 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 
