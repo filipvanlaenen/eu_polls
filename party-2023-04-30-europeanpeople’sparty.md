@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 159 | 153–165 | 152–166 | 150–167 | 148–170 |
+| European People’s Party | EU | 187 | 159 | 153–164 | 152–166 | 150–167 | 148–170 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 19–25 | 19–26 | 17–26 |
 | Partido Popular | ES | | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | Koalicja Obywatelska | PL | | 16 | 14–19 | 14–19 | 14–20 | 13–21 |
@@ -35,7 +35,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
@@ -82,15 +82,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 145 | 0.1% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
 | 147 | 0.2% | 99.8% |  |
-| 148 | 0.4% | 99.6% |  |
-| 149 | 0.7% | 99.2% |  |
-| 150 | 1.1% | 98% |  |
+| 148 | 0.4% | 99.5% |  |
+| 149 | 0.7% | 99.1% |  |
+| 150 | 1.2% | 98% |  |
 | 151 | 2% | 97% |  |
-| 152 | 3% | 96% |  |
+| 152 | 3% | 95% |  |
 | 153 | 4% | 93% |  |
 | 154 | 5% | 89% |  |
-| 155 | 6% | 85% |  |
-| 156 | 7% | 79% |  |
+| 155 | 6% | 84% |  |
+| 156 | 7% | 78% |  |
 | 157 | 8% | 71% |  |
 | 158 | 9% | 63% |  |
 | 159 | 9% | 54% | Median |
@@ -99,11 +99,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 7% | 28% |  |
 | 163 | 6% | 21% |  |
 | 164 | 5% | 15% |  |
-| 165 | 4% | 10% |  |
-| 166 | 3% | 7% |  |
+| 165 | 3% | 10% |  |
+| 166 | 2% | 6% |  |
 | 167 | 2% | 4% |  |
-| 168 | 1.1% | 2% |  |
-| 169 | 0.6% | 1.4% |  |
+| 168 | 1.0% | 2% |  |
+| 169 | 0.6% | 1.3% |  |
 | 170 | 0.4% | 0.7% |  |
 | 171 | 0.2% | 0.4% |  |
 | 172 | 0.1% | 0.2% |  |
