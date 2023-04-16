@@ -19,7 +19,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 67 | 44 | 40–48 | 39–49 | 39–50 | 37–52 |
-| Bündnis 90/Die Grünen | DE | | 16 | 14–18 | 12–18 | 12–19 | 12–20 |
+| Bündnis 90/Die Grünen | DE | | 16 | 13–18 | 12–18 | 12–19 | 12–20 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3 | 3–4 |
 | Česká pirátská strana–Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -29,7 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Coalició Compromís | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -70,17 +70,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 3% | 98% |  |
 | 40 | 6% | 95% |  |
 | 41 | 9% | 89% |  |
-| 42 | 12% | 80% |  |
-| 43 | 14% | 68% |  |
-| 44 | 14% | 54% | Median |
-| 45 | 13% | 40% |  |
-| 46 | 10% | 28% |  |
-| 47 | 7% | 18% |  |
-| 48 | 5% | 11% |  |
-| 49 | 3% | 6% |  |
+| 42 | 11% | 81% |  |
+| 43 | 13% | 69% |  |
+| 44 | 14% | 56% | Median |
+| 45 | 13% | 42% |  |
+| 46 | 10% | 30% |  |
+| 47 | 8% | 19% |  |
+| 48 | 5% | 12% |  |
+| 49 | 3% | 7% |  |
 | 50 | 2% | 3% |  |
 | 51 | 0.9% | 2% |  |
-| 52 | 0.4% | 0.7% |  |
+| 52 | 0.5% | 0.8% |  |
 | 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |

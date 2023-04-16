@@ -37,13 +37,13 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Wähler | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -51,7 +51,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -100,6 +100,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 105 | 0.4% | 0.7% |  |
 | 106 | 0.2% | 0.3% |  |
 | 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0% |  |
+| 108 | 0% | 0.1% |  |
+| 109 | 0% | 0% |  |
 
 
