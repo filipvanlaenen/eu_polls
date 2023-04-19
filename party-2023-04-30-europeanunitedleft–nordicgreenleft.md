@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (+7 seats)
+Current median: **47** seats (+8 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 46 | 44–49 | 43–50 | 43–51 | 41–52 |
+| European United Left–Nordic Green Left | EU | 39 | 47 | 44–50 | 43–51 | 42–52 | 41–54 |
 | La France insoumise | FR | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| Unidos Podemos | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Sumar | ES | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
+| Unidos Podemos | ES | | 6 | 3–7 | 3–8 | 3–8 | 2–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | Die Linke | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Partij voor de Dieren | NL | | 2 | 2 | 2 | 2 | 2 |
@@ -59,18 +60,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.5% | 99.9% |  |
 | 42 | 2% | 99.4% |  |
-| 43 | 5% | 98% |  |
-| 44 | 11% | 92% |  |
-| 45 | 16% | 82% |  |
-| 46 | 19% | 65% | Median |
-| 47 | 18% | 46% |  |
-| 48 | 13% | 28% |  |
-| 49 | 8% | 15% |  |
-| 50 | 4% | 7% |  |
-| 51 | 2% | 3% |  |
-| 52 | 0.6% | 0.9% |  |
-| 53 | 0.2% | 0.3% |  |
-| 54 | 0.1% | 0.1% |  |
-| 55 | 0% | 0% |  |
+| 43 | 5% | 97% |  |
+| 44 | 10% | 92% |  |
+| 45 | 14% | 83% |  |
+| 46 | 16% | 69% |  |
+| 47 | 15% | 52% | Median |
+| 48 | 12% | 37% |  |
+| 49 | 9% | 24% |  |
+| 50 | 6% | 15% |  |
+| 51 | 4% | 9% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.3% | 2% |  |
+| 54 | 0.6% | 0.8% |  |
+| 55 | 0.2% | 0.3% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 
