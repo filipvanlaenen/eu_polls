@@ -27,7 +27,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Νέα Δημοκρατία | GR | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
+| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -40,7 +40,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Koalicja Polska | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -104,7 +104,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 2% | 4% |  |
 | 167 | 1.0% | 2% |  |
 | 168 | 0.6% | 1.3% |  |
-| 169 | 0.4% | 0.7% |  |
+| 169 | 0.3% | 0.7% |  |
 | 170 | 0.2% | 0.4% |  |
 | 171 | 0.1% | 0.2% |  |
 | 172 | 0% | 0.1% |  |

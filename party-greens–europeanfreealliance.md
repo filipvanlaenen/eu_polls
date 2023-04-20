@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 43 | 39–46 | 39–48 | 38–49 | 37–50 |
+| Greens–European Free Alliance | EU | 67 | 43 | 40–46 | 39–48 | 38–48 | 37–50 |
 | Bündnis 90/Die Grünen | DE | | 16 | 13–18 | 12–18 | 12–18 | 12–20 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3 | 3–4 |
@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -67,19 +67,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.1% | 100% |  |
 | 36 | 0.3% | 99.9% |  |
 | 37 | 1.1% | 99.6% |  |
-| 38 | 3% | 98% |  |
+| 38 | 3% | 98.5% |  |
 | 39 | 6% | 96% |  |
 | 40 | 9% | 90% |  |
-| 41 | 12% | 80% |  |
+| 41 | 12% | 81% |  |
 | 42 | 14% | 68% |  |
 | 43 | 14% | 54% | Median |
-| 44 | 13% | 39% |  |
+| 44 | 13% | 40% |  |
 | 45 | 10% | 27% |  |
 | 46 | 7% | 17% |  |
-| 47 | 4% | 10% |  |
+| 47 | 5% | 10% |  |
 | 48 | 3% | 5% |  |
-| 49 | 1.4% | 3% |  |
-| 50 | 0.7% | 1.2% |  |
+| 49 | 1.3% | 2% |  |
+| 50 | 0.7% | 1.1% |  |
 | 51 | 0.3% | 0.5% |  |
 | 52 | 0.1% | 0.2% |  |
 | 53 | 0% | 0.1% |  |
