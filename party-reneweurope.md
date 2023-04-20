@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (-3 seats)
+Current median: **96** seats (-2 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 95 | 91–100 | 90–101 | 88–103 | 86–105 |
+| Renew Europe | EU | 98 | 96 | 91–100 | 90–102 | 89–103 | 87–105 |
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 7 | 6–9 | 6–10 | 6–10 | 6–11 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 4–10 | 4–10 | 4–10 |
@@ -32,13 +32,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Demokratesch Partei | LU | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti 200 | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -46,7 +47,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -79,27 +79,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0.1% | 100% |  |
 | 85 | 0.1% | 99.9% |  |
 | 86 | 0.3% | 99.8% |  |
-| 87 | 0.7% | 99.4% |  |
-| 88 | 1.3% | 98.7% |  |
-| 89 | 2% | 97% |  |
-| 90 | 4% | 95% |  |
+| 87 | 0.6% | 99.5% |  |
+| 88 | 1.2% | 98.9% |  |
+| 89 | 2% | 98% |  |
+| 90 | 3% | 96% |  |
 | 91 | 5% | 92% |  |
-| 92 | 7% | 86% |  |
-| 93 | 9% | 79% |  |
-| 94 | 10% | 70% |  |
-| 95 | 11% | 60% | Median |
-| 96 | 11% | 49% |  |
-| 97 | 10% | 38% |  |
-| 98 | 8% | 28% | Last Result |
-| 99 | 7% | 20% |  |
-| 100 | 5% | 13% |  |
-| 101 | 3% | 8% |  |
-| 102 | 2% | 5% |  |
-| 103 | 1.3% | 3% |  |
-| 104 | 0.7% | 1.5% |  |
-| 105 | 0.4% | 0.7% |  |
-| 106 | 0.2% | 0.3% |  |
-| 107 | 0.1% | 0.1% |  |
+| 92 | 7% | 87% |  |
+| 93 | 9% | 81% |  |
+| 94 | 10% | 72% |  |
+| 95 | 11% | 62% |  |
+| 96 | 11% | 51% | Median |
+| 97 | 10% | 40% |  |
+| 98 | 9% | 30% | Last Result |
+| 99 | 7% | 22% |  |
+| 100 | 5% | 14% |  |
+| 101 | 4% | 9% |  |
+| 102 | 2% | 6% |  |
+| 103 | 1.5% | 3% |  |
+| 104 | 0.8% | 2% |  |
+| 105 | 0.4% | 0.8% |  |
+| 106 | 0.2% | 0.4% |  |
+| 107 | 0.1% | 0.2% |  |
 | 108 | 0% | 0.1% |  |
 | 109 | 0% | 0% |  |
 

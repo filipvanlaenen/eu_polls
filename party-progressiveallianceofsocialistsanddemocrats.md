@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **138** seats (-9 seats)
+Current median: **137** seats (-10 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 133–143 | 132–145 | 131–146 | 128–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 132–142 | 131–144 | 130–145 | 128–147 |
 | Sozialdemokratische Partei Deutschlands | DE | | 19 | 17–20 | 17–20 | 16–21 | 15–22 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–19 | 13–20 |
 | Partido Socialista Obrero Español | ES | | 15 | 13–18 | 13–18 | 12–18 | 11–19 |
@@ -37,12 +37,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -64,32 +64,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0.1% | 100% |  |
-| 127 | 0.1% | 99.9% |  |
-| 128 | 0.3% | 99.7% |  |
-| 129 | 0.6% | 99.4% |  |
-| 130 | 1.0% | 98.9% |  |
-| 131 | 2% | 98% |  |
-| 132 | 3% | 96% |  |
-| 133 | 4% | 93% |  |
-| 134 | 5% | 89% |  |
-| 135 | 7% | 84% |  |
-| 136 | 8% | 77% |  |
-| 137 | 9% | 69% |  |
-| 138 | 10% | 59% | Median |
-| 139 | 10% | 49% |  |
-| 140 | 9% | 39% |  |
-| 141 | 8% | 30% |  |
-| 142 | 7% | 21% |  |
-| 143 | 5% | 15% |  |
-| 144 | 4% | 10% |  |
-| 145 | 2% | 6% |  |
-| 146 | 2% | 3% |  |
-| 147 | 0.9% | 2% | Last Result |
-| 148 | 0.5% | 0.9% |  |
-| 149 | 0.2% | 0.4% |  |
-| 150 | 0.1% | 0.2% |  |
-| 151 | 0% | 0.1% |  |
-| 152 | 0% | 0% |  |
+| 125 | 0.1% | 100% |  |
+| 126 | 0.1% | 99.9% |  |
+| 127 | 0.3% | 99.8% |  |
+| 128 | 0.5% | 99.5% |  |
+| 129 | 1.0% | 99.0% |  |
+| 130 | 2% | 98% |  |
+| 131 | 3% | 96% |  |
+| 132 | 4% | 94% |  |
+| 133 | 5% | 90% |  |
+| 134 | 7% | 84% |  |
+| 135 | 8% | 78% |  |
+| 136 | 9% | 69% |  |
+| 137 | 10% | 60% | Median |
+| 138 | 10% | 50% |  |
+| 139 | 9% | 40% |  |
+| 140 | 8% | 30% |  |
+| 141 | 7% | 22% |  |
+| 142 | 5% | 15% |  |
+| 143 | 4% | 10% |  |
+| 144 | 3% | 6% |  |
+| 145 | 2% | 4% |  |
+| 146 | 1.0% | 2% |  |
+| 147 | 0.5% | 1.0% | Last Result |
+| 148 | 0.3% | 0.5% |  |
+| 149 | 0.1% | 0.2% |  |
+| 150 | 0.1% | 0.1% |  |
+| 151 | 0% | 0% |  |
 
 
