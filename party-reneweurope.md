@@ -22,7 +22,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | ANO 2011 | CZ | | 7 | 6–9 | 6–10 | 6–10 | 6–11 |
 | Freie Demokratische Partei | DE | | 7 | 6–8 | 4–10 | 4–10 | 4–10 |
-| Azione–Italia Viva | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
+| Azione–Italia Viva | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Polska 2050 | PL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
@@ -86,13 +86,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 6% | 90% |  |
 | 92 | 8% | 85% |  |
 | 93 | 9% | 77% |  |
-| 94 | 11% | 68% |  |
+| 94 | 11% | 67% |  |
 | 95 | 11% | 57% | Median |
 | 96 | 11% | 46% |  |
 | 97 | 10% | 35% |  |
-| 98 | 8% | 26% | Last Result |
+| 98 | 8% | 25% | Last Result |
 | 99 | 6% | 18% |  |
-| 100 | 4% | 12% |  |
+| 100 | 4% | 11% |  |
 | 101 | 3% | 7% |  |
 | 102 | 2% | 4% |  |
 | 103 | 1.1% | 2% |  |

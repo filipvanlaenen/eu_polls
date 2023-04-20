@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 43 | 39–46 | 39–47 | 38–48 | 37–50 |
+| Greens–European Free Alliance | EU | 67 | 43 | 39–46 | 39–48 | 38–49 | 37–50 |
 | Bündnis 90/Die Grünen | DE | | 16 | 13–18 | 12–18 | 12–18 | 12–20 |
 | Europe Écologie Les Verts | FR | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3 | 3–4 |
@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Alleanza Verdi e Sinistra | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Alleanza Verdi e Sinistra | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -68,21 +68,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0.3% | 99.9% |  |
 | 37 | 1.1% | 99.6% |  |
 | 38 | 3% | 98% |  |
-| 39 | 6% | 95% |  |
-| 40 | 10% | 90% |  |
-| 41 | 13% | 80% |  |
-| 42 | 14% | 67% |  |
-| 43 | 14% | 53% | Median |
-| 44 | 13% | 38% |  |
-| 45 | 10% | 26% |  |
-| 46 | 7% | 16% |  |
-| 47 | 4% | 9% |  |
-| 48 | 2% | 4% |  |
-| 49 | 1.2% | 2% |  |
-| 50 | 0.6% | 1.0% |  |
-| 51 | 0.3% | 0.4% |  |
-| 52 | 0.1% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 39 | 6% | 96% |  |
+| 40 | 9% | 90% |  |
+| 41 | 12% | 80% |  |
+| 42 | 14% | 68% |  |
+| 43 | 14% | 54% | Median |
+| 44 | 13% | 39% |  |
+| 45 | 10% | 27% |  |
+| 46 | 7% | 17% |  |
+| 47 | 4% | 10% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.4% | 3% |  |
+| 50 | 0.7% | 1.2% |  |
+| 51 | 0.3% | 0.5% |  |
+| 52 | 0.1% | 0.2% |  |
+| 53 | 0% | 0.1% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
