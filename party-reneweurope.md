@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **91** seats (-7 seats)
+Current median: **85** seats (-13 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 86–96 | 85–97 | 84–98 | 82–100 |
-| La République en marche–Mouvement démocrate | FR | | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
-| ANO 2011 | CZ | | 7 | 6–9 | 6–10 | 6–10 | 6–11 |
-| Freie Demokratische Partei | DE | | 7 | 6–8 | 4–10 | 4–10 | 4–10 |
-| Azione–Italia Viva | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| Renew Europe | EU | 98 | 85 | 80–90 | 78–91 | 77–93 | 74–95 |
+| La République en marche–Mouvement démocrate | FR | | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
+| ANO 2011 | CZ | | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| Freie Demokratische Partei | DE | | 7 | 5–8 | 4–10 | 4–10 | 4–10 |
+| Azione–Italia Viva | IT | | 6 | 4–7 | 0–7 | 0–8 | 0–8 |
 | Polska 2050 | PL | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Eesti 200 | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Liberal Alliance | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -44,9 +44,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Wähler | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
-| Moderaterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Moderaterne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -61,9 +61,8 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
-| Radikale Venstre | DK | | 0 | 0 | 0 | 0 | 0 |
-| Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Национално движение за стабилност и възход | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -76,31 +75,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 79 | 0% | 100% |  |
-| 80 | 0.1% | 99.9% |  |
-| 81 | 0.2% | 99.9% |  |
-| 82 | 0.5% | 99.6% |  |
-| 83 | 0.9% | 99.2% |  |
-| 84 | 2% | 98% |  |
-| 85 | 3% | 97% |  |
-| 86 | 4% | 94% |  |
-| 87 | 6% | 89% |  |
-| 88 | 8% | 83% |  |
-| 89 | 10% | 75% |  |
-| 90 | 11% | 65% |  |
-| 91 | 11% | 55% | Median |
-| 92 | 10% | 44% |  |
-| 93 | 9% | 33% |  |
-| 94 | 8% | 24% |  |
-| 95 | 6% | 16% |  |
-| 96 | 4% | 11% |  |
-| 97 | 3% | 6% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.0% | 2% |  |
-| 100 | 0.5% | 1.0% |  |
-| 101 | 0.3% | 0.5% |  |
-| 102 | 0.1% | 0.2% |  |
-| 103 | 0.1% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0.2% | 99.9% |  |
+| 74 | 0.3% | 99.7% |  |
+| 75 | 0.5% | 99.4% |  |
+| 76 | 0.9% | 98.9% |  |
+| 77 | 1.5% | 98% |  |
+| 78 | 2% | 96% |  |
+| 79 | 3% | 94% |  |
+| 80 | 5% | 91% |  |
+| 81 | 6% | 86% |  |
+| 82 | 8% | 80% |  |
+| 83 | 9% | 72% |  |
+| 84 | 10% | 63% |  |
+| 85 | 10% | 53% | Median |
+| 86 | 10% | 43% |  |
+| 87 | 9% | 33% |  |
+| 88 | 7% | 25% |  |
+| 89 | 6% | 18% |  |
+| 90 | 4% | 12% |  |
+| 91 | 3% | 8% |  |
+| 92 | 2% | 5% |  |
+| 93 | 1.2% | 3% |  |
+| 94 | 0.7% | 1.5% |  |
+| 95 | 0.4% | 0.7% |  |
+| 96 | 0.2% | 0.4% |  |
+| 97 | 0.1% | 0.2% |  |
+| 98 | 0% | 0.1% | Last Result |
+| 99 | 0% | 0% |  |
 
 
