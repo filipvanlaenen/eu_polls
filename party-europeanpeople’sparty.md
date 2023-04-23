@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 153–163 | 151–165 | 150–166 | 147–169 |
+| European People’s Party | EU | 187 | 158 | 153–164 | 152–165 | 151–166 | 148–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–24 | 20–25 | 19–26 | 17–26 |
 | Partido Popular | ES | | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
 | Koalicja Obywatelska | PL | | 16 | 14–19 | 14–19 | 14–20 | 13–21 |
@@ -30,11 +30,11 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Продължаваме промяната–Демократична България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 5 | 5 | 5 | 5 |
+| Продължаваме промяната–Демократична България | BG | | 5 | 5 | 5 | 5 | 5 |
 | Fine Gael | IE | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 4 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -60,7 +60,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -78,32 +78,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 145 | 0.1% | 100% |  |
+| 145 | 0% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
-| 147 | 0.3% | 99.8% |  |
-| 148 | 0.5% | 99.5% |  |
-| 149 | 0.9% | 99.0% |  |
-| 150 | 1.4% | 98% |  |
-| 151 | 2% | 97% |  |
-| 152 | 3% | 95% |  |
-| 153 | 5% | 91% |  |
-| 154 | 6% | 87% |  |
-| 155 | 7% | 81% |  |
-| 156 | 9% | 73% |  |
-| 157 | 9% | 65% |  |
-| 158 | 10% | 55% | Median |
-| 159 | 9% | 45% |  |
-| 160 | 9% | 36% |  |
-| 161 | 7% | 27% |  |
-| 162 | 6% | 20% |  |
-| 163 | 5% | 14% |  |
-| 164 | 3% | 9% |  |
-| 165 | 2% | 6% |  |
-| 166 | 1.5% | 3% |  |
-| 167 | 0.9% | 2% |  |
-| 168 | 0.5% | 1.1% |  |
-| 169 | 0.3% | 0.5% |  |
-| 170 | 0.1% | 0.3% |  |
+| 147 | 0.2% | 99.9% |  |
+| 148 | 0.3% | 99.7% |  |
+| 149 | 0.6% | 99.4% |  |
+| 150 | 1.1% | 98.8% |  |
+| 151 | 2% | 98% |  |
+| 152 | 3% | 96% |  |
+| 153 | 4% | 93% |  |
+| 154 | 5% | 89% |  |
+| 155 | 7% | 84% |  |
+| 156 | 8% | 77% |  |
+| 157 | 9% | 69% |  |
+| 158 | 10% | 60% | Median |
+| 159 | 10% | 50% |  |
+| 160 | 9% | 40% |  |
+| 161 | 8% | 30% |  |
+| 162 | 7% | 22% |  |
+| 163 | 5% | 16% |  |
+| 164 | 4% | 10% |  |
+| 165 | 3% | 7% |  |
+| 166 | 2% | 4% |  |
+| 167 | 1.0% | 2% |  |
+| 168 | 0.6% | 1.2% |  |
+| 169 | 0.3% | 0.6% |  |
+| 170 | 0.2% | 0.3% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
 | 173 | 0% | 0% |  |

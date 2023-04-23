@@ -34,7 +34,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,17 +60,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
 | 42 | 0.9% | 99.7% |  |
-| 43 | 2% | 98.8% |  |
+| 43 | 2% | 98.7% |  |
 | 44 | 5% | 96% |  |
-| 45 | 7% | 92% |  |
+| 45 | 8% | 92% |  |
 | 46 | 10% | 84% |  |
 | 47 | 12% | 74% |  |
-| 48 | 13% | 63% | Median |
-| 49 | 14% | 50% |  |
-| 50 | 13% | 36% |  |
+| 48 | 13% | 62% | Median |
+| 49 | 14% | 49% |  |
+| 50 | 13% | 35% |  |
 | 51 | 10% | 23% |  |
 | 52 | 7% | 13% |  |
-| 53 | 4% | 7% |  |
+| 53 | 4% | 6% |  |
 | 54 | 2% | 3% |  |
 | 55 | 0.7% | 1.0% |  |
 | 56 | 0.2% | 0.3% |  |

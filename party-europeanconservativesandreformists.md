@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 78–86 | 78–87 | 77–88 | 75–90 |
+| European Conservatives and Reformists | EU | 61 | 82 | 78–85 | 77–86 | 77–87 | 75–89 |
 | Fratelli d’Italia | IT | | 24 | 23–27 | 22–27 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 7–11 |
@@ -26,7 +26,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -64,26 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0% | 100% |  |
-| 73 | 0% | 100% |  |
+| 73 | 0.1% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
-| 75 | 0.5% | 99.8% |  |
-| 76 | 1.3% | 99.3% |  |
+| 75 | 0.6% | 99.7% |  |
+| 76 | 2% | 99.1% |  |
 | 77 | 3% | 98% |  |
-| 78 | 5% | 95% |  |
-| 79 | 9% | 90% |  |
-| 80 | 12% | 81% |  |
-| 81 | 14% | 70% |  |
-| 82 | 14% | 56% | Median |
-| 83 | 13% | 42% |  |
-| 84 | 10% | 29% |  |
-| 85 | 8% | 18% |  |
-| 86 | 5% | 11% |  |
-| 87 | 3% | 6% |  |
-| 88 | 2% | 3% |  |
-| 89 | 0.8% | 1.3% |  |
-| 90 | 0.3% | 0.6% |  |
+| 78 | 6% | 94% |  |
+| 79 | 9% | 88% |  |
+| 80 | 12% | 79% |  |
+| 81 | 14% | 67% |  |
+| 82 | 14% | 53% | Median |
+| 83 | 12% | 38% |  |
+| 84 | 10% | 26% |  |
+| 85 | 7% | 16% |  |
+| 86 | 4% | 9% |  |
+| 87 | 3% | 5% |  |
+| 88 | 1.3% | 2% |  |
+| 89 | 0.6% | 1.0% |  |
+| 90 | 0.3% | 0.4% |  |
 | 91 | 0.1% | 0.2% |  |
-| 92 | 0.1% | 0.1% |  |
+| 92 | 0% | 0.1% |  |
 | 93 | 0% | 0% |  |
 
 
