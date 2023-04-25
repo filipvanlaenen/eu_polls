@@ -24,7 +24,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 13–18 | 13–19 | 13–19 |
 | Les Républicains | FR | | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Partido Social Democrata | PT | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
@@ -56,7 +56,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | AGROunia–Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
+| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -83,26 +83,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 0.2% | 99.8% |  |
 | 148 | 0.4% | 99.6% |  |
 | 149 | 0.8% | 99.2% |  |
-| 150 | 1.4% | 98% |  |
+| 150 | 1.3% | 98% |  |
 | 151 | 2% | 97% |  |
 | 152 | 3% | 95% |  |
-| 153 | 5% | 91% |  |
-| 154 | 7% | 86% |  |
-| 155 | 8% | 80% |  |
-| 156 | 9% | 72% |  |
-| 157 | 10% | 62% |  |
-| 158 | 10% | 52% | Median |
-| 159 | 10% | 41% |  |
-| 160 | 9% | 32% |  |
-| 161 | 7% | 23% |  |
-| 162 | 5% | 16% |  |
-| 163 | 4% | 10% |  |
-| 164 | 3% | 6% |  |
+| 153 | 5% | 92% |  |
+| 154 | 6% | 87% |  |
+| 155 | 8% | 81% |  |
+| 156 | 9% | 73% |  |
+| 157 | 10% | 63% |  |
+| 158 | 10% | 53% | Median |
+| 159 | 10% | 43% |  |
+| 160 | 9% | 33% |  |
+| 161 | 7% | 24% |  |
+| 162 | 6% | 17% |  |
+| 163 | 4% | 11% |  |
+| 164 | 3% | 7% |  |
 | 165 | 2% | 4% |  |
-| 166 | 1.0% | 2% |  |
-| 167 | 0.6% | 1.1% |  |
-| 168 | 0.3% | 0.5% |  |
-| 169 | 0.1% | 0.3% |  |
+| 166 | 1.1% | 2% |  |
+| 167 | 0.6% | 1.2% |  |
+| 168 | 0.3% | 0.6% |  |
+| 169 | 0.2% | 0.3% |  |
 | 170 | 0.1% | 0.1% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
