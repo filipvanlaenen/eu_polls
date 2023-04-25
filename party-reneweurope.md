@@ -21,7 +21,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 98 | 84 | 79–89 | 77–90 | 76–91 | 73–94 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
 | ANO 2011 | CZ | | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
-| Freie Demokratische Partei | DE | | 7 | 5–8 | 4–10 | 4–10 | 4–10 |
+| Freie Demokratische Partei | DE | | 7 | 5–9 | 4–10 | 4–10 | 4–10 |
 | Azione–Italia Viva | IT | | 6 | 4–7 | 0–7 | 0–8 | 0–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Polska 2050 | PL | | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
@@ -43,7 +43,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Fianna Fáil | IE | | 1 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Wähler | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -79,30 +79,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.1% | 99.9% |  |
 | 72 | 0.2% | 99.8% |  |
 | 73 | 0.3% | 99.7% |  |
-| 74 | 0.6% | 99.3% |  |
-| 75 | 1.0% | 98.8% |  |
+| 74 | 0.6% | 99.4% |  |
+| 75 | 0.9% | 98.8% |  |
 | 76 | 2% | 98% |  |
 | 77 | 2% | 96% |  |
 | 78 | 4% | 94% |  |
 | 79 | 5% | 90% |  |
-| 80 | 7% | 85% |  |
-| 81 | 8% | 78% |  |
-| 82 | 9% | 70% |  |
-| 83 | 10% | 61% |  |
-| 84 | 10% | 51% | Median |
-| 85 | 10% | 40% |  |
-| 86 | 8% | 31% |  |
-| 87 | 7% | 22% |  |
-| 88 | 5% | 15% |  |
-| 89 | 4% | 10% |  |
-| 90 | 3% | 6% |  |
+| 80 | 6% | 86% |  |
+| 81 | 8% | 79% |  |
+| 82 | 9% | 71% |  |
+| 83 | 10% | 62% |  |
+| 84 | 10% | 52% | Median |
+| 85 | 10% | 42% |  |
+| 86 | 9% | 32% |  |
+| 87 | 7% | 24% |  |
+| 88 | 6% | 16% |  |
+| 89 | 4% | 11% |  |
+| 90 | 3% | 7% |  |
 | 91 | 2% | 4% |  |
-| 92 | 1.0% | 2% |  |
-| 93 | 0.5% | 1.1% |  |
-| 94 | 0.3% | 0.5% |  |
-| 95 | 0.1% | 0.2% |  |
+| 92 | 1.1% | 2% |  |
+| 93 | 0.6% | 1.2% |  |
+| 94 | 0.3% | 0.6% |  |
+| 95 | 0.2% | 0.3% |  |
 | 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0% |  |
+| 97 | 0% | 0.1% |  |
 | 98 | 0% | 0% | Last Result |
 
 
