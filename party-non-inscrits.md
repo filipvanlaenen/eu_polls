@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 44–52 | 42–53 | 41–54 | 40–56 |
+| Non-Inscrits | EU | 29 | 48 | 44–52 | 42–53 | 41–54 | 40–55 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | Konfederacja | PL | | 5 | 4–6 | 3–7 | 3–7 | 3–8 |
@@ -74,14 +74,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 10% | 76% |  |
 | 47 | 11% | 67% |  |
 | 48 | 11% | 56% | Median |
-| 49 | 11% | 45% |  |
+| 49 | 11% | 44% |  |
 | 50 | 10% | 33% |  |
-| 51 | 9% | 23% |  |
+| 51 | 9% | 22% |  |
 | 52 | 6% | 14% |  |
-| 53 | 4% | 8% |  |
+| 53 | 4% | 7% |  |
 | 54 | 2% | 4% |  |
-| 55 | 1.0% | 1.5% |  |
-| 56 | 0.4% | 0.5% |  |
+| 55 | 0.9% | 1.4% |  |
+| 56 | 0.3% | 0.5% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
