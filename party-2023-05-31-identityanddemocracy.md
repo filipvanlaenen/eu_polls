@@ -31,7 +31,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | SME RODINA | SK | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Εθνική Δημιουργία | GR | | 0 | 0 | 0 | 0 | 0 |
+| Εθνική Δημιουργία | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -52,10 +52,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 16% | 58% | Median |
 | 63 | 15% | 42% |  |
 | 64 | 12% | 27% |  |
-| 65 | 8% | 15% |  |
+| 65 | 8% | 16% |  |
 | 66 | 4% | 8% |  |
 | 67 | 2% | 3% |  |
-| 68 | 0.9% | 1.3% |  |
+| 68 | 0.9% | 1.4% |  |
 | 69 | 0.3% | 0.5% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |

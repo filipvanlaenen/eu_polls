@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **57** seats (+18 seats)
+Current median: **56** seats (+17 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 57 | 54–61 | 53–62 | 52–63 | 50–64 |
+| European United Left–Nordic Green Left | EU | 39 | 56 | 53–59 | 52–60 | 51–60 | 50–62 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| Sumar | ES | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
+| Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| Sumar | ES | | 5 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Die Linke | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
-| Podemos | ES | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Unidos Podemos | ES | | 4 | 3–7 | 3–7 | 2–7 | 2–8 |
+| Podemos | ES | | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
 | Partij voor de Dieren | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -37,7 +37,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -66,25 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
 | 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0.2% | 100% |  |
-| 50 | 0.5% | 99.8% |  |
-| 51 | 1.4% | 99.3% |  |
-| 52 | 3% | 98% |  |
-| 53 | 5% | 95% |  |
-| 54 | 7% | 90% |  |
-| 55 | 10% | 83% |  |
-| 56 | 12% | 73% |  |
-| 57 | 14% | 61% | Median |
-| 58 | 14% | 47% |  |
-| 59 | 12% | 33% |  |
-| 60 | 9% | 21% |  |
-| 61 | 6% | 12% |  |
-| 62 | 3% | 6% |  |
-| 63 | 2% | 3% |  |
-| 64 | 0.7% | 1.1% |  |
-| 65 | 0.3% | 0.4% |  |
-| 66 | 0.1% | 0.1% |  |
-| 67 | 0% | 0% |  |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.3% | 99.9% |  |
+| 50 | 1.0% | 99.6% |  |
+| 51 | 3% | 98.6% |  |
+| 52 | 5% | 96% |  |
+| 53 | 9% | 91% |  |
+| 54 | 13% | 81% |  |
+| 55 | 16% | 68% |  |
+| 56 | 16% | 52% | Median |
+| 57 | 14% | 35% |  |
+| 58 | 10% | 22% |  |
+| 59 | 6% | 12% |  |
+| 60 | 3% | 6% |  |
+| 61 | 1.5% | 2% |  |
+| 62 | 0.6% | 0.8% |  |
+| 63 | 0.2% | 0.3% |  |
+| 64 | 0.1% | 0.1% |  |
+| 65 | 0% | 0% |  |
 
 

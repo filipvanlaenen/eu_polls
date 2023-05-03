@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **21 countries**:
 
-> BE, BG, CY, CZ, DE, DK, EE, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI, SK
+> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **10** seats (+10 seats)
+Current median: **11** seats (+11 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
+| Parties currently not represented in the EP | EU | 0 | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | BoerBurgerBeweging [NL] (*) | NL | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -49,6 +49,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -68,14 +69,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 4% | 99.9% |  |
-| 9 | 17% | 96% |  |
-| 10 | 32% | 79% | Median |
-| 11 | 30% | 47% |  |
-| 12 | 14% | 17% |  |
-| 13 | 3% | 3% |  |
-| 14 | 0.2% | 0.4% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 12% | 98% |  |
+| 10 | 28% | 86% |  |
+| 11 | 33% | 59% | Median |
+| 12 | 20% | 26% |  |
+| 13 | 5% | 6% |  |
+| 14 | 0.3% | 0.5% |  |
 | 15 | 0.1% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 
