@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (+17 seats)
+Current median: **49** seats (+10 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 56 | 53–59 | 52–60 | 51–60 | 50–62 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 45–52 | 44–53 | 43–54 | 42–55 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Sumar | ES | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
@@ -59,31 +59,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0% | 100% |  |
-| 43 | 0% | 100% |  |
-| 44 | 0% | 100% |  |
-| 45 | 0% | 100% |  |
-| 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 1.0% | 99.6% |  |
-| 51 | 3% | 98.6% |  |
-| 52 | 5% | 96% |  |
-| 53 | 9% | 91% |  |
-| 54 | 13% | 81% |  |
-| 55 | 16% | 68% |  |
-| 56 | 16% | 52% | Median |
-| 57 | 14% | 35% |  |
-| 58 | 10% | 22% |  |
-| 59 | 6% | 12% |  |
-| 60 | 3% | 6% |  |
-| 61 | 1.5% | 2% |  |
-| 62 | 0.6% | 0.8% |  |
-| 63 | 0.2% | 0.3% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 1.0% | 99.6% |  |
+| 43 | 2% | 98.5% |  |
+| 44 | 4% | 96% |  |
+| 45 | 7% | 92% |  |
+| 46 | 9% | 85% |  |
+| 47 | 11% | 76% |  |
+| 48 | 13% | 65% |  |
+| 49 | 14% | 52% | Median |
+| 50 | 13% | 38% |  |
+| 51 | 11% | 24% |  |
+| 52 | 7% | 14% |  |
+| 53 | 4% | 7% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.8% | 1.1% |  |
+| 56 | 0.3% | 0.4% |  |
+| 57 | 0.1% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 
