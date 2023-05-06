@@ -23,7 +23,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Sumar | ES | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
 | Unidos Podemos | ES | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Die Linke | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Podemos | ES | | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
 | Partij voor de Dieren | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
@@ -37,7 +37,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -62,15 +62,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.3% | 99.9% |  |
 | 42 | 1.0% | 99.6% |  |
-| 43 | 2% | 98.5% |  |
+| 43 | 2% | 98.6% |  |
 | 44 | 4% | 96% |  |
 | 45 | 7% | 92% |  |
 | 46 | 9% | 85% |  |
-| 47 | 11% | 76% |  |
+| 47 | 11% | 77% |  |
 | 48 | 13% | 65% |  |
 | 49 | 14% | 52% | Median |
 | 50 | 13% | 38% |  |
-| 51 | 11% | 24% |  |
+| 51 | 11% | 25% |  |
 | 52 | 7% | 14% |  |
 | 53 | 4% | 7% |  |
 | 54 | 2% | 3% |  |
