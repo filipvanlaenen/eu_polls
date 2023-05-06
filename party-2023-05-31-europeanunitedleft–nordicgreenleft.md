@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE, SI
+> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE, SI
 
 ## Seats
 
@@ -10,15 +10,15 @@ Last result: **39** seats (General Election of 26 May 2019)
 
 Current median: **49** seats (+10 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE
+> AT, BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 45–52 | 44–53 | 43–54 | 42–55 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 45–53 | 44–53 | 43–54 | 42–56 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Sumar | ES | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
@@ -31,6 +31,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -59,24 +60,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% |  |
-| 42 | 1.0% | 99.6% |  |
-| 43 | 2% | 98.6% |  |
-| 44 | 4% | 96% |  |
-| 45 | 7% | 92% |  |
-| 46 | 9% | 85% |  |
-| 47 | 11% | 77% |  |
-| 48 | 13% | 65% |  |
-| 49 | 14% | 52% | Median |
-| 50 | 13% | 38% |  |
-| 51 | 11% | 25% |  |
-| 52 | 7% | 14% |  |
-| 53 | 4% | 7% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.8% | 1.1% |  |
-| 56 | 0.3% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.7% | 99.7% |  |
+| 43 | 2% | 99.1% |  |
+| 44 | 3% | 97% |  |
+| 45 | 6% | 94% |  |
+| 46 | 8% | 88% |  |
+| 47 | 10% | 81% |  |
+| 48 | 12% | 71% |  |
+| 49 | 14% | 58% | Median |
+| 50 | 14% | 45% |  |
+| 51 | 12% | 31% |  |
+| 52 | 9% | 19% |  |
+| 53 | 6% | 10% |  |
+| 54 | 3% | 5% |  |
+| 55 | 1.3% | 2% |  |
+| 56 | 0.5% | 0.7% |  |
+| 57 | 0.2% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 
