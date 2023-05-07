@@ -29,7 +29,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 5 | 5 | 5 |
 | Продължаваме промяната–Демократична България | BG | | 5 | 5 | 5 | 5 | 5 |
@@ -90,11 +90,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 5% | 89% |  |
 | 155 | 6% | 84% |  |
 | 156 | 7% | 78% |  |
-| 157 | 9% | 70% |  |
+| 157 | 9% | 71% |  |
 | 158 | 9% | 62% |  |
 | 159 | 10% | 53% | Median |
 | 160 | 9% | 43% |  |
-| 161 | 9% | 33% |  |
+| 161 | 9% | 34% |  |
 | 162 | 7% | 25% |  |
 | 163 | 6% | 18% |  |
 | 164 | 4% | 12% |  |
