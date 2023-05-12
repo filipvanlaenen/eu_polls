@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 81 | 77–85 | 76–86 | 75–87 | 74–89 |
+| European Conservatives and Reformists | EU | 61 | 81 | 77–85 | 76–86 | 75–87 | 73–89 |
 | Fratelli d’Italia | IT | | 24 | 23–27 | 22–27 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 20 | 18–23 | 18–23 | 18–24 | 17–24 |
 | Vox | ES | | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Ελληνική Λύση | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -64,20 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0.1% | 100% |  |
-| 73 | 0.3% | 99.9% |  |
-| 74 | 0.8% | 99.5% |  |
-| 75 | 2% | 98.7% |  |
+| 73 | 0.4% | 99.8% |  |
+| 74 | 0.9% | 99.5% |  |
+| 75 | 2% | 98.5% |  |
 | 76 | 4% | 97% |  |
 | 77 | 6% | 93% |  |
-| 78 | 9% | 87% |  |
-| 79 | 11% | 78% |  |
-| 80 | 13% | 67% |  |
-| 81 | 13% | 54% | Median |
-| 82 | 12% | 41% |  |
-| 83 | 10% | 29% |  |
-| 84 | 7% | 19% |  |
-| 85 | 5% | 12% |  |
-| 86 | 3% | 7% |  |
+| 78 | 9% | 86% |  |
+| 79 | 11% | 77% |  |
+| 80 | 13% | 66% |  |
+| 81 | 13% | 53% | Median |
+| 82 | 12% | 40% |  |
+| 83 | 10% | 28% |  |
+| 84 | 7% | 18% |  |
+| 85 | 5% | 11% |  |
+| 86 | 3% | 6% |  |
 | 87 | 2% | 3% |  |
 | 88 | 0.9% | 2% |  |
 | 89 | 0.4% | 0.7% |  |

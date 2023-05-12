@@ -34,7 +34,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
@@ -46,6 +45,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -79,27 +79,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.1% | 100% |  |
 | 72 | 0.1% | 99.9% |  |
 | 73 | 0.2% | 99.8% |  |
-| 74 | 0.4% | 99.6% |  |
-| 75 | 0.7% | 99.2% |  |
-| 76 | 1.1% | 98.6% |  |
+| 74 | 0.4% | 99.5% |  |
+| 75 | 0.7% | 99.1% |  |
+| 76 | 1.2% | 98% |  |
 | 77 | 2% | 97% |  |
-| 78 | 3% | 96% |  |
-| 79 | 4% | 93% |  |
-| 80 | 5% | 89% |  |
-| 81 | 7% | 84% |  |
-| 82 | 8% | 77% |  |
-| 83 | 9% | 69% |  |
-| 84 | 10% | 60% | Median |
-| 85 | 10% | 50% |  |
-| 86 | 9% | 40% |  |
-| 87 | 8% | 30% |  |
-| 88 | 7% | 22% |  |
-| 89 | 5% | 15% |  |
-| 90 | 4% | 10% |  |
-| 91 | 3% | 6% |  |
-| 92 | 2% | 3% |  |
-| 93 | 0.9% | 2% |  |
-| 94 | 0.5% | 0.9% |  |
+| 78 | 3% | 95% |  |
+| 79 | 4% | 92% |  |
+| 80 | 6% | 88% |  |
+| 81 | 7% | 83% |  |
+| 82 | 8% | 76% |  |
+| 83 | 10% | 67% |  |
+| 84 | 10% | 58% | Median |
+| 85 | 10% | 48% |  |
+| 86 | 9% | 38% |  |
+| 87 | 8% | 28% |  |
+| 88 | 7% | 20% |  |
+| 89 | 5% | 14% |  |
+| 90 | 3% | 9% |  |
+| 91 | 2% | 5% |  |
+| 92 | 1.4% | 3% |  |
+| 93 | 0.8% | 2% |  |
+| 94 | 0.4% | 0.8% |  |
 | 95 | 0.2% | 0.4% |  |
 | 96 | 0.1% | 0.2% |  |
 | 97 | 0% | 0.1% |  |

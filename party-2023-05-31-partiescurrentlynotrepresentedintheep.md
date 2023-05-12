@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI, SK
+> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **11** seats (+11 seats)
+Current median: **10** seats (+10 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | BoerBurgerBeweging [NL] (*) | NL | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
-| Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bandić Milan 365–Stranka rada i solidarnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +41,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -65,16 +64,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 1.0% | 100% |  |
-| 9 | 8% | 99.0% |  |
-| 10 | 26% | 91% |  |
-| 11 | 37% | 64% | Median |
-| 12 | 22% | 27% |  |
-| 13 | 5% | 5% |  |
-| 14 | 0.2% | 0.4% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 3% | 99.9% |  |
+| 9 | 16% | 97% |  |
+| 10 | 33% | 81% | Median |
+| 11 | 32% | 49% |  |
+| 12 | 14% | 17% |  |
+| 13 | 3% | 3% |  |
+| 14 | 0.2% | 0.3% |  |
 | 15 | 0.1% | 0.2% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 16 | 0% | 0% |  |
 
 
