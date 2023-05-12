@@ -34,7 +34,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -60,11 +60,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
-| 40 | 0.1% | 100% |  |
+| 40 | 0% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
 | 42 | 0.7% | 99.7% |  |
 | 43 | 2% | 99.0% |  |
-| 44 | 4% | 97% |  |
+| 44 | 3% | 97% |  |
 | 45 | 6% | 94% |  |
 | 46 | 8% | 88% |  |
 | 47 | 10% | 80% |  |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 5% | 10% |  |
 | 54 | 3% | 5% |  |
 | 55 | 1.3% | 2% |  |
-| 56 | 0.5% | 0.7% |  |
+| 56 | 0.5% | 0.8% |  |
 | 57 | 0.2% | 0.2% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |

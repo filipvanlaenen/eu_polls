@@ -43,7 +43,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 145 | 0.1% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
-| 147 | 0.2% | 99.8% |  |
-| 148 | 0.4% | 99.5% |  |
+| 147 | 0.3% | 99.8% |  |
+| 148 | 0.5% | 99.5% |  |
 | 149 | 0.8% | 99.1% |  |
 | 150 | 1.2% | 98% |  |
 | 151 | 2% | 97% |  |
@@ -90,20 +90,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 5% | 89% |  |
 | 155 | 6% | 84% |  |
 | 156 | 7% | 78% |  |
-| 157 | 9% | 71% |  |
+| 157 | 9% | 70% |  |
 | 158 | 9% | 62% |  |
-| 159 | 10% | 53% | Median |
+| 159 | 10% | 52% | Median |
 | 160 | 9% | 43% |  |
-| 161 | 9% | 34% |  |
+| 161 | 9% | 33% |  |
 | 162 | 7% | 25% |  |
-| 163 | 6% | 18% |  |
-| 164 | 4% | 12% |  |
+| 163 | 6% | 17% |  |
+| 164 | 4% | 11% |  |
 | 165 | 3% | 7% |  |
 | 166 | 2% | 4% |  |
 | 167 | 1.1% | 2% |  |
 | 168 | 0.6% | 1.2% |  |
 | 169 | 0.3% | 0.6% |  |
-| 170 | 0.2% | 0.3% |  |
+| 170 | 0.1% | 0.2% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
