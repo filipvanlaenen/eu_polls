@@ -30,7 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,12 +73,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 8% | 89% |  |
 | 45 | 9% | 81% |  |
 | 46 | 11% | 72% |  |
-| 47 | 12% | 61% | Median |
-| 48 | 13% | 49% |  |
+| 47 | 12% | 62% | Median |
+| 48 | 13% | 50% |  |
 | 49 | 13% | 37% |  |
-| 50 | 10% | 24% |  |
+| 50 | 11% | 24% |  |
 | 51 | 7% | 14% |  |
-| 52 | 4% | 6% |  |
+| 52 | 4% | 7% |  |
 | 53 | 2% | 3% |  |
 | 54 | 0.6% | 0.8% |  |
 | 55 | 0.2% | 0.2% |  |

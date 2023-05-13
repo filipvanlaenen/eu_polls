@@ -21,7 +21,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 39 | 50 | 47–53 | 47–54 | 46–55 | 45–56 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–8 | 5–8 | 5–8 |
-| Sumar | ES | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Sumar | ES | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Die Linke | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Podemos | ES | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
@@ -38,7 +38,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -68,10 +68,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 3% | 98.6% |  |
 | 47 | 6% | 96% |  |
 | 48 | 11% | 89% |  |
-| 49 | 15% | 78% |  |
+| 49 | 15% | 79% |  |
 | 50 | 17% | 63% | Median |
 | 51 | 16% | 46% |  |
-| 52 | 13% | 29% |  |
+| 52 | 13% | 30% |  |
 | 53 | 8% | 17% |  |
 | 54 | 5% | 8% |  |
 | 55 | 2% | 4% |  |
