@@ -18,9 +18,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 159 | 153–164 | 152–165 | 150–167 | 148–169 |
+| European People’s Party | EU | 187 | 159 | 153–164 | 152–165 | 150–166 | 148–169 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 19–25 | 18–25 | 18–25 | 18–26 |
-| Partido Popular | ES | | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
+| Partido Popular | ES | | 19 | 17–20 | 16–21 | 16–22 | 15–22 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 13–18 | 13–19 | 13–19 |
 | Les Républicains | FR | | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -39,14 +39,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
+| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
+| Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,30 +80,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 145 | 0.1% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
-| 147 | 0.2% | 99.8% |  |
-| 148 | 0.4% | 99.6% |  |
-| 149 | 0.7% | 99.2% |  |
-| 150 | 1.1% | 98% |  |
+| 147 | 0.3% | 99.8% |  |
+| 148 | 0.5% | 99.5% |  |
+| 149 | 0.8% | 99.1% |  |
+| 150 | 1.2% | 98% |  |
 | 151 | 2% | 97% |  |
-| 152 | 3% | 96% |  |
-| 153 | 4% | 93% |  |
+| 152 | 3% | 95% |  |
+| 153 | 4% | 92% |  |
 | 154 | 5% | 89% |  |
-| 155 | 6% | 85% |  |
-| 156 | 7% | 79% |  |
-| 157 | 8% | 72% |  |
-| 158 | 9% | 63% |  |
-| 159 | 10% | 54% | Median |
-| 160 | 10% | 44% |  |
-| 161 | 9% | 35% |  |
-| 162 | 8% | 26% |  |
-| 163 | 6% | 18% |  |
-| 164 | 5% | 12% |  |
-| 165 | 3% | 8% |  |
-| 166 | 2% | 5% |  |
-| 167 | 1.2% | 3% |  |
-| 168 | 0.7% | 1.3% |  |
-| 169 | 0.3% | 0.6% |  |
-| 170 | 0.2% | 0.3% |  |
+| 155 | 6% | 84% |  |
+| 156 | 8% | 78% |  |
+| 157 | 9% | 70% |  |
+| 158 | 9% | 61% |  |
+| 159 | 10% | 52% | Median |
+| 160 | 9% | 42% |  |
+| 161 | 9% | 33% |  |
+| 162 | 7% | 24% |  |
+| 163 | 6% | 17% |  |
+| 164 | 4% | 11% |  |
+| 165 | 3% | 7% |  |
+| 166 | 2% | 4% |  |
+| 167 | 1.1% | 2% |  |
+| 168 | 0.6% | 1.1% |  |
+| 169 | 0.3% | 0.5% |  |
+| 170 | 0.1% | 0.2% |  |
 | 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |

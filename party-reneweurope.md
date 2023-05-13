@@ -26,11 +26,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Polska 2050 | PL | | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
-| Eesti Reformierakond | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Eesti 200 | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Eesti 200 | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,7 +39,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Движение за права и свободи | BG | | 2 | 2 | 2 | 2 | 2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -50,7 +50,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -58,7 +58,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partido Regionalista de Cantabria | ES | | 0 | 0 | 0 | 0 | 0 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -86,22 +85,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 3% | 95% |  |
 | 79 | 4% | 92% |  |
 | 80 | 6% | 88% |  |
-| 81 | 7% | 83% |  |
-| 82 | 8% | 76% |  |
+| 81 | 7% | 82% |  |
+| 82 | 9% | 75% |  |
 | 83 | 10% | 67% |  |
-| 84 | 10% | 58% | Median |
-| 85 | 10% | 48% |  |
-| 86 | 9% | 38% |  |
+| 84 | 10% | 57% | Median |
+| 85 | 10% | 47% |  |
+| 86 | 9% | 37% |  |
 | 87 | 8% | 28% |  |
-| 88 | 7% | 20% |  |
-| 89 | 5% | 14% |  |
+| 88 | 6% | 20% |  |
+| 89 | 5% | 13% |  |
 | 90 | 3% | 9% |  |
 | 91 | 2% | 5% |  |
 | 92 | 1.4% | 3% |  |
 | 93 | 0.8% | 2% |  |
 | 94 | 0.4% | 0.8% |  |
 | 95 | 0.2% | 0.4% |  |
-| 96 | 0.1% | 0.2% |  |
+| 96 | 0.1% | 0.1% |  |
 | 97 | 0% | 0.1% |  |
 | 98 | 0% | 0% | Last Result |
 
