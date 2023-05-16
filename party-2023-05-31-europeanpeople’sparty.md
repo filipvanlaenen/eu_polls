@@ -24,7 +24,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 13–18 | 13–19 | 13–19 |
 | Les Républicains | FR | | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 5–7 | 5–8 | 5–10 | 5–10 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
@@ -37,7 +37,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 4 |
 | Koalicja Polska | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 146 | 0.1% | 99.9% |  |
 | 147 | 0.3% | 99.8% |  |
 | 148 | 0.5% | 99.5% |  |
-| 149 | 0.8% | 99.0% |  |
+| 149 | 0.8% | 99.1% |  |
 | 150 | 1.2% | 98% |  |
 | 151 | 2% | 97% |  |
 | 152 | 3% | 95% |  |
@@ -97,11 +97,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 9% | 33% |  |
 | 162 | 7% | 25% |  |
 | 163 | 6% | 17% |  |
-| 164 | 4% | 12% |  |
+| 164 | 4% | 11% |  |
 | 165 | 3% | 7% |  |
 | 166 | 2% | 4% |  |
 | 167 | 1.1% | 2% |  |
-| 168 | 0.6% | 1.2% |  |
+| 168 | 0.6% | 1.1% |  |
 | 169 | 0.3% | 0.5% |  |
 | 170 | 0.1% | 0.2% |  |
 | 171 | 0.1% | 0.1% |  |
