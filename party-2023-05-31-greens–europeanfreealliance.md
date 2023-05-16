@@ -45,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
-| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
+| Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -62,23 +62,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.2% | 100% |  |
-| 38 | 0.6% | 99.8% |  |
-| 39 | 2% | 99.2% |  |
-| 40 | 4% | 98% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.5% | 99.8% |  |
+| 39 | 1.5% | 99.4% |  |
+| 40 | 3% | 98% |  |
 | 41 | 7% | 94% |  |
-| 42 | 11% | 86% |  |
-| 43 | 14% | 75% |  |
-| 44 | 15% | 61% | Median |
-| 45 | 14% | 46% |  |
-| 46 | 12% | 32% |  |
-| 47 | 8% | 21% |  |
-| 48 | 6% | 12% |  |
-| 49 | 3% | 7% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.9% | 2% |  |
-| 52 | 0.4% | 0.7% |  |
-| 53 | 0.2% | 0.3% |  |
+| 42 | 10% | 88% |  |
+| 43 | 13% | 78% |  |
+| 44 | 15% | 64% | Median |
+| 45 | 14% | 50% |  |
+| 46 | 12% | 35% |  |
+| 47 | 9% | 23% |  |
+| 48 | 6% | 14% |  |
+| 49 | 4% | 8% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.1% | 2% |  |
+| 52 | 0.5% | 0.9% |  |
+| 53 | 0.2% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
