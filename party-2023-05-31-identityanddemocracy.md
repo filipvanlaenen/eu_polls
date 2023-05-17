@@ -22,7 +22,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Rassemblement national | FR | | 22 | 21–24 | 21–25 | 20–25 | 19–26 |
 | Alternative für Deutschland | DE | | 16 | 14–17 | 13–17 | 13–17 | 13–19 |
 | Lega Nord | IT | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
-| Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Chega | PT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -41,21 +41,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0% | 100% |  |
+| 55 | 0.1% | 100% |  |
 | 56 | 0.2% | 99.9% |  |
-| 57 | 0.6% | 99.8% |  |
-| 58 | 2% | 99.1% |  |
+| 57 | 0.7% | 99.7% |  |
+| 58 | 2% | 99.0% |  |
 | 59 | 4% | 97% |  |
-| 60 | 7% | 94% |  |
-| 61 | 11% | 87% |  |
-| 62 | 15% | 76% |  |
-| 63 | 16% | 61% | Median |
-| 64 | 16% | 45% |  |
-| 65 | 12% | 29% |  |
-| 66 | 8% | 17% |  |
-| 67 | 5% | 8% |  |
-| 68 | 2% | 4% |  |
-| 69 | 0.9% | 1.3% |  |
+| 60 | 7% | 93% |  |
+| 61 | 11% | 86% |  |
+| 62 | 15% | 75% |  |
+| 63 | 17% | 60% | Median |
+| 64 | 15% | 43% |  |
+| 65 | 12% | 28% |  |
+| 66 | 8% | 16% |  |
+| 67 | 4% | 8% |  |
+| 68 | 2% | 3% |  |
+| 69 | 0.8% | 1.2% |  |
 | 70 | 0.3% | 0.4% |  |
 | 71 | 0.1% | 0.1% |  |
 | 72 | 0% | 0% |  |
