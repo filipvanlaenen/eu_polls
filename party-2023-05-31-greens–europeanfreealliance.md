@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 45 | 41–48 | 40–49 | 40–50 | 38–52 |
-| Bündnis 90/Die Grünen | DE | | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| Greens–European Free Alliance | EU | 67 | 45 | 42–48 | 41–49 | 40–50 | 38–52 |
+| Bündnis 90/Die Grünen | DE | | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | Europe Écologie Les Verts | FR | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,10 +44,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -63,21 +63,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.5% | 99.9% |  |
-| 39 | 1.4% | 99.4% |  |
+| 38 | 0.5% | 99.8% |  |
+| 39 | 1.2% | 99.4% |  |
 | 40 | 3% | 98% |  |
-| 41 | 6% | 95% |  |
-| 42 | 10% | 88% |  |
-| 43 | 13% | 78% |  |
-| 44 | 15% | 65% |  |
-| 45 | 14% | 50% | Median |
-| 46 | 12% | 36% |  |
-| 47 | 9% | 24% |  |
-| 48 | 6% | 14% |  |
-| 49 | 4% | 8% |  |
+| 41 | 5% | 95% |  |
+| 42 | 8% | 90% |  |
+| 43 | 12% | 82% |  |
+| 44 | 15% | 70% |  |
+| 45 | 15% | 55% | Median |
+| 46 | 14% | 40% |  |
+| 47 | 10% | 26% |  |
+| 48 | 7% | 16% |  |
+| 49 | 4% | 9% |  |
 | 50 | 2% | 4% |  |
-| 51 | 1.1% | 2% |  |
-| 52 | 0.5% | 0.9% |  |
+| 51 | 1.2% | 2% |  |
+| 52 | 0.6% | 1.0% |  |
 | 53 | 0.2% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
