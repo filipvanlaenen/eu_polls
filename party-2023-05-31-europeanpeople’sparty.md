@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 152–162 | 151–163 | 150–165 | 148–167 |
+| European People’s Party | EU | 187 | 157 | 152–162 | 151–164 | 150–165 | 148–167 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–25 | 19–25 | 19–25 | 18–26 |
 | Partido Popular | ES | | 19 | 17–21 | 16–21 | 16–22 | 15–22 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 13–18 | 13–19 | 13–19 |
@@ -27,7 +27,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 5–10 |
-| Forza Italia | IT | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -40,7 +40,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -80,29 +80,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 145 | 0% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
-| 147 | 0.3% | 99.8% |  |
+| 147 | 0.2% | 99.8% |  |
 | 148 | 0.5% | 99.6% |  |
-| 149 | 1.0% | 99.0% |  |
+| 149 | 0.9% | 99.1% |  |
 | 150 | 2% | 98% |  |
-| 151 | 3% | 96% |  |
-| 152 | 4% | 93% |  |
-| 153 | 6% | 89% |  |
-| 154 | 8% | 83% |  |
-| 155 | 9% | 76% |  |
-| 156 | 10% | 67% |  |
-| 157 | 10% | 57% | Median |
-| 158 | 10% | 46% |  |
-| 159 | 9% | 36% |  |
-| 160 | 8% | 27% |  |
-| 161 | 6% | 19% |  |
-| 162 | 5% | 13% |  |
-| 163 | 3% | 8% |  |
+| 151 | 3% | 97% |  |
+| 152 | 4% | 94% |  |
+| 153 | 6% | 90% |  |
+| 154 | 7% | 84% |  |
+| 155 | 9% | 77% |  |
+| 156 | 10% | 68% |  |
+| 157 | 10% | 58% | Median |
+| 158 | 10% | 48% |  |
+| 159 | 9% | 37% |  |
+| 160 | 8% | 28% |  |
+| 161 | 6% | 20% |  |
+| 162 | 5% | 14% |  |
+| 163 | 3% | 9% |  |
 | 164 | 2% | 5% |  |
-| 165 | 1.3% | 3% |  |
-| 166 | 0.7% | 1.5% |  |
-| 167 | 0.4% | 0.7% |  |
-| 168 | 0.2% | 0.3% |  |
-| 169 | 0.1% | 0.1% |  |
+| 165 | 1.4% | 3% |  |
+| 166 | 0.8% | 2% |  |
+| 167 | 0.4% | 0.8% |  |
+| 168 | 0.2% | 0.4% |  |
+| 169 | 0.1% | 0.2% |  |
 | 170 | 0% | 0.1% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |

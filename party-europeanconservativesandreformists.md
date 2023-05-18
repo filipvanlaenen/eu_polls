@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (+20 seats)
+Current median: **82** seats (+21 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 81 | 77–85 | 76–86 | 75–87 | 73–89 |
-| Fratelli d’Italia | IT | | 24 | 23–27 | 22–27 | 22–28 | 21–29 |
+| European Conservatives and Reformists | EU | 61 | 82 | 78–86 | 77–87 | 76–88 | 74–90 |
+| Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–29 | 21–30 |
 | Zjednoczona Prawica | PL | | 20 | 18–23 | 18–23 | 18–24 | 17–24 |
 | Vox | ES | | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -64,25 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0.1% | 100% |  |
-| 73 | 0.4% | 99.8% |  |
-| 74 | 0.9% | 99.5% |  |
-| 75 | 2% | 98.5% |  |
-| 76 | 4% | 97% |  |
-| 77 | 6% | 93% |  |
-| 78 | 9% | 86% |  |
-| 79 | 12% | 77% |  |
-| 80 | 13% | 66% |  |
-| 81 | 13% | 53% | Median |
-| 82 | 12% | 40% |  |
-| 83 | 10% | 28% |  |
-| 84 | 7% | 18% |  |
-| 85 | 5% | 11% |  |
-| 86 | 3% | 6% |  |
-| 87 | 2% | 3% |  |
-| 88 | 0.8% | 1.4% |  |
-| 89 | 0.4% | 0.6% |  |
-| 90 | 0.2% | 0.2% |  |
-| 91 | 0.1% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 73 | 0.2% | 99.9% |  |
+| 74 | 0.5% | 99.8% |  |
+| 75 | 1.1% | 99.3% |  |
+| 76 | 2% | 98% |  |
+| 77 | 4% | 96% |  |
+| 78 | 6% | 92% |  |
+| 79 | 9% | 85% |  |
+| 80 | 11% | 76% |  |
+| 81 | 13% | 65% |  |
+| 82 | 13% | 52% | Median |
+| 83 | 12% | 39% |  |
+| 84 | 10% | 28% |  |
+| 85 | 7% | 18% |  |
+| 86 | 5% | 11% |  |
+| 87 | 3% | 6% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.8% | 1.5% |  |
+| 90 | 0.4% | 0.6% |  |
+| 91 | 0.2% | 0.3% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 
