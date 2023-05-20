@@ -29,8 +29,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Partij voor de Dieren | NL | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -65,18 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
 | 45 | 0.5% | 99.9% |  |
-| 46 | 2% | 99.4% |  |
+| 46 | 1.5% | 99.4% |  |
 | 47 | 4% | 98% |  |
 | 48 | 8% | 94% |  |
 | 49 | 13% | 86% |  |
-| 50 | 17% | 73% |  |
-| 51 | 18% | 56% | Median |
-| 52 | 15% | 39% |  |
+| 50 | 17% | 74% |  |
+| 51 | 18% | 57% | Median |
+| 52 | 16% | 39% |  |
 | 53 | 11% | 24% |  |
 | 54 | 7% | 12% |  |
 | 55 | 3% | 6% |  |
 | 56 | 1.5% | 2% |  |
-| 57 | 0.6% | 0.8% |  |
+| 57 | 0.5% | 0.8% |  |
 | 58 | 0.2% | 0.2% |  |
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
