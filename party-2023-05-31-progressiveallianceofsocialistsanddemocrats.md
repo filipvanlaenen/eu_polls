@@ -31,9 +31,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialdemokraterne | DK | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
+| SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 2–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3 | 3 | 3 | 3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -55,7 +55,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -67,23 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 129 | 0.1% | 100% |  |
 | 130 | 0.2% | 99.9% |  |
-| 131 | 0.5% | 99.6% |  |
-| 132 | 1.0% | 99.2% |  |
+| 131 | 0.5% | 99.7% |  |
+| 132 | 0.9% | 99.2% |  |
 | 133 | 2% | 98% |  |
-| 134 | 3% | 96% |  |
-| 135 | 5% | 93% |  |
+| 134 | 3% | 97% |  |
+| 135 | 4% | 94% |  |
 | 136 | 6% | 89% |  |
 | 137 | 8% | 83% |  |
-| 138 | 10% | 74% |  |
-| 139 | 11% | 64% |  |
+| 138 | 10% | 75% |  |
+| 139 | 11% | 65% |  |
 | 140 | 11% | 54% | Median |
 | 141 | 10% | 43% |  |
-| 142 | 9% | 32% |  |
-| 143 | 7% | 23% |  |
+| 142 | 9% | 33% |  |
+| 143 | 8% | 24% |  |
 | 144 | 6% | 16% |  |
 | 145 | 4% | 10% |  |
 | 146 | 3% | 6% |  |
-| 147 | 2% | 3% | Last Result |
+| 147 | 2% | 4% | Last Result |
 | 148 | 0.9% | 2% |  |
 | 149 | 0.5% | 0.9% |  |
 | 150 | 0.2% | 0.4% |  |

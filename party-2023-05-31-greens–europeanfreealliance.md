@@ -25,7 +25,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -68,17 +68,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 4% | 96% |  |
 | 44 | 8% | 92% |  |
 | 45 | 12% | 84% |  |
-| 46 | 16% | 72% |  |
-| 47 | 17% | 56% | Median |
-| 48 | 15% | 39% |  |
-| 49 | 11% | 24% |  |
-| 50 | 7% | 13% |  |
+| 46 | 15% | 73% |  |
+| 47 | 17% | 57% | Median |
+| 48 | 15% | 41% |  |
+| 49 | 11% | 26% |  |
+| 50 | 7% | 14% |  |
 | 51 | 4% | 7% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.8% | 1.4% |  |
+| 52 | 2% | 4% |  |
+| 53 | 0.9% | 2% |  |
 | 54 | 0.4% | 0.6% |  |
-| 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 55 | 0.2% | 0.2% |  |
+| 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |

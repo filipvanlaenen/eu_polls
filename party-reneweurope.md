@@ -18,9 +18,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 81 | 75–86 | 74–87 | 73–88 | 70–90 |
+| Renew Europe | EU | 98 | 81 | 75–85 | 74–87 | 73–88 | 70–90 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
-| ANO 2011 | CZ | | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 5–9 | 5–9 | 4–9 | 4–10 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
@@ -30,7 +30,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Eesti 200 | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
@@ -84,25 +84,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 1.0% | 98.8% |  |
 | 73 | 2% | 98% |  |
 | 74 | 3% | 96% |  |
-| 75 | 4% | 94% |  |
+| 75 | 4% | 93% |  |
 | 76 | 5% | 90% |  |
-| 77 | 6% | 85% |  |
-| 78 | 8% | 79% |  |
-| 79 | 9% | 71% |  |
-| 80 | 10% | 62% |  |
-| 81 | 10% | 53% | Median |
-| 82 | 10% | 43% |  |
-| 83 | 9% | 33% |  |
-| 84 | 7% | 24% |  |
-| 85 | 6% | 17% |  |
-| 86 | 4% | 11% |  |
-| 87 | 3% | 7% |  |
-| 88 | 2% | 4% |  |
-| 89 | 1.1% | 2% |  |
-| 90 | 0.6% | 1.0% |  |
-| 91 | 0.3% | 0.5% |  |
-| 92 | 0.1% | 0.2% |  |
-| 93 | 0.1% | 0.1% |  |
+| 77 | 7% | 85% |  |
+| 78 | 8% | 78% |  |
+| 79 | 9% | 70% |  |
+| 80 | 10% | 61% |  |
+| 81 | 10% | 51% | Median |
+| 82 | 10% | 41% |  |
+| 83 | 9% | 31% |  |
+| 84 | 7% | 22% |  |
+| 85 | 6% | 15% |  |
+| 86 | 4% | 10% |  |
+| 87 | 3% | 6% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.8% | 2% |  |
+| 90 | 0.4% | 0.7% |  |
+| 91 | 0.2% | 0.3% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 | 94 | 0% | 0% |  |
 | 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |
