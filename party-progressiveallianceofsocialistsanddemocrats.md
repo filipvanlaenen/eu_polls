@@ -55,7 +55,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
