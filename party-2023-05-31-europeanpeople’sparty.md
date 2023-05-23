@@ -10,15 +10,15 @@ Last result: **187** seats (General Election of 26 May 2019)
 
 Current median: **158** seats (-29 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 153–163 | 152–165 | 151–166 | 148–168 |
+| European People’s Party | EU | 187 | 158 | 153–163 | 152–165 | 151–166 | 149–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–24 | 19–25 | 19–25 | 18–26 |
 | Partido Popular | ES | | 19 | 17–21 | 17–21 | 16–22 | 15–22 |
 | Koalicja Obywatelska | PL | | 16 | 14–18 | 13–18 | 13–19 | 13–19 |
@@ -46,7 +46,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -59,6 +58,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | AGROunia–Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -91,19 +91,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 8% | 82% |  |
 | 156 | 9% | 74% |  |
 | 157 | 10% | 65% |  |
-| 158 | 10% | 55% | Median |
-| 159 | 10% | 45% |  |
-| 160 | 9% | 35% |  |
-| 161 | 7% | 27% |  |
-| 162 | 6% | 19% |  |
+| 158 | 10% | 56% | Median |
+| 159 | 10% | 46% |  |
+| 160 | 9% | 36% |  |
+| 161 | 8% | 27% |  |
+| 162 | 6% | 20% |  |
 | 163 | 5% | 13% |  |
-| 164 | 3% | 8% |  |
+| 164 | 3% | 9% |  |
 | 165 | 2% | 5% |  |
 | 166 | 1.4% | 3% |  |
 | 167 | 0.8% | 2% |  |
 | 168 | 0.4% | 0.8% |  |
-| 169 | 0.2% | 0.3% |  |
-| 170 | 0.1% | 0.1% |  |
+| 169 | 0.2% | 0.4% |  |
+| 170 | 0.1% | 0.2% |  |
 | 171 | 0% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
