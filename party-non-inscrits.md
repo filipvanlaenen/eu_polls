@@ -18,12 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 46–52 | 45–52 | 44–53 | 42–55 |
+| Non-Inscrits | EU | 29 | 49 | 46–52 | 45–53 | 44–53 | 42–55 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | Konfederacja | PL | | 5 | 4–6 | 3–7 | 3–7 | 3–8 |
 | Reconquête | FR | | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 1–2 |
@@ -32,7 +33,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | España Vaciada | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -69,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
 | 42 | 0.4% | 99.7% |  |
-| 43 | 1.0% | 99.2% |  |
+| 43 | 0.9% | 99.4% |  |
 | 44 | 2% | 98% |  |
-| 45 | 5% | 96% |  |
-| 46 | 9% | 91% |  |
-| 47 | 13% | 82% |  |
-| 48 | 16% | 69% |  |
-| 49 | 17% | 53% | Median |
-| 50 | 15% | 36% |  |
-| 51 | 10% | 21% |  |
-| 52 | 6% | 11% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.4% | 0.6% |  |
+| 45 | 4% | 97% |  |
+| 46 | 8% | 92% |  |
+| 47 | 12% | 85% |  |
+| 48 | 16% | 72% |  |
+| 49 | 17% | 56% | Median |
+| 50 | 15% | 39% |  |
+| 51 | 11% | 24% |  |
+| 52 | 7% | 13% |  |
+| 53 | 4% | 6% |  |
+| 54 | 1.5% | 2% |  |
+| 55 | 0.5% | 0.7% |  |
 | 56 | 0.1% | 0.2% |  |
 | 57 | 0% | 0% |  |
 
