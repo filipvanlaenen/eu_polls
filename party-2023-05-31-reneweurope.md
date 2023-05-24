@@ -30,7 +30,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–3 |
-| Eesti Reformierakond | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -87,7 +87,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 6% | 88% |  |
 | 81 | 7% | 83% |  |
 | 82 | 9% | 75% |  |
-| 83 | 10% | 67% |  |
+| 83 | 10% | 66% |  |
 | 84 | 10% | 57% | Median |
 | 85 | 10% | 47% |  |
 | 86 | 9% | 37% |  |
