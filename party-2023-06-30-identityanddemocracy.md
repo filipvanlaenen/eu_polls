@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **65** seats (-11 seats)
+Current median: **64** seats (-12 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 65 | 62–68 | 61–69 | 60–70 | 59–71 |
+| Identity and Democracy | EU | 76 | 64 | 62–68 | 61–69 | 60–70 | 59–71 |
 | Rassemblement national | FR | | 22 | 21–23 | 21–24 | 20–25 | 20–26 |
 | Alternative für Deutschland | DE | | 15 | 14–17 | 13–17 | 13–18 | 13–18 |
 | Lega Nord | IT | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
-| Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Chega | PT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partij voor de Vrijheid | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -41,21 +41,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.9% | 99.7% |  |
-| 60 | 2% | 98.8% |  |
-| 61 | 5% | 96% |  |
-| 62 | 9% | 91% |  |
-| 63 | 14% | 82% |  |
-| 64 | 16% | 68% |  |
-| 65 | 16% | 52% | Median |
-| 66 | 14% | 36% |  |
-| 67 | 10% | 23% |  |
-| 68 | 6% | 13% |  |
-| 69 | 4% | 6% |  |
+| 58 | 0.3% | 99.9% |  |
+| 59 | 1.0% | 99.6% |  |
+| 60 | 3% | 98.6% |  |
+| 61 | 6% | 96% |  |
+| 62 | 10% | 90% |  |
+| 63 | 14% | 80% |  |
+| 64 | 16% | 66% | Median |
+| 65 | 16% | 50% |  |
+| 66 | 13% | 34% |  |
+| 67 | 9% | 21% |  |
+| 68 | 6% | 12% |  |
+| 69 | 3% | 6% |  |
 | 70 | 2% | 3% |  |
-| 71 | 0.7% | 1.1% |  |
-| 72 | 0.3% | 0.4% |  |
+| 71 | 0.7% | 1.0% |  |
+| 72 | 0.2% | 0.4% |  |
 | 73 | 0.1% | 0.1% |  |
 | 74 | 0% | 0% |  |
 | 75 | 0% | 0% |  |
