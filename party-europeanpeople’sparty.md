@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **158** seats (-29 seats)
+Current median: **157** seats (-30 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 158 | 153–163 | 151–165 | 150–166 | 148–168 |
+| European People’s Party | EU | 187 | 157 | 152–163 | 151–164 | 150–165 | 147–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 19–24 | 19–25 | 19–25 | 18–26 |
 | Partido Popular | ES | | 19 | 17–21 | 17–21 | 16–22 | 15–22 |
 | Koalicja Obywatelska | PL | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
@@ -29,13 +29,13 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 5–8 | 5–8 | 5–10 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната–Демократична България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
@@ -78,33 +78,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 145 | 0% | 100% |  |
+| 145 | 0.1% | 100% |  |
 | 146 | 0.1% | 99.9% |  |
-| 147 | 0.2% | 99.9% |  |
-| 148 | 0.4% | 99.7% |  |
-| 149 | 0.8% | 99.2% |  |
-| 150 | 1.4% | 98% |  |
-| 151 | 2% | 97% |  |
-| 152 | 4% | 95% |  |
-| 153 | 5% | 91% |  |
-| 154 | 6% | 86% |  |
-| 155 | 8% | 80% |  |
-| 156 | 9% | 72% |  |
-| 157 | 10% | 63% |  |
-| 158 | 10% | 54% | Median |
-| 159 | 9% | 44% |  |
-| 160 | 8% | 35% |  |
-| 161 | 7% | 26% |  |
-| 162 | 6% | 19% |  |
-| 163 | 5% | 13% |  |
-| 164 | 3% | 9% |  |
-| 165 | 2% | 5% |  |
-| 166 | 1.4% | 3% |  |
-| 167 | 0.8% | 2% |  |
-| 168 | 0.5% | 0.9% |  |
-| 169 | 0.2% | 0.4% |  |
-| 170 | 0.1% | 0.2% |  |
-| 171 | 0% | 0.1% |  |
+| 147 | 0.3% | 99.8% |  |
+| 148 | 0.6% | 99.4% |  |
+| 149 | 1.1% | 98.8% |  |
+| 150 | 2% | 98% |  |
+| 151 | 3% | 96% |  |
+| 152 | 4% | 93% |  |
+| 153 | 6% | 88% |  |
+| 154 | 7% | 83% |  |
+| 155 | 8% | 76% |  |
+| 156 | 9% | 67% |  |
+| 157 | 10% | 58% | Median |
+| 158 | 10% | 48% |  |
+| 159 | 9% | 39% |  |
+| 160 | 8% | 30% |  |
+| 161 | 6% | 22% |  |
+| 162 | 5% | 15% |  |
+| 163 | 4% | 10% |  |
+| 164 | 3% | 7% |  |
+| 165 | 2% | 4% |  |
+| 166 | 1.0% | 2% |  |
+| 167 | 0.6% | 1.2% |  |
+| 168 | 0.3% | 0.6% |  |
+| 169 | 0.2% | 0.3% |  |
+| 170 | 0.1% | 0.1% |  |
+| 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |

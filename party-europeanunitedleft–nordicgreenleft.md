@@ -42,7 +42,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Levica | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -64,20 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
 | 44 | 0.5% | 99.8% |  |
-| 45 | 1.3% | 99.3% |  |
+| 45 | 1.3% | 99.2% |  |
 | 46 | 3% | 98% |  |
-| 47 | 4% | 95% |  |
+| 47 | 5% | 95% |  |
 | 48 | 7% | 91% |  |
 | 49 | 10% | 84% |  |
-| 50 | 12% | 74% |  |
-| 51 | 14% | 62% | Median |
-| 52 | 14% | 48% |  |
+| 50 | 13% | 74% |  |
+| 51 | 14% | 61% | Median |
+| 52 | 14% | 47% |  |
 | 53 | 13% | 33% |  |
-| 54 | 9% | 21% |  |
+| 54 | 9% | 20% |  |
 | 55 | 6% | 11% |  |
 | 56 | 3% | 5% |  |
-| 57 | 1.4% | 2% |  |
-| 58 | 0.5% | 0.8% |  |
+| 57 | 1.3% | 2% |  |
+| 58 | 0.5% | 0.7% |  |
 | 59 | 0.2% | 0.2% |  |
 | 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |

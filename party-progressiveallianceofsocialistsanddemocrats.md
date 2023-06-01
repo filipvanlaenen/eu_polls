@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **142** seats (-5 seats)
+Current median: **141** seats (-6 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 142 | 137–146 | 136–148 | 135–149 | 133–151 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 141 | 136–146 | 135–147 | 134–149 | 132–151 |
 | Partito Democratico | IT | | 18 | 16–19 | 15–20 | 15–21 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 17 | 16–20 | 15–20 | 14–21 | 14–21 |
 | Partido Socialista Obrero Español | ES | | 15 | 13–17 | 13–18 | 13–18 | 12–20 |
 | Partidul Social Democrat | RO | | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | Parti socialiste | FR | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | Partido Socialista | PT | | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Lewica | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| Demokratikus Koalíció | HU | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Demokratikus Koalíció | HU | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -51,6 +51,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -65,30 +66,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 130 | 0% | 100% |  |
-| 131 | 0.1% | 99.9% |  |
-| 132 | 0.3% | 99.8% |  |
-| 133 | 0.6% | 99.5% |  |
-| 134 | 1.2% | 98.9% |  |
-| 135 | 2% | 98% |  |
-| 136 | 3% | 96% |  |
-| 137 | 5% | 92% |  |
-| 138 | 7% | 87% |  |
-| 139 | 8% | 81% |  |
-| 140 | 10% | 72% |  |
-| 141 | 11% | 62% |  |
-| 142 | 11% | 52% | Median |
-| 143 | 10% | 41% |  |
-| 144 | 9% | 31% |  |
-| 145 | 7% | 23% |  |
-| 146 | 5% | 15% |  |
-| 147 | 4% | 10% | Last Result |
-| 148 | 3% | 6% |  |
-| 149 | 2% | 3% |  |
-| 150 | 0.9% | 2% |  |
-| 151 | 0.5% | 0.9% |  |
-| 152 | 0.2% | 0.4% |  |
-| 153 | 0.1% | 0.2% |  |
+| 129 | 0% | 100% |  |
+| 130 | 0.1% | 99.9% |  |
+| 131 | 0.3% | 99.8% |  |
+| 132 | 0.6% | 99.5% |  |
+| 133 | 1.1% | 99.0% |  |
+| 134 | 2% | 98% |  |
+| 135 | 3% | 96% |  |
+| 136 | 5% | 93% |  |
+| 137 | 6% | 88% |  |
+| 138 | 8% | 82% |  |
+| 139 | 9% | 74% |  |
+| 140 | 10% | 65% |  |
+| 141 | 10% | 55% | Median |
+| 142 | 10% | 45% |  |
+| 143 | 9% | 35% |  |
+| 144 | 8% | 26% |  |
+| 145 | 6% | 18% |  |
+| 146 | 4% | 12% |  |
+| 147 | 3% | 8% | Last Result |
+| 148 | 2% | 5% |  |
+| 149 | 1.2% | 3% |  |
+| 150 | 0.7% | 1.3% |  |
+| 151 | 0.4% | 0.7% |  |
+| 152 | 0.2% | 0.3% |  |
+| 153 | 0.1% | 0.1% |  |
 | 154 | 0% | 0.1% |  |
 | 155 | 0% | 0% |  |
 
