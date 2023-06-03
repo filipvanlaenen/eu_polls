@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 42–52 | 40–53 |
+| Greens–European Free Alliance | EU | 67 | 46 | 43–50 | 42–51 | 42–51 | 40–53 |
 | Bündnis 90/Die Grünen | DE | | 15 | 13–16 | 12–16 | 12–16 | 11–17 |
 | Europe Écologie Les Verts | FR | | 9 | 8–9 | 7–9 | 7–10 | 7–11 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -42,7 +42,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alleanza Verdi e Sinistra | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -69,18 +69,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 3% | 98% |  |
 | 43 | 6% | 94% |  |
 | 44 | 10% | 88% |  |
-| 45 | 13% | 78% |  |
-| 46 | 16% | 65% | Median |
-| 47 | 16% | 49% |  |
-| 48 | 13% | 34% |  |
-| 49 | 9% | 21% |  |
-| 50 | 6% | 11% |  |
-| 51 | 3% | 6% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.7% | 1.2% |  |
-| 54 | 0.3% | 0.5% |  |
+| 45 | 14% | 78% |  |
+| 46 | 16% | 64% | Median |
+| 47 | 16% | 48% |  |
+| 48 | 13% | 33% |  |
+| 49 | 9% | 20% |  |
+| 50 | 5% | 11% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.4% | 2% |  |
+| 53 | 0.6% | 1.1% |  |
+| 54 | 0.3% | 0.4% |  |
 | 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
