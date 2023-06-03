@@ -10,30 +10,30 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **50** seats (+21 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, DK, ES, FR, GR, HU, IT, LV, PL, SK
+> BG, CY, DE, DK, ES, FR, GR, HU, IT, LT, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 50 | 47–53 | 46–54 | 45–54 | 43–56 |
+| Non-Inscrits | EU | 29 | 50 | 47–53 | 46–54 | 45–55 | 43–56 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | Konfederacja | PL | | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
 | Reconquête | FR | | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | España Vaciada | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -68,22 +68,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0% | 100% |  |
 | 41 | 0.1% | 100% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.4% | 99.7% |  |
-| 44 | 1.0% | 99.3% |  |
-| 45 | 2% | 98% |  |
-| 46 | 5% | 96% |  |
-| 47 | 9% | 91% |  |
-| 48 | 13% | 82% |  |
-| 49 | 16% | 70% |  |
-| 50 | 17% | 54% | Median |
-| 51 | 15% | 37% |  |
-| 52 | 11% | 22% |  |
-| 53 | 6% | 12% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.4% | 2% |  |
-| 56 | 0.5% | 0.7% |  |
-| 57 | 0.1% | 0.2% |  |
-| 58 | 0% | 0% |  |
+| 42 | 0.1% | 99.9% |  |
+| 43 | 0.3% | 99.8% |  |
+| 44 | 0.8% | 99.4% |  |
+| 45 | 2% | 98.7% |  |
+| 46 | 4% | 97% |  |
+| 47 | 7% | 93% |  |
+| 48 | 11% | 86% |  |
+| 49 | 15% | 74% |  |
+| 50 | 17% | 59% | Median |
+| 51 | 16% | 42% |  |
+| 52 | 12% | 27% |  |
+| 53 | 8% | 15% |  |
+| 54 | 4% | 7% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.7% | 0.9% |  |
+| 57 | 0.2% | 0.3% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 

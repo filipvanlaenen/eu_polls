@@ -35,14 +35,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -61,7 +61,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partido Regionalista de Cantabria | ES | | 0 | 0 | 0 | 0 | 0 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -75,31 +75,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 75 | 0% | 100% |  |
-| 76 | 0.1% | 99.9% |  |
+| 76 | 0.1% | 100% |  |
 | 77 | 0.2% | 99.9% |  |
-| 78 | 0.5% | 99.6% |  |
+| 78 | 0.4% | 99.7% |  |
 | 79 | 0.9% | 99.2% |  |
 | 80 | 2% | 98% |  |
 | 81 | 3% | 97% |  |
 | 82 | 4% | 94% |  |
-| 83 | 5% | 90% |  |
+| 83 | 5% | 91% |  |
 | 84 | 7% | 85% |  |
-| 85 | 8% | 78% |  |
-| 86 | 9% | 70% |  |
-| 87 | 10% | 61% |  |
-| 88 | 10% | 51% | Median |
-| 89 | 9% | 41% |  |
-| 90 | 8% | 32% |  |
-| 91 | 7% | 23% |  |
-| 92 | 6% | 16% |  |
+| 85 | 8% | 79% |  |
+| 86 | 9% | 71% |  |
+| 87 | 10% | 62% |  |
+| 88 | 10% | 52% | Median |
+| 89 | 9% | 42% |  |
+| 90 | 8% | 33% |  |
+| 91 | 7% | 24% |  |
+| 92 | 6% | 17% |  |
 | 93 | 4% | 11% |  |
 | 94 | 3% | 7% |  |
 | 95 | 2% | 4% |  |
-| 96 | 1.0% | 2% |  |
-| 97 | 0.6% | 1.1% |  |
-| 98 | 0.3% | 0.5% | Last Result |
-| 99 | 0.1% | 0.2% |  |
+| 96 | 1.1% | 2% |  |
+| 97 | 0.6% | 1.2% |  |
+| 98 | 0.3% | 0.6% | Last Result |
+| 99 | 0.2% | 0.3% |  |
 | 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
 
