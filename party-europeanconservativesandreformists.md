@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 81 | 77–85 | 76–86 | 75–87 | 74–88 |
+| European Conservatives and Reformists | EU | 61 | 81 | 77–85 | 76–86 | 75–87 | 74–89 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
 | Zjednoczona Prawica | PL | | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | Vox | ES | | 9 | 7–10 | 7–11 | 7–11 | 6–11 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Perussuomalaiset | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -65,17 +65,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0.1% | 100% |  |
 | 73 | 0.3% | 99.9% |  |
 | 74 | 0.8% | 99.6% |  |
-| 75 | 2% | 98.7% |  |
+| 75 | 2% | 98.8% |  |
 | 76 | 3% | 97% |  |
-| 77 | 6% | 93% |  |
+| 77 | 6% | 94% |  |
 | 78 | 9% | 88% |  |
 | 79 | 11% | 79% |  |
 | 80 | 13% | 68% |  |
-| 81 | 14% | 54% | Median |
-| 82 | 12% | 41% |  |
+| 81 | 14% | 55% | Median |
+| 82 | 13% | 41% |  |
 | 83 | 10% | 28% |  |
 | 84 | 7% | 18% |  |
-| 85 | 5% | 10% |  |
+| 85 | 5% | 11% |  |
 | 86 | 3% | 6% |  |
 | 87 | 2% | 3% |  |
 | 88 | 0.7% | 1.2% |  |
