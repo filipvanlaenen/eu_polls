@@ -41,7 +41,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 144 | 0% | 100% |  |
 | 145 | 0.1% | 99.9% |  |
-| 146 | 0.2% | 99.9% |  |
-| 147 | 0.4% | 99.7% |  |
+| 146 | 0.2% | 99.8% |  |
+| 147 | 0.4% | 99.6% |  |
 | 148 | 0.8% | 99.2% |  |
 | 149 | 1.4% | 98% |  |
 | 150 | 2% | 97% |  |
@@ -91,17 +91,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 154 | 8% | 80% |  |
 | 155 | 9% | 73% |  |
 | 156 | 10% | 64% |  |
-| 157 | 10% | 55% | Median |
+| 157 | 10% | 54% | Median |
 | 158 | 9% | 45% |  |
-| 159 | 8% | 36% |  |
+| 159 | 8% | 35% |  |
 | 160 | 7% | 27% |  |
 | 161 | 6% | 20% |  |
 | 162 | 5% | 14% |  |
 | 163 | 3% | 9% |  |
 | 164 | 2% | 6% |  |
 | 165 | 2% | 4% |  |
-| 166 | 1.0% | 2% |  |
-| 167 | 0.6% | 1.2% |  |
+| 166 | 0.9% | 2% |  |
+| 167 | 0.6% | 1.1% |  |
 | 168 | 0.3% | 0.6% |  |
 | 169 | 0.2% | 0.3% |  |
 | 170 | 0.1% | 0.1% |  |
