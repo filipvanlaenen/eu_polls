@@ -27,12 +27,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Parti communiste français | FR | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Podemos | ES | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -60,25 +60,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
+| 41 | 0% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
-| 43 | 0.6% | 99.7% |  |
-| 44 | 1.2% | 99.1% |  |
+| 43 | 0.4% | 99.8% |  |
+| 44 | 1.0% | 99.4% |  |
 | 45 | 2% | 98% |  |
-| 46 | 4% | 96% |  |
-| 47 | 6% | 92% |  |
-| 48 | 8% | 86% |  |
-| 49 | 10% | 78% |  |
-| 50 | 12% | 68% |  |
-| 51 | 13% | 56% | Median |
-| 52 | 12% | 43% |  |
-| 53 | 11% | 31% |  |
-| 54 | 8% | 20% |  |
-| 55 | 6% | 12% |  |
-| 56 | 3% | 6% |  |
+| 46 | 3% | 97% |  |
+| 47 | 5% | 93% |  |
+| 48 | 7% | 88% |  |
+| 49 | 10% | 81% |  |
+| 50 | 12% | 71% |  |
+| 51 | 13% | 60% | Median |
+| 52 | 13% | 47% |  |
+| 53 | 12% | 34% |  |
+| 54 | 9% | 23% |  |
+| 55 | 6% | 14% |  |
+| 56 | 4% | 7% |  |
 | 57 | 2% | 3% |  |
-| 58 | 0.7% | 1.0% |  |
-| 59 | 0.2% | 0.3% |  |
+| 58 | 0.9% | 1.3% |  |
+| 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 

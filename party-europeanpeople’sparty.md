@@ -47,7 +47,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Les Engagés | BE-FRC | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -100,7 +100,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 3% | 9% |  |
 | 164 | 2% | 6% |  |
 | 165 | 2% | 4% |  |
-| 166 | 0.9% | 2% |  |
+| 166 | 1.0% | 2% |  |
 | 167 | 0.6% | 1.1% |  |
 | 168 | 0.3% | 0.6% |  |
 | 169 | 0.2% | 0.3% |  |
