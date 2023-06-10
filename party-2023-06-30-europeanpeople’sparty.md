@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **157** seats (-30 seats)
+Current median: **156** seats (-31 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 152–162 | 150–164 | 149–165 | 147–168 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–24 | 19–25 | 19–25 | 18–26 |
-| Partido Popular | ES | | 19 | 17–22 | 17–22 | 16–22 | 15–23 |
+| European People’s Party | EU | 187 | 156 | 151–162 | 150–164 | 148–165 | 146–168 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 18–24 | 18–24 | 18–24 | 17–26 |
+| Partido Popular | ES | | 20 | 18–22 | 17–23 | 16–23 | 15–24 |
 | Koalicja Obywatelska | PL | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | Νέα Δημοκρατία | GR | | 10 | 10 | 10 | 10 | 10 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -47,7 +47,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Les Engagés | BE-FRC | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -78,32 +78,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 144 | 0% | 100% |  |
-| 145 | 0.1% | 99.9% |  |
-| 146 | 0.2% | 99.8% |  |
-| 147 | 0.4% | 99.6% |  |
-| 148 | 0.8% | 99.2% |  |
-| 149 | 1.4% | 98% |  |
-| 150 | 2% | 97% |  |
-| 151 | 3% | 95% |  |
-| 152 | 5% | 91% |  |
-| 153 | 6% | 87% |  |
-| 154 | 8% | 80% |  |
-| 155 | 9% | 73% |  |
-| 156 | 10% | 64% |  |
-| 157 | 10% | 54% | Median |
-| 158 | 9% | 45% |  |
-| 159 | 8% | 35% |  |
-| 160 | 7% | 27% |  |
-| 161 | 6% | 20% |  |
-| 162 | 5% | 14% |  |
-| 163 | 3% | 9% |  |
-| 164 | 2% | 6% |  |
-| 165 | 2% | 4% |  |
-| 166 | 1.0% | 2% |  |
-| 167 | 0.6% | 1.1% |  |
-| 168 | 0.3% | 0.6% |  |
-| 169 | 0.2% | 0.3% |  |
+| 143 | 0% | 100% |  |
+| 144 | 0.1% | 99.9% |  |
+| 145 | 0.2% | 99.8% |  |
+| 146 | 0.4% | 99.6% |  |
+| 147 | 0.8% | 99.2% |  |
+| 148 | 1.3% | 98% |  |
+| 149 | 2% | 97% |  |
+| 150 | 3% | 95% |  |
+| 151 | 4% | 92% |  |
+| 152 | 6% | 88% |  |
+| 153 | 7% | 82% |  |
+| 154 | 8% | 75% |  |
+| 155 | 9% | 67% |  |
+| 156 | 9% | 58% | Median |
+| 157 | 9% | 49% |  |
+| 158 | 9% | 40% |  |
+| 159 | 8% | 31% |  |
+| 160 | 6% | 24% |  |
+| 161 | 5% | 17% |  |
+| 162 | 4% | 12% |  |
+| 163 | 3% | 8% |  |
+| 164 | 2% | 5% |  |
+| 165 | 1.3% | 3% |  |
+| 166 | 0.8% | 2% |  |
+| 167 | 0.5% | 1.0% |  |
+| 168 | 0.3% | 0.5% |  |
+| 169 | 0.1% | 0.3% |  |
 | 170 | 0.1% | 0.1% |  |
 | 171 | 0% | 0.1% |  |
 | 172 | 0% | 0% |  |
