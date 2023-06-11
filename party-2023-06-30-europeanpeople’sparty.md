@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **156** seats (-31 seats)
+Current median: **157** seats (-30 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–162 | 150–164 | 148–165 | 146–168 |
+| European People’s Party | EU | 187 | 157 | 151–162 | 150–164 | 149–165 | 146–168 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 18–24 | 18–24 | 18–24 | 17–26 |
 | Partido Popular | ES | | 20 | 18–22 | 17–23 | 16–23 | 15–24 |
 | Koalicja Obywatelska | PL | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
@@ -44,12 +44,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -65,6 +65,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
+| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -80,31 +81,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 143 | 0% | 100% |  |
 | 144 | 0.1% | 99.9% |  |
-| 145 | 0.2% | 99.8% |  |
-| 146 | 0.4% | 99.6% |  |
-| 147 | 0.8% | 99.2% |  |
-| 148 | 1.3% | 98% |  |
-| 149 | 2% | 97% |  |
-| 150 | 3% | 95% |  |
-| 151 | 4% | 92% |  |
-| 152 | 6% | 88% |  |
-| 153 | 7% | 82% |  |
-| 154 | 8% | 75% |  |
-| 155 | 9% | 67% |  |
-| 156 | 9% | 58% | Median |
-| 157 | 9% | 49% |  |
-| 158 | 9% | 40% |  |
-| 159 | 8% | 31% |  |
-| 160 | 6% | 24% |  |
-| 161 | 5% | 17% |  |
-| 162 | 4% | 12% |  |
-| 163 | 3% | 8% |  |
-| 164 | 2% | 5% |  |
-| 165 | 1.3% | 3% |  |
-| 166 | 0.8% | 2% |  |
-| 167 | 0.5% | 1.0% |  |
-| 168 | 0.3% | 0.5% |  |
-| 169 | 0.1% | 0.3% |  |
+| 145 | 0.2% | 99.9% |  |
+| 146 | 0.4% | 99.7% |  |
+| 147 | 0.6% | 99.3% |  |
+| 148 | 1.1% | 98.7% |  |
+| 149 | 2% | 98% |  |
+| 150 | 3% | 96% |  |
+| 151 | 4% | 93% |  |
+| 152 | 5% | 89% |  |
+| 153 | 7% | 84% |  |
+| 154 | 8% | 77% |  |
+| 155 | 9% | 70% |  |
+| 156 | 9% | 61% |  |
+| 157 | 9% | 52% | Median |
+| 158 | 9% | 42% |  |
+| 159 | 8% | 34% |  |
+| 160 | 7% | 26% |  |
+| 161 | 6% | 19% |  |
+| 162 | 4% | 13% |  |
+| 163 | 3% | 9% |  |
+| 164 | 2% | 6% |  |
+| 165 | 1.5% | 4% |  |
+| 166 | 0.9% | 2% |  |
+| 167 | 0.6% | 1.2% |  |
+| 168 | 0.3% | 0.6% |  |
+| 169 | 0.2% | 0.3% |  |
 | 170 | 0.1% | 0.1% |  |
 | 171 | 0% | 0.1% |  |
 | 172 | 0% | 0% |  |
