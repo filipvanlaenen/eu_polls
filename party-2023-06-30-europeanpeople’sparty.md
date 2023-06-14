@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **156** seats (-31 seats)
+Current median: **157** seats (-30 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–161 | 150–163 | 149–164 | 147–166 |
+| European People’s Party | EU | 187 | 157 | 152–162 | 151–163 | 149–164 | 147–167 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–23 | 18–23 | 18–24 |
 | Partido Popular | ES | | 20 | 18–22 | 17–23 | 16–23 | 15–24 |
 | Koalicja Obywatelska | PL | | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
@@ -26,8 +26,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| Forza Italia | IT | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -35,7 +35,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3 | 3 | 3–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
@@ -79,33 +79,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 144 | 0.1% | 100% |  |
+| 144 | 0% | 100% |  |
 | 145 | 0.1% | 99.9% |  |
-| 146 | 0.3% | 99.8% |  |
-| 147 | 0.5% | 99.5% |  |
-| 148 | 1.0% | 99.0% |  |
-| 149 | 2% | 98% |  |
-| 150 | 3% | 96% |  |
-| 151 | 4% | 94% |  |
-| 152 | 6% | 90% |  |
-| 153 | 7% | 84% |  |
-| 154 | 9% | 77% |  |
-| 155 | 10% | 68% |  |
-| 156 | 10% | 59% | Median |
-| 157 | 10% | 49% |  |
-| 158 | 9% | 39% |  |
-| 159 | 8% | 29% |  |
-| 160 | 7% | 21% |  |
-| 161 | 5% | 14% |  |
-| 162 | 4% | 9% |  |
-| 163 | 2% | 6% |  |
-| 164 | 2% | 3% |  |
-| 165 | 0.9% | 2% |  |
-| 166 | 0.5% | 0.9% |  |
-| 167 | 0.2% | 0.5% |  |
-| 168 | 0.1% | 0.2% |  |
+| 146 | 0.2% | 99.9% |  |
+| 147 | 0.4% | 99.7% |  |
+| 148 | 0.7% | 99.3% |  |
+| 149 | 1.3% | 98.6% |  |
+| 150 | 2% | 97% |  |
+| 151 | 3% | 95% |  |
+| 152 | 5% | 92% |  |
+| 153 | 6% | 87% |  |
+| 154 | 8% | 81% |  |
+| 155 | 9% | 73% |  |
+| 156 | 10% | 64% |  |
+| 157 | 10% | 54% | Median |
+| 158 | 10% | 43% |  |
+| 159 | 9% | 33% |  |
+| 160 | 7% | 25% |  |
+| 161 | 6% | 17% |  |
+| 162 | 4% | 12% |  |
+| 163 | 3% | 7% |  |
+| 164 | 2% | 4% |  |
+| 165 | 1.1% | 2% |  |
+| 166 | 0.6% | 1.3% |  |
+| 167 | 0.3% | 0.6% |  |
+| 168 | 0.2% | 0.3% |  |
 | 169 | 0.1% | 0.1% |  |
-| 170 | 0% | 0% |  |
+| 170 | 0% | 0.1% |  |
 | 171 | 0% | 0% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |

@@ -39,7 +39,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
-| Alleanza Verdi e Sinistra | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Alleanza Verdi e Sinistra | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -65,21 +65,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0.1% | 100% |  |
 | 39 | 0.3% | 99.9% |  |
 | 40 | 0.9% | 99.5% |  |
-| 41 | 2% | 98.6% |  |
+| 41 | 2% | 98.7% |  |
 | 42 | 4% | 97% |  |
-| 43 | 7% | 92% |  |
+| 43 | 7% | 93% |  |
 | 44 | 11% | 85% |  |
-| 45 | 14% | 74% |  |
-| 46 | 15% | 60% | Median |
-| 47 | 14% | 45% |  |
-| 48 | 11% | 31% |  |
-| 49 | 8% | 20% |  |
-| 50 | 5% | 12% |  |
-| 51 | 3% | 6% |  |
+| 45 | 14% | 75% |  |
+| 46 | 15% | 61% | Median |
+| 47 | 14% | 46% |  |
+| 48 | 11% | 32% |  |
+| 49 | 8% | 21% |  |
+| 50 | 6% | 13% |  |
+| 51 | 3% | 7% |  |
 | 52 | 2% | 3% |  |
-| 53 | 0.8% | 1.3% |  |
-| 54 | 0.3% | 0.6% |  |
-| 55 | 0.1% | 0.2% |  |
+| 53 | 0.9% | 2% |  |
+| 54 | 0.4% | 0.7% |  |
+| 55 | 0.2% | 0.3% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
