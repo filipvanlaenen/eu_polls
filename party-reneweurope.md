@@ -48,7 +48,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Azione | IT | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -56,7 +56,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -80,23 +80,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.2% | 99.9% |  |
 | 74 | 0.4% | 99.8% |  |
 | 75 | 0.8% | 99.4% |  |
-| 76 | 1.4% | 98.6% |  |
+| 76 | 1.5% | 98.6% |  |
 | 77 | 2% | 97% |  |
 | 78 | 4% | 95% |  |
 | 79 | 5% | 91% |  |
 | 80 | 7% | 86% |  |
 | 81 | 8% | 79% |  |
 | 82 | 9% | 71% |  |
-| 83 | 9% | 62% |  |
-| 84 | 9% | 53% | Median |
-| 85 | 9% | 44% |  |
-| 86 | 8% | 34% |  |
-| 87 | 7% | 26% |  |
-| 88 | 6% | 19% |  |
-| 89 | 5% | 13% |  |
+| 83 | 10% | 61% |  |
+| 84 | 10% | 52% | Median |
+| 85 | 9% | 42% |  |
+| 86 | 8% | 33% |  |
+| 87 | 7% | 25% |  |
+| 88 | 6% | 18% |  |
+| 89 | 4% | 12% |  |
 | 90 | 3% | 8% |  |
 | 91 | 2% | 5% |  |
-| 92 | 1.3% | 3% |  |
+| 92 | 1.2% | 3% |  |
 | 93 | 0.7% | 1.4% |  |
 | 94 | 0.4% | 0.7% |  |
 | 95 | 0.2% | 0.3% |  |
