@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **84** seats (-14 seats)
+Current median: **83** seats (-15 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 84 | 79–89 | 77–90 | 76–92 | 74–94 |
+| Renew Europe | EU | 98 | 83 | 79–89 | 77–90 | 76–91 | 74–94 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 5–8 | 4–9 | 4–10 |
@@ -56,14 +56,14 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partido Regionalista de Cantabria | ES | | 0 | 0 | 0 | 0 | 0 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -78,30 +78,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% |  |
-| 74 | 0.4% | 99.8% |  |
+| 74 | 0.4% | 99.7% |  |
 | 75 | 0.8% | 99.4% |  |
-| 76 | 1.5% | 98.6% |  |
-| 77 | 2% | 97% |  |
-| 78 | 4% | 95% |  |
-| 79 | 5% | 91% |  |
-| 80 | 7% | 86% |  |
-| 81 | 8% | 79% |  |
-| 82 | 9% | 71% |  |
-| 83 | 10% | 61% |  |
-| 84 | 10% | 52% | Median |
-| 85 | 9% | 42% |  |
-| 86 | 8% | 33% |  |
-| 87 | 7% | 25% |  |
-| 88 | 6% | 18% |  |
-| 89 | 4% | 12% |  |
-| 90 | 3% | 8% |  |
-| 91 | 2% | 5% |  |
-| 92 | 1.2% | 3% |  |
-| 93 | 0.7% | 1.4% |  |
-| 94 | 0.4% | 0.7% |  |
+| 76 | 2% | 98.5% |  |
+| 77 | 3% | 97% |  |
+| 78 | 4% | 94% |  |
+| 79 | 6% | 90% |  |
+| 80 | 7% | 85% |  |
+| 81 | 8% | 77% |  |
+| 82 | 9% | 69% |  |
+| 83 | 10% | 60% | Median |
+| 84 | 10% | 50% |  |
+| 85 | 9% | 40% |  |
+| 86 | 8% | 31% |  |
+| 87 | 7% | 23% |  |
+| 88 | 5% | 17% |  |
+| 89 | 4% | 11% |  |
+| 90 | 3% | 7% |  |
+| 91 | 2% | 4% |  |
+| 92 | 1.1% | 2% |  |
+| 93 | 0.6% | 1.2% |  |
+| 94 | 0.3% | 0.6% |  |
 | 95 | 0.2% | 0.3% |  |
 | 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0.1% |  |
+| 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
 
 
