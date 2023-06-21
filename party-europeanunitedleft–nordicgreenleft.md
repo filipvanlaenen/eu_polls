@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+13 seats)
+Current median: **51** seats (+12 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 52 | 48–55 | 47–56 | 46–57 | 44–59 |
+| European United Left–Nordic Green Left | EU | 39 | 51 | 47–55 | 46–56 | 46–57 | 44–59 |
 | La France insoumise | FR | | 8 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Sumar | ES | | 7 | 5–9 | 4–9 | 4–10 | 3–10 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5 | 5 | 5 | 5 |
-| Die Linke | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
+| Die Linke | DE | | 4 | 4–6 | 3–7 | 3–7 | 3–8 |
 | Parti communiste français | FR | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Podemos | ES | | 3 | 1–4 | 1–4 | 1–5 | 0–5 |
 | Bloco de Esquerda | PT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -33,7 +33,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
@@ -64,23 +64,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
 | 44 | 0.6% | 99.7% |  |
-| 45 | 1.3% | 99.2% |  |
-| 46 | 2% | 98% |  |
-| 47 | 4% | 95% |  |
-| 48 | 6% | 91% |  |
-| 49 | 9% | 85% |  |
-| 50 | 12% | 76% |  |
-| 51 | 13% | 64% |  |
-| 52 | 13% | 51% | Median |
-| 53 | 12% | 38% |  |
-| 54 | 10% | 26% |  |
-| 55 | 7% | 16% |  |
-| 56 | 4% | 9% |  |
-| 57 | 2% | 4% |  |
-| 58 | 1.2% | 2% |  |
-| 59 | 0.5% | 0.7% |  |
-| 60 | 0.2% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 45 | 1.5% | 99.0% |  |
+| 46 | 3% | 98% |  |
+| 47 | 5% | 95% |  |
+| 48 | 7% | 90% |  |
+| 49 | 10% | 83% |  |
+| 50 | 12% | 73% |  |
+| 51 | 14% | 61% | Median |
+| 52 | 13% | 47% |  |
+| 53 | 12% | 33% |  |
+| 54 | 9% | 22% |  |
+| 55 | 6% | 13% |  |
+| 56 | 4% | 7% |  |
+| 57 | 2% | 3% |  |
+| 58 | 0.9% | 1.4% |  |
+| 59 | 0.3% | 0.5% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0% | 0% |  |
 
 
