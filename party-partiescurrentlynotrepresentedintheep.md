@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| Parties currently not represented in the EP | EU | 0 | 9 | 8–11 | 8–11 | 7–11 | 7–13 |
 | BoerBurgerBeweging [NL] (*) | NL | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -34,7 +34,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -66,10 +66,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 3% | 99.8% |  |
 | 8 | 16% | 97% |  |
 | 9 | 36% | 81% | Median |
-| 10 | 34% | 45% |  |
+| 10 | 33% | 46% |  |
 | 11 | 11% | 12% |  |
-| 12 | 0.8% | 0.9% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 12 | 0.9% | 1.5% |  |
+| 13 | 0.3% | 0.6% |  |
+| 14 | 0.2% | 0.3% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 

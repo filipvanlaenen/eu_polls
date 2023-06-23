@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **160** seats (-27 seats)
+Current median: **161** seats (-26 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 160 | 155–166 | 154–167 | 153–169 | 150–171 |
+| European People’s Party | EU | 187 | 161 | 156–166 | 154–167 | 153–169 | 151–171 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–24 | 18–24 |
-| Partido Popular | ES | | 21 | 19–23 | 18–24 | 18–24 | 17–24 |
+| Partido Popular | ES | | 20 | 19–22 | 19–23 | 18–24 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Νέα Δημοκρατία | GR | | 10 | 10 | 10 | 10 | 10 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Forza Italia | IT | | 7 | 5–10 | 4–11 | 4–11 | 4–13 |
+| Forza Italia | IT | | 7 | 5–10 | 4–10 | 4–11 | 4–13 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| Partido Social Democrata | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -54,7 +54,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,34 +78,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 148 | 0.1% | 100% |  |
+| 148 | 0% | 100% |  |
 | 149 | 0.1% | 99.9% |  |
-| 150 | 0.3% | 99.8% |  |
-| 151 | 0.6% | 99.5% |  |
-| 152 | 1.1% | 98.9% |  |
+| 150 | 0.2% | 99.8% |  |
+| 151 | 0.5% | 99.6% |  |
+| 152 | 0.9% | 99.1% |  |
 | 153 | 2% | 98% |  |
-| 154 | 3% | 96% |  |
-| 155 | 4% | 93% |  |
-| 156 | 6% | 89% |  |
-| 157 | 7% | 83% |  |
-| 158 | 8% | 76% |  |
-| 159 | 9% | 68% |  |
-| 160 | 10% | 58% | Median |
-| 161 | 10% | 49% |  |
-| 162 | 9% | 39% |  |
-| 163 | 8% | 30% |  |
-| 164 | 6% | 23% |  |
-| 165 | 5% | 16% |  |
-| 166 | 4% | 11% |  |
-| 167 | 3% | 7% |  |
+| 154 | 3% | 97% |  |
+| 155 | 4% | 94% |  |
+| 156 | 5% | 90% |  |
+| 157 | 7% | 85% |  |
+| 158 | 8% | 78% |  |
+| 159 | 9% | 70% |  |
+| 160 | 10% | 60% |  |
+| 161 | 10% | 51% | Median |
+| 162 | 9% | 41% |  |
+| 163 | 8% | 32% |  |
+| 164 | 7% | 24% |  |
+| 165 | 5% | 17% |  |
+| 166 | 4% | 12% |  |
+| 167 | 3% | 8% |  |
 | 168 | 2% | 5% |  |
 | 169 | 1.2% | 3% |  |
-| 170 | 0.7% | 2% |  |
+| 170 | 0.8% | 2% |  |
 | 171 | 0.4% | 0.9% |  |
 | 172 | 0.2% | 0.5% |  |
 | 173 | 0.1% | 0.2% |  |
 | 174 | 0.1% | 0.1% |  |
-| 175 | 0% | 0% |  |
+| 175 | 0% | 0.1% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |
