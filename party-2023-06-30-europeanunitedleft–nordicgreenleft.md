@@ -18,16 +18,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 50 | 47–54 | 46–54 | 45–55 | 44–57 |
+| European United Left–Nordic Green Left | EU | 39 | 50 | 47–53 | 46–54 | 45–55 | 44–57 |
 | La France insoumise | FR | | 8 | 8–10 | 8–10 | 8–10 | 7–11 |
-| Sumar | ES | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
+| Sumar | ES | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5 | 5 | 5 | 5 |
 | Die Linke | DE | | 4 | 4–6 | 3–7 | 3–7 | 3–8 |
 | Parti communiste français | FR | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| Podemos | ES | | 2 | 1–3 | 1–3 | 0–3 | 0–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,11 +34,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Podemos | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0–1 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -68,17 +68,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 4% | 96% |  |
 | 47 | 7% | 92% |  |
 | 48 | 10% | 85% |  |
-| 49 | 13% | 76% |  |
-| 50 | 15% | 63% | Median |
-| 51 | 15% | 48% |  |
-| 52 | 13% | 33% |  |
-| 53 | 9% | 20% |  |
-| 54 | 6% | 11% |  |
+| 49 | 13% | 75% |  |
+| 50 | 15% | 62% | Median |
+| 51 | 15% | 47% |  |
+| 52 | 13% | 32% |  |
+| 53 | 9% | 19% |  |
+| 54 | 5% | 10% |  |
 | 55 | 3% | 5% |  |
-| 56 | 1.3% | 2% |  |
-| 57 | 0.5% | 0.7% |  |
-| 58 | 0.2% | 0.2% |  |
-| 59 | 0% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 56 | 1.2% | 2% |  |
+| 57 | 0.4% | 0.6% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0% | 0% |  |
 
 

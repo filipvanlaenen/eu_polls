@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 81 | 76–86 | 75–88 | 74–89 | 72–92 |
+| Renew Europe | EU | 98 | 81 | 76–87 | 75–88 | 74–89 | 72–92 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Freie Demokratische Partei | DE | | 7 | 5–8 | 4–8 | 4–9 | 4–10 |
@@ -77,12 +77,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.1% | 100% |  |
 | 71 | 0.2% | 99.9% |  |
 | 72 | 0.5% | 99.6% |  |
-| 73 | 1.1% | 99.1% |  |
+| 73 | 1.0% | 99.1% |  |
 | 74 | 2% | 98% |  |
 | 75 | 3% | 96% |  |
 | 76 | 5% | 93% |  |
-| 77 | 6% | 88% |  |
-| 78 | 8% | 82% |  |
+| 77 | 6% | 89% |  |
+| 78 | 8% | 83% |  |
 | 79 | 9% | 75% |  |
 | 80 | 9% | 66% |  |
 | 81 | 10% | 57% | Median |
@@ -97,9 +97,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 1.0% | 2% |  |
 | 91 | 0.6% | 1.1% |  |
 | 92 | 0.3% | 0.6% |  |
-| 93 | 0.1% | 0.3% |  |
+| 93 | 0.2% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
