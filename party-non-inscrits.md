@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 51 | 48–54 | 48–55 | 47–56 | 45–57 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| Non-Inscrits | EU | 29 | 51 | 48–54 | 47–55 | 47–56 | 45–57 |
+| Movimento 5 Stelle | IT | | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | Konfederacja | PL | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Reconquête | FR | | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -70,21 +70,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 99.9% |  |
-| 44 | 0.2% | 99.8% |  |
-| 45 | 0.5% | 99.6% |  |
-| 46 | 1.2% | 99.1% |  |
+| 44 | 0.3% | 99.8% |  |
+| 45 | 0.6% | 99.6% |  |
+| 46 | 1.3% | 99.0% |  |
 | 47 | 3% | 98% |  |
 | 48 | 6% | 95% |  |
-| 49 | 10% | 89% |  |
-| 50 | 14% | 80% |  |
-| 51 | 17% | 65% | Median |
-| 52 | 17% | 48% |  |
-| 53 | 14% | 32% |  |
-| 54 | 9% | 18% |  |
-| 55 | 5% | 8% |  |
+| 49 | 11% | 88% |  |
+| 50 | 15% | 78% |  |
+| 51 | 17% | 63% | Median |
+| 52 | 17% | 45% |  |
+| 53 | 13% | 29% |  |
+| 54 | 8% | 16% |  |
+| 55 | 4% | 7% |  |
 | 56 | 2% | 3% |  |
-| 57 | 0.8% | 1.2% |  |
-| 58 | 0.3% | 0.3% |  |
+| 57 | 0.7% | 1.0% |  |
+| 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
