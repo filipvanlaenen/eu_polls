@@ -18,9 +18,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 161 | 156–166 | 154–167 | 153–169 | 151–171 |
+| European People’s Party | EU | 187 | 161 | 156–166 | 154–168 | 153–169 | 151–172 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–24 | 18–24 |
-| Partido Popular | ES | | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
+| Partido Popular | ES | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Νέα Δημοκρατία | GR | | 10 | 10 | 10 | 10 | 10 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -29,11 +29,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната–Демократична България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -82,30 +82,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 149 | 0.1% | 99.9% |  |
 | 150 | 0.2% | 99.8% |  |
 | 151 | 0.5% | 99.6% |  |
-| 152 | 0.9% | 99.1% |  |
+| 152 | 0.9% | 99.2% |  |
 | 153 | 2% | 98% |  |
-| 154 | 3% | 97% |  |
+| 154 | 2% | 97% |  |
 | 155 | 4% | 94% |  |
-| 156 | 5% | 90% |  |
+| 156 | 5% | 91% |  |
 | 157 | 7% | 85% |  |
-| 158 | 8% | 78% |  |
-| 159 | 9% | 70% |  |
-| 160 | 10% | 60% |  |
-| 161 | 10% | 50% | Median |
-| 162 | 9% | 41% |  |
-| 163 | 8% | 31% |  |
-| 164 | 7% | 23% |  |
-| 165 | 5% | 17% |  |
-| 166 | 4% | 11% |  |
-| 167 | 3% | 7% |  |
+| 158 | 8% | 79% |  |
+| 159 | 9% | 71% |  |
+| 160 | 10% | 61% |  |
+| 161 | 10% | 52% | Median |
+| 162 | 9% | 42% |  |
+| 163 | 8% | 33% |  |
+| 164 | 7% | 24% |  |
+| 165 | 5% | 18% |  |
+| 166 | 4% | 12% |  |
+| 167 | 3% | 8% |  |
 | 168 | 2% | 5% |  |
-| 169 | 1.2% | 3% |  |
-| 170 | 0.7% | 2% |  |
-| 171 | 0.4% | 0.8% |  |
-| 172 | 0.2% | 0.4% |  |
-| 173 | 0.1% | 0.2% |  |
+| 169 | 1.3% | 3% |  |
+| 170 | 0.8% | 2% |  |
+| 171 | 0.5% | 1.0% |  |
+| 172 | 0.3% | 0.5% |  |
+| 173 | 0.1% | 0.3% |  |
 | 174 | 0.1% | 0.1% |  |
-| 175 | 0% | 0% |  |
+| 175 | 0% | 0.1% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |

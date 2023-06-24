@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 50 | 47–53 | 46–54 | 45–55 | 44–57 |
+| European United Left–Nordic Green Left | EU | 39 | 50 | 47–53 | 46–54 | 45–55 | 43–57 |
 | La France insoumise | FR | | 8 | 8–10 | 8–10 | 8–10 | 7–11 |
-| Sumar | ES | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| Sumar | ES | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5 | 5 | 5 | 5 |
 | Die Linke | DE | | 4 | 4–6 | 3–7 | 3–7 | 3–8 |
@@ -31,14 +31,14 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Podemos | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -62,22 +62,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0.1% | 100% |  |
-| 43 | 0.4% | 99.9% |  |
-| 44 | 1.0% | 99.5% |  |
-| 45 | 2% | 98.5% |  |
-| 46 | 4% | 96% |  |
-| 47 | 7% | 92% |  |
-| 48 | 10% | 85% |  |
-| 49 | 13% | 75% |  |
-| 50 | 15% | 62% | Median |
-| 51 | 15% | 47% |  |
-| 52 | 13% | 32% |  |
-| 53 | 9% | 19% |  |
-| 54 | 5% | 10% |  |
-| 55 | 3% | 5% |  |
-| 56 | 1.2% | 2% |  |
-| 57 | 0.4% | 0.6% |  |
-| 58 | 0.1% | 0.2% |  |
+| 43 | 0.5% | 99.8% |  |
+| 44 | 1.3% | 99.4% |  |
+| 45 | 3% | 98% |  |
+| 46 | 5% | 95% |  |
+| 47 | 7% | 91% |  |
+| 48 | 10% | 83% |  |
+| 49 | 13% | 73% |  |
+| 50 | 15% | 59% | Median |
+| 51 | 15% | 44% |  |
+| 52 | 12% | 29% |  |
+| 53 | 8% | 17% |  |
+| 54 | 5% | 9% |  |
+| 55 | 2% | 4% |  |
+| 56 | 1.0% | 2% |  |
+| 57 | 0.4% | 0.5% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
 
