@@ -10,9 +10,9 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **81** seats (-17 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -41,7 +41,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
@@ -50,8 +49,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Centar | HR | | 0 | 0 | 0 | 0 | 0–1 |
+| Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,6 +59,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–3 |
@@ -77,19 +78,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.1% | 100% |  |
 | 71 | 0.2% | 99.9% |  |
 | 72 | 0.5% | 99.7% |  |
-| 73 | 0.9% | 99.2% |  |
+| 73 | 1.0% | 99.2% |  |
 | 74 | 2% | 98% |  |
 | 75 | 3% | 97% |  |
 | 76 | 4% | 94% |  |
 | 77 | 6% | 89% |  |
-| 78 | 7% | 84% |  |
+| 78 | 7% | 83% |  |
 | 79 | 9% | 76% |  |
 | 80 | 9% | 68% |  |
 | 81 | 10% | 58% | Median |
 | 82 | 9% | 49% |  |
 | 83 | 9% | 39% |  |
-| 84 | 8% | 31% |  |
-| 85 | 7% | 23% |  |
+| 84 | 8% | 30% |  |
+| 85 | 7% | 22% |  |
 | 86 | 5% | 16% |  |
 | 87 | 4% | 11% |  |
 | 88 | 3% | 7% |  |

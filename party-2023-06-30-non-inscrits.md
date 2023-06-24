@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, PL, SI, SK
+> BG, CY, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, PL, SI, SK
 
 ## Seats
 
@@ -31,12 +31,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | España Vaciada | ES | | 0 | 0 | 0 | 0 | 0 |
-| Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -80,12 +79,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 17% | 60% | Median |
 | 52 | 16% | 43% |  |
 | 53 | 12% | 27% |  |
-| 54 | 8% | 15% |  |
+| 54 | 8% | 14% |  |
 | 55 | 4% | 7% |  |
 | 56 | 2% | 3% |  |
 | 57 | 0.6% | 0.9% |  |
 | 58 | 0.2% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
+| 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
 

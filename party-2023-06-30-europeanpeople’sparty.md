@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **161** seats (-26 seats)
+Current median: **160** seats (-27 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 161 | 156–166 | 154–168 | 153–169 | 151–172 |
+| European People’s Party | EU | 187 | 160 | 155–165 | 153–167 | 152–168 | 150–171 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–24 | 18–24 |
-| Partido Popular | ES | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
+| Partido Popular | ES | | 20 | 19–22 | 19–23 | 18–24 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Νέα Δημοκρατία | GR | | 10 | 10 | 10 | 10 | 10 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -28,7 +28,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Hrvatska demokratska zajednica | HR | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | Продължаваме промяната–Демократична България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -38,7 +38,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
@@ -78,34 +78,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 148 | 0% | 100% |  |
-| 149 | 0.1% | 99.9% |  |
-| 150 | 0.2% | 99.8% |  |
-| 151 | 0.5% | 99.6% |  |
-| 152 | 0.9% | 99.2% |  |
-| 153 | 2% | 98% |  |
-| 154 | 2% | 97% |  |
-| 155 | 4% | 94% |  |
-| 156 | 5% | 91% |  |
-| 157 | 7% | 85% |  |
-| 158 | 8% | 79% |  |
-| 159 | 9% | 71% |  |
-| 160 | 10% | 61% |  |
-| 161 | 10% | 52% | Median |
-| 162 | 9% | 42% |  |
-| 163 | 8% | 33% |  |
-| 164 | 7% | 24% |  |
-| 165 | 5% | 18% |  |
-| 166 | 4% | 12% |  |
-| 167 | 3% | 8% |  |
-| 168 | 2% | 5% |  |
-| 169 | 1.3% | 3% |  |
-| 170 | 0.8% | 2% |  |
-| 171 | 0.5% | 1.0% |  |
-| 172 | 0.3% | 0.5% |  |
-| 173 | 0.1% | 0.3% |  |
-| 174 | 0.1% | 0.1% |  |
-| 175 | 0% | 0.1% |  |
+| 147 | 0% | 100% |  |
+| 148 | 0.1% | 99.9% |  |
+| 149 | 0.2% | 99.8% |  |
+| 150 | 0.5% | 99.6% |  |
+| 151 | 0.9% | 99.1% |  |
+| 152 | 2% | 98% |  |
+| 153 | 2% | 97% |  |
+| 154 | 4% | 94% |  |
+| 155 | 5% | 91% |  |
+| 156 | 6% | 86% |  |
+| 157 | 8% | 79% |  |
+| 158 | 9% | 72% |  |
+| 159 | 9% | 63% |  |
+| 160 | 10% | 53% | Median |
+| 161 | 9% | 44% |  |
+| 162 | 8% | 35% |  |
+| 163 | 7% | 27% |  |
+| 164 | 6% | 19% |  |
+| 165 | 4% | 14% |  |
+| 166 | 3% | 9% |  |
+| 167 | 2% | 6% |  |
+| 168 | 2% | 4% |  |
+| 169 | 1.0% | 2% |  |
+| 170 | 0.6% | 1.3% |  |
+| 171 | 0.3% | 0.7% |  |
+| 172 | 0.2% | 0.4% |  |
+| 173 | 0.1% | 0.2% |  |
+| 174 | 0% | 0.1% |  |
+| 175 | 0% | 0% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |
