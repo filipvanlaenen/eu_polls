@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 68 | 65–71 | 64–72 | 63–72 | 62–74 |
+| Identity and Democracy | EU | 76 | 68 | 65–70 | 64–71 | 63–72 | 62–74 |
 | Rassemblement national | FR | | 22 | 21–23 | 21–24 | 20–25 | 20–26 |
 | Alternative für Deutschland | DE | | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
 | Lega Nord | IT | | 8 | 6–9 | 6–9 | 5–10 | 5–11 |
@@ -28,7 +28,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| SME RODINA | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Εθνική Δημιουργία | GR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -42,21 +42,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 60 | 0.1% | 100% |  |
 | 61 | 0.2% | 99.9% |  |
-| 62 | 0.8% | 99.7% |  |
+| 62 | 0.7% | 99.7% |  |
 | 63 | 2% | 98.9% |  |
 | 64 | 5% | 97% |  |
 | 65 | 9% | 92% |  |
 | 66 | 14% | 83% |  |
-| 67 | 17% | 70% |  |
-| 68 | 17% | 52% | Median |
-| 69 | 14% | 35% |  |
-| 70 | 10% | 21% |  |
-| 71 | 6% | 11% |  |
-| 72 | 3% | 5% |  |
-| 73 | 1.3% | 2% |  |
-| 74 | 0.5% | 0.8% |  |
-| 75 | 0.2% | 0.3% |  |
-| 76 | 0.1% | 0.1% | Last Result |
+| 67 | 18% | 69% |  |
+| 68 | 18% | 51% | Median |
+| 69 | 14% | 33% |  |
+| 70 | 9% | 19% |  |
+| 71 | 5% | 10% |  |
+| 72 | 3% | 4% |  |
+| 73 | 1.1% | 2% |  |
+| 74 | 0.4% | 0.7% |  |
+| 75 | 0.2% | 0.2% |  |
+| 76 | 0% | 0.1% | Last Result |
 | 77 | 0% | 0% |  |
 
 

@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Sloboda a Solidarita | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -67,19 +67,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 1.1% | 99.2% |  |
 | 75 | 2% | 98% |  |
 | 76 | 4% | 96% |  |
-| 77 | 6% | 92% |  |
+| 77 | 7% | 92% |  |
 | 78 | 9% | 85% |  |
 | 79 | 12% | 76% |  |
-| 80 | 13% | 65% |  |
+| 80 | 13% | 64% |  |
 | 81 | 13% | 51% | Median |
-| 82 | 12% | 38% |  |
-| 83 | 10% | 26% |  |
-| 84 | 7% | 16% |  |
-| 85 | 5% | 9% |  |
-| 86 | 3% | 5% |  |
-| 87 | 1.3% | 2% |  |
-| 88 | 0.6% | 0.9% |  |
-| 89 | 0.2% | 0.4% |  |
+| 82 | 12% | 37% |  |
+| 83 | 10% | 25% |  |
+| 84 | 7% | 15% |  |
+| 85 | 4% | 9% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.2% | 2% |  |
+| 88 | 0.5% | 0.8% |  |
+| 89 | 0.2% | 0.3% |  |
 | 90 | 0.1% | 0.1% |  |
 | 91 | 0% | 0% |  |
 
