@@ -10,9 +10,9 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **84** seats (-14 seats)
 
-At least one member in **22 countries** have a median of 1 seat or more:
+At least one member in **23 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -40,6 +40,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti 200 | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
@@ -51,7 +52,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Azione | IT | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -79,24 +79,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.1% | 99.9% |  |
 | 74 | 0.3% | 99.8% |  |
 | 75 | 0.7% | 99.5% |  |
-| 76 | 1.4% | 98.7% |  |
-| 77 | 3% | 97% |  |
+| 76 | 1.4% | 98.8% |  |
+| 77 | 2% | 97% |  |
 | 78 | 4% | 95% |  |
 | 79 | 6% | 91% |  |
 | 80 | 7% | 85% |  |
-| 81 | 9% | 78% |  |
+| 81 | 8% | 78% |  |
 | 82 | 9% | 70% |  |
 | 83 | 10% | 60% |  |
 | 84 | 10% | 51% | Median |
 | 85 | 9% | 41% |  |
 | 86 | 8% | 32% |  |
 | 87 | 7% | 24% |  |
-| 88 | 5% | 17% |  |
+| 88 | 5% | 18% |  |
 | 89 | 4% | 12% |  |
 | 90 | 3% | 8% |  |
 | 91 | 2% | 5% |  |
 | 92 | 1.3% | 3% |  |
-| 93 | 0.7% | 2% |  |
+| 93 | 0.8% | 2% |  |
 | 94 | 0.4% | 0.8% |  |
 | 95 | 0.2% | 0.4% |  |
 | 96 | 0.1% | 0.2% |  |
