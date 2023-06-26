@@ -37,6 +37,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -50,7 +51,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -63,14 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.4% | 99.8% |  |
-| 41 | 1.2% | 99.4% |  |
+| 41 | 1.1% | 99.4% |  |
 | 42 | 3% | 98% |  |
 | 43 | 5% | 96% |  |
-| 44 | 9% | 91% |  |
-| 45 | 12% | 82% |  |
+| 44 | 8% | 91% |  |
+| 45 | 12% | 83% |  |
 | 46 | 15% | 70% |  |
-| 47 | 15% | 55% | Median |
-| 48 | 13% | 40% |  |
+| 47 | 15% | 56% | Median |
+| 48 | 13% | 41% |  |
 | 49 | 10% | 28% |  |
 | 50 | 7% | 18% |  |
 | 51 | 5% | 11% |  |
