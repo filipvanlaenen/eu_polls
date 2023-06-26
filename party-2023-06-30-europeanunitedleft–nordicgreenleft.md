@@ -1,28 +1,27 @@
 # European United Left–Nordic Green Left
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE, SI
+> AT, BE, CY, CZ, DE, DK, ES, FI, FR, HR, IE, IT, LU, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+10 seats)
+Current median: **44** seats (+5 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE
+> BE, CY, DE, DK, ES, FI, FR, IE, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–53 | 45–54 | 45–55 | 43–56 |
+| European United Left–Nordic Green Left | EU | 39 | 44 | 41–48 | 40–49 | 40–50 | 38–51 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sumar | ES | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 5 | 5 | 5 | 5 | 5 |
 | Die Linke | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -47,8 +46,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0 | 0 | 0 | 0 |
-| Πλεύση Ελευθερίας | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -58,26 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% | Last Result |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 100% |  |
-| 43 | 0.5% | 99.8% |  |
-| 44 | 2% | 99.3% |  |
-| 45 | 4% | 98% |  |
-| 46 | 7% | 94% |  |
-| 47 | 11% | 87% |  |
-| 48 | 14% | 76% |  |
-| 49 | 15% | 63% | Median |
-| 50 | 14% | 48% |  |
-| 51 | 12% | 34% |  |
-| 52 | 9% | 22% |  |
-| 53 | 6% | 13% |  |
-| 54 | 4% | 7% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.8% | 1.3% |  |
-| 57 | 0.3% | 0.5% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.5% | 99.8% |  |
+| 39 | 2% | 99.3% | Last Result |
+| 40 | 4% | 98% |  |
+| 41 | 7% | 94% |  |
+| 42 | 11% | 87% |  |
+| 43 | 14% | 76% |  |
+| 44 | 15% | 63% | Median |
+| 45 | 14% | 48% |  |
+| 46 | 12% | 34% |  |
+| 47 | 9% | 22% |  |
+| 48 | 6% | 13% |  |
+| 49 | 4% | 7% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.8% | 1.3% |  |
+| 52 | 0.3% | 0.5% |  |
+| 53 | 0.1% | 0.1% |  |
+| 54 | 0% | 0% |  |
 
 

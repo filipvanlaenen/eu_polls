@@ -1,8 +1,8 @@
 # Identity and Democracy
 
-Members registered from **12 countries**:
+Members registered from **11 countries**:
 
-> AT, BE, CZ, DE, DK, EE, FR, GR, IT, NL, PT, SK
+> AT, BE, CZ, DE, DK, EE, FR, IT, NL, PT, SK
 
 ## Seats
 
@@ -31,7 +31,6 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Εθνική Δημιουργία | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
