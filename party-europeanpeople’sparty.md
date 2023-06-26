@@ -23,19 +23,19 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Νέα Δημοκρατία | GR | | 10 | 10 | 10 | 10 | 10 |
-| Forza Italia | IT | | 7 | 5–10 | 4–10 | 4–11 | 4–13 |
+| Forza Italia | IT | | 7 | 5–9 | 4–10 | 4–11 | 4–13 |
 | Les Républicains | FR | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -87,18 +87,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 150 | 1.4% | 98% |  |
 | 151 | 2% | 97% |  |
 | 152 | 3% | 95% |  |
-| 153 | 5% | 91% |  |
+| 153 | 5% | 92% |  |
 | 154 | 6% | 87% |  |
-| 155 | 8% | 80% |  |
+| 155 | 8% | 81% |  |
 | 156 | 9% | 73% |  |
 | 157 | 9% | 64% |  |
-| 158 | 10% | 54% | Median |
+| 158 | 10% | 55% | Median |
 | 159 | 9% | 45% |  |
-| 160 | 8% | 35% |  |
+| 160 | 8% | 36% |  |
 | 161 | 7% | 27% |  |
 | 162 | 6% | 20% |  |
 | 163 | 5% | 14% |  |
-| 164 | 3% | 9% |  |
+| 164 | 3% | 10% |  |
 | 165 | 2% | 6% |  |
 | 166 | 2% | 4% |  |
 | 167 | 1.0% | 2% |  |

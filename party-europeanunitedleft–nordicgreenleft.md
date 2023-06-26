@@ -10,15 +10,15 @@ Last result: **39** seats (General Election of 26 May 2019)
 
 Current median: **49** seats (+10 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–53 | 45–54 | 44–54 | 43–56 |
+| European United Left–Nordic Green Left | EU | 39 | 49 | 46–53 | 45–54 | 45–55 | 43–56 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sumar | ES | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -30,7 +30,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Podemos | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -40,8 +39,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -61,22 +61,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
-| 42 | 0.2% | 100% |  |
-| 43 | 0.6% | 99.8% |  |
-| 44 | 2% | 99.2% |  |
-| 45 | 4% | 97% |  |
-| 46 | 8% | 93% |  |
-| 47 | 12% | 85% |  |
-| 48 | 14% | 73% |  |
-| 49 | 15% | 59% | Median |
-| 50 | 14% | 44% |  |
-| 51 | 11% | 30% |  |
-| 52 | 8% | 19% |  |
-| 53 | 5% | 11% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.5% | 2% |  |
-| 56 | 0.6% | 0.9% |  |
-| 57 | 0.2% | 0.3% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.5% | 99.8% |  |
+| 44 | 2% | 99.3% |  |
+| 45 | 4% | 98% |  |
+| 46 | 7% | 94% |  |
+| 47 | 11% | 87% |  |
+| 48 | 14% | 76% |  |
+| 49 | 15% | 62% | Median |
+| 50 | 14% | 47% |  |
+| 51 | 12% | 33% |  |
+| 52 | 9% | 21% |  |
+| 53 | 6% | 12% |  |
+| 54 | 3% | 6% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.8% | 1.2% |  |
+| 57 | 0.3% | 0.4% |  |
 | 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 
