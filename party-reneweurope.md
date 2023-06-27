@@ -10,20 +10,19 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **83** seats (-15 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 79–89 | 77–90 | 76–91 | 74–94 |
+| Renew Europe | EU | 98 | 83 | 78–88 | 77–90 | 76–91 | 74–94 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 4–9 | 4–10 |
 | Trzecia Droga | PL | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| Azione–Italia Viva | IT | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -68,37 +67,37 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2023-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2023-06-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2023-07-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2023-06-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 72 | 0% | 100% |  |
 | 73 | 0.1% | 99.9% |  |
-| 74 | 0.3% | 99.8% |  |
-| 75 | 0.8% | 99.5% |  |
-| 76 | 1.5% | 98.7% |  |
+| 74 | 0.4% | 99.8% |  |
+| 75 | 0.8% | 99.4% |  |
+| 76 | 2% | 98.6% |  |
 | 77 | 3% | 97% |  |
-| 78 | 4% | 95% |  |
+| 78 | 4% | 94% |  |
 | 79 | 6% | 90% |  |
-| 80 | 8% | 85% |  |
-| 81 | 9% | 77% |  |
-| 82 | 10% | 68% |  |
-| 83 | 10% | 58% | Median |
-| 84 | 10% | 49% |  |
-| 85 | 9% | 39% |  |
-| 86 | 8% | 30% |  |
-| 87 | 6% | 22% |  |
-| 88 | 5% | 16% |  |
-| 89 | 4% | 11% |  |
-| 90 | 3% | 7% |  |
-| 91 | 2% | 4% |  |
-| 92 | 1.1% | 2% |  |
-| 93 | 0.7% | 1.4% |  |
-| 94 | 0.4% | 0.7% |  |
-| 95 | 0.2% | 0.3% |  |
-| 96 | 0.1% | 0.2% |  |
+| 80 | 8% | 83% |  |
+| 81 | 9% | 75% |  |
+| 82 | 10% | 66% |  |
+| 83 | 10% | 56% | Median |
+| 84 | 10% | 45% |  |
+| 85 | 9% | 36% |  |
+| 86 | 7% | 27% |  |
+| 87 | 6% | 20% |  |
+| 88 | 5% | 14% |  |
+| 89 | 3% | 9% |  |
+| 90 | 2% | 6% |  |
+| 91 | 1.5% | 3% |  |
+| 92 | 0.9% | 2% |  |
+| 93 | 0.5% | 1.1% |  |
+| 94 | 0.3% | 0.6% |  |
+| 95 | 0.1% | 0.3% |  |
+| 96 | 0.1% | 0.1% |  |
 | 97 | 0% | 0.1% |  |
 | 98 | 0% | 0% | Last Result |
 

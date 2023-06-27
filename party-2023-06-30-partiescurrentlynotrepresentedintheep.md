@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 12 | 11–13 | 11–13 | 10–14 | 10–15 |
+| Parties currently not represented in the EP | EU | 0 | 12 | 11–13 | 11–13 | 10–14 | 10–16 |
 | BoerBurgerBeweging [NL] (*) | NL | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

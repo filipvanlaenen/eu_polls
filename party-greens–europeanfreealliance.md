@@ -55,9 +55,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2023-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2023-06-30-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2023-07-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2023-06-30.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -69,7 +69,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 8% | 91% |  |
 | 45 | 12% | 82% |  |
 | 46 | 15% | 70% |  |
-| 47 | 15% | 56% | Median |
+| 47 | 15% | 55% | Median |
 | 48 | 13% | 41% |  |
 | 49 | 10% | 28% |  |
 | 50 | 7% | 18% |  |
@@ -77,7 +77,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 3% | 6% |  |
 | 53 | 2% | 3% |  |
 | 54 | 0.9% | 2% |  |
-| 55 | 0.4% | 0.6% |  |
+| 55 | 0.4% | 0.7% |  |
 | 56 | 0.2% | 0.2% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
