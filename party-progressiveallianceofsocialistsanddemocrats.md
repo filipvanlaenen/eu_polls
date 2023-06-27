@@ -1,24 +1,24 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **26 countries**:
+Members registered from **27 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **137** seats (-10 seats)
+Current median: **139** seats (-8 seats)
 
-At least one member in **24 countries** have a median of 1 seat or more:
+At least one member in **25 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 133–142 | 131–144 | 130–145 | 128–147 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 135–144 | 133–146 | 132–147 | 130–149 |
 | Partito Democratico | IT | | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–20 | 15–20 | 15–21 | 14–22 |
 | Partido Socialista Obrero Español | ES | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
@@ -40,6 +40,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partij van de Arbeid | NL | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 2–3 |
+| Κίνημα Αλλαγής | GR | | 2 | 2 | 2 | 2 | 2 |
 | Българска социалистическа партия | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Magyar Szocialista Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,31 +64,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0.1% | 100% |  |
-| 127 | 0.2% | 99.9% |  |
-| 128 | 0.4% | 99.7% |  |
-| 129 | 0.7% | 99.3% |  |
-| 130 | 1.3% | 98.6% |  |
-| 131 | 2% | 97% |  |
-| 132 | 4% | 95% |  |
-| 133 | 5% | 91% |  |
-| 134 | 7% | 86% |  |
-| 135 | 9% | 79% |  |
-| 136 | 10% | 70% |  |
-| 137 | 11% | 60% | Median |
-| 138 | 11% | 50% |  |
-| 139 | 10% | 39% |  |
-| 140 | 9% | 29% |  |
-| 141 | 7% | 20% |  |
-| 142 | 5% | 13% |  |
-| 143 | 3% | 8% |  |
-| 144 | 2% | 5% |  |
-| 145 | 1.3% | 3% |  |
-| 146 | 0.7% | 1.5% |  |
-| 147 | 0.4% | 0.7% | Last Result |
-| 148 | 0.2% | 0.3% |  |
-| 149 | 0.1% | 0.1% |  |
-| 150 | 0% | 0.1% |  |
-| 151 | 0% | 0% |  |
+| 128 | 0.1% | 100% |  |
+| 129 | 0.2% | 99.9% |  |
+| 130 | 0.4% | 99.7% |  |
+| 131 | 0.7% | 99.3% |  |
+| 132 | 1.3% | 98.6% |  |
+| 133 | 2% | 97% |  |
+| 134 | 4% | 95% |  |
+| 135 | 5% | 91% |  |
+| 136 | 7% | 86% |  |
+| 137 | 9% | 79% |  |
+| 138 | 10% | 70% |  |
+| 139 | 11% | 60% | Median |
+| 140 | 11% | 50% |  |
+| 141 | 10% | 39% |  |
+| 142 | 9% | 29% |  |
+| 143 | 7% | 20% |  |
+| 144 | 5% | 13% |  |
+| 145 | 3% | 8% |  |
+| 146 | 2% | 5% |  |
+| 147 | 1.3% | 3% | Last Result |
+| 148 | 0.7% | 1.5% |  |
+| 149 | 0.4% | 0.7% |  |
+| 150 | 0.2% | 0.3% |  |
+| 151 | 0.1% | 0.1% |  |
+| 152 | 0% | 0.1% |  |
+| 153 | 0% | 0% |  |
 
 

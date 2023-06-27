@@ -1,28 +1,31 @@
 # Parties currently not represented in the EP
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, HR, IE, IT, LU, LV, NL, PL, SI
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (+9 seats)
+Current median: **12** seats (+12 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> DE, IE, LV, NL
+> DE, GR, IE, LV, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
+| Parties currently not represented in the EP | EU | 0 | 12 | 11–13 | 11–13 | 10–14 | 10–15 |
 | BoerBurgerBeweging [NL] (*) | NL | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
+| Σπαρτιάτες [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -44,6 +47,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
+| ΕΑΝ… [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
+| Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -60,15 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 4% | 99.7% |  |
-| 8 | 21% | 96% |  |
-| 9 | 42% | 75% | Median |
-| 10 | 30% | 33% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.2% | 0.7% |  |
-| 13 | 0.3% | 0.5% |  |
-| 14 | 0.2% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 4% | 99.7% |  |
+| 11 | 21% | 96% |  |
+| 12 | 42% | 75% | Median |
+| 13 | 30% | 33% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.2% | 0.7% |  |
+| 16 | 0.3% | 0.5% |  |
+| 17 | 0.2% | 0.2% |  |
+| 18 | 0% | 0% |  |
 
 
