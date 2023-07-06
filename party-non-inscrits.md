@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 52 | 49–55 | 49–56 | 48–57 | 46–58 |
+| Non-Inscrits | EU | 29 | 52 | 49–55 | 48–56 | 48–57 | 46–58 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | Konfederacja | PL | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
@@ -32,10 +32,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| España Vaciada | ES | | 0 | 0 | 0 | 0 | 0 |
+| España Vaciada | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Kukiz’15 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -73,14 +73,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0.1% | 100% |  |
 | 45 | 0.2% | 99.9% |  |
 | 46 | 0.5% | 99.7% |  |
-| 47 | 1.2% | 99.2% |  |
+| 47 | 1.3% | 99.2% |  |
 | 48 | 3% | 98% |  |
 | 49 | 6% | 95% |  |
 | 50 | 10% | 89% |  |
-| 51 | 15% | 79% |  |
+| 51 | 15% | 78% |  |
 | 52 | 17% | 64% | Median |
-| 53 | 17% | 47% |  |
-| 54 | 13% | 31% |  |
+| 53 | 16% | 47% |  |
+| 54 | 13% | 30% |  |
 | 55 | 9% | 17% |  |
 | 56 | 5% | 8% |  |
 | 57 | 2% | 3% |  |

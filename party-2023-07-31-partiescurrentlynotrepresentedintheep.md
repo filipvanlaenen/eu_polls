@@ -45,7 +45,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | ΕΑΝ… [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -70,11 +70,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.3% | 100% |  |
 | 10 | 4% | 99.7% |  |
-| 11 | 21% | 96% |  |
-| 12 | 42% | 75% | Median |
-| 13 | 30% | 33% |  |
-| 14 | 3% | 3% |  |
-| 15 | 0.2% | 0.7% |  |
+| 11 | 20% | 96% |  |
+| 12 | 41% | 76% | Median |
+| 13 | 30% | 35% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.3% | 0.8% |  |
 | 16 | 0.3% | 0.5% |  |
 | 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |
