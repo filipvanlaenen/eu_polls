@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **156** seats (-31 seats)
+Current median: **157** seats (-30 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 156 | 151–161 | 149–163 | 148–164 | 146–167 |
+| European People’s Party | EU | 187 | 157 | 152–162 | 150–164 | 149–165 | 147–168 |
 | Partido Popular | ES | | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–22 | 19–22 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
-| Partido Social Democrata | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| Partido Social Democrata | PT | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–10 | 4–11 | 4–11 | 4–13 |
+| Forza Italia | IT | | 6 | 5–9 | 5–10 | 4–11 | 4–13 |
 | Hrvatska demokratska zajednica | HR | | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -37,7 +37,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Fine Gael | IE | | 2 | 2 | 2–3 | 2–3 | 2–4 |
+| Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch Appèl | NL | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -79,35 +79,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 143 | 0% | 100% |  |
-| 144 | 0.1% | 99.9% |  |
-| 145 | 0.2% | 99.8% |  |
-| 146 | 0.5% | 99.6% |  |
-| 147 | 0.9% | 99.1% |  |
-| 148 | 2% | 98% |  |
-| 149 | 3% | 97% |  |
-| 150 | 4% | 94% |  |
-| 151 | 5% | 90% |  |
-| 152 | 7% | 85% |  |
-| 153 | 8% | 78% |  |
-| 154 | 9% | 70% |  |
-| 155 | 10% | 60% |  |
-| 156 | 10% | 50% | Median |
-| 157 | 9% | 41% |  |
-| 158 | 8% | 32% |  |
-| 159 | 7% | 24% |  |
-| 160 | 5% | 17% |  |
-| 161 | 4% | 12% |  |
-| 162 | 3% | 8% |  |
-| 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
-| 165 | 0.8% | 2% |  |
-| 166 | 0.5% | 1.1% |  |
-| 167 | 0.3% | 0.6% |  |
-| 168 | 0.2% | 0.3% |  |
-| 169 | 0.1% | 0.2% |  |
-| 170 | 0% | 0.1% |  |
-| 171 | 0% | 0% |  |
+| 144 | 0% | 100% |  |
+| 145 | 0.1% | 99.9% |  |
+| 146 | 0.2% | 99.8% |  |
+| 147 | 0.5% | 99.6% |  |
+| 148 | 0.9% | 99.1% |  |
+| 149 | 2% | 98% |  |
+| 150 | 2% | 97% |  |
+| 151 | 4% | 94% |  |
+| 152 | 5% | 91% |  |
+| 153 | 6% | 86% |  |
+| 154 | 8% | 79% |  |
+| 155 | 9% | 71% |  |
+| 156 | 9% | 63% |  |
+| 157 | 10% | 53% | Median |
+| 158 | 9% | 44% |  |
+| 159 | 8% | 35% |  |
+| 160 | 7% | 26% |  |
+| 161 | 6% | 19% |  |
+| 162 | 4% | 14% |  |
+| 163 | 3% | 9% |  |
+| 164 | 2% | 6% |  |
+| 165 | 2% | 4% |  |
+| 166 | 1.0% | 2% |  |
+| 167 | 0.6% | 1.3% |  |
+| 168 | 0.3% | 0.7% |  |
+| 169 | 0.2% | 0.4% |  |
+| 170 | 0.1% | 0.2% |  |
+| 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |

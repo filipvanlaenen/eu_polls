@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+10 seats)
+Current median: **48** seats (+9 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 49 | 46–52 | 45–53 | 44–54 | 43–55 |
+| European United Left–Nordic Green Left | EU | 39 | 48 | 45–52 | 44–53 | 43–53 | 42–55 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sumar | ES | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -58,23 +58,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% | Last Result |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
-| 43 | 1.0% | 99.6% |  |
-| 44 | 3% | 98.7% |  |
-| 45 | 5% | 96% |  |
-| 46 | 9% | 91% |  |
-| 47 | 13% | 81% |  |
-| 48 | 15% | 69% |  |
-| 49 | 15% | 53% | Median |
-| 50 | 13% | 38% |  |
-| 51 | 10% | 25% |  |
-| 52 | 7% | 14% |  |
-| 53 | 4% | 7% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.8% | 1.2% |  |
-| 56 | 0.3% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.6% | 99.8% |  |
+| 43 | 2% | 99.1% |  |
+| 44 | 4% | 97% |  |
+| 45 | 7% | 93% |  |
+| 46 | 11% | 86% |  |
+| 47 | 14% | 75% |  |
+| 48 | 15% | 61% | Median |
+| 49 | 14% | 45% |  |
+| 50 | 12% | 31% |  |
+| 51 | 9% | 19% |  |
+| 52 | 6% | 11% |  |
+| 53 | 3% | 5% |  |
+| 54 | 1.4% | 2% |  |
+| 55 | 0.6% | 0.8% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 

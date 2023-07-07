@@ -10,22 +10,23 @@ Last result: **98** seats (General Election of 26 May 2019)
 
 Current median: **83** seats (-15 seats)
 
-At least one member in **21 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 79–89 | 78–90 | 77–92 | 75–95 |
+| Renew Europe | EU | 98 | 83 | 79–89 | 78–90 | 77–92 | 75–94 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Trzecia Droga | PL | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Azione–Italia Viva | IT | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -54,7 +55,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Italia Viva | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -73,32 +74,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 73 | 0.1% | 100% |  |
-| 74 | 0.2% | 99.9% |  |
-| 75 | 0.4% | 99.8% |  |
-| 76 | 1.0% | 99.3% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0.1% | 99.9% |  |
+| 74 | 0.3% | 99.8% |  |
+| 75 | 0.7% | 99.5% |  |
+| 76 | 1.4% | 98.9% |  |
 | 77 | 2% | 98% |  |
-| 78 | 3% | 96% |  |
-| 79 | 5% | 93% |  |
-| 80 | 7% | 87% |  |
-| 81 | 9% | 80% |  |
-| 82 | 10% | 71% |  |
-| 83 | 11% | 60% | Median |
-| 84 | 10% | 50% |  |
-| 85 | 9% | 39% |  |
-| 86 | 8% | 30% |  |
-| 87 | 6% | 22% |  |
-| 88 | 5% | 15% |  |
+| 78 | 4% | 95% |  |
+| 79 | 6% | 91% |  |
+| 80 | 7% | 85% |  |
+| 81 | 9% | 78% |  |
+| 82 | 10% | 69% |  |
+| 83 | 10% | 60% | Median |
+| 84 | 10% | 49% |  |
+| 85 | 9% | 40% |  |
+| 86 | 8% | 31% |  |
+| 87 | 7% | 23% |  |
+| 88 | 5% | 16% |  |
 | 89 | 4% | 11% |  |
 | 90 | 3% | 7% |  |
 | 91 | 2% | 5% |  |
-| 92 | 1.1% | 3% |  |
-| 93 | 0.7% | 2% |  |
-| 94 | 0.4% | 1.0% |  |
-| 95 | 0.3% | 0.5% |  |
-| 96 | 0.1% | 0.3% |  |
-| 97 | 0.1% | 0.1% |  |
-| 98 | 0% | 0.1% | Last Result |
-| 99 | 0% | 0% |  |
+| 92 | 1.2% | 3% |  |
+| 93 | 0.7% | 1.5% |  |
+| 94 | 0.4% | 0.8% |  |
+| 95 | 0.2% | 0.4% |  |
+| 96 | 0.1% | 0.2% |  |
+| 97 | 0% | 0.1% |  |
+| 98 | 0% | 0% | Last Result |
 
 
