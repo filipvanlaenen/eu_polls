@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | España Vaciada | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -70,21 +70,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
+| 44 | 0.1% | 99.9% |  |
 | 45 | 0.2% | 99.9% |  |
 | 46 | 0.5% | 99.7% |  |
-| 47 | 1.3% | 99.2% |  |
+| 47 | 1.3% | 99.1% |  |
 | 48 | 3% | 98% |  |
 | 49 | 6% | 95% |  |
-| 50 | 10% | 89% |  |
-| 51 | 15% | 78% |  |
-| 52 | 17% | 64% | Median |
-| 53 | 16% | 47% |  |
-| 54 | 13% | 30% |  |
-| 55 | 9% | 17% |  |
+| 50 | 11% | 88% |  |
+| 51 | 15% | 77% |  |
+| 52 | 17% | 63% | Median |
+| 53 | 16% | 46% |  |
+| 54 | 13% | 29% |  |
+| 55 | 9% | 16% |  |
 | 56 | 5% | 8% |  |
 | 57 | 2% | 3% |  |
-| 58 | 0.8% | 1.1% |  |
+| 58 | 0.7% | 1.0% |  |
 | 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
