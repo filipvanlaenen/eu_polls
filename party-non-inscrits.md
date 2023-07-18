@@ -24,7 +24,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Konfederacja | PL | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Reconquête | FR | | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | Възраждане | BG | | 3 | 3 | 3 | 3–4 | 2–4 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
@@ -80,8 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 15% | 78% |  |
 | 52 | 18% | 62% | Median |
 | 53 | 17% | 44% |  |
-| 54 | 13% | 28% |  |
-| 55 | 8% | 15% |  |
+| 54 | 13% | 27% |  |
+| 55 | 8% | 14% |  |
 | 56 | 4% | 6% |  |
 | 57 | 2% | 2% |  |
 | 58 | 0.5% | 0.7% |  |

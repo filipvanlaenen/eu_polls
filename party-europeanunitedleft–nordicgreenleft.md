@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (+7 seats)
+Current median: **47** seats (+8 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 46 | 43–50 | 43–51 | 42–51 | 41–53 |
+| European United Left–Nordic Green Left | EU | 39 | 47 | 44–51 | 43–52 | 43–53 | 41–54 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | Sumar | ES | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Die Linke | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| Die Linke | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -31,7 +31,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -56,23 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% | Last Result |
-| 40 | 0.3% | 99.9% |  |
-| 41 | 1.0% | 99.7% |  |
-| 42 | 3% | 98.6% |  |
-| 43 | 6% | 96% |  |
-| 44 | 10% | 89% |  |
-| 45 | 14% | 79% |  |
-| 46 | 16% | 65% | Median |
-| 47 | 15% | 49% |  |
-| 48 | 13% | 34% |  |
-| 49 | 9% | 21% |  |
-| 50 | 6% | 12% |  |
-| 51 | 3% | 6% |  |
-| 52 | 2% | 2% |  |
-| 53 | 0.6% | 0.8% |  |
-| 54 | 0.2% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
-| 56 | 0% | 0% |  |
+| 39 | 0% | 100% | Last Result |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.5% | 99.9% |  |
+| 42 | 1.5% | 99.4% |  |
+| 43 | 3% | 98% |  |
+| 44 | 7% | 94% |  |
+| 45 | 10% | 88% |  |
+| 46 | 13% | 78% |  |
+| 47 | 15% | 64% | Median |
+| 48 | 15% | 49% |  |
+| 49 | 12% | 35% |  |
+| 50 | 9% | 22% |  |
+| 51 | 6% | 13% |  |
+| 52 | 4% | 6% |  |
+| 53 | 2% | 3% |  |
+| 54 | 0.7% | 1.1% |  |
+| 55 | 0.2% | 0.3% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 
