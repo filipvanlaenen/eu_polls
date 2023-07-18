@@ -18,9 +18,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
-| BoerBurgerBeweging [NL] (*) | NL | | 6 | 6–7 | 5–7 | 5–7 | 4–7 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 12 | 10–13 | 10–13 | 10–13 | 9–13 |
+| BoerBurgerBeweging [NL] (*) | NL | | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
@@ -45,7 +45,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | ΕΑΝ… [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -68,12 +68,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
-| 9 | 0.8% | 99.9% |  |
-| 10 | 5% | 99.1% |  |
-| 11 | 22% | 94% |  |
-| 12 | 44% | 72% | Median |
-| 13 | 27% | 28% |  |
-| 14 | 1.0% | 1.0% |  |
+| 9 | 2% | 99.9% |  |
+| 10 | 9% | 98% |  |
+| 11 | 32% | 89% |  |
+| 12 | 46% | 57% | Median |
+| 13 | 11% | 11% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 
