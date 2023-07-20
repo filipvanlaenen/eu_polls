@@ -28,7 +28,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
-| Juiste Antwoord 2021 | NL | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Juiste Antwoord 2021 | NL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -70,15 +70,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 7% | 91% |  |
 | 78 | 10% | 83% |  |
 | 79 | 13% | 73% |  |
-| 80 | 15% | 60% | Median |
+| 80 | 15% | 59% | Median |
 | 81 | 14% | 45% |  |
-| 82 | 12% | 31% |  |
-| 83 | 9% | 19% |  |
+| 82 | 12% | 30% |  |
+| 83 | 9% | 18% |  |
 | 84 | 5% | 10% |  |
-| 85 | 3% | 5% |  |
+| 85 | 3% | 4% |  |
 | 86 | 1.2% | 2% |  |
-| 87 | 0.5% | 0.7% |  |
-| 88 | 0.2% | 0.2% |  |
+| 87 | 0.4% | 0.6% |  |
+| 88 | 0.1% | 0.2% |  |
 | 89 | 0% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
