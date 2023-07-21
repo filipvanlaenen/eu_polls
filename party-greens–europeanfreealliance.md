@@ -10,9 +10,9 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **47** seats (-20 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LU, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LU, LV, NL
 
 ### Confidence Intervals
 
@@ -30,7 +30,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,6 +45,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Miljöpartiet de gröna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -62,23 +62,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.8% |  |
-| 41 | 1.1% | 99.4% |  |
-| 42 | 2% | 98% |  |
-| 43 | 5% | 96% |  |
-| 44 | 7% | 91% |  |
-| 45 | 10% | 84% |  |
-| 46 | 13% | 74% |  |
-| 47 | 14% | 61% | Median |
-| 48 | 13% | 47% |  |
-| 49 | 11% | 33% |  |
-| 50 | 8% | 22% |  |
-| 51 | 6% | 14% |  |
-| 52 | 4% | 8% |  |
+| 40 | 0.5% | 99.8% |  |
+| 41 | 1.2% | 99.4% |  |
+| 42 | 3% | 98% |  |
+| 43 | 5% | 95% |  |
+| 44 | 8% | 91% |  |
+| 45 | 11% | 83% |  |
+| 46 | 13% | 72% |  |
+| 47 | 14% | 59% | Median |
+| 48 | 13% | 45% |  |
+| 49 | 11% | 32% |  |
+| 50 | 8% | 21% |  |
+| 51 | 5% | 13% |  |
+| 52 | 3% | 8% |  |
 | 53 | 2% | 4% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.6% | 1.0% |  |
-| 56 | 0.3% | 0.4% |  |
+| 54 | 1.1% | 2% |  |
+| 55 | 0.6% | 0.9% |  |
+| 56 | 0.2% | 0.4% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |

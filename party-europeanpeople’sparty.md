@@ -46,6 +46,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -57,7 +58,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
-| Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -79,28 +79,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 143 | 0.1% | 100% |  |
+| 143 | 0% | 100% |  |
 | 144 | 0.1% | 99.9% |  |
 | 145 | 0.2% | 99.8% |  |
 | 146 | 0.5% | 99.6% |  |
 | 147 | 0.9% | 99.1% |  |
-| 148 | 2% | 98% |  |
+| 148 | 1.5% | 98% |  |
 | 149 | 2% | 97% |  |
-| 150 | 4% | 94% |  |
+| 150 | 3% | 94% |  |
 | 151 | 5% | 91% |  |
 | 152 | 6% | 86% |  |
-| 153 | 8% | 79% |  |
-| 154 | 9% | 71% |  |
-| 155 | 10% | 62% |  |
+| 153 | 8% | 80% |  |
+| 154 | 9% | 72% |  |
+| 155 | 10% | 63% |  |
 | 156 | 10% | 53% | Median |
-| 157 | 9% | 43% |  |
+| 157 | 9% | 44% |  |
 | 158 | 8% | 34% |  |
-| 159 | 7% | 25% |  |
-| 160 | 6% | 18% |  |
+| 159 | 7% | 26% |  |
+| 160 | 6% | 19% |  |
 | 161 | 4% | 13% |  |
-| 162 | 3% | 8% |  |
+| 162 | 3% | 9% |  |
 | 163 | 2% | 5% |  |
-| 164 | 1.3% | 3% |  |
+| 164 | 1.4% | 3% |  |
 | 165 | 0.8% | 2% |  |
 | 166 | 0.5% | 1.0% |  |
 | 167 | 0.3% | 0.5% |  |
