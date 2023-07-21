@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (-20 seats)
+Current median: **48** seats (-19 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 44–51 | 43–52 | 42–53 | 41–55 |
+| Greens–European Free Alliance | EU | 67 | 48 | 44–51 | 43–52 | 42–54 | 41–55 |
 | Bündnis 90/Die Grünen | DE | | 14 | 12–17 | 11–17 | 11–17 | 11–17 |
 | Europe Écologie Les Verts | FR | | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
 | GroenLinks | NL | | 3 | 3 | 2–4 | 2–4 | 2–4 |
@@ -62,24 +62,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.9% |  |
-| 41 | 0.9% | 99.6% |  |
-| 42 | 2% | 98.7% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.7% | 99.7% |  |
+| 42 | 2% | 99.0% |  |
 | 43 | 4% | 97% |  |
-| 44 | 7% | 93% |  |
-| 45 | 10% | 86% |  |
-| 46 | 13% | 76% |  |
-| 47 | 14% | 63% | Median |
-| 48 | 14% | 48% |  |
-| 49 | 12% | 34% |  |
-| 50 | 9% | 22% |  |
-| 51 | 6% | 13% |  |
-| 52 | 4% | 8% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.1% | 2% |  |
-| 55 | 0.6% | 0.9% |  |
-| 56 | 0.2% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
+| 44 | 6% | 94% |  |
+| 45 | 9% | 88% |  |
+| 46 | 12% | 78% |  |
+| 47 | 14% | 66% |  |
+| 48 | 14% | 52% | Median |
+| 49 | 13% | 38% |  |
+| 50 | 10% | 25% |  |
+| 51 | 7% | 15% |  |
+| 52 | 4% | 9% |  |
+| 53 | 2% | 5% |  |
+| 54 | 1.3% | 3% |  |
+| 55 | 0.7% | 1.2% |  |
+| 56 | 0.3% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
