@@ -26,7 +26,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Partij voor de Vrijheid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3–4 |
 | Chega | PT | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 1–3 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 2 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | SME RODINA | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -55,7 +55,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 7% | 16% |  |
 | 74 | 4% | 9% |  |
 | 75 | 2% | 5% |  |
-| 76 | 1.3% | 2% | Last Result |
+| 76 | 1.2% | 2% | Last Result |
 | 77 | 0.6% | 0.9% |  |
 | 78 | 0.2% | 0.3% |  |
 | 79 | 0.1% | 0.1% |  |
