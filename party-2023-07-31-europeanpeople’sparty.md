@@ -18,7 +18,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 149–159 | 148–160 | 147–162 | 145–164 |
+| European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 147–162 | 145–164 |
 | Partido Popular | ES | | 21 | 19–23 | 19–24 | 18–25 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
@@ -46,11 +46,12 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -59,13 +60,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
-| MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
+| MODRÍ–Európske Slovensko–MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
+| Magyar Fórum | SK | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
-| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
+| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | TOP 09 | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 
@@ -79,30 +81,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 142 | 0% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
-| 144 | 0.3% | 99.8% |  |
-| 145 | 0.6% | 99.5% |  |
-| 146 | 1.1% | 99.0% |  |
+| 144 | 0.2% | 99.8% |  |
+| 145 | 0.5% | 99.6% |  |
+| 146 | 0.9% | 99.2% |  |
 | 147 | 2% | 98% |  |
-| 148 | 3% | 96% |  |
-| 149 | 5% | 93% |  |
-| 150 | 6% | 88% |  |
-| 151 | 8% | 82% |  |
-| 152 | 9% | 74% |  |
-| 153 | 10% | 65% |  |
-| 154 | 11% | 55% | Median |
-| 155 | 10% | 44% |  |
-| 156 | 9% | 34% |  |
-| 157 | 7% | 25% |  |
-| 158 | 6% | 18% |  |
-| 159 | 4% | 12% |  |
+| 148 | 3% | 97% |  |
+| 149 | 4% | 94% |  |
+| 150 | 6% | 90% |  |
+| 151 | 8% | 84% |  |
+| 152 | 9% | 77% |  |
+| 153 | 10% | 68% |  |
+| 154 | 11% | 57% | Median |
+| 155 | 10% | 47% |  |
+| 156 | 9% | 37% |  |
+| 157 | 8% | 27% |  |
+| 158 | 6% | 19% |  |
+| 159 | 5% | 13% |  |
 | 160 | 3% | 8% |  |
 | 161 | 2% | 5% |  |
-| 162 | 1.2% | 3% |  |
-| 163 | 0.7% | 1.4% |  |
-| 164 | 0.4% | 0.8% |  |
+| 162 | 1.3% | 3% |  |
+| 163 | 0.8% | 2% |  |
+| 164 | 0.4% | 0.9% |  |
 | 165 | 0.2% | 0.4% |  |
 | 166 | 0.1% | 0.2% |  |
-| 167 | 0% | 0.1% |  |
+| 167 | 0.1% | 0.1% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
