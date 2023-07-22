@@ -53,7 +53,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 0.1% | 100% |  |
 | 128 | 0.2% | 99.9% |  |
 | 129 | 0.4% | 99.7% |  |
-| 130 | 0.7% | 99.4% |  |
-| 131 | 1.4% | 98.7% |  |
+| 130 | 0.8% | 99.4% |  |
+| 131 | 1.4% | 98.6% |  |
 | 132 | 2% | 97% |  |
 | 133 | 4% | 95% |  |
-| 134 | 5% | 91% |  |
-| 135 | 7% | 86% |  |
+| 134 | 6% | 91% |  |
+| 135 | 8% | 85% |  |
 | 136 | 9% | 78% |  |
-| 137 | 11% | 69% |  |
-| 138 | 11% | 59% | Median |
+| 137 | 11% | 68% |  |
+| 138 | 11% | 58% | Median |
 | 139 | 11% | 47% |  |
 | 140 | 10% | 36% |  |
 | 141 | 8% | 26% |  |
-| 142 | 6% | 18% |  |
-| 143 | 5% | 12% |  |
+| 142 | 6% | 17% |  |
+| 143 | 4% | 11% |  |
 | 144 | 3% | 7% |  |
 | 145 | 2% | 4% |  |
 | 146 | 1.0% | 2% |  |
-| 147 | 0.5% | 1.0% | Last Result |
-| 148 | 0.3% | 0.4% |  |
+| 147 | 0.5% | 0.9% | Last Result |
+| 148 | 0.2% | 0.4% |  |
 | 149 | 0.1% | 0.2% |  |
 | 150 | 0% | 0.1% |  |
 | 151 | 0% | 0% |  |

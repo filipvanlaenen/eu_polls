@@ -39,7 +39,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,15 +59,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0.2% | 100% |  |
 | 39 | 1.0% | 99.7% | Last Result |
 | 40 | 3% | 98.7% |  |
-| 41 | 7% | 96% |  |
+| 41 | 7% | 95% |  |
 | 42 | 13% | 88% |  |
 | 43 | 18% | 75% |  |
-| 44 | 19% | 57% | Median |
-| 45 | 17% | 38% |  |
-| 46 | 11% | 21% |  |
-| 47 | 6% | 10% |  |
+| 44 | 20% | 57% | Median |
+| 45 | 17% | 37% |  |
+| 46 | 11% | 20% |  |
+| 47 | 6% | 9% |  |
 | 48 | 2% | 3% |  |
-| 49 | 0.8% | 1.0% |  |
+| 49 | 0.7% | 0.9% |  |
 | 50 | 0.2% | 0.2% |  |
 | 51 | 0% | 0% |  |
 
