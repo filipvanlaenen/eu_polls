@@ -20,14 +20,14 @@ At least one member in **26 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 147–162 | 145–164 |
 | Partido Popular | ES | | 21 | 19–23 | 19–24 | 18–25 | 17–25 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| Partido Social Democrata | PT | | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
+| Partido Social Democrata | PT | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Forza Italia | IT | | 6 | 5–8 | 4–8 | 4–9 | 3–10 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–7 | 5–7 | 5–7 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -83,17 +83,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 0.1% | 99.9% |  |
 | 144 | 0.2% | 99.8% |  |
 | 145 | 0.5% | 99.6% |  |
-| 146 | 0.9% | 99.2% |  |
+| 146 | 1.0% | 99.1% |  |
 | 147 | 2% | 98% |  |
-| 148 | 3% | 97% |  |
+| 148 | 3% | 96% |  |
 | 149 | 4% | 94% |  |
-| 150 | 6% | 90% |  |
+| 150 | 6% | 89% |  |
 | 151 | 8% | 84% |  |
-| 152 | 9% | 77% |  |
-| 153 | 10% | 68% |  |
-| 154 | 11% | 57% | Median |
-| 155 | 10% | 47% |  |
-| 156 | 9% | 37% |  |
+| 152 | 9% | 76% |  |
+| 153 | 10% | 67% |  |
+| 154 | 10% | 57% | Median |
+| 155 | 10% | 46% |  |
+| 156 | 9% | 36% |  |
 | 157 | 8% | 27% |  |
 | 158 | 6% | 19% |  |
 | 159 | 5% | 13% |  |

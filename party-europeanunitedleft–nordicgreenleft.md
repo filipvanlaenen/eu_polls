@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 44 | 41–46 | 41–47 | 40–48 | 39–49 |
+| European United Left–Nordic Green Left | EU | 39 | 44 | 41–46 | 40–47 | 40–48 | 39–49 |
 | Sumar | ES | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | La France insoumise | FR | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Die Linke | DE | | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
+| Die Linke | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
-| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -56,20 +56,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% |  |
+| 37 | 0.1% | 100% |  |
 | 38 | 0.3% | 99.9% |  |
-| 39 | 1.1% | 99.7% | Last Result |
-| 40 | 3% | 98.6% |  |
-| 41 | 8% | 95% |  |
-| 42 | 13% | 88% |  |
-| 43 | 18% | 74% |  |
-| 44 | 20% | 56% | Median |
-| 45 | 17% | 36% |  |
-| 46 | 11% | 20% |  |
-| 47 | 6% | 9% |  |
+| 39 | 1.4% | 99.6% | Last Result |
+| 40 | 4% | 98% |  |
+| 41 | 9% | 94% |  |
+| 42 | 15% | 85% |  |
+| 43 | 19% | 70% |  |
+| 44 | 19% | 52% | Median |
+| 45 | 15% | 32% |  |
+| 46 | 10% | 17% |  |
+| 47 | 5% | 7% |  |
 | 48 | 2% | 3% |  |
-| 49 | 0.6% | 0.8% |  |
-| 50 | 0.1% | 0.2% |  |
+| 49 | 0.5% | 0.7% |  |
+| 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
 

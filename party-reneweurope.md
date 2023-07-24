@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **89** seats (-9 seats)
+Current median: **88** seats (-10 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 89 | 84–94 | 83–95 | 82–96 | 80–99 |
+| Renew Europe | EU | 98 | 88 | 84–93 | 83–95 | 82–96 | 80–98 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| Freie Demokratische Partei | DE | | 7 | 6–7 | 6–8 | 5–8 | 5–10 |
+| Freie Demokratische Partei | DE | | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Trzecia Droga | PL | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Azione–Italia Viva | IT | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
@@ -31,7 +31,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
-| Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Progresívne Slovensko | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -40,6 +39,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -56,7 +56,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -77,29 +77,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 78 | 0.1% | 100% |  |
 | 79 | 0.2% | 99.9% |  |
-| 80 | 0.5% | 99.7% |  |
-| 81 | 1.1% | 99.3% |  |
+| 80 | 0.6% | 99.7% |  |
+| 81 | 1.3% | 99.1% |  |
 | 82 | 2% | 98% |  |
-| 83 | 4% | 96% |  |
-| 84 | 5% | 93% |  |
-| 85 | 7% | 87% |  |
-| 86 | 9% | 80% |  |
-| 87 | 10% | 71% |  |
-| 88 | 10% | 61% |  |
-| 89 | 10% | 51% | Median |
-| 90 | 9% | 41% |  |
-| 91 | 8% | 31% |  |
-| 92 | 7% | 23% |  |
-| 93 | 5% | 17% |  |
-| 94 | 4% | 11% |  |
-| 95 | 3% | 7% |  |
-| 96 | 2% | 4% |  |
-| 97 | 1.1% | 2% |  |
-| 98 | 0.7% | 1.3% | Last Result |
-| 99 | 0.4% | 0.7% |  |
-| 100 | 0.2% | 0.3% |  |
+| 83 | 4% | 95% |  |
+| 84 | 6% | 92% |  |
+| 85 | 8% | 86% |  |
+| 86 | 9% | 78% |  |
+| 87 | 10% | 69% |  |
+| 88 | 10% | 59% | Median |
+| 89 | 10% | 49% |  |
+| 90 | 9% | 39% |  |
+| 91 | 8% | 30% |  |
+| 92 | 7% | 21% |  |
+| 93 | 5% | 15% |  |
+| 94 | 4% | 10% |  |
+| 95 | 2% | 6% |  |
+| 96 | 2% | 3% |  |
+| 97 | 0.9% | 2% |  |
+| 98 | 0.5% | 1.0% | Last Result |
+| 99 | 0.3% | 0.5% |  |
+| 100 | 0.1% | 0.2% |  |
 | 101 | 0.1% | 0.1% |  |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 102 | 0% | 0% |  |
 
 
