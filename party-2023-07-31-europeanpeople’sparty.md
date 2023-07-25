@@ -18,10 +18,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 147–162 | 145–164 |
+| European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 147–162 | 145–165 |
 | Partido Popular | ES | | 21 | 19–23 | 19–24 | 18–25 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
-| Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
+| Koalicja Obywatelska | PL | | 16 | 15–19 | 14–20 | 14–21 | 14–22 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Partido Social Democrata | PT | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
@@ -34,6 +34,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Koalicja Polska | PL | | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -54,6 +55,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
+| AGROunia–Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,33 +81,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 0% | 100% |  |
+| 142 | 0.1% | 100% |  |
 | 143 | 0.1% | 99.9% |  |
-| 144 | 0.2% | 99.8% |  |
-| 145 | 0.5% | 99.6% |  |
-| 146 | 1.0% | 99.1% |  |
+| 144 | 0.3% | 99.8% |  |
+| 145 | 0.6% | 99.5% |  |
+| 146 | 1.1% | 98.9% |  |
 | 147 | 2% | 98% |  |
 | 148 | 3% | 96% |  |
-| 149 | 4% | 94% |  |
-| 150 | 6% | 89% |  |
-| 151 | 8% | 84% |  |
-| 152 | 9% | 76% |  |
-| 153 | 10% | 67% |  |
-| 154 | 10% | 57% | Median |
-| 155 | 10% | 46% |  |
+| 149 | 5% | 93% |  |
+| 150 | 6% | 88% |  |
+| 151 | 8% | 82% |  |
+| 152 | 9% | 74% |  |
+| 153 | 10% | 65% |  |
+| 154 | 10% | 56% | Median |
+| 155 | 10% | 45% |  |
 | 156 | 9% | 36% |  |
-| 157 | 8% | 27% |  |
-| 158 | 6% | 19% |  |
-| 159 | 5% | 13% |  |
-| 160 | 3% | 8% |  |
-| 161 | 2% | 5% |  |
-| 162 | 1.3% | 3% |  |
-| 163 | 0.8% | 2% |  |
-| 164 | 0.4% | 0.9% |  |
-| 165 | 0.2% | 0.4% |  |
-| 166 | 0.1% | 0.2% |  |
-| 167 | 0.1% | 0.1% |  |
-| 168 | 0% | 0% |  |
+| 157 | 7% | 27% |  |
+| 158 | 6% | 20% |  |
+| 159 | 5% | 14% |  |
+| 160 | 3% | 9% |  |
+| 161 | 2% | 6% |  |
+| 162 | 1.5% | 4% |  |
+| 163 | 0.9% | 2% |  |
+| 164 | 0.5% | 1.2% |  |
+| 165 | 0.3% | 0.6% |  |
+| 166 | 0.2% | 0.3% |  |
+| 167 | 0.1% | 0.2% |  |
+| 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
