@@ -18,16 +18,16 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 149–159 | 148–161 | 147–162 | 145–165 |
-| Partido Popular | ES | | 21 | 19–23 | 19–24 | 18–25 | 17–25 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
+| European People’s Party | EU | 187 | 154 | 150–159 | 149–160 | 148–161 | 146–164 |
+| Partido Popular | ES | | 21 | 21 | 21 | 21 | 21 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | Koalicja Obywatelska | PL | | 16 | 15–18 | 15–20 | 14–21 | 14–22 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Partido Social Democrata | PT | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
-| Forza Italia | IT | | 6 | 5–8 | 4–8 | 4–9 | 3–10 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 6 | 5–8 | 4–9 | 4–9 | 3–10 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -35,7 +35,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Koalicja Polska | PL | | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
-| Partit Nazzjonalista | MT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -81,33 +81,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 0% | 100% |  |
-| 143 | 0.1% | 99.9% |  |
-| 144 | 0.3% | 99.8% |  |
-| 145 | 0.6% | 99.5% |  |
-| 146 | 1.1% | 99.0% |  |
-| 147 | 2% | 98% |  |
-| 148 | 3% | 96% |  |
-| 149 | 4% | 93% |  |
-| 150 | 6% | 89% |  |
-| 151 | 8% | 83% |  |
-| 152 | 9% | 75% |  |
-| 153 | 10% | 66% |  |
-| 154 | 10% | 56% | Median |
-| 155 | 10% | 46% |  |
-| 156 | 9% | 36% |  |
-| 157 | 8% | 27% |  |
-| 158 | 6% | 20% |  |
-| 159 | 5% | 14% |  |
-| 160 | 3% | 9% |  |
-| 161 | 2% | 6% |  |
-| 162 | 1.5% | 4% |  |
-| 163 | 0.9% | 2% |  |
-| 164 | 0.5% | 1.1% |  |
-| 165 | 0.3% | 0.6% |  |
-| 166 | 0.2% | 0.3% |  |
-| 167 | 0.1% | 0.2% |  |
-| 168 | 0% | 0.1% |  |
+| 143 | 0% | 100% |  |
+| 144 | 0.1% | 99.9% |  |
+| 145 | 0.3% | 99.8% |  |
+| 146 | 0.6% | 99.6% |  |
+| 147 | 1.2% | 99.0% |  |
+| 148 | 2% | 98% |  |
+| 149 | 4% | 95% |  |
+| 150 | 6% | 92% |  |
+| 151 | 8% | 86% |  |
+| 152 | 10% | 78% |  |
+| 153 | 11% | 68% |  |
+| 154 | 11% | 57% | Median |
+| 155 | 11% | 46% |  |
+| 156 | 10% | 35% |  |
+| 157 | 8% | 25% |  |
+| 158 | 6% | 17% |  |
+| 159 | 4% | 11% |  |
+| 160 | 3% | 7% |  |
+| 161 | 2% | 4% |  |
+| 162 | 1.1% | 2% |  |
+| 163 | 0.6% | 1.2% |  |
+| 164 | 0.3% | 0.6% |  |
+| 165 | 0.2% | 0.3% |  |
+| 166 | 0.1% | 0.1% |  |
+| 167 | 0% | 0% |  |
+| 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
 | 170 | 0% | 0% |  |
 | 171 | 0% | 0% |  |
