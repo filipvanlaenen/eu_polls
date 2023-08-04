@@ -1,26 +1,28 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **3 countries**:
+Members registered from **5 countries**:
 
-> CY, ES, GR
+> CY, ES, GR, NL, SI
 
 ## Seats
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **24** seats (-123 seats)
+Current median: **28** seats (-119 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> CY, ES, GR
+> CY, ES, GR, NL, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 24 | 24 | 24 | 24 | 24 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 28 | 27–28 | 26–28 | 26–28 | 26–29 |
 | Partido Socialista Obrero Español | ES | | 20 | 20 | 20 | 20 | 20 |
+| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 2 | 2 | 2 | 2 | 2 |
+| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Σοσιαλδημοκρατών–Συνεργασία Πολιτών | CY | | 1 | 1 | 1 | 1 | 1 |
 
@@ -32,12 +34,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 100% | 100% | Median |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
+| 26 | 5% | 100% |  |
+| 27 | 40% | 95% |  |
+| 28 | 54% | 55% | Median |
+| 29 | 1.4% | 1.4% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |

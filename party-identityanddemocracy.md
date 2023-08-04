@@ -1,24 +1,25 @@
 # Identity and Democracy
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> GR
+> GR, NL
 
 ## Seats
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **0** seats (-76 seats)
+Current median: **4** seats (-72 seats)
 
-At least one member in **0 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
-> 
+> NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 0 | 0 | 0 | 0 | 0 |
+| Identity and Democracy | EU | 76 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Εθνική Δημιουργία | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -29,13 +30,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
+| 3 | 38% | 100% |  |
+| 4 | 39% | 62% | Median |
+| 5 | 23% | 23% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |

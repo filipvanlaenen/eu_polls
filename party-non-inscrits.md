@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **3 countries**:
+Members registered from **4 countries**:
 
-> CY, ES, GR
+> CY, ES, GR, SI
 
 ## Seats
 
@@ -23,6 +23,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | España Vaciada | ES | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

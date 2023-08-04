@@ -1,26 +1,29 @@
 # European Conservatives and Reformists
 
-Members registered from **3 countries**:
+Members registered from **4 countries**:
 
-> CY, ES, GR
+> CY, ES, GR, NL
 
 ## Seats
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (-52 seats)
+Current median: **10** seats (-51 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> ES, GR
+> ES, GR, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 9 | 9 | 9 | 9 | 9 |
+| European Conservatives and Reformists | EU | 61 | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | Vox | ES | | 8 | 8 | 8 | 8 | 8 |
+| Juiste Antwoord 2021 | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Αλληλεγγύη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -31,10 +34,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 100% | 100% | Median |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
+| 9 | 26% | 100% |  |
+| 10 | 56% | 74% | Median |
+| 11 | 18% | 18% |  |
+| 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |

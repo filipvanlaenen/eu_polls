@@ -1,26 +1,30 @@
 # Greens–European Free Alliance
 
-Members registered from **2 countries**:
+Members registered from **4 countries**:
 
-> CY, ES
+> CY, ES, NL, SI
 
 ## Seats
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **1** seats (-66 seats)
+Current median: **5** seats (-62 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> ES
+> ES, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 1 | 1 | 1 | 1 | 1 |
+| Greens–European Free Alliance | EU | 67 | 5 | 3–6 | 3–6 | 3–6 | 3–6 |
+| GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 1 | 1 |
+| Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
+| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -31,13 +35,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Median |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
+| 3 | 20% | 100% |  |
+| 4 | 22% | 80% |  |
+| 5 | 23% | 59% | Median |
+| 6 | 35% | 36% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |

@@ -1,28 +1,34 @@
 # European People’s Party
 
-Members registered from **4 countries**:
+Members registered from **6 countries**:
 
-> BE, CY, ES, GR
+> BE, CY, ES, GR, NL, SI
 
 ## Seats
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (-154 seats)
+Current median: **38** seats (-149 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> BE, CY, ES, GR
+> BE, CY, ES, GR, NL, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 33 | 33 | 33 | 33 | 33 |
+| European People’s Party | EU | 187 | 38 | 37–39 | 37–39 | 37–40 | 36–40 |
 | Partido Popular | ES | | 21 | 21 | 21 | 21 | 21 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
+| Christen-Democratisch Appèl | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -32,15 +38,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 100% | 100% | Median |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
+| 36 | 2% | 100% |  |
+| 37 | 25% | 98% |  |
+| 38 | 53% | 73% | Median |
+| 39 | 17% | 20% |  |
+| 40 | 2% | 3% |  |
+| 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

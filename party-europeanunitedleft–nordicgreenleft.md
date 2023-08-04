@@ -1,29 +1,32 @@
 # European United Left–Nordic Green Left
 
-Members registered from **3 countries**:
+Members registered from **5 countries**:
 
-> CY, ES, GR
+> CY, ES, GR, NL, SI
 
 ## Seats
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **13** seats (-26 seats)
+Current median: **16** seats (-23 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> CY, ES, GR
+> CY, ES, GR, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 13 | 13 | 13 | 13 | 13 |
+| European United Left–Nordic Green Left | EU | 39 | 16 | 14–17 | 14–17 | 14–17 | 14–18 |
 | Sumar | ES | | 8 | 8 | 8 | 8 | 8 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
+| Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Socialistische Partij | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Candidatura d’Unitat Popular | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0 | 0 |
+| Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -34,12 +37,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 100% | 100% | Median |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
+| 14 | 19% | 100% |  |
+| 15 | 13% | 81% |  |
+| 16 | 50% | 68% | Median |
+| 17 | 17% | 18% |  |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |

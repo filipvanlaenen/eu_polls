@@ -1,26 +1,30 @@
 # Renew Europe
 
-Members registered from **2 countries**:
+Members registered from **4 countries**:
 
-> CY, ES
+> CY, ES, NL, SI
 
 ## Seats
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **0** seats (-98 seats)
+Current median: **11** seats (-87 seats)
 
-At least one member in **0 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> 
+> NL, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 0 | 0 | 0 | 0 | 0 |
+| Renew Europe | EU | 98 | 11 | 11–14 | 10–15 | 10–15 | 10–15 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–9 | 5–9 | 5–9 | 5–9 |
+| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Democraten 66 | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0 | 0 |
+| Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -31,22 +35,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.1% | 99.9% |  |
+| 10 | 7% | 99.8% |  |
+| 11 | 47% | 93% | Median |
+| 12 | 24% | 46% |  |
+| 13 | 3% | 22% |  |
+| 14 | 13% | 19% |  |
+| 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |

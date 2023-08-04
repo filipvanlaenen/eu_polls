@@ -10,15 +10,15 @@
 
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 187 | 33 | 33 |33 | 33 | 33 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 24 | 24 |24 | 24 | 24 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 13 | 13 |13 | 13 | 13 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 9 | 9 |9 | 9 | 9 |
+| <a href="#european-people’s-party">European People’s Party</a> | 187 | 38 | 37–39 |37–39 | 37–40 | 36–40 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 28 | 27–28 |26–28 | 26–28 | 26–29 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 16 | 14–17 |14–17 | 14–17 | 14–18 |
+| <a href="#renew-europe">Renew Europe</a> | 98 | 11 | 11–14 |10–15 | 10–15 | 10–15 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 10 | 9–11 |9–11 | 9–11 | 9–11 |
+| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 9 | 7–10 |7–10 | 7–10 | 7–10 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 5 | 3–6 |3–6 | 3–6 | 3–6 |
+| <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 4 | 3–5 |3–5 | 3–5 | 3–5 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 29 | 4 | 4 |4 | 4 | 4 |
-| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 3 | 3 |3 | 3 | 3 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 1 | 1 |1 | 1 | 1 |
-| <a href="#renew-europe">Renew Europe</a> | 98 | 0 | 0 |0 | 0 | 0 |
-| <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 0 | 0 |0 | 0 | 0 |
 
 ### European People’s Party
 
@@ -28,15 +28,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 100% | 100% | Median |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
+| 36 | 2% | 100% |  |
+| 37 | 25% | 98% |  |
+| 38 | 53% | 73% | Median |
+| 39 | 17% | 20% |  |
+| 40 | 2% | 3% |  |
+| 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |
@@ -192,12 +189,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 100% | 100% | Median |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
+| 26 | 5% | 100% |  |
+| 27 | 40% | 95% |  |
+| 28 | 54% | 55% | Median |
+| 29 | 1.4% | 1.4% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
@@ -325,22 +320,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.1% | 99.9% |  |
+| 10 | 7% | 99.8% |  |
+| 11 | 47% | 93% | Median |
+| 12 | 24% | 46% |  |
+| 13 | 3% | 22% |  |
+| 14 | 13% | 19% |  |
+| 15 | 6% | 6% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
@@ -433,13 +420,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Median |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
+| 3 | 20% | 100% |  |
+| 4 | 22% | 80% |  |
+| 5 | 23% | 59% | Median |
+| 6 | 35% | 36% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
@@ -509,13 +494,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
+| 3 | 38% | 100% |  |
+| 4 | 39% | 62% | Median |
+| 5 | 23% | 23% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -595,10 +577,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 100% | 100% | Median |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
+| 9 | 26% | 100% |  |
+| 10 | 56% | 74% | Median |
+| 11 | 18% | 18% |  |
+| 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
@@ -657,12 +639,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 100% | 100% | Median |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
+| 14 | 19% | 100% |  |
+| 15 | 13% | 81% |  |
+| 16 | 50% | 68% | Median |
+| 17 | 17% | 18% |  |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
@@ -731,7 +712,15 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 100% | 100% | Median |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 32% | 100% |  |
+| 8 | 8% | 68% |  |
+| 9 | 47% | 60% | Median |
+| 10 | 13% | 13% |  |
+| 11 | 0% | 0% |  |
 
 
 ## Voting Intentions
