@@ -18,28 +18,28 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 154 | 150–159 | 149–160 | 148–161 | 146–164 |
+| European People’s Party | EU | 187 | 154 | 149–159 | 148–160 | 147–161 | 145–164 |
 | Partido Popular | ES | | 21 | 21 | 21 | 21 | 21 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–23 | 18–23 | 17–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Partido Social Democrata | PT | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–8 | 4–9 | 4–9 | 3–10 |
+| Forza Italia | IT | | 6 | 4–7 | 4–8 | 4–9 | 3–10 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–6 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Fine Gael | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Fine Gael | IE | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,25 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 144 | 0.1% | 100% |  |
-| 145 | 0.2% | 99.9% |  |
-| 146 | 0.6% | 99.6% |  |
-| 147 | 1.2% | 99.1% |  |
-| 148 | 2% | 98% |  |
-| 149 | 4% | 96% |  |
-| 150 | 6% | 92% |  |
-| 151 | 8% | 86% |  |
-| 152 | 10% | 79% |  |
-| 153 | 11% | 69% |  |
-| 154 | 12% | 58% | Median |
-| 155 | 11% | 47% |  |
-| 156 | 10% | 36% |  |
-| 157 | 8% | 26% |  |
-| 158 | 6% | 18% |  |
+| 143 | 0.1% | 100% |  |
+| 144 | 0.2% | 99.9% |  |
+| 145 | 0.4% | 99.7% |  |
+| 146 | 0.9% | 99.3% |  |
+| 147 | 2% | 98% |  |
+| 148 | 3% | 97% |  |
+| 149 | 5% | 94% |  |
+| 150 | 6% | 89% |  |
+| 151 | 8% | 83% |  |
+| 152 | 10% | 74% |  |
+| 153 | 11% | 64% |  |
+| 154 | 11% | 54% | Median |
+| 155 | 10% | 43% |  |
+| 156 | 9% | 32% |  |
+| 157 | 7% | 23% |  |
+| 158 | 6% | 16% |  |
 | 159 | 4% | 11% |  |
 | 160 | 3% | 7% |  |
 | 161 | 2% | 4% |  |
-| 162 | 1.1% | 2% |  |
+| 162 | 1.0% | 2% |  |
 | 163 | 0.6% | 1.2% |  |
 | 164 | 0.3% | 0.6% |  |
 | 165 | 0.2% | 0.3% |  |
