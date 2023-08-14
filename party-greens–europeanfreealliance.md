@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (-20 seats)
+Current median: **48** seats (-19 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,24 +18,24 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 44–51 | 43–53 | 42–54 | 41–56 |
-| Bündnis 90/Die Grünen | DE | | 14 | 13–15 | 12–17 | 11–17 | 11–17 |
+| Greens–European Free Alliance | EU | 67 | 48 | 45–52 | 44–54 | 43–55 | 42–57 |
+| Bündnis 90/Die Grünen | DE | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | Europe Écologie Les Verts | FR | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 3 | 3 | 2–4 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 1 | 1 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 1 | 1 | 1 | 1 | 1–2 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alleanza Verdi e Sinistra | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -61,26 +61,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0.2% | 100% |  |
-| 41 | 0.7% | 99.8% |  |
-| 42 | 2% | 99.0% |  |
-| 43 | 5% | 97% |  |
-| 44 | 7% | 92% |  |
-| 45 | 10% | 85% |  |
-| 46 | 13% | 74% |  |
-| 47 | 13% | 62% | Median |
-| 48 | 13% | 49% |  |
-| 49 | 11% | 36% |  |
-| 50 | 9% | 25% |  |
-| 51 | 7% | 16% |  |
-| 52 | 4% | 10% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.4% | 3% |  |
-| 55 | 0.8% | 1.5% |  |
-| 56 | 0.4% | 0.7% |  |
-| 57 | 0.2% | 0.3% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.7% | 99.8% |  |
+| 43 | 2% | 99.1% |  |
+| 44 | 4% | 97% |  |
+| 45 | 7% | 93% |  |
+| 46 | 10% | 86% |  |
+| 47 | 13% | 76% |  |
+| 48 | 14% | 63% | Median |
+| 49 | 13% | 49% |  |
+| 50 | 11% | 36% |  |
+| 51 | 9% | 24% |  |
+| 52 | 6% | 16% |  |
+| 53 | 4% | 10% |  |
+| 54 | 3% | 5% |  |
+| 55 | 1.5% | 3% |  |
+| 56 | 0.8% | 1.5% |  |
+| 57 | 0.4% | 0.7% |  |
+| 58 | 0.2% | 0.3% |  |
+| 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

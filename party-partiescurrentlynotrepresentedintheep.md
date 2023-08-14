@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI
+> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI
 
 ## Seats
 
@@ -18,9 +18,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
+| Parties currently not represented in the EP | EU | 0 | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | BoerBurgerBeweging [NL] (*) | NL | | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
@@ -30,6 +30,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Bierpartei [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -66,14 +67,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
-| 8 | 3% | 99.8% |  |
-| 9 | 15% | 96% |  |
-| 10 | 22% | 82% |  |
-| 11 | 26% | 59% | Median |
-| 12 | 26% | 34% |  |
-| 13 | 7% | 8% |  |
-| 14 | 0.4% | 0.7% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 13% | 98% |  |
+| 10 | 22% | 85% |  |
+| 11 | 25% | 63% | Median |
+| 12 | 28% | 38% |  |
+| 13 | 9% | 10% |  |
+| 14 | 0.8% | 1.1% |  |
 | 15 | 0.1% | 0.2% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |

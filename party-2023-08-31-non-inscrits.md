@@ -10,15 +10,15 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **53** seats (+24 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, DK, ES, FR, GR, HU, IT, LT, LV, PL, SK
+> BG, CY, DE, DK, ES, FR, GR, HU, IT, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 53 | 50–56 | 48–57 | 47–58 | 45–59 |
+| Non-Inscrits | EU | 29 | 53 | 49–56 | 48–57 | 47–57 | 45–59 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | Konfederacja | PL | | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
@@ -27,13 +27,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
-| Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jobbik | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 1 | 1 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
+| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | España Vaciada | ES | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -68,25 +68,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
-| 43 | 0.1% | 100% |  |
-| 44 | 0.2% | 99.9% |  |
-| 45 | 0.5% | 99.7% |  |
-| 46 | 0.9% | 99.2% |  |
+| 43 | 0.1% | 99.9% |  |
+| 44 | 0.3% | 99.8% |  |
+| 45 | 0.6% | 99.5% |  |
+| 46 | 1.2% | 98.9% |  |
 | 47 | 2% | 98% |  |
-| 48 | 2% | 97% |  |
-| 49 | 4% | 94% |  |
-| 50 | 6% | 91% |  |
-| 51 | 9% | 85% |  |
-| 52 | 13% | 76% |  |
-| 53 | 16% | 63% | Median |
-| 54 | 16% | 48% |  |
-| 55 | 14% | 32% |  |
-| 56 | 9% | 18% |  |
-| 57 | 5% | 9% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.8% | 1.1% |  |
-| 60 | 0.2% | 0.3% |  |
-| 61 | 0.1% | 0.1% |  |
-| 62 | 0% | 0% |  |
+| 48 | 3% | 96% |  |
+| 49 | 5% | 93% |  |
+| 50 | 7% | 88% |  |
+| 51 | 11% | 81% |  |
+| 52 | 14% | 70% |  |
+| 53 | 16% | 56% | Median |
+| 54 | 15% | 39% |  |
+| 55 | 12% | 24% |  |
+| 56 | 7% | 12% |  |
+| 57 | 3% | 5% |  |
+| 58 | 1.3% | 2% |  |
+| 59 | 0.4% | 0.6% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0% |  |
 
 
