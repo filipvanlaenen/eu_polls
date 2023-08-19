@@ -50,7 +50,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -62,8 +62,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.2% | 100% |  |
-| 42 | 0.7% | 99.8% |  |
-| 43 | 2% | 99.1% |  |
+| 42 | 0.6% | 99.8% |  |
+| 43 | 2% | 99.2% |  |
 | 44 | 4% | 97% |  |
 | 45 | 7% | 93% |  |
 | 46 | 10% | 86% |  |
@@ -71,12 +71,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 14% | 63% | Median |
 | 49 | 13% | 49% |  |
 | 50 | 11% | 36% |  |
-| 51 | 9% | 24% |  |
+| 51 | 9% | 25% |  |
 | 52 | 6% | 16% |  |
 | 53 | 4% | 10% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.5% | 3% |  |
-| 56 | 0.8% | 1.5% |  |
+| 54 | 3% | 6% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.8% | 2% |  |
 | 57 | 0.4% | 0.7% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
