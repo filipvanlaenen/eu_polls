@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 82–92 | 81–93 | 80–95 | 79–97 |
+| Renew Europe | EU | 98 | 87 | 83–92 | 81–93 | 80–95 | 79–97 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
@@ -34,7 +34,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Progresívne Slovensko | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
@@ -45,6 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,7 +63,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -77,19 +77,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0% | 100% |  |
 | 77 | 0.1% | 99.9% |  |
 | 78 | 0.3% | 99.8% |  |
-| 79 | 0.7% | 99.5% |  |
-| 80 | 2% | 98.8% |  |
+| 79 | 0.7% | 99.6% |  |
+| 80 | 1.5% | 98.9% |  |
 | 81 | 3% | 97% |  |
-| 82 | 5% | 94% |  |
+| 82 | 5% | 95% |  |
 | 83 | 7% | 90% |  |
 | 84 | 9% | 83% |  |
-| 85 | 10% | 74% |  |
-| 86 | 11% | 64% |  |
+| 85 | 10% | 75% |  |
+| 86 | 11% | 65% |  |
 | 87 | 11% | 54% | Median |
 | 88 | 10% | 43% |  |
 | 89 | 9% | 33% |  |
-| 90 | 7% | 24% |  |
-| 91 | 6% | 17% |  |
+| 90 | 7% | 25% |  |
+| 91 | 6% | 18% |  |
 | 92 | 4% | 12% |  |
 | 93 | 3% | 8% |  |
 | 94 | 2% | 5% |  |
