@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **43** seats (+4 seats)
+Current median: **44** seats (+5 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 43 | 41–46 | 40–47 | 40–47 | 38–48 |
+| European United Left–Nordic Green Left | EU | 39 | 44 | 41–46 | 41–47 | 40–47 | 39–49 |
 | Sumar | ES | | 8 | 8 | 8 | 8 | 8 |
 | La France insoumise | FR | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
-| Sinn Féin | IE | | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Sinn Féin | IE | | 6 | 6 | 6–7 | 6–7 | 5–8 |
 | Die Linke | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
 | Bloco de Esquerda | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -56,19 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.5% | 99.9% |  |
-| 39 | 2% | 99.4% | Last Result |
-| 40 | 5% | 98% |  |
-| 41 | 11% | 92% |  |
-| 42 | 17% | 82% |  |
-| 43 | 20% | 65% | Median |
-| 44 | 19% | 45% |  |
-| 45 | 14% | 26% |  |
-| 46 | 8% | 13% |  |
-| 47 | 4% | 5% |  |
-| 48 | 1.2% | 1.5% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0% | 0% |  |
+| 38 | 0.2% | 100% |  |
+| 39 | 1.0% | 99.8% | Last Result |
+| 40 | 3% | 98.8% |  |
+| 41 | 8% | 95% |  |
+| 42 | 14% | 87% |  |
+| 43 | 20% | 73% |  |
+| 44 | 20% | 53% | Median |
+| 45 | 16% | 33% |  |
+| 46 | 10% | 17% |  |
+| 47 | 5% | 7% |  |
+| 48 | 2% | 2% |  |
+| 49 | 0.5% | 0.5% |  |
+| 50 | 0.1% | 0.1% |  |
+| 51 | 0% | 0% |  |
 
 
