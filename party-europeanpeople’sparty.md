@@ -31,8 +31,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Продължаваме промяната–Демократична България | BG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Продължаваме промяната–Демократична България | BG | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -91,7 +91,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 149 | 8% | 85% |  |
 | 150 | 10% | 77% |  |
 | 151 | 11% | 67% |  |
-| 152 | 11% | 57% | Median |
+| 152 | 11% | 56% | Median |
 | 153 | 10% | 46% |  |
 | 154 | 9% | 35% |  |
 | 155 | 8% | 26% |  |
