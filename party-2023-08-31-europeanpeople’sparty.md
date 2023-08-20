@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 147–156 | 146–158 | 145–159 | 143–162 |
+| European People’s Party | EU | 187 | 152 | 148–157 | 146–158 | 145–160 | 143–162 |
 | Partido Popular | ES | | 21 | 21 | 21 | 21 | 21 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Koalicja Obywatelska | PL | | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
@@ -29,9 +29,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
@@ -59,7 +59,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
-| Kristdemokraterna | SE | | 0 | 0 | 0 | 0 | 0–1 |
+| Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | MODRÍ–Európske Slovensko–MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -81,29 +81,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 141 | 0.1% | 100% |  |
-| 142 | 0.2% | 99.9% |  |
-| 143 | 0.4% | 99.7% |  |
-| 144 | 0.9% | 99.3% |  |
-| 145 | 2% | 98% |  |
+| 142 | 0.1% | 99.9% |  |
+| 143 | 0.3% | 99.8% |  |
+| 144 | 0.7% | 99.4% |  |
+| 145 | 1.4% | 98.7% |  |
 | 146 | 3% | 97% |  |
-| 147 | 5% | 94% |  |
-| 148 | 7% | 89% |  |
-| 149 | 9% | 82% |  |
-| 150 | 10% | 73% |  |
-| 151 | 11% | 63% |  |
-| 152 | 11% | 52% | Median |
-| 153 | 10% | 41% |  |
-| 154 | 9% | 31% |  |
-| 155 | 7% | 22% |  |
-| 156 | 5% | 15% |  |
-| 157 | 4% | 10% |  |
-| 158 | 3% | 6% |  |
-| 159 | 2% | 4% |  |
-| 160 | 0.9% | 2% |  |
-| 161 | 0.5% | 1.1% |  |
-| 162 | 0.3% | 0.5% |  |
-| 163 | 0.1% | 0.3% |  |
-| 164 | 0.1% | 0.1% |  |
+| 147 | 4% | 95% |  |
+| 148 | 6% | 91% |  |
+| 149 | 8% | 85% |  |
+| 150 | 10% | 77% |  |
+| 151 | 11% | 67% |  |
+| 152 | 11% | 57% | Median |
+| 153 | 10% | 46% |  |
+| 154 | 9% | 35% |  |
+| 155 | 8% | 26% |  |
+| 156 | 6% | 18% |  |
+| 157 | 4% | 12% |  |
+| 158 | 3% | 8% |  |
+| 159 | 2% | 5% |  |
+| 160 | 1.2% | 3% |  |
+| 161 | 0.7% | 1.5% |  |
+| 162 | 0.4% | 0.8% |  |
+| 163 | 0.2% | 0.4% |  |
+| 164 | 0.1% | 0.2% |  |
 | 165 | 0% | 0.1% |  |
 | 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
