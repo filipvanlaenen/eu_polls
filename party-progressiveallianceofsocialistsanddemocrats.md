@@ -18,10 +18,10 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 143 | 139–147 | 137–148 | 136–149 | 134–151 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 143 | 138–147 | 137–148 | 136–149 | 134–150 |
 | Partido Socialista Obrero Español | ES | | 20 | 20 | 20 | 20 | 20 |
 | Partito Democratico | IT | | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 17 | 16–19 | 15–20 | 14–20 | 14–21 |
+| Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
 | Partidul Social Democrat | RO | | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | Parti socialiste | FR | | 9 | 8–9 | 7–9 | 7–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
@@ -67,25 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 0.1% | 99.9% |  |
 | 134 | 0.3% | 99.8% |  |
 | 135 | 0.7% | 99.5% |  |
-| 136 | 1.4% | 98.8% |  |
+| 136 | 2% | 98.7% |  |
 | 137 | 3% | 97% |  |
-| 138 | 4% | 95% |  |
-| 139 | 6% | 91% |  |
-| 140 | 9% | 84% |  |
-| 141 | 11% | 76% |  |
-| 142 | 12% | 65% |  |
-| 143 | 12% | 54% | Median |
-| 144 | 11% | 41% |  |
-| 145 | 10% | 30% |  |
-| 146 | 7% | 21% |  |
-| 147 | 5% | 13% | Last Result |
-| 148 | 4% | 8% |  |
-| 149 | 2% | 4% |  |
-| 150 | 1.2% | 2% |  |
-| 151 | 0.6% | 1.0% |  |
-| 152 | 0.3% | 0.4% |  |
-| 153 | 0.1% | 0.2% |  |
-| 154 | 0% | 0.1% |  |
-| 155 | 0% | 0% |  |
+| 138 | 5% | 94% |  |
+| 139 | 7% | 90% |  |
+| 140 | 9% | 83% |  |
+| 141 | 11% | 74% |  |
+| 142 | 13% | 63% |  |
+| 143 | 13% | 50% | Median |
+| 144 | 11% | 38% |  |
+| 145 | 9% | 26% |  |
+| 146 | 7% | 17% |  |
+| 147 | 5% | 10% | Last Result |
+| 148 | 3% | 5% |  |
+| 149 | 1.5% | 3% |  |
+| 150 | 0.7% | 1.2% |  |
+| 151 | 0.3% | 0.5% |  |
+| 152 | 0.1% | 0.2% |  |
+| 153 | 0% | 0.1% |  |
+| 154 | 0% | 0% |  |
 
 
