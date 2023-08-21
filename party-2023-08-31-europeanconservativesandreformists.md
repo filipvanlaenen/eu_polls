@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 77–83 | 76–84 | 75–85 | 74–87 |
+| European Conservatives and Reformists | EU | 61 | 80 | 77–84 | 76–85 | 75–85 | 74–87 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–28 | 22–29 | 21–30 |
 | Zjednoczona Prawica | PL | | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | Vox | ES | | 8 | 8 | 8 | 8 | 8 |
@@ -35,7 +35,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
-| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
+| Debout la France | FR | | 0 | 0 | 0 | 0 | 0–4 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -66,20 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.3% | 99.9% |  |
 | 74 | 0.8% | 99.6% |  |
 | 75 | 2% | 98.8% |  |
-| 76 | 4% | 97% |  |
-| 77 | 6% | 93% |  |
-| 78 | 10% | 87% |  |
+| 76 | 3% | 97% |  |
+| 77 | 6% | 94% |  |
+| 78 | 9% | 87% |  |
 | 79 | 13% | 78% |  |
-| 80 | 16% | 64% | Median |
-| 81 | 16% | 48% |  |
-| 82 | 13% | 32% |  |
-| 83 | 9% | 19% |  |
-| 84 | 5% | 10% |  |
-| 85 | 3% | 4% |  |
-| 86 | 1.1% | 2% |  |
-| 87 | 0.4% | 0.6% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 80 | 16% | 65% | Median |
+| 81 | 16% | 49% |  |
+| 82 | 13% | 34% |  |
+| 83 | 9% | 20% |  |
+| 84 | 6% | 11% |  |
+| 85 | 3% | 5% |  |
+| 86 | 1.4% | 2% |  |
+| 87 | 0.6% | 1.1% |  |
+| 88 | 0.3% | 0.4% |  |
+| 89 | 0.1% | 0.2% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 

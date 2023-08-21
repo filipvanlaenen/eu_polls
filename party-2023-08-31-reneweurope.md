@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **87** seats (-11 seats)
+Current median: **86** seats (-12 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 83–92 | 82–94 | 81–95 | 79–98 |
-| La République en marche–Mouvement démocrate | FR | | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
+| Renew Europe | EU | 98 | 86 | 82–91 | 81–93 | 80–94 | 78–97 |
+| La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| Freie Demokratische Partei | DE | | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
+| Freie Demokratische Partei | DE | | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–9 | 5–9 | 5–9 | 5–9 |
 | Trzecia Droga | PL | | 5 | 3–6 | 3–6 | 3–7 | 0–7 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -74,31 +74,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 77 | 0.1% | 100% |  |
-| 78 | 0.2% | 99.9% |  |
-| 79 | 0.5% | 99.7% |  |
-| 80 | 1.1% | 99.2% |  |
-| 81 | 2% | 98% |  |
-| 82 | 4% | 96% |  |
-| 83 | 6% | 92% |  |
-| 84 | 8% | 86% |  |
-| 85 | 10% | 78% |  |
-| 86 | 11% | 68% |  |
-| 87 | 11% | 57% | Median |
-| 88 | 10% | 46% |  |
-| 89 | 9% | 36% |  |
-| 90 | 8% | 27% |  |
-| 91 | 6% | 19% |  |
-| 92 | 4% | 13% |  |
-| 93 | 3% | 9% |  |
-| 94 | 2% | 6% |  |
-| 95 | 1.4% | 3% |  |
-| 96 | 0.9% | 2% |  |
-| 97 | 0.5% | 1.1% |  |
-| 98 | 0.3% | 0.6% | Last Result |
-| 99 | 0.2% | 0.3% |  |
-| 100 | 0.1% | 0.1% |  |
-| 101 | 0% | 0.1% |  |
-| 102 | 0% | 0% |  |
+| 76 | 0.1% | 100% |  |
+| 77 | 0.2% | 99.9% |  |
+| 78 | 0.4% | 99.7% |  |
+| 79 | 1.0% | 99.3% |  |
+| 80 | 2% | 98% |  |
+| 81 | 3% | 96% |  |
+| 82 | 5% | 93% |  |
+| 83 | 8% | 88% |  |
+| 84 | 10% | 80% |  |
+| 85 | 11% | 70% |  |
+| 86 | 11% | 59% | Median |
+| 87 | 11% | 48% |  |
+| 88 | 9% | 37% |  |
+| 89 | 8% | 28% |  |
+| 90 | 6% | 20% |  |
+| 91 | 5% | 14% |  |
+| 92 | 3% | 9% |  |
+| 93 | 2% | 6% |  |
+| 94 | 1.5% | 3% |  |
+| 95 | 0.9% | 2% |  |
+| 96 | 0.5% | 1.1% |  |
+| 97 | 0.3% | 0.6% |  |
+| 98 | 0.1% | 0.3% | Last Result |
+| 99 | 0.1% | 0.1% |  |
+| 100 | 0% | 0.1% |  |
+| 101 | 0% | 0% |  |
 
 

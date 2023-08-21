@@ -8,7 +8,7 @@ Members registered from **12 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **71** seats (-5 seats)
+Current median: **73** seats (-3 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 71 | 68–75 | 67–76 | 66–77 | 64–79 |
-| Rassemblement national | FR | | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
-| Alternative für Deutschland | DE | | 20 | 18–23 | 17–24 | 17–24 | 16–24 |
+| Identity and Democracy | EU | 76 | 73 | 70–76 | 69–77 | 68–78 | 66–79 |
+| Rassemblement national | FR | | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| Alternative für Deutschland | DE | | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
 | Lega Nord | IT | | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -41,22 +41,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0.2% | 100% |  |
-| 64 | 0.5% | 99.8% |  |
-| 65 | 1.2% | 99.3% |  |
-| 66 | 3% | 98% |  |
-| 67 | 5% | 95% |  |
-| 68 | 7% | 91% |  |
-| 69 | 10% | 83% |  |
-| 70 | 12% | 73% |  |
-| 71 | 13% | 61% | Median |
-| 72 | 12% | 48% |  |
-| 73 | 11% | 36% |  |
-| 74 | 9% | 25% |  |
-| 75 | 7% | 16% |  |
-| 76 | 5% | 9% | Last Result |
-| 77 | 3% | 5% |  |
-| 78 | 1.4% | 2% |  |
+| 65 | 0.1% | 100% |  |
+| 66 | 0.4% | 99.8% |  |
+| 67 | 1.1% | 99.4% |  |
+| 68 | 3% | 98% |  |
+| 69 | 5% | 96% |  |
+| 70 | 9% | 90% |  |
+| 71 | 13% | 81% |  |
+| 72 | 16% | 68% |  |
+| 73 | 16% | 53% | Median |
+| 74 | 14% | 37% |  |
+| 75 | 10% | 23% |  |
+| 76 | 6% | 12% | Last Result |
+| 77 | 3% | 6% |  |
+| 78 | 2% | 3% |  |
 | 79 | 0.6% | 0.9% |  |
 | 80 | 0.2% | 0.3% |  |
 | 81 | 0.1% | 0.1% |  |
