@@ -32,7 +32,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 1 | 1 | 1 | 1 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratepartei Lëtzebuerg | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |

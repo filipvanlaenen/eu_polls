@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **93** seats (-5 seats)
+Current median: **92** seats (-6 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 89–98 | 88–100 | 87–101 | 85–104 |
+| Renew Europe | EU | 98 | 92 | 88–97 | 87–99 | 86–100 | 84–103 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
-| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | Trzecia Droga | PL | | 5 | 3–6 | 3–6 | 3–7 | 0–7 |
@@ -28,13 +28,13 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 3–4 | 3–4 | 2–4 | 1–4 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Progresívne Slovensko | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Progresívne Slovensko | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
@@ -75,30 +75,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0.1% | 100% |  |
-| 84 | 0.2% | 99.9% |  |
-| 85 | 0.5% | 99.6% |  |
-| 86 | 1.1% | 99.1% |  |
-| 87 | 2% | 98% |  |
-| 88 | 4% | 96% |  |
-| 89 | 5% | 93% |  |
-| 90 | 8% | 87% |  |
-| 91 | 10% | 79% |  |
-| 92 | 11% | 70% |  |
-| 93 | 11% | 59% | Median |
-| 94 | 11% | 48% |  |
-| 95 | 9% | 37% |  |
-| 96 | 8% | 28% |  |
-| 97 | 6% | 20% |  |
-| 98 | 5% | 14% | Last Result |
-| 99 | 3% | 9% |  |
-| 100 | 2% | 6% |  |
-| 101 | 1.4% | 3% |  |
-| 102 | 0.9% | 2% |  |
-| 103 | 0.5% | 1.0% |  |
-| 104 | 0.3% | 0.5% |  |
-| 105 | 0.1% | 0.3% |  |
-| 106 | 0.1% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0.1% | 99.9% |  |
+| 83 | 0.2% | 99.9% |  |
+| 84 | 0.5% | 99.6% |  |
+| 85 | 1.1% | 99.1% |  |
+| 86 | 2% | 98% |  |
+| 87 | 4% | 96% |  |
+| 88 | 6% | 92% |  |
+| 89 | 8% | 87% |  |
+| 90 | 10% | 79% |  |
+| 91 | 11% | 69% |  |
+| 92 | 11% | 58% | Median |
+| 93 | 11% | 47% |  |
+| 94 | 9% | 37% |  |
+| 95 | 8% | 27% |  |
+| 96 | 6% | 19% |  |
+| 97 | 5% | 13% |  |
+| 98 | 3% | 9% | Last Result |
+| 99 | 2% | 5% |  |
+| 100 | 1.4% | 3% |  |
+| 101 | 0.8% | 2% |  |
+| 102 | 0.5% | 1.0% |  |
+| 103 | 0.3% | 0.5% |  |
+| 104 | 0.1% | 0.2% |  |
+| 105 | 0.1% | 0.1% |  |
+| 106 | 0% | 0% |  |
 
 
