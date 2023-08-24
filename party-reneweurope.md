@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 88–97 | 87–99 | 86–100 | 84–103 |
+| Renew Europe | EU | 98 | 93 | 89–98 | 88–99 | 87–101 | 85–103 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Freie Demokratische Partei | DE | | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
@@ -33,6 +33,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,7 +44,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Suomen Keskusta | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -75,31 +75,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 0% | 100% |  |
-| 82 | 0.1% | 99.9% |  |
-| 83 | 0.2% | 99.9% |  |
-| 84 | 0.5% | 99.6% |  |
-| 85 | 1.1% | 99.1% |  |
-| 86 | 2% | 98% |  |
-| 87 | 4% | 96% |  |
-| 88 | 6% | 92% |  |
-| 89 | 8% | 87% |  |
-| 90 | 10% | 79% |  |
-| 91 | 11% | 69% |  |
-| 92 | 11% | 58% | Median |
-| 93 | 11% | 47% |  |
-| 94 | 9% | 37% |  |
-| 95 | 8% | 27% |  |
-| 96 | 6% | 19% |  |
-| 97 | 5% | 13% |  |
-| 98 | 3% | 9% | Last Result |
-| 99 | 2% | 5% |  |
-| 100 | 1.4% | 3% |  |
-| 101 | 0.8% | 2% |  |
-| 102 | 0.5% | 1.0% |  |
-| 103 | 0.3% | 0.5% |  |
-| 104 | 0.1% | 0.2% |  |
-| 105 | 0.1% | 0.1% |  |
-| 106 | 0% | 0% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0.1% | 99.9% |  |
+| 84 | 0.3% | 99.8% |  |
+| 85 | 0.6% | 99.5% |  |
+| 86 | 1.3% | 98.9% |  |
+| 87 | 2% | 98% |  |
+| 88 | 4% | 95% |  |
+| 89 | 6% | 91% |  |
+| 90 | 8% | 85% |  |
+| 91 | 10% | 77% |  |
+| 92 | 11% | 67% |  |
+| 93 | 11% | 56% | Median |
+| 94 | 10% | 44% |  |
+| 95 | 9% | 34% |  |
+| 96 | 7% | 25% |  |
+| 97 | 6% | 18% |  |
+| 98 | 4% | 12% | Last Result |
+| 99 | 3% | 8% |  |
+| 100 | 2% | 5% |  |
+| 101 | 1.2% | 3% |  |
+| 102 | 0.7% | 2% |  |
+| 103 | 0.4% | 0.8% |  |
+| 104 | 0.2% | 0.4% |  |
+| 105 | 0.1% | 0.2% |  |
+| 106 | 0.1% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 
