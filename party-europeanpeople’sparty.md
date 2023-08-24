@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **160** seats (-27 seats)
+Current median: **161** seats (-26 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 160 | 155–165 | 154–166 | 153–167 | 151–170 |
+| European People’s Party | EU | 187 | 161 | 156–166 | 155–167 | 154–168 | 151–171 |
 | Partido Popular | ES | | 21 | 21 | 21 | 21 | 21 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–20 | 18–22 | 18–23 | 17–23 |
 | Koalicja Obywatelska | PL | | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
@@ -27,8 +27,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Partido Social Democrata | PT | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Forza Italia | IT | | 6 | 4–7 | 4–8 | 4–9 | 3–10 |
-| Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Partidul Național Liberal | RO | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -64,10 +64,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Magyar Fórum | SK | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Porozumienie | PL | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
@@ -77,33 +79,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 148 | 0% | 100% |  |
-| 149 | 0.1% | 99.9% |  |
-| 150 | 0.2% | 99.8% |  |
-| 151 | 0.5% | 99.6% |  |
-| 152 | 0.9% | 99.1% |  |
-| 153 | 2% | 98% |  |
-| 154 | 3% | 96% |  |
-| 155 | 4% | 94% |  |
-| 156 | 6% | 89% |  |
-| 157 | 8% | 83% |  |
-| 158 | 10% | 75% |  |
-| 159 | 11% | 65% |  |
-| 160 | 11% | 54% | Median |
-| 161 | 10% | 43% |  |
-| 162 | 9% | 32% |  |
-| 163 | 7% | 23% |  |
-| 164 | 6% | 16% |  |
-| 165 | 4% | 11% |  |
-| 166 | 3% | 7% |  |
-| 167 | 2% | 4% |  |
-| 168 | 1.0% | 2% |  |
-| 169 | 0.6% | 1.2% |  |
-| 170 | 0.3% | 0.6% |  |
-| 171 | 0.2% | 0.3% |  |
-| 172 | 0.1% | 0.1% |  |
-| 173 | 0% | 0.1% |  |
-| 174 | 0% | 0% |  |
+| 149 | 0.1% | 100% |  |
+| 150 | 0.1% | 99.9% |  |
+| 151 | 0.3% | 99.8% |  |
+| 152 | 0.6% | 99.4% |  |
+| 153 | 1.2% | 98.8% |  |
+| 154 | 2% | 98% |  |
+| 155 | 3% | 96% |  |
+| 156 | 5% | 92% |  |
+| 157 | 7% | 87% |  |
+| 158 | 9% | 80% |  |
+| 159 | 10% | 72% |  |
+| 160 | 11% | 62% |  |
+| 161 | 11% | 51% | Median |
+| 162 | 10% | 40% |  |
+| 163 | 8% | 31% |  |
+| 164 | 7% | 22% |  |
+| 165 | 5% | 15% |  |
+| 166 | 4% | 10% |  |
+| 167 | 3% | 6% |  |
+| 168 | 2% | 4% |  |
+| 169 | 1.0% | 2% |  |
+| 170 | 0.6% | 1.2% |  |
+| 171 | 0.3% | 0.6% |  |
+| 172 | 0.2% | 0.3% |  |
+| 173 | 0.1% | 0.2% |  |
+| 174 | 0% | 0.1% |  |
 | 175 | 0% | 0% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
