@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **161** seats (-26 seats)
+Current median: **158** seats (-29 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 161 | 156–166 | 155–167 | 154–168 | 151–171 |
+| European People’s Party | EU | 187 | 158 | 154–164 | 152–165 | 151–166 | 149–169 |
 | Partido Popular | ES | | 21 | 21 | 21 | 21 | 21 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–20 | 18–22 | 18–23 | 17–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 18 | 18–20 | 18–20 | 18–20 | 18–22 |
 | Koalicja Obywatelska | PL | | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 8 | 7–10 | 7–10 | 7–11 | 6–12 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Partido Social Democrata | PT | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Forza Italia | IT | | 6 | 4–7 | 4–8 | 4–9 | 3–10 |
-| Partidul Național Liberal | RO | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| Partidul Național Liberal | RO | | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -55,7 +55,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -69,7 +69,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
+| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
@@ -79,32 +79,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 149 | 0.1% | 100% |  |
-| 150 | 0.1% | 99.9% |  |
-| 151 | 0.3% | 99.8% |  |
-| 152 | 0.6% | 99.4% |  |
-| 153 | 1.2% | 98.8% |  |
-| 154 | 2% | 98% |  |
-| 155 | 3% | 96% |  |
-| 156 | 5% | 92% |  |
-| 157 | 7% | 87% |  |
-| 158 | 9% | 80% |  |
-| 159 | 10% | 72% |  |
-| 160 | 11% | 62% |  |
-| 161 | 11% | 51% | Median |
-| 162 | 10% | 40% |  |
-| 163 | 8% | 31% |  |
-| 164 | 7% | 22% |  |
-| 165 | 5% | 15% |  |
-| 166 | 4% | 10% |  |
-| 167 | 3% | 6% |  |
-| 168 | 2% | 4% |  |
-| 169 | 1.0% | 2% |  |
-| 170 | 0.6% | 1.2% |  |
-| 171 | 0.3% | 0.6% |  |
-| 172 | 0.2% | 0.3% |  |
-| 173 | 0.1% | 0.2% |  |
-| 174 | 0% | 0.1% |  |
+| 147 | 0.1% | 100% |  |
+| 148 | 0.1% | 99.9% |  |
+| 149 | 0.3% | 99.8% |  |
+| 150 | 0.7% | 99.4% |  |
+| 151 | 1.4% | 98.7% |  |
+| 152 | 2% | 97% |  |
+| 153 | 4% | 95% |  |
+| 154 | 6% | 91% |  |
+| 155 | 7% | 86% |  |
+| 156 | 9% | 78% |  |
+| 157 | 10% | 69% |  |
+| 158 | 10% | 60% | Median |
+| 159 | 10% | 49% |  |
+| 160 | 9% | 39% |  |
+| 161 | 8% | 30% |  |
+| 162 | 7% | 22% |  |
+| 163 | 5% | 15% |  |
+| 164 | 4% | 10% |  |
+| 165 | 3% | 7% |  |
+| 166 | 2% | 4% |  |
+| 167 | 1.0% | 2% |  |
+| 168 | 0.6% | 1.3% |  |
+| 169 | 0.3% | 0.7% |  |
+| 170 | 0.2% | 0.4% |  |
+| 171 | 0.1% | 0.2% |  |
+| 172 | 0% | 0.1% |  |
+| 173 | 0% | 0% |  |
+| 174 | 0% | 0% |  |
 | 175 | 0% | 0% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
