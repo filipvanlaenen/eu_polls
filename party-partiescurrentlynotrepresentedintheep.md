@@ -30,7 +30,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Bierpartei [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,10 +63,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 53% | 99.9% | Median |
-| 5 | 40% | 47% |  |
-| 6 | 6% | 7% |  |
-| 7 | 0.4% | 0.4% |  |
+| 4 | 54% | 99.9% | Median |
+| 5 | 40% | 46% |  |
+| 6 | 6% | 6% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
