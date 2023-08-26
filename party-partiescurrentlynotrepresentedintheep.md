@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI
+> AT, BE, BG, CY, CZ, DE, EE, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI
 
 ## Seats
 
@@ -45,7 +45,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | ΕΑΝ… [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |

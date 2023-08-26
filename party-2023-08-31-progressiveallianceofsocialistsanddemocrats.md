@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **144** seats (-3 seats)
+Current median: **143** seats (-4 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 144 | 140–148 | 139–149 | 138–150 | 136–152 |
-| Partido Socialista Obrero Español | ES | | 20 | 20 | 20 | 20 | 20 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 143 | 139–147 | 137–148 | 136–149 | 134–151 |
+| Partido Socialista Obrero Español | ES | | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | Partito Democratico | IT | | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 18 | 17–18 | 17–18 | 16–18 | 15–19 |
 | Partidul Social Democrat | RO | | 11 | 9–13 | 9–13 | 9–14 | 9–14 |
@@ -30,10 +30,10 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Demokratikus Koalíció | HU | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partij van de Arbeid | NL | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -64,28 +64,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 133 | 0% | 100% |  |
-| 134 | 0.1% | 99.9% |  |
-| 135 | 0.3% | 99.8% |  |
-| 136 | 0.7% | 99.5% |  |
-| 137 | 1.3% | 98.9% |  |
-| 138 | 2% | 98% |  |
-| 139 | 4% | 95% |  |
-| 140 | 6% | 91% |  |
-| 141 | 8% | 85% |  |
-| 142 | 11% | 77% |  |
-| 143 | 12% | 66% |  |
-| 144 | 12% | 54% | Median |
-| 145 | 12% | 42% |  |
-| 146 | 10% | 30% |  |
-| 147 | 8% | 20% | Last Result |
-| 148 | 5% | 13% |  |
-| 149 | 3% | 7% |  |
-| 150 | 2% | 4% |  |
-| 151 | 1.0% | 2% |  |
-| 152 | 0.5% | 0.8% |  |
-| 153 | 0.2% | 0.3% |  |
-| 154 | 0.1% | 0.1% |  |
-| 155 | 0% | 0% |  |
+| 132 | 0.1% | 100% |  |
+| 133 | 0.2% | 99.9% |  |
+| 134 | 0.4% | 99.8% |  |
+| 135 | 0.7% | 99.4% |  |
+| 136 | 1.4% | 98.7% |  |
+| 137 | 3% | 97% |  |
+| 138 | 4% | 95% |  |
+| 139 | 6% | 90% |  |
+| 140 | 8% | 84% |  |
+| 141 | 10% | 76% |  |
+| 142 | 12% | 66% |  |
+| 143 | 12% | 54% | Median |
+| 144 | 11% | 42% |  |
+| 145 | 10% | 31% |  |
+| 146 | 8% | 21% |  |
+| 147 | 6% | 13% | Last Result |
+| 148 | 4% | 8% |  |
+| 149 | 2% | 4% |  |
+| 150 | 1.1% | 2% |  |
+| 151 | 0.6% | 0.9% |  |
+| 152 | 0.2% | 0.4% |  |
+| 153 | 0.1% | 0.1% |  |
+| 154 | 0% | 0% |  |
 
 
