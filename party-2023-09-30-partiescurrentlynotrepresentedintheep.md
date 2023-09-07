@@ -1,24 +1,26 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> AT, BE, BG, CY, CZ, DE, EE, FR, GR, HR, IE, IT, LU, LV, NL, PL, SI
+> AT, BE, BG, CY, CZ, DE, EE, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+4 seats)
+Current median: **5** seats (+5 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> GR, LV
+> GR, HU, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 4–5 | 4–5 | 4–6 | 4–7 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nép Pártján [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
@@ -61,13 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 68% | 99.9% | Median |
-| 5 | 28% | 32% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.1% | 0.5% |  |
-| 8 | 0.3% | 0.4% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 3 | 0% | 100% |  |
+| 4 | 38% | 100% |  |
+| 5 | 32% | 62% | Median |
+| 6 | 22% | 30% |  |
+| 7 | 7% | 8% |  |
+| 8 | 0.8% | 1.1% |  |
+| 9 | 0.2% | 0.3% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
