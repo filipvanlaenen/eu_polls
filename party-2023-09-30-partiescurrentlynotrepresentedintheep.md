@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> AT, BE, BG, CY, CZ, DE, EE, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI
+> BE, BG, CY, CZ, DE, EE, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 4–6 | 4–7 | 4–8 |
 | Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -30,7 +30,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
-| Bierpartei [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -63,13 +62,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 38% | 100% |  |
-| 5 | 32% | 62% | Median |
-| 6 | 22% | 30% |  |
-| 7 | 7% | 8% |  |
-| 8 | 0.8% | 1.1% |  |
-| 9 | 0.2% | 0.3% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 45% | 99.9% |  |
+| 5 | 29% | 55% | Median |
+| 6 | 21% | 26% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.3% | 0.6% |  |
+| 9 | 0.1% | 0.2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
