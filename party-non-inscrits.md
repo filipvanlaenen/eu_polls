@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (+27 seats)
+Current median: **57** seats (+28 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 56 | 52–59 | 51–60 | 50–61 | 47–63 |
+| Non-Inscrits | EU | 29 | 57 | 53–61 | 51–62 | 50–63 | 48–65 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–19 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Konfederacja | PL | | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
 | Reconquête | FR | | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
 | BoerBurgerBeweging | NL | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Jobbik | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Jobbik | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Magyar Kétfarkú Kutya Párt | HU | | 1 | 1 | 1 | 1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -70,27 +70,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
-| 45 | 0.1% | 100% |  |
-| 46 | 0.2% | 99.9% |  |
-| 47 | 0.3% | 99.8% |  |
-| 48 | 0.6% | 99.4% |  |
-| 49 | 1.0% | 98.8% |  |
-| 50 | 2% | 98% |  |
-| 51 | 3% | 96% |  |
-| 52 | 5% | 93% |  |
-| 53 | 8% | 88% |  |
-| 54 | 11% | 81% |  |
-| 55 | 14% | 70% |  |
-| 56 | 15% | 56% | Median |
-| 57 | 14% | 41% |  |
-| 58 | 11% | 28% |  |
-| 59 | 8% | 16% |  |
-| 60 | 5% | 9% |  |
-| 61 | 2% | 4% |  |
-| 62 | 1.0% | 2% |  |
-| 63 | 0.4% | 0.6% |  |
-| 64 | 0.1% | 0.2% |  |
-| 65 | 0% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0.1% | 99.9% |  |
+| 47 | 0.2% | 99.8% |  |
+| 48 | 0.5% | 99.6% |  |
+| 49 | 0.8% | 99.1% |  |
+| 50 | 1.4% | 98% |  |
+| 51 | 2% | 97% |  |
+| 52 | 4% | 95% |  |
+| 53 | 6% | 91% |  |
+| 54 | 9% | 85% |  |
+| 55 | 11% | 76% |  |
+| 56 | 13% | 65% |  |
+| 57 | 13% | 52% | Median |
+| 58 | 12% | 39% |  |
+| 59 | 9% | 27% |  |
+| 60 | 7% | 18% |  |
+| 61 | 5% | 11% |  |
+| 62 | 3% | 6% |  |
+| 63 | 2% | 3% |  |
+| 64 | 0.8% | 1.4% |  |
+| 65 | 0.4% | 0.6% |  |
+| 66 | 0.1% | 0.2% |  |
+| 67 | 0% | 0.1% |  |
+| 68 | 0% | 0% |  |
 
 
