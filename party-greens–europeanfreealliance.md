@@ -24,15 +24,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Česká pirátská strana | CZ | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
-| Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,8 +62,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 38 | 0.1% | 100% |  |
-| 39 | 0.4% | 99.9% |  |
-| 40 | 1.5% | 99.4% |  |
+| 39 | 0.5% | 99.8% |  |
+| 40 | 2% | 99.3% |  |
 | 41 | 4% | 98% |  |
 | 42 | 7% | 94% |  |
 | 43 | 11% | 87% |  |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 4% | 8% |  |
 | 51 | 2% | 4% |  |
 | 52 | 1.2% | 2% |  |
-| 53 | 0.5% | 0.8% |  |
+| 53 | 0.6% | 0.9% |  |
 | 54 | 0.2% | 0.3% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |

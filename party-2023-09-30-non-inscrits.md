@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (+27 seats)
+Current median: **57** seats (+28 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 56 | 52–60 | 51–61 | 50–62 | 48–64 |
+| Non-Inscrits | EU | 29 | 57 | 53–61 | 51–62 | 50–63 | 48–65 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–17 | 11–19 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Konfederacja | PL | | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
@@ -28,7 +28,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -70,28 +70,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
-| 45 | 0.1% | 100% |  |
+| 45 | 0% | 100% |  |
 | 46 | 0.1% | 99.9% |  |
-| 47 | 0.3% | 99.8% |  |
-| 48 | 0.5% | 99.5% |  |
-| 49 | 0.9% | 99.0% |  |
-| 50 | 1.5% | 98% |  |
+| 47 | 0.2% | 99.8% |  |
+| 48 | 0.5% | 99.6% |  |
+| 49 | 0.8% | 99.1% |  |
+| 50 | 1.3% | 98% |  |
 | 51 | 2% | 97% |  |
-| 52 | 4% | 94% |  |
-| 53 | 7% | 90% |  |
-| 54 | 10% | 83% |  |
-| 55 | 12% | 74% |  |
-| 56 | 13% | 62% | Median |
-| 57 | 13% | 49% |  |
-| 58 | 11% | 36% |  |
-| 59 | 9% | 24% |  |
-| 60 | 6% | 15% |  |
-| 61 | 4% | 9% |  |
-| 62 | 2% | 5% |  |
-| 63 | 1.3% | 2% |  |
-| 64 | 0.6% | 1.0% |  |
-| 65 | 0.2% | 0.4% |  |
-| 66 | 0.1% | 0.1% |  |
-| 67 | 0% | 0% |  |
+| 52 | 4% | 95% |  |
+| 53 | 6% | 91% |  |
+| 54 | 9% | 85% |  |
+| 55 | 11% | 76% |  |
+| 56 | 13% | 65% |  |
+| 57 | 13% | 52% | Median |
+| 58 | 12% | 39% |  |
+| 59 | 9% | 27% |  |
+| 60 | 7% | 17% |  |
+| 61 | 5% | 10% |  |
+| 62 | 3% | 6% |  |
+| 63 | 2% | 3% |  |
+| 64 | 0.8% | 1.3% |  |
+| 65 | 0.3% | 0.5% |  |
+| 66 | 0.1% | 0.2% |  |
+| 67 | 0% | 0.1% |  |
+| 68 | 0% | 0% |  |
 
 

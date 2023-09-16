@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **90** seats (-8 seats)
+Current median: **91** seats (-7 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 90 | 86–95 | 84–96 | 83–97 | 81–99 |
+| Renew Europe | EU | 98 | 91 | 87–96 | 86–97 | 85–98 | 83–101 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
@@ -36,6 +36,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 1–2 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -43,8 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Moderaterne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Moderaterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -62,7 +62,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -73,30 +73,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 79 | 0.1% | 100% |  |
-| 80 | 0.2% | 99.9% |  |
-| 81 | 0.4% | 99.7% |  |
-| 82 | 0.8% | 99.4% |  |
-| 83 | 2% | 98.6% |  |
-| 84 | 3% | 97% |  |
-| 85 | 4% | 94% |  |
-| 86 | 6% | 90% |  |
-| 87 | 8% | 84% |  |
-| 88 | 10% | 76% |  |
-| 89 | 11% | 66% |  |
-| 90 | 11% | 55% | Median |
-| 91 | 10% | 44% |  |
-| 92 | 9% | 33% |  |
-| 93 | 8% | 24% |  |
-| 94 | 6% | 17% |  |
-| 95 | 4% | 11% |  |
-| 96 | 3% | 6% |  |
-| 97 | 2% | 4% |  |
-| 98 | 1.0% | 2% | Last Result |
-| 99 | 0.5% | 0.9% |  |
-| 100 | 0.2% | 0.4% |  |
-| 101 | 0.1% | 0.2% |  |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0.1% | 99.9% |  |
+| 82 | 0.3% | 99.8% |  |
+| 83 | 0.6% | 99.5% |  |
+| 84 | 1.2% | 98.9% |  |
+| 85 | 2% | 98% |  |
+| 86 | 4% | 95% |  |
+| 87 | 6% | 92% |  |
+| 88 | 8% | 86% |  |
+| 89 | 9% | 79% |  |
+| 90 | 11% | 69% |  |
+| 91 | 11% | 59% | Median |
+| 92 | 11% | 47% |  |
+| 93 | 10% | 37% |  |
+| 94 | 8% | 27% |  |
+| 95 | 6% | 19% |  |
+| 96 | 5% | 13% |  |
+| 97 | 3% | 8% |  |
+| 98 | 2% | 4% | Last Result |
+| 99 | 1.2% | 2% |  |
+| 100 | 0.6% | 1.1% |  |
+| 101 | 0.3% | 0.5% |  |
+| 102 | 0.1% | 0.2% |  |
+| 103 | 0.1% | 0.1% |  |
+| 104 | 0% | 0% |  |
 
 
