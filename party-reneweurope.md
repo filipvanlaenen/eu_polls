@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **91** seats (-7 seats)
+Current median: **92** seats (-6 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,18 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 91 | 87–96 | 86–97 | 85–98 | 83–101 |
-| La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
+| Renew Europe | EU | 98 | 92 | 88–96 | 86–98 | 86–99 | 84–101 |
+| La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 16–21 | 16–22 | 16–23 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Freie Demokratische Partei | DE | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| Trzecia Droga | PL | | 5 | 3–6 | 3–6 | 3–7 | 0–7 |
+| Trzecia Droga | PL | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Fianna Fáil | IE | | 4 | 3–4 | 3–4 | 2–4 | 1–4 |
+| Fianna Fáil | IE | | 4 | 4 | 3–4 | 2–4 | 2–4 |
+| Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Продължаваме промяната–Демократична България | BG | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 1–2 |
@@ -40,6 +39,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Democraten 66 | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -73,30 +73,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.3% | 99.8% |  |
-| 83 | 0.6% | 99.5% |  |
-| 84 | 1.2% | 98.9% |  |
-| 85 | 2% | 98% |  |
-| 86 | 4% | 95% |  |
-| 87 | 6% | 92% |  |
-| 88 | 8% | 86% |  |
-| 89 | 9% | 79% |  |
-| 90 | 11% | 69% |  |
-| 91 | 11% | 59% | Median |
-| 92 | 11% | 47% |  |
-| 93 | 10% | 37% |  |
-| 94 | 8% | 27% |  |
-| 95 | 6% | 19% |  |
-| 96 | 5% | 13% |  |
-| 97 | 3% | 8% |  |
-| 98 | 2% | 4% | Last Result |
-| 99 | 1.2% | 2% |  |
-| 100 | 0.6% | 1.1% |  |
-| 101 | 0.3% | 0.5% |  |
-| 102 | 0.1% | 0.2% |  |
+| 82 | 0.1% | 100% |  |
+| 83 | 0.3% | 99.8% |  |
+| 84 | 0.7% | 99.6% |  |
+| 85 | 1.4% | 98.9% |  |
+| 86 | 3% | 98% |  |
+| 87 | 4% | 95% |  |
+| 88 | 6% | 91% |  |
+| 89 | 9% | 84% |  |
+| 90 | 10% | 76% |  |
+| 91 | 11% | 66% |  |
+| 92 | 11% | 54% | Median |
+| 93 | 11% | 43% |  |
+| 94 | 9% | 32% |  |
+| 95 | 8% | 23% |  |
+| 96 | 6% | 16% |  |
+| 97 | 4% | 10% |  |
+| 98 | 3% | 6% | Last Result |
+| 99 | 2% | 3% |  |
+| 100 | 0.8% | 2% |  |
+| 101 | 0.4% | 0.7% |  |
+| 102 | 0.2% | 0.3% |  |
 | 103 | 0.1% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 104 | 0% | 0.1% |  |
+| 105 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **42** seats (+3 seats)
+Current median: **43** seats (+4 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 42 | 40–44 | 40–45 | 39–46 | 38–47 |
+| European United Left–Nordic Green Left | EU | 39 | 43 | 41–46 | 40–46 | 40–47 | 39–49 |
 | Sumar | ES | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| La France insoumise | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Sinn Féin | IE | | 6 | 6 | 6–7 | 6–7 | 5–8 |
+| La France insoumise | FR | | 7 | 7–8 | 6–8 | 6–9 | 5–9 |
+| Sinn Féin | IE | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Die Linke | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -37,10 +37,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Levica | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–4 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -54,19 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.8% | 99.9% |  |
-| 39 | 3% | 99.1% | Last Result |
-| 40 | 9% | 96% |  |
-| 41 | 18% | 87% |  |
-| 42 | 24% | 69% | Median |
-| 43 | 22% | 45% |  |
-| 44 | 14% | 23% |  |
-| 45 | 6% | 10% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.8% | 1.1% |  |
-| 48 | 0.2% | 0.3% |  |
-| 49 | 0.1% | 0.1% |  |
-| 50 | 0% | 0% |  |
+| 38 | 0.2% | 100% |  |
+| 39 | 1.1% | 99.7% | Last Result |
+| 40 | 4% | 98.7% |  |
+| 41 | 10% | 95% |  |
+| 42 | 17% | 85% |  |
+| 43 | 22% | 68% | Median |
+| 44 | 20% | 46% |  |
+| 45 | 14% | 26% |  |
+| 46 | 7% | 12% |  |
+| 47 | 3% | 5% |  |
+| 48 | 1.2% | 2% |  |
+| 49 | 0.5% | 0.8% |  |
+| 50 | 0.2% | 0.3% |  |
+| 51 | 0.1% | 0.1% |  |
+| 52 | 0% | 0% |  |
 
 

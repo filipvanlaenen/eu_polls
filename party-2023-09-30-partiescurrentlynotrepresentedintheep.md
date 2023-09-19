@@ -18,12 +18,11 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 4–6 | 4–6 | 4–7 | 4–8 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | Σπαρτιάτες [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
-| AGROunia [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -34,7 +33,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independents [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -62,14 +61,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 60% | 99.9% | Median |
-| 5 | 26% | 40% |  |
-| 6 | 11% | 14% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.3% | 0.5% |  |
+| 3 | 0% | 100% |  |
+| 4 | 52% | 100% | Median |
+| 5 | 31% | 48% |  |
+| 6 | 13% | 17% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.6% | 0.8% |  |
 | 9 | 0.1% | 0.2% |  |
-| 10 | 0% | 0.1% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
