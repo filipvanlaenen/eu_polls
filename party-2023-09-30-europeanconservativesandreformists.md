@@ -27,16 +27,15 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–4 |
-| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 4% | 91% |  |
 | 78 | 6% | 87% |  |
 | 79 | 9% | 80% |  |
-| 80 | 11% | 71% |  |
-| 81 | 13% | 60% | Median |
+| 80 | 11% | 72% |  |
+| 81 | 13% | 61% | Median |
 | 82 | 13% | 48% |  |
 | 83 | 12% | 35% |  |
 | 84 | 9% | 23% |  |
 | 85 | 6% | 14% |  |
 | 86 | 4% | 8% |  |
 | 87 | 2% | 4% |  |
-| 88 | 1.1% | 2% |  |
+| 88 | 1.0% | 2% |  |
 | 89 | 0.5% | 0.8% |  |
 | 90 | 0.2% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
