@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (+7 seats)
+Current median: **45** seats (+6 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,23 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 46 | 43–50 | 42–51 | 41–52 | 40–53 |
+| European United Left–Nordic Green Left | EU | 39 | 45 | 42–49 | 41–50 | 41–51 | 39–52 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
-| Sumar | ES | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| Sumar | ES | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Die Linke | DE | | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
+| Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Bloco de Esquerda | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -53,22 +54,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.2% | 100% | Last Result |
-| 40 | 0.7% | 99.8% |  |
-| 41 | 2% | 99.1% |  |
-| 42 | 5% | 97% |  |
-| 43 | 9% | 92% |  |
-| 44 | 12% | 83% |  |
-| 45 | 13% | 71% |  |
-| 46 | 13% | 58% | Median |
-| 47 | 12% | 45% |  |
-| 48 | 11% | 33% |  |
-| 49 | 9% | 22% |  |
-| 50 | 7% | 13% |  |
-| 51 | 4% | 6% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.6% | 0.9% |  |
-| 54 | 0.2% | 0.2% |  |
+| 38 | 0.1% | 100% |  |
+| 39 | 0.5% | 99.9% | Last Result |
+| 40 | 2% | 99.4% |  |
+| 41 | 4% | 98% |  |
+| 42 | 8% | 94% |  |
+| 43 | 11% | 86% |  |
+| 44 | 13% | 75% |  |
+| 45 | 13% | 62% | Median |
+| 46 | 12% | 49% |  |
+| 47 | 11% | 37% |  |
+| 48 | 10% | 26% |  |
+| 49 | 8% | 16% |  |
+| 50 | 5% | 8% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.9% | 1.2% |  |
+| 53 | 0.3% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
 

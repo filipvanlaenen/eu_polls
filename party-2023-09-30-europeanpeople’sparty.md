@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **157** seats (-30 seats)
+Current median: **158** seats (-29 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 157 | 152–162 | 151–163 | 149–165 | 146–167 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 19–23 | 18–23 | 17–23 |
-| Partido Popular | ES | | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
+| European People’s Party | EU | 187 | 158 | 153–163 | 152–164 | 150–166 | 147–168 |
+| Partido Popular | ES | | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–23 | 19–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 11–19 | 11–19 | 10–20 |
 | Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Nieuw Sociaal Contract | NL | | 7 | 7 | 7 | 7 | 6–8 |
-| Partido Social Democrata | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Forza Italia | IT | | 5 | 4–7 | 3–7 | 3–8 | 3–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -49,7 +49,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -79,35 +79,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 143 | 0% | 100% |  |
-| 144 | 0.1% | 99.9% |  |
-| 145 | 0.2% | 99.9% |  |
-| 146 | 0.3% | 99.7% |  |
-| 147 | 0.5% | 99.4% |  |
-| 148 | 0.8% | 99.0% |  |
-| 149 | 1.2% | 98% |  |
-| 150 | 2% | 97% |  |
-| 151 | 3% | 95% |  |
-| 152 | 4% | 93% |  |
-| 153 | 5% | 89% |  |
-| 154 | 7% | 83% |  |
-| 155 | 9% | 77% |  |
-| 156 | 10% | 68% |  |
-| 157 | 10% | 58% | Median |
-| 158 | 10% | 48% |  |
-| 159 | 10% | 37% |  |
-| 160 | 8% | 28% |  |
-| 161 | 7% | 19% |  |
-| 162 | 5% | 13% |  |
-| 163 | 3% | 8% |  |
-| 164 | 2% | 5% |  |
-| 165 | 1.3% | 3% |  |
-| 166 | 0.7% | 1.4% |  |
-| 167 | 0.4% | 0.7% |  |
-| 168 | 0.2% | 0.3% |  |
-| 169 | 0.1% | 0.1% |  |
-| 170 | 0% | 0% |  |
-| 171 | 0% | 0% |  |
+| 145 | 0.1% | 100% |  |
+| 146 | 0.1% | 99.9% |  |
+| 147 | 0.3% | 99.8% |  |
+| 148 | 0.4% | 99.5% |  |
+| 149 | 0.7% | 99.1% |  |
+| 150 | 1.1% | 98% |  |
+| 151 | 2% | 97% |  |
+| 152 | 3% | 95% |  |
+| 153 | 4% | 93% |  |
+| 154 | 5% | 89% |  |
+| 155 | 7% | 84% |  |
+| 156 | 9% | 77% |  |
+| 157 | 10% | 68% |  |
+| 158 | 11% | 58% | Median |
+| 159 | 10% | 48% |  |
+| 160 | 10% | 37% |  |
+| 161 | 8% | 28% |  |
+| 162 | 7% | 20% |  |
+| 163 | 5% | 13% |  |
+| 164 | 3% | 8% |  |
+| 165 | 2% | 5% |  |
+| 166 | 1.3% | 3% |  |
+| 167 | 0.7% | 1.4% |  |
+| 168 | 0.4% | 0.7% |  |
+| 169 | 0.2% | 0.3% |  |
+| 170 | 0.1% | 0.1% |  |
+| 171 | 0% | 0.1% |  |
 | 172 | 0% | 0% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |
