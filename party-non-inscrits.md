@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (+29 seats)
+Current median: **56** seats (+27 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,27 +18,27 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 58 | 54–63 | 53–77 | 52–79 | 51–83 |
-| Movimento 5 Stelle | IT | | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| Non-Inscrits | EU | 29 | 56 | 53–60 | 52–61 | 51–62 | 50–63 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
-| Konfederacja | PL | | 6 | 5–7 | 4–26 | 4–27 | 4–28 |
 | Reconquête | FR | | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
-| BoerBurgerBeweging | NL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Konfederacja | PL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| BoerBurgerBeweging | NL | | 3 | 3 | 3 | 3 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
+| Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -72,45 +72,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.3% | 99.8% |  |
-| 51 | 0.6% | 99.6% |  |
-| 52 | 2% | 98.9% |  |
-| 53 | 3% | 97% |  |
-| 54 | 6% | 94% |  |
-| 55 | 10% | 87% |  |
-| 56 | 12% | 78% |  |
-| 57 | 13% | 66% |  |
-| 58 | 13% | 52% | Median |
-| 59 | 11% | 40% |  |
-| 60 | 8% | 29% |  |
-| 61 | 6% | 21% |  |
-| 62 | 4% | 15% |  |
-| 63 | 2% | 12% |  |
-| 64 | 1.0% | 10% |  |
-| 65 | 0.4% | 9% |  |
-| 66 | 0.1% | 9% |  |
-| 67 | 0% | 8% |  |
-| 68 | 0% | 8% |  |
-| 69 | 0% | 8% |  |
-| 70 | 0% | 8% |  |
-| 71 | 0.1% | 8% |  |
-| 72 | 0.1% | 8% |  |
-| 73 | 0.3% | 8% |  |
-| 74 | 0.5% | 8% |  |
-| 75 | 0.7% | 7% |  |
-| 76 | 1.0% | 7% |  |
-| 77 | 1.1% | 6% |  |
-| 78 | 1.1% | 5% |  |
-| 79 | 1.0% | 3% |  |
-| 80 | 0.8% | 2% |  |
-| 81 | 0.6% | 2% |  |
-| 82 | 0.4% | 1.0% |  |
-| 83 | 0.3% | 0.5% |  |
-| 84 | 0.1% | 0.3% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.1% | 99.9% |  |
+| 49 | 0.3% | 99.8% |  |
+| 50 | 0.7% | 99.5% |  |
+| 51 | 2% | 98.8% |  |
+| 52 | 4% | 97% |  |
+| 53 | 8% | 92% |  |
+| 54 | 12% | 85% |  |
+| 55 | 15% | 73% |  |
+| 56 | 15% | 58% | Median |
+| 57 | 13% | 43% |  |
+| 58 | 11% | 29% |  |
+| 59 | 8% | 19% |  |
+| 60 | 5% | 11% |  |
+| 61 | 3% | 6% |  |
+| 62 | 2% | 3% |  |
+| 63 | 0.7% | 1.0% |  |
+| 64 | 0.2% | 0.3% |  |
+| 65 | 0.1% | 0.1% |  |
+| 66 | 0% | 0% |  |
 
 

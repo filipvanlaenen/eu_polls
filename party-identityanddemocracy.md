@@ -18,12 +18,12 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 73 | 69–76 | 68–77 | 67–78 | 65–80 |
+| Identity and Democracy | EU | 76 | 73 | 69–76 | 68–78 | 67–78 | 66–80 |
 | Rassemblement national | FR | | 23 | 22–26 | 21–26 | 20–26 | 20–27 |
-| Alternative für Deutschland | DE | | 21 | 18–23 | 17–23 | 17–23 | 16–23 |
-| Lega Nord | IT | | 8 | 6–10 | 6–10 | 6–11 | 5–11 |
+| Alternative für Deutschland | DE | | 20 | 18–23 | 17–23 | 17–23 | 16–23 |
+| Lega Nord | IT | | 8 | 6–9 | 6–10 | 6–11 | 5–11 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| Partij voor de Vrijheid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partij voor de Vrijheid | NL | | 4 | 4 | 4 | 4 | 4–5 |
 | Chega | PT | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
@@ -40,24 +40,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0.1% | 100% |  |
-| 64 | 0.2% | 99.9% |  |
-| 65 | 0.4% | 99.8% |  |
-| 66 | 1.0% | 99.3% |  |
-| 67 | 2% | 98% |  |
-| 68 | 4% | 96% |  |
-| 69 | 6% | 93% |  |
-| 70 | 9% | 86% |  |
-| 71 | 12% | 78% |  |
-| 72 | 13% | 66% |  |
-| 73 | 14% | 53% | Median |
-| 74 | 13% | 39% |  |
-| 75 | 10% | 26% |  |
-| 76 | 7% | 16% | Last Result |
-| 77 | 5% | 9% |  |
-| 78 | 3% | 4% |  |
-| 79 | 1.2% | 2% |  |
-| 80 | 0.5% | 0.8% |  |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.3% | 99.9% |  |
+| 66 | 0.8% | 99.5% |  |
+| 67 | 2% | 98.7% |  |
+| 68 | 3% | 97% |  |
+| 69 | 6% | 94% |  |
+| 70 | 9% | 88% |  |
+| 71 | 11% | 79% |  |
+| 72 | 13% | 68% |  |
+| 73 | 14% | 55% | Median |
+| 74 | 13% | 41% |  |
+| 75 | 10% | 28% |  |
+| 76 | 8% | 17% | Last Result |
+| 77 | 5% | 10% |  |
+| 78 | 3% | 5% |  |
+| 79 | 1.4% | 2% |  |
+| 80 | 0.6% | 0.9% |  |
 | 81 | 0.2% | 0.3% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
