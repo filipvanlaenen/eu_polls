@@ -18,12 +18,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 56 | 53–60 | 52–61 | 51–62 | 50–63 |
+| Non-Inscrits | EU | 29 | 56 | 53–60 | 52–61 | 51–61 | 49–63 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Reconquête | FR | | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
 | Konfederacja | PL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| BoerBurgerBeweging | NL | | 3 | 3 | 3 | 3 | 3–4 |
+| BoerBurgerBeweging | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -33,12 +33,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -75,20 +75,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.1% | 100% |  |
 | 48 | 0.1% | 99.9% |  |
 | 49 | 0.3% | 99.8% |  |
-| 50 | 0.7% | 99.5% |  |
-| 51 | 2% | 98.8% |  |
-| 52 | 4% | 97% |  |
-| 53 | 8% | 92% |  |
-| 54 | 12% | 85% |  |
-| 55 | 15% | 73% |  |
-| 56 | 15% | 58% | Median |
-| 57 | 13% | 43% |  |
-| 58 | 11% | 29% |  |
-| 59 | 8% | 19% |  |
-| 60 | 5% | 11% |  |
-| 61 | 3% | 6% |  |
-| 62 | 2% | 3% |  |
-| 63 | 0.7% | 1.0% |  |
+| 50 | 0.9% | 99.4% |  |
+| 51 | 2% | 98.6% |  |
+| 52 | 5% | 96% |  |
+| 53 | 9% | 92% |  |
+| 54 | 12% | 83% |  |
+| 55 | 15% | 71% |  |
+| 56 | 15% | 56% | Median |
+| 57 | 13% | 41% |  |
+| 58 | 10% | 28% |  |
+| 59 | 7% | 18% |  |
+| 60 | 5% | 10% |  |
+| 61 | 3% | 5% |  |
+| 62 | 1.4% | 2% |  |
+| 63 | 0.6% | 0.9% |  |
 | 64 | 0.2% | 0.3% |  |
 | 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |

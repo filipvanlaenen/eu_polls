@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **88** seats (-10 seats)
+Current median: **89** seats (-9 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 88 | 84–93 | 83–95 | 82–96 | 80–98 |
+| Renew Europe | EU | 98 | 89 | 84–94 | 83–95 | 82–96 | 80–99 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6 | 6 | 5–6 | 5–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Trzecia Droga | PL | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -30,7 +30,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alianța 2020 USR-PLUS | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Democraten 66 | NL | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -75,29 +75,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 78 | 0.1% | 100% |  |
-| 79 | 0.3% | 99.9% |  |
-| 80 | 0.6% | 99.6% |  |
-| 81 | 1.2% | 99.0% |  |
+| 79 | 0.2% | 99.9% |  |
+| 80 | 0.5% | 99.7% |  |
+| 81 | 1.0% | 99.2% |  |
 | 82 | 2% | 98% |  |
-| 83 | 4% | 95% |  |
-| 84 | 5% | 92% |  |
-| 85 | 7% | 86% |  |
-| 86 | 9% | 79% |  |
-| 87 | 10% | 70% |  |
-| 88 | 11% | 60% | Median |
-| 89 | 10% | 49% |  |
-| 90 | 10% | 39% |  |
-| 91 | 8% | 29% |  |
-| 92 | 7% | 21% |  |
-| 93 | 5% | 14% |  |
-| 94 | 4% | 9% |  |
-| 95 | 2% | 5% |  |
-| 96 | 1.4% | 3% |  |
-| 97 | 0.8% | 2% |  |
-| 98 | 0.4% | 0.8% | Last Result |
-| 99 | 0.2% | 0.4% |  |
-| 100 | 0.1% | 0.2% |  |
-| 101 | 0% | 0.1% |  |
+| 83 | 3% | 96% |  |
+| 84 | 5% | 93% |  |
+| 85 | 7% | 88% |  |
+| 86 | 8% | 82% |  |
+| 87 | 10% | 73% |  |
+| 88 | 10% | 64% |  |
+| 89 | 11% | 53% | Median |
+| 90 | 10% | 43% |  |
+| 91 | 9% | 33% |  |
+| 92 | 7% | 24% |  |
+| 93 | 6% | 16% |  |
+| 94 | 4% | 11% |  |
+| 95 | 3% | 7% |  |
+| 96 | 2% | 4% |  |
+| 97 | 1.0% | 2% |  |
+| 98 | 0.6% | 1.1% | Last Result |
+| 99 | 0.3% | 0.6% |  |
+| 100 | 0.1% | 0.3% |  |
+| 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |
 
 
