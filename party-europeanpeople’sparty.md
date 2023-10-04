@@ -18,12 +18,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 149 | 144–154 | 143–155 | 142–157 | 140–159 |
+| European People’s Party | EU | 187 | 149 | 145–154 | 143–156 | 142–157 | 140–160 |
 | Partido Popular | ES | | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–23 | 19–23 | 17–24 |
-| Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| Koalicja Obywatelska | PL | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Nieuw Sociaal Contract | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| Nieuw Sociaal Contract | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -36,11 +36,11 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Christen-Democratisch Appèl | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -53,7 +53,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,30 +78,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 138 | 0.1% | 100% |  |
 | 139 | 0.2% | 99.9% |  |
-| 140 | 0.5% | 99.7% |  |
-| 141 | 0.9% | 99.2% |  |
-| 142 | 2% | 98% |  |
-| 143 | 3% | 97% |  |
-| 144 | 4% | 94% |  |
-| 145 | 6% | 89% |  |
-| 146 | 8% | 83% |  |
-| 147 | 9% | 75% |  |
-| 148 | 10% | 65% |  |
-| 149 | 11% | 55% | Median |
-| 150 | 10% | 44% |  |
-| 151 | 9% | 34% |  |
-| 152 | 8% | 25% |  |
-| 153 | 6% | 18% |  |
-| 154 | 4% | 12% |  |
-| 155 | 3% | 7% |  |
-| 156 | 2% | 4% |  |
-| 157 | 1.2% | 3% |  |
-| 158 | 0.7% | 1.4% |  |
-| 159 | 0.4% | 0.7% |  |
-| 160 | 0.2% | 0.3% |  |
-| 161 | 0.1% | 0.2% |  |
-| 162 | 0% | 0.1% |  |
-| 163 | 0% | 0% |  |
+| 140 | 0.4% | 99.7% |  |
+| 141 | 0.7% | 99.4% |  |
+| 142 | 1.4% | 98.7% |  |
+| 143 | 2% | 97% |  |
+| 144 | 4% | 95% |  |
+| 145 | 5% | 91% |  |
+| 146 | 7% | 86% |  |
+| 147 | 9% | 79% |  |
+| 148 | 10% | 70% |  |
+| 149 | 10% | 60% | Median |
+| 150 | 10% | 50% |  |
+| 151 | 10% | 39% |  |
+| 152 | 8% | 30% |  |
+| 153 | 7% | 22% |  |
+| 154 | 5% | 15% |  |
+| 155 | 4% | 10% |  |
+| 156 | 2% | 6% |  |
+| 157 | 2% | 4% |  |
+| 158 | 0.9% | 2% |  |
+| 159 | 0.5% | 1.1% |  |
+| 160 | 0.3% | 0.5% |  |
+| 161 | 0.1% | 0.3% |  |
+| 162 | 0.1% | 0.1% |  |
+| 163 | 0% | 0.1% |  |
 | 164 | 0% | 0% |  |
 | 165 | 0% | 0% |  |
 | 166 | 0% | 0% |  |
