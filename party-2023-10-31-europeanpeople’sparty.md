@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 149 | 144–154 | 143–155 | 142–156 | 140–159 |
+| European People’s Party | EU | 187 | 149 | 144–154 | 143–155 | 142–157 | 140–159 |
 | Partido Popular | ES | | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–23 | 19–23 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
@@ -41,10 +41,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,7 +63,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Magyar Fórum | SK | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
-| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
@@ -76,31 +76,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 137 | 0% | 100% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0.3% | 99.8% |  |
-| 140 | 0.6% | 99.5% |  |
-| 141 | 1.2% | 98.9% |  |
+| 138 | 0.1% | 100% |  |
+| 139 | 0.2% | 99.9% |  |
+| 140 | 0.5% | 99.7% |  |
+| 141 | 0.9% | 99.2% |  |
 | 142 | 2% | 98% |  |
-| 143 | 3% | 96% |  |
-| 144 | 5% | 92% |  |
-| 145 | 7% | 87% |  |
-| 146 | 9% | 80% |  |
-| 147 | 10% | 72% |  |
-| 148 | 11% | 62% |  |
-| 149 | 11% | 51% | Median |
-| 150 | 10% | 41% |  |
-| 151 | 9% | 31% |  |
-| 152 | 7% | 22% |  |
-| 153 | 5% | 15% |  |
-| 154 | 4% | 10% |  |
-| 155 | 3% | 6% |  |
+| 143 | 3% | 97% |  |
+| 144 | 4% | 94% |  |
+| 145 | 6% | 89% |  |
+| 146 | 8% | 83% |  |
+| 147 | 9% | 75% |  |
+| 148 | 10% | 65% |  |
+| 149 | 11% | 55% | Median |
+| 150 | 10% | 44% |  |
+| 151 | 9% | 34% |  |
+| 152 | 8% | 25% |  |
+| 153 | 6% | 18% |  |
+| 154 | 4% | 12% |  |
+| 155 | 3% | 7% |  |
 | 156 | 2% | 4% |  |
-| 157 | 1.0% | 2% |  |
-| 158 | 0.6% | 1.1% |  |
-| 159 | 0.3% | 0.6% |  |
-| 160 | 0.1% | 0.3% |  |
-| 161 | 0.1% | 0.1% |  |
+| 157 | 1.2% | 3% |  |
+| 158 | 0.7% | 1.4% |  |
+| 159 | 0.4% | 0.7% |  |
+| 160 | 0.2% | 0.3% |  |
+| 161 | 0.1% | 0.2% |  |
 | 162 | 0% | 0.1% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
