@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> BG, DE, DK, ES, FI, FR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CZ, DE, DK, ES, FI, FR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -22,10 +22,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Reconquête | FR | | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
-| Konfederacja | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
-| BoerBurgerBeweging | NL | | 3 | 3 | 3 | 3 | 2–4 |
+| Konfederacja | PL | | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
+| BoerBurgerBeweging | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -33,7 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| REPUBLIKA | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,6 +42,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -68,22 +69,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
-| 45 | 0.1% | 99.9% |  |
-| 46 | 0.3% | 99.8% |  |
-| 47 | 0.8% | 99.5% |  |
-| 48 | 2% | 98.7% |  |
-| 49 | 4% | 97% |  |
-| 50 | 8% | 92% |  |
-| 51 | 11% | 85% |  |
-| 52 | 14% | 73% |  |
-| 53 | 15% | 59% | Median |
-| 54 | 13% | 44% |  |
-| 55 | 11% | 31% |  |
-| 56 | 8% | 20% |  |
-| 57 | 6% | 12% |  |
-| 58 | 3% | 6% |  |
+| 45 | 0.2% | 99.9% |  |
+| 46 | 0.4% | 99.7% |  |
+| 47 | 1.0% | 99.3% |  |
+| 48 | 3% | 98% |  |
+| 49 | 5% | 96% |  |
+| 50 | 9% | 91% |  |
+| 51 | 12% | 82% |  |
+| 52 | 14% | 70% |  |
+| 53 | 14% | 56% | Median |
+| 54 | 13% | 41% |  |
+| 55 | 10% | 28% |  |
+| 56 | 8% | 18% |  |
+| 57 | 5% | 10% |  |
+| 58 | 3% | 5% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.8% | 1.2% |  |
+| 60 | 0.7% | 1.0% |  |
 | 61 | 0.3% | 0.4% |  |
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% |  |
