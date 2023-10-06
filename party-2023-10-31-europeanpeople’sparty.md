@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **150** seats (-37 seats)
+Current median: **151** seats (-36 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 150 | 145–155 | 144–157 | 143–158 | 141–160 |
-| Partido Popular | ES | | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
+| European People’s Party | EU | 187 | 151 | 146–157 | 145–158 | 144–159 | 141–162 |
+| Partido Popular | ES | | 22 | 20–25 | 20–25 | 20–25 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–24 | 17–24 |
-| Koalicja Obywatelska | PL | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| Koalicja Obywatelska | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–8 | 4–8 |
 | Nieuw Sociaal Contract | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Forza Italia | IT | | 5 | 4–7 | 3–8 | 3–8 | 3–9 |
+| Forza Italia | IT | | 5 | 4–7 | 4–8 | 3–8 | 3–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -39,7 +39,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -77,33 +77,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 138 | 0.1% | 100% |  |
-| 139 | 0.1% | 99.9% |  |
-| 140 | 0.3% | 99.8% |  |
-| 141 | 0.6% | 99.5% |  |
-| 142 | 1.0% | 98.9% |  |
-| 143 | 2% | 98% |  |
-| 144 | 3% | 96% |  |
-| 145 | 4% | 93% |  |
-| 146 | 6% | 89% |  |
-| 147 | 7% | 83% |  |
-| 148 | 9% | 76% |  |
-| 149 | 10% | 67% |  |
-| 150 | 10% | 58% | Median |
-| 151 | 10% | 47% |  |
-| 152 | 9% | 37% |  |
-| 153 | 8% | 28% |  |
-| 154 | 6% | 20% |  |
-| 155 | 5% | 14% |  |
-| 156 | 3% | 9% |  |
-| 157 | 2% | 6% |  |
-| 158 | 1.5% | 3% |  |
-| 159 | 0.9% | 2% |  |
-| 160 | 0.5% | 1.0% |  |
-| 161 | 0.3% | 0.5% |  |
-| 162 | 0.1% | 0.2% |  |
-| 163 | 0.1% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 139 | 0.1% | 100% |  |
+| 140 | 0.1% | 99.9% |  |
+| 141 | 0.3% | 99.8% |  |
+| 142 | 0.6% | 99.5% |  |
+| 143 | 1.0% | 98.9% |  |
+| 144 | 2% | 98% |  |
+| 145 | 3% | 96% |  |
+| 146 | 4% | 93% |  |
+| 147 | 5% | 89% |  |
+| 148 | 7% | 84% |  |
+| 149 | 8% | 77% |  |
+| 150 | 9% | 69% |  |
+| 151 | 10% | 59% | Median |
+| 152 | 10% | 49% |  |
+| 153 | 9% | 39% |  |
+| 154 | 8% | 30% |  |
+| 155 | 7% | 22% |  |
+| 156 | 5% | 15% |  |
+| 157 | 4% | 10% |  |
+| 158 | 3% | 6% |  |
+| 159 | 2% | 4% |  |
+| 160 | 1.0% | 2% |  |
+| 161 | 0.6% | 1.1% |  |
+| 162 | 0.3% | 0.6% |  |
+| 163 | 0.1% | 0.3% |  |
+| 164 | 0.1% | 0.1% |  |
 | 165 | 0% | 0% |  |
 | 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |

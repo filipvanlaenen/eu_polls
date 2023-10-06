@@ -32,7 +32,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
+| Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -53,22 +53,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0.1% | 100% |  |
 | 34 | 0.3% | 99.9% |  |
-| 35 | 1.1% | 99.6% |  |
-| 36 | 3% | 98% |  |
-| 37 | 6% | 96% |  |
-| 38 | 9% | 90% |  |
-| 39 | 11% | 81% | Last Result |
-| 40 | 12% | 70% |  |
-| 41 | 12% | 58% | Median |
-| 42 | 12% | 46% |  |
-| 43 | 11% | 34% |  |
-| 44 | 9% | 23% |  |
-| 45 | 6% | 15% |  |
-| 46 | 4% | 8% |  |
-| 47 | 2% | 4% |  |
-| 48 | 1.1% | 2% |  |
-| 49 | 0.4% | 0.6% |  |
-| 50 | 0.1% | 0.2% |  |
-| 51 | 0% | 0% |  |
+| 35 | 0.9% | 99.7% |  |
+| 36 | 2% | 98.7% |  |
+| 37 | 5% | 96% |  |
+| 38 | 8% | 91% |  |
+| 39 | 11% | 83% | Last Result |
+| 40 | 12% | 73% |  |
+| 41 | 12% | 61% | Median |
+| 42 | 12% | 49% |  |
+| 43 | 11% | 37% |  |
+| 44 | 9% | 26% |  |
+| 45 | 7% | 17% |  |
+| 46 | 5% | 10% |  |
+| 47 | 3% | 5% |  |
+| 48 | 1.4% | 2% |  |
+| 49 | 0.6% | 0.8% |  |
+| 50 | 0.2% | 0.3% |  |
+| 51 | 0.1% | 0.1% |  |
+| 52 | 0% | 0% |  |
 
 
