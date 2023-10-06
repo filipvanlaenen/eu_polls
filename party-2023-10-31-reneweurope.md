@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 9% | 40% |  |
 | 90 | 8% | 30% |  |
 | 91 | 7% | 22% |  |
-| 92 | 5% | 16% |  |
+| 92 | 5% | 15% |  |
 | 93 | 4% | 10% |  |
 | 94 | 3% | 7% |  |
 | 95 | 2% | 4% |  |
