@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **87** seats (-11 seats)
+Current median: **88** seats (-10 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 83–93 | 82–94 | 81–95 | 79–98 |
+| Renew Europe | EU | 98 | 88 | 83–93 | 82–94 | 81–95 | 79–98 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -50,7 +50,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -78,22 +78,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 79 | 0.5% | 99.7% |  |
 | 80 | 1.1% | 99.2% |  |
 | 81 | 2% | 98% |  |
-| 82 | 4% | 96% |  |
-| 83 | 5% | 92% |  |
+| 82 | 3% | 96% |  |
+| 83 | 5% | 93% |  |
 | 84 | 7% | 87% |  |
 | 85 | 9% | 80% |  |
 | 86 | 10% | 71% |  |
-| 87 | 11% | 61% | Median |
-| 88 | 10% | 50% |  |
+| 87 | 11% | 61% |  |
+| 88 | 10% | 50% | Median |
 | 89 | 9% | 40% |  |
 | 90 | 8% | 30% |  |
 | 91 | 7% | 22% |  |
-| 92 | 5% | 15% |  |
+| 92 | 5% | 16% |  |
 | 93 | 4% | 10% |  |
-| 94 | 3% | 6% |  |
+| 94 | 3% | 7% |  |
 | 95 | 2% | 4% |  |
 | 96 | 1.0% | 2% |  |
-| 97 | 0.6% | 1.2% |  |
+| 97 | 0.6% | 1.3% |  |
 | 98 | 0.3% | 0.6% | Last Result |
 | 99 | 0.2% | 0.3% |  |
 | 100 | 0.1% | 0.1% |  |
