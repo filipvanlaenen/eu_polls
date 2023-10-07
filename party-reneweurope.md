@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **88** seats (-10 seats)
+Current median: **87** seats (-11 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 88 | 83–93 | 82–94 | 81–95 | 79–98 |
+| Renew Europe | EU | 98 | 87 | 82–92 | 81–93 | 80–94 | 78–97 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Freie Demokratische Partei | DE | | 5 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Trzecia Droga | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Продължаваме промяната–Демократична България | BG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alianța 2020 USR-PLUS | RO | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 2–3 |
@@ -73,31 +73,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 77 | 0.1% | 100% |  |
-| 78 | 0.2% | 99.9% |  |
-| 79 | 0.5% | 99.7% |  |
-| 80 | 1.1% | 99.2% |  |
-| 81 | 2% | 98% |  |
-| 82 | 3% | 96% |  |
-| 83 | 5% | 93% |  |
-| 84 | 7% | 87% |  |
-| 85 | 9% | 80% |  |
-| 86 | 10% | 71% |  |
-| 87 | 11% | 61% |  |
-| 88 | 10% | 50% | Median |
-| 89 | 9% | 40% |  |
-| 90 | 8% | 30% |  |
-| 91 | 7% | 22% |  |
-| 92 | 5% | 15% |  |
-| 93 | 4% | 10% |  |
-| 94 | 3% | 7% |  |
-| 95 | 2% | 4% |  |
-| 96 | 1.0% | 2% |  |
-| 97 | 0.6% | 1.2% |  |
-| 98 | 0.3% | 0.6% | Last Result |
-| 99 | 0.2% | 0.3% |  |
-| 100 | 0.1% | 0.1% |  |
-| 101 | 0% | 0.1% |  |
-| 102 | 0% | 0% |  |
+| 76 | 0.1% | 100% |  |
+| 77 | 0.2% | 99.9% |  |
+| 78 | 0.5% | 99.7% |  |
+| 79 | 1.1% | 99.2% |  |
+| 80 | 2% | 98% |  |
+| 81 | 4% | 96% |  |
+| 82 | 5% | 92% |  |
+| 83 | 7% | 87% |  |
+| 84 | 9% | 80% |  |
+| 85 | 10% | 71% |  |
+| 86 | 11% | 61% |  |
+| 87 | 10% | 50% | Median |
+| 88 | 9% | 40% |  |
+| 89 | 8% | 30% |  |
+| 90 | 7% | 22% |  |
+| 91 | 5% | 15% |  |
+| 92 | 4% | 10% |  |
+| 93 | 3% | 7% |  |
+| 94 | 2% | 4% |  |
+| 95 | 1.0% | 2% |  |
+| 96 | 0.6% | 1.2% |  |
+| 97 | 0.3% | 0.6% |  |
+| 98 | 0.2% | 0.3% | Last Result |
+| 99 | 0.1% | 0.1% |  |
+| 100 | 0% | 0.1% |  |
+| 101 | 0% | 0% |  |
 
 

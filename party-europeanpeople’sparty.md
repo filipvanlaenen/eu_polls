@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **152** seats (-35 seats)
+Current median: **153** seats (-34 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 152 | 147–157 | 145–158 | 144–159 | 142–162 |
-| Partido Popular | ES | | 22 | 21–25 | 20–25 | 20–25 | 19–26 |
+| European People’s Party | EU | 187 | 153 | 148–158 | 147–159 | 146–161 | 143–163 |
+| Partido Popular | ES | | 24 | 22–25 | 21–25 | 21–26 | 21–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–24 | 17–24 |
 | Koalicja Obywatelska | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 5 | 4–7 | 4–8 | 3–8 | 3–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -68,6 +68,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -77,34 +78,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 139 | 0% | 100% |  |
-| 140 | 0.1% | 99.9% |  |
-| 141 | 0.2% | 99.8% |  |
-| 142 | 0.4% | 99.6% |  |
-| 143 | 0.8% | 99.2% |  |
-| 144 | 1.5% | 98% |  |
-| 145 | 2% | 97% |  |
-| 146 | 4% | 95% |  |
-| 147 | 5% | 91% |  |
-| 148 | 7% | 86% |  |
-| 149 | 8% | 79% |  |
-| 150 | 9% | 71% |  |
-| 151 | 10% | 62% |  |
-| 152 | 10% | 52% | Median |
-| 153 | 10% | 42% |  |
-| 154 | 9% | 32% |  |
-| 155 | 7% | 24% |  |
-| 156 | 6% | 17% |  |
-| 157 | 4% | 11% |  |
-| 158 | 3% | 7% |  |
-| 159 | 2% | 4% |  |
-| 160 | 1.1% | 2% |  |
-| 161 | 0.6% | 1.3% |  |
-| 162 | 0.3% | 0.7% |  |
-| 163 | 0.2% | 0.3% |  |
-| 164 | 0.1% | 0.1% |  |
-| 165 | 0% | 0.1% |  |
-| 166 | 0% | 0% |  |
+| 141 | 0.1% | 100% |  |
+| 142 | 0.2% | 99.9% |  |
+| 143 | 0.3% | 99.7% |  |
+| 144 | 0.7% | 99.4% |  |
+| 145 | 1.2% | 98.7% |  |
+| 146 | 2% | 98% |  |
+| 147 | 3% | 95% |  |
+| 148 | 5% | 92% |  |
+| 149 | 6% | 88% |  |
+| 150 | 8% | 82% |  |
+| 151 | 9% | 74% |  |
+| 152 | 10% | 65% |  |
+| 153 | 10% | 55% | Median |
+| 154 | 10% | 44% |  |
+| 155 | 9% | 34% |  |
+| 156 | 8% | 25% |  |
+| 157 | 6% | 18% |  |
+| 158 | 4% | 12% |  |
+| 159 | 3% | 7% |  |
+| 160 | 2% | 4% |  |
+| 161 | 1.2% | 3% |  |
+| 162 | 0.7% | 1.3% |  |
+| 163 | 0.4% | 0.7% |  |
+| 164 | 0.2% | 0.3% |  |
+| 165 | 0.1% | 0.1% |  |
+| 166 | 0% | 0.1% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |

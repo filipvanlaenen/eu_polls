@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **36** seats (-3 seats)
+Current median: **37** seats (-2 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 36 | 33–40 | 32–42 | 31–42 | 30–44 |
+| European United Left–Nordic Green Left | EU | 39 | 37 | 33–41 | 32–42 | 32–43 | 30–44 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
-| Podemos–Izquierda Unida | ES | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Podemos–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -51,24 +51,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.2% | 100% |  |
-| 30 | 0.8% | 99.8% |  |
-| 31 | 2% | 99.0% |  |
-| 32 | 5% | 97% |  |
-| 33 | 8% | 92% |  |
-| 34 | 10% | 84% |  |
-| 35 | 12% | 74% |  |
-| 36 | 12% | 62% | Median |
-| 37 | 12% | 50% |  |
-| 38 | 11% | 38% |  |
-| 39 | 9% | 27% | Last Result |
-| 40 | 7% | 17% |  |
-| 41 | 5% | 10% |  |
-| 42 | 3% | 5% |  |
-| 43 | 1.4% | 2% |  |
-| 44 | 0.6% | 0.8% |  |
-| 45 | 0.2% | 0.2% |  |
-| 46 | 0% | 0.1% |  |
+| 29 | 0.1% | 100% |  |
+| 30 | 0.5% | 99.9% |  |
+| 31 | 1.5% | 99.4% |  |
+| 32 | 3% | 98% |  |
+| 33 | 6% | 95% |  |
+| 34 | 9% | 88% |  |
+| 35 | 11% | 79% |  |
+| 36 | 12% | 67% |  |
+| 37 | 12% | 55% | Median |
+| 38 | 12% | 43% |  |
+| 39 | 10% | 31% | Last Result |
+| 40 | 8% | 21% |  |
+| 41 | 6% | 13% |  |
+| 42 | 4% | 7% |  |
+| 43 | 2% | 3% |  |
+| 44 | 0.9% | 1.4% |  |
+| 45 | 0.3% | 0.5% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
 

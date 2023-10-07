@@ -18,8 +18,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–6 | 3–7 | 2–8 |
-| Movimiento Sumar [ES] (*) | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–6 | 3–7 | 3–8 |
+| Movimiento Sumar [ES] (*) | ES | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -48,6 +48,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Да България! [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -60,14 +61,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 26% | 98% |  |
-| 4 | 40% | 72% | Median |
-| 5 | 22% | 32% |  |
-| 6 | 8% | 10% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.5% | 0.7% |  |
-| 9 | 0.1% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 15% | 99.7% |  |
+| 4 | 37% | 85% | Median |
+| 5 | 31% | 48% |  |
+| 6 | 12% | 17% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.9% | 1.2% |  |
+| 9 | 0.2% | 0.3% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
