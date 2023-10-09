@@ -23,7 +23,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Freie Demokratische Partei | DE | | 5 | 5–7 | 5–7 | 4–8 | 4–8 |
-| Trzecia Droga | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Trzecia Droga | PL | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -74,18 +74,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0.1% | 100% |  |
-| 77 | 0.2% | 99.9% |  |
+| 77 | 0.3% | 99.9% |  |
 | 78 | 0.6% | 99.6% |  |
-| 79 | 1.2% | 99.0% |  |
+| 79 | 1.3% | 99.0% |  |
 | 80 | 2% | 98% |  |
-| 81 | 4% | 96% |  |
+| 81 | 4% | 95% |  |
 | 82 | 6% | 92% |  |
 | 83 | 7% | 86% |  |
 | 84 | 9% | 79% |  |
-| 85 | 10% | 70% |  |
+| 85 | 10% | 69% |  |
 | 86 | 11% | 59% | Median |
 | 87 | 10% | 49% |  |
-| 88 | 9% | 38% |  |
+| 88 | 9% | 39% |  |
 | 89 | 8% | 29% |  |
 | 90 | 6% | 21% |  |
 | 91 | 5% | 15% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 2% | 6% |  |
 | 94 | 2% | 4% |  |
 | 95 | 1.0% | 2% |  |
-| 96 | 0.6% | 1.1% |  |
+| 96 | 0.6% | 1.2% |  |
 | 97 | 0.3% | 0.6% |  |
 | 98 | 0.2% | 0.3% | Last Result |
 | 99 | 0.1% | 0.1% |  |

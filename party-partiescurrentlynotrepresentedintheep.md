@@ -27,7 +27,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–2 |
+| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -67,8 +67,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 36% | 82% | Median |
 | 6 | 30% | 46% |  |
 | 7 | 11% | 16% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.9% | 1.1% |  |
+| 8 | 3% | 5% |  |
+| 9 | 0.8% | 1.1% |  |
 | 10 | 0.2% | 0.3% |  |
 | 11 | 0% | 0.1% |  |
 | 12 | 0% | 0% |  |
