@@ -21,11 +21,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 39 | 37 | 33–41 | 32–42 | 32–43 | 30–44 |
 | La France insoumise | FR | | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
 | Sinn Féin | IE | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| Die Linke | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Die Linke | DE | | 5 | 4–5 | 3–6 | 3–6 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Podemos–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Bloco de Esquerda | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,7 +35,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -53,21 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
 | 30 | 0.5% | 99.9% |  |
-| 31 | 1.5% | 99.4% |  |
-| 32 | 3% | 98% |  |
-| 33 | 6% | 95% |  |
+| 31 | 2% | 99.4% |  |
+| 32 | 4% | 98% |  |
+| 33 | 7% | 94% |  |
 | 34 | 9% | 88% |  |
-| 35 | 11% | 79% |  |
+| 35 | 11% | 78% |  |
 | 36 | 12% | 67% |  |
-| 37 | 12% | 55% | Median |
-| 38 | 12% | 43% |  |
+| 37 | 12% | 54% | Median |
+| 38 | 12% | 42% |  |
 | 39 | 10% | 31% | Last Result |
 | 40 | 8% | 21% |  |
 | 41 | 6% | 13% |  |
 | 42 | 4% | 7% |  |
 | 43 | 2% | 3% |  |
-| 44 | 0.9% | 1.4% |  |
-| 45 | 0.3% | 0.5% |  |
+| 44 | 0.9% | 1.3% |  |
+| 45 | 0.3% | 0.4% |  |
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 

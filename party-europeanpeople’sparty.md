@@ -18,18 +18,18 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 153 | 148–158 | 147–159 | 145–160 | 143–163 |
+| European People’s Party | EU | 187 | 153 | 148–158 | 146–159 | 145–160 | 143–163 |
 | Partido Popular | ES | | 24 | 22–25 | 21–25 | 21–26 | 21–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–23 | 19–24 | 18–24 | 17–24 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–24 | 17–24 | 16–24 |
 | Koalicja Obywatelska | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Partido Social Democrata | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–8 | 4–8 |
+| Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Nieuw Sociaal Contract | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Forza Italia | IT | | 5 | 4–7 | 4–8 | 3–8 | 3–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -39,33 +39,33 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
+| Starostové a nezávislí | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Erakond Isamaa | EE | | 1 | 1 | 1 | 1 | 1 |
-| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | MODRÍ–Európske Slovensko–MOST–HÍD | SK | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Fórum | SK | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Starostové a nezávislí | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,23 +78,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 141 | 0.1% | 100% |  |
-| 142 | 0.2% | 99.9% |  |
-| 143 | 0.4% | 99.7% |  |
-| 144 | 0.7% | 99.3% |  |
-| 145 | 1.3% | 98.6% |  |
+| 140 | 0% | 100% |  |
+| 141 | 0.1% | 99.9% |  |
+| 142 | 0.2% | 99.8% |  |
+| 143 | 0.5% | 99.6% |  |
+| 144 | 0.9% | 99.1% |  |
+| 145 | 2% | 98% |  |
 | 146 | 2% | 97% |  |
-| 147 | 3% | 95% |  |
-| 148 | 5% | 92% |  |
-| 149 | 6% | 87% |  |
-| 150 | 8% | 81% |  |
-| 151 | 9% | 73% |  |
-| 152 | 10% | 64% |  |
-| 153 | 10% | 54% | Median |
-| 154 | 10% | 43% |  |
-| 155 | 9% | 33% |  |
-| 156 | 7% | 24% |  |
-| 157 | 6% | 17% |  |
+| 147 | 4% | 94% |  |
+| 148 | 5% | 91% |  |
+| 149 | 7% | 85% |  |
+| 150 | 8% | 79% |  |
+| 151 | 9% | 70% |  |
+| 152 | 10% | 61% |  |
+| 153 | 10% | 51% | Median |
+| 154 | 9% | 41% |  |
+| 155 | 8% | 31% |  |
+| 156 | 7% | 23% |  |
+| 157 | 5% | 16% |  |
 | 158 | 4% | 11% |  |
 | 159 | 3% | 7% |  |
 | 160 | 2% | 4% |  |
