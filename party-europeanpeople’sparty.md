@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **153** seats (-34 seats)
+Current median: **152** seats (-35 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 153 | 148–158 | 146–159 | 145–160 | 143–163 |
+| European People’s Party | EU | 187 | 152 | 148–158 | 146–159 | 145–160 | 143–163 |
 | Partido Popular | ES | | 24 | 22–25 | 21–25 | 21–26 | 21–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–24 | 17–24 | 16–24 |
 | Koalicja Obywatelska | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
@@ -84,22 +84,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 143 | 0.5% | 99.6% |  |
 | 144 | 0.9% | 99.1% |  |
 | 145 | 2% | 98% |  |
-| 146 | 2% | 97% |  |
+| 146 | 3% | 97% |  |
 | 147 | 4% | 94% |  |
-| 148 | 5% | 91% |  |
+| 148 | 5% | 90% |  |
 | 149 | 7% | 85% |  |
-| 150 | 8% | 79% |  |
-| 151 | 9% | 70% |  |
-| 152 | 10% | 61% |  |
-| 153 | 10% | 51% | Median |
-| 154 | 9% | 41% |  |
-| 155 | 8% | 31% |  |
-| 156 | 7% | 23% |  |
+| 150 | 8% | 78% |  |
+| 151 | 9% | 69% |  |
+| 152 | 10% | 60% | Median |
+| 153 | 10% | 50% |  |
+| 154 | 9% | 40% |  |
+| 155 | 8% | 30% |  |
+| 156 | 7% | 22% |  |
 | 157 | 5% | 16% |  |
-| 158 | 4% | 11% |  |
-| 159 | 3% | 7% |  |
+| 158 | 4% | 10% |  |
+| 159 | 3% | 6% |  |
 | 160 | 2% | 4% |  |
-| 161 | 1.1% | 2% |  |
+| 161 | 1.0% | 2% |  |
 | 162 | 0.6% | 1.2% |  |
 | 163 | 0.3% | 0.6% |  |
 | 164 | 0.2% | 0.3% |  |
