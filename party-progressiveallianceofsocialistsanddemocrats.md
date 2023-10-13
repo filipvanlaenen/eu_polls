@@ -18,15 +18,15 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 134–144 | 133–145 | 132–146 | 130–149 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 135–144 | 133–145 | 132–147 | 130–149 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 18–24 | 18–24 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | Partidul Social Democrat | RO | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Parti socialiste | FR | | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
-| Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| Lewica | PL | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| Partido Socialista | PT | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| Lewica | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Demokratikus Koalíció | HU | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
@@ -37,9 +37,9 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
+| Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 2–3 |
+| Vooruit | BE-VLG | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,22 +68,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 2% | 98% |  |
 | 133 | 3% | 97% |  |
 | 134 | 4% | 94% |  |
-| 135 | 6% | 90% |  |
-| 136 | 7% | 84% |  |
+| 135 | 5% | 90% |  |
+| 136 | 7% | 85% |  |
 | 137 | 9% | 77% |  |
-| 138 | 10% | 68% |  |
-| 139 | 11% | 58% | Median |
-| 140 | 10% | 47% |  |
-| 141 | 10% | 37% |  |
-| 142 | 8% | 27% |  |
-| 143 | 6% | 19% |  |
+| 138 | 10% | 69% |  |
+| 139 | 11% | 59% | Median |
+| 140 | 10% | 48% |  |
+| 141 | 10% | 38% |  |
+| 142 | 8% | 28% |  |
+| 143 | 7% | 20% |  |
 | 144 | 5% | 13% |  |
 | 145 | 3% | 8% |  |
 | 146 | 2% | 5% |  |
-| 147 | 1.2% | 2% | Last Result |
-| 148 | 0.7% | 1.2% |  |
-| 149 | 0.3% | 0.6% |  |
-| 150 | 0.1% | 0.3% |  |
+| 147 | 1.3% | 3% | Last Result |
+| 148 | 0.7% | 1.4% |  |
+| 149 | 0.4% | 0.7% |  |
+| 150 | 0.2% | 0.3% |  |
 | 151 | 0.1% | 0.1% |  |
 | 152 | 0% | 0% |  |
 
