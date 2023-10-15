@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–7 | 4–8 | 4–8 | 3–10 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
 | Movimiento Sumar [ES] (*) | ES | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,15 +64,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 1.1% | 100% |  |
-| 4 | 14% | 98.9% |  |
-| 5 | 33% | 85% |  |
-| 6 | 31% | 51% | Median |
-| 7 | 14% | 21% |  |
-| 8 | 5% | 7% |  |
-| 9 | 1.4% | 2% |  |
-| 10 | 0.5% | 0.7% |  |
-| 11 | 0.1% | 0.2% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 4 | 15% | 98.8% |  |
+| 5 | 34% | 84% |  |
+| 6 | 31% | 50% | Median |
+| 7 | 14% | 20% |  |
+| 8 | 5% | 6% |  |
+| 9 | 1.1% | 1.4% |  |
+| 10 | 0.2% | 0.3% |  |
+| 11 | 0% | 0% |  |
 
 
