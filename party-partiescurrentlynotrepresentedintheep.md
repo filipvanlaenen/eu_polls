@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CZ, DE, DK, EE, ES, FR, HR, HU, IE, IT, LU, LV, NL, PL, RO, SI
+> BE, BG, CZ, DE, DK, EE, ES, FR, HR, HU, IE, IT, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -35,7 +35,6 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |

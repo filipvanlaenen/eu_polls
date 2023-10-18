@@ -1,25 +1,25 @@
 # Renew Europe
 
-Members registered from **24 countries**:
+Members registered from **23 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **87** seats (-11 seats)
+Current median: **85** seats (-13 seats)
 
-At least one member in **21 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 82–92 | 81–94 | 80–95 | 78–97 |
-| La République en marche–Mouvement démocrate | FR | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
+| Renew Europe | EU | 98 | 85 | 80–90 | 79–91 | 78–93 | 76–95 |
+| La République en marche–Mouvement démocrate | FR | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | ANO 2011 | CZ | | 10 | 8–11 | 8–11 | 8–11 | 8–11 |
 | Freie Demokratische Partei | DE | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Trzecia Droga | PL | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
@@ -38,7 +38,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 0–1 |
@@ -73,32 +72,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 75 | 0% | 100% |  |
-| 76 | 0.1% | 99.9% |  |
-| 77 | 0.3% | 99.8% |  |
-| 78 | 0.6% | 99.6% |  |
-| 79 | 1.1% | 99.0% |  |
-| 80 | 2% | 98% |  |
-| 81 | 3% | 96% |  |
-| 82 | 5% | 93% |  |
-| 83 | 6% | 88% |  |
-| 84 | 8% | 82% |  |
-| 85 | 9% | 74% |  |
-| 86 | 10% | 65% |  |
-| 87 | 10% | 55% | Median |
-| 88 | 10% | 45% |  |
-| 89 | 9% | 35% |  |
-| 90 | 7% | 26% |  |
-| 91 | 6% | 19% |  |
-| 92 | 5% | 13% |  |
-| 93 | 3% | 8% |  |
-| 94 | 2% | 5% |  |
-| 95 | 1.4% | 3% |  |
-| 96 | 0.8% | 2% |  |
-| 97 | 0.5% | 0.9% |  |
-| 98 | 0.2% | 0.5% | Last Result |
-| 99 | 0.1% | 0.2% |  |
-| 100 | 0.1% | 0.1% |  |
-| 101 | 0% | 0% |  |
+| 74 | 0.1% | 100% |  |
+| 75 | 0.2% | 99.9% |  |
+| 76 | 0.5% | 99.6% |  |
+| 77 | 1.0% | 99.1% |  |
+| 78 | 2% | 98% |  |
+| 79 | 3% | 96% |  |
+| 80 | 5% | 93% |  |
+| 81 | 6% | 88% |  |
+| 82 | 8% | 82% |  |
+| 83 | 9% | 74% |  |
+| 84 | 10% | 65% |  |
+| 85 | 10% | 54% | Median |
+| 86 | 10% | 44% |  |
+| 87 | 9% | 34% |  |
+| 88 | 7% | 26% |  |
+| 89 | 6% | 18% |  |
+| 90 | 4% | 12% |  |
+| 91 | 3% | 8% |  |
+| 92 | 2% | 5% |  |
+| 93 | 1.3% | 3% |  |
+| 94 | 0.7% | 2% |  |
+| 95 | 0.4% | 0.8% |  |
+| 96 | 0.2% | 0.4% |  |
+| 97 | 0.1% | 0.2% |  |
+| 98 | 0% | 0.1% | Last Result |
+| 99 | 0% | 0% |  |
 
 

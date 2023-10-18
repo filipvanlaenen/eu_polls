@@ -1,14 +1,14 @@
 # European United Left–Nordic Green Left
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, IE, IT, LU, NL, PT, SE, SI
+> AT, BE, CZ, DE, DK, ES, FI, FR, IE, IT, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-1 seats)
+Current median: **37** seats (-2 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 38 | 34–42 | 34–44 | 33–44 | 32–46 |
-| La France insoumise | FR | | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
+| European United Left–Nordic Green Left | EU | 39 | 37 | 34–42 | 33–43 | 32–43 | 31–45 |
+| La France insoumise | FR | | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | Sinn Féin | IE | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Die Linke | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -42,7 +42,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -52,25 +51,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 0.4% | 99.9% |  |
-| 32 | 1.2% | 99.5% |  |
-| 33 | 3% | 98% |  |
-| 34 | 5% | 95% |  |
-| 35 | 8% | 90% |  |
-| 36 | 10% | 82% |  |
-| 37 | 12% | 71% |  |
-| 38 | 12% | 60% | Median |
-| 39 | 12% | 48% | Last Result |
-| 40 | 11% | 36% |  |
-| 41 | 9% | 25% |  |
-| 42 | 7% | 16% |  |
-| 43 | 5% | 10% |  |
-| 44 | 3% | 5% |  |
-| 45 | 1.4% | 2% |  |
-| 46 | 0.6% | 1.0% |  |
-| 47 | 0.2% | 0.3% |  |
-| 48 | 0.1% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 29 | 0.1% | 100% |  |
+| 30 | 0.3% | 99.9% |  |
+| 31 | 1.1% | 99.6% |  |
+| 32 | 3% | 98% |  |
+| 33 | 5% | 96% |  |
+| 34 | 8% | 90% |  |
+| 35 | 10% | 83% |  |
+| 36 | 11% | 73% |  |
+| 37 | 12% | 62% | Median |
+| 38 | 12% | 50% |  |
+| 39 | 11% | 38% | Last Result |
+| 40 | 9% | 27% |  |
+| 41 | 7% | 17% |  |
+| 42 | 5% | 10% |  |
+| 43 | 3% | 5% |  |
+| 44 | 1.5% | 2% |  |
+| 45 | 0.6% | 0.9% |  |
+| 46 | 0.2% | 0.3% |  |
+| 47 | 0.1% | 0.1% |  |
+| 48 | 0% | 0% |  |
 
 
