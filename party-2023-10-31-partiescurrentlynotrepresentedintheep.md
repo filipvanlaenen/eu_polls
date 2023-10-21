@@ -27,6 +27,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | Σπαρτιάτες [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | Да, България! [BG] (*) | BG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Akcija za promjene [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -35,6 +36,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
+| Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -74,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.6% | 100% |  |
 | 7 | 8% | 99.4% |  |
 | 8 | 28% | 91% |  |
-| 9 | 34% | 63% | Median |
+| 9 | 34% | 64% | Median |
 | 10 | 20% | 30% |  |
 | 11 | 8% | 10% |  |
 | 12 | 2% | 3% |  |

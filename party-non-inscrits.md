@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 56 | 53–60 | 52–60 | 51–61 | 48–63 |
-| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 11–17 | 10–17 |
-| Fidesz | HU | | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
+| Non-Inscrits | EU | 29 | 56 | 53–59 | 52–60 | 50–61 | 48–63 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
+| Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Konfederacja | PL | | 5 | 4–6 | 3–6 | 3–6 | 0–7 |
 | Reconquête | FR | | 5 | 5–6 | 4–6 | 0–6 | 0–7 |
 | SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
@@ -31,7 +31,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,6 +38,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -75,24 +76,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0.1% | 100% |  |
 | 47 | 0.2% | 99.9% |  |
-| 48 | 0.3% | 99.8% |  |
-| 49 | 0.6% | 99.4% |  |
-| 50 | 1.1% | 98.8% |  |
-| 51 | 2% | 98% |  |
-| 52 | 3% | 96% |  |
-| 53 | 6% | 93% |  |
-| 54 | 10% | 87% |  |
-| 55 | 13% | 77% |  |
-| 56 | 16% | 64% | Median |
-| 57 | 16% | 48% |  |
-| 58 | 13% | 33% |  |
-| 59 | 9% | 20% |  |
-| 60 | 6% | 11% |  |
-| 61 | 3% | 5% |  |
-| 62 | 1.3% | 2% |  |
-| 63 | 0.5% | 0.7% |  |
-| 64 | 0.2% | 0.2% |  |
-| 65 | 0% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 48 | 0.4% | 99.7% |  |
+| 49 | 0.8% | 99.2% |  |
+| 50 | 1.3% | 98% |  |
+| 51 | 2% | 97% |  |
+| 52 | 4% | 95% |  |
+| 53 | 7% | 91% |  |
+| 54 | 11% | 84% |  |
+| 55 | 14% | 74% |  |
+| 56 | 15% | 60% | Median |
+| 57 | 15% | 45% |  |
+| 58 | 12% | 30% |  |
+| 59 | 8% | 18% |  |
+| 60 | 5% | 10% |  |
+| 61 | 3% | 4% |  |
+| 62 | 1.2% | 2% |  |
+| 63 | 0.5% | 0.6% |  |
+| 64 | 0.1% | 0.2% |  |
+| 65 | 0% | 0% |  |
 
 

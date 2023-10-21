@@ -34,8 +34,8 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 2 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democraten 66 | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -44,10 +44,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–2 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -61,7 +62,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -77,8 +78,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 0% | 100% |  |
 | 79 | 0.1% | 99.9% |  |
 | 80 | 0.3% | 99.8% |  |
-| 81 | 0.6% | 99.6% |  |
-| 82 | 1.1% | 99.0% |  |
+| 81 | 0.6% | 99.5% |  |
+| 82 | 1.2% | 98.9% |  |
 | 83 | 2% | 98% |  |
 | 84 | 3% | 96% |  |
 | 85 | 5% | 93% |  |
@@ -87,19 +88,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 9% | 74% |  |
 | 89 | 10% | 65% |  |
 | 90 | 10% | 55% | Median |
-| 91 | 10% | 45% |  |
-| 92 | 9% | 36% |  |
+| 91 | 9% | 45% |  |
+| 92 | 8% | 35% |  |
 | 93 | 7% | 27% |  |
-| 94 | 6% | 19% |  |
-| 95 | 5% | 13% |  |
+| 94 | 6% | 20% |  |
+| 95 | 5% | 14% |  |
 | 96 | 3% | 9% |  |
 | 97 | 2% | 6% |  |
-| 98 | 1.5% | 3% | Last Result |
-| 99 | 0.9% | 2% |  |
-| 100 | 0.5% | 1.0% |  |
-| 101 | 0.3% | 0.5% |  |
-| 102 | 0.1% | 0.2% |  |
+| 98 | 2% | 4% | Last Result |
+| 99 | 1.0% | 2% |  |
+| 100 | 0.6% | 1.2% |  |
+| 101 | 0.3% | 0.6% |  |
+| 102 | 0.2% | 0.3% |  |
 | 103 | 0.1% | 0.1% |  |
-| 104 | 0% | 0% |  |
+| 104 | 0% | 0.1% |  |
+| 105 | 0% | 0% |  |
 
 
