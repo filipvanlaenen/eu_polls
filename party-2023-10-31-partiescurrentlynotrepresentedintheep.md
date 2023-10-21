@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, RO, SI
+> BE, BG, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
-| Movimiento Sumar [ES] (*) | ES | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
+| Movimiento Sumar [ES] (*) | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -32,7 +32,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +53,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Ανεξάρτητοι [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | ΕΑΝ… [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Εθνικό Κόμμα – Έλληνες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -73,14 +72,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.6% | 100% |  |
-| 7 | 9% | 99.4% |  |
-| 8 | 31% | 90% |  |
-| 9 | 35% | 60% | Median |
-| 10 | 17% | 24% |  |
-| 11 | 6% | 7% |  |
-| 12 | 1.4% | 2% |  |
-| 13 | 0.3% | 0.3% |  |
-| 14 | 0% | 0.1% |  |
+| 7 | 8% | 99.4% |  |
+| 8 | 28% | 91% |  |
+| 9 | 34% | 63% | Median |
+| 10 | 20% | 30% |  |
+| 11 | 8% | 10% |  |
+| 12 | 2% | 3% |  |
+| 13 | 0.5% | 0.6% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 

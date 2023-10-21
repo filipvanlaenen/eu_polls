@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **57** seats (+28 seats)
+Current median: **56** seats (+27 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 57 | 54–60 | 53–61 | 51–62 | 49–64 |
-| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 12–17 | 11–17 |
+| Non-Inscrits | EU | 29 | 56 | 53–60 | 52–60 | 51–61 | 48–63 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 11–17 | 10–17 |
 | Fidesz | HU | | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
 | Konfederacja | PL | | 5 | 4–6 | 3–6 | 3–6 | 0–7 |
 | Reconquête | FR | | 5 | 5–6 | 4–6 | 0–6 | 0–7 |
 | SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
-| BoerBurgerBeweging | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| BoerBurgerBeweging | NL | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 2 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -73,26 +73,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
-| 46 | 0% | 100% |  |
-| 47 | 0.1% | 100% |  |
-| 48 | 0.2% | 99.9% |  |
-| 49 | 0.4% | 99.7% |  |
-| 50 | 0.7% | 99.3% |  |
-| 51 | 1.2% | 98.6% |  |
-| 52 | 2% | 97% |  |
-| 53 | 4% | 95% |  |
-| 54 | 7% | 92% |  |
-| 55 | 10% | 85% |  |
-| 56 | 14% | 74% |  |
-| 57 | 16% | 60% | Median |
-| 58 | 15% | 45% |  |
-| 59 | 12% | 30% |  |
-| 60 | 8% | 17% |  |
-| 61 | 5% | 9% |  |
-| 62 | 2% | 4% |  |
-| 63 | 1.1% | 2% |  |
-| 64 | 0.4% | 0.5% |  |
-| 65 | 0.1% | 0.1% |  |
+| 46 | 0.1% | 100% |  |
+| 47 | 0.2% | 99.9% |  |
+| 48 | 0.3% | 99.8% |  |
+| 49 | 0.6% | 99.4% |  |
+| 50 | 1.1% | 98.8% |  |
+| 51 | 2% | 98% |  |
+| 52 | 3% | 96% |  |
+| 53 | 6% | 93% |  |
+| 54 | 10% | 87% |  |
+| 55 | 13% | 77% |  |
+| 56 | 16% | 64% | Median |
+| 57 | 16% | 48% |  |
+| 58 | 13% | 33% |  |
+| 59 | 9% | 20% |  |
+| 60 | 6% | 11% |  |
+| 61 | 3% | 5% |  |
+| 62 | 1.3% | 2% |  |
+| 63 | 0.5% | 0.7% |  |
+| 64 | 0.2% | 0.2% |  |
+| 65 | 0% | 0.1% |  |
 | 66 | 0% | 0% |  |
 
 
