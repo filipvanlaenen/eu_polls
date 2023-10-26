@@ -10,16 +10,16 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **54** seats (+25 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, DK, ES, FR, GR, HU, IT, LT, LV, NL, PL, SK
+> BG, CY, DE, DK, FR, GR, HU, IT, LT, LV, NL, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 54 | 50–57 | 48–58 | 47–59 | 46–60 |
-| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
+| Non-Inscrits | EU | 29 | 54 | 50–57 | 48–58 | 47–58 | 46–60 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Reconquête | FR | | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
 | SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
@@ -33,7 +33,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ruch Narodowy | PL | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -45,6 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
+| Partit Demòcrata Europeu Català | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -75,23 +75,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
 | 45 | 0.3% | 99.9% |  |
-| 46 | 0.8% | 99.6% |  |
-| 47 | 1.5% | 98.8% |  |
+| 46 | 0.8% | 99.5% |  |
+| 47 | 2% | 98.7% |  |
 | 48 | 2% | 97% |  |
-| 49 | 3% | 95% |  |
-| 50 | 5% | 92% |  |
+| 49 | 4% | 95% |  |
+| 50 | 5% | 91% |  |
 | 51 | 8% | 86% |  |
-| 52 | 12% | 78% |  |
-| 53 | 15% | 67% |  |
-| 54 | 15% | 52% | Median |
-| 55 | 14% | 37% |  |
-| 56 | 10% | 23% |  |
-| 57 | 7% | 13% |  |
-| 58 | 4% | 6% |  |
-| 59 | 2% | 3% |  |
-| 60 | 0.6% | 0.9% |  |
-| 61 | 0.2% | 0.3% |  |
-| 62 | 0% | 0.1% |  |
-| 63 | 0% | 0% |  |
+| 52 | 12% | 77% |  |
+| 53 | 15% | 66% |  |
+| 54 | 15% | 51% | Median |
+| 55 | 14% | 36% |  |
+| 56 | 10% | 22% |  |
+| 57 | 6% | 12% |  |
+| 58 | 3% | 6% |  |
+| 59 | 1.5% | 2% |  |
+| 60 | 0.5% | 0.7% |  |
+| 61 | 0.2% | 0.2% |  |
+| 62 | 0% | 0% |  |
 
 
