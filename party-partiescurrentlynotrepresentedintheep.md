@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 12 | 11–13 | 10–14 | 10–14 | 9–15 |
+| Parties currently not represented in the EP | EU | 0 | 12 | 10–13 | 10–13 | 10–14 | 9–15 |
 | Movimiento Sumar [ES] (*) | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Konfederacja Korony Polskiej [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
@@ -45,7 +45,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Mindenki Magyarországa Mozgalom [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,12 +76,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.7% | 100% |  |
-| 10 | 9% | 99.3% |  |
-| 11 | 31% | 90% |  |
-| 12 | 35% | 59% | Median |
-| 13 | 18% | 24% |  |
-| 14 | 5% | 6% |  |
-| 15 | 0.9% | 1.1% |  |
+| 10 | 10% | 99.3% |  |
+| 11 | 32% | 90% |  |
+| 12 | 36% | 57% | Median |
+| 13 | 17% | 22% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.5% | 0.6% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
