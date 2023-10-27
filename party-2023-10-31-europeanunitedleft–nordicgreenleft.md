@@ -23,7 +23,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Die Linke | DE | | 4 | 3–6 | 3–7 | 3–7 | 2–7 |
 | Parti communiste français | FR | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 4 | 4 | 4 | 4 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Podemos–Izquierda Unida | ES | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
@@ -45,7 +45,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0 | 0 | 0 | 0 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -56,18 +56,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 34 | 0.1% | 100% |  |
-| 35 | 0.4% | 99.9% |  |
-| 36 | 1.0% | 99.5% |  |
-| 37 | 2% | 98.5% |  |
+| 35 | 0.5% | 99.8% |  |
+| 36 | 1.1% | 99.3% |  |
+| 37 | 2% | 98% |  |
 | 38 | 4% | 96% |  |
-| 39 | 6% | 93% | Last Result |
-| 40 | 8% | 87% |  |
-| 41 | 9% | 79% |  |
-| 42 | 10% | 70% |  |
-| 43 | 11% | 60% | Median |
-| 44 | 11% | 49% |  |
-| 45 | 11% | 38% |  |
-| 46 | 10% | 27% |  |
+| 39 | 6% | 92% | Last Result |
+| 40 | 8% | 86% |  |
+| 41 | 9% | 78% |  |
+| 42 | 10% | 69% |  |
+| 43 | 11% | 59% | Median |
+| 44 | 11% | 48% |  |
+| 45 | 11% | 37% |  |
+| 46 | 9% | 26% |  |
 | 47 | 7% | 17% |  |
 | 48 | 5% | 10% |  |
 | 49 | 3% | 5% |  |

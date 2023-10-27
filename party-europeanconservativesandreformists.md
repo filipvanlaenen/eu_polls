@@ -33,7 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1 | 1 | 1 | 1 |
+| Ελληνική Λύση | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,20 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0.2% | 100% |  |
-| 73 | 0.7% | 99.8% |  |
-| 74 | 2% | 99.0% |  |
+| 73 | 0.6% | 99.8% |  |
+| 74 | 2% | 99.2% |  |
 | 75 | 4% | 97% |  |
-| 76 | 8% | 93% |  |
-| 77 | 12% | 85% |  |
-| 78 | 15% | 73% |  |
-| 79 | 16% | 58% | Median |
-| 80 | 15% | 41% |  |
-| 81 | 12% | 26% |  |
-| 82 | 8% | 14% |  |
-| 83 | 4% | 7% |  |
-| 84 | 2% | 3% |  |
-| 85 | 0.7% | 1.0% |  |
-| 86 | 0.2% | 0.3% |  |
+| 76 | 7% | 94% |  |
+| 77 | 11% | 86% |  |
+| 78 | 14% | 75% |  |
+| 79 | 16% | 61% | Median |
+| 80 | 15% | 45% |  |
+| 81 | 13% | 29% |  |
+| 82 | 9% | 17% |  |
+| 83 | 5% | 8% |  |
+| 84 | 2% | 4% |  |
+| 85 | 0.9% | 1.4% |  |
+| 86 | 0.3% | 0.5% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
 

@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **173** seats (-14 seats)
+Current median: **172** seats (-15 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 173 | 168–178 | 167–179 | 166–181 | 163–183 |
+| European People’s Party | EU | 187 | 172 | 167–177 | 166–179 | 165–180 | 163–183 |
 | Partido Popular | ES | | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 20–25 | 19–25 | 18–26 |
 | Platforma Obywatelska | PL | | 16 | 16 | 16 | 16 | 16 |
-| Νέα Δημοκρατία | GR | | 9 | 9 | 9 | 9 | 9 |
+| Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Nieuw Sociaal Contract | NL | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -83,32 +83,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0.1% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
-| 163 | 0.3% | 99.8% |  |
-| 164 | 0.6% | 99.5% |  |
-| 165 | 1.2% | 98.8% |  |
-| 166 | 2% | 98% |  |
-| 167 | 3% | 95% |  |
-| 168 | 5% | 92% |  |
-| 169 | 7% | 87% |  |
-| 170 | 8% | 80% |  |
-| 171 | 10% | 72% |  |
-| 172 | 10% | 62% |  |
-| 173 | 10% | 52% | Median |
-| 174 | 9% | 42% |  |
-| 175 | 8% | 32% |  |
-| 176 | 7% | 24% |  |
-| 177 | 5% | 17% |  |
-| 178 | 4% | 12% |  |
-| 179 | 3% | 7% |  |
-| 180 | 2% | 5% |  |
-| 181 | 1.2% | 3% |  |
-| 182 | 0.7% | 1.5% |  |
-| 183 | 0.4% | 0.7% |  |
-| 184 | 0.2% | 0.4% |  |
-| 185 | 0.1% | 0.2% |  |
-| 186 | 0% | 0.1% |  |
+| 160 | 0% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.3% | 99.8% |  |
+| 163 | 0.5% | 99.6% |  |
+| 164 | 1.0% | 99.0% |  |
+| 165 | 2% | 98% |  |
+| 166 | 3% | 96% |  |
+| 167 | 4% | 93% |  |
+| 168 | 6% | 89% |  |
+| 169 | 8% | 83% |  |
+| 170 | 9% | 75% |  |
+| 171 | 10% | 66% |  |
+| 172 | 10% | 56% | Median |
+| 173 | 10% | 46% |  |
+| 174 | 9% | 36% |  |
+| 175 | 7% | 27% |  |
+| 176 | 6% | 20% |  |
+| 177 | 5% | 14% |  |
+| 178 | 3% | 9% |  |
+| 179 | 2% | 6% |  |
+| 180 | 2% | 4% |  |
+| 181 | 0.9% | 2% |  |
+| 182 | 0.5% | 1.1% |  |
+| 183 | 0.3% | 0.5% |  |
+| 184 | 0.1% | 0.3% |  |
+| 185 | 0.1% | 0.1% |  |
+| 186 | 0% | 0% |  |
 | 187 | 0% | 0% | Last Result |
 
 
