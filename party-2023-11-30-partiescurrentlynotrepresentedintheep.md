@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI
+> BE, BG, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL
 
 ## Seats
 
@@ -27,7 +27,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | OdNowa RP [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Да, България! [BG] (*) | BG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Akcija za promjene [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -35,7 +34,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,14 +45,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
-| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -71,15 +69,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 3% | 99.6% |  |
-| 9 | 13% | 96% |  |
-| 10 | 26% | 84% |  |
-| 11 | 30% | 57% | Median |
-| 12 | 19% | 27% |  |
-| 13 | 7% | 8% |  |
-| 14 | 1.4% | 2% |  |
-| 15 | 0.2% | 0.2% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 3% | 99.7% |  |
+| 9 | 15% | 97% |  |
+| 10 | 30% | 82% |  |
+| 11 | 31% | 52% | Median |
+| 12 | 16% | 21% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.7% | 0.8% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
