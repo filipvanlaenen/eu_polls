@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, NL, PL, SK
+> BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -10,9 +10,9 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **52** seats (+23 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, DK, FR, GR, HU, IT, LT, LV, NL, PL, SK
+> BG, CY, DE, DK, ES, FR, GR, HU, IT, LT, LV, NL, PL, SK
 
 ### Confidence Intervals
 
@@ -32,6 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ruch Narodowy | PL | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,8 +44,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
-| Partit Demòcrata Europeu Català | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -76,17 +77,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 2% | 98% |  |
 | 47 | 3% | 95% |  |
 | 48 | 5% | 92% |  |
-| 49 | 8% | 87% |  |
-| 50 | 11% | 79% |  |
-| 51 | 15% | 68% |  |
+| 49 | 7% | 87% |  |
+| 50 | 11% | 80% |  |
+| 51 | 14% | 69% |  |
 | 52 | 16% | 54% | Median |
-| 53 | 14% | 38% |  |
-| 54 | 11% | 23% |  |
+| 53 | 15% | 39% |  |
+| 54 | 11% | 24% |  |
 | 55 | 7% | 13% |  |
 | 56 | 4% | 6% |  |
 | 57 | 2% | 2% |  |
-| 58 | 0.5% | 0.7% |  |
-| 59 | 0.1% | 0.2% |  |
+| 58 | 0.6% | 0.8% |  |
+| 59 | 0.2% | 0.2% |  |
 | 60 | 0% | 0% |  |
 
 
