@@ -10,32 +10,32 @@ Last result: **29** seats (General Election of 26 May 2019)
 
 Current median: **52** seats (+23 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, DK, ES, FR, GR, HU, IT, LT, LV, NL, PL, SK
+> BG, CY, DE, DK, ES, FR, GR, HU, IT, LV, NL, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 52 | 48–55 | 47–56 | 46–56 | 44–58 |
-| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–17 | 10–17 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Reconquête | FR | | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
 | SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
 | BoerBurgerBeweging | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Nowa Nadzieja | PL | | 2 | 2 | 2 | 2 | 2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ruch Narodowy | PL | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,18 +72,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0.1% | 100% |  |
 | 43 | 0.3% | 99.9% |  |
-| 44 | 0.7% | 99.6% |  |
-| 45 | 1.3% | 99.0% |  |
+| 44 | 0.6% | 99.6% |  |
+| 45 | 1.2% | 99.0% |  |
 | 46 | 2% | 98% |  |
-| 47 | 3% | 95% |  |
+| 47 | 3% | 96% |  |
 | 48 | 5% | 92% |  |
-| 49 | 7% | 87% |  |
-| 50 | 11% | 80% |  |
-| 51 | 14% | 69% |  |
-| 52 | 16% | 54% | Median |
-| 53 | 15% | 39% |  |
-| 54 | 11% | 24% |  |
-| 55 | 7% | 13% |  |
+| 49 | 7% | 88% |  |
+| 50 | 10% | 80% |  |
+| 51 | 14% | 70% |  |
+| 52 | 16% | 57% | Median |
+| 53 | 15% | 41% |  |
+| 54 | 12% | 26% |  |
+| 55 | 8% | 14% |  |
 | 56 | 4% | 6% |  |
 | 57 | 2% | 2% |  |
 | 58 | 0.6% | 0.8% |  |
