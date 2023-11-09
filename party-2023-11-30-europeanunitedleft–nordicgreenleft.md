@@ -35,13 +35,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Sinistra Italiana | IT | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -62,19 +62,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 3% | 96% |  |
 | 38 | 5% | 93% |  |
 | 39 | 7% | 88% | Last Result |
-| 40 | 9% | 81% |  |
+| 40 | 8% | 81% |  |
 | 41 | 10% | 72% |  |
-| 42 | 11% | 62% |  |
+| 42 | 11% | 63% |  |
 | 43 | 11% | 52% | Median |
 | 44 | 11% | 41% |  |
 | 45 | 10% | 30% |  |
-| 46 | 8% | 20% |  |
-| 47 | 6% | 12% |  |
-| 48 | 3% | 7% |  |
-| 49 | 2% | 3% |  |
-| 50 | 0.9% | 2% |  |
+| 46 | 8% | 21% |  |
+| 47 | 6% | 13% |  |
+| 48 | 4% | 7% |  |
+| 49 | 2% | 4% |  |
+| 50 | 1.0% | 2% |  |
 | 51 | 0.4% | 0.6% |  |
-| 52 | 0.1% | 0.2% |  |
+| 52 | 0.2% | 0.2% |  |
 | 53 | 0% | 0.1% |  |
 | 54 | 0% | 0% |  |
 

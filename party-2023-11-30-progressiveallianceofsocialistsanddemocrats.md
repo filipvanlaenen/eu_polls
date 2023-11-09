@@ -29,7 +29,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Demokratikus Koalíció | HU | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 3 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Nowa Lewica | PL | | 3 | 3 | 3 | 3 | 3 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 3% | 97% |  |
 | 133 | 4% | 94% |  |
 | 134 | 6% | 90% |  |
-| 135 | 8% | 85% |  |
+| 135 | 8% | 84% |  |
 | 136 | 9% | 77% |  |
 | 137 | 11% | 67% |  |
 | 138 | 11% | 57% | Median |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 8% | 25% |  |
 | 142 | 6% | 17% |  |
 | 143 | 4% | 11% |  |
-| 144 | 3% | 7% |  |
+| 144 | 3% | 6% |  |
 | 145 | 2% | 4% |  |
 | 146 | 1.0% | 2% |  |
 | 147 | 0.5% | 0.9% | Last Result |

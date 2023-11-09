@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 172 | 167–177 | 166–178 | 165–180 | 162–182 |
+| European People’s Party | EU | 187 | 172 | 167–177 | 165–178 | 164–179 | 162–182 |
 | Partido Popular | ES | | 23 | 22–25 | 22–26 | 21–26 | 21–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–24 | 19–24 | 19–25 | 17–25 |
 | Platforma Obywatelska | PL | | 16 | 16 | 16 | 16 | 16 |
-| Nieuw Sociaal Contract | NL | | 8 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Nieuw Sociaal Contract | NL | | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -57,7 +57,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | Christen-Democratisch Appèl | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -84,30 +84,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 160 | 0.1% | 100% |  |
-| 161 | 0.1% | 99.9% |  |
-| 162 | 0.3% | 99.8% |  |
-| 163 | 0.6% | 99.5% |  |
-| 164 | 1.2% | 98.8% |  |
-| 165 | 2% | 98% |  |
-| 166 | 3% | 96% |  |
-| 167 | 5% | 92% |  |
-| 168 | 6% | 88% |  |
-| 169 | 8% | 81% |  |
-| 170 | 9% | 73% |  |
-| 171 | 10% | 64% |  |
-| 172 | 10% | 54% | Median |
-| 173 | 10% | 43% |  |
-| 174 | 9% | 33% |  |
-| 175 | 7% | 25% |  |
-| 176 | 6% | 17% |  |
-| 177 | 4% | 12% |  |
+| 161 | 0.2% | 99.9% |  |
+| 162 | 0.4% | 99.7% |  |
+| 163 | 0.8% | 99.3% |  |
+| 164 | 1.4% | 98.6% |  |
+| 165 | 2% | 97% |  |
+| 166 | 4% | 95% |  |
+| 167 | 5% | 91% |  |
+| 168 | 7% | 86% |  |
+| 169 | 8% | 79% |  |
+| 170 | 10% | 71% |  |
+| 171 | 10% | 61% |  |
+| 172 | 10% | 51% | Median |
+| 173 | 10% | 41% |  |
+| 174 | 8% | 31% |  |
+| 175 | 7% | 23% |  |
+| 176 | 5% | 16% |  |
+| 177 | 4% | 11% |  |
 | 178 | 3% | 7% |  |
-| 179 | 2% | 5% |  |
-| 180 | 1.2% | 3% |  |
-| 181 | 0.7% | 1.4% |  |
-| 182 | 0.4% | 0.7% |  |
-| 183 | 0.2% | 0.4% |  |
-| 184 | 0.1% | 0.2% |  |
+| 179 | 2% | 4% |  |
+| 180 | 1.1% | 2% |  |
+| 181 | 0.6% | 1.3% |  |
+| 182 | 0.3% | 0.6% |  |
+| 183 | 0.2% | 0.3% |  |
+| 184 | 0.1% | 0.1% |  |
 | 185 | 0% | 0.1% |  |
 | 186 | 0% | 0% |  |
 | 187 | 0% | 0% | Last Result |
