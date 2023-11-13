@@ -18,11 +18,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 132–141 | 131–143 | 130–144 | 128–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 133–142 | 131–143 | 130–144 | 128–146 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
 | Partito Democratico | IT | | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
-| Partidul Social Democrat | RO | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
+| Partidul Social Democrat | RO | | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | Parti socialiste | FR | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | Partido Socialista | PT | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -35,7 +35,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Nowa Lewica | PL | | 3 | 3 | 3 | 3 | 3 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–3 |
-| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -49,7 +49,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
 | Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0–1 |
@@ -63,30 +62,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 125 | 0% | 100% |  |
-| 126 | 0.1% | 99.9% |  |
-| 127 | 0.3% | 99.8% |  |
-| 128 | 0.6% | 99.6% |  |
-| 129 | 1.1% | 99.0% |  |
-| 130 | 2% | 98% |  |
-| 131 | 3% | 96% |  |
-| 132 | 5% | 93% |  |
-| 133 | 7% | 88% |  |
-| 134 | 9% | 81% |  |
-| 135 | 10% | 73% |  |
-| 136 | 11% | 62% |  |
-| 137 | 11% | 51% | Median |
-| 138 | 10% | 40% |  |
-| 139 | 9% | 30% |  |
-| 140 | 7% | 21% |  |
-| 141 | 5% | 14% |  |
-| 142 | 4% | 9% |  |
-| 143 | 2% | 5% |  |
-| 144 | 1.4% | 3% |  |
-| 145 | 0.7% | 1.4% |  |
-| 146 | 0.4% | 0.7% |  |
-| 147 | 0.2% | 0.3% | Last Result |
+| 126 | 0.1% | 100% |  |
+| 127 | 0.1% | 99.9% |  |
+| 128 | 0.3% | 99.8% |  |
+| 129 | 0.7% | 99.4% |  |
+| 130 | 1.4% | 98.7% |  |
+| 131 | 2% | 97% |  |
+| 132 | 4% | 95% |  |
+| 133 | 6% | 91% |  |
+| 134 | 8% | 85% |  |
+| 135 | 10% | 77% |  |
+| 136 | 11% | 68% |  |
+| 137 | 11% | 57% | Median |
+| 138 | 11% | 45% |  |
+| 139 | 10% | 34% |  |
+| 140 | 8% | 24% |  |
+| 141 | 6% | 16% |  |
+| 142 | 4% | 10% |  |
+| 143 | 3% | 6% |  |
+| 144 | 2% | 3% |  |
+| 145 | 0.9% | 2% |  |
+| 146 | 0.4% | 0.8% |  |
+| 147 | 0.2% | 0.4% | Last Result |
 | 148 | 0.1% | 0.1% |  |
-| 149 | 0% | 0% |  |
+| 149 | 0% | 0.1% |  |
+| 150 | 0% | 0% |  |
 
 

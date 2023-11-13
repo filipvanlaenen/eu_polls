@@ -23,9 +23,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–24 | 19–24 | 19–25 | 17–25 |
 | Platforma Obywatelska | PL | | 16 | 16 | 16 | 16 | 16 |
 | Nieuw Sociaal Contract | NL | | 8 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Partidul Național Liberal | RO | | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Les Républicains | FR | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| Partidul Național Liberal | RO | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Partido Social Democrata | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Forza Italia | IT | | 5 | 4–6 | 3–7 | 3–8 | 3–8 |
@@ -68,11 +68,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Magyar Fórum | SK | | 0 | 0 | 0 | 0 | 0 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0–2 |
+| Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Uniunea Democrată Maghiară din România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -87,7 +87,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
 | 162 | 0.5% | 99.6% |  |
-| 163 | 0.9% | 99.2% |  |
+| 163 | 0.9% | 99.1% |  |
 | 164 | 2% | 98% |  |
 | 165 | 3% | 97% |  |
 | 166 | 4% | 94% |  |

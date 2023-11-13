@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **92** seats (-6 seats)
+Current median: **93** seats (-5 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 92 | 87–97 | 86–98 | 85–99 | 83–102 |
+| Renew Europe | EU | 98 | 93 | 89–98 | 87–100 | 86–101 | 84–103 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 16–20 | 16–20 | 16–21 | 16–21 |
 | ANO 2011 | CZ | | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
-| Alianța 2020 USR-PLUS | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Polska 2050 | PL | | 4 | 4 | 4 | 4 | 4 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Gibanje Svoboda | SI | | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -77,31 +77,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.3% | 99.8% |  |
-| 83 | 0.7% | 99.5% |  |
-| 84 | 1.3% | 98.9% |  |
-| 85 | 2% | 98% |  |
-| 86 | 4% | 95% |  |
-| 87 | 5% | 91% |  |
-| 88 | 7% | 86% |  |
-| 89 | 8% | 79% |  |
-| 90 | 9% | 71% |  |
-| 91 | 10% | 61% |  |
-| 92 | 10% | 51% | Median |
-| 93 | 9% | 42% |  |
-| 94 | 8% | 32% |  |
-| 95 | 7% | 24% |  |
-| 96 | 6% | 17% |  |
-| 97 | 4% | 11% |  |
-| 98 | 3% | 7% | Last Result |
-| 99 | 2% | 4% |  |
-| 100 | 1.1% | 2% |  |
-| 101 | 0.6% | 1.2% |  |
-| 102 | 0.3% | 0.6% |  |
-| 103 | 0.2% | 0.3% |  |
-| 104 | 0.1% | 0.1% |  |
-| 105 | 0% | 0% |  |
+| 82 | 0.1% | 100% |  |
+| 83 | 0.2% | 99.9% |  |
+| 84 | 0.4% | 99.8% |  |
+| 85 | 0.8% | 99.4% |  |
+| 86 | 2% | 98.5% |  |
+| 87 | 3% | 97% |  |
+| 88 | 4% | 94% |  |
+| 89 | 6% | 90% |  |
+| 90 | 7% | 84% |  |
+| 91 | 9% | 77% |  |
+| 92 | 10% | 68% |  |
+| 93 | 10% | 59% | Median |
+| 94 | 10% | 49% |  |
+| 95 | 9% | 39% |  |
+| 96 | 8% | 30% |  |
+| 97 | 7% | 22% |  |
+| 98 | 5% | 15% | Last Result |
+| 99 | 4% | 10% |  |
+| 100 | 3% | 6% |  |
+| 101 | 2% | 4% |  |
+| 102 | 1.0% | 2% |  |
+| 103 | 0.5% | 1.0% |  |
+| 104 | 0.3% | 0.5% |  |
+| 105 | 0.1% | 0.2% |  |
+| 106 | 0.1% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 
