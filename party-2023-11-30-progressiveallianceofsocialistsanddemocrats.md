@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 133–142 | 131–143 | 130–144 | 128–146 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 133–142 | 132–143 | 131–144 | 129–146 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
 | Partito Democratico | IT | | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -33,14 +33,14 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 3 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Nowa Lewica | PL | | 3 | 3 | 3 | 3 | 3 |
-| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Българска социалистическа партия | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,29 +62,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0.1% | 100% |  |
+| 126 | 0% | 100% |  |
 | 127 | 0.1% | 99.9% |  |
-| 128 | 0.3% | 99.8% |  |
-| 129 | 0.7% | 99.4% |  |
-| 130 | 1.4% | 98.7% |  |
-| 131 | 2% | 97% |  |
-| 132 | 4% | 95% |  |
-| 133 | 6% | 91% |  |
-| 134 | 8% | 85% |  |
-| 135 | 10% | 77% |  |
-| 136 | 11% | 68% |  |
-| 137 | 11% | 57% | Median |
-| 138 | 11% | 45% |  |
-| 139 | 10% | 34% |  |
-| 140 | 8% | 24% |  |
-| 141 | 6% | 16% |  |
-| 142 | 4% | 10% |  |
-| 143 | 3% | 6% |  |
-| 144 | 2% | 3% |  |
-| 145 | 0.9% | 2% |  |
-| 146 | 0.4% | 0.8% |  |
-| 147 | 0.2% | 0.4% | Last Result |
-| 148 | 0.1% | 0.1% |  |
+| 128 | 0.2% | 99.9% |  |
+| 129 | 0.6% | 99.6% |  |
+| 130 | 1.1% | 99.0% |  |
+| 131 | 2% | 98% |  |
+| 132 | 3% | 96% |  |
+| 133 | 5% | 92% |  |
+| 134 | 7% | 87% |  |
+| 135 | 9% | 80% |  |
+| 136 | 11% | 71% |  |
+| 137 | 11% | 60% | Median |
+| 138 | 11% | 49% |  |
+| 139 | 10% | 37% |  |
+| 140 | 9% | 27% |  |
+| 141 | 7% | 18% |  |
+| 142 | 5% | 12% |  |
+| 143 | 3% | 7% |  |
+| 144 | 2% | 4% |  |
+| 145 | 1.1% | 2% |  |
+| 146 | 0.5% | 1.0% |  |
+| 147 | 0.3% | 0.4% | Last Result |
+| 148 | 0.1% | 0.2% |  |
 | 149 | 0% | 0.1% |  |
 | 150 | 0% | 0% |  |
 

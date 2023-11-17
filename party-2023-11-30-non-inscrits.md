@@ -1,43 +1,41 @@
 # Non-Inscrits
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CY, DE, DK, ES, FI, FR, GR, HR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+23 seats)
+Current median: **48** seats (+19 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, DK, ES, FR, GR, HU, IT, LV, NL, PL, SK
+> CY, DE, DK, ES, FR, GR, HU, IT, LV, NL, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 52 | 48–55 | 47–56 | 46–56 | 44–58 |
+| Non-Inscrits | EU | 29 | 48 | 45–52 | 43–52 | 42–53 | 40–54 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 11–16 | 11–16 | 11–17 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Reconquête | FR | | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
 | SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
-| Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| BoerBurgerBeweging | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| BoerBurgerBeweging | NL | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Nowa Nadzieja | PL | | 2 | 2 | 2 | 2 | 2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ruch Narodowy | PL | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
+| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -46,8 +44,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | REPUBLIKA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
+| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -67,27 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
-| 39 | 0% | 100% |  |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.9% |  |
-| 44 | 0.7% | 99.6% |  |
-| 45 | 1.3% | 98.9% |  |
-| 46 | 2% | 98% |  |
-| 47 | 3% | 95% |  |
-| 48 | 5% | 92% |  |
-| 49 | 7% | 87% |  |
-| 50 | 11% | 79% |  |
-| 51 | 14% | 69% |  |
-| 52 | 16% | 55% | Median |
-| 53 | 15% | 39% |  |
-| 54 | 12% | 25% |  |
-| 55 | 7% | 13% |  |
-| 56 | 4% | 6% |  |
-| 57 | 1.5% | 2% |  |
-| 58 | 0.5% | 0.6% |  |
-| 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0% |  |
+| 39 | 0.1% | 99.9% |  |
+| 40 | 0.4% | 99.8% |  |
+| 41 | 0.9% | 99.4% |  |
+| 42 | 2% | 98.6% |  |
+| 43 | 3% | 97% |  |
+| 44 | 4% | 94% |  |
+| 45 | 6% | 90% |  |
+| 46 | 8% | 85% |  |
+| 47 | 12% | 76% |  |
+| 48 | 15% | 64% | Median |
+| 49 | 16% | 50% |  |
+| 50 | 14% | 34% |  |
+| 51 | 10% | 20% |  |
+| 52 | 6% | 10% |  |
+| 53 | 3% | 4% |  |
+| 54 | 1.1% | 1.5% |  |
+| 55 | 0.3% | 0.4% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 

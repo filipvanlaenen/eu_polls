@@ -1,24 +1,24 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
+> BE, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **11** seats (+11 seats)
+Current median: **10** seats (+10 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> BG, ES, GR, HU, IE, LV, PL
+> ES, GR, HU, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 11 | 9–12 | 9–13 | 8–14 | 8–15 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
 | Movimiento Sumar [ES] (*) | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Konfederacja Korony Polskiej [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
@@ -29,13 +29,12 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Да, България! [BG] (*) | BG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Akcija za promjene [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -51,11 +50,10 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -71,17 +69,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0.3% | 100% |  |
-| 8 | 3% | 99.7% |  |
-| 9 | 15% | 96% |  |
-| 10 | 29% | 82% |  |
-| 11 | 27% | 53% | Median |
-| 12 | 16% | 26% |  |
-| 13 | 7% | 10% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.5% | 0.6% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 3% | 99.8% |  |
+| 8 | 14% | 97% |  |
+| 9 | 29% | 84% |  |
+| 10 | 28% | 54% | Median |
+| 11 | 16% | 26% |  |
+| 12 | 7% | 10% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.5% | 0.6% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
