@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 10 | 8–12 | 8–12 | 7–13 | 7–14 |
+| Parties currently not represented in the EP | EU | 0 | 10 | 8–11 | 8–12 | 7–13 | 7–14 |
 | Movimiento Sumar [ES] (*) | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Konfederacja Korony Polskiej [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.2% | 100% |  |
 | 7 | 3% | 99.8% |  |
 | 8 | 14% | 97% |  |
-| 9 | 29% | 84% |  |
+| 9 | 30% | 83% |  |
 | 10 | 28% | 54% | Median |
 | 11 | 16% | 26% |  |
 | 12 | 7% | 10% |  |
