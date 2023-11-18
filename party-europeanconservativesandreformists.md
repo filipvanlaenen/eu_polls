@@ -22,14 +22,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Fratelli d’Italia | IT | | 25 | 23–26 | 22–27 | 21–28 | 20–28 |
 | Prawo i Sprawiedliwość | PL | | 17 | 17 | 17 | 17 | 17 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Vox | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| Vox | ES | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Občanská demokratická strana | CZ | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
+| Most nezavisnih lista | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suwerenna Polska | PL | | 2 | 2 | 2 | 2 | 2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1 |
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
@@ -65,17 +65,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.1% | 100% |  |
 | 74 | 0.3% | 99.9% |  |
 | 75 | 1.0% | 99.6% |  |
-| 76 | 3% | 98.6% |  |
+| 76 | 2% | 98.6% |  |
 | 77 | 5% | 96% |  |
 | 78 | 9% | 91% |  |
-| 79 | 14% | 81% |  |
-| 80 | 17% | 67% |  |
-| 81 | 17% | 50% | Median |
-| 82 | 14% | 33% |  |
-| 83 | 10% | 18% |  |
+| 79 | 14% | 82% |  |
+| 80 | 17% | 68% |  |
+| 81 | 17% | 51% | Median |
+| 82 | 15% | 34% |  |
+| 83 | 10% | 19% |  |
 | 84 | 5% | 9% |  |
-| 85 | 2% | 4% |  |
-| 86 | 0.9% | 1.3% |  |
+| 85 | 3% | 4% |  |
+| 86 | 1.0% | 1.4% |  |
 | 87 | 0.3% | 0.4% |  |
 | 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |

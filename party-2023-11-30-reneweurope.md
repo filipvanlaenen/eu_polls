@@ -55,6 +55,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -80,13 +81,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 0.1% | 100% |  |
 | 83 | 0.2% | 99.9% |  |
 | 84 | 0.4% | 99.7% |  |
-| 85 | 1.0% | 99.3% |  |
+| 85 | 0.9% | 99.3% |  |
 | 86 | 2% | 98% |  |
 | 87 | 3% | 97% |  |
 | 88 | 5% | 93% |  |
 | 89 | 6% | 89% |  |
-| 90 | 8% | 82% |  |
-| 91 | 9% | 74% |  |
+| 90 | 8% | 83% |  |
+| 91 | 9% | 75% |  |
 | 92 | 10% | 65% |  |
 | 93 | 10% | 55% | Median |
 | 94 | 10% | 45% |  |
