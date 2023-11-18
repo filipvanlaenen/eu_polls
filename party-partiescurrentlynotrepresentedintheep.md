@@ -8,18 +8,17 @@ Members registered from **18 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+8 seats)
+Current median: **7** seats (+7 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> ES, GR, HU, IE, LV, PL
+> GR, HU, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 8 | 6–10 | 6–11 | 6–12 | 5–13 |
-| Movimiento Sumar [ES] (*) | ES | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Konfederacja Korony Polskiej [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
@@ -68,16 +67,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 2% | 99.9% |  |
-| 6 | 13% | 98% |  |
-| 7 | 26% | 84% |  |
-| 8 | 21% | 58% | Median |
-| 9 | 17% | 37% |  |
-| 10 | 11% | 20% |  |
-| 11 | 5% | 9% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.7% | 0.9% |  |
-| 14 | 0.2% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 5 | 3% | 99.9% |  |
+| 6 | 19% | 97% |  |
+| 7 | 37% | 77% | Median |
+| 8 | 24% | 41% |  |
+| 9 | 11% | 17% |  |
+| 10 | 4% | 5% |  |
+| 11 | 1.0% | 1.1% |  |
+| 12 | 0.1% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 
