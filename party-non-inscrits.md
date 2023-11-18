@@ -18,17 +18,18 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 45–52 | 44–52 | 43–53 | 41–55 |
-| Movimento 5 Stelle | IT | | 14 | 12–16 | 11–16 | 11–16 | 11–17 |
-| Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| Non-Inscrits | EU | 29 | 49 | 46–52 | 44–53 | 43–53 | 41–55 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–17 | 9–17 |
+| Fidesz | HU | | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | Reconquête | FR | | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
 | BoerBurgerBeweging | NL | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Mi Hazánk Mozgalom | HU | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nowa Nadzieja | PL | | 2 | 2 | 2 | 2 | 2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jobbik | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ruch Narodowy | PL | | 1 | 1 | 1 | 1 | 1 |
@@ -36,7 +37,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -65,23 +65,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
-| 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.8% |  |
-| 41 | 0.6% | 99.5% |  |
-| 42 | 1.1% | 98.9% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.1% | 99.9% |  |
+| 41 | 0.4% | 99.8% |  |
+| 42 | 1.0% | 99.4% |  |
 | 43 | 2% | 98% |  |
-| 44 | 3% | 96% |  |
-| 45 | 5% | 93% |  |
-| 46 | 8% | 88% |  |
-| 47 | 12% | 80% |  |
-| 48 | 15% | 68% |  |
-| 49 | 16% | 53% | Median |
-| 50 | 15% | 37% |  |
-| 51 | 11% | 22% |  |
-| 52 | 6% | 11% |  |
+| 44 | 2% | 97% |  |
+| 45 | 3% | 94% |  |
+| 46 | 6% | 91% |  |
+| 47 | 11% | 85% |  |
+| 48 | 16% | 74% |  |
+| 49 | 18% | 58% | Median |
+| 50 | 16% | 40% |  |
+| 51 | 12% | 24% |  |
+| 52 | 7% | 12% |  |
 | 53 | 3% | 5% |  |
-| 54 | 1.2% | 2% |  |
-| 55 | 0.4% | 0.5% |  |
+| 54 | 1.3% | 2% |  |
+| 55 | 0.4% | 0.6% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 

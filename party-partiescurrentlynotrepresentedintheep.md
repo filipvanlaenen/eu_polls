@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
+> BE, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -10,19 +10,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **7** seats (+7 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> GR, HU, IE, LV, PL
+> GR, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
+| Parties currently not represented in the EP | EU | 0 | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Konfederacja Korony Polskiej [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
-| Nép Pártján [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OdNowa RP [PL] (*) | PL | | 1 | 1 | 1 | 1 | 1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,12 +41,11 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -66,15 +64,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 3% | 99.9% |  |
-| 6 | 19% | 96% |  |
-| 7 | 37% | 77% | Median |
-| 8 | 24% | 40% |  |
-| 9 | 11% | 16% |  |
-| 10 | 4% | 5% |  |
-| 11 | 0.9% | 1.1% |  |
-| 12 | 0.1% | 0.2% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 4% | 99.8% |  |
+| 6 | 23% | 96% |  |
+| 7 | 40% | 73% | Median |
+| 8 | 20% | 33% |  |
+| 9 | 9% | 13% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.5% | 0.6% |  |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 
