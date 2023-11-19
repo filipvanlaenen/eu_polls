@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **22 countries**:
+Members registered from **21 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, SE, SI
 
 ## Seats
 
@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 47–55 | 46–56 | 46–56 | 44–58 |
+| Greens–European Free Alliance | EU | 67 | 51 | 47–54 | 46–55 | 46–56 | 44–58 |
 | Bündnis 90/Die Grünen | DE | | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | Europe Écologie Les Verts | FR | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -40,7 +40,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -67,20 +66,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
 | 44 | 0.6% | 99.7% |  |
-| 45 | 1.4% | 99.1% |  |
+| 45 | 1.5% | 99.1% |  |
 | 46 | 3% | 98% |  |
 | 47 | 5% | 95% |  |
-| 48 | 8% | 90% |  |
+| 48 | 8% | 89% |  |
 | 49 | 11% | 81% |  |
-| 50 | 14% | 70% |  |
-| 51 | 14% | 57% | Median |
-| 52 | 13% | 42% |  |
-| 53 | 11% | 29% |  |
-| 54 | 8% | 18% |  |
+| 50 | 14% | 69% |  |
+| 51 | 14% | 56% | Median |
+| 52 | 13% | 41% |  |
+| 53 | 11% | 28% |  |
+| 54 | 8% | 17% |  |
 | 55 | 5% | 10% |  |
 | 56 | 3% | 5% |  |
-| 57 | 1.4% | 2% |  |
-| 58 | 0.6% | 0.9% |  |
+| 57 | 1.3% | 2% |  |
+| 58 | 0.5% | 0.8% |  |
 | 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |

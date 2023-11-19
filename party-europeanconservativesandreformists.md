@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 81 | 78–84 | 77–85 | 76–85 | 75–87 |
+| European Conservatives and Reformists | EU | 61 | 81 | 78–84 | 77–84 | 76–85 | 75–87 |
 | Fratelli d’Italia | IT | | 25 | 23–27 | 22–27 | 22–28 | 21–28 |
 | Prawo i Sprawiedliwość | PL | | 17 | 17 | 17 | 17 | 17 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -40,7 +40,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -64,20 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0% | 100% |  |
 | 73 | 0% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
-| 75 | 0.7% | 99.8% |  |
-| 76 | 2% | 99.1% |  |
+| 75 | 0.7% | 99.7% |  |
+| 76 | 2% | 99.0% |  |
 | 77 | 5% | 97% |  |
-| 78 | 9% | 93% |  |
-| 79 | 13% | 84% |  |
-| 80 | 16% | 71% |  |
-| 81 | 17% | 55% | Median |
-| 82 | 15% | 38% |  |
-| 83 | 11% | 23% |  |
-| 84 | 7% | 12% |  |
-| 85 | 3% | 6% |  |
-| 86 | 1.5% | 2% |  |
-| 87 | 0.5% | 0.7% |  |
-| 88 | 0.1% | 0.2% |  |
+| 78 | 9% | 92% |  |
+| 79 | 13% | 83% |  |
+| 80 | 16% | 70% |  |
+| 81 | 17% | 53% | Median |
+| 82 | 15% | 36% |  |
+| 83 | 11% | 22% |  |
+| 84 | 6% | 11% |  |
+| 85 | 3% | 5% |  |
+| 86 | 1.3% | 2% |  |
+| 87 | 0.4% | 0.6% |  |
+| 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |
 
 
