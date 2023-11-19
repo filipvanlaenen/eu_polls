@@ -35,11 +35,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
 | Ελληνική Λύση | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
-| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -62,21 +62,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0% | 100% |  |
-| 73 | 0.1% | 100% |  |
+| 73 | 0% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
-| 75 | 0.8% | 99.7% |  |
-| 76 | 2% | 98.9% |  |
+| 75 | 0.7% | 99.8% |  |
+| 76 | 2% | 99.1% |  |
 | 77 | 5% | 97% |  |
-| 78 | 9% | 92% |  |
-| 79 | 13% | 83% |  |
-| 80 | 16% | 69% |  |
-| 81 | 16% | 53% | Median |
-| 82 | 14% | 37% |  |
-| 83 | 11% | 22% |  |
+| 78 | 9% | 93% |  |
+| 79 | 13% | 84% |  |
+| 80 | 16% | 71% |  |
+| 81 | 17% | 55% | Median |
+| 82 | 15% | 38% |  |
+| 83 | 11% | 23% |  |
 | 84 | 7% | 12% |  |
-| 85 | 3% | 5% |  |
-| 86 | 1.4% | 2% |  |
-| 87 | 0.4% | 0.6% |  |
+| 85 | 3% | 6% |  |
+| 86 | 1.5% | 2% |  |
+| 87 | 0.5% | 0.7% |  |
 | 88 | 0.1% | 0.2% |  |
 | 89 | 0% | 0% |  |
 
