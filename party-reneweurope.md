@@ -18,24 +18,24 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 93 | 88–98 | 87–99 | 86–101 | 84–103 |
+| Renew Europe | EU | 98 | 93 | 88–98 | 87–100 | 86–101 | 84–103 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 17–20 | 16–21 | 16–21 | 16–22 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | Polska 2050 | PL | | 4 | 4 | 4 | 4 | 4 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Gibanje Svoboda | SI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Progresívne Slovensko | SK | | 3 | 3 | 3 | 3 | 3 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Democraten 66 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Democraten 66 | NL | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,24 +83,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.9% | 99.4% |  |
 | 86 | 2% | 98.6% |  |
 | 87 | 3% | 97% |  |
-| 88 | 5% | 94% |  |
-| 89 | 6% | 89% |  |
+| 88 | 4% | 94% |  |
+| 89 | 6% | 90% |  |
 | 90 | 8% | 83% |  |
-| 91 | 9% | 75% |  |
-| 92 | 10% | 66% |  |
-| 93 | 10% | 56% | Median |
-| 94 | 10% | 46% |  |
-| 95 | 9% | 36% |  |
-| 96 | 8% | 27% |  |
-| 97 | 6% | 19% |  |
+| 91 | 9% | 76% |  |
+| 92 | 10% | 67% |  |
+| 93 | 10% | 57% | Median |
+| 94 | 10% | 47% |  |
+| 95 | 9% | 37% |  |
+| 96 | 8% | 28% |  |
+| 97 | 6% | 20% |  |
 | 98 | 5% | 13% | Last Result |
-| 99 | 3% | 8% |  |
+| 99 | 3% | 9% |  |
 | 100 | 2% | 5% |  |
-| 101 | 1.3% | 3% |  |
-| 102 | 0.7% | 1.4% |  |
+| 101 | 1.4% | 3% |  |
+| 102 | 0.8% | 2% |  |
 | 103 | 0.4% | 0.7% |  |
 | 104 | 0.2% | 0.3% |  |
 | 105 | 0.1% | 0.1% |  |
-| 106 | 0% | 0% |  |
+| 106 | 0% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 

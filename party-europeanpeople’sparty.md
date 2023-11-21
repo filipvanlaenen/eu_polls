@@ -18,16 +18,16 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 171 | 166–176 | 165–178 | 164–179 | 161–181 |
+| European People’s Party | EU | 187 | 171 | 166–176 | 164–177 | 163–179 | 161–181 |
 | Partido Popular | ES | | 25 | 23–26 | 23–27 | 22–28 | 21–29 |
-| Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 20–25 | 20–25 | 19–26 |
+| Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 19–24 | 19–25 | 18–25 |
 | Platforma Obywatelska | PL | | 16 | 16 | 16 | 16 | 16 |
 | Partidul Național Liberal | RO | | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
-| Nieuw Sociaal Contract | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| Nieuw Sociaal Contract | NL | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Forza Italia | IT | | 5 | 4–6 | 3–7 | 3–7 | 2–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -45,7 +45,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| ChristenUnie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -57,6 +56,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Christen-Democratisch Appèl | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -83,30 +83,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0% | 100% |  |
+| 158 | 0.1% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.1% | 99.9% |  |
-| 161 | 0.3% | 99.7% |  |
-| 162 | 0.6% | 99.4% |  |
-| 163 | 1.0% | 98.9% |  |
-| 164 | 2% | 98% |  |
-| 165 | 3% | 96% |  |
-| 166 | 4% | 93% |  |
-| 167 | 6% | 89% |  |
-| 168 | 7% | 83% |  |
-| 169 | 9% | 76% |  |
-| 170 | 10% | 67% |  |
-| 171 | 10% | 57% | Median |
-| 172 | 10% | 47% |  |
-| 173 | 9% | 37% |  |
-| 174 | 8% | 27% |  |
-| 175 | 6% | 20% |  |
-| 176 | 5% | 13% |  |
-| 177 | 3% | 9% |  |
+| 160 | 0.2% | 99.8% |  |
+| 161 | 0.4% | 99.6% |  |
+| 162 | 0.8% | 99.1% |  |
+| 163 | 1.4% | 98% |  |
+| 164 | 2% | 97% |  |
+| 165 | 4% | 95% |  |
+| 166 | 5% | 91% |  |
+| 167 | 7% | 86% |  |
+| 168 | 8% | 80% |  |
+| 169 | 9% | 72% |  |
+| 170 | 10% | 62% |  |
+| 171 | 10% | 52% | Median |
+| 172 | 10% | 42% |  |
+| 173 | 8% | 33% |  |
+| 174 | 7% | 24% |  |
+| 175 | 6% | 17% |  |
+| 176 | 4% | 12% |  |
+| 177 | 3% | 8% |  |
 | 178 | 2% | 5% |  |
-| 179 | 1.4% | 3% |  |
-| 180 | 0.8% | 2% |  |
-| 181 | 0.4% | 0.9% |  |
+| 179 | 1.2% | 3% |  |
+| 180 | 0.7% | 2% |  |
+| 181 | 0.4% | 0.8% |  |
 | 182 | 0.2% | 0.4% |  |
 | 183 | 0.1% | 0.2% |  |
 | 184 | 0.1% | 0.1% |  |

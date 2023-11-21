@@ -18,26 +18,26 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 134–143 | 133–144 | 132–146 | 130–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 135–144 | 134–145 | 133–146 | 130–148 |
 | Partido Socialista Obrero Español | ES | | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
 | Partito Democratico | IT | | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
+| Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–18 | 13–18 | 13–18 | 12–19 |
 | Partidul Social Democrat | RO | | 12 | 11–12 | 11–13 | 11–13 | 10–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | Parti socialiste | FR | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | Partido Socialista | PT | | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Demokratikus Koalíció | HU | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 3 | 3 | 3 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Nowa Lewica | PL | | 3 | 3 | 3 | 3 | 3 |
+| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -63,28 +63,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 128 | 0.1% | 100% |  |
-| 129 | 0.2% | 99.9% |  |
-| 130 | 0.4% | 99.7% |  |
-| 131 | 0.9% | 99.2% |  |
-| 132 | 2% | 98% |  |
-| 133 | 3% | 97% |  |
-| 134 | 4% | 94% |  |
-| 135 | 6% | 89% |  |
-| 136 | 8% | 83% |  |
-| 137 | 10% | 75% |  |
-| 138 | 11% | 64% |  |
-| 139 | 12% | 53% | Median |
-| 140 | 11% | 41% |  |
-| 141 | 9% | 31% |  |
-| 142 | 7% | 21% |  |
-| 143 | 5% | 14% |  |
-| 144 | 4% | 8% |  |
-| 145 | 2% | 5% |  |
-| 146 | 1.3% | 3% |  |
-| 147 | 0.7% | 1.3% | Last Result |
-| 148 | 0.3% | 0.6% |  |
-| 149 | 0.2% | 0.3% |  |
-| 150 | 0.1% | 0.1% |  |
-| 151 | 0% | 0% |  |
+| 129 | 0.1% | 99.9% |  |
+| 130 | 0.3% | 99.8% |  |
+| 131 | 0.6% | 99.5% |  |
+| 132 | 1.2% | 98.9% |  |
+| 133 | 2% | 98% |  |
+| 134 | 4% | 95% |  |
+| 135 | 5% | 92% |  |
+| 136 | 7% | 87% |  |
+| 137 | 9% | 79% |  |
+| 138 | 11% | 70% |  |
+| 139 | 12% | 59% | Median |
+| 140 | 11% | 48% |  |
+| 141 | 10% | 37% |  |
+| 142 | 9% | 26% |  |
+| 143 | 7% | 18% |  |
+| 144 | 5% | 11% |  |
+| 145 | 3% | 7% |  |
+| 146 | 2% | 4% |  |
+| 147 | 1.0% | 2% | Last Result |
+| 148 | 0.5% | 0.9% |  |
+| 149 | 0.2% | 0.4% |  |
+| 150 | 0.1% | 0.2% |  |
+| 151 | 0% | 0.1% |  |
+| 152 | 0% | 0% |  |
 
 
