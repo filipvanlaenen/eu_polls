@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **171** seats (-16 seats)
+Current median: **169** seats (-18 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 171 | 166–176 | 164–177 | 163–179 | 161–181 |
+| European People’s Party | EU | 187 | 169 | 164–174 | 163–176 | 162–177 | 159–180 |
 | Partido Popular | ES | | 25 | 23–26 | 23–27 | 22–28 | 21–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 19–24 | 19–25 | 18–25 |
 | Platforma Obywatelska | PL | | 16 | 16 | 16 | 16 | 16 |
@@ -27,9 +27,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partido Social Democrata | PT | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
-| Nieuw Sociaal Contract | NL | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Forza Italia | IT | | 5 | 4–6 | 3–7 | 3–7 | 2–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| Nieuw Sociaal Contract | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fine Gael | IE | | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -56,7 +56,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Christen-Democratisch Appèl | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -83,33 +83,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0.1% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.4% | 99.6% |  |
-| 162 | 0.8% | 99.1% |  |
-| 163 | 1.4% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 4% | 95% |  |
-| 166 | 5% | 91% |  |
-| 167 | 7% | 86% |  |
-| 168 | 8% | 80% |  |
-| 169 | 9% | 72% |  |
-| 170 | 10% | 62% |  |
-| 171 | 10% | 52% | Median |
-| 172 | 10% | 42% |  |
-| 173 | 8% | 33% |  |
-| 174 | 7% | 24% |  |
-| 175 | 6% | 17% |  |
-| 176 | 4% | 12% |  |
-| 177 | 3% | 8% |  |
-| 178 | 2% | 5% |  |
-| 179 | 1.2% | 3% |  |
-| 180 | 0.7% | 2% |  |
-| 181 | 0.4% | 0.8% |  |
-| 182 | 0.2% | 0.4% |  |
-| 183 | 0.1% | 0.2% |  |
-| 184 | 0.1% | 0.1% |  |
+| 156 | 0% | 100% |  |
+| 157 | 0.1% | 99.9% |  |
+| 158 | 0.1% | 99.9% |  |
+| 159 | 0.3% | 99.7% |  |
+| 160 | 0.6% | 99.4% |  |
+| 161 | 1.0% | 98.9% |  |
+| 162 | 2% | 98% |  |
+| 163 | 3% | 96% |  |
+| 164 | 4% | 93% |  |
+| 165 | 6% | 89% |  |
+| 166 | 7% | 84% |  |
+| 167 | 9% | 77% |  |
+| 168 | 10% | 68% |  |
+| 169 | 10% | 59% | Median |
+| 170 | 10% | 48% |  |
+| 171 | 9% | 39% |  |
+| 172 | 8% | 29% |  |
+| 173 | 7% | 21% |  |
+| 174 | 5% | 15% |  |
+| 175 | 4% | 10% |  |
+| 176 | 2% | 6% |  |
+| 177 | 2% | 4% |  |
+| 178 | 1.0% | 2% |  |
+| 179 | 0.6% | 1.1% |  |
+| 180 | 0.3% | 0.6% |  |
+| 181 | 0.2% | 0.3% |  |
+| 182 | 0.1% | 0.1% |  |
+| 183 | 0% | 0.1% |  |
+| 184 | 0% | 0% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |
 | 187 | 0% | 0% | Last Result |
