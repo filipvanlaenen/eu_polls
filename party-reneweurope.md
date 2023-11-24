@@ -25,7 +25,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Polska 2050 | PL | | 4 | 4 | 4 | 4 | 4 |
-| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–6 |
+| Freie Wähler | DE | | 3 | 2–3 | 2–4 | 2–4 | 1–6 |
 | Gibanje Svoboda | SI | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Progresívne Slovensko | SK | | 3 | 3 | 3 | 3 | 3 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -47,7 +47,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -56,7 +56,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -86,13 +86,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 7% | 87% |  |
 | 88 | 9% | 80% |  |
 | 89 | 10% | 71% |  |
-| 90 | 10% | 61% |  |
-| 91 | 10% | 51% | Median |
-| 92 | 9% | 41% |  |
+| 90 | 10% | 62% |  |
+| 91 | 10% | 52% | Median |
+| 92 | 9% | 42% |  |
 | 93 | 8% | 32% |  |
 | 94 | 7% | 24% |  |
-| 95 | 5% | 17% |  |
-| 96 | 4% | 11% |  |
+| 95 | 6% | 17% |  |
+| 96 | 4% | 12% |  |
 | 97 | 3% | 7% |  |
 | 98 | 2% | 4% | Last Result |
 | 99 | 1.2% | 2% |  |

@@ -24,7 +24,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Die Linke | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Bloco de Esquerda | PT | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Bloco de Esquerda | PT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
@@ -32,12 +32,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Sinistra Italiana | IT | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Sinistra Italiana | IT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,14 +62,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 3% | 98.6% |  |
 | 36 | 6% | 96% |  |
 | 37 | 10% | 90% |  |
-| 38 | 15% | 80% |  |
+| 38 | 15% | 79% |  |
 | 39 | 17% | 65% | Last Result, Median |
-| 40 | 17% | 48% |  |
+| 40 | 17% | 47% |  |
 | 41 | 13% | 31% |  |
 | 42 | 9% | 18% |  |
 | 43 | 5% | 9% |  |
 | 44 | 2% | 4% |  |
-| 45 | 0.9% | 1.4% |  |
+| 45 | 0.9% | 1.3% |  |
 | 46 | 0.3% | 0.4% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
