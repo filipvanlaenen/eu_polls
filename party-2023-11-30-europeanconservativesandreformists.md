@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (+20 seats)
+Current median: **82** seats (+21 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 81 | 78–84 | 77–85 | 76–85 | 75–87 |
+| European Conservatives and Reformists | EU | 61 | 82 | 79–86 | 78–87 | 77–88 | 75–89 |
 | Fratelli d’Italia | IT | | 25 | 22–27 | 22–28 | 21–28 | 21–28 |
-| Prawo i Sprawiedliwość | PL | | 17 | 17 | 17 | 17 | 17 |
+| Zjednoczona Prawica | PL | | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Vox | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -28,11 +28,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Most nezavisnih lista | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suwerenna Polska | PL | | 2 | 2 | 2 | 2 | 2 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 1 |
-| Slovenská národná strana | SK | | 1 | 1 | 1 | 1 | 1 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ελληνική Λύση | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -62,22 +61,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0% | 100% |  |
 | 72 | 0% | 100% |  |
-| 73 | 0.1% | 100% |  |
-| 74 | 0.3% | 99.9% |  |
-| 75 | 1.0% | 99.7% |  |
-| 76 | 3% | 98.7% |  |
-| 77 | 6% | 96% |  |
-| 78 | 10% | 90% |  |
-| 79 | 14% | 80% |  |
-| 80 | 16% | 67% |  |
-| 81 | 16% | 51% | Median |
-| 82 | 14% | 35% |  |
-| 83 | 10% | 21% |  |
-| 84 | 6% | 11% |  |
-| 85 | 3% | 5% |  |
-| 86 | 1.3% | 2% |  |
-| 87 | 0.4% | 0.6% |  |
-| 88 | 0.1% | 0.1% |  |
-| 89 | 0% | 0% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0.1% | 100% |  |
+| 75 | 0.4% | 99.8% |  |
+| 76 | 1.1% | 99.4% |  |
+| 77 | 3% | 98% |  |
+| 78 | 5% | 96% |  |
+| 79 | 8% | 91% |  |
+| 80 | 11% | 83% |  |
+| 81 | 13% | 72% |  |
+| 82 | 14% | 58% | Median |
+| 83 | 13% | 44% |  |
+| 84 | 11% | 31% |  |
+| 85 | 8% | 19% |  |
+| 86 | 5% | 11% |  |
+| 87 | 3% | 6% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.7% | 1.0% |  |
+| 90 | 0.3% | 0.4% |  |
+| 91 | 0.1% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 

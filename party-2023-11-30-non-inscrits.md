@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+20 seats)
+Current median: **51** seats (+22 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,31 +18,31 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 46–52 | 45–53 | 44–53 | 42–55 |
+| Non-Inscrits | EU | 29 | 51 | 47–54 | 46–55 | 45–55 | 43–57 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–17 | 9–17 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Reconquête | FR | | 6 | 5–7 | 4–8 | 4–8 | 0–8 |
-| SMER–sociálna demokracia | SK | | 4 | 4 | 4 | 4 | 4 |
+| Nowa Nadzieja–Ruch Narodowy | PL | | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
+| SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Nowa Nadzieja | PL | | 2 | 2 | 2 | 2 | 2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| BoerBurgerBeweging | NL | | 1 | 1 | 1 | 1 | 0–2 |
+| BoerBurgerBeweging | NL | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Ruch Narodowy | PL | | 1 | 1 | 1 | 1 | 1 |
+| REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
-| REPUBLIKA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0–1 |
@@ -66,23 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
-| 40 | 0.1% | 99.9% |  |
-| 41 | 0.3% | 99.8% |  |
-| 42 | 0.5% | 99.6% |  |
-| 43 | 0.9% | 99.1% |  |
-| 44 | 2% | 98% |  |
-| 45 | 4% | 96% |  |
-| 46 | 7% | 93% |  |
-| 47 | 12% | 85% |  |
-| 48 | 16% | 73% |  |
-| 49 | 18% | 57% | Median |
-| 50 | 16% | 40% |  |
-| 51 | 12% | 24% |  |
-| 52 | 7% | 13% |  |
-| 53 | 3% | 6% |  |
-| 54 | 1.4% | 2% |  |
-| 55 | 0.5% | 0.6% |  |
-| 56 | 0.1% | 0.2% |  |
-| 57 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.1% | 99.9% |  |
+| 42 | 0.2% | 99.8% |  |
+| 43 | 0.5% | 99.6% |  |
+| 44 | 0.9% | 99.1% |  |
+| 45 | 2% | 98% |  |
+| 46 | 3% | 96% |  |
+| 47 | 6% | 93% |  |
+| 48 | 9% | 88% |  |
+| 49 | 13% | 79% |  |
+| 50 | 15% | 66% |  |
+| 51 | 16% | 50% | Median |
+| 52 | 14% | 35% |  |
+| 53 | 10% | 21% |  |
+| 54 | 6% | 11% |  |
+| 55 | 3% | 5% |  |
+| 56 | 1.4% | 2% |  |
+| 57 | 0.5% | 0.7% |  |
+| 58 | 0.2% | 0.2% |  |
+| 59 | 0% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 
