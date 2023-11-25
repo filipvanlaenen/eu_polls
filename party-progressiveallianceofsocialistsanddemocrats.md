@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 134–144 | 133–145 | 131–146 | 129–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 134–144 | 133–145 | 131–146 | 129–149 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–22 | 19–23 | 19–23 | 18–25 |
 | Partito Democratico | IT | | 17 | 15–18 | 14–19 | 13–19 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
@@ -42,7 +42,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Social Democrats | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -63,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 127 | 0.1% | 100% |  |
 | 128 | 0.2% | 99.9% |  |
-| 129 | 0.4% | 99.7% |  |
+| 129 | 0.3% | 99.7% |  |
 | 130 | 0.7% | 99.4% |  |
 | 131 | 1.2% | 98.7% |  |
 | 132 | 2% | 97% |  |
 | 133 | 3% | 95% |  |
 | 134 | 4% | 92% |  |
 | 135 | 6% | 88% |  |
-| 136 | 8% | 82% |  |
-| 137 | 9% | 74% |  |
-| 138 | 10% | 65% |  |
+| 136 | 7% | 82% |  |
+| 137 | 9% | 75% |  |
+| 138 | 10% | 66% |  |
 | 139 | 10% | 56% | Median |
 | 140 | 10% | 45% |  |
 | 141 | 9% | 35% |  |

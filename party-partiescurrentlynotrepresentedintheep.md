@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–6 | 2–7 | 2–8 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–7 | 2–7 | 2–8 |
 | Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -31,6 +31,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Dobra država [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -52,7 +53,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -69,12 +70,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.2% | 100% |  |
 | 2 | 4% | 99.8% |  |
 | 3 | 20% | 96% |  |
-| 4 | 40% | 75% | Median |
-| 5 | 21% | 36% |  |
-| 6 | 10% | 14% |  |
+| 4 | 39% | 76% | Median |
+| 5 | 22% | 37% |  |
+| 6 | 10% | 15% |  |
 | 7 | 4% | 5% |  |
-| 8 | 0.8% | 1.0% |  |
-| 9 | 0.2% | 0.2% |  |
+| 8 | 0.9% | 1.2% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 173 | 167–178 | 166–179 | 164–181 | 162–183 |
+| European People’s Party | EU | 187 | 173 | 167–178 | 166–180 | 165–181 | 162–183 |
 | Partido Popular | ES | | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 19–25 | 19–26 | 18–26 |
 | Platforma Obywatelska | PL | | 17 | 15–19 | 14–19 | 14–19 | 14–20 |
@@ -52,7 +52,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–2 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 1 | 1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -84,34 +84,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0.1% | 100% |  |
+| 159 | 0% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
 | 162 | 0.4% | 99.6% |  |
-| 163 | 0.7% | 99.2% |  |
-| 164 | 1.2% | 98% |  |
-| 165 | 2% | 97% |  |
-| 166 | 3% | 95% |  |
+| 163 | 0.6% | 99.3% |  |
+| 164 | 1.1% | 98.6% |  |
+| 165 | 2% | 98% |  |
+| 166 | 3% | 96% |  |
 | 167 | 4% | 93% |  |
-| 168 | 5% | 89% |  |
-| 169 | 7% | 84% |  |
-| 170 | 8% | 77% |  |
-| 171 | 9% | 69% |  |
-| 172 | 10% | 60% |  |
-| 173 | 10% | 51% | Median |
-| 174 | 9% | 41% |  |
-| 175 | 8% | 32% |  |
-| 176 | 7% | 24% |  |
-| 177 | 5% | 17% |  |
-| 178 | 4% | 12% |  |
-| 179 | 3% | 7% |  |
+| 168 | 5% | 90% |  |
+| 169 | 6% | 85% |  |
+| 170 | 8% | 78% |  |
+| 171 | 9% | 71% |  |
+| 172 | 9% | 62% |  |
+| 173 | 10% | 53% | Median |
+| 174 | 9% | 43% |  |
+| 175 | 8% | 34% |  |
+| 176 | 7% | 26% |  |
+| 177 | 6% | 18% |  |
+| 178 | 4% | 13% |  |
+| 179 | 3% | 8% |  |
 | 180 | 2% | 5% |  |
-| 181 | 1.2% | 3% |  |
-| 182 | 0.7% | 1.4% |  |
-| 183 | 0.4% | 0.8% |  |
-| 184 | 0.2% | 0.4% |  |
+| 181 | 1.3% | 3% |  |
+| 182 | 0.8% | 2% |  |
+| 183 | 0.4% | 0.9% |  |
+| 184 | 0.2% | 0.5% |  |
 | 185 | 0.1% | 0.2% |  |
-| 186 | 0% | 0.1% |  |
+| 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0% | Last Result |
 
 
