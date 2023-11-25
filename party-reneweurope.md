@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 86 | 82–91 | 80–93 | 79–94 | 78–96 |
+| Renew Europe | EU | 98 | 86 | 81–91 | 80–93 | 79–94 | 78–96 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -32,7 +32,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 2 |
 | Fianna Fáil | IE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Momentum Mozgalom | HU | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,6 +43,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Momentum Mozgalom | HU | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -54,7 +54,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -77,28 +76,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0.1% | 100% |  |
-| 77 | 0.3% | 99.9% |  |
-| 78 | 0.7% | 99.6% |  |
-| 79 | 1.5% | 98.9% |  |
+| 77 | 0.3% | 99.8% |  |
+| 78 | 0.8% | 99.5% |  |
+| 79 | 2% | 98.7% |  |
 | 80 | 3% | 97% |  |
-| 81 | 4% | 95% |  |
-| 82 | 6% | 90% |  |
-| 83 | 8% | 84% |  |
-| 84 | 9% | 76% |  |
-| 85 | 10% | 67% |  |
-| 86 | 10% | 57% | Median |
-| 87 | 10% | 47% |  |
-| 88 | 9% | 37% |  |
-| 89 | 8% | 28% |  |
-| 90 | 6% | 20% |  |
-| 91 | 5% | 14% |  |
-| 92 | 4% | 9% |  |
+| 81 | 5% | 94% |  |
+| 82 | 6% | 89% |  |
+| 83 | 8% | 83% |  |
+| 84 | 9% | 75% |  |
+| 85 | 10% | 65% |  |
+| 86 | 10% | 55% | Median |
+| 87 | 10% | 45% |  |
+| 88 | 9% | 35% |  |
+| 89 | 8% | 27% |  |
+| 90 | 6% | 19% |  |
+| 91 | 5% | 13% |  |
+| 92 | 3% | 8% |  |
 | 93 | 2% | 5% |  |
-| 94 | 1.5% | 3% |  |
+| 94 | 1.4% | 3% |  |
 | 95 | 0.8% | 2% |  |
-| 96 | 0.5% | 0.8% |  |
-| 97 | 0.2% | 0.4% |  |
-| 98 | 0.1% | 0.2% | Last Result |
+| 96 | 0.4% | 0.8% |  |
+| 97 | 0.2% | 0.3% |  |
+| 98 | 0.1% | 0.1% | Last Result |
 | 99 | 0% | 0.1% |  |
 | 100 | 0% | 0% |  |
 

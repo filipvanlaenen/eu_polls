@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **52** seats (-15 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 48–55 | 47–56 | 46–57 | 44–59 |
+| Greens–European Free Alliance | EU | 67 | 52 | 48–55 | 47–56 | 46–57 | 44–59 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–16 | 12–16 | 11–16 | 11–18 |
 | Europe Écologie Les Verts | FR | | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
@@ -73,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 7% | 92% |  |
 | 49 | 10% | 86% |  |
 | 50 | 12% | 76% |  |
-| 51 | 14% | 64% | Median |
-| 52 | 14% | 50% |  |
+| 51 | 14% | 64% |  |
+| 52 | 14% | 50% | Median |
 | 53 | 12% | 36% |  |
 | 54 | 10% | 24% |  |
 | 55 | 7% | 14% |  |

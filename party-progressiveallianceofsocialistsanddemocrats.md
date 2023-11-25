@@ -27,7 +27,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Parti socialiste | FR | | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | Partido Socialista | PT | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Demokratikus Koalíció | HU | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| Demokratikus Koalíció | HU | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | Socialdemokraterne | DK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -49,7 +49,6 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Lietuvos regionų partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
-| Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -65,28 +64,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 0.1% | 100% |  |
 | 128 | 0.2% | 99.9% |  |
 | 129 | 0.4% | 99.7% |  |
-| 130 | 0.7% | 99.3% |  |
-| 131 | 1.3% | 98.6% |  |
+| 130 | 0.7% | 99.4% |  |
+| 131 | 1.2% | 98.7% |  |
 | 132 | 2% | 97% |  |
 | 133 | 3% | 95% |  |
-| 134 | 5% | 92% |  |
-| 135 | 6% | 87% |  |
-| 136 | 8% | 81% |  |
-| 137 | 9% | 73% |  |
-| 138 | 10% | 64% |  |
-| 139 | 10% | 54% | Median |
-| 140 | 10% | 44% |  |
-| 141 | 9% | 34% |  |
-| 142 | 8% | 24% |  |
-| 143 | 6% | 17% |  |
-| 144 | 4% | 11% |  |
+| 134 | 4% | 92% |  |
+| 135 | 6% | 88% |  |
+| 136 | 8% | 82% |  |
+| 137 | 9% | 74% |  |
+| 138 | 10% | 65% |  |
+| 139 | 10% | 56% | Median |
+| 140 | 10% | 45% |  |
+| 141 | 9% | 35% |  |
+| 142 | 8% | 26% |  |
+| 143 | 6% | 18% |  |
+| 144 | 5% | 12% |  |
 | 145 | 3% | 7% |  |
 | 146 | 2% | 4% |  |
-| 147 | 1.0% | 2% | Last Result |
-| 148 | 0.5% | 0.9% |  |
-| 149 | 0.2% | 0.4% |  |
+| 147 | 1.1% | 2% | Last Result |
+| 148 | 0.6% | 1.1% |  |
+| 149 | 0.3% | 0.5% |  |
 | 150 | 0.1% | 0.2% |  |
-| 151 | 0% | 0.1% |  |
+| 151 | 0.1% | 0.1% |  |
 | 152 | 0% | 0% |  |
 
 
