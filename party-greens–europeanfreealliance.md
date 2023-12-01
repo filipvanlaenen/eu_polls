@@ -10,9 +10,9 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **50** seats (-17 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, IT, LT, LV, NL, PT, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, PT, SE
 
 ### Confidence Intervals
 
@@ -26,7 +26,6 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
@@ -43,6 +42,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
+| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,18 +66,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
 | 42 | 0.2% | 99.9% |  |
-| 43 | 0.6% | 99.7% |  |
-| 44 | 1.3% | 99.1% |  |
-| 45 | 2% | 98% |  |
-| 46 | 4% | 95% |  |
-| 47 | 7% | 91% |  |
-| 48 | 10% | 84% |  |
+| 43 | 0.6% | 99.6% |  |
+| 44 | 1.3% | 99.0% |  |
+| 45 | 3% | 98% |  |
+| 46 | 5% | 95% |  |
+| 47 | 7% | 90% |  |
+| 48 | 10% | 83% |  |
 | 49 | 12% | 74% |  |
-| 50 | 13% | 63% | Median |
+| 50 | 13% | 62% | Median |
 | 51 | 13% | 49% |  |
-| 52 | 12% | 36% |  |
-| 53 | 9% | 25% |  |
-| 54 | 7% | 15% |  |
+| 52 | 11% | 36% |  |
+| 53 | 9% | 24% |  |
+| 54 | 6% | 15% |  |
 | 55 | 4% | 9% |  |
 | 56 | 2% | 5% |  |
 | 57 | 1.2% | 2% |  |
