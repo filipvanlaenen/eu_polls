@@ -55,7 +55,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -88,8 +88,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 10% | 59% | Median |
 | 87 | 10% | 49% |  |
 | 88 | 9% | 39% |  |
-| 89 | 8% | 29% |  |
-| 90 | 7% | 21% |  |
+| 89 | 8% | 30% |  |
+| 90 | 7% | 22% |  |
 | 91 | 5% | 15% |  |
 | 92 | 4% | 10% |  |
 | 93 | 3% | 6% |  |

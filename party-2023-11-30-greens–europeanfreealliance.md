@@ -8,17 +8,17 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **50** seats (-17 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, IT, LT, LV, NL, PT, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 48–55 | 47–56 | 46–57 | 44–59 |
+| Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 45–55 | 44–56 | 43–58 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–16 | 12–16 | 11–16 | 11–18 |
 | Europe Écologie Les Verts | FR | | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
@@ -26,7 +26,6 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Europa Verde | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
@@ -43,6 +42,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
+| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,25 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 0.5% | 99.7% |  |
-| 45 | 1.1% | 99.3% |  |
-| 46 | 2% | 98% |  |
-| 47 | 4% | 96% |  |
-| 48 | 7% | 92% |  |
-| 49 | 10% | 84% |  |
-| 50 | 13% | 74% |  |
-| 51 | 14% | 62% | Median |
-| 52 | 14% | 47% |  |
-| 53 | 12% | 34% |  |
-| 54 | 9% | 22% |  |
-| 55 | 6% | 13% |  |
-| 56 | 4% | 7% |  |
-| 57 | 2% | 3% |  |
-| 58 | 0.8% | 1.3% |  |
-| 59 | 0.3% | 0.5% |  |
-| 60 | 0.1% | 0.2% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 0.3% | 99.9% |  |
+| 43 | 0.7% | 99.6% |  |
+| 44 | 1.5% | 98.9% |  |
+| 45 | 3% | 97% |  |
+| 46 | 5% | 95% |  |
+| 47 | 8% | 90% |  |
+| 48 | 10% | 82% |  |
+| 49 | 12% | 72% |  |
+| 50 | 13% | 60% | Median |
+| 51 | 13% | 47% |  |
+| 52 | 11% | 34% |  |
+| 53 | 9% | 23% |  |
+| 54 | 6% | 14% |  |
+| 55 | 4% | 8% |  |
+| 56 | 2% | 4% |  |
+| 57 | 1.1% | 2% |  |
+| 58 | 0.5% | 0.8% |  |
+| 59 | 0.2% | 0.3% |  |
+| 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
