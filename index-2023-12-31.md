@@ -10,14 +10,14 @@
 
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#european-people’s-party">European People’s Party</a> | 187 | 173 | 167–178 |166–180 | 164–181 | 162–183 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 139 | 134–144 |133–145 | 131–147 | 129–149 |
+| <a href="#european-people’s-party">European People’s Party</a> | 187 | 173 | 167–178 |166–179 | 164–181 | 162–183 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 139 | 134–144 |133–145 | 132–147 | 129–149 |
 | <a href="#renew-europe">Renew Europe</a> | 98 | 86 | 82–91 |81–93 | 80–94 | 78–96 |
 | <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 86 | 83–89 |82–90 | 81–91 | 80–93 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 82 | 79–86 |78–87 | 77–88 | 75–89 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 82 | 79–86 |78–87 | 77–88 | 76–89 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 29 | 51 | 48–54 |46–55 | 45–56 | 43–58 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 50 | 46–54 |45–55 | 44–56 | 43–58 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 37 | 34–40 |33–40 | 33–41 | 32–43 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 37 | 34–40 |34–40 | 33–41 | 32–43 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 4 | 3–6 |3–7 | 2–7 | 2–8 |
 
 ### European People’s Party
@@ -53,7 +53,7 @@
 | 181 | 1.3% | 3% |  |
 | 182 | 0.8% | 2% |  |
 | 183 | 0.4% | 0.9% |  |
-| 184 | 0.2% | 0.5% |  |
+| 184 | 0.2% | 0.4% |  |
 | 185 | 0.1% | 0.2% |  |
 | 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0% | Last Result |
@@ -66,18 +66,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0% | 100% |  |
-| 127 | 0.1% | 99.9% |  |
+| 127 | 0.1% | 100% |  |
 | 128 | 0.2% | 99.9% |  |
 | 129 | 0.4% | 99.7% |  |
-| 130 | 0.7% | 99.3% |  |
+| 130 | 0.7% | 99.4% |  |
 | 131 | 1.2% | 98.7% |  |
-| 132 | 2% | 97% |  |
+| 132 | 2% | 98% |  |
 | 133 | 3% | 96% |  |
 | 134 | 4% | 93% |  |
 | 135 | 6% | 88% |  |
 | 136 | 7% | 83% |  |
-| 137 | 9% | 75% |  |
+| 137 | 9% | 76% |  |
 | 138 | 10% | 67% |  |
 | 139 | 10% | 57% | Median |
 | 140 | 10% | 47% |  |
@@ -105,13 +104,13 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0.1% | 100% |  |
 | 77 | 0.2% | 99.9% |  |
-| 78 | 0.6% | 99.6% |  |
+| 78 | 0.6% | 99.7% |  |
 | 79 | 1.2% | 99.1% |  |
 | 80 | 2% | 98% |  |
 | 81 | 4% | 96% |  |
 | 82 | 6% | 92% |  |
 | 83 | 8% | 86% |  |
-| 84 | 9% | 78% |  |
+| 84 | 9% | 79% |  |
 | 85 | 10% | 69% |  |
 | 86 | 10% | 59% | Median |
 | 87 | 10% | 49% |  |
@@ -138,19 +137,19 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.8% |  |
-| 43 | 0.7% | 99.5% |  |
-| 44 | 2% | 98.8% |  |
+| 42 | 0.3% | 99.9% |  |
+| 43 | 0.7% | 99.6% |  |
+| 44 | 2% | 98.9% |  |
 | 45 | 3% | 97% |  |
 | 46 | 5% | 94% |  |
 | 47 | 8% | 89% |  |
-| 48 | 10% | 81% |  |
-| 49 | 12% | 71% |  |
+| 48 | 10% | 82% |  |
+| 49 | 12% | 72% |  |
 | 50 | 13% | 59% | Median |
-| 51 | 13% | 45% |  |
+| 51 | 13% | 46% |  |
 | 52 | 11% | 33% |  |
-| 53 | 8% | 22% |  |
-| 54 | 6% | 13% |  |
+| 53 | 9% | 22% |  |
+| 54 | 6% | 14% |  |
 | 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.1% | 2% |  |
@@ -182,14 +181,14 @@
 | 82 | 4% | 96% |  |
 | 83 | 8% | 92% |  |
 | 84 | 11% | 84% |  |
-| 85 | 14% | 74% |  |
-| 86 | 15% | 60% | Median |
-| 87 | 14% | 45% |  |
+| 85 | 14% | 73% |  |
+| 86 | 15% | 59% | Median |
+| 87 | 14% | 44% |  |
 | 88 | 12% | 30% |  |
-| 89 | 9% | 18% |  |
+| 89 | 8% | 18% |  |
 | 90 | 5% | 10% |  |
-| 91 | 3% | 5% |  |
-| 92 | 1.2% | 2% |  |
+| 91 | 3% | 4% |  |
+| 92 | 1.1% | 2% |  |
 | 93 | 0.4% | 0.6% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0% |  |
@@ -224,10 +223,10 @@
 | 80 | 11% | 83% |  |
 | 81 | 13% | 72% |  |
 | 82 | 14% | 59% | Median |
-| 83 | 13% | 45% |  |
+| 83 | 13% | 44% |  |
 | 84 | 11% | 31% |  |
 | 85 | 8% | 20% |  |
-| 86 | 6% | 12% |  |
+| 86 | 6% | 11% |  |
 | 87 | 3% | 6% |  |
 | 88 | 2% | 3% |  |
 | 89 | 0.7% | 1.1% |  |

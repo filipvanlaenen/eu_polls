@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 79–86 | 78–87 | 77–88 | 75–89 |
+| European Conservatives and Reformists | EU | 61 | 82 | 79–86 | 78–87 | 77–88 | 76–89 |
 | Fratelli d’Italia | IT | | 25 | 23–28 | 22–28 | 22–29 | 21–29 |
 | Zjednoczona Prawica | PL | | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Vox | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Občanská demokratická strana | CZ | | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
@@ -71,10 +71,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 11% | 83% |  |
 | 81 | 13% | 72% |  |
 | 82 | 14% | 59% | Median |
-| 83 | 13% | 45% |  |
+| 83 | 13% | 44% |  |
 | 84 | 11% | 31% |  |
 | 85 | 8% | 20% |  |
-| 86 | 6% | 12% |  |
+| 86 | 6% | 11% |  |
 | 87 | 3% | 6% |  |
 | 88 | 2% | 3% |  |
 | 89 | 0.7% | 1.1% |  |
