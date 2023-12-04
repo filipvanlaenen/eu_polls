@@ -25,7 +25,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vox | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Občanská demokratická strana | CZ | | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
@@ -64,21 +64,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0% | 100% |  |
 | 74 | 0.1% | 100% |  |
 | 75 | 0.4% | 99.9% |  |
-| 76 | 1.1% | 99.5% |  |
-| 77 | 3% | 98% |  |
+| 76 | 1.0% | 99.5% |  |
+| 77 | 2% | 98% |  |
 | 78 | 5% | 96% |  |
 | 79 | 8% | 91% |  |
 | 80 | 11% | 83% |  |
-| 81 | 14% | 71% |  |
-| 82 | 14% | 58% | Median |
-| 83 | 13% | 44% |  |
-| 84 | 11% | 30% |  |
-| 85 | 8% | 19% |  |
-| 86 | 5% | 11% |  |
+| 81 | 13% | 72% |  |
+| 82 | 14% | 59% | Median |
+| 83 | 13% | 45% |  |
+| 84 | 11% | 31% |  |
+| 85 | 8% | 20% |  |
+| 86 | 6% | 12% |  |
 | 87 | 3% | 6% |  |
 | 88 | 2% | 3% |  |
-| 89 | 0.7% | 1.0% |  |
-| 90 | 0.2% | 0.4% |  |
+| 89 | 0.7% | 1.1% |  |
+| 90 | 0.3% | 0.4% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 

@@ -44,7 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Momentum Mozgalom | HU | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 0–2 |
 | Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
 | Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -69,9 +69,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2023-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2023-12-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2023-11-30.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2023-12-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 0.6% | 99.6% |  |
 | 79 | 1.2% | 99.1% |  |
 | 80 | 2% | 98% |  |
-| 81 | 4% | 95% |  |
+| 81 | 4% | 96% |  |
 | 82 | 6% | 92% |  |
 | 83 | 8% | 86% |  |
 | 84 | 9% | 78% |  |
