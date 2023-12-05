@@ -64,7 +64,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -77,17 +77,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0.1% | 100% |  |
 | 77 | 0.2% | 99.9% |  |
-| 78 | 0.6% | 99.7% |  |
+| 78 | 0.5% | 99.7% |  |
 | 79 | 1.2% | 99.1% |  |
 | 80 | 2% | 98% |  |
 | 81 | 4% | 96% |  |
 | 82 | 6% | 92% |  |
-| 83 | 8% | 86% |  |
+| 83 | 7% | 86% |  |
 | 84 | 9% | 79% |  |
-| 85 | 10% | 69% |  |
-| 86 | 10% | 59% | Median |
-| 87 | 10% | 49% |  |
-| 88 | 9% | 39% |  |
+| 85 | 10% | 70% |  |
+| 86 | 10% | 60% | Median |
+| 87 | 10% | 50% |  |
+| 88 | 9% | 40% |  |
 | 89 | 8% | 30% |  |
 | 90 | 7% | 22% |  |
 | 91 | 5% | 15% |  |

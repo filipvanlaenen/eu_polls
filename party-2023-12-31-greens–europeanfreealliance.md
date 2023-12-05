@@ -36,7 +36,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -65,19 +65,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
+| 42 | 0.3% | 99.8% |  |
 | 43 | 0.7% | 99.6% |  |
-| 44 | 2% | 98.9% |  |
+| 44 | 2% | 98.8% |  |
 | 45 | 3% | 97% |  |
 | 46 | 5% | 94% |  |
 | 47 | 8% | 89% |  |
-| 48 | 10% | 82% |  |
-| 49 | 12% | 72% |  |
+| 48 | 10% | 81% |  |
+| 49 | 12% | 71% |  |
 | 50 | 13% | 59% | Median |
-| 51 | 13% | 46% |  |
+| 51 | 13% | 45% |  |
 | 52 | 11% | 33% |  |
-| 53 | 9% | 22% |  |
-| 54 | 6% | 14% |  |
+| 53 | 8% | 22% |  |
+| 54 | 6% | 13% |  |
 | 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.1% | 2% |  |
