@@ -20,7 +20,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 37 | 34–39 | 33–40 | 33–41 | 32–42 |
 | La France insoumise | FR | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
-| Sinn Féin | IE | | 5 | 5–6 | 5–7 | 5–7 | 5–8 |
+| Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Die Linke | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,16 +60,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.4% | 99.9% |  |
 | 32 | 1.3% | 99.5% |  |
 | 33 | 4% | 98% |  |
-| 34 | 8% | 94% |  |
-| 35 | 14% | 86% |  |
-| 36 | 18% | 72% |  |
+| 34 | 8% | 95% |  |
+| 35 | 14% | 87% |  |
+| 36 | 18% | 73% |  |
 | 37 | 19% | 54% | Median |
-| 38 | 15% | 36% |  |
+| 38 | 16% | 35% |  |
 | 39 | 10% | 20% | Last Result |
-| 40 | 6% | 10% |  |
-| 41 | 3% | 4% |  |
-| 42 | 1.0% | 1.5% |  |
-| 43 | 0.3% | 0.4% |  |
+| 40 | 6% | 9% |  |
+| 41 | 2% | 4% |  |
+| 42 | 0.9% | 1.2% |  |
+| 43 | 0.3% | 0.3% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 

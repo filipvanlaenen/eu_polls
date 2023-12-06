@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–6 | 2–7 | 2–8 |
-| Independents [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–7 | 3–7 | 2–8 |
+| Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,15 +65,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 4% | 99.8% |  |
-| 3 | 20% | 96% |  |
-| 4 | 40% | 75% | Median |
-| 5 | 21% | 36% |  |
-| 6 | 10% | 14% |  |
+| 1 | 0% | 100% |  |
+| 2 | 1.2% | 100% |  |
+| 3 | 16% | 98.8% |  |
+| 4 | 45% | 83% | Median |
+| 5 | 22% | 38% |  |
+| 6 | 10% | 15% |  |
 | 7 | 4% | 5% |  |
 | 8 | 0.8% | 1.0% |  |
-| 9 | 0.2% | 0.2% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
