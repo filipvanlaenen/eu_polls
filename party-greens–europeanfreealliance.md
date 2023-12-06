@@ -10,16 +10,16 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **50** seats (-17 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, PT, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 45–55 | 44–56 | 43–58 |
-| Bündnis 90/Die Grünen | DE | | 13 | 12–16 | 12–16 | 11–17 | 11–17 |
+| Greens–European Free Alliance | EU | 67 | 50 | 46–53 | 45–55 | 44–56 | 42–57 |
+| Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Europe Écologie Les Verts | FR | | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3 | 3 |
@@ -35,7 +35,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
-| Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,9 +43,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -65,26 +65,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.8% |  |
-| 43 | 0.8% | 99.5% |  |
-| 44 | 2% | 98.7% |  |
-| 45 | 3% | 97% |  |
-| 46 | 6% | 94% |  |
-| 47 | 8% | 88% |  |
-| 48 | 11% | 79% |  |
-| 49 | 13% | 68% |  |
-| 50 | 13% | 56% | Median |
-| 51 | 12% | 42% |  |
-| 52 | 10% | 30% |  |
-| 53 | 8% | 19% |  |
-| 54 | 5% | 12% |  |
-| 55 | 3% | 6% |  |
-| 56 | 2% | 3% |  |
-| 57 | 0.9% | 1.4% |  |
-| 58 | 0.4% | 0.6% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.1% | 99.9% |  |
+| 42 | 0.4% | 99.8% |  |
+| 43 | 1.0% | 99.4% |  |
+| 44 | 2% | 98% |  |
+| 45 | 4% | 96% |  |
+| 46 | 7% | 92% |  |
+| 47 | 10% | 85% |  |
+| 48 | 12% | 76% |  |
+| 49 | 13% | 64% |  |
+| 50 | 13% | 50% | Median |
+| 51 | 12% | 37% |  |
+| 52 | 9% | 26% |  |
+| 53 | 7% | 16% |  |
+| 54 | 4% | 10% |  |
+| 55 | 3% | 5% |  |
+| 56 | 1.4% | 3% |  |
+| 57 | 0.7% | 1.1% |  |
+| 58 | 0.3% | 0.4% |  |
 | 59 | 0.1% | 0.2% |  |
-| 60 | 0% | 0.1% |  |
+| 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
