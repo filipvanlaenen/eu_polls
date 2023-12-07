@@ -23,7 +23,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6 | 6 | 6 | 6 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Polska 2050 | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–6 |
@@ -47,7 +47,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0 | 0 | 0 | 0 |
-| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -78,24 +78,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0.1% | 100% |  |
 | 77 | 0.2% | 99.9% |  |
 | 78 | 0.5% | 99.7% |  |
-| 79 | 1.0% | 99.2% |  |
+| 79 | 1.0% | 99.3% |  |
 | 80 | 2% | 98% |  |
 | 81 | 3% | 96% |  |
 | 82 | 5% | 93% |  |
-| 83 | 7% | 89% |  |
+| 83 | 7% | 88% |  |
 | 84 | 8% | 82% |  |
-| 85 | 10% | 74% |  |
-| 86 | 10% | 64% |  |
-| 87 | 10% | 54% | Median |
-| 88 | 10% | 43% |  |
+| 85 | 10% | 73% |  |
+| 86 | 11% | 63% |  |
+| 87 | 11% | 53% | Median |
+| 88 | 10% | 42% |  |
 | 89 | 9% | 33% |  |
-| 90 | 8% | 24% |  |
-| 91 | 6% | 17% |  |
+| 90 | 7% | 24% |  |
+| 91 | 6% | 16% |  |
 | 92 | 4% | 11% |  |
 | 93 | 3% | 7% |  |
 | 94 | 2% | 4% |  |
 | 95 | 1.0% | 2% |  |
-| 96 | 0.6% | 1.1% |  |
+| 96 | 0.5% | 1.1% |  |
 | 97 | 0.3% | 0.5% |  |
 | 98 | 0.1% | 0.2% | Last Result |
 | 99 | 0.1% | 0.1% |  |
