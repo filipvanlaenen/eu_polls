@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 50 | 46–53 | 45–55 | 44–56 | 42–57 |
+| Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 45–55 | 44–56 | 43–57 |
 | Bündnis 90/Die Grünen | DE | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Europe Écologie Les Verts | FR | | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
@@ -30,7 +30,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,21 +67,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 41 | 0.1% | 100% |  |
 | 42 | 0.3% | 99.8% |  |
-| 43 | 0.9% | 99.5% |  |
-| 44 | 2% | 98.6% |  |
+| 43 | 0.8% | 99.5% |  |
+| 44 | 2% | 98.7% |  |
 | 45 | 4% | 97% |  |
 | 46 | 6% | 93% |  |
 | 47 | 9% | 87% |  |
-| 48 | 12% | 77% |  |
+| 48 | 12% | 78% |  |
 | 49 | 13% | 66% |  |
-| 50 | 13% | 52% | Median |
+| 50 | 13% | 53% | Median |
 | 51 | 12% | 39% |  |
 | 52 | 10% | 27% |  |
 | 53 | 7% | 17% |  |
 | 54 | 5% | 10% |  |
 | 55 | 3% | 5% |  |
-| 56 | 1.4% | 3% |  |
-| 57 | 0.7% | 1.1% |  |
+| 56 | 1.5% | 3% |  |
+| 57 | 0.7% | 1.2% |  |
 | 58 | 0.3% | 0.5% |  |
 | 59 | 0.1% | 0.2% |  |
 | 60 | 0% | 0.1% |  |
