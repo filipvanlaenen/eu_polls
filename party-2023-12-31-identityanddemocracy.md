@@ -22,7 +22,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Rassemblement national | FR | | 27 | 25–28 | 25–28 | 24–29 | 24–30 |
 | Alternative für Deutschland | DE | | 20 | 18–22 | 18–23 | 18–24 | 17–24 |
 | Partij voor de Vrijheid | NL | | 10 | 10 | 10 | 10 | 10 |
-| Lega Nord | IT | | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| Lega Nord | IT | | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -50,7 +50,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 2% | 98.9% |  |
 | 83 | 4% | 97% |  |
 | 84 | 6% | 94% |  |
-| 85 | 9% | 88% |  |
+| 85 | 9% | 87% |  |
 | 86 | 12% | 78% |  |
 | 87 | 14% | 66% |  |
 | 88 | 14% | 52% | Median |

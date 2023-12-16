@@ -47,7 +47,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche–La Convention [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -67,13 +67,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.9% | 100% |  |
-| 3 | 15% | 99.1% |  |
-| 4 | 38% | 84% | Median |
-| 5 | 28% | 46% |  |
-| 6 | 12% | 18% |  |
+| 3 | 14% | 99.1% |  |
+| 4 | 38% | 85% | Median |
+| 5 | 28% | 47% |  |
+| 6 | 12% | 19% |  |
 | 7 | 5% | 7% |  |
-| 8 | 1.2% | 2% |  |
-| 9 | 0.2% | 0.3% |  |
+| 8 | 1.4% | 2% |  |
+| 9 | 0.2% | 0.4% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
