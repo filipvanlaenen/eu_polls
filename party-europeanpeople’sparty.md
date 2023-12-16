@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **174** seats (-13 seats)
+Current median: **173** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 174 | 169–179 | 168–180 | 167–182 | 164–184 |
+| European People’s Party | EU | 187 | 173 | 168–178 | 167–180 | 165–181 | 163–184 |
 | Partido Popular | ES | | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
-| Christlich Demokratische Union Deutschlands | DE | | 24 | 21–25 | 21–26 | 21–26 | 20–28 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
 | Platforma Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | Partidul Național Liberal | RO | | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -35,11 +35,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
-| Erakond Isamaa | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -84,33 +84,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
-| 163 | 0.2% | 99.8% |  |
-| 164 | 0.3% | 99.7% |  |
-| 165 | 0.7% | 99.3% |  |
-| 166 | 1.2% | 98.7% |  |
-| 167 | 2% | 98% |  |
-| 168 | 3% | 96% |  |
-| 169 | 5% | 92% |  |
-| 170 | 6% | 88% |  |
-| 171 | 8% | 82% |  |
-| 172 | 9% | 74% |  |
-| 173 | 10% | 65% |  |
-| 174 | 10% | 54% | Median |
-| 175 | 10% | 44% |  |
-| 176 | 9% | 34% |  |
-| 177 | 7% | 25% |  |
-| 178 | 6% | 18% |  |
-| 179 | 4% | 12% |  |
-| 180 | 3% | 7% |  |
-| 181 | 2% | 4% |  |
-| 182 | 1.2% | 3% |  |
-| 183 | 0.7% | 1.4% |  |
-| 184 | 0.4% | 0.7% |  |
-| 185 | 0.2% | 0.4% |  |
-| 186 | 0.1% | 0.2% |  |
-| 187 | 0% | 0.1% | Last Result |
-| 188 | 0% | 0% |  |
+| 160 | 0% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.2% | 99.8% |  |
+| 163 | 0.4% | 99.6% |  |
+| 164 | 0.7% | 99.2% |  |
+| 165 | 1.2% | 98.6% |  |
+| 166 | 2% | 97% |  |
+| 167 | 3% | 95% |  |
+| 168 | 4% | 92% |  |
+| 169 | 6% | 88% |  |
+| 170 | 7% | 82% |  |
+| 171 | 9% | 75% |  |
+| 172 | 10% | 66% |  |
+| 173 | 10% | 57% | Median |
+| 174 | 10% | 46% |  |
+| 175 | 9% | 37% |  |
+| 176 | 8% | 28% |  |
+| 177 | 6% | 20% |  |
+| 178 | 5% | 14% |  |
+| 179 | 3% | 9% |  |
+| 180 | 2% | 6% |  |
+| 181 | 1.4% | 3% |  |
+| 182 | 0.9% | 2% |  |
+| 183 | 0.5% | 1.0% |  |
+| 184 | 0.3% | 0.5% |  |
+| 185 | 0.1% | 0.2% |  |
+| 186 | 0.1% | 0.1% |  |
+| 187 | 0% | 0% | Last Result |
 
 

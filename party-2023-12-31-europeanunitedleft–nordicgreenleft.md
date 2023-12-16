@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (0 seats)
+Current median: **35** seats (-4 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 39 | 36–42 | 35–42 | 34–43 | 33–45 |
+| European United Left–Nordic Green Left | EU | 39 | 35 | 33–38 | 32–39 | 31–40 | 30–41 |
 | La France insoumise | FR | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
-| Die Linke | DE | | 4 | 2–5 | 2–5 | 1–5 | 1–5 |
+| Die Linke | DE | | 4 | 2–5 | 2–5 | 1–5 | 1–6 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
@@ -57,22 +57,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.7% | 99.8% |  |
-| 34 | 2% | 99.1% |  |
-| 35 | 5% | 97% |  |
-| 36 | 9% | 92% |  |
-| 37 | 14% | 83% |  |
-| 38 | 17% | 69% |  |
-| 39 | 17% | 52% | Last Result, Median |
-| 40 | 14% | 34% |  |
-| 41 | 10% | 20% |  |
-| 42 | 6% | 10% |  |
-| 43 | 3% | 4% |  |
-| 44 | 1.1% | 2% |  |
-| 45 | 0.4% | 0.5% |  |
-| 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0.2% | 99.9% |  |
+| 30 | 0.7% | 99.8% |  |
+| 31 | 2% | 99.0% |  |
+| 32 | 5% | 97% |  |
+| 33 | 10% | 92% |  |
+| 34 | 15% | 82% |  |
+| 35 | 18% | 67% | Median |
+| 36 | 18% | 49% |  |
+| 37 | 14% | 31% |  |
+| 38 | 9% | 17% |  |
+| 39 | 5% | 8% | Last Result |
+| 40 | 2% | 3% |  |
+| 41 | 0.8% | 1.1% |  |
+| 42 | 0.2% | 0.3% |  |
+| 43 | 0.1% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 
