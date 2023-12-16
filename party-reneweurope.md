@@ -18,15 +18,15 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 82–92 | 81–94 | 80–95 | 78–97 |
+| Renew Europe | EU | 98 | 87 | 82–92 | 81–93 | 80–95 | 78–97 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6 | 6 | 6 | 6 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–6 |
+| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–5 | 1–6 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -34,7 +34,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 2 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,7 +64,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -77,25 +77,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0.1% | 100% |  |
 | 77 | 0.2% | 99.9% |  |
-| 78 | 0.4% | 99.8% |  |
-| 79 | 0.8% | 99.4% |  |
-| 80 | 2% | 98.5% |  |
-| 81 | 3% | 97% |  |
-| 82 | 4% | 94% |  |
-| 83 | 6% | 90% |  |
-| 84 | 8% | 84% |  |
-| 85 | 9% | 76% |  |
-| 86 | 10% | 67% |  |
-| 87 | 10% | 57% | Median |
-| 88 | 10% | 47% |  |
-| 89 | 9% | 37% |  |
-| 90 | 8% | 28% |  |
-| 91 | 6% | 20% |  |
-| 92 | 5% | 13% |  |
-| 93 | 3% | 9% |  |
+| 78 | 0.5% | 99.6% |  |
+| 79 | 1.1% | 99.1% |  |
+| 80 | 2% | 98% |  |
+| 81 | 3% | 96% |  |
+| 82 | 5% | 93% |  |
+| 83 | 6% | 88% |  |
+| 84 | 8% | 82% |  |
+| 85 | 9% | 73% |  |
+| 86 | 10% | 64% |  |
+| 87 | 10% | 54% | Median |
+| 88 | 10% | 44% |  |
+| 89 | 9% | 34% |  |
+| 90 | 7% | 25% |  |
+| 91 | 6% | 18% |  |
+| 92 | 4% | 12% |  |
+| 93 | 3% | 8% |  |
 | 94 | 2% | 5% |  |
-| 95 | 1.3% | 3% |  |
-| 96 | 0.8% | 2% |  |
+| 95 | 1.2% | 3% |  |
+| 96 | 0.7% | 1.5% |  |
 | 97 | 0.4% | 0.8% |  |
 | 98 | 0.2% | 0.4% | Last Result |
 | 99 | 0.1% | 0.2% |  |
