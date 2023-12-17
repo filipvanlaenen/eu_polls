@@ -18,26 +18,27 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 82–92 | 81–94 | 80–95 | 78–97 |
+| Renew Europe | EU | 98 | 87 | 82–93 | 80–94 | 79–96 | 77–98 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6 | 6 | 6 | 6 |
 | Freie Demokratische Partei | DE | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–8 | 4–8 | 4–8 | 3–8 |
 | Azione | IT | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–5 | 1–6 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Democraten 66 | NL | | 2 | 2 | 2 | 2 | 2 |
+| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
@@ -47,7 +48,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -75,31 +75,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0.1% | 100% |  |
-| 77 | 0.2% | 99.9% |  |
-| 78 | 0.5% | 99.7% |  |
-| 79 | 0.9% | 99.2% |  |
-| 80 | 2% | 98% |  |
-| 81 | 3% | 97% |  |
-| 82 | 4% | 94% |  |
-| 83 | 6% | 90% |  |
-| 84 | 7% | 84% |  |
-| 85 | 9% | 77% |  |
-| 86 | 10% | 68% |  |
-| 87 | 10% | 59% | Median |
-| 88 | 10% | 49% |  |
-| 89 | 9% | 39% |  |
-| 90 | 8% | 29% |  |
-| 91 | 7% | 21% |  |
-| 92 | 5% | 15% |  |
-| 93 | 4% | 9% |  |
-| 94 | 2% | 6% |  |
-| 95 | 2% | 3% |  |
-| 96 | 0.9% | 2% |  |
-| 97 | 0.5% | 1.0% |  |
-| 98 | 0.3% | 0.5% | Last Result |
-| 99 | 0.1% | 0.2% |  |
-| 100 | 0.1% | 0.1% |  |
-| 101 | 0% | 0% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0.1% | 99.9% |  |
+| 76 | 0.3% | 99.8% |  |
+| 77 | 0.5% | 99.6% |  |
+| 78 | 1.0% | 99.1% |  |
+| 79 | 2% | 98% |  |
+| 80 | 3% | 96% |  |
+| 81 | 4% | 94% |  |
+| 82 | 5% | 90% |  |
+| 83 | 6% | 85% |  |
+| 84 | 7% | 79% |  |
+| 85 | 8% | 72% |  |
+| 86 | 9% | 63% |  |
+| 87 | 9% | 55% | Median |
+| 88 | 9% | 45% |  |
+| 89 | 8% | 37% |  |
+| 90 | 7% | 28% |  |
+| 91 | 6% | 21% |  |
+| 92 | 5% | 16% |  |
+| 93 | 4% | 11% |  |
+| 94 | 3% | 7% |  |
+| 95 | 2% | 5% |  |
+| 96 | 1.2% | 3% |  |
+| 97 | 0.7% | 2% |  |
+| 98 | 0.4% | 0.9% | Last Result |
+| 99 | 0.2% | 0.5% |  |
+| 100 | 0.1% | 0.2% |  |
+| 101 | 0.1% | 0.1% |  |
+| 102 | 0% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 

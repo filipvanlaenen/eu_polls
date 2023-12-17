@@ -33,7 +33,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Partij van de Arbeid | NL | | 3 | 3 | 3 | 3 | 3 |
+| Partij van de Arbeid | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -61,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0% | 100% |  |
+| 128 | 0.1% | 100% |  |
 | 129 | 0.1% | 99.9% |  |
 | 130 | 0.3% | 99.8% |  |
 | 131 | 0.6% | 99.5% |  |
@@ -69,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 2% | 98% |  |
 | 134 | 3% | 96% |  |
 | 135 | 5% | 93% |  |
-| 136 | 6% | 88% |  |
-| 137 | 8% | 82% |  |
+| 136 | 7% | 88% |  |
+| 137 | 8% | 81% |  |
 | 138 | 10% | 73% |  |
-| 139 | 10% | 64% |  |
+| 139 | 10% | 63% |  |
 | 140 | 11% | 53% | Median |
-| 141 | 10% | 43% |  |
-| 142 | 9% | 33% |  |
+| 141 | 10% | 42% |  |
+| 142 | 9% | 32% |  |
 | 143 | 7% | 24% |  |
-| 144 | 6% | 17% |  |
+| 144 | 6% | 16% |  |
 | 145 | 4% | 11% |  |
 | 146 | 3% | 7% |  |
 | 147 | 2% | 4% | Last Result |
-| 148 | 1.1% | 2% |  |
+| 148 | 1.0% | 2% |  |
 | 149 | 0.6% | 1.2% |  |
 | 150 | 0.3% | 0.6% |  |
 | 151 | 0.2% | 0.3% |  |
