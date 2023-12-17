@@ -18,14 +18,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 173 | 168–178 | 166–179 | 165–181 | 163–183 |
+| European People’s Party | EU | 187 | 173 | 168–178 | 166–180 | 165–181 | 163–183 |
 | Partido Popular | ES | | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
-| Platforma Obywatelska | PL | | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
+| Platforma Obywatelska | PL | | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | Partidul Național Liberal | RO | | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
-| Partido Social Democrata | PT | | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| Partido Social Democrata | PT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 4–9 | 0–9 |
 | Forza Italia | IT | | 5 | 4–7 | 4–8 | 3–8 | 3–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -33,7 +33,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
@@ -57,7 +57,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
+| CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -87,28 +87,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 100% |  |
 | 161 | 0.1% | 99.9% |  |
 | 162 | 0.2% | 99.8% |  |
-| 163 | 0.4% | 99.6% |  |
+| 163 | 0.5% | 99.5% |  |
 | 164 | 0.8% | 99.1% |  |
-| 165 | 1.3% | 98% |  |
+| 165 | 1.4% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 3% | 95% |  |
-| 168 | 5% | 92% |  |
+| 168 | 5% | 91% |  |
 | 169 | 6% | 87% |  |
 | 170 | 8% | 81% |  |
 | 171 | 9% | 73% |  |
 | 172 | 10% | 64% |  |
-| 173 | 10% | 54% | Median |
-| 174 | 10% | 44% |  |
+| 173 | 10% | 55% | Median |
+| 174 | 10% | 45% |  |
 | 175 | 9% | 35% |  |
 | 176 | 7% | 26% |  |
-| 177 | 6% | 18% |  |
-| 178 | 4% | 12% |  |
+| 177 | 6% | 19% |  |
+| 178 | 4% | 13% |  |
 | 179 | 3% | 8% |  |
 | 180 | 2% | 5% |  |
-| 181 | 1.3% | 3% |  |
+| 181 | 1.4% | 3% |  |
 | 182 | 0.8% | 2% |  |
-| 183 | 0.4% | 0.9% |  |
-| 184 | 0.2% | 0.4% |  |
+| 183 | 0.5% | 0.9% |  |
+| 184 | 0.2% | 0.5% |  |
 | 185 | 0.1% | 0.2% |  |
 | 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0% | Last Result |

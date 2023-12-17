@@ -8,18 +8,19 @@ Members registered from **18 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+4 seats)
+Current median: **6** seats (+6 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> GR, IE, LV
+> GR, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 3–7 | 3–7 | 2–8 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 4–9 | 3–10 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
+| Lewica Razem [PL] (*) | PL | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -29,7 +30,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Belang van Nederland [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -37,8 +38,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Konfederacja Korony Polskiej [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
-| Lewica Razem [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -66,15 +65,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.9% | 100% |  |
-| 3 | 14% | 99.1% |  |
-| 4 | 38% | 85% | Median |
-| 5 | 28% | 47% |  |
-| 6 | 12% | 19% |  |
-| 7 | 5% | 7% |  |
-| 8 | 1.4% | 2% |  |
-| 9 | 0.2% | 0.4% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0.7% | 100% |  |
+| 4 | 11% | 99.3% |  |
+| 5 | 31% | 88% |  |
+| 6 | 29% | 56% | Median |
+| 7 | 16% | 27% |  |
+| 8 | 8% | 11% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.7% | 0.9% |  |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 

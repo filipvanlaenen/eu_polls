@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 51 | 48–54 | 47–55 | 46–56 | 43–58 |
+| Non-Inscrits | EU | 29 | 51 | 48–54 | 47–55 | 46–56 | 44–58 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 11–17 | 10–19 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Reconquête | FR | | 6 | 5–7 | 4–8 | 4–8 | 0–8 |
-| Nowa Nadzieja–Ruch Narodowy | PL | | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
+| Nowa Nadzieja–Ruch Narodowy | PL | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -36,7 +36,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ključ Hrvatske | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -71,22 +71,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0.1% | 100% |  |
 | 42 | 0.1% | 99.9% |  |
-| 43 | 0.3% | 99.7% |  |
-| 44 | 0.6% | 99.4% |  |
-| 45 | 1.1% | 98.8% |  |
+| 43 | 0.2% | 99.8% |  |
+| 44 | 0.5% | 99.6% |  |
+| 45 | 0.9% | 99.1% |  |
 | 46 | 2% | 98% |  |
 | 47 | 4% | 96% |  |
 | 48 | 7% | 92% |  |
 | 49 | 11% | 85% |  |
 | 50 | 14% | 74% |  |
 | 51 | 16% | 60% | Median |
-| 52 | 15% | 45% |  |
-| 53 | 12% | 30% |  |
-| 54 | 8% | 18% |  |
-| 55 | 5% | 10% |  |
+| 52 | 15% | 44% |  |
+| 53 | 12% | 29% |  |
+| 54 | 8% | 17% |  |
+| 55 | 5% | 9% |  |
 | 56 | 3% | 5% |  |
-| 57 | 1.3% | 2% |  |
-| 58 | 0.6% | 0.9% |  |
+| 57 | 1.2% | 2% |  |
+| 58 | 0.5% | 0.8% |  |
 | 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
