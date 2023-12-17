@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **87** seats (-11 seats)
+Current median: **86** seats (-12 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 87 | 82–93 | 80–94 | 79–96 | 77–98 |
+| Renew Europe | EU | 98 | 86 | 81–91 | 79–92 | 78–93 | 76–96 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Alianța 2020 USR-PLUS | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Freie Demokratische Partei | DE | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–8 | 4–8 | 4–8 | 3–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Azione | IT | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–5 | 1–6 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -75,35 +75,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0% | 100% |  |
-| 75 | 0.1% | 99.9% |  |
-| 76 | 0.3% | 99.8% |  |
-| 77 | 0.5% | 99.6% |  |
-| 78 | 1.0% | 99.1% |  |
-| 79 | 2% | 98% |  |
-| 80 | 3% | 96% |  |
-| 81 | 4% | 94% |  |
-| 82 | 5% | 90% |  |
-| 83 | 6% | 85% |  |
-| 84 | 7% | 79% |  |
-| 85 | 8% | 72% |  |
-| 86 | 9% | 63% |  |
-| 87 | 9% | 55% | Median |
-| 88 | 9% | 45% |  |
-| 89 | 8% | 37% |  |
-| 90 | 7% | 28% |  |
-| 91 | 6% | 21% |  |
-| 92 | 5% | 16% |  |
-| 93 | 4% | 11% |  |
-| 94 | 3% | 7% |  |
-| 95 | 2% | 5% |  |
-| 96 | 1.2% | 3% |  |
-| 97 | 0.7% | 2% |  |
-| 98 | 0.4% | 0.9% | Last Result |
-| 99 | 0.2% | 0.5% |  |
-| 100 | 0.1% | 0.2% |  |
-| 101 | 0.1% | 0.1% |  |
-| 102 | 0% | 0.1% |  |
-| 103 | 0% | 0% |  |
+| 74 | 0.1% | 100% |  |
+| 75 | 0.2% | 99.9% |  |
+| 76 | 0.4% | 99.7% |  |
+| 77 | 0.8% | 99.4% |  |
+| 78 | 1.4% | 98.6% |  |
+| 79 | 2% | 97% |  |
+| 80 | 4% | 95% |  |
+| 81 | 5% | 91% |  |
+| 82 | 7% | 86% |  |
+| 83 | 8% | 80% |  |
+| 84 | 9% | 71% |  |
+| 85 | 10% | 62% |  |
+| 86 | 10% | 52% | Median |
+| 87 | 10% | 42% |  |
+| 88 | 9% | 32% |  |
+| 89 | 7% | 24% |  |
+| 90 | 6% | 17% |  |
+| 91 | 4% | 11% |  |
+| 92 | 3% | 7% |  |
+| 93 | 2% | 4% |  |
+| 94 | 1.1% | 2% |  |
+| 95 | 0.6% | 1.2% |  |
+| 96 | 0.3% | 0.6% |  |
+| 97 | 0.2% | 0.3% |  |
+| 98 | 0.1% | 0.1% | Last Result |
+| 99 | 0% | 0.1% |  |
+| 100 | 0% | 0% |  |
 
 
