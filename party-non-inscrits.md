@@ -42,7 +42,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 | Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -76,13 +76,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 4% | 96% |  |
 | 47 | 7% | 92% |  |
 | 48 | 11% | 85% |  |
-| 49 | 14% | 73% |  |
-| 50 | 16% | 59% | Median |
-| 51 | 15% | 43% |  |
+| 49 | 14% | 74% |  |
+| 50 | 16% | 60% | Median |
+| 51 | 15% | 44% |  |
 | 52 | 12% | 29% |  |
 | 53 | 8% | 17% |  |
 | 54 | 5% | 9% |  |
-| 55 | 2% | 4% |  |
+| 55 | 3% | 5% |  |
 | 56 | 1.2% | 2% |  |
 | 57 | 0.5% | 0.8% |  |
 | 58 | 0.2% | 0.3% |  |
