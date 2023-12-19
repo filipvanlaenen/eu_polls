@@ -1,8 +1,8 @@
 # Identity and Democracy
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, FR, IT, NL, PL, PT, SK
+> AT, BE, BG, CZ, DE, DK, EE, FR, IT, NL, PL, PT, RO, SK
 
 ## Seats
 
@@ -31,6 +31,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 2 | 2 | 2 | 2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Partidul S.O.S. România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -49,22 +50,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 0% | 100% |  |
 | 81 | 0.1% | 100% |  |
 | 82 | 0.4% | 99.8% |  |
-| 83 | 1.1% | 99.4% |  |
+| 83 | 1.0% | 99.4% |  |
 | 84 | 2% | 98% |  |
 | 85 | 4% | 96% |  |
-| 86 | 7% | 91% |  |
-| 87 | 10% | 84% |  |
-| 88 | 13% | 74% |  |
-| 89 | 14% | 62% | Median |
-| 90 | 14% | 48% |  |
-| 91 | 12% | 34% |  |
-| 92 | 9% | 22% |  |
-| 93 | 6% | 12% |  |
-| 94 | 4% | 6% |  |
+| 86 | 7% | 92% |  |
+| 87 | 10% | 85% |  |
+| 88 | 12% | 75% |  |
+| 89 | 14% | 63% | Median |
+| 90 | 14% | 50% |  |
+| 91 | 12% | 36% |  |
+| 92 | 10% | 24% |  |
+| 93 | 7% | 14% |  |
+| 94 | 4% | 7% |  |
 | 95 | 2% | 3% |  |
-| 96 | 0.7% | 1.0% |  |
-| 97 | 0.2% | 0.3% |  |
-| 98 | 0.1% | 0.1% |  |
+| 96 | 0.9% | 1.4% |  |
+| 97 | 0.3% | 0.5% |  |
+| 98 | 0.1% | 0.2% |  |
 | 99 | 0% | 0% |  |
 
 
