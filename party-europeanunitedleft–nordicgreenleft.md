@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 36 | 33–39 | 33–40 | 32–41 | 31–42 |
+| European United Left–Nordic Green Left | EU | 39 | 36 | 33–39 | 32–40 | 32–40 | 30–42 |
 | La France insoumise | FR | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Die Linke | DE | | 4 | 2–5 | 2–5 | 1–5 | 1–6 |
@@ -35,7 +35,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,17 +62,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 1.2% | 99.5% |  |
 | 32 | 3% | 98% |  |
 | 33 | 7% | 95% |  |
-| 34 | 11% | 89% |  |
-| 35 | 16% | 77% |  |
-| 36 | 18% | 61% | Median |
-| 37 | 16% | 43% |  |
-| 38 | 12% | 27% |  |
-| 39 | 8% | 14% | Last Result |
-| 40 | 4% | 7% |  |
-| 41 | 2% | 3% |  |
-| 42 | 0.6% | 0.9% |  |
-| 43 | 0.2% | 0.3% |  |
-| 44 | 0.1% | 0.1% |  |
+| 34 | 12% | 88% |  |
+| 35 | 16% | 76% |  |
+| 36 | 18% | 60% | Median |
+| 37 | 16% | 42% |  |
+| 38 | 12% | 26% |  |
+| 39 | 7% | 14% | Last Result |
+| 40 | 4% | 6% |  |
+| 41 | 2% | 2% |  |
+| 42 | 0.6% | 0.8% |  |
+| 43 | 0.2% | 0.2% |  |
+| 44 | 0% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
 

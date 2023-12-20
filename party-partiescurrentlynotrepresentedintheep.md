@@ -20,7 +20,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 4–7 | 4–8 | 3–9 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
-| Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,7 +50,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -63,11 +63,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.9% | 100% |  |
-| 4 | 13% | 99.1% |  |
-| 5 | 37% | 86% | Median |
-| 6 | 32% | 49% |  |
-| 7 | 12% | 17% |  |
+| 3 | 1.1% | 100% |  |
+| 4 | 14% | 98.9% |  |
+| 5 | 37% | 85% | Median |
+| 6 | 32% | 48% |  |
+| 7 | 12% | 16% |  |
 | 8 | 3% | 4% |  |
 | 9 | 0.7% | 1.0% |  |
 | 10 | 0.2% | 0.2% |  |
