@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 78–88 | 77–89 | 76–91 | 74–93 |
+| Renew Europe | EU | 98 | 83 | 79–88 | 77–90 | 76–91 | 74–93 |
 | La République en marche–Mouvement démocrate | FR | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
@@ -39,8 +39,8 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Momentum Mozgalom | HU | | 1 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -51,7 +51,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,28 +77,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% |  |
-| 74 | 0.5% | 99.7% |  |
-| 75 | 1.0% | 99.2% |  |
+| 74 | 0.4% | 99.7% |  |
+| 75 | 0.9% | 99.3% |  |
 | 76 | 2% | 98% |  |
 | 77 | 3% | 97% |  |
 | 78 | 4% | 94% |  |
-| 79 | 6% | 89% |  |
+| 79 | 6% | 90% |  |
 | 80 | 7% | 84% |  |
-| 81 | 9% | 76% |  |
-| 82 | 10% | 67% |  |
-| 83 | 10% | 57% | Median |
-| 84 | 10% | 47% |  |
-| 85 | 9% | 37% |  |
-| 86 | 8% | 27% |  |
-| 87 | 6% | 19% |  |
-| 88 | 5% | 13% |  |
-| 89 | 3% | 8% |  |
+| 81 | 9% | 77% |  |
+| 82 | 10% | 69% |  |
+| 83 | 10% | 59% | Median |
+| 84 | 10% | 49% |  |
+| 85 | 10% | 38% |  |
+| 86 | 8% | 29% |  |
+| 87 | 7% | 20% |  |
+| 88 | 5% | 14% |  |
+| 89 | 3% | 9% |  |
 | 90 | 2% | 5% |  |
-| 91 | 1.3% | 3% |  |
-| 92 | 0.7% | 1.4% |  |
-| 93 | 0.4% | 0.7% |  |
-| 94 | 0.2% | 0.3% |  |
-| 95 | 0.1% | 0.1% |  |
+| 91 | 1.4% | 3% |  |
+| 92 | 0.8% | 2% |  |
+| 93 | 0.4% | 0.8% |  |
+| 94 | 0.2% | 0.4% |  |
+| 95 | 0.1% | 0.2% |  |
 | 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
