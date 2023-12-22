@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 3–7 | 3–7 | 3–8 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 4–7 | 3–7 | 3–8 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -27,12 +27,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +41,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche–La Convention [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -63,14 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 5% | 99.9% |  |
-| 4 | 34% | 95% |  |
-| 5 | 38% | 61% | Median |
-| 6 | 17% | 23% |  |
-| 7 | 4% | 6% |  |
-| 8 | 1.1% | 1.4% |  |
-| 9 | 0.3% | 0.3% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 3 | 4% | 99.9% |  |
+| 4 | 27% | 96% |  |
+| 5 | 38% | 69% | Median |
+| 6 | 22% | 32% |  |
+| 7 | 7% | 9% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.2% | 0.3% |  |
+| 10 | 0% | 0% |  |
 
 
