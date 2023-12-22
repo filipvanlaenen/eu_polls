@@ -24,31 +24,32 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–17 | 12–17 | 11–17 | 11–18 |
 | Partidul Social Democrat | RO | | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | Parti socialiste | FR | | 9 | 8–10 | 7–10 | 7–11 | 6–11 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Demokratikus Koalíció | HU | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
-| Lietuvos socialdemokratų partija | LT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Demokratikus Koalíció | HU | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Nowa Lewica | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Socialdemokraterne | DK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
-| HLAS–sociálna demokracia | SK | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Socijaldemokratska partija Hrvatske | HR | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Magyar Szocialista Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Magyar Szocialista Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
+| Socijaldemokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -61,31 +62,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0% | 100% |  |
-| 129 | 0.1% | 99.9% |  |
-| 130 | 0.3% | 99.8% |  |
-| 131 | 0.6% | 99.5% |  |
-| 132 | 1.1% | 99.0% |  |
+| 129 | 0.1% | 100% |  |
+| 130 | 0.2% | 99.9% |  |
+| 131 | 0.4% | 99.7% |  |
+| 132 | 0.9% | 99.2% |  |
 | 133 | 2% | 98% |  |
-| 134 | 3% | 96% |  |
-| 135 | 5% | 93% |  |
-| 136 | 6% | 88% |  |
-| 137 | 8% | 82% |  |
-| 138 | 10% | 73% |  |
-| 139 | 11% | 64% |  |
-| 140 | 11% | 53% | Median |
-| 141 | 10% | 43% |  |
-| 142 | 9% | 33% |  |
-| 143 | 7% | 24% |  |
+| 134 | 3% | 97% |  |
+| 135 | 4% | 94% |  |
+| 136 | 6% | 90% |  |
+| 137 | 8% | 83% |  |
+| 138 | 10% | 75% |  |
+| 139 | 11% | 66% |  |
+| 140 | 11% | 55% | Median |
+| 141 | 10% | 44% |  |
+| 142 | 9% | 34% |  |
+| 143 | 8% | 25% |  |
 | 144 | 6% | 17% |  |
 | 145 | 4% | 11% |  |
 | 146 | 3% | 7% |  |
 | 147 | 2% | 4% | Last Result |
 | 148 | 1.1% | 2% |  |
-| 149 | 0.6% | 1.3% |  |
-| 150 | 0.3% | 0.7% |  |
+| 149 | 0.7% | 1.3% |  |
+| 150 | 0.4% | 0.7% |  |
 | 151 | 0.2% | 0.3% |  |
-| 152 | 0.1% | 0.1% |  |
+| 152 | 0.1% | 0.2% |  |
 | 153 | 0% | 0.1% |  |
 | 154 | 0% | 0% |  |
 

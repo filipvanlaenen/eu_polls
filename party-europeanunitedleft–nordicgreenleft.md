@@ -25,7 +25,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -62,15 +62,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0.2% | 99.8% |  |
 | 28 | 0.4% | 99.6% |  |
 | 29 | 0.6% | 99.2% |  |
-| 30 | 1.1% | 98.6% |  |
+| 30 | 1.2% | 98.6% |  |
 | 31 | 3% | 97% |  |
 | 32 | 6% | 95% |  |
 | 33 | 10% | 89% |  |
 | 34 | 14% | 79% |  |
-| 35 | 17% | 65% | Median |
+| 35 | 17% | 64% | Median |
 | 36 | 16% | 48% |  |
 | 37 | 12% | 32% |  |
-| 38 | 9% | 20% |  |
+| 38 | 8% | 20% |  |
 | 39 | 5% | 11% | Last Result |
 | 40 | 3% | 6% |  |
 | 41 | 2% | 3% |  |

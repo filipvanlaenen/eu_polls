@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (+19 seats)
+Current median: **79** seats (+18 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 76–83 | 75–84 | 75–85 | 73–87 |
+| European Conservatives and Reformists | EU | 61 | 79 | 76–83 | 75–84 | 74–85 | 73–86 |
 | Fratelli d’Italia | IT | | 25 | 23–27 | 22–28 | 22–29 | 21–30 |
 | Zjednoczona Prawica | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | Alianța pentru Unirea Românilor | RO | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Vox | ES | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
-| Sverigedemokraterna | SE | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -60,24 +60,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.6% | 99.7% |  |
-| 74 | 1.4% | 99.2% |  |
-| 75 | 3% | 98% |  |
-| 76 | 5% | 95% |  |
-| 77 | 8% | 89% |  |
-| 78 | 11% | 81% |  |
-| 79 | 14% | 69% |  |
-| 80 | 14% | 56% | Median |
-| 81 | 13% | 41% |  |
-| 82 | 11% | 28% |  |
-| 83 | 8% | 17% |  |
-| 84 | 5% | 9% |  |
-| 85 | 3% | 5% |  |
-| 86 | 1.2% | 2% |  |
-| 87 | 0.5% | 0.7% |  |
-| 88 | 0.2% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 72 | 0.3% | 99.9% |  |
+| 73 | 0.9% | 99.6% |  |
+| 74 | 2% | 98.7% |  |
+| 75 | 4% | 97% |  |
+| 76 | 7% | 92% |  |
+| 77 | 10% | 86% |  |
+| 78 | 13% | 76% |  |
+| 79 | 14% | 63% | Median |
+| 80 | 14% | 49% |  |
+| 81 | 12% | 35% |  |
+| 82 | 9% | 23% |  |
+| 83 | 6% | 13% |  |
+| 84 | 4% | 7% |  |
+| 85 | 2% | 3% |  |
+| 86 | 0.8% | 1.3% |  |
+| 87 | 0.3% | 0.5% |  |
+| 88 | 0.1% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 

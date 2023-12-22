@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (-18 seats)
+Current median: **48** seats (-19 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 45–53 | 43–54 | 42–55 | 40–57 |
+| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 43–53 | 42–54 | 40–56 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | Europe Écologie Les Verts | FR | | 7 | 5–9 | 5–9 | 5–9 | 0–9 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -66,29 +66,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0% | 100% |  |
+| 37 | 0.1% | 100% |  |
 | 38 | 0.1% | 99.9% |  |
 | 39 | 0.2% | 99.8% |  |
-| 40 | 0.3% | 99.7% |  |
-| 41 | 0.7% | 99.3% |  |
-| 42 | 1.3% | 98.6% |  |
-| 43 | 2% | 97% |  |
-| 44 | 4% | 95% |  |
-| 45 | 6% | 91% |  |
-| 46 | 8% | 85% |  |
-| 47 | 11% | 76% |  |
-| 48 | 12% | 66% |  |
-| 49 | 13% | 54% | Median |
-| 50 | 12% | 41% |  |
-| 51 | 10% | 29% |  |
-| 52 | 8% | 19% |  |
-| 53 | 5% | 12% |  |
-| 54 | 3% | 6% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.9% | 1.5% |  |
-| 57 | 0.4% | 0.6% |  |
-| 58 | 0.1% | 0.2% |  |
-| 59 | 0% | 0.1% |  |
+| 40 | 0.5% | 99.5% |  |
+| 41 | 0.9% | 99.1% |  |
+| 42 | 2% | 98% |  |
+| 43 | 3% | 96% |  |
+| 44 | 5% | 93% |  |
+| 45 | 7% | 88% |  |
+| 46 | 10% | 81% |  |
+| 47 | 12% | 71% |  |
+| 48 | 13% | 60% | Median |
+| 49 | 12% | 47% |  |
+| 50 | 11% | 35% |  |
+| 51 | 9% | 24% |  |
+| 52 | 6% | 15% |  |
+| 53 | 4% | 9% |  |
+| 54 | 2% | 5% |  |
+| 55 | 1.3% | 2% |  |
+| 56 | 0.6% | 1.0% |  |
+| 57 | 0.2% | 0.4% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

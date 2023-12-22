@@ -36,9 +36,8 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche–La Convention [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -65,9 +64,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.1% | 100% |  |
 | 3 | 4% | 99.9% |  |
 | 4 | 27% | 96% |  |
-| 5 | 38% | 69% | Median |
-| 6 | 22% | 32% |  |
-| 7 | 7% | 9% |  |
+| 5 | 37% | 70% | Median |
+| 6 | 23% | 32% |  |
+| 7 | 8% | 10% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
