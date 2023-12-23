@@ -39,7 +39,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.9% | 99.6% |  |
 | 74 | 2% | 98.7% |  |
 | 75 | 4% | 97% |  |
-| 76 | 7% | 92% |  |
+| 76 | 7% | 93% |  |
 | 77 | 10% | 86% |  |
 | 78 | 13% | 76% |  |
 | 79 | 14% | 63% | Median |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 6% | 13% |  |
 | 84 | 4% | 7% |  |
 | 85 | 2% | 3% |  |
-| 86 | 0.8% | 1.3% |  |
+| 86 | 0.9% | 1.3% |  |
 | 87 | 0.3% | 0.5% |  |
-| 88 | 0.1% | 0.1% |  |
+| 88 | 0.1% | 0.2% |  |
 | 89 | 0% | 0% |  |
 
 

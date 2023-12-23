@@ -27,7 +27,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,13 +62,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 4% | 99.9% |  |
-| 4 | 27% | 96% |  |
-| 5 | 37% | 70% | Median |
-| 6 | 23% | 32% |  |
-| 7 | 8% | 10% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.2% | 0.3% |  |
+| 3 | 5% | 99.9% |  |
+| 4 | 32% | 95% |  |
+| 5 | 38% | 63% | Median |
+| 6 | 19% | 25% |  |
+| 7 | 5% | 6% |  |
+| 8 | 1.0% | 1.1% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 177 | 171–182 | 170–184 | 168–185 | 166–187 |
+| European People’s Party | EU | 187 | 177 | 171–182 | 170–183 | 168–185 | 166–187 |
 | Partido Popular | ES | | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 21–24 | 21–25 | 20–26 | 19–27 |
 | Platforma Obywatelska | PL | | 15 | 14–17 | 14–18 | 14–19 | 13–19 |
@@ -39,7 +39,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
-| BoerBurgerBeweging | NL | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| BoerBurgerBeweging | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -84,28 +84,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.1% | 99.9% |  |
 | 165 | 0.2% | 99.8% |  |
 | 166 | 0.4% | 99.6% |  |
-| 167 | 0.7% | 99.3% |  |
-| 168 | 1.1% | 98.6% |  |
+| 167 | 0.7% | 99.2% |  |
+| 168 | 1.2% | 98.5% |  |
 | 169 | 2% | 97% |  |
-| 170 | 3% | 96% |  |
+| 170 | 3% | 95% |  |
 | 171 | 4% | 93% |  |
 | 172 | 5% | 89% |  |
-| 173 | 6% | 84% |  |
-| 174 | 8% | 78% |  |
-| 175 | 9% | 70% |  |
-| 176 | 9% | 61% |  |
-| 177 | 9% | 52% | Median |
-| 178 | 9% | 42% |  |
-| 179 | 8% | 33% |  |
-| 180 | 7% | 25% |  |
-| 181 | 6% | 18% |  |
-| 182 | 4% | 12% |  |
-| 183 | 3% | 8% |  |
+| 173 | 7% | 83% |  |
+| 174 | 8% | 77% |  |
+| 175 | 9% | 69% |  |
+| 176 | 10% | 60% |  |
+| 177 | 10% | 50% | Median |
+| 178 | 9% | 41% |  |
+| 179 | 8% | 32% |  |
+| 180 | 7% | 24% |  |
+| 181 | 5% | 17% |  |
+| 182 | 4% | 11% |  |
+| 183 | 3% | 7% |  |
 | 184 | 2% | 5% |  |
-| 185 | 1.3% | 3% |  |
-| 186 | 0.8% | 2% |  |
-| 187 | 0.4% | 0.9% | Last Result |
-| 188 | 0.2% | 0.5% |  |
+| 185 | 1.2% | 3% |  |
+| 186 | 0.7% | 1.5% |  |
+| 187 | 0.4% | 0.8% | Last Result |
+| 188 | 0.2% | 0.4% |  |
 | 189 | 0.1% | 0.2% |  |
 | 190 | 0.1% | 0.1% |  |
 | 191 | 0% | 0% |  |

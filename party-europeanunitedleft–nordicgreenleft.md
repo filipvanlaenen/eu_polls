@@ -40,7 +40,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti communiste français | FR | | 0 | 0 | 0–4 | 0–5 | 0–5 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,11 +66,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 3% | 97% |  |
 | 32 | 6% | 95% |  |
 | 33 | 10% | 89% |  |
-| 34 | 14% | 79% |  |
+| 34 | 15% | 78% |  |
 | 35 | 17% | 64% | Median |
-| 36 | 16% | 48% |  |
+| 36 | 16% | 47% |  |
 | 37 | 12% | 32% |  |
-| 38 | 8% | 20% |  |
+| 38 | 8% | 19% |  |
 | 39 | 5% | 11% | Last Result |
 | 40 | 3% | 6% |  |
 | 41 | 2% | 3% |  |

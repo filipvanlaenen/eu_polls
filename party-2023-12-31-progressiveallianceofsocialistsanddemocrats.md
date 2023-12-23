@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–145 | 134–146 | 133–147 | 131–150 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 135–145 | 134–146 | 133–148 | 131–150 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 18–24 | 17–26 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–19 | 14–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–17 | 12–17 | 11–17 | 11–18 |
@@ -33,7 +33,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
-| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Partij van de Arbeid | NL | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -65,26 +65,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 129 | 0.1% | 100% |  |
 | 130 | 0.2% | 99.9% |  |
 | 131 | 0.4% | 99.7% |  |
-| 132 | 0.9% | 99.2% |  |
+| 132 | 0.9% | 99.3% |  |
 | 133 | 2% | 98% |  |
 | 134 | 3% | 97% |  |
 | 135 | 4% | 94% |  |
 | 136 | 6% | 90% |  |
-| 137 | 8% | 83% |  |
-| 138 | 10% | 75% |  |
+| 137 | 8% | 84% |  |
+| 138 | 10% | 76% |  |
 | 139 | 11% | 66% |  |
-| 140 | 11% | 55% | Median |
-| 141 | 10% | 44% |  |
+| 140 | 11% | 56% | Median |
+| 141 | 10% | 45% |  |
 | 142 | 9% | 34% |  |
 | 143 | 8% | 25% |  |
-| 144 | 6% | 17% |  |
-| 145 | 4% | 11% |  |
+| 144 | 6% | 18% |  |
+| 145 | 4% | 12% |  |
 | 146 | 3% | 7% |  |
 | 147 | 2% | 4% | Last Result |
-| 148 | 1.1% | 2% |  |
-| 149 | 0.7% | 1.3% |  |
+| 148 | 1.2% | 3% |  |
+| 149 | 0.7% | 1.4% |  |
 | 150 | 0.4% | 0.7% |  |
-| 151 | 0.2% | 0.3% |  |
+| 151 | 0.2% | 0.4% |  |
 | 152 | 0.1% | 0.2% |  |
 | 153 | 0% | 0.1% |  |
 | 154 | 0% | 0% |  |
