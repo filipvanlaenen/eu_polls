@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 43–53 | 42–54 | 39–56 |
-| Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 43–53 | 42–54 | 40–55 |
+| Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
 | Europe Écologie Les Verts | FR | | 7 | 5–9 | 5–9 | 5–9 | 0–9 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -36,18 +36,18 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | DE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -69,26 +69,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0.1% | 99.9% |  |
 | 38 | 0.1% | 99.9% |  |
-| 39 | 0.3% | 99.8% |  |
+| 39 | 0.2% | 99.8% |  |
 | 40 | 0.5% | 99.5% |  |
-| 41 | 1.0% | 99.0% |  |
+| 41 | 1.0% | 99.1% |  |
 | 42 | 2% | 98% |  |
-| 43 | 3% | 96% |  |
-| 44 | 5% | 93% |  |
+| 43 | 4% | 96% |  |
+| 44 | 6% | 93% |  |
 | 45 | 8% | 87% |  |
-| 46 | 10% | 80% |  |
-| 47 | 12% | 70% |  |
-| 48 | 13% | 58% | Median |
-| 49 | 12% | 45% |  |
-| 50 | 11% | 33% |  |
-| 51 | 8% | 23% |  |
-| 52 | 6% | 14% |  |
-| 53 | 4% | 8% |  |
-| 54 | 2% | 4% |  |
-| 55 | 1.2% | 2% |  |
-| 56 | 0.5% | 0.9% |  |
-| 57 | 0.2% | 0.3% |  |
-| 58 | 0.1% | 0.1% |  |
+| 46 | 11% | 78% |  |
+| 47 | 13% | 68% |  |
+| 48 | 13% | 55% | Median |
+| 49 | 12% | 42% |  |
+| 50 | 10% | 29% |  |
+| 51 | 8% | 19% |  |
+| 52 | 5% | 11% |  |
+| 53 | 3% | 6% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.8% | 1.3% |  |
+| 56 | 0.3% | 0.5% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
