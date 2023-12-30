@@ -41,7 +41,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | BoerBurgerBeweging | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 2 |
+| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -66,6 +66,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -82,32 +83,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 163 | 0% | 100% |  |
 | 164 | 0.1% | 99.9% |  |
-| 165 | 0.2% | 99.9% |  |
+| 165 | 0.1% | 99.9% |  |
 | 166 | 0.3% | 99.7% |  |
-| 167 | 0.6% | 99.4% |  |
-| 168 | 1.0% | 98.8% |  |
+| 167 | 0.5% | 99.4% |  |
+| 168 | 0.9% | 98.9% |  |
 | 169 | 2% | 98% |  |
 | 170 | 2% | 96% |  |
 | 171 | 4% | 94% |  |
 | 172 | 5% | 90% |  |
-| 173 | 6% | 85% |  |
+| 173 | 6% | 86% |  |
 | 174 | 8% | 79% |  |
-| 175 | 9% | 71% |  |
-| 176 | 10% | 62% |  |
-| 177 | 10% | 52% | Median |
+| 175 | 9% | 72% |  |
+| 176 | 10% | 63% |  |
+| 177 | 10% | 53% | Median |
 | 178 | 9% | 43% |  |
-| 179 | 8% | 33% |  |
+| 179 | 9% | 34% |  |
 | 180 | 7% | 25% |  |
 | 181 | 6% | 18% |  |
 | 182 | 4% | 12% |  |
 | 183 | 3% | 8% |  |
 | 184 | 2% | 5% |  |
-| 185 | 1.2% | 3% |  |
-| 186 | 0.7% | 2% |  |
-| 187 | 0.4% | 0.8% | Last Result |
+| 185 | 1.3% | 3% |  |
+| 186 | 0.8% | 2% |  |
+| 187 | 0.4% | 0.9% | Last Result |
 | 188 | 0.2% | 0.4% |  |
 | 189 | 0.1% | 0.2% |  |
-| 190 | 0% | 0.1% |  |
+| 190 | 0.1% | 0.1% |  |
 | 191 | 0% | 0% |  |
 
 
