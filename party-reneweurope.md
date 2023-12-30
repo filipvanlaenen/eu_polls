@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **82** seats (-16 seats)
+Current median: **83** seats (-15 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 77–87 | 76–89 | 75–90 | 73–92 |
+| Renew Europe | EU | 98 | 83 | 78–88 | 77–89 | 76–91 | 73–93 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
@@ -42,11 +42,12 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -62,7 +63,6 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
-| Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -76,31 +76,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.5% | 99.7% |  |
-| 74 | 1.0% | 99.2% |  |
-| 75 | 2% | 98% |  |
-| 76 | 3% | 96% |  |
-| 77 | 4% | 94% |  |
-| 78 | 6% | 89% |  |
-| 79 | 7% | 83% |  |
-| 80 | 9% | 76% |  |
-| 81 | 10% | 67% |  |
-| 82 | 10% | 58% | Median |
-| 83 | 10% | 48% |  |
-| 84 | 9% | 38% |  |
-| 85 | 8% | 28% |  |
-| 86 | 7% | 20% |  |
-| 87 | 5% | 14% |  |
-| 88 | 3% | 9% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.4% | 3% |  |
-| 91 | 0.8% | 2% |  |
-| 92 | 0.4% | 0.8% |  |
-| 93 | 0.2% | 0.4% |  |
-| 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0.3% | 99.8% |  |
+| 74 | 0.7% | 99.5% |  |
+| 75 | 1.3% | 98.8% |  |
+| 76 | 2% | 98% |  |
+| 77 | 3% | 95% |  |
+| 78 | 5% | 92% |  |
+| 79 | 6% | 87% |  |
+| 80 | 8% | 81% |  |
+| 81 | 9% | 73% |  |
+| 82 | 10% | 64% |  |
+| 83 | 10% | 54% | Median |
+| 84 | 10% | 45% |  |
+| 85 | 9% | 35% |  |
+| 86 | 8% | 26% |  |
+| 87 | 6% | 18% |  |
+| 88 | 5% | 12% |  |
+| 89 | 3% | 8% |  |
+| 90 | 2% | 5% |  |
+| 91 | 1.2% | 3% |  |
+| 92 | 0.7% | 1.4% |  |
+| 93 | 0.4% | 0.7% |  |
+| 94 | 0.2% | 0.3% |  |
+| 95 | 0.1% | 0.2% |  |
+| 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
 

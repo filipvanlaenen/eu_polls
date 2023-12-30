@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 136–145 | 134–147 | 133–148 | 131–150 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 140 | 136–145 | 135–147 | 133–148 | 131–150 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 18–24 | 17–26 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–19 | 14–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–17 | 12–17 | 11–17 | 11–18 |
@@ -29,7 +29,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Demokratikus Koalíció | HU | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Nowa Lewica | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
-| Socialdemokraterne | DK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
@@ -44,7 +44,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Social Democrats | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,8 +65,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 129 | 0.1% | 100% |  |
 | 130 | 0.1% | 99.9% |  |
 | 131 | 0.3% | 99.8% |  |
-| 132 | 0.7% | 99.4% |  |
-| 133 | 1.4% | 98.7% |  |
+| 132 | 0.7% | 99.5% |  |
+| 133 | 1.3% | 98.8% |  |
 | 134 | 2% | 97% |  |
 | 135 | 4% | 95% |  |
 | 136 | 6% | 91% |  |
@@ -77,13 +77,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 141 | 11% | 48% |  |
 | 142 | 10% | 37% |  |
 | 143 | 8% | 28% |  |
-| 144 | 6% | 19% |  |
+| 144 | 6% | 20% |  |
 | 145 | 5% | 13% |  |
-| 146 | 3% | 8% |  |
+| 146 | 3% | 9% |  |
 | 147 | 2% | 5% | Last Result |
-| 148 | 1.3% | 3% |  |
+| 148 | 1.4% | 3% |  |
 | 149 | 0.8% | 2% |  |
-| 150 | 0.4% | 0.8% |  |
+| 150 | 0.4% | 0.9% |  |
 | 151 | 0.2% | 0.4% |  |
 | 152 | 0.1% | 0.2% |  |
 | 153 | 0.1% | 0.1% |  |
