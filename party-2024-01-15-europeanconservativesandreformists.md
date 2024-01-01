@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> BE, CZ, ES, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CZ, ES, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -10,9 +10,9 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **80** seats (+19 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CZ, ES, FI, GR, HR, IT, LV, PL, RO, SE, SK
+> BE, BG, CZ, ES, FI, GR, HR, IT, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Slovenská národná strana | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,7 +59,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
 | 70 | 0% | 100% |  |
-| 71 | 0% | 100% |  |
+| 71 | 0.1% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
 | 73 | 0.5% | 99.8% |  |
 | 74 | 1.3% | 99.2% |  |
@@ -68,14 +68,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 8% | 90% |  |
 | 78 | 11% | 82% |  |
 | 79 | 13% | 71% |  |
-| 80 | 14% | 57% | Median |
+| 80 | 14% | 58% | Median |
 | 81 | 13% | 43% |  |
 | 82 | 11% | 30% |  |
 | 83 | 8% | 19% |  |
 | 84 | 5% | 11% |  |
 | 85 | 3% | 5% |  |
-| 86 | 1.4% | 2% |  |
-| 87 | 0.6% | 0.9% |  |
+| 86 | 1.5% | 2% |  |
+| 87 | 0.6% | 1.0% |  |
 | 88 | 0.2% | 0.3% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
