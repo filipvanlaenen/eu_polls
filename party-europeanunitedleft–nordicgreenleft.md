@@ -18,11 +18,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 35 | 32–38 | 32–40 | 31–41 | 28–42 |
+| European United Left–Nordic Green Left | EU | 39 | 35 | 32–38 | 31–39 | 30–40 | 28–42 |
 | La France insoumise | FR | | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Die Linke | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
-| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
@@ -34,7 +34,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -57,25 +57,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.2% | 99.9% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0.1% | 99.9% |  |
+| 27 | 0.3% | 99.8% |  |
 | 28 | 0.4% | 99.6% |  |
-| 29 | 0.5% | 99.2% |  |
-| 30 | 1.0% | 98.7% |  |
-| 31 | 2% | 98% |  |
-| 32 | 5% | 95% |  |
-| 33 | 10% | 90% |  |
-| 34 | 15% | 80% |  |
-| 35 | 18% | 64% | Median |
-| 36 | 16% | 47% |  |
-| 37 | 12% | 30% |  |
-| 38 | 8% | 18% |  |
-| 39 | 5% | 10% | Last Result |
-| 40 | 3% | 5% |  |
-| 41 | 1.4% | 3% |  |
-| 42 | 0.7% | 1.1% |  |
-| 43 | 0.3% | 0.5% |  |
-| 44 | 0.1% | 0.2% |  |
+| 29 | 0.6% | 99.2% |  |
+| 30 | 1.1% | 98.6% |  |
+| 31 | 3% | 97% |  |
+| 32 | 6% | 95% |  |
+| 33 | 11% | 88% |  |
+| 34 | 16% | 77% |  |
+| 35 | 18% | 61% | Median |
+| 36 | 16% | 43% |  |
+| 37 | 12% | 28% |  |
+| 38 | 7% | 16% |  |
+| 39 | 4% | 9% | Last Result |
+| 40 | 2% | 5% |  |
+| 41 | 1.2% | 2% |  |
+| 42 | 0.6% | 1.0% |  |
+| 43 | 0.3% | 0.4% |  |
+| 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
 

@@ -19,7 +19,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 177 | 172–182 | 170–183 | 169–185 | 167–187 |
-| Partido Popular | ES | | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
+| Partido Popular | ES | | 25 | 23–27 | 23–27 | 23–28 | 21–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 22–26 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 15 | 14–17 | 14–18 | 14–19 | 13–19 |
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -42,14 +42,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 1–3 |
+| Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -102,10 +102,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 182 | 4% | 12% |  |
 | 183 | 3% | 8% |  |
 | 184 | 2% | 5% |  |
-| 185 | 1.2% | 3% |  |
-| 186 | 0.7% | 2% |  |
+| 185 | 1.3% | 3% |  |
+| 186 | 0.8% | 2% |  |
 | 187 | 0.4% | 0.9% | Last Result |
-| 188 | 0.2% | 0.4% |  |
+| 188 | 0.2% | 0.5% |  |
 | 189 | 0.1% | 0.2% |  |
 | 190 | 0.1% | 0.1% |  |
 | 191 | 0% | 0% |  |
