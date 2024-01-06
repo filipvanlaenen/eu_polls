@@ -21,7 +21,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 98 | 83 | 78–88 | 77–89 | 75–91 | 73–93 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | Alianța 2020 USR-PLUS | RO | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
@@ -77,7 +77,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
+| 72 | 0.1% | 99.9% |  |
 | 73 | 0.3% | 99.8% |  |
 | 74 | 0.7% | 99.4% |  |
 | 75 | 1.3% | 98.7% |  |
@@ -86,12 +86,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 5% | 92% |  |
 | 79 | 6% | 87% |  |
 | 80 | 8% | 80% |  |
-| 81 | 9% | 72% |  |
-| 82 | 10% | 63% |  |
+| 81 | 9% | 73% |  |
+| 82 | 10% | 64% |  |
 | 83 | 10% | 54% | Median |
 | 84 | 10% | 44% |  |
 | 85 | 9% | 34% |  |
-| 86 | 7% | 25% |  |
+| 86 | 7% | 26% |  |
 | 87 | 6% | 18% |  |
 | 88 | 4% | 12% |  |
 | 89 | 3% | 8% |  |
@@ -100,7 +100,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0.7% | 1.4% |  |
 | 93 | 0.4% | 0.7% |  |
 | 94 | 0.2% | 0.3% |  |
-| 95 | 0.1% | 0.1% |  |
+| 95 | 0.1% | 0.2% |  |
 | 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
