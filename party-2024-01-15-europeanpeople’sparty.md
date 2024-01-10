@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 176 | 171–182 | 170–183 | 169–185 | 166–187 |
+| European People’s Party | EU | 187 | 176 | 170–181 | 169–182 | 168–184 | 165–186 |
 | Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 21–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 15 | 14–17 | 14–18 | 14–19 | 13–19 |
@@ -27,15 +27,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| Forza Italia | IT | | 5 | 4–7 | 4–7 | 3–8 | 3–9 |
+| Forza Italia | IT | | 5 | 4–7 | 4–7 | 3–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Nieuw Sociaal Contract | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Österreichische Volkspartei | AT | | 5 | 5 | 5 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Slovenska demokratska stranka | SI | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -81,33 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 164 | 0.1% | 100% |  |
-| 165 | 0.2% | 99.9% |  |
-| 166 | 0.3% | 99.7% |  |
-| 167 | 0.6% | 99.4% |  |
-| 168 | 1.2% | 98.7% |  |
-| 169 | 2% | 98% |  |
-| 170 | 3% | 96% |  |
-| 171 | 4% | 93% |  |
-| 172 | 6% | 89% |  |
-| 173 | 7% | 83% |  |
-| 174 | 8% | 76% |  |
-| 175 | 9% | 67% |  |
-| 176 | 10% | 58% | Median |
-| 177 | 10% | 48% |  |
-| 178 | 9% | 39% |  |
-| 179 | 8% | 30% |  |
-| 180 | 6% | 22% |  |
-| 181 | 5% | 16% |  |
-| 182 | 4% | 11% |  |
-| 183 | 3% | 7% |  |
-| 184 | 2% | 4% |  |
-| 185 | 1.1% | 3% |  |
-| 186 | 0.7% | 1.5% |  |
-| 187 | 0.4% | 0.8% | Last Result |
-| 188 | 0.2% | 0.4% |  |
-| 189 | 0.1% | 0.2% |  |
-| 190 | 0.1% | 0.1% |  |
+| 163 | 0.1% | 100% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.3% | 99.8% |  |
+| 166 | 0.6% | 99.5% |  |
+| 167 | 1.0% | 98.9% |  |
+| 168 | 2% | 98% |  |
+| 169 | 3% | 96% |  |
+| 170 | 4% | 94% |  |
+| 171 | 5% | 90% |  |
+| 172 | 7% | 84% |  |
+| 173 | 8% | 78% |  |
+| 174 | 9% | 70% |  |
+| 175 | 10% | 60% |  |
+| 176 | 10% | 51% | Median |
+| 177 | 9% | 41% |  |
+| 178 | 8% | 32% |  |
+| 179 | 7% | 24% |  |
+| 180 | 5% | 17% |  |
+| 181 | 4% | 12% |  |
+| 182 | 3% | 8% |  |
+| 183 | 2% | 5% |  |
+| 184 | 1.3% | 3% |  |
+| 185 | 0.8% | 2% |  |
+| 186 | 0.5% | 0.9% |  |
+| 187 | 0.2% | 0.5% | Last Result |
+| 188 | 0.1% | 0.3% |  |
+| 189 | 0.1% | 0.1% |  |
+| 190 | 0% | 0.1% |  |
 | 191 | 0% | 0% |  |
 
 

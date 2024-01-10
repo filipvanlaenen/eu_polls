@@ -41,7 +41,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Nép Pártján [HU] (*) | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche–La Convention [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 35% | 83% | Median |
 | 6 | 31% | 48% |  |
 | 7 | 13% | 17% |  |
-| 8 | 4% | 4% |  |
+| 8 | 3% | 4% |  |
 | 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
