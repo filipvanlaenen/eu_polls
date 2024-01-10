@@ -8,26 +8,25 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **82** seats (-16 seats)
+Current median: **81** seats (-17 seats)
 
-At least one member in **22 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 77–87 | 75–88 | 74–89 | 72–92 |
+| Renew Europe | EU | 98 | 81 | 76–86 | 75–88 | 74–89 | 72–92 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
 | ANO 2011 | CZ | | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Freie Demokratische Partei | DE | | 5 | 4–7 | 4–7 | 3–7 | 3–7 |
 | Polska 2050 | PL | | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Alianța 2020 USR-PLUS | RO | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| Azione | IT | | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
-| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -48,6 +47,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -75,32 +75,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 70 | 0.1% | 100% |  |
-| 71 | 0.2% | 99.9% |  |
-| 72 | 0.4% | 99.7% |  |
-| 73 | 0.9% | 99.3% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0.1% | 99.9% |  |
+| 71 | 0.2% | 99.8% |  |
+| 72 | 0.5% | 99.6% |  |
+| 73 | 1.0% | 99.1% |  |
 | 74 | 2% | 98% |  |
-| 75 | 3% | 97% |  |
-| 76 | 4% | 94% |  |
-| 77 | 5% | 90% |  |
-| 78 | 7% | 85% |  |
-| 79 | 8% | 78% |  |
-| 80 | 9% | 70% |  |
-| 81 | 10% | 61% |  |
-| 82 | 10% | 51% | Median |
-| 83 | 9% | 41% |  |
-| 84 | 8% | 31% |  |
-| 85 | 7% | 23% |  |
-| 86 | 5% | 16% |  |
-| 87 | 4% | 11% |  |
-| 88 | 3% | 7% |  |
+| 75 | 3% | 96% |  |
+| 76 | 4% | 93% |  |
+| 77 | 6% | 89% |  |
+| 78 | 7% | 83% |  |
+| 79 | 9% | 75% |  |
+| 80 | 9% | 67% |  |
+| 81 | 10% | 57% | Median |
+| 82 | 10% | 48% |  |
+| 83 | 9% | 38% |  |
+| 84 | 8% | 29% |  |
+| 85 | 6% | 21% |  |
+| 86 | 5% | 15% |  |
+| 87 | 4% | 10% |  |
+| 88 | 2% | 6% |  |
 | 89 | 2% | 4% |  |
 | 90 | 1.0% | 2% |  |
-| 91 | 0.6% | 1.1% |  |
+| 91 | 0.5% | 1.1% |  |
 | 92 | 0.3% | 0.6% |  |
 | 93 | 0.1% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
