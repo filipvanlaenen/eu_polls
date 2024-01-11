@@ -8,17 +8,17 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **36** seats (-3 seats)
+Current median: **37** seats (-2 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, PT, SE
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 36 | 33–39 | 32–40 | 31–41 | 28–43 |
+| European United Left–Nordic Green Left | EU | 39 | 37 | 34–40 | 33–41 | 32–42 | 29–44 |
 | La France insoumise | FR | | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
 | Sinn Féin | IE | | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | Die Linke | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
@@ -31,6 +31,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
+| Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -42,10 +43,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Parti communiste français | FR | | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
-| Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -57,27 +56,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.2% | 99.9% |  |
-| 28 | 0.3% | 99.8% |  |
-| 29 | 0.4% | 99.5% |  |
-| 30 | 0.7% | 99.0% |  |
-| 31 | 2% | 98% |  |
-| 32 | 4% | 97% |  |
-| 33 | 7% | 93% |  |
-| 34 | 12% | 86% |  |
-| 35 | 15% | 74% |  |
-| 36 | 16% | 59% | Median |
-| 37 | 15% | 42% |  |
-| 38 | 11% | 27% |  |
-| 39 | 7% | 16% | Last Result |
-| 40 | 4% | 9% |  |
-| 41 | 2% | 5% |  |
-| 42 | 1.3% | 2% |  |
-| 43 | 0.6% | 1.1% |  |
-| 44 | 0.3% | 0.5% |  |
-| 45 | 0.1% | 0.2% |  |
-| 46 | 0% | 0.1% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.2% | 99.8% |  |
+| 29 | 0.3% | 99.6% |  |
+| 30 | 0.6% | 99.3% |  |
+| 31 | 1.1% | 98.7% |  |
+| 32 | 2% | 98% |  |
+| 33 | 5% | 95% |  |
+| 34 | 9% | 90% |  |
+| 35 | 14% | 81% |  |
+| 36 | 16% | 67% |  |
+| 37 | 16% | 51% | Median |
+| 38 | 13% | 34% |  |
+| 39 | 9% | 21% | Last Result |
+| 40 | 6% | 12% |  |
+| 41 | 3% | 6% |  |
+| 42 | 2% | 3% |  |
+| 43 | 0.9% | 2% |  |
+| 44 | 0.4% | 0.7% |  |
+| 45 | 0.2% | 0.3% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
 
