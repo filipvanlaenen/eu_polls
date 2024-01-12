@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 91 | 86–96 | 84–97 | 83–98 | 80–101 |
+| Identity and Democracy | EU | 76 | 91 | 86–96 | 85–97 | 83–99 | 81–101 |
 | Rassemblement national | FR | | 27 | 25–30 | 24–31 | 24–32 | 23–33 |
 | Alternative für Deutschland | DE | | 21 | 18–23 | 15–24 | 15–25 | 15–25 |
 | Partij voor de Vrijheid | NL | | 12 | 11–13 | 11–13 | 10–13 | 10–13 |
@@ -30,7 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Възраждане | BG | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Konfederacja Korony Polskiej | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Konfederacja Korony Polskiej | PL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -45,31 +45,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0% | 100% | Last Result |
 | 77 | 0% | 100% |  |
-| 78 | 0.1% | 100% |  |
+| 78 | 0% | 100% |  |
 | 79 | 0.1% | 99.9% |  |
 | 80 | 0.3% | 99.8% |  |
 | 81 | 0.5% | 99.5% |  |
-| 82 | 0.9% | 99.0% |  |
+| 82 | 0.8% | 99.0% |  |
 | 83 | 1.3% | 98% |  |
 | 84 | 2% | 97% |  |
 | 85 | 3% | 95% |  |
 | 86 | 4% | 92% |  |
-| 87 | 6% | 88% |  |
-| 88 | 7% | 82% |  |
-| 89 | 9% | 75% |  |
-| 90 | 10% | 66% |  |
-| 91 | 11% | 56% | Median |
-| 92 | 10% | 45% |  |
-| 93 | 9% | 35% |  |
-| 94 | 8% | 26% |  |
-| 95 | 6% | 18% |  |
-| 96 | 4% | 12% |  |
-| 97 | 3% | 7% |  |
-| 98 | 2% | 4% |  |
-| 99 | 1.2% | 2% |  |
-| 100 | 0.6% | 1.2% |  |
-| 101 | 0.3% | 0.6% |  |
-| 102 | 0.1% | 0.2% |  |
+| 87 | 5% | 89% |  |
+| 88 | 7% | 83% |  |
+| 89 | 9% | 76% |  |
+| 90 | 10% | 67% |  |
+| 91 | 11% | 57% | Median |
+| 92 | 10% | 47% |  |
+| 93 | 9% | 36% |  |
+| 94 | 8% | 27% |  |
+| 95 | 6% | 19% |  |
+| 96 | 5% | 13% |  |
+| 97 | 3% | 8% |  |
+| 98 | 2% | 5% |  |
+| 99 | 1.3% | 3% |  |
+| 100 | 0.7% | 1.3% |  |
+| 101 | 0.4% | 0.6% |  |
+| 102 | 0.2% | 0.3% |  |
 | 103 | 0.1% | 0.1% |  |
 | 104 | 0% | 0% |  |
 
