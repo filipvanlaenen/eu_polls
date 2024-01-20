@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 176 | 170–181 | 169–182 | 168–184 | 165–186 |
+| European People’s Party | EU | 187 | 176 | 171–181 | 169–183 | 168–184 | 165–186 |
 | Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–24 | 21–26 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
-| Νέα Δημοκρατία | GR | | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
+| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
@@ -42,9 +42,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
 | BoerBurgerBeweging | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
-| Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -81,32 +81,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
+| 162 | 0% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.8% |  |
-| 165 | 0.3% | 99.6% |  |
-| 166 | 0.6% | 99.3% |  |
-| 167 | 1.0% | 98.7% |  |
-| 168 | 2% | 98% |  |
-| 169 | 3% | 96% |  |
-| 170 | 4% | 94% |  |
-| 171 | 5% | 90% |  |
-| 172 | 6% | 85% |  |
-| 173 | 8% | 78% |  |
-| 174 | 9% | 70% |  |
-| 175 | 10% | 61% |  |
-| 176 | 10% | 52% | Median |
-| 177 | 9% | 42% |  |
-| 178 | 8% | 33% |  |
-| 179 | 7% | 24% |  |
-| 180 | 6% | 17% |  |
-| 181 | 4% | 12% |  |
+| 165 | 0.3% | 99.7% |  |
+| 166 | 0.5% | 99.4% |  |
+| 167 | 0.9% | 98.9% |  |
+| 168 | 1.4% | 98% |  |
+| 169 | 2% | 97% |  |
+| 170 | 3% | 94% |  |
+| 171 | 5% | 91% |  |
+| 172 | 6% | 86% |  |
+| 173 | 8% | 80% |  |
+| 174 | 9% | 72% |  |
+| 175 | 10% | 64% |  |
+| 176 | 10% | 54% | Median |
+| 177 | 10% | 44% |  |
+| 178 | 9% | 34% |  |
+| 179 | 7% | 26% |  |
+| 180 | 6% | 18% |  |
+| 181 | 4% | 13% |  |
 | 182 | 3% | 8% |  |
 | 183 | 2% | 5% |  |
-| 184 | 1.2% | 3% |  |
-| 185 | 0.7% | 2% |  |
-| 186 | 0.4% | 0.8% |  |
+| 184 | 1.3% | 3% |  |
+| 185 | 0.8% | 2% |  |
+| 186 | 0.4% | 0.9% |  |
 | 187 | 0.2% | 0.4% | Last Result |
 | 188 | 0.1% | 0.2% |  |
 | 189 | 0.1% | 0.1% |  |

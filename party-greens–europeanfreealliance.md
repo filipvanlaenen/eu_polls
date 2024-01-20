@@ -22,17 +22,17 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Bündnis 90/Die Grünen | DE | | 12 | 11–15 | 11–15 | 10–15 | 10–16 |
 | Europe Écologie Les Verts | FR | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Lehet Más a Politika | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -55,6 +55,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
+| Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
@@ -67,24 +68,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
-| 41 | 0.5% | 99.6% |  |
-| 42 | 1.0% | 99.1% |  |
+| 41 | 0.4% | 99.7% |  |
+| 42 | 0.9% | 99.3% |  |
 | 43 | 2% | 98% |  |
-| 44 | 3% | 96% |  |
-| 45 | 6% | 93% |  |
-| 46 | 8% | 87% |  |
-| 47 | 11% | 79% |  |
-| 48 | 13% | 68% |  |
-| 49 | 14% | 55% | Median |
+| 44 | 3% | 97% |  |
+| 45 | 5% | 94% |  |
+| 46 | 8% | 88% |  |
+| 47 | 11% | 80% |  |
+| 48 | 13% | 70% |  |
+| 49 | 14% | 56% | Median |
 | 50 | 13% | 42% |  |
 | 51 | 11% | 29% |  |
 | 52 | 8% | 18% |  |
 | 53 | 5% | 10% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.3% | 2% |  |
-| 56 | 0.5% | 0.7% |  |
-| 57 | 0.2% | 0.2% |  |
-| 58 | 0% | 0.1% |  |
+| 54 | 3% | 4% |  |
+| 55 | 1.2% | 2% |  |
+| 56 | 0.4% | 0.6% |  |
+| 57 | 0.1% | 0.2% |  |
+| 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
