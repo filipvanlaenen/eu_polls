@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 175 | 169–180 | 168–181 | 166–183 | 164–185 |
+| European People’s Party | EU | 187 | 175 | 170–181 | 169–182 | 167–184 | 164–186 |
 | Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 21–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
@@ -35,7 +35,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Polskie Stronnictwo Ludowe | PL | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | Slovenska demokratska stranka | SI | | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -57,13 +57,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| TOP 09 | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| TOP 09 | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -81,35 +81,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 160 | 0% | 100% |  |
-| 161 | 0.1% | 99.9% |  |
+| 161 | 0% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
-| 163 | 0.2% | 99.8% |  |
-| 164 | 0.4% | 99.5% |  |
-| 165 | 0.7% | 99.2% |  |
-| 166 | 1.1% | 98% |  |
-| 167 | 2% | 97% |  |
-| 168 | 3% | 96% |  |
-| 169 | 4% | 93% |  |
-| 170 | 5% | 89% |  |
-| 171 | 7% | 84% |  |
-| 172 | 8% | 77% |  |
-| 173 | 9% | 69% |  |
-| 174 | 10% | 60% |  |
-| 175 | 10% | 51% | Median |
-| 176 | 9% | 41% |  |
-| 177 | 8% | 32% |  |
-| 178 | 7% | 24% |  |
-| 179 | 5% | 17% |  |
-| 180 | 4% | 12% |  |
-| 181 | 3% | 8% |  |
-| 182 | 2% | 5% |  |
-| 183 | 1.2% | 3% |  |
-| 184 | 0.7% | 2% |  |
-| 185 | 0.4% | 0.9% |  |
-| 186 | 0.2% | 0.5% |  |
-| 187 | 0.1% | 0.2% | Last Result |
-| 188 | 0.1% | 0.1% |  |
-| 189 | 0% | 0% |  |
+| 163 | 0.1% | 99.9% |  |
+| 164 | 0.2% | 99.7% |  |
+| 165 | 0.4% | 99.5% |  |
+| 166 | 0.8% | 99.0% |  |
+| 167 | 1.2% | 98% |  |
+| 168 | 2% | 97% |  |
+| 169 | 3% | 95% |  |
+| 170 | 4% | 92% |  |
+| 171 | 5% | 88% |  |
+| 172 | 7% | 83% |  |
+| 173 | 8% | 76% |  |
+| 174 | 9% | 68% |  |
+| 175 | 10% | 58% | Median |
+| 176 | 9% | 49% |  |
+| 177 | 9% | 39% |  |
+| 178 | 8% | 30% |  |
+| 179 | 7% | 23% |  |
+| 180 | 5% | 16% |  |
+| 181 | 4% | 11% |  |
+| 182 | 3% | 7% |  |
+| 183 | 2% | 4% |  |
+| 184 | 1.1% | 3% |  |
+| 185 | 0.7% | 1.5% |  |
+| 186 | 0.4% | 0.8% |  |
+| 187 | 0.2% | 0.4% | Last Result |
+| 188 | 0.1% | 0.2% |  |
+| 189 | 0.1% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 

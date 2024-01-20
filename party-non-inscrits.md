@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CY, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -41,7 +41,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 | Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
