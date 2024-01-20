@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **175** seats (-12 seats)
+Current median: **176** seats (-11 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 175 | 170–181 | 169–182 | 167–184 | 164–186 |
-| Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 21–29 |
-| Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
+| European People’s Party | EU | 187 | 176 | 170–181 | 169–182 | 168–184 | 165–186 |
+| Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–24 | 21–26 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
 | Νέα Δημοκρατία | GR | | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| Christlich-Soziale Union in Bayern | DE | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
@@ -37,10 +37,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
+| Erakond Isamaa | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Fine Gael | IE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
 | BoerBurgerBeweging | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -84,28 +84,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0% | 100% |  |
 | 162 | 0.1% | 99.9% |  |
 | 163 | 0.1% | 99.9% |  |
-| 164 | 0.2% | 99.7% |  |
-| 165 | 0.4% | 99.5% |  |
-| 166 | 0.8% | 99.0% |  |
-| 167 | 1.2% | 98% |  |
-| 168 | 2% | 97% |  |
-| 169 | 3% | 95% |  |
-| 170 | 4% | 92% |  |
-| 171 | 5% | 88% |  |
-| 172 | 7% | 83% |  |
-| 173 | 8% | 76% |  |
-| 174 | 9% | 68% |  |
-| 175 | 10% | 58% | Median |
-| 176 | 9% | 49% |  |
-| 177 | 9% | 39% |  |
-| 178 | 8% | 30% |  |
-| 179 | 7% | 23% |  |
-| 180 | 5% | 16% |  |
-| 181 | 4% | 11% |  |
-| 182 | 3% | 7% |  |
-| 183 | 2% | 4% |  |
-| 184 | 1.1% | 3% |  |
-| 185 | 0.7% | 1.5% |  |
+| 164 | 0.2% | 99.8% |  |
+| 165 | 0.3% | 99.6% |  |
+| 166 | 0.6% | 99.3% |  |
+| 167 | 1.0% | 98.7% |  |
+| 168 | 2% | 98% |  |
+| 169 | 3% | 96% |  |
+| 170 | 4% | 94% |  |
+| 171 | 5% | 90% |  |
+| 172 | 6% | 85% |  |
+| 173 | 8% | 78% |  |
+| 174 | 9% | 70% |  |
+| 175 | 10% | 61% |  |
+| 176 | 10% | 52% | Median |
+| 177 | 9% | 42% |  |
+| 178 | 8% | 33% |  |
+| 179 | 7% | 24% |  |
+| 180 | 6% | 17% |  |
+| 181 | 4% | 12% |  |
+| 182 | 3% | 8% |  |
+| 183 | 2% | 5% |  |
+| 184 | 1.2% | 3% |  |
+| 185 | 0.7% | 2% |  |
 | 186 | 0.4% | 0.8% |  |
 | 187 | 0.2% | 0.4% | Last Result |
 | 188 | 0.1% | 0.2% |  |
