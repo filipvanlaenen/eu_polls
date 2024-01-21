@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **176** seats (-11 seats)
+Current median: **175** seats (-12 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 176 | 171–181 | 169–182 | 168–184 | 165–186 |
+| European People’s Party | EU | 187 | 175 | 170–180 | 169–182 | 167–183 | 165–185 |
 | Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
-| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–24 | 21–26 | 20–26 | 20–27 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 22–24 | 22–24 | 22–24 | 20–26 |
 | Platforma Obywatelska | PL | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 5–9 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
 | Forza Italia | IT | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -60,7 +60,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | CDS–Partido Popular | PT | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -81,34 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 0% | 100% |  |
+| 161 | 0% | 100% |  |
+| 162 | 0.1% | 99.9% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.8% |  |
-| 165 | 0.3% | 99.7% |  |
-| 166 | 0.5% | 99.4% |  |
-| 167 | 0.9% | 98.8% |  |
-| 168 | 1.5% | 98% |  |
-| 169 | 2% | 96% |  |
-| 170 | 3% | 94% |  |
-| 171 | 5% | 91% |  |
-| 172 | 6% | 86% |  |
-| 173 | 8% | 80% |  |
-| 174 | 9% | 72% |  |
-| 175 | 10% | 63% |  |
-| 176 | 10% | 53% | Median |
-| 177 | 9% | 43% |  |
-| 178 | 9% | 34% |  |
-| 179 | 7% | 25% |  |
-| 180 | 6% | 18% |  |
-| 181 | 4% | 12% |  |
-| 182 | 3% | 8% |  |
-| 183 | 2% | 5% |  |
-| 184 | 1.3% | 3% |  |
-| 185 | 0.8% | 2% |  |
-| 186 | 0.4% | 0.9% |  |
-| 187 | 0.2% | 0.4% | Last Result |
-| 188 | 0.1% | 0.2% |  |
-| 189 | 0.1% | 0.1% |  |
-| 190 | 0% | 0% |  |
+| 165 | 0.4% | 99.5% |  |
+| 166 | 0.7% | 99.2% |  |
+| 167 | 1.2% | 98% |  |
+| 168 | 2% | 97% |  |
+| 169 | 3% | 95% |  |
+| 170 | 4% | 93% |  |
+| 171 | 6% | 88% |  |
+| 172 | 7% | 83% |  |
+| 173 | 9% | 75% |  |
+| 174 | 10% | 67% |  |
+| 175 | 10% | 57% | Median |
+| 176 | 10% | 47% |  |
+| 177 | 9% | 37% |  |
+| 178 | 8% | 27% |  |
+| 179 | 6% | 20% |  |
+| 180 | 5% | 13% |  |
+| 181 | 3% | 8% |  |
+| 182 | 2% | 5% |  |
+| 183 | 1.3% | 3% |  |
+| 184 | 0.8% | 2% |  |
+| 185 | 0.4% | 0.8% |  |
+| 186 | 0.2% | 0.4% |  |
+| 187 | 0.1% | 0.2% | Last Result |
+| 188 | 0% | 0.1% |  |
+| 189 | 0% | 0% |  |
 
 

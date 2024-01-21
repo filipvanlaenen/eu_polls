@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–9 | 4–9 | 3–10 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 3–9 | 3–10 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Slovenská národná strana [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -26,7 +26,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -64,16 +64,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 2% | 99.9% |  |
-| 4 | 10% | 98% |  |
-| 5 | 19% | 88% |  |
-| 6 | 26% | 69% | Median |
-| 7 | 24% | 43% |  |
-| 8 | 13% | 19% |  |
-| 9 | 5% | 6% |  |
-| 10 | 1.1% | 1.3% |  |
-| 11 | 0.2% | 0.3% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 3 | 3% | 99.9% |  |
+| 4 | 10% | 97% |  |
+| 5 | 20% | 87% |  |
+| 6 | 27% | 67% | Median |
+| 7 | 23% | 40% |  |
+| 8 | 12% | 17% |  |
+| 9 | 4% | 5% |  |
+| 10 | 0.8% | 0.9% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 
