@@ -18,14 +18,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 176 | 171–181 | 169–183 | 168–184 | 165–186 |
+| European People’s Party | EU | 187 | 176 | 171–181 | 169–182 | 168–184 | 165–186 |
 | Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
-| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–24 | 21–26 | 21–26 | 20–27 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–24 | 21–26 | 20–26 | 20–27 |
 | Platforma Obywatelska | PL | | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partido Social Democrata | PT | | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | Partidul Național Liberal | RO | | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
 | Forza Italia | IT | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -86,21 +86,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.2% | 99.8% |  |
 | 165 | 0.3% | 99.7% |  |
 | 166 | 0.5% | 99.4% |  |
-| 167 | 0.9% | 98.9% |  |
-| 168 | 1.4% | 98% |  |
-| 169 | 2% | 97% |  |
+| 167 | 0.9% | 98.8% |  |
+| 168 | 1.5% | 98% |  |
+| 169 | 2% | 96% |  |
 | 170 | 3% | 94% |  |
 | 171 | 5% | 91% |  |
 | 172 | 6% | 86% |  |
 | 173 | 8% | 80% |  |
 | 174 | 9% | 72% |  |
-| 175 | 10% | 64% |  |
-| 176 | 10% | 54% | Median |
-| 177 | 10% | 44% |  |
+| 175 | 10% | 63% |  |
+| 176 | 10% | 53% | Median |
+| 177 | 9% | 43% |  |
 | 178 | 9% | 34% |  |
-| 179 | 7% | 26% |  |
+| 179 | 7% | 25% |  |
 | 180 | 6% | 18% |  |
-| 181 | 4% | 13% |  |
+| 181 | 4% | 12% |  |
 | 182 | 3% | 8% |  |
 | 183 | 2% | 5% |  |
 | 184 | 1.3% | 3% |  |

@@ -8,18 +8,17 @@ Members registered from **19 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **7** seats (+7 seats)
+Current median: **6** seats (+6 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> DE, GR, IE, LV, PL, SK
+> GR, IE, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 7 | 4–9 | 4–11 | 4–11 | 3–13 |
-| Bündnis Sahra Wagenknecht [DE] (*) | DE | | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–9 | 4–9 | 3–10 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Slovenská národná strana [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,17 +65,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 2% | 99.9% |  |
-| 4 | 8% | 98% |  |
-| 5 | 17% | 90% |  |
-| 6 | 23% | 73% |  |
-| 7 | 21% | 50% | Median |
-| 8 | 13% | 29% |  |
-| 9 | 7% | 16% |  |
-| 10 | 4% | 10% |  |
-| 11 | 3% | 5% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0.5% | 0.7% |  |
-| 14 | 0.1% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 4 | 10% | 98% |  |
+| 5 | 19% | 88% |  |
+| 6 | 26% | 69% | Median |
+| 7 | 24% | 43% |  |
+| 8 | 13% | 19% |  |
+| 9 | 5% | 6% |  |
+| 10 | 1.1% | 1.3% |  |
+| 11 | 0.2% | 0.3% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
