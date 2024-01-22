@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI, SK
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, NL, PL, SI
 
 ## Seats
 
@@ -10,18 +10,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **6** seats (+6 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> GR, IE, LV, PL, SK
+> GR, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 3–9 | 3–10 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 5–8 | 4–8 | 4–9 | 3–10 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Slovenská národná strana [SK] (*) | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,15 +63,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 11% | 97% |  |
-| 5 | 21% | 86% |  |
-| 6 | 28% | 65% | Median |
-| 7 | 23% | 37% |  |
-| 8 | 11% | 14% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.5% | 0.7% |  |
-| 11 | 0.1% | 0.1% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 8% | 99.4% |  |
+| 5 | 18% | 91% |  |
+| 6 | 28% | 73% | Median |
+| 7 | 27% | 45% |  |
+| 8 | 14% | 19% |  |
+| 9 | 4% | 5% |  |
+| 10 | 0.7% | 0.9% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 

@@ -14,11 +14,11 @@
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 147 | 138 | 134–143 |133–144 | 131–145 | 129–148 |
 | <a href="#identity-and-democracy">Identity and Democracy</a> | 76 | 90 | 86–94 |85–95 | 84–96 | 83–98 |
 | <a href="#renew-europe">Renew Europe</a> | 98 | 81 | 76–86 |75–88 | 74–89 | 72–91 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 78 | 74–82 |73–83 | 73–84 | 71–86 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 80 | 76–84 |75–85 | 74–86 | 72–88 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 49 | 45–52 |44–53 | 43–54 | 42–56 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 29 | 48 | 43–51 |42–52 | 41–53 | 39–54 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 41 | 38–45 |37–46 | 36–47 | 34–48 |
-| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 6 | 4–8 |4–8 | 3–9 | 3–10 |
+| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 6 | 5–8 |4–8 | 4–9 | 3–10 |
 
 ### European People’s Party
 
@@ -218,28 +218,29 @@
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.6% | 99.7% |  |
-| 72 | 1.4% | 99.2% |  |
-| 73 | 3% | 98% |  |
-| 74 | 5% | 95% |  |
-| 75 | 8% | 90% |  |
-| 76 | 10% | 82% |  |
-| 77 | 12% | 71% |  |
-| 78 | 13% | 59% | Median |
-| 79 | 13% | 46% |  |
-| 80 | 11% | 34% |  |
-| 81 | 9% | 23% |  |
-| 82 | 6% | 14% |  |
-| 83 | 4% | 8% |  |
-| 84 | 2% | 4% |  |
-| 85 | 1.0% | 2% |  |
-| 86 | 0.5% | 0.8% |  |
-| 87 | 0.2% | 0.3% |  |
-| 88 | 0.1% | 0.1% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.4% | 99.8% |  |
+| 73 | 1.1% | 99.4% |  |
+| 74 | 2% | 98% |  |
+| 75 | 4% | 96% |  |
+| 76 | 7% | 92% |  |
+| 77 | 9% | 85% |  |
+| 78 | 11% | 76% |  |
+| 79 | 13% | 64% |  |
+| 80 | 13% | 52% | Median |
+| 81 | 12% | 39% |  |
+| 82 | 10% | 28% |  |
+| 83 | 7% | 18% |  |
+| 84 | 5% | 11% |  |
+| 85 | 3% | 6% |  |
+| 86 | 2% | 3% |  |
+| 87 | 0.7% | 1.3% |  |
+| 88 | 0.3% | 0.5% |  |
+| 89 | 0.1% | 0.2% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 ### European United Left–Nordic Green Left
 
@@ -319,15 +320,15 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 11% | 97% |  |
-| 5 | 21% | 86% |  |
-| 6 | 28% | 65% | Median |
-| 7 | 23% | 37% |  |
-| 8 | 11% | 14% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.5% | 0.7% |  |
-| 11 | 0.1% | 0.1% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 8% | 99.4% |  |
+| 5 | 18% | 91% |  |
+| 6 | 28% | 73% | Median |
+| 7 | 27% | 45% |  |
+| 8 | 14% | 19% |  |
+| 9 | 4% | 5% |  |
+| 10 | 0.7% | 0.9% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
