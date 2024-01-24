@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (+19 seats)
+Current median: **47** seats (+18 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 43–51 | 42–52 | 41–53 | 39–54 |
+| Non-Inscrits | EU | 29 | 47 | 43–51 | 41–52 | 40–52 | 39–54 |
 | Movimento 5 Stelle | IT | | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
 | Fidesz | HU | | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
 | Reconquête | FR | | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
@@ -26,9 +26,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 2–5 | 2–6 | 2–6 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Die PARTEI | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -38,10 +38,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
-| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -60,24 +58,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
 | 37 | 0.1% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.6% | 99.7% |  |
-| 40 | 1.2% | 99.1% |  |
-| 41 | 2% | 98% |  |
-| 42 | 3% | 96% |  |
-| 43 | 3% | 93% |  |
-| 44 | 5% | 90% |  |
-| 45 | 7% | 85% |  |
-| 46 | 10% | 78% |  |
-| 47 | 14% | 68% |  |
-| 48 | 15% | 54% | Median |
-| 49 | 14% | 39% |  |
-| 50 | 11% | 25% |  |
-| 51 | 7% | 15% |  |
-| 52 | 4% | 7% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.8% | 1.2% |  |
-| 55 | 0.3% | 0.4% |  |
+| 38 | 0.3% | 99.9% |  |
+| 39 | 0.8% | 99.5% |  |
+| 40 | 2% | 98.7% |  |
+| 41 | 2% | 97% |  |
+| 42 | 3% | 95% |  |
+| 43 | 4% | 92% |  |
+| 44 | 5% | 88% |  |
+| 45 | 8% | 83% |  |
+| 46 | 12% | 75% |  |
+| 47 | 14% | 63% | Median |
+| 48 | 15% | 48% |  |
+| 49 | 13% | 34% |  |
+| 50 | 9% | 21% |  |
+| 51 | 6% | 11% |  |
+| 52 | 3% | 5% |  |
+| 53 | 1.4% | 2% |  |
+| 54 | 0.6% | 0.8% |  |
+| 55 | 0.2% | 0.3% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 

@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **138** seats (-9 seats)
+Current median: **139** seats (-8 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 138 | 134–143 | 133–144 | 131–145 | 129–148 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 139 | 134–143 | 133–145 | 132–146 | 130–148 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 19–24 | 18–26 |
 | Partito Democratico | IT | | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | Partidul Social Democrat | RO | | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | Parti socialiste | FR | | 8 | 7–10 | 6–11 | 6–11 | 6–11 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| Socialdemokraterne | DK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Nowa Lewica | PL | | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
-| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Nowa Lewica | PL | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
@@ -63,30 +63,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 127 | 0.1% | 100% |  |
+| 127 | 0% | 100% |  |
 | 128 | 0.1% | 99.9% |  |
 | 129 | 0.3% | 99.8% |  |
-| 130 | 0.7% | 99.4% |  |
-| 131 | 1.3% | 98.7% |  |
-| 132 | 2% | 97% |  |
-| 133 | 4% | 95% |  |
-| 134 | 6% | 91% |  |
-| 135 | 7% | 86% |  |
-| 136 | 9% | 78% |  |
-| 137 | 11% | 69% |  |
-| 138 | 11% | 59% | Median |
-| 139 | 11% | 47% |  |
-| 140 | 10% | 36% |  |
-| 141 | 8% | 27% |  |
-| 142 | 6% | 18% |  |
-| 143 | 5% | 12% |  |
-| 144 | 3% | 7% |  |
-| 145 | 2% | 4% |  |
-| 146 | 1.1% | 2% |  |
-| 147 | 0.6% | 1.2% | Last Result |
-| 148 | 0.3% | 0.6% |  |
-| 149 | 0.2% | 0.3% |  |
-| 150 | 0.1% | 0.1% |  |
-| 151 | 0% | 0% |  |
+| 130 | 0.6% | 99.6% |  |
+| 131 | 1.1% | 99.0% |  |
+| 132 | 2% | 98% |  |
+| 133 | 3% | 96% |  |
+| 134 | 5% | 93% |  |
+| 135 | 7% | 88% |  |
+| 136 | 9% | 81% |  |
+| 137 | 10% | 72% |  |
+| 138 | 11% | 62% |  |
+| 139 | 11% | 51% | Median |
+| 140 | 10% | 40% |  |
+| 141 | 9% | 30% |  |
+| 142 | 7% | 21% |  |
+| 143 | 5% | 14% |  |
+| 144 | 4% | 9% |  |
+| 145 | 2% | 5% |  |
+| 146 | 1.4% | 3% |  |
+| 147 | 0.8% | 2% | Last Result |
+| 148 | 0.4% | 0.8% |  |
+| 149 | 0.2% | 0.4% |  |
+| 150 | 0.1% | 0.2% |  |
+| 151 | 0% | 0.1% |  |
+| 152 | 0% | 0% |  |
 
 
