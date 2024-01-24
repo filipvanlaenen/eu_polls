@@ -63,7 +63,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
-| Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -78,14 +78,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
-| 71 | 0.7% | 99.5% |  |
-| 72 | 1.3% | 98.8% |  |
+| 71 | 0.6% | 99.5% |  |
+| 72 | 1.2% | 98.9% |  |
 | 73 | 2% | 98% |  |
 | 74 | 3% | 95% |  |
 | 75 | 5% | 92% |  |
-| 76 | 7% | 87% |  |
+| 76 | 6% | 87% |  |
 | 77 | 8% | 81% |  |
-| 78 | 9% | 72% |  |
+| 78 | 9% | 73% |  |
 | 79 | 10% | 63% |  |
 | 80 | 10% | 53% | Median |
 | 81 | 10% | 43% |  |
@@ -96,9 +96,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 3% | 7% |  |
 | 87 | 2% | 4% |  |
 | 88 | 1.1% | 2% |  |
-| 89 | 0.6% | 1.1% |  |
-| 90 | 0.3% | 0.5% |  |
-| 91 | 0.1% | 0.2% |  |
+| 89 | 0.6% | 1.2% |  |
+| 90 | 0.3% | 0.6% |  |
+| 91 | 0.1% | 0.3% |  |
 | 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0% |  |
 | 94 | 0% | 0% |  |
