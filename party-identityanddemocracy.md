@@ -28,7 +28,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Svoboda a přímá demokracie | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Svoboda a přímá demokracie | CZ | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -54,15 +54,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 5% | 94% |  |
 | 86 | 8% | 88% |  |
 | 87 | 10% | 81% |  |
-| 88 | 12% | 71% |  |
+| 88 | 12% | 70% |  |
 | 89 | 12% | 59% | Median |
-| 90 | 12% | 47% |  |
+| 90 | 12% | 46% |  |
 | 91 | 10% | 35% |  |
 | 92 | 8% | 24% |  |
 | 93 | 6% | 16% |  |
 | 94 | 4% | 10% |  |
-| 95 | 3% | 6% |  |
-| 96 | 2% | 3% |  |
+| 95 | 3% | 5% |  |
+| 96 | 1.5% | 3% |  |
 | 97 | 0.8% | 1.4% |  |
 | 98 | 0.4% | 0.6% |  |
 | 99 | 0.2% | 0.3% |  |
