@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 89 | 85–94 | 84–95 | 83–96 | 82–98 |
+| Identity and Democracy | EU | 76 | 89 | 85–93 | 84–95 | 83–96 | 82–98 |
 | Rassemblement national | FR | | 26 | 24–29 | 24–30 | 23–31 | 22–32 |
 | Alternative für Deutschland | DE | | 21 | 19–23 | 18–24 | 18–24 | 18–25 |
 | Partij voor de Vrijheid | NL | | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
@@ -28,7 +28,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Svoboda a přímá demokracie | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Svoboda a přímá demokracie | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -47,24 +47,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 0% | 100% |  |
 | 79 | 0% | 100% |  |
 | 80 | 0.1% | 100% |  |
-| 81 | 0.3% | 99.9% |  |
+| 81 | 0.3% | 99.8% |  |
 | 82 | 0.8% | 99.5% |  |
-| 83 | 2% | 98.8% |  |
+| 83 | 2% | 98.7% |  |
 | 84 | 3% | 97% |  |
 | 85 | 5% | 94% |  |
-| 86 | 8% | 89% |  |
+| 86 | 8% | 88% |  |
 | 87 | 10% | 81% |  |
 | 88 | 12% | 71% |  |
-| 89 | 12% | 60% | Median |
+| 89 | 12% | 59% | Median |
 | 90 | 12% | 47% |  |
-| 91 | 11% | 35% |  |
-| 92 | 9% | 25% |  |
+| 91 | 10% | 35% |  |
+| 92 | 8% | 24% |  |
 | 93 | 6% | 16% |  |
 | 94 | 4% | 10% |  |
 | 95 | 3% | 6% |  |
 | 96 | 2% | 3% |  |
-| 97 | 0.8% | 2% |  |
-| 98 | 0.4% | 0.7% |  |
+| 97 | 0.8% | 1.4% |  |
+| 98 | 0.4% | 0.6% |  |
 | 99 | 0.2% | 0.3% |  |
 | 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |

@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 177 | 172–182 | 170–183 | 169–185 | 166–187 |
+| European People’s Party | EU | 187 | 177 | 172–182 | 171–184 | 170–185 | 167–188 |
 | Partido Popular | ES | | 25 | 24–27 | 23–28 | 23–28 | 22–30 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 21–27 | 21–27 | 20–27 |
 | Platforma Obywatelska | PL | | 17 | 14–18 | 14–18 | 14–19 | 13–19 |
@@ -42,7 +42,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
 | BoerBurgerBeweging | NL | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 2 | 1–2 |
-| Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 1 | 1 | 1 | 1 |
@@ -57,14 +58,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| TOP 09 | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -81,34 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 163 | 0% | 100% |  |
-| 164 | 0.1% | 99.9% |  |
+| 164 | 0.1% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.3% | 99.7% |  |
-| 167 | 0.5% | 99.5% |  |
-| 168 | 0.8% | 99.0% |  |
-| 169 | 1.3% | 98% |  |
-| 170 | 2% | 97% |  |
-| 171 | 3% | 95% |  |
-| 172 | 5% | 92% |  |
-| 173 | 6% | 87% |  |
-| 174 | 8% | 81% |  |
-| 175 | 9% | 73% |  |
-| 176 | 10% | 64% |  |
-| 177 | 10% | 54% | Median |
-| 178 | 10% | 44% |  |
-| 179 | 9% | 34% |  |
-| 180 | 7% | 25% |  |
-| 181 | 6% | 18% |  |
-| 182 | 4% | 12% |  |
-| 183 | 3% | 8% |  |
-| 184 | 2% | 5% |  |
-| 185 | 1.2% | 3% |  |
-| 186 | 0.7% | 2% |  |
-| 187 | 0.4% | 0.9% | Last Result |
-| 188 | 0.2% | 0.4% |  |
-| 189 | 0.1% | 0.2% |  |
+| 166 | 0.2% | 99.8% |  |
+| 167 | 0.3% | 99.6% |  |
+| 168 | 0.6% | 99.3% |  |
+| 169 | 1.0% | 98.7% |  |
+| 170 | 2% | 98% |  |
+| 171 | 3% | 96% |  |
+| 172 | 4% | 93% |  |
+| 173 | 5% | 89% |  |
+| 174 | 7% | 84% |  |
+| 175 | 9% | 77% |  |
+| 176 | 10% | 68% |  |
+| 177 | 10% | 58% | Median |
+| 178 | 10% | 48% |  |
+| 179 | 9% | 38% |  |
+| 180 | 8% | 29% |  |
+| 181 | 6% | 21% |  |
+| 182 | 5% | 14% |  |
+| 183 | 3% | 9% |  |
+| 184 | 2% | 6% |  |
+| 185 | 2% | 3% |  |
+| 186 | 0.9% | 2% |  |
+| 187 | 0.5% | 1.1% | Last Result |
+| 188 | 0.3% | 0.6% |  |
+| 189 | 0.1% | 0.3% |  |
 | 190 | 0.1% | 0.1% |  |
-| 191 | 0% | 0% |  |
+| 191 | 0% | 0.1% |  |
+| 192 | 0% | 0% |  |
 
 

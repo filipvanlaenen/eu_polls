@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 47 | 43–51 | 41–52 | 40–52 | 39–54 |
+| Non-Inscrits | EU | 29 | 47 | 43–51 | 41–51 | 40–52 | 39–54 |
 | Movimento 5 Stelle | IT | | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
 | Fidesz | HU | | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
 | Reconquête | FR | | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
@@ -26,7 +26,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 2–5 | 2–6 | 2–6 | 0–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -68,8 +68,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 8% | 82% |  |
 | 46 | 12% | 74% |  |
 | 47 | 15% | 62% | Median |
-| 48 | 15% | 48% |  |
-| 49 | 13% | 33% |  |
+| 48 | 15% | 47% |  |
+| 49 | 13% | 32% |  |
 | 50 | 9% | 20% |  |
 | 51 | 6% | 11% |  |
 | 52 | 3% | 5% |  |
