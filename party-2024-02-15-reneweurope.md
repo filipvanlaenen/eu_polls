@@ -51,7 +51,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -79,21 +79,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
 | 71 | 0.7% | 99.5% |  |
-| 72 | 1.3% | 98.8% |  |
+| 72 | 1.4% | 98.8% |  |
 | 73 | 2% | 97% |  |
 | 74 | 4% | 95% |  |
 | 75 | 5% | 91% |  |
 | 76 | 7% | 86% |  |
-| 77 | 8% | 79% |  |
-| 78 | 10% | 71% |  |
+| 77 | 9% | 79% |  |
+| 78 | 10% | 70% |  |
 | 79 | 10% | 61% |  |
-| 80 | 10% | 51% | Median |
+| 80 | 10% | 50% | Median |
 | 81 | 10% | 40% |  |
-| 82 | 9% | 31% |  |
+| 82 | 9% | 30% |  |
 | 83 | 7% | 22% |  |
 | 84 | 5% | 15% |  |
 | 85 | 4% | 10% |  |
-| 86 | 3% | 6% |  |
+| 86 | 2% | 6% |  |
 | 87 | 2% | 3% |  |
 | 88 | 0.9% | 2% |  |
 | 89 | 0.5% | 0.9% |  |

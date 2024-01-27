@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 15% | 47% |  |
 | 49 | 13% | 32% |  |
 | 50 | 9% | 20% |  |
-| 51 | 6% | 11% |  |
+| 51 | 6% | 10% |  |
 | 52 | 3% | 5% |  |
 | 53 | 1.3% | 2% |  |
 | 54 | 0.5% | 0.7% |  |
