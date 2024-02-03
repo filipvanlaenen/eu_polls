@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **89** seats (+13 seats)
+Current median: **88** seats (+12 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 89 | 85–93 | 84–95 | 83–96 | 82–98 |
+| Identity and Democracy | EU | 76 | 88 | 84–93 | 83–94 | 82–95 | 80–98 |
 | Rassemblement national | FR | | 26 | 24–29 | 24–30 | 23–31 | 22–32 |
-| Alternative für Deutschland | DE | | 21 | 19–23 | 18–24 | 18–24 | 18–25 |
+| Alternative für Deutschland | DE | | 19 | 18–24 | 17–24 | 17–24 | 16–25 |
 | Partij voor de Vrijheid | NL | | 12 | 12–13 | 12–13 | 12–13 | 12–13 |
 | Lega Nord | IT | | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
-| Freiheitliche Partei Österreichs | AT | | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| Freiheitliche Partei Österreichs | AT | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Dansk Folkeparti | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -44,28 +44,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 76 | 0% | 100% | Last Result |
 | 77 | 0% | 100% |  |
-| 78 | 0% | 100% |  |
-| 79 | 0% | 100% |  |
-| 80 | 0.1% | 100% |  |
-| 81 | 0.3% | 99.8% |  |
-| 82 | 0.8% | 99.5% |  |
-| 83 | 2% | 98.7% |  |
-| 84 | 3% | 97% |  |
-| 85 | 5% | 94% |  |
-| 86 | 8% | 88% |  |
-| 87 | 10% | 81% |  |
-| 88 | 12% | 70% |  |
-| 89 | 12% | 59% | Median |
-| 90 | 12% | 46% |  |
-| 91 | 10% | 35% |  |
-| 92 | 8% | 24% |  |
-| 93 | 6% | 16% |  |
-| 94 | 4% | 10% |  |
-| 95 | 3% | 5% |  |
-| 96 | 1.5% | 3% |  |
-| 97 | 0.8% | 1.4% |  |
-| 98 | 0.4% | 0.6% |  |
-| 99 | 0.2% | 0.3% |  |
+| 78 | 0.1% | 100% |  |
+| 79 | 0.2% | 99.9% |  |
+| 80 | 0.6% | 99.7% |  |
+| 81 | 1.4% | 99.1% |  |
+| 82 | 3% | 98% |  |
+| 83 | 4% | 95% |  |
+| 84 | 6% | 91% |  |
+| 85 | 8% | 85% |  |
+| 86 | 10% | 76% |  |
+| 87 | 10% | 67% |  |
+| 88 | 11% | 56% | Median |
+| 89 | 10% | 46% |  |
+| 90 | 9% | 36% |  |
+| 91 | 8% | 26% |  |
+| 92 | 6% | 19% |  |
+| 93 | 5% | 12% |  |
+| 94 | 3% | 8% |  |
+| 95 | 2% | 5% |  |
+| 96 | 1.2% | 2% |  |
+| 97 | 0.7% | 1.2% |  |
+| 98 | 0.3% | 0.6% |  |
+| 99 | 0.1% | 0.2% |  |
 | 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
 
