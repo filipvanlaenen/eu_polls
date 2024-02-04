@@ -18,13 +18,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 42 | 39–46 | 38–47 | 37–48 | 35–50 |
+| European United Left–Nordic Green Left | EU | 39 | 42 | 38–46 | 38–47 | 37–48 | 35–50 |
 | La France insoumise | FR | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 2–9 | 2–9 | 2–9 | 2–10 |
 | Die Linke | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–7 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -59,26 +59,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0.1% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.4% | 99.8% |  |
-| 36 | 1.0% | 99.4% |  |
+| 35 | 0.4% | 99.7% |  |
+| 36 | 1.1% | 99.3% |  |
 | 37 | 3% | 98% |  |
-| 38 | 5% | 96% |  |
-| 39 | 9% | 91% | Last Result |
-| 40 | 12% | 82% |  |
-| 41 | 14% | 69% |  |
-| 42 | 14% | 55% | Median |
-| 43 | 12% | 41% |  |
-| 44 | 10% | 29% |  |
-| 45 | 8% | 19% |  |
-| 46 | 5% | 12% |  |
+| 38 | 6% | 96% |  |
+| 39 | 9% | 90% | Last Result |
+| 40 | 13% | 81% |  |
+| 41 | 14% | 68% |  |
+| 42 | 14% | 54% | Median |
+| 43 | 12% | 40% |  |
+| 44 | 10% | 28% |  |
+| 45 | 7% | 19% |  |
+| 46 | 5% | 11% |  |
 | 47 | 3% | 6% |  |
 | 48 | 2% | 3% |  |
-| 49 | 0.8% | 1.4% |  |
-| 50 | 0.3% | 0.6% |  |
+| 49 | 0.8% | 1.3% |  |
+| 50 | 0.3% | 0.5% |  |
 | 51 | 0.1% | 0.2% |  |
-| 52 | 0.1% | 0.1% |  |
+| 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
 
