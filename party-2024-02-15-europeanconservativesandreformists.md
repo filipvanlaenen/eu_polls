@@ -10,37 +10,36 @@ Last result: **61** seats (General Election of 26 May 2019)
 
 Current median: **77** seats (+16 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, BG, CY, CZ, ES, FI, GR, HR, IT, LV, PL, RO, SE, SK
+> BE, CY, CZ, ES, FI, GR, HR, IT, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 77 | 74–81 | 73–82 | 72–83 | 71–85 |
+| European Conservatives and Reformists | EU | 61 | 77 | 74–81 | 73–82 | 72–83 | 70–85 |
 | Fratelli d’Italia | IT | | 23 | 21–26 | 21–26 | 21–27 | 20–29 |
 | Zjednoczona Prawica | PL | | 17 | 15–19 | 15–20 | 15–20 | 15–21 |
 | Alianța pentru Unirea Românilor | RO | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| Vox | ES | | 7 | 6–8 | 6–8 | 5–9 | 4–9 |
+| Vox | ES | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
-| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -57,25 +56,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.9% |  |
-| 71 | 0.9% | 99.5% |  |
-| 72 | 2% | 98.6% |  |
-| 73 | 4% | 97% |  |
-| 74 | 7% | 93% |  |
-| 75 | 10% | 86% |  |
-| 76 | 13% | 76% |  |
-| 77 | 14% | 63% | Median |
-| 78 | 14% | 49% |  |
-| 79 | 12% | 36% |  |
-| 80 | 9% | 24% |  |
-| 81 | 6% | 14% |  |
-| 82 | 4% | 8% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.5% | 99.8% |  |
+| 71 | 1.3% | 99.2% |  |
+| 72 | 3% | 98% |  |
+| 73 | 5% | 95% |  |
+| 74 | 8% | 91% |  |
+| 75 | 10% | 83% |  |
+| 76 | 13% | 73% |  |
+| 77 | 14% | 60% | Median |
+| 78 | 13% | 46% |  |
+| 79 | 11% | 33% |  |
+| 80 | 9% | 22% |  |
+| 81 | 6% | 13% |  |
+| 82 | 4% | 7% |  |
 | 83 | 2% | 4% |  |
-| 84 | 1.1% | 2% |  |
-| 85 | 0.5% | 1.0% |  |
-| 86 | 0.3% | 0.4% |  |
+| 84 | 1.0% | 2% |  |
+| 85 | 0.5% | 0.9% |  |
+| 86 | 0.2% | 0.4% |  |
 | 87 | 0.1% | 0.2% |  |
 | 88 | 0% | 0.1% |  |
 | 89 | 0% | 0% |  |

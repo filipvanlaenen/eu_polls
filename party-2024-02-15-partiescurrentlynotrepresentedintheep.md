@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 4–9 | 3–9 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 1 | 1 | 1 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -40,7 +40,6 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Második Reformkor [HU] (*) | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -51,7 +50,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -64,14 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 13% | 97% |  |
-| 5 | 25% | 84% |  |
-| 6 | 28% | 59% | Median |
-| 7 | 20% | 31% |  |
+| 3 | 1.3% | 100% |  |
+| 4 | 10% | 98.7% |  |
+| 5 | 25% | 89% |  |
+| 6 | 31% | 64% | Median |
+| 7 | 22% | 33% |  |
 | 8 | 9% | 11% |  |
 | 9 | 2% | 3% |  |
-| 10 | 0.4% | 0.5% |  |
+| 10 | 0.3% | 0.4% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

@@ -1,14 +1,14 @@
 # Non-Inscrits
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BG, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CZ, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (+18 seats)
+Current median: **46** seats (+17 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 47 | 42–50 | 41–51 | 39–52 | 37–53 |
+| Non-Inscrits | EU | 29 | 46 | 41–49 | 40–50 | 38–51 | 36–53 |
 | Movimento 5 Stelle | IT | | 14 | 10–15 | 10–15 | 10–16 | 10–17 |
-| Fidesz | HU | | 12 | 10–12 | 10–12 | 10–13 | 10–13 |
+| Fidesz | HU | | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Reconquête | FR | | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 2–5 | 2–6 | 2–6 | 1–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | REPUBLIKA | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -39,6 +39,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -54,28 +55,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 0% | 100% |  |
-| 35 | 0.1% | 100% |  |
-| 36 | 0.2% | 99.9% |  |
-| 37 | 0.4% | 99.7% |  |
-| 38 | 0.8% | 99.3% |  |
-| 39 | 1.3% | 98% |  |
-| 40 | 2% | 97% |  |
-| 41 | 3% | 95% |  |
-| 42 | 4% | 92% |  |
-| 43 | 6% | 88% |  |
-| 44 | 8% | 82% |  |
-| 45 | 10% | 74% |  |
-| 46 | 12% | 65% |  |
-| 47 | 14% | 52% | Median |
-| 48 | 13% | 39% |  |
-| 49 | 11% | 25% |  |
-| 50 | 7% | 15% |  |
-| 51 | 4% | 8% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.9% | 1.3% |  |
-| 54 | 0.3% | 0.4% |  |
-| 55 | 0.1% | 0.1% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.2% | 99.9% |  |
+| 36 | 0.4% | 99.7% |  |
+| 37 | 0.8% | 99.3% |  |
+| 38 | 1.3% | 98% |  |
+| 39 | 2% | 97% |  |
+| 40 | 3% | 95% |  |
+| 41 | 4% | 92% |  |
+| 42 | 6% | 88% |  |
+| 43 | 7% | 83% |  |
+| 44 | 9% | 75% |  |
+| 45 | 11% | 66% |  |
+| 46 | 13% | 54% | Median |
+| 47 | 13% | 41% |  |
+| 48 | 11% | 29% |  |
+| 49 | 8% | 18% |  |
+| 50 | 5% | 10% |  |
+| 51 | 3% | 5% |  |
+| 52 | 1.3% | 2% |  |
+| 53 | 0.5% | 0.7% |  |
+| 54 | 0.2% | 0.2% |  |
+| 55 | 0% | 0.1% |  |
 | 56 | 0% | 0% |  |
 
 
