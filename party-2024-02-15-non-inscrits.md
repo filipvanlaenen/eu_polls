@@ -1,27 +1,26 @@
 # Non-Inscrits
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> BG, CZ, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CZ, DE, DK, ES, FI, GR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (+17 seats)
+Current median: **41** seats (+12 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, FR, GR, HU, IT, LT, LV, PL, SK
+> DE, DK, ES, GR, HU, IT, LT, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 46 | 41–50 | 40–51 | 39–52 | 36–53 |
+| Non-Inscrits | EU | 29 | 41 | 38–44 | 37–45 | 36–46 | 34–47 |
 | Movimento 5 Stelle | IT | | 14 | 10–15 | 10–15 | 10–16 | 10–17 |
 | Fidesz | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
-| Reconquête | FR | | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 2–5 | 2–6 | 2–6 | 1–6 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -54,29 +53,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
-| 33 | 0% | 100% |  |
-| 34 | 0.1% | 100% |  |
-| 35 | 0.2% | 99.9% |  |
-| 36 | 0.3% | 99.7% |  |
-| 37 | 0.6% | 99.4% |  |
-| 38 | 1.1% | 98.7% |  |
-| 39 | 2% | 98% |  |
-| 40 | 3% | 96% |  |
-| 41 | 4% | 93% |  |
-| 42 | 5% | 90% |  |
-| 43 | 7% | 85% |  |
-| 44 | 9% | 78% |  |
-| 45 | 11% | 69% |  |
-| 46 | 12% | 59% | Median |
-| 47 | 13% | 46% |  |
-| 48 | 11% | 34% |  |
-| 49 | 9% | 22% |  |
-| 50 | 6% | 13% |  |
-| 51 | 4% | 7% |  |
-| 52 | 2% | 3% |  |
-| 53 | 0.9% | 1.3% |  |
-| 54 | 0.3% | 0.5% |  |
-| 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0% |  |
+| 33 | 0.1% | 100% |  |
+| 34 | 0.5% | 99.8% |  |
+| 35 | 1.3% | 99.3% |  |
+| 36 | 3% | 98% |  |
+| 37 | 5% | 95% |  |
+| 38 | 8% | 91% |  |
+| 39 | 11% | 83% |  |
+| 40 | 13% | 73% |  |
+| 41 | 15% | 59% | Median |
+| 42 | 15% | 44% |  |
+| 43 | 12% | 30% |  |
+| 44 | 8% | 17% |  |
+| 45 | 5% | 9% |  |
+| 46 | 2% | 4% |  |
+| 47 | 1.0% | 2% |  |
+| 48 | 0.4% | 0.5% |  |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 
 
