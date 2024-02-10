@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 42–54 | 41–55 | 38–56 |
+| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 42–53 | 40–54 | 37–56 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | Europe Écologie Les Verts | FR | | 7 | 5–9 | 0–9 | 0–10 | 0–10 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
@@ -27,7 +27,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
@@ -47,7 +47,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -70,29 +70,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
-| 36 | 0.1% | 99.9% |  |
-| 37 | 0.2% | 99.8% |  |
-| 38 | 0.4% | 99.6% |  |
-| 39 | 0.6% | 99.2% |  |
-| 40 | 0.8% | 98.6% |  |
-| 41 | 1.2% | 98% |  |
-| 42 | 2% | 97% |  |
-| 43 | 3% | 95% |  |
-| 44 | 4% | 92% |  |
-| 45 | 7% | 87% |  |
-| 46 | 9% | 81% |  |
-| 47 | 11% | 72% |  |
-| 48 | 12% | 61% | Median |
-| 49 | 12% | 49% |  |
-| 50 | 11% | 36% |  |
-| 51 | 9% | 25% |  |
-| 52 | 7% | 16% |  |
-| 53 | 4% | 9% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.4% | 3% |  |
-| 56 | 0.7% | 1.2% |  |
-| 57 | 0.3% | 0.5% |  |
-| 58 | 0.1% | 0.2% |  |
+| 36 | 0.2% | 99.9% |  |
+| 37 | 0.3% | 99.7% |  |
+| 38 | 0.5% | 99.4% |  |
+| 39 | 0.7% | 99.0% |  |
+| 40 | 1.0% | 98% |  |
+| 41 | 1.4% | 97% |  |
+| 42 | 2% | 96% |  |
+| 43 | 3% | 94% |  |
+| 44 | 5% | 90% |  |
+| 45 | 8% | 85% |  |
+| 46 | 10% | 77% |  |
+| 47 | 12% | 67% |  |
+| 48 | 13% | 55% | Median |
+| 49 | 12% | 42% |  |
+| 50 | 10% | 30% |  |
+| 51 | 8% | 20% |  |
+| 52 | 5% | 12% |  |
+| 53 | 3% | 7% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.0% | 2% |  |
+| 56 | 0.4% | 0.7% |  |
+| 57 | 0.2% | 0.2% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
