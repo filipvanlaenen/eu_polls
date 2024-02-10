@@ -18,12 +18,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 81 | 76–85 | 75–87 | 74–88 | 72–90 |
+| Renew Europe | EU | 98 | 81 | 76–86 | 75–87 | 74–88 | 72–90 |
 | La République en marche–Mouvement démocrate | FR | | 18 | 16–20 | 16–20 | 16–21 | 15–23 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | Polska 2050 | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Fianna Fáil | IE | | 4 | 2–4 | 1–4 | 1–4 | 1–4 |
-| Freie Demokratische Partei | DE | | 4 | 4–6 | 3–6 | 3–7 | 3–8 |
+| Freie Demokratische Partei | DE | | 4 | 4–5 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Freie Wähler | DE | | 3 | 1–3 | 1–4 | 1–4 | 1–4 |
@@ -41,7 +41,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -60,7 +60,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,27 +79,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 99.9% |  |
 | 72 | 0.4% | 99.8% |  |
-| 73 | 0.9% | 99.4% |  |
+| 73 | 0.8% | 99.4% |  |
 | 74 | 2% | 98.6% |  |
 | 75 | 3% | 97% |  |
 | 76 | 5% | 94% |  |
-| 77 | 7% | 89% |  |
-| 78 | 9% | 82% |  |
-| 79 | 10% | 74% |  |
-| 80 | 11% | 64% |  |
-| 81 | 11% | 53% | Median |
-| 82 | 10% | 42% |  |
-| 83 | 9% | 32% |  |
-| 84 | 7% | 23% |  |
-| 85 | 6% | 15% |  |
-| 86 | 4% | 10% |  |
+| 77 | 6% | 89% |  |
+| 78 | 8% | 83% |  |
+| 79 | 10% | 75% |  |
+| 80 | 11% | 65% |  |
+| 81 | 11% | 54% | Median |
+| 82 | 10% | 43% |  |
+| 83 | 9% | 33% |  |
+| 84 | 8% | 24% |  |
+| 85 | 6% | 16% |  |
+| 86 | 4% | 11% |  |
 | 87 | 3% | 6% |  |
-| 88 | 2% | 3% |  |
-| 89 | 0.8% | 2% |  |
-| 90 | 0.4% | 0.8% |  |
+| 88 | 2% | 4% |  |
+| 89 | 1.0% | 2% |  |
+| 90 | 0.5% | 1.0% |  |
 | 91 | 0.2% | 0.4% |  |
 | 92 | 0.1% | 0.2% |  |
-| 93 | 0% | 0.1% |  |
+| 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 | 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |
