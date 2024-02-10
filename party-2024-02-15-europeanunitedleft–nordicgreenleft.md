@@ -18,11 +18,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 41 | 38–45 | 37–46 | 36–47 | 34–48 |
+| European United Left–Nordic Green Left | EU | 39 | 41 | 38–45 | 37–46 | 36–47 | 35–49 |
 | La France insoumise | FR | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
-| Sinn Féin | IE | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 2–9 | 2–9 | 2–9 | 2–10 |
-| Die Linke | DE | | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
+| Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–8 | 2–9 | 2–9 | 2–9 |
+| Die Linke | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–5 | 2–5 | 1–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,8 +39,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independents 4 Change | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière–Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -64,23 +64,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0.1% | 99.9% |  |
 | 34 | 0.3% | 99.8% |  |
-| 35 | 1.0% | 99.5% |  |
-| 36 | 2% | 98.5% |  |
+| 35 | 0.9% | 99.5% |  |
+| 36 | 2% | 98.7% |  |
 | 37 | 5% | 96% |  |
-| 38 | 9% | 91% |  |
-| 39 | 12% | 83% | Last Result |
-| 40 | 14% | 71% |  |
-| 41 | 15% | 56% | Median |
-| 42 | 13% | 41% |  |
-| 43 | 10% | 28% |  |
-| 44 | 7% | 18% |  |
-| 45 | 5% | 10% |  |
-| 46 | 3% | 5% |  |
-| 47 | 1.5% | 3% |  |
-| 48 | 0.7% | 1.2% |  |
-| 49 | 0.3% | 0.5% |  |
-| 50 | 0.1% | 0.2% |  |
-| 51 | 0% | 0.1% |  |
+| 38 | 8% | 92% |  |
+| 39 | 11% | 84% | Last Result |
+| 40 | 13% | 73% |  |
+| 41 | 14% | 60% | Median |
+| 42 | 13% | 46% |  |
+| 43 | 11% | 33% |  |
+| 44 | 8% | 22% |  |
+| 45 | 6% | 14% |  |
+| 46 | 4% | 8% |  |
+| 47 | 2% | 4% |  |
+| 48 | 1.0% | 2% |  |
+| 49 | 0.4% | 0.7% |  |
+| 50 | 0.2% | 0.3% |  |
+| 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
 
