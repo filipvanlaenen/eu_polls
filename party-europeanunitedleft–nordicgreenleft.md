@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 41 | 38–45 | 37–46 | 37–47 | 35–49 |
+| European United Left–Nordic Green Left | EU | 39 | 41 | 38–45 | 37–46 | 36–47 | 35–49 |
 | La France insoumise | FR | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 2–8 | 2–9 | 2–9 | 2–9 |
@@ -28,7 +28,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Bloco de Esquerda | PT | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -62,23 +62,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0.1% | 100% |  |
-| 34 | 0.2% | 99.9% |  |
-| 35 | 0.6% | 99.7% |  |
-| 36 | 2% | 99.1% |  |
-| 37 | 3% | 98% |  |
-| 38 | 7% | 94% |  |
-| 39 | 10% | 88% | Last Result |
-| 40 | 13% | 77% |  |
-| 41 | 15% | 64% | Median |
-| 42 | 14% | 49% |  |
-| 43 | 12% | 35% |  |
-| 44 | 9% | 23% |  |
-| 45 | 6% | 14% |  |
-| 46 | 4% | 8% |  |
-| 47 | 2% | 4% |  |
-| 48 | 1.0% | 2% |  |
-| 49 | 0.5% | 0.8% |  |
-| 50 | 0.2% | 0.3% |  |
+| 34 | 0.3% | 99.9% |  |
+| 35 | 0.8% | 99.6% |  |
+| 36 | 2% | 98.8% |  |
+| 37 | 4% | 97% |  |
+| 38 | 8% | 92% |  |
+| 39 | 12% | 85% | Last Result |
+| 40 | 14% | 73% |  |
+| 41 | 15% | 59% | Median |
+| 42 | 14% | 44% |  |
+| 43 | 11% | 30% |  |
+| 44 | 8% | 19% |  |
+| 45 | 5% | 11% |  |
+| 46 | 3% | 6% |  |
+| 47 | 2% | 3% |  |
+| 48 | 0.7% | 1.2% |  |
+| 49 | 0.3% | 0.5% |  |
+| 50 | 0.1% | 0.2% |  |
 | 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
