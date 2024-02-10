@@ -18,16 +18,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 78–86 | 77–87 | 76–89 | 73–91 |
+| European Conservatives and Reformists | EU | 61 | 82 | 78–86 | 76–88 | 75–89 | 72–91 |
 | Fratelli d’Italia | IT | | 23 | 21–26 | 21–26 | 21–27 | 20–29 |
-| Zjednoczona Prawica | PL | | 17 | 15–19 | 15–20 | 15–20 | 15–21 |
+| Zjednoczona Prawica | PL | | 17 | 15–19 | 14–20 | 13–20 | 12–21 |
 | Alianța pentru Unirea Românilor | RO | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Vox | ES | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
 | Reconquête | FR | | 6 | 5–7 | 5–8 | 0–8 | 0–8 |
 | Sverigedemokraterna | SE | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Perussuomalaiset | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -59,29 +59,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
 | 69 | 0% | 100% |  |
-| 70 | 0% | 100% |  |
+| 70 | 0.1% | 99.9% |  |
 | 71 | 0.1% | 99.9% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.3% | 99.7% |  |
-| 74 | 0.6% | 99.3% |  |
-| 75 | 1.0% | 98.8% |  |
-| 76 | 2% | 98% |  |
-| 77 | 3% | 96% |  |
-| 78 | 5% | 93% |  |
-| 79 | 7% | 89% |  |
-| 80 | 10% | 82% |  |
-| 81 | 12% | 72% |  |
-| 82 | 13% | 60% | Median |
-| 83 | 13% | 48% |  |
+| 72 | 0.3% | 99.7% |  |
+| 73 | 0.5% | 99.5% |  |
+| 74 | 0.8% | 99.0% |  |
+| 75 | 1.3% | 98% |  |
+| 76 | 2% | 97% |  |
+| 77 | 3% | 95% |  |
+| 78 | 5% | 91% |  |
+| 79 | 7% | 86% |  |
+| 80 | 9% | 79% |  |
+| 81 | 11% | 69% |  |
+| 82 | 12% | 58% | Median |
+| 83 | 12% | 47% |  |
 | 84 | 11% | 35% |  |
 | 85 | 9% | 24% |  |
-| 86 | 6% | 15% |  |
-| 87 | 4% | 9% |  |
-| 88 | 2% | 5% |  |
-| 89 | 1.3% | 3% |  |
-| 90 | 0.7% | 1.2% |  |
-| 91 | 0.3% | 0.6% |  |
-| 92 | 0.1% | 0.2% |  |
+| 86 | 6% | 16% |  |
+| 87 | 4% | 10% |  |
+| 88 | 3% | 5% |  |
+| 89 | 1.4% | 3% |  |
+| 90 | 0.7% | 1.4% |  |
+| 91 | 0.4% | 0.6% |  |
+| 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 

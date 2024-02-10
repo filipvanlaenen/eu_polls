@@ -35,7 +35,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.6% | 99.7% |  |
 | 36 | 2% | 99.1% |  |
 | 37 | 3% | 98% |  |
-| 38 | 6% | 94% |  |
+| 38 | 7% | 94% |  |
 | 39 | 10% | 88% | Last Result |
-| 40 | 13% | 78% |  |
+| 40 | 13% | 77% |  |
 | 41 | 15% | 64% | Median |
 | 42 | 14% | 49% |  |
 | 43 | 12% | 35% |  |
