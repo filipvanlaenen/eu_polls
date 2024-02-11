@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (+22 seats)
+Current median: **82** seats (+21 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 83 | 78–87 | 77–88 | 75–89 | 73–91 |
+| European Conservatives and Reformists | EU | 61 | 82 | 76–87 | 75–88 | 73–89 | 71–91 |
 | Fratelli d’Italia | IT | | 23 | 21–26 | 21–26 | 21–27 | 20–29 |
 | Zjednoczona Prawica | PL | | 17 | 15–19 | 14–20 | 13–20 | 12–21 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–10 | 7–10 | 6–10 | 6–10 |
 | Vox | ES | | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
-| Reconquête | FR | | 6 | 5–7 | 5–8 | 0–8 | 0–8 |
+| Reconquête | FR | | 6 | 0–7 | 0–8 | 0–8 | 0–8 |
 | Sverigedemokraterna | SE | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -36,7 +36,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
-| Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
+| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -58,32 +58,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
 | 68 | 0% | 100% |  |
-| 69 | 0% | 100% |  |
-| 70 | 0.1% | 100% |  |
-| 71 | 0.1% | 99.9% |  |
-| 72 | 0.2% | 99.8% |  |
-| 73 | 0.4% | 99.6% |  |
-| 74 | 0.7% | 99.2% |  |
-| 75 | 1.2% | 98% |  |
-| 76 | 2% | 97% |  |
-| 77 | 3% | 95% |  |
-| 78 | 5% | 92% |  |
-| 79 | 6% | 88% |  |
-| 80 | 8% | 81% |  |
-| 81 | 10% | 73% |  |
-| 82 | 11% | 62% |  |
-| 83 | 12% | 51% | Median |
-| 84 | 11% | 39% |  |
-| 85 | 9% | 29% |  |
-| 86 | 7% | 20% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.2% | 99.8% |  |
+| 71 | 0.4% | 99.6% |  |
+| 72 | 0.7% | 99.1% |  |
+| 73 | 1.2% | 98% |  |
+| 74 | 2% | 97% |  |
+| 75 | 2% | 95% |  |
+| 76 | 3% | 93% |  |
+| 77 | 4% | 90% |  |
+| 78 | 5% | 86% |  |
+| 79 | 7% | 81% |  |
+| 80 | 8% | 74% |  |
+| 81 | 9% | 66% |  |
+| 82 | 10% | 57% | Median |
+| 83 | 10% | 47% |  |
+| 84 | 10% | 36% |  |
+| 85 | 8% | 27% |  |
+| 86 | 7% | 18% |  |
 | 87 | 5% | 12% |  |
 | 88 | 3% | 7% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.1% | 2% |  |
-| 91 | 0.6% | 1.0% |  |
-| 92 | 0.3% | 0.5% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.5% | 0.9% |  |
+| 92 | 0.2% | 0.4% |  |
 | 93 | 0.1% | 0.2% |  |
-| 94 | 0.1% | 0.1% |  |
+| 94 | 0% | 0.1% |  |
 | 95 | 0% | 0% |  |
 
 

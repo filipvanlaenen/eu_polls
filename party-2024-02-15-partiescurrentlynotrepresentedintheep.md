@@ -46,6 +46,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
