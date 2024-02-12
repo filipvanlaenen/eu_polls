@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **177** seats (-10 seats)
+Current median: **178** seats (-9 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 177 | 172–182 | 170–184 | 169–185 | 166–187 |
+| European People’s Party | EU | 187 | 178 | 172–183 | 171–184 | 170–185 | 167–188 |
 | Partido Popular | ES | | 25 | 24–27 | 23–28 | 23–29 | 22–30 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 20–27 | 20–27 | 19–27 |
 | Platforma Obywatelska | PL | | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
@@ -43,6 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -57,8 +58,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| TOP 09 | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -81,34 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 163 | 0% | 100% |  |
-| 164 | 0.1% | 99.9% |  |
+| 164 | 0.1% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.3% | 99.7% |  |
-| 167 | 0.5% | 99.5% |  |
-| 168 | 0.8% | 99.0% |  |
-| 169 | 1.4% | 98% |  |
-| 170 | 2% | 97% |  |
-| 171 | 3% | 95% |  |
-| 172 | 5% | 91% |  |
-| 173 | 6% | 87% |  |
-| 174 | 8% | 80% |  |
-| 175 | 9% | 73% |  |
-| 176 | 10% | 64% |  |
-| 177 | 10% | 54% | Median |
-| 178 | 10% | 44% |  |
-| 179 | 9% | 35% |  |
-| 180 | 7% | 26% |  |
-| 181 | 6% | 19% |  |
-| 182 | 4% | 13% |  |
-| 183 | 3% | 8% |  |
-| 184 | 2% | 5% |  |
-| 185 | 1.3% | 3% |  |
-| 186 | 0.8% | 2% |  |
-| 187 | 0.5% | 0.9% | Last Result |
-| 188 | 0.2% | 0.5% |  |
-| 189 | 0.1% | 0.2% |  |
+| 166 | 0.2% | 99.8% |  |
+| 167 | 0.4% | 99.6% |  |
+| 168 | 0.6% | 99.3% |  |
+| 169 | 1.1% | 98.6% |  |
+| 170 | 2% | 98% |  |
+| 171 | 3% | 96% |  |
+| 172 | 4% | 93% |  |
+| 173 | 5% | 89% |  |
+| 174 | 7% | 84% |  |
+| 175 | 8% | 77% |  |
+| 176 | 9% | 69% |  |
+| 177 | 10% | 60% |  |
+| 178 | 10% | 50% | Median |
+| 179 | 9% | 40% |  |
+| 180 | 8% | 31% |  |
+| 181 | 7% | 23% |  |
+| 182 | 5% | 16% |  |
+| 183 | 4% | 11% |  |
+| 184 | 3% | 7% |  |
+| 185 | 2% | 4% |  |
+| 186 | 1.1% | 2% |  |
+| 187 | 0.6% | 1.3% | Last Result |
+| 188 | 0.3% | 0.7% |  |
+| 189 | 0.2% | 0.3% |  |
 | 190 | 0.1% | 0.1% |  |
-| 191 | 0% | 0% |  |
+| 191 | 0% | 0.1% |  |
+| 192 | 0% | 0% |  |
 
 

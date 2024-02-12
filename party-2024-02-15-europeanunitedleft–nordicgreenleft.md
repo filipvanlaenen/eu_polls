@@ -20,25 +20,25 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 42 | 39–46 | 38–47 | 37–48 | 35–50 |
 | La France insoumise | FR | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| Bündnis Sahra Wagenknecht | DE | | 5 | 3–8 | 2–9 | 2–9 | 2–9 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–8 | 2–9 | 2–9 | 2–9 |
-| Die Linke | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
-| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–5 | 2–5 | 1–5 |
+| Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–4 | 1–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lutte Ouvrière–Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -65,20 +65,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.4% | 99.8% |  |
 | 36 | 1.2% | 99.3% |  |
 | 37 | 3% | 98% |  |
-| 38 | 5% | 95% |  |
-| 39 | 8% | 90% | Last Result |
-| 40 | 11% | 82% |  |
-| 41 | 13% | 71% |  |
-| 42 | 13% | 58% | Median |
-| 43 | 12% | 45% |  |
-| 44 | 11% | 32% |  |
-| 45 | 8% | 22% |  |
-| 46 | 6% | 14% |  |
+| 38 | 5% | 96% |  |
+| 39 | 8% | 91% | Last Result |
+| 40 | 10% | 83% |  |
+| 41 | 12% | 73% |  |
+| 42 | 13% | 61% | Median |
+| 43 | 13% | 47% |  |
+| 44 | 11% | 35% |  |
+| 45 | 9% | 24% |  |
+| 46 | 6% | 15% |  |
 | 47 | 4% | 8% |  |
 | 48 | 2% | 4% |  |
 | 49 | 1.1% | 2% |  |
-| 50 | 0.5% | 0.7% |  |
-| 51 | 0.2% | 0.3% |  |
+| 50 | 0.4% | 0.7% |  |
+| 51 | 0.2% | 0.2% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 

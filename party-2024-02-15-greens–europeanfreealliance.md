@@ -18,12 +18,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 47 | 43–51 | 42–52 | 40–53 | 37–55 |
+| Greens–European Free Alliance | EU | 67 | 47 | 43–51 | 41–52 | 40–53 | 37–55 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | Europe Écologie Les Verts | FR | | 7 | 5–8 | 0–8 | 0–9 | 0–10 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -31,18 +31,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -54,7 +55,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -69,28 +69,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.1% | 100% |  |
-| 36 | 0.2% | 99.9% |  |
-| 37 | 0.3% | 99.7% |  |
-| 38 | 0.5% | 99.4% |  |
-| 39 | 0.8% | 98.9% |  |
-| 40 | 1.2% | 98% |  |
-| 41 | 2% | 97% |  |
-| 42 | 3% | 95% |  |
-| 43 | 4% | 92% |  |
-| 44 | 7% | 88% |  |
-| 45 | 9% | 81% |  |
-| 46 | 11% | 72% |  |
-| 47 | 12% | 61% | Median |
-| 48 | 12% | 48% |  |
-| 49 | 11% | 36% |  |
-| 50 | 9% | 25% |  |
-| 51 | 7% | 16% |  |
-| 52 | 4% | 9% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.4% | 2% |  |
-| 55 | 0.7% | 1.1% |  |
-| 56 | 0.3% | 0.4% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0.2% | 99.8% |  |
+| 37 | 0.4% | 99.6% |  |
+| 38 | 0.6% | 99.3% |  |
+| 39 | 0.9% | 98.7% |  |
+| 40 | 1.3% | 98% |  |
+| 41 | 2% | 96% |  |
+| 42 | 3% | 94% |  |
+| 43 | 5% | 91% |  |
+| 44 | 7% | 86% |  |
+| 45 | 10% | 79% |  |
+| 46 | 12% | 69% |  |
+| 47 | 13% | 57% | Median |
+| 48 | 12% | 44% |  |
+| 49 | 11% | 32% |  |
+| 50 | 8% | 21% |  |
+| 51 | 6% | 13% |  |
+| 52 | 4% | 7% |  |
+| 53 | 2% | 4% |  |
+| 54 | 1.1% | 2% |  |
+| 55 | 0.5% | 0.8% |  |
+| 56 | 0.2% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
