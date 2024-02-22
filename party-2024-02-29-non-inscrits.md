@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **41** seats (+12 seats)
+Current median: **42** seats (+13 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 41 | 38–45 | 37–45 | 36–46 | 34–48 |
+| Non-Inscrits | EU | 29 | 42 | 38–45 | 37–46 | 36–46 | 35–48 |
 | Movimento 5 Stelle | IT | | 14 | 10–15 | 10–15 | 10–16 | 10–17 |
 | Fidesz | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
+| Nowa Nadzieja–Ruch Narodowy | PL | | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -55,22 +55,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0.1% | 100% |  |
-| 34 | 0.4% | 99.9% |  |
-| 35 | 1.0% | 99.5% |  |
-| 36 | 2% | 98% |  |
-| 37 | 4% | 96% |  |
-| 38 | 7% | 92% |  |
-| 39 | 10% | 85% |  |
-| 40 | 13% | 76% |  |
-| 41 | 15% | 63% | Median |
-| 42 | 15% | 48% |  |
-| 43 | 13% | 34% |  |
-| 44 | 10% | 20% |  |
-| 45 | 6% | 11% |  |
-| 46 | 3% | 5% |  |
-| 47 | 1.2% | 2% |  |
-| 48 | 0.4% | 0.5% |  |
-| 49 | 0.1% | 0.1% |  |
+| 34 | 0.3% | 99.9% |  |
+| 35 | 0.8% | 99.6% |  |
+| 36 | 2% | 98.8% |  |
+| 37 | 3% | 97% |  |
+| 38 | 6% | 94% |  |
+| 39 | 9% | 88% |  |
+| 40 | 12% | 79% |  |
+| 41 | 14% | 67% |  |
+| 42 | 15% | 52% | Median |
+| 43 | 14% | 37% |  |
+| 44 | 11% | 23% |  |
+| 45 | 7% | 12% |  |
+| 46 | 3% | 6% |  |
+| 47 | 1.4% | 2% |  |
+| 48 | 0.5% | 0.7% |  |
+| 49 | 0.1% | 0.2% |  |
 | 50 | 0% | 0% |  |
 
 

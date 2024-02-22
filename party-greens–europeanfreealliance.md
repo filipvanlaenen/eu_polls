@@ -31,11 +31,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +47,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -87,9 +87,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 11% | 32% |  |
 | 50 | 8% | 21% |  |
 | 51 | 6% | 13% |  |
-| 52 | 4% | 7% |  |
+| 52 | 3% | 7% |  |
 | 53 | 2% | 4% |  |
-| 54 | 1.1% | 2% |  |
+| 54 | 1.0% | 2% |  |
 | 55 | 0.5% | 0.8% |  |
 | 56 | 0.2% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |

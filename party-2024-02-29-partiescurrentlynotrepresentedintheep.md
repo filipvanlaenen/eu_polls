@@ -18,16 +18,16 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 4–7 | 3–8 | 3–9 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
-| Lewica Razem [PL] (*) | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Lewica Razem [PL] (*) | PL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,14 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 17% | 97% |  |
-| 5 | 33% | 80% | Median |
-| 6 | 29% | 47% |  |
-| 7 | 14% | 18% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.7% | 0.8% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 5% | 99.7% |  |
+| 4 | 23% | 95% |  |
+| 5 | 35% | 71% | Median |
+| 6 | 25% | 36% |  |
+| 7 | 9% | 12% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.3% | 0.4% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

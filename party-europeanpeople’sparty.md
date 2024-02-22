@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 178 | 172–183 | 171–184 | 170–185 | 167–188 |
+| European People’s Party | EU | 187 | 178 | 173–183 | 172–185 | 170–186 | 168–189 |
 | Partido Popular | ES | | 25 | 24–27 | 23–28 | 23–29 | 22–30 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 20–27 | 20–27 | 19–27 |
-| Platforma Obywatelska | PL | | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Aliança Democrática | PT | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
@@ -34,7 +34,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Nieuw Sociaal Contract | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
@@ -47,7 +47,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -64,7 +64,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -81,34 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 164 | 0.1% | 100% |  |
+| 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.2% | 99.8% |  |
-| 167 | 0.4% | 99.6% |  |
-| 168 | 0.6% | 99.3% |  |
-| 169 | 1.1% | 98.6% |  |
-| 170 | 2% | 98% |  |
-| 171 | 3% | 96% |  |
-| 172 | 4% | 93% |  |
-| 173 | 5% | 89% |  |
-| 174 | 7% | 84% |  |
-| 175 | 8% | 77% |  |
-| 176 | 9% | 69% |  |
-| 177 | 10% | 60% |  |
-| 178 | 10% | 50% | Median |
-| 179 | 9% | 40% |  |
-| 180 | 8% | 31% |  |
-| 181 | 7% | 23% |  |
-| 182 | 5% | 16% |  |
-| 183 | 4% | 11% |  |
-| 184 | 3% | 7% |  |
-| 185 | 2% | 4% |  |
-| 186 | 1.1% | 2% |  |
-| 187 | 0.6% | 1.3% | Last Result |
-| 188 | 0.3% | 0.7% |  |
-| 189 | 0.2% | 0.3% |  |
-| 190 | 0.1% | 0.1% |  |
-| 191 | 0% | 0.1% |  |
+| 166 | 0.1% | 99.9% |  |
+| 167 | 0.2% | 99.8% |  |
+| 168 | 0.4% | 99.5% |  |
+| 169 | 0.7% | 99.2% |  |
+| 170 | 1.2% | 98% |  |
+| 171 | 2% | 97% |  |
+| 172 | 3% | 95% |  |
+| 173 | 4% | 93% |  |
+| 174 | 6% | 89% |  |
+| 175 | 7% | 83% |  |
+| 176 | 8% | 76% |  |
+| 177 | 9% | 68% |  |
+| 178 | 10% | 58% | Median |
+| 179 | 10% | 48% |  |
+| 180 | 9% | 38% |  |
+| 181 | 8% | 29% |  |
+| 182 | 7% | 21% |  |
+| 183 | 5% | 15% |  |
+| 184 | 4% | 10% |  |
+| 185 | 2% | 6% |  |
+| 186 | 2% | 4% |  |
+| 187 | 0.9% | 2% | Last Result |
+| 188 | 0.5% | 1.0% |  |
+| 189 | 0.3% | 0.5% |  |
+| 190 | 0.1% | 0.2% |  |
+| 191 | 0.1% | 0.1% |  |
 | 192 | 0% | 0% |  |
 
 
