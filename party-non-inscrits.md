@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 42 | 38–45 | 37–46 | 36–47 | 35–48 |
+| Non-Inscrits | EU | 29 | 42 | 38–45 | 37–46 | 37–47 | 35–48 |
 | Movimento 5 Stelle | IT | | 14 | 11–16 | 10–16 | 10–17 | 10–18 |
 | Fidesz | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -31,7 +31,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
+| Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 0.2% | 99.9% |  |
-| 35 | 0.7% | 99.7% |  |
+| 34 | 0.2% | 100% |  |
+| 35 | 0.6% | 99.7% |  |
 | 36 | 2% | 99.1% |  |
-| 37 | 3% | 97% |  |
-| 38 | 6% | 94% |  |
+| 37 | 3% | 98% |  |
+| 38 | 6% | 95% |  |
 | 39 | 9% | 89% |  |
 | 40 | 12% | 80% |  |
-| 41 | 14% | 68% |  |
-| 42 | 15% | 53% | Median |
-| 43 | 14% | 38% |  |
-| 44 | 11% | 24% |  |
-| 45 | 7% | 13% |  |
-| 46 | 4% | 6% |  |
+| 41 | 14% | 69% |  |
+| 42 | 15% | 54% | Median |
+| 43 | 14% | 39% |  |
+| 44 | 11% | 25% |  |
+| 45 | 7% | 14% |  |
+| 46 | 4% | 7% |  |
 | 47 | 2% | 3% |  |
-| 48 | 0.6% | 0.9% |  |
+| 48 | 0.7% | 1.1% |  |
 | 49 | 0.2% | 0.3% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |

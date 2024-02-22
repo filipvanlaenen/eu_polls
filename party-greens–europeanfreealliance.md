@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 43–53 | 42–54 | 40–56 |
+| Greens–European Free Alliance | EU | 67 | 48 | 45–53 | 44–54 | 43–55 | 41–57 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–15 | 9–16 | 9–16 | 9–16 |
 | Europe Écologie Les Verts | FR | | 7 | 5–8 | 5–10 | 5–10 | 5–11 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| GroenLinks | NL | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| GroenLinks | NL | | 3 | 3 | 3 | 3–5 | 3–5 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,6 +39,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratenpartei Deutschland | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Volt Europa | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -55,7 +56,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -70,27 +70,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.8% |  |
-| 41 | 1.1% | 99.4% |  |
-| 42 | 2% | 98% |  |
-| 43 | 4% | 96% |  |
-| 44 | 7% | 92% |  |
-| 45 | 9% | 85% |  |
-| 46 | 12% | 75% |  |
-| 47 | 13% | 64% |  |
-| 48 | 12% | 51% | Median |
-| 49 | 11% | 39% |  |
-| 50 | 9% | 28% |  |
-| 51 | 7% | 19% |  |
-| 52 | 5% | 12% |  |
-| 53 | 3% | 8% |  |
-| 54 | 2% | 4% |  |
-| 55 | 1.3% | 2% |  |
-| 56 | 0.7% | 1.2% |  |
-| 57 | 0.3% | 0.5% |  |
-| 58 | 0.1% | 0.2% |  |
-| 59 | 0% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.6% | 99.7% |  |
+| 42 | 1.4% | 99.2% |  |
+| 43 | 3% | 98% |  |
+| 44 | 5% | 95% |  |
+| 45 | 8% | 90% |  |
+| 46 | 10% | 83% |  |
+| 47 | 12% | 73% |  |
+| 48 | 13% | 61% | Median |
+| 49 | 12% | 48% |  |
+| 50 | 10% | 36% |  |
+| 51 | 8% | 26% |  |
+| 52 | 6% | 17% |  |
+| 53 | 4% | 11% |  |
+| 54 | 3% | 7% |  |
+| 55 | 2% | 4% |  |
+| 56 | 1.1% | 2% |  |
+| 57 | 0.6% | 1.0% |  |
+| 58 | 0.3% | 0.4% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
