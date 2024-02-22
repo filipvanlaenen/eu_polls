@@ -18,11 +18,11 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 42 | 39–45 | 38–46 | 37–47 | 35–49 |
+| Non-Inscrits | EU | 29 | 42 | 38–45 | 37–46 | 36–47 | 35–48 |
 | Movimento 5 Stelle | IT | | 14 | 11–16 | 10–16 | 10–17 | 10–18 |
 | Fidesz | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
-| Nowa Nadzieja–Ruch Narodowy | PL | | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -56,23 +56,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 0.1% | 100% |  |
-| 35 | 0.5% | 99.8% |  |
-| 36 | 1.2% | 99.3% |  |
-| 37 | 2% | 98% |  |
-| 38 | 5% | 96% |  |
-| 39 | 7% | 91% |  |
-| 40 | 10% | 84% |  |
-| 41 | 13% | 73% |  |
-| 42 | 15% | 60% | Median |
-| 43 | 14% | 45% |  |
-| 44 | 12% | 31% |  |
-| 45 | 9% | 19% |  |
-| 46 | 5% | 10% |  |
-| 47 | 3% | 5% |  |
-| 48 | 1.2% | 2% |  |
-| 49 | 0.4% | 0.6% |  |
-| 50 | 0.1% | 0.2% |  |
+| 34 | 0.2% | 99.9% |  |
+| 35 | 0.7% | 99.7% |  |
+| 36 | 2% | 99.1% |  |
+| 37 | 3% | 97% |  |
+| 38 | 6% | 94% |  |
+| 39 | 9% | 89% |  |
+| 40 | 12% | 80% |  |
+| 41 | 14% | 68% |  |
+| 42 | 15% | 53% | Median |
+| 43 | 14% | 38% |  |
+| 44 | 11% | 24% |  |
+| 45 | 7% | 13% |  |
+| 46 | 4% | 6% |  |
+| 47 | 2% | 3% |  |
+| 48 | 0.6% | 0.9% |  |
+| 49 | 0.2% | 0.3% |  |
+| 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
 

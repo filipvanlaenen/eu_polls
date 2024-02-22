@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **175** seats (-12 seats)
+Current median: **176** seats (-11 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 175 | 170–180 | 168–182 | 167–183 | 164–186 |
-| Partido Popular | ES | | 25 | 24–27 | 23–28 | 23–29 | 22–30 |
+| European People’s Party | EU | 187 | 176 | 171–181 | 170–182 | 168–184 | 166–186 |
+| Partido Popular | ES | | 25 | 24–27 | 23–27 | 23–28 | 22–30 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–21 | 18–22 | 17–24 |
-| Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
+| Platforma Obywatelska | PL | | 19 | 19–20 | 18–20 | 18–20 | 18–22 |
 | Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Les Républicains | FR | | 7 | 5–8 | 5–8 | 4–9 | 0–10 |
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -34,7 +34,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Nieuw Sociaal Contract | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Polskie Stronnictwo Ludowe | PL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| Polskie Stronnictwo Ludowe | PL | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
@@ -81,35 +81,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
+| 162 | 0% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
-| 164 | 0.2% | 99.7% |  |
-| 165 | 0.4% | 99.5% |  |
-| 166 | 0.8% | 99.0% |  |
-| 167 | 1.3% | 98% |  |
-| 168 | 2% | 97% |  |
-| 169 | 3% | 95% |  |
-| 170 | 5% | 92% |  |
-| 171 | 6% | 87% |  |
-| 172 | 8% | 81% |  |
-| 173 | 9% | 73% |  |
-| 174 | 10% | 65% |  |
-| 175 | 10% | 55% | Median |
-| 176 | 10% | 45% |  |
-| 177 | 9% | 35% |  |
-| 178 | 7% | 26% |  |
-| 179 | 6% | 19% |  |
-| 180 | 4% | 13% |  |
-| 181 | 3% | 9% |  |
-| 182 | 2% | 5% |  |
-| 183 | 1.4% | 3% |  |
-| 184 | 0.8% | 2% |  |
-| 185 | 0.5% | 1.1% |  |
-| 186 | 0.3% | 0.6% |  |
-| 187 | 0.1% | 0.3% | Last Result |
-| 188 | 0.1% | 0.1% |  |
-| 189 | 0% | 0.1% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.2% | 99.8% |  |
+| 166 | 0.4% | 99.6% |  |
+| 167 | 0.7% | 99.2% |  |
+| 168 | 1.2% | 98.6% |  |
+| 169 | 2% | 97% |  |
+| 170 | 3% | 95% |  |
+| 171 | 5% | 92% |  |
+| 172 | 6% | 88% |  |
+| 173 | 8% | 82% |  |
+| 174 | 9% | 74% |  |
+| 175 | 10% | 64% |  |
+| 176 | 11% | 54% | Median |
+| 177 | 10% | 43% |  |
+| 178 | 9% | 33% |  |
+| 179 | 7% | 25% |  |
+| 180 | 6% | 17% |  |
+| 181 | 4% | 12% |  |
+| 182 | 3% | 7% |  |
+| 183 | 2% | 5% |  |
+| 184 | 1.2% | 3% |  |
+| 185 | 0.7% | 1.5% |  |
+| 186 | 0.4% | 0.8% |  |
+| 187 | 0.2% | 0.4% | Last Result |
+| 188 | 0.1% | 0.2% |  |
+| 189 | 0.1% | 0.1% |  |
 | 190 | 0% | 0% |  |
 
 
