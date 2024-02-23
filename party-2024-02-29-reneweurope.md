@@ -41,12 +41,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,12 +60,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
+| Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function

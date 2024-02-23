@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **41** seats (+12 seats)
+Current median: **42** seats (+13 seats)
 
 At least one member in **9 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 41 | 38–44 | 37–45 | 36–46 | 34–48 |
+| Non-Inscrits | EU | 29 | 42 | 39–45 | 38–46 | 37–47 | 35–49 |
 | Movimento 5 Stelle | IT | | 14 | 11–16 | 10–16 | 10–17 | 10–18 |
 | Fidesz | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -27,15 +27,15 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
+| Latvija pirmajā vietā | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
-| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,24 +55,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
-| 33 | 0.1% | 100% |  |
-| 34 | 0.4% | 99.9% |  |
-| 35 | 1.2% | 99.5% |  |
-| 36 | 3% | 98% |  |
-| 37 | 5% | 96% |  |
-| 38 | 8% | 91% |  |
-| 39 | 11% | 83% |  |
-| 40 | 14% | 72% |  |
-| 41 | 15% | 58% | Median |
-| 42 | 14% | 43% |  |
-| 43 | 11% | 29% |  |
-| 44 | 8% | 18% |  |
-| 45 | 5% | 10% |  |
-| 46 | 3% | 5% |  |
-| 47 | 1.3% | 2% |  |
-| 48 | 0.5% | 0.7% |  |
-| 49 | 0.2% | 0.2% |  |
-| 50 | 0% | 0.1% |  |
-| 51 | 0% | 0% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.5% | 99.9% |  |
+| 36 | 1.3% | 99.4% |  |
+| 37 | 3% | 98% |  |
+| 38 | 5% | 95% |  |
+| 39 | 8% | 90% |  |
+| 40 | 11% | 82% |  |
+| 41 | 14% | 71% |  |
+| 42 | 15% | 57% | Median |
+| 43 | 14% | 42% |  |
+| 44 | 11% | 29% |  |
+| 45 | 8% | 17% |  |
+| 46 | 5% | 10% |  |
+| 47 | 3% | 5% |  |
+| 48 | 1.2% | 2% |  |
+| 49 | 0.5% | 0.7% |  |
+| 50 | 0.2% | 0.2% |  |
+| 51 | 0% | 0.1% |  |
+| 52 | 0% | 0% |  |
 
 

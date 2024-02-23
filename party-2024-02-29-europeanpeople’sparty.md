@@ -41,11 +41,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -53,7 +53,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -86,16 +86,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 0.1% | 99.9% |  |
 | 167 | 0.1% | 99.9% |  |
 | 168 | 0.2% | 99.8% |  |
-| 169 | 0.4% | 99.6% |  |
+| 169 | 0.4% | 99.5% |  |
 | 170 | 0.7% | 99.2% |  |
 | 171 | 1.2% | 98% |  |
 | 172 | 2% | 97% |  |
 | 173 | 3% | 95% |  |
-| 174 | 4% | 92% |  |
+| 174 | 5% | 92% |  |
 | 175 | 6% | 88% |  |
 | 176 | 8% | 82% |  |
 | 177 | 9% | 74% |  |
-| 178 | 10% | 65% |  |
+| 178 | 10% | 64% |  |
 | 179 | 10% | 54% | Median |
 | 180 | 10% | 44% |  |
 | 181 | 9% | 34% |  |
