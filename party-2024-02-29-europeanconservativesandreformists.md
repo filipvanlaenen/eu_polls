@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, ES, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, ES, FI, FR, GR, HR, IT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 76–87 | 74–88 | 73–89 | 71–92 |
+| European Conservatives and Reformists | EU | 61 | 82 | 76–87 | 74–88 | 73–90 | 71–92 |
 | Fratelli d’Italia | IT | | 24 | 22–27 | 21–29 | 21–30 | 20–30 |
 | Zjednoczona Prawica | PL | | 16 | 16–17 | 16–17 | 15–17 | 14–18 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
@@ -29,16 +29,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
-| Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -60,28 +58,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0% | 100% |  |
 | 69 | 0.1% | 100% |  |
 | 70 | 0.2% | 99.9% |  |
-| 71 | 0.5% | 99.7% |  |
-| 72 | 0.9% | 99.2% |  |
-| 73 | 2% | 98% |  |
+| 71 | 0.4% | 99.7% |  |
+| 72 | 0.9% | 99.3% |  |
+| 73 | 1.5% | 98% |  |
 | 74 | 2% | 97% |  |
-| 75 | 3% | 94% |  |
-| 76 | 4% | 91% |  |
+| 75 | 3% | 95% |  |
+| 76 | 4% | 92% |  |
 | 77 | 5% | 88% |  |
-| 78 | 6% | 83% |  |
-| 79 | 7% | 77% |  |
-| 80 | 8% | 70% |  |
-| 81 | 10% | 62% |  |
-| 82 | 10% | 52% | Median |
-| 83 | 10% | 42% |  |
-| 84 | 9% | 33% |  |
-| 85 | 7% | 24% |  |
+| 78 | 6% | 84% |  |
+| 79 | 7% | 78% |  |
+| 80 | 8% | 71% |  |
+| 81 | 9% | 63% |  |
+| 82 | 10% | 53% | Median |
+| 83 | 10% | 43% |  |
+| 84 | 9% | 34% |  |
+| 85 | 7% | 25% |  |
 | 86 | 6% | 17% |  |
-| 87 | 4% | 11% |  |
+| 87 | 4% | 12% |  |
 | 88 | 3% | 7% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.1% | 2% |  |
-| 91 | 0.7% | 1.3% |  |
-| 92 | 0.3% | 0.6% |  |
+| 90 | 1.2% | 3% |  |
+| 91 | 0.7% | 1.4% |  |
+| 92 | 0.4% | 0.7% |  |
 | 93 | 0.2% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
