@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
+| Parties currently not represented in the EP | EU | 0 | 5 | 4–6 | 4–7 | 3–7 | 3–8 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Lewica Razem [PL] (*) | PL | | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -37,10 +37,11 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,14 +64,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 2% | 99.9% |  |
-| 4 | 16% | 98% |  |
-| 5 | 34% | 82% | Median |
-| 6 | 31% | 48% |  |
-| 7 | 14% | 17% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.4% | 0.5% |  |
-| 10 | 0% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 3 | 3% | 99.9% |  |
+| 4 | 22% | 97% |  |
+| 5 | 39% | 75% | Median |
+| 6 | 27% | 36% |  |
+| 7 | 8% | 9% |  |
+| 8 | 0.8% | 0.9% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 

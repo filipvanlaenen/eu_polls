@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **88** seats (+12 seats)
+Current median: **89** seats (+13 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 88 | 83–94 | 81–95 | 80–96 | 78–99 |
+| Identity and Democracy | EU | 76 | 89 | 83–94 | 82–95 | 80–96 | 78–99 |
 | Rassemblement national | FR | | 30 | 27–33 | 26–33 | 25–33 | 24–36 |
 | Alternative für Deutschland | DE | | 19 | 14–22 | 14–22 | 14–22 | 13–22 |
 | Partij voor de Vrijheid | NL | | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
@@ -46,30 +46,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 75 | 0% | 100% |  |
 | 76 | 0.1% | 99.9% | Last Result |
-| 77 | 0.2% | 99.8% |  |
-| 78 | 0.4% | 99.6% |  |
-| 79 | 0.8% | 99.2% |  |
-| 80 | 1.4% | 98% |  |
+| 77 | 0.2% | 99.9% |  |
+| 78 | 0.4% | 99.7% |  |
+| 79 | 0.8% | 99.3% |  |
+| 80 | 1.3% | 98.5% |  |
 | 81 | 2% | 97% |  |
 | 82 | 3% | 95% |  |
 | 83 | 4% | 92% |  |
-| 84 | 6% | 87% |  |
+| 84 | 5% | 88% |  |
 | 85 | 7% | 82% |  |
-| 86 | 8% | 75% |  |
-| 87 | 9% | 67% |  |
-| 88 | 9% | 59% | Median |
-| 89 | 9% | 50% |  |
-| 90 | 9% | 41% |  |
-| 91 | 8% | 32% |  |
-| 92 | 7% | 24% |  |
-| 93 | 6% | 17% |  |
-| 94 | 4% | 11% |  |
+| 86 | 8% | 76% |  |
+| 87 | 8% | 68% |  |
+| 88 | 9% | 60% |  |
+| 89 | 9% | 51% | Median |
+| 90 | 9% | 42% |  |
+| 91 | 8% | 33% |  |
+| 92 | 7% | 25% |  |
+| 93 | 6% | 18% |  |
+| 94 | 4% | 12% |  |
 | 95 | 3% | 7% |  |
 | 96 | 2% | 4% |  |
-| 97 | 1.1% | 2% |  |
-| 98 | 0.6% | 1.1% |  |
-| 99 | 0.3% | 0.5% |  |
-| 100 | 0.1% | 0.2% |  |
+| 97 | 1.2% | 2% |  |
+| 98 | 0.6% | 1.2% |  |
+| 99 | 0.3% | 0.6% |  |
+| 100 | 0.1% | 0.3% |  |
 | 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |
 
