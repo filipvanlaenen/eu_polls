@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 79 | 75–84 | 73–86 | 72–87 | 70–89 |
+| Renew Europe | EU | 98 | 79 | 74–84 | 73–85 | 72–87 | 70–89 |
 | La République en marche–Mouvement démocrate | FR | | 16 | 14–18 | 14–18 | 13–19 | 10–21 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| Fianna Fáil | IE | | 4 | 2–4 | 2–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Freie Demokratische Partei | DE | | 4 | 2–6 | 2–6 | 2–8 | 2–8 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democraten 66 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -52,7 +52,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -76,32 +76,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
+| 67 | 0.1% | 100% |  |
 | 68 | 0.1% | 99.9% |  |
-| 69 | 0.2% | 99.9% |  |
-| 70 | 0.4% | 99.7% |  |
-| 71 | 0.8% | 99.2% |  |
+| 69 | 0.3% | 99.8% |  |
+| 70 | 0.5% | 99.5% |  |
+| 71 | 1.0% | 99.0% |  |
 | 72 | 2% | 98% |  |
-| 73 | 3% | 97% |  |
-| 74 | 4% | 94% |  |
-| 75 | 6% | 90% |  |
-| 76 | 8% | 84% |  |
-| 77 | 9% | 77% |  |
-| 78 | 10% | 68% |  |
-| 79 | 10% | 57% | Median |
-| 80 | 10% | 47% |  |
-| 81 | 9% | 37% |  |
-| 82 | 8% | 28% |  |
-| 83 | 6% | 20% |  |
-| 84 | 5% | 13% |  |
+| 73 | 3% | 96% |  |
+| 74 | 4% | 93% |  |
+| 75 | 6% | 89% |  |
+| 76 | 8% | 82% |  |
+| 77 | 9% | 75% |  |
+| 78 | 10% | 65% |  |
+| 79 | 10% | 55% | Median |
+| 80 | 10% | 45% |  |
+| 81 | 9% | 35% |  |
+| 82 | 8% | 26% |  |
+| 83 | 6% | 18% |  |
+| 84 | 4% | 12% |  |
 | 85 | 3% | 8% |  |
 | 86 | 2% | 5% |  |
-| 87 | 1.3% | 3% |  |
-| 88 | 0.8% | 2% |  |
+| 87 | 1.2% | 3% |  |
+| 88 | 0.7% | 1.5% |  |
 | 89 | 0.4% | 0.8% |  |
 | 90 | 0.2% | 0.4% |  |
 | 91 | 0.1% | 0.2% |  |
-| 92 | 0.1% | 0.1% |  |
+| 92 | 0% | 0.1% |  |
 | 93 | 0% | 0% |  |
 | 94 | 0% | 0% |  |
 | 95 | 0% | 0% |  |

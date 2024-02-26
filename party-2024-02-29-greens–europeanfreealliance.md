@@ -23,7 +23,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europe Écologie Les Verts | FR | | 7 | 5–8 | 5–10 | 5–10 | 5–11 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3–5 | 3–5 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -43,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -68,26 +68,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0% | 100% |  |
-| 39 | 0.2% | 99.9% |  |
-| 40 | 0.5% | 99.8% |  |
-| 41 | 1.2% | 99.3% |  |
-| 42 | 2% | 98% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.4% | 99.8% |  |
+| 41 | 0.9% | 99.5% |  |
+| 42 | 2% | 98.5% |  |
 | 43 | 4% | 96% |  |
-| 44 | 7% | 91% |  |
-| 45 | 9% | 85% |  |
-| 46 | 11% | 76% |  |
-| 47 | 12% | 65% |  |
-| 48 | 12% | 52% | Median |
-| 49 | 11% | 41% |  |
-| 50 | 9% | 30% |  |
-| 51 | 7% | 21% |  |
-| 52 | 5% | 14% |  |
-| 53 | 4% | 9% |  |
-| 54 | 2% | 5% |  |
-| 55 | 1.4% | 3% |  |
-| 56 | 0.8% | 2% |  |
-| 57 | 0.4% | 0.7% |  |
+| 44 | 6% | 93% |  |
+| 45 | 9% | 87% |  |
+| 46 | 11% | 78% |  |
+| 47 | 12% | 67% |  |
+| 48 | 12% | 55% | Median |
+| 49 | 11% | 43% |  |
+| 50 | 9% | 32% |  |
+| 51 | 7% | 23% |  |
+| 52 | 5% | 15% |  |
+| 53 | 4% | 10% |  |
+| 54 | 3% | 6% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.9% | 2% |  |
+| 57 | 0.5% | 0.8% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |

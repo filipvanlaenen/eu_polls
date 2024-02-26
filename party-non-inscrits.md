@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **42** seats (+13 seats)
+Current median: **43** seats (+14 seats)
 
 At least one member in **9 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 42 | 39–45 | 38–46 | 37–47 | 35–49 |
+| Non-Inscrits | EU | 29 | 43 | 40–47 | 39–48 | 38–48 | 36–50 |
 | Movimento 5 Stelle | IT | | 14 | 11–16 | 10–16 | 10–17 | 10–18 |
 | Fidesz | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -28,6 +28,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Lewica Razem | PL | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,24 +57,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
-| 34 | 0.1% | 100% |  |
-| 35 | 0.5% | 99.9% |  |
-| 36 | 1.3% | 99.4% |  |
-| 37 | 3% | 98% |  |
-| 38 | 5% | 95% |  |
-| 39 | 8% | 90% |  |
-| 40 | 11% | 82% |  |
-| 41 | 14% | 71% |  |
-| 42 | 15% | 57% | Median |
-| 43 | 14% | 42% |  |
-| 44 | 11% | 29% |  |
-| 45 | 8% | 17% |  |
-| 46 | 5% | 10% |  |
-| 47 | 3% | 5% |  |
-| 48 | 1.2% | 2% |  |
-| 49 | 0.5% | 0.7% |  |
-| 50 | 0.2% | 0.2% |  |
-| 51 | 0% | 0.1% |  |
-| 52 | 0% | 0% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0.1% | 100% |  |
+| 36 | 0.4% | 99.9% |  |
+| 37 | 1.2% | 99.4% |  |
+| 38 | 3% | 98% |  |
+| 39 | 5% | 96% |  |
+| 40 | 8% | 91% |  |
+| 41 | 11% | 83% |  |
+| 42 | 14% | 72% |  |
+| 43 | 15% | 58% | Median |
+| 44 | 14% | 44% |  |
+| 45 | 11% | 30% |  |
+| 46 | 8% | 19% |  |
+| 47 | 5% | 10% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.4% | 2% |  |
+| 50 | 0.6% | 0.8% |  |
+| 51 | 0.2% | 0.3% |  |
+| 52 | 0.1% | 0.1% |  |
+| 53 | 0% | 0% |  |
 
 
