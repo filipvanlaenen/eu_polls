@@ -43,7 +43,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
