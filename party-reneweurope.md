@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (-19 seats)
+Current median: **81** seats (-17 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 79 | 74–84 | 73–85 | 72–87 | 70–89 |
-| La République en marche–Mouvement démocrate | FR | | 16 | 14–18 | 14–18 | 13–19 | 10–21 |
+| Renew Europe | EU | 98 | 81 | 76–86 | 74–87 | 73–88 | 71–91 |
+| La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 14–19 | 14–20 | 14–21 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| Freie Demokratische Partei | DE | | 5 | 3–6 | 2–6 | 2–6 | 2–8 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Fianna Fáil | IE | | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
-| Freie Demokratische Partei | DE | | 4 | 2–6 | 2–6 | 2–8 | 2–8 |
+| Freie Wähler | DE | | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -40,7 +40,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -76,34 +76,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.1% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.8% |  |
-| 70 | 0.5% | 99.5% |  |
-| 71 | 1.0% | 99.0% |  |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 4% | 93% |  |
-| 75 | 6% | 89% |  |
-| 76 | 8% | 82% |  |
-| 77 | 9% | 75% |  |
-| 78 | 10% | 65% |  |
-| 79 | 10% | 55% | Median |
-| 80 | 10% | 45% |  |
-| 81 | 9% | 35% |  |
-| 82 | 8% | 26% |  |
-| 83 | 6% | 18% |  |
-| 84 | 4% | 12% |  |
-| 85 | 3% | 8% |  |
-| 86 | 2% | 5% |  |
-| 87 | 1.2% | 3% |  |
-| 88 | 0.7% | 1.5% |  |
-| 89 | 0.4% | 0.8% |  |
-| 90 | 0.2% | 0.4% |  |
-| 91 | 0.1% | 0.2% |  |
-| 92 | 0% | 0.1% |  |
-| 93 | 0% | 0% |  |
-| 94 | 0% | 0% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.4% | 99.7% |  |
+| 72 | 0.8% | 99.3% |  |
+| 73 | 1.5% | 98.5% |  |
+| 74 | 2% | 97% |  |
+| 75 | 4% | 95% |  |
+| 76 | 5% | 91% |  |
+| 77 | 7% | 86% |  |
+| 78 | 8% | 79% |  |
+| 79 | 9% | 71% |  |
+| 80 | 10% | 61% |  |
+| 81 | 10% | 51% | Median |
+| 82 | 9% | 41% |  |
+| 83 | 8% | 32% |  |
+| 84 | 7% | 24% |  |
+| 85 | 6% | 17% |  |
+| 86 | 4% | 11% |  |
+| 87 | 3% | 7% |  |
+| 88 | 2% | 4% |  |
+| 89 | 1.1% | 2% |  |
+| 90 | 0.6% | 1.2% |  |
+| 91 | 0.3% | 0.6% |  |
+| 92 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.1% |  |
+| 94 | 0% | 0.1% |  |
 | 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |

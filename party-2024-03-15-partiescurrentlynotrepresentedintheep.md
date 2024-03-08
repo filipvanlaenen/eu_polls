@@ -8,22 +8,23 @@ Members registered from **18 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+4 seats)
+Current median: **3** seats (+3 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> DE, GR, IE
+> GR, IE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–5 | 2–6 | 1–6 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–5 | 2–6 | 1–6 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +48,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -61,12 +61,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 14% | 98% |  |
-| 3 | 33% | 84% |  |
-| 4 | 32% | 51% | Median |
-| 5 | 15% | 19% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.3% | 0.3% |  |
+| 2 | 16% | 98% |  |
+| 3 | 34% | 82% | Median |
+| 4 | 31% | 48% |  |
+| 5 | 14% | 17% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.2% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 

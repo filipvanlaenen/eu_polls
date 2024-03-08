@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **44** seats (+5 seats)
+Current median: **45** seats (+6 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 44 | 40–47 | 40–48 | 39–49 | 36–50 |
-| La France insoumise | FR | | 7 | 5–9 | 5–9 | 5–9 | 0–10 |
-| Bündnis Sahra Wagenknecht | DE | | 5 | 5–7 | 4–8 | 4–8 | 4–8 |
+| European United Left–Nordic Green Left | EU | 39 | 45 | 41–49 | 40–50 | 39–51 | 37–52 |
+| La France insoumise | FR | | 7 | 5–10 | 5–11 | 5–11 | 0–11 |
+| Bündnis Sahra Wagenknecht | DE | | 6 | 5–8 | 4–8 | 4–8 | 4–10 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| Die Linke | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Die Linke | DE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Partei Mensch Umwelt Tierschutz | DE | | 3 | 1–3 | 1–3 | 1–5 | 1–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -36,7 +36,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -60,26 +60,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0% | 100% |  |
-| 34 | 0.1% | 99.9% |  |
-| 35 | 0.2% | 99.8% |  |
-| 36 | 0.3% | 99.7% |  |
-| 37 | 0.5% | 99.4% |  |
-| 38 | 1.1% | 98.9% |  |
-| 39 | 3% | 98% | Last Result |
-| 40 | 5% | 95% |  |
-| 41 | 9% | 90% |  |
-| 42 | 13% | 80% |  |
-| 43 | 16% | 67% |  |
-| 44 | 16% | 52% | Median |
-| 45 | 14% | 36% |  |
-| 46 | 10% | 22% |  |
-| 47 | 6% | 12% |  |
-| 48 | 3% | 6% |  |
-| 49 | 2% | 3% |  |
-| 50 | 0.7% | 1.1% |  |
-| 51 | 0.3% | 0.4% |  |
-| 52 | 0.1% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0.1% | 99.9% |  |
+| 37 | 0.3% | 99.7% |  |
+| 38 | 0.8% | 99.4% |  |
+| 39 | 2% | 98.6% | Last Result |
+| 40 | 4% | 97% |  |
+| 41 | 6% | 93% |  |
+| 42 | 9% | 87% |  |
+| 43 | 11% | 78% |  |
+| 44 | 13% | 67% |  |
+| 45 | 13% | 55% | Median |
+| 46 | 12% | 42% |  |
+| 47 | 10% | 29% |  |
+| 48 | 8% | 19% |  |
+| 49 | 5% | 11% |  |
+| 50 | 3% | 6% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.8% | 1.2% |  |
+| 53 | 0.3% | 0.5% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 
 

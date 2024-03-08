@@ -18,15 +18,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 180 | 175–185 | 174–187 | 172–188 | 170–191 |
+| European People’s Party | EU | 187 | 180 | 174–186 | 173–187 | 171–188 | 168–191 |
 | Partido Popular | ES | | 25 | 24–27 | 23–28 | 23–28 | 23–29 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–21 | 18–22 | 17–24 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 18–22 | 17–24 |
 | Platforma Obywatelska | PL | | 19 | 19–20 | 18–20 | 18–20 | 18–22 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
-| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| Les Républicains | FR | | 7 | 5–8 | 5–8 | 4–9 | 0–10 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
+| Νέα Δημοκρατία | GR | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
+| Les Républicains | FR | | 7 | 0–8 | 0–8 | 0–9 | 0–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 3–7 | 3–8 |
 | Forza Italia | IT | | 5 | 4–8 | 4–8 | 3–9 | 3–10 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -50,6 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -82,34 +83,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 166 | 0% | 100% |  |
-| 167 | 0.1% | 99.9% |  |
-| 168 | 0.1% | 99.9% |  |
-| 169 | 0.2% | 99.8% |  |
-| 170 | 0.4% | 99.5% |  |
-| 171 | 0.7% | 99.2% |  |
-| 172 | 1.2% | 98% |  |
-| 173 | 2% | 97% |  |
-| 174 | 3% | 95% |  |
-| 175 | 4% | 92% |  |
-| 176 | 6% | 88% |  |
-| 177 | 8% | 82% |  |
-| 178 | 9% | 75% |  |
-| 179 | 10% | 66% |  |
-| 180 | 10% | 56% | Median |
-| 181 | 10% | 46% |  |
-| 182 | 9% | 36% |  |
-| 183 | 8% | 27% |  |
-| 184 | 6% | 19% |  |
-| 185 | 5% | 13% |  |
-| 186 | 3% | 9% |  |
-| 187 | 2% | 5% | Last Result |
-| 188 | 1.4% | 3% |  |
-| 189 | 0.8% | 2% |  |
-| 190 | 0.5% | 1.0% |  |
-| 191 | 0.3% | 0.5% |  |
-| 192 | 0.1% | 0.3% |  |
-| 193 | 0.1% | 0.1% |  |
+| 165 | 0.1% | 100% |  |
+| 166 | 0.1% | 99.9% |  |
+| 167 | 0.2% | 99.8% |  |
+| 168 | 0.3% | 99.6% |  |
+| 169 | 0.5% | 99.3% |  |
+| 170 | 0.8% | 98.8% |  |
+| 171 | 1.1% | 98% |  |
+| 172 | 2% | 97% |  |
+| 173 | 2% | 95% |  |
+| 174 | 3% | 93% |  |
+| 175 | 4% | 90% |  |
+| 176 | 5% | 86% |  |
+| 177 | 7% | 81% |  |
+| 178 | 8% | 74% |  |
+| 179 | 9% | 66% |  |
+| 180 | 9% | 57% | Median |
+| 181 | 9% | 48% |  |
+| 182 | 9% | 38% |  |
+| 183 | 8% | 29% |  |
+| 184 | 6% | 22% |  |
+| 185 | 5% | 15% |  |
+| 186 | 4% | 10% |  |
+| 187 | 3% | 7% | Last Result |
+| 188 | 2% | 4% |  |
+| 189 | 1.0% | 2% |  |
+| 190 | 0.6% | 1.3% |  |
+| 191 | 0.3% | 0.7% |  |
+| 192 | 0.2% | 0.4% |  |
+| 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
 
