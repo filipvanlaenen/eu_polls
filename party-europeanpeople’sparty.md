@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **180** seats (-7 seats)
+Current median: **181** seats (-6 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 180 | 174–186 | 173–187 | 171–188 | 168–191 |
-| Partido Popular | ES | | 25 | 24–27 | 23–28 | 23–28 | 23–29 |
+| European People’s Party | EU | 187 | 181 | 175–185 | 173–187 | 171–188 | 168–190 |
+| Partido Popular | ES | | 26 | 24–27 | 24–27 | 23–27 | 23–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 18–22 | 17–24 |
 | Platforma Obywatelska | PL | | 19 | 19–20 | 18–20 | 18–20 | 18–22 |
 | Partidul Național Liberal | RO | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
@@ -27,12 +27,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Les Républicains | FR | | 7 | 0–8 | 0–8 | 0–9 | 0–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 3–7 | 3–8 |
-| Forza Italia | IT | | 5 | 4–8 | 4–8 | 3–9 | 3–10 |
+| Forza Italia | IT | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 4 | 3–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Nieuw Sociaal Contract | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Polskie Stronnictwo Ludowe | PL | | 4 | 4 | 3–5 | 3–5 | 3–5 |
@@ -83,36 +83,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 165 | 0.1% | 100% |  |
+| 165 | 0% | 100% |  |
 | 166 | 0.1% | 99.9% |  |
-| 167 | 0.2% | 99.8% |  |
-| 168 | 0.3% | 99.6% |  |
-| 169 | 0.5% | 99.3% |  |
-| 170 | 0.8% | 98.8% |  |
-| 171 | 1.1% | 98% |  |
-| 172 | 2% | 97% |  |
-| 173 | 2% | 95% |  |
-| 174 | 3% | 93% |  |
-| 175 | 4% | 90% |  |
-| 176 | 5% | 86% |  |
-| 177 | 7% | 81% |  |
-| 178 | 8% | 74% |  |
-| 179 | 9% | 66% |  |
-| 180 | 9% | 57% | Median |
-| 181 | 9% | 48% |  |
-| 182 | 9% | 38% |  |
-| 183 | 8% | 29% |  |
-| 184 | 6% | 22% |  |
+| 167 | 0.1% | 99.9% |  |
+| 168 | 0.2% | 99.7% |  |
+| 169 | 0.4% | 99.5% |  |
+| 170 | 0.6% | 99.1% |  |
+| 171 | 1.0% | 98% |  |
+| 172 | 1.4% | 97% |  |
+| 173 | 2% | 96% |  |
+| 174 | 3% | 94% |  |
+| 175 | 4% | 91% |  |
+| 176 | 5% | 88% |  |
+| 177 | 6% | 83% |  |
+| 178 | 8% | 77% |  |
+| 179 | 9% | 69% |  |
+| 180 | 10% | 60% |  |
+| 181 | 10% | 50% | Median |
+| 182 | 10% | 40% |  |
+| 183 | 9% | 30% |  |
+| 184 | 7% | 22% |  |
 | 185 | 5% | 15% |  |
 | 186 | 4% | 10% |  |
-| 187 | 3% | 7% | Last Result |
-| 188 | 2% | 4% |  |
-| 189 | 1.0% | 2% |  |
-| 190 | 0.6% | 1.3% |  |
-| 191 | 0.3% | 0.7% |  |
-| 192 | 0.2% | 0.4% |  |
-| 193 | 0.1% | 0.2% |  |
-| 194 | 0% | 0.1% |  |
-| 195 | 0% | 0% |  |
+| 187 | 2% | 6% | Last Result |
+| 188 | 2% | 3% |  |
+| 189 | 0.9% | 2% |  |
+| 190 | 0.5% | 0.9% |  |
+| 191 | 0.2% | 0.4% |  |
+| 192 | 0.1% | 0.2% |  |
+| 193 | 0.1% | 0.1% |  |
+| 194 | 0% | 0% |  |
 
 
