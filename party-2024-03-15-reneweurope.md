@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (-19 seats)
+Current median: **80** seats (-18 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 79 | 73–86 | 71–88 | 70–89 | 68–92 |
+| Renew Europe | EU | 98 | 80 | 74–87 | 72–88 | 71–90 | 68–93 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 14–19 | 14–20 | 14–21 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Freie Demokratische Partei | DE | | 5 | 3–6 | 2–6 | 2–6 | 2–8 |
@@ -26,12 +26,13 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Polska 2050 | PL | | 2 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 1–2 |
@@ -44,7 +45,6 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Momentum Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -76,38 +76,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 65 | 0.1% | 100% |  |
-| 66 | 0.1% | 99.9% |  |
-| 67 | 0.3% | 99.8% |  |
-| 68 | 0.5% | 99.5% |  |
-| 69 | 0.8% | 99.1% |  |
-| 70 | 1.3% | 98% |  |
-| 71 | 2% | 97% |  |
-| 72 | 3% | 95% |  |
-| 73 | 4% | 92% |  |
-| 74 | 5% | 88% |  |
-| 75 | 6% | 84% |  |
-| 76 | 6% | 78% |  |
-| 77 | 7% | 72% |  |
-| 78 | 8% | 65% |  |
-| 79 | 8% | 57% | Median |
-| 80 | 8% | 49% |  |
-| 81 | 7% | 41% |  |
-| 82 | 7% | 34% |  |
-| 83 | 6% | 27% |  |
-| 84 | 5% | 21% |  |
-| 85 | 4% | 16% |  |
-| 86 | 3% | 11% |  |
-| 87 | 3% | 8% |  |
-| 88 | 2% | 5% |  |
-| 89 | 1.3% | 4% |  |
-| 90 | 0.9% | 2% |  |
-| 91 | 0.6% | 1.3% |  |
-| 92 | 0.4% | 0.8% |  |
-| 93 | 0.2% | 0.4% |  |
-| 94 | 0.1% | 0.2% |  |
-| 95 | 0.1% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 66 | 0.1% | 100% |  |
+| 67 | 0.2% | 99.9% |  |
+| 68 | 0.3% | 99.7% |  |
+| 69 | 0.6% | 99.4% |  |
+| 70 | 1.0% | 98.8% |  |
+| 71 | 2% | 98% |  |
+| 72 | 2% | 96% |  |
+| 73 | 3% | 94% |  |
+| 74 | 4% | 91% |  |
+| 75 | 5% | 87% |  |
+| 76 | 6% | 82% |  |
+| 77 | 7% | 76% |  |
+| 78 | 7% | 70% |  |
+| 79 | 8% | 62% |  |
+| 80 | 8% | 55% | Median |
+| 81 | 8% | 47% |  |
+| 82 | 7% | 39% |  |
+| 83 | 7% | 32% |  |
+| 84 | 6% | 25% |  |
+| 85 | 5% | 19% |  |
+| 86 | 4% | 14% |  |
+| 87 | 3% | 10% |  |
+| 88 | 2% | 7% |  |
+| 89 | 2% | 5% |  |
+| 90 | 1.2% | 3% |  |
+| 91 | 0.8% | 2% |  |
+| 92 | 0.5% | 1.2% |  |
+| 93 | 0.3% | 0.7% |  |
+| 94 | 0.2% | 0.4% |  |
+| 95 | 0.1% | 0.2% |  |
+| 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
 
