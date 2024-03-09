@@ -18,24 +18,25 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 46 | 42–50 | 41–51 | 40–51 | 38–53 |
+| European United Left–Nordic Green Left | EU | 39 | 46 | 42–50 | 41–51 | 40–52 | 39–54 |
 | La France insoumise | FR | | 7 | 5–10 | 5–11 | 5–11 | 0–11 |
 | Bündnis Sahra Wagenknecht | DE | | 6 | 5–8 | 4–8 | 4–8 | 4–10 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Die Linke | DE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Partei Mensch Umwelt Tierschutz | DE | | 3 | 1–3 | 1–3 | 1–5 | 1–5 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sinistra Italiana | IT | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Bloco de Esquerda | PT | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Bloco de Esquerda | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,7 +51,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -62,25 +62,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0% | 100% |  |
 | 36 | 0.1% | 99.9% |  |
-| 37 | 0.2% | 99.8% |  |
-| 38 | 0.4% | 99.7% |  |
-| 39 | 1.1% | 99.2% | Last Result |
-| 40 | 2% | 98% |  |
-| 41 | 4% | 96% |  |
-| 42 | 7% | 92% |  |
-| 43 | 9% | 85% |  |
-| 44 | 11% | 76% |  |
-| 45 | 13% | 65% |  |
-| 46 | 13% | 52% | Median |
-| 47 | 12% | 39% |  |
-| 48 | 10% | 27% |  |
-| 49 | 7% | 18% |  |
-| 50 | 5% | 10% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.5% | 2% |  |
-| 53 | 0.6% | 1.0% |  |
-| 54 | 0.2% | 0.3% |  |
-| 55 | 0.1% | 0.1% |  |
+| 37 | 0.1% | 99.9% |  |
+| 38 | 0.3% | 99.8% |  |
+| 39 | 0.6% | 99.5% | Last Result |
+| 40 | 2% | 98.9% |  |
+| 41 | 3% | 97% |  |
+| 42 | 5% | 94% |  |
+| 43 | 8% | 89% |  |
+| 44 | 10% | 81% |  |
+| 45 | 12% | 71% |  |
+| 46 | 13% | 59% | Median |
+| 47 | 13% | 45% |  |
+| 48 | 11% | 33% |  |
+| 49 | 9% | 22% |  |
+| 50 | 6% | 13% |  |
+| 51 | 4% | 7% |  |
+| 52 | 2% | 3% |  |
+| 53 | 0.9% | 1.5% |  |
+| 54 | 0.4% | 0.5% |  |
+| 55 | 0.1% | 0.2% |  |
 | 56 | 0% | 0% |  |
 
 

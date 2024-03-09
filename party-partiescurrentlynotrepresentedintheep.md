@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
+> BE, BG, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+3 seats)
+Current median: **4** seats (+4 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–5 | 2–6 | 1–6 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–6 | 2–6 | 2–7 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 1 | 1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Blocul Suveranist Român [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -48,6 +48,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -60,13 +61,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 16% | 98% |  |
-| 3 | 33% | 83% | Median |
-| 4 | 31% | 49% |  |
-| 5 | 15% | 18% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.3% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 16% | 100% |  |
+| 3 | 32% | 84% |  |
+| 4 | 30% | 53% | Median |
+| 5 | 16% | 23% |  |
+| 6 | 5% | 6% |  |
+| 7 | 1.0% | 1.2% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
 
 
