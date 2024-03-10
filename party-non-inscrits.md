@@ -27,11 +27,12 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvija pirmajā vietā | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 1 | 1 | 1 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
+| Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -59,19 +60,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 100% |  |
 | 35 | 0% | 100% |  |
 | 36 | 0.1% | 100% |  |
-| 37 | 0.5% | 99.9% |  |
+| 37 | 0.4% | 99.9% |  |
 | 38 | 2% | 99.4% |  |
 | 39 | 5% | 98% |  |
 | 40 | 10% | 93% |  |
-| 41 | 16% | 82% |  |
-| 42 | 19% | 66% | Median |
-| 43 | 18% | 46% |  |
+| 41 | 16% | 83% |  |
+| 42 | 19% | 67% | Median |
+| 43 | 18% | 47% |  |
 | 44 | 13% | 29% |  |
-| 45 | 8% | 15% |  |
+| 45 | 8% | 16% |  |
 | 46 | 4% | 8% |  |
 | 47 | 2% | 3% |  |
-| 48 | 0.9% | 1.3% |  |
-| 49 | 0.3% | 0.5% |  |
+| 48 | 0.9% | 1.4% |  |
+| 49 | 0.4% | 0.5% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 

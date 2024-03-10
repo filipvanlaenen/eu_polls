@@ -24,6 +24,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Blocul Suveranist Român [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -63,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 8% | 99.5% |  |
 | 3 | 25% | 91% |  |
 | 4 | 32% | 67% | Median |
-| 5 | 23% | 34% |  |
+| 5 | 23% | 35% |  |
 | 6 | 9% | 12% |  |
 | 7 | 2% | 3% |  |
 | 8 | 0.4% | 0.4% |  |
