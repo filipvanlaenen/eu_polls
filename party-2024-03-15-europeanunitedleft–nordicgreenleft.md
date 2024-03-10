@@ -23,7 +23,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bündnis Sahra Wagenknecht | DE | | 6 | 5–8 | 4–8 | 4–8 | 4–10 |
 | Sinn Féin | IE | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Die Linke | DE | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
-| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
+| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Partei Mensch Umwelt Tierschutz | DE | | 3 | 1–3 | 1–3 | 1–5 | 1–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

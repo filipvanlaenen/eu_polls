@@ -8,25 +8,27 @@ Members registered from **15 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **40** seats (+11 seats)
+Current median: **42** seats (+13 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, GR, HU, IT, LT, LV, SK
+> DE, DK, ES, GR, HU, IT, LT, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 40 | 36–44 | 36–45 | 35–46 | 34–48 |
+| Non-Inscrits | EU | 29 | 42 | 40–45 | 39–46 | 39–47 | 38–49 |
 | Movimento 5 Stelle | IT | | 14 | 12–16 | 12–17 | 11–17 | 11–19 |
 | Fidesz | HU | | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | SMER–sociálna demokracia | SK | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Nowa Nadzieja–Ruch Narodowy | PL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die PARTEI | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Lewica Razem | PL | | 1 | 1 | 1 | 1 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -36,9 +38,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
-| Lewica Razem | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Nowa Nadzieja–Ruch Narodowy | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -55,24 +55,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
-| 33 | 0.2% | 100% |  |
-| 34 | 1.0% | 99.7% |  |
-| 35 | 3% | 98.8% |  |
-| 36 | 6% | 96% |  |
-| 37 | 9% | 90% |  |
-| 38 | 11% | 80% |  |
-| 39 | 11% | 69% |  |
-| 40 | 11% | 58% | Median |
-| 41 | 12% | 46% |  |
-| 42 | 12% | 34% |  |
-| 43 | 10% | 23% |  |
-| 44 | 6% | 13% |  |
-| 45 | 4% | 7% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.8% | 1.4% |  |
-| 48 | 0.4% | 0.6% |  |
-| 49 | 0.2% | 0.2% |  |
-| 50 | 0% | 0.1% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.3% | 99.9% |  |
+| 38 | 1.4% | 99.6% |  |
+| 39 | 4% | 98% |  |
+| 40 | 10% | 94% |  |
+| 41 | 16% | 84% |  |
+| 42 | 20% | 68% | Median |
+| 43 | 19% | 48% |  |
+| 44 | 14% | 29% |  |
+| 45 | 8% | 15% |  |
+| 46 | 4% | 7% |  |
+| 47 | 2% | 3% |  |
+| 48 | 0.9% | 1.5% |  |
+| 49 | 0.4% | 0.6% |  |
+| 50 | 0.1% | 0.2% |  |
 | 51 | 0% | 0% |  |
 
 

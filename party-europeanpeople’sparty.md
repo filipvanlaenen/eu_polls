@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **171** seats (-16 seats)
+Current median: **181** seats (-6 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 171 | 159–184 | 157–186 | 155–187 | 151–190 |
-| Partido Popular | ES | | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
+| European People’s Party | EU | 187 | 181 | 175–186 | 173–187 | 171–188 | 168–191 |
+| Partido Popular | ES | | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 18–22 | 17–24 |
-| Platforma Obywatelska | PL | | 15 | 5–19 | 5–20 | 5–20 | 4–22 |
+| Platforma Obywatelska | PL | | 19 | 18–19 | 18–20 | 18–20 | 18–22 |
 | Partidul Național Liberal | RO | | 8 | 8–10 | 7–10 | 7–11 | 7–11 |
 | Aliança Democrática | PT | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Les Républicains | FR | | 7 | 0–8 | 0–8 | 0–9 | 0–9 |
@@ -34,6 +34,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–5 | 3–5 |
 | Nieuw Sociaal Contract | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Polskie Stronnictwo Ludowe | PL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
@@ -42,7 +43,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 0–4 | 0–4 | 0–5 | 0–5 |
 | TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -83,52 +83,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 148 | 0% | 100% |  |
-| 149 | 0.1% | 99.9% |  |
-| 150 | 0.1% | 99.8% |  |
-| 151 | 0.2% | 99.7% |  |
-| 152 | 0.3% | 99.5% |  |
-| 153 | 0.5% | 99.2% |  |
-| 154 | 0.7% | 98.7% |  |
-| 155 | 1.0% | 98% |  |
-| 156 | 1.4% | 97% |  |
-| 157 | 2% | 96% |  |
-| 158 | 2% | 94% |  |
-| 159 | 3% | 91% |  |
-| 160 | 4% | 88% |  |
-| 161 | 4% | 84% |  |
-| 162 | 5% | 80% |  |
-| 163 | 5% | 75% |  |
-| 164 | 5% | 70% |  |
-| 165 | 4% | 66% |  |
-| 166 | 4% | 61% |  |
-| 167 | 3% | 58% |  |
-| 168 | 2% | 55% |  |
-| 169 | 2% | 53% |  |
-| 170 | 1.2% | 51% |  |
-| 171 | 1.0% | 50% | Median |
-| 172 | 1.0% | 49% |  |
-| 173 | 1.2% | 48% |  |
-| 174 | 1.5% | 47% |  |
-| 175 | 2% | 46% |  |
-| 176 | 2% | 44% |  |
-| 177 | 3% | 41% |  |
-| 178 | 4% | 38% |  |
-| 179 | 4% | 34% |  |
-| 180 | 5% | 30% |  |
-| 181 | 5% | 25% |  |
-| 182 | 5% | 20% |  |
-| 183 | 4% | 16% |  |
-| 184 | 4% | 12% |  |
-| 185 | 3% | 8% |  |
-| 186 | 2% | 5% |  |
-| 187 | 1.4% | 3% | Last Result |
-| 188 | 0.9% | 2% |  |
-| 189 | 0.5% | 1.1% |  |
-| 190 | 0.3% | 0.6% |  |
-| 191 | 0.2% | 0.3% |  |
-| 192 | 0.1% | 0.1% |  |
-| 193 | 0% | 0.1% |  |
-| 194 | 0% | 0% |  |
+| 165 | 0% | 100% |  |
+| 166 | 0.1% | 99.9% |  |
+| 167 | 0.1% | 99.9% |  |
+| 168 | 0.2% | 99.7% |  |
+| 169 | 0.4% | 99.5% |  |
+| 170 | 0.6% | 99.1% |  |
+| 171 | 1.0% | 98% |  |
+| 172 | 1.4% | 97% |  |
+| 173 | 2% | 96% |  |
+| 174 | 3% | 94% |  |
+| 175 | 4% | 92% |  |
+| 176 | 5% | 88% |  |
+| 177 | 6% | 83% |  |
+| 178 | 7% | 77% |  |
+| 179 | 9% | 70% |  |
+| 180 | 10% | 61% |  |
+| 181 | 10% | 52% | Median |
+| 182 | 10% | 42% |  |
+| 183 | 9% | 32% |  |
+| 184 | 7% | 24% |  |
+| 185 | 6% | 17% |  |
+| 186 | 4% | 11% |  |
+| 187 | 3% | 7% | Last Result |
+| 188 | 2% | 4% |  |
+| 189 | 1.1% | 2% |  |
+| 190 | 0.6% | 1.2% |  |
+| 191 | 0.3% | 0.6% |  |
+| 192 | 0.2% | 0.3% |  |
+| 193 | 0.1% | 0.1% |  |
+| 194 | 0% | 0.1% |  |
+| 195 | 0% | 0% |  |
 
 
