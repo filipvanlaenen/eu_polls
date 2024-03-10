@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 77–87 | 75–88 | 73–89 | 71–91 |
+| European Conservatives and Reformists | EU | 61 | 82 | 77–87 | 75–88 | 74–89 | 71–91 |
 | Fratelli d’Italia | IT | | 24 | 22–25 | 21–26 | 20–27 | 19–28 |
 | Zjednoczona Prawica | PL | | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
 | Alianța pentru Unirea Românilor | RO | | 9 | 7–12 | 7–13 | 7–13 | 7–13 |
 | Vox | ES | | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Reconquête | FR | | 6 | 0–8 | 0–8 | 0–8 | 0–9 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -61,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.4% | 99.7% |  |
 | 72 | 0.7% | 99.3% |  |
 | 73 | 1.1% | 98.6% |  |
-| 74 | 2% | 97% |  |
+| 74 | 2% | 98% |  |
 | 75 | 2% | 96% |  |
 | 76 | 3% | 94% |  |
 | 77 | 4% | 91% |  |
@@ -70,11 +70,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 8% | 75% |  |
 | 81 | 10% | 67% |  |
 | 82 | 11% | 57% | Median |
-| 83 | 11% | 46% |  |
+| 83 | 11% | 47% |  |
 | 84 | 10% | 36% |  |
 | 85 | 8% | 26% |  |
-| 86 | 6% | 18% |  |
-| 87 | 5% | 11% |  |
+| 86 | 7% | 18% |  |
+| 87 | 5% | 12% |  |
 | 88 | 3% | 7% |  |
 | 89 | 2% | 4% |  |
 | 90 | 1.0% | 2% |  |

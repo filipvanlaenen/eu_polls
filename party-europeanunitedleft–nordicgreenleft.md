@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Levica | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -63,24 +63,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.1% | 100% |  |
 | 36 | 0.1% | 99.9% |  |
 | 37 | 0.2% | 99.8% |  |
-| 38 | 0.5% | 99.6% |  |
+| 38 | 0.6% | 99.6% |  |
 | 39 | 1.3% | 99.0% | Last Result |
 | 40 | 3% | 98% |  |
 | 41 | 5% | 95% |  |
 | 42 | 7% | 90% |  |
 | 43 | 10% | 83% |  |
 | 44 | 12% | 73% |  |
-| 45 | 13% | 62% | Median |
-| 46 | 13% | 49% |  |
+| 45 | 13% | 61% | Median |
+| 46 | 13% | 48% |  |
 | 47 | 11% | 36% |  |
-| 48 | 9% | 25% |  |
+| 48 | 9% | 24% |  |
 | 49 | 7% | 15% |  |
 | 50 | 4% | 9% |  |
 | 51 | 2% | 4% |  |
 | 52 | 1.2% | 2% |  |
 | 53 | 0.5% | 0.7% |  |
 | 54 | 0.2% | 0.2% |  |
-| 55 | 0.1% | 0.1% |  |
+| 55 | 0% | 0.1% |  |
 | 56 | 0% | 0% |  |
 
 
