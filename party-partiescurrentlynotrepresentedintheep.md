@@ -18,13 +18,12 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–6 | 2–7 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–7 | 2–7 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Második Reformkor [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bij1 [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Blocul Suveranist Român [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -63,12 +62,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.5% | 100% |  |
 | 2 | 8% | 99.5% |  |
 | 3 | 25% | 91% |  |
-| 4 | 33% | 67% | Median |
+| 4 | 32% | 67% | Median |
 | 5 | 23% | 34% |  |
-| 6 | 9% | 11% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0.3% | 0.4% |  |
-| 9 | 0% | 0.1% |  |
+| 6 | 9% | 12% |  |
+| 7 | 2% | 3% |  |
+| 8 | 0.4% | 0.4% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 

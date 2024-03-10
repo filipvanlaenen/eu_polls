@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 77–86 | 75–88 | 73–89 | 71–91 |
-| Fratelli d’Italia | IT | | 24 | 22–25 | 21–26 | 21–26 | 20–28 |
-| Zjednoczona Prawica | PL | | 17 | 16–17 | 16–17 | 15–17 | 15–18 |
+| European Conservatives and Reformists | EU | 61 | 82 | 77–87 | 75–88 | 73–89 | 71–91 |
+| Fratelli d’Italia | IT | | 24 | 22–25 | 21–26 | 20–27 | 19–28 |
+| Zjednoczona Prawica | PL | | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
 | Alianța pentru Unirea Românilor | RO | | 9 | 7–12 | 7–13 | 7–13 | 7–13 |
 | Vox | ES | | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Reconquête | FR | | 6 | 0–8 | 0–8 | 0–8 | 0–9 |
@@ -60,7 +60,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0.2% | 99.9% |  |
 | 71 | 0.4% | 99.7% |  |
 | 72 | 0.8% | 99.3% |  |
-| 73 | 1.2% | 98% |  |
+| 73 | 1.2% | 98.5% |  |
 | 74 | 2% | 97% |  |
 | 75 | 2% | 96% |  |
 | 76 | 3% | 93% |  |
@@ -68,18 +68,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 5% | 86% |  |
 | 79 | 7% | 81% |  |
 | 80 | 9% | 74% |  |
-| 81 | 10% | 65% |  |
-| 82 | 11% | 55% | Median |
-| 83 | 11% | 44% |  |
-| 84 | 10% | 33% |  |
-| 85 | 8% | 24% |  |
-| 86 | 6% | 16% |  |
-| 87 | 4% | 10% |  |
-| 88 | 3% | 5% |  |
-| 89 | 1.5% | 3% |  |
-| 90 | 0.7% | 1.3% |  |
-| 91 | 0.3% | 0.5% |  |
-| 92 | 0.1% | 0.2% |  |
+| 81 | 10% | 66% |  |
+| 82 | 11% | 56% | Median |
+| 83 | 11% | 45% |  |
+| 84 | 10% | 34% |  |
+| 85 | 8% | 25% |  |
+| 86 | 6% | 17% |  |
+| 87 | 4% | 11% |  |
+| 88 | 3% | 6% |  |
+| 89 | 2% | 3% |  |
+| 90 | 0.9% | 2% |  |
+| 91 | 0.4% | 0.7% |  |
+| 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
