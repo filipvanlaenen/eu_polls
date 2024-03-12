@@ -18,7 +18,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 78–89 | 77–91 | 76–92 | 73–94 |
+| Renew Europe | EU | 98 | 83 | 78–89 | 77–91 | 76–92 | 74–94 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 14–19 | 14–20 | 14–21 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Freie Demokratische Partei | DE | | 5 | 3–6 | 2–6 | 2–6 | 2–8 |
@@ -42,7 +42,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -79,13 +79,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0% | 100% |  |
 | 72 | 0.1% | 99.9% |  |
 | 73 | 0.3% | 99.8% |  |
-| 74 | 0.7% | 99.5% |  |
-| 75 | 1.2% | 98.8% |  |
+| 74 | 0.6% | 99.6% |  |
+| 75 | 1.2% | 98.9% |  |
 | 76 | 2% | 98% |  |
 | 77 | 3% | 96% |  |
-| 78 | 4% | 92% |  |
+| 78 | 4% | 93% |  |
 | 79 | 6% | 88% |  |
-| 80 | 7% | 82% |  |
+| 80 | 7% | 83% |  |
 | 81 | 8% | 75% |  |
 | 82 | 9% | 67% |  |
 | 83 | 9% | 58% | Median |
@@ -99,8 +99,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 2% | 5% |  |
 | 92 | 1.3% | 3% |  |
 | 93 | 0.8% | 2% |  |
-| 94 | 0.5% | 1.0% |  |
-| 95 | 0.3% | 0.5% |  |
+| 94 | 0.5% | 0.9% |  |
+| 95 | 0.2% | 0.5% |  |
 | 96 | 0.1% | 0.2% |  |
 | 97 | 0.1% | 0.1% |  |
 | 98 | 0% | 0% | Last Result |
