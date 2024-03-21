@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–7 | 1–8 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–7 | 1–7 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Második Reformkor [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,13 +59,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.6% | 100% |  |
-| 2 | 7% | 99.4% |  |
-| 3 | 23% | 92% |  |
-| 4 | 32% | 69% | Median |
-| 5 | 24% | 37% |  |
-| 6 | 10% | 13% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.5% | 0.6% |  |
+| 2 | 8% | 99.4% |  |
+| 3 | 25% | 91% |  |
+| 4 | 33% | 67% | Median |
+| 5 | 23% | 34% |  |
+| 6 | 9% | 12% |  |
+| 7 | 2% | 3% |  |
+| 8 | 0.4% | 0.5% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

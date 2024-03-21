@@ -18,13 +18,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 48 | 44–53 | 42–54 | 41–55 | 38–57 |
-| Bündnis 90/Die Grünen | DE | | 10 | 9–12 | 9–16 | 9–16 | 8–16 |
-| Europe Écologie Les Verts | FR | | 7 | 5–9 | 0–9 | 0–10 | 0–10 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| Greens–European Free Alliance | EU | 67 | 48 | 44–52 | 42–53 | 41–54 | 38–56 |
+| Bündnis 90/Die Grünen | DE | | 11 | 9–14 | 9–14 | 9–15 | 8–15 |
+| Europe Écologie Les Verts | FR | | 7 | 5–9 | 5–9 | 0–9 | 0–9 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3–5 | 3–5 |
-| Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Miljöpartiet de gröna | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -36,9 +36,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
-| Piratenpartei Deutschland | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -47,6 +46,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -66,29 +66,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0% | 100% |  |
 | 36 | 0.1% | 99.9% |  |
-| 37 | 0.2% | 99.8% |  |
-| 38 | 0.4% | 99.6% |  |
-| 39 | 0.6% | 99.2% |  |
-| 40 | 0.8% | 98.6% |  |
-| 41 | 1.2% | 98% |  |
-| 42 | 2% | 97% |  |
-| 43 | 3% | 95% |  |
-| 44 | 5% | 91% |  |
-| 45 | 7% | 86% |  |
-| 46 | 9% | 79% |  |
-| 47 | 11% | 70% |  |
-| 48 | 12% | 59% | Median |
-| 49 | 11% | 48% |  |
-| 50 | 10% | 37% |  |
-| 51 | 8% | 26% |  |
-| 52 | 6% | 18% |  |
-| 53 | 5% | 12% |  |
-| 54 | 3% | 7% |  |
-| 55 | 2% | 4% |  |
-| 56 | 1.1% | 2% |  |
-| 57 | 0.5% | 0.9% |  |
-| 58 | 0.2% | 0.4% |  |
-| 59 | 0.1% | 0.1% |  |
+| 37 | 0.3% | 99.8% |  |
+| 38 | 0.4% | 99.5% |  |
+| 39 | 0.6% | 99.1% |  |
+| 40 | 0.8% | 98% |  |
+| 41 | 1.3% | 98% |  |
+| 42 | 2% | 96% |  |
+| 43 | 4% | 94% |  |
+| 44 | 6% | 90% |  |
+| 45 | 9% | 84% |  |
+| 46 | 11% | 76% |  |
+| 47 | 12% | 65% |  |
+| 48 | 12% | 53% | Median |
+| 49 | 11% | 41% |  |
+| 50 | 9% | 30% |  |
+| 51 | 7% | 20% |  |
+| 52 | 5% | 13% |  |
+| 53 | 4% | 8% |  |
+| 54 | 2% | 4% |  |
+| 55 | 1.1% | 2% |  |
+| 56 | 0.5% | 0.7% |  |
+| 57 | 0.2% | 0.2% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

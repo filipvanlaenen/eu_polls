@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (-17 seats)
+Current median: **82** seats (-16 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 81 | 76–87 | 75–88 | 74–90 | 72–92 |
-| La République en marche–Mouvement démocrate | FR | | 17 | 15–18 | 14–19 | 14–20 | 14–21 |
+| Renew Europe | EU | 98 | 82 | 76–88 | 74–90 | 73–91 | 71–94 |
+| La République en marche–Mouvement démocrate | FR | | 17 | 15–20 | 15–21 | 14–22 | 14–23 |
 | ANO 2011 | CZ | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
-| Freie Demokratische Partei | DE | | 5 | 3–6 | 2–6 | 2–6 | 2–8 |
+| Freie Demokratische Partei | DE | | 5 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 3–4 | 3–4 |
-| Freie Wähler | DE | | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -73,35 +73,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0% | 100% |  |
-| 70 | 0.1% | 99.9% |  |
-| 71 | 0.3% | 99.8% |  |
-| 72 | 0.7% | 99.5% |  |
-| 73 | 1.3% | 98.8% |  |
-| 74 | 2% | 98% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.4% | 99.7% |  |
+| 72 | 0.8% | 99.3% |  |
+| 73 | 1.4% | 98% |  |
+| 74 | 2% | 97% |  |
 | 75 | 3% | 95% |  |
-| 76 | 5% | 92% |  |
-| 77 | 6% | 88% |  |
-| 78 | 7% | 82% |  |
-| 79 | 8% | 75% |  |
-| 80 | 9% | 66% |  |
-| 81 | 9% | 57% | Median |
-| 82 | 9% | 48% |  |
-| 83 | 9% | 39% |  |
-| 84 | 8% | 30% |  |
-| 85 | 6% | 23% |  |
-| 86 | 5% | 16% |  |
-| 87 | 4% | 11% |  |
-| 88 | 3% | 7% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.2% | 3% |  |
-| 91 | 0.8% | 2% |  |
-| 92 | 0.4% | 0.9% |  |
-| 93 | 0.2% | 0.4% |  |
-| 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
-| 96 | 0% | 0% |  |
-| 97 | 0% | 0% |  |
+| 76 | 4% | 92% |  |
+| 77 | 5% | 88% |  |
+| 78 | 6% | 83% |  |
+| 79 | 7% | 76% |  |
+| 80 | 8% | 69% |  |
+| 81 | 8% | 61% |  |
+| 82 | 8% | 53% | Median |
+| 83 | 8% | 45% |  |
+| 84 | 8% | 37% |  |
+| 85 | 7% | 29% |  |
+| 86 | 6% | 23% |  |
+| 87 | 5% | 17% |  |
+| 88 | 4% | 12% |  |
+| 89 | 3% | 8% |  |
+| 90 | 2% | 5% |  |
+| 91 | 1.4% | 3% |  |
+| 92 | 0.9% | 2% |  |
+| 93 | 0.5% | 1.1% |  |
+| 94 | 0.3% | 0.6% |  |
+| 95 | 0.2% | 0.3% |  |
+| 96 | 0.1% | 0.1% |  |
+| 97 | 0% | 0.1% |  |
 | 98 | 0% | 0% | Last Result |
 
 
