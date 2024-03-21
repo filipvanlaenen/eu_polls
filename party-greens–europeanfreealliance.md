@@ -47,10 +47,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
-| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.6% | 99.2% |  |
 | 40 | 0.8% | 98.6% |  |
 | 41 | 1.2% | 98% |  |
-| 42 | 2% | 96% |  |
+| 42 | 2% | 97% |  |
 | 43 | 3% | 95% |  |
 | 44 | 5% | 91% |  |
 | 45 | 7% | 86% |  |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 11% | 70% |  |
 | 48 | 12% | 59% | Median |
 | 49 | 11% | 48% |  |
-| 50 | 10% | 36% |  |
+| 50 | 10% | 37% |  |
 | 51 | 8% | 26% |  |
 | 52 | 6% | 18% |  |
 | 53 | 5% | 12% |  |

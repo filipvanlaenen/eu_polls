@@ -18,22 +18,22 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 169 | 164–174 | 162–176 | 160–177 | 157–179 |
+| European People’s Party | EU | 187 | 169 | 164–174 | 162–175 | 160–176 | 157–179 |
 | Partido Popular | ES | | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 18–22 | 17–24 |
 | Platforma Obywatelska | PL | | 19 | 18–20 | 18–20 | 18–20 | 18–22 |
 | Partidul Național Liberal | RO | | 8 | 8–10 | 7–10 | 7–11 | 7–11 |
+| Νέα Δημοκρατία | GR | | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Les Républicains | FR | | 7 | 0–8 | 0–8 | 0–9 | 0–9 |
-| Νέα Δημοκρατία | GR | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 4–7 | 3–7 | 3–8 |
 | Forza Italia | IT | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Slovenska demokratska stranka | SI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–5 | 3–5 |
 | Nieuw Sociaal Contract | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Polskie Stronnictwo Ludowe | PL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Fine Gael | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -56,7 +56,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mindenki Magyarországa Mozgalom | HU | | 1 | 1 | 1 | 1 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Starostové a nezávislí | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Да, България! | BG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -82,32 +82,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 154 | 0% | 100% |  |
 | 155 | 0.1% | 99.9% |  |
-| 156 | 0.1% | 99.9% |  |
-| 157 | 0.3% | 99.7% |  |
-| 158 | 0.4% | 99.5% |  |
-| 159 | 0.7% | 99.0% |  |
-| 160 | 1.0% | 98% |  |
-| 161 | 1.4% | 97% |  |
-| 162 | 2% | 96% |  |
-| 163 | 3% | 94% |  |
-| 164 | 4% | 91% |  |
-| 165 | 5% | 87% |  |
-| 166 | 6% | 82% |  |
-| 167 | 8% | 76% |  |
-| 168 | 9% | 68% |  |
-| 169 | 10% | 59% | Median |
-| 170 | 10% | 49% |  |
-| 171 | 10% | 39% |  |
-| 172 | 8% | 29% |  |
-| 173 | 7% | 21% |  |
-| 174 | 5% | 14% |  |
-| 175 | 4% | 9% |  |
+| 156 | 0.2% | 99.8% |  |
+| 157 | 0.3% | 99.6% |  |
+| 158 | 0.5% | 99.3% |  |
+| 159 | 0.8% | 98.8% |  |
+| 160 | 1.1% | 98% |  |
+| 161 | 2% | 97% |  |
+| 162 | 2% | 95% |  |
+| 163 | 3% | 93% |  |
+| 164 | 4% | 90% |  |
+| 165 | 5% | 86% |  |
+| 166 | 7% | 81% |  |
+| 167 | 8% | 74% |  |
+| 168 | 9% | 66% |  |
+| 169 | 10% | 56% | Median |
+| 170 | 10% | 46% |  |
+| 171 | 9% | 36% |  |
+| 172 | 8% | 27% |  |
+| 173 | 6% | 19% |  |
+| 174 | 5% | 12% |  |
+| 175 | 3% | 8% |  |
 | 176 | 2% | 5% |  |
-| 177 | 1.4% | 3% |  |
-| 178 | 0.8% | 2% |  |
-| 179 | 0.4% | 0.8% |  |
-| 180 | 0.2% | 0.4% |  |
-| 181 | 0.1% | 0.2% |  |
+| 177 | 1.2% | 2% |  |
+| 178 | 0.7% | 1.3% |  |
+| 179 | 0.3% | 0.6% |  |
+| 180 | 0.2% | 0.3% |  |
+| 181 | 0.1% | 0.1% |  |
 | 182 | 0% | 0.1% |  |
 | 183 | 0% | 0% |  |
 | 184 | 0% | 0% |  |
