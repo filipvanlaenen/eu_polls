@@ -2,7 +2,7 @@
 
 Members registered from **14 countries**:
 
-> CZ, DE, DK, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SK
+> BG, CZ, DE, DK, ES, FR, GR, HU, IT, LT, LV, NL, PL, SK
 
 ## Seats
 
@@ -39,9 +39,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
-| Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | REPUBLIKA | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Български възход | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -62,12 +62,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.6% | 99.8% |  |
 | 38 | 2% | 99.2% |  |
 | 39 | 6% | 97% |  |
-| 40 | 11% | 91% |  |
+| 40 | 11% | 92% |  |
 | 41 | 15% | 81% |  |
 | 42 | 18% | 66% | Median |
 | 43 | 17% | 48% |  |
-| 44 | 13% | 31% |  |
-| 45 | 9% | 18% |  |
+| 44 | 13% | 32% |  |
+| 45 | 9% | 19% |  |
 | 46 | 5% | 10% |  |
 | 47 | 3% | 5% |  |
 | 48 | 1.2% | 2% |  |

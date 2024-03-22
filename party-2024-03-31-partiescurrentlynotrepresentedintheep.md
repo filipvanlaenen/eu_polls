@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SI
+> BE, BG, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -47,6 +47,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -64,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 24% | 38% |  |
 | 6 | 11% | 15% |  |
 | 7 | 3% | 4% |  |
-| 8 | 0.6% | 0.7% |  |
+| 8 | 0.6% | 0.8% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (-18 seats)
+Current median: **79** seats (-19 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 80 | 74–86 | 73–87 | 72–89 | 70–92 |
+| Renew Europe | EU | 98 | 79 | 73–85 | 72–87 | 71–88 | 69–91 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 16–20 | 15–21 | 14–22 | 14–23 |
 | ANO 2011 | CZ | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -29,13 +29,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Democraten 66 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -61,7 +61,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -73,35 +73,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.8% |  |
-| 70 | 0.7% | 99.5% |  |
-| 71 | 1.3% | 98.9% |  |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 95% |  |
-| 74 | 4% | 92% |  |
-| 75 | 6% | 88% |  |
-| 76 | 7% | 82% |  |
-| 77 | 8% | 75% |  |
-| 78 | 8% | 68% |  |
-| 79 | 8% | 59% |  |
-| 80 | 8% | 51% | Median |
-| 81 | 8% | 43% |  |
-| 82 | 7% | 35% |  |
-| 83 | 6% | 27% |  |
-| 84 | 5% | 21% |  |
-| 85 | 4% | 15% |  |
-| 86 | 3% | 11% |  |
-| 87 | 3% | 8% |  |
-| 88 | 2% | 5% |  |
-| 89 | 1.2% | 3% |  |
-| 90 | 0.8% | 2% |  |
-| 91 | 0.5% | 1.0% |  |
-| 92 | 0.3% | 0.6% |  |
-| 93 | 0.1% | 0.3% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.5% | 99.6% |  |
+| 70 | 1.0% | 99.1% |  |
+| 71 | 2% | 98% |  |
+| 72 | 3% | 96% |  |
+| 73 | 4% | 93% |  |
+| 74 | 5% | 89% |  |
+| 75 | 6% | 84% |  |
+| 76 | 7% | 78% |  |
+| 77 | 8% | 71% |  |
+| 78 | 8% | 63% |  |
+| 79 | 8% | 54% | Median |
+| 80 | 8% | 46% |  |
+| 81 | 8% | 38% |  |
+| 82 | 7% | 30% |  |
+| 83 | 6% | 24% |  |
+| 84 | 5% | 18% |  |
+| 85 | 4% | 13% |  |
+| 86 | 3% | 9% |  |
+| 87 | 2% | 6% |  |
+| 88 | 1.5% | 4% |  |
+| 89 | 1.0% | 2% |  |
+| 90 | 0.6% | 1.4% |  |
+| 91 | 0.4% | 0.8% |  |
+| 92 | 0.2% | 0.4% |  |
+| 93 | 0.1% | 0.2% |  |
 | 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0.1% |  |
+| 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |

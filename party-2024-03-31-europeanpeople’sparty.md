@@ -28,8 +28,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | Forza Italia | IT | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 4 | 3–4 | 3–5 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Nieuw Sociaal Contract | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Polskie Stronnictwo Ludowe | PL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -58,7 +58,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Да, България! | BG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Да, България! | BG | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -97,20 +97,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 7% | 77% |  |
 | 171 | 8% | 70% |  |
 | 172 | 8% | 63% |  |
-| 173 | 9% | 54% | Median |
+| 173 | 8% | 55% | Median |
 | 174 | 8% | 46% |  |
-| 175 | 8% | 37% |  |
+| 175 | 8% | 38% |  |
 | 176 | 7% | 30% |  |
-| 177 | 6% | 22% |  |
+| 177 | 6% | 23% |  |
 | 178 | 5% | 16% |  |
 | 179 | 4% | 11% |  |
 | 180 | 3% | 7% |  |
-| 181 | 2% | 4% |  |
+| 181 | 2% | 5% |  |
 | 182 | 1.2% | 3% |  |
-| 183 | 0.7% | 1.4% |  |
-| 184 | 0.4% | 0.7% |  |
-| 185 | 0.2% | 0.3% |  |
-| 186 | 0.1% | 0.1% |  |
+| 183 | 0.7% | 1.5% |  |
+| 184 | 0.4% | 0.8% |  |
+| 185 | 0.2% | 0.4% |  |
+| 186 | 0.1% | 0.2% |  |
 | 187 | 0% | 0.1% | Last Result |
 | 188 | 0% | 0% |  |
 
