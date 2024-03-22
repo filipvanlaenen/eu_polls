@@ -18,18 +18,18 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 127 | 123–132 | 122–133 | 121–134 | 119–136 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 127 | 123–131 | 122–133 | 121–134 | 119–136 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
 | Partito Democratico | IT | | 17 | 15–18 | 14–19 | 14–19 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 14–18 | 14–18 | 14–18 |
 | Parti socialiste | FR | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
-| Partidul Social Democrat | RO | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| Partidul Social Democrat | RO | | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Demokratikus Koalíció | HU | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Nowa Lewica | PL | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Partij van de Arbeid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -47,11 +47,11 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
-| PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
+| PRO România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Parti radical de gauche | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche–La Convention | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -65,23 +65,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 116 | 0% | 100% |  |
 | 117 | 0.1% | 99.9% |  |
 | 118 | 0.3% | 99.8% |  |
-| 119 | 0.6% | 99.6% |  |
-| 120 | 1.2% | 99.0% |  |
+| 119 | 0.6% | 99.5% |  |
+| 120 | 1.3% | 98.9% |  |
 | 121 | 2% | 98% |  |
-| 122 | 4% | 96% |  |
-| 123 | 5% | 92% |  |
-| 124 | 8% | 87% |  |
-| 125 | 10% | 79% |  |
-| 126 | 11% | 69% |  |
-| 127 | 12% | 58% | Median |
-| 128 | 11% | 47% |  |
-| 129 | 10% | 35% |  |
-| 130 | 8% | 25% |  |
-| 131 | 6% | 17% |  |
+| 122 | 4% | 95% |  |
+| 123 | 6% | 92% |  |
+| 124 | 8% | 86% |  |
+| 125 | 10% | 78% |  |
+| 126 | 11% | 68% |  |
+| 127 | 12% | 57% | Median |
+| 128 | 11% | 45% |  |
+| 129 | 10% | 34% |  |
+| 130 | 8% | 24% |  |
+| 131 | 6% | 16% |  |
 | 132 | 4% | 10% |  |
 | 133 | 3% | 6% |  |
 | 134 | 2% | 3% |  |
-| 135 | 0.9% | 2% |  |
+| 135 | 0.8% | 1.4% |  |
 | 136 | 0.4% | 0.7% |  |
 | 137 | 0.2% | 0.3% |  |
 | 138 | 0.1% | 0.1% |  |

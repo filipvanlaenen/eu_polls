@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–6 | 1–7 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–7 | 1–8 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Második Reformkor [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -40,8 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nemuno aušra [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -58,14 +57,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 9% | 99.3% |  |
-| 3 | 26% | 91% |  |
-| 4 | 33% | 65% | Median |
-| 5 | 21% | 32% |  |
-| 6 | 8% | 10% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0.3% | 0.4% |  |
-| 9 | 0% | 0% |  |
+| 1 | 0.6% | 100% |  |
+| 2 | 7% | 99.4% |  |
+| 3 | 23% | 92% |  |
+| 4 | 31% | 69% | Median |
+| 5 | 24% | 38% |  |
+| 6 | 11% | 15% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.6% | 0.7% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 

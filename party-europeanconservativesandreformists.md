@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (+20 seats)
+Current median: **80** seats (+19 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 81 | 75–86 | 74–87 | 73–88 | 71–90 |
+| European Conservatives and Reformists | EU | 61 | 80 | 74–85 | 73–86 | 72–87 | 70–89 |
 | Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–27 | 19–28 |
 | Zjednoczona Prawica | PL | | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
-| Alianța pentru Unirea Românilor | RO | | 9 | 7–12 | 7–13 | 7–13 | 7–13 |
+| Alianța pentru Unirea Românilor | RO | | 8 | 7–12 | 7–13 | 7–13 | 7–13 |
 | Vox | ES | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | Reconquête | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
-| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sverigedemokraterna | SE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Občanská demokratická strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελληνική Λύση | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -54,32 +54,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.3% | 99.8% |  |
-| 71 | 0.7% | 99.5% |  |
-| 72 | 1.3% | 98.8% |  |
-| 73 | 2% | 98% |  |
-| 74 | 3% | 96% |  |
-| 75 | 4% | 93% |  |
-| 76 | 5% | 89% |  |
-| 77 | 6% | 84% |  |
-| 78 | 7% | 79% |  |
-| 79 | 8% | 71% |  |
-| 80 | 9% | 63% |  |
-| 81 | 10% | 54% | Median |
-| 82 | 10% | 44% |  |
-| 83 | 9% | 34% |  |
-| 84 | 8% | 25% |  |
-| 85 | 6% | 17% |  |
-| 86 | 4% | 11% |  |
-| 87 | 3% | 6% |  |
-| 88 | 2% | 4% |  |
-| 89 | 0.9% | 2% |  |
-| 90 | 0.5% | 0.8% |  |
-| 91 | 0.2% | 0.3% |  |
-| 92 | 0.1% | 0.1% |  |
-| 93 | 0% | 0.1% |  |
-| 94 | 0% | 0% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.6% | 99.6% |  |
+| 71 | 1.1% | 99.1% |  |
+| 72 | 2% | 98% |  |
+| 73 | 3% | 96% |  |
+| 74 | 4% | 93% |  |
+| 75 | 4% | 90% |  |
+| 76 | 6% | 85% |  |
+| 77 | 7% | 80% |  |
+| 78 | 8% | 73% |  |
+| 79 | 9% | 65% |  |
+| 80 | 10% | 55% | Median |
+| 81 | 10% | 45% |  |
+| 82 | 9% | 35% |  |
+| 83 | 8% | 26% |  |
+| 84 | 6% | 18% |  |
+| 85 | 5% | 12% |  |
+| 86 | 3% | 7% |  |
+| 87 | 2% | 4% |  |
+| 88 | 1.1% | 2% |  |
+| 89 | 0.6% | 1.0% |  |
+| 90 | 0.3% | 0.5% |  |
+| 91 | 0.1% | 0.2% |  |
+| 92 | 0% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 
