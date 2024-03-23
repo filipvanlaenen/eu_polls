@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SI
+> BE, BG, CZ, DE, ES, FR, GR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -34,10 +34,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
-| Nemuno aušra [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nemuno aušra [LT] (*) | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -59,14 +57,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.6% | 100% |  |
-| 2 | 7% | 99.4% |  |
-| 3 | 23% | 92% |  |
-| 4 | 31% | 69% | Median |
-| 5 | 24% | 38% |  |
-| 6 | 11% | 15% |  |
-| 7 | 3% | 4% |  |
-| 8 | 0.6% | 0.7% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 9% | 99.3% |  |
+| 3 | 25% | 91% |  |
+| 4 | 32% | 66% | Median |
+| 5 | 22% | 34% |  |
+| 6 | 9% | 12% |  |
+| 7 | 2% | 3% |  |
+| 8 | 0.5% | 0.5% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

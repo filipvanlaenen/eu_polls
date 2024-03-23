@@ -30,6 +30,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -40,23 +41,22 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Democraten 66 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Laisvės partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Più Europa | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
@@ -73,32 +73,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.8% |  |
-| 70 | 0.6% | 99.6% |  |
-| 71 | 1.2% | 98.9% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.5% | 99.7% |  |
+| 71 | 1.0% | 99.2% |  |
 | 72 | 2% | 98% |  |
 | 73 | 3% | 96% |  |
-| 74 | 4% | 93% |  |
-| 75 | 5% | 89% |  |
-| 76 | 6% | 83% |  |
-| 77 | 7% | 77% |  |
-| 78 | 8% | 69% |  |
-| 79 | 8% | 61% |  |
-| 80 | 8% | 53% | Median |
-| 81 | 8% | 44% |  |
-| 82 | 7% | 36% |  |
-| 83 | 7% | 29% |  |
-| 84 | 6% | 22% |  |
-| 85 | 5% | 17% |  |
-| 86 | 4% | 12% |  |
-| 87 | 3% | 8% |  |
+| 74 | 4% | 94% |  |
+| 75 | 5% | 90% |  |
+| 76 | 6% | 85% |  |
+| 77 | 7% | 78% |  |
+| 78 | 8% | 71% |  |
+| 79 | 8% | 63% |  |
+| 80 | 8% | 55% | Median |
+| 81 | 8% | 46% |  |
+| 82 | 8% | 38% |  |
+| 83 | 7% | 30% |  |
+| 84 | 6% | 24% |  |
+| 85 | 5% | 18% |  |
+| 86 | 4% | 13% |  |
+| 87 | 3% | 9% |  |
 | 88 | 2% | 6% |  |
-| 89 | 1.4% | 4% |  |
-| 90 | 0.9% | 2% |  |
-| 91 | 0.6% | 1.2% |  |
-| 92 | 0.3% | 0.7% |  |
+| 89 | 1.5% | 4% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.6% | 1.3% |  |
+| 92 | 0.4% | 0.7% |  |
 | 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0.1% |  |

@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **21 countries**:
+Members registered from **20 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SE, SI
+> AT, BE, CY, CZ, DE, DK, ES, FI, FR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SE, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 44–53 | 43–54 | 42–55 | 38–57 |
+| Greens–European Free Alliance | EU | 67 | 49 | 44–53 | 43–54 | 41–55 | 38–57 |
 | Bündnis 90/Die Grünen | DE | | 12 | 9–15 | 9–15 | 9–16 | 9–16 |
 | Europe Écologie Les Verts | FR | | 8 | 5–9 | 5–10 | 0–10 | 0–10 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Miljöpartiet de gröna | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -42,7 +42,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -66,26 +65,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0.1% | 100% |  |
 | 37 | 0.2% | 99.9% |  |
 | 38 | 0.3% | 99.7% |  |
-| 39 | 0.4% | 99.5% |  |
-| 40 | 0.6% | 99.1% |  |
-| 41 | 0.9% | 98.5% |  |
-| 42 | 1.4% | 98% |  |
-| 43 | 2% | 96% |  |
-| 44 | 4% | 94% |  |
-| 45 | 6% | 90% |  |
-| 46 | 8% | 84% |  |
-| 47 | 10% | 76% |  |
-| 48 | 11% | 65% |  |
-| 49 | 12% | 54% | Median |
-| 50 | 11% | 42% |  |
-| 51 | 10% | 31% |  |
+| 39 | 0.4% | 99.4% |  |
+| 40 | 0.6% | 99.0% |  |
+| 41 | 0.9% | 98% |  |
+| 42 | 2% | 97% |  |
+| 43 | 3% | 96% |  |
+| 44 | 4% | 93% |  |
+| 45 | 6% | 89% |  |
+| 46 | 8% | 83% |  |
+| 47 | 10% | 75% |  |
+| 48 | 11% | 64% |  |
+| 49 | 12% | 53% | Median |
+| 50 | 11% | 41% |  |
+| 51 | 10% | 30% |  |
 | 52 | 8% | 21% |  |
 | 53 | 6% | 13% |  |
 | 54 | 4% | 7% |  |
 | 55 | 2% | 4% |  |
 | 56 | 1.0% | 2% |  |
 | 57 | 0.4% | 0.6% |  |
-| 58 | 0.1% | 0.2% |  |
+| 58 | 0.2% | 0.2% |  |
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |

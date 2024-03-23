@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **128** seats (-19 seats)
+Current median: **129** seats (-18 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 128 | 124–132 | 123–134 | 122–135 | 120–137 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 129 | 125–133 | 124–135 | 123–136 | 121–138 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
 | Partito Democratico | IT | | 17 | 15–18 | 14–19 | 14–19 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 14–18 | 14–18 | 14–18 |
@@ -32,17 +32,17 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 3 | 3 | 2–4 | 2–4 | 2–4 |
-| Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Sotsiaaldemokraatlik Erakond | EE | | 2 | 2 | 2 | 2 | 2 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 1 | 1 | 1 | 1 |
-| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,30 +62,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 117 | 0% | 100% |  |
-| 118 | 0.1% | 99.9% |  |
-| 119 | 0.3% | 99.8% |  |
-| 120 | 0.6% | 99.6% |  |
-| 121 | 1.2% | 99.0% |  |
-| 122 | 2% | 98% |  |
-| 123 | 4% | 96% |  |
-| 124 | 6% | 92% |  |
-| 125 | 8% | 86% |  |
-| 126 | 10% | 79% |  |
-| 127 | 11% | 69% |  |
-| 128 | 12% | 58% | Median |
-| 129 | 11% | 46% |  |
-| 130 | 10% | 35% |  |
-| 131 | 8% | 25% |  |
-| 132 | 6% | 16% |  |
-| 133 | 4% | 10% |  |
-| 134 | 3% | 6% |  |
-| 135 | 2% | 3% |  |
-| 136 | 0.8% | 1.5% |  |
-| 137 | 0.4% | 0.7% |  |
-| 138 | 0.2% | 0.3% |  |
-| 139 | 0.1% | 0.1% |  |
-| 140 | 0% | 0% |  |
+| 118 | 0% | 100% |  |
+| 119 | 0.1% | 99.9% |  |
+| 120 | 0.3% | 99.8% |  |
+| 121 | 0.6% | 99.6% |  |
+| 122 | 1.2% | 99.0% |  |
+| 123 | 2% | 98% |  |
+| 124 | 4% | 95% |  |
+| 125 | 6% | 92% |  |
+| 126 | 8% | 86% |  |
+| 127 | 10% | 78% |  |
+| 128 | 11% | 69% |  |
+| 129 | 12% | 58% | Median |
+| 130 | 11% | 46% |  |
+| 131 | 10% | 34% |  |
+| 132 | 8% | 24% |  |
+| 133 | 6% | 16% |  |
+| 134 | 4% | 10% |  |
+| 135 | 3% | 6% |  |
+| 136 | 2% | 3% |  |
+| 137 | 0.8% | 1.4% |  |
+| 138 | 0.4% | 0.6% |  |
+| 139 | 0.2% | 0.3% |  |
+| 140 | 0.1% | 0.1% |  |
 | 141 | 0% | 0% |  |
 | 142 | 0% | 0% |  |
 | 143 | 0% | 0% |  |
