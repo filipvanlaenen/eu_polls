@@ -27,7 +27,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Miljöpartiet de gröna | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 4% | 93% |  |
 | 45 | 6% | 89% |  |
 | 46 | 8% | 83% |  |
-| 47 | 10% | 74% |  |
+| 47 | 10% | 75% |  |
 | 48 | 12% | 64% |  |
-| 49 | 12% | 52% | Median |
+| 49 | 12% | 53% | Median |
 | 50 | 11% | 41% |  |
 | 51 | 10% | 30% |  |
 | 52 | 8% | 20% |  |

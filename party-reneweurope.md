@@ -34,7 +34,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Venstre | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Venstre | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -43,9 +43,9 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Moderaterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -89,7 +89,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 8% | 46% |  |
 | 81 | 8% | 38% |  |
 | 82 | 7% | 30% |  |
-| 83 | 6% | 24% |  |
+| 83 | 6% | 23% |  |
 | 84 | 5% | 18% |  |
 | 85 | 4% | 13% |  |
 | 86 | 3% | 9% |  |
