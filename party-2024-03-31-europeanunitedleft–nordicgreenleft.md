@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
@@ -47,6 +47,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
+| Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -60,26 +61,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0.1% | 100% |  |
 | 31 | 0.1% | 99.9% |  |
 | 32 | 0.1% | 99.8% |  |
-| 33 | 0.2% | 99.7% |  |
+| 33 | 0.3% | 99.7% |  |
 | 34 | 0.6% | 99.4% |  |
-| 35 | 1.4% | 98.8% |  |
+| 35 | 1.5% | 98.8% |  |
 | 36 | 3% | 97% |  |
 | 37 | 4% | 95% |  |
 | 38 | 6% | 90% |  |
 | 39 | 7% | 85% | Last Result |
 | 40 | 8% | 78% |  |
 | 41 | 9% | 70% |  |
-| 42 | 11% | 61% | Median |
+| 42 | 11% | 60% | Median |
 | 43 | 11% | 50% |  |
-| 44 | 11% | 39% |  |
-| 45 | 9% | 28% |  |
+| 44 | 11% | 38% |  |
+| 45 | 9% | 27% |  |
 | 46 | 7% | 18% |  |
 | 47 | 5% | 11% |  |
 | 48 | 3% | 6% |  |
 | 49 | 2% | 3% |  |
 | 50 | 0.9% | 2% |  |
 | 51 | 0.4% | 0.7% |  |
-| 52 | 0.2% | 0.3% |  |
+| 52 | 0.2% | 0.2% |  |
 | 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0% |  |
 

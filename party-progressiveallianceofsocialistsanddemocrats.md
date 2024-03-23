@@ -52,7 +52,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Parti radical de gauche–La Convention | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
+| Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -68,21 +68,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 0.6% | 99.6% |  |
 | 122 | 1.2% | 99.0% |  |
 | 123 | 2% | 98% |  |
-| 124 | 4% | 95% |  |
+| 124 | 4% | 96% |  |
 | 125 | 6% | 92% |  |
 | 126 | 8% | 86% |  |
-| 127 | 10% | 78% |  |
+| 127 | 10% | 79% |  |
 | 128 | 11% | 69% |  |
 | 129 | 12% | 58% | Median |
 | 130 | 11% | 46% |  |
-| 131 | 10% | 34% |  |
+| 131 | 10% | 35% |  |
 | 132 | 8% | 24% |  |
 | 133 | 6% | 16% |  |
 | 134 | 4% | 10% |  |
 | 135 | 3% | 6% |  |
 | 136 | 2% | 3% |  |
-| 137 | 0.8% | 1.4% |  |
-| 138 | 0.4% | 0.6% |  |
+| 137 | 0.8% | 1.5% |  |
+| 138 | 0.4% | 0.7% |  |
 | 139 | 0.2% | 0.3% |  |
 | 140 | 0.1% | 0.1% |  |
 | 141 | 0% | 0% |  |
