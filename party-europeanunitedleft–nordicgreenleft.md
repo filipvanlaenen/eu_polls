@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
-| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 1 | 1 | 1 | 0–2 | 0–2 |
@@ -61,19 +61,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.1% | 99.9% |  |
 | 32 | 0.1% | 99.8% |  |
 | 33 | 0.2% | 99.7% |  |
-| 34 | 0.5% | 99.5% |  |
-| 35 | 1.2% | 99.0% |  |
-| 36 | 2% | 98% |  |
+| 34 | 0.5% | 99.4% |  |
+| 35 | 1.3% | 98.9% |  |
+| 36 | 3% | 98% |  |
 | 37 | 4% | 95% |  |
 | 38 | 5% | 91% |  |
-| 39 | 7% | 86% | Last Result |
+| 39 | 7% | 85% | Last Result |
 | 40 | 8% | 79% |  |
-| 41 | 9% | 72% |  |
-| 42 | 10% | 62% |  |
-| 43 | 11% | 52% | Median |
-| 44 | 11% | 41% |  |
-| 45 | 10% | 30% |  |
-| 46 | 8% | 20% |  |
+| 41 | 9% | 71% |  |
+| 42 | 11% | 62% |  |
+| 43 | 11% | 51% | Median |
+| 44 | 11% | 40% |  |
+| 45 | 10% | 29% |  |
+| 46 | 7% | 19% |  |
 | 47 | 5% | 12% |  |
 | 48 | 3% | 7% |  |
 | 49 | 2% | 4% |  |

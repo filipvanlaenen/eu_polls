@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (-19 seats)
+Current median: **80** seats (-18 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 79 | 73–85 | 72–87 | 71–88 | 69–91 |
+| Renew Europe | EU | 98 | 80 | 74–86 | 73–88 | 72–89 | 70–92 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 16–20 | 15–21 | 14–22 | 14–23 |
 | ANO 2011 | CZ | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -32,7 +32,8 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -44,7 +45,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,35 +73,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.5% | 99.6% |  |
-| 70 | 1.0% | 99.1% |  |
-| 71 | 2% | 98% |  |
-| 72 | 3% | 96% |  |
-| 73 | 4% | 93% |  |
-| 74 | 5% | 89% |  |
-| 75 | 6% | 84% |  |
-| 76 | 7% | 78% |  |
-| 77 | 8% | 71% |  |
-| 78 | 8% | 63% |  |
-| 79 | 8% | 54% | Median |
-| 80 | 8% | 46% |  |
-| 81 | 8% | 38% |  |
-| 82 | 7% | 30% |  |
-| 83 | 6% | 23% |  |
-| 84 | 5% | 18% |  |
-| 85 | 4% | 13% |  |
-| 86 | 3% | 9% |  |
-| 87 | 2% | 6% |  |
-| 88 | 1.5% | 4% |  |
-| 89 | 1.0% | 2% |  |
-| 90 | 0.6% | 1.4% |  |
-| 91 | 0.4% | 0.8% |  |
-| 92 | 0.2% | 0.4% |  |
-| 93 | 0.1% | 0.2% |  |
-| 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0.1% | 99.9% |  |
+| 69 | 0.3% | 99.8% |  |
+| 70 | 0.6% | 99.6% |  |
+| 71 | 1.2% | 98.9% |  |
+| 72 | 2% | 98% |  |
+| 73 | 3% | 96% |  |
+| 74 | 4% | 93% |  |
+| 75 | 5% | 89% |  |
+| 76 | 6% | 83% |  |
+| 77 | 7% | 77% |  |
+| 78 | 8% | 69% |  |
+| 79 | 8% | 61% |  |
+| 80 | 8% | 53% | Median |
+| 81 | 8% | 44% |  |
+| 82 | 7% | 36% |  |
+| 83 | 7% | 29% |  |
+| 84 | 6% | 22% |  |
+| 85 | 5% | 17% |  |
+| 86 | 4% | 12% |  |
+| 87 | 3% | 8% |  |
+| 88 | 2% | 6% |  |
+| 89 | 1.4% | 4% |  |
+| 90 | 0.9% | 2% |  |
+| 91 | 0.6% | 1.2% |  |
+| 92 | 0.3% | 0.7% |  |
+| 93 | 0.2% | 0.4% |  |
+| 94 | 0.1% | 0.2% |  |
+| 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
