@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, IE, IT, NL, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, NL, SE, SI
 
 ## Seats
 
@@ -45,6 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
