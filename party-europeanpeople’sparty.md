@@ -52,7 +52,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 0–1 |
+| Les Engagés | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -91,21 +91,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 2% | 96% |  |
 | 164 | 2% | 94% |  |
 | 165 | 3% | 92% |  |
-| 166 | 4% | 88% |  |
+| 166 | 4% | 89% |  |
 | 167 | 5% | 84% |  |
 | 168 | 6% | 79% |  |
-| 169 | 7% | 72% |  |
+| 169 | 7% | 73% |  |
 | 170 | 8% | 65% |  |
 | 171 | 8% | 57% | Median |
 | 172 | 8% | 49% |  |
-| 173 | 8% | 40% |  |
-| 174 | 7% | 32% |  |
-| 175 | 6% | 25% |  |
-| 176 | 5% | 18% |  |
+| 173 | 8% | 41% |  |
+| 174 | 7% | 33% |  |
+| 175 | 7% | 25% |  |
+| 176 | 5% | 19% |  |
 | 177 | 4% | 13% |  |
 | 178 | 3% | 9% |  |
-| 179 | 2% | 5% |  |
-| 180 | 1.4% | 3% |  |
+| 179 | 2% | 6% |  |
+| 180 | 1.5% | 3% |  |
 | 181 | 0.9% | 2% |  |
 | 182 | 0.5% | 1.0% |  |
 | 183 | 0.3% | 0.5% |  |

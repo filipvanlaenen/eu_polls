@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 129 | 125–133 | 124–135 | 123–136 | 121–138 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 129 | 125–134 | 124–135 | 123–136 | 121–138 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
 | Partito Democratico | IT | | 17 | 15–18 | 14–19 | 14–19 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 14–18 | 14–18 | 14–18 |
@@ -38,7 +38,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sotsiaaldemokraatlik Erakond | EE | | 2 | 2 | 2 | 2 | 2 |
-| Vooruit | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Vooruit | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
@@ -69,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 122 | 1.2% | 99.0% |  |
 | 123 | 2% | 98% |  |
 | 124 | 4% | 96% |  |
-| 125 | 6% | 92% |  |
+| 125 | 5% | 92% |  |
 | 126 | 8% | 86% |  |
 | 127 | 10% | 79% |  |
 | 128 | 11% | 69% |  |
 | 129 | 12% | 58% | Median |
-| 130 | 11% | 46% |  |
+| 130 | 11% | 47% |  |
 | 131 | 10% | 35% |  |
-| 132 | 8% | 24% |  |
-| 133 | 6% | 16% |  |
+| 132 | 8% | 25% |  |
+| 133 | 6% | 17% |  |
 | 134 | 4% | 10% |  |
 | 135 | 3% | 6% |  |
 | 136 | 2% | 3% |  |
-| 137 | 0.8% | 1.5% |  |
+| 137 | 0.8% | 2% |  |
 | 138 | 0.4% | 0.7% |  |
 | 139 | 0.2% | 0.3% |  |
 | 140 | 0.1% | 0.1% |  |
