@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BE, BG, CZ, DE, ES, FR, GR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SI
+> BE, BG, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -44,7 +44,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 

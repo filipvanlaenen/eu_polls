@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **43** seats (+4 seats)
+Current median: **44** seats (+5 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 43 | 38–47 | 37–49 | 36–50 | 34–52 |
+| European United Left–Nordic Green Left | EU | 39 | 44 | 39–48 | 38–49 | 37–50 | 35–52 |
 | La France insoumise | FR | | 7 | 5–9 | 5–10 | 5–11 | 0–11 |
 | Bündnis Sahra Wagenknecht | DE | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
 | Sinn Féin | IE | | 6 | 6 | 6 | 5–6 | 4–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
-| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
+| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -58,30 +58,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
+| 31 | 0% | 100% |  |
 | 32 | 0.1% | 99.9% |  |
-| 33 | 0.2% | 99.8% |  |
-| 34 | 0.3% | 99.6% |  |
-| 35 | 0.7% | 99.3% |  |
-| 36 | 2% | 98.6% |  |
-| 37 | 3% | 97% |  |
-| 38 | 5% | 94% |  |
-| 39 | 6% | 89% | Last Result |
-| 40 | 7% | 83% |  |
-| 41 | 8% | 76% |  |
-| 42 | 10% | 68% |  |
-| 43 | 11% | 58% | Median |
-| 44 | 11% | 47% |  |
-| 45 | 11% | 36% |  |
-| 46 | 9% | 25% |  |
-| 47 | 7% | 16% |  |
-| 48 | 4% | 10% |  |
-| 49 | 3% | 5% |  |
-| 50 | 1.4% | 3% |  |
-| 51 | 0.7% | 1.3% |  |
-| 52 | 0.3% | 0.5% |  |
-| 53 | 0.1% | 0.2% |  |
-| 54 | 0% | 0.1% |  |
+| 33 | 0.1% | 99.8% |  |
+| 34 | 0.2% | 99.7% |  |
+| 35 | 0.4% | 99.5% |  |
+| 36 | 1.1% | 99.1% |  |
+| 37 | 2% | 98% |  |
+| 38 | 4% | 96% |  |
+| 39 | 5% | 92% | Last Result |
+| 40 | 7% | 86% |  |
+| 41 | 8% | 80% |  |
+| 42 | 9% | 72% |  |
+| 43 | 11% | 63% |  |
+| 44 | 11% | 52% | Median |
+| 45 | 11% | 41% |  |
+| 46 | 10% | 30% |  |
+| 47 | 8% | 20% |  |
+| 48 | 5% | 12% |  |
+| 49 | 3% | 7% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.0% | 2% |  |
+| 52 | 0.5% | 0.8% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
 

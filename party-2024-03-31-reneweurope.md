@@ -8,17 +8,17 @@ Members registered from **23 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (-18 seats)
+Current median: **81** seats (-17 seats)
 
-At least one member in **19 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, FI, FR, HU, IE, LT, LV, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, HU, IE, LT, LV, NL, PL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 80 | 74–86 | 73–88 | 72–89 | 70–92 |
+| Renew Europe | EU | 98 | 81 | 75–87 | 74–88 | 72–90 | 70–93 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 16–20 | 15–21 | 14–22 | 14–23 |
 | ANO 2011 | CZ | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -40,6 +40,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Coalición por Europa | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Democraten 66 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvijas attīstībai | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -48,9 +49,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -73,35 +72,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 68 | 0.1% | 100% |  |
-| 69 | 0.2% | 99.9% |  |
-| 70 | 0.5% | 99.6% |  |
-| 71 | 1.0% | 99.1% |  |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 4% | 93% |  |
-| 75 | 5% | 89% |  |
-| 76 | 6% | 84% |  |
-| 77 | 7% | 78% |  |
-| 78 | 8% | 70% |  |
-| 79 | 8% | 62% |  |
-| 80 | 8% | 54% | Median |
-| 81 | 8% | 46% |  |
-| 82 | 8% | 37% |  |
-| 83 | 7% | 30% |  |
-| 84 | 6% | 23% |  |
-| 85 | 5% | 17% |  |
-| 86 | 4% | 12% |  |
-| 87 | 3% | 9% |  |
-| 88 | 2% | 6% |  |
-| 89 | 1.4% | 4% |  |
-| 90 | 0.9% | 2% |  |
-| 91 | 0.6% | 1.3% |  |
-| 92 | 0.3% | 0.7% |  |
-| 93 | 0.2% | 0.4% |  |
-| 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.3% | 99.8% |  |
+| 71 | 0.7% | 99.5% |  |
+| 72 | 1.3% | 98.8% |  |
+| 73 | 2% | 97% |  |
+| 74 | 3% | 95% |  |
+| 75 | 4% | 92% |  |
+| 76 | 6% | 88% |  |
+| 77 | 7% | 82% |  |
+| 78 | 8% | 75% |  |
+| 79 | 8% | 68% |  |
+| 80 | 8% | 59% |  |
+| 81 | 8% | 51% | Median |
+| 82 | 8% | 43% |  |
+| 83 | 7% | 35% |  |
+| 84 | 6% | 27% |  |
+| 85 | 5% | 21% |  |
+| 86 | 4% | 16% |  |
+| 87 | 3% | 11% |  |
+| 88 | 3% | 8% |  |
+| 89 | 2% | 5% |  |
+| 90 | 1.3% | 3% |  |
+| 91 | 0.8% | 2% |  |
+| 92 | 0.5% | 1.1% |  |
+| 93 | 0.3% | 0.6% |  |
+| 94 | 0.2% | 0.3% |  |
+| 95 | 0.1% | 0.1% |  |
+| 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
 
