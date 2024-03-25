@@ -24,7 +24,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 3–4 |
-| Freie Demokratische Partei | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
+| Freie Demokratische Partei | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 100% |  |
 | 69 | 0.2% | 99.9% |  |
 | 70 | 0.5% | 99.6% |  |
-| 71 | 1.1% | 99.1% |  |
+| 71 | 1.0% | 99.1% |  |
 | 72 | 2% | 98% |  |
 | 73 | 3% | 96% |  |
 | 74 | 4% | 93% |  |
@@ -91,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 7% | 30% |  |
 | 84 | 6% | 23% |  |
 | 85 | 5% | 17% |  |
-| 86 | 4% | 13% |  |
+| 86 | 4% | 12% |  |
 | 87 | 3% | 9% |  |
 | 88 | 2% | 6% |  |
-| 89 | 1.5% | 4% |  |
+| 89 | 1.4% | 4% |  |
 | 90 | 0.9% | 2% |  |
 | 91 | 0.6% | 1.3% |  |
 | 92 | 0.3% | 0.7% |  |

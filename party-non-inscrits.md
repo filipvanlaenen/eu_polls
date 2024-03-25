@@ -28,7 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 1 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 1 | 1 | 1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -65,11 +65,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 100% |  |
 | 41 | 0.5% | 99.9% |  |
-| 42 | 2% | 99.4% |  |
-| 43 | 4% | 98% |  |
+| 42 | 2% | 99.3% |  |
+| 43 | 5% | 98% |  |
 | 44 | 9% | 93% |  |
 | 45 | 14% | 84% |  |
-| 46 | 17% | 71% |  |
+| 46 | 17% | 70% |  |
 | 47 | 17% | 54% | Median |
 | 48 | 14% | 37% |  |
 | 49 | 10% | 23% |  |
