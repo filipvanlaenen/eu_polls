@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **20 countries**:
+Members registered from **22 countries**:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, FR, HR, HU, IE, IT, LT, LV, NL, PL, RO, SE, SI
+> AT, BE, CY, CZ, DE, DK, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
@@ -44,11 +44,15 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
+| Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
