@@ -35,16 +35,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
-| Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Sloboda a Solidarita | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-04-15-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-03-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-04-15.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2024-03-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -62,14 +61,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 3% | 96% |  |
 | 73 | 4% | 93% |  |
 | 74 | 4% | 90% |  |
-| 75 | 6% | 85% |  |
+| 75 | 5% | 86% |  |
 | 76 | 7% | 80% |  |
 | 77 | 8% | 73% |  |
 | 78 | 9% | 65% |  |
 | 79 | 10% | 56% | Median |
 | 80 | 10% | 46% |  |
 | 81 | 9% | 36% |  |
-| 82 | 8% | 26% |  |
+| 82 | 8% | 27% |  |
 | 83 | 6% | 19% |  |
 | 84 | 5% | 12% |  |
 | 85 | 3% | 8% |  |
