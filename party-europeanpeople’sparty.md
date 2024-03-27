@@ -1,212 +1,119 @@
 # European People’s Party
 
-Members registered from **4 countries**:
+Members registered from **27 countries**:
 
-> BE, LU, LV, PT
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **15** seats (-172 seats)
+Current median: **183** seats (-4 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **27 countries** have a median of 1 seat or more:
 
-> BE, LU, LV, PT
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
+| European People’s Party | EU | 187 | 183 | 176–188 | 174–190 | 173–191 | 169–194 |
+| Partido Popular | ES | | 26 | 24–27 | 24–28 | 24–28 | 23–28 |
+| Christlich Demokratische Union Deutschlands | DE | | 22 | 18–24 | 18–24 | 18–24 | 18–26 |
+| Platforma Obywatelska | PL | | 19 | 18–20 | 18–20 | 18–20 | 18–22 |
 | Aliança Democrática | PT | | 8 | 8 | 8 | 8 | 8 |
+| Partidul Național Liberal | RO | | 8 | 7–10 | 7–10 | 7–11 | 7–11 |
+| Νέα Δημοκρατία | GR | | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Les Républicains | FR | | 7 | 0–8 | 0–8 | 0–9 | 0–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 6–8 | 5–8 | 4–9 |
+| Forza Italia | IT | | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Nieuw Sociaal Contract | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Polskie Stronnictwo Ludowe | PL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Christen-Democratisch Appèl | NL | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
+| Fine Gael | IE | | 3 | 3 | 3 | 3 | 3–4 |
+| Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Starostové a nezávislí | CZ | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Forța Dreptei–Partidul Mișcarea Populară | RO | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
+| BoerBurgerBeweging | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Erakond Isamaa | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Les Engagés | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Mindenki Magyarországa Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
+| TOP 09 | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Да, България! | BG | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
+| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
+| OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
+| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-04-15-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-03-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-04-15.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2024-03-31.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 19% | 100% |  |
-| 15 | 81% | 81% | Median |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
-| 71 | 0% | 0% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
-| 81 | 0% | 0% |  |
-| 82 | 0% | 0% |  |
-| 83 | 0% | 0% |  |
-| 84 | 0% | 0% |  |
-| 85 | 0% | 0% |  |
-| 86 | 0% | 0% |  |
-| 87 | 0% | 0% |  |
-| 88 | 0% | 0% |  |
-| 89 | 0% | 0% |  |
-| 90 | 0% | 0% |  |
-| 91 | 0% | 0% |  |
-| 92 | 0% | 0% |  |
-| 93 | 0% | 0% |  |
-| 94 | 0% | 0% |  |
-| 95 | 0% | 0% |  |
-| 96 | 0% | 0% |  |
-| 97 | 0% | 0% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% |  |
-| 101 | 0% | 0% |  |
-| 102 | 0% | 0% |  |
-| 103 | 0% | 0% |  |
-| 104 | 0% | 0% |  |
-| 105 | 0% | 0% |  |
-| 106 | 0% | 0% |  |
-| 107 | 0% | 0% |  |
-| 108 | 0% | 0% |  |
-| 109 | 0% | 0% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
-| 130 | 0% | 0% |  |
-| 131 | 0% | 0% |  |
-| 132 | 0% | 0% |  |
-| 133 | 0% | 0% |  |
-| 134 | 0% | 0% |  |
-| 135 | 0% | 0% |  |
-| 136 | 0% | 0% |  |
-| 137 | 0% | 0% |  |
-| 138 | 0% | 0% |  |
-| 139 | 0% | 0% |  |
-| 140 | 0% | 0% |  |
-| 141 | 0% | 0% |  |
-| 142 | 0% | 0% |  |
-| 143 | 0% | 0% |  |
-| 144 | 0% | 0% |  |
-| 145 | 0% | 0% |  |
-| 146 | 0% | 0% |  |
-| 147 | 0% | 0% |  |
-| 148 | 0% | 0% |  |
-| 149 | 0% | 0% |  |
-| 150 | 0% | 0% |  |
-| 151 | 0% | 0% |  |
-| 152 | 0% | 0% |  |
-| 153 | 0% | 0% |  |
-| 154 | 0% | 0% |  |
-| 155 | 0% | 0% |  |
-| 156 | 0% | 0% |  |
-| 157 | 0% | 0% |  |
-| 158 | 0% | 0% |  |
-| 159 | 0% | 0% |  |
-| 160 | 0% | 0% |  |
-| 161 | 0% | 0% |  |
-| 162 | 0% | 0% |  |
-| 163 | 0% | 0% |  |
-| 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% |  |
-| 167 | 0% | 0% |  |
-| 168 | 0% | 0% |  |
-| 169 | 0% | 0% |  |
-| 170 | 0% | 0% |  |
-| 171 | 0% | 0% |  |
-| 172 | 0% | 0% |  |
-| 173 | 0% | 0% |  |
-| 174 | 0% | 0% |  |
-| 175 | 0% | 0% |  |
-| 176 | 0% | 0% |  |
-| 177 | 0% | 0% |  |
-| 178 | 0% | 0% |  |
-| 179 | 0% | 0% |  |
-| 180 | 0% | 0% |  |
-| 181 | 0% | 0% |  |
-| 182 | 0% | 0% |  |
-| 183 | 0% | 0% |  |
-| 184 | 0% | 0% |  |
-| 185 | 0% | 0% |  |
-| 186 | 0% | 0% |  |
-| 187 | 0% | 0% | Last Result |
+| 166 | 0% | 100% |  |
+| 167 | 0.1% | 99.9% |  |
+| 168 | 0.1% | 99.8% |  |
+| 169 | 0.2% | 99.7% |  |
+| 170 | 0.4% | 99.5% |  |
+| 171 | 0.6% | 99.1% |  |
+| 172 | 0.8% | 98.5% |  |
+| 173 | 1.2% | 98% |  |
+| 174 | 2% | 97% |  |
+| 175 | 2% | 95% |  |
+| 176 | 3% | 93% |  |
+| 177 | 4% | 90% |  |
+| 178 | 5% | 86% |  |
+| 179 | 6% | 81% |  |
+| 180 | 7% | 74% |  |
+| 181 | 8% | 67% |  |
+| 182 | 8% | 59% |  |
+| 183 | 8% | 51% | Median |
+| 184 | 8% | 43% |  |
+| 185 | 8% | 34% |  |
+| 186 | 7% | 27% |  |
+| 187 | 6% | 20% | Last Result |
+| 188 | 5% | 14% |  |
+| 189 | 3% | 10% |  |
+| 190 | 2% | 6% |  |
+| 191 | 2% | 4% |  |
+| 192 | 1.0% | 2% |  |
+| 193 | 0.5% | 1.1% |  |
+| 194 | 0.3% | 0.5% |  |
+| 195 | 0.1% | 0.2% |  |
+| 196 | 0.1% | 0.1% |  |
+| 197 | 0% | 0% |  |
 
 
