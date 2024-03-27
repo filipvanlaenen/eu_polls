@@ -42,7 +42,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Jaunā VIENOTĪBA | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -54,7 +54,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
@@ -85,7 +85,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 166 | 0% | 100% |  |
 | 167 | 0.1% | 99.9% |  |
-| 168 | 0.1% | 99.9% |  |
+| 168 | 0.1% | 99.8% |  |
 | 169 | 0.2% | 99.7% |  |
 | 170 | 0.4% | 99.5% |  |
 | 171 | 0.6% | 99.1% |  |
@@ -97,12 +97,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 177 | 4% | 90% |  |
 | 178 | 5% | 86% |  |
 | 179 | 6% | 81% |  |
-| 180 | 7% | 75% |  |
-| 181 | 8% | 68% |  |
-| 182 | 8% | 60% |  |
+| 180 | 7% | 74% |  |
+| 181 | 8% | 67% |  |
+| 182 | 8% | 59% |  |
 | 183 | 8% | 51% | Median |
 | 184 | 8% | 43% |  |
-| 185 | 8% | 35% |  |
+| 185 | 8% | 34% |  |
 | 186 | 7% | 27% |  |
 | 187 | 6% | 20% | Last Result |
 | 188 | 5% | 14% |  |
@@ -110,7 +110,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 190 | 2% | 6% |  |
 | 191 | 2% | 4% |  |
 | 192 | 1.0% | 2% |  |
-| 193 | 0.6% | 1.1% |  |
+| 193 | 0.5% | 1.1% |  |
 | 194 | 0.3% | 0.5% |  |
 | 195 | 0.1% | 0.2% |  |
 | 196 | 0.1% | 0.1% |  |
