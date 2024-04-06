@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **25 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -18,15 +18,15 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 86 | 81–92 | 79–94 | 78–96 | 76–98 |
+| Renew Europe | EU | 98 | 86 | 80–92 | 78–94 | 77–95 | 75–98 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 16–20 | 16–21 | 15–22 | 14–23 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 3–4 |
 | Freie Demokratische Partei | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -40,7 +40,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Centerpartiet | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Coalición por Europa | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -65,6 +65,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
+| Δημοκράτες | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -75,34 +76,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0.1% | 100% |  |
-| 75 | 0.2% | 99.9% |  |
-| 76 | 0.5% | 99.6% |  |
-| 77 | 1.0% | 99.1% |  |
-| 78 | 2% | 98% |  |
-| 79 | 3% | 97% |  |
-| 80 | 4% | 94% |  |
-| 81 | 5% | 90% |  |
-| 82 | 6% | 86% |  |
-| 83 | 7% | 80% |  |
-| 84 | 8% | 73% |  |
-| 85 | 8% | 65% |  |
-| 86 | 8% | 57% | Median |
-| 87 | 8% | 48% |  |
-| 88 | 8% | 40% |  |
-| 89 | 7% | 32% |  |
-| 90 | 6% | 25% |  |
-| 91 | 5% | 19% |  |
-| 92 | 4% | 14% |  |
-| 93 | 3% | 10% |  |
-| 94 | 2% | 6% |  |
-| 95 | 2% | 4% |  |
-| 96 | 1.1% | 3% |  |
-| 97 | 0.7% | 1.5% |  |
-| 98 | 0.4% | 0.8% | Last Result |
-| 99 | 0.2% | 0.4% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0.1% | 99.9% |  |
+| 74 | 0.2% | 99.9% |  |
+| 75 | 0.5% | 99.6% |  |
+| 76 | 0.9% | 99.2% |  |
+| 77 | 1.5% | 98% |  |
+| 78 | 2% | 97% |  |
+| 79 | 3% | 95% |  |
+| 80 | 4% | 91% |  |
+| 81 | 6% | 87% |  |
+| 82 | 7% | 81% |  |
+| 83 | 7% | 75% |  |
+| 84 | 8% | 67% |  |
+| 85 | 8% | 59% |  |
+| 86 | 8% | 51% | Median |
+| 87 | 8% | 43% |  |
+| 88 | 7% | 35% |  |
+| 89 | 6% | 27% |  |
+| 90 | 5% | 21% |  |
+| 91 | 4% | 16% |  |
+| 92 | 3% | 11% |  |
+| 93 | 3% | 8% |  |
+| 94 | 2% | 5% |  |
+| 95 | 1.3% | 3% |  |
+| 96 | 0.8% | 2% |  |
+| 97 | 0.5% | 1.1% |  |
+| 98 | 0.3% | 0.6% | Last Result |
+| 99 | 0.2% | 0.3% |  |
 | 100 | 0.1% | 0.2% |  |
-| 101 | 0.1% | 0.1% |  |
+| 101 | 0% | 0.1% |  |
 | 102 | 0% | 0% |  |
 
 

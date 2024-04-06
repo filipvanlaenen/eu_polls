@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+4 seats)
+Current median: **6** seats (+6 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,13 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–6 | 2–6 | 1–7 |
-| Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
+| Parties currently not represented in the EP | EU | 0 | 6 | 4–8 | 4–8 | 3–9 | 3–10 |
+| Independents [IE] (*) | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Második Reformkor [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Blocul Suveranist Român [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -45,6 +46,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Φωνή Λογικής [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -56,14 +58,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 11% | 99.1% |  |
-| 3 | 28% | 88% |  |
-| 4 | 32% | 60% | Median |
-| 5 | 19% | 28% |  |
-| 6 | 7% | 9% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0.3% | 0.3% |  |
-| 9 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 3% | 99.7% |  |
+| 4 | 13% | 96% |  |
+| 5 | 25% | 83% |  |
+| 6 | 27% | 58% | Median |
+| 7 | 19% | 32% |  |
+| 8 | 9% | 13% |  |
+| 9 | 3% | 4% |  |
+| 10 | 0.7% | 0.9% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 

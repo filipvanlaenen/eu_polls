@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **53** seats (+24 seats)
+Current median: **54** seats (+25 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 53 | 50–58 | 49–59 | 48–60 | 47–62 |
+| Non-Inscrits | EU | 29 | 54 | 50–58 | 49–59 | 49–60 | 47–62 |
 | Movimento 5 Stelle | IT | | 13 | 12–16 | 12–16 | 11–16 | 10–17 |
 | Fidesz | HU | | 10 | 10–11 | 10–12 | 10–12 | 9–12 |
 | Bündnis Sahra Wagenknecht | DE | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
@@ -26,7 +26,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Nowa Nadzieja | PL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 1–3 | 1–3 | 1–3 | 0–3 |
@@ -70,24 +70,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
-| 46 | 0.2% | 100% |  |
+| 46 | 0.1% | 100% |  |
 | 47 | 0.6% | 99.8% |  |
-| 48 | 2% | 99.2% |  |
-| 49 | 4% | 97% |  |
-| 50 | 7% | 93% |  |
-| 51 | 11% | 86% |  |
+| 48 | 2% | 99.3% |  |
+| 49 | 4% | 98% |  |
+| 50 | 7% | 94% |  |
+| 51 | 10% | 87% |  |
 | 52 | 13% | 76% |  |
-| 53 | 13% | 63% | Median |
-| 54 | 12% | 50% |  |
+| 53 | 13% | 64% |  |
+| 54 | 12% | 51% | Median |
 | 55 | 11% | 38% |  |
-| 56 | 9% | 27% |  |
-| 57 | 7% | 18% |  |
-| 58 | 5% | 11% |  |
-| 59 | 3% | 6% |  |
+| 56 | 9% | 28% |  |
+| 57 | 7% | 19% |  |
+| 58 | 5% | 12% |  |
+| 59 | 3% | 7% |  |
 | 60 | 2% | 3% |  |
-| 61 | 0.9% | 1.4% |  |
-| 62 | 0.4% | 0.5% |  |
+| 61 | 0.9% | 1.5% |  |
+| 62 | 0.4% | 0.6% |  |
 | 63 | 0.1% | 0.2% |  |
-| 64 | 0% | 0% |  |
+| 64 | 0% | 0.1% |  |
+| 65 | 0% | 0% |  |
 
 

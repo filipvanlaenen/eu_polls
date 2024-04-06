@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Perussuomalaiset | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Ελληνική Λύση | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Staatkundig Gereformeerde Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -54,10 +54,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
 | 66 | 0.1% | 99.9% |  |
-| 67 | 0.2% | 99.8% |  |
+| 67 | 0.3% | 99.8% |  |
 | 68 | 0.5% | 99.6% |  |
-| 69 | 0.8% | 99.1% |  |
-| 70 | 1.3% | 98% |  |
+| 69 | 0.9% | 99.1% |  |
+| 70 | 1.4% | 98% |  |
 | 71 | 2% | 97% |  |
 | 72 | 3% | 95% |  |
 | 73 | 4% | 92% |  |
@@ -65,18 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 6% | 83% |  |
 | 76 | 7% | 77% |  |
 | 77 | 8% | 70% |  |
-| 78 | 9% | 62% |  |
-| 79 | 9% | 54% | Median |
-| 80 | 9% | 45% |  |
-| 81 | 8% | 36% |  |
+| 78 | 9% | 61% |  |
+| 79 | 9% | 53% | Median |
+| 80 | 9% | 44% |  |
+| 81 | 8% | 35% |  |
 | 82 | 8% | 27% |  |
-| 83 | 6% | 20% |  |
+| 83 | 6% | 19% |  |
 | 84 | 5% | 13% |  |
-| 85 | 4% | 8% |  |
-| 86 | 2% | 5% |  |
-| 87 | 1.3% | 2% |  |
-| 88 | 0.6% | 1.1% |  |
-| 89 | 0.3% | 0.5% |  |
+| 85 | 3% | 8% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.2% | 2% |  |
+| 88 | 0.6% | 1.0% |  |
+| 89 | 0.3% | 0.4% |  |
 | 90 | 0.1% | 0.2% |  |
 | 91 | 0% | 0.1% |  |
 | 92 | 0% | 0% |  |

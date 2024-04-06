@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **50** seats (-17 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 45–56 | 44–57 | 42–59 |
+| Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 44–56 | 43–56 | 41–58 |
 | Bündnis 90/Die Grünen | DE | | 12 | 9–16 | 9–16 | 9–16 | 8–17 |
 | Europe Écologie Les Verts | FR | | 7 | 5–9 | 5–10 | 5–10 | 0–11 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
-| Miljöpartiet de gröna | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -34,6 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -67,29 +67,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.1% | 99.9% |  |
 | 40 | 0.1% | 99.9% |  |
-| 41 | 0.2% | 99.8% |  |
-| 42 | 0.4% | 99.6% |  |
-| 43 | 1.0% | 99.2% |  |
-| 44 | 2% | 98% |  |
-| 45 | 3% | 96% |  |
-| 46 | 5% | 93% |  |
-| 47 | 7% | 88% |  |
-| 48 | 9% | 81% |  |
-| 49 | 10% | 72% |  |
-| 50 | 11% | 62% |  |
-| 51 | 11% | 51% | Median |
-| 52 | 11% | 40% |  |
-| 53 | 9% | 29% |  |
-| 54 | 8% | 20% |  |
-| 55 | 5% | 12% |  |
-| 56 | 3% | 7% |  |
-| 57 | 2% | 3% |  |
-| 58 | 0.9% | 1.5% |  |
-| 59 | 0.4% | 0.6% |  |
-| 60 | 0.1% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
+| 41 | 0.3% | 99.7% |  |
+| 42 | 0.7% | 99.4% |  |
+| 43 | 1.5% | 98.7% |  |
+| 44 | 3% | 97% |  |
+| 45 | 4% | 95% |  |
+| 46 | 6% | 90% |  |
+| 47 | 8% | 84% |  |
+| 48 | 9% | 77% |  |
+| 49 | 11% | 67% |  |
+| 50 | 11% | 57% | Median |
+| 51 | 11% | 46% |  |
+| 52 | 10% | 35% |  |
+| 53 | 9% | 24% |  |
+| 54 | 6% | 16% |  |
+| 55 | 4% | 9% |  |
+| 56 | 3% | 5% |  |
+| 57 | 1.4% | 2% |  |
+| 58 | 0.6% | 1.0% |  |
+| 59 | 0.3% | 0.4% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
