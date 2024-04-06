@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–7 | 1–8 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–6 | 2–6 | 1–7 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Második Reformkor [HU] (*) | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,9 +39,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,15 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 9% | 99.3% |  |
-| 3 | 25% | 91% |  |
-| 4 | 32% | 66% | Median |
-| 5 | 22% | 34% |  |
-| 6 | 9% | 12% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.5% | 0.5% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 11% | 99.1% |  |
+| 3 | 28% | 88% |  |
+| 4 | 32% | 60% | Median |
+| 5 | 19% | 28% |  |
+| 6 | 7% | 9% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.3% | 0.3% |  |
+| 9 | 0% | 0% |  |
 
 
