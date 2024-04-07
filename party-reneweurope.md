@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 86 | 80–92 | 78–94 | 77–95 | 75–98 |
+| Renew Europe | EU | 98 | 86 | 80–92 | 78–93 | 77–95 | 75–98 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 16–20 | 16–21 | 15–22 | 14–23 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Polska 2050 | PL | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -33,7 +33,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Momentum Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,26 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.1% | 99.9% |  |
 | 74 | 0.2% | 99.9% |  |
 | 75 | 0.5% | 99.6% |  |
-| 76 | 0.9% | 99.2% |  |
-| 77 | 1.5% | 98% |  |
+| 76 | 0.9% | 99.1% |  |
+| 77 | 2% | 98% |  |
 | 78 | 2% | 97% |  |
-| 79 | 3% | 95% |  |
+| 79 | 3% | 94% |  |
 | 80 | 4% | 91% |  |
 | 81 | 6% | 87% |  |
 | 82 | 7% | 81% |  |
-| 83 | 7% | 75% |  |
+| 83 | 7% | 74% |  |
 | 84 | 8% | 67% |  |
 | 85 | 8% | 59% |  |
 | 86 | 8% | 51% | Median |
-| 87 | 8% | 43% |  |
-| 88 | 7% | 35% |  |
+| 87 | 8% | 42% |  |
+| 88 | 7% | 34% |  |
 | 89 | 6% | 27% |  |
 | 90 | 5% | 21% |  |
-| 91 | 4% | 16% |  |
+| 91 | 4% | 15% |  |
 | 92 | 3% | 11% |  |
 | 93 | 3% | 8% |  |
 | 94 | 2% | 5% |  |
-| 95 | 1.3% | 3% |  |
+| 95 | 1.2% | 3% |  |
 | 96 | 0.8% | 2% |  |
 | 97 | 0.5% | 1.1% |  |
 | 98 | 0.3% | 0.6% | Last Result |
