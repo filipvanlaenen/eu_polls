@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **135** seats (-12 seats)
+Current median: **136** seats (-11 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 130–140 | 129–141 | 128–143 | 126–145 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 131–141 | 130–142 | 128–143 | 126–146 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–19 | 16–20 | 15–20 | 15–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–21 | 14–21 | 13–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
@@ -30,11 +30,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Nowa Lewica | PL | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 2 | 2–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -42,11 +42,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sotsiaaldemokraatlik Erakond | EE | | 2 | 2 | 2 | 2 | 2 |
 | Vooruit | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos regionų partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Parti radical de gauche | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,29 +66,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 124 | 0.1% | 100% |  |
 | 125 | 0.2% | 99.9% |  |
-| 126 | 0.5% | 99.6% |  |
-| 127 | 0.9% | 99.2% |  |
-| 128 | 2% | 98% |  |
-| 129 | 3% | 97% |  |
-| 130 | 4% | 94% |  |
-| 131 | 6% | 90% |  |
-| 132 | 7% | 84% |  |
-| 133 | 9% | 77% |  |
-| 134 | 10% | 68% |  |
-| 135 | 11% | 57% | Median |
-| 136 | 10% | 47% |  |
-| 137 | 9% | 37% |  |
-| 138 | 8% | 27% |  |
-| 139 | 6% | 19% |  |
-| 140 | 5% | 13% |  |
-| 141 | 3% | 8% |  |
-| 142 | 2% | 5% |  |
-| 143 | 1.3% | 3% |  |
-| 144 | 0.7% | 1.5% |  |
-| 145 | 0.4% | 0.7% |  |
-| 146 | 0.2% | 0.3% |  |
+| 126 | 0.3% | 99.8% |  |
+| 127 | 0.7% | 99.4% |  |
+| 128 | 1.3% | 98.7% |  |
+| 129 | 2% | 97% |  |
+| 130 | 3% | 95% |  |
+| 131 | 5% | 92% |  |
+| 132 | 7% | 87% |  |
+| 133 | 8% | 80% |  |
+| 134 | 10% | 72% |  |
+| 135 | 10% | 62% |  |
+| 136 | 10% | 52% | Median |
+| 137 | 10% | 42% |  |
+| 138 | 9% | 32% |  |
+| 139 | 7% | 23% |  |
+| 140 | 5% | 16% |  |
+| 141 | 4% | 10% |  |
+| 142 | 3% | 6% |  |
+| 143 | 2% | 4% |  |
+| 144 | 1.0% | 2% |  |
+| 145 | 0.6% | 1.1% |  |
+| 146 | 0.3% | 0.5% |  |
 | 147 | 0.1% | 0.2% | Last Result |
-| 148 | 0% | 0.1% |  |
+| 148 | 0.1% | 0.1% |  |
 | 149 | 0% | 0% |  |
 
 

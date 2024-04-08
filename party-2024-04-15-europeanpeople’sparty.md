@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **180** seats (-7 seats)
+Current median: **181** seats (-6 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 180 | 174–186 | 173–188 | 171–189 | 168–192 |
+| European People’s Party | EU | 187 | 181 | 175–187 | 173–188 | 171–190 | 168–192 |
 | Partido Popular | ES | | 25 | 24–27 | 24–28 | 24–28 | 23–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 18–24 | 18–24 | 18–24 | 18–26 |
 | Platforma Obywatelska | PL | | 19 | 18–20 | 18–20 | 18–20 | 18–22 |
@@ -28,7 +28,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 6–8 | 5–8 | 4–9 |
 | Forza Italia | IT | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -59,7 +59,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Mindenki Magyarországa Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nieuw Sociaal Contract | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -85,35 +85,35 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
 | 166 | 0.1% | 99.9% |  |
-| 167 | 0.2% | 99.7% |  |
-| 168 | 0.3% | 99.5% |  |
-| 169 | 0.5% | 99.2% |  |
-| 170 | 0.8% | 98.7% |  |
-| 171 | 1.2% | 98% |  |
-| 172 | 2% | 97% |  |
-| 173 | 2% | 95% |  |
-| 174 | 3% | 93% |  |
-| 175 | 4% | 89% |  |
-| 176 | 6% | 85% |  |
-| 177 | 7% | 79% |  |
-| 178 | 7% | 73% |  |
-| 179 | 8% | 65% |  |
-| 180 | 8% | 57% | Median |
-| 181 | 8% | 49% |  |
-| 182 | 8% | 41% |  |
-| 183 | 7% | 33% |  |
-| 184 | 6% | 25% |  |
-| 185 | 5% | 19% |  |
-| 186 | 4% | 14% |  |
-| 187 | 3% | 10% | Last Result |
-| 188 | 2% | 6% |  |
-| 189 | 2% | 4% |  |
-| 190 | 1.0% | 2% |  |
-| 191 | 0.6% | 1.4% |  |
-| 192 | 0.4% | 0.7% |  |
+| 167 | 0.2% | 99.8% |  |
+| 168 | 0.3% | 99.6% |  |
+| 169 | 0.4% | 99.4% |  |
+| 170 | 0.6% | 99.0% |  |
+| 171 | 1.0% | 98% |  |
+| 172 | 1.5% | 97% |  |
+| 173 | 2% | 96% |  |
+| 174 | 3% | 94% |  |
+| 175 | 4% | 91% |  |
+| 176 | 5% | 87% |  |
+| 177 | 6% | 82% |  |
+| 178 | 7% | 75% |  |
+| 179 | 8% | 68% |  |
+| 180 | 8% | 60% |  |
+| 181 | 8% | 52% | Median |
+| 182 | 8% | 43% |  |
+| 183 | 8% | 35% |  |
+| 184 | 7% | 28% |  |
+| 185 | 6% | 21% |  |
+| 186 | 5% | 15% |  |
+| 187 | 4% | 11% | Last Result |
+| 188 | 3% | 7% |  |
+| 189 | 2% | 5% |  |
+| 190 | 1.2% | 3% |  |
+| 191 | 0.7% | 2% |  |
+| 192 | 0.4% | 0.9% |  |
 | 193 | 0.2% | 0.4% |  |
 | 194 | 0.1% | 0.2% |  |
-| 195 | 0% | 0.1% |  |
+| 195 | 0.1% | 0.1% |  |
 | 196 | 0% | 0% |  |
 
 
