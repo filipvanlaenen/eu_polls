@@ -50,7 +50,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Unione Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -69,10 +68,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 2% | 98% |  |
 | 35 | 4% | 96% |  |
 | 36 | 8% | 92% |  |
-| 37 | 11% | 84% |  |
+| 37 | 12% | 84% |  |
 | 38 | 15% | 73% |  |
 | 39 | 16% | 58% | Last Result, Median |
-| 40 | 15% | 42% |  |
+| 40 | 15% | 41% |  |
 | 41 | 12% | 26% |  |
 | 42 | 8% | 14% |  |
 | 43 | 4% | 7% |  |
