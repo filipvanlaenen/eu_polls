@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–6 | 2–7 | 1–8 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–5 | 2–6 | 2–6 | 1–7 |
 | Independents [IE] (*) | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,9 +35,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nemuno aušra [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -58,15 +58,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 11% | 99.1% |  |
-| 3 | 26% | 88% |  |
-| 4 | 30% | 62% | Median |
-| 5 | 20% | 33% |  |
-| 6 | 9% | 12% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.6% | 0.7% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 1 | 1.3% | 100% |  |
+| 2 | 16% | 98.7% |  |
+| 3 | 30% | 83% |  |
+| 4 | 29% | 53% | Median |
+| 5 | 16% | 23% |  |
+| 6 | 6% | 7% |  |
+| 7 | 1.3% | 2% |  |
+| 8 | 0.2% | 0.3% |  |
+| 9 | 0% | 0% |  |
 
 
