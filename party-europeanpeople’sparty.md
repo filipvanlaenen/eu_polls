@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **183** seats (-4 seats)
+Current median: **184** seats (-3 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 183 | 177–189 | 176–190 | 174–192 | 172–194 |
+| European People’s Party | EU | 187 | 184 | 179–190 | 177–191 | 176–193 | 174–195 |
 | Partido Popular | ES | | 25 | 24–27 | 24–28 | 24–28 | 23–28 |
-| Christlich Demokratische Union Deutschlands | DE | | 22 | 18–24 | 18–24 | 18–24 | 18–26 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 20–24 | 20–24 | 20–24 | 20–27 |
 | Platforma Obywatelska | PL | | 19 | 18–20 | 18–20 | 18–20 | 18–22 |
 | Aliança Democrática | PT | | 8 | 8 | 8 | 8 | 8 |
 | Partidul Național Liberal | RO | | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
+| Christlich-Soziale Union in Bayern | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Les Républicains | FR | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 6–8 | 5–8 | 4–9 |
 | Forza Italia | IT | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -38,8 +38,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Party of Péter Magyar | HU | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| Tisztelet és Szabadság | HU | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,35 +83,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 169 | 0% | 100% |  |
-| 170 | 0.1% | 99.9% |  |
-| 171 | 0.2% | 99.8% |  |
-| 172 | 0.4% | 99.7% |  |
-| 173 | 0.7% | 99.3% |  |
-| 174 | 1.2% | 98.6% |  |
-| 175 | 2% | 97% |  |
-| 176 | 3% | 95% |  |
-| 177 | 4% | 93% |  |
-| 178 | 5% | 89% |  |
-| 179 | 6% | 83% |  |
-| 180 | 7% | 77% |  |
-| 181 | 8% | 70% |  |
-| 182 | 9% | 62% |  |
-| 183 | 9% | 53% | Median |
-| 184 | 8% | 44% |  |
-| 185 | 8% | 36% |  |
-| 186 | 7% | 28% |  |
-| 187 | 6% | 21% | Last Result |
-| 188 | 5% | 15% |  |
-| 189 | 4% | 11% |  |
-| 190 | 3% | 7% |  |
-| 191 | 2% | 5% |  |
-| 192 | 1.2% | 3% |  |
-| 193 | 0.7% | 2% |  |
-| 194 | 0.4% | 0.9% |  |
-| 195 | 0.2% | 0.5% |  |
-| 196 | 0.1% | 0.2% |  |
-| 197 | 0.1% | 0.1% |  |
-| 198 | 0% | 0% |  |
+| 171 | 0.1% | 100% |  |
+| 172 | 0.1% | 99.9% |  |
+| 173 | 0.3% | 99.8% |  |
+| 174 | 0.5% | 99.5% |  |
+| 175 | 0.9% | 99.0% |  |
+| 176 | 1.5% | 98% |  |
+| 177 | 2% | 97% |  |
+| 178 | 3% | 94% |  |
+| 179 | 4% | 91% |  |
+| 180 | 6% | 87% |  |
+| 181 | 7% | 81% |  |
+| 182 | 8% | 74% |  |
+| 183 | 9% | 66% |  |
+| 184 | 9% | 58% | Median |
+| 185 | 9% | 49% |  |
+| 186 | 9% | 40% |  |
+| 187 | 8% | 31% | Last Result |
+| 188 | 7% | 23% |  |
+| 189 | 5% | 17% |  |
+| 190 | 4% | 12% |  |
+| 191 | 3% | 8% |  |
+| 192 | 2% | 5% |  |
+| 193 | 1.2% | 3% |  |
+| 194 | 0.7% | 2% |  |
+| 195 | 0.4% | 0.8% |  |
+| 196 | 0.2% | 0.4% |  |
+| 197 | 0.1% | 0.2% |  |
+| 198 | 0% | 0.1% |  |
+| 199 | 0% | 0% |  |
 
 

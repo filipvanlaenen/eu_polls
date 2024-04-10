@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **50** seats (+21 seats)
+Current median: **49** seats (+20 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 50 | 47–54 | 46–55 | 45–56 | 44–57 |
+| Non-Inscrits | EU | 29 | 49 | 46–52 | 46–52 | 45–53 | 44–54 |
 | Movimento 5 Stelle | IT | | 13 | 12–16 | 12–16 | 11–16 | 10–17 |
 | Fidesz | HU | | 10 | 10 | 9–11 | 9–11 | 9–11 |
-| Bündnis Sahra Wagenknecht | DE | | 6 | 4–8 | 4–8 | 4–8 | 4–9 |
+| Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | SMER–sociálna demokracia | SK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Nowa Nadzieja | PL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 1–3 | 1–3 | 1–3 | 0–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 1 | 1 | 1 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -68,21 +68,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.2% | 100% |  |
 | 44 | 0.8% | 99.8% |  |
-| 45 | 3% | 98.9% |  |
-| 46 | 6% | 96% |  |
-| 47 | 10% | 90% |  |
-| 48 | 13% | 80% |  |
-| 49 | 14% | 67% |  |
-| 50 | 13% | 53% | Median |
-| 51 | 11% | 40% |  |
-| 52 | 9% | 29% |  |
-| 53 | 8% | 20% |  |
-| 54 | 6% | 12% |  |
-| 55 | 3% | 7% |  |
-| 56 | 2% | 3% |  |
-| 57 | 0.9% | 1.3% |  |
-| 58 | 0.3% | 0.4% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0% |  |
+| 45 | 3% | 99.0% |  |
+| 46 | 7% | 96% |  |
+| 47 | 13% | 89% |  |
+| 48 | 18% | 76% |  |
+| 49 | 19% | 58% | Median |
+| 50 | 16% | 39% |  |
+| 51 | 11% | 23% |  |
+| 52 | 6% | 11% |  |
+| 53 | 3% | 5% |  |
+| 54 | 1.2% | 2% |  |
+| 55 | 0.4% | 0.5% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 
