@@ -27,7 +27,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Blocul Suveranist Român [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,8 +59,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.7% | 100% |  |
-| 2 | 10% | 99.3% |  |
-| 3 | 26% | 90% |  |
+| 2 | 9% | 99.3% |  |
+| 3 | 25% | 90% |  |
 | 4 | 31% | 64% | Median |
 | 5 | 21% | 33% |  |
 | 6 | 9% | 12% |  |
