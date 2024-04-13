@@ -20,7 +20,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 39 | 36–42 | 35–43 | 34–44 | 32–45 |
 | La France insoumise | FR | | 7 | 5–8 | 5–8 | 5–9 | 0–9 |
-| Sinn Féin | IE | | 6 | 6 | 6 | 5–6 | 5–6 |
+| Sinn Féin | IE | | 6 | 6 | 6 | 5–6 | 4–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -32,13 +32,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Stačilo! | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0 | 0 | 0 |
-| Independents 4 Change | IE | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Independents 4 Change | IE | | 0 | 0 | 0–1 | 0–2 | 0–2 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lutte Ouvrière–Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -65,20 +65,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.2% | 99.8% |  |
 | 32 | 0.3% | 99.6% |  |
 | 33 | 0.8% | 99.3% |  |
-| 34 | 2% | 98% |  |
+| 34 | 2% | 98.5% |  |
 | 35 | 5% | 96% |  |
 | 36 | 8% | 92% |  |
 | 37 | 12% | 84% |  |
 | 38 | 14% | 72% |  |
 | 39 | 15% | 58% | Last Result, Median |
 | 40 | 14% | 43% |  |
-| 41 | 12% | 28% |  |
-| 42 | 8% | 17% |  |
+| 41 | 12% | 29% |  |
+| 42 | 9% | 17% |  |
 | 43 | 5% | 8% |  |
 | 44 | 2% | 3% |  |
-| 45 | 0.8% | 1.0% |  |
+| 45 | 0.8% | 1.1% |  |
 | 46 | 0.2% | 0.3% |  |
-| 47 | 0% | 0.1% |  |
+| 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 
 
