@@ -18,9 +18,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 45–56 | 44–56 | 43–58 |
+| Greens–European Free Alliance | EU | 67 | 50 | 46–55 | 45–56 | 44–57 | 43–58 |
 | Bündnis 90/Die Grünen | DE | | 12 | 10–14 | 10–14 | 10–15 | 10–15 |
-| Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 4–9 | 4–10 |
+| Europe Écologie Les Verts | FR | | 7 | 4–8 | 4–9 | 4–9 | 4–10 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -49,7 +49,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,19 +73,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 2% | 98.9% |  |
 | 45 | 3% | 97% |  |
 | 46 | 5% | 94% |  |
-| 47 | 7% | 89% |  |
+| 47 | 7% | 90% |  |
 | 48 | 10% | 82% |  |
-| 49 | 11% | 72% |  |
-| 50 | 12% | 61% | Median |
+| 49 | 11% | 73% |  |
+| 50 | 12% | 62% | Median |
 | 51 | 12% | 49% |  |
-| 52 | 11% | 36% |  |
-| 53 | 9% | 25% |  |
-| 54 | 7% | 16% |  |
-| 55 | 4% | 10% |  |
+| 52 | 11% | 37% |  |
+| 53 | 9% | 26% |  |
+| 54 | 7% | 17% |  |
+| 55 | 5% | 10% |  |
 | 56 | 3% | 5% |  |
-| 57 | 1.4% | 2% |  |
-| 58 | 0.6% | 1.0% |  |
-| 59 | 0.2% | 0.4% |  |
+| 57 | 1.5% | 3% |  |
+| 58 | 0.7% | 1.1% |  |
+| 59 | 0.3% | 0.4% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

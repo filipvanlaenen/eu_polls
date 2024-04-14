@@ -18,8 +18,8 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 77–88 | 76–90 | 74–91 | 72–94 |
-| La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 15–19 | 14–20 | 14–22 |
+| Renew Europe | EU | 98 | 82 | 77–88 | 75–90 | 74–91 | 72–94 |
+| La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 14–19 | 14–20 | 14–22 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Polska 2050 | PL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -37,7 +37,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Движение за права и свободи | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Coalición por Europa | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -77,24 +77,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
-| 71 | 0.1% | 99.9% |  |
-| 72 | 0.3% | 99.8% |  |
-| 73 | 0.7% | 99.4% |  |
-| 74 | 1.3% | 98.7% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.4% | 99.7% |  |
+| 73 | 0.8% | 99.3% |  |
+| 74 | 1.4% | 98.5% |  |
 | 75 | 2% | 97% |  |
 | 76 | 3% | 95% |  |
-| 77 | 5% | 92% |  |
+| 77 | 5% | 91% |  |
 | 78 | 6% | 87% |  |
 | 79 | 7% | 81% |  |
 | 80 | 8% | 74% |  |
 | 81 | 9% | 66% |  |
-| 82 | 9% | 58% | Median |
-| 83 | 9% | 49% |  |
+| 82 | 9% | 57% | Median |
+| 83 | 8% | 48% |  |
 | 84 | 8% | 40% |  |
 | 85 | 7% | 32% |  |
 | 86 | 6% | 25% |  |
 | 87 | 5% | 19% |  |
-| 88 | 4% | 14% |  |
+| 88 | 4% | 13% |  |
 | 89 | 3% | 9% |  |
 | 90 | 2% | 6% |  |
 | 91 | 2% | 4% |  |
