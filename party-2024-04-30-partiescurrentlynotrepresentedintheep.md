@@ -46,7 +46,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Φωνή Λογικής [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -58,14 +58,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 12% | 99.0% |  |
-| 3 | 28% | 87% |  |
-| 4 | 31% | 59% | Median |
-| 5 | 19% | 28% |  |
-| 6 | 7% | 9% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 13% | 99.1% |  |
+| 3 | 30% | 86% |  |
+| 4 | 31% | 57% | Median |
+| 5 | 18% | 26% |  |
+| 6 | 6% | 8% |  |
 | 7 | 2% | 2% |  |
-| 8 | 0.3% | 0.4% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 

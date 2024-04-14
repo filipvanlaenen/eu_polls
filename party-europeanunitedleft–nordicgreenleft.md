@@ -19,7 +19,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 39 | 39 | 36–42 | 35–43 | 34–44 | 32–45 |
-| La France insoumise | FR | | 7 | 5–8 | 5–8 | 5–9 | 0–9 |
+| La France insoumise | FR | | 7 | 6–8 | 5–8 | 5–9 | 0–9 |
 | Sinn Féin | IE | | 6 | 6 | 6 | 5–6 | 4–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -29,7 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1 | 1 | 1 | 1 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -63,20 +63,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.1% | 100% |  |
 | 30 | 0.1% | 99.9% |  |
 | 31 | 0.2% | 99.8% |  |
-| 32 | 0.3% | 99.6% |  |
-| 33 | 0.8% | 99.3% |  |
-| 34 | 2% | 98.5% |  |
-| 35 | 5% | 96% |  |
-| 36 | 8% | 92% |  |
-| 37 | 12% | 84% |  |
-| 38 | 14% | 72% |  |
-| 39 | 15% | 58% | Last Result, Median |
-| 40 | 14% | 43% |  |
-| 41 | 12% | 29% |  |
-| 42 | 9% | 17% |  |
-| 43 | 5% | 8% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.8% | 1.1% |  |
+| 32 | 0.2% | 99.6% |  |
+| 33 | 0.6% | 99.4% |  |
+| 34 | 2% | 98.8% |  |
+| 35 | 4% | 97% |  |
+| 36 | 8% | 93% |  |
+| 37 | 11% | 85% |  |
+| 38 | 14% | 74% |  |
+| 39 | 15% | 60% | Last Result, Median |
+| 40 | 15% | 45% |  |
+| 41 | 12% | 30% |  |
+| 42 | 9% | 18% |  |
+| 43 | 5% | 9% |  |
+| 44 | 2% | 4% |  |
+| 45 | 0.9% | 1.2% |  |
 | 46 | 0.2% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |

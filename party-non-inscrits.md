@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 50 | 48–53 | 47–54 | 46–54 | 45–56 |
+| Non-Inscrits | EU | 29 | 50 | 48–53 | 47–54 | 46–55 | 45–56 |
 | Movimento 5 Stelle | IT | | 13 | 12–16 | 12–16 | 11–16 | 10–17 |
 | Fidesz | HU | | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
@@ -27,7 +27,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 1 | 1 | 1 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -69,17 +69,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0.1% | 100% |  |
 | 45 | 0.6% | 99.8% |  |
-| 46 | 2% | 99.2% |  |
-| 47 | 6% | 97% |  |
-| 48 | 11% | 91% |  |
-| 49 | 16% | 80% |  |
-| 50 | 19% | 64% | Median |
-| 51 | 17% | 45% |  |
-| 52 | 13% | 28% |  |
-| 53 | 8% | 15% |  |
-| 54 | 4% | 6% |  |
-| 55 | 2% | 2% |  |
-| 56 | 0.5% | 0.6% |  |
+| 46 | 2% | 99.3% |  |
+| 47 | 5% | 97% |  |
+| 48 | 10% | 92% |  |
+| 49 | 16% | 82% |  |
+| 50 | 19% | 66% | Median |
+| 51 | 18% | 47% |  |
+| 52 | 14% | 30% |  |
+| 53 | 9% | 16% |  |
+| 54 | 5% | 7% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.6% | 0.7% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
