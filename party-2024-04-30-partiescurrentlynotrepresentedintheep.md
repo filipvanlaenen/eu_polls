@@ -47,7 +47,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 

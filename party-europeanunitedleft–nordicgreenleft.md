@@ -30,11 +30,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1 | 1 | 1 | 1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Stačilo! | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -63,20 +63,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.1% | 100% |  |
 | 30 | 0.1% | 99.9% |  |
 | 31 | 0.2% | 99.8% |  |
-| 32 | 0.3% | 99.6% |  |
+| 32 | 0.2% | 99.6% |  |
 | 33 | 0.6% | 99.4% |  |
-| 34 | 2% | 98.7% |  |
+| 34 | 2% | 98.8% |  |
 | 35 | 4% | 97% |  |
-| 36 | 8% | 93% |  |
-| 37 | 11% | 85% |  |
+| 36 | 7% | 93% |  |
+| 37 | 11% | 86% |  |
 | 38 | 14% | 74% |  |
 | 39 | 15% | 60% | Last Result, Median |
 | 40 | 15% | 45% |  |
-| 41 | 12% | 30% |  |
+| 41 | 12% | 31% |  |
 | 42 | 9% | 18% |  |
 | 43 | 5% | 9% |  |
-| 44 | 2% | 4% |  |
-| 45 | 0.9% | 1.2% |  |
+| 44 | 3% | 4% |  |
+| 45 | 0.9% | 1.3% |  |
 | 46 | 0.3% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
