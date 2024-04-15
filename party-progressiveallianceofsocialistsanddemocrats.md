@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **134** seats (-13 seats)
+Current median: **135** seats (-12 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 130–139 | 128–140 | 127–141 | 125–143 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 130–140 | 129–141 | 128–142 | 126–144 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–19 | 16–20 | 15–20 | 15–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–17 | 14–17 | 14–17 | 12–18 |
 | Parti socialiste | FR | | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
-| Partidul Social Democrat | RO | | 8 | 7–10 | 7–11 | 7–11 | 7–12 |
+| Partidul Social Democrat | RO | | 9 | 7–10 | 7–11 | 7–11 | 7–12 |
 | Partido Socialista | PT | | 7 | 7 | 7 | 7 | 7 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Nowa Lewica | PL | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
-| Nowa Lewica | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -64,30 +64,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 123 | 0.1% | 100% |  |
-| 124 | 0.2% | 99.9% |  |
-| 125 | 0.4% | 99.7% |  |
-| 126 | 0.8% | 99.3% |  |
-| 127 | 1.4% | 98.5% |  |
-| 128 | 2% | 97% |  |
-| 129 | 4% | 95% |  |
-| 130 | 5% | 91% |  |
-| 131 | 7% | 86% |  |
-| 132 | 9% | 78% |  |
-| 133 | 10% | 69% |  |
-| 134 | 11% | 59% | Median |
-| 135 | 11% | 48% |  |
-| 136 | 10% | 37% |  |
-| 137 | 8% | 27% |  |
-| 138 | 7% | 19% |  |
-| 139 | 5% | 12% |  |
-| 140 | 3% | 7% |  |
-| 141 | 2% | 4% |  |
-| 142 | 1.1% | 2% |  |
-| 143 | 0.6% | 1.1% |  |
-| 144 | 0.3% | 0.5% |  |
-| 145 | 0.1% | 0.2% |  |
-| 146 | 0.1% | 0.1% |  |
-| 147 | 0% | 0% | Last Result |
+| 123 | 0% | 100% |  |
+| 124 | 0.1% | 99.9% |  |
+| 125 | 0.3% | 99.8% |  |
+| 126 | 0.5% | 99.6% |  |
+| 127 | 1.0% | 99.0% |  |
+| 128 | 2% | 98% |  |
+| 129 | 3% | 96% |  |
+| 130 | 4% | 94% |  |
+| 131 | 6% | 89% |  |
+| 132 | 8% | 84% |  |
+| 133 | 9% | 76% |  |
+| 134 | 10% | 67% |  |
+| 135 | 11% | 57% | Median |
+| 136 | 11% | 46% |  |
+| 137 | 10% | 35% |  |
+| 138 | 8% | 26% |  |
+| 139 | 6% | 18% |  |
+| 140 | 5% | 12% |  |
+| 141 | 3% | 7% |  |
+| 142 | 2% | 4% |  |
+| 143 | 1.1% | 2% |  |
+| 144 | 0.6% | 1.1% |  |
+| 145 | 0.3% | 0.5% |  |
+| 146 | 0.1% | 0.2% |  |
+| 147 | 0.1% | 0.1% | Last Result |
+| 148 | 0% | 0% |  |
 
 

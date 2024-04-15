@@ -23,13 +23,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Fidesz | HU | | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | SMER–sociálna demokracia | SK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Nowa Nadzieja | PL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Nowa Nadzieja | PL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Lewica Razem | PL | | 1 | 1 | 1 | 1 | 0–2 |
+| Lewica Razem | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | REPUBLIKA | SK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -68,14 +68,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 100% |  |
 | 44 | 0.3% | 99.9% |  |
-| 45 | 1.0% | 99.6% |  |
-| 46 | 3% | 98.6% |  |
+| 45 | 1.1% | 99.6% |  |
+| 46 | 3% | 98% |  |
 | 47 | 7% | 95% |  |
 | 48 | 13% | 88% |  |
 | 49 | 17% | 75% |  |
-| 50 | 19% | 58% | Median |
+| 50 | 19% | 57% | Median |
 | 51 | 16% | 39% |  |
-| 52 | 12% | 23% |  |
+| 52 | 11% | 23% |  |
 | 53 | 7% | 11% |  |
 | 54 | 3% | 5% |  |
 | 55 | 1.1% | 1.5% |  |

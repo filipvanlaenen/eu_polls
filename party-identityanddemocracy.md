@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **86** seats (+10 seats)
+Current median: **85** seats (+9 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 86 | 82–90 | 81–91 | 80–92 | 78–94 |
+| Identity and Democracy | EU | 76 | 85 | 81–90 | 80–91 | 79–92 | 77–94 |
 | Rassemblement national | FR | | 28 | 27–31 | 25–31 | 25–32 | 23–33 |
 | Alternative für Deutschland | DE | | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
 | Partij voor de Vrijheid | NL | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
@@ -27,12 +27,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Chega | PT | | 4 | 4 | 4 | 4 | 4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Ruch Narodowy | PL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Ruch Narodowy | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Svoboda a přímá demokracie–Trikolóra hnutí občanů | CZ | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
-| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -44,28 +44,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0.1% | 100% | Last Result |
-| 77 | 0.2% | 99.9% |  |
-| 78 | 0.6% | 99.6% |  |
-| 79 | 1.3% | 99.1% |  |
-| 80 | 3% | 98% |  |
-| 81 | 4% | 95% |  |
-| 82 | 7% | 91% |  |
-| 83 | 9% | 84% |  |
-| 84 | 11% | 75% |  |
-| 85 | 12% | 64% |  |
-| 86 | 12% | 52% | Median |
-| 87 | 11% | 40% |  |
-| 88 | 9% | 29% |  |
-| 89 | 7% | 20% |  |
-| 90 | 5% | 13% |  |
-| 91 | 3% | 7% |  |
-| 92 | 2% | 4% |  |
-| 93 | 1.1% | 2% |  |
-| 94 | 0.6% | 1.0% |  |
-| 95 | 0.3% | 0.5% |  |
-| 96 | 0.1% | 0.2% |  |
-| 97 | 0% | 0.1% |  |
-| 98 | 0% | 0% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0.1% | 99.9% | Last Result |
+| 77 | 0.3% | 99.8% |  |
+| 78 | 0.8% | 99.5% |  |
+| 79 | 2% | 98.7% |  |
+| 80 | 3% | 97% |  |
+| 81 | 5% | 94% |  |
+| 82 | 8% | 89% |  |
+| 83 | 10% | 81% |  |
+| 84 | 12% | 71% |  |
+| 85 | 12% | 60% | Median |
+| 86 | 12% | 48% |  |
+| 87 | 10% | 36% |  |
+| 88 | 8% | 25% |  |
+| 89 | 6% | 17% |  |
+| 90 | 4% | 11% |  |
+| 91 | 3% | 6% |  |
+| 92 | 2% | 3% |  |
+| 93 | 0.9% | 2% |  |
+| 94 | 0.5% | 0.8% |  |
+| 95 | 0.2% | 0.3% |  |
+| 96 | 0.1% | 0.1% |  |
+| 97 | 0% | 0% |  |
 
 

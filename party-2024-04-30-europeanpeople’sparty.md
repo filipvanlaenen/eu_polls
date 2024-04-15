@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **182** seats (-5 seats)
+Current median: **183** seats (-4 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 182 | 177–187 | 175–188 | 174–190 | 172–192 |
+| European People’s Party | EU | 187 | 183 | 177–188 | 176–190 | 175–191 | 172–194 |
 | Partido Popular | ES | | 25 | 24–27 | 24–28 | 24–28 | 23–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 20–24 | 20–24 | 20–25 | 20–27 |
-| Platforma Obywatelska | PL | | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| Platforma Obywatelska | PL | | 18 | 17–21 | 16–21 | 16–21 | 15–22 |
 | Aliança Democrática | PT | | 8 | 8 | 8 | 8 | 8 |
 | Partidul Național Liberal | RO | | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
@@ -37,7 +37,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Polskie Stronnictwo Ludowe | PL | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Polskie Stronnictwo Ludowe | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Tisztelet és Szabadság | HU | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch Appèl | NL | | 2 | 2 | 2 | 2 | 1–3 |
@@ -83,33 +83,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 169 | 0.1% | 100% |  |
+| 169 | 0% | 100% |  |
 | 170 | 0.1% | 99.9% |  |
-| 171 | 0.3% | 99.8% |  |
-| 172 | 0.5% | 99.5% |  |
-| 173 | 0.9% | 99.0% |  |
-| 174 | 1.5% | 98% |  |
-| 175 | 2% | 97% |  |
-| 176 | 4% | 94% |  |
-| 177 | 5% | 91% |  |
-| 178 | 6% | 86% |  |
-| 179 | 8% | 79% |  |
-| 180 | 9% | 72% |  |
-| 181 | 10% | 63% |  |
-| 182 | 10% | 53% | Median |
-| 183 | 9% | 43% |  |
-| 184 | 8% | 34% |  |
-| 185 | 7% | 25% |  |
-| 186 | 6% | 18% |  |
-| 187 | 4% | 12% | Last Result |
-| 188 | 3% | 8% |  |
-| 189 | 2% | 5% |  |
-| 190 | 1.3% | 3% |  |
-| 191 | 0.8% | 2% |  |
-| 192 | 0.4% | 0.8% |  |
-| 193 | 0.2% | 0.4% |  |
-| 194 | 0.1% | 0.2% |  |
-| 195 | 0.1% | 0.1% |  |
-| 196 | 0% | 0% |  |
+| 171 | 0.2% | 99.9% |  |
+| 172 | 0.3% | 99.7% |  |
+| 173 | 0.6% | 99.4% |  |
+| 174 | 1.0% | 98.8% |  |
+| 175 | 2% | 98% |  |
+| 176 | 3% | 96% |  |
+| 177 | 4% | 94% |  |
+| 178 | 5% | 90% |  |
+| 179 | 6% | 85% |  |
+| 180 | 8% | 78% |  |
+| 181 | 9% | 71% |  |
+| 182 | 9% | 62% |  |
+| 183 | 9% | 53% | Median |
+| 184 | 9% | 43% |  |
+| 185 | 8% | 34% |  |
+| 186 | 7% | 26% |  |
+| 187 | 6% | 19% | Last Result |
+| 188 | 4% | 13% |  |
+| 189 | 3% | 9% |  |
+| 190 | 2% | 6% |  |
+| 191 | 1.4% | 3% |  |
+| 192 | 0.9% | 2% |  |
+| 193 | 0.5% | 1.1% |  |
+| 194 | 0.3% | 0.6% |  |
+| 195 | 0.2% | 0.3% |  |
+| 196 | 0.1% | 0.1% |  |
+| 197 | 0% | 0.1% |  |
+| 198 | 0% | 0% |  |
 
 
