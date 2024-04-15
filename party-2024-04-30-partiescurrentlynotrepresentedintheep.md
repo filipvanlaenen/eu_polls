@@ -39,7 +39,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Nemuno aušra [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,13 +58,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 13% | 99.1% |  |
-| 3 | 30% | 86% |  |
-| 4 | 31% | 56% | Median |
-| 5 | 18% | 26% |  |
-| 6 | 6% | 8% |  |
-| 7 | 1.5% | 2% |  |
+| 1 | 0.8% | 100% |  |
+| 2 | 13% | 99.2% |  |
+| 3 | 29% | 87% |  |
+| 4 | 31% | 57% | Median |
+| 5 | 18% | 27% |  |
+| 6 | 7% | 9% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 

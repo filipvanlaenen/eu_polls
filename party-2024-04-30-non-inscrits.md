@@ -19,7 +19,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 50 | 47–53 | 47–53 | 46–54 | 45–55 |
-| Movimento 5 Stelle | IT | | 13 | 12–16 | 12–16 | 11–16 | 10–17 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–16 | 10–17 |
 | Fidesz | HU | | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | SMER–sociálna demokracia | SK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -68,18 +68,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 100% |  |
 | 44 | 0.3% | 99.9% |  |
-| 45 | 1.1% | 99.6% |  |
-| 46 | 3% | 98.5% |  |
-| 47 | 8% | 95% |  |
+| 45 | 1.0% | 99.6% |  |
+| 46 | 3% | 98.6% |  |
+| 47 | 7% | 95% |  |
 | 48 | 13% | 88% |  |
 | 49 | 17% | 75% |  |
-| 50 | 18% | 57% | Median |
+| 50 | 19% | 58% | Median |
 | 51 | 16% | 39% |  |
-| 52 | 11% | 23% |  |
-| 53 | 7% | 12% |  |
+| 52 | 12% | 23% |  |
+| 53 | 7% | 11% |  |
 | 54 | 3% | 5% |  |
-| 55 | 1.2% | 2% |  |
-| 56 | 0.3% | 0.4% |  |
+| 55 | 1.1% | 1.5% |  |
+| 56 | 0.3% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
