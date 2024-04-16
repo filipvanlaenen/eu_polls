@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 76–88 | 75–89 | 74–91 | 72–93 |
+| Renew Europe | EU | 98 | 82 | 76–88 | 75–89 | 74–91 | 71–93 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 14–19 | 14–20 | 14–22 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -49,7 +49,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Momentum Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
+| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -76,32 +76,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0% | 100% |  |
+| 69 | 0.1% | 100% |  |
 | 70 | 0.1% | 99.9% |  |
 | 71 | 0.3% | 99.8% |  |
 | 72 | 0.6% | 99.5% |  |
-| 73 | 1.1% | 98.9% |  |
+| 73 | 1.2% | 98.9% |  |
 | 74 | 2% | 98% |  |
 | 75 | 3% | 96% |  |
 | 76 | 4% | 93% |  |
 | 77 | 5% | 89% |  |
 | 78 | 7% | 83% |  |
-| 79 | 8% | 77% |  |
+| 79 | 8% | 76% |  |
 | 80 | 8% | 69% |  |
-| 81 | 9% | 61% |  |
+| 81 | 9% | 60% |  |
 | 82 | 9% | 52% | Median |
 | 83 | 8% | 43% |  |
-| 84 | 8% | 35% |  |
-| 85 | 7% | 27% |  |
-| 86 | 6% | 20% |  |
-| 87 | 4% | 15% |  |
-| 88 | 3% | 10% |  |
+| 84 | 7% | 35% |  |
+| 85 | 7% | 28% |  |
+| 86 | 6% | 21% |  |
+| 87 | 5% | 16% |  |
+| 88 | 4% | 11% |  |
 | 89 | 3% | 7% |  |
-| 90 | 2% | 4% |  |
-| 91 | 1.1% | 3% |  |
-| 92 | 0.7% | 2% |  |
-| 93 | 0.4% | 0.8% |  |
-| 94 | 0.2% | 0.4% |  |
+| 90 | 2% | 5% |  |
+| 91 | 1.2% | 3% |  |
+| 92 | 0.8% | 2% |  |
+| 93 | 0.4% | 0.9% |  |
+| 94 | 0.2% | 0.5% |  |
 | 95 | 0.1% | 0.2% |  |
 | 96 | 0.1% | 0.1% |  |
 | 97 | 0% | 0% |  |

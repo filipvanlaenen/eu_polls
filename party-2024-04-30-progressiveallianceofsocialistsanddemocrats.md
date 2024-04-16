@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 130–140 | 129–141 | 128–142 | 126–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 130–140 | 129–141 | 128–142 | 126–145 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–19 | 16–20 | 15–20 | 15–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 17 | 15–17 | 14–17 | 14–17 | 12–18 |
@@ -31,7 +31,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -77,8 +77,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 9% | 76% |  |
 | 134 | 10% | 67% |  |
 | 135 | 11% | 57% | Median |
-| 136 | 11% | 46% |  |
-| 137 | 10% | 35% |  |
+| 136 | 10% | 46% |  |
+| 137 | 9% | 35% |  |
 | 138 | 8% | 26% |  |
 | 139 | 6% | 18% |  |
 | 140 | 5% | 12% |  |
