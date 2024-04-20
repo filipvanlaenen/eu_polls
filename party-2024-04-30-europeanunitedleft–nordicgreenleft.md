@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 39 | 36–43 | 35–43 | 35–44 | 32–45 |
+| European United Left–Nordic Green Left | EU | 39 | 39 | 36–42 | 36–43 | 35–44 | 32–45 |
 | La France insoumise | FR | | 7 | 6–8 | 5–9 | 5–9 | 0–9 |
 | Sinn Féin | IE | | 6 | 6 | 6 | 5–6 | 4–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -64,20 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0.1% | 99.9% |  |
 | 31 | 0.1% | 99.8% |  |
 | 32 | 0.2% | 99.7% |  |
-| 33 | 0.5% | 99.4% |  |
-| 34 | 1.4% | 99.0% |  |
+| 33 | 0.4% | 99.5% |  |
+| 34 | 1.1% | 99.0% |  |
 | 35 | 3% | 98% |  |
-| 36 | 7% | 94% |  |
-| 37 | 10% | 88% |  |
-| 38 | 13% | 77% |  |
-| 39 | 15% | 64% | Last Result, Median |
-| 40 | 15% | 49% |  |
-| 41 | 13% | 34% |  |
-| 42 | 10% | 21% |  |
-| 43 | 6% | 11% |  |
-| 44 | 3% | 5% |  |
-| 45 | 1.2% | 2% |  |
-| 46 | 0.4% | 0.5% |  |
+| 36 | 6% | 95% |  |
+| 37 | 10% | 89% |  |
+| 38 | 14% | 79% |  |
+| 39 | 16% | 65% | Last Result, Median |
+| 40 | 16% | 49% |  |
+| 41 | 13% | 33% |  |
+| 42 | 10% | 19% |  |
+| 43 | 6% | 10% |  |
+| 44 | 3% | 4% |  |
+| 45 | 1.0% | 1.4% |  |
+| 46 | 0.3% | 0.4% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 

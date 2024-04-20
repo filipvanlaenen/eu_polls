@@ -18,16 +18,16 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 76–88 | 75–89 | 74–91 | 71–93 |
+| Renew Europe | EU | 98 | 82 | 76–88 | 75–89 | 74–91 | 72–93 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 14–19 | 14–20 | 14–22 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 4–6 | 4–6 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | Polska 2050 | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
 | Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Freie Wähler | DE | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -76,15 +76,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
+| 69 | 0% | 100% |  |
 | 70 | 0.1% | 99.9% |  |
 | 71 | 0.3% | 99.8% |  |
 | 72 | 0.6% | 99.5% |  |
-| 73 | 1.2% | 98.9% |  |
+| 73 | 1.1% | 98.9% |  |
 | 74 | 2% | 98% |  |
 | 75 | 3% | 96% |  |
 | 76 | 4% | 93% |  |
-| 77 | 5% | 89% |  |
+| 77 | 6% | 89% |  |
 | 78 | 7% | 83% |  |
 | 79 | 8% | 76% |  |
 | 80 | 8% | 69% |  |
@@ -92,16 +92,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 9% | 52% | Median |
 | 83 | 8% | 43% |  |
 | 84 | 7% | 35% |  |
-| 85 | 7% | 28% |  |
+| 85 | 7% | 27% |  |
 | 86 | 6% | 21% |  |
-| 87 | 5% | 16% |  |
+| 87 | 5% | 15% |  |
 | 88 | 4% | 11% |  |
 | 89 | 3% | 7% |  |
 | 90 | 2% | 5% |  |
 | 91 | 1.2% | 3% |  |
-| 92 | 0.8% | 2% |  |
-| 93 | 0.4% | 0.9% |  |
-| 94 | 0.2% | 0.5% |  |
+| 92 | 0.7% | 2% |  |
+| 93 | 0.4% | 0.8% |  |
+| 94 | 0.2% | 0.4% |  |
 | 95 | 0.1% | 0.2% |  |
 | 96 | 0.1% | 0.1% |  |
 | 97 | 0% | 0% |  |
