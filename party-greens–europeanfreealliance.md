@@ -8,24 +8,23 @@ Members registered from **22 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (-15 seats)
+Current median: **51** seats (-16 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, IT, LT, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 48–56 | 46–57 | 45–58 | 44–60 |
+| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 45–56 | 44–57 | 41–59 |
 | Bündnis 90/Die Grünen | DE | | 14 | 11–15 | 10–15 | 10–15 | 10–16 |
-| Europe Écologie Les Verts | FR | | 7 | 4–8 | 4–9 | 4–9 | 4–10 |
+| Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 0–8 | 0–9 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Magyar Kétfarkú Kutya Párt | HU | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -42,6 +41,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
+| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -67,27 +67,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.8% |  |
-| 44 | 0.7% | 99.5% |  |
-| 45 | 2% | 98.8% |  |
-| 46 | 3% | 97% |  |
-| 47 | 4% | 95% |  |
-| 48 | 6% | 90% |  |
-| 49 | 8% | 84% |  |
-| 50 | 10% | 75% |  |
-| 51 | 11% | 65% |  |
-| 52 | 12% | 54% | Median |
-| 53 | 11% | 42% |  |
-| 54 | 10% | 31% |  |
-| 55 | 8% | 21% |  |
-| 56 | 6% | 13% |  |
-| 57 | 4% | 7% |  |
-| 58 | 2% | 4% |  |
-| 59 | 1.0% | 2% |  |
-| 60 | 0.4% | 0.6% |  |
-| 61 | 0.1% | 0.2% |  |
-| 62 | 0% | 0.1% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.3% | 99.7% |  |
+| 42 | 0.5% | 99.4% |  |
+| 43 | 0.9% | 99.0% |  |
+| 44 | 2% | 98% |  |
+| 45 | 3% | 96% |  |
+| 46 | 5% | 93% |  |
+| 47 | 7% | 89% |  |
+| 48 | 9% | 82% |  |
+| 49 | 10% | 74% |  |
+| 50 | 11% | 63% |  |
+| 51 | 12% | 52% | Median |
+| 52 | 11% | 40% |  |
+| 53 | 10% | 29% |  |
+| 54 | 7% | 19% |  |
+| 55 | 5% | 12% |  |
+| 56 | 3% | 6% |  |
+| 57 | 2% | 3% |  |
+| 58 | 0.9% | 1.4% |  |
+| 59 | 0.4% | 0.5% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0% | 0% |  |
+| 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
