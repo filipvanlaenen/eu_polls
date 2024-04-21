@@ -22,7 +22,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | La France insoumise | FR | | 7 | 5–8 | 0–8 | 0–9 | 0–10 |
 | Sinn Féin | IE | | 6 | 6 | 6 | 5–6 | 4–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
-| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Movimiento Sumar–Podemos–Izquierda Unida | ES | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,19 +59,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0% | 100% |  |
+| 27 | 0.1% | 100% |  |
 | 28 | 0.2% | 99.9% |  |
-| 29 | 0.5% | 99.8% |  |
-| 30 | 0.8% | 99.3% |  |
+| 29 | 0.5% | 99.7% |  |
+| 30 | 0.9% | 99.2% |  |
 | 31 | 1.1% | 98% |  |
 | 32 | 1.3% | 97% |  |
-| 33 | 1.4% | 96% |  |
-| 34 | 2% | 95% |  |
+| 33 | 2% | 96% |  |
+| 34 | 2% | 94% |  |
 | 35 | 4% | 92% |  |
 | 36 | 8% | 88% |  |
-| 37 | 12% | 81% |  |
-| 38 | 15% | 69% |  |
-| 39 | 16% | 54% | Last Result, Median |
+| 37 | 12% | 80% |  |
+| 38 | 15% | 68% |  |
+| 39 | 16% | 53% | Last Result, Median |
 | 40 | 14% | 38% |  |
 | 41 | 11% | 24% |  |
 | 42 | 7% | 13% |  |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 2% | 2% |  |
 | 45 | 0.6% | 0.8% |  |
 | 46 | 0.2% | 0.2% |  |
-| 47 | 0.1% | 0.1% |  |
+| 47 | 0% | 0.1% |  |
 | 48 | 0% | 0% |  |
 
 

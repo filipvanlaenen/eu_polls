@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **135** seats (-12 seats)
+Current median: **136** seats (-11 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 135 | 131–141 | 129–142 | 128–143 | 126–146 |
-| Partido Socialista Obrero Español | ES | | 18 | 16–19 | 16–20 | 15–20 | 15–20 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 136 | 131–140 | 129–142 | 128–143 | 126–146 |
+| Partido Socialista Obrero Español | ES | | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–21 | 14–21 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 13–17 | 13–17 | 13–17 | 12–18 |
 | Parti socialiste | FR | | 11 | 10–14 | 10–15 | 9–15 | 9–15 |
@@ -64,21 +64,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 123 | 0% | 100% |  |
-| 124 | 0.1% | 99.9% |  |
-| 125 | 0.2% | 99.8% |  |
-| 126 | 0.5% | 99.6% |  |
-| 127 | 0.9% | 99.1% |  |
-| 128 | 2% | 98% |  |
-| 129 | 3% | 97% |  |
-| 130 | 4% | 94% |  |
-| 131 | 5% | 90% |  |
-| 132 | 7% | 85% |  |
-| 133 | 8% | 78% |  |
-| 134 | 10% | 69% |  |
-| 135 | 10% | 60% | Median |
-| 136 | 10% | 49% |  |
-| 137 | 9% | 39% |  |
+| 124 | 0.1% | 100% |  |
+| 125 | 0.2% | 99.9% |  |
+| 126 | 0.4% | 99.7% |  |
+| 127 | 0.8% | 99.3% |  |
+| 128 | 1.4% | 98.6% |  |
+| 129 | 2% | 97% |  |
+| 130 | 4% | 95% |  |
+| 131 | 5% | 91% |  |
+| 132 | 7% | 86% |  |
+| 133 | 9% | 79% |  |
+| 134 | 10% | 71% |  |
+| 135 | 10% | 61% |  |
+| 136 | 10% | 50% | Median |
+| 137 | 10% | 40% |  |
 | 138 | 8% | 30% |  |
 | 139 | 7% | 22% |  |
 | 140 | 5% | 15% |  |
@@ -86,11 +85,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 3% | 6% |  |
 | 143 | 2% | 4% |  |
 | 144 | 1.0% | 2% |  |
-| 145 | 0.6% | 1.2% |  |
-| 146 | 0.3% | 0.6% |  |
-| 147 | 0.2% | 0.3% | Last Result |
+| 145 | 0.5% | 1.1% |  |
+| 146 | 0.3% | 0.5% |  |
+| 147 | 0.1% | 0.2% | Last Result |
 | 148 | 0.1% | 0.1% |  |
-| 149 | 0% | 0.1% |  |
-| 150 | 0% | 0% |  |
+| 149 | 0% | 0% |  |
 
 
