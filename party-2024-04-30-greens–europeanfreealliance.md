@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -70,23 +70,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 99.9% |  |
 | 41 | 0.2% | 99.8% |  |
-| 42 | 0.4% | 99.7% |  |
+| 42 | 0.4% | 99.6% |  |
 | 43 | 0.8% | 99.3% |  |
-| 44 | 2% | 98.5% |  |
+| 44 | 2% | 98% |  |
 | 45 | 3% | 97% |  |
 | 46 | 5% | 94% |  |
-| 47 | 6% | 90% |  |
-| 48 | 8% | 83% |  |
-| 49 | 10% | 75% |  |
+| 47 | 7% | 89% |  |
+| 48 | 9% | 83% |  |
+| 49 | 10% | 74% |  |
 | 50 | 12% | 64% |  |
-| 51 | 12% | 53% | Median |
-| 52 | 11% | 41% |  |
-| 53 | 10% | 30% |  |
-| 54 | 8% | 20% |  |
+| 51 | 12% | 52% | Median |
+| 52 | 11% | 40% |  |
+| 53 | 10% | 29% |  |
+| 54 | 8% | 19% |  |
 | 55 | 5% | 12% |  |
 | 56 | 3% | 7% |  |
 | 57 | 2% | 3% |  |
-| 58 | 0.9% | 2% |  |
+| 58 | 0.9% | 1.5% |  |
 | 59 | 0.4% | 0.6% |  |
 | 60 | 0.1% | 0.2% |  |
 | 61 | 0% | 0.1% |  |

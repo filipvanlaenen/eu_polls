@@ -18,11 +18,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 84 | 79–90 | 77–92 | 76–93 | 73–95 |
+| Renew Europe | EU | 98 | 84 | 78–90 | 76–91 | 75–92 | 73–95 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 14–19 | 14–19 | 14–20 | 13–21 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Uniunea Salvați România | RO | | 5 | 3–7 | 3–7 | 3–7 | 3–7 |
+| Uniunea Salvați România | RO | | 5 | 3–7 | 3–7 | 3–7 | 2–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 4–6 | 4–6 |
 | Polska 2050 | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
@@ -57,12 +57,12 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Italia Viva | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
-| Più Europa | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -77,33 +77,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.1% | 100% |  |
-| 72 | 0.1% | 99.9% |  |
-| 73 | 0.3% | 99.7% |  |
-| 74 | 0.6% | 99.4% |  |
-| 75 | 1.0% | 98.9% |  |
-| 76 | 2% | 98% |  |
-| 77 | 2% | 96% |  |
-| 78 | 3% | 94% |  |
-| 79 | 4% | 91% |  |
-| 80 | 5% | 87% |  |
-| 81 | 7% | 81% |  |
-| 82 | 8% | 75% |  |
-| 83 | 8% | 67% |  |
-| 84 | 9% | 59% | Median |
-| 85 | 9% | 50% |  |
-| 86 | 9% | 41% |  |
-| 87 | 8% | 32% |  |
-| 88 | 7% | 24% |  |
-| 89 | 5% | 18% |  |
-| 90 | 4% | 12% |  |
-| 91 | 3% | 8% |  |
-| 92 | 2% | 5% |  |
-| 93 | 1.3% | 3% |  |
-| 94 | 0.8% | 2% |  |
-| 95 | 0.4% | 0.9% |  |
-| 96 | 0.2% | 0.4% |  |
-| 97 | 0.1% | 0.2% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0.1% | 99.9% |  |
+| 72 | 0.2% | 99.8% |  |
+| 73 | 0.5% | 99.6% |  |
+| 74 | 0.8% | 99.1% |  |
+| 75 | 1.4% | 98% |  |
+| 76 | 2% | 97% |  |
+| 77 | 3% | 95% |  |
+| 78 | 4% | 92% |  |
+| 79 | 5% | 88% |  |
+| 80 | 6% | 83% |  |
+| 81 | 7% | 77% |  |
+| 82 | 8% | 70% |  |
+| 83 | 9% | 62% |  |
+| 84 | 9% | 53% | Median |
+| 85 | 8% | 44% |  |
+| 86 | 8% | 36% |  |
+| 87 | 7% | 28% |  |
+| 88 | 6% | 21% |  |
+| 89 | 5% | 15% |  |
+| 90 | 4% | 10% |  |
+| 91 | 3% | 7% |  |
+| 92 | 2% | 4% |  |
+| 93 | 1.1% | 2% |  |
+| 94 | 0.6% | 1.3% |  |
+| 95 | 0.4% | 0.7% |  |
+| 96 | 0.2% | 0.3% |  |
+| 97 | 0.1% | 0.1% |  |
 | 98 | 0% | 0.1% | Last Result |
 | 99 | 0% | 0% |  |
 
