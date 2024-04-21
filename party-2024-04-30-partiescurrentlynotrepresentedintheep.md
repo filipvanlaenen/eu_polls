@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BE, BG, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
+> BE, BG, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–7 | 2–8 | 1–9 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–6 | 2–7 | 1–9 |
 | Independents [IE] (*) | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -26,7 +26,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Blocul Suveranist Român [RO] (*) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -34,7 +33,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italexit–Per l’Italia con Paragone [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Libertà [IT] (*) | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Libertà [IT] (*) | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nemuno aušra [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,15 +59,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.8% | 100% |  |
-| 2 | 12% | 99.2% |  |
+| 2 | 13% | 99.2% |  |
 | 3 | 29% | 87% |  |
-| 4 | 30% | 58% | Median |
-| 5 | 17% | 29% |  |
-| 6 | 6% | 12% |  |
-| 7 | 3% | 6% |  |
-| 8 | 2% | 3% |  |
-| 9 | 0.9% | 1.3% |  |
-| 10 | 0.3% | 0.4% |  |
+| 4 | 30% | 57% | Median |
+| 5 | 17% | 27% |  |
+| 6 | 6% | 10% |  |
+| 7 | 2% | 4% |  |
+| 8 | 1.2% | 2% |  |
+| 9 | 0.7% | 1.0% |  |
+| 10 | 0.2% | 0.3% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

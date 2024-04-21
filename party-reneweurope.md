@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (-15 seats)
+Current median: **84** seats (-14 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 78–89 | 76–90 | 75–91 | 73–94 |
-| La République en marche–Mouvement démocrate | FR | | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
+| Renew Europe | EU | 98 | 84 | 79–90 | 77–92 | 76–93 | 73–95 |
+| La République en marche–Mouvement démocrate | FR | | 17 | 14–19 | 14–19 | 14–20 | 13–21 |
 | ANO 2011 | CZ | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Uniunea Salvați România | RO | | 5 | 3–7 | 3–7 | 3–7 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 4–6 | 4–6 |
 | Polska 2050 | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
-| Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| Uniunea Salvați România | RO | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
+| Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -41,7 +41,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Coalición por Europa | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Coalición por Europa | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
@@ -77,34 +77,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 70 | 0% | 100% |  |
-| 71 | 0.1% | 99.9% |  |
-| 72 | 0.3% | 99.8% |  |
-| 73 | 0.5% | 99.5% |  |
-| 74 | 1.0% | 99.0% |  |
-| 75 | 2% | 98% |  |
-| 76 | 2% | 96% |  |
-| 77 | 3% | 94% |  |
-| 78 | 5% | 91% |  |
-| 79 | 6% | 86% |  |
-| 80 | 7% | 80% |  |
-| 81 | 8% | 73% |  |
-| 82 | 9% | 65% |  |
-| 83 | 9% | 56% | Median |
-| 84 | 9% | 47% |  |
-| 85 | 9% | 38% |  |
-| 86 | 8% | 29% |  |
-| 87 | 6% | 21% |  |
-| 88 | 5% | 15% |  |
-| 89 | 4% | 10% |  |
-| 90 | 3% | 6% |  |
-| 91 | 2% | 4% |  |
-| 92 | 1.0% | 2% |  |
-| 93 | 0.6% | 1.1% |  |
-| 94 | 0.3% | 0.5% |  |
-| 95 | 0.1% | 0.2% |  |
-| 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0% |  |
-| 98 | 0% | 0% | Last Result |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0.3% | 99.7% |  |
+| 74 | 0.6% | 99.4% |  |
+| 75 | 1.0% | 98.9% |  |
+| 76 | 2% | 98% |  |
+| 77 | 2% | 96% |  |
+| 78 | 3% | 94% |  |
+| 79 | 4% | 91% |  |
+| 80 | 5% | 87% |  |
+| 81 | 7% | 81% |  |
+| 82 | 8% | 75% |  |
+| 83 | 8% | 67% |  |
+| 84 | 9% | 59% | Median |
+| 85 | 9% | 50% |  |
+| 86 | 9% | 41% |  |
+| 87 | 8% | 32% |  |
+| 88 | 7% | 24% |  |
+| 89 | 5% | 18% |  |
+| 90 | 4% | 12% |  |
+| 91 | 3% | 8% |  |
+| 92 | 2% | 5% |  |
+| 93 | 1.3% | 3% |  |
+| 94 | 0.8% | 2% |  |
+| 95 | 0.4% | 0.9% |  |
+| 96 | 0.2% | 0.4% |  |
+| 97 | 0.1% | 0.2% |  |
+| 98 | 0% | 0.1% | Last Result |
+| 99 | 0% | 0% |  |
 
 
