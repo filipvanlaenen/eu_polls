@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **22 countries**:
+Members registered from **23 countries**:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–55 | 45–56 | 44–57 | 42–59 |
+| Greens–European Free Alliance | EU | 67 | 51 | 47–55 | 45–56 | 44–57 | 42–59 |
 | Bündnis 90/Die Grünen | DE | | 14 | 11–15 | 10–15 | 10–16 | 10–16 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 4–8 | 0–9 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -44,10 +44,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
+| LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -58,6 +58,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
+| Κόσμος | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -69,27 +70,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 99.9% |  |
-| 41 | 0.2% | 99.8% |  |
-| 42 | 0.4% | 99.6% |  |
-| 43 | 0.8% | 99.3% |  |
-| 44 | 2% | 98% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.3% | 99.7% |  |
+| 43 | 0.7% | 99.4% |  |
+| 44 | 1.4% | 98.7% |  |
 | 45 | 3% | 97% |  |
-| 46 | 5% | 94% |  |
-| 47 | 7% | 89% |  |
-| 48 | 9% | 83% |  |
-| 49 | 10% | 74% |  |
-| 50 | 12% | 64% |  |
-| 51 | 12% | 52% | Median |
-| 52 | 11% | 40% |  |
-| 53 | 10% | 29% |  |
-| 54 | 8% | 19% |  |
-| 55 | 5% | 12% |  |
-| 56 | 3% | 7% |  |
-| 57 | 2% | 3% |  |
-| 58 | 0.9% | 1.5% |  |
-| 59 | 0.4% | 0.6% |  |
-| 60 | 0.1% | 0.2% |  |
-| 61 | 0% | 0.1% |  |
+| 46 | 4% | 95% |  |
+| 47 | 6% | 91% |  |
+| 48 | 8% | 85% |  |
+| 49 | 10% | 77% |  |
+| 50 | 11% | 67% |  |
+| 51 | 12% | 55% | Median |
+| 52 | 11% | 44% |  |
+| 53 | 10% | 32% |  |
+| 54 | 8% | 22% |  |
+| 55 | 6% | 14% |  |
+| 56 | 4% | 8% |  |
+| 57 | 2% | 4% |  |
+| 58 | 1.2% | 2% |  |
+| 59 | 0.6% | 0.9% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |

@@ -8,24 +8,25 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **50** seats (+21 seats)
+Current median: **54** seats (+25 seats)
 
-At least one member in **10 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, GR, HU, IT, LT, LV, PL, SK
+> BG, DE, DK, ES, GR, HU, IT, LT, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 50 | 47–53 | 47–53 | 46–54 | 45–55 |
+| Non-Inscrits | EU | 29 | 54 | 51–56 | 50–57 | 49–58 | 48–59 |
 | Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–16 | 11–18 |
 | Fidesz | HU | | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | SMER–sociálna demokracia | SK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Nowa Nadzieja | PL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -34,6 +35,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | REPUBLIKA | SK | | 1 | 1 | 1 | 1 | 0–1 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -67,20 +69,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.2% | 100% |  |
-| 45 | 0.9% | 99.7% |  |
-| 46 | 3% | 98.9% |  |
-| 47 | 6% | 96% |  |
-| 48 | 12% | 90% |  |
-| 49 | 18% | 78% |  |
-| 50 | 20% | 60% | Median |
-| 51 | 17% | 40% |  |
-| 52 | 12% | 23% |  |
-| 53 | 7% | 11% |  |
-| 54 | 3% | 4% |  |
-| 55 | 0.9% | 1.2% |  |
-| 56 | 0.2% | 0.3% |  |
-| 57 | 0% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0% | 100% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.6% | 99.8% |  |
+| 49 | 2% | 99.3% |  |
+| 50 | 5% | 97% |  |
+| 51 | 9% | 93% |  |
+| 52 | 15% | 84% |  |
+| 53 | 19% | 69% |  |
+| 54 | 19% | 50% | Median |
+| 55 | 15% | 32% |  |
+| 56 | 9% | 17% |  |
+| 57 | 5% | 7% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.6% | 0.8% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0% | 0% |  |
 
 

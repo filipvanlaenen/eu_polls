@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+4 seats)
+Current median: **3** seats (+3 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–6 | 2–7 | 1–9 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–6 | 1–7 | 1–9 |
 | Independents [IE] (*) | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -41,12 +40,13 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
@@ -58,17 +58,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.8% | 100% |  |
-| 2 | 13% | 99.2% |  |
-| 3 | 29% | 87% |  |
-| 4 | 30% | 57% | Median |
-| 5 | 17% | 27% |  |
-| 6 | 6% | 10% |  |
+| 1 | 3% | 100% |  |
+| 2 | 17% | 97% |  |
+| 3 | 31% | 80% | Median |
+| 4 | 28% | 49% |  |
+| 5 | 13% | 21% |  |
+| 6 | 4% | 8% |  |
 | 7 | 2% | 4% |  |
-| 8 | 1.2% | 2% |  |
-| 9 | 0.7% | 1.0% |  |
-| 10 | 0.2% | 0.3% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 8 | 1.1% | 2% |  |
+| 9 | 0.5% | 0.7% |  |
+| 10 | 0.2% | 0.2% |  |
+| 11 | 0% | 0% |  |
 
 
