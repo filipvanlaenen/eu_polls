@@ -2,23 +2,24 @@
 
 Members registered from **16 countries**:
 
-> BE, BG, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
+> AT, BE, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+3 seats)
+Current median: **4** seats (+4 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> GR, IE
+> AT, GR, IE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 2–6 | 1–7 | 1–9 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–7 | 2–8 | 1–10 |
+| Bierpartei [AT] (*) | AT | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -47,7 +48,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
-| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -58,16 +58,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 17% | 97% |  |
-| 3 | 31% | 80% | Median |
-| 4 | 28% | 49% |  |
-| 5 | 13% | 21% |  |
-| 6 | 4% | 8% |  |
-| 7 | 2% | 4% |  |
-| 8 | 1.1% | 2% |  |
-| 9 | 0.5% | 0.7% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 8% | 98.9% |  |
+| 3 | 22% | 91% |  |
+| 4 | 30% | 69% | Median |
+| 5 | 23% | 40% |  |
+| 6 | 11% | 17% |  |
+| 7 | 4% | 7% |  |
+| 8 | 2% | 3% |  |
+| 9 | 0.9% | 1.5% |  |
+| 10 | 0.4% | 0.6% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 
