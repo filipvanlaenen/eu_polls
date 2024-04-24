@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+20 seats)
+Current median: **47** seats (+18 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,25 +18,24 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 46–53 | 45–54 | 45–54 | 43–56 |
-| Movimento 5 Stelle | IT | | 14 | 13–16 | 12–16 | 12–16 | 11–18 |
+| Non-Inscrits | EU | 29 | 47 | 44–51 | 43–51 | 43–52 | 41–54 |
+| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–18 |
 | Fidesz | HU | | 9 | 7–11 | 7–11 | 6–11 | 6–11 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
-| SMER–sociálna demokracia | SK | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Nowa Nadzieja | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| REPUBLIKA | SK | | 1 | 1 | 1 | 1 | 0–1 |
+| REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 0–1 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
-| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,24 +63,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
-| 40 | 0% | 100% |  |
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 100% |  |
-| 43 | 0.5% | 99.8% |  |
-| 44 | 2% | 99.3% |  |
-| 45 | 4% | 98% |  |
-| 46 | 7% | 94% |  |
-| 47 | 10% | 88% |  |
-| 48 | 13% | 77% |  |
-| 49 | 15% | 64% | Median |
-| 50 | 15% | 49% |  |
-| 51 | 13% | 34% |  |
-| 52 | 10% | 21% |  |
-| 53 | 6% | 12% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.4% | 2% |  |
-| 56 | 0.5% | 0.7% |  |
-| 57 | 0.1% | 0.2% |  |
-| 58 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.5% | 99.8% |  |
+| 42 | 2% | 99.3% |  |
+| 43 | 4% | 98% |  |
+| 44 | 7% | 94% |  |
+| 45 | 11% | 87% |  |
+| 46 | 14% | 76% |  |
+| 47 | 15% | 62% | Median |
+| 48 | 15% | 47% |  |
+| 49 | 13% | 32% |  |
+| 50 | 9% | 19% |  |
+| 51 | 6% | 10% |  |
+| 52 | 3% | 5% |  |
+| 53 | 1.3% | 2% |  |
+| 54 | 0.5% | 0.7% |  |
+| 55 | 0.2% | 0.2% |  |
+| 56 | 0% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 

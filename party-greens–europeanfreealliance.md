@@ -2,7 +2,7 @@
 
 Members registered from **23 countries**:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE
 
 ## Seats
 
@@ -10,15 +10,15 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **50** seats (-17 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, IT, LT, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 50 | 45–54 | 44–55 | 43–56 | 41–58 |
+| Greens–European Free Alliance | EU | 67 | 50 | 46–54 | 44–55 | 43–56 | 41–58 |
 | Bündnis 90/Die Grünen | DE | | 14 | 11–15 | 10–15 | 10–16 | 10–16 |
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 4–8 | 0–9 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -29,6 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
+| Europa Verde | IT | | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
@@ -42,18 +43,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alianța AER pentru România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
+| Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
+| Green Party | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -71,24 +70,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0% | 100% |  |
 | 39 | 0.1% | 99.9% |  |
 | 40 | 0.2% | 99.8% |  |
-| 41 | 0.4% | 99.6% |  |
-| 42 | 0.8% | 99.2% |  |
-| 43 | 2% | 98% |  |
+| 41 | 0.4% | 99.7% |  |
+| 42 | 0.8% | 99.3% |  |
+| 43 | 1.5% | 98.5% |  |
 | 44 | 3% | 97% |  |
-| 45 | 5% | 94% |  |
-| 46 | 7% | 89% |  |
-| 47 | 8% | 83% |  |
-| 48 | 10% | 74% |  |
-| 49 | 11% | 64% |  |
-| 50 | 12% | 53% | Median |
-| 51 | 11% | 41% |  |
-| 52 | 10% | 30% |  |
-| 53 | 8% | 20% |  |
-| 54 | 5% | 13% |  |
-| 55 | 3% | 7% |  |
+| 45 | 4% | 94% |  |
+| 46 | 6% | 90% |  |
+| 47 | 8% | 84% |  |
+| 48 | 10% | 76% |  |
+| 49 | 11% | 66% |  |
+| 50 | 12% | 55% | Median |
+| 51 | 11% | 43% |  |
+| 52 | 10% | 32% |  |
+| 53 | 8% | 22% |  |
+| 54 | 6% | 13% |  |
+| 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
-| 57 | 1.0% | 2% |  |
-| 58 | 0.4% | 0.7% |  |
+| 57 | 1.1% | 2% |  |
+| 58 | 0.5% | 0.7% |  |
 | 59 | 0.2% | 0.2% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
