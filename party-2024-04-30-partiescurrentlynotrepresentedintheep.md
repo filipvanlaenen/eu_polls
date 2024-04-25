@@ -2,7 +2,7 @@
 
 Members registered from **15 countries**:
 
-> AT, BE, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL
+> AT, BE, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, PL, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–7 | 2–8 | 2–9 | 1–10 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–7 | 2–7 | 2–8 | 1–10 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -28,21 +28,22 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Libertà [IT] (*) | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Libertà [IT] (*) | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
-| Nemuno aušra [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -58,17 +59,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 1.2% | 100% |  |
-| 2 | 10% | 98.8% |  |
-| 3 | 26% | 89% |  |
-| 4 | 28% | 63% | Median |
-| 5 | 15% | 35% |  |
-| 6 | 7% | 20% |  |
-| 7 | 6% | 13% |  |
-| 8 | 4% | 7% |  |
-| 9 | 2% | 3% |  |
-| 10 | 0.6% | 1.1% |  |
-| 11 | 0.3% | 0.5% |  |
-| 12 | 0.1% | 0.2% |  |
+| 2 | 11% | 98.8% |  |
+| 3 | 28% | 88% |  |
+| 4 | 29% | 60% | Median |
+| 5 | 14% | 31% |  |
+| 6 | 6% | 17% |  |
+| 7 | 5% | 10% |  |
+| 8 | 3% | 5% |  |
+| 9 | 1.1% | 2% |  |
+| 10 | 0.4% | 0.7% |  |
+| 11 | 0.2% | 0.3% |  |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 
