@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **61** seats (General Election of 26 May 2019)
 
-Current median: **82** seats (+21 seats)
+Current median: **83** seats (+22 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 82 | 76–87 | 74–89 | 73–90 | 70–93 |
-| Fratelli d’Italia | IT | | 23 | 20–25 | 20–26 | 19–26 | 18–27 |
-| Zjednoczona Prawica | PL | | 18 | 15–21 | 15–21 | 15–21 | 15–21 |
+| European Conservatives and Reformists | EU | 61 | 83 | 77–88 | 75–89 | 74–90 | 71–93 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 20–26 | 19–26 | 18–27 |
+| Zjednoczona Prawica | PL | | 19 | 15–21 | 15–21 | 15–21 | 15–21 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 5–10 | 5–11 | 5–11 | 4–11 |
 | Vox | ES | | 7 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Reconquête | FR | | 6 | 0–8 | 0–9 | 0–10 | 0–10 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -55,35 +55,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
-| 67 | 0.1% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.2% | 99.8% |  |
-| 70 | 0.4% | 99.6% |  |
-| 71 | 0.7% | 99.2% |  |
-| 72 | 1.0% | 98.5% |  |
-| 73 | 2% | 98% |  |
-| 74 | 2% | 96% |  |
-| 75 | 3% | 94% |  |
-| 76 | 4% | 91% |  |
-| 77 | 5% | 87% |  |
-| 78 | 6% | 83% |  |
-| 79 | 7% | 77% |  |
-| 80 | 8% | 70% |  |
-| 81 | 9% | 62% |  |
-| 82 | 9% | 54% | Median |
-| 83 | 9% | 45% |  |
-| 84 | 8% | 36% |  |
-| 85 | 7% | 28% |  |
-| 86 | 6% | 20% |  |
-| 87 | 5% | 14% |  |
-| 88 | 4% | 10% |  |
-| 89 | 2% | 6% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.2% | 99.8% |  |
+| 71 | 0.4% | 99.6% |  |
+| 72 | 0.6% | 99.2% |  |
+| 73 | 1.0% | 98.6% |  |
+| 74 | 1.5% | 98% |  |
+| 75 | 2% | 96% |  |
+| 76 | 3% | 94% |  |
+| 77 | 4% | 91% |  |
+| 78 | 5% | 87% |  |
+| 79 | 6% | 82% |  |
+| 80 | 8% | 76% |  |
+| 81 | 9% | 68% |  |
+| 82 | 9% | 59% |  |
+| 83 | 9% | 50% | Median |
+| 84 | 9% | 41% |  |
+| 85 | 8% | 32% |  |
+| 86 | 7% | 23% |  |
+| 87 | 5% | 17% |  |
+| 88 | 4% | 11% |  |
+| 89 | 3% | 7% |  |
 | 90 | 2% | 4% |  |
-| 91 | 1.0% | 2% |  |
-| 92 | 0.5% | 1.1% |  |
-| 93 | 0.3% | 0.5% |  |
-| 94 | 0.1% | 0.3% |  |
+| 91 | 1.1% | 2% |  |
+| 92 | 0.6% | 1.3% |  |
+| 93 | 0.3% | 0.6% |  |
+| 94 | 0.2% | 0.3% |  |
 | 95 | 0.1% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 96 | 0% | 0.1% |  |
+| 97 | 0% | 0% |  |
 
 

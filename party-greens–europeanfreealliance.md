@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 49 | 45–54 | 44–55 | 43–56 | 41–57 |
+| Greens–European Free Alliance | EU | 67 | 49 | 45–53 | 43–54 | 42–55 | 40–57 |
 | Bündnis 90/Die Grünen | DE | | 14 | 11–15 | 10–15 | 10–16 | 10–16 |
-| Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 4–8 | 0–9 |
+| Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 0–8 | 0–9 |
 | GroenLinks | NL | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -29,8 +29,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Groen | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Ecolo | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1 |
@@ -47,7 +47,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -69,28 +69,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.1% | 100% |  |
-| 39 | 0.1% | 99.9% |  |
-| 40 | 0.2% | 99.8% |  |
-| 41 | 0.5% | 99.5% |  |
-| 42 | 1.0% | 99.0% |  |
-| 43 | 2% | 98% |  |
-| 44 | 3% | 96% |  |
-| 45 | 5% | 93% |  |
-| 46 | 7% | 88% |  |
-| 47 | 9% | 81% |  |
-| 48 | 11% | 72% |  |
-| 49 | 12% | 61% | Median |
-| 50 | 12% | 49% |  |
-| 51 | 11% | 38% |  |
-| 52 | 9% | 27% |  |
-| 53 | 7% | 18% |  |
-| 54 | 5% | 11% |  |
-| 55 | 3% | 6% |  |
-| 56 | 2% | 3% |  |
-| 57 | 0.8% | 1.2% |  |
-| 58 | 0.3% | 0.5% |  |
-| 59 | 0.1% | 0.2% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.1% | 99.9% |  |
+| 39 | 0.2% | 99.8% |  |
+| 40 | 0.4% | 99.6% |  |
+| 41 | 0.8% | 99.2% |  |
+| 42 | 1.4% | 98% |  |
+| 43 | 3% | 97% |  |
+| 44 | 4% | 95% |  |
+| 45 | 6% | 90% |  |
+| 46 | 8% | 85% |  |
+| 47 | 10% | 77% |  |
+| 48 | 11% | 67% |  |
+| 49 | 12% | 56% | Median |
+| 50 | 11% | 44% |  |
+| 51 | 10% | 33% |  |
+| 52 | 8% | 23% |  |
+| 53 | 6% | 14% |  |
+| 54 | 4% | 8% |  |
+| 55 | 2% | 4% |  |
+| 56 | 1.2% | 2% |  |
+| 57 | 0.5% | 0.9% |  |
+| 58 | 0.2% | 0.3% |  |
+| 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
