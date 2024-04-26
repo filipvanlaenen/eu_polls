@@ -23,10 +23,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europe Écologie Les Verts | FR | | 6 | 4–8 | 4–8 | 0–8 | 0–9 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -73,24 +73,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.1% | 99.9% |  |
 | 38 | 0.1% | 99.9% |  |
 | 39 | 0.3% | 99.7% |  |
-| 40 | 0.5% | 99.5% |  |
-| 41 | 1.0% | 99.0% |  |
+| 40 | 0.5% | 99.4% |  |
+| 41 | 1.0% | 98.9% |  |
 | 42 | 2% | 98% |  |
 | 43 | 3% | 96% |  |
 | 44 | 5% | 93% |  |
-| 45 | 6% | 89% |  |
+| 45 | 7% | 88% |  |
 | 46 | 8% | 82% |  |
-| 47 | 10% | 74% |  |
-| 48 | 11% | 64% |  |
-| 49 | 12% | 53% | Median |
+| 47 | 10% | 73% |  |
+| 48 | 11% | 63% |  |
+| 49 | 12% | 52% | Median |
 | 50 | 11% | 41% |  |
 | 51 | 10% | 30% |  |
-| 52 | 8% | 21% |  |
-| 53 | 6% | 13% |  |
-| 54 | 4% | 7% |  |
+| 52 | 8% | 20% |  |
+| 53 | 5% | 13% |  |
+| 54 | 3% | 7% |  |
 | 55 | 2% | 4% |  |
-| 56 | 1.1% | 2% |  |
-| 57 | 0.5% | 0.8% |  |
+| 56 | 1.0% | 2% |  |
+| 57 | 0.5% | 0.7% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
