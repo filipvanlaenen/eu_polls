@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 77–87 | 76–89 | 74–90 | 72–92 |
+| Renew Europe | EU | 98 | 82 | 77–88 | 76–89 | 74–90 | 72–93 |
 | La République en marche–Mouvement démocrate | FR | | 17 | 14–19 | 13–19 | 13–20 | 13–21 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -65,7 +65,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
-| Δημοκράτες | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Δημοκράτες | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -86,23 +86,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 3% | 95% |  |
 | 77 | 4% | 92% |  |
 | 78 | 6% | 88% |  |
-| 79 | 7% | 82% |  |
-| 80 | 9% | 74% |  |
-| 81 | 10% | 66% |  |
-| 82 | 10% | 56% | Median |
-| 83 | 10% | 46% |  |
-| 84 | 9% | 37% |  |
-| 85 | 8% | 28% |  |
-| 86 | 6% | 20% |  |
-| 87 | 5% | 14% |  |
-| 88 | 3% | 9% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.4% | 3% |  |
-| 91 | 0.8% | 2% |  |
-| 92 | 0.4% | 0.8% |  |
-| 93 | 0.2% | 0.4% |  |
+| 79 | 7% | 83% |  |
+| 80 | 8% | 76% |  |
+| 81 | 9% | 67% |  |
+| 82 | 10% | 58% | Median |
+| 83 | 10% | 49% |  |
+| 84 | 9% | 39% |  |
+| 85 | 8% | 30% |  |
+| 86 | 7% | 22% |  |
+| 87 | 5% | 15% |  |
+| 88 | 4% | 10% |  |
+| 89 | 3% | 6% |  |
+| 90 | 2% | 4% |  |
+| 91 | 1.0% | 2% |  |
+| 92 | 0.5% | 1.0% |  |
+| 93 | 0.3% | 0.5% |  |
 | 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
+| 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |

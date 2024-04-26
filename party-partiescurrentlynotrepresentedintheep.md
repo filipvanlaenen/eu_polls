@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 2–7 | 2–7 | 2–8 | 1–10 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 2–6 | 2–7 | 2–8 | 1–10 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -32,7 +32,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Libertà [IT] (*) | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Libertà [IT] (*) | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,17 +58,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.2% | 100% |  |
-| 2 | 11% | 98.8% |  |
-| 3 | 28% | 88% |  |
-| 4 | 29% | 60% | Median |
-| 5 | 14% | 31% |  |
-| 6 | 7% | 17% |  |
-| 7 | 5% | 10% |  |
-| 8 | 3% | 5% |  |
-| 9 | 1.1% | 2% |  |
-| 10 | 0.4% | 0.7% |  |
-| 11 | 0.2% | 0.3% |  |
+| 1 | 1.4% | 100% |  |
+| 2 | 12% | 98.6% |  |
+| 3 | 29% | 87% |  |
+| 4 | 29% | 58% | Median |
+| 5 | 14% | 29% |  |
+| 6 | 6% | 15% |  |
+| 7 | 4% | 8% |  |
+| 8 | 2% | 4% |  |
+| 9 | 0.9% | 1.4% |  |
+| 10 | 0.3% | 0.5% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
