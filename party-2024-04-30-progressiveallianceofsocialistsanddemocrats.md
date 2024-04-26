@@ -32,7 +32,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4 | 4 | 4 |
 | Demokratikus Koalíció | HU | | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Nowa Lewica | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 125 | 0.1% | 99.9% |  |
 | 126 | 0.3% | 99.8% |  |
 | 127 | 0.5% | 99.5% |  |
-| 128 | 0.9% | 99.0% |  |
+| 128 | 0.9% | 98.9% |  |
 | 129 | 2% | 98% |  |
 | 130 | 2% | 96% |  |
 | 131 | 3% | 94% |  |
@@ -77,7 +77,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 7% | 80% |  |
 | 135 | 9% | 72% |  |
 | 136 | 9% | 64% |  |
-| 137 | 10% | 55% | Median |
+| 137 | 10% | 54% | Median |
 | 138 | 9% | 45% |  |
 | 139 | 9% | 36% |  |
 | 140 | 7% | 27% |  |
