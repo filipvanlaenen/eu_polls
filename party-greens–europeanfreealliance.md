@@ -10,9 +10,9 @@ Last result: **67** seats (General Election of 26 May 2019)
 
 Current median: **49** seats (-18 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, LT, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, FR, HR, HU, IT, LT, LV, NL, SE
 
 ### Confidence Intervals
 
@@ -30,6 +30,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Europa Verde | IT | | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Miljöpartiet de gröna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,7 +44,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,24 +73,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.1% | 99.9% |  |
 | 38 | 0.1% | 99.9% |  |
 | 39 | 0.3% | 99.7% |  |
-| 40 | 0.5% | 99.4% |  |
-| 41 | 1.0% | 98.9% |  |
+| 40 | 0.5% | 99.5% |  |
+| 41 | 1.0% | 99.0% |  |
 | 42 | 2% | 98% |  |
 | 43 | 3% | 96% |  |
 | 44 | 5% | 93% |  |
-| 45 | 7% | 88% |  |
+| 45 | 6% | 89% |  |
 | 46 | 8% | 82% |  |
-| 47 | 10% | 73% |  |
-| 48 | 11% | 63% |  |
-| 49 | 12% | 52% | Median |
-| 50 | 11% | 40% |  |
-| 51 | 9% | 29% |  |
-| 52 | 7% | 20% |  |
-| 53 | 5% | 12% |  |
-| 54 | 3% | 7% |  |
+| 47 | 10% | 74% |  |
+| 48 | 11% | 64% |  |
+| 49 | 12% | 53% | Median |
+| 50 | 11% | 41% |  |
+| 51 | 10% | 30% |  |
+| 52 | 8% | 21% |  |
+| 53 | 6% | 13% |  |
+| 54 | 4% | 7% |  |
 | 55 | 2% | 4% |  |
-| 56 | 1.0% | 2% |  |
-| 57 | 0.4% | 0.7% |  |
+| 56 | 1.1% | 2% |  |
+| 57 | 0.5% | 0.8% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |

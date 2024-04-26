@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 43–53 | 42–54 |
+| Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 44–53 | 42–54 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Fidesz | HU | | 10 | 7–11 | 7–11 | 6–12 | 6–12 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
@@ -37,7 +37,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,20 +66,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0% | 100% |  |
 | 40 | 0% | 100% |  |
 | 41 | 0.2% | 100% |  |
-| 42 | 0.6% | 99.8% |  |
-| 43 | 2% | 99.2% |  |
-| 44 | 4% | 97% |  |
+| 42 | 0.5% | 99.8% |  |
+| 43 | 2% | 99.3% |  |
+| 44 | 4% | 98% |  |
 | 45 | 7% | 94% |  |
-| 46 | 11% | 87% |  |
-| 47 | 14% | 76% |  |
-| 48 | 16% | 62% | Median |
-| 49 | 16% | 45% |  |
-| 50 | 13% | 30% |  |
-| 51 | 9% | 17% |  |
-| 52 | 5% | 8% |  |
+| 46 | 10% | 88% |  |
+| 47 | 14% | 77% |  |
+| 48 | 16% | 63% | Median |
+| 49 | 16% | 47% |  |
+| 50 | 13% | 31% |  |
+| 51 | 9% | 18% |  |
+| 52 | 5% | 9% |  |
 | 53 | 2% | 4% |  |
-| 54 | 0.9% | 1.3% |  |
-| 55 | 0.3% | 0.4% |  |
+| 54 | 1.0% | 1.4% |  |
+| 55 | 0.3% | 0.5% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
