@@ -30,7 +30,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Freie Wähler | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -70,9 +70,9 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-05-15-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-04-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-05-15.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2024-04-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 8% | 74% |  |
 | 81 | 9% | 66% |  |
 | 82 | 10% | 56% | Median |
-| 83 | 10% | 47% |  |
+| 83 | 10% | 46% |  |
 | 84 | 9% | 37% |  |
 | 85 | 8% | 28% |  |
 | 86 | 6% | 20% |  |
