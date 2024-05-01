@@ -18,13 +18,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 44–53 | 42–54 |
+| Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 44–53 | 42–55 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Fidesz | HU | | 10 | 7–11 | 7–11 | 6–12 | 6–12 |
-| Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
+| Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Die PARTEI | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nowa Nadzieja | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
 | 40 | 0% | 100% |  |
-| 41 | 0.2% | 100% |  |
+| 41 | 0.1% | 100% |  |
 | 42 | 0.5% | 99.8% |  |
 | 43 | 2% | 99.3% |  |
 | 44 | 4% | 98% |  |
@@ -74,12 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 14% | 77% |  |
 | 48 | 16% | 63% | Median |
 | 49 | 16% | 47% |  |
-| 50 | 13% | 31% |  |
-| 51 | 9% | 18% |  |
-| 52 | 5% | 9% |  |
-| 53 | 2% | 4% |  |
-| 54 | 1.0% | 1.4% |  |
-| 55 | 0.3% | 0.5% |  |
+| 50 | 13% | 32% |  |
+| 51 | 9% | 19% |  |
+| 52 | 5% | 10% |  |
+| 53 | 3% | 4% |  |
+| 54 | 1.1% | 2% |  |
+| 55 | 0.4% | 0.5% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
