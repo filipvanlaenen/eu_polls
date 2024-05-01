@@ -36,7 +36,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Kommunistische Partei Österreichs | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–2 |
@@ -77,7 +77,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 8% | 15% |  |
 | 46 | 4% | 8% |  |
 | 47 | 2% | 3% |  |
-| 48 | 0.9% | 1.2% |  |
+| 48 | 0.9% | 1.3% |  |
 | 49 | 0.3% | 0.4% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |

@@ -21,7 +21,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Non-Inscrits | EU | 29 | 48 | 45–51 | 44–52 | 44–53 | 42–55 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
 | Fidesz | HU | | 10 | 7–11 | 7–11 | 6–12 | 6–12 |
-| Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -34,7 +34,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 0–1 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -65,8 +65,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.5% | 99.8% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.6% | 99.8% |  |
 | 43 | 2% | 99.3% |  |
 | 44 | 4% | 98% |  |
 | 45 | 7% | 94% |  |

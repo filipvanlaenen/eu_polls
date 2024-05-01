@@ -25,7 +25,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -57,11 +57,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 28% | 97% |  |
-| 3 | 44% | 69% | Median |
-| 4 | 11% | 25% |  |
-| 5 | 5% | 14% |  |
+| 1 | 4% | 100% |  |
+| 2 | 28% | 96% |  |
+| 3 | 43% | 69% | Median |
+| 4 | 11% | 26% |  |
+| 5 | 5% | 15% |  |
 | 6 | 6% | 9% |  |
 | 7 | 2% | 4% |  |
 | 8 | 0.7% | 1.2% |  |
