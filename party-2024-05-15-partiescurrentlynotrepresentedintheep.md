@@ -8,18 +8,17 @@ Members registered from **14 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **2** seats (+2 seats)
+Current median: **1** seats (+1 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
-> GR, IE
+> GR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 2 | 2–5 | 1–6 | 1–6 | 1–8 |
-| Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1–2 |
+| Parties currently not represented in the EP | EU | 0 | 1 | 1–4 | 0–5 | 0–5 | 0–7 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -55,17 +54,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 47% | 93% | Median |
-| 3 | 27% | 46% |  |
-| 4 | 6% | 18% |  |
-| 5 | 6% | 13% |  |
-| 6 | 4% | 7% |  |
-| 7 | 1.5% | 2% |  |
-| 8 | 0.4% | 0.8% |  |
-| 9 | 0.2% | 0.4% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 48% | 93% | Median |
+| 2 | 27% | 45% |  |
+| 3 | 5% | 18% |  |
+| 4 | 6% | 13% |  |
+| 5 | 4% | 6% |  |
+| 6 | 1.4% | 2% |  |
+| 7 | 0.4% | 0.7% |  |
+| 8 | 0.2% | 0.3% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
