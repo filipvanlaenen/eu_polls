@@ -17,8 +17,8 @@
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 61 | 82 | 76–87 |75–88 | 73–90 | 70–92 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 67 | 50 | 46–55 |44–56 | 43–57 | 41–59 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 29 | 48 | 45–52 |44–53 | 44–54 | 42–55 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 40 | 37–43 |35–44 | 33–45 | 31–47 |
-| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 2 | 2–5 |1–6 | 1–6 | 1–8 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 39 | 41 | 38–44 |36–45 | 34–46 | 32–48 |
+| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 0 | 1 | 1–4 |0–5 | 0–5 | 0–7 |
 
 ### European People’s Party
 
@@ -256,27 +256,27 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% |  |
-| 30 | 0.2% | 99.9% |  |
-| 31 | 0.5% | 99.7% |  |
-| 32 | 0.8% | 99.2% |  |
-| 33 | 1.1% | 98% |  |
-| 34 | 1.4% | 97% |  |
-| 35 | 2% | 96% |  |
-| 36 | 3% | 94% |  |
-| 37 | 5% | 91% |  |
-| 38 | 9% | 86% |  |
-| 39 | 13% | 78% | Last Result |
-| 40 | 16% | 65% | Median |
-| 41 | 16% | 49% |  |
-| 42 | 14% | 33% |  |
-| 43 | 9% | 19% |  |
-| 44 | 5% | 10% |  |
-| 45 | 3% | 4% |  |
-| 46 | 1.1% | 2% |  |
-| 47 | 0.4% | 0.5% |  |
-| 48 | 0.1% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 30 | 0.1% | 100% |  |
+| 31 | 0.2% | 99.9% |  |
+| 32 | 0.5% | 99.7% |  |
+| 33 | 0.8% | 99.2% |  |
+| 34 | 1.1% | 98% |  |
+| 35 | 1.4% | 97% |  |
+| 36 | 2% | 96% |  |
+| 37 | 3% | 94% |  |
+| 38 | 5% | 92% |  |
+| 39 | 9% | 87% | Last Result |
+| 40 | 13% | 78% |  |
+| 41 | 16% | 65% | Median |
+| 42 | 16% | 49% |  |
+| 43 | 14% | 33% |  |
+| 44 | 10% | 20% |  |
+| 45 | 6% | 10% |  |
+| 46 | 3% | 4% |  |
+| 47 | 1.1% | 2% |  |
+| 48 | 0.4% | 0.5% |  |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 
 ### Non-Inscrits
 
@@ -325,18 +325,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 47% | 93% | Median |
-| 3 | 27% | 46% |  |
-| 4 | 6% | 18% |  |
-| 5 | 6% | 13% |  |
-| 6 | 4% | 7% |  |
-| 7 | 1.5% | 2% |  |
-| 8 | 0.4% | 0.8% |  |
-| 9 | 0.2% | 0.4% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 48% | 93% | Median |
+| 2 | 27% | 45% |  |
+| 3 | 5% | 18% |  |
+| 4 | 6% | 13% |  |
+| 5 | 4% | 6% |  |
+| 6 | 1.4% | 2% |  |
+| 7 | 0.4% | 0.7% |  |
+| 8 | 0.2% | 0.3% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
 ## Voting Intentions
