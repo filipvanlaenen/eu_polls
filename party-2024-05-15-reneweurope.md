@@ -35,7 +35,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Suomen Keskusta | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,7 +63,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -80,26 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0.2% | 99.9% |  |
 | 73 | 0.3% | 99.7% |  |
 | 74 | 0.6% | 99.4% |  |
-| 75 | 1.1% | 98.7% |  |
+| 75 | 1.1% | 98.8% |  |
 | 76 | 2% | 98% |  |
 | 77 | 3% | 96% |  |
 | 78 | 4% | 93% |  |
-| 79 | 5% | 89% |  |
+| 79 | 5% | 90% |  |
 | 80 | 7% | 84% |  |
-| 81 | 8% | 77% |  |
-| 82 | 9% | 69% |  |
+| 81 | 8% | 78% |  |
+| 82 | 9% | 70% |  |
 | 83 | 10% | 60% |  |
 | 84 | 10% | 50% | Median |
 | 85 | 9% | 40% |  |
 | 86 | 8% | 31% |  |
 | 87 | 7% | 22% |  |
-| 88 | 5% | 15% |  |
+| 88 | 5% | 16% |  |
 | 89 | 4% | 10% |  |
 | 90 | 3% | 6% |  |
 | 91 | 2% | 4% |  |
 | 92 | 1.0% | 2% |  |
 | 93 | 0.5% | 1.0% |  |
-| 94 | 0.3% | 0.5% |  |
+| 94 | 0.3% | 0.4% |  |
 | 95 | 0.1% | 0.2% |  |
 | 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |

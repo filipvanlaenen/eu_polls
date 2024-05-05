@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **182** seats (-5 seats)
+Current median: **181** seats (-6 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 182 | 176–187 | 175–189 | 173–190 | 170–193 |
+| European People’s Party | EU | 187 | 181 | 176–187 | 174–188 | 173–190 | 170–192 |
 | Partido Popular | ES | | 25 | 24–27 | 24–27 | 23–28 | 23–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 21–23 | 20–23 | 19–23 | 19–25 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–21 | 16–21 | 14–21 |
@@ -31,7 +31,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5 | 5 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
@@ -66,7 +66,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -83,36 +83,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 167 | 0% | 100% |  |
+| 166 | 0% | 100% |  |
+| 167 | 0.1% | 99.9% |  |
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.2% | 99.8% |  |
-| 170 | 0.3% | 99.7% |  |
-| 171 | 0.4% | 99.4% |  |
-| 172 | 0.7% | 99.0% |  |
-| 173 | 1.1% | 98% |  |
-| 174 | 2% | 97% |  |
-| 175 | 2% | 95% |  |
-| 176 | 3% | 93% |  |
-| 177 | 5% | 90% |  |
-| 178 | 6% | 85% |  |
-| 179 | 7% | 79% |  |
-| 180 | 8% | 72% |  |
-| 181 | 9% | 63% |  |
-| 182 | 9% | 54% | Median |
-| 183 | 9% | 45% |  |
-| 184 | 8% | 36% |  |
-| 185 | 7% | 28% |  |
-| 186 | 6% | 21% |  |
-| 187 | 5% | 15% | Last Result |
-| 188 | 3% | 10% |  |
-| 189 | 2% | 6% |  |
-| 190 | 2% | 4% |  |
-| 191 | 1.0% | 2% |  |
-| 192 | 0.6% | 1.3% |  |
-| 193 | 0.3% | 0.7% |  |
-| 194 | 0.2% | 0.3% |  |
-| 195 | 0.1% | 0.2% |  |
-| 196 | 0% | 0.1% |  |
-| 197 | 0% | 0% |  |
+| 170 | 0.3% | 99.6% |  |
+| 171 | 0.5% | 99.2% |  |
+| 172 | 0.9% | 98.7% |  |
+| 173 | 1.3% | 98% |  |
+| 174 | 2% | 96% |  |
+| 175 | 3% | 94% |  |
+| 176 | 4% | 92% |  |
+| 177 | 5% | 87% |  |
+| 178 | 7% | 82% |  |
+| 179 | 8% | 76% |  |
+| 180 | 9% | 68% |  |
+| 181 | 9% | 59% | Median |
+| 182 | 9% | 50% |  |
+| 183 | 9% | 40% |  |
+| 184 | 8% | 32% |  |
+| 185 | 7% | 24% |  |
+| 186 | 5% | 17% |  |
+| 187 | 4% | 12% | Last Result |
+| 188 | 3% | 8% |  |
+| 189 | 2% | 5% |  |
+| 190 | 1.3% | 3% |  |
+| 191 | 0.8% | 2% |  |
+| 192 | 0.4% | 0.9% |  |
+| 193 | 0.2% | 0.5% |  |
+| 194 | 0.1% | 0.2% |  |
+| 195 | 0.1% | 0.1% |  |
+| 196 | 0% | 0% |  |
 
 

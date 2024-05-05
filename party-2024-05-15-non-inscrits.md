@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> BG, CZ, DE, ES, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CZ, DE, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
 
 ## Seats
 
@@ -41,6 +41,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
+| Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
