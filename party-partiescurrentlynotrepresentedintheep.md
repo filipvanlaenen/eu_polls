@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> BE, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, PL, SI
+> BE, BG, CZ, DE, FR, GR, HR, HU, IE, IT, LT, LU, LV, PL, SI
 
 ## Seats
 
@@ -45,6 +45,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

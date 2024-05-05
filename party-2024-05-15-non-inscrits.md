@@ -44,6 +44,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -67,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0% | 100% |  |
 | 41 | 0.2% | 100% |  |
 | 42 | 0.6% | 99.8% |  |
-| 43 | 2% | 99.2% |  |
+| 43 | 2% | 99.3% |  |
 | 44 | 4% | 98% |  |
 | 45 | 7% | 94% |  |
-| 46 | 10% | 87% |  |
-| 47 | 13% | 77% |  |
+| 46 | 10% | 88% |  |
+| 47 | 13% | 78% |  |
 | 48 | 15% | 64% | Median |
-| 49 | 15% | 48% |  |
+| 49 | 15% | 49% |  |
 | 50 | 12% | 34% |  |
-| 51 | 9% | 21% |  |
+| 51 | 9% | 22% |  |
 | 52 | 6% | 12% |  |
 | 53 | 3% | 6% |  |
 | 54 | 2% | 3% |  |
