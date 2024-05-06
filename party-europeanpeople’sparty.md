@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **182** seats (-5 seats)
+Current median: **181** seats (-6 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 182 | 176–187 | 175–189 | 173–190 | 170–193 |
+| European People’s Party | EU | 187 | 181 | 176–187 | 175–188 | 173–190 | 171–192 |
 | Partido Popular | ES | | 26 | 25–27 | 24–27 | 24–28 | 24–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 21–23 | 20–23 | 19–23 | 19–25 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–21 | 16–21 | 14–21 |
 | Partidul Național Liberal | RO | | 9 | 6–10 | 6–11 | 6–11 | 5–12 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
 | Forza Italia | IT | | 7 | 5–8 | 4–8 | 4–9 | 4–9 |
-| Les Républicains | FR | | 7 | 5–8 | 5–8 | 0–8 | 0–9 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Aliança Democrática | PT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Les Républicains | FR | | 6 | 5–8 | 5–8 | 5–8 | 0–10 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5 | 5 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -83,36 +83,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 167 | 0% | 100% |  |
-| 168 | 0.1% | 99.9% |  |
-| 169 | 0.2% | 99.8% |  |
-| 170 | 0.3% | 99.7% |  |
-| 171 | 0.4% | 99.4% |  |
-| 172 | 0.7% | 99.0% |  |
-| 173 | 1.1% | 98% |  |
+| 168 | 0.1% | 100% |  |
+| 169 | 0.1% | 99.9% |  |
+| 170 | 0.2% | 99.8% |  |
+| 171 | 0.4% | 99.6% |  |
+| 172 | 0.7% | 99.2% |  |
+| 173 | 1.2% | 98% |  |
 | 174 | 2% | 97% |  |
-| 175 | 2% | 95% |  |
+| 175 | 3% | 95% |  |
 | 176 | 4% | 93% |  |
 | 177 | 5% | 89% |  |
-| 178 | 6% | 85% |  |
-| 179 | 7% | 79% |  |
-| 180 | 9% | 71% |  |
-| 181 | 9% | 63% |  |
-| 182 | 9% | 53% | Median |
-| 183 | 9% | 44% |  |
-| 184 | 8% | 35% |  |
-| 185 | 7% | 26% |  |
-| 186 | 6% | 19% |  |
-| 187 | 5% | 13% | Last Result |
-| 188 | 3% | 9% |  |
-| 189 | 2% | 6% |  |
-| 190 | 1.5% | 3% |  |
-| 191 | 0.9% | 2% |  |
-| 192 | 0.5% | 1.1% |  |
-| 193 | 0.3% | 0.5% |  |
-| 194 | 0.1% | 0.3% |  |
-| 195 | 0.1% | 0.1% |  |
-| 196 | 0% | 0.1% |  |
-| 197 | 0% | 0% |  |
+| 178 | 7% | 83% |  |
+| 179 | 8% | 76% |  |
+| 180 | 9% | 68% |  |
+| 181 | 10% | 59% | Median |
+| 182 | 10% | 50% |  |
+| 183 | 9% | 40% |  |
+| 184 | 8% | 31% |  |
+| 185 | 7% | 23% |  |
+| 186 | 5% | 17% |  |
+| 187 | 4% | 11% | Last Result |
+| 188 | 3% | 7% |  |
+| 189 | 2% | 5% |  |
+| 190 | 1.2% | 3% |  |
+| 191 | 0.7% | 2% |  |
+| 192 | 0.4% | 0.8% |  |
+| 193 | 0.2% | 0.4% |  |
+| 194 | 0.1% | 0.2% |  |
+| 195 | 0% | 0.1% |  |
+| 196 | 0% | 0% |  |
 
 
