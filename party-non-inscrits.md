@@ -19,12 +19,12 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 29 | 52 | 49–56 | 48–57 | 48–58 | 46–59 |
-| Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
+| Movimento 5 Stelle | IT | | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
 | Fidesz | HU | | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–8 | 4–8 | 3–8 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nowa Nadzieja | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -36,6 +36,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -71,20 +72,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0% | 100% |  |
 | 44 | 0% | 100% |  |
 | 45 | 0.1% | 100% |  |
-| 46 | 0.4% | 99.9% |  |
-| 47 | 1.4% | 99.4% |  |
-| 48 | 3% | 98% |  |
-| 49 | 7% | 95% |  |
-| 50 | 11% | 88% |  |
-| 51 | 14% | 77% |  |
-| 52 | 16% | 63% | Median |
-| 53 | 15% | 47% |  |
-| 54 | 12% | 33% |  |
-| 55 | 9% | 21% |  |
-| 56 | 6% | 12% |  |
+| 46 | 0.5% | 99.8% |  |
+| 47 | 2% | 99.3% |  |
+| 48 | 4% | 98% |  |
+| 49 | 8% | 94% |  |
+| 50 | 11% | 86% |  |
+| 51 | 14% | 75% |  |
+| 52 | 15% | 60% | Median |
+| 53 | 14% | 45% |  |
+| 54 | 12% | 31% |  |
+| 55 | 8% | 19% |  |
+| 56 | 5% | 11% |  |
 | 57 | 3% | 6% |  |
 | 58 | 2% | 3% |  |
-| 59 | 0.7% | 1.2% |  |
+| 59 | 0.7% | 1.1% |  |
 | 60 | 0.3% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |

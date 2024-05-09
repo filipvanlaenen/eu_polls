@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CZ, DE, EE, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, PL, SI
+> BE, BG, CZ, DE, EE, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 1 | 1–3 | 0–3 | 0–5 | 0–6 |
+| Parties currently not represented in the EP | EU | 0 | 1 | 1–2 | 0–3 | 0–3 | 0–4 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -31,7 +31,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Libertà [IT] (*) | IT | | 0 | 0 | 0–3 | 0–4 | 0–5 |
+| Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -42,6 +42,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -54,14 +55,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 51% | 93% | Median |
-| 2 | 32% | 42% |  |
-| 3 | 5% | 10% |  |
-| 4 | 1.3% | 5% |  |
-| 5 | 2% | 4% |  |
-| 6 | 1.3% | 2% |  |
-| 7 | 0.3% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 53% | 92% | Median |
+| 2 | 33% | 39% |  |
+| 3 | 6% | 6% |  |
+| 4 | 0.4% | 0.5% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
