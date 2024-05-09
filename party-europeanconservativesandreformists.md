@@ -23,7 +23,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Zjednoczona Prawica | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 5–10 | 5–11 | 5–11 | 4–11 |
 | Vox | ES | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Reconquête | FR | | 5 | 0–8 | 0–9 | 0–10 | 0–10 |
+| Reconquête | FR | | 5 | 0–7 | 0–9 | 0–10 | 0–10 |
 | Sverigedemokraterna | SE | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Občanská demokratická strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -67,19 +67,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 3% | 95% |  |
 | 75 | 4% | 92% |  |
 | 76 | 5% | 88% |  |
-| 77 | 7% | 83% |  |
-| 78 | 8% | 76% |  |
-| 79 | 9% | 68% |  |
-| 80 | 10% | 59% | Median |
-| 81 | 10% | 48% |  |
-| 82 | 10% | 38% |  |
-| 83 | 8% | 28% |  |
-| 84 | 7% | 20% |  |
-| 85 | 5% | 13% |  |
+| 77 | 7% | 82% |  |
+| 78 | 9% | 75% |  |
+| 79 | 10% | 67% |  |
+| 80 | 10% | 57% | Median |
+| 81 | 10% | 47% |  |
+| 82 | 9% | 36% |  |
+| 83 | 8% | 27% |  |
+| 84 | 6% | 19% |  |
+| 85 | 5% | 12% |  |
 | 86 | 3% | 8% |  |
 | 87 | 2% | 5% |  |
-| 88 | 1.3% | 3% |  |
-| 89 | 0.7% | 1.5% |  |
+| 88 | 1.2% | 3% |  |
+| 89 | 0.7% | 1.3% |  |
 | 90 | 0.4% | 0.7% |  |
 | 91 | 0.2% | 0.3% |  |
 | 92 | 0.1% | 0.1% |  |
