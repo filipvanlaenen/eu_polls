@@ -1,52 +1,51 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **27 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **137** seats (-10 seats)
+Current median: **134** seats (-13 seats)
 
-At least one member in **25 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 137 | 132–142 | 130–144 | 129–145 | 127–147 |
-| Partido Socialista Obrero Español | ES | | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 134 | 129–139 | 127–140 | 126–142 | 124–144 |
+| Partido Socialista Obrero Español | ES | | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
 | Partito Democratico | IT | | 16 | 15–19 | 15–19 | 14–19 | 13–20 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 13–17 | 13–17 |
-| Parti socialiste | FR | | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
+| Parti socialiste | FR | | 12 | 11–14 | 10–15 | 10–15 | 9–15 |
 | Partidul Social Democrat | RO | | 9 | 6–11 | 6–11 | 6–11 | 6–12 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
-| Partido Socialista | PT | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| Partido Socialista | PT | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Partij van de Arbeid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 4 | 4 | 4 |
-| Demokratikus Koalíció | HU | | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
-| HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Lietuvos socialdemokratų partija | LT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Nowa Lewica | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
-| Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista | MT | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Demokratikus Koalíció | HU | | 2 | 2–5 | 2–5 | 2–5 | 2–6 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 2 | 2 | 2 | 2 | 2 |
+| Nowa Lewica | PL | | 2 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sotsiaaldemokraatlik Erakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Lietuvos regionų partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialni demokrati | SI | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -64,33 +63,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 124 | 0% | 100% |  |
-| 125 | 0.1% | 99.9% |  |
-| 126 | 0.2% | 99.8% |  |
-| 127 | 0.4% | 99.6% |  |
-| 128 | 0.8% | 99.2% |  |
-| 129 | 1.4% | 98% |  |
-| 130 | 2% | 97% |  |
-| 131 | 3% | 95% |  |
-| 132 | 5% | 91% |  |
-| 133 | 6% | 87% |  |
-| 134 | 7% | 81% |  |
-| 135 | 9% | 73% |  |
-| 136 | 9% | 65% |  |
-| 137 | 10% | 55% | Median |
-| 138 | 9% | 45% |  |
-| 139 | 9% | 36% |  |
-| 140 | 8% | 27% |  |
-| 141 | 6% | 20% |  |
-| 142 | 5% | 14% |  |
-| 143 | 3% | 9% |  |
-| 144 | 2% | 6% |  |
-| 145 | 1.5% | 3% |  |
-| 146 | 0.9% | 2% |  |
-| 147 | 0.5% | 0.9% | Last Result |
-| 148 | 0.3% | 0.5% |  |
-| 149 | 0.1% | 0.2% |  |
-| 150 | 0.1% | 0.1% |  |
-| 151 | 0% | 0% |  |
+| 121 | 0% | 100% |  |
+| 122 | 0.1% | 99.9% |  |
+| 123 | 0.2% | 99.8% |  |
+| 124 | 0.5% | 99.6% |  |
+| 125 | 0.9% | 99.1% |  |
+| 126 | 2% | 98% |  |
+| 127 | 2% | 97% |  |
+| 128 | 4% | 94% |  |
+| 129 | 5% | 91% |  |
+| 130 | 7% | 86% |  |
+| 131 | 8% | 79% |  |
+| 132 | 9% | 71% |  |
+| 133 | 10% | 62% |  |
+| 134 | 10% | 52% | Median |
+| 135 | 9% | 43% |  |
+| 136 | 8% | 33% |  |
+| 137 | 7% | 25% |  |
+| 138 | 6% | 17% |  |
+| 139 | 4% | 12% |  |
+| 140 | 3% | 8% |  |
+| 141 | 2% | 5% |  |
+| 142 | 1.2% | 3% |  |
+| 143 | 0.7% | 1.3% |  |
+| 144 | 0.4% | 0.7% |  |
+| 145 | 0.2% | 0.3% |  |
+| 146 | 0.1% | 0.1% |  |
+| 147 | 0% | 0% | Last Result |
 
 

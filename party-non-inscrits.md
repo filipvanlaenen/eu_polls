@@ -1,14 +1,14 @@
 # Non-Inscrits
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> BG, CZ, DE, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SI, SK
+> BG, CZ, DE, ES, FI, FR, GR, HU, IT, LT, LV, NL, PL, SK
 
 ## Seats
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+20 seats)
+Current median: **52** seats (+23 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,31 +18,31 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 49 | 45–52 | 44–53 | 44–54 | 42–55 |
+| Non-Inscrits | EU | 29 | 52 | 49–56 | 48–57 | 48–58 | 46–59 |
 | Movimento 5 Stelle | IT | | 14 | 12–15 | 12–16 | 11–17 | 11–17 |
-| Fidesz | HU | | 10 | 7–11 | 7–11 | 6–12 | 6–12 |
+| Fidesz | HU | | 10 | 7–11 | 7–11 | 7–11 | 6–12 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–8 | 4–8 | 3–8 |
-| SMER–sociálna demokracia | SK | | 3 | 3 | 3 | 2–4 | 2–4 |
+| HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Nowa Nadzieja | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Nowa Nadzieja | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Lewica Razem | PL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| REPUBLIKA | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lewica Razem | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 0–1 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -66,23 +66,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
 | 40 | 0% | 100% |  |
-| 41 | 0.1% | 100% |  |
-| 42 | 0.5% | 99.8% |  |
-| 43 | 1.5% | 99.3% |  |
-| 44 | 3% | 98% |  |
-| 45 | 6% | 94% |  |
-| 46 | 10% | 88% |  |
-| 47 | 13% | 78% |  |
-| 48 | 15% | 65% |  |
-| 49 | 15% | 50% | Median |
-| 50 | 13% | 35% |  |
-| 51 | 9% | 23% |  |
-| 52 | 6% | 13% |  |
-| 53 | 4% | 7% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.9% | 1.3% |  |
-| 56 | 0.3% | 0.5% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0.4% | 99.9% |  |
+| 47 | 1.4% | 99.4% |  |
+| 48 | 3% | 98% |  |
+| 49 | 7% | 95% |  |
+| 50 | 11% | 88% |  |
+| 51 | 14% | 77% |  |
+| 52 | 16% | 63% | Median |
+| 53 | 15% | 47% |  |
+| 54 | 12% | 33% |  |
+| 55 | 9% | 21% |  |
+| 56 | 6% | 12% |  |
+| 57 | 3% | 6% |  |
+| 58 | 2% | 3% |  |
+| 59 | 0.7% | 1.2% |  |
+| 60 | 0.3% | 0.4% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 

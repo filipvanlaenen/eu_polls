@@ -18,31 +18,31 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 42 | 38–45 | 36–46 | 34–47 | 32–48 |
-| La France insoumise | FR | | 6 | 5–8 | 0–9 | 0–10 | 0–10 |
+| European United Left–Nordic Green Left | EU | 39 | 42 | 39–45 | 37–46 | 35–47 | 33–48 |
+| La France insoumise | FR | | 7 | 5–8 | 0–9 | 0–9 | 0–10 |
 | Sinn Féin | IE | | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Podemos | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Bloco de Esquerda | PT | | 1 | 1 | 1 | 1 | 0–2 |
-| Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Independents | IE | | 1 | 1 | 1 | 1 | 1–2 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Socialistische Partij | NL | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–2 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -62,26 +62,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 0.2% | 99.9% |  |
-| 32 | 0.4% | 99.7% |  |
-| 33 | 0.9% | 99.3% |  |
-| 34 | 1.4% | 98% |  |
-| 35 | 2% | 97% |  |
-| 36 | 2% | 95% |  |
-| 37 | 3% | 93% |  |
-| 38 | 4% | 90% |  |
-| 39 | 7% | 86% | Last Result |
-| 40 | 10% | 80% |  |
-| 41 | 13% | 70% |  |
-| 42 | 15% | 56% | Median |
-| 43 | 14% | 41% |  |
-| 44 | 11% | 27% |  |
-| 45 | 8% | 16% |  |
-| 46 | 4% | 8% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 0.5% | 99.6% |  |
+| 34 | 0.9% | 99.1% |  |
+| 35 | 1.2% | 98% |  |
+| 36 | 1.5% | 97% |  |
+| 37 | 2% | 96% |  |
+| 38 | 3% | 94% |  |
+| 39 | 6% | 90% | Last Result |
+| 40 | 9% | 85% |  |
+| 41 | 13% | 75% |  |
+| 42 | 16% | 62% | Median |
+| 43 | 16% | 46% |  |
+| 44 | 13% | 31% |  |
+| 45 | 9% | 18% |  |
+| 46 | 5% | 9% |  |
 | 47 | 2% | 4% |  |
-| 48 | 0.9% | 1.4% |  |
-| 49 | 0.3% | 0.5% |  |
+| 48 | 0.9% | 1.3% |  |
+| 49 | 0.3% | 0.4% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
