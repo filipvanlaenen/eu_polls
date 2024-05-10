@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (-15 seats)
+Current median: **84** seats (-14 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 78–88 | 76–90 | 75–91 | 73–93 |
-| La République en marche–Mouvement démocrate | FR | | 15 | 14–18 | 14–19 | 13–19 | 13–21 |
+| Renew Europe | EU | 98 | 84 | 78–89 | 77–90 | 76–91 | 74–93 |
+| La République en marche–Mouvement démocrate | FR | | 15 | 14–18 | 14–18 | 13–18 | 13–19 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -29,7 +29,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Uniunea Salvați România | RO | | 4 | 3–7 | 3–7 | 3–7 | 2–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Freie Demokratische Partei | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 3 | 3 | 3 | 2–4 |
 | Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -40,7 +40,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
+| Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coalición por Europa | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -49,16 +49,13 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
+| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -76,32 +73,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.4% | 99.7% |  |
-| 74 | 0.8% | 99.3% |  |
-| 75 | 1.4% | 98% |  |
-| 76 | 2% | 97% |  |
-| 77 | 3% | 95% |  |
-| 78 | 4% | 92% |  |
-| 79 | 6% | 87% |  |
-| 80 | 7% | 81% |  |
-| 81 | 8% | 74% |  |
-| 82 | 9% | 66% |  |
-| 83 | 10% | 56% | Median |
-| 84 | 10% | 47% |  |
-| 85 | 9% | 37% |  |
-| 86 | 8% | 28% |  |
-| 87 | 6% | 20% |  |
-| 88 | 5% | 14% |  |
-| 89 | 4% | 9% |  |
-| 90 | 2% | 5% |  |
-| 91 | 1.4% | 3% |  |
-| 92 | 0.8% | 2% |  |
-| 93 | 0.4% | 0.8% |  |
-| 94 | 0.2% | 0.4% |  |
-| 95 | 0.1% | 0.2% |  |
-| 96 | 0% | 0.1% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0.3% | 99.8% |  |
+| 74 | 0.6% | 99.5% |  |
+| 75 | 1.1% | 99.0% |  |
+| 76 | 2% | 98% |  |
+| 77 | 3% | 96% |  |
+| 78 | 4% | 93% |  |
+| 79 | 5% | 90% |  |
+| 80 | 7% | 84% |  |
+| 81 | 8% | 78% |  |
+| 82 | 9% | 70% |  |
+| 83 | 10% | 61% |  |
+| 84 | 10% | 51% | Median |
+| 85 | 9% | 41% |  |
+| 86 | 9% | 32% |  |
+| 87 | 7% | 23% |  |
+| 88 | 6% | 16% |  |
+| 89 | 4% | 10% |  |
+| 90 | 3% | 6% |  |
+| 91 | 2% | 3% |  |
+| 92 | 0.9% | 2% |  |
+| 93 | 0.5% | 0.8% |  |
+| 94 | 0.2% | 0.3% |  |
+| 95 | 0.1% | 0.1% |  |
+| 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
 

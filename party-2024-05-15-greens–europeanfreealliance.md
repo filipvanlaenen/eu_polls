@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (-15 seats)
+Current median: **53** seats (-14 seats)
 
 At least one member in **17 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 48–56 | 47–58 | 45–59 | 43–60 |
+| Greens–European Free Alliance | EU | 67 | 53 | 49–57 | 47–58 | 46–59 | 44–61 |
 | Bündnis 90/Die Grünen | DE | | 14 | 12–17 | 11–17 | 11–17 | 11–18 |
-| Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 4–8 | 0–9 |
+| Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 5–9 | 0–9 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
-| Miljöpartiet de gröna | SE | | 2 | 2 | 2 | 2 | 2 |
+| Miljöpartiet de gröna | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -36,7 +36,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Možemo! | HR | | 1 | 1 | 1 | 1 | 1 |
+| Možemo! | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | VESNA–Zelena stranka | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Volt Europa | DE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -70,30 +70,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
-| 41 | 0.1% | 99.9% |  |
-| 42 | 0.2% | 99.9% |  |
-| 43 | 0.3% | 99.7% |  |
-| 44 | 0.6% | 99.4% |  |
-| 45 | 1.3% | 98.7% |  |
-| 46 | 2% | 97% |  |
-| 47 | 4% | 95% |  |
-| 48 | 6% | 91% |  |
-| 49 | 8% | 85% |  |
-| 50 | 10% | 77% |  |
-| 51 | 11% | 68% |  |
-| 52 | 11% | 57% | Median |
-| 53 | 11% | 46% |  |
-| 54 | 10% | 35% |  |
-| 55 | 9% | 25% |  |
-| 56 | 7% | 16% |  |
-| 57 | 5% | 10% |  |
-| 58 | 3% | 5% |  |
-| 59 | 1.5% | 3% |  |
-| 60 | 0.7% | 1.1% |  |
-| 61 | 0.3% | 0.4% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0.1% | 99.9% |  |
+| 43 | 0.1% | 99.9% |  |
+| 44 | 0.3% | 99.7% |  |
+| 45 | 0.7% | 99.4% |  |
+| 46 | 1.4% | 98.8% |  |
+| 47 | 3% | 97% |  |
+| 48 | 4% | 95% |  |
+| 49 | 6% | 90% |  |
+| 50 | 8% | 84% |  |
+| 51 | 10% | 76% |  |
+| 52 | 11% | 66% |  |
+| 53 | 11% | 55% | Median |
+| 54 | 11% | 44% |  |
+| 55 | 10% | 33% |  |
+| 56 | 8% | 23% |  |
+| 57 | 6% | 15% |  |
+| 58 | 4% | 9% |  |
+| 59 | 2% | 5% |  |
+| 60 | 1.3% | 2% |  |
+| 61 | 0.6% | 0.9% |  |
+| 62 | 0.2% | 0.3% |  |
+| 63 | 0.1% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |

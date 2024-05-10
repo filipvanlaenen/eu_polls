@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE, SI
+> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, IT, LU, NL, PT, SE, SI
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 42 | 39–45 | 37–46 | 35–47 | 33–48 |
-| La France insoumise | FR | | 7 | 5–8 | 0–9 | 0–9 | 0–10 |
+| European United Left–Nordic Green Left | EU | 39 | 42 | 39–45 | 39–46 | 38–47 | 36–48 |
+| La France insoumise | FR | | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
 | Sinn Féin | IE | | 6 | 5–6 | 4–6 | 3–6 | 3–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -42,13 +42,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–2 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -62,25 +61,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.5% | 99.6% |  |
-| 34 | 0.8% | 99.2% |  |
-| 35 | 1.1% | 98% |  |
-| 36 | 1.4% | 97% |  |
-| 37 | 2% | 96% |  |
-| 38 | 3% | 94% |  |
-| 39 | 6% | 91% | Last Result |
-| 40 | 9% | 85% |  |
-| 41 | 13% | 75% |  |
-| 42 | 15% | 62% | Median |
-| 43 | 15% | 47% |  |
-| 44 | 13% | 32% |  |
-| 45 | 9% | 19% |  |
-| 46 | 5% | 10% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 0.4% | 99.8% |  |
+| 37 | 1.2% | 99.3% |  |
+| 38 | 3% | 98% |  |
+| 39 | 6% | 95% | Last Result |
+| 40 | 10% | 90% |  |
+| 41 | 14% | 80% |  |
+| 42 | 17% | 66% | Median |
+| 43 | 17% | 50% |  |
+| 44 | 14% | 33% |  |
+| 45 | 10% | 19% |  |
+| 46 | 5% | 9% |  |
 | 47 | 3% | 4% |  |
-| 48 | 1.1% | 2% |  |
-| 49 | 0.3% | 0.5% |  |
+| 48 | 1.0% | 1.4% |  |
+| 49 | 0.3% | 0.4% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
