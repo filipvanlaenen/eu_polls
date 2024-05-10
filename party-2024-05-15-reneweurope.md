@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (-15 seats)
+Current median: **84** seats (-14 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 78–89 | 77–90 | 76–91 | 74–93 |
+| Renew Europe | EU | 98 | 84 | 78–89 | 77–90 | 76–91 | 74–93 |
 | La République en marche–Mouvement démocrate | FR | | 15 | 14–18 | 14–19 | 13–19 | 13–21 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -88,20 +88,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 7% | 84% |  |
 | 81 | 8% | 77% |  |
 | 82 | 9% | 69% |  |
-| 83 | 10% | 59% | Median |
-| 84 | 10% | 50% |  |
+| 83 | 10% | 60% |  |
+| 84 | 10% | 50% | Median |
 | 85 | 9% | 40% |  |
 | 86 | 8% | 31% |  |
-| 87 | 7% | 22% |  |
+| 87 | 7% | 23% |  |
 | 88 | 5% | 16% |  |
 | 89 | 4% | 10% |  |
 | 90 | 3% | 6% |  |
-| 91 | 2% | 4% |  |
-| 92 | 1.0% | 2% |  |
-| 93 | 0.5% | 1.0% |  |
-| 94 | 0.3% | 0.5% |  |
+| 91 | 2% | 3% |  |
+| 92 | 0.9% | 2% |  |
+| 93 | 0.5% | 0.9% |  |
+| 94 | 0.2% | 0.4% |  |
 | 95 | 0.1% | 0.2% |  |
-| 96 | 0.1% | 0.1% |  |
+| 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
 
