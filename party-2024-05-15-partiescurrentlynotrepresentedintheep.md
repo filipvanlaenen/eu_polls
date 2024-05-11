@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 1 | 1–2 | 0–3 | 0–3 | 0–4 |
+| Parties currently not represented in the EP | EU | 0 | 1 | 1–2 | 0–3 | 0–3 | 0–3 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -54,8 +54,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
 | 1 | 53% | 92% | Median |
-| 2 | 33% | 40% |  |
-| 3 | 6% | 6% |  |
+| 2 | 33% | 39% |  |
+| 3 | 5% | 6% |  |
 | 4 | 0.4% | 0.5% |  |
 | 5 | 0% | 0.1% |  |
 | 6 | 0% | 0% |  |
