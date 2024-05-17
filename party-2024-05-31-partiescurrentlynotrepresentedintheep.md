@@ -1,30 +1,32 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CZ, DE, EE, FR, GR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
+> BE, BG, CZ, DE, EE, ES, FR, GR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **1** seats (+1 seats)
+Current median: **2** seats (+2 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> GR
+> ES, GR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 1 | 1–2 | 0–3 | 0–3 | 0–3 |
+| Parties currently not represented in the EP | EU | 0 | 2 | 1–4 | 1–4 | 0–5 | 0–5 |
+| Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -52,12 +54,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 53% | 92% | Median |
-| 2 | 33% | 39% |  |
-| 3 | 5% | 6% |  |
-| 4 | 0.4% | 0.5% |  |
-| 5 | 0% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 31% | 96% |  |
+| 2 | 29% | 65% | Median |
+| 3 | 17% | 35% |  |
+| 4 | 13% | 18% |  |
+| 5 | 4% | 4% |  |
+| 6 | 0.5% | 0.5% |  |
+| 7 | 0% | 0% |  |
 
 
