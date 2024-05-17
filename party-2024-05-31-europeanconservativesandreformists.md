@@ -25,7 +25,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vox | ES | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Reconquête | FR | | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3–4 | 2–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 2–4 |
 | Občanská demokratická strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -61,13 +61,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.2% | 99.9% |  |
 | 69 | 0.4% | 99.7% |  |
 | 70 | 0.7% | 99.3% |  |
-| 71 | 1.2% | 98.6% |  |
+| 71 | 1.2% | 98.5% |  |
 | 72 | 2% | 97% |  |
 | 73 | 3% | 96% |  |
 | 74 | 4% | 93% |  |
 | 75 | 5% | 89% |  |
 | 76 | 7% | 84% |  |
-| 77 | 8% | 78% |  |
+| 77 | 8% | 77% |  |
 | 78 | 10% | 69% |  |
 | 79 | 11% | 59% | Median |
 | 80 | 11% | 48% |  |
@@ -78,7 +78,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 3% | 7% |  |
 | 86 | 2% | 4% |  |
 | 87 | 1.0% | 2% |  |
-| 88 | 0.5% | 0.8% |  |
+| 88 | 0.5% | 0.7% |  |
 | 89 | 0.2% | 0.3% |  |
 | 90 | 0.1% | 0.1% |  |
 | 91 | 0% | 0% |  |
