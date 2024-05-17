@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 83 | 79–88 | 77–89 | 76–91 | 74–93 |
+| Renew Europe | EU | 98 | 83 | 78–88 | 77–89 | 76–90 | 74–92 |
 | La République en marche–Mouvement démocrate | FR | | 15 | 14–18 | 14–18 | 13–18 | 13–19 |
 | ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -29,8 +29,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Uniunea Salvați România | RO | | 4 | 3–7 | 3–7 | 3–7 | 2–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Freie Demokratische Partei | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 3 | 3 | 3 | 2–4 |
-| Движение за права и свободи | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Reformierakond | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -38,6 +37,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,31 +73,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0% | 100% |  |
+| 71 | 0.1% | 100% |  |
 | 72 | 0.1% | 99.9% |  |
-| 73 | 0.2% | 99.9% |  |
-| 74 | 0.5% | 99.6% |  |
-| 75 | 0.9% | 99.2% |  |
-| 76 | 1.5% | 98% |  |
-| 77 | 2% | 97% |  |
-| 78 | 4% | 94% |  |
-| 79 | 5% | 91% |  |
-| 80 | 7% | 86% |  |
-| 81 | 9% | 79% |  |
-| 82 | 10% | 70% |  |
-| 83 | 11% | 60% | Median |
-| 84 | 11% | 49% |  |
-| 85 | 10% | 39% |  |
-| 86 | 8% | 29% |  |
-| 87 | 7% | 20% |  |
-| 88 | 5% | 14% |  |
-| 89 | 4% | 8% |  |
-| 90 | 2% | 5% |  |
-| 91 | 1.3% | 3% |  |
-| 92 | 0.7% | 1.3% |  |
-| 93 | 0.3% | 0.6% |  |
-| 94 | 0.2% | 0.2% |  |
-| 95 | 0.1% | 0.1% |  |
+| 73 | 0.3% | 99.8% |  |
+| 74 | 0.6% | 99.5% |  |
+| 75 | 1.0% | 98.9% |  |
+| 76 | 2% | 98% |  |
+| 77 | 3% | 96% |  |
+| 78 | 4% | 93% |  |
+| 79 | 6% | 89% |  |
+| 80 | 7% | 84% |  |
+| 81 | 9% | 76% |  |
+| 82 | 10% | 67% |  |
+| 83 | 11% | 57% | Median |
+| 84 | 10% | 46% |  |
+| 85 | 9% | 36% |  |
+| 86 | 8% | 26% |  |
+| 87 | 6% | 18% |  |
+| 88 | 5% | 12% |  |
+| 89 | 3% | 7% |  |
+| 90 | 2% | 4% |  |
+| 91 | 1.2% | 2% |  |
+| 92 | 0.6% | 1.1% |  |
+| 93 | 0.3% | 0.5% |  |
+| 94 | 0.1% | 0.2% |  |
+| 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
 | 98 | 0% | 0% | Last Result |
