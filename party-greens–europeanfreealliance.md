@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **53** seats (-14 seats)
+Current median: **52** seats (-15 seats)
 
 At least one member in **17 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 53 | 49–57 | 48–58 | 47–59 | 44–61 |
+| Greens–European Free Alliance | EU | 67 | 52 | 48–57 | 46–58 | 45–59 | 42–61 |
 | Bündnis 90/Die Grünen | DE | | 13 | 13–16 | 12–17 | 11–17 | 11–18 |
-| Europe Écologie Les Verts | FR | | 6 | 5–8 | 5–8 | 5–9 | 0–9 |
-| GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Europe Écologie Les Verts | FR | | 6 | 4–7 | 0–8 | 0–8 | 0–9 |
+| GroenLinks | NL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -40,7 +40,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | VESNA–Zelena stranka | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Volt Europa | DE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Volt Europa | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -70,26 +70,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.1% | 99.9% |  |
-| 44 | 0.3% | 99.8% |  |
-| 45 | 0.6% | 99.5% |  |
-| 46 | 1.2% | 98.9% |  |
-| 47 | 2% | 98% |  |
-| 48 | 4% | 95% |  |
-| 49 | 7% | 91% |  |
-| 50 | 9% | 84% |  |
-| 51 | 11% | 75% |  |
-| 52 | 12% | 64% |  |
-| 53 | 12% | 51% | Median |
-| 54 | 11% | 39% |  |
-| 55 | 9% | 28% |  |
-| 56 | 7% | 18% |  |
-| 57 | 5% | 11% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.4% | 99.7% |  |
+| 43 | 0.7% | 99.4% |  |
+| 44 | 1.0% | 98.7% |  |
+| 45 | 2% | 98% |  |
+| 46 | 2% | 96% |  |
+| 47 | 3% | 94% |  |
+| 48 | 5% | 91% |  |
+| 49 | 7% | 85% |  |
+| 50 | 9% | 78% |  |
+| 51 | 11% | 69% |  |
+| 52 | 12% | 58% | Median |
+| 53 | 11% | 47% |  |
+| 54 | 10% | 36% |  |
+| 55 | 9% | 25% |  |
+| 56 | 7% | 17% |  |
+| 57 | 5% | 10% |  |
 | 58 | 3% | 6% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.9% | 1.4% |  |
-| 61 | 0.4% | 0.5% |  |
+| 60 | 0.8% | 1.3% |  |
+| 61 | 0.3% | 0.5% |  |
 | 62 | 0.1% | 0.2% |  |
 | 63 | 0% | 0.1% |  |
 | 64 | 0% | 0% |  |

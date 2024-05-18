@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **43** seats (+4 seats)
+Current median: **42** seats (+3 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 43 | 39–46 | 38–47 | 38–48 | 36–49 |
-| La France insoumise | FR | | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
-| Sinn Féin | IE | | 5 | 3–5 | 3–5 | 3–6 | 3–6 |
+| European United Left–Nordic Green Left | EU | 39 | 42 | 38–45 | 37–46 | 36–47 | 34–49 |
+| La France insoumise | FR | | 7 | 6–8 | 5–9 | 5–9 | 0–10 |
+| Sinn Féin | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Independents 4 Change | IE | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Independents | IE | | 2 | 2 | 2 | 2 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partij voor de Dieren | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
@@ -37,8 +36,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Socialistische Partij | NL | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,6 +47,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
+| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -61,24 +61,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0.2% | 99.9% |  |
-| 36 | 0.5% | 99.7% |  |
-| 37 | 1.4% | 99.2% |  |
-| 38 | 3% | 98% |  |
-| 39 | 6% | 95% | Last Result |
-| 40 | 9% | 89% |  |
-| 41 | 12% | 80% |  |
-| 42 | 14% | 68% |  |
-| 43 | 15% | 54% | Median |
-| 44 | 14% | 39% |  |
-| 45 | 11% | 25% |  |
-| 46 | 7% | 15% |  |
-| 47 | 4% | 7% |  |
-| 48 | 2% | 3% |  |
-| 49 | 0.8% | 1.2% |  |
-| 50 | 0.3% | 0.4% |  |
-| 51 | 0.1% | 0.1% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0.1% | 99.9% |  |
+| 32 | 0.1% | 99.9% |  |
+| 33 | 0.2% | 99.8% |  |
+| 34 | 0.4% | 99.5% |  |
+| 35 | 1.0% | 99.1% |  |
+| 36 | 2% | 98% |  |
+| 37 | 4% | 96% |  |
+| 38 | 6% | 92% |  |
+| 39 | 9% | 86% | Last Result |
+| 40 | 12% | 77% |  |
+| 41 | 13% | 65% |  |
+| 42 | 14% | 51% | Median |
+| 43 | 12% | 38% |  |
+| 44 | 10% | 26% |  |
+| 45 | 7% | 16% |  |
+| 46 | 4% | 9% |  |
+| 47 | 2% | 4% |  |
+| 48 | 1.1% | 2% |  |
+| 49 | 0.4% | 0.7% |  |
+| 50 | 0.1% | 0.2% |  |
+| 51 | 0% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
 
