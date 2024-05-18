@@ -18,12 +18,12 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 52 | 48–57 | 46–58 | 45–59 | 42–61 |
-| Bündnis 90/Die Grünen | DE | | 13 | 13–16 | 12–17 | 11–17 | 11–18 |
-| Europe Écologie Les Verts | FR | | 6 | 4–7 | 0–8 | 0–8 | 0–9 |
-| GroenLinks | NL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| Greens–European Free Alliance | EU | 67 | 52 | 48–57 | 46–58 | 45–59 | 42–60 |
+| Bündnis 90/Die Grünen | DE | | 14 | 13–16 | 12–17 | 11–17 | 11–18 |
+| Europe Écologie Les Verts | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–9 |
+| GroenLinks | NL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Miljöpartiet de gröna | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -39,7 +39,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | VESNA–Zelena stranka | SI | | 1 | 1 | 1 | 1 | 0–1 |
-| Volt Europa | DE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Volt Europa | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alianța AER pentru România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
@@ -73,16 +73,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
 | 42 | 0.4% | 99.7% |  |
-| 43 | 0.7% | 99.4% |  |
-| 44 | 1.0% | 98.7% |  |
+| 43 | 0.7% | 99.3% |  |
+| 44 | 1.1% | 98.7% |  |
 | 45 | 2% | 98% |  |
 | 46 | 2% | 96% |  |
 | 47 | 3% | 94% |  |
-| 48 | 5% | 91% |  |
+| 48 | 5% | 90% |  |
 | 49 | 7% | 85% |  |
 | 50 | 9% | 78% |  |
 | 51 | 11% | 69% |  |
-| 52 | 12% | 58% | Median |
+| 52 | 11% | 59% | Median |
 | 53 | 11% | 47% |  |
 | 54 | 10% | 36% |  |
 | 55 | 9% | 25% |  |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 5% | 10% |  |
 | 58 | 3% | 6% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.8% | 1.3% |  |
+| 60 | 0.8% | 1.2% |  |
 | 61 | 0.3% | 0.5% |  |
 | 62 | 0.1% | 0.2% |  |
 | 63 | 0% | 0.1% |  |

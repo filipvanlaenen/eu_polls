@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 42 | 38–45 | 37–46 | 36–47 | 34–49 |
+| European United Left–Nordic Green Left | EU | 39 | 42 | 38–46 | 37–47 | 36–47 | 34–49 |
 | La France insoumise | FR | | 7 | 6–8 | 5–9 | 5–9 | 0–10 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -32,12 +32,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -47,7 +48,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -61,28 +61,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0% | 100% |  |
-| 31 | 0.1% | 99.9% |  |
+| 31 | 0.1% | 100% |  |
 | 32 | 0.1% | 99.9% |  |
 | 33 | 0.2% | 99.8% |  |
-| 34 | 0.4% | 99.5% |  |
-| 35 | 1.0% | 99.1% |  |
+| 34 | 0.4% | 99.6% |  |
+| 35 | 0.8% | 99.2% |  |
 | 36 | 2% | 98% |  |
-| 37 | 4% | 96% |  |
-| 38 | 6% | 92% |  |
-| 39 | 9% | 86% | Last Result |
-| 40 | 12% | 77% |  |
-| 41 | 13% | 65% |  |
-| 42 | 14% | 51% | Median |
-| 43 | 12% | 38% |  |
-| 44 | 10% | 26% |  |
-| 45 | 7% | 16% |  |
-| 46 | 4% | 9% |  |
-| 47 | 2% | 4% |  |
-| 48 | 1.1% | 2% |  |
-| 49 | 0.4% | 0.7% |  |
-| 50 | 0.1% | 0.2% |  |
-| 51 | 0% | 0.1% |  |
+| 37 | 3% | 97% |  |
+| 38 | 5% | 94% |  |
+| 39 | 8% | 88% | Last Result |
+| 40 | 11% | 80% |  |
+| 41 | 13% | 70% |  |
+| 42 | 14% | 57% | Median |
+| 43 | 13% | 43% |  |
+| 44 | 11% | 30% |  |
+| 45 | 8% | 19% |  |
+| 46 | 5% | 11% |  |
+| 47 | 3% | 5% |  |
+| 48 | 1.4% | 2% |  |
+| 49 | 0.6% | 0.8% |  |
+| 50 | 0.2% | 0.3% |  |
+| 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
 
