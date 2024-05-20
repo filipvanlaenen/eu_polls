@@ -8,21 +8,21 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **36** seats (-3 seats)
+Current median: **37** seats (-2 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, PT, SE
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 36 | 33–39 | 32–40 | 31–41 | 29–43 |
+| European United Left–Nordic Green Left | EU | 39 | 37 | 34–40 | 33–41 | 32–42 | 30–44 |
 | La France insoumise | FR | | 7 | 6–8 | 5–8 | 5–9 | 0–9 |
 | Sinn Féin | IE | | 4 | 4 | 4 | 4 | 4 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -35,7 +35,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,8 +46,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialistische Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -61,25 +61,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
+| 26 | 0% | 100% |  |
 | 27 | 0.1% | 99.9% |  |
-| 28 | 0.2% | 99.8% |  |
-| 29 | 0.3% | 99.6% |  |
-| 30 | 0.7% | 99.3% |  |
-| 31 | 2% | 98.6% |  |
-| 32 | 4% | 97% |  |
-| 33 | 7% | 93% |  |
-| 34 | 11% | 86% |  |
-| 35 | 14% | 76% |  |
-| 36 | 16% | 62% | Median |
-| 37 | 15% | 46% |  |
-| 38 | 13% | 31% |  |
-| 39 | 9% | 18% | Last Result |
-| 40 | 5% | 9% |  |
-| 41 | 2% | 4% |  |
-| 42 | 1.0% | 2% |  |
-| 43 | 0.4% | 0.5% |  |
-| 44 | 0.1% | 0.2% |  |
-| 45 | 0% | 0% |  |
+| 28 | 0.1% | 99.9% |  |
+| 29 | 0.2% | 99.8% |  |
+| 30 | 0.4% | 99.6% |  |
+| 31 | 1.0% | 99.1% |  |
+| 32 | 2% | 98% |  |
+| 33 | 4% | 96% |  |
+| 34 | 7% | 92% |  |
+| 35 | 11% | 84% |  |
+| 36 | 14% | 74% |  |
+| 37 | 15% | 60% | Median |
+| 38 | 14% | 45% |  |
+| 39 | 12% | 31% | Last Result |
+| 40 | 9% | 19% |  |
+| 41 | 5% | 10% |  |
+| 42 | 3% | 5% |  |
+| 43 | 1.2% | 2% |  |
+| 44 | 0.4% | 0.6% |  |
+| 45 | 0.1% | 0.2% |  |
+| 46 | 0% | 0% |  |
 
 

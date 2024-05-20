@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **133** seats (-14 seats)
+Current median: **131** seats (-16 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 133 | 128–139 | 127–140 | 125–141 | 123–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 131 | 126–137 | 124–139 | 123–140 | 120–142 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–15 | 12–17 | 11–17 | 11–17 |
 | Parti socialiste | FR | | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
-| Partidul Social Democrat | RO | | 9 | 6–11 | 6–11 | 6–11 | 6–12 |
 | Partido Socialista | PT | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| Partidul Social Democrat | RO | | 7 | 5–10 | 5–11 | 4–11 | 4–12 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Partij van de Arbeid | NL | | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Partij van de Arbeid | NL | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratikus Koalíció | HU | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -50,7 +50,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche–La Convention | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -63,34 +63,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 120 | 0% | 100% |  |
-| 121 | 0.1% | 99.9% |  |
-| 122 | 0.2% | 99.9% |  |
-| 123 | 0.4% | 99.7% |  |
-| 124 | 0.7% | 99.3% |  |
-| 125 | 1.2% | 98.6% |  |
-| 126 | 2% | 97% |  |
-| 127 | 3% | 96% |  |
-| 128 | 4% | 93% |  |
-| 129 | 5% | 89% |  |
-| 130 | 7% | 83% |  |
-| 131 | 8% | 76% |  |
-| 132 | 9% | 68% |  |
-| 133 | 10% | 59% | Median |
-| 134 | 10% | 49% |  |
-| 135 | 9% | 40% |  |
-| 136 | 8% | 31% |  |
-| 137 | 7% | 23% |  |
-| 138 | 5% | 16% |  |
-| 139 | 4% | 11% |  |
-| 140 | 3% | 7% |  |
-| 141 | 2% | 4% |  |
-| 142 | 1.1% | 2% |  |
-| 143 | 0.6% | 1.2% |  |
-| 144 | 0.3% | 0.6% |  |
-| 145 | 0.2% | 0.3% |  |
-| 146 | 0.1% | 0.1% |  |
-| 147 | 0% | 0.1% | Last Result |
-| 148 | 0% | 0% |  |
+| 118 | 0.1% | 100% |  |
+| 119 | 0.1% | 99.9% |  |
+| 120 | 0.3% | 99.7% |  |
+| 121 | 0.6% | 99.4% |  |
+| 122 | 1.0% | 98.9% |  |
+| 123 | 2% | 98% |  |
+| 124 | 2% | 96% |  |
+| 125 | 4% | 94% |  |
+| 126 | 5% | 90% |  |
+| 127 | 6% | 86% |  |
+| 128 | 7% | 80% |  |
+| 129 | 8% | 73% |  |
+| 130 | 8% | 65% |  |
+| 131 | 9% | 56% | Median |
+| 132 | 9% | 48% |  |
+| 133 | 8% | 39% |  |
+| 134 | 7% | 31% |  |
+| 135 | 6% | 24% |  |
+| 136 | 5% | 17% |  |
+| 137 | 4% | 12% |  |
+| 138 | 3% | 8% |  |
+| 139 | 2% | 5% |  |
+| 140 | 1.3% | 3% |  |
+| 141 | 0.8% | 2% |  |
+| 142 | 0.5% | 0.9% |  |
+| 143 | 0.2% | 0.5% |  |
+| 144 | 0.1% | 0.2% |  |
+| 145 | 0.1% | 0.1% |  |
+| 146 | 0% | 0% |  |
+| 147 | 0% | 0% | Last Result |
 
 
