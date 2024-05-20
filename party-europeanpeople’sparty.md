@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **187** seats (General Election of 26 May 2019)
 
-Current median: **179** seats (-8 seats)
+Current median: **180** seats (-7 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 179 | 174–184 | 173–185 | 172–186 | 169–189 |
+| European People’s Party | EU | 187 | 180 | 175–184 | 173–186 | 172–187 | 169–189 |
 | Partido Popular | ES | | 24 | 23–26 | 22–28 | 22–28 | 22–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 21–23 | 20–24 | 20–24 | 19–25 |
 | Platforma Obywatelska | PL | | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| Aliança Democrática | PT | | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 5–8 | 0–9 |
 | Partidul Național Liberal | RO | | 6 | 4–10 | 4–10 | 4–10 | 4–11 |
@@ -77,38 +77,39 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-05-31-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-05-23-seats-pmf-europeanpeople’sparty.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-05-31.html) for European People’s Party.
+The following table shows the probability mass function per seat for the [poll average](average-2024-05-23.html) for European People’s Party.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 166 | 0% | 100% |  |
 | 167 | 0.1% | 99.9% |  |
-| 168 | 0.2% | 99.8% |  |
-| 169 | 0.3% | 99.6% |  |
-| 170 | 0.6% | 99.3% |  |
-| 171 | 1.1% | 98.6% |  |
-| 172 | 2% | 98% |  |
-| 173 | 3% | 96% |  |
-| 174 | 4% | 93% |  |
-| 175 | 6% | 89% |  |
-| 176 | 8% | 83% |  |
-| 177 | 9% | 75% |  |
-| 178 | 10% | 66% |  |
-| 179 | 11% | 56% | Median |
-| 180 | 10% | 45% |  |
-| 181 | 9% | 34% |  |
-| 182 | 8% | 25% |  |
-| 183 | 6% | 17% |  |
-| 184 | 4% | 11% |  |
-| 185 | 3% | 7% |  |
-| 186 | 2% | 4% |  |
-| 187 | 1.1% | 2% | Last Result |
-| 188 | 0.6% | 1.1% |  |
-| 189 | 0.3% | 0.5% |  |
-| 190 | 0.1% | 0.2% |  |
-| 191 | 0.1% | 0.1% |  |
-| 192 | 0% | 0% |  |
+| 168 | 0.1% | 99.9% |  |
+| 169 | 0.3% | 99.7% |  |
+| 170 | 0.5% | 99.4% |  |
+| 171 | 0.9% | 99.0% |  |
+| 172 | 1.4% | 98% |  |
+| 173 | 2% | 97% |  |
+| 174 | 4% | 94% |  |
+| 175 | 5% | 91% |  |
+| 176 | 7% | 86% |  |
+| 177 | 8% | 79% |  |
+| 178 | 10% | 71% |  |
+| 179 | 10% | 61% |  |
+| 180 | 11% | 51% | Median |
+| 181 | 10% | 40% |  |
+| 182 | 9% | 30% |  |
+| 183 | 7% | 22% |  |
+| 184 | 5% | 15% |  |
+| 185 | 4% | 9% |  |
+| 186 | 2% | 6% |  |
+| 187 | 1.5% | 3% | Last Result |
+| 188 | 0.9% | 2% |  |
+| 189 | 0.5% | 0.8% |  |
+| 190 | 0.2% | 0.4% |  |
+| 191 | 0.1% | 0.2% |  |
+| 192 | 0% | 0.1% |  |
+| 193 | 0% | 0% |  |
 
 
