@@ -18,26 +18,26 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 52 | 49–55 | 48–56 | 47–57 | 46–59 |
+| Non-Inscrits | EU | 29 | 52 | 49–56 | 48–56 | 47–57 | 46–59 |
 | Movimento 5 Stelle | IT | | 13 | 12–15 | 12–15 | 11–16 | 10–17 |
 | Fidesz | HU | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Bündnis Sahra Wagenknecht | DE | | 6 | 4–8 | 4–8 | 4–8 | 3–8 |
-| HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| SMER–sociálna demokracia | SK | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die PARTEI | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Nowa Nadzieja | PL | | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
-| REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| REPUBLIKA | SK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Lewica Razem | PL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Lewica Razem | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -69,21 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 0% | 100% |  |
 | 42 | 0% | 100% |  |
 | 43 | 0% | 100% |  |
-| 44 | 0.1% | 100% |  |
-| 45 | 0.3% | 99.9% |  |
-| 46 | 1.1% | 99.6% |  |
-| 47 | 3% | 98.6% |  |
-| 48 | 6% | 96% |  |
-| 49 | 9% | 90% |  |
-| 50 | 12% | 81% |  |
-| 51 | 14% | 69% |  |
-| 52 | 14% | 56% | Median |
-| 53 | 13% | 41% |  |
-| 54 | 11% | 28% |  |
-| 55 | 8% | 17% |  |
-| 56 | 5% | 9% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.2% | 100% |  |
+| 46 | 0.8% | 99.8% |  |
+| 47 | 2% | 99.0% |  |
+| 48 | 5% | 97% |  |
+| 49 | 8% | 92% |  |
+| 50 | 11% | 84% |  |
+| 51 | 14% | 72% |  |
+| 52 | 15% | 58% | Median |
+| 53 | 14% | 44% |  |
+| 54 | 11% | 30% |  |
+| 55 | 8% | 19% |  |
+| 56 | 5% | 10% |  |
 | 57 | 3% | 5% |  |
-| 58 | 1.2% | 2% |  |
+| 58 | 1.3% | 2% |  |
 | 59 | 0.5% | 0.8% |  |
 | 60 | 0.2% | 0.3% |  |
 | 61 | 0.1% | 0.1% |  |
