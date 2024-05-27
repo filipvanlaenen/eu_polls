@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, DE, EE, ES, FR, GR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
+> BE, BG, CY, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
 
 ## Seats
 
@@ -10,23 +10,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 Current median: **2** seats (+2 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> ES, GR
+> DE, ES, GR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 2 | 1–4 | 0–4 | 0–5 | 0–5 |
+| Parties currently not represented in the EP | EU | 0 | 2 | 1–4 | 0–4 | 0–5 | 0–6 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -55,13 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 34% | 92% |  |
-| 2 | 32% | 58% | Median |
-| 3 | 17% | 27% |  |
-| 4 | 7% | 10% |  |
-| 5 | 2% | 3% |  |
-| 6 | 0.4% | 0.4% |  |
-| 7 | 0% | 0% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 28% | 94% |  |
+| 2 | 35% | 66% | Median |
+| 3 | 19% | 31% |  |
+| 4 | 9% | 12% |  |
+| 5 | 3% | 3% |  |
+| 6 | 0.5% | 0.6% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 

@@ -18,10 +18,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 127–138 | 125–140 | 124–141 | 122–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–138 | 125–140 | 124–141 | 121–143 |
 | Partido Socialista Obrero Español | ES | | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | Partito Democratico | IT | | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–15 | 12–17 | 11–17 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–15 | 11–17 | 11–17 | 11–17 |
 | Parti socialiste | FR | | 13 | 11–15 | 11–15 | 10–15 | 9–16 |
 | Partido Socialista | PT | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Partidul Social Democrat | RO | | 7 | 5–10 | 5–11 | 4–11 | 4–12 |
@@ -33,7 +33,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Nowa Lewica | PL | | 3 | 2–4 | 2–4 | 0–5 | 0–5 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Socijaldemokratska partija Hrvatske | HR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -53,7 +53,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -63,35 +63,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 119 | 0.1% | 100% |  |
-| 120 | 0.1% | 99.9% |  |
-| 121 | 0.3% | 99.8% |  |
-| 122 | 0.5% | 99.5% |  |
-| 123 | 0.9% | 99.0% |  |
-| 124 | 1.4% | 98% |  |
-| 125 | 2% | 97% |  |
-| 126 | 3% | 94% |  |
-| 127 | 4% | 91% |  |
-| 128 | 6% | 87% |  |
-| 129 | 7% | 81% |  |
-| 130 | 8% | 74% |  |
-| 131 | 8% | 67% |  |
-| 132 | 9% | 58% | Median |
-| 133 | 9% | 50% |  |
-| 134 | 8% | 41% |  |
-| 135 | 8% | 33% |  |
-| 136 | 7% | 25% |  |
-| 137 | 5% | 19% |  |
-| 138 | 4% | 13% |  |
-| 139 | 3% | 9% |  |
-| 140 | 2% | 6% |  |
-| 141 | 1.5% | 3% |  |
-| 142 | 0.9% | 2% |  |
-| 143 | 0.5% | 1.1% |  |
-| 144 | 0.3% | 0.6% |  |
-| 145 | 0.1% | 0.3% |  |
+| 118 | 0% | 100% |  |
+| 119 | 0.1% | 99.9% |  |
+| 120 | 0.2% | 99.9% |  |
+| 121 | 0.3% | 99.7% |  |
+| 122 | 0.6% | 99.4% |  |
+| 123 | 1.0% | 98.7% |  |
+| 124 | 2% | 98% |  |
+| 125 | 3% | 96% |  |
+| 126 | 4% | 93% |  |
+| 127 | 5% | 90% |  |
+| 128 | 6% | 85% |  |
+| 129 | 7% | 79% |  |
+| 130 | 8% | 72% |  |
+| 131 | 8% | 65% |  |
+| 132 | 9% | 56% | Median |
+| 133 | 9% | 47% |  |
+| 134 | 8% | 39% |  |
+| 135 | 7% | 31% |  |
+| 136 | 6% | 24% |  |
+| 137 | 5% | 17% |  |
+| 138 | 4% | 12% |  |
+| 139 | 3% | 8% |  |
+| 140 | 2% | 5% |  |
+| 141 | 1.3% | 3% |  |
+| 142 | 0.8% | 2% |  |
+| 143 | 0.5% | 1.0% |  |
+| 144 | 0.3% | 0.5% |  |
+| 145 | 0.1% | 0.2% |  |
 | 146 | 0.1% | 0.1% |  |
-| 147 | 0% | 0.1% | Last Result |
-| 148 | 0% | 0% |  |
+| 147 | 0% | 0% | Last Result |
 
 
