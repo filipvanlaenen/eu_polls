@@ -8,25 +8,26 @@ Members registered from **17 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (-2 seats)
+Current median: **38** seats (-1 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, NL, PT, SE
+> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, IT, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 37 | 33–40 | 32–41 | 31–41 | 29–43 |
+| European United Left–Nordic Green Left | EU | 39 | 38 | 34–41 | 33–42 | 32–43 | 30–44 |
 | La France insoumise | FR | | 7 | 6–8 | 5–8 | 5–9 | 0–10 |
 | Sinn Féin | IE | | 4 | 4 | 4 | 4 | 4 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Die Linke | DE | | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
+| Stačilo! | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -41,14 +42,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
-| Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -60,26 +60,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.1% | 99.9% |  |
-| 28 | 0.2% | 99.8% |  |
-| 29 | 0.3% | 99.6% |  |
-| 30 | 0.6% | 99.4% |  |
-| 31 | 1.5% | 98.7% |  |
-| 32 | 3% | 97% |  |
-| 33 | 6% | 94% |  |
-| 34 | 9% | 88% |  |
-| 35 | 13% | 79% |  |
-| 36 | 15% | 66% |  |
-| 37 | 15% | 51% | Median |
-| 38 | 13% | 36% |  |
-| 39 | 10% | 22% | Last Result |
-| 40 | 6% | 12% |  |
-| 41 | 3% | 6% |  |
-| 42 | 2% | 2% |  |
-| 43 | 0.6% | 0.9% |  |
-| 44 | 0.2% | 0.3% |  |
-| 45 | 0.1% | 0.1% |  |
-| 46 | 0% | 0% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0.1% | 99.9% |  |
+| 29 | 0.2% | 99.8% |  |
+| 30 | 0.3% | 99.7% |  |
+| 31 | 0.6% | 99.4% |  |
+| 32 | 1.4% | 98.7% |  |
+| 33 | 3% | 97% |  |
+| 34 | 5% | 94% |  |
+| 35 | 9% | 89% |  |
+| 36 | 12% | 81% |  |
+| 37 | 14% | 69% |  |
+| 38 | 15% | 54% | Median |
+| 39 | 14% | 39% | Last Result |
+| 40 | 11% | 26% |  |
+| 41 | 7% | 15% |  |
+| 42 | 4% | 8% |  |
+| 43 | 2% | 3% |  |
+| 44 | 0.9% | 1.3% |  |
+| 45 | 0.3% | 0.4% |  |
+| 46 | 0.1% | 0.1% |  |
+| 47 | 0% | 0% |  |
 
 
