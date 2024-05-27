@@ -24,7 +24,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partij voor de Vrijheid | NL | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | Lega Nord | IT | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Chega | PT | | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
 | Ruch Narodowy | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
