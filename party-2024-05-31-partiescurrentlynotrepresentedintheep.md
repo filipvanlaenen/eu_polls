@@ -8,22 +8,22 @@ Members registered from **20 countries**:
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **2** seats (+2 seats)
+Current median: **3** seats (+3 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> DE, ES, GR
+> ES, GR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 2 | 1–4 | 1–5 | 1–5 | 0–6 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 1–5 | 1–5 | 0–6 | 0–7 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -39,7 +39,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -57,14 +57,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 16% | 98% |  |
-| 2 | 35% | 82% | Median |
-| 3 | 26% | 47% |  |
-| 4 | 14% | 21% |  |
-| 5 | 6% | 7% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0.2% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 16% | 96% |  |
+| 2 | 28% | 80% |  |
+| 3 | 26% | 53% | Median |
+| 4 | 16% | 27% |  |
+| 5 | 7% | 11% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.6% | 0.8% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 

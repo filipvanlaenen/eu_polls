@@ -18,23 +18,23 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 84 | 78–89 | 77–90 | 76–92 | 73–94 |
-| La République en marche–Mouvement démocrate | FR | | 15 | 13–17 | 13–18 | 13–18 | 12–20 |
-| ANO 2011 | CZ | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| Renew Europe | EU | 98 | 84 | 78–89 | 77–91 | 76–92 | 73–94 |
+| La République en marche–Mouvement démocrate | FR | | 15 | 13–18 | 13–18 | 12–19 | 12–20 |
+| ANO 2011 | CZ | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Uniunea Salvați România | RO | | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4 |
-| Freie Wähler | DE | | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Freie Wähler | DE | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Polska 2050 | PL | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Azione | IT | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Gibanje Svoboda | SI | | 2 | 2 | 2 | 2 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -81,25 +81,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 2% | 98% |  |
 | 77 | 3% | 96% |  |
 | 78 | 4% | 93% |  |
-| 79 | 5% | 89% |  |
-| 80 | 6% | 84% |  |
-| 81 | 7% | 78% |  |
-| 82 | 8% | 71% |  |
-| 83 | 9% | 62% |  |
-| 84 | 9% | 53% | Median |
-| 85 | 9% | 44% |  |
-| 86 | 9% | 34% |  |
-| 87 | 7% | 26% |  |
-| 88 | 6% | 18% |  |
-| 89 | 5% | 12% |  |
-| 90 | 3% | 8% |  |
-| 91 | 2% | 5% |  |
-| 92 | 1.2% | 3% |  |
-| 93 | 0.7% | 1.3% |  |
-| 94 | 0.4% | 0.7% |  |
-| 95 | 0.2% | 0.3% |  |
-| 96 | 0.1% | 0.1% |  |
-| 97 | 0% | 0.1% |  |
+| 79 | 5% | 90% |  |
+| 80 | 6% | 85% |  |
+| 81 | 7% | 79% |  |
+| 82 | 8% | 72% |  |
+| 83 | 9% | 64% |  |
+| 84 | 9% | 55% | Median |
+| 85 | 9% | 45% |  |
+| 86 | 9% | 36% |  |
+| 87 | 8% | 28% |  |
+| 88 | 6% | 20% |  |
+| 89 | 5% | 14% |  |
+| 90 | 3% | 9% |  |
+| 91 | 2% | 6% |  |
+| 92 | 1.5% | 3% |  |
+| 93 | 0.9% | 2% |  |
+| 94 | 0.5% | 0.9% |  |
+| 95 | 0.3% | 0.5% |  |
+| 96 | 0.1% | 0.2% |  |
+| 97 | 0.1% | 0.1% |  |
 | 98 | 0% | 0% | Last Result |
 
 
