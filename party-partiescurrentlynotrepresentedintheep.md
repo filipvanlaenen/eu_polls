@@ -18,14 +18,14 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–5 | 1–5 | 0–6 | 0–7 |
-| Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–5 | 0–5 | 0–6 |
+| Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -44,6 +44,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,15 +58,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 16% | 96% |  |
-| 2 | 28% | 80% |  |
-| 3 | 26% | 53% | Median |
-| 4 | 16% | 27% |  |
-| 5 | 7% | 11% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.6% | 0.8% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 15% | 97% |  |
+| 2 | 30% | 82% |  |
+| 3 | 29% | 52% | Median |
+| 4 | 16% | 23% |  |
+| 5 | 5% | 7% |  |
+| 6 | 1.1% | 1.3% |  |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
 
 
