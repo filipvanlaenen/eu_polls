@@ -18,11 +18,12 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–5 | 0–5 | 0–6 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–5 | 1–6 | 0–7 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -31,16 +32,15 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -58,14 +58,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 15% | 97% |  |
-| 2 | 30% | 82% |  |
-| 3 | 29% | 52% | Median |
-| 4 | 16% | 23% |  |
-| 5 | 5% | 7% |  |
-| 6 | 1.1% | 1.3% |  |
-| 7 | 0.2% | 0.2% |  |
-| 8 | 0% | 0% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 13% | 98% |  |
+| 2 | 27% | 85% |  |
+| 3 | 30% | 57% | Median |
+| 4 | 18% | 28% |  |
+| 5 | 7% | 9% |  |
+| 6 | 2% | 3% |  |
+| 7 | 0.5% | 0.8% |  |
+| 8 | 0.2% | 0.3% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 

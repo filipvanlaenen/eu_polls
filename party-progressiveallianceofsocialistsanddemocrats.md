@@ -18,26 +18,26 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–137 | 125–139 | 124–140 | 122–143 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–137 | 125–139 | 123–140 | 121–142 |
 | Partido Socialista Obrero Español | ES | | 20 | 19–21 | 18–21 | 17–22 | 16–23 |
-| Partito Democratico | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| Partito Democratico | IT | | 17 | 15–20 | 15–20 | 15–20 | 13–21 |
 | Parti socialiste | FR | | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
-| Sozialdemokratische Partei Deutschlands | DE | | 11 | 11–15 | 11–15 | 11–16 | 11–17 |
-| Partido Socialista | PT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Partidul Social Democrat | RO | | 7 | 5–10 | 5–10 | 4–10 | 4–11 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Sozialdemokratische Partei Deutschlands | DE | | 11 | 11–14 | 11–15 | 11–15 | 11–17 |
+| Partidul Social Democrat | RO | | 9 | 5–10 | 5–10 | 4–11 | 4–11 |
+| Partido Socialista | PT | | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Nowa Lewica | PL | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Partij van de Arbeid | NL | | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Demokratikus Koalíció | HU | | 3 | 2–5 | 2–5 | 2–5 | 1–5 |
+| Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Demokratikus Koalíció | HU | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Sotsiaaldemokraatlik Erakond | EE | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
 | Българска социалистическа партия | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -62,33 +62,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 120 | 0.1% | 100% |  |
-| 121 | 0.2% | 99.9% |  |
-| 122 | 0.5% | 99.7% |  |
-| 123 | 0.9% | 99.2% |  |
-| 124 | 2% | 98% |  |
-| 125 | 3% | 97% |  |
-| 126 | 4% | 94% |  |
-| 127 | 6% | 90% |  |
-| 128 | 7% | 84% |  |
+| 118 | 0% | 100% |  |
+| 119 | 0.1% | 99.9% |  |
+| 120 | 0.2% | 99.8% |  |
+| 121 | 0.4% | 99.6% |  |
+| 122 | 0.8% | 99.2% |  |
+| 123 | 1.3% | 98% |  |
+| 124 | 2% | 97% |  |
+| 125 | 3% | 95% |  |
+| 126 | 4% | 92% |  |
+| 127 | 5% | 88% |  |
+| 128 | 6% | 83% |  |
 | 129 | 8% | 77% |  |
-| 130 | 9% | 69% |  |
-| 131 | 9% | 60% |  |
-| 132 | 9% | 51% | Median |
-| 133 | 9% | 41% |  |
-| 134 | 8% | 32% |  |
-| 135 | 7% | 24% |  |
-| 136 | 5% | 18% |  |
-| 137 | 4% | 12% |  |
+| 130 | 8% | 69% |  |
+| 131 | 9% | 61% |  |
+| 132 | 9% | 52% | Median |
+| 133 | 9% | 43% |  |
+| 134 | 8% | 34% |  |
+| 135 | 7% | 26% |  |
+| 136 | 6% | 19% |  |
+| 137 | 4% | 13% |  |
 | 138 | 3% | 8% |  |
 | 139 | 2% | 5% |  |
-| 140 | 1.3% | 3% |  |
+| 140 | 1.4% | 3% |  |
 | 141 | 0.8% | 2% |  |
-| 142 | 0.5% | 1.0% |  |
-| 143 | 0.3% | 0.5% |  |
-| 144 | 0.1% | 0.3% |  |
+| 142 | 0.5% | 0.9% |  |
+| 143 | 0.2% | 0.5% |  |
+| 144 | 0.1% | 0.2% |  |
 | 145 | 0.1% | 0.1% |  |
-| 146 | 0% | 0.1% |  |
+| 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |
 
 
