@@ -18,10 +18,10 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 130 | 124–135 | 123–136 | 121–138 | 119–140 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 130 | 124–135 | 123–136 | 121–137 | 119–140 |
 | Partido Socialista Obrero Español | ES | | 20 | 18–21 | 18–21 | 17–22 | 16–23 |
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 14–21 | 13–23 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 11–15 | 11–15 | 11–16 | 11–16 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–15 | 11–15 | 11–16 | 11–16 |
 | Parti socialiste | FR | | 12 | 11–14 | 11–15 | 11–15 | 11–16 |
 | Partidul Social Democrat | RO | | 9 | 5–10 | 5–10 | 4–11 | 4–11 |
 | Partido Socialista | PT | | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
@@ -35,7 +35,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Demokratikus Koalíció | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Demokratikus Koalíció | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–2 |
@@ -47,7 +47,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Parti radical de gauche | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -66,26 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 1.2% | 98.5% |  |
 | 122 | 2% | 97% |  |
 | 123 | 3% | 95% |  |
-| 124 | 4% | 93% |  |
-| 125 | 5% | 89% |  |
-| 126 | 6% | 84% |  |
-| 127 | 7% | 78% |  |
-| 128 | 8% | 70% |  |
-| 129 | 9% | 62% |  |
-| 130 | 9% | 52% | Median |
-| 131 | 9% | 43% |  |
-| 132 | 8% | 34% |  |
-| 133 | 7% | 26% |  |
-| 134 | 6% | 18% |  |
-| 135 | 4% | 12% |  |
-| 136 | 3% | 8% |  |
-| 137 | 2% | 5% |  |
-| 138 | 1.3% | 3% |  |
-| 139 | 0.7% | 1.4% |  |
-| 140 | 0.4% | 0.7% |  |
-| 141 | 0.2% | 0.3% |  |
+| 124 | 4% | 92% |  |
+| 125 | 5% | 88% |  |
+| 126 | 7% | 83% |  |
+| 127 | 8% | 77% |  |
+| 128 | 9% | 69% |  |
+| 129 | 9% | 60% |  |
+| 130 | 10% | 51% | Median |
+| 131 | 9% | 41% |  |
+| 132 | 8% | 32% |  |
+| 133 | 7% | 24% |  |
+| 134 | 6% | 17% |  |
+| 135 | 4% | 11% |  |
+| 136 | 3% | 7% |  |
+| 137 | 2% | 4% |  |
+| 138 | 1.1% | 2% |  |
+| 139 | 0.6% | 1.2% |  |
+| 140 | 0.3% | 0.6% |  |
+| 141 | 0.1% | 0.3% |  |
 | 142 | 0.1% | 0.1% |  |
-| 143 | 0% | 0.1% |  |
+| 143 | 0% | 0% |  |
 | 144 | 0% | 0% |  |
 | 145 | 0% | 0% |  |
 | 146 | 0% | 0% |  |
