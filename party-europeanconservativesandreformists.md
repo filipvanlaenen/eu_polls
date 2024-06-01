@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DK, ES, FI, FR, GR, HR, IT, LT, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, ES, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -34,6 +34,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
+| Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -45,9 +46,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-06-05-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-05-31-seats-pmf-europeanconservativesandreformists.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-06-05.html) for European Conservatives and Reformists.
+The following table shows the probability mass function per seat for the [poll average](average-2024-05-31.html) for European Conservatives and Reformists.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
