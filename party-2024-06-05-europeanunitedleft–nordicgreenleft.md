@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 33 | 29–36 | 28–37 | 27–38 | 26–40 |
+| European United Left–Nordic Green Left | EU | 39 | 33 | 29–37 | 28–38 | 27–39 | 26–41 |
 | La France insoumise | FR | | 6 | 5–8 | 5–8 | 5–8 | 0–9 |
-| Die Linke | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Die Linke | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Stačilo! | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -60,22 +60,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0.1% | 99.9% |  |
 | 25 | 0.3% | 99.8% |  |
-| 26 | 0.7% | 99.6% |  |
-| 27 | 2% | 98.9% |  |
+| 26 | 0.7% | 99.5% |  |
+| 27 | 2% | 98.8% |  |
 | 28 | 3% | 97% |  |
 | 29 | 6% | 94% |  |
-| 30 | 9% | 88% |  |
-| 31 | 12% | 79% |  |
-| 32 | 14% | 67% |  |
-| 33 | 15% | 53% | Median |
-| 34 | 13% | 38% |  |
-| 35 | 10% | 25% |  |
-| 36 | 7% | 15% |  |
-| 37 | 4% | 8% |  |
-| 38 | 2% | 4% |  |
-| 39 | 0.9% | 1.5% | Last Result |
-| 40 | 0.4% | 0.5% |  |
-| 41 | 0.1% | 0.2% |  |
-| 42 | 0% | 0% |  |
+| 30 | 8% | 88% |  |
+| 31 | 10% | 80% |  |
+| 32 | 12% | 70% |  |
+| 33 | 12% | 58% | Median |
+| 34 | 12% | 46% |  |
+| 35 | 11% | 35% |  |
+| 36 | 9% | 24% |  |
+| 37 | 7% | 15% |  |
+| 38 | 4% | 9% |  |
+| 39 | 2% | 4% | Last Result |
+| 40 | 1.2% | 2% |  |
+| 41 | 0.5% | 0.7% |  |
+| 42 | 0.1% | 0.2% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 

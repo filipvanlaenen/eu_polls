@@ -20,12 +20,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 172 | 167–177 | 166–179 | 165–180 | 162–182 |
 | Partido Popular | ES | | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 21–24 | 20–24 | 20–24 | 19–25 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 20–24 | 20–24 | 20–24 | 19–25 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Aliança Democrática | PT | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Νέα Δημοκρατία | GR | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 6 | 6–7 | 5–7 | 5–9 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
 | Les Républicains | FR | | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | Tisztelet és Szabadság | HU | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 169 | 7% | 83% |  |
 | 170 | 9% | 76% |  |
 | 171 | 10% | 67% |  |
-| 172 | 10% | 58% | Median |
+| 172 | 10% | 57% | Median |
 | 173 | 10% | 47% |  |
 | 174 | 9% | 37% |  |
 | 175 | 8% | 28% |  |
@@ -102,7 +102,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 178 | 3% | 9% |  |
 | 179 | 2% | 6% |  |
 | 180 | 1.4% | 3% |  |
-| 181 | 0.8% | 2% |  |
+| 181 | 0.9% | 2% |  |
 | 182 | 0.5% | 0.9% |  |
 | 183 | 0.2% | 0.4% |  |
 | 184 | 0.1% | 0.2% |  |
