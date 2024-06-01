@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 77 | 72–82 | 71–84 | 69–85 | 67–87 |
+| Renew Europe | EU | 98 | 77 | 72–82 | 70–84 | 69–85 | 67–87 |
 | La République en marche–Mouvement démocrate | FR | | 15 | 13–17 | 13–18 | 12–18 | 12–20 |
 | ANO 2011 | CZ | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -33,7 +33,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Gibanje Svoboda | SI | | 2 | 2 | 2 | 2 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -78,19 +78,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 2% | 97% |  |
 | 71 | 3% | 95% |  |
 | 72 | 4% | 92% |  |
-| 73 | 6% | 88% |  |
+| 73 | 6% | 87% |  |
 | 74 | 7% | 82% |  |
 | 75 | 8% | 75% |  |
 | 76 | 9% | 66% |  |
 | 77 | 10% | 57% | Median |
 | 78 | 10% | 47% |  |
-| 79 | 9% | 38% |  |
+| 79 | 9% | 37% |  |
 | 80 | 8% | 28% |  |
-| 81 | 6% | 21% |  |
+| 81 | 6% | 20% |  |
 | 82 | 5% | 14% |  |
 | 83 | 4% | 9% |  |
-| 84 | 2% | 6% |  |
-| 85 | 1.5% | 3% |  |
+| 84 | 2% | 5% |  |
+| 85 | 1.4% | 3% |  |
 | 86 | 0.8% | 2% |  |
 | 87 | 0.4% | 0.8% |  |
 | 88 | 0.2% | 0.4% |  |

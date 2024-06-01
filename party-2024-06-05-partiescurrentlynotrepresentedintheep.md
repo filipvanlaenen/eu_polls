@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IT, LT, LV, MT, PL, SI, SK
+> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IT, LT, LV, MT, PL, SI, SK
 
 ## Seats
 
@@ -26,6 +26,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Demokratisch – Neutral – Authentisch [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
