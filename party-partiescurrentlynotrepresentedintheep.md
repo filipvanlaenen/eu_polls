@@ -18,9 +18,9 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 1–4 | 1–5 | 0–6 | 0–7 |
+| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 1–5 | 1–6 | 0–8 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,7 +35,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,8 +43,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
-| Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
+| Φειδίας Παναγιώτου [CY] (*) | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -57,16 +56,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 14% | 97% |  |
-| 2 | 28% | 84% |  |
-| 3 | 29% | 56% | Median |
-| 4 | 18% | 27% |  |
-| 5 | 6% | 9% |  |
-| 6 | 2% | 3% |  |
-| 7 | 0.5% | 0.9% |  |
-| 8 | 0.2% | 0.3% |  |
-| 9 | 0.1% | 0.1% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 8% | 99.3% |  |
+| 2 | 23% | 91% |  |
+| 3 | 31% | 68% | Median |
+| 4 | 23% | 37% |  |
+| 5 | 10% | 15% |  |
+| 6 | 3% | 4% |  |
+| 7 | 0.9% | 1.4% |  |
+| 8 | 0.3% | 0.5% |  |
+| 9 | 0.1% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 

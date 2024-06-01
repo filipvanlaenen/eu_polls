@@ -18,18 +18,18 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
-| Alternative für Deutschland | DE | | 15 | 13–17 | 13–17 | 12–18 | 11–20 |
+| Non-Inscrits | EU | 29 | 67 | 64–71 | 63–72 | 63–73 | 61–75 |
+| Alternative für Deutschland | DE | | 14 | 12–17 | 12–17 | 12–17 | 11–20 |
 | Movimento 5 Stelle | IT | | 13 | 12–14 | 11–15 | 11–15 | 10–17 |
-| Fidesz | HU | | 9 | 9–11 | 8–11 | 8–11 | 8–11 |
-| Bündnis Sahra Wagenknecht | DE | | 6 | 4–7 | 4–7 | 4–8 | 3–9 |
+| Fidesz | HU | | 11 | 11 | 11–12 | 11–12 | 11–12 |
+| Bündnis Sahra Wagenknecht | DE | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Die PARTEI | DE | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | REPUBLIKA | SK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -43,7 +43,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Les Patriotes | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Mi Hazánk Mozgalom | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -85,25 +85,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0% | 100% |  |
 | 56 | 0% | 100% |  |
 | 57 | 0% | 100% |  |
-| 58 | 0.1% | 100% |  |
-| 59 | 0.4% | 99.9% |  |
-| 60 | 1.0% | 99.5% |  |
-| 61 | 2% | 98% |  |
-| 62 | 4% | 96% |  |
-| 63 | 6% | 92% |  |
-| 64 | 9% | 86% |  |
-| 65 | 11% | 77% |  |
-| 66 | 12% | 67% |  |
-| 67 | 12% | 55% | Median |
-| 68 | 12% | 43% |  |
-| 69 | 10% | 31% |  |
-| 70 | 8% | 21% |  |
-| 71 | 6% | 13% |  |
-| 72 | 4% | 7% |  |
-| 73 | 2% | 4% |  |
-| 74 | 1.0% | 2% |  |
-| 75 | 0.4% | 0.6% |  |
-| 76 | 0.2% | 0.2% |  |
+| 58 | 0% | 100% |  |
+| 59 | 0% | 100% |  |
+| 60 | 0.1% | 100% |  |
+| 61 | 0.5% | 99.8% |  |
+| 62 | 2% | 99.3% |  |
+| 63 | 4% | 98% |  |
+| 64 | 8% | 93% |  |
+| 65 | 12% | 85% |  |
+| 66 | 14% | 73% |  |
+| 67 | 14% | 59% | Median |
+| 68 | 12% | 45% |  |
+| 69 | 10% | 33% |  |
+| 70 | 8% | 23% |  |
+| 71 | 6% | 15% |  |
+| 72 | 4% | 9% |  |
+| 73 | 2% | 5% |  |
+| 74 | 1.2% | 2% |  |
+| 75 | 0.6% | 0.9% |  |
+| 76 | 0.2% | 0.3% |  |
 | 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0% |  |
 

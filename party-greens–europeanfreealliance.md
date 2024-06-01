@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-16 seats)
+Current median: **52** seats (-15 seats)
 
 At least one member in **17 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 51 | 46–56 | 44–57 | 43–58 | 41–60 |
-| Bündnis 90/Die Grünen | DE | | 13 | 11–16 | 11–16 | 11–16 | 9–16 |
-| Europe Écologie Les Verts | FR | | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
+| Greens–European Free Alliance | EU | 67 | 52 | 47–56 | 45–58 | 44–58 | 42–60 |
+| Bündnis 90/Die Grünen | DE | | 13 | 11–16 | 11–16 | 11–16 | 9–17 |
+| Europe Écologie Les Verts | FR | | 6 | 0–7 | 0–7 | 0–7 | 0–8 |
 | GroenLinks | NL | | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -35,13 +35,14 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
+| Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | VESNA–Zelena stranka | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Volt Europa | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -49,8 +50,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Párbeszéd | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -64,27 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.2% | 99.9% |  |
-| 41 | 0.6% | 99.6% |  |
-| 42 | 1.1% | 99.1% |  |
-| 43 | 2% | 98% |  |
-| 44 | 3% | 96% |  |
-| 45 | 4% | 94% |  |
-| 46 | 4% | 90% |  |
-| 47 | 5% | 86% |  |
-| 48 | 7% | 80% |  |
-| 49 | 8% | 74% |  |
-| 50 | 9% | 66% |  |
-| 51 | 9% | 57% | Median |
-| 52 | 9% | 48% |  |
-| 53 | 9% | 39% |  |
-| 54 | 8% | 30% |  |
-| 55 | 7% | 21% |  |
-| 56 | 6% | 14% |  |
-| 57 | 4% | 8% |  |
-| 58 | 2% | 5% |  |
-| 59 | 1.3% | 2% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.5% | 99.7% |  |
+| 43 | 0.9% | 99.2% |  |
+| 44 | 1.4% | 98% |  |
+| 45 | 2% | 97% |  |
+| 46 | 3% | 95% |  |
+| 47 | 4% | 92% |  |
+| 48 | 5% | 88% |  |
+| 49 | 6% | 83% |  |
+| 50 | 8% | 77% |  |
+| 51 | 9% | 69% |  |
+| 52 | 11% | 60% | Median |
+| 53 | 11% | 49% |  |
+| 54 | 11% | 38% |  |
+| 55 | 9% | 27% |  |
+| 56 | 7% | 17% |  |
+| 57 | 5% | 10% |  |
+| 58 | 3% | 5% |  |
+| 59 | 1.4% | 2% |  |
 | 60 | 0.6% | 0.9% |  |
 | 61 | 0.2% | 0.3% |  |
 | 62 | 0.1% | 0.1% |  |
