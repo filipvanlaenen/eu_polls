@@ -28,7 +28,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Uniunea Salvați România | RO | | 4 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Azione | IT | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 1–3 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Gibanje Svoboda | SI | | 2 | 2 | 2 | 2 | 2–3 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0% | 100% |  |
 | 65 | 0.1% | 99.9% |  |
-| 66 | 0.2% | 99.9% |  |
+| 66 | 0.2% | 99.8% |  |
 | 67 | 0.4% | 99.6% |  |
 | 68 | 0.8% | 99.2% |  |
 | 69 | 1.3% | 98% |  |
@@ -81,17 +81,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 6% | 88% |  |
 | 74 | 7% | 82% |  |
 | 75 | 8% | 75% |  |
-| 76 | 9% | 67% |  |
+| 76 | 9% | 66% |  |
 | 77 | 10% | 57% | Median |
 | 78 | 10% | 47% |  |
 | 79 | 9% | 38% |  |
-| 80 | 8% | 29% |  |
-| 81 | 7% | 21% |  |
+| 80 | 8% | 28% |  |
+| 81 | 6% | 21% |  |
 | 82 | 5% | 14% |  |
 | 83 | 4% | 9% |  |
 | 84 | 2% | 6% |  |
 | 85 | 1.5% | 3% |  |
-| 86 | 0.9% | 2% |  |
+| 86 | 0.8% | 2% |  |
 | 87 | 0.4% | 0.8% |  |
 | 88 | 0.2% | 0.4% |  |
 | 89 | 0.1% | 0.2% |  |
