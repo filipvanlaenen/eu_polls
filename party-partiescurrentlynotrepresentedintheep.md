@@ -1,27 +1,29 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **21 countries**:
 
-> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IT, LT, LV, MT, PL, SI, SK
+> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
 
 ## Seats
 
 Last result: **0** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+3 seats)
+Current median: **4** seats (+4 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> ES, GR
+> ES, GR, IE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 3 | 2–5 | 1–5 | 1–6 | 1–8 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–7 | 2–9 |
+| Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -30,6 +32,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
+| Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,16 +59,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 5% | 99.6% |  |
-| 2 | 21% | 94% |  |
-| 3 | 32% | 74% | Median |
-| 4 | 26% | 41% |  |
-| 5 | 11% | 16% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.8% | 1.3% |  |
-| 8 | 0.3% | 0.5% |  |
-| 9 | 0.1% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0.4% | 100% |  |
+| 2 | 5% | 99.6% |  |
+| 3 | 21% | 94% |  |
+| 4 | 32% | 74% | Median |
+| 5 | 26% | 41% |  |
+| 6 | 11% | 16% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.8% | 1.3% |  |
+| 9 | 0.3% | 0.5% |  |
+| 10 | 0.1% | 0.2% |  |
+| 11 | 0% | 0% |  |
 
 

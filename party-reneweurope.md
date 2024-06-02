@@ -1,24 +1,24 @@
 # Renew Europe
 
-Members registered from **24 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **98** seats (General Election of 26 May 2019)
 
-Current median: **77** seats (-21 seats)
+Current median: **82** seats (-16 seats)
 
-At least one member in **20 countries** have a median of 1 seat or more:
+At least one member in **22 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 77 | 71–82 | 70–83 | 69–84 | 66–86 |
+| Renew Europe | EU | 98 | 82 | 76–87 | 75–88 | 74–89 | 71–91 |
 | La République en marche–Mouvement démocrate | FR | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | ANO 2011 | CZ | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -28,8 +28,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Uniunea Salvați România | RO | | 4 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Azione | IT | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Fianna Fáil | IE | | 3 | 3 | 3 | 3 | 3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Gibanje Svoboda | SI | | 2 | 2 | 2 | 2 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
@@ -69,37 +71,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0.1% | 100% |  |
-| 65 | 0.2% | 99.9% |  |
-| 66 | 0.4% | 99.7% |  |
-| 67 | 0.7% | 99.4% |  |
-| 68 | 1.1% | 98.7% |  |
-| 69 | 2% | 98% |  |
-| 70 | 3% | 96% |  |
-| 71 | 4% | 93% |  |
-| 72 | 5% | 89% |  |
-| 73 | 7% | 84% |  |
-| 74 | 8% | 77% |  |
-| 75 | 9% | 69% |  |
-| 76 | 10% | 60% |  |
-| 77 | 10% | 50% | Median |
-| 78 | 9% | 40% |  |
-| 79 | 8% | 31% |  |
-| 80 | 7% | 23% |  |
-| 81 | 5% | 16% |  |
-| 82 | 4% | 10% |  |
-| 83 | 3% | 6% |  |
-| 84 | 2% | 3% |  |
-| 85 | 0.9% | 2% |  |
-| 86 | 0.5% | 0.9% |  |
-| 87 | 0.2% | 0.4% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
-| 91 | 0% | 0% |  |
-| 92 | 0% | 0% |  |
-| 93 | 0% | 0% |  |
-| 94 | 0% | 0% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.4% | 99.7% |  |
+| 72 | 0.7% | 99.4% |  |
+| 73 | 1.1% | 98.7% |  |
+| 74 | 2% | 98% |  |
+| 75 | 3% | 96% |  |
+| 76 | 4% | 93% |  |
+| 77 | 5% | 89% |  |
+| 78 | 7% | 84% |  |
+| 79 | 8% | 77% |  |
+| 80 | 9% | 69% |  |
+| 81 | 10% | 60% |  |
+| 82 | 10% | 50% | Median |
+| 83 | 9% | 40% |  |
+| 84 | 8% | 31% |  |
+| 85 | 7% | 23% |  |
+| 86 | 5% | 16% |  |
+| 87 | 4% | 10% |  |
+| 88 | 3% | 6% |  |
+| 89 | 2% | 3% |  |
+| 90 | 0.9% | 2% |  |
+| 91 | 0.5% | 0.9% |  |
+| 92 | 0.2% | 0.4% |  |
+| 93 | 0.1% | 0.2% |  |
+| 94 | 0% | 0.1% |  |
 | 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |
 | 97 | 0% | 0% |  |
