@@ -52,7 +52,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Erakond Isamaa | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kereszténydemokrata Néppárt | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kereszténydemokrata Néppárt | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -85,7 +85,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0.1% | 99.9% |  |
 | 162 | 0.3% | 99.8% |  |
 | 163 | 0.6% | 99.5% |  |
-| 164 | 1.0% | 98.9% |  |
+| 164 | 1.1% | 98.9% |  |
 | 165 | 2% | 98% |  |
 | 166 | 3% | 96% |  |
 | 167 | 4% | 93% |  |
@@ -100,9 +100,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 176 | 6% | 20% |  |
 | 177 | 5% | 14% |  |
 | 178 | 3% | 9% |  |
-| 179 | 2% | 6% |  |
+| 179 | 2% | 5% |  |
 | 180 | 1.4% | 3% |  |
-| 181 | 0.9% | 2% |  |
+| 181 | 0.8% | 2% |  |
 | 182 | 0.5% | 0.9% |  |
 | 183 | 0.2% | 0.4% |  |
 | 184 | 0.1% | 0.2% |  |
