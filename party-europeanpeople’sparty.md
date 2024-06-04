@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 182 | 177–187 | 175–188 | 174–190 | 171–192 |
+| European People’s Party | EU | 187 | 182 | 176–187 | 175–188 | 174–190 | 171–192 |
 | Partido Popular | ES | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–24 | 20–24 | 20–24 | 19–25 |
-| Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| Platforma Obywatelska | PL | | 17 | 16–19 | 16–19 | 15–19 | 15–21 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Aliança Democrática | PT | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Νέα Δημοκρατία | GR | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -33,7 +33,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -43,7 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -69,7 +69,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
+| Kristillisdemokraatit | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -87,32 +87,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 168 | 0% | 100% |  |
 | 169 | 0.1% | 99.9% |  |
-| 170 | 0.1% | 99.9% |  |
+| 170 | 0.2% | 99.9% |  |
 | 171 | 0.3% | 99.7% |  |
 | 172 | 0.6% | 99.4% |  |
-| 173 | 1.0% | 98.9% |  |
+| 173 | 1.0% | 98.8% |  |
 | 174 | 2% | 98% |  |
 | 175 | 3% | 96% |  |
 | 176 | 4% | 94% |  |
 | 177 | 5% | 90% |  |
-| 178 | 7% | 85% |  |
+| 178 | 6% | 85% |  |
 | 179 | 8% | 78% |  |
-| 180 | 9% | 71% |  |
+| 180 | 9% | 70% |  |
 | 181 | 10% | 62% |  |
 | 182 | 10% | 52% | Median |
 | 183 | 9% | 42% |  |
 | 184 | 8% | 33% |  |
-| 185 | 7% | 24% |  |
-| 186 | 6% | 17% |  |
+| 185 | 7% | 25% |  |
+| 186 | 6% | 18% |  |
 | 187 | 4% | 12% | Last Result |
 | 188 | 3% | 8% |  |
 | 189 | 2% | 5% |  |
-| 190 | 1.2% | 3% |  |
-| 191 | 0.7% | 1.5% |  |
-| 192 | 0.4% | 0.8% |  |
+| 190 | 1.3% | 3% |  |
+| 191 | 0.8% | 2% |  |
+| 192 | 0.4% | 0.9% |  |
 | 193 | 0.2% | 0.4% |  |
 | 194 | 0.1% | 0.2% |  |
-| 195 | 0% | 0.1% |  |
+| 195 | 0.1% | 0.1% |  |
 | 196 | 0% | 0% |  |
 
 
