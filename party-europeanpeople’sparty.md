@@ -18,41 +18,41 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 182 | 176–187 | 175–188 | 174–190 | 171–192 |
+| European People’s Party | EU | 187 | 182 | 177–187 | 176–189 | 174–190 | 172–193 |
 | Partido Popular | ES | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 21 | 20–24 | 20–24 | 20–24 | 19–25 |
-| Platforma Obywatelska | PL | | 17 | 16–19 | 16–19 | 15–19 | 15–21 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 20–22 | 20–22 | 20–23 | 19–24 |
+| Platforma Obywatelska | PL | | 18 | 16–21 | 16–21 | 15–21 | 15–21 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 4–10 | 4–10 | 4–11 |
 | Aliança Democrática | PT | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Νέα Δημοκρατία | GR | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 6 | 6–7 | 5–7 | 5–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 6 | 6 | 5–7 | 5–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
-| Les Républicains | FR | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| Les Républicains | FR | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Tisztelet és Szabadság | HU | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Fine Gael | IE | | 5 | 5 | 5 | 5 | 5 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Christen-Democratisch Appèl | NL | | 2 | 2 | 2 | 2 | 1–3 |
+| Christen-Democratisch Appèl | NL | | 2 | 2 | 2 | 2 | 2 |
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
+| Nieuw Sociaal Contract | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 1–2 | 1–2 |
-| BoerBurgerBeweging | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| BoerBurgerBeweging | NL | | 1 | 1 | 1 | 1 | 0–1 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -60,12 +60,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Nieuw Sociaal Contract | NL | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -85,32 +85,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 168 | 0% | 100% |  |
-| 169 | 0.1% | 99.9% |  |
-| 170 | 0.2% | 99.9% |  |
-| 171 | 0.3% | 99.7% |  |
-| 172 | 0.6% | 99.4% |  |
-| 173 | 1.0% | 98.8% |  |
-| 174 | 2% | 98% |  |
-| 175 | 3% | 96% |  |
-| 176 | 4% | 94% |  |
-| 177 | 5% | 90% |  |
-| 178 | 6% | 85% |  |
-| 179 | 8% | 78% |  |
-| 180 | 9% | 70% |  |
-| 181 | 10% | 62% |  |
-| 182 | 10% | 52% | Median |
-| 183 | 9% | 42% |  |
-| 184 | 8% | 33% |  |
-| 185 | 7% | 25% |  |
-| 186 | 6% | 18% |  |
-| 187 | 4% | 12% | Last Result |
-| 188 | 3% | 8% |  |
-| 189 | 2% | 5% |  |
-| 190 | 1.3% | 3% |  |
-| 191 | 0.8% | 2% |  |
-| 192 | 0.4% | 0.9% |  |
-| 193 | 0.2% | 0.4% |  |
+| 169 | 0% | 100% |  |
+| 170 | 0.1% | 99.9% |  |
+| 171 | 0.2% | 99.8% |  |
+| 172 | 0.4% | 99.7% |  |
+| 173 | 0.7% | 99.3% |  |
+| 174 | 1.2% | 98.6% |  |
+| 175 | 2% | 97% |  |
+| 176 | 3% | 96% |  |
+| 177 | 4% | 93% |  |
+| 178 | 6% | 88% |  |
+| 179 | 7% | 83% |  |
+| 180 | 8% | 76% |  |
+| 181 | 9% | 67% |  |
+| 182 | 10% | 58% | Median |
+| 183 | 10% | 48% |  |
+| 184 | 9% | 38% |  |
+| 185 | 8% | 29% |  |
+| 186 | 7% | 21% |  |
+| 187 | 5% | 15% | Last Result |
+| 188 | 4% | 10% |  |
+| 189 | 3% | 6% |  |
+| 190 | 2% | 4% |  |
+| 191 | 1.0% | 2% |  |
+| 192 | 0.5% | 1.1% |  |
+| 193 | 0.3% | 0.5% |  |
 | 194 | 0.1% | 0.2% |  |
 | 195 | 0.1% | 0.1% |  |
 | 196 | 0% | 0% |  |

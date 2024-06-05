@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **21 countries**:
+Members registered from **20 countries**:
 
-> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
+> AT, BE, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, PL, SI, SK
 
 ## Seats
 
@@ -49,7 +49,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Φειδίας Παναγιώτου [CY] (*) | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Левицата! [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -61,14 +60,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.4% | 100% |  |
-| 2 | 5% | 99.6% |  |
+| 2 | 6% | 99.6% |  |
 | 3 | 21% | 94% |  |
-| 4 | 32% | 74% | Median |
+| 4 | 32% | 73% | Median |
 | 5 | 26% | 41% |  |
-| 6 | 11% | 16% |  |
+| 6 | 11% | 15% |  |
 | 7 | 3% | 4% |  |
 | 8 | 0.8% | 1.3% |  |
-| 9 | 0.4% | 0.5% |  |
+| 9 | 0.3% | 0.5% |  |
 | 10 | 0.1% | 0.2% |  |
 | 11 | 0% | 0% |  |
 

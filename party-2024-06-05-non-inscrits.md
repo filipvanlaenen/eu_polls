@@ -8,37 +8,37 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (+39 seats)
+Current median: **66** seats (+37 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> BG, DE, ES, GR, HU, IT, LT, LV, NL, PL, SK
+> BG, DE, ES, GR, HU, IT, LT, LV, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 68 | 64–72 | 64–73 | 63–74 | 62–76 |
-| Alternative für Deutschland | DE | | 14 | 12–17 | 12–17 | 12–17 | 12–20 |
+| Non-Inscrits | EU | 29 | 66 | 63–69 | 62–70 | 62–71 | 60–73 |
+| Alternative für Deutschland | DE | | 13 | 12–14 | 12–14 | 12–15 | 12–16 |
 | Movimento 5 Stelle | IT | | 13 | 12–14 | 11–15 | 11–15 | 10–17 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
-| Bündnis Sahra Wagenknecht | DE | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| Nowa Nadzieja | PL | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| Bündnis Sahra Wagenknecht | DE | | 6 | 6 | 6–7 | 5–8 | 5–8 |
+| Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Die PARTEI | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Die PARTEI | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | REPUBLIKA | SK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Възраждане | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
-| Forum voor Democratie | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Lewica Razem | PL | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Lewica Razem | PL | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -46,7 +46,6 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Български възход | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -86,26 +85,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0% | 100% |  |
 | 57 | 0% | 100% |  |
 | 58 | 0% | 100% |  |
-| 59 | 0% | 100% |  |
-| 60 | 0.1% | 100% |  |
-| 61 | 0.3% | 99.9% |  |
-| 62 | 1.1% | 99.6% |  |
-| 63 | 3% | 98% |  |
-| 64 | 6% | 95% |  |
-| 65 | 10% | 89% |  |
-| 66 | 13% | 79% |  |
-| 67 | 14% | 66% |  |
-| 68 | 13% | 52% | Median |
-| 69 | 11% | 39% |  |
-| 70 | 9% | 29% |  |
-| 71 | 7% | 20% |  |
-| 72 | 5% | 13% |  |
-| 73 | 4% | 8% |  |
-| 74 | 2% | 4% |  |
-| 75 | 1.1% | 2% |  |
-| 76 | 0.5% | 0.8% |  |
-| 77 | 0.2% | 0.3% |  |
-| 78 | 0.1% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 59 | 0.1% | 100% |  |
+| 60 | 0.5% | 99.9% |  |
+| 61 | 2% | 99.4% |  |
+| 62 | 5% | 98% |  |
+| 63 | 10% | 93% |  |
+| 64 | 15% | 83% |  |
+| 65 | 18% | 68% |  |
+| 66 | 17% | 50% | Median |
+| 67 | 13% | 33% |  |
+| 68 | 9% | 20% |  |
+| 69 | 5% | 11% |  |
+| 70 | 3% | 6% |  |
+| 71 | 1.5% | 3% |  |
+| 72 | 0.7% | 1.3% |  |
+| 73 | 0.4% | 0.6% |  |
+| 74 | 0.2% | 0.3% |  |
+| 75 | 0.1% | 0.1% |  |
+| 76 | 0% | 0% |  |
 
 
