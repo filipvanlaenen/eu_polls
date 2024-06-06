@@ -22,7 +22,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | ANO 2011 | CZ | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 5–6 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | Freie Demokratische Partei | DE | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Freie Wähler | DE | | 4 | 3–6 | 3–6 | 2–6 | 2–6 |
 | Stati Uniti d’Europa | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
@@ -30,7 +30,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Azione | IT | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Fianna Fáil | IE | | 3 | 3 | 3 | 3 | 3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Democraten 66 | NL | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Gibanje Svoboda | SI | | 2 | 2 | 2 | 2 | 2–3 |
@@ -38,9 +38,10 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
-| Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coalición por Europa | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -48,9 +49,8 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ciudadanos–Partido de la Ciudadanía | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,28 +73,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 69 | 0% | 100% |  |
 | 70 | 0.1% | 99.9% |  |
-| 71 | 0.3% | 99.8% |  |
+| 71 | 0.2% | 99.8% |  |
 | 72 | 0.5% | 99.6% |  |
-| 73 | 0.9% | 99.1% |  |
-| 74 | 1.5% | 98% |  |
+| 73 | 0.8% | 99.2% |  |
+| 74 | 1.4% | 98% |  |
 | 75 | 2% | 97% |  |
-| 76 | 3% | 94% |  |
+| 76 | 3% | 95% |  |
 | 77 | 5% | 91% |  |
-| 78 | 6% | 86% |  |
-| 79 | 8% | 80% |  |
-| 80 | 9% | 73% |  |
-| 81 | 10% | 64% |  |
-| 82 | 10% | 54% | Median |
-| 83 | 10% | 44% |  |
-| 84 | 9% | 34% |  |
+| 78 | 6% | 87% |  |
+| 79 | 7% | 81% |  |
+| 80 | 9% | 74% |  |
+| 81 | 10% | 65% |  |
+| 82 | 10% | 55% | Median |
+| 83 | 10% | 45% |  |
+| 84 | 9% | 35% |  |
 | 85 | 8% | 26% |  |
-| 86 | 6% | 18% |  |
-| 87 | 5% | 12% |  |
-| 88 | 3% | 7% |  |
-| 89 | 2% | 4% |  |
+| 86 | 6% | 19% |  |
+| 87 | 5% | 13% |  |
+| 88 | 3% | 8% |  |
+| 89 | 2% | 5% |  |
 | 90 | 1.2% | 2% |  |
-| 91 | 0.6% | 1.1% |  |
-| 92 | 0.3% | 0.5% |  |
+| 91 | 0.7% | 1.2% |  |
+| 92 | 0.3% | 0.6% |  |
 | 93 | 0.1% | 0.2% |  |
 | 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
