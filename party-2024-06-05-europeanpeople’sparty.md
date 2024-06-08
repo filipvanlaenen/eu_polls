@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 182 | 177–187 | 176–188 | 175–190 | 172–192 |
+| European People’s Party | EU | 187 | 182 | 177–187 | 176–189 | 175–190 | 172–192 |
 | Partido Popular | ES | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–21 | 16–21 | 15–21 |
@@ -44,7 +44,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nieuw Sociaal Contract | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Starostové a nezávislí | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -90,12 +90,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 0.2% | 99.9% |  |
 | 172 | 0.3% | 99.7% |  |
 | 173 | 0.6% | 99.4% |  |
-| 174 | 1.1% | 98.7% |  |
+| 174 | 1.2% | 98.7% |  |
 | 175 | 2% | 98% |  |
 | 176 | 3% | 96% |  |
 | 177 | 4% | 93% |  |
 | 178 | 6% | 88% |  |
-| 179 | 7% | 83% |  |
+| 179 | 7% | 82% |  |
 | 180 | 9% | 75% |  |
 | 181 | 10% | 66% |  |
 | 182 | 10% | 56% | Median |
