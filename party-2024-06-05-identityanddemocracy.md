@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **76** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (-8 seats)
+Current median: **69** seats (-7 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 68 | 65–72 | 64–73 | 63–74 | 62–75 |
-| Rassemblement national | FR | | 31 | 29–34 | 28–35 | 27–36 | 27–36 |
-| Partij voor de Vrijheid | NL | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| Identity and Democracy | EU | 76 | 69 | 65–73 | 64–74 | 64–75 | 62–77 |
+| Rassemblement national | FR | | 31 | 29–35 | 28–35 | 27–36 | 27–36 |
+| Partij voor de Vrijheid | NL | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Lega Nord | IT | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Chega | PT | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Ruch Narodowy | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Svoboda a přímá demokracie–Trikolóra hnutí občanů | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Domovinski pokret Miroslava Škore | HR | | 1 | 1 | 1 | 1 | 1 |
+| Dansk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Domovinski pokret Miroslava Škore | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
@@ -43,23 +43,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 60 | 0.1% | 100% |  |
-| 61 | 0.3% | 99.9% |  |
-| 62 | 0.9% | 99.6% |  |
-| 63 | 2% | 98.7% |  |
-| 64 | 4% | 97% |  |
-| 65 | 8% | 92% |  |
-| 66 | 11% | 84% |  |
-| 67 | 14% | 73% |  |
-| 68 | 15% | 59% | Median |
-| 69 | 14% | 43% |  |
-| 70 | 11% | 30% |  |
-| 71 | 8% | 19% |  |
-| 72 | 5% | 11% |  |
-| 73 | 3% | 6% |  |
-| 74 | 2% | 3% |  |
-| 75 | 0.8% | 1.2% |  |
-| 76 | 0.3% | 0.4% | Last Result |
-| 77 | 0.1% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 61 | 0.2% | 99.9% |  |
+| 62 | 0.6% | 99.7% |  |
+| 63 | 1.5% | 99.1% |  |
+| 64 | 3% | 98% |  |
+| 65 | 6% | 94% |  |
+| 66 | 9% | 88% |  |
+| 67 | 12% | 79% |  |
+| 68 | 13% | 68% |  |
+| 69 | 12% | 55% | Median |
+| 70 | 11% | 43% |  |
+| 71 | 10% | 32% |  |
+| 72 | 8% | 22% |  |
+| 73 | 6% | 14% |  |
+| 74 | 4% | 8% |  |
+| 75 | 2% | 4% |  |
+| 76 | 1.1% | 2% | Last Result |
+| 77 | 0.4% | 0.6% |  |
+| 78 | 0.1% | 0.2% |  |
+| 79 | 0% | 0.1% |  |
+| 80 | 0% | 0% |  |
 
 
