@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 130 | 125–135 | 123–136 | 122–137 | 119–140 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 130 | 125–135 | 123–136 | 122–137 | 120–140 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–21 | 17–22 | 16–23 |
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 14–21 | 13–23 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–15 | 13–15 | 12–15 | 11–16 |
@@ -26,7 +26,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 9 | 5–10 | 5–10 | 4–11 | 4–11 |
 | Partido Socialista | PT | | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Sozialdemokratische Partei Österreichs | AT | | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| Sozialdemokratische Partei Österreichs | AT | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Partij van de Arbeid | NL | | 4 | 4 | 4 | 3–4 | 3–4 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Nowa Lewica | PL | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |

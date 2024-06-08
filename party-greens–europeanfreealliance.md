@@ -25,7 +25,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 3 | 3 | 3 | 3–4 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Miljöpartiet de gröna | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
