@@ -26,7 +26,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Die PARTEI | DE | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Die PARTEI | DE | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | REPUBLIKA | SK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -35,10 +35,10 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Lewica Razem | PL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -87,19 +87,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 0% | 100% |  |
 | 59 | 0.1% | 100% |  |
 | 60 | 0.4% | 99.9% |  |
-| 61 | 1.5% | 99.5% |  |
+| 61 | 2% | 99.5% |  |
 | 62 | 4% | 98% |  |
 | 63 | 8% | 94% |  |
-| 64 | 12% | 86% |  |
-| 65 | 16% | 74% |  |
-| 66 | 16% | 58% | Median |
-| 67 | 15% | 42% |  |
-| 68 | 11% | 27% |  |
-| 69 | 8% | 16% |  |
-| 70 | 4% | 9% |  |
+| 64 | 13% | 86% |  |
+| 65 | 16% | 73% |  |
+| 66 | 16% | 56% | Median |
+| 67 | 14% | 40% |  |
+| 68 | 11% | 26% |  |
+| 69 | 7% | 15% |  |
+| 70 | 4% | 8% |  |
 | 71 | 2% | 4% |  |
 | 72 | 1.1% | 2% |  |
-| 73 | 0.5% | 0.8% |  |
+| 73 | 0.5% | 0.7% |  |
 | 74 | 0.2% | 0.3% |  |
 | 75 | 0.1% | 0.1% |  |
 | 76 | 0% | 0% |  |

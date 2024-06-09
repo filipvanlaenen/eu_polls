@@ -42,8 +42,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | VESNA–Zelena stranka | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 1–3 | 0–3 | 0–4 | 0–4 |
-| Ökologisch-Demokratische Partei | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Volt Europa | DE | | 1 | 1–3 | 1–3 | 0–4 | 0–4 |
+| Ökologisch-Demokratische Partei | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -69,27 +69,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0% | 100% |  |
-| 43 | 0.1% | 99.9% |  |
-| 44 | 0.3% | 99.8% |  |
-| 45 | 0.7% | 99.5% |  |
-| 46 | 1.3% | 98.9% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.2% | 99.9% |  |
+| 45 | 0.5% | 99.6% |  |
+| 46 | 1.1% | 99.1% |  |
 | 47 | 2% | 98% |  |
-| 48 | 3% | 95% |  |
-| 49 | 5% | 92% |  |
-| 50 | 6% | 87% |  |
-| 51 | 7% | 81% |  |
-| 52 | 8% | 74% |  |
-| 53 | 9% | 66% |  |
-| 54 | 10% | 56% | Median |
-| 55 | 11% | 46% |  |
-| 56 | 10% | 36% |  |
-| 57 | 9% | 26% |  |
-| 58 | 7% | 17% |  |
-| 59 | 5% | 10% |  |
-| 60 | 3% | 5% |  |
-| 61 | 1.5% | 3% |  |
-| 62 | 0.7% | 1.0% |  |
+| 48 | 3% | 96% |  |
+| 49 | 4% | 93% |  |
+| 50 | 6% | 89% |  |
+| 51 | 7% | 83% |  |
+| 52 | 8% | 76% |  |
+| 53 | 9% | 68% |  |
+| 54 | 10% | 59% | Median |
+| 55 | 11% | 49% |  |
+| 56 | 10% | 38% |  |
+| 57 | 9% | 28% |  |
+| 58 | 7% | 19% |  |
+| 59 | 5% | 11% |  |
+| 60 | 3% | 6% |  |
+| 61 | 2% | 3% |  |
+| 62 | 0.8% | 1.2% |  |
 | 63 | 0.3% | 0.4% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
