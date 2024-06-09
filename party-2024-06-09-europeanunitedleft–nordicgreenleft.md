@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-1 seats)
+Current median: **39** seats (0 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 38 | 35–42 | 34–43 | 33–44 | 31–46 |
+| European United Left–Nordic Green Left | EU | 39 | 39 | 35–42 | 34–43 | 33–44 | 31–46 |
 | La France insoumise | FR | | 8 | 6–9 | 5–10 | 5–10 | 5–10 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3 |
@@ -45,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0–3 |
-| Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0–5 |
+| Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partido Animalista Contra el Maltrato Animal | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -65,24 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0% | 100% |  |
 | 29 | 0.1% | 99.9% |  |
-| 30 | 0.2% | 99.8% |  |
-| 31 | 0.5% | 99.6% |  |
-| 32 | 1.1% | 99.2% |  |
+| 30 | 0.2% | 99.9% |  |
+| 31 | 0.4% | 99.7% |  |
+| 32 | 1.0% | 99.3% |  |
 | 33 | 2% | 98% |  |
 | 34 | 4% | 96% |  |
 | 35 | 7% | 92% |  |
-| 36 | 9% | 85% |  |
-| 37 | 12% | 75% |  |
-| 38 | 14% | 63% | Median |
-| 39 | 14% | 50% | Last Result |
-| 40 | 12% | 36% |  |
+| 36 | 9% | 86% |  |
+| 37 | 12% | 76% |  |
+| 38 | 14% | 64% |  |
+| 39 | 14% | 50% | Last Result, Median |
+| 40 | 12% | 37% |  |
 | 41 | 10% | 24% |  |
 | 42 | 7% | 15% |  |
 | 43 | 4% | 8% |  |
 | 44 | 2% | 4% |  |
-| 45 | 1.1% | 2% |  |
-| 46 | 0.5% | 0.7% |  |
-| 47 | 0.2% | 0.3% |  |
+| 45 | 1.0% | 2% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.2% | 0.2% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 

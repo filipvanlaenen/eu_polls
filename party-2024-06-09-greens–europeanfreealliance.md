@@ -19,8 +19,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 67 | 54 | 49–59 | 48–60 | 47–61 | 45–62 |
-| Bündnis 90/Die Grünen | DE | | 14 | 13–15 | 12–15 | 11–15 | 11–16 |
-| Europe Écologie Les Verts | FR | | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| Bündnis 90/Die Grünen | DE | | 13 | 13–15 | 12–15 | 11–15 | 11–16 |
+| Europe Écologie Les Verts | FR | | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
 | GroenLinks | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Socialistisk Folkeparti | DK | | 3 | 3 | 3 | 3 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -42,7 +42,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | VESNA–Zelena stranka | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
+| Volt Europa | DE | | 1 | 1–3 | 0–3 | 0–4 | 0–4 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +53,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -72,24 +72,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0% | 100% |  |
 | 43 | 0.1% | 99.9% |  |
 | 44 | 0.3% | 99.8% |  |
-| 45 | 0.6% | 99.5% |  |
-| 46 | 1.2% | 98.9% |  |
+| 45 | 0.7% | 99.5% |  |
+| 46 | 1.3% | 98.9% |  |
 | 47 | 2% | 98% |  |
-| 48 | 3% | 96% |  |
+| 48 | 3% | 95% |  |
 | 49 | 5% | 92% |  |
-| 50 | 6% | 88% |  |
-| 51 | 7% | 82% |  |
-| 52 | 8% | 75% |  |
-| 53 | 9% | 67% |  |
-| 54 | 10% | 57% | Median |
-| 55 | 11% | 47% |  |
-| 56 | 10% | 37% |  |
+| 50 | 6% | 87% |  |
+| 51 | 7% | 81% |  |
+| 52 | 8% | 74% |  |
+| 53 | 9% | 66% |  |
+| 54 | 10% | 56% | Median |
+| 55 | 11% | 46% |  |
+| 56 | 10% | 36% |  |
 | 57 | 9% | 26% |  |
-| 58 | 7% | 18% |  |
-| 59 | 5% | 11% |  |
-| 60 | 3% | 6% |  |
-| 61 | 2% | 3% |  |
-| 62 | 0.7% | 1.2% |  |
+| 58 | 7% | 17% |  |
+| 59 | 5% | 10% |  |
+| 60 | 3% | 5% |  |
+| 61 | 1.5% | 3% |  |
+| 62 | 0.7% | 1.0% |  |
 | 63 | 0.3% | 0.4% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
