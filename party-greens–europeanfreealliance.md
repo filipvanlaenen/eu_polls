@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **67** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (-13 seats)
+Current median: **55** seats (-12 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 67 | 54 | 49–59 | 48–60 | 47–61 | 45–62 |
-| Bündnis 90/Die Grünen | DE | | 14 | 13–15 | 12–15 | 11–15 | 11–16 |
-| Europe Écologie Les Verts | FR | | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| Greens–European Free Alliance | EU | 67 | 55 | 49–59 | 48–60 | 47–61 | 45–63 |
+| Bündnis 90/Die Grünen | DE | | 14 | 13–15 | 12–15 | 11–16 | 11–16 |
+| Europe Écologie Les Verts | FR | | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
 | GroenLinks | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Socialistisk Folkeparti | DK | | 3 | 3 | 3 | 3 | 2–4 |
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -40,9 +40,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Možemo! | HR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
-| Piratenpartei Deutschland | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | VESNA–Zelena stranka | SI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 1–3 | 0–3 | 0–3 | 0–3 |
+| Volt Europa | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -50,10 +49,11 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,36 +63,35 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-06-09-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-06-05-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-06-09.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2024-06-05.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0% | 100% |  |
-| 43 | 0.1% | 99.9% |  |
-| 44 | 0.3% | 99.8% |  |
-| 45 | 0.6% | 99.5% |  |
-| 46 | 1.2% | 98.9% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.2% | 99.9% |  |
+| 45 | 0.5% | 99.6% |  |
+| 46 | 1.1% | 99.1% |  |
 | 47 | 2% | 98% |  |
 | 48 | 3% | 96% |  |
-| 49 | 5% | 92% |  |
-| 50 | 6% | 88% |  |
-| 51 | 7% | 82% |  |
-| 52 | 8% | 75% |  |
-| 53 | 9% | 67% |  |
-| 54 | 10% | 57% | Median |
-| 55 | 11% | 47% |  |
-| 56 | 10% | 37% |  |
-| 57 | 9% | 26% |  |
-| 58 | 7% | 18% |  |
-| 59 | 5% | 11% |  |
-| 60 | 3% | 6% |  |
-| 61 | 2% | 3% |  |
-| 62 | 0.7% | 1.2% |  |
-| 63 | 0.3% | 0.4% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0% |  |
+| 49 | 4% | 93% |  |
+| 50 | 5% | 89% |  |
+| 51 | 6% | 84% |  |
+| 52 | 7% | 78% |  |
+| 53 | 8% | 71% |  |
+| 54 | 10% | 62% |  |
+| 55 | 11% | 53% | Median |
+| 56 | 11% | 42% |  |
+| 57 | 10% | 31% |  |
+| 58 | 8% | 21% |  |
+| 59 | 6% | 13% |  |
+| 60 | 4% | 7% |  |
+| 61 | 2% | 4% |  |
+| 62 | 1.0% | 2% |  |
+| 63 | 0.4% | 0.6% |  |
+| 64 | 0.1% | 0.2% |  |
+| 65 | 0% | 0.1% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% | Last Result |
 

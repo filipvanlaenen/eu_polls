@@ -18,8 +18,8 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 98 | 82 | 76–86 | 75–88 | 74–89 | 71–91 |
-| La République en marche–Mouvement démocrate | FR | | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
+| Renew Europe | EU | 98 | 82 | 77–87 | 75–88 | 74–89 | 72–91 |
+| La République en marche–Mouvement démocrate | FR | | 15 | 14–16 | 13–16 | 13–17 | 11–18 |
 | ANO 2011 | CZ | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -65,37 +65,37 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-06-09-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-06-05-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-06-09.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2024-06-05.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.3% | 99.7% |  |
-| 72 | 0.6% | 99.4% |  |
-| 73 | 1.1% | 98.8% |  |
-| 74 | 2% | 98% |  |
-| 75 | 3% | 96% |  |
-| 76 | 4% | 93% |  |
-| 77 | 5% | 89% |  |
-| 78 | 7% | 84% |  |
-| 79 | 8% | 77% |  |
-| 80 | 9% | 69% |  |
-| 81 | 10% | 60% |  |
-| 82 | 10% | 50% | Median |
-| 83 | 9% | 40% |  |
-| 84 | 8% | 31% |  |
-| 85 | 7% | 22% |  |
-| 86 | 5% | 15% |  |
-| 87 | 4% | 10% |  |
-| 88 | 3% | 6% |  |
-| 89 | 2% | 3% |  |
-| 90 | 0.9% | 2% |  |
-| 91 | 0.5% | 0.8% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0.1% | 99.9% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.4% | 99.6% |  |
+| 73 | 0.8% | 99.2% |  |
+| 74 | 1.4% | 98% |  |
+| 75 | 2% | 97% |  |
+| 76 | 3% | 95% |  |
+| 77 | 5% | 92% |  |
+| 78 | 6% | 87% |  |
+| 79 | 8% | 81% |  |
+| 80 | 9% | 73% |  |
+| 81 | 10% | 64% |  |
+| 82 | 10% | 54% | Median |
+| 83 | 10% | 44% |  |
+| 84 | 9% | 34% |  |
+| 85 | 8% | 25% |  |
+| 86 | 6% | 17% |  |
+| 87 | 4% | 11% |  |
+| 88 | 3% | 7% |  |
+| 89 | 2% | 4% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.5% | 0.9% |  |
 | 92 | 0.2% | 0.4% |  |
-| 93 | 0.1% | 0.1% |  |
+| 93 | 0.1% | 0.2% |  |
 | 94 | 0% | 0.1% |  |
 | 95 | 0% | 0% |  |
 | 96 | 0% | 0% |  |

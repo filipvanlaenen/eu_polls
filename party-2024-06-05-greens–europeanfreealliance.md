@@ -53,7 +53,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0 | 0 | 0 | 0 |
 | Écologie au centre | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -72,19 +72,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 0.1% | 100% |  |
 | 44 | 0.2% | 99.9% |  |
 | 45 | 0.5% | 99.6% |  |
-| 46 | 1.0% | 99.1% |  |
+| 46 | 1.1% | 99.1% |  |
 | 47 | 2% | 98% |  |
 | 48 | 3% | 96% |  |
-| 49 | 4% | 94% |  |
-| 50 | 5% | 90% |  |
-| 51 | 6% | 85% |  |
-| 52 | 7% | 79% |  |
-| 53 | 9% | 72% |  |
-| 54 | 10% | 63% |  |
+| 49 | 4% | 93% |  |
+| 50 | 5% | 89% |  |
+| 51 | 6% | 84% |  |
+| 52 | 7% | 78% |  |
+| 53 | 8% | 71% |  |
+| 54 | 10% | 62% |  |
 | 55 | 11% | 53% | Median |
-| 56 | 11% | 43% |  |
-| 57 | 10% | 32% |  |
-| 58 | 8% | 22% |  |
+| 56 | 11% | 42% |  |
+| 57 | 10% | 31% |  |
+| 58 | 8% | 21% |  |
 | 59 | 6% | 13% |  |
 | 60 | 4% | 7% |  |
 | 61 | 2% | 4% |  |
