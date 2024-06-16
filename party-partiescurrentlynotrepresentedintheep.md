@@ -21,7 +21,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–7 | 2–7 | 2–9 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Alliance Rurale [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -45,31 +45,30 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Δημιουργία, Ξανά [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Φειδίας Παναγιώτου [CY] (*) | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Φωνή Λογικής [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-06-09-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-06-05-seats-pmf-partiescurrentlynotrepresentedintheep.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-06-09.html) for Parties currently not represented in the EP.
+The following table shows the probability mass function per seat for the [poll average](average-2024-06-05.html) for Parties currently not represented in the EP.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 5% | 99.6% |  |
-| 3 | 18% | 95% |  |
-| 4 | 30% | 77% | Median |
-| 5 | 27% | 47% |  |
-| 6 | 14% | 20% |  |
-| 7 | 4% | 6% |  |
-| 8 | 1.0% | 2% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 5% | 99.7% |  |
+| 3 | 19% | 95% |  |
+| 4 | 31% | 76% | Median |
+| 5 | 27% | 44% |  |
+| 6 | 13% | 18% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.9% | 1.5% |  |
 | 9 | 0.4% | 0.6% |  |
 | 10 | 0.2% | 0.2% |  |
-| 11 | 0.1% | 0.1% |  |
+| 11 | 0% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 
