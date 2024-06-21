@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-1 seats)
+Current median: **39** seats (0 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 38 | 34–42 | 33–43 | 32–44 | 31–46 |
-| La France insoumise | FR | | 7 | 6–8 | 5–9 | 5–9 | 4–10 |
-| Die Linke | DE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
+| European United Left–Nordic Green Left | EU | 39 | 39 | 35–42 | 34–43 | 33–44 | 31–46 |
+| La France insoumise | FR | | 8 | 6–9 | 5–10 | 5–10 | 5–10 |
+| Die Linke | DE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -38,6 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sinistra Italiana | IT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -53,36 +54,35 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-06-05-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-06-09-seats-pmf-europeanunitedleft–nordicgreenleft.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-06-05.html) for European United Left–Nordic Green Left.
+The following table shows the probability mass function per seat for the [poll average](average-2024-06-09.html) for European United Left–Nordic Green Left.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0% | 100% |  |
 | 29 | 0.1% | 99.9% |  |
-| 30 | 0.3% | 99.8% |  |
-| 31 | 0.7% | 99.6% |  |
-| 32 | 2% | 98.9% |  |
-| 33 | 3% | 97% |  |
-| 34 | 5% | 94% |  |
-| 35 | 8% | 89% |  |
-| 36 | 10% | 81% |  |
-| 37 | 12% | 71% |  |
-| 38 | 13% | 59% | Median |
-| 39 | 12% | 47% | Last Result |
-| 40 | 11% | 34% |  |
-| 41 | 9% | 23% |  |
-| 42 | 6% | 14% |  |
+| 30 | 0.2% | 99.9% |  |
+| 31 | 0.4% | 99.7% |  |
+| 32 | 1.0% | 99.3% |  |
+| 33 | 2% | 98% |  |
+| 34 | 4% | 96% |  |
+| 35 | 7% | 92% |  |
+| 36 | 10% | 86% |  |
+| 37 | 12% | 76% |  |
+| 38 | 14% | 64% |  |
+| 39 | 14% | 50% | Last Result, Median |
+| 40 | 12% | 36% |  |
+| 41 | 10% | 24% |  |
+| 42 | 7% | 14% |  |
 | 43 | 4% | 8% |  |
 | 44 | 2% | 4% |  |
-| 45 | 1.1% | 2% |  |
-| 46 | 0.5% | 0.7% |  |
-| 47 | 0.2% | 0.2% |  |
+| 45 | 1.0% | 2% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.1% | 0.2% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 
