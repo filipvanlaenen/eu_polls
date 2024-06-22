@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **29** seats (General Election of 26 May 2019)
 
-Current median: **66** seats (+37 seats)
+Current median: **65** seats (+36 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 29 | 66 | 63–69 | 62–70 | 62–71 | 60–73 |
+| Non-Inscrits | EU | 29 | 65 | 63–69 | 62–70 | 62–70 | 60–72 |
 | Alternative für Deutschland | DE | | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
-| Movimento 5 Stelle | IT | | 13 | 12–14 | 11–15 | 11–15 | 10–17 |
+| Movimento 5 Stelle | IT | | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | Fidesz | HU | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Bündnis Sahra Wagenknecht | DE | | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -89,16 +89,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 0.5% | 99.9% |  |
 | 61 | 2% | 99.4% |  |
 | 62 | 5% | 98% |  |
-| 63 | 9% | 93% |  |
-| 64 | 15% | 84% |  |
-| 65 | 18% | 69% |  |
-| 66 | 17% | 51% | Median |
-| 67 | 14% | 33% |  |
-| 68 | 9% | 20% |  |
-| 69 | 5% | 11% |  |
-| 70 | 3% | 6% |  |
-| 71 | 1.4% | 3% |  |
-| 72 | 0.7% | 1.2% |  |
+| 63 | 10% | 93% |  |
+| 64 | 15% | 83% |  |
+| 65 | 18% | 68% | Median |
+| 66 | 17% | 49% |  |
+| 67 | 13% | 32% |  |
+| 68 | 9% | 19% |  |
+| 69 | 5% | 10% |  |
+| 70 | 3% | 5% |  |
+| 71 | 1.4% | 2% |  |
+| 72 | 0.6% | 1.1% |  |
 | 73 | 0.3% | 0.5% |  |
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0% | 0.1% |  |
