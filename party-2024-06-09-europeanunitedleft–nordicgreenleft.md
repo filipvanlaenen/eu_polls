@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **39** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (0 seats)
+Current median: **38** seats (-1 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 39 | 39 | 35–42 | 34–43 | 33–44 | 31–46 |
+| European United Left–Nordic Green Left | EU | 39 | 38 | 35–42 | 34–43 | 33–44 | 31–45 |
 | La France insoumise | FR | | 8 | 6–9 | 5–10 | 5–10 | 5–10 |
 | Die Linke | DE | | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3 |
@@ -29,7 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Bloco de Esquerda | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Bloco de Esquerda | PT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Independents | IE | | 1 | 1 | 1 | 1 | 1 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
-| Levica | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Parti animaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -71,19 +71,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 2% | 98% |  |
 | 34 | 4% | 96% |  |
 | 35 | 7% | 92% |  |
-| 36 | 10% | 86% |  |
-| 37 | 12% | 76% |  |
-| 38 | 14% | 64% |  |
-| 39 | 14% | 50% | Last Result, Median |
-| 40 | 12% | 36% |  |
-| 41 | 10% | 24% |  |
-| 42 | 7% | 14% |  |
-| 43 | 4% | 8% |  |
-| 44 | 2% | 4% |  |
-| 45 | 1.0% | 2% |  |
-| 46 | 0.4% | 0.6% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0.1% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 36 | 10% | 84% |  |
+| 37 | 13% | 74% |  |
+| 38 | 15% | 61% | Median |
+| 39 | 14% | 46% | Last Result |
+| 40 | 12% | 32% |  |
+| 41 | 9% | 20% |  |
+| 42 | 6% | 11% |  |
+| 43 | 3% | 6% |  |
+| 44 | 2% | 3% |  |
+| 45 | 0.6% | 1.0% |  |
+| 46 | 0.2% | 0.4% |  |
+| 47 | 0.1% | 0.1% |  |
+| 48 | 0% | 0% |  |
 
 

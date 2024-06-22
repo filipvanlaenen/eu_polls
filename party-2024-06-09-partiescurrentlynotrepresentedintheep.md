@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–7 | 2–7 | 2–9 |
+| Parties currently not represented in the EP | EU | 0 | 4 | 3–6 | 2–6 | 2–6 | 1–8 |
 | Independents [IE] (*) | IE | | 1 | 1 | 1 | 1 | 1 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca [SI] (*) | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Resni.ca [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Union populaire républicaine [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | ZDRAVÝ ROZUM [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -59,17 +59,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 5% | 99.6% |  |
-| 3 | 18% | 95% |  |
-| 4 | 30% | 77% | Median |
-| 5 | 27% | 47% |  |
-| 6 | 14% | 20% |  |
-| 7 | 4% | 6% |  |
-| 8 | 1.0% | 2% |  |
-| 9 | 0.4% | 0.6% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 7% | 99.3% |  |
+| 3 | 25% | 92% |  |
+| 4 | 34% | 67% | Median |
+| 5 | 23% | 33% |  |
+| 6 | 8% | 10% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.5% | 0.9% |  |
+| 9 | 0.3% | 0.4% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
