@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 61 | 80 | 74–86 | 73–87 | 72–88 | 70–90 |
+| European Conservatives and Reformists | EU | 61 | 80 | 74–85 | 72–87 | 71–88 | 70–90 |
 | Fratelli d’Italia | IT | | 22 | 21–25 | 20–26 | 20–26 | 19–27 |
 | Zjednoczona Prawica | PL | | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
 | Alianța pentru Unirea Românilor | RO | | 8 | 7–12 | 6–13 | 6–13 | 6–13 |
-| Vox | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Vox | ES | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Reconquête | FR | | 5 | 0–6 | 0–7 | 0–7 | 0–8 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -32,7 +32,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0 | 0 | 0 | 0 |
 | Centro partija „Gerovės Lietuva“ | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -57,31 +57,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 0% | 100% |  |
 | 67 | 0% | 100% |  |
 | 68 | 0.1% | 100% |  |
-| 69 | 0.3% | 99.9% |  |
-| 70 | 0.6% | 99.6% |  |
-| 71 | 1.2% | 99.0% |  |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 4% | 93% |  |
-| 75 | 5% | 88% |  |
-| 76 | 6% | 83% |  |
-| 77 | 7% | 78% |  |
-| 78 | 8% | 71% |  |
-| 79 | 9% | 62% |  |
-| 80 | 9% | 53% | Median |
-| 81 | 9% | 44% |  |
-| 82 | 8% | 36% |  |
-| 83 | 7% | 28% |  |
-| 84 | 6% | 21% |  |
-| 85 | 5% | 15% |  |
-| 86 | 4% | 10% |  |
-| 87 | 3% | 6% |  |
-| 88 | 2% | 4% |  |
-| 89 | 1.0% | 2% |  |
-| 90 | 0.6% | 1.1% |  |
-| 91 | 0.3% | 0.5% |  |
-| 92 | 0.1% | 0.2% |  |
-| 93 | 0% | 0.1% |  |
-| 94 | 0% | 0% |  |
+| 69 | 0.3% | 99.8% |  |
+| 70 | 0.8% | 99.5% |  |
+| 71 | 1.5% | 98.7% |  |
+| 72 | 2% | 97% |  |
+| 73 | 4% | 95% |  |
+| 74 | 4% | 91% |  |
+| 75 | 5% | 87% |  |
+| 76 | 6% | 82% |  |
+| 77 | 7% | 75% |  |
+| 78 | 9% | 68% |  |
+| 79 | 9% | 59% |  |
+| 80 | 9% | 50% | Median |
+| 81 | 9% | 41% |  |
+| 82 | 8% | 32% |  |
+| 83 | 6% | 25% |  |
+| 84 | 5% | 18% |  |
+| 85 | 4% | 13% |  |
+| 86 | 3% | 9% |  |
+| 87 | 2% | 5% |  |
+| 88 | 1.4% | 3% |  |
+| 89 | 0.8% | 2% |  |
+| 90 | 0.4% | 0.8% |  |
+| 91 | 0.2% | 0.3% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 

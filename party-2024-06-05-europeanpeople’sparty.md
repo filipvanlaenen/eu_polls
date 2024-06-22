@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 181 | 176–186 | 174–188 | 173–189 | 170–192 |
-| Partido Popular | ES | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
+| European People’s Party | EU | 187 | 181 | 176–186 | 174–188 | 173–189 | 170–191 |
+| Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–21 | 16–21 | 15–21 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 4–10 | 4–10 | 4–11 |
@@ -37,7 +37,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 3 | 3 | 3 | 3 | 3 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Forța Dreptei–Partidul Mișcarea Populară | RO | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -71,10 +71,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
-| SPOLU–Občianska Demokracia | SK | | 0 | 0 | 0 | 0 | 0 |
+| SPOLU–Občianska Demokracia | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko–Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0 | 0 | 0 | 0 |
+| Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -87,27 +87,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 167 | 0% | 100% |  |
 | 168 | 0.1% | 99.9% |  |
-| 169 | 0.1% | 99.8% |  |
-| 170 | 0.3% | 99.7% |  |
-| 171 | 0.5% | 99.4% |  |
-| 172 | 0.8% | 98.9% |  |
-| 173 | 1.4% | 98% |  |
-| 174 | 2% | 97% |  |
-| 175 | 3% | 95% |  |
-| 176 | 4% | 91% |  |
-| 177 | 6% | 87% |  |
-| 178 | 7% | 81% |  |
-| 179 | 9% | 74% |  |
-| 180 | 9% | 65% |  |
-| 181 | 10% | 56% | Median |
-| 182 | 9% | 46% |  |
-| 183 | 9% | 37% |  |
-| 184 | 8% | 28% |  |
+| 169 | 0.2% | 99.8% |  |
+| 170 | 0.3% | 99.6% |  |
+| 171 | 0.6% | 99.3% |  |
+| 172 | 0.9% | 98.8% |  |
+| 173 | 2% | 98% |  |
+| 174 | 2% | 96% |  |
+| 175 | 3% | 94% |  |
+| 176 | 5% | 91% |  |
+| 177 | 6% | 86% |  |
+| 178 | 7% | 80% |  |
+| 179 | 9% | 73% |  |
+| 180 | 9% | 64% |  |
+| 181 | 10% | 55% | Median |
+| 182 | 9% | 45% |  |
+| 183 | 9% | 36% |  |
+| 184 | 7% | 27% |  |
 | 185 | 6% | 20% |  |
 | 186 | 5% | 14% |  |
 | 187 | 3% | 9% | Last Result |
 | 188 | 2% | 6% |  |
-| 189 | 2% | 3% |  |
+| 189 | 1.5% | 3% |  |
 | 190 | 0.9% | 2% |  |
 | 191 | 0.5% | 1.0% |  |
 | 192 | 0.3% | 0.5% |  |
