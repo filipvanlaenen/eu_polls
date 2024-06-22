@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **147** seats (General Election of 26 May 2019)
 
-Current median: **131** seats (-16 seats)
+Current median: **132** seats (-15 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 147 | 131 | 126–136 | 124–137 | 123–138 | 120–141 |
-| Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–21 | 17–22 | 16–23 |
+| Progressive Alliance of Socialists and Democrats | EU | 147 | 132 | 126–137 | 125–138 | 123–139 | 121–142 |
+| Partido Socialista Obrero Español | ES | | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
 | Partito Democratico | IT | | 17 | 15–20 | 15–20 | 15–21 | 13–23 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–15 | 13–15 | 12–16 | 11–16 |
 | Parti socialiste | FR | | 13 | 12–15 | 11–15 | 10–15 | 9–16 |
@@ -61,34 +61,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 117 | 0% | 100% |  |
-| 118 | 0.1% | 99.9% |  |
-| 119 | 0.2% | 99.8% |  |
-| 120 | 0.3% | 99.7% |  |
-| 121 | 0.6% | 99.3% |  |
-| 122 | 1.0% | 98.7% |  |
-| 123 | 2% | 98% |  |
-| 124 | 2% | 96% |  |
-| 125 | 4% | 94% |  |
-| 126 | 5% | 90% |  |
-| 127 | 6% | 85% |  |
-| 128 | 7% | 79% |  |
-| 129 | 8% | 72% |  |
-| 130 | 9% | 63% |  |
-| 131 | 10% | 54% | Median |
-| 132 | 9% | 45% |  |
-| 133 | 9% | 35% |  |
-| 134 | 8% | 26% |  |
-| 135 | 6% | 19% |  |
-| 136 | 5% | 12% |  |
-| 137 | 3% | 8% |  |
-| 138 | 2% | 5% |  |
-| 139 | 1.2% | 2% |  |
-| 140 | 0.7% | 1.2% |  |
-| 141 | 0.3% | 0.6% |  |
-| 142 | 0.1% | 0.3% |  |
-| 143 | 0.1% | 0.1% |  |
-| 144 | 0% | 0% |  |
+| 118 | 0.1% | 100% |  |
+| 119 | 0.1% | 99.9% |  |
+| 120 | 0.2% | 99.8% |  |
+| 121 | 0.4% | 99.6% |  |
+| 122 | 0.7% | 99.2% |  |
+| 123 | 1.2% | 98% |  |
+| 124 | 2% | 97% |  |
+| 125 | 3% | 95% |  |
+| 126 | 4% | 93% |  |
+| 127 | 5% | 89% |  |
+| 128 | 6% | 84% |  |
+| 129 | 8% | 78% |  |
+| 130 | 9% | 70% |  |
+| 131 | 9% | 61% |  |
+| 132 | 10% | 52% | Median |
+| 133 | 9% | 43% |  |
+| 134 | 9% | 33% |  |
+| 135 | 7% | 25% |  |
+| 136 | 6% | 18% |  |
+| 137 | 4% | 12% |  |
+| 138 | 3% | 7% |  |
+| 139 | 2% | 4% |  |
+| 140 | 1.2% | 2% |  |
+| 141 | 0.6% | 1.2% |  |
+| 142 | 0.3% | 0.6% |  |
+| 143 | 0.1% | 0.2% |  |
+| 144 | 0.1% | 0.1% |  |
 | 145 | 0% | 0% |  |
 | 146 | 0% | 0% |  |
 | 147 | 0% | 0% | Last Result |

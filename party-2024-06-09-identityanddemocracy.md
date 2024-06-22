@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Identity and Democracy | EU | 76 | 68 | 65–72 | 64–73 | 64–74 | 62–76 |
+| Identity and Democracy | EU | 76 | 68 | 65–72 | 64–73 | 63–74 | 62–76 |
 | Rassemblement national | FR | | 31 | 29–34 | 28–35 | 28–35 | 27–37 |
 | Partij voor de Vrijheid | NL | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | Lega Nord | IT | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
@@ -32,7 +32,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0–2 | 0–2 | 0–2 |
-| Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -42,23 +42,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% |  |
-| 62 | 0.6% | 99.8% |  |
-| 63 | 2% | 99.3% |  |
-| 64 | 4% | 98% |  |
-| 65 | 8% | 93% |  |
-| 66 | 12% | 86% |  |
-| 67 | 15% | 74% |  |
-| 68 | 15% | 59% | Median |
-| 69 | 14% | 44% |  |
-| 70 | 11% | 30% |  |
-| 71 | 8% | 19% |  |
-| 72 | 5% | 12% |  |
+| 61 | 0.2% | 100% |  |
+| 62 | 0.7% | 99.8% |  |
+| 63 | 2% | 99.1% |  |
+| 64 | 5% | 97% |  |
+| 65 | 9% | 92% |  |
+| 66 | 13% | 84% |  |
+| 67 | 15% | 71% |  |
+| 68 | 15% | 56% | Median |
+| 69 | 13% | 41% |  |
+| 70 | 10% | 28% |  |
+| 71 | 7% | 17% |  |
+| 72 | 5% | 10% |  |
 | 73 | 3% | 6% |  |
 | 74 | 2% | 3% |  |
-| 75 | 0.9% | 1.5% |  |
-| 76 | 0.4% | 0.6% | Last Result |
-| 77 | 0.2% | 0.3% |  |
+| 75 | 0.7% | 1.2% |  |
+| 76 | 0.3% | 0.5% | Last Result |
+| 77 | 0.1% | 0.2% |  |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0% |  |
 
