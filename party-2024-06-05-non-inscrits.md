@@ -34,7 +34,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Lewica Razem | PL | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centra partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -91,11 +91,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 2% | 99.1% |  |
 | 63 | 6% | 97% |  |
 | 64 | 11% | 91% |  |
-| 65 | 16% | 80% |  |
+| 65 | 16% | 79% |  |
 | 66 | 19% | 63% | Median |
 | 67 | 17% | 44% |  |
 | 68 | 12% | 28% |  |
-| 69 | 8% | 16% |  |
+| 69 | 7% | 16% |  |
 | 70 | 4% | 8% |  |
 | 71 | 2% | 4% |  |
 | 72 | 1.1% | 2% |  |

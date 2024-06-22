@@ -24,7 +24,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Partei Mensch Umwelt Tierschutz | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Podemos | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Stačilo! | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 6% | 94% |  |
 | 35 | 8% | 88% |  |
 | 36 | 11% | 80% |  |
-| 37 | 13% | 69% |  |
+| 37 | 13% | 70% |  |
 | 38 | 13% | 57% | Median |
 | 39 | 13% | 44% | Last Result |
 | 40 | 11% | 31% |  |

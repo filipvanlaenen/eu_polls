@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 187 | 181 | 176–186 | 174–188 | 173–189 | 170–191 |
-| Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
+| European People’s Party | EU | 187 | 181 | 176–186 | 174–188 | 173–189 | 170–192 |
+| Partido Popular | ES | | 23 | 21–25 | 20–26 | 20–26 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–21 | 16–21 | 15–21 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 4–10 | 4–10 | 4–11 |
@@ -55,7 +55,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -88,10 +88,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 167 | 0% | 100% |  |
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.2% | 99.8% |  |
-| 170 | 0.3% | 99.6% |  |
-| 171 | 0.6% | 99.3% |  |
+| 170 | 0.3% | 99.7% |  |
+| 171 | 0.5% | 99.3% |  |
 | 172 | 0.9% | 98.8% |  |
-| 173 | 2% | 98% |  |
+| 173 | 1.5% | 98% |  |
 | 174 | 2% | 96% |  |
 | 175 | 3% | 94% |  |
 | 176 | 5% | 91% |  |
