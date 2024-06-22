@@ -19,7 +19,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 187 | 181 | 176–187 | 174–188 | 173–189 | 170–192 |
-| Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
+| Partido Popular | ES | | 23 | 21–25 | 20–26 | 20–26 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | Platforma Obywatelska | PL | | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | Partidul Național Liberal | RO | | 9 | 5–10 | 4–10 | 4–10 | 4–11 |
@@ -55,7 +55,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Familienpartei Deutschlands | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kereszténydemokrata Néppárt | HU | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -89,24 +89,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.1% | 99.9% |  |
 | 170 | 0.3% | 99.7% |  |
-| 171 | 0.5% | 99.4% |  |
+| 171 | 0.5% | 99.5% |  |
 | 172 | 0.8% | 99.0% |  |
 | 173 | 1.3% | 98% |  |
 | 174 | 2% | 97% |  |
 | 175 | 3% | 95% |  |
 | 176 | 4% | 92% |  |
-| 177 | 6% | 87% |  |
+| 177 | 6% | 88% |  |
 | 178 | 7% | 82% |  |
 | 179 | 8% | 75% |  |
 | 180 | 9% | 67% |  |
-| 181 | 10% | 57% | Median |
+| 181 | 10% | 58% | Median |
 | 182 | 9% | 48% |  |
-| 183 | 9% | 38% |  |
-| 184 | 8% | 29% |  |
+| 183 | 9% | 39% |  |
+| 184 | 8% | 30% |  |
 | 185 | 6% | 22% |  |
 | 186 | 5% | 15% |  |
 | 187 | 4% | 10% | Last Result |
-| 188 | 3% | 6% |  |
+| 188 | 3% | 7% |  |
 | 189 | 2% | 4% |  |
 | 190 | 1.0% | 2% |  |
 | 191 | 0.6% | 1.2% |  |

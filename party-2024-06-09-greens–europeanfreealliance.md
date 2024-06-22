@@ -26,13 +26,13 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Europa Verde | IT | | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Miljöpartiet de gröna | SE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vihreä liitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Green Party | IE | | 1 | 1 | 1 | 1 | 1 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -82,14 +82,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 9% | 73% |  |
 | 53 | 10% | 65% |  |
 | 54 | 10% | 55% | Median |
-| 55 | 11% | 45% |  |
+| 55 | 11% | 44% |  |
 | 56 | 10% | 34% |  |
 | 57 | 9% | 24% |  |
-| 58 | 7% | 15% |  |
+| 58 | 6% | 15% |  |
 | 59 | 4% | 9% |  |
 | 60 | 2% | 4% |  |
 | 61 | 1.2% | 2% |  |
-| 62 | 0.5% | 0.8% |  |
+| 62 | 0.5% | 0.7% |  |
 | 63 | 0.2% | 0.2% |  |
 | 64 | 0% | 0.1% |  |
 | 65 | 0% | 0% |  |
