@@ -1,25 +1,29 @@
 # European United Left–Nordic Green Left
 
-Members registered from **2 countries**:
+Members registered from **5 countries**:
 
-> AT, CZ
+> AT, CZ, DE, EE, FI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **0** seats (-46 seats)
+Current median: **5** seats (-41 seats)
 
-At least one member in **0 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> 
+> DE, FI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| European United Left–Nordic Green Left | EU | 46 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Die Linke | DE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Partei Mensch Umwelt Tierschutz | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -30,15 +34,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Median |
-| 1 | 11% | 11% |  |
-| 2 | 0.5% | 0.5% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
+| 4 | 16% | 100% |  |
+| 5 | 57% | 84% | Median |
+| 6 | 24% | 26% |  |
+| 7 | 2% | 3% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

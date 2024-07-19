@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **2 countries**:
+Members registered from **4 countries**:
 
-> AT, CZ
+> AT, CZ, DE, EE
 
 ## Seats
 
@@ -20,6 +20,8 @@ At least one member in **1 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Bierpartei [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
+| Partei des Fortschritts [DE] (*) | DE | | 0 | 0 | 0 | 0 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function

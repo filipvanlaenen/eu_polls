@@ -1,25 +1,26 @@
 # European Conservatives and Reformists
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> CZ
+> CZ, FI
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (-74 seats)
+Current median: **7** seats (-71 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> CZ
+> CZ, FI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| European Conservatives and Reformists | EU | 78 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
@@ -29,13 +30,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 58% | 99.7% | Median |
-| 5 | 41% | 42% |  |
-| 6 | 1.0% | 1.0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 25% | 99.9% |  |
+| 7 | 50% | 75% | Median |
+| 8 | 23% | 24% |  |
+| 9 | 0.6% | 0.6% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

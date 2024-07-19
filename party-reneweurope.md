@@ -1,25 +1,31 @@
 # Renew Europe
 
-Members registered from **1 countries**:
+Members registered from **4 countries**:
 
-> AT
+> AT, DE, EE, FI
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **2** seats (-75 seats)
+Current median: **12** seats (-65 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> AT
+> AT, DE, EE, FI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Renew Europe | EU | 77 | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
+| Freie Demokratische Partei | DE | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -29,21 +35,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 24% | 100% |  |
-| 2 | 75% | 76% | Median |
-| 3 | 1.0% | 1.0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 10 | 7% | 100% |  |
+| 11 | 30% | 93% |  |
+| 12 | 30% | 63% | Median |
+| 13 | 20% | 33% |  |
+| 14 | 11% | 12% |  |
+| 15 | 2% | 2% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
