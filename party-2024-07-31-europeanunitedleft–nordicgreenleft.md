@@ -1,29 +1,30 @@
 # European United Left–Nordic Green Left
 
-Members registered from **5 countries**:
+Members registered from **6 countries**:
 
-> AT, CZ, DE, EE, FI
+> AT, CZ, DE, DK, EE, FI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (-41 seats)
+Current median: **7** seats (-39 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> DE, FI
+> DE, DK, FI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| Die Linke | DE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| European United Left–Nordic Green Left | EU | 46 | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
+| Die Linke | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -34,14 +35,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 16% | 100% |  |
-| 5 | 57% | 84% | Median |
-| 6 | 24% | 26% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 8% | 99.8% |  |
+| 6 | 32% | 92% |  |
+| 7 | 36% | 60% | Median |
+| 8 | 9% | 24% |  |
+| 9 | 13% | 14% |  |
+| 10 | 1.5% | 2% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |

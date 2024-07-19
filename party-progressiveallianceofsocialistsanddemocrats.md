@@ -1,27 +1,28 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **5 countries**:
+Members registered from **6 countries**:
 
-> AT, CZ, DE, EE, FI
+> AT, CZ, DE, DK, EE, FI
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **24** seats (-112 seats)
+Current median: **26** seats (-110 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> AT, DE, EE, FI
+> AT, DE, DK, EE, FI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 24 | 23–25 | 23–26 | 22–26 | 22–26 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 14–15 | 14–15 | 14–16 | 13–16 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 26 | 23–28 | 23–28 | 23–29 | 22–29 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 11–15 | 11–15 | 11–16 | 11–16 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Socialdemokraterne | DK | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -33,16 +34,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.3% | 100% |  |
-| 22 | 4% | 99.7% |  |
-| 23 | 21% | 95% |  |
-| 24 | 41% | 74% | Median |
-| 25 | 28% | 33% |  |
-| 26 | 5% | 5% |  |
-| 27 | 0.2% | 0.2% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 2% | 99.9% |  |
+| 23 | 9% | 98% |  |
+| 24 | 12% | 88% |  |
+| 25 | 15% | 77% |  |
+| 26 | 20% | 62% | Median |
+| 27 | 22% | 42% |  |
+| 28 | 15% | 19% |  |
+| 29 | 4% | 4% |  |
+| 30 | 0.4% | 0.4% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |

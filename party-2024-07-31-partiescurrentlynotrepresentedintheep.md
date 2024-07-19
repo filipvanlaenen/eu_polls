@@ -18,10 +18,10 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Parties currently not represented in the EP | EU | 1 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Bierpartei [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Partei des Fortschritts [DE] (*) | DE | | 0 | 0 | 0 | 0 | 0–1 |
+| Partei des Fortschritts [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -32,9 +32,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 74% | 76% | Last Result, Median |
-| 2 | 2% | 2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 23% | 100% |  |
+| 1 | 72% | 77% | Last Result, Median |
+| 2 | 5% | 5% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
