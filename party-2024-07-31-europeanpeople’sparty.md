@@ -1,25 +1,28 @@
 # European People’s Party
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> AT
+> AT, CZ
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (-183 seats)
+Current median: **7** seats (-181 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> AT
+> AT, CZ
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| European People’s Party | EU | 188 | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Österreichische Volkspartei | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Starostové a nezávislí | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
+| TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -29,13 +32,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 4% | 100% |  |
-| 5 | 80% | 96% | Median |
-| 6 | 16% | 16% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 4% | 99.9% |  |
+| 7 | 48% | 96% | Median |
+| 8 | 41% | 47% |  |
+| 9 | 7% | 7% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |

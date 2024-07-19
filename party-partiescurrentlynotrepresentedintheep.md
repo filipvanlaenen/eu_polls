@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> AT
+> AT, CZ
 
 ## Seats
 
@@ -20,6 +20,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Bierpartei [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

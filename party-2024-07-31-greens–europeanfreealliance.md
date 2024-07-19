@@ -1,25 +1,27 @@
 # Greens–European Free Alliance
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> AT
+> AT, CZ
 
 ## Seats
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **2** seats (-51 seats)
+Current median: **4** seats (-49 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> AT
+> AT, CZ
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Greens–European Free Alliance | EU | 53 | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Strana zelených | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -29,13 +31,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% |  |
-| 2 | 85% | 87% | Median |
-| 3 | 3% | 3% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
+| 3 | 7% | 100% |  |
+| 4 | 49% | 93% | Median |
+| 5 | 40% | 45% |  |
+| 6 | 5% | 5% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |

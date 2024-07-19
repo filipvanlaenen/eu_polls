@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> AT
+> AT, CZ
 
 ## Seats
 
@@ -18,8 +18,9 @@ At least one member in **0 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 0 | 0 | 0 | 0 | 0–1 |
+| European United Left–Nordic Green Left | EU | 46 | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -29,9 +30,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Median |
-| 1 | 0.9% | 0.9% |  |
-| 2 | 0% | 0% |  |
+| 0 | 89% | 100% | Median |
+| 1 | 11% | 11% |  |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% |  |

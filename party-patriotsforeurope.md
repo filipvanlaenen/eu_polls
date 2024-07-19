@@ -1,25 +1,27 @@
 # Patriots for Europe
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> AT
+> AT, CZ
 
 ## Seats
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **6** seats (-78 seats)
+Current median: **16** seats (-68 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> AT
+> AT, CZ
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Patriots for Europe | EU | 84 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -29,21 +31,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 10% | 100% |  |
-| 6 | 85% | 90% | Median |
-| 7 | 5% | 5% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
+| 14 | 3% | 100% |  |
+| 15 | 32% | 97% |  |
+| 16 | 36% | 65% | Median |
+| 17 | 26% | 29% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |

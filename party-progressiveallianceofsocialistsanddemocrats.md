@@ -1,8 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **1 countries**:
+Members registered from **2 countries**:
 
-> AT
+> AT, CZ
 
 ## Seats
 
@@ -20,6 +20,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
