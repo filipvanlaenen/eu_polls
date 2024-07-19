@@ -8,7 +8,7 @@ Members registered from **2 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **17** seats (-8 seats)
+Current median: **18** seats (-7 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 17 | 16–20 | 16–20 | 16–20 | 15–21 |
-| Alternative für Deutschland | DE | | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| Europe of Sovereign Nations | EU | 25 | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
+| Alternative für Deutschland | DE | | 16 | 15–19 | 14–19 | 14–19 | 13–20 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -31,15 +31,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 2% | 99.9% |  |
-| 16 | 19% | 98% |  |
-| 17 | 36% | 79% | Median |
-| 18 | 15% | 42% |  |
-| 19 | 10% | 27% |  |
-| 20 | 16% | 17% |  |
-| 21 | 1.2% | 1.4% |  |
-| 22 | 0.2% | 0.2% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 4% | 99.4% |  |
+| 16 | 13% | 95% |  |
+| 17 | 22% | 82% |  |
+| 18 | 25% | 60% | Median |
+| 19 | 17% | 34% |  |
+| 20 | 10% | 17% |  |
+| 21 | 7% | 7% |  |
+| 22 | 0.5% | 0.5% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% | Last Result |

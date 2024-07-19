@@ -8,7 +8,7 @@ Members registered from **6 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **26** seats (-110 seats)
+Current median: **27** seats (-109 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 26 | 23–28 | 23–28 | 23–29 | 22–29 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 11–15 | 11–15 | 11–16 | 11–16 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 27 | 24–28 | 23–29 | 23–29 | 22–30 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–16 | 11–16 | 11–16 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 3 | 3 | 3–4 | 2–4 | 2–4 |
@@ -34,17 +34,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 2% | 99.9% |  |
-| 23 | 9% | 98% |  |
-| 24 | 12% | 88% |  |
-| 25 | 15% | 77% |  |
-| 26 | 20% | 62% | Median |
-| 27 | 22% | 42% |  |
-| 28 | 15% | 19% |  |
-| 29 | 4% | 4% |  |
-| 30 | 0.4% | 0.4% |  |
-| 31 | 0% | 0% |  |
+| 22 | 1.0% | 100% |  |
+| 23 | 4% | 99.0% |  |
+| 24 | 8% | 95% |  |
+| 25 | 14% | 87% |  |
+| 26 | 19% | 73% |  |
+| 27 | 24% | 54% | Median |
+| 28 | 21% | 30% |  |
+| 29 | 8% | 9% |  |
+| 30 | 1.3% | 1.3% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% |  |

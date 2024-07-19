@@ -18,9 +18,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 16 | 14–18 | 14–18 | 13–19 | 13–19 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Renew Europe | EU | 77 | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -38,15 +38,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.3% | 100% |  |
-| 13 | 3% | 99.7% |  |
-| 14 | 12% | 96% |  |
-| 15 | 18% | 84% |  |
-| 16 | 22% | 67% | Median |
-| 17 | 25% | 44% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 2% | 99.8% |  |
+| 14 | 9% | 98% |  |
+| 15 | 20% | 88% |  |
+| 16 | 25% | 68% | Median |
+| 17 | 23% | 44% |  |
 | 18 | 15% | 20% |  |
-| 19 | 4% | 5% |  |
-| 20 | 0.4% | 0.4% |  |
+| 19 | 5% | 5% |  |
+| 20 | 0.5% | 0.5% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

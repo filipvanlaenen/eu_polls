@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| Non-Inscrits | EU | 32 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -32,11 +32,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.4% | 100% |  |
-| 8 | 25% | 98.6% |  |
-| 9 | 39% | 74% | Median |
-| 10 | 33% | 35% |  |
-| 11 | 2% | 2% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 9% | 99.9% |  |
+| 8 | 23% | 91% |  |
+| 9 | 33% | 68% | Median |
+| 10 | 34% | 35% |  |
+| 11 | 0.7% | 0.7% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |

@@ -8,7 +8,7 @@ Members registered from **6 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (-140 seats)
+Current median: **47** seats (-141 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 48 | 46–50 | 46–50 | 45–50 | 44–51 |
-| Christlich Demokratische Union Deutschlands | DE | | 25 | 23–25 | 23–25 | 22–25 | 22–26 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
+| European People’s Party | EU | 188 | 47 | 44–49 | 44–50 | 43–50 | 42–51 |
+| Christlich Demokratische Union Deutschlands | DE | | 24 | 22–25 | 22–26 | 22–26 | 20–27 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Österreichische Volkspartei | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -42,17 +42,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0% | 100% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 1.0% | 99.7% |  |
-| 45 | 3% | 98.7% |  |
-| 46 | 9% | 96% |  |
-| 47 | 22% | 86% |  |
-| 48 | 31% | 64% | Median |
-| 49 | 23% | 34% |  |
-| 50 | 9% | 10% |  |
-| 51 | 1.5% | 2% |  |
-| 52 | 0.1% | 0.1% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 1.0% | 99.9% |  |
+| 43 | 4% | 98.8% |  |
+| 44 | 8% | 95% |  |
+| 45 | 13% | 87% |  |
+| 46 | 18% | 75% |  |
+| 47 | 22% | 56% | Median |
+| 48 | 19% | 35% |  |
+| 49 | 11% | 16% |  |
+| 50 | 4% | 5% |  |
+| 51 | 1.0% | 1.2% |  |
+| 52 | 0.2% | 0.2% |  |
 | 53 | 0% | 0% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |

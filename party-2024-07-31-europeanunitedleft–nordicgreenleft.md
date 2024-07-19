@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
-| Die Linke | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| European United Left–Nordic Green Left | EU | 46 | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
+| Die Linke | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -36,13 +36,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 8% | 99.8% |  |
-| 6 | 32% | 92% |  |
-| 7 | 36% | 60% | Median |
-| 8 | 9% | 24% |  |
-| 9 | 13% | 14% |  |
-| 10 | 1.5% | 2% |  |
-| 11 | 0.1% | 0.1% |  |
+| 5 | 5% | 99.8% |  |
+| 6 | 29% | 95% |  |
+| 7 | 49% | 66% | Median |
+| 8 | 11% | 17% |  |
+| 9 | 6% | 6% |  |
+| 10 | 0.6% | 0.6% |  |
+| 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
