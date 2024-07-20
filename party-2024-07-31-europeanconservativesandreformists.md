@@ -1,26 +1,27 @@
 # European Conservatives and Reformists
 
-Members registered from **3 countries**:
+Members registered from **4 countries**:
 
-> CZ, DK, FI
+> CZ, DK, FI, GR
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (-70 seats)
+Current median: **10** seats (-68 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> CZ, DK, FI
+> CZ, DK, FI, GR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 8 | 7–10 | 7–10 | 7–10 | 7–10 |
+| European Conservatives and Reformists | EU | 78 | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Ελληνική Λύση | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
@@ -31,14 +32,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 15% | 99.9% |  |
-| 8 | 40% | 85% | Median |
-| 9 | 35% | 45% |  |
-| 10 | 10% | 10% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 14% | 99.7% |  |
+| 10 | 39% | 85% | Median |
+| 11 | 35% | 47% |  |
+| 12 | 11% | 12% |  |
+| 13 | 0.8% | 0.8% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
