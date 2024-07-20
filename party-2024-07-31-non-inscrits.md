@@ -18,12 +18,12 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
+| Non-Inscrits | EU | 32 | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -35,14 +35,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% |  |
-| 9 | 2% | 99.8% |  |
-| 10 | 7% | 98% |  |
-| 11 | 20% | 91% |  |
-| 12 | 29% | 71% | Median |
-| 13 | 28% | 42% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 2% | 99.7% |  |
+| 10 | 8% | 98% |  |
+| 11 | 20% | 89% |  |
+| 12 | 28% | 69% | Median |
+| 13 | 27% | 41% |  |
 | 14 | 13% | 14% |  |
-| 15 | 0.5% | 0.5% |  |
+| 15 | 1.1% | 1.1% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
