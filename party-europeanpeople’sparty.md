@@ -1,26 +1,27 @@
 # European People’s Party
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> AT, CZ, DE, DK, EE, FI
+> AT, CZ, DE, DK, EE, ES, FI
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **47** seats (-141 seats)
+Current median: **70** seats (-118 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, EE, FI
+> AT, CZ, DE, DK, EE, ES, FI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 47 | 44–49 | 44–50 | 43–50 | 42–51 |
-| Christlich Demokratische Union Deutschlands | DE | | 24 | 22–25 | 22–26 | 22–26 | 20–27 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| European People’s Party | EU | 188 | 70 | 67–74 | 66–75 | 65–76 | 64–78 |
+| Christlich Demokratische Union Deutschlands | DE | | 24 | 22–25 | 22–25 | 22–26 | 20–27 |
+| Partido Popular | ES | | 24 | 22–26 | 21–27 | 20–28 | 20–30 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 5–9 |
 | Österreichische Volkspartei | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -42,46 +43,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 1.0% | 99.9% |  |
-| 43 | 4% | 98.8% |  |
-| 44 | 8% | 95% |  |
-| 45 | 13% | 87% |  |
-| 46 | 18% | 75% |  |
-| 47 | 22% | 56% | Median |
-| 48 | 19% | 35% |  |
-| 49 | 11% | 16% |  |
-| 50 | 4% | 5% |  |
-| 51 | 1.0% | 1.2% |  |
-| 52 | 0.2% | 0.2% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
-| 71 | 0% | 0% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
+| 62 | 0.1% | 100% |  |
+| 63 | 0.2% | 99.9% |  |
+| 64 | 0.7% | 99.7% |  |
+| 65 | 2% | 99.0% |  |
+| 66 | 4% | 97% |  |
+| 67 | 6% | 94% |  |
+| 68 | 10% | 87% |  |
+| 69 | 13% | 78% |  |
+| 70 | 15% | 64% | Median |
+| 71 | 15% | 49% |  |
+| 72 | 13% | 34% |  |
+| 73 | 9% | 21% |  |
+| 74 | 6% | 12% |  |
+| 75 | 3% | 7% |  |
+| 76 | 2% | 3% |  |
+| 77 | 0.9% | 2% |  |
+| 78 | 0.4% | 0.7% |  |
+| 79 | 0.2% | 0.3% |  |
+| 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
 | 82 | 0% | 0% |  |
 | 83 | 0% | 0% |  |

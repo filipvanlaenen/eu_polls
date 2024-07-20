@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **5 countries**:
+Members registered from **6 countries**:
 
-> AT, DE, DK, EE, FI
+> AT, DE, DK, EE, ES, FI
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| Renew Europe | EU | 77 | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
@@ -28,6 +28,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -38,16 +40,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
-| 13 | 2% | 99.8% |  |
-| 14 | 9% | 98% |  |
-| 15 | 20% | 88% |  |
-| 16 | 25% | 68% | Median |
-| 17 | 23% | 44% |  |
-| 18 | 15% | 20% |  |
-| 19 | 5% | 5% |  |
-| 20 | 0.5% | 0.5% |  |
-| 21 | 0% | 0% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 2% | 99.9% |  |
+| 14 | 8% | 98% |  |
+| 15 | 18% | 91% |  |
+| 16 | 25% | 72% | Median |
+| 17 | 24% | 47% |  |
+| 18 | 16% | 23% |  |
+| 19 | 6% | 7% |  |
+| 20 | 1.0% | 1.1% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |

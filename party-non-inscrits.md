@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **3 countries**:
+Members registered from **4 countries**:
 
-> CZ, DE, FI
+> CZ, DE, ES, FI
 
 ## Seats
 
@@ -10,17 +10,18 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **9** seats (-23 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> DE
+> DE, ES
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
+| Non-Inscrits | EU | 32 | 9 | 8–11 | 7–11 | 7–11 | 6–11 |
+| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -32,13 +33,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 9% | 99.9% |  |
-| 8 | 23% | 91% |  |
-| 9 | 33% | 68% | Median |
-| 10 | 34% | 35% |  |
-| 11 | 0.7% | 0.7% |  |
-| 12 | 0% | 0% |  |
+| 6 | 1.5% | 100% |  |
+| 7 | 6% | 98.5% |  |
+| 8 | 19% | 93% |  |
+| 9 | 29% | 73% | Median |
+| 10 | 30% | 45% |  |
+| 11 | 15% | 15% |  |
+| 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
