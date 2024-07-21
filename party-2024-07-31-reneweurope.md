@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR
+> AT, DE, DK, EE, ES, FI, HR, HU
 
 ## Seats
 
@@ -34,6 +34,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
+| Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -49,7 +50,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 8% | 98% |  |
 | 15 | 18% | 91% |  |
 | 16 | 25% | 72% | Median |
-| 17 | 24% | 47% |  |
+| 17 | 25% | 47% |  |
 | 18 | 16% | 23% |  |
 | 19 | 6% | 7% |  |
 | 20 | 1.0% | 1.1% |  |

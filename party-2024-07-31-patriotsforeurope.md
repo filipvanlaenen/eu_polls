@@ -1,25 +1,26 @@
 # Patriots for Europe
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> AT, CZ, DK, EE, ES, GR
+> AT, CZ, DK, EE, ES, GR, HU
 
 ## Seats
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **25** seats (-59 seats)
+Current median: **35** seats (-49 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> AT, CZ, EE, ES, GR
+> AT, CZ, EE, ES, GR, HU
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
+| Patriots for Europe | EU | 84 | 35 | 33–37 | 33–38 | 32–39 | 31–40 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | Vox | ES | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
@@ -35,27 +36,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.5% | 100% |  |
-| 22 | 3% | 99.5% |  |
-| 23 | 10% | 97% |  |
-| 24 | 22% | 87% |  |
-| 25 | 27% | 65% | Median |
-| 26 | 22% | 38% |  |
-| 27 | 11% | 16% |  |
-| 28 | 4% | 5% |  |
-| 29 | 0.9% | 1.0% |  |
-| 30 | 0.1% | 0.2% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
+| 30 | 0.1% | 100% |  |
+| 31 | 0.8% | 99.9% |  |
+| 32 | 3% | 99.1% |  |
+| 33 | 9% | 96% |  |
+| 34 | 17% | 86% |  |
+| 35 | 23% | 69% | Median |
+| 36 | 22% | 46% |  |
+| 37 | 14% | 24% |  |
+| 38 | 7% | 9% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.5% | 0.6% |  |
+| 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

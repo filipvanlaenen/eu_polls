@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **5 countries**:
+Members registered from **6 countries**:
 
-> CZ, DE, ES, FI, GR
+> CZ, DE, ES, FI, GR, HU
 
 ## Seats
 
@@ -24,6 +24,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 

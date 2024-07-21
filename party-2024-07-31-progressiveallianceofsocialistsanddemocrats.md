@@ -1,24 +1,24 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (-82 seats)
+Current median: **55** seats (-81 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **9 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, GR, HR
+> AT, DE, DK, EE, ES, FI, GR, HR, HU
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 54 | 51–57 | 50–58 | 49–58 | 48–59 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 55 | 52–58 | 51–59 | 51–60 | 49–61 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–16 | 11–16 | 11–16 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -26,7 +26,10 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Demokratikus Koalíció | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -37,23 +40,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 0.2% | 100% |  |
-| 48 | 0.7% | 99.8% |  |
-| 49 | 2% | 99.0% |  |
-| 50 | 4% | 97% |  |
-| 51 | 7% | 93% |  |
-| 52 | 11% | 86% |  |
-| 53 | 15% | 74% |  |
-| 54 | 17% | 59% | Median |
-| 55 | 16% | 43% |  |
-| 56 | 13% | 27% |  |
-| 57 | 8% | 14% |  |
-| 58 | 4% | 6% |  |
-| 59 | 1.3% | 2% |  |
-| 60 | 0.4% | 0.5% |  |
-| 61 | 0.1% | 0.1% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.5% | 99.8% |  |
+| 50 | 1.4% | 99.3% |  |
+| 51 | 3% | 98% |  |
+| 52 | 6% | 95% |  |
+| 53 | 10% | 89% |  |
+| 54 | 13% | 79% |  |
+| 55 | 16% | 65% | Median |
+| 56 | 16% | 49% |  |
+| 57 | 14% | 33% |  |
+| 58 | 10% | 19% |  |
+| 59 | 6% | 9% |  |
+| 60 | 2% | 3% |  |
+| 61 | 0.7% | 1.0% |  |
+| 62 | 0.2% | 0.3% |  |
+| 63 | 0% | 0.1% |  |
 | 64 | 0% | 0% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
