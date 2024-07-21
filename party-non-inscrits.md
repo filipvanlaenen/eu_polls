@@ -1,31 +1,33 @@
 # Non-Inscrits
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> CZ, DE, ES, FI, GR, HU, LT
+> CZ, DE, ES, FI, GR, HU, LT, LV
 
 ## Seats
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **13** seats (-19 seats)
+Current median: **14** seats (-18 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> DE, ES, GR, LT
+> DE, ES, GR, LT, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 13 | 11–15 | 11–15 | 11–15 | 10–16 |
+| Non-Inscrits | EU | 32 | 14 | 12–16 | 12–16 | 11–16 | 10–17 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partit Demòcrata Europeu Català | ES | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
+| Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -37,15 +39,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.3% | 100% |  |
-| 10 | 2% | 99.7% |  |
-| 11 | 8% | 98% |  |
-| 12 | 20% | 89% |  |
-| 13 | 28% | 69% | Median |
-| 14 | 27% | 41% |  |
-| 15 | 13% | 14% |  |
-| 16 | 1.1% | 1.2% |  |
-| 17 | 0% | 0% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.8% | 99.9% |  |
+| 11 | 4% | 99.2% |  |
+| 12 | 11% | 95% |  |
+| 13 | 22% | 84% |  |
+| 14 | 28% | 62% | Median |
+| 15 | 23% | 34% |  |
+| 16 | 10% | 11% |  |
+| 17 | 0.8% | 0.9% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |

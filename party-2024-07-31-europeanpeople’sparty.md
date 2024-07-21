@@ -1,24 +1,24 @@
 # European People’s Party
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> AT, BE, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **101** seats (-87 seats)
+Current median: **104** seats (-84 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 101 | 97–105 | 96–106 | 95–107 | 94–110 |
+| European People’s Party | EU | 188 | 104 | 100–108 | 99–109 | 98–110 | 96–112 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 22–25 | 22–25 | 22–26 | 20–27 |
 | Partido Popular | ES | | 24 | 22–26 | 21–27 | 20–28 | 20–30 |
 | Tisztelet és Szabadság | HU | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -29,14 +29,17 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -50,30 +53,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 92 | 0.1% | 100% |  |
-| 93 | 0.3% | 99.9% |  |
-| 94 | 0.7% | 99.6% |  |
-| 95 | 2% | 98.9% |  |
-| 96 | 3% | 97% |  |
-| 97 | 5% | 95% |  |
-| 98 | 7% | 90% |  |
-| 99 | 10% | 82% |  |
-| 100 | 12% | 72% |  |
-| 101 | 13% | 60% | Median |
-| 102 | 13% | 46% |  |
-| 103 | 11% | 33% |  |
-| 104 | 8% | 22% |  |
-| 105 | 6% | 14% |  |
-| 106 | 4% | 8% |  |
-| 107 | 2% | 4% |  |
-| 108 | 1.2% | 2% |  |
-| 109 | 0.6% | 1.1% |  |
-| 110 | 0.3% | 0.5% |  |
-| 111 | 0.1% | 0.2% |  |
-| 112 | 0.1% | 0.1% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
-| 115 | 0% | 0% |  |
+| 94 | 0% | 100% |  |
+| 95 | 0.1% | 99.9% |  |
+| 96 | 0.4% | 99.8% |  |
+| 97 | 0.8% | 99.5% |  |
+| 98 | 2% | 98.6% |  |
+| 99 | 3% | 97% |  |
+| 100 | 5% | 94% |  |
+| 101 | 8% | 88% |  |
+| 102 | 11% | 80% |  |
+| 103 | 13% | 70% |  |
+| 104 | 13% | 57% | Median |
+| 105 | 12% | 44% |  |
+| 106 | 11% | 31% |  |
+| 107 | 8% | 21% |  |
+| 108 | 5% | 13% |  |
+| 109 | 3% | 7% |  |
+| 110 | 2% | 4% |  |
+| 111 | 1.1% | 2% |  |
+| 112 | 0.5% | 1.0% |  |
+| 113 | 0.3% | 0.5% |  |
+| 114 | 0.1% | 0.2% |  |
+| 115 | 0% | 0.1% |  |
 | 116 | 0% | 0% |  |
 | 117 | 0% | 0% |  |
 | 118 | 0% | 0% |  |
