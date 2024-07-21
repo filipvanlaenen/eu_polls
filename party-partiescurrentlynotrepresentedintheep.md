@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> AT, CZ, DE, EE, ES, GR
+> AT, CZ, DE, EE, ES, GR, HR
 
 ## Seats
 
@@ -22,6 +22,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Se Acabó La Fiesta [ES] (*) | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Bierpartei [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |

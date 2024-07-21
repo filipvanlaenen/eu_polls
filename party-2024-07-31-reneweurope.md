@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> AT, DE, DK, EE, ES, FI
+> AT, DE, DK, EE, ES, FI, HR
 
 ## Seats
 
@@ -28,8 +28,12 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
+| Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function

@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR
 
 ## Seats
 
@@ -29,6 +29,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

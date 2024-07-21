@@ -1,29 +1,30 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-85 seats)
+Current median: **54** seats (-82 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, GR
+> AT, DE, DK, EE, ES, FI, GR, HR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 51 | 48–53 | 47–54 | 46–55 | 45–56 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 54 | 51–57 | 50–58 | 49–58 | 48–59 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–16 | 11–16 | 11–16 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -36,25 +37,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
-| 44 | 0.3% | 99.9% |  |
-| 45 | 1.0% | 99.6% |  |
-| 46 | 2% | 98.6% |  |
-| 47 | 5% | 96% |  |
-| 48 | 9% | 91% |  |
-| 49 | 13% | 82% |  |
-| 50 | 16% | 69% |  |
-| 51 | 17% | 53% | Median |
-| 52 | 15% | 36% |  |
-| 53 | 11% | 20% |  |
-| 54 | 6% | 9% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.6% | 0.8% |  |
-| 57 | 0.2% | 0.2% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
+| 47 | 0.2% | 100% |  |
+| 48 | 0.7% | 99.8% |  |
+| 49 | 2% | 99.0% |  |
+| 50 | 4% | 97% |  |
+| 51 | 7% | 93% |  |
+| 52 | 11% | 86% |  |
+| 53 | 15% | 74% |  |
+| 54 | 17% | 59% | Median |
+| 55 | 16% | 43% |  |
+| 56 | 13% | 27% |  |
+| 57 | 8% | 14% |  |
+| 58 | 4% | 6% |  |
+| 59 | 1.3% | 2% |  |
+| 60 | 0.4% | 0.5% |  |
+| 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |

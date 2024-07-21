@@ -1,28 +1,31 @@
 # European Conservatives and Reformists
 
-Members registered from **4 countries**:
+Members registered from **5 countries**:
 
-> CZ, DK, FI, GR
+> CZ, DK, FI, GR, HR
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **10** seats (-68 seats)
+Current median: **12** seats (-66 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> CZ, DK, FI, GR
+> CZ, DK, FI, GR, HR
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
+| European Conservatives and Reformists | EU | 78 | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Domovinski pokret | HR | | 1 | 1 | 1 | 1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -32,14 +35,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.7% | 100% |  |
-| 9 | 15% | 99.3% |  |
-| 10 | 39% | 84% | Median |
-| 11 | 34% | 45% |  |
-| 12 | 11% | 11% |  |
-| 13 | 0.5% | 0.5% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 2% | 99.9% |  |
+| 11 | 18% | 98% |  |
+| 12 | 38% | 80% | Median |
+| 13 | 32% | 41% |  |
+| 14 | 9% | 10% |  |
+| 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
