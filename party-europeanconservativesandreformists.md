@@ -1,24 +1,25 @@
 # European Conservatives and Reformists
 
-Members registered from **5 countries**:
+Members registered from **6 countries**:
 
-> CZ, DK, FI, GR, HR
+> CZ, DK, FI, GR, HR, IT
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **12** seats (-66 seats)
+Current median: **39** seats (-39 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> CZ, DK, FI, GR, HR
+> CZ, DK, FI, GR, HR, IT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| European Conservatives and Reformists | EU | 78 | 39 | 37–40 | 36–41 | 36–41 | 35–42 |
+| Fratelli d’Italia | IT | | 26 | 25–27 | 25–28 | 25–28 | 25–29 |
 | Občanská demokratická strana | CZ | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 2 | 2 | 1–3 | 1–3 |
@@ -35,41 +36,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 18% | 98% |  |
-| 12 | 38% | 80% | Median |
-| 13 | 32% | 41% |  |
-| 14 | 9% | 10% |  |
-| 15 | 0.5% | 0.5% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
+| 35 | 0.5% | 100% |  |
+| 36 | 5% | 99.5% |  |
+| 37 | 16% | 95% |  |
+| 38 | 29% | 79% |  |
+| 39 | 28% | 50% | Median |
+| 40 | 16% | 22% |  |
+| 41 | 5% | 6% |  |
+| 42 | 1.0% | 1.2% |  |
+| 43 | 0.2% | 0.2% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |

@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, HU
+> AT, DE, DK, EE, ES, FI, HR, HU, IT
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| Renew Europe | EU | 77 | 16 | 15–18 | 14–19 | 14–19 | 13–21 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -28,13 +28,16 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -49,14 +52,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 2% | 99.9% |  |
 | 14 | 8% | 98% |  |
 | 15 | 18% | 91% |  |
-| 16 | 25% | 72% | Median |
-| 17 | 25% | 47% |  |
+| 16 | 25% | 73% | Median |
+| 17 | 24% | 48% |  |
 | 18 | 16% | 23% |  |
-| 19 | 6% | 7% |  |
-| 20 | 1.0% | 1.1% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
+| 19 | 6% | 8% |  |
+| 20 | 1.2% | 2% |  |
+| 21 | 0.3% | 0.5% |  |
+| 22 | 0.1% | 0.2% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |

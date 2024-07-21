@@ -1,25 +1,26 @@
 # Greens–European Free Alliance
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, HR, HU
+> AT, CZ, DE, DK, EE, ES, FI, HR, HU, IT
 
 ## Seats
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **26** seats (-27 seats)
+Current median: **29** seats (-24 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, ES, FI, HR
+> AT, CZ, DE, DK, ES, FI, HR, IT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
+| Greens–European Free Alliance | EU | 53 | 29 | 25–32 | 24–33 | 24–34 | 23–36 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
+| Europa Verde | IT | | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Socialistisk Folkeparti | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–4 | 2–4 | 1–5 | 1–5 |
@@ -46,23 +47,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 1.0% | 99.9% |  |
-| 23 | 5% | 98.9% |  |
-| 24 | 12% | 94% |  |
-| 25 | 18% | 83% |  |
-| 26 | 20% | 64% | Median |
-| 27 | 16% | 44% |  |
-| 28 | 12% | 28% |  |
-| 29 | 8% | 16% |  |
-| 30 | 5% | 8% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.8% | 1.0% |  |
-| 33 | 0.2% | 0.2% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
+| 22 | 0.4% | 100% |  |
+| 23 | 2% | 99.5% |  |
+| 24 | 5% | 98% |  |
+| 25 | 8% | 93% |  |
+| 26 | 9% | 85% |  |
+| 27 | 10% | 76% |  |
+| 28 | 12% | 66% |  |
+| 29 | 14% | 54% | Median |
+| 30 | 14% | 40% |  |
+| 31 | 10% | 27% |  |
+| 32 | 7% | 16% |  |
+| 33 | 5% | 9% |  |
+| 34 | 3% | 5% |  |
+| 35 | 1.3% | 2% |  |
+| 36 | 0.4% | 0.5% |  |
+| 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
 | 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |

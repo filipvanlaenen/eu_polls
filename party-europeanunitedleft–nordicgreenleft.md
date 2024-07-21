@@ -1,24 +1,25 @@
 # European United Left–Nordic Green Left
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, IT
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **14** seats (-32 seats)
+Current median: **23** seats (-23 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, FI, GR
+> DE, DK, ES, FI, GR, IT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 14 | 12–16 | 12–16 | 11–17 | 10–18 |
+| European United Left–Nordic Green Left | EU | 46 | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
+| Movimento 5 Stelle | IT | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | Die Linke | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Podemos | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
@@ -29,7 +30,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,26 +45,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.6% | 99.9% |  |
-| 11 | 3% | 99.3% |  |
-| 12 | 10% | 96% |  |
-| 13 | 21% | 86% |  |
-| 14 | 28% | 65% | Median |
-| 15 | 22% | 37% |  |
-| 16 | 10% | 15% |  |
-| 17 | 4% | 5% |  |
-| 18 | 0.9% | 1.0% |  |
-| 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 2% | 99.7% |  |
+| 20 | 5% | 98% |  |
+| 21 | 14% | 93% |  |
+| 22 | 23% | 79% |  |
+| 23 | 25% | 56% | Median |
+| 24 | 18% | 31% |  |
+| 25 | 9% | 13% |  |
+| 26 | 3% | 4% |  |
+| 27 | 0.9% | 1.1% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
