@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> AT, CZ, DE, EE, ES, GR, HR, HU, IT
+> AT, CZ, DE, EE, ES, GR, HR, HU, IT, LT
 
 ## Seats
 
@@ -27,6 +27,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |

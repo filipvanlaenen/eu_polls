@@ -1,33 +1,35 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **77** seats (-59 seats)
+Current median: **81** seats (-55 seats)
 
-At least one member in **10 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, GR, HR, HU, IT
+> AT, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 77 | 74–81 | 73–82 | 72–82 | 71–84 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 81 | 77–85 | 76–86 | 75–86 | 73–88 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–25 |
-| Partito Democratico | IT | | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
+| Partito Democratico | IT | | 22 | 20–24 | 19–24 | 18–24 | 16–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–16 | 11–16 | 11–16 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Lietuvos socialdemokratų partija | LT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Demokratikus Koalíció | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Lietuvos regionų partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -41,28 +43,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.9% |  |
-| 71 | 0.8% | 99.6% |  |
-| 72 | 2% | 98.9% |  |
-| 73 | 4% | 97% |  |
-| 74 | 7% | 93% |  |
-| 75 | 10% | 87% |  |
-| 76 | 13% | 77% |  |
-| 77 | 15% | 64% | Median |
-| 78 | 15% | 49% |  |
-| 79 | 13% | 34% |  |
-| 80 | 10% | 21% |  |
-| 81 | 6% | 11% |  |
-| 82 | 3% | 5% |  |
-| 83 | 1.3% | 2% |  |
-| 84 | 0.5% | 0.6% |  |
-| 85 | 0.1% | 0.2% |  |
-| 86 | 0% | 0% |  |
-| 87 | 0% | 0% |  |
-| 88 | 0% | 0% |  |
-| 89 | 0% | 0% |  |
-| 90 | 0% | 0% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.4% | 99.8% |  |
+| 74 | 0.9% | 99.3% |  |
+| 75 | 2% | 98% |  |
+| 76 | 3% | 97% |  |
+| 77 | 5% | 93% |  |
+| 78 | 8% | 88% |  |
+| 79 | 11% | 80% |  |
+| 80 | 13% | 69% |  |
+| 81 | 14% | 56% | Median |
+| 82 | 13% | 43% |  |
+| 83 | 11% | 30% |  |
+| 84 | 8% | 19% |  |
+| 85 | 5% | 10% |  |
+| 86 | 3% | 5% |  |
+| 87 | 1.4% | 2% |  |
+| 88 | 0.5% | 0.8% |  |
+| 89 | 0.2% | 0.2% |  |
+| 90 | 0% | 0.1% |  |
 | 91 | 0% | 0% |  |
 | 92 | 0% | 0% |  |
 | 93 | 0% | 0% |  |

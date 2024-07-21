@@ -1,28 +1,28 @@
 # European People’s Party
 
-Members registered from **11 countries**:
+Members registered from **13 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **100** seats (-88 seats)
+Current median: **101** seats (-87 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT
+> AT, BE, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 100 | 96–103 | 95–104 | 94–105 | 92–107 |
+| European People’s Party | EU | 188 | 101 | 97–105 | 96–106 | 95–107 | 94–110 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 22–25 | 22–25 | 22–26 | 20–27 |
 | Partido Popular | ES | | 24 | 22–26 | 21–27 | 20–28 | 20–30 |
-| Forza Italia | IT | | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | Tisztelet és Szabadság | HU | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Forza Italia | IT | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–8 | 5–9 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 4–5 | 4–6 |
@@ -31,6 +31,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -48,28 +50,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 91 | 0.1% | 100% |  |
-| 92 | 0.4% | 99.8% |  |
-| 93 | 0.9% | 99.5% |  |
-| 94 | 2% | 98.5% |  |
-| 95 | 4% | 96% |  |
-| 96 | 6% | 93% |  |
-| 97 | 9% | 86% |  |
-| 98 | 12% | 77% |  |
-| 99 | 14% | 65% |  |
-| 100 | 14% | 51% | Median |
-| 101 | 12% | 37% |  |
-| 102 | 9% | 25% |  |
-| 103 | 6% | 15% |  |
-| 104 | 4% | 9% |  |
-| 105 | 2% | 5% |  |
-| 106 | 1.2% | 2% |  |
-| 107 | 0.6% | 1.1% |  |
-| 108 | 0.3% | 0.5% |  |
-| 109 | 0.1% | 0.2% |  |
-| 110 | 0.1% | 0.1% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
+| 92 | 0.1% | 100% |  |
+| 93 | 0.3% | 99.9% |  |
+| 94 | 0.7% | 99.6% |  |
+| 95 | 2% | 98.9% |  |
+| 96 | 3% | 97% |  |
+| 97 | 5% | 95% |  |
+| 98 | 7% | 90% |  |
+| 99 | 10% | 82% |  |
+| 100 | 12% | 72% |  |
+| 101 | 13% | 60% | Median |
+| 102 | 13% | 46% |  |
+| 103 | 11% | 33% |  |
+| 104 | 8% | 22% |  |
+| 105 | 6% | 14% |  |
+| 106 | 4% | 8% |  |
+| 107 | 2% | 4% |  |
+| 108 | 1.2% | 2% |  |
+| 109 | 0.6% | 1.1% |  |
+| 110 | 0.3% | 0.5% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 | 114 | 0% | 0% |  |
 | 115 | 0% | 0% |  |

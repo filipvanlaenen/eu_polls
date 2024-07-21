@@ -1,8 +1,8 @@
 # Europe of Sovereign Nations
 
-Members registered from **3 countries**:
+Members registered from **4 countries**:
 
-> CZ, DE, HU
+> CZ, DE, HU, LT
 
 ## Seats
 
@@ -22,6 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 16 | 15–19 | 14–19 | 14–19 | 14–20 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
