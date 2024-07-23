@@ -1,25 +1,26 @@
 # Europe of Sovereign Nations
 
-Members registered from **4 countries**:
+Members registered from **5 countries**:
 
-> CZ, DE, HU, LT
+> CZ, DE, HU, LT, PL
 
 ## Seats
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **19** seats (-6 seats)
+Current median: **22** seats (-3 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> CZ, DE, HU
+> CZ, DE, HU, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 19 | 17–22 | 17–22 | 16–22 | 15–23 |
+| Europe of Sovereign Nations | EU | 25 | 22 | 20–25 | 19–25 | 19–26 | 18–27 |
 | Alternative für Deutschland | DE | | 16 | 15–19 | 14–19 | 14–19 | 14–20 |
+| Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -33,16 +34,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.6% | 100% |  |
-| 16 | 4% | 99.4% |  |
-| 17 | 12% | 95% |  |
-| 18 | 20% | 84% |  |
-| 19 | 23% | 63% | Median |
-| 20 | 16% | 40% |  |
-| 21 | 12% | 24% |  |
-| 22 | 10% | 11% |  |
-| 23 | 1.3% | 1.4% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% | Last Result |
+| 17 | 0.2% | 100% |  |
+| 18 | 2% | 99.8% |  |
+| 19 | 6% | 98% |  |
+| 20 | 12% | 93% |  |
+| 21 | 19% | 80% |  |
+| 22 | 20% | 62% | Median |
+| 23 | 17% | 42% |  |
+| 24 | 13% | 25% |  |
+| 25 | 8% | 12% | Last Result |
+| 26 | 4% | 4% |  |
+| 27 | 0.5% | 0.6% |  |
+| 28 | 0% | 0% |  |
 
 
