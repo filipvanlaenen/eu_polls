@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> CZ, DE, ES, FI, GR, HU, LT, LV, NL, PL, RO
+> CZ, DE, ES, FI, GR, HU, LT, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -35,6 +35,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function

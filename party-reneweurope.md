@@ -1,33 +1,35 @@
 # Renew Europe
 
-Members registered from **15 countries**:
+Members registered from **17 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT, RO
+> AT, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **36** seats (-41 seats)
+Current median: **40** seats (-37 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, FI, LT, LV, NL, PL, PT, RO
+> AT, DE, DK, EE, FI, LT, LV, NL, PL, PT, RO, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 36 | 33–40 | 33–41 | 32–42 | 31–44 |
+| Renew Europe | EU | 77 | 40 | 37–43 | 36–45 | 35–46 | 34–48 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,9 +46,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -61,27 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.3% | 100% |  |
-| 31 | 1.1% | 99.7% |  |
-| 32 | 3% | 98.6% |  |
-| 33 | 7% | 95% |  |
-| 34 | 12% | 88% |  |
-| 35 | 16% | 76% |  |
-| 36 | 17% | 61% | Median |
-| 37 | 15% | 44% |  |
-| 38 | 11% | 29% |  |
-| 39 | 7% | 18% |  |
-| 40 | 5% | 10% |  |
-| 41 | 3% | 6% |  |
-| 42 | 2% | 3% |  |
-| 43 | 0.9% | 2% |  |
-| 44 | 0.4% | 0.6% |  |
-| 45 | 0.2% | 0.2% |  |
-| 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
+| 33 | 0.1% | 100% |  |
+| 34 | 0.6% | 99.8% |  |
+| 35 | 2% | 99.2% |  |
+| 36 | 5% | 97% |  |
+| 37 | 9% | 92% |  |
+| 38 | 13% | 84% |  |
+| 39 | 16% | 71% |  |
+| 40 | 16% | 55% | Median |
+| 41 | 14% | 39% |  |
+| 42 | 10% | 26% |  |
+| 43 | 7% | 16% |  |
+| 44 | 4% | 9% |  |
+| 45 | 2% | 5% |  |
+| 46 | 1.4% | 3% |  |
+| 47 | 0.8% | 1.3% |  |
+| 48 | 0.3% | 0.5% |  |
+| 49 | 0.1% | 0.2% |  |
+| 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% |  |

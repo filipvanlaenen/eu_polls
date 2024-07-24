@@ -1,8 +1,8 @@
 # Patriots for Europe
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> AT, CZ, DK, EE, ES, GR, HU, IT, LV, NL, PT
+> AT, CZ, DK, EE, ES, GR, HU, IT, LV, NL, PT, SI
 
 ## Seats
 
@@ -31,6 +31,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
