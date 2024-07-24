@@ -1,27 +1,28 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT, RO
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **96** seats (-40 seats)
+Current median: **108** seats (-28 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT
+> AT, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT, RO
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 96 | 92–100 | 91–101 | 90–102 | 88–104 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 108 | 104–112 | 103–113 | 102–114 | 100–116 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–25 |
 | Partito Democratico | IT | | 22 | 20–24 | 19–24 | 18–24 | 16–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–16 | 11–16 | 11–16 |
+| Partidul Social Democrat | RO | | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | Partido Socialista | PT | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -36,6 +37,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -47,40 +50,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 85 | 0% | 100% |  |
-| 86 | 0.1% | 99.9% |  |
-| 87 | 0.2% | 99.8% |  |
-| 88 | 0.5% | 99.6% |  |
-| 89 | 1.1% | 99.1% |  |
-| 90 | 2% | 98% |  |
-| 91 | 4% | 96% |  |
-| 92 | 5% | 92% |  |
-| 93 | 8% | 87% |  |
-| 94 | 10% | 79% |  |
-| 95 | 12% | 69% |  |
-| 96 | 13% | 58% | Median |
-| 97 | 12% | 45% |  |
-| 98 | 11% | 33% |  |
-| 99 | 9% | 22% |  |
-| 100 | 6% | 14% |  |
-| 101 | 4% | 8% |  |
-| 102 | 2% | 4% |  |
-| 103 | 1.0% | 2% |  |
-| 104 | 0.4% | 0.6% |  |
-| 105 | 0.2% | 0.2% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
-| 108 | 0% | 0% |  |
-| 109 | 0% | 0% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
+| 97 | 0% | 100% |  |
+| 98 | 0.1% | 99.9% |  |
+| 99 | 0.3% | 99.8% |  |
+| 100 | 0.6% | 99.5% |  |
+| 101 | 1.2% | 99.0% |  |
+| 102 | 2% | 98% |  |
+| 103 | 4% | 96% |  |
+| 104 | 5% | 92% |  |
+| 105 | 8% | 87% |  |
+| 106 | 10% | 79% |  |
+| 107 | 11% | 69% |  |
+| 108 | 12% | 58% | Median |
+| 109 | 12% | 46% |  |
+| 110 | 11% | 34% |  |
+| 111 | 9% | 23% |  |
+| 112 | 6% | 15% |  |
+| 113 | 4% | 8% |  |
+| 114 | 2% | 4% |  |
+| 115 | 1.2% | 2% |  |
+| 116 | 0.5% | 0.8% |  |
+| 117 | 0.2% | 0.3% |  |
+| 118 | 0.1% | 0.1% |  |
 | 119 | 0% | 0% |  |
 | 120 | 0% | 0% |  |
 | 121 | 0% | 0% |  |

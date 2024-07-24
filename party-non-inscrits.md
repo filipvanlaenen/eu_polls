@@ -1,25 +1,26 @@
 # Non-Inscrits
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> CZ, DE, ES, FI, GR, HU, LT, LV, NL, PL
+> CZ, DE, ES, FI, GR, HU, LT, LV, NL, PL, RO
 
 ## Seats
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (-14 seats)
+Current median: **20** seats (-12 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> DE, ES, GR, LT, LV, PL
+> DE, ES, GR, LT, LV, PL, RO
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
+| Non-Inscrits | EU | 32 | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
+| Partidul S.O.S. România | RO | | 2 | 2–3 | 0–3 | 0–3 | 0–3 |
 | Ruch Narodowy | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Darbo Partija | LT | | 1 | 1 | 1 | 1 | 1–2 |
@@ -44,19 +45,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.8% | 99.9% |  |
-| 15 | 3% | 99.1% |  |
-| 16 | 9% | 96% |  |
-| 17 | 17% | 87% |  |
-| 18 | 24% | 70% | Median |
-| 19 | 23% | 47% |  |
-| 20 | 16% | 23% |  |
-| 21 | 6% | 8% |  |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.3% | 99.9% |  |
+| 16 | 1.2% | 99.6% |  |
+| 17 | 4% | 98% |  |
+| 18 | 9% | 95% |  |
+| 19 | 16% | 86% |  |
+| 20 | 22% | 69% | Median |
+| 21 | 22% | 47% |  |
+| 22 | 16% | 25% |  |
+| 23 | 7% | 9% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.3% | 0.3% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |

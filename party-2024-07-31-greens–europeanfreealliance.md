@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT
+> AT, CZ, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT, RO
 
 ## Seats
 
@@ -41,6 +41,8 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
