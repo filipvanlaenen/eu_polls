@@ -1,28 +1,29 @@
 # Europe of Sovereign Nations
 
-Members registered from **4 countries**:
+Members registered from **5 countries**:
 
-> CZ, DE, HU, PL
+> CZ, DE, HU, PL, SK
 
 ## Seats
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-3 seats)
+Current median: **23** seats (-2 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> CZ, DE, HU, PL
+> CZ, DE, HU, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 22 | 20–25 | 19–25 | 19–26 | 18–27 |
+| Europe of Sovereign Nations | EU | 25 | 23 | 21–26 | 20–26 | 20–27 | 19–28 |
 | Alternative für Deutschland | DE | | 16 | 15–19 | 14–19 | 14–19 | 14–20 |
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -33,17 +34,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.2% | 100% |  |
-| 18 | 2% | 99.8% |  |
-| 19 | 6% | 98% |  |
-| 20 | 12% | 93% |  |
-| 21 | 19% | 80% |  |
-| 22 | 20% | 62% | Median |
-| 23 | 17% | 42% |  |
-| 24 | 13% | 25% |  |
-| 25 | 8% | 12% | Last Result |
-| 26 | 4% | 4% |  |
-| 27 | 0.5% | 0.6% |  |
-| 28 | 0% | 0% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 2% | 99.7% |  |
+| 20 | 6% | 98% |  |
+| 21 | 12% | 93% |  |
+| 22 | 18% | 80% |  |
+| 23 | 20% | 62% | Median |
+| 24 | 17% | 42% |  |
+| 25 | 13% | 25% | Last Result |
+| 26 | 8% | 12% |  |
+| 27 | 4% | 4% |  |
+| 28 | 0.7% | 0.7% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 

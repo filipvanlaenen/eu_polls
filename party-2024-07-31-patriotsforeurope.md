@@ -1,14 +1,14 @@
 # Patriots for Europe
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> AT, CZ, DK, EE, ES, GR, HU, IT, LV, NL, PT, SI
+> AT, CZ, DK, EE, ES, GR, HU, IT, LV, NL, PT, SI, SK
 
 ## Seats
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (-26 seats)
+Current median: **59** seats (-25 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 58 | 56–61 | 55–62 | 54–63 | 53–64 |
+| Patriots for Europe | EU | 84 | 59 | 56–61 | 55–62 | 54–63 | 53–64 |
 | Partij voor de Vrijheid | NL | | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -31,7 +31,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
+| SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -42,20 +44,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0.2% | 100% |  |
-| 53 | 0.8% | 99.8% |  |
-| 54 | 2% | 99.0% |  |
-| 55 | 6% | 97% |  |
-| 56 | 10% | 91% |  |
-| 57 | 15% | 81% |  |
-| 58 | 18% | 65% | Median |
-| 59 | 18% | 47% |  |
-| 60 | 14% | 29% |  |
-| 61 | 9% | 15% |  |
-| 62 | 4% | 7% |  |
-| 63 | 2% | 3% |  |
-| 64 | 0.6% | 0.8% |  |
-| 65 | 0.2% | 0.2% |  |
-| 66 | 0% | 0% |  |
+| 53 | 0.6% | 99.8% |  |
+| 54 | 2% | 99.2% |  |
+| 55 | 5% | 97% |  |
+| 56 | 9% | 93% |  |
+| 57 | 14% | 84% |  |
+| 58 | 18% | 70% |  |
+| 59 | 18% | 52% | Median |
+| 60 | 15% | 34% |  |
+| 61 | 10% | 20% |  |
+| 62 | 6% | 9% |  |
+| 63 | 3% | 4% |  |
+| 64 | 0.9% | 1.3% |  |
+| 65 | 0.3% | 0.4% |  |
+| 66 | 0.1% | 0.1% |  |
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |

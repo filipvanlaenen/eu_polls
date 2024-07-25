@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI
+> AT, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
@@ -10,9 +10,9 @@ Last result: **77** seats (General Election of 26 May 2019)
 
 Current median: **41** seats (-36 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, FI, LT, LV, NL, PL, PT, RO, SE, SI
+> AT, DE, DK, EE, FI, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -22,6 +22,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–6 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
