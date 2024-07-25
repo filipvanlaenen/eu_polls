@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **40** seats (-37 seats)
+Current median: **41** seats (-36 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 40 | 37–43 | 36–45 | 35–46 | 34–48 |
+| Renew Europe | EU | 77 | 41 | 38–44 | 37–45 | 36–46 | 35–48 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–6 |
@@ -33,7 +33,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Laisvės partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -48,11 +49,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,25 +64,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
-| 34 | 0.6% | 99.8% |  |
-| 35 | 2% | 99.2% |  |
-| 36 | 5% | 97% |  |
-| 37 | 9% | 92% |  |
-| 38 | 13% | 84% |  |
-| 39 | 16% | 71% |  |
-| 40 | 16% | 55% | Median |
-| 41 | 14% | 39% |  |
-| 42 | 10% | 26% |  |
-| 43 | 7% | 16% |  |
-| 44 | 4% | 9% |  |
-| 45 | 2% | 5% |  |
-| 46 | 1.4% | 3% |  |
-| 47 | 0.8% | 1.3% |  |
-| 48 | 0.3% | 0.5% |  |
-| 49 | 0.1% | 0.2% |  |
-| 50 | 0% | 0.1% |  |
-| 51 | 0% | 0% |  |
+| 34 | 0.2% | 100% |  |
+| 35 | 0.8% | 99.8% |  |
+| 36 | 2% | 98.9% |  |
+| 37 | 6% | 96% |  |
+| 38 | 10% | 91% |  |
+| 39 | 14% | 81% |  |
+| 40 | 16% | 67% |  |
+| 41 | 16% | 51% | Median |
+| 42 | 13% | 36% |  |
+| 43 | 9% | 23% |  |
+| 44 | 6% | 14% |  |
+| 45 | 4% | 8% |  |
+| 46 | 2% | 4% |  |
+| 47 | 1.2% | 2% |  |
+| 48 | 0.6% | 1.0% |  |
+| 49 | 0.3% | 0.4% |  |
+| 50 | 0.1% | 0.2% |  |
+| 51 | 0% | 0.1% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% |  |
 | 54 | 0% | 0% |  |

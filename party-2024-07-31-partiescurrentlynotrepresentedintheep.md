@@ -8,19 +8,20 @@ Members registered from **14 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+2 seats)
+Current median: **5** seats (+4 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> AT, ES, GR
+> AT, ES, GR, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 2–5 | 1–5 | 1–6 | 1–6 |
+| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 3–7 | 2–7 | 2–8 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Bierpartei [AT] (*) | AT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Nemuno aušra [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -31,7 +32,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,14 +50,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 6% | 99.6% | Last Result |
-| 2 | 21% | 93% |  |
-| 3 | 22% | 72% | Median |
-| 4 | 24% | 50% |  |
-| 5 | 22% | 26% |  |
-| 6 | 4% | 4% |  |
-| 7 | 0.3% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 1 | 0.2% | 100% | Last Result |
+| 2 | 4% | 99.8% |  |
+| 3 | 16% | 96% |  |
+| 4 | 22% | 80% |  |
+| 5 | 23% | 58% | Median |
+| 6 | 23% | 35% |  |
+| 7 | 11% | 13% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.1% | 0.2% |  |
+| 10 | 0% | 0% |  |
 
 

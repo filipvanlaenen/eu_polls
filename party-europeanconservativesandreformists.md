@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **12 countries**:
+Members registered from **11 countries**:
 
-> CZ, DK, FI, GR, HR, IT, LT, LV, NL, PL, RO, SE
+> CZ, DK, FI, GR, HR, IT, LV, NL, PL, RO, SE
 
 ## Seats
 
@@ -32,7 +32,6 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
