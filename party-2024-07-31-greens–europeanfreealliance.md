@@ -18,25 +18,25 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 36 | 33–40 | 32–42 | 31–42 | 30–44 |
+| Greens–European Free Alliance | EU | 53 | 36 | 32–40 | 32–41 | 31–42 | 30–44 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialistisk Folkeparti | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–4 | 2–4 | 1–5 | 1–5 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 2–4 | 1–5 |
+| Volt Europa | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 1 | 1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,23 +61,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.2% | 100% |  |
-| 30 | 0.9% | 99.8% |  |
-| 31 | 3% | 99.0% |  |
-| 32 | 6% | 96% |  |
-| 33 | 9% | 90% |  |
-| 34 | 11% | 81% |  |
-| 35 | 12% | 70% |  |
-| 36 | 12% | 58% | Median |
-| 37 | 12% | 46% |  |
-| 38 | 11% | 35% |  |
-| 39 | 9% | 24% |  |
-| 40 | 6% | 15% |  |
-| 41 | 4% | 9% |  |
-| 42 | 3% | 5% |  |
-| 43 | 1.4% | 2% |  |
-| 44 | 0.7% | 1.0% |  |
-| 45 | 0.3% | 0.4% |  |
-| 46 | 0.1% | 0.1% |  |
+| 30 | 1.1% | 99.8% |  |
+| 31 | 4% | 98.7% |  |
+| 32 | 8% | 95% |  |
+| 33 | 11% | 88% |  |
+| 34 | 13% | 76% |  |
+| 35 | 12% | 63% |  |
+| 36 | 12% | 51% | Median |
+| 37 | 11% | 39% |  |
+| 38 | 10% | 28% |  |
+| 39 | 7% | 18% |  |
+| 40 | 5% | 11% |  |
+| 41 | 3% | 6% |  |
+| 42 | 2% | 3% |  |
+| 43 | 0.9% | 1.5% |  |
+| 44 | 0.4% | 0.6% |  |
+| 45 | 0.1% | 0.2% |  |
+| 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |

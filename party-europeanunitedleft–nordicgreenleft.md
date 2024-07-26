@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **27** seats (-19 seats)
+Current median: **28** seats (-18 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 27 | 25–30 | 24–31 | 23–31 | 22–33 |
-| Movimento 5 Stelle | IT | | 9 | 8–11 | 8–12 | 7–12 | 7–13 |
+| European United Left–Nordic Green Left | EU | 46 | 28 | 25–30 | 25–31 | 24–32 | 23–33 |
+| Movimento 5 Stelle | IT | | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | Die Linke | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Podemos | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–3 | 1–3 | 0–4 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -51,19 +51,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.2% | 100% |  |
-| 22 | 0.7% | 99.8% |  |
-| 23 | 2% | 99.1% |  |
-| 24 | 6% | 97% |  |
-| 25 | 11% | 91% |  |
-| 26 | 17% | 80% |  |
-| 27 | 20% | 63% | Median |
-| 28 | 17% | 43% |  |
-| 29 | 12% | 26% |  |
-| 30 | 7% | 13% |  |
-| 31 | 4% | 6% |  |
-| 32 | 2% | 2% |  |
-| 33 | 0.6% | 0.9% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.0% | 99.8% |  |
+| 24 | 3% | 98.8% |  |
+| 25 | 8% | 95% |  |
+| 26 | 15% | 87% |  |
+| 27 | 20% | 72% |  |
+| 28 | 20% | 52% | Median |
+| 29 | 15% | 32% |  |
+| 30 | 9% | 17% |  |
+| 31 | 5% | 7% |  |
+| 32 | 2% | 3% |  |
+| 33 | 0.7% | 1.0% |  |
 | 34 | 0.2% | 0.3% |  |
 | 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |

@@ -19,7 +19,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 77 | 41 | 38–44 | 37–45 | 36–46 | 35–48 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -27,7 +27,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,7 +55,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0–2 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -67,21 +67,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 34 | 0.2% | 100% |  |
 | 35 | 0.8% | 99.8% |  |
-| 36 | 2% | 98.9% |  |
-| 37 | 6% | 96% |  |
+| 36 | 2% | 99.0% |  |
+| 37 | 6% | 97% |  |
 | 38 | 10% | 91% |  |
 | 39 | 14% | 81% |  |
-| 40 | 16% | 67% |  |
-| 41 | 16% | 51% | Median |
-| 42 | 13% | 36% |  |
-| 43 | 9% | 23% |  |
-| 44 | 6% | 14% |  |
-| 45 | 4% | 8% |  |
-| 46 | 2% | 4% |  |
-| 47 | 1.2% | 2% |  |
-| 48 | 0.6% | 1.0% |  |
-| 49 | 0.3% | 0.4% |  |
-| 50 | 0.1% | 0.2% |  |
+| 40 | 17% | 67% |  |
+| 41 | 16% | 50% | Median |
+| 42 | 13% | 34% |  |
+| 43 | 9% | 21% |  |
+| 44 | 5% | 12% |  |
+| 45 | 3% | 6% |  |
+| 46 | 2% | 3% |  |
+| 47 | 0.9% | 2% |  |
+| 48 | 0.5% | 0.8% |  |
+| 49 | 0.2% | 0.3% |  |
+| 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0.1% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% |  |

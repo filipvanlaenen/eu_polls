@@ -18,15 +18,15 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 59 | 56–61 | 55–62 | 54–63 | 53–64 |
+| Patriots for Europe | EU | 84 | 59 | 56–61 | 56–62 | 55–63 | 54–64 |
 | Partij voor de Vrijheid | NL | | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
-| Lega Nord | IT | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
-| Vox | ES | | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
+| Lega Nord | IT | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| Vox | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,20 +43,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0.2% | 100% |  |
-| 53 | 0.6% | 99.8% |  |
-| 54 | 2% | 99.2% |  |
-| 55 | 5% | 97% |  |
-| 56 | 9% | 93% |  |
-| 57 | 14% | 84% |  |
-| 58 | 18% | 70% |  |
-| 59 | 18% | 52% | Median |
-| 60 | 15% | 34% |  |
-| 61 | 10% | 20% |  |
-| 62 | 6% | 9% |  |
+| 52 | 0.1% | 100% |  |
+| 53 | 0.3% | 99.9% |  |
+| 54 | 1.1% | 99.7% |  |
+| 55 | 3% | 98.6% |  |
+| 56 | 7% | 95% |  |
+| 57 | 13% | 88% |  |
+| 58 | 18% | 75% |  |
+| 59 | 19% | 57% | Median |
+| 60 | 17% | 38% |  |
+| 61 | 11% | 21% |  |
+| 62 | 6% | 10% |  |
 | 63 | 3% | 4% |  |
-| 64 | 0.9% | 1.3% |  |
-| 65 | 0.3% | 0.4% |  |
+| 64 | 0.9% | 1.2% |  |
+| 65 | 0.2% | 0.3% |  |
 | 66 | 0.1% | 0.1% |  |
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% |  |
