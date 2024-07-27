@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, CZ, DE, EE, ES, GR, HR, HU, IT, LT, LV, NL, PL, SI
+> AT, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LV, NL, PL, SI
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+4 seats)
+Current median: **6** seats (+5 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,18 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
+| Parties currently not represented in the EP | EU | 1 | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Nemuno aušra [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–2 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -54,11 +56,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.1% | 100% |  |
 | 3 | 2% | 99.9% |  |
 | 4 | 17% | 98% |  |
-| 5 | 32% | 81% | Median |
-| 6 | 32% | 49% |  |
-| 7 | 15% | 17% |  |
-| 8 | 2% | 3% |  |
-| 9 | 0.2% | 0.3% |  |
+| 5 | 31% | 81% |  |
+| 6 | 32% | 50% | Median |
+| 7 | 15% | 19% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.3% | 0.4% |  |
 | 10 | 0% | 0% |  |
 
 

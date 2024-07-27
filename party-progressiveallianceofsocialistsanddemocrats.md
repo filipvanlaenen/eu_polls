@@ -1,8 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI
+> AT, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 115 | 110–118 | 109–120 | 108–120 | 106–122 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 115 | 110–118 | 109–120 | 108–121 | 106–122 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–24 |
 | Partito Democratico | IT | | 21 | 20–23 | 19–23 | 18–24 | 16–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 11–16 | 11–16 | 11–16 |
@@ -37,9 +37,11 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
+| Social Democrats | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -68,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 118 | 7% | 17% |  |
 | 119 | 5% | 10% |  |
 | 120 | 3% | 5% |  |
-| 121 | 1.4% | 2% |  |
+| 121 | 1.4% | 3% |  |
 | 122 | 0.7% | 1.1% |  |
 | 123 | 0.3% | 0.4% |  |
 | 124 | 0.1% | 0.1% |  |

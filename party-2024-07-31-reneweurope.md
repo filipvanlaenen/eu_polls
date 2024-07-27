@@ -1,27 +1,28 @@
 # Renew Europe
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **41** seats (-36 seats)
+Current median: **44** seats (-33 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, FI, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, DE, DK, EE, FI, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 41 | 38–44 | 37–45 | 36–46 | 35–48 |
+| Renew Europe | EU | 77 | 44 | 41–48 | 41–49 | 40–50 | 39–52 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–6 |
+| Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -46,6 +47,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka | HR | | 0 | 0 | 0 | 0 | 0 |
+| Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -65,28 +68,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.2% | 100% |  |
-| 35 | 0.8% | 99.8% |  |
-| 36 | 2% | 99.0% |  |
-| 37 | 6% | 97% |  |
-| 38 | 10% | 91% |  |
-| 39 | 14% | 81% |  |
-| 40 | 17% | 67% |  |
-| 41 | 16% | 50% | Median |
-| 42 | 13% | 34% |  |
-| 43 | 9% | 21% |  |
-| 44 | 5% | 12% |  |
-| 45 | 3% | 6% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.9% | 2% |  |
-| 48 | 0.5% | 0.8% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0.1% | 0.1% |  |
-| 51 | 0% | 0.1% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.4% | 99.9% |  |
+| 39 | 1.2% | 99.5% |  |
+| 40 | 3% | 98% |  |
+| 41 | 6% | 95% |  |
+| 42 | 10% | 89% |  |
+| 43 | 14% | 79% |  |
+| 44 | 16% | 66% | Median |
+| 45 | 15% | 50% |  |
+| 46 | 13% | 35% |  |
+| 47 | 9% | 22% |  |
+| 48 | 6% | 13% |  |
+| 49 | 3% | 7% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.0% | 2% |  |
+| 52 | 0.5% | 0.9% |  |
+| 53 | 0.2% | 0.4% |  |
+| 54 | 0.1% | 0.2% |  |
+| 55 | 0% | 0.1% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
