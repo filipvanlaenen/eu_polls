@@ -18,19 +18,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 44 | 41–48 | 41–49 | 40–50 | 39–52 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| Renew Europe | EU | 77 | 44 | 42–48 | 41–49 | 40–50 | 39–52 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–6 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
-| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,6 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
+| .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -68,25 +68,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.4% | 99.9% |  |
-| 39 | 1.2% | 99.5% |  |
-| 40 | 3% | 98% |  |
-| 41 | 6% | 95% |  |
-| 42 | 10% | 89% |  |
-| 43 | 14% | 79% |  |
-| 44 | 16% | 66% | Median |
-| 45 | 15% | 50% |  |
-| 46 | 13% | 35% |  |
-| 47 | 9% | 22% |  |
-| 48 | 6% | 13% |  |
-| 49 | 3% | 7% |  |
-| 50 | 2% | 4% |  |
-| 51 | 1.0% | 2% |  |
-| 52 | 0.5% | 0.9% |  |
-| 53 | 0.2% | 0.4% |  |
-| 54 | 0.1% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
+| 38 | 0.2% | 100% |  |
+| 39 | 0.8% | 99.8% |  |
+| 40 | 2% | 99.0% |  |
+| 41 | 6% | 97% |  |
+| 42 | 11% | 91% |  |
+| 43 | 15% | 80% |  |
+| 44 | 17% | 65% | Median |
+| 45 | 16% | 48% |  |
+| 46 | 12% | 32% |  |
+| 47 | 8% | 20% |  |
+| 48 | 5% | 11% |  |
+| 49 | 3% | 6% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.9% | 2% |  |
+| 52 | 0.4% | 0.7% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
+| 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |

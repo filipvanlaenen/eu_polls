@@ -18,15 +18,15 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 6 | 4–7 | 4–7 | 4–8 | 3–8 |
+| Parties currently not represented in the EP | EU | 1 | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
 | Se Acabó La Fiesta [ES] (*) | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Nemuno aušra [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–2 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +38,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska Jest Jedna [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -55,12 +54,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0.1% | 100% |  |
 | 3 | 2% | 99.9% |  |
-| 4 | 17% | 98% |  |
-| 5 | 31% | 81% |  |
-| 6 | 32% | 50% | Median |
-| 7 | 15% | 19% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.3% | 0.4% |  |
+| 4 | 15% | 98% |  |
+| 5 | 29% | 84% |  |
+| 6 | 32% | 54% | Median |
+| 7 | 17% | 22% |  |
+| 8 | 4% | 5% |  |
+| 9 | 0.5% | 0.6% |  |
 | 10 | 0% | 0% |  |
 
 
