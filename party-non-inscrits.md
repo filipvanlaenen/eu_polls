@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **27** seats (-5 seats)
+Current median: **28** seats (-4 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 25–29 | 24–30 | 24–30 | 22–31 |
+| Non-Inscrits | EU | 32 | 28 | 25–30 | 24–30 | 24–31 | 23–32 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -35,6 +35,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -50,17 +51,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.5% | 99.9% |  |
-| 23 | 2% | 99.4% |  |
-| 24 | 5% | 98% |  |
-| 25 | 11% | 92% |  |
-| 26 | 18% | 81% |  |
-| 27 | 22% | 63% | Median |
-| 28 | 20% | 41% |  |
-| 29 | 13% | 20% |  |
-| 30 | 6% | 7% |  |
-| 31 | 2% | 2% |  |
-| 32 | 0.3% | 0.3% | Last Result |
-| 33 | 0% | 0% |  |
+| 22 | 0.3% | 99.9% |  |
+| 23 | 1.2% | 99.6% |  |
+| 24 | 4% | 98% |  |
+| 25 | 9% | 95% |  |
+| 26 | 15% | 86% |  |
+| 27 | 20% | 71% |  |
+| 28 | 21% | 50% | Median |
+| 29 | 16% | 29% |  |
+| 30 | 9% | 13% |  |
+| 31 | 3% | 4% |  |
+| 32 | 0.8% | 1.0% | Last Result |
+| 33 | 0.1% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 

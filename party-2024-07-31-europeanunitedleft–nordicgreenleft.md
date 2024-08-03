@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> AT, CZ, DE, DK, EE, ES, FI, GR, HR, IE, IT, NL, PT, SE, SI
+> AT, DE, DK, EE, ES, FI, GR, HR, IE, IT, NL, PT, SE, SI
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 32 | 30–35 | 29–36 | 28–37 | 27–38 |
+| European United Left–Nordic Green Left | EU | 46 | 32 | 29–35 | 28–35 | 28–36 | 26–38 |
 | Movimento 5 Stelle | IT | | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | Die Linke | DE | | 3 | 2–3 | 1–4 | 1–4 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–5 | 3–6 |
@@ -43,7 +43,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Stačilo! | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -56,21 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 1.0% | 99.6% |  |
-| 28 | 3% | 98.6% |  |
-| 29 | 6% | 96% |  |
-| 30 | 11% | 90% |  |
-| 31 | 15% | 79% |  |
-| 32 | 18% | 64% | Median |
-| 33 | 17% | 46% |  |
-| 34 | 13% | 29% |  |
-| 35 | 8% | 16% |  |
-| 36 | 4% | 8% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.8% | 1.1% |  |
-| 39 | 0.3% | 0.4% |  |
-| 40 | 0.1% | 0.1% |  |
+| 26 | 0.5% | 99.9% |  |
+| 27 | 1.4% | 99.4% |  |
+| 28 | 4% | 98% |  |
+| 29 | 8% | 94% |  |
+| 30 | 13% | 87% |  |
+| 31 | 17% | 74% |  |
+| 32 | 18% | 57% | Median |
+| 33 | 16% | 38% |  |
+| 34 | 11% | 22% |  |
+| 35 | 6% | 11% |  |
+| 36 | 3% | 5% |  |
+| 37 | 1.2% | 2% |  |
+| 38 | 0.4% | 0.6% |  |
+| 39 | 0.1% | 0.2% |  |
+| 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |

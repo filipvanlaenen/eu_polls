@@ -42,8 +42,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
-| Česká strana sociálně demokratická | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
