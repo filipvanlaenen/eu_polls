@@ -16,8 +16,8 @@
 | <a href="#patriots-for-europe">Patriots for Europe</a> | 84 | 59 | 56–61 |56–62 | 55–63 | 54–64 |
 | <a href="#renew-europe">Renew Europe</a> | 77 | 44 | 42–48 |41–49 | 40–50 | 39–52 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 53 | 35 | 32–39 |31–40 | 31–41 | 30–43 |
-| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 46 | 32 | 30–35 |29–36 | 28–37 | 27–38 |
-| <a href="#non-inscrits">Non-Inscrits</a> | 32 | 27 | 25–29 |24–30 | 24–30 | 22–31 |
+| <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 46 | 32 | 29–35 |28–35 | 28–36 | 26–38 |
+| <a href="#non-inscrits">Non-Inscrits</a> | 32 | 28 | 25–30 |24–30 | 24–31 | 23–32 |
 | <a href="#europe-of-sovereign-nations">Europe of Sovereign Nations</a> | 25 | 23 | 21–26 |20–26 | 20–27 | 19–28 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 1 | 6 | 4–7 |4–8 | 4–8 | 3–9 |
 
@@ -272,21 +272,21 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 1.0% | 99.6% |  |
-| 28 | 3% | 98.6% |  |
-| 29 | 6% | 96% |  |
-| 30 | 11% | 90% |  |
-| 31 | 15% | 79% |  |
-| 32 | 18% | 64% | Median |
-| 33 | 17% | 46% |  |
-| 34 | 13% | 29% |  |
-| 35 | 8% | 16% |  |
-| 36 | 4% | 8% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.8% | 1.1% |  |
-| 39 | 0.3% | 0.4% |  |
-| 40 | 0.1% | 0.1% |  |
+| 26 | 0.5% | 99.9% |  |
+| 27 | 1.4% | 99.4% |  |
+| 28 | 4% | 98% |  |
+| 29 | 8% | 94% |  |
+| 30 | 13% | 87% |  |
+| 31 | 17% | 74% |  |
+| 32 | 18% | 57% | Median |
+| 33 | 16% | 38% |  |
+| 34 | 11% | 22% |  |
+| 35 | 6% | 11% |  |
+| 36 | 3% | 5% |  |
+| 37 | 1.2% | 2% |  |
+| 38 | 0.4% | 0.6% |  |
+| 39 | 0.1% | 0.2% |  |
+| 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
@@ -325,18 +325,19 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.5% | 99.9% |  |
-| 23 | 2% | 99.4% |  |
-| 24 | 5% | 98% |  |
-| 25 | 11% | 92% |  |
-| 26 | 18% | 81% |  |
-| 27 | 22% | 63% | Median |
-| 28 | 20% | 41% |  |
-| 29 | 13% | 20% |  |
-| 30 | 6% | 7% |  |
-| 31 | 2% | 2% |  |
-| 32 | 0.3% | 0.3% | Last Result |
-| 33 | 0% | 0% |  |
+| 22 | 0.3% | 99.9% |  |
+| 23 | 1.2% | 99.6% |  |
+| 24 | 4% | 98% |  |
+| 25 | 9% | 95% |  |
+| 26 | 15% | 86% |  |
+| 27 | 20% | 71% |  |
+| 28 | 21% | 50% | Median |
+| 29 | 16% | 29% |  |
+| 30 | 9% | 13% |  |
+| 31 | 3% | 4% |  |
+| 32 | 0.8% | 1.0% | Last Result |
+| 33 | 0.1% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 ### Parties currently not represented in the EP
 
