@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, CZ, DE, EE, ES, HR, HU, IE, IT, LT, LV, NL, PL, SI
+> AT, BE, CZ, DE, EE, ES, HR, HU, IE, IT, LT, LV, NL, PL, SI
 
 ## Seats
 
@@ -25,6 +25,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Fokus na bitno [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |

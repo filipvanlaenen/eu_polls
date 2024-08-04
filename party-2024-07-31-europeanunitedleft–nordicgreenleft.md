@@ -1,24 +1,24 @@
 # European United Left–Nordic Green Left
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, DE, DK, EE, ES, FI, GR, HR, IE, IT, NL, PT, SE, SI
+> AT, BE, DE, DK, EE, ES, FI, GR, HR, IE, IT, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **32** seats (-14 seats)
+Current median: **33** seats (-13 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, FI, GR, IE, IT, PT, SE
+> BE, DE, DK, ES, FI, GR, IE, IT, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 32 | 30–35 | 29–36 | 28–37 | 27–38 |
+| European United Left–Nordic Green Left | EU | 46 | 33 | 31–36 | 30–37 | 29–38 | 28–39 |
 | Movimento 5 Stelle | IT | | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | Die Linke | DE | | 3 | 2–4 | 1–4 | 1–4 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–5 | 3–6 |
@@ -32,6 +32,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Solidarity–People Before Profit | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,23 +55,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 0.9% | 99.7% |  |
-| 28 | 2% | 98.8% |  |
-| 29 | 5% | 96% |  |
-| 30 | 10% | 91% |  |
-| 31 | 15% | 81% |  |
-| 32 | 18% | 66% | Median |
-| 33 | 18% | 47% |  |
-| 34 | 14% | 29% |  |
-| 35 | 9% | 16% |  |
-| 36 | 4% | 7% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.7% | 0.9% |  |
-| 39 | 0.2% | 0.3% |  |
-| 40 | 0.1% | 0.1% |  |
-| 41 | 0% | 0% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.3% | 99.9% |  |
+| 28 | 0.9% | 99.7% |  |
+| 29 | 2% | 98.8% |  |
+| 30 | 5% | 96% |  |
+| 31 | 10% | 91% |  |
+| 32 | 15% | 81% |  |
+| 33 | 18% | 66% | Median |
+| 34 | 18% | 47% |  |
+| 35 | 14% | 29% |  |
+| 36 | 9% | 16% |  |
+| 37 | 4% | 7% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.7% | 0.9% |  |
+| 40 | 0.2% | 0.3% |  |
+| 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

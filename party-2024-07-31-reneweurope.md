@@ -1,30 +1,31 @@
 # Renew Europe
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **44** seats (-33 seats)
+Current median: **48** seats (-29 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, FI, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, DE, DK, EE, FI, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 44 | 42–48 | 41–49 | 40–50 | 39–52 |
+| Renew Europe | EU | 77 | 48 | 46–52 | 45–53 | 44–54 | 43–56 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Mouvement Réformateur | BE-FRC | | 3 | 3 | 3 | 3 | 3 |
 | Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -35,6 +36,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Laisvės partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,27 +70,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 38 | 0.2% | 100% |  |
-| 39 | 0.8% | 99.8% |  |
-| 40 | 3% | 98.9% |  |
-| 41 | 6% | 96% |  |
-| 42 | 11% | 90% |  |
-| 43 | 15% | 80% |  |
-| 44 | 17% | 64% | Median |
-| 45 | 16% | 47% |  |
-| 46 | 12% | 31% |  |
-| 47 | 8% | 19% |  |
-| 48 | 5% | 11% |  |
-| 49 | 3% | 6% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.8% | 2% |  |
-| 52 | 0.4% | 0.7% |  |
-| 53 | 0.2% | 0.3% |  |
-| 54 | 0.1% | 0.1% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
+| 42 | 0.2% | 100% |  |
+| 43 | 0.8% | 99.8% |  |
+| 44 | 3% | 98.9% |  |
+| 45 | 6% | 96% |  |
+| 46 | 11% | 90% |  |
+| 47 | 15% | 80% |  |
+| 48 | 17% | 64% | Median |
+| 49 | 16% | 47% |  |
+| 50 | 12% | 31% |  |
+| 51 | 8% | 19% |  |
+| 52 | 5% | 11% |  |
+| 53 | 3% | 6% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.8% | 2% |  |
+| 56 | 0.4% | 0.7% |  |
+| 57 | 0.2% | 0.3% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
