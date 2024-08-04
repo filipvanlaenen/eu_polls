@@ -1,36 +1,38 @@
 # Renew Europe
 
-Members registered from **20 countries**:
+Members registered from **21 countries**:
 
-> AT, BE, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (-28 seats)
+Current median: **55** seats (-22 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **17 countries** have a median of 1 seat or more:
 
-> AT, BE, DE, DK, EE, FI, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, FI, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 49 | 47–53 | 46–54 | 45–55 | 44–57 |
+| Renew Europe | EU | 77 | 55 | 52–58 | 51–59 | 50–60 | 49–62 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 3 | 3 | 3 | 3 | 3 |
 | Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
+| Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -71,29 +73,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.2% | 100% |  |
-| 44 | 0.8% | 99.8% |  |
-| 45 | 3% | 98.9% |  |
-| 46 | 6% | 96% |  |
-| 47 | 11% | 90% |  |
-| 48 | 15% | 80% |  |
-| 49 | 17% | 64% | Median |
-| 50 | 16% | 47% |  |
-| 51 | 12% | 31% |  |
-| 52 | 8% | 19% |  |
-| 53 | 5% | 11% |  |
-| 54 | 3% | 6% |  |
-| 55 | 2% | 3% |  |
-| 56 | 0.8% | 2% |  |
-| 57 | 0.4% | 0.7% |  |
-| 58 | 0.2% | 0.3% |  |
-| 59 | 0.1% | 0.1% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
+| 48 | 0.2% | 100% |  |
+| 49 | 0.7% | 99.8% |  |
+| 50 | 2% | 99.0% |  |
+| 51 | 5% | 97% |  |
+| 52 | 10% | 91% |  |
+| 53 | 14% | 82% |  |
+| 54 | 17% | 67% |  |
+| 55 | 16% | 51% | Median |
+| 56 | 13% | 34% |  |
+| 57 | 9% | 21% |  |
+| 58 | 5% | 12% |  |
+| 59 | 3% | 7% |  |
+| 60 | 2% | 4% |  |
+| 61 | 1.0% | 2% |  |
+| 62 | 0.5% | 0.8% |  |
+| 63 | 0.2% | 0.4% |  |
+| 64 | 0.1% | 0.1% |  |
+| 65 | 0% | 0.1% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% |  |
