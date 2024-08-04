@@ -18,26 +18,25 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 34 | 32–37 | 31–38 | 30–39 | 29–40 |
+| European United Left–Nordic Green Left | EU | 46 | 34 | 31–37 | 30–38 | 30–38 | 28–40 |
 | Movimento 5 Stelle | IT | | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | Die Linke | DE | | 3 | 2–3 | 1–4 | 1–4 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–5 | 3–6 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3 | 3 | 3 | 2–4 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Solidarity–People Before Profit | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +45,8 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -57,21 +57,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.3% | 99.9% |  |
-| 29 | 0.9% | 99.7% |  |
-| 30 | 2% | 98.8% |  |
-| 31 | 6% | 96% |  |
-| 32 | 10% | 91% |  |
-| 33 | 16% | 80% |  |
-| 34 | 19% | 65% | Median |
-| 35 | 18% | 46% |  |
-| 36 | 14% | 29% |  |
-| 37 | 8% | 15% |  |
-| 38 | 4% | 7% |  |
-| 39 | 2% | 3% |  |
-| 40 | 0.6% | 0.9% |  |
-| 41 | 0.2% | 0.3% |  |
-| 42 | 0% | 0.1% |  |
+| 28 | 0.4% | 99.9% |  |
+| 29 | 1.3% | 99.5% |  |
+| 30 | 3% | 98% |  |
+| 31 | 7% | 95% |  |
+| 32 | 12% | 88% |  |
+| 33 | 17% | 75% |  |
+| 34 | 18% | 58% | Median |
+| 35 | 16% | 40% |  |
+| 36 | 12% | 24% |  |
+| 37 | 7% | 12% |  |
+| 38 | 3% | 5% |  |
+| 39 | 1.3% | 2% |  |
+| 40 | 0.5% | 0.6% |  |
+| 41 | 0.1% | 0.2% |  |
+| 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |

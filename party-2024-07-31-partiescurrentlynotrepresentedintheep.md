@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> AT, BE, CZ, DE, EE, ES, HR, HU, IE, IT, LT, LV, NL, PL, SI
+> AT, BE, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LV, NL, PL, SI
 
 ## Seats
 
@@ -40,6 +40,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -50,10 +51,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
-| 2 | 43% | 97% |  |
-| 3 | 42% | 54% | Median |
-| 4 | 12% | 13% |  |
-| 5 | 1.0% | 1.0% |  |
+| 2 | 44% | 97% |  |
+| 3 | 41% | 53% | Median |
+| 4 | 11% | 12% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 
