@@ -1,28 +1,26 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> AT, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LV, NL, PL, SI
+> AT, CZ, DE, EE, ES, HR, HU, IE, IT, LT, LV, NL, PL, SI
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **6** seats (+5 seats)
+Current median: **3** seats (+2 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> AT, ES, GR, LT
+> AT, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 6 | 4–7 | 4–8 | 4–8 | 3–9 |
-| Se Acabó La Fiesta [ES] (*) | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 2–4 | 1–4 | 1–5 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Nemuno aušra [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Πλεύση Ελευθερίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +39,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -51,15 +48,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 0.1% | 100% |  |
-| 3 | 2% | 99.9% |  |
-| 4 | 15% | 98% |  |
-| 5 | 29% | 84% |  |
-| 6 | 32% | 54% | Median |
-| 7 | 17% | 22% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.5% | 0.6% |  |
-| 10 | 0% | 0% |  |
+| 1 | 3% | 100% | Last Result |
+| 2 | 41% | 97% |  |
+| 3 | 42% | 56% | Median |
+| 4 | 13% | 14% |  |
+| 5 | 1.1% | 1.2% |  |
+| 6 | 0% | 0% |  |
 
 

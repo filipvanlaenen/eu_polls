@@ -18,16 +18,16 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 160 | 156–165 | 154–166 | 153–167 | 151–169 |
-| Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
-| Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–25 | 20–26 |
+| European People’s Party | EU | 188 | 160 | 156–164 | 155–166 | 154–167 | 152–169 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 22–26 | 21–26 | 20–26 | 20–27 |
+| Partido Popular | ES | | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Tisztelet és Szabadság | HU | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Forza Italia | IT | | 7 | 6–8 | 6–9 | 5–10 | 5–10 |
-| Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
+| Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -63,6 +63,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Strana maďarskej koalície–Magyar Koalíció Pártja | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -72,29 +73,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 149 | 0.1% | 100% |  |
-| 150 | 0.2% | 99.9% |  |
-| 151 | 0.3% | 99.8% |  |
-| 152 | 0.7% | 99.4% |  |
-| 153 | 1.4% | 98.7% |  |
-| 154 | 2% | 97% |  |
-| 155 | 4% | 95% |  |
-| 156 | 6% | 91% |  |
-| 157 | 8% | 85% |  |
-| 158 | 10% | 78% |  |
-| 159 | 11% | 68% |  |
-| 160 | 11% | 57% | Median |
-| 161 | 11% | 45% |  |
+| 150 | 0.1% | 100% |  |
+| 151 | 0.2% | 99.9% |  |
+| 152 | 0.5% | 99.7% |  |
+| 153 | 1.1% | 99.2% |  |
+| 154 | 2% | 98% |  |
+| 155 | 4% | 96% |  |
+| 156 | 5% | 92% |  |
+| 157 | 8% | 87% |  |
+| 158 | 10% | 79% |  |
+| 159 | 11% | 69% |  |
+| 160 | 12% | 58% | Median |
+| 161 | 12% | 46% |  |
 | 162 | 10% | 34% |  |
-| 163 | 8% | 25% |  |
+| 163 | 8% | 24% |  |
 | 164 | 6% | 16% |  |
 | 165 | 4% | 10% |  |
 | 166 | 3% | 6% |  |
 | 167 | 2% | 3% |  |
-| 168 | 0.9% | 2% |  |
-| 169 | 0.5% | 0.9% |  |
-| 170 | 0.2% | 0.4% |  |
-| 171 | 0.1% | 0.2% |  |
+| 168 | 0.8% | 2% |  |
+| 169 | 0.4% | 0.8% |  |
+| 170 | 0.2% | 0.3% |  |
+| 171 | 0.1% | 0.1% |  |
 | 172 | 0% | 0.1% |  |
 | 173 | 0% | 0% |  |
 | 174 | 0% | 0% |  |

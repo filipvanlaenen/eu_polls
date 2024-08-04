@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **28** seats (-4 seats)
+Current median: **30** seats (-2 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,21 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 28 | 25–30 | 24–30 | 24–31 | 23–32 |
-| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
+| Non-Inscrits | EU | 32 | 30 | 28–33 | 27–33 | 27–34 | 25–35 |
+| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 2–3 | 0–3 | 0–3 | 0–3 |
 | Ruch Narodowy | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Se Acabó La Fiesta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Lewica Razem | PL | | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| Partit Demòcrata Europeu Català | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -50,19 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.3% | 99.9% |  |
-| 23 | 1.2% | 99.6% |  |
-| 24 | 4% | 98% |  |
-| 25 | 9% | 95% |  |
-| 26 | 15% | 86% |  |
-| 27 | 20% | 71% |  |
-| 28 | 21% | 50% | Median |
-| 29 | 16% | 29% |  |
-| 30 | 9% | 13% |  |
-| 31 | 3% | 4% |  |
-| 32 | 0.8% | 1.0% | Last Result |
-| 33 | 0.1% | 0.1% |  |
-| 34 | 0% | 0% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 0.5% | 99.9% |  |
+| 26 | 2% | 99.4% |  |
+| 27 | 5% | 98% |  |
+| 28 | 10% | 93% |  |
+| 29 | 16% | 83% |  |
+| 30 | 20% | 67% | Median |
+| 31 | 19% | 47% |  |
+| 32 | 15% | 28% | Last Result |
+| 33 | 8% | 13% |  |
+| 34 | 3% | 5% |  |
+| 35 | 1.0% | 1.2% |  |
+| 36 | 0.2% | 0.2% |  |
+| 37 | 0% | 0% |  |
 
 
