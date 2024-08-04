@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **48** seats (-29 seats)
+Current median: **49** seats (-28 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 48 | 46–52 | 45–53 | 44–54 | 43–56 |
+| Renew Europe | EU | 77 | 49 | 47–53 | 46–54 | 45–55 | 44–57 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -39,6 +39,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -70,24 +71,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.2% | 100% |  |
-| 43 | 0.8% | 99.8% |  |
-| 44 | 3% | 98.9% |  |
-| 45 | 6% | 96% |  |
-| 46 | 11% | 90% |  |
-| 47 | 15% | 80% |  |
-| 48 | 17% | 64% | Median |
-| 49 | 16% | 47% |  |
-| 50 | 12% | 31% |  |
-| 51 | 8% | 19% |  |
-| 52 | 5% | 11% |  |
-| 53 | 3% | 6% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.8% | 2% |  |
-| 56 | 0.4% | 0.7% |  |
-| 57 | 0.2% | 0.3% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 43 | 0.2% | 100% |  |
+| 44 | 0.8% | 99.8% |  |
+| 45 | 3% | 98.9% |  |
+| 46 | 6% | 96% |  |
+| 47 | 11% | 90% |  |
+| 48 | 15% | 80% |  |
+| 49 | 17% | 64% | Median |
+| 50 | 16% | 47% |  |
+| 51 | 12% | 31% |  |
+| 52 | 8% | 19% |  |
+| 53 | 5% | 11% |  |
+| 54 | 3% | 6% |  |
+| 55 | 2% | 3% |  |
+| 56 | 0.8% | 2% |  |
+| 57 | 0.4% | 0.7% |  |
+| 58 | 0.2% | 0.3% |  |
+| 59 | 0.1% | 0.1% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |

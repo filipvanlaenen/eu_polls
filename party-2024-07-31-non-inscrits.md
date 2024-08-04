@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 30 | 28–33 | 27–33 | 27–34 | 25–35 |
+| Non-Inscrits | EU | 32 | 30 | 28–33 | 27–34 | 27–34 | 25–35 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -27,7 +27,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Se Acabó La Fiesta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Lewica Razem | PL | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,17 +54,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0.1% | 100% |  |
 | 25 | 0.5% | 99.9% |  |
-| 26 | 2% | 99.3% |  |
+| 26 | 2% | 99.4% |  |
 | 27 | 5% | 98% |  |
-| 28 | 10% | 93% |  |
-| 29 | 16% | 83% |  |
-| 30 | 20% | 67% | Median |
-| 31 | 19% | 47% |  |
-| 32 | 15% | 28% | Last Result |
-| 33 | 8% | 13% |  |
-| 34 | 4% | 5% |  |
-| 35 | 1.1% | 1.3% |  |
-| 36 | 0.2% | 0.2% |  |
-| 37 | 0% | 0% |  |
+| 28 | 9% | 93% |  |
+| 29 | 15% | 84% |  |
+| 30 | 19% | 68% | Median |
+| 31 | 19% | 50% |  |
+| 32 | 15% | 31% | Last Result |
+| 33 | 9% | 16% |  |
+| 34 | 4% | 6% |  |
+| 35 | 1.5% | 2% |  |
+| 36 | 0.3% | 0.4% |  |
+| 37 | 0% | 0.1% |  |
+| 38 | 0% | 0% |  |
 
 
