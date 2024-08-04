@@ -31,14 +31,13 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Likums un kārtība [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Suverēnā vara [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 

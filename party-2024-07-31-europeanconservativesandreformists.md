@@ -38,6 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
