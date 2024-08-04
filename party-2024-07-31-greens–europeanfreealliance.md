@@ -23,11 +23,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–5 |
 | Socialistisk Folkeparti | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–4 | 1–4 | 1–4 | 1–5 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–4 | 2–4 | 1–4 | 1–5 |
 | Volt Europa | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 1 | 1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
@@ -36,6 +35,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 12% | 41% |  |
 | 37 | 10% | 30% |  |
 | 38 | 8% | 20% |  |
-| 39 | 5% | 12% |  |
+| 39 | 5% | 11% |  |
 | 40 | 3% | 6% |  |
 | 41 | 2% | 3% |  |
 | 42 | 0.8% | 1.2% |  |
