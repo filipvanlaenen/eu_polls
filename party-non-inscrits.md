@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> CZ, DE, ES, FI, GR, HU, LT, LV, NL, PL, RO, SI, SK
+> CZ, DE, ES, FI, GR, HU, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -34,8 +34,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -62,7 +60,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 20% | 50% | Median |
 | 32 | 16% | 30% | Last Result |
 | 33 | 9% | 15% |  |
-| 34 | 4% | 6% |  |
+| 34 | 4% | 5% |  |
 | 35 | 1.2% | 2% |  |
 | 36 | 0.3% | 0.3% |  |
 | 37 | 0% | 0% |  |

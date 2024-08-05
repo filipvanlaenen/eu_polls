@@ -55,6 +55,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -93,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 9% | 28% |  |
 | 172 | 7% | 19% |  |
 | 173 | 5% | 12% |  |
-| 174 | 3% | 7% |  |
+| 174 | 3% | 8% |  |
 | 175 | 2% | 4% |  |
 | 176 | 1.1% | 2% |  |
 | 177 | 0.6% | 1.1% |  |
