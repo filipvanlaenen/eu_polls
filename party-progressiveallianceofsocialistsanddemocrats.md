@@ -43,7 +43,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Puterii Umaniste (social-liberal) | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Umanist Social Liberal | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
