@@ -24,7 +24,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -37,17 +37,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.2% | 100% |  |
-| 22 | 1.0% | 99.8% |  |
-| 23 | 4% | 98.8% |  |
-| 24 | 10% | 95% |  |
-| 25 | 17% | 85% | Last Result |
-| 26 | 22% | 68% | Median |
-| 27 | 20% | 46% |  |
-| 28 | 14% | 26% |  |
-| 29 | 8% | 12% |  |
-| 30 | 3% | 5% |  |
-| 31 | 1.0% | 1.2% |  |
-| 32 | 0.2% | 0.2% |  |
+| 22 | 1.2% | 99.8% |  |
+| 23 | 4% | 98.6% |  |
+| 24 | 11% | 94% |  |
+| 25 | 18% | 83% | Last Result |
+| 26 | 22% | 65% | Median |
+| 27 | 19% | 43% |  |
+| 28 | 13% | 24% |  |
+| 29 | 7% | 11% |  |
+| 30 | 3% | 4% |  |
+| 31 | 0.8% | 0.9% |  |
+| 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
 
