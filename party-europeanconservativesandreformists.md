@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Има такъв народ | BG | | 1 | 1 | 1 | 1 | 1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -50,20 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 65 | 0.1% | 100% |  |
 | 66 | 0.3% | 99.9% |  |
-| 67 | 0.8% | 99.7% |  |
-| 68 | 2% | 98.9% |  |
-| 69 | 4% | 97% |  |
-| 70 | 8% | 92% |  |
-| 71 | 12% | 85% |  |
-| 72 | 15% | 73% |  |
-| 73 | 17% | 57% | Median |
-| 74 | 15% | 41% |  |
-| 75 | 12% | 25% |  |
-| 76 | 7% | 14% |  |
-| 77 | 4% | 6% |  |
-| 78 | 2% | 2% | Last Result |
-| 79 | 0.6% | 0.8% |  |
-| 80 | 0.2% | 0.2% |  |
+| 67 | 1.0% | 99.6% |  |
+| 68 | 2% | 98.6% |  |
+| 69 | 5% | 96% |  |
+| 70 | 8% | 91% |  |
+| 71 | 12% | 83% |  |
+| 72 | 16% | 70% |  |
+| 73 | 17% | 55% | Median |
+| 74 | 15% | 38% |  |
+| 75 | 11% | 23% |  |
+| 76 | 7% | 12% |  |
+| 77 | 3% | 6% |  |
+| 78 | 1.5% | 2% | Last Result |
+| 79 | 0.5% | 0.7% |  |
+| 80 | 0.1% | 0.2% |  |
 | 81 | 0% | 0% |  |
 
 
