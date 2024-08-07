@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **59** seats (-18 seats)
+Current median: **58** seats (-19 seats)
 
 At least one member in **17 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 59 | 56–62 | 55–63 | 54–64 | 53–66 |
+| Renew Europe | EU | 77 | 58 | 56–62 | 55–63 | 54–64 | 53–65 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -55,7 +55,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0–1 |
@@ -76,21 +76,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0.2% | 100% |  |
 | 53 | 0.8% | 99.8% |  |
 | 54 | 2% | 99.0% |  |
-| 55 | 5% | 97% |  |
+| 55 | 6% | 97% |  |
 | 56 | 10% | 91% |  |
-| 57 | 14% | 82% |  |
-| 58 | 17% | 68% |  |
-| 59 | 16% | 51% | Median |
-| 60 | 13% | 35% |  |
-| 61 | 9% | 22% |  |
-| 62 | 6% | 13% |  |
-| 63 | 3% | 7% |  |
-| 64 | 2% | 4% |  |
-| 65 | 1.0% | 2% |  |
-| 66 | 0.5% | 0.9% |  |
-| 67 | 0.2% | 0.4% |  |
-| 68 | 0.1% | 0.2% |  |
-| 69 | 0% | 0.1% |  |
+| 57 | 15% | 81% |  |
+| 58 | 17% | 66% | Median |
+| 59 | 17% | 49% |  |
+| 60 | 13% | 33% |  |
+| 61 | 9% | 19% |  |
+| 62 | 5% | 10% |  |
+| 63 | 3% | 5% |  |
+| 64 | 1.4% | 3% |  |
+| 65 | 0.7% | 1.1% |  |
+| 66 | 0.3% | 0.5% |  |
+| 67 | 0.1% | 0.2% |  |
+| 68 | 0% | 0.1% |  |
+| 69 | 0% | 0% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
