@@ -1,24 +1,24 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **71** seats (-6 seats)
+Current median: **72** seats (-5 seats)
 
-At least one member in **18 countries** have a median of 1 seat or more:
+At least one member in **19 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 69–75 | 68–76 | 67–77 | 66–78 |
+| Renew Europe | EU | 77 | 72 | 70–76 | 69–77 | 68–78 | 67–79 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
 | Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -35,6 +35,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -75,23 +76,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 65 | 0.2% | 100% |  |
-| 66 | 0.8% | 99.8% |  |
-| 67 | 2% | 99.0% |  |
-| 68 | 6% | 97% |  |
-| 69 | 10% | 91% |  |
-| 70 | 15% | 81% |  |
-| 71 | 17% | 66% | Median |
-| 72 | 17% | 49% |  |
-| 73 | 13% | 33% |  |
-| 74 | 9% | 19% |  |
-| 75 | 5% | 10% |  |
-| 76 | 3% | 5% |  |
-| 77 | 1.4% | 3% | Last Result |
-| 78 | 0.7% | 1.1% |  |
-| 79 | 0.3% | 0.5% |  |
-| 80 | 0.1% | 0.2% |  |
-| 81 | 0% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 66 | 0.2% | 100% |  |
+| 67 | 0.8% | 99.8% |  |
+| 68 | 2% | 99.0% |  |
+| 69 | 6% | 97% |  |
+| 70 | 10% | 91% |  |
+| 71 | 15% | 81% |  |
+| 72 | 17% | 66% | Median |
+| 73 | 17% | 49% |  |
+| 74 | 13% | 33% |  |
+| 75 | 9% | 19% |  |
+| 76 | 5% | 10% |  |
+| 77 | 3% | 5% | Last Result |
+| 78 | 1.4% | 3% |  |
+| 79 | 0.7% | 1.1% |  |
+| 80 | 0.3% | 0.5% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 

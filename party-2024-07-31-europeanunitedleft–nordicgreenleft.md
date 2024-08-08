@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> AT, BE, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, NL, PT, SE, SI
+> AT, BE, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LU, NL, PT, SE, SI
 
 ## Seats
 
@@ -47,6 +47,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
