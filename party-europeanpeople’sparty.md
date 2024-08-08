@@ -1,24 +1,24 @@
 # European People’s Party
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **169** seats (-19 seats)
+Current median: **171** seats (-17 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 169 | 165–174 | 163–175 | 162–176 | 160–179 |
+| European People’s Party | EU | 188 | 171 | 167–176 | 165–177 | 164–178 | 162–181 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–25 | 20–26 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
@@ -45,6 +45,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Nieuw Sociaal Contract | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Starostové a nezávislí | CZ | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -77,33 +78,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.2% | 99.9% |  |
-| 160 | 0.4% | 99.7% |  |
-| 161 | 0.9% | 99.2% |  |
-| 162 | 2% | 98% |  |
-| 163 | 3% | 97% |  |
-| 164 | 4% | 94% |  |
-| 165 | 6% | 90% |  |
-| 166 | 8% | 84% |  |
-| 167 | 9% | 77% |  |
-| 168 | 11% | 67% |  |
-| 169 | 11% | 57% | Median |
-| 170 | 11% | 46% |  |
-| 171 | 10% | 35% |  |
-| 172 | 8% | 25% |  |
-| 173 | 6% | 17% |  |
-| 174 | 4% | 11% |  |
-| 175 | 3% | 7% |  |
-| 176 | 2% | 4% |  |
-| 177 | 1.0% | 2% |  |
-| 178 | 0.6% | 1.1% |  |
-| 179 | 0.3% | 0.5% |  |
-| 180 | 0.1% | 0.2% |  |
-| 181 | 0.1% | 0.1% |  |
-| 182 | 0% | 0% |  |
-| 183 | 0% | 0% |  |
+| 159 | 0% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.2% | 99.9% |  |
+| 162 | 0.4% | 99.7% |  |
+| 163 | 0.9% | 99.2% |  |
+| 164 | 2% | 98% |  |
+| 165 | 3% | 97% |  |
+| 166 | 4% | 94% |  |
+| 167 | 6% | 90% |  |
+| 168 | 8% | 84% |  |
+| 169 | 9% | 77% |  |
+| 170 | 11% | 67% |  |
+| 171 | 11% | 57% | Median |
+| 172 | 11% | 46% |  |
+| 173 | 10% | 35% |  |
+| 174 | 8% | 25% |  |
+| 175 | 6% | 17% |  |
+| 176 | 4% | 11% |  |
+| 177 | 3% | 7% |  |
+| 178 | 2% | 4% |  |
+| 179 | 1.0% | 2% |  |
+| 180 | 0.6% | 1.1% |  |
+| 181 | 0.3% | 0.5% |  |
+| 182 | 0.1% | 0.2% |  |
+| 183 | 0.1% | 0.1% |  |
 | 184 | 0% | 0% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |

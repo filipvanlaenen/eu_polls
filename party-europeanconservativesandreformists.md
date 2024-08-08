@@ -1,24 +1,24 @@
 # European Conservatives and Reformists
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BE, BG, CZ, DK, FI, GR, HR, IT, LT, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, FI, GR, HR, IT, LT, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **72** seats (-6 seats)
+Current median: **73** seats (-5 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> BE, BG, CZ, DK, FI, GR, HR, IT, LT, LV, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, FI, GR, HR, IT, LT, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 72 | 69–76 | 68–77 | 67–77 | 66–79 |
+| European Conservatives and Reformists | EU | 78 | 73 | 70–77 | 69–78 | 68–78 | 67–80 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -33,6 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 1 | 1 | 1 | 1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -48,23 +49,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0.1% | 100% |  |
-| 65 | 0.2% | 99.9% |  |
-| 66 | 0.7% | 99.7% |  |
-| 67 | 2% | 99.1% |  |
-| 68 | 4% | 97% |  |
-| 69 | 7% | 94% |  |
-| 70 | 11% | 87% |  |
-| 71 | 14% | 76% |  |
-| 72 | 15% | 63% | Median |
-| 73 | 15% | 47% |  |
-| 74 | 12% | 33% |  |
-| 75 | 9% | 20% |  |
-| 76 | 6% | 11% |  |
-| 77 | 3% | 5% |  |
-| 78 | 1.4% | 2% | Last Result |
-| 79 | 0.5% | 0.8% |  |
-| 80 | 0.2% | 0.2% |  |
-| 81 | 0% | 0% |  |
+| 65 | 0.1% | 100% |  |
+| 66 | 0.2% | 99.9% |  |
+| 67 | 0.7% | 99.7% |  |
+| 68 | 2% | 99.1% |  |
+| 69 | 4% | 97% |  |
+| 70 | 7% | 94% |  |
+| 71 | 11% | 87% |  |
+| 72 | 14% | 76% |  |
+| 73 | 15% | 63% | Median |
+| 74 | 15% | 47% |  |
+| 75 | 12% | 33% |  |
+| 76 | 9% | 20% |  |
+| 77 | 6% | 11% |  |
+| 78 | 3% | 5% | Last Result |
+| 79 | 1.4% | 2% |  |
+| 80 | 0.5% | 0.8% |  |
+| 81 | 0.2% | 0.2% |  |
+| 82 | 0% | 0% |  |
 
 

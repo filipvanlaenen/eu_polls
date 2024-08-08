@@ -1,24 +1,24 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **22 countries**:
+Members registered from **23 countries**:
 
-> AT, BE, BG, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LV, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **122** seats (-14 seats)
+Current median: **123** seats (-13 seats)
 
-At least one member in **20 countries** have a median of 1 seat or more:
+At least one member in **21 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, GR, HR, HU, IT, LT, LV, NL, PL, PT, RO, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 122 | 118–126 | 117–127 | 116–128 | 114–130 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 123 | 119–127 | 118–128 | 117–129 | 115–131 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–24 |
 | Partito Democratico | IT | | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 12–16 | 12–17 | 11–18 |
@@ -40,6 +40,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -47,6 +48,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Sociální demokracie | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
+| Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -56,28 +58,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 112 | 0.1% | 100% |  |
-| 113 | 0.2% | 99.9% |  |
-| 114 | 0.5% | 99.7% |  |
-| 115 | 1.0% | 99.2% |  |
-| 116 | 2% | 98% |  |
-| 117 | 4% | 96% |  |
-| 118 | 6% | 93% |  |
-| 119 | 8% | 87% |  |
-| 120 | 10% | 79% |  |
-| 121 | 12% | 69% |  |
-| 122 | 13% | 57% | Median |
-| 123 | 12% | 44% |  |
-| 124 | 10% | 32% |  |
-| 125 | 8% | 22% |  |
-| 126 | 6% | 14% |  |
-| 127 | 4% | 8% |  |
-| 128 | 2% | 4% |  |
-| 129 | 1.1% | 2% |  |
-| 130 | 0.5% | 0.9% |  |
-| 131 | 0.2% | 0.4% |  |
-| 132 | 0.1% | 0.1% |  |
-| 133 | 0% | 0% |  |
+| 113 | 0.1% | 100% |  |
+| 114 | 0.2% | 99.9% |  |
+| 115 | 0.5% | 99.7% |  |
+| 116 | 1.0% | 99.2% |  |
+| 117 | 2% | 98% |  |
+| 118 | 4% | 96% |  |
+| 119 | 6% | 93% |  |
+| 120 | 8% | 87% |  |
+| 121 | 10% | 79% |  |
+| 122 | 12% | 69% |  |
+| 123 | 13% | 57% | Median |
+| 124 | 12% | 44% |  |
+| 125 | 10% | 32% |  |
+| 126 | 8% | 22% |  |
+| 127 | 6% | 14% |  |
+| 128 | 4% | 8% |  |
+| 129 | 2% | 4% |  |
+| 130 | 1.1% | 2% |  |
+| 131 | 0.5% | 0.9% |  |
+| 132 | 0.2% | 0.4% |  |
+| 133 | 0.1% | 0.1% |  |
 | 134 | 0% | 0% |  |
 | 135 | 0% | 0% |  |
 | 136 | 0% | 0% | Last Result |
