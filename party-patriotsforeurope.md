@@ -1,24 +1,25 @@
 # Patriots for Europe
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, BE, CZ, DK, EE, ES, GR, HU, IT, LV, NL, PT, SI, SK
+> AT, BE, CZ, DK, EE, ES, FR, GR, HU, IT, LV, NL, PT, SI, SK
 
 ## Seats
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **61** seats (-23 seats)
+Current median: **91** seats (+7 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, EE, ES, GR, HU, IT, LV, NL, PT
+> AT, BE, CZ, EE, ES, FR, GR, HU, IT, LV, NL, PT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 61 | 58–64 | 57–64 | 57–65 | 55–66 |
+| Patriots for Europe | EU | 84 | 91 | 88–94 | 87–94 | 87–95 | 85–96 |
+| Rassemblement national | FR | | 30 | 30 | 30 | 30 | 30 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
 | ANO 2011 | CZ | | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Partij voor de Vrijheid | NL | | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
@@ -44,36 +45,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.5% | 99.8% |  |
-| 56 | 2% | 99.4% |  |
-| 57 | 4% | 98% |  |
-| 58 | 8% | 94% |  |
-| 59 | 12% | 86% |  |
-| 60 | 16% | 74% |  |
-| 61 | 18% | 58% | Median |
-| 62 | 16% | 40% |  |
-| 63 | 12% | 24% |  |
-| 64 | 7% | 12% |  |
-| 65 | 3% | 5% |  |
-| 66 | 1.2% | 2% |  |
-| 67 | 0.3% | 0.4% |  |
-| 68 | 0.1% | 0.1% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
-| 71 | 0% | 0% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
-| 81 | 0% | 0% |  |
-| 82 | 0% | 0% |  |
-| 83 | 0% | 0% |  |
-| 84 | 0% | 0% | Last Result |
+| 84 | 0.1% | 100% | Last Result |
+| 85 | 0.5% | 99.8% |  |
+| 86 | 2% | 99.4% |  |
+| 87 | 4% | 98% |  |
+| 88 | 8% | 94% |  |
+| 89 | 12% | 86% |  |
+| 90 | 16% | 74% |  |
+| 91 | 18% | 58% | Median |
+| 92 | 16% | 40% |  |
+| 93 | 12% | 24% |  |
+| 94 | 7% | 12% |  |
+| 95 | 3% | 5% |  |
+| 96 | 1.2% | 2% |  |
+| 97 | 0.3% | 0.4% |  |
+| 98 | 0.1% | 0.1% |  |
+| 99 | 0% | 0% |  |
 
 
