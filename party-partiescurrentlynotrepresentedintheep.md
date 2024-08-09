@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
+> AT, BE, CY, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, SI
 
 ## Seats
 
@@ -28,6 +28,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Imperium Europa [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |

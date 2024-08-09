@@ -1,8 +1,8 @@
 # Greens–European Free Alliance
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
@@ -37,6 +37,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
+| Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |

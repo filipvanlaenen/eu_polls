@@ -1,24 +1,24 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **25 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **137** seats (+1 seats)
+Current median: **140** seats (+4 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 137 | 133–141 | 132–142 | 131–143 | 129–145 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 140 | 136–144 | 135–145 | 134–146 | 132–148 |
 | Partido Socialista Obrero Español | ES | | 22 | 19–23 | 19–23 | 19–24 | 18–24 |
 | Partito Democratico | IT | | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 12–16 | 12–17 | 11–18 |
@@ -30,6 +30,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Nowa Lewica | PL | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Socialdemokraterne | DK | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -60,27 +61,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 127 | 0.1% | 100% |  |
-| 128 | 0.2% | 99.9% |  |
-| 129 | 0.5% | 99.7% |  |
-| 130 | 1.0% | 99.2% |  |
-| 131 | 2% | 98% |  |
-| 132 | 4% | 96% |  |
-| 133 | 6% | 93% |  |
-| 134 | 8% | 87% |  |
-| 135 | 10% | 79% |  |
-| 136 | 12% | 69% | Last Result |
-| 137 | 13% | 57% | Median |
-| 138 | 12% | 44% |  |
-| 139 | 10% | 32% |  |
-| 140 | 8% | 22% |  |
-| 141 | 6% | 14% |  |
-| 142 | 4% | 8% |  |
-| 143 | 2% | 4% |  |
-| 144 | 1.1% | 2% |  |
-| 145 | 0.5% | 0.9% |  |
-| 146 | 0.2% | 0.4% |  |
-| 147 | 0.1% | 0.1% |  |
-| 148 | 0% | 0% |  |
+| 130 | 0.1% | 100% |  |
+| 131 | 0.2% | 99.9% |  |
+| 132 | 0.5% | 99.7% |  |
+| 133 | 1.0% | 99.2% |  |
+| 134 | 2% | 98% |  |
+| 135 | 4% | 96% |  |
+| 136 | 6% | 93% | Last Result |
+| 137 | 8% | 87% |  |
+| 138 | 10% | 79% |  |
+| 139 | 12% | 69% |  |
+| 140 | 13% | 57% | Median |
+| 141 | 12% | 44% |  |
+| 142 | 10% | 32% |  |
+| 143 | 8% | 22% |  |
+| 144 | 6% | 14% |  |
+| 145 | 4% | 8% |  |
+| 146 | 2% | 4% |  |
+| 147 | 1.1% | 2% |  |
+| 148 | 0.5% | 0.9% |  |
+| 149 | 0.2% | 0.4% |  |
+| 150 | 0.1% | 0.1% |  |
+| 151 | 0% | 0% |  |
 
 
