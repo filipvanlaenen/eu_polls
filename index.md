@@ -13,12 +13,12 @@
 | <a href="#european-people’s-party">European People’s Party</a> | 188 | 179 | 175–184 |173–185 | 172–186 | 170–189 |
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 136 | 137 | 133–141 |132–142 | 131–143 | 129–145 |
 | <a href="#patriots-for-europe">Patriots for Europe</a> | 84 | 91 | 88–94 |87–94 | 87–95 | 85–96 |
-| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 78 | 79 | 76–83 |75–84 | 74–84 | 73–86 |
+| <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 78 | 78 | 75–82 |74–83 | 73–83 | 72–85 |
 | <a href="#renew-europe">Renew Europe</a> | 77 | 72 | 70–76 |69–77 | 68–78 | 67–79 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 46 | 44 | 42–47 |41–48 | 40–49 | 39–50 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 53 | 42 | 39–45 |38–47 | 37–47 | 37–49 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 32 | 32 | 29–34 |28–35 | 28–35 | 27–37 |
-| <a href="#europe-of-sovereign-nations">Europe of Sovereign Nations</a> | 25 | 26 | 24–29 |23–29 | 23–30 | 22–31 |
+| <a href="#europe-of-sovereign-nations">Europe of Sovereign Nations</a> | 25 | 27 | 25–30 |24–30 | 24–31 | 23–32 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 1 | 3 | 2–4 |2–4 | 1–4 | 1–5 |
 
 ### European People’s Party
@@ -120,24 +120,24 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.7% | 99.7% |  |
-| 74 | 2% | 99.1% |  |
-| 75 | 4% | 97% |  |
-| 76 | 7% | 94% |  |
-| 77 | 11% | 87% |  |
-| 78 | 14% | 76% | Last Result |
-| 79 | 15% | 63% | Median |
-| 80 | 15% | 47% |  |
-| 81 | 12% | 33% |  |
-| 82 | 9% | 20% |  |
-| 83 | 6% | 11% |  |
-| 84 | 3% | 5% |  |
-| 85 | 1.4% | 2% |  |
-| 86 | 0.5% | 0.8% |  |
-| 87 | 0.2% | 0.2% |  |
-| 88 | 0% | 0% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.7% | 99.7% |  |
+| 73 | 2% | 99.1% |  |
+| 74 | 4% | 97% |  |
+| 75 | 7% | 94% |  |
+| 76 | 11% | 87% |  |
+| 77 | 14% | 76% |  |
+| 78 | 15% | 63% | Last Result, Median |
+| 79 | 15% | 47% |  |
+| 80 | 12% | 33% |  |
+| 81 | 9% | 20% |  |
+| 82 | 6% | 11% |  |
+| 83 | 3% | 5% |  |
+| 84 | 1.4% | 2% |  |
+| 85 | 0.5% | 0.8% |  |
+| 86 | 0.2% | 0.2% |  |
+| 87 | 0% | 0% |  |
 
 ### Renew Europe
 
@@ -227,19 +227,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.2% | 100% |  |
-| 22 | 1.2% | 99.8% |  |
-| 23 | 4% | 98.6% |  |
-| 24 | 10% | 94% |  |
-| 25 | 18% | 84% | Last Result |
-| 26 | 22% | 66% | Median |
-| 27 | 20% | 45% |  |
-| 28 | 13% | 25% |  |
-| 29 | 7% | 12% |  |
-| 30 | 3% | 4% |  |
-| 31 | 1.0% | 1.1% |  |
-| 32 | 0.2% | 0.2% |  |
-| 33 | 0% | 0% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.2% | 99.8% |  |
+| 24 | 4% | 98.6% |  |
+| 25 | 10% | 94% | Last Result |
+| 26 | 18% | 84% |  |
+| 27 | 22% | 66% | Median |
+| 28 | 20% | 45% |  |
+| 29 | 13% | 25% |  |
+| 30 | 7% | 12% |  |
+| 31 | 3% | 4% |  |
+| 32 | 1.0% | 1.1% |  |
+| 33 | 0.2% | 0.2% |  |
+| 34 | 0% | 0% |  |
 
 ### Non-Inscrits
 
