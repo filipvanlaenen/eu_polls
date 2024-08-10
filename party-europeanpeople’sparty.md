@@ -46,8 +46,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Nieuw Sociaal Contract | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Starostové a nezávislí | CZ | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Starostové a nezávislí | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -64,7 +64,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -81,30 +81,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 170 | 0% | 100% |  |
-| 171 | 0.1% | 99.9% |  |
+| 171 | 0.1% | 100% |  |
 | 172 | 0.2% | 99.9% |  |
 | 173 | 0.4% | 99.7% |  |
-| 174 | 0.9% | 99.2% |  |
-| 175 | 2% | 98% |  |
-| 176 | 3% | 97% |  |
-| 177 | 4% | 94% |  |
-| 178 | 6% | 90% |  |
-| 179 | 8% | 84% |  |
-| 180 | 9% | 77% |  |
-| 181 | 11% | 67% |  |
-| 182 | 11% | 57% | Median |
-| 183 | 11% | 46% |  |
-| 184 | 10% | 35% |  |
-| 185 | 8% | 25% |  |
-| 186 | 6% | 17% |  |
-| 187 | 4% | 11% |  |
-| 188 | 3% | 7% | Last Result |
+| 174 | 0.7% | 99.3% |  |
+| 175 | 1.4% | 98.6% |  |
+| 176 | 2% | 97% |  |
+| 177 | 4% | 95% |  |
+| 178 | 5% | 91% |  |
+| 179 | 7% | 86% |  |
+| 180 | 9% | 79% |  |
+| 181 | 10% | 70% |  |
+| 182 | 11% | 59% | Median |
+| 183 | 11% | 48% |  |
+| 184 | 10% | 37% |  |
+| 185 | 8% | 28% |  |
+| 186 | 7% | 19% |  |
+| 187 | 5% | 13% |  |
+| 188 | 3% | 8% | Last Result |
 | 189 | 2% | 4% |  |
-| 190 | 1.0% | 2% |  |
-| 191 | 0.6% | 1.1% |  |
-| 192 | 0.3% | 0.5% |  |
-| 193 | 0.1% | 0.2% |  |
+| 190 | 1.2% | 2% |  |
+| 191 | 0.7% | 1.3% |  |
+| 192 | 0.3% | 0.6% |  |
+| 193 | 0.2% | 0.3% |  |
 | 194 | 0.1% | 0.1% |  |
 | 195 | 0% | 0% |  |
 
