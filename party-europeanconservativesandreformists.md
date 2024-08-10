@@ -18,7 +18,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 79 | 75–82 | 74–83 | 74–84 | 72–85 |
+| European Conservatives and Reformists | EU | 78 | 79 | 75–82 | 75–83 | 74–84 | 72–85 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -27,11 +27,11 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Independents | FR | | 3 | 3 | 3 | 3 | 3 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Domovinski pokret | HR | | 1 | 1 | 1 | 1 | 0–1 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Mouvement conservateur | FR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,6 +41,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
 
@@ -52,23 +53,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 70 | 0% | 100% |  |
-| 71 | 0.2% | 99.9% |  |
+| 71 | 0.1% | 100% |  |
 | 72 | 0.5% | 99.8% |  |
-| 73 | 1.4% | 99.2% |  |
+| 73 | 1.3% | 99.3% |  |
 | 74 | 3% | 98% |  |
 | 75 | 6% | 95% |  |
-| 76 | 9% | 89% |  |
-| 77 | 13% | 79% |  |
-| 78 | 15% | 66% | Last Result |
-| 79 | 15% | 52% | Median |
-| 80 | 13% | 37% |  |
-| 81 | 10% | 24% |  |
-| 82 | 7% | 14% |  |
-| 83 | 4% | 7% |  |
-| 84 | 2% | 3% |  |
-| 85 | 0.8% | 1.2% |  |
-| 86 | 0.3% | 0.4% |  |
+| 76 | 9% | 90% |  |
+| 77 | 12% | 80% |  |
+| 78 | 15% | 68% | Last Result |
+| 79 | 15% | 53% | Median |
+| 80 | 13% | 39% |  |
+| 81 | 10% | 25% |  |
+| 82 | 7% | 15% |  |
+| 83 | 4% | 8% |  |
+| 84 | 2% | 4% |  |
+| 85 | 0.9% | 1.4% |  |
+| 86 | 0.3% | 0.5% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
 

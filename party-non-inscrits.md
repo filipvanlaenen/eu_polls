@@ -18,7 +18,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 32 | 29–34 | 28–35 | 28–35 | 26–36 |
+| Non-Inscrits | EU | 32 | 32 | 29–34 | 28–35 | 28–36 | 27–37 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -34,7 +34,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Φειδίας Παναγιώτου | CY | | 1 | 1 | 1 | 1 | 1 |
-| Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -53,17 +53,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
 | 26 | 0.4% | 99.9% |  |
-| 27 | 1.5% | 99.5% |  |
+| 27 | 1.4% | 99.5% |  |
 | 28 | 4% | 98% |  |
-| 29 | 9% | 94% |  |
-| 30 | 15% | 85% |  |
-| 31 | 19% | 70% |  |
-| 32 | 20% | 51% | Last Result, Median |
-| 33 | 16% | 31% |  |
-| 34 | 9% | 16% |  |
-| 35 | 4% | 6% |  |
-| 36 | 2% | 2% |  |
-| 37 | 0.4% | 0.5% |  |
+| 29 | 8% | 94% |  |
+| 30 | 14% | 86% |  |
+| 31 | 19% | 72% |  |
+| 32 | 20% | 53% | Last Result, Median |
+| 33 | 16% | 34% |  |
+| 34 | 10% | 18% |  |
+| 35 | 5% | 7% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.5% | 0.7% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
