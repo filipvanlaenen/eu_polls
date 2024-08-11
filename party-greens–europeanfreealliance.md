@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **42** seats (-11 seats)
+Current median: **43** seats (-10 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 38–47 | 38–48 | 37–50 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–13 | 9–15 |
+| Greens–European Free Alliance | EU | 53 | 43 | 40–47 | 39–48 | 38–49 | 37–50 |
+| Bündnis 90/Die Grünen | DE | | 11 | 11–13 | 10–13 | 10–14 | 9–15 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–5 |
 | Socialistisk Folkeparti | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 2–4 | 1–5 |
-| Volt Europa | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
@@ -61,28 +61,28 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.2% | 100% |  |
-| 37 | 1.2% | 99.7% |  |
-| 38 | 4% | 98.5% |  |
-| 39 | 8% | 95% |  |
-| 40 | 13% | 86% |  |
-| 41 | 15% | 74% |  |
-| 42 | 14% | 59% | Median |
-| 43 | 12% | 45% |  |
-| 44 | 10% | 33% |  |
-| 45 | 8% | 22% |  |
-| 46 | 6% | 14% |  |
-| 47 | 4% | 8% |  |
-| 48 | 2% | 4% |  |
-| 49 | 1.1% | 2% |  |
-| 50 | 0.5% | 0.7% |  |
-| 51 | 0.2% | 0.2% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.7% | 99.8% |  |
+| 38 | 2% | 99.1% |  |
+| 39 | 6% | 97% |  |
+| 40 | 10% | 91% |  |
+| 41 | 13% | 81% |  |
+| 42 | 15% | 68% |  |
+| 43 | 14% | 54% | Median |
+| 44 | 12% | 40% |  |
+| 45 | 10% | 28% |  |
+| 46 | 7% | 18% |  |
+| 47 | 5% | 11% |  |
+| 48 | 3% | 6% |  |
+| 49 | 2% | 3% |  |
+| 50 | 0.7% | 1.0% |  |
+| 51 | 0.2% | 0.3% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% | Last Result |
 

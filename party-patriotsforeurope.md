@@ -25,7 +25,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Vox | ES | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Freiheitliche Partei Österreichs | AT | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -39,21 +39,21 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-patriotsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-patriotsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Patriots for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Patriots for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% | Last Result |
-| 85 | 0.6% | 99.8% |  |
+| 85 | 0.5% | 99.9% |  |
 | 86 | 2% | 99.3% |  |
 | 87 | 4% | 98% |  |
-| 88 | 9% | 93% |  |
+| 88 | 8% | 93% |  |
 | 89 | 13% | 85% |  |
-| 90 | 17% | 71% |  |
-| 91 | 18% | 54% | Median |
-| 92 | 15% | 36% |  |
+| 90 | 17% | 72% |  |
+| 91 | 18% | 55% | Median |
+| 92 | 15% | 37% |  |
 | 93 | 11% | 21% |  |
 | 94 | 6% | 10% |  |
 | 95 | 3% | 4% |  |
