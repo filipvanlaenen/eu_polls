@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **71** seats (-6 seats)
+Current median: **72** seats (-5 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 69–74 | 68–75 | 67–76 | 66–78 |
+| Renew Europe | EU | 77 | 72 | 69–75 | 68–76 | 68–76 | 66–78 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
-| Freie Demokratische Partei | DE | | 5 | 4–5 | 3–6 | 3–6 | 3–7 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -30,15 +30,15 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -77,22 +77,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 65 | 0.2% | 100% |  |
-| 66 | 0.7% | 99.8% |  |
-| 67 | 2% | 99.1% |  |
-| 68 | 6% | 97% |  |
-| 69 | 11% | 91% |  |
-| 70 | 16% | 81% |  |
-| 71 | 19% | 64% | Median |
-| 72 | 17% | 45% |  |
-| 73 | 13% | 28% |  |
-| 74 | 8% | 15% |  |
-| 75 | 4% | 8% |  |
-| 76 | 2% | 4% |  |
-| 77 | 1.0% | 2% | Last Result |
-| 78 | 0.5% | 0.8% |  |
-| 79 | 0.2% | 0.3% |  |
-| 80 | 0.1% | 0.1% |  |
+| 65 | 0.1% | 100% |  |
+| 66 | 0.5% | 99.9% |  |
+| 67 | 2% | 99.4% |  |
+| 68 | 4% | 98% |  |
+| 69 | 9% | 93% |  |
+| 70 | 15% | 84% |  |
+| 71 | 18% | 70% |  |
+| 72 | 18% | 52% | Median |
+| 73 | 14% | 34% |  |
+| 74 | 9% | 19% |  |
+| 75 | 5% | 10% |  |
+| 76 | 3% | 5% |  |
+| 77 | 1.3% | 2% | Last Result |
+| 78 | 0.7% | 1.1% |  |
+| 79 | 0.3% | 0.4% |  |
+| 80 | 0.1% | 0.2% |  |
 | 81 | 0% | 0% |  |
 
 

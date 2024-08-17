@@ -22,24 +22,24 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | La France insoumise | FR | | 9 | 9 | 9 | 9 | 9 |
 | Sinn Féin | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
-| Die Linke | DE | | 3 | 2–3 | 1–4 | 1–4 | 1–5 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Die Linke | DE | | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
-| Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–2 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -60,22 +60,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.1% | 100% |  |
-| 37 | 0.2% | 99.9% |  |
-| 38 | 0.8% | 99.7% |  |
-| 39 | 2% | 98.9% |  |
+| 37 | 0.2% | 100% |  |
+| 38 | 0.6% | 99.8% |  |
+| 39 | 2% | 99.2% |  |
 | 40 | 4% | 97% |  |
-| 41 | 8% | 93% |  |
-| 42 | 12% | 85% |  |
-| 43 | 15% | 73% |  |
-| 44 | 16% | 58% | Median |
-| 45 | 15% | 41% |  |
-| 46 | 12% | 26% | Last Result |
-| 47 | 8% | 14% |  |
+| 41 | 7% | 93% |  |
+| 42 | 11% | 86% |  |
+| 43 | 15% | 75% |  |
+| 44 | 16% | 60% | Median |
+| 45 | 15% | 43% |  |
+| 46 | 12% | 28% | Last Result |
+| 47 | 8% | 15% |  |
 | 48 | 4% | 7% |  |
 | 49 | 2% | 3% |  |
-| 50 | 0.6% | 0.8% |  |
+| 50 | 0.7% | 0.9% |  |
 | 51 | 0.2% | 0.2% |  |
-| 52 | 0% | 0% |  |
+| 52 | 0% | 0.1% |  |
+| 53 | 0% | 0% |  |
 
 
