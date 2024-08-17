@@ -31,14 +31,14 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Движение за права и свободи | BG | | 3 | 3 | 3 | 3 | 3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
 | Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -78,20 +78,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 65 | 0.1% | 100% |  |
-| 66 | 0.5% | 99.9% |  |
-| 67 | 2% | 99.3% |  |
+| 66 | 0.4% | 99.9% |  |
+| 67 | 1.5% | 99.4% |  |
 | 68 | 4% | 98% |  |
-| 69 | 9% | 93% |  |
-| 70 | 13% | 85% |  |
-| 71 | 16% | 71% |  |
-| 72 | 17% | 55% | Median |
-| 73 | 14% | 38% |  |
-| 74 | 10% | 24% |  |
-| 75 | 6% | 13% |  |
-| 76 | 4% | 7% |  |
-| 77 | 2% | 3% | Last Result |
-| 78 | 0.9% | 2% |  |
-| 79 | 0.4% | 0.7% |  |
+| 69 | 8% | 94% |  |
+| 70 | 12% | 87% |  |
+| 71 | 16% | 74% |  |
+| 72 | 17% | 59% | Median |
+| 73 | 15% | 42% |  |
+| 74 | 11% | 27% |  |
+| 75 | 7% | 15% |  |
+| 76 | 4% | 8% |  |
+| 77 | 2% | 4% | Last Result |
+| 78 | 1.1% | 2% |  |
+| 79 | 0.5% | 0.9% |  |
 | 80 | 0.2% | 0.3% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
