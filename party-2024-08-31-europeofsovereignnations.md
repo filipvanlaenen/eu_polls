@@ -18,8 +18,8 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
-| Alternative für Deutschland | DE | | 15 | 15–18 | 15–18 | 14–18 | 13–19 |
+| Europe of Sovereign Nations | EU | 25 | 27 | 24–29 | 24–30 | 23–31 | 22–33 |
+| Alternative für Deutschland | DE | | 15 | 14–18 | 13–18 | 13–18 | 13–21 |
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
@@ -38,17 +38,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 1.2% | 99.7% |  |
-| 24 | 5% | 98% |  |
-| 25 | 14% | 93% | Last Result |
-| 26 | 23% | 80% |  |
-| 27 | 23% | 56% | Median |
-| 28 | 17% | 33% |  |
-| 29 | 10% | 16% |  |
-| 30 | 4% | 6% |  |
-| 31 | 1.3% | 2% |  |
-| 32 | 0.2% | 0.2% |  |
-| 33 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.7% | 99.9% |  |
+| 23 | 3% | 99.1% |  |
+| 24 | 7% | 96% |  |
+| 25 | 13% | 90% | Last Result |
+| 26 | 20% | 76% |  |
+| 27 | 20% | 56% | Median |
+| 28 | 16% | 36% |  |
+| 29 | 11% | 20% |  |
+| 30 | 6% | 9% |  |
+| 31 | 2% | 3% |  |
+| 32 | 0.8% | 1.3% |  |
+| 33 | 0.4% | 0.5% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 
