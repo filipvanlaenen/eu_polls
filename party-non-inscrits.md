@@ -18,8 +18,8 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 32 | 29–35 | 28–36 | 28–36 | 26–38 |
-| Bündnis Sahra Wagenknecht | DE | | 8 | 6–9 | 6–11 | 6–11 | 6–11 |
+| Non-Inscrits | EU | 32 | 32 | 29–34 | 28–35 | 28–36 | 26–37 |
+| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 2–3 | 0–3 | 0–3 | 0–3 |
@@ -45,27 +45,26 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.5% | 99.9% |  |
-| 27 | 2% | 99.4% |  |
+| 26 | 0.4% | 99.9% |  |
+| 27 | 1.4% | 99.5% |  |
 | 28 | 4% | 98% |  |
 | 29 | 8% | 94% |  |
-| 30 | 12% | 86% |  |
-| 31 | 16% | 74% |  |
-| 32 | 17% | 58% | Last Result, Median |
-| 33 | 16% | 41% |  |
-| 34 | 12% | 25% |  |
-| 35 | 7% | 13% |  |
-| 36 | 4% | 6% |  |
-| 37 | 1.5% | 2% |  |
-| 38 | 0.5% | 0.6% |  |
-| 39 | 0.1% | 0.1% |  |
-| 40 | 0% | 0% |  |
+| 30 | 14% | 86% |  |
+| 31 | 18% | 72% |  |
+| 32 | 19% | 54% | Last Result, Median |
+| 33 | 16% | 35% |  |
+| 34 | 10% | 19% |  |
+| 35 | 5% | 8% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.6% | 0.8% |  |
+| 38 | 0.1% | 0.2% |  |
+| 39 | 0% | 0% |  |
 
 
