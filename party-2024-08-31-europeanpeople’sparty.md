@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 183 | 178–188 | 176–190 | 175–191 | 173–193 |
+| European People’s Party | EU | 188 | 183 | 178–188 | 177–190 | 176–191 | 173–194 |
 | Partido Popular | ES | | 24 | 22–25 | 22–26 | 21–27 | 21–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 21–27 | 21–27 | 21–27 |
-| Platforma Obywatelska | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Tisztelet és Szabadság | HU | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -37,7 +37,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Polskie Stronnictwo Ludowe | PL | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Polskie Stronnictwo Ludowe | PL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | BoerBurgerBeweging | NL | | 2 | 2 | 2 | 2 | 1–2 |
 | Christen-Democratisch Appèl | NL | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 2 | 2 |
@@ -60,10 +60,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -83,30 +83,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 171 | 0.1% | 100% |  |
 | 172 | 0.2% | 99.9% |  |
-| 173 | 0.4% | 99.7% |  |
-| 174 | 0.8% | 99.3% |  |
-| 175 | 1.4% | 98.5% |  |
-| 176 | 2% | 97% |  |
-| 177 | 3% | 95% |  |
-| 178 | 5% | 92% |  |
-| 179 | 6% | 87% |  |
-| 180 | 8% | 81% |  |
-| 181 | 9% | 73% |  |
-| 182 | 10% | 64% |  |
-| 183 | 10% | 55% | Median |
-| 184 | 9% | 45% |  |
-| 185 | 9% | 35% |  |
-| 186 | 7% | 27% |  |
-| 187 | 6% | 19% |  |
-| 188 | 5% | 13% | Last Result |
-| 189 | 3% | 9% |  |
-| 190 | 2% | 5% |  |
-| 191 | 1.4% | 3% |  |
-| 192 | 0.8% | 2% |  |
-| 193 | 0.5% | 0.9% |  |
-| 194 | 0.2% | 0.4% |  |
+| 173 | 0.3% | 99.8% |  |
+| 174 | 0.7% | 99.4% |  |
+| 175 | 1.2% | 98.8% |  |
+| 176 | 2% | 98% |  |
+| 177 | 3% | 96% |  |
+| 178 | 4% | 92% |  |
+| 179 | 6% | 88% |  |
+| 180 | 7% | 82% |  |
+| 181 | 9% | 75% |  |
+| 182 | 9% | 66% |  |
+| 183 | 10% | 57% | Median |
+| 184 | 9% | 47% |  |
+| 185 | 9% | 38% |  |
+| 186 | 8% | 29% |  |
+| 187 | 6% | 21% |  |
+| 188 | 5% | 15% | Last Result |
+| 189 | 4% | 10% |  |
+| 190 | 2% | 6% |  |
+| 191 | 2% | 4% |  |
+| 192 | 1.0% | 2% |  |
+| 193 | 0.5% | 1.1% |  |
+| 194 | 0.3% | 0.5% |  |
 | 195 | 0.1% | 0.2% |  |
-| 196 | 0% | 0.1% |  |
+| 196 | 0.1% | 0.1% |  |
 | 197 | 0% | 0% |  |
 
 
