@@ -31,7 +31,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 6 | 6 | 6 | 6 | 6 |
 | Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 4–5 | 4–6 |
-| Österreichische Volkspartei | AT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Österreichische Volkspartei | AT | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5 | 5 | 5 | 5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -64,7 +64,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0–1 | 0–2 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -85,26 +85,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 0.1% | 99.9% |  |
 | 172 | 0.2% | 99.8% |  |
 | 173 | 0.5% | 99.6% |  |
-| 174 | 0.9% | 99.1% |  |
+| 174 | 1.0% | 99.1% |  |
 | 175 | 2% | 98% |  |
-| 176 | 3% | 97% |  |
+| 176 | 3% | 96% |  |
 | 177 | 4% | 94% |  |
-| 178 | 6% | 90% |  |
-| 179 | 7% | 84% |  |
-| 180 | 9% | 77% |  |
-| 181 | 10% | 68% |  |
-| 182 | 11% | 57% | Median |
-| 183 | 11% | 47% |  |
-| 184 | 10% | 36% |  |
-| 185 | 8% | 27% |  |
-| 186 | 6% | 18% |  |
-| 187 | 5% | 12% |  |
-| 188 | 3% | 8% | Last Result |
+| 178 | 6% | 89% |  |
+| 179 | 8% | 83% |  |
+| 180 | 9% | 76% |  |
+| 181 | 10% | 66% |  |
+| 182 | 11% | 56% | Median |
+| 183 | 11% | 45% |  |
+| 184 | 9% | 35% |  |
+| 185 | 8% | 25% |  |
+| 186 | 6% | 17% |  |
+| 187 | 4% | 11% |  |
+| 188 | 3% | 7% | Last Result |
 | 189 | 2% | 4% |  |
-| 190 | 1.2% | 2% |  |
-| 191 | 0.6% | 1.2% |  |
-| 192 | 0.3% | 0.6% |  |
-| 193 | 0.2% | 0.3% |  |
+| 190 | 1.1% | 2% |  |
+| 191 | 0.6% | 1.1% |  |
+| 192 | 0.3% | 0.5% |  |
+| 193 | 0.1% | 0.2% |  |
 | 194 | 0.1% | 0.1% |  |
 | 195 | 0% | 0% |  |
 

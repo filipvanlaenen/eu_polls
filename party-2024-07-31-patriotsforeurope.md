@@ -32,6 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Motoristé sobě | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -49,12 +50,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.6% | 99.8% |  |
 | 86 | 2% | 99.2% |  |
 | 87 | 4% | 97% |  |
-| 88 | 8% | 93% |  |
+| 88 | 9% | 93% |  |
 | 89 | 13% | 84% |  |
 | 90 | 17% | 71% |  |
 | 91 | 18% | 54% | Median |
 | 92 | 15% | 37% |  |
-| 93 | 11% | 22% |  |
+| 93 | 11% | 21% |  |
 | 94 | 6% | 11% |  |
 | 95 | 3% | 4% |  |
 | 96 | 1.1% | 1.5% |  |

@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **43** seats (-10 seats)
+Current median: **42** seats (-11 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 43 | 39–47 | 39–48 | 38–49 | 37–50 |
-| Bündnis 90/Die Grünen | DE | | 12 | 10–13 | 10–13 | 10–13 | 9–15 |
+| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 39–47 | 38–48 | 37–50 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–13 | 9–15 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–5 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistisk Folkeparti | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–5 |
-| Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Volt Europa | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
@@ -45,7 +45,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,28 +61,28 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 36 | 0.3% | 100% |  |
+| 36 | 0.2% | 100% |  |
 | 37 | 1.1% | 99.7% |  |
 | 38 | 3% | 98.6% |  |
-| 39 | 6% | 96% |  |
-| 40 | 10% | 89% |  |
-| 41 | 13% | 80% |  |
-| 42 | 14% | 67% |  |
-| 43 | 14% | 53% | Median |
-| 44 | 12% | 39% |  |
-| 45 | 9% | 28% |  |
-| 46 | 7% | 18% |  |
-| 47 | 5% | 11% |  |
-| 48 | 3% | 6% |  |
-| 49 | 2% | 3% |  |
-| 50 | 0.8% | 1.1% |  |
-| 51 | 0.3% | 0.4% |  |
+| 39 | 8% | 95% |  |
+| 40 | 12% | 88% |  |
+| 41 | 14% | 76% |  |
+| 42 | 14% | 61% | Median |
+| 43 | 13% | 47% |  |
+| 44 | 11% | 35% |  |
+| 45 | 9% | 24% |  |
+| 46 | 6% | 15% |  |
+| 47 | 4% | 9% |  |
+| 48 | 2% | 5% |  |
+| 49 | 1.3% | 2% |  |
+| 50 | 0.6% | 0.9% |  |
+| 51 | 0.2% | 0.3% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% | Last Result |
 
