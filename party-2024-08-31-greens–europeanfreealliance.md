@@ -26,7 +26,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–5 |
 | Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -49,7 +49,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -69,21 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
 | 36 | 0.4% | 99.9% |  |
-| 37 | 1.5% | 99.5% |  |
+| 37 | 1.4% | 99.5% |  |
 | 38 | 4% | 98% |  |
 | 39 | 7% | 94% |  |
-| 40 | 10% | 87% |  |
-| 41 | 12% | 77% |  |
+| 40 | 10% | 88% |  |
+| 41 | 13% | 78% |  |
 | 42 | 14% | 65% |  |
-| 43 | 13% | 52% | Median |
+| 43 | 13% | 51% | Median |
 | 44 | 12% | 38% |  |
-| 45 | 9% | 27% |  |
-| 46 | 7% | 18% |  |
+| 45 | 9% | 26% |  |
+| 46 | 7% | 17% |  |
 | 47 | 5% | 11% |  |
 | 48 | 3% | 6% |  |
 | 49 | 2% | 3% |  |
-| 50 | 0.8% | 1.1% |  |
-| 51 | 0.3% | 0.4% |  |
+| 50 | 0.7% | 1.0% |  |
+| 51 | 0.2% | 0.3% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% | Last Result |
 
