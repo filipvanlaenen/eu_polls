@@ -18,12 +18,12 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 32 | 29–35 | 28–35 | 28–36 | 26–37 |
-| Bündnis Sahra Wagenknecht | DE | | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
+| Non-Inscrits | EU | 32 | 32 | 29–34 | 29–35 | 28–36 | 27–37 |
+| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 2–3 | 0–3 | 0–3 | 0–3 |
-| Ruch Narodowy | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Ruch Narodowy | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Se Acabó La Fiesta | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,31 +41,30 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Strana svobodných občanů | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.9% |  |
-| 27 | 1.4% | 99.5% |  |
-| 28 | 4% | 98% |  |
-| 29 | 8% | 94% |  |
-| 30 | 13% | 86% |  |
-| 31 | 17% | 73% |  |
-| 32 | 18% | 56% | Last Result, Median |
-| 33 | 16% | 38% |  |
-| 34 | 11% | 22% |  |
-| 35 | 7% | 11% |  |
-| 36 | 3% | 4% |  |
-| 37 | 1.1% | 1.4% |  |
-| 38 | 0.3% | 0.3% |  |
-| 39 | 0% | 0.1% |  |
-| 40 | 0% | 0% |  |
+| 26 | 0.3% | 99.9% |  |
+| 27 | 1.2% | 99.6% |  |
+| 28 | 3% | 98% |  |
+| 29 | 7% | 95% |  |
+| 30 | 13% | 88% |  |
+| 31 | 18% | 75% |  |
+| 32 | 20% | 57% | Last Result, Median |
+| 33 | 17% | 37% |  |
+| 34 | 11% | 21% |  |
+| 35 | 6% | 9% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.7% | 0.9% |  |
+| 38 | 0.2% | 0.2% |  |
+| 39 | 0% | 0% |  |
 
 
