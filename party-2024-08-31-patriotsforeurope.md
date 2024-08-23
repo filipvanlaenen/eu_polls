@@ -18,20 +18,21 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 91 | 88–94 | 87–94 | 86–95 | 85–97 |
+| Patriots for Europe | EU | 84 | 91 | 88–94 | 88–95 | 87–96 | 85–97 |
 | Rassemblement national | FR | | 30 | 30 | 30 | 30 | 30 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
+| ANO 2011 | CZ | | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Partij voor de Vrijheid | NL | | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
-| ANO 2011 | CZ | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Vox | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3 | 3 | 3 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Motoristé sobě | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -45,21 +46,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0.2% | 100% | Last Result |
-| 85 | 0.6% | 99.8% |  |
-| 86 | 2% | 99.1% |  |
-| 87 | 4% | 97% |  |
-| 88 | 8% | 93% |  |
-| 89 | 13% | 84% |  |
-| 90 | 17% | 71% |  |
-| 91 | 17% | 55% | Median |
-| 92 | 15% | 37% |  |
-| 93 | 11% | 22% |  |
-| 94 | 6% | 11% |  |
-| 95 | 3% | 5% |  |
-| 96 | 1.2% | 2% |  |
-| 97 | 0.4% | 0.5% |  |
-| 98 | 0.1% | 0.1% |  |
+| 84 | 0.1% | 100% | Last Result |
+| 85 | 0.4% | 99.9% |  |
+| 86 | 1.3% | 99.5% |  |
+| 87 | 3% | 98% |  |
+| 88 | 7% | 95% |  |
+| 89 | 11% | 88% |  |
+| 90 | 15% | 77% |  |
+| 91 | 18% | 62% | Median |
+| 92 | 17% | 44% |  |
+| 93 | 13% | 28% |  |
+| 94 | 8% | 15% |  |
+| 95 | 4% | 7% |  |
+| 96 | 2% | 3% |  |
+| 97 | 0.6% | 0.8% |  |
+| 98 | 0.2% | 0.2% |  |
 | 99 | 0% | 0% |  |
 
 
