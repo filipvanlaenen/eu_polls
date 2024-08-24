@@ -34,7 +34,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
-| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,20 +80,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0.1% | 100% |  |
 | 65 | 0.2% | 99.9% |  |
 | 66 | 0.9% | 99.7% |  |
-| 67 | 2% | 98.8% |  |
+| 67 | 3% | 98.8% |  |
 | 68 | 6% | 96% |  |
 | 69 | 10% | 91% |  |
-| 70 | 15% | 81% |  |
+| 70 | 15% | 80% |  |
 | 71 | 17% | 66% | Median |
 | 72 | 17% | 48% |  |
-| 73 | 13% | 32% |  |
+| 73 | 13% | 31% |  |
 | 74 | 9% | 18% |  |
 | 75 | 5% | 10% |  |
 | 76 | 3% | 5% |  |
 | 77 | 1.3% | 2% | Last Result |
-| 78 | 0.6% | 1.1% |  |
+| 78 | 0.6% | 1.0% |  |
 | 79 | 0.3% | 0.4% |  |
-| 80 | 0.1% | 0.2% |  |
+| 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
 
 

@@ -10,15 +10,15 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **32** seats (0 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> CY, CZ, DE, ES, GR, LV, PL, RO, SK
+> CY, DE, ES, GR, LV, PL, RO, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 32 | 29–35 | 28–35 | 28–36 | 26–37 |
+| Non-Inscrits | EU | 32 | 32 | 29–35 | 28–35 | 27–36 | 26–37 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -28,7 +28,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Komunistická strana Čech a Moravy | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Lewica Razem | PL | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,11 +36,12 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Φειδίας Παναγιώτου | CY | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Strana svobodných občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -52,18 +52,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.5% | 99.9% |  |
-| 27 | 2% | 99.4% |  |
-| 28 | 4% | 98% |  |
-| 29 | 8% | 93% |  |
-| 30 | 13% | 85% |  |
-| 31 | 17% | 72% |  |
-| 32 | 17% | 55% | Last Result, Median |
-| 33 | 15% | 38% |  |
-| 34 | 11% | 23% |  |
-| 35 | 7% | 12% |  |
-| 36 | 3% | 5% |  |
-| 37 | 1.2% | 2% |  |
+| 26 | 0.6% | 99.8% |  |
+| 27 | 2% | 99.2% |  |
+| 28 | 5% | 97% |  |
+| 29 | 9% | 93% |  |
+| 30 | 14% | 83% |  |
+| 31 | 17% | 70% |  |
+| 32 | 17% | 53% | Last Result, Median |
+| 33 | 15% | 36% |  |
+| 34 | 11% | 21% |  |
+| 35 | 6% | 10% |  |
+| 36 | 3% | 4% |  |
+| 37 | 1.0% | 1.4% |  |
 | 38 | 0.3% | 0.4% |  |
 | 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |

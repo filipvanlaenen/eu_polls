@@ -18,11 +18,11 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 91 | 88–94 | 87–95 | 87–95 | 85–97 |
+| Patriots for Europe | EU | 84 | 91 | 89–94 | 88–95 | 87–96 | 86–97 |
 | Rassemblement national | FR | | 30 | 30 | 30 | 30 | 30 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
+| ANO 2011 | CZ | | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | Partij voor de Vrijheid | NL | | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
-| ANO 2011 | CZ | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Vox | ES | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -47,20 +47,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% | Last Result |
-| 85 | 0.4% | 99.9% |  |
-| 86 | 1.3% | 99.5% |  |
-| 87 | 3% | 98% |  |
-| 88 | 7% | 95% |  |
-| 89 | 11% | 88% |  |
-| 90 | 16% | 77% |  |
-| 91 | 18% | 61% | Median |
-| 92 | 17% | 44% |  |
-| 93 | 13% | 27% |  |
-| 94 | 8% | 14% |  |
-| 95 | 4% | 6% |  |
-| 96 | 2% | 2% |  |
-| 97 | 0.5% | 0.7% |  |
-| 98 | 0.1% | 0.2% |  |
+| 85 | 0.3% | 99.9% |  |
+| 86 | 0.9% | 99.7% |  |
+| 87 | 2% | 98.7% |  |
+| 88 | 5% | 96% |  |
+| 89 | 10% | 91% |  |
+| 90 | 15% | 81% |  |
+| 91 | 18% | 66% | Median |
+| 92 | 18% | 48% |  |
+| 93 | 14% | 31% |  |
+| 94 | 9% | 17% |  |
+| 95 | 5% | 8% |  |
+| 96 | 2% | 3% |  |
+| 97 | 0.7% | 0.9% |  |
+| 98 | 0.2% | 0.2% |  |
 | 99 | 0% | 0% |  |
 
 
