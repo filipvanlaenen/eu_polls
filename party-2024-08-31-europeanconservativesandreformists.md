@@ -1,14 +1,14 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> BE, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (0 seats)
+Current median: **79** seats (+1 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 78 | 75–82 | 74–83 | 74–83 | 72–85 |
+| European Conservatives and Reformists | EU | 78 | 79 | 76–82 | 75–83 | 74–84 | 73–85 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 17 | 16–18 | 15–19 | 15–19 | 14–19 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -44,6 +44,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -54,22 +55,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
-| 72 | 0.5% | 99.8% |  |
-| 73 | 1.4% | 99.3% |  |
+| 72 | 0.3% | 99.9% |  |
+| 73 | 1.0% | 99.5% |  |
 | 74 | 3% | 98% |  |
-| 75 | 6% | 95% |  |
-| 76 | 10% | 88% |  |
-| 77 | 14% | 78% |  |
-| 78 | 15% | 64% | Last Result, Median |
-| 79 | 15% | 49% |  |
-| 80 | 13% | 34% |  |
-| 81 | 9% | 21% |  |
-| 82 | 6% | 12% |  |
-| 83 | 3% | 6% |  |
-| 84 | 2% | 2% |  |
-| 85 | 0.6% | 0.8% |  |
-| 86 | 0.2% | 0.2% |  |
-| 87 | 0% | 0.1% |  |
+| 75 | 5% | 96% |  |
+| 76 | 9% | 91% |  |
+| 77 | 12% | 82% |  |
+| 78 | 15% | 70% | Last Result |
+| 79 | 15% | 55% | Median |
+| 80 | 14% | 40% |  |
+| 81 | 11% | 27% |  |
+| 82 | 7% | 16% |  |
+| 83 | 4% | 8% |  |
+| 84 | 2% | 4% |  |
+| 85 | 1.0% | 1.5% |  |
+| 86 | 0.4% | 0.5% |  |
+| 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
 
 
