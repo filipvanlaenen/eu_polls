@@ -18,7 +18,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 79 | 76–82 | 75–83 | 74–84 | 72–85 |
+| European Conservatives and Reformists | EU | 78 | 79 | 76–82 | 75–83 | 74–84 | 73–86 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -35,7 +35,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Mouvement conservateur | FR | | 1 | 1 | 1 | 1 | 1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 1 | 1 | 1 | 1 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -54,20 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
-| 72 | 0.4% | 99.9% |  |
+| 72 | 0.3% | 99.9% |  |
 | 73 | 1.0% | 99.5% |  |
-| 74 | 2% | 98% |  |
+| 74 | 2% | 98.5% |  |
 | 75 | 5% | 96% |  |
 | 76 | 8% | 91% |  |
 | 77 | 12% | 83% |  |
 | 78 | 14% | 71% | Last Result |
-| 79 | 15% | 56% | Median |
-| 80 | 14% | 41% |  |
-| 81 | 11% | 27% |  |
-| 82 | 8% | 16% |  |
+| 79 | 15% | 57% | Median |
+| 80 | 14% | 42% |  |
+| 81 | 11% | 28% |  |
+| 82 | 8% | 17% |  |
 | 83 | 5% | 9% |  |
 | 84 | 2% | 4% |  |
-| 85 | 1.0% | 2% |  |
+| 85 | 1.1% | 2% |  |
 | 86 | 0.4% | 0.5% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |

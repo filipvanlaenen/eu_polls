@@ -24,7 +24,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| REPUBLIKA | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Reconquête | FR | | 1 | 1 | 1 | 1 | 1 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -44,8 +44,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 10% | 95% | Last Result |
 | 26 | 17% | 85% |  |
 | 27 | 22% | 68% | Median |
-| 28 | 20% | 47% |  |
-| 29 | 14% | 27% |  |
+| 28 | 20% | 46% |  |
+| 29 | 14% | 26% |  |
 | 30 | 8% | 13% |  |
 | 31 | 4% | 5% |  |
 | 32 | 1.1% | 1.3% |  |

@@ -18,18 +18,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 38–48 | 38–48 | 36–50 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 9–13 | 9–15 |
+| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 38–47 | 38–48 | 37–50 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–13 | 9–15 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–5 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–5 |
-| Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Socialistisk Folkeparti | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 2–4 | 1–5 |
+| Volt Europa | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,11 +45,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -61,30 +61,29 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-greens–europeanfreealliance.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Greens–European Free Alliance.
+The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Greens–European Free Alliance.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.1% | 100% |  |
-| 36 | 0.5% | 99.9% |  |
-| 37 | 2% | 99.4% |  |
-| 38 | 4% | 98% |  |
-| 39 | 7% | 94% |  |
-| 40 | 10% | 87% |  |
-| 41 | 13% | 76% |  |
-| 42 | 14% | 63% | Median |
-| 43 | 13% | 49% |  |
-| 44 | 11% | 36% |  |
-| 45 | 9% | 25% |  |
-| 46 | 6% | 16% |  |
-| 47 | 5% | 10% |  |
-| 48 | 3% | 5% |  |
-| 49 | 1.4% | 2% |  |
-| 50 | 0.6% | 0.8% |  |
-| 51 | 0.2% | 0.2% |  |
-| 52 | 0% | 0.1% |  |
+| 36 | 0.2% | 100% |  |
+| 37 | 1.2% | 99.7% |  |
+| 38 | 4% | 98.5% |  |
+| 39 | 8% | 95% |  |
+| 40 | 13% | 87% |  |
+| 41 | 15% | 74% |  |
+| 42 | 14% | 60% | Median |
+| 43 | 12% | 45% |  |
+| 44 | 10% | 33% |  |
+| 45 | 8% | 23% |  |
+| 46 | 6% | 14% |  |
+| 47 | 4% | 8% |  |
+| 48 | 2% | 4% |  |
+| 49 | 1.1% | 2% |  |
+| 50 | 0.5% | 0.8% |  |
+| 51 | 0.2% | 0.3% |  |
+| 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% | Last Result |
 
 

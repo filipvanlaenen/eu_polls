@@ -18,12 +18,12 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 32 | 29–35 | 28–35 | 27–36 | 26–37 |
-| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
+| Non-Inscrits | EU | 32 | 32 | 29–34 | 28–35 | 28–36 | 27–37 |
+| Bündnis Sahra Wagenknecht | DE | | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | HLAS–sociálna demokracia | SK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 2–3 | 0–3 | 0–3 | 0–3 |
-| Ruch Narodowy | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Ruch Narodowy | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Se Acabó La Fiesta | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -36,36 +36,35 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Φειδίας Παναγιώτου | CY | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–2 |
+| Strana svobodných občanů | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-non-inscrits.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Non-Inscrits.
+The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Non-Inscrits.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.6% | 99.8% |  |
-| 27 | 2% | 99.2% |  |
-| 28 | 5% | 97% |  |
-| 29 | 9% | 93% |  |
-| 30 | 14% | 83% |  |
-| 31 | 17% | 70% |  |
-| 32 | 17% | 53% | Last Result, Median |
-| 33 | 15% | 36% |  |
-| 34 | 11% | 21% |  |
-| 35 | 6% | 10% |  |
-| 36 | 3% | 4% |  |
-| 37 | 1.0% | 1.4% |  |
-| 38 | 0.3% | 0.4% |  |
-| 39 | 0.1% | 0.1% |  |
-| 40 | 0% | 0% |  |
+| 26 | 0.4% | 99.9% |  |
+| 27 | 1.3% | 99.5% |  |
+| 28 | 4% | 98% |  |
+| 29 | 8% | 95% |  |
+| 30 | 13% | 87% |  |
+| 31 | 18% | 73% |  |
+| 32 | 20% | 55% | Last Result, Median |
+| 33 | 16% | 36% |  |
+| 34 | 11% | 19% |  |
+| 35 | 5% | 8% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.6% | 0.8% |  |
+| 38 | 0.1% | 0.2% |  |
+| 39 | 0% | 0% |  |
 
 
