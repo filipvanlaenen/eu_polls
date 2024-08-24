@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> CY, CZ, DE, ES, FI, GR, HU, LT, LV, PL, RO, SI, SK
+> CY, CZ, DE, ES, FI, GR, HR, HU, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -40,6 +40,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0–1 | 0–1 | 0–2 |
 
