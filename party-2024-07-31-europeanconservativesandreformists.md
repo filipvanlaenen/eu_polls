@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BE, CY, CZ, DK, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 78 | 75–81 | 74–82 | 73–83 | 72–85 |
+| European Conservatives and Reformists | EU | 78 | 78 | 75–82 | 74–82 | 73–83 | 72–85 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–19 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -43,6 +43,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -54,21 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
 | 71 | 0.3% | 99.9% |  |
-| 72 | 0.9% | 99.6% |  |
-| 73 | 2% | 98.6% |  |
-| 74 | 5% | 96% |  |
+| 72 | 0.8% | 99.6% |  |
+| 73 | 2% | 98.8% |  |
+| 74 | 4% | 97% |  |
 | 75 | 8% | 92% |  |
-| 76 | 12% | 84% |  |
-| 77 | 14% | 72% |  |
-| 78 | 15% | 58% | Last Result, Median |
-| 79 | 14% | 43% |  |
-| 80 | 11% | 28% |  |
-| 81 | 8% | 17% |  |
-| 82 | 5% | 9% |  |
-| 83 | 3% | 4% |  |
-| 84 | 1.1% | 2% |  |
-| 85 | 0.4% | 0.6% |  |
-| 86 | 0.1% | 0.1% |  |
+| 76 | 11% | 85% |  |
+| 77 | 14% | 74% |  |
+| 78 | 15% | 60% | Last Result, Median |
+| 79 | 14% | 45% |  |
+| 80 | 12% | 30% |  |
+| 81 | 8% | 19% |  |
+| 82 | 5% | 10% |  |
+| 83 | 3% | 5% |  |
+| 84 | 1.3% | 2% |  |
+| 85 | 0.5% | 0.7% |  |
+| 86 | 0.2% | 0.2% |  |
 | 87 | 0% | 0% |  |
 
 

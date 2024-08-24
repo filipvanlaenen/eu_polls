@@ -1,38 +1,40 @@
 # Renew Europe
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, CY, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **66** seats (-11 seats)
+Current median: **72** seats (-5 seats)
 
-At least one member in **18 countries** have a median of 1 seat or more:
+At least one member in **19 countries** have a median of 1 seat or more:
 
-> AT, BE, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 66 | 64–69 | 63–70 | 62–71 | 61–73 |
+| Renew Europe | EU | 77 | 72 | 69–75 | 68–76 | 67–77 | 66–79 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
-| Freie Demokratische Partei | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| Freie Demokratische Partei | DE | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 3 | 3 | 3 | 3 | 3 |
-| Polska 2050 | PL | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 1–2 |
-| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2 |
+| Движение за права и свободи | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -51,7 +53,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -64,35 +66,35 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0–2 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2024-08-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2024-07-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2024-08-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2024-07-31.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.2% | 99.9% |  |
-| 61 | 0.9% | 99.7% |  |
-| 62 | 3% | 98.8% |  |
-| 63 | 6% | 96% |  |
-| 64 | 11% | 90% |  |
-| 65 | 16% | 79% |  |
-| 66 | 18% | 64% | Median |
-| 67 | 17% | 46% |  |
-| 68 | 13% | 29% |  |
-| 69 | 8% | 17% |  |
-| 70 | 4% | 9% |  |
-| 71 | 2% | 4% |  |
-| 72 | 1.1% | 2% |  |
-| 73 | 0.5% | 0.9% |  |
-| 74 | 0.2% | 0.4% |  |
-| 75 | 0.1% | 0.1% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% | Last Result |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.3% | 99.9% |  |
+| 66 | 0.9% | 99.7% |  |
+| 67 | 2% | 98.8% |  |
+| 68 | 5% | 96% |  |
+| 69 | 9% | 91% |  |
+| 70 | 13% | 82% |  |
+| 71 | 16% | 69% |  |
+| 72 | 16% | 53% | Median |
+| 73 | 14% | 37% |  |
+| 74 | 10% | 24% |  |
+| 75 | 6% | 14% |  |
+| 76 | 4% | 7% |  |
+| 77 | 2% | 4% | Last Result |
+| 78 | 1.0% | 2% |  |
+| 79 | 0.5% | 0.8% |  |
+| 80 | 0.2% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 

@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> AT, BE, CY, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, SI
+> AT, BE, BG, CY, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, SI
 
 ## Seats
 
@@ -45,6 +45,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
+| Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

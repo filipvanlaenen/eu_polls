@@ -1,24 +1,24 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **25 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **138** seats (+2 seats)
+Current median: **139** seats (+3 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 138 | 134–142 | 133–143 | 132–145 | 130–147 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 139 | 135–143 | 134–145 | 133–146 | 131–148 |
 | Partido Socialista Obrero Español | ES | | 21 | 19–23 | 19–23 | 19–24 | 18–24 |
 | Partito Democratico | IT | | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 12–16 | 12–17 | 11–18 |
@@ -43,6 +43,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
+| Българска социалистическа партия | BG | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Labour Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Lietuvos regionų partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -61,28 +62,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0.1% | 100% |  |
-| 129 | 0.2% | 99.9% |  |
-| 130 | 0.6% | 99.6% |  |
-| 131 | 1.2% | 99.1% |  |
-| 132 | 2% | 98% |  |
-| 133 | 4% | 96% |  |
-| 134 | 6% | 92% |  |
-| 135 | 8% | 86% |  |
-| 136 | 10% | 78% | Last Result |
-| 137 | 12% | 68% |  |
-| 138 | 12% | 56% | Median |
-| 139 | 12% | 44% |  |
-| 140 | 10% | 32% |  |
-| 141 | 8% | 22% |  |
-| 142 | 6% | 14% |  |
-| 143 | 4% | 9% |  |
-| 144 | 2% | 5% |  |
-| 145 | 1.3% | 3% |  |
-| 146 | 0.7% | 1.2% |  |
-| 147 | 0.3% | 0.5% |  |
-| 148 | 0.1% | 0.2% |  |
-| 149 | 0.1% | 0.1% |  |
-| 150 | 0% | 0% |  |
+| 129 | 0.1% | 100% |  |
+| 130 | 0.2% | 99.9% |  |
+| 131 | 0.5% | 99.6% |  |
+| 132 | 1.1% | 99.1% |  |
+| 133 | 2% | 98% |  |
+| 134 | 4% | 96% |  |
+| 135 | 6% | 92% |  |
+| 136 | 8% | 87% | Last Result |
+| 137 | 10% | 79% |  |
+| 138 | 11% | 69% |  |
+| 139 | 12% | 58% | Median |
+| 140 | 12% | 46% |  |
+| 141 | 10% | 34% |  |
+| 142 | 8% | 24% |  |
+| 143 | 6% | 16% |  |
+| 144 | 4% | 10% |  |
+| 145 | 3% | 6% |  |
+| 146 | 1.5% | 3% |  |
+| 147 | 0.8% | 1.4% |  |
+| 148 | 0.4% | 0.7% |  |
+| 149 | 0.2% | 0.3% |  |
+| 150 | 0.1% | 0.1% |  |
+| 151 | 0% | 0% |  |
 
 
