@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 38–47 | 38–48 | 37–50 |
+| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 39–47 | 38–48 | 37–50 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–13 | 9–15 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–5 |
@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Možemo! | HR | | 1 | 1 | 1 | 1 | 1–2 |
+| Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -68,20 +68,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 36 | 0.2% | 100% |  |
-| 37 | 1.2% | 99.7% |  |
-| 38 | 4% | 98.5% |  |
-| 39 | 8% | 95% |  |
-| 40 | 13% | 87% |  |
-| 41 | 15% | 74% |  |
-| 42 | 14% | 60% | Median |
-| 43 | 12% | 45% |  |
-| 44 | 10% | 33% |  |
-| 45 | 8% | 23% |  |
-| 46 | 6% | 14% |  |
-| 47 | 4% | 8% |  |
-| 48 | 2% | 4% |  |
-| 49 | 1.1% | 2% |  |
-| 50 | 0.5% | 0.8% |  |
+| 37 | 1.0% | 99.8% |  |
+| 38 | 3% | 98.7% |  |
+| 39 | 7% | 95% |  |
+| 40 | 12% | 88% |  |
+| 41 | 14% | 76% |  |
+| 42 | 14% | 62% | Median |
+| 43 | 13% | 48% |  |
+| 44 | 11% | 35% |  |
+| 45 | 9% | 24% |  |
+| 46 | 7% | 16% |  |
+| 47 | 4% | 9% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.3% | 2% |  |
+| 50 | 0.6% | 0.9% |  |
 | 51 | 0.2% | 0.3% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% | Last Result |
