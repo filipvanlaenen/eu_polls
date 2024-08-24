@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 182 | 177–187 | 176–188 | 175–189 | 173–192 |
+| European People’s Party | EU | 188 | 182 | 178–187 | 176–188 | 175–189 | 173–192 |
+| Partido Popular | ES | | 24 | 21–25 | 20–25 | 20–25 | 20–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 22–25 | 21–26 | 20–26 | 20–27 |
-| Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–25 | 20–26 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Tisztelet és Szabadság | HU | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
@@ -64,12 +64,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0–1 | 0–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovensko–Za ľudí | SK | | 0 | 0 | 0 | 0 | 0–1 |
-| TOP 09 | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| TOP 09 | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -83,28 +83,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 170 | 0% | 100% |  |
 | 171 | 0.1% | 99.9% |  |
-| 172 | 0.2% | 99.8% |  |
-| 173 | 0.5% | 99.6% |  |
-| 174 | 1.0% | 99.1% |  |
-| 175 | 2% | 98% |  |
-| 176 | 3% | 96% |  |
-| 177 | 4% | 94% |  |
-| 178 | 6% | 89% |  |
-| 179 | 8% | 83% |  |
-| 180 | 9% | 76% |  |
-| 181 | 10% | 66% |  |
-| 182 | 11% | 56% | Median |
-| 183 | 11% | 45% |  |
-| 184 | 9% | 35% |  |
-| 185 | 8% | 25% |  |
-| 186 | 6% | 17% |  |
-| 187 | 4% | 11% |  |
-| 188 | 3% | 7% | Last Result |
-| 189 | 2% | 4% |  |
-| 190 | 1.1% | 2% |  |
-| 191 | 0.6% | 1.1% |  |
-| 192 | 0.3% | 0.5% |  |
-| 193 | 0.1% | 0.2% |  |
+| 172 | 0.2% | 99.9% |  |
+| 173 | 0.4% | 99.7% |  |
+| 174 | 0.8% | 99.2% |  |
+| 175 | 1.5% | 98% |  |
+| 176 | 2% | 97% |  |
+| 177 | 4% | 95% |  |
+| 178 | 5% | 91% |  |
+| 179 | 7% | 85% |  |
+| 180 | 9% | 78% |  |
+| 181 | 10% | 69% |  |
+| 182 | 11% | 59% | Median |
+| 183 | 11% | 48% |  |
+| 184 | 10% | 37% |  |
+| 185 | 8% | 28% |  |
+| 186 | 7% | 19% |  |
+| 187 | 5% | 13% |  |
+| 188 | 3% | 8% | Last Result |
+| 189 | 2% | 5% |  |
+| 190 | 1.2% | 2% |  |
+| 191 | 0.7% | 1.3% |  |
+| 192 | 0.3% | 0.6% |  |
+| 193 | 0.2% | 0.3% |  |
 | 194 | 0.1% | 0.1% |  |
 | 195 | 0% | 0% |  |
 
