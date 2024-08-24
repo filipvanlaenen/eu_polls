@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **183** seats (-5 seats)
+Current median: **184** seats (-4 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 183 | 178–189 | 177–190 | 176–191 | 173–193 |
+| European People’s Party | EU | 188 | 184 | 178–189 | 177–190 | 176–191 | 173–194 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 21–26 | 21–27 | 20–27 | 20–27 |
 | Partido Popular | ES | | 24 | 22–25 | 22–26 | 21–27 | 21–27 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
@@ -51,7 +51,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 1 | 1 | 1 | 1 | 1 |
@@ -65,7 +65,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0–1 |
-| Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovensko–Za ľudí | SK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -82,28 +82,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 171 | 0.1% | 100% |  |
-| 172 | 0.2% | 99.9% |  |
-| 173 | 0.3% | 99.7% |  |
-| 174 | 0.6% | 99.4% |  |
-| 175 | 1.1% | 98.8% |  |
+| 172 | 0.1% | 99.9% |  |
+| 173 | 0.3% | 99.8% |  |
+| 174 | 0.6% | 99.5% |  |
+| 175 | 1.0% | 98.9% |  |
 | 176 | 2% | 98% |  |
 | 177 | 3% | 96% |  |
-| 178 | 4% | 93% |  |
-| 179 | 5% | 89% |  |
-| 180 | 7% | 83% |  |
-| 181 | 8% | 77% |  |
-| 182 | 9% | 68% |  |
-| 183 | 10% | 59% | Median |
-| 184 | 10% | 50% |  |
-| 185 | 9% | 40% |  |
-| 186 | 8% | 31% |  |
-| 187 | 7% | 22% |  |
-| 188 | 5% | 16% | Last Result |
-| 189 | 4% | 10% |  |
-| 190 | 3% | 6% |  |
+| 178 | 4% | 94% |  |
+| 179 | 5% | 90% |  |
+| 180 | 7% | 84% |  |
+| 181 | 8% | 78% |  |
+| 182 | 9% | 70% |  |
+| 183 | 10% | 61% |  |
+| 184 | 10% | 51% | Median |
+| 185 | 9% | 41% |  |
+| 186 | 8% | 32% |  |
+| 187 | 7% | 24% |  |
+| 188 | 6% | 17% | Last Result |
+| 189 | 4% | 11% |  |
+| 190 | 3% | 7% |  |
 | 191 | 2% | 4% |  |
-| 192 | 1.0% | 2% |  |
-| 193 | 0.5% | 1.0% |  |
+| 192 | 1.1% | 2% |  |
+| 193 | 0.6% | 1.1% |  |
 | 194 | 0.3% | 0.5% |  |
 | 195 | 0.1% | 0.2% |  |
 | 196 | 0.1% | 0.1% |  |

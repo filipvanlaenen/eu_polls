@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 91 | 89–94 | 88–95 | 87–96 | 86–97 |
+| Patriots for Europe | EU | 84 | 91 | 88–94 | 88–95 | 87–95 | 86–97 |
 | Rassemblement national | FR | | 30 | 30 | 30 | 30 | 30 |
 | ANO 2011 | CZ | | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
@@ -36,7 +36,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -48,19 +48,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% | Last Result |
 | 85 | 0.3% | 99.9% |  |
-| 86 | 0.9% | 99.7% |  |
-| 87 | 2% | 98.7% |  |
-| 88 | 5% | 96% |  |
-| 89 | 10% | 91% |  |
-| 90 | 15% | 81% |  |
-| 91 | 18% | 66% | Median |
-| 92 | 18% | 48% |  |
-| 93 | 14% | 31% |  |
-| 94 | 9% | 17% |  |
-| 95 | 5% | 8% |  |
-| 96 | 2% | 3% |  |
-| 97 | 0.7% | 0.9% |  |
-| 98 | 0.2% | 0.2% |  |
+| 86 | 1.1% | 99.6% |  |
+| 87 | 3% | 98% |  |
+| 88 | 6% | 95% |  |
+| 89 | 11% | 89% |  |
+| 90 | 16% | 78% |  |
+| 91 | 18% | 62% | Median |
+| 92 | 17% | 44% |  |
+| 93 | 13% | 27% |  |
+| 94 | 8% | 14% |  |
+| 95 | 4% | 6% |  |
+| 96 | 1.4% | 2% |  |
+| 97 | 0.4% | 0.5% |  |
+| 98 | 0.1% | 0.1% |  |
 | 99 | 0% | 0% |  |
 
 
