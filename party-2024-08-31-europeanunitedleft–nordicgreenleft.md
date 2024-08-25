@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -62,21 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.3% | 99.9% |  |
+| 38 | 0.4% | 99.9% |  |
 | 39 | 1.2% | 99.6% |  |
 | 40 | 3% | 98% |  |
-| 41 | 6% | 95% |  |
-| 42 | 11% | 89% |  |
+| 41 | 7% | 95% |  |
+| 42 | 11% | 88% |  |
 | 43 | 15% | 78% |  |
 | 44 | 17% | 63% | Median |
 | 45 | 16% | 46% |  |
-| 46 | 13% | 30% | Last Result |
-| 47 | 9% | 17% |  |
+| 46 | 13% | 29% | Last Result |
+| 47 | 9% | 16% |  |
 | 48 | 5% | 8% |  |
 | 49 | 2% | 3% |  |
 | 50 | 0.7% | 0.9% |  |
 | 51 | 0.2% | 0.2% |  |
-| 52 | 0% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
 
 
