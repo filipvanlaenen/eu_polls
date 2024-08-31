@@ -18,13 +18,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 38–47 | 38–48 | 37–50 |
-| Bündnis 90/Die Grünen | DE | | 12 | 10–13 | 10–13 | 10–13 | 9–15 |
+| Greens–European Free Alliance | EU | 53 | 42 | 39–46 | 38–47 | 38–48 | 36–50 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–13 | 10–15 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–5 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,7 +39,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–2 |
@@ -68,17 +68,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 35 | 0.1% | 100% |  |
-| 36 | 0.4% | 99.9% |  |
-| 37 | 1.4% | 99.5% |  |
+| 36 | 0.5% | 99.9% |  |
+| 37 | 2% | 99.4% |  |
 | 38 | 4% | 98% |  |
-| 39 | 7% | 95% |  |
-| 40 | 11% | 88% |  |
-| 41 | 14% | 77% |  |
-| 42 | 15% | 63% | Median |
-| 43 | 14% | 49% |  |
-| 44 | 12% | 34% |  |
-| 45 | 9% | 23% |  |
-| 46 | 6% | 14% |  |
+| 39 | 8% | 93% |  |
+| 40 | 11% | 86% |  |
+| 41 | 14% | 75% |  |
+| 42 | 15% | 61% | Median |
+| 43 | 14% | 46% |  |
+| 44 | 11% | 32% |  |
+| 45 | 8% | 21% |  |
+| 46 | 6% | 13% |  |
 | 47 | 4% | 8% |  |
 | 48 | 2% | 4% |  |
 | 49 | 1.1% | 2% |  |
