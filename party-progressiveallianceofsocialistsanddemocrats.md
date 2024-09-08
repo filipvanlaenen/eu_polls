@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **139** seats (+3 seats)
+Current median: **138** seats (+2 seats)
 
 At least one member in **24 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 139 | 134–143 | 133–144 | 132–145 | 130–147 |
-| Partito Democratico | IT | | 21 | 19–23 | 18–24 | 18–24 | 17–24 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 138 | 134–143 | 133–144 | 132–145 | 131–147 |
 | Partido Socialista Obrero Español | ES | | 20 | 19–22 | 19–23 | 18–23 | 17–24 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
+| Partito Democratico | IT | | 20 | 19–23 | 18–24 | 18–24 | 17–24 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–16 | 12–16 | 12–18 |
 | Parti socialiste | FR | | 13 | 13 | 13 | 13 | 13 |
 | Partidul Social Democrat | RO | | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Sozialdemokratische Partei Österreichs | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Nowa Lewica | PL | | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Socialdemokraterne | DK | | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
+| Socialdemokraterne | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -49,7 +49,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Umanist Social Liberal | RO | | 0 | 0 | 0 | 0 | 0 |
-| Social Democrats | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Social Democrats | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -62,29 +62,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0.1% | 100% |  |
-| 129 | 0.2% | 99.9% |  |
-| 130 | 0.4% | 99.8% |  |
-| 131 | 0.8% | 99.4% |  |
-| 132 | 2% | 98.5% |  |
+| 128 | 0% | 100% |  |
+| 129 | 0.1% | 99.9% |  |
+| 130 | 0.3% | 99.8% |  |
+| 131 | 0.8% | 99.5% |  |
+| 132 | 2% | 98.7% |  |
 | 133 | 3% | 97% |  |
 | 134 | 5% | 94% |  |
 | 135 | 7% | 89% |  |
-| 136 | 9% | 82% | Last Result |
-| 137 | 11% | 73% |  |
-| 138 | 12% | 62% |  |
-| 139 | 12% | 50% | Median |
-| 140 | 11% | 38% |  |
-| 141 | 9% | 28% |  |
-| 142 | 7% | 19% |  |
-| 143 | 5% | 12% |  |
-| 144 | 3% | 7% |  |
-| 145 | 2% | 4% |  |
-| 146 | 1.0% | 2% |  |
-| 147 | 0.5% | 0.9% |  |
-| 148 | 0.2% | 0.4% |  |
+| 136 | 10% | 82% | Last Result |
+| 137 | 12% | 72% |  |
+| 138 | 12% | 61% | Median |
+| 139 | 12% | 49% |  |
+| 140 | 11% | 36% |  |
+| 141 | 9% | 26% |  |
+| 142 | 6% | 17% |  |
+| 143 | 4% | 11% |  |
+| 144 | 3% | 6% |  |
+| 145 | 2% | 3% |  |
+| 146 | 0.9% | 2% |  |
+| 147 | 0.4% | 0.8% |  |
+| 148 | 0.2% | 0.3% |  |
 | 149 | 0.1% | 0.1% |  |
-| 150 | 0% | 0.1% |  |
-| 151 | 0% | 0% |  |
+| 150 | 0% | 0% |  |
 
 
