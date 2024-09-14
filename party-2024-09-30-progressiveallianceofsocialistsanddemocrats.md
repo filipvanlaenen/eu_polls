@@ -18,10 +18,10 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 138 | 134–143 | 133–144 | 132–145 | 131–147 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 138 | 134–142 | 133–143 | 132–144 | 130–147 |
 | Partido Socialista Obrero Español | ES | | 20 | 19–22 | 19–23 | 18–23 | 17–24 |
 | Partito Democratico | IT | | 20 | 19–23 | 18–24 | 18–24 | 17–24 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–16 | 12–16 | 12–18 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–16 | 12–16 | 11–18 |
 | Parti socialiste | FR | | 13 | 13 | 13 | 13 | 13 |
 | Partidul Social Democrat | RO | | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
@@ -32,7 +32,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Nowa Lewica | PL | | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Socialdemokraterne | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Socialdemokraterne | DK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
@@ -41,7 +41,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Българска социалистическа партия | BG | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,7 +50,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Umanist Social Liberal | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0–1 |
+| Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -62,27 +62,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 128 | 0% | 100% |  |
-| 129 | 0.1% | 99.9% |  |
-| 130 | 0.3% | 99.8% |  |
-| 131 | 0.8% | 99.5% |  |
-| 132 | 2% | 98.7% |  |
-| 133 | 3% | 97% |  |
-| 134 | 5% | 94% |  |
-| 135 | 7% | 89% |  |
-| 136 | 10% | 82% | Last Result |
-| 137 | 12% | 72% |  |
-| 138 | 12% | 61% | Median |
-| 139 | 12% | 49% |  |
-| 140 | 11% | 36% |  |
-| 141 | 9% | 26% |  |
-| 142 | 6% | 17% |  |
-| 143 | 4% | 11% |  |
-| 144 | 3% | 6% |  |
-| 145 | 2% | 3% |  |
-| 146 | 0.9% | 2% |  |
-| 147 | 0.4% | 0.8% |  |
-| 148 | 0.2% | 0.3% |  |
+| 128 | 0.1% | 100% |  |
+| 129 | 0.2% | 99.9% |  |
+| 130 | 0.5% | 99.7% |  |
+| 131 | 1.1% | 99.2% |  |
+| 132 | 2% | 98% |  |
+| 133 | 4% | 96% |  |
+| 134 | 6% | 92% |  |
+| 135 | 8% | 86% |  |
+| 136 | 11% | 77% | Last Result |
+| 137 | 12% | 67% |  |
+| 138 | 12% | 55% | Median |
+| 139 | 11% | 42% |  |
+| 140 | 10% | 31% |  |
+| 141 | 8% | 21% |  |
+| 142 | 5% | 14% |  |
+| 143 | 4% | 8% |  |
+| 144 | 2% | 5% |  |
+| 145 | 1.2% | 2% |  |
+| 146 | 0.6% | 1.2% |  |
+| 147 | 0.3% | 0.5% |  |
+| 148 | 0.1% | 0.2% |  |
 | 149 | 0.1% | 0.1% |  |
 | 150 | 0% | 0% |  |
 

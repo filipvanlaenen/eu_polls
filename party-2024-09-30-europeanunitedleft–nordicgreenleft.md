@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **44** seats (-2 seats)
+Current median: **43** seats (-3 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 44 | 41–47 | 40–48 | 40–49 | 38–50 |
-| Movimento 5 Stelle | IT | | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
+| European United Left–Nordic Green Left | EU | 46 | 43 | 41–47 | 40–47 | 39–48 | 38–50 |
+| Movimento 5 Stelle | IT | | 10 | 8–11 | 8–11 | 8–12 | 7–13 |
 | La France insoumise | FR | | 9 | 9 | 9 | 9 | 9 |
-| Die Linke | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Die Linke | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–5 | 3–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Podemos | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,22 +61,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.5% | 99.9% |  |
-| 39 | 2% | 99.3% |  |
-| 40 | 4% | 98% |  |
-| 41 | 8% | 94% |  |
-| 42 | 12% | 86% |  |
-| 43 | 16% | 74% |  |
-| 44 | 17% | 58% | Median |
-| 45 | 15% | 41% |  |
-| 46 | 12% | 26% | Last Result |
-| 47 | 7% | 14% |  |
-| 48 | 4% | 7% |  |
-| 49 | 2% | 3% |  |
-| 50 | 0.7% | 1.0% |  |
-| 51 | 0.2% | 0.3% |  |
-| 52 | 0.1% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.3% | 99.9% |  |
+| 38 | 1.0% | 99.7% |  |
+| 39 | 3% | 98.7% |  |
+| 40 | 6% | 96% |  |
+| 41 | 10% | 90% |  |
+| 42 | 14% | 80% |  |
+| 43 | 16% | 66% | Median |
+| 44 | 16% | 50% |  |
+| 45 | 14% | 34% |  |
+| 46 | 10% | 20% | Last Result |
+| 47 | 6% | 10% |  |
+| 48 | 3% | 5% |  |
+| 49 | 1.2% | 2% |  |
+| 50 | 0.4% | 0.6% |  |
+| 51 | 0.1% | 0.2% |  |
+| 52 | 0% | 0% |  |
 
 
