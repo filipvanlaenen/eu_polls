@@ -26,7 +26,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Tisztelet és Szabadság | HU | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| Forza Italia | IT | | 7 | 6–8 | 6–9 | 5–10 | 5–11 |
+| Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Les Républicains | FR | | 6 | 6 | 6 | 6 | 6 |
 | Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 3–5 |
@@ -82,10 +82,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 172 | 0% | 100% |  |
+| 172 | 0.1% | 100% |  |
 | 173 | 0.1% | 99.9% |  |
 | 174 | 0.3% | 99.8% |  |
-| 175 | 0.5% | 99.5% |  |
+| 175 | 0.6% | 99.5% |  |
 | 176 | 1.0% | 99.0% |  |
 | 177 | 2% | 98% |  |
 | 178 | 3% | 96% |  |
@@ -95,17 +95,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 182 | 10% | 74% |  |
 | 183 | 11% | 64% |  |
 | 184 | 11% | 53% | Median |
-| 185 | 11% | 42% |  |
-| 186 | 9% | 31% |  |
-| 187 | 7% | 22% |  |
+| 185 | 10% | 42% |  |
+| 186 | 9% | 32% |  |
+| 187 | 7% | 23% |  |
 | 188 | 6% | 15% | Last Result |
-| 189 | 4% | 9% |  |
-| 190 | 2% | 5% |  |
-| 191 | 1.4% | 3% |  |
-| 192 | 0.8% | 1.5% |  |
-| 193 | 0.4% | 0.7% |  |
-| 194 | 0.2% | 0.3% |  |
+| 189 | 4% | 10% |  |
+| 190 | 3% | 6% |  |
+| 191 | 2% | 3% |  |
+| 192 | 0.8% | 2% |  |
+| 193 | 0.4% | 0.8% |  |
+| 194 | 0.2% | 0.4% |  |
 | 195 | 0.1% | 0.1% |  |
-| 196 | 0% | 0% |  |
+| 196 | 0% | 0.1% |  |
+| 197 | 0% | 0% |  |
 
 
