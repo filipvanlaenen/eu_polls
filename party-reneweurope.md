@@ -18,12 +18,12 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 70 | 67–74 | 67–75 | 66–76 | 65–78 |
+| Renew Europe | EU | 77 | 70 | 67–73 | 67–75 | 66–75 | 65–77 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 3 | 3 | 3 | 3 | 3 |
@@ -79,22 +79,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 63 | 0.1% | 100% |  |
 | 64 | 0.3% | 99.9% |  |
-| 65 | 1.0% | 99.7% |  |
-| 66 | 3% | 98.7% |  |
+| 65 | 1.0% | 99.6% |  |
+| 66 | 3% | 98.6% |  |
 | 67 | 6% | 96% |  |
-| 68 | 10% | 90% |  |
-| 69 | 15% | 79% |  |
-| 70 | 17% | 65% | Median |
-| 71 | 16% | 48% |  |
-| 72 | 13% | 32% |  |
-| 73 | 9% | 20% |  |
-| 74 | 5% | 11% |  |
-| 75 | 3% | 6% |  |
-| 76 | 2% | 3% |  |
-| 77 | 0.8% | 1.4% | Last Result |
-| 78 | 0.4% | 0.6% |  |
+| 68 | 11% | 89% |  |
+| 69 | 15% | 78% |  |
+| 70 | 17% | 63% | Median |
+| 71 | 16% | 46% |  |
+| 72 | 12% | 30% |  |
+| 73 | 8% | 18% |  |
+| 74 | 5% | 10% |  |
+| 75 | 3% | 5% |  |
+| 76 | 1.4% | 2% |  |
+| 77 | 0.7% | 1.1% | Last Result |
+| 78 | 0.3% | 0.5% |  |
 | 79 | 0.1% | 0.2% |  |
-| 80 | 0.1% | 0.1% |  |
+| 80 | 0% | 0.1% |  |
 | 81 | 0% | 0% |  |
 
 
