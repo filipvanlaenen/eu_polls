@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
+| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Bierpartei [AT] (*) | AT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Nemuno aušra [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -56,10 +56,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% | Last Result |
-| 2 | 33% | 99.0% |  |
-| 3 | 47% | 66% | Median |
-| 4 | 18% | 19% |  |
+| 1 | 1.1% | 100% | Last Result |
+| 2 | 36% | 98.9% |  |
+| 3 | 46% | 62% | Median |
+| 4 | 16% | 16% |  |
 | 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
