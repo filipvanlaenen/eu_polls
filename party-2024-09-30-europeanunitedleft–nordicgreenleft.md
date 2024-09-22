@@ -10,30 +10,31 @@ Last result: **46** seats (General Election of 26 May 2019)
 
 Current median: **44** seats (-2 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, PT, SE
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 44 | 41–47 | 40–48 | 39–48 | 38–50 |
+| European United Left–Nordic Green Left | EU | 46 | 44 | 41–48 | 40–49 | 40–50 | 38–51 |
 | Movimento 5 Stelle | IT | | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | La France insoumise | FR | | 9 | 9 | 9 | 9 | 9 |
-| Die Linke | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Die Linke | DE | | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–5 | 3–6 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Socialistische Partij | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -42,10 +43,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
-| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Wandel | AT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -62,21 +62,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.2% | 100% |  |
-| 38 | 0.8% | 99.8% |  |
-| 39 | 2% | 99.0% |  |
-| 40 | 5% | 97% |  |
-| 41 | 9% | 92% |  |
-| 42 | 13% | 83% |  |
-| 43 | 16% | 70% |  |
-| 44 | 17% | 54% | Median |
-| 45 | 14% | 37% |  |
-| 46 | 11% | 23% | Last Result |
-| 47 | 7% | 12% |  |
-| 48 | 3% | 6% |  |
-| 49 | 1.5% | 2% |  |
-| 50 | 0.6% | 0.8% |  |
-| 51 | 0.2% | 0.3% |  |
-| 52 | 0.1% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 38 | 0.6% | 99.8% |  |
+| 39 | 2% | 99.2% |  |
+| 40 | 3% | 98% |  |
+| 41 | 6% | 94% |  |
+| 42 | 10% | 88% |  |
+| 43 | 13% | 78% |  |
+| 44 | 15% | 64% | Median |
+| 45 | 15% | 49% |  |
+| 46 | 13% | 34% | Last Result |
+| 47 | 9% | 21% |  |
+| 48 | 6% | 12% |  |
+| 49 | 3% | 6% |  |
+| 50 | 2% | 3% |  |
+| 51 | 0.6% | 1.0% |  |
+| 52 | 0.2% | 0.3% |  |
+| 53 | 0.1% | 0.1% |  |
+| 54 | 0% | 0% |  |
 
 
