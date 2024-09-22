@@ -22,9 +22,9 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Fianna Fáil | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
-| Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mouvement Réformateur | BE-FRC | | 3 | 3 | 3 | 3 | 3 |
@@ -42,7 +42,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,8 +52,8 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0–2 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -77,24 +77,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0.1% | 100% |  |
+| 63 | 0% | 100% |  |
 | 64 | 0.2% | 99.9% |  |
-| 65 | 0.9% | 99.7% |  |
-| 66 | 2% | 98.8% |  |
-| 67 | 5% | 96% |  |
-| 68 | 9% | 91% |  |
-| 69 | 13% | 82% |  |
-| 70 | 16% | 68% |  |
-| 71 | 16% | 52% | Median |
-| 72 | 13% | 37% |  |
-| 73 | 10% | 23% |  |
-| 74 | 6% | 14% |  |
-| 75 | 4% | 8% |  |
-| 76 | 2% | 4% |  |
-| 77 | 1.0% | 2% | Last Result |
-| 78 | 0.5% | 0.9% |  |
-| 79 | 0.2% | 0.4% |  |
-| 80 | 0.1% | 0.1% |  |
-| 81 | 0% | 0% |  |
+| 65 | 0.7% | 99.7% |  |
+| 66 | 2% | 99.0% |  |
+| 67 | 4% | 97% |  |
+| 68 | 8% | 93% |  |
+| 69 | 12% | 84% |  |
+| 70 | 15% | 72% |  |
+| 71 | 16% | 57% | Median |
+| 72 | 14% | 41% |  |
+| 73 | 11% | 27% |  |
+| 74 | 7% | 16% |  |
+| 75 | 4% | 9% |  |
+| 76 | 2% | 5% |  |
+| 77 | 1.3% | 2% | Last Result |
+| 78 | 0.6% | 1.1% |  |
+| 79 | 0.3% | 0.5% |  |
+| 80 | 0.1% | 0.2% |  |
+| 81 | 0% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 
