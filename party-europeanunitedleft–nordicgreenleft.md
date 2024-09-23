@@ -18,14 +18,14 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 44 | 41–47 | 40–48 | 40–49 | 39–50 |
+| European United Left–Nordic Green Left | EU | 46 | 44 | 41–47 | 40–48 | 39–49 | 38–50 |
 | Movimento 5 Stelle | IT | | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | La France insoumise | FR | | 9 | 9 | 9 | 9 | 9 |
 | Die Linke | DE | | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2–3 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2 | 2 | 2 | 1–3 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,8 +37,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Νέα Αριστερά | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -52,6 +51,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Wandel | AT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
+| Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.4% | 99.9% |  |
-| 39 | 1.3% | 99.5% |  |
-| 40 | 3% | 98% |  |
-| 41 | 7% | 95% |  |
-| 42 | 11% | 88% |  |
-| 43 | 15% | 77% |  |
-| 44 | 17% | 62% | Median |
-| 45 | 16% | 45% |  |
-| 46 | 13% | 29% | Last Result |
-| 47 | 8% | 16% |  |
-| 48 | 5% | 8% |  |
-| 49 | 2% | 4% |  |
-| 50 | 0.9% | 1.4% |  |
-| 51 | 0.3% | 0.5% |  |
+| 37 | 0.2% | 100% |  |
+| 38 | 0.7% | 99.8% |  |
+| 39 | 2% | 99.1% |  |
+| 40 | 4% | 97% |  |
+| 41 | 8% | 93% |  |
+| 42 | 13% | 85% |  |
+| 43 | 16% | 72% |  |
+| 44 | 17% | 56% | Median |
+| 45 | 15% | 39% |  |
+| 46 | 11% | 25% | Last Result |
+| 47 | 7% | 14% |  |
+| 48 | 4% | 7% |  |
+| 49 | 2% | 3% |  |
+| 50 | 0.7% | 1.0% |  |
+| 51 | 0.2% | 0.3% |  |
 | 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 
