@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **71** seats (-6 seats)
+Current median: **72** seats (-5 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 68–75 | 67–76 | 67–77 | 65–79 |
+| Renew Europe | EU | 77 | 72 | 69–75 | 68–76 | 67–77 | 66–79 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -27,11 +27,12 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Mouvement Réformateur | BE-FRC | | 3 | 3 | 3 | 3 | 3 |
 | Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Движение за права и свободи | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Les Engagés | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -40,7 +41,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Les Engagés | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,23 +78,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0.1% | 100% |  |
-| 65 | 0.5% | 99.8% |  |
-| 66 | 1.4% | 99.4% |  |
-| 67 | 3% | 98% |  |
-| 68 | 7% | 95% |  |
-| 69 | 11% | 88% |  |
-| 70 | 15% | 77% |  |
-| 71 | 16% | 63% | Median |
-| 72 | 15% | 46% |  |
-| 73 | 12% | 31% |  |
-| 74 | 8% | 19% |  |
-| 75 | 5% | 11% |  |
-| 76 | 3% | 6% |  |
-| 77 | 2% | 3% | Last Result |
-| 78 | 0.8% | 1.4% |  |
-| 79 | 0.4% | 0.6% |  |
-| 80 | 0.2% | 0.3% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 65 | 0.3% | 99.9% |  |
+| 66 | 1.0% | 99.6% |  |
+| 67 | 3% | 98.6% |  |
+| 68 | 5% | 96% |  |
+| 69 | 9% | 91% |  |
+| 70 | 13% | 82% |  |
+| 71 | 16% | 69% |  |
+| 72 | 16% | 53% | Median |
+| 73 | 13% | 38% |  |
+| 74 | 10% | 24% |  |
+| 75 | 6% | 15% |  |
+| 76 | 4% | 8% |  |
+| 77 | 2% | 4% | Last Result |
+| 78 | 1.1% | 2% |  |
+| 79 | 0.5% | 1.0% |  |
+| 80 | 0.2% | 0.4% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 
