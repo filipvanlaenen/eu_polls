@@ -20,7 +20,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Patriots for Europe | EU | 84 | 92 | 89–95 | 88–96 | 87–97 | 86–98 |
 | Rassemblement national | FR | | 30 | 30 | 30 | 30 | 30 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Partij voor de Vrijheid | NL | | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | ANO 2011 | CZ | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
@@ -28,13 +28,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Chega | PT | | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Motoristé sobě | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| SME RODINA | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
@@ -48,17 +48,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% | Last Result |
 | 85 | 0.3% | 99.9% |  |
-| 86 | 1.0% | 99.6% |  |
-| 87 | 3% | 98.6% |  |
+| 86 | 0.9% | 99.6% |  |
+| 87 | 2% | 98.7% |  |
 | 88 | 5% | 96% |  |
 | 89 | 9% | 91% |  |
 | 90 | 13% | 82% |  |
-| 91 | 15% | 69% |  |
+| 91 | 15% | 70% |  |
 | 92 | 16% | 54% | Median |
 | 93 | 14% | 38% |  |
 | 94 | 11% | 24% |  |
 | 95 | 7% | 13% |  |
-| 96 | 4% | 6% |  |
+| 96 | 4% | 7% |  |
 | 97 | 2% | 3% |  |
 | 98 | 0.7% | 1.0% |  |
 | 99 | 0.2% | 0.3% |  |

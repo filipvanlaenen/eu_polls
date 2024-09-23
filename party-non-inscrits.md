@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> CY, CZ, DE, ES, FI, GR, HR, HU, LT, LV, PL, RO, SI, SK
+> CY, CZ, DE, ES, FI, GR, HU, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -18,9 +18,9 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 32 | 29–34 | 28–35 | 28–36 | 26–37 |
+| Non-Inscrits | EU | 32 | 32 | 29–35 | 29–36 | 28–36 | 27–37 |
 | Bündnis Sahra Wagenknecht | DE | | 8 | 6–10 | 5–10 | 5–10 | 5–11 |
-| SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 2–3 | 0–3 | 0–3 | 0–3 |
 | Ruch Narodowy | PL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -29,8 +29,8 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Lewica Razem | PL | | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lewica Razem | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Φειδίας Παναγιώτου | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +40,6 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -53,19 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.5% | 99.9% |  |
-| 27 | 2% | 99.4% |  |
-| 28 | 4% | 98% |  |
-| 29 | 9% | 93% |  |
-| 30 | 14% | 85% |  |
-| 31 | 17% | 71% |  |
-| 32 | 18% | 54% | Last Result, Median |
-| 33 | 15% | 36% |  |
-| 34 | 11% | 21% |  |
-| 35 | 6% | 10% |  |
-| 36 | 3% | 4% |  |
-| 37 | 0.9% | 1.3% |  |
-| 38 | 0.3% | 0.3% |  |
+| 26 | 0.3% | 99.9% |  |
+| 27 | 1.0% | 99.7% |  |
+| 28 | 3% | 98.7% |  |
+| 29 | 7% | 96% |  |
+| 30 | 12% | 89% |  |
+| 31 | 17% | 77% |  |
+| 32 | 19% | 60% | Last Result, Median |
+| 33 | 17% | 42% |  |
+| 34 | 12% | 25% |  |
+| 35 | 7% | 12% |  |
+| 36 | 3% | 5% |  |
+| 37 | 1.3% | 2% |  |
+| 38 | 0.4% | 0.5% |  |
 | 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
