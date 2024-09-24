@@ -18,30 +18,30 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 182 | 177–187 | 175–188 | 174–190 | 172–192 |
+| European People’s Party | EU | 188 | 182 | 177–187 | 176–188 | 175–190 | 172–192 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 23–26 | 22–27 | 22–28 | 21–29 |
 | Partido Popular | ES | | 24 | 20–25 | 20–25 | 19–26 | 19–26 |
-| Platforma Obywatelska | PL | | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–20 | 16–20 |
 | Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Les Républicains | FR | | 6 | 6 | 6 | 6 | 6 |
+| Österreichische Volkspartei | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Fine Gael | IE | | 5 | 5 | 5 | 5 | 5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Polskie Stronnictwo Ludowe | PL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Christen-Democratisch Appèl | NL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Starostové a nezávislí | CZ | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -60,7 +60,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -82,23 +82,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 169 | 0.1% | 100% |  |
+| 169 | 0% | 100% |  |
 | 170 | 0.1% | 99.9% |  |
-| 171 | 0.2% | 99.8% |  |
-| 172 | 0.5% | 99.5% |  |
-| 173 | 0.8% | 99.1% |  |
-| 174 | 1.4% | 98% |  |
-| 175 | 2% | 97% |  |
-| 176 | 3% | 95% |  |
-| 177 | 5% | 91% |  |
-| 178 | 6% | 87% |  |
-| 179 | 7% | 81% |  |
-| 180 | 9% | 74% |  |
-| 181 | 10% | 65% |  |
-| 182 | 10% | 55% | Median |
-| 183 | 10% | 45% |  |
-| 184 | 9% | 35% |  |
-| 185 | 8% | 26% |  |
+| 171 | 0.2% | 99.9% |  |
+| 172 | 0.4% | 99.7% |  |
+| 173 | 0.7% | 99.3% |  |
+| 174 | 1.2% | 98.7% |  |
+| 175 | 2% | 98% |  |
+| 176 | 3% | 96% |  |
+| 177 | 4% | 93% |  |
+| 178 | 6% | 89% |  |
+| 179 | 7% | 83% |  |
+| 180 | 9% | 76% |  |
+| 181 | 10% | 67% |  |
+| 182 | 10% | 57% | Median |
+| 183 | 10% | 47% |  |
+| 184 | 9% | 37% |  |
+| 185 | 8% | 27% |  |
 | 186 | 6% | 19% |  |
 | 187 | 5% | 13% |  |
 | 188 | 3% | 8% | Last Result |

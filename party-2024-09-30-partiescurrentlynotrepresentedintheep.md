@@ -8,21 +8,20 @@ Members registered from **20 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+2 seats)
+Current median: **2** seats (+1 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
-> AT, LT
+> LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
-| Bierpartei [AT] (*) | AT | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Nemuno aušra [LT] (*) | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
+| Bierpartei [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -56,11 +55,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% | Last Result |
-| 2 | 36% | 98.9% |  |
-| 3 | 46% | 63% | Median |
-| 4 | 16% | 17% |  |
-| 5 | 0.7% | 0.7% |  |
-| 6 | 0% | 0% |  |
+| 1 | 35% | 100% | Last Result |
+| 2 | 47% | 65% | Median |
+| 3 | 17% | 19% |  |
+| 4 | 1.2% | 1.2% |  |
+| 5 | 0% | 0% |  |
 
 
