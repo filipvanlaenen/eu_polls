@@ -30,7 +30,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Motoristé sobě | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -53,15 +53,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 5% | 97% |  |
 | 89 | 8% | 92% |  |
 | 90 | 12% | 84% |  |
-| 91 | 15% | 71% |  |
-| 92 | 16% | 56% | Median |
-| 93 | 14% | 40% |  |
-| 94 | 11% | 25% |  |
-| 95 | 7% | 14% |  |
+| 91 | 15% | 72% |  |
+| 92 | 16% | 57% | Median |
+| 93 | 15% | 41% |  |
+| 94 | 11% | 26% |  |
+| 95 | 7% | 15% |  |
 | 96 | 4% | 7% |  |
 | 97 | 2% | 3% |  |
-| 98 | 0.7% | 1.1% |  |
-| 99 | 0.2% | 0.3% |  |
+| 98 | 0.8% | 1.2% |  |
+| 99 | 0.3% | 0.4% |  |
 | 100 | 0.1% | 0.1% |  |
 | 101 | 0% | 0% |  |
 

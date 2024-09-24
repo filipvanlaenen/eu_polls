@@ -37,7 +37,6 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -51,6 +50,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Wandel | AT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -61,18 +61,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.2% | 100% |  |
-| 38 | 0.7% | 99.8% |  |
-| 39 | 2% | 99.1% |  |
-| 40 | 4% | 97% |  |
-| 41 | 8% | 93% |  |
-| 42 | 13% | 85% |  |
-| 43 | 16% | 72% |  |
-| 44 | 17% | 56% | Median |
-| 45 | 15% | 39% |  |
-| 46 | 11% | 25% | Last Result |
-| 47 | 7% | 14% |  |
-| 48 | 4% | 7% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0.2% | 99.9% |  |
+| 38 | 0.7% | 99.7% |  |
+| 39 | 2% | 99.0% |  |
+| 40 | 5% | 97% |  |
+| 41 | 9% | 92% |  |
+| 42 | 13% | 84% |  |
+| 43 | 16% | 71% |  |
+| 44 | 17% | 55% | Median |
+| 45 | 15% | 38% |  |
+| 46 | 11% | 24% | Last Result |
+| 47 | 7% | 13% |  |
+| 48 | 4% | 6% |  |
 | 49 | 2% | 3% |  |
 | 50 | 0.7% | 1.0% |  |
 | 51 | 0.2% | 0.3% |  |

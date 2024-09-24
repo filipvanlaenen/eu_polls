@@ -40,7 +40,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Labour Party | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -68,23 +68,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 131 | 0.6% | 99.6% |  |
 | 132 | 1.2% | 99.0% |  |
 | 133 | 2% | 98% |  |
-| 134 | 4% | 96% |  |
+| 134 | 4% | 95% |  |
 | 135 | 6% | 92% |  |
 | 136 | 8% | 86% | Last Result |
-| 137 | 10% | 79% |  |
-| 138 | 11% | 69% |  |
-| 139 | 12% | 58% | Median |
-| 140 | 11% | 46% |  |
-| 141 | 10% | 35% |  |
-| 142 | 8% | 25% |  |
-| 143 | 6% | 17% |  |
-| 144 | 4% | 11% |  |
+| 137 | 10% | 78% |  |
+| 138 | 11% | 68% |  |
+| 139 | 12% | 57% | Median |
+| 140 | 11% | 45% |  |
+| 141 | 10% | 34% |  |
+| 142 | 8% | 24% |  |
+| 143 | 6% | 16% |  |
+| 144 | 4% | 10% |  |
 | 145 | 3% | 6% |  |
 | 146 | 2% | 3% |  |
 | 147 | 0.9% | 2% |  |
-| 148 | 0.5% | 0.8% |  |
+| 148 | 0.4% | 0.8% |  |
 | 149 | 0.2% | 0.4% |  |
-| 150 | 0.1% | 0.2% |  |
+| 150 | 0.1% | 0.1% |  |
 | 151 | 0% | 0.1% |  |
 | 152 | 0% | 0% |  |
 
