@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 40 | 37–44 | 36–45 | 35–46 | 34–48 |
-| Bündnis 90/Die Grünen | DE | | 10 | 9–12 | 9–13 | 8–13 | 8–14 |
+| Greens–European Free Alliance | EU | 53 | 40 | 36–44 | 35–45 | 34–46 | 33–48 |
+| Bündnis 90/Die Grünen | DE | | 11 | 9–12 | 8–13 | 8–13 | 8–14 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3–4 | 3–5 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
-| Socialistisk Folkeparti | DK | | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Volt Europa | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +46,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -68,25 +68,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% |  |
-| 33 | 0.2% | 99.9% |  |
-| 34 | 0.8% | 99.7% |  |
-| 35 | 2% | 98.9% |  |
-| 36 | 4% | 97% |  |
-| 37 | 8% | 92% |  |
-| 38 | 11% | 85% |  |
-| 39 | 13% | 74% |  |
-| 40 | 13% | 61% | Median |
-| 41 | 12% | 48% |  |
-| 42 | 11% | 36% |  |
-| 43 | 9% | 26% |  |
-| 44 | 7% | 17% |  |
-| 45 | 5% | 10% |  |
-| 46 | 3% | 5% |  |
-| 47 | 1.3% | 2% |  |
-| 48 | 0.6% | 0.8% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0.1% | 0.1% |  |
+| 32 | 0.2% | 100% |  |
+| 33 | 0.7% | 99.8% |  |
+| 34 | 2% | 99.1% |  |
+| 35 | 3% | 97% |  |
+| 36 | 6% | 94% |  |
+| 37 | 9% | 88% |  |
+| 38 | 12% | 78% |  |
+| 39 | 13% | 66% |  |
+| 40 | 13% | 53% | Median |
+| 41 | 11% | 41% |  |
+| 42 | 9% | 30% |  |
+| 43 | 8% | 20% |  |
+| 44 | 6% | 12% |  |
+| 45 | 4% | 7% |  |
+| 46 | 2% | 3% |  |
+| 47 | 0.9% | 1.4% |  |
+| 48 | 0.4% | 0.5% |  |
+| 49 | 0.1% | 0.2% |  |
+| 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |

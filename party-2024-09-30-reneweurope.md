@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **71** seats (-6 seats)
+Current median: **72** seats (-5 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 68–75 | 67–76 | 67–77 | 65–79 |
+| Renew Europe | EU | 77 | 72 | 69–75 | 68–76 | 67–77 | 66–79 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Fianna Fáil | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 3–5 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Движение за права и свободи | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
@@ -36,16 +36,16 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -78,23 +78,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0.1% | 100% |  |
-| 65 | 0.4% | 99.8% |  |
-| 66 | 1.3% | 99.4% |  |
-| 67 | 3% | 98% |  |
-| 68 | 6% | 95% |  |
-| 69 | 10% | 89% |  |
-| 70 | 14% | 79% |  |
-| 71 | 16% | 65% | Median |
-| 72 | 15% | 49% |  |
-| 73 | 12% | 34% |  |
-| 74 | 9% | 22% |  |
-| 75 | 6% | 13% |  |
-| 76 | 3% | 7% |  |
-| 77 | 2% | 4% | Last Result |
-| 78 | 1.0% | 2% |  |
-| 79 | 0.5% | 0.8% |  |
-| 80 | 0.2% | 0.4% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 65 | 0.3% | 99.9% |  |
+| 66 | 0.9% | 99.6% |  |
+| 67 | 2% | 98.7% |  |
+| 68 | 5% | 96% |  |
+| 69 | 9% | 92% |  |
+| 70 | 12% | 83% |  |
+| 71 | 15% | 71% |  |
+| 72 | 16% | 55% | Median |
+| 73 | 14% | 40% |  |
+| 74 | 10% | 26% |  |
+| 75 | 7% | 16% |  |
+| 76 | 4% | 9% |  |
+| 77 | 2% | 5% | Last Result |
+| 78 | 1.2% | 2% |  |
+| 79 | 0.6% | 1.0% |  |
+| 80 | 0.3% | 0.4% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 
