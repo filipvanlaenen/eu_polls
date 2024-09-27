@@ -18,12 +18,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 183 | 178–188 | 176–190 | 175–191 | 173–194 |
+| European People’s Party | EU | 188 | 183 | 178–188 | 176–190 | 175–191 | 173–193 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 22–26 | 22–27 | 22–28 | 21–29 |
 | Partido Popular | ES | | 24 | 21–26 | 20–27 | 19–28 | 19–29 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
-| Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
@@ -90,26 +90,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 175 | 1.4% | 98% |  |
 | 176 | 2% | 97% |  |
 | 177 | 3% | 95% |  |
-| 178 | 4% | 92% |  |
+| 178 | 5% | 91% |  |
 | 179 | 6% | 87% |  |
-| 180 | 7% | 81% |  |
-| 181 | 9% | 74% |  |
-| 182 | 9% | 65% |  |
-| 183 | 10% | 56% | Median |
-| 184 | 10% | 46% |  |
-| 185 | 9% | 36% |  |
-| 186 | 8% | 28% |  |
-| 187 | 6% | 20% |  |
-| 188 | 5% | 14% | Last Result |
+| 180 | 8% | 81% |  |
+| 181 | 9% | 73% |  |
+| 182 | 10% | 64% |  |
+| 183 | 10% | 55% | Median |
+| 184 | 10% | 45% |  |
+| 185 | 9% | 35% |  |
+| 186 | 7% | 27% |  |
+| 187 | 6% | 19% |  |
+| 188 | 5% | 13% | Last Result |
 | 189 | 3% | 9% |  |
-| 190 | 2% | 6% |  |
-| 191 | 1.5% | 3% |  |
-| 192 | 0.9% | 2% |  |
-| 193 | 0.5% | 1.1% |  |
-| 194 | 0.3% | 0.6% |  |
-| 195 | 0.1% | 0.3% |  |
+| 190 | 2% | 5% |  |
+| 191 | 1.4% | 3% |  |
+| 192 | 0.8% | 2% |  |
+| 193 | 0.5% | 1.0% |  |
+| 194 | 0.3% | 0.5% |  |
+| 195 | 0.1% | 0.2% |  |
 | 196 | 0.1% | 0.1% |  |
-| 197 | 0% | 0.1% |  |
-| 198 | 0% | 0% |  |
+| 197 | 0% | 0% |  |
 
 
