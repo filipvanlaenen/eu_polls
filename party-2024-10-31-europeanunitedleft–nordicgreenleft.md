@@ -30,7 +30,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Lewica Razem | PL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
@@ -66,17 +66,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0.4% | 99.8% |  |
 | 39 | 1.2% | 99.4% |  |
 | 40 | 3% | 98% |  |
-| 41 | 5% | 95% |  |
+| 41 | 6% | 95% |  |
 | 42 | 9% | 90% |  |
-| 43 | 12% | 81% |  |
-| 44 | 15% | 69% |  |
-| 45 | 15% | 54% | Median |
-| 46 | 13% | 39% | Last Result |
+| 43 | 13% | 81% |  |
+| 44 | 15% | 68% |  |
+| 45 | 15% | 53% | Median |
+| 46 | 13% | 38% | Last Result |
 | 47 | 10% | 25% |  |
 | 48 | 7% | 15% |  |
 | 49 | 4% | 8% |  |
 | 50 | 2% | 4% |  |
-| 51 | 1.0% | 2% |  |
+| 51 | 0.9% | 2% |  |
 | 52 | 0.4% | 0.6% |  |
 | 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0.1% |  |

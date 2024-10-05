@@ -46,7 +46,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -76,7 +76,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 9% | 88% |  |
 | 38 | 12% | 78% |  |
 | 39 | 13% | 66% |  |
-| 40 | 13% | 53% | Median |
+| 40 | 12% | 53% | Median |
 | 41 | 11% | 40% |  |
 | 42 | 9% | 29% |  |
 | 43 | 8% | 20% |  |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 4% | 7% |  |
 | 46 | 2% | 3% |  |
 | 47 | 0.9% | 1.4% |  |
-| 48 | 0.4% | 0.5% |  |
+| 48 | 0.3% | 0.5% |  |
 | 49 | 0.1% | 0.2% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
