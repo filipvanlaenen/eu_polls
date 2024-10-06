@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ruch Narodowy | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Motoristé sobě | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -51,8 +51,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0.2% | 99.9% |  |
-| 88 | 0.7% | 99.8% |  |
-| 89 | 2% | 99.1% |  |
+| 88 | 0.7% | 99.7% |  |
+| 89 | 2% | 99.0% |  |
 | 90 | 4% | 97% |  |
 | 91 | 8% | 93% |  |
 | 92 | 12% | 85% |  |
@@ -60,10 +60,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 16% | 58% | Median |
 | 95 | 15% | 42% |  |
 | 96 | 12% | 27% |  |
-| 97 | 8% | 16% |  |
+| 97 | 8% | 15% |  |
 | 98 | 4% | 8% |  |
 | 99 | 2% | 3% |  |
-| 100 | 0.9% | 1.3% |  |
+| 100 | 0.8% | 1.2% |  |
 | 101 | 0.3% | 0.4% |  |
 | 102 | 0.1% | 0.1% |  |
 | 103 | 0% | 0% |  |
