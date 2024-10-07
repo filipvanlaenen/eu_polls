@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> CY, CZ, DE, ES, FI, GR, HU, LT, LV, PL, RO, SI, SK
+> CY, CZ, DE, DK, ES, FI, GR, HU, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -38,6 +38,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -49,19 +50,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.2% | 100% |  |
-| 22 | 0.6% | 99.8% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.5% | 99.8% |  |
 | 23 | 2% | 99.3% |  |
 | 24 | 4% | 98% |  |
 | 25 | 8% | 94% |  |
 | 26 | 13% | 86% |  |
-| 27 | 17% | 74% |  |
-| 28 | 19% | 56% | Median |
-| 29 | 17% | 37% |  |
-| 30 | 11% | 21% |  |
-| 31 | 6% | 9% |  |
+| 27 | 18% | 73% |  |
+| 28 | 20% | 55% | Median |
+| 29 | 16% | 35% |  |
+| 30 | 10% | 19% |  |
+| 31 | 5% | 8% |  |
 | 32 | 2% | 3% | Last Result |
-| 33 | 0.8% | 1.0% |  |
+| 33 | 0.7% | 0.9% |  |
 | 34 | 0.2% | 0.2% |  |
 | 35 | 0% | 0% |  |
 
