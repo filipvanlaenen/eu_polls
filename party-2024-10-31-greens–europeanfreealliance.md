@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 40 | 36–44 | 36–45 | 35–46 | 34–47 |
+| Greens–European Free Alliance | EU | 53 | 40 | 36–44 | 36–45 | 35–46 | 33–47 |
 | Bündnis 90/Die Grünen | DE | | 10 | 9–12 | 9–13 | 8–13 | 8–13 |
 | Europe Écologie Les Verts | FR | | 5 | 5 | 5 | 5 | 5 |
 | GroenLinks | NL | | 3 | 3 | 3 | 3–4 | 3–5 |
@@ -40,7 +40,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -74,14 +74,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 3% | 98% |  |
 | 36 | 6% | 95% |  |
 | 37 | 10% | 89% |  |
-| 38 | 13% | 79% |  |
-| 39 | 13% | 67% |  |
-| 40 | 13% | 53% | Median |
-| 41 | 11% | 41% |  |
-| 42 | 10% | 29% |  |
-| 43 | 8% | 20% |  |
-| 44 | 6% | 12% |  |
-| 45 | 3% | 7% |  |
+| 38 | 13% | 78% |  |
+| 39 | 14% | 65% |  |
+| 40 | 13% | 51% | Median |
+| 41 | 11% | 39% |  |
+| 42 | 9% | 28% |  |
+| 43 | 7% | 19% |  |
+| 44 | 5% | 11% |  |
+| 45 | 3% | 6% |  |
 | 46 | 2% | 3% |  |
 | 47 | 0.8% | 1.3% |  |
 | 48 | 0.3% | 0.5% |  |
