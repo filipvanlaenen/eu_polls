@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 1–4 | 1–4 | 1–5 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Bierpartei [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -31,7 +31,6 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| Libertà [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Liste Madeleine Petrovic [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -41,10 +40,11 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -56,11 +56,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 37% | 91% |  |
-| 3 | 40% | 54% | Median |
-| 4 | 13% | 13% |  |
-| 5 | 0.4% | 0.4% |  |
+| 1 | 5% | 100% | Last Result |
+| 2 | 35% | 95% |  |
+| 3 | 44% | 60% | Median |
+| 4 | 15% | 16% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 

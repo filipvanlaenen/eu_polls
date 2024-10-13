@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (0 seats)
+Current median: **45** seats (-1 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 46 | 42–49 | 41–50 | 41–51 | 39–52 |
-| Movimento 5 Stelle | IT | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
+| European United Left–Nordic Green Left | EU | 46 | 45 | 42–49 | 41–49 | 40–50 | 39–52 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 8–12 | 8–13 | 8–13 |
 | La France insoumise | FR | | 9 | 9 | 9 | 9 | 9 |
 | Die Linke | DE | | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -37,7 +37,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -47,11 +46,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Wandel | AT | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -64,22 +64,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
 | 38 | 0.2% | 99.9% |  |
-| 39 | 0.6% | 99.7% |  |
-| 40 | 1.5% | 99.1% |  |
-| 41 | 3% | 98% |  |
-| 42 | 6% | 95% |  |
-| 43 | 9% | 89% |  |
-| 44 | 13% | 80% |  |
-| 45 | 15% | 67% |  |
-| 46 | 15% | 52% | Last Result, Median |
-| 47 | 13% | 37% |  |
-| 48 | 10% | 24% |  |
-| 49 | 7% | 13% |  |
-| 50 | 4% | 7% |  |
-| 51 | 2% | 3% |  |
-| 52 | 0.8% | 1.2% |  |
-| 53 | 0.3% | 0.4% |  |
-| 54 | 0.1% | 0.1% |  |
+| 39 | 0.7% | 99.7% |  |
+| 40 | 2% | 99.0% |  |
+| 41 | 3% | 97% |  |
+| 42 | 6% | 94% |  |
+| 43 | 10% | 88% |  |
+| 44 | 13% | 78% |  |
+| 45 | 16% | 65% | Median |
+| 46 | 16% | 50% | Last Result |
+| 47 | 13% | 34% |  |
+| 48 | 10% | 21% |  |
+| 49 | 6% | 11% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.3% | 2% |  |
+| 52 | 0.5% | 0.7% |  |
+| 53 | 0.1% | 0.2% |  |
+| 54 | 0% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
 

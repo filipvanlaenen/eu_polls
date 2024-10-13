@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 92–98 | 91–99 | 90–100 | 89–101 |
+| Patriots for Europe | EU | 84 | 95 | 92–98 | 91–99 | 90–99 | 89–101 |
 | Rassemblement national | FR | | 30 | 30 | 30 | 30 | 30 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | Partij voor de Vrijheid | NL | | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
-| Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Φωνή Λογικής | GR | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Motoristé sobě | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -52,21 +52,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0.1% | 100% |  |
 | 88 | 0.3% | 99.9% |  |
-| 89 | 0.9% | 99.6% |  |
+| 89 | 1.0% | 99.6% |  |
 | 90 | 2% | 98.7% |  |
 | 91 | 5% | 96% |  |
-| 92 | 8% | 92% |  |
-| 93 | 12% | 83% |  |
-| 94 | 15% | 71% |  |
-| 95 | 16% | 55% | Median |
-| 96 | 14% | 39% |  |
-| 97 | 11% | 25% |  |
-| 98 | 7% | 14% |  |
-| 99 | 4% | 7% |  |
-| 100 | 2% | 3% |  |
-| 101 | 0.7% | 1.0% |  |
-| 102 | 0.2% | 0.3% |  |
-| 103 | 0.1% | 0.1% |  |
+| 92 | 9% | 91% |  |
+| 93 | 13% | 82% |  |
+| 94 | 16% | 69% |  |
+| 95 | 16% | 53% | Median |
+| 96 | 14% | 37% |  |
+| 97 | 10% | 23% |  |
+| 98 | 7% | 12% |  |
+| 99 | 3% | 6% |  |
+| 100 | 2% | 2% |  |
+| 101 | 0.6% | 0.8% |  |
+| 102 | 0.2% | 0.2% |  |
+| 103 | 0% | 0.1% |  |
 | 104 | 0% | 0% |  |
 
 
