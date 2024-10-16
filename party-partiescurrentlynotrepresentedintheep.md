@@ -20,7 +20,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 1–4 | 1–4 | 1–5 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bierpartei [AT] (*) | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -57,10 +57,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 5% | 100% | Last Result |
-| 2 | 35% | 95% |  |
-| 3 | 44% | 60% | Median |
-| 4 | 15% | 16% |  |
-| 5 | 0.6% | 0.6% |  |
+| 2 | 34% | 95% |  |
+| 3 | 43% | 60% | Median |
+| 4 | 16% | 18% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (0 seats)
+Current median: **45** seats (-1 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 46 | 42–49 | 41–50 | 41–51 | 39–52 |
+| European United Left–Nordic Green Left | EU | 46 | 45 | 42–49 | 41–50 | 40–51 | 39–52 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 8–12 | 8–13 | 7–14 |
 | La France insoumise | FR | | 9 | 9 | 9 | 9 | 9 |
-| Die Linke | DE | | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
+| Die Linke | DE | | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -63,22 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
-| 38 | 0.2% | 99.9% |  |
-| 39 | 0.6% | 99.7% |  |
-| 40 | 1.4% | 99.1% |  |
-| 41 | 3% | 98% |  |
-| 42 | 6% | 95% |  |
-| 43 | 9% | 89% |  |
-| 44 | 12% | 80% |  |
-| 45 | 15% | 68% |  |
-| 46 | 16% | 53% | Last Result, Median |
-| 47 | 14% | 38% |  |
-| 48 | 10% | 24% |  |
-| 49 | 7% | 13% |  |
-| 50 | 4% | 7% |  |
+| 38 | 0.3% | 99.9% |  |
+| 39 | 0.8% | 99.6% |  |
+| 40 | 2% | 98.8% |  |
+| 41 | 4% | 97% |  |
+| 42 | 6% | 93% |  |
+| 43 | 10% | 87% |  |
+| 44 | 13% | 77% |  |
+| 45 | 15% | 64% | Median |
+| 46 | 15% | 49% | Last Result |
+| 47 | 13% | 34% |  |
+| 48 | 10% | 21% |  |
+| 49 | 6% | 12% |  |
+| 50 | 3% | 6% |  |
 | 51 | 2% | 3% |  |
-| 52 | 0.7% | 1.1% |  |
-| 53 | 0.3% | 0.4% |  |
+| 52 | 0.6% | 1.0% |  |
+| 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
