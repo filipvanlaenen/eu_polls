@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 72 | 69–76 | 68–77 | 68–78 | 66–80 |
+| Renew Europe | EU | 77 | 72 | 68–75 | 68–76 | 67–77 | 65–79 |
 | La République en marche–Mouvement démocrate | FR | | 13 | 13 | 13 | 13 | 13 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -28,7 +28,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Движение за права и свободи | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Les Engagés | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -36,7 +35,8 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Алианс за права и свободи | BG | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -68,6 +68,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
+| Движение за права и свободи – Ново начало | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -77,25 +78,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0% | 100% |  |
-| 65 | 0.2% | 99.9% |  |
-| 66 | 0.6% | 99.7% |  |
-| 67 | 2% | 99.1% |  |
-| 68 | 4% | 98% |  |
-| 69 | 7% | 94% |  |
-| 70 | 11% | 87% |  |
-| 71 | 14% | 76% |  |
-| 72 | 16% | 62% | Median |
-| 73 | 15% | 46% |  |
-| 74 | 12% | 31% |  |
-| 75 | 8% | 19% |  |
-| 76 | 5% | 11% |  |
-| 77 | 3% | 6% | Last Result |
-| 78 | 2% | 3% |  |
-| 79 | 0.8% | 1.4% |  |
-| 80 | 0.4% | 0.6% |  |
-| 81 | 0.2% | 0.2% |  |
-| 82 | 0.1% | 0.1% |  |
-| 83 | 0% | 0% |  |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.4% | 99.8% |  |
+| 66 | 1.2% | 99.4% |  |
+| 67 | 3% | 98% |  |
+| 68 | 6% | 95% |  |
+| 69 | 10% | 89% |  |
+| 70 | 13% | 80% |  |
+| 71 | 16% | 66% |  |
+| 72 | 15% | 51% | Median |
+| 73 | 13% | 35% |  |
+| 74 | 9% | 22% |  |
+| 75 | 6% | 13% |  |
+| 76 | 3% | 7% |  |
+| 77 | 2% | 4% | Last Result |
+| 78 | 0.9% | 2% |  |
+| 79 | 0.4% | 0.8% |  |
+| 80 | 0.2% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 
