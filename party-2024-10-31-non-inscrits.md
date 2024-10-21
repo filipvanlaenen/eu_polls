@@ -18,15 +18,15 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 24–30 | 23–30 | 22–31 | 21–32 |
-| Bündnis Sahra Wagenknecht | DE | | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
-| SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Non-Inscrits | EU | 32 | 27 | 24–30 | 23–31 | 23–31 | 21–33 |
+| Bündnis Sahra Wagenknecht | DE | | 8 | 6–8 | 6–9 | 6–9 | 6–11 |
+| SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Se Acabó La Fiesta | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Junts per Catalunya | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -34,7 +34,8 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Φειδίας Παναγιώτου | CY | | 1 | 1 | 1 | 1 | 1 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
-| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Komunistická strana Čech a Moravy | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,17 +53,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 100% |  |
 | 21 | 0.6% | 99.8% |  |
 | 22 | 2% | 99.2% |  |
-| 23 | 4% | 97% |  |
-| 24 | 8% | 93% |  |
-| 25 | 12% | 86% |  |
-| 26 | 15% | 74% |  |
-| 27 | 17% | 59% | Median |
-| 28 | 17% | 41% |  |
-| 29 | 13% | 24% |  |
-| 30 | 7% | 11% |  |
-| 31 | 3% | 4% |  |
-| 32 | 0.9% | 1.2% | Last Result |
-| 33 | 0.2% | 0.3% |  |
-| 34 | 0% | 0% |  |
+| 23 | 4% | 98% |  |
+| 24 | 7% | 94% |  |
+| 25 | 11% | 87% |  |
+| 26 | 15% | 76% |  |
+| 27 | 17% | 61% | Median |
+| 28 | 17% | 44% |  |
+| 29 | 13% | 28% |  |
+| 30 | 8% | 14% |  |
+| 31 | 4% | 6% |  |
+| 32 | 1.5% | 2% | Last Result |
+| 33 | 0.5% | 0.6% |  |
+| 34 | 0.1% | 0.2% |  |
+| 35 | 0% | 0% |  |
 
 

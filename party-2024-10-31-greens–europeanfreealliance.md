@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (-19 seats)
+Current median: **33** seats (-20 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,26 +18,26 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 34 | 31–38 | 30–39 | 29–40 | 28–42 |
+| Greens–European Free Alliance | EU | 53 | 33 | 30–37 | 29–38 | 29–39 | 27–41 |
 | Bündnis 90/Die Grünen | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Česká pirátská strana | CZ | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Volt Europa | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Česká pirátská strana | CZ | | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 1 | 1 |
 | Die Grünen–Die Grüne Alternative | AT | | 1 | 1 | 1 | 1 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -67,24 +67,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.7% | 99.8% |  |
-| 29 | 2% | 99.1% |  |
-| 30 | 5% | 97% |  |
-| 31 | 9% | 92% |  |
-| 32 | 12% | 83% |  |
-| 33 | 14% | 71% |  |
-| 34 | 14% | 57% | Median |
-| 35 | 12% | 43% |  |
-| 36 | 10% | 30% |  |
-| 37 | 7% | 21% |  |
-| 38 | 5% | 13% |  |
-| 39 | 4% | 8% |  |
-| 40 | 2% | 4% |  |
-| 41 | 1.1% | 2% |  |
-| 42 | 0.5% | 0.7% |  |
-| 43 | 0.2% | 0.3% |  |
-| 44 | 0.1% | 0.1% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.5% | 99.9% |  |
+| 28 | 1.5% | 99.4% |  |
+| 29 | 4% | 98% |  |
+| 30 | 7% | 94% |  |
+| 31 | 11% | 87% |  |
+| 32 | 14% | 76% |  |
+| 33 | 15% | 62% | Median |
+| 34 | 13% | 47% |  |
+| 35 | 11% | 34% |  |
+| 36 | 8% | 23% |  |
+| 37 | 6% | 15% |  |
+| 38 | 4% | 9% |  |
+| 39 | 3% | 5% |  |
+| 40 | 1.4% | 2% |  |
+| 41 | 0.6% | 0.9% |  |
+| 42 | 0.2% | 0.3% |  |
+| 43 | 0.1% | 0.1% |  |
+| 44 | 0% | 0% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
