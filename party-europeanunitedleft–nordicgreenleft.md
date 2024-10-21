@@ -24,7 +24,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die Linke | DE | | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -66,12 +66,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.1% | 100% |  |
 | 40 | 0.3% | 99.8% |  |
 | 41 | 0.7% | 99.5% |  |
-| 42 | 1.4% | 98.8% |  |
+| 42 | 1.5% | 98.8% |  |
 | 43 | 3% | 97% |  |
 | 44 | 4% | 95% |  |
 | 45 | 6% | 91% |  |
 | 46 | 7% | 85% | Last Result |
-| 47 | 9% | 78% |  |
+| 47 | 9% | 77% |  |
 | 48 | 10% | 69% |  |
 | 49 | 10% | 59% | Median |
 | 50 | 10% | 49% |  |

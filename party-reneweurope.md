@@ -18,13 +18,13 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 81 | 77–87 | 75–89 | 74–90 | 73–93 |
+| Renew Europe | EU | 77 | 81 | 76–87 | 75–89 | 74–90 | 72–92 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 20–28 | 20–28 | 19–29 | 17–29 |
 | Uniunea Salvați România | RO | | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Fianna Fáil | IE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -38,7 +38,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Алианс за права и свободи | BG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 1 | 1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,7 +58,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Moderaterne | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0–2 | 0–2 |
@@ -80,29 +80,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 99.9% |  |
 | 72 | 0.3% | 99.8% |  |
-| 73 | 0.7% | 99.5% |  |
-| 74 | 1.4% | 98.8% |  |
+| 73 | 0.8% | 99.5% |  |
+| 74 | 2% | 98.7% |  |
 | 75 | 3% | 97% |  |
-| 76 | 4% | 95% |  |
-| 77 | 6% | 91% | Last Result |
-| 78 | 8% | 85% |  |
-| 79 | 9% | 77% |  |
-| 80 | 9% | 68% |  |
-| 81 | 9% | 59% | Median |
-| 82 | 9% | 50% |  |
-| 83 | 8% | 41% |  |
-| 84 | 7% | 33% |  |
-| 85 | 6% | 26% |  |
-| 86 | 5% | 20% |  |
-| 87 | 4% | 14% |  |
-| 88 | 4% | 10% |  |
-| 89 | 3% | 6% |  |
-| 90 | 2% | 4% |  |
-| 91 | 1.0% | 2% |  |
-| 92 | 0.6% | 1.1% |  |
-| 93 | 0.3% | 0.5% |  |
+| 76 | 4% | 94% |  |
+| 77 | 6% | 90% | Last Result |
+| 78 | 8% | 84% |  |
+| 79 | 9% | 76% |  |
+| 80 | 9% | 67% |  |
+| 81 | 9% | 57% | Median |
+| 82 | 9% | 48% |  |
+| 83 | 8% | 39% |  |
+| 84 | 7% | 32% |  |
+| 85 | 6% | 25% |  |
+| 86 | 5% | 18% |  |
+| 87 | 4% | 13% |  |
+| 88 | 3% | 9% |  |
+| 89 | 2% | 6% |  |
+| 90 | 2% | 3% |  |
+| 91 | 0.9% | 2% |  |
+| 92 | 0.5% | 0.9% |  |
+| 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
-| 95 | 0.1% | 0.1% |  |
+| 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 
 
