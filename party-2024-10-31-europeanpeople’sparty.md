@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **182** seats (-6 seats)
+Current median: **181** seats (-7 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 182 | 176–187 | 174–189 | 173–190 | 170–193 |
+| European People’s Party | EU | 188 | 181 | 175–188 | 173–190 | 172–191 | 169–194 |
 | Partido Popular | ES | | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 22–26 | 21–27 | 20–28 | 20–30 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
-| Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| Partidul Național Liberal | RO | | 7 | 5–9 | 5–10 | 5–10 | 4–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | Österreichische Volkspartei | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -59,6 +59,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -83,36 +84,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 167 | 0.1% | 100% |  |
-| 168 | 0.1% | 99.9% |  |
-| 169 | 0.2% | 99.8% |  |
-| 170 | 0.4% | 99.6% |  |
-| 171 | 0.6% | 99.2% |  |
-| 172 | 1.0% | 98.5% |  |
-| 173 | 1.5% | 98% |  |
-| 174 | 2% | 96% |  |
-| 175 | 3% | 94% |  |
-| 176 | 4% | 91% |  |
-| 177 | 5% | 87% |  |
-| 178 | 6% | 82% |  |
-| 179 | 7% | 76% |  |
-| 180 | 8% | 68% |  |
-| 181 | 9% | 60% |  |
-| 182 | 9% | 51% | Median |
-| 183 | 9% | 42% |  |
-| 184 | 8% | 34% |  |
-| 185 | 7% | 26% |  |
-| 186 | 6% | 19% |  |
-| 187 | 4% | 14% |  |
-| 188 | 3% | 9% | Last Result |
-| 189 | 2% | 6% |  |
-| 190 | 2% | 4% |  |
-| 191 | 1.0% | 2% |  |
-| 192 | 0.6% | 1.3% |  |
-| 193 | 0.3% | 0.7% |  |
-| 194 | 0.2% | 0.4% |  |
-| 195 | 0.1% | 0.2% |  |
-| 196 | 0.1% | 0.1% |  |
-| 197 | 0% | 0% |  |
+| 165 | 0% | 100% |  |
+| 166 | 0.1% | 99.9% |  |
+| 167 | 0.1% | 99.9% |  |
+| 168 | 0.2% | 99.7% |  |
+| 169 | 0.4% | 99.5% |  |
+| 170 | 0.6% | 99.1% |  |
+| 171 | 0.9% | 98.5% |  |
+| 172 | 1.3% | 98% |  |
+| 173 | 2% | 96% |  |
+| 174 | 3% | 94% |  |
+| 175 | 3% | 92% |  |
+| 176 | 4% | 88% |  |
+| 177 | 5% | 84% |  |
+| 178 | 6% | 79% |  |
+| 179 | 7% | 73% |  |
+| 180 | 8% | 66% |  |
+| 181 | 8% | 58% | Median |
+| 182 | 8% | 50% |  |
+| 183 | 8% | 42% |  |
+| 184 | 7% | 34% |  |
+| 185 | 6% | 27% |  |
+| 186 | 5% | 21% |  |
+| 187 | 4% | 15% |  |
+| 188 | 3% | 11% | Last Result |
+| 189 | 3% | 8% |  |
+| 190 | 2% | 5% |  |
+| 191 | 1.3% | 3% |  |
+| 192 | 0.8% | 2% |  |
+| 193 | 0.5% | 1.2% |  |
+| 194 | 0.3% | 0.7% |  |
+| 195 | 0.2% | 0.4% |  |
+| 196 | 0.1% | 0.2% |  |
+| 197 | 0.1% | 0.1% |  |
+| 198 | 0% | 0% |  |
 
 

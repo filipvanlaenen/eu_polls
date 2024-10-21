@@ -48,8 +48,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Verde | RO | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -68,23 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
+| 27 | 0.2% | 100% |  |
 | 28 | 0.7% | 99.8% |  |
 | 29 | 2% | 99.1% |  |
 | 30 | 5% | 97% |  |
 | 31 | 9% | 92% |  |
-| 32 | 12% | 84% |  |
+| 32 | 12% | 83% |  |
 | 33 | 14% | 71% |  |
-| 34 | 14% | 57% | Median |
-| 35 | 12% | 43% |  |
-| 36 | 10% | 31% |  |
-| 37 | 8% | 21% |  |
+| 34 | 14% | 56% | Median |
+| 35 | 12% | 42% |  |
+| 36 | 10% | 30% |  |
+| 37 | 7% | 20% |  |
 | 38 | 5% | 13% |  |
-| 39 | 4% | 8% |  |
+| 39 | 4% | 7% |  |
 | 40 | 2% | 4% |  |
 | 41 | 1.1% | 2% |  |
-| 42 | 0.5% | 0.8% |  |
-| 43 | 0.2% | 0.3% |  |
+| 42 | 0.5% | 0.7% |  |
+| 43 | 0.2% | 0.2% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |

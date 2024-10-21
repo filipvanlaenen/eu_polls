@@ -26,7 +26,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 1 | 1 | 1–2 | 0–2 | 0–2 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 4% | 8% |  |
 | 56 | 2% | 4% |  |
 | 57 | 1.1% | 2% |  |
-| 58 | 0.5% | 0.9% |  |
+| 58 | 0.5% | 0.8% |  |
 | 59 | 0.2% | 0.3% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |

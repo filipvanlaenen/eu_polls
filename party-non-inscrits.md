@@ -18,11 +18,11 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 25–29 | 24–30 | 23–30 | 22–32 |
+| Non-Inscrits | EU | 32 | 27 | 24–30 | 24–31 | 23–31 | 22–32 |
 | Bündnis Sahra Wagenknecht | DE | | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
 | SMER–sociálna demokracia | SK | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partidul S.O.S. România | RO | | 2 | 2 | 0–3 | 0–3 | 0–3 |
+| Partidul S.O.S. România | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Se Acabó La Fiesta | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -50,19 +50,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.6% | 99.8% |  |
-| 23 | 2% | 99.3% |  |
-| 24 | 5% | 97% |  |
-| 25 | 10% | 93% |  |
-| 26 | 16% | 83% |  |
-| 27 | 22% | 67% | Median |
-| 28 | 22% | 45% |  |
-| 29 | 14% | 23% |  |
-| 30 | 6% | 9% |  |
-| 31 | 2% | 2% |  |
-| 32 | 0.4% | 0.5% | Last Result |
-| 33 | 0.1% | 0.1% |  |
-| 34 | 0% | 0% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.4% | 99.9% |  |
+| 22 | 1.2% | 99.5% |  |
+| 23 | 3% | 98% |  |
+| 24 | 6% | 95% |  |
+| 25 | 10% | 90% |  |
+| 26 | 14% | 80% |  |
+| 27 | 17% | 66% | Median |
+| 28 | 18% | 49% |  |
+| 29 | 15% | 31% |  |
+| 30 | 10% | 16% |  |
+| 31 | 4% | 6% |  |
+| 32 | 1.4% | 2% | Last Result |
+| 33 | 0.3% | 0.4% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 
