@@ -29,7 +29,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| Freie Wähler | DE | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
 | Les Engagés | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 2 | 1–2 |
@@ -47,7 +47,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Движение за права и свободи – Ново начало | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Azione | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,30 +79,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0% | 100% |  |
 | 71 | 0.1% | 99.9% |  |
-| 72 | 0.3% | 99.8% |  |
-| 73 | 0.8% | 99.5% |  |
-| 74 | 2% | 98.7% |  |
+| 72 | 0.4% | 99.8% |  |
+| 73 | 0.9% | 99.4% |  |
+| 74 | 2% | 98.5% |  |
 | 75 | 3% | 97% |  |
-| 76 | 4% | 94% |  |
-| 77 | 6% | 90% | Last Result |
-| 78 | 8% | 84% |  |
-| 79 | 9% | 76% |  |
-| 80 | 9% | 67% |  |
-| 81 | 9% | 58% | Median |
-| 82 | 9% | 48% |  |
-| 83 | 8% | 40% |  |
-| 84 | 7% | 32% |  |
-| 85 | 6% | 25% |  |
-| 86 | 5% | 19% |  |
-| 87 | 4% | 14% |  |
-| 88 | 3% | 9% |  |
-| 89 | 2% | 6% |  |
-| 90 | 2% | 3% |  |
-| 91 | 0.9% | 2% |  |
-| 92 | 0.5% | 0.9% |  |
+| 76 | 5% | 94% |  |
+| 77 | 7% | 89% | Last Result |
+| 78 | 8% | 82% |  |
+| 79 | 9% | 74% |  |
+| 80 | 9% | 65% |  |
+| 81 | 9% | 55% | Median |
+| 82 | 8% | 46% |  |
+| 83 | 8% | 38% |  |
+| 84 | 7% | 30% |  |
+| 85 | 6% | 23% |  |
+| 86 | 5% | 17% |  |
+| 87 | 4% | 12% |  |
+| 88 | 3% | 8% |  |
+| 89 | 2% | 5% |  |
+| 90 | 1.4% | 3% |  |
+| 91 | 0.8% | 2% |  |
+| 92 | 0.4% | 0.8% |  |
 | 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
-| 95 | 0.1% | 0.1% |  |
+| 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 
 

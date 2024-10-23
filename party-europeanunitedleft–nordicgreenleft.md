@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (+3 seats)
+Current median: **50** seats (+4 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 49 | 45–54 | 43–55 | 42–56 | 41–58 |
+| European United Left–Nordic Green Left | EU | 46 | 50 | 45–54 | 44–55 | 43–56 | 41–58 |
 | La France insoumise | FR | | 12 | 10–15 | 9–16 | 9–17 | 9–18 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Podemos | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 1 | 1 | 1 | 0–2 | 0–2 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,27 +63,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.9% |  |
-| 41 | 0.7% | 99.6% |  |
-| 42 | 2% | 98.8% |  |
-| 43 | 3% | 97% |  |
-| 44 | 4% | 95% |  |
-| 45 | 6% | 90% |  |
-| 46 | 8% | 84% | Last Result |
-| 47 | 9% | 77% |  |
-| 48 | 10% | 68% |  |
-| 49 | 10% | 58% | Median |
-| 50 | 10% | 48% |  |
-| 51 | 10% | 37% |  |
-| 52 | 9% | 28% |  |
-| 53 | 7% | 19% |  |
-| 54 | 5% | 12% |  |
-| 55 | 3% | 7% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.0% | 2% |  |
-| 58 | 0.5% | 0.7% |  |
-| 59 | 0.2% | 0.3% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.5% | 99.8% |  |
+| 42 | 1.1% | 99.3% |  |
+| 43 | 2% | 98% |  |
+| 44 | 4% | 96% |  |
+| 45 | 5% | 92% |  |
+| 46 | 7% | 87% | Last Result |
+| 47 | 9% | 80% |  |
+| 48 | 10% | 71% |  |
+| 49 | 10% | 62% |  |
+| 50 | 10% | 51% | Median |
+| 51 | 10% | 41% |  |
+| 52 | 9% | 31% |  |
+| 53 | 8% | 22% |  |
+| 54 | 6% | 14% |  |
+| 55 | 4% | 8% |  |
+| 56 | 2% | 5% |  |
+| 57 | 1.2% | 2% |  |
+| 58 | 0.6% | 1.0% |  |
+| 59 | 0.2% | 0.4% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 
