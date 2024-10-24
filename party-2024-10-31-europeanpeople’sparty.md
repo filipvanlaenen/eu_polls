@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 181 | 174–187 | 172–189 | 171–191 | 168–194 |
-| Partido Popular | ES | | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
-| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 20–27 | 20–28 | 20–30 |
+| European People’s Party | EU | 188 | 181 | 175–187 | 173–189 | 171–191 | 168–194 |
+| Partido Popular | ES | | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 21–27 | 20–28 | 20–30 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -42,7 +42,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -50,7 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,27 +84,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 164 | 0% | 100% |  |
-| 165 | 0.1% | 99.9% |  |
+| 165 | 0.1% | 100% |  |
 | 166 | 0.1% | 99.9% |  |
 | 167 | 0.2% | 99.8% |  |
-| 168 | 0.3% | 99.5% |  |
-| 169 | 0.6% | 99.2% |  |
-| 170 | 0.8% | 98.6% |  |
-| 171 | 1.2% | 98% |  |
+| 168 | 0.3% | 99.6% |  |
+| 169 | 0.5% | 99.3% |  |
+| 170 | 0.8% | 98.8% |  |
+| 171 | 1.1% | 98% |  |
 | 172 | 2% | 97% |  |
 | 173 | 2% | 95% |  |
-| 174 | 3% | 92% |  |
-| 175 | 4% | 89% |  |
-| 176 | 5% | 85% |  |
-| 177 | 6% | 80% |  |
-| 178 | 7% | 75% |  |
-| 179 | 7% | 68% |  |
-| 180 | 8% | 61% |  |
-| 181 | 8% | 53% | Median |
-| 182 | 8% | 45% |  |
-| 183 | 7% | 37% |  |
-| 184 | 7% | 30% |  |
+| 174 | 3% | 93% |  |
+| 175 | 4% | 90% |  |
+| 176 | 5% | 86% |  |
+| 177 | 6% | 81% |  |
+| 178 | 7% | 76% |  |
+| 179 | 7% | 69% |  |
+| 180 | 8% | 62% |  |
+| 181 | 8% | 54% | Median |
+| 182 | 8% | 46% |  |
+| 183 | 7% | 38% |  |
+| 184 | 7% | 31% |  |
 | 185 | 6% | 24% |  |
 | 186 | 5% | 18% |  |
 | 187 | 4% | 13% |  |
