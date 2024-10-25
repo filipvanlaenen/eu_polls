@@ -30,7 +30,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4 | 4 | 4 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3 | 3 | 3 | 3 |
 | Partij van de Arbeid | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 2–3 |
@@ -50,7 +50,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Umanist Social Liberal | RO | | 0 | 0 | 0 | 0 | 0 |
 | Social Democrats | IE | | 0 | 0 | 0–1 | 0–2 | 0–2 |
-| Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -66,23 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 0.2% | 99.9% |  |
 | 120 | 0.3% | 99.7% |  |
 | 121 | 0.6% | 99.4% |  |
-| 122 | 1.1% | 98.7% |  |
+| 122 | 1.1% | 98.8% |  |
 | 123 | 2% | 98% |  |
 | 124 | 2% | 96% |  |
 | 125 | 3% | 94% |  |
-| 126 | 4% | 90% |  |
+| 126 | 4% | 91% |  |
 | 127 | 4% | 87% |  |
 | 128 | 4% | 83% |  |
 | 129 | 4% | 78% |  |
 | 130 | 4% | 74% |  |
-| 131 | 5% | 69% |  |
+| 131 | 5% | 70% |  |
 | 132 | 5% | 65% |  |
-| 133 | 6% | 59% |  |
-| 134 | 7% | 53% | Median |
-| 135 | 8% | 46% |  |
+| 133 | 6% | 60% |  |
+| 134 | 7% | 54% | Median |
+| 135 | 8% | 47% |  |
 | 136 | 8% | 39% | Last Result |
 | 137 | 8% | 31% |  |
-| 138 | 7% | 23% |  |
+| 138 | 7% | 24% |  |
 | 139 | 6% | 17% |  |
 | 140 | 4% | 11% |  |
 | 141 | 3% | 7% |  |
