@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 50 | 45–54 | 44–55 | 43–56 | 41–58 |
-| La France insoumise | FR | | 12 | 10–15 | 9–16 | 9–17 | 9–18 |
-| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| European United Left–Nordic Green Left | EU | 46 | 50 | 45–55 | 44–56 | 43–57 | 42–59 |
+| La France insoumise | FR | | 12 | 10–16 | 10–16 | 9–16 | 9–18 |
+| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -36,7 +36,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Socialistische Partij | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1 | 1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +46,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
-| Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,26 +64,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.4% | 99.8% |  |
-| 42 | 1.0% | 99.4% |  |
-| 43 | 2% | 98% |  |
-| 44 | 4% | 96% |  |
+| 41 | 0.4% | 99.9% |  |
+| 42 | 0.9% | 99.5% |  |
+| 43 | 2% | 98.6% |  |
+| 44 | 3% | 97% |  |
 | 45 | 5% | 93% |  |
-| 46 | 7% | 87% | Last Result |
-| 47 | 8% | 80% |  |
-| 48 | 9% | 72% |  |
-| 49 | 10% | 62% |  |
-| 50 | 10% | 52% | Median |
-| 51 | 10% | 42% |  |
-| 52 | 9% | 32% |  |
-| 53 | 8% | 22% |  |
-| 54 | 6% | 15% |  |
-| 55 | 4% | 9% |  |
-| 56 | 2% | 5% |  |
-| 57 | 1.3% | 2% |  |
-| 58 | 0.6% | 1.0% |  |
-| 59 | 0.3% | 0.4% |  |
-| 60 | 0.1% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 46 | 7% | 88% | Last Result |
+| 47 | 8% | 81% |  |
+| 48 | 9% | 73% |  |
+| 49 | 9% | 64% |  |
+| 50 | 9% | 55% | Median |
+| 51 | 10% | 46% |  |
+| 52 | 9% | 37% |  |
+| 53 | 9% | 27% |  |
+| 54 | 7% | 19% |  |
+| 55 | 5% | 12% |  |
+| 56 | 3% | 7% |  |
+| 57 | 2% | 3% |  |
+| 58 | 0.9% | 2% |  |
+| 59 | 0.4% | 0.6% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0.1% | 0.1% |  |
+| 62 | 0% | 0% |  |
 
 
