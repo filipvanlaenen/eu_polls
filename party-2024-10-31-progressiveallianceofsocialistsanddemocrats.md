@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 134 | 126–140 | 124–142 | 123–143 | 120–145 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 134 | 126–140 | 124–141 | 123–143 | 120–145 |
 | Partido Socialista Obrero Español | ES | | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
 | Partito Democratico | IT | | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 13–18 | 12–18 | 12–18 |
@@ -49,7 +49,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | PRO România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Umanist Social Liberal | RO | | 0 | 0 | 0 | 0 | 0 |
-| Social Democrats | IE | | 0 | 0 | 0–1 | 0–2 | 0–2 |
+| Social Democrats | IE | | 0 | 0 | 0 | 0–1 | 0–2 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 0.1% | 99.9% |  |
 | 120 | 0.3% | 99.7% |  |
 | 121 | 0.6% | 99.4% |  |
-| 122 | 1.0% | 98.9% |  |
+| 122 | 0.9% | 98.9% |  |
 | 123 | 1.5% | 98% |  |
 | 124 | 2% | 96% |  |
 | 125 | 3% | 94% |  |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 5% | 67% |  |
 | 133 | 6% | 62% |  |
 | 134 | 7% | 55% | Median |
-| 135 | 7% | 49% |  |
+| 135 | 8% | 49% |  |
 | 136 | 8% | 41% | Last Result |
 | 137 | 8% | 33% |  |
 | 138 | 7% | 26% |  |
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 5% | 13% |  |
 | 141 | 3% | 8% |  |
 | 142 | 2% | 5% |  |
-| 143 | 1.4% | 3% |  |
-| 144 | 0.8% | 1.4% |  |
+| 143 | 1.3% | 3% |  |
+| 144 | 0.7% | 1.4% |  |
 | 145 | 0.4% | 0.7% |  |
 | 146 | 0.2% | 0.3% |  |
 | 147 | 0.1% | 0.1% |  |

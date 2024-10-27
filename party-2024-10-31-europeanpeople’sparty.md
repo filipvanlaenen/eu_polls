@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 180 | 174–187 | 172–189 | 170–190 | 167–194 |
+| European People’s Party | EU | 188 | 180 | 173–187 | 172–189 | 170–190 | 167–193 |
 | Partido Popular | ES | | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 21–27 | 20–28 | 20–30 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
@@ -29,7 +29,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Österreichische Volkspartei | AT | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
-| Fine Gael | IE | | 5 | 5 | 5 | 5 | 5 |
+| Fine Gael | IE | | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -87,32 +87,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
 | 166 | 0.2% | 99.8% |  |
-| 167 | 0.3% | 99.7% |  |
-| 168 | 0.5% | 99.4% |  |
-| 169 | 0.8% | 98.9% |  |
+| 167 | 0.3% | 99.6% |  |
+| 168 | 0.5% | 99.3% |  |
+| 169 | 0.8% | 98.8% |  |
 | 170 | 1.2% | 98% |  |
 | 171 | 2% | 97% |  |
 | 172 | 2% | 95% |  |
 | 173 | 3% | 93% |  |
 | 174 | 4% | 90% |  |
 | 175 | 5% | 86% |  |
-| 176 | 5% | 82% |  |
+| 176 | 5% | 81% |  |
 | 177 | 6% | 76% |  |
 | 178 | 7% | 70% |  |
-| 179 | 7% | 64% |  |
-| 180 | 7% | 57% | Median |
+| 179 | 7% | 63% |  |
+| 180 | 7% | 56% | Median |
 | 181 | 7% | 49% |  |
-| 182 | 7% | 42% |  |
-| 183 | 7% | 35% |  |
+| 182 | 7% | 41% |  |
+| 183 | 7% | 34% |  |
 | 184 | 6% | 28% |  |
 | 185 | 5% | 22% |  |
-| 186 | 4% | 17% |  |
-| 187 | 4% | 12% |  |
-| 188 | 3% | 9% | Last Result |
+| 186 | 4% | 16% |  |
+| 187 | 3% | 12% |  |
+| 188 | 3% | 8% | Last Result |
 | 189 | 2% | 6% |  |
 | 190 | 1.4% | 4% |  |
-| 191 | 1.0% | 2% |  |
-| 192 | 0.6% | 2% |  |
+| 191 | 0.9% | 2% |  |
+| 192 | 0.6% | 1.5% |  |
 | 193 | 0.4% | 0.9% |  |
 | 194 | 0.2% | 0.5% |  |
 | 195 | 0.1% | 0.3% |  |
