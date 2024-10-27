@@ -24,8 +24,8 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Deutschlands | DE | | 16 | 14–17 | 13–18 | 12–18 | 12–18 |
 | Partidul Social Democrat | RO | | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–11 | 0–11 | 0–11 | 0–12 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Nowa Lewica | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Partij van de Arbeid | NL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -37,7 +37,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–3 |
-| Demokratikus Koalíció | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Demokratikus Koalíció | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Labour Party | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -63,28 +63,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 118 | 0.1% | 100% |  |
-| 119 | 0.1% | 99.9% |  |
+| 119 | 0.2% | 99.9% |  |
 | 120 | 0.3% | 99.7% |  |
 | 121 | 0.6% | 99.4% |  |
-| 122 | 0.9% | 98.9% |  |
-| 123 | 1.5% | 98% |  |
+| 122 | 1.0% | 98.8% |  |
+| 123 | 2% | 98% |  |
 | 124 | 2% | 96% |  |
 | 125 | 3% | 94% |  |
-| 126 | 3% | 92% |  |
+| 126 | 3% | 91% |  |
 | 127 | 4% | 88% |  |
 | 128 | 4% | 84% |  |
 | 129 | 4% | 80% |  |
 | 130 | 4% | 76% |  |
-| 131 | 5% | 72% |  |
-| 132 | 5% | 67% |  |
-| 133 | 6% | 62% |  |
+| 131 | 5% | 71% |  |
+| 132 | 5% | 66% |  |
+| 133 | 6% | 61% |  |
 | 134 | 7% | 55% | Median |
-| 135 | 8% | 49% |  |
-| 136 | 8% | 41% | Last Result |
+| 135 | 8% | 48% |  |
+| 136 | 8% | 40% | Last Result |
 | 137 | 8% | 33% |  |
-| 138 | 7% | 26% |  |
-| 139 | 6% | 19% |  |
-| 140 | 5% | 13% |  |
+| 138 | 7% | 25% |  |
+| 139 | 6% | 18% |  |
+| 140 | 4% | 13% |  |
 | 141 | 3% | 8% |  |
 | 142 | 2% | 5% |  |
 | 143 | 1.3% | 3% |  |

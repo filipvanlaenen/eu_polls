@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **180** seats (-8 seats)
+Current median: **181** seats (-7 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 180 | 173–187 | 172–189 | 170–190 | 167–193 |
+| European People’s Party | EU | 188 | 181 | 174–187 | 172–189 | 170–191 | 167–194 |
 | Partido Popular | ES | | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 21–27 | 20–28 | 20–30 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
-| Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Partidul Național Liberal | RO | | 7 | 5–9 | 5–10 | 4–10 | 4–10 |
@@ -62,7 +62,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
-| Kristdemokraterna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -86,37 +86,37 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.2% | 99.8% |  |
-| 167 | 0.3% | 99.6% |  |
-| 168 | 0.5% | 99.3% |  |
-| 169 | 0.8% | 98.8% |  |
-| 170 | 1.2% | 98% |  |
-| 171 | 2% | 97% |  |
-| 172 | 2% | 95% |  |
-| 173 | 3% | 93% |  |
-| 174 | 4% | 90% |  |
-| 175 | 5% | 86% |  |
-| 176 | 5% | 81% |  |
-| 177 | 6% | 76% |  |
-| 178 | 7% | 70% |  |
-| 179 | 7% | 63% |  |
-| 180 | 7% | 56% | Median |
-| 181 | 7% | 49% |  |
-| 182 | 7% | 41% |  |
-| 183 | 7% | 34% |  |
-| 184 | 6% | 28% |  |
-| 185 | 5% | 22% |  |
-| 186 | 4% | 16% |  |
-| 187 | 3% | 12% |  |
-| 188 | 3% | 8% | Last Result |
-| 189 | 2% | 6% |  |
-| 190 | 1.4% | 4% |  |
-| 191 | 0.9% | 2% |  |
-| 192 | 0.6% | 1.5% |  |
-| 193 | 0.4% | 0.9% |  |
-| 194 | 0.2% | 0.5% |  |
-| 195 | 0.1% | 0.3% |  |
-| 196 | 0.1% | 0.1% |  |
+| 166 | 0.1% | 99.9% |  |
+| 167 | 0.2% | 99.7% |  |
+| 168 | 0.4% | 99.5% |  |
+| 169 | 0.7% | 99.1% |  |
+| 170 | 1.0% | 98% |  |
+| 171 | 1.5% | 97% |  |
+| 172 | 2% | 96% |  |
+| 173 | 3% | 94% |  |
+| 174 | 3% | 91% |  |
+| 175 | 4% | 88% |  |
+| 176 | 5% | 84% |  |
+| 177 | 6% | 79% |  |
+| 178 | 6% | 73% |  |
+| 179 | 7% | 66% |  |
+| 180 | 7% | 59% |  |
+| 181 | 7% | 52% | Median |
+| 182 | 7% | 45% |  |
+| 183 | 7% | 37% |  |
+| 184 | 6% | 30% |  |
+| 185 | 6% | 24% |  |
+| 186 | 5% | 19% |  |
+| 187 | 4% | 14% |  |
+| 188 | 3% | 10% | Last Result |
+| 189 | 2% | 7% |  |
+| 190 | 2% | 5% |  |
+| 191 | 1.1% | 3% |  |
+| 192 | 0.7% | 2% |  |
+| 193 | 0.5% | 1.1% |  |
+| 194 | 0.3% | 0.6% |  |
+| 195 | 0.2% | 0.4% |  |
+| 196 | 0.1% | 0.2% |  |
 | 197 | 0% | 0.1% |  |
 | 198 | 0% | 0% |  |
 
