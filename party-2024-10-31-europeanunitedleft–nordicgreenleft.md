@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 50 | 45–55 | 44–56 | 43–57 | 41–59 |
+| European United Left–Nordic Green Left | EU | 46 | 50 | 45–55 | 44–56 | 43–57 | 41–58 |
 | La France insoumise | FR | | 12 | 10–16 | 10–16 | 9–16 | 9–18 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -68,16 +68,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 1.0% | 99.4% |  |
 | 43 | 2% | 98% |  |
 | 44 | 4% | 96% |  |
-| 45 | 5% | 93% |  |
+| 45 | 6% | 93% |  |
 | 46 | 7% | 87% | Last Result |
 | 47 | 8% | 80% |  |
 | 48 | 9% | 72% |  |
 | 49 | 9% | 63% |  |
 | 50 | 9% | 54% | Median |
-| 51 | 10% | 45% |  |
+| 51 | 10% | 44% |  |
 | 52 | 9% | 35% |  |
 | 53 | 8% | 26% |  |
-| 54 | 7% | 18% |  |
+| 54 | 7% | 17% |  |
 | 55 | 5% | 11% |  |
 | 56 | 3% | 6% |  |
 | 57 | 2% | 3% |  |

@@ -25,7 +25,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partidul Social Democrat | RO | | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–11 | 0–11 | 0–11 | 0–12 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | Nowa Lewica | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Partij van de Arbeid | NL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
