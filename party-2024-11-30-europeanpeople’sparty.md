@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 183 | 177–189 | 175–190 | 173–192 | 171–194 |
+| European People’s Party | EU | 188 | 183 | 176–189 | 175–191 | 173–192 | 170–195 |
 | Christlich Demokratische Union Deutschlands | DE | | 25 | 23–26 | 22–27 | 22–27 | 20–27 |
 | Partido Popular | ES | | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
-| Platforma Obywatelska | PL | | 18 | 18 | 18–19 | 18–20 | 17–20 |
+| Platforma Obywatelska | PL | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
@@ -42,7 +42,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 2 | 2 | 2 | 1–3 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -84,36 +84,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 168 | 0.1% | 100% |  |
-| 169 | 0.1% | 99.9% |  |
-| 170 | 0.2% | 99.8% |  |
-| 171 | 0.4% | 99.6% |  |
-| 172 | 0.7% | 99.2% |  |
-| 173 | 1.1% | 98% |  |
+| 167 | 0% | 100% |  |
+| 168 | 0.1% | 99.9% |  |
+| 169 | 0.2% | 99.8% |  |
+| 170 | 0.3% | 99.7% |  |
+| 171 | 0.5% | 99.4% |  |
+| 172 | 0.8% | 98.9% |  |
+| 173 | 1.2% | 98% |  |
 | 174 | 2% | 97% |  |
-| 175 | 2% | 96% |  |
+| 175 | 2% | 95% |  |
 | 176 | 3% | 93% |  |
 | 177 | 4% | 90% |  |
 | 178 | 5% | 86% |  |
 | 179 | 6% | 81% |  |
-| 180 | 7% | 75% |  |
-| 181 | 8% | 68% |  |
-| 182 | 8% | 60% |  |
-| 183 | 8% | 52% | Median |
-| 184 | 8% | 44% |  |
-| 185 | 8% | 36% |  |
-| 186 | 7% | 28% |  |
-| 187 | 6% | 22% |  |
-| 188 | 5% | 16% | Last Result |
-| 189 | 4% | 11% |  |
-| 190 | 3% | 7% |  |
-| 191 | 2% | 4% |  |
-| 192 | 1.2% | 3% |  |
-| 193 | 0.7% | 1.5% |  |
-| 194 | 0.4% | 0.8% |  |
-| 195 | 0.2% | 0.4% |  |
-| 196 | 0.1% | 0.2% |  |
-| 197 | 0% | 0.1% |  |
-| 198 | 0% | 0% |  |
+| 180 | 6% | 75% |  |
+| 181 | 7% | 69% |  |
+| 182 | 8% | 62% |  |
+| 183 | 8% | 54% | Median |
+| 184 | 8% | 47% |  |
+| 185 | 7% | 39% |  |
+| 186 | 7% | 31% |  |
+| 187 | 6% | 25% |  |
+| 188 | 5% | 19% | Last Result |
+| 189 | 4% | 13% |  |
+| 190 | 3% | 9% |  |
+| 191 | 2% | 6% |  |
+| 192 | 2% | 4% |  |
+| 193 | 1.0% | 2% |  |
+| 194 | 0.6% | 1.4% |  |
+| 195 | 0.4% | 0.7% |  |
+| 196 | 0.2% | 0.4% |  |
+| 197 | 0.1% | 0.2% |  |
+| 198 | 0% | 0.1% |  |
+| 199 | 0% | 0% |  |
 
 
