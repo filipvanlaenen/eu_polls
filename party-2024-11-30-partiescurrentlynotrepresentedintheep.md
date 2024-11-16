@@ -42,7 +42,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -55,10 +55,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 77% | 100% | Median |
-| 3 | 22% | 23% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 2 | 78% | 100% | Median |
+| 3 | 20% | 22% |  |
+| 4 | 1.5% | 2% |  |
+| 5 | 0% | 0% |  |
 
 

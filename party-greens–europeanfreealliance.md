@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 34 | 31–38 | 30–39 | 30–40 | 29–42 |
+| Greens–European Free Alliance | EU | 53 | 34 | 31–38 | 30–39 | 30–40 | 28–42 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 8–13 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
@@ -46,7 +46,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,7 +69,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
 | 28 | 0.4% | 99.9% |  |
-| 29 | 1.5% | 99.5% |  |
+| 29 | 2% | 99.5% |  |
 | 30 | 4% | 98% |  |
 | 31 | 8% | 94% |  |
 | 32 | 13% | 85% |  |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 10% | 31% |  |
 | 37 | 8% | 21% |  |
 | 38 | 6% | 13% |  |
-| 39 | 4% | 8% |  |
+| 39 | 4% | 7% |  |
 | 40 | 2% | 4% |  |
 | 41 | 1.0% | 2% |  |
 | 42 | 0.4% | 0.6% |  |
