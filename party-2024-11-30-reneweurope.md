@@ -10,9 +10,9 @@ Last result: **77** seats (General Election of 26 May 2019)
 
 Current median: **82** seats (+5 seats)
 
-At least one member in **20 countries** have a median of 1 seat or more:
+At least one member in **19 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, DE, DK, EE, ES, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
@@ -22,7 +22,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 20–27 | 19–28 | 19–29 | 18–30 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| Fianna Fáil | IE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Fianna Fáil | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -41,7 +41,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Laisvės partija | LT | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -50,11 +49,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Движение за права и свободи – Ново начало | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -78,26 +78,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
-| 73 | 0.6% | 99.6% |  |
-| 74 | 1.2% | 99.1% |  |
+| 73 | 0.5% | 99.7% |  |
+| 74 | 1.0% | 99.3% |  |
 | 75 | 2% | 98% |  |
-| 76 | 4% | 96% |  |
-| 77 | 5% | 92% | Last Result |
-| 78 | 7% | 87% |  |
-| 79 | 9% | 80% |  |
-| 80 | 10% | 71% |  |
-| 81 | 10% | 61% |  |
-| 82 | 10% | 51% | Median |
-| 83 | 9% | 41% |  |
-| 84 | 8% | 32% |  |
-| 85 | 7% | 24% |  |
-| 86 | 5% | 18% |  |
-| 87 | 4% | 12% |  |
-| 88 | 3% | 8% |  |
+| 76 | 3% | 96% |  |
+| 77 | 5% | 93% | Last Result |
+| 78 | 7% | 88% |  |
+| 79 | 9% | 81% |  |
+| 80 | 10% | 73% |  |
+| 81 | 10% | 63% |  |
+| 82 | 10% | 53% | Median |
+| 83 | 9% | 43% |  |
+| 84 | 8% | 34% |  |
+| 85 | 7% | 26% |  |
+| 86 | 6% | 19% |  |
+| 87 | 4% | 13% |  |
+| 88 | 3% | 9% |  |
 | 89 | 2% | 5% |  |
-| 90 | 1.3% | 3% |  |
+| 90 | 1.4% | 3% |  |
 | 91 | 0.8% | 2% |  |
-| 92 | 0.4% | 0.8% |  |
+| 92 | 0.5% | 0.9% |  |
 | 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0.1% |  |
