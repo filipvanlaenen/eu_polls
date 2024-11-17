@@ -21,7 +21,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 53 | 35 | 32–39 | 31–40 | 30–41 | 29–43 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–13 | 9–13 | 8–14 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -38,10 +38,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Βολτ Κύπρος | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
+| Green Party | IE | | 0 | 0 | 0 | 0 | 0–2 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -68,17 +68,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.2% | 100% |  |
-| 29 | 0.6% | 99.8% |  |
+| 29 | 0.7% | 99.8% |  |
 | 30 | 2% | 99.1% |  |
 | 31 | 5% | 97% |  |
-| 32 | 8% | 93% |  |
-| 33 | 12% | 84% |  |
-| 34 | 15% | 72% |  |
+| 32 | 9% | 92% |  |
+| 33 | 13% | 84% |  |
+| 34 | 15% | 71% |  |
 | 35 | 14% | 57% | Median |
-| 36 | 12% | 43% |  |
+| 36 | 12% | 42% |  |
 | 37 | 10% | 30% |  |
 | 38 | 8% | 20% |  |
-| 39 | 6% | 13% |  |
+| 39 | 5% | 13% |  |
 | 40 | 4% | 7% |  |
 | 41 | 2% | 4% |  |
 | 42 | 1.0% | 2% |  |

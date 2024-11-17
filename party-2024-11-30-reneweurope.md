@@ -33,7 +33,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Les Engagés | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2–3 |
+| Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи – Ново начало | BG | | 2 | 2 | 2 | 2 | 2 |
 | Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
@@ -82,9 +82,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 1.1% | 99.2% |  |
 | 75 | 2% | 98% |  |
 | 76 | 4% | 96% |  |
-| 77 | 5% | 92% | Last Result |
+| 77 | 5% | 93% | Last Result |
 | 78 | 7% | 87% |  |
-| 79 | 9% | 79% |  |
+| 79 | 9% | 80% |  |
 | 80 | 10% | 70% |  |
 | 81 | 10% | 60% | Median |
 | 82 | 10% | 50% |  |
@@ -98,7 +98,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 1.1% | 2% |  |
 | 91 | 0.6% | 1.2% |  |
 | 92 | 0.3% | 0.6% |  |
-| 93 | 0.1% | 0.3% |  |
+| 93 | 0.2% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
 

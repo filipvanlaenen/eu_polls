@@ -20,7 +20,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 49 | 44–53 | 43–54 | 42–55 | 40–57 |
 | La France insoumise | FR | | 12 | 10–16 | 10–16 | 9–16 | 9–18 |
-| Movimento 5 Stelle | IT | | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| Movimento 5 Stelle | IT | | 10 | 9–11 | 8–11 | 8–12 | 7–13 |
 | Die Linke | DE | | 3 | 2–3 | 1–4 | 1–4 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
@@ -29,7 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -65,22 +65,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.4% | 99.8% |  |
-| 41 | 1.1% | 99.4% |  |
+| 41 | 1.0% | 99.4% |  |
 | 42 | 2% | 98% |  |
 | 43 | 4% | 96% |  |
 | 44 | 6% | 92% |  |
-| 45 | 7% | 86% |  |
+| 45 | 7% | 87% |  |
 | 46 | 8% | 79% | Last Result |
-| 47 | 9% | 70% |  |
+| 47 | 9% | 71% |  |
 | 48 | 9% | 62% |  |
-| 49 | 9% | 52% | Median |
+| 49 | 9% | 53% | Median |
 | 50 | 10% | 43% |  |
-| 51 | 9% | 33% |  |
+| 51 | 9% | 34% |  |
 | 52 | 8% | 24% |  |
-| 53 | 6% | 16% |  |
+| 53 | 7% | 16% |  |
 | 54 | 4% | 9% |  |
 | 55 | 3% | 5% |  |
-| 56 | 1.3% | 2% |  |
+| 56 | 1.4% | 2% |  |
 | 57 | 0.6% | 0.9% |  |
 | 58 | 0.2% | 0.3% |  |
 | 59 | 0.1% | 0.1% |  |

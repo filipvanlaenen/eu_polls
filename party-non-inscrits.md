@@ -25,7 +25,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -50,18 +50,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.7% | 99.9% |  |
+| 18 | 0.6% | 99.9% |  |
 | 19 | 2% | 99.2% |  |
 | 20 | 5% | 97% |  |
-| 21 | 9% | 92% |  |
+| 21 | 8% | 93% |  |
 | 22 | 13% | 84% |  |
 | 23 | 16% | 71% |  |
-| 24 | 17% | 55% | Median |
+| 24 | 17% | 56% | Median |
 | 25 | 15% | 39% |  |
 | 26 | 11% | 24% |  |
-| 27 | 7% | 13% |  |
-| 28 | 4% | 5% |  |
-| 29 | 1.4% | 2% |  |
+| 27 | 7% | 12% |  |
+| 28 | 3% | 5% |  |
+| 29 | 1.3% | 2% |  |
 | 30 | 0.4% | 0.5% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% | Last Result |
