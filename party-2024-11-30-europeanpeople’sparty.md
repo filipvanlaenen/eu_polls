@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **182** seats (-6 seats)
+Current median: **181** seats (-7 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 182 | 175–188 | 174–190 | 172–191 | 169–194 |
+| European People’s Party | EU | 188 | 181 | 175–188 | 173–189 | 172–191 | 169–193 |
 | Christlich Demokratische Union Deutschlands | DE | | 25 | 23–26 | 22–26 | 22–28 | 21–31 |
 | Partido Popular | ES | | 24 | 23–25 | 22–26 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
@@ -45,7 +45,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
-| Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | BoerBurgerBeweging | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -54,6 +53,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Δημοκρατικός Συναγερμός | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,37 +84,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 166 | 0% | 100% |  |
+| 166 | 0.1% | 100% |  |
 | 167 | 0.1% | 99.9% |  |
-| 168 | 0.1% | 99.9% |  |
-| 169 | 0.3% | 99.7% |  |
-| 170 | 0.5% | 99.4% |  |
-| 171 | 0.8% | 99.0% |  |
-| 172 | 1.2% | 98% |  |
-| 173 | 2% | 97% |  |
-| 174 | 2% | 95% |  |
-| 175 | 3% | 93% |  |
-| 176 | 4% | 90% |  |
-| 177 | 5% | 86% |  |
-| 178 | 6% | 81% |  |
-| 179 | 7% | 75% |  |
-| 180 | 7% | 68% |  |
-| 181 | 8% | 61% |  |
-| 182 | 8% | 53% | Median |
-| 183 | 8% | 45% |  |
-| 184 | 7% | 37% |  |
-| 185 | 7% | 30% |  |
-| 186 | 6% | 23% |  |
-| 187 | 5% | 17% |  |
-| 188 | 4% | 12% | Last Result |
-| 189 | 3% | 8% |  |
-| 190 | 2% | 6% |  |
-| 191 | 1.4% | 3% |  |
-| 192 | 0.9% | 2% |  |
-| 193 | 0.5% | 1.2% |  |
-| 194 | 0.3% | 0.6% |  |
-| 195 | 0.2% | 0.3% |  |
-| 196 | 0.1% | 0.2% |  |
+| 168 | 0.2% | 99.8% |  |
+| 169 | 0.4% | 99.6% |  |
+| 170 | 0.6% | 99.2% |  |
+| 171 | 1.0% | 98.6% |  |
+| 172 | 1.5% | 98% |  |
+| 173 | 2% | 96% |  |
+| 174 | 3% | 94% |  |
+| 175 | 4% | 91% |  |
+| 176 | 5% | 88% |  |
+| 177 | 5% | 83% |  |
+| 178 | 6% | 78% |  |
+| 179 | 7% | 71% |  |
+| 180 | 7% | 64% |  |
+| 181 | 8% | 57% | Median |
+| 182 | 8% | 49% |  |
+| 183 | 8% | 41% |  |
+| 184 | 7% | 34% |  |
+| 185 | 6% | 27% |  |
+| 186 | 5% | 20% |  |
+| 187 | 4% | 15% |  |
+| 188 | 3% | 10% | Last Result |
+| 189 | 2% | 7% |  |
+| 190 | 2% | 4% |  |
+| 191 | 1.1% | 3% |  |
+| 192 | 0.7% | 2% |  |
+| 193 | 0.4% | 0.9% |  |
+| 194 | 0.2% | 0.5% |  |
+| 195 | 0.1% | 0.3% |  |
+| 196 | 0.1% | 0.1% |  |
 | 197 | 0% | 0.1% |  |
 | 198 | 0% | 0% |  |
 

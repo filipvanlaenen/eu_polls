@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **82** seats (+5 seats)
+Current median: **81** seats (+4 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 82 | 77–87 | 76–88 | 75–89 | 73–92 |
+| Renew Europe | EU | 77 | 81 | 77–87 | 76–88 | 75–89 | 73–92 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 20–27 | 19–28 | 19–29 | 18–30 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -51,8 +51,8 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -79,26 +79,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.1% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
 | 73 | 0.5% | 99.7% |  |
-| 74 | 1.0% | 99.3% |  |
+| 74 | 1.1% | 99.2% |  |
 | 75 | 2% | 98% |  |
-| 76 | 3% | 96% |  |
-| 77 | 5% | 93% | Last Result |
-| 78 | 7% | 88% |  |
-| 79 | 9% | 80% |  |
-| 80 | 10% | 71% |  |
-| 81 | 10% | 61% |  |
-| 82 | 10% | 51% | Median |
-| 83 | 9% | 41% |  |
-| 84 | 8% | 32% |  |
-| 85 | 7% | 24% |  |
-| 86 | 5% | 17% |  |
-| 87 | 4% | 12% |  |
+| 76 | 4% | 96% |  |
+| 77 | 5% | 92% | Last Result |
+| 78 | 7% | 87% |  |
+| 79 | 9% | 79% |  |
+| 80 | 10% | 70% |  |
+| 81 | 10% | 60% | Median |
+| 82 | 10% | 50% |  |
+| 83 | 9% | 40% |  |
+| 84 | 8% | 31% |  |
+| 85 | 7% | 23% |  |
+| 86 | 5% | 16% |  |
+| 87 | 4% | 11% |  |
 | 88 | 3% | 7% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.2% | 2% |  |
-| 91 | 0.7% | 1.3% |  |
+| 90 | 1.1% | 2% |  |
+| 91 | 0.6% | 1.2% |  |
 | 92 | 0.3% | 0.6% |  |
-| 93 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
 
