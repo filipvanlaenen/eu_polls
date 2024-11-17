@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 99 | 95–103 | 94–104 | 93–105 | 92–108 |
+| Patriots for Europe | EU | 84 | 99 | 95–103 | 94–104 | 93–105 | 91–108 |
 | Rassemblement national | FR | | 32 | 30–35 | 30–36 | 30–37 | 29–40 |
 | ANO 2011 | CZ | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | Partij voor de Vrijheid | NL | | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Vox | ES | | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
-| Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| Vox | ES | | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
+| Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Chega | PT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
@@ -54,25 +54,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0% | 100% |  |
 | 90 | 0.1% | 100% |  |
-| 91 | 0.3% | 99.8% |  |
+| 91 | 0.4% | 99.8% |  |
 | 92 | 0.9% | 99.5% |  |
 | 93 | 2% | 98.6% |  |
 | 94 | 4% | 97% |  |
 | 95 | 6% | 93% |  |
-| 96 | 9% | 87% |  |
-| 97 | 12% | 78% |  |
-| 98 | 13% | 66% |  |
+| 96 | 9% | 86% |  |
+| 97 | 12% | 77% |  |
+| 98 | 13% | 65% |  |
 | 99 | 13% | 52% | Median |
 | 100 | 12% | 39% |  |
 | 101 | 9% | 28% |  |
 | 102 | 7% | 18% |  |
-| 103 | 5% | 11% |  |
+| 103 | 5% | 12% |  |
 | 104 | 3% | 7% |  |
 | 105 | 2% | 4% |  |
 | 106 | 1.0% | 2% |  |
-| 107 | 0.5% | 1.1% |  |
-| 108 | 0.3% | 0.5% |  |
-| 109 | 0.1% | 0.2% |  |
+| 107 | 0.6% | 1.1% |  |
+| 108 | 0.3% | 0.6% |  |
+| 109 | 0.1% | 0.3% |  |
 | 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0% |  |
 

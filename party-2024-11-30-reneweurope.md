@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 82 | 77–87 | 76–89 | 75–90 | 73–92 |
+| Renew Europe | EU | 77 | 82 | 77–87 | 76–88 | 75–89 | 73–92 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 20–27 | 19–28 | 19–29 | 18–30 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -32,11 +32,11 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Les Engagés | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Алианс за права и свободи | BG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Движение за права и свободи – Ново начало | BG | | 2 | 2 | 2 | 2 | 2 |
+| Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -46,10 +46,10 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Движение за права и свободи – Ново начало | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Алианс за права и свободи | BG | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,23 +84,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 3% | 96% |  |
 | 77 | 5% | 93% | Last Result |
 | 78 | 7% | 88% |  |
-| 79 | 9% | 81% |  |
-| 80 | 10% | 73% |  |
-| 81 | 10% | 63% |  |
-| 82 | 10% | 53% | Median |
-| 83 | 9% | 43% |  |
-| 84 | 8% | 34% |  |
-| 85 | 7% | 26% |  |
-| 86 | 6% | 19% |  |
-| 87 | 4% | 13% |  |
-| 88 | 3% | 9% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.4% | 3% |  |
-| 91 | 0.8% | 2% |  |
-| 92 | 0.5% | 0.9% |  |
-| 93 | 0.2% | 0.4% |  |
-| 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 79 | 9% | 80% |  |
+| 80 | 10% | 71% |  |
+| 81 | 10% | 61% |  |
+| 82 | 10% | 51% | Median |
+| 83 | 9% | 41% |  |
+| 84 | 8% | 32% |  |
+| 85 | 7% | 24% |  |
+| 86 | 5% | 17% |  |
+| 87 | 4% | 12% |  |
+| 88 | 3% | 7% |  |
+| 89 | 2% | 4% |  |
+| 90 | 1.2% | 2% |  |
+| 91 | 0.7% | 1.3% |  |
+| 92 | 0.3% | 0.6% |  |
+| 93 | 0.2% | 0.3% |  |
+| 94 | 0.1% | 0.1% |  |
+| 95 | 0% | 0% |  |
 
 

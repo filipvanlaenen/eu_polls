@@ -18,17 +18,16 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 48 | 44–53 | 42–54 | 42–55 | 40–57 |
+| European United Left–Nordic Green Left | EU | 46 | 48 | 43–53 | 42–54 | 42–55 | 40–57 |
 | La France insoumise | FR | | 12 | 10–16 | 10–16 | 9–16 | 9–18 |
-| Movimento 5 Stelle | IT | | 10 | 9–11 | 9–11 | 8–12 | 7–13 |
+| Movimento 5 Stelle | IT | | 10 | 9–11 | 8–11 | 8–12 | 7–13 |
 | Die Linke | DE | | 3 | 2–3 | 1–4 | 1–4 | 1–5 |
 | Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Podemos | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -41,6 +40,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,23 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0.1% | 100% |  |
 | 39 | 0.2% | 99.9% |  |
 | 40 | 0.6% | 99.7% |  |
-| 41 | 1.4% | 99.1% |  |
+| 41 | 1.5% | 99.1% |  |
 | 42 | 3% | 98% |  |
 | 43 | 5% | 95% |  |
 | 44 | 7% | 90% |  |
-| 45 | 8% | 84% |  |
-| 46 | 9% | 76% | Last Result |
+| 45 | 8% | 83% |  |
+| 46 | 9% | 75% | Last Result |
 | 47 | 9% | 67% |  |
 | 48 | 9% | 58% | Median |
-| 49 | 10% | 49% |  |
+| 49 | 10% | 48% |  |
 | 50 | 10% | 39% |  |
 | 51 | 9% | 29% |  |
 | 52 | 8% | 20% |  |
-| 53 | 6% | 13% |  |
+| 53 | 6% | 12% |  |
 | 54 | 4% | 7% |  |
 | 55 | 2% | 3% |  |
-| 56 | 0.9% | 1.5% |  |
-| 57 | 0.4% | 0.6% |  |
+| 56 | 0.9% | 1.4% |  |
+| 57 | 0.4% | 0.5% |  |
 | 58 | 0.1% | 0.2% |  |
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
