@@ -22,7 +22,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Nemuno aušra [LT] (*) | LT | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Bierpartei [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
