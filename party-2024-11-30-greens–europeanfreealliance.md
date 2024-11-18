@@ -27,7 +27,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 1 | 1 |
 | Die Grünen–Die Grüne Alternative | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Βολτ Κύπρος | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0–2 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 2% | 99.1% |  |
 | 31 | 5% | 97% |  |
 | 32 | 9% | 92% |  |
-| 33 | 13% | 84% |  |
+| 33 | 12% | 84% |  |
 | 34 | 15% | 71% |  |
 | 35 | 14% | 57% | Median |
 | 36 | 12% | 42% |  |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 1.0% | 2% |  |
 | 43 | 0.4% | 0.6% |  |
 | 44 | 0.1% | 0.2% |  |
-| 45 | 0% | 0% |  |
+| 45 | 0% | 0.1% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
