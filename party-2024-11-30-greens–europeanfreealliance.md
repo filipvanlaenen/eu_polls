@@ -56,7 +56,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -73,16 +73,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 99.1% |  |
 | 30 | 5% | 97% |  |
 | 31 | 9% | 92% |  |
-| 32 | 13% | 82% |  |
+| 32 | 13% | 83% |  |
 | 33 | 14% | 70% |  |
 | 34 | 13% | 56% | Median |
-| 35 | 12% | 42% |  |
+| 35 | 12% | 43% |  |
 | 36 | 10% | 31% |  |
 | 37 | 8% | 21% |  |
 | 38 | 6% | 13% |  |
 | 39 | 4% | 7% |  |
-| 40 | 2% | 3% |  |
-| 41 | 0.9% | 1.5% |  |
+| 40 | 2% | 4% |  |
+| 41 | 0.9% | 2% |  |
 | 42 | 0.4% | 0.6% |  |
 | 43 | 0.1% | 0.2% |  |
 | 44 | 0% | 0.1% |  |

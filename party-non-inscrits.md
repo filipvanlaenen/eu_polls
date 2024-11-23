@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **24** seats (-8 seats)
+Current median: **23** seats (-9 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,19 +18,19 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 24 | 20–27 | 20–27 | 19–28 | 18–29 |
+| Non-Inscrits | EU | 32 | 23 | 20–26 | 19–27 | 18–27 | 17–29 |
 | Bündnis Sahra Wagenknecht | DE | | 7 | 4–8 | 4–9 | 4–9 | 3–10 |
 | SMER–sociálna demokracia | SK | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -49,21 +49,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.4% | 99.9% |  |
-| 18 | 1.3% | 99.5% |  |
-| 19 | 3% | 98% |  |
-| 20 | 5% | 95% |  |
-| 21 | 9% | 90% |  |
-| 22 | 12% | 81% |  |
-| 23 | 15% | 69% |  |
-| 24 | 16% | 54% | Median |
-| 25 | 15% | 38% |  |
-| 26 | 12% | 23% |  |
-| 27 | 7% | 11% |  |
-| 28 | 3% | 4% |  |
-| 29 | 1.0% | 1.3% |  |
-| 30 | 0.2% | 0.3% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.8% | 99.8% |  |
+| 18 | 2% | 99.0% |  |
+| 19 | 4% | 97% |  |
+| 20 | 7% | 93% |  |
+| 21 | 11% | 86% |  |
+| 22 | 14% | 75% |  |
+| 23 | 16% | 61% | Median |
+| 24 | 16% | 45% |  |
+| 25 | 13% | 29% |  |
+| 26 | 9% | 15% |  |
+| 27 | 4% | 6% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.4% | 0.5% |  |
+| 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
 
