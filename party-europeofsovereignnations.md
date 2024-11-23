@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 29 | 25–34 | 25–35 | 24–36 | 23–37 |
+| Europe of Sovereign Nations | EU | 25 | 29 | 26–34 | 25–35 | 24–36 | 23–37 |
 | Alternative für Deutschland | DE | | 18 | 15–19 | 15–19 | 15–19 | 14–20 |
-| Nowa Nadzieja | PL | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Nowa Nadzieja | PL | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
+| REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Svoboda a přímá demokracie | CZ | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| REPUBLIKA | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Reconquête | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -38,24 +38,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.3% | 99.9% |  |
-| 23 | 1.2% | 99.6% |  |
-| 24 | 3% | 98% |  |
-| 25 | 6% | 95% | Last Result |
-| 26 | 10% | 89% |  |
-| 27 | 13% | 80% |  |
-| 28 | 14% | 67% |  |
-| 29 | 14% | 52% | Median |
-| 30 | 10% | 39% |  |
-| 31 | 7% | 28% |  |
-| 32 | 6% | 21% |  |
-| 33 | 5% | 16% |  |
-| 34 | 4% | 11% |  |
-| 35 | 3% | 6% |  |
-| 36 | 2% | 3% |  |
-| 37 | 0.7% | 1.0% |  |
-| 38 | 0.2% | 0.3% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.6% | 99.9% |  |
+| 24 | 2% | 99.3% |  |
+| 25 | 4% | 97% | Last Result |
+| 26 | 8% | 93% |  |
+| 27 | 11% | 85% |  |
+| 28 | 14% | 74% |  |
+| 29 | 15% | 60% | Median |
+| 30 | 12% | 45% |  |
+| 31 | 9% | 32% |  |
+| 32 | 6% | 24% |  |
+| 33 | 5% | 18% |  |
+| 34 | 5% | 13% |  |
+| 35 | 4% | 8% |  |
+| 36 | 2% | 4% |  |
+| 37 | 1.1% | 2% |  |
+| 38 | 0.4% | 0.5% |  |
 | 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
