@@ -29,7 +29,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Chega | PT | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
-| Dansk Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -59,10 +59,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 1.4% | 99.1% |  |
 | 94 | 3% | 98% |  |
 | 95 | 5% | 95% |  |
-| 96 | 8% | 90% |  |
-| 97 | 11% | 82% |  |
+| 96 | 8% | 89% |  |
+| 97 | 11% | 81% |  |
 | 98 | 12% | 71% |  |
-| 99 | 13% | 59% | Median |
+| 99 | 13% | 58% | Median |
 | 100 | 12% | 46% |  |
 | 101 | 10% | 34% |  |
 | 102 | 8% | 24% |  |
@@ -70,9 +70,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 4% | 10% |  |
 | 105 | 3% | 6% |  |
 | 106 | 2% | 4% |  |
-| 107 | 1.0% | 2% |  |
+| 107 | 0.9% | 2% |  |
 | 108 | 0.5% | 1.1% |  |
-| 109 | 0.3% | 0.6% |  |
+| 109 | 0.3% | 0.5% |  |
 | 110 | 0.1% | 0.3% |  |
 | 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0.1% |  |

@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> CZ, DE, DK, ES, FI, GR, HU, LT, LV, PL, RO, SI, SK
+> CZ, DE, DK, ES, FI, GR, HR, HU, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 23 | 20–26 | 19–27 | 19–28 | 17–29 |
-| Bündnis Sahra Wagenknecht | DE | | 7 | 4–8 | 3–9 | 3–9 | 3–10 |
+| Non-Inscrits | EU | 32 | 23 | 20–26 | 19–27 | 19–28 | 18–29 |
+| Bündnis Sahra Wagenknecht | DE | | 7 | 4–8 | 4–9 | 4–9 | 3–10 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -37,6 +37,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
+| Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
@@ -48,21 +49,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.5% | 99.9% |  |
-| 18 | 2% | 99.4% |  |
+| 17 | 0.3% | 100% |  |
+| 18 | 1.4% | 99.6% |  |
 | 19 | 4% | 98% |  |
-| 20 | 7% | 94% |  |
-| 21 | 10% | 88% |  |
+| 20 | 7% | 95% |  |
+| 21 | 11% | 88% |  |
 | 22 | 14% | 77% |  |
-| 23 | 16% | 64% | Median |
-| 24 | 16% | 48% |  |
-| 25 | 14% | 32% |  |
+| 23 | 16% | 63% | Median |
+| 24 | 16% | 47% |  |
+| 25 | 14% | 31% |  |
 | 26 | 10% | 18% |  |
 | 27 | 5% | 8% |  |
 | 28 | 2% | 3% |  |
-| 29 | 0.7% | 0.8% |  |
-| 30 | 0.2% | 0.2% |  |
+| 29 | 0.6% | 0.8% |  |
+| 30 | 0.1% | 0.2% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
 
