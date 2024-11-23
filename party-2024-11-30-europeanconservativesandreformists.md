@@ -19,7 +19,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 78 | 77 | 74–80 | 73–81 | 72–82 | 70–83 |
-| Fratelli d’Italia | IT | | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
+| Fratelli d’Italia | IT | | 27 | 24–28 | 24–28 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -43,7 +43,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
-| Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
+| Suverēnā vara | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -61,15 +61,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 5% | 96% |  |
 | 74 | 8% | 91% |  |
 | 75 | 11% | 84% |  |
-| 76 | 14% | 73% |  |
-| 77 | 15% | 58% | Median |
-| 78 | 15% | 43% | Last Result |
-| 79 | 12% | 29% |  |
-| 80 | 8% | 17% |  |
-| 81 | 5% | 9% |  |
-| 82 | 2% | 4% |  |
-| 83 | 1.0% | 1.5% |  |
-| 84 | 0.3% | 0.5% |  |
+| 76 | 14% | 72% |  |
+| 77 | 16% | 58% | Median |
+| 78 | 15% | 42% | Last Result |
+| 79 | 12% | 28% |  |
+| 80 | 8% | 16% |  |
+| 81 | 5% | 8% |  |
+| 82 | 2% | 3% |  |
+| 83 | 0.9% | 1.2% |  |
+| 84 | 0.3% | 0.4% |  |
 | 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0% |  |
 
