@@ -26,8 +26,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Aliança Democrática | PT | | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
-| Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Fine Gael | IE | | 5 | 5 | 5 | 5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
@@ -41,21 +41,21 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Jaunā VIENOTĪBA | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2 |
+| Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | BoerBurgerBeweging | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Δημοκρατικός Συναγερμός | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 1 | 1 | 1 | 1 |
-| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,12 +66,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
-| Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Slovensko–Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovensko–Za ľudí | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.2% | 99.8% |  |
 | 170 | 0.3% | 99.6% |  |
-| 171 | 0.6% | 99.3% |  |
+| 171 | 0.6% | 99.2% |  |
 | 172 | 0.9% | 98.7% |  |
 | 173 | 1.3% | 98% |  |
 | 174 | 2% | 96% |  |
@@ -97,22 +97,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 177 | 4% | 89% |  |
 | 178 | 5% | 85% |  |
 | 179 | 6% | 80% |  |
-| 180 | 7% | 74% |  |
-| 181 | 7% | 67% |  |
-| 182 | 7% | 60% |  |
+| 180 | 6% | 74% |  |
+| 181 | 7% | 68% |  |
+| 182 | 7% | 61% |  |
 | 183 | 8% | 53% | Median |
-| 184 | 8% | 45% |  |
+| 184 | 8% | 46% |  |
 | 185 | 7% | 38% |  |
-| 186 | 7% | 30% |  |
+| 186 | 7% | 31% |  |
 | 187 | 6% | 24% |  |
-| 188 | 5% | 18% | Last Result |
-| 189 | 4% | 13% |  |
-| 190 | 3% | 9% |  |
-| 191 | 2% | 6% |  |
+| 188 | 5% | 19% | Last Result |
+| 189 | 4% | 14% |  |
+| 190 | 3% | 10% |  |
+| 191 | 2% | 7% |  |
 | 192 | 2% | 4% |  |
-| 193 | 1.0% | 3% |  |
+| 193 | 1.1% | 3% |  |
 | 194 | 0.7% | 2% |  |
-| 195 | 0.4% | 0.8% |  |
+| 195 | 0.4% | 0.9% |  |
 | 196 | 0.2% | 0.5% |  |
 | 197 | 0.1% | 0.2% |  |
 | 198 | 0.1% | 0.1% |  |
