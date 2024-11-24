@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 183 | 176–189 | 174–191 | 173–192 | 170–195 |
+| European People’s Party | EU | 188 | 183 | 176–189 | 174–191 | 173–193 | 170–195 |
 | Christlich Demokratische Union Deutschlands | DE | | 25 | 23–27 | 23–27 | 22–29 | 21–30 |
 | Partido Popular | ES | | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
@@ -27,7 +27,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Fine Gael | IE | | 5 | 5 | 5 | 5 | 4–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
@@ -49,7 +49,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -87,35 +87,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 167 | 0.1% | 100% |  |
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.2% | 99.8% |  |
-| 170 | 0.4% | 99.6% |  |
-| 171 | 0.6% | 99.2% |  |
-| 172 | 0.9% | 98.6% |  |
-| 173 | 1.4% | 98% |  |
+| 170 | 0.3% | 99.6% |  |
+| 171 | 0.6% | 99.3% |  |
+| 172 | 0.9% | 98.7% |  |
+| 173 | 1.3% | 98% |  |
 | 174 | 2% | 96% |  |
-| 175 | 3% | 94% |  |
+| 175 | 3% | 95% |  |
 | 176 | 3% | 92% |  |
-| 177 | 4% | 88% |  |
-| 178 | 5% | 84% |  |
-| 179 | 6% | 79% |  |
-| 180 | 7% | 73% |  |
+| 177 | 4% | 89% |  |
+| 178 | 5% | 85% |  |
+| 179 | 6% | 80% |  |
+| 180 | 7% | 74% |  |
 | 181 | 7% | 67% |  |
-| 182 | 8% | 60% |  |
-| 183 | 8% | 52% | Median |
-| 184 | 8% | 44% |  |
-| 185 | 7% | 37% |  |
-| 186 | 6% | 30% |  |
-| 187 | 6% | 23% |  |
+| 182 | 7% | 60% |  |
+| 183 | 8% | 53% | Median |
+| 184 | 8% | 45% |  |
+| 185 | 7% | 38% |  |
+| 186 | 7% | 30% |  |
+| 187 | 6% | 24% |  |
 | 188 | 5% | 18% | Last Result |
 | 189 | 4% | 13% |  |
 | 190 | 3% | 9% |  |
 | 191 | 2% | 6% |  |
-| 192 | 1.5% | 4% |  |
-| 193 | 1.0% | 2% |  |
-| 194 | 0.6% | 1.4% |  |
+| 192 | 2% | 4% |  |
+| 193 | 1.0% | 3% |  |
+| 194 | 0.7% | 2% |  |
 | 195 | 0.4% | 0.8% |  |
-| 196 | 0.2% | 0.4% |  |
+| 196 | 0.2% | 0.5% |  |
 | 197 | 0.1% | 0.2% |  |
 | 198 | 0.1% | 0.1% |  |
-| 199 | 0% | 0% |  |
+| 199 | 0% | 0.1% |  |
+| 200 | 0% | 0% |  |
 
 
