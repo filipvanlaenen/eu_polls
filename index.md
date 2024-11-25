@@ -11,7 +11,7 @@
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 188 | 183 | 176–189 |174–191 | 173–193 | 170–195 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 136 | 133 | 125–139 |123–140 | 122–141 | 120–143 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 136 | 133 | 125–138 |123–140 | 122–141 | 120–143 |
 | <a href="#patriots-for-europe">Patriots for Europe</a> | 84 | 99 | 95–104 |94–105 | 93–106 | 92–109 |
 | <a href="#renew-europe">Renew Europe</a> | 77 | 81 | 77–86 |75–87 | 75–89 | 73–91 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 78 | 77 | 74–80 |73–81 | 72–82 | 70–83 |
