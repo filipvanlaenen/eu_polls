@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 76 | 73–79 | 72–80 | 71–81 | 69–83 |
+| European Conservatives and Reformists | EU | 78 | 76 | 73–79 | 72–80 | 71–81 | 70–83 |
 | Fratelli d’Italia | IT | | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–8 | 5–9 | 5–9 | 5–9 |
@@ -26,7 +26,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
@@ -58,18 +58,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 100% |  |
 | 69 | 0.4% | 99.9% |  |
 | 70 | 1.0% | 99.5% |  |
-| 71 | 2% | 98.5% |  |
+| 71 | 2% | 98.6% |  |
 | 72 | 4% | 96% |  |
 | 73 | 7% | 92% |  |
 | 74 | 10% | 85% |  |
-| 75 | 14% | 75% |  |
-| 76 | 15% | 61% | Median |
+| 75 | 13% | 75% |  |
+| 76 | 15% | 62% | Median |
 | 77 | 15% | 46% |  |
 | 78 | 12% | 31% | Last Result |
 | 79 | 9% | 19% |  |
 | 80 | 5% | 10% |  |
-| 81 | 3% | 4% |  |
-| 82 | 1.1% | 2% |  |
+| 81 | 3% | 5% |  |
+| 82 | 1.2% | 2% |  |
 | 83 | 0.4% | 0.6% |  |
 | 84 | 0.1% | 0.2% |  |
 | 85 | 0% | 0% |  |
