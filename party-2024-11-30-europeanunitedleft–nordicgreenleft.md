@@ -29,6 +29,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -36,12 +37,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.5% | 99.7% |  |
+| 42 | 0.4% | 99.8% |  |
 | 43 | 1.0% | 99.3% |  |
 | 44 | 2% | 98% |  |
 | 45 | 3% | 96% |  |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 9% | 38% |  |
 | 54 | 8% | 29% |  |
 | 55 | 7% | 21% |  |
-| 56 | 5% | 14% |  |
+| 56 | 6% | 14% |  |
 | 57 | 4% | 8% |  |
 | 58 | 2% | 4% |  |
 | 59 | 1.2% | 2% |  |

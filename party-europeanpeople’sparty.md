@@ -50,7 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | BoerBurgerBeweging | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικός Συναγερμός | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -71,7 +71,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Slovensko–Za ľudí | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Slovensko–Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -89,28 +89,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 0.1% | 99.9% |  |
 | 169 | 0.2% | 99.7% |  |
 | 170 | 0.4% | 99.5% |  |
-| 171 | 0.6% | 99.1% |  |
+| 171 | 0.7% | 99.1% |  |
 | 172 | 1.0% | 98% |  |
-| 173 | 1.4% | 97% |  |
+| 173 | 1.5% | 97% |  |
 | 174 | 2% | 96% |  |
 | 175 | 3% | 94% |  |
 | 176 | 3% | 91% |  |
 | 177 | 4% | 88% |  |
-| 178 | 5% | 84% |  |
-| 179 | 6% | 79% |  |
-| 180 | 7% | 73% |  |
+| 178 | 5% | 83% |  |
+| 179 | 6% | 78% |  |
+| 180 | 7% | 72% |  |
 | 181 | 7% | 66% |  |
 | 182 | 7% | 59% |  |
-| 183 | 8% | 52% | Median |
+| 183 | 8% | 51% | Median |
 | 184 | 7% | 44% |  |
-| 185 | 7% | 37% |  |
-| 186 | 6% | 30% |  |
+| 185 | 7% | 36% |  |
+| 186 | 6% | 29% |  |
 | 187 | 6% | 23% |  |
 | 188 | 5% | 17% | Last Result |
-| 189 | 4% | 13% |  |
+| 189 | 4% | 12% |  |
 | 190 | 3% | 9% |  |
 | 191 | 2% | 6% |  |
-| 192 | 1.5% | 4% |  |
+| 192 | 1.4% | 4% |  |
 | 193 | 1.0% | 2% |  |
 | 194 | 0.6% | 1.4% |  |
 | 195 | 0.4% | 0.8% |  |
