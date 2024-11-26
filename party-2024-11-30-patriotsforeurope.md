@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **99** seats (+15 seats)
+Current median: **100** seats (+16 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 99 | 95–104 | 94–105 | 93–106 | 92–109 |
+| Patriots for Europe | EU | 84 | 100 | 96–105 | 95–106 | 94–107 | 93–110 |
 | Rassemblement national | FR | | 32 | 30–35 | 30–36 | 30–37 | 29–40 |
 | Partij voor de Vrijheid | NL | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
-| ANO 2011 | CZ | | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| ANO 2011 | CZ | | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| Vox | ES | | 9 | 7–11 | 6–11 | 6–12 | 6–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Vox | ES | | 8 | 6–11 | 6–11 | 6–12 | 6–12 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Motoristé sobě | CZ | | 0 | 0 | 0 | 0 | 0–1 |
+| Motoristé sobě | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -53,29 +53,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
 | 89 | 0% | 100% |  |
-| 90 | 0.1% | 100% |  |
-| 91 | 0.3% | 99.9% |  |
-| 92 | 0.7% | 99.6% |  |
-| 93 | 2% | 98.9% |  |
-| 94 | 3% | 97% |  |
-| 95 | 5% | 94% |  |
-| 96 | 8% | 89% |  |
-| 97 | 10% | 81% |  |
-| 98 | 12% | 71% |  |
-| 99 | 12% | 59% | Median |
-| 100 | 12% | 47% |  |
-| 101 | 10% | 35% |  |
-| 102 | 8% | 25% |  |
-| 103 | 6% | 17% |  |
-| 104 | 4% | 11% |  |
-| 105 | 3% | 7% |  |
-| 106 | 2% | 4% |  |
-| 107 | 1.1% | 2% |  |
-| 108 | 0.6% | 1.2% |  |
-| 109 | 0.3% | 0.6% |  |
-| 110 | 0.2% | 0.3% |  |
-| 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0.1% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0.1% | 100% |  |
+| 92 | 0.3% | 99.8% |  |
+| 93 | 0.7% | 99.5% |  |
+| 94 | 2% | 98.8% |  |
+| 95 | 3% | 97% |  |
+| 96 | 5% | 94% |  |
+| 97 | 8% | 89% |  |
+| 98 | 10% | 82% |  |
+| 99 | 12% | 72% |  |
+| 100 | 12% | 60% | Median |
+| 101 | 12% | 47% |  |
+| 102 | 10% | 35% |  |
+| 103 | 8% | 25% |  |
+| 104 | 6% | 17% |  |
+| 105 | 4% | 11% |  |
+| 106 | 3% | 6% |  |
+| 107 | 2% | 4% |  |
+| 108 | 1.0% | 2% |  |
+| 109 | 0.5% | 1.1% |  |
+| 110 | 0.3% | 0.5% |  |
+| 111 | 0.1% | 0.3% |  |
+| 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 
 

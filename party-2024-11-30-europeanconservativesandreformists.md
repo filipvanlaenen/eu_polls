@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **77** seats (-1 seats)
+Current median: **76** seats (-2 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 77 | 74–80 | 73–81 | 72–82 | 70–83 |
+| European Conservatives and Reformists | EU | 78 | 76 | 73–79 | 72–80 | 71–81 | 69–83 |
 | Fratelli d’Italia | IT | | 27 | 24–28 | 24–28 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | Alianța pentru Unirea Românilor | RO | | 6 | 5–8 | 5–9 | 5–9 | 5–9 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -55,23 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.4% | 99.8% |  |
-| 71 | 1.1% | 99.4% |  |
-| 72 | 3% | 98% |  |
-| 73 | 5% | 96% |  |
-| 74 | 8% | 91% |  |
-| 75 | 12% | 83% |  |
-| 76 | 15% | 71% |  |
-| 77 | 16% | 56% | Median |
-| 78 | 14% | 40% | Last Result |
-| 79 | 11% | 26% |  |
-| 80 | 7% | 14% |  |
-| 81 | 4% | 7% |  |
-| 82 | 2% | 3% |  |
-| 83 | 0.7% | 1.0% |  |
-| 84 | 0.2% | 0.3% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.4% | 99.8% |  |
+| 70 | 1.0% | 99.5% |  |
+| 71 | 2% | 98% |  |
+| 72 | 4% | 96% |  |
+| 73 | 7% | 92% |  |
+| 74 | 11% | 84% |  |
+| 75 | 14% | 74% |  |
+| 76 | 15% | 60% | Median |
+| 77 | 15% | 44% |  |
+| 78 | 12% | 30% | Last Result |
+| 79 | 8% | 18% |  |
+| 80 | 5% | 9% |  |
+| 81 | 3% | 4% |  |
+| 82 | 1.1% | 2% |  |
+| 83 | 0.4% | 0.5% |  |
+| 84 | 0.1% | 0.2% |  |
+| 85 | 0% | 0% |  |
 
 
