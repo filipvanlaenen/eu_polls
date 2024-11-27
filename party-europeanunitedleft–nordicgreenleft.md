@@ -43,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -69,17 +69,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 0.5% | 99.7% |  |
 | 43 | 1.1% | 99.2% |  |
 | 44 | 2% | 98% |  |
-| 45 | 4% | 96% |  |
-| 46 | 5% | 92% | Last Result |
+| 45 | 3% | 96% |  |
+| 46 | 5% | 93% | Last Result |
 | 47 | 7% | 87% |  |
 | 48 | 8% | 81% |  |
 | 49 | 9% | 73% |  |
-| 50 | 9% | 64% |  |
-| 51 | 9% | 55% | Median |
+| 50 | 9% | 65% |  |
+| 51 | 9% | 56% | Median |
 | 52 | 9% | 46% |  |
 | 53 | 9% | 37% |  |
 | 54 | 8% | 28% |  |
-| 55 | 7% | 19% |  |
+| 55 | 7% | 20% |  |
 | 56 | 5% | 13% |  |
 | 57 | 3% | 7% |  |
 | 58 | 2% | 4% |  |
