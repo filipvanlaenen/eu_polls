@@ -27,7 +27,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | Partidul Național Liberal | RO | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–8 | 5–9 | 5–9 | 5–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Fine Gael | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 166 | 0.1% | 100% |  |
+| 166 | 0% | 100% |  |
 | 167 | 0.1% | 99.9% |  |
 | 168 | 0.2% | 99.8% |  |
 | 169 | 0.3% | 99.6% |  |
