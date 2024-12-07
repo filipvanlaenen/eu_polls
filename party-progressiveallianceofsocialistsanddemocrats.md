@@ -18,16 +18,16 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 133 | 124–139 | 123–140 | 121–141 | 119–144 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 133 | 124–138 | 123–140 | 121–141 | 119–143 |
 | Partito Democratico | IT | | 20 | 19–22 | 18–23 | 18–24 | 17–24 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–18 | 13–18 | 12–18 | 12–18 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–17 | 13–18 | 12–18 | 12–18 |
 | Partidul Social Democrat | RO | | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–11 | 0–11 | 0–11 | 0–12 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Κίνημα Αλλαγής | GR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3 | 3 | 3 | 3 |
@@ -46,7 +46,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
-| Social Democrats | IE | | 0 | 0 | 0–1 | 0–1 | 0–2 |
+| Social Democrats | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατικό Κόμμα | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -61,34 +61,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 117 | 0.1% | 100% |  |
 | 118 | 0.2% | 99.9% |  |
-| 119 | 0.4% | 99.8% |  |
-| 120 | 0.7% | 99.4% |  |
-| 121 | 1.2% | 98.7% |  |
+| 119 | 0.4% | 99.7% |  |
+| 120 | 0.8% | 99.3% |  |
+| 121 | 1.3% | 98.6% |  |
 | 122 | 2% | 97% |  |
-| 123 | 3% | 96% |  |
+| 123 | 3% | 95% |  |
 | 124 | 3% | 93% |  |
-| 125 | 4% | 90% |  |
-| 126 | 4% | 86% |  |
+| 125 | 4% | 89% |  |
+| 126 | 4% | 85% |  |
 | 127 | 4% | 82% |  |
 | 128 | 4% | 78% |  |
-| 129 | 4% | 74% |  |
-| 130 | 5% | 70% |  |
-| 131 | 6% | 65% |  |
-| 132 | 7% | 59% |  |
-| 133 | 7% | 52% | Median |
-| 134 | 8% | 45% |  |
-| 135 | 8% | 37% |  |
-| 136 | 7% | 29% | Last Result |
-| 137 | 6% | 22% |  |
-| 138 | 5% | 16% |  |
-| 139 | 4% | 11% |  |
-| 140 | 3% | 7% |  |
-| 141 | 2% | 4% |  |
-| 142 | 1.1% | 2% |  |
-| 143 | 0.6% | 1.1% |  |
-| 144 | 0.3% | 0.5% |  |
+| 129 | 5% | 73% |  |
+| 130 | 5% | 69% |  |
+| 131 | 6% | 64% |  |
+| 132 | 7% | 58% |  |
+| 133 | 8% | 51% | Median |
+| 134 | 8% | 43% |  |
+| 135 | 8% | 35% |  |
+| 136 | 7% | 28% | Last Result |
+| 137 | 6% | 20% |  |
+| 138 | 5% | 14% |  |
+| 139 | 4% | 9% |  |
+| 140 | 2% | 6% |  |
+| 141 | 2% | 3% |  |
+| 142 | 0.9% | 2% |  |
+| 143 | 0.5% | 0.9% |  |
+| 144 | 0.3% | 0.4% |  |
 | 145 | 0.1% | 0.2% |  |
-| 146 | 0.1% | 0.1% |  |
+| 146 | 0% | 0.1% |  |
 | 147 | 0% | 0% |  |
 
 

@@ -22,13 +22,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 20–27 | 19–28 | 19–29 | 18–30 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Fianna Fáil | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| Fianna Fáil | IE | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -81,23 +81,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
 | 73 | 0.4% | 99.8% |  |
-| 74 | 1.0% | 99.3% |  |
+| 74 | 1.0% | 99.4% |  |
 | 75 | 2% | 98% |  |
 | 76 | 4% | 96% |  |
-| 77 | 6% | 92% | Last Result |
-| 78 | 8% | 86% |  |
+| 77 | 6% | 93% | Last Result |
+| 78 | 8% | 87% |  |
 | 79 | 10% | 78% |  |
 | 80 | 11% | 68% |  |
 | 81 | 11% | 57% | Median |
 | 82 | 10% | 46% |  |
 | 83 | 9% | 36% |  |
-| 84 | 7% | 27% |  |
+| 84 | 7% | 28% |  |
 | 85 | 6% | 20% |  |
 | 86 | 5% | 14% |  |
 | 87 | 4% | 9% |  |
 | 88 | 2% | 5% |  |
-| 89 | 1.4% | 3% |  |
-| 90 | 0.8% | 1.4% |  |
+| 89 | 1.5% | 3% |  |
+| 90 | 0.8% | 2% |  |
 | 91 | 0.4% | 0.7% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |

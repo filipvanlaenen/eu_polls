@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 100 | 96–104 | 95–106 | 94–107 | 92–109 |
+| Patriots for Europe | EU | 84 | 100 | 96–104 | 95–105 | 94–107 | 92–109 |
 | Rassemblement national | FR | | 32 | 30–35 | 30–36 | 30–37 | 29–40 |
 | Partij voor de Vrijheid | NL | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | ANO 2011 | CZ | | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | Vox | ES | | 9 | 7–11 | 6–11 | 6–12 | 6–12 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| Freiheitliche Partei Österreichs | AT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| Freiheitliche Partei Österreichs | AT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | Chega | PT | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
@@ -56,22 +56,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 0.1% | 100% |  |
 | 91 | 0.2% | 99.9% |  |
 | 92 | 0.6% | 99.6% |  |
-| 93 | 1.2% | 99.1% |  |
+| 93 | 1.3% | 99.1% |  |
 | 94 | 2% | 98% |  |
 | 95 | 4% | 95% |  |
 | 96 | 6% | 91% |  |
 | 97 | 9% | 85% |  |
 | 98 | 11% | 76% |  |
-| 99 | 12% | 66% |  |
-| 100 | 12% | 54% | Median |
-| 101 | 11% | 42% |  |
-| 102 | 9% | 31% |  |
+| 99 | 12% | 65% |  |
+| 100 | 12% | 53% | Median |
+| 101 | 11% | 41% |  |
+| 102 | 9% | 30% |  |
 | 103 | 7% | 21% |  |
-| 104 | 5% | 14% |  |
-| 105 | 4% | 9% |  |
+| 104 | 5% | 13% |  |
+| 105 | 3% | 8% |  |
 | 106 | 2% | 5% |  |
 | 107 | 1.3% | 3% |  |
-| 108 | 0.8% | 2% |  |
+| 108 | 0.7% | 1.5% |  |
 | 109 | 0.4% | 0.8% |  |
 | 110 | 0.2% | 0.4% |  |
 | 111 | 0.1% | 0.2% |  |
