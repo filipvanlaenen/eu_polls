@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 81 | 77–86 | 76–87 | 75–88 | 73–91 |
+| Renew Europe | EU | 77 | 81 | 77–86 | 76–87 | 75–89 | 73–91 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 20–27 | 19–28 | 19–29 | 18–30 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
@@ -48,7 +48,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Алианс за права и свободи | BG | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Azione | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -86,20 +86,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 4% | 96% |  |
 | 77 | 7% | 91% | Last Result |
 | 78 | 9% | 85% |  |
-| 79 | 11% | 76% |  |
+| 79 | 10% | 76% |  |
 | 80 | 11% | 65% |  |
 | 81 | 11% | 54% | Median |
-| 82 | 10% | 43% |  |
+| 82 | 10% | 44% |  |
 | 83 | 8% | 34% |  |
-| 84 | 7% | 25% |  |
-| 85 | 6% | 18% |  |
-| 86 | 5% | 12% |  |
+| 84 | 7% | 26% |  |
+| 85 | 6% | 19% |  |
+| 86 | 5% | 13% |  |
 | 87 | 3% | 8% |  |
 | 88 | 2% | 5% |  |
-| 89 | 1.2% | 2% |  |
-| 90 | 0.7% | 1.2% |  |
-| 91 | 0.3% | 0.6% |  |
-| 92 | 0.1% | 0.2% |  |
+| 89 | 1.3% | 3% |  |
+| 90 | 0.7% | 1.3% |  |
+| 91 | 0.4% | 0.6% |  |
+| 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
