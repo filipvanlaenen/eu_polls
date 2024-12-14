@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (+6 seats)
+Current median: **51** seats (+5 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 52 | 47–57 | 46–58 | 45–59 | 43–61 |
+| European United Left–Nordic Green Left | EU | 46 | 51 | 46–56 | 45–57 | 44–58 | 42–60 |
 | La France insoumise | FR | | 12 | 10–16 | 10–16 | 9–16 | 9–18 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
@@ -26,7 +26,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Sinn Féin | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Socialistische Partij | NL | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,29 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
-| 43 | 0.7% | 99.6% |  |
-| 44 | 1.4% | 98.9% |  |
-| 45 | 2% | 98% |  |
-| 46 | 4% | 95% | Last Result |
-| 47 | 5% | 91% |  |
-| 48 | 7% | 86% |  |
-| 49 | 8% | 79% |  |
-| 50 | 9% | 71% |  |
-| 51 | 9% | 62% |  |
-| 52 | 9% | 53% | Median |
-| 53 | 9% | 44% |  |
-| 54 | 9% | 35% |  |
-| 55 | 8% | 26% |  |
-| 56 | 6% | 18% |  |
-| 57 | 5% | 11% |  |
-| 58 | 3% | 7% |  |
-| 59 | 2% | 3% |  |
-| 60 | 0.9% | 2% |  |
-| 61 | 0.4% | 0.7% |  |
-| 62 | 0.2% | 0.3% |  |
-| 63 | 0.1% | 0.1% |  |
-| 64 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.2% | 99.9% |  |
+| 42 | 0.5% | 99.7% |  |
+| 43 | 1.0% | 99.3% |  |
+| 44 | 2% | 98% |  |
+| 45 | 3% | 96% |  |
+| 46 | 5% | 93% | Last Result |
+| 47 | 6% | 88% |  |
+| 48 | 8% | 82% |  |
+| 49 | 8% | 74% |  |
+| 50 | 9% | 66% |  |
+| 51 | 9% | 57% | Median |
+| 52 | 9% | 47% |  |
+| 53 | 9% | 38% |  |
+| 54 | 8% | 29% |  |
+| 55 | 7% | 21% |  |
+| 56 | 5% | 14% |  |
+| 57 | 4% | 8% |  |
+| 58 | 2% | 4% |  |
+| 59 | 1.2% | 2% |  |
+| 60 | 0.6% | 0.9% |  |
+| 61 | 0.2% | 0.4% |  |
+| 62 | 0.1% | 0.1% |  |
+| 63 | 0% | 0% |  |
 
 

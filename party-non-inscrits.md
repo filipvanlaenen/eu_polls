@@ -23,14 +23,14 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partidul S.O.S. România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Πλεύση Ελευθερίας | GR | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -51,13 +51,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.2% | 100% |  |
 | 17 | 0.9% | 99.8% |  |
-| 18 | 3% | 98.9% |  |
+| 18 | 3% | 98.8% |  |
 | 19 | 5% | 96% |  |
 | 20 | 9% | 91% |  |
 | 21 | 13% | 82% |  |
-| 22 | 15% | 70% |  |
-| 23 | 16% | 54% | Median |
-| 24 | 15% | 38% |  |
+| 22 | 16% | 69% |  |
+| 23 | 16% | 53% | Median |
+| 24 | 15% | 37% |  |
 | 25 | 12% | 22% |  |
 | 26 | 7% | 10% |  |
 | 27 | 3% | 4% |  |
