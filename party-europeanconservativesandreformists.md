@@ -27,7 +27,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
@@ -57,19 +57,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
 | 68 | 0.3% | 99.9% |  |
-| 69 | 1.0% | 99.6% |  |
-| 70 | 2% | 98.6% |  |
+| 69 | 1.0% | 99.5% |  |
+| 70 | 3% | 98% |  |
 | 71 | 5% | 96% |  |
 | 72 | 8% | 91% |  |
-| 73 | 11% | 84% |  |
-| 74 | 13% | 73% |  |
-| 75 | 14% | 60% | Median |
-| 76 | 14% | 46% |  |
-| 77 | 12% | 32% |  |
+| 73 | 11% | 83% |  |
+| 74 | 13% | 72% |  |
+| 75 | 14% | 59% | Median |
+| 76 | 14% | 45% |  |
+| 77 | 12% | 31% |  |
 | 78 | 9% | 20% | Last Result |
 | 79 | 6% | 11% |  |
 | 80 | 3% | 6% |  |
-| 81 | 2% | 2% |  |
+| 81 | 1.5% | 2% |  |
 | 82 | 0.6% | 0.9% |  |
 | 83 | 0.2% | 0.3% |  |
 | 84 | 0.1% | 0.1% |  |
