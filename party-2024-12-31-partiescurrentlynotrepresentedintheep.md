@@ -22,7 +22,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Bierpartei [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bierpartei [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -61,9 +61,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 7% | 100% |  |
-| 3 | 37% | 93% |  |
+| 3 | 38% | 93% |  |
 | 4 | 39% | 55% | Median |
-| 5 | 14% | 17% |  |
+| 5 | 14% | 16% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

@@ -8,24 +8,23 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-15 seats)
+Current median: **37** seats (-16 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL, SE
+> AT, BE, CY, DE, DK, ES, FI, HR, LT, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 34–42 | 33–44 | 32–45 | 30–47 |
+| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 32–43 | 31–44 | 30–47 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Volt Europa | DE | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
-| Česká pirátská strana | CZ | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -46,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Partidul Ecologist Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -58,6 +57,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Česká pirátská strana | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -68,28 +68,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% |  |
-| 30 | 0.4% | 99.9% |  |
-| 31 | 1.1% | 99.5% |  |
-| 32 | 2% | 98% |  |
-| 33 | 4% | 96% |  |
-| 34 | 7% | 92% |  |
-| 35 | 9% | 85% |  |
-| 36 | 12% | 75% |  |
-| 37 | 12% | 64% |  |
-| 38 | 12% | 51% | Median |
-| 39 | 10% | 39% |  |
-| 40 | 9% | 29% |  |
-| 41 | 7% | 20% |  |
-| 42 | 5% | 14% |  |
-| 43 | 4% | 9% |  |
-| 44 | 2% | 5% |  |
-| 45 | 1.3% | 3% |  |
-| 46 | 0.8% | 2% |  |
-| 47 | 0.4% | 0.9% |  |
-| 48 | 0.2% | 0.5% |  |
-| 49 | 0.1% | 0.2% |  |
-| 50 | 0.1% | 0.1% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.4% | 99.9% |  |
+| 30 | 1.0% | 99.5% |  |
+| 31 | 2% | 98% |  |
+| 32 | 4% | 96% |  |
+| 33 | 7% | 92% |  |
+| 34 | 9% | 85% |  |
+| 35 | 11% | 76% |  |
+| 36 | 12% | 65% |  |
+| 37 | 12% | 53% | Median |
+| 38 | 11% | 41% |  |
+| 39 | 9% | 30% |  |
+| 40 | 7% | 22% |  |
+| 41 | 5% | 15% |  |
+| 42 | 4% | 10% |  |
+| 43 | 2% | 6% |  |
+| 44 | 1.5% | 3% |  |
+| 45 | 0.9% | 2% |  |
+| 46 | 0.5% | 1.0% |  |
+| 47 | 0.3% | 0.5% |  |
+| 48 | 0.1% | 0.3% |  |
+| 49 | 0.1% | 0.1% |  |
+| 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |

@@ -18,12 +18,12 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 29 | 26–31 | 25–32 | 25–33 | 24–35 |
+| Europe of Sovereign Nations | EU | 25 | 29 | 27–32 | 26–33 | 26–34 | 25–36 |
 | Alternative für Deutschland | DE | | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| Svoboda a přímá demokracie | CZ | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Svoboda a přímá demokracie | CZ | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Forum voor Democratie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
@@ -38,21 +38,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.2% | 100% |  |
-| 24 | 1.1% | 99.7% |  |
-| 25 | 4% | 98.6% | Last Result |
-| 26 | 9% | 95% |  |
-| 27 | 15% | 86% |  |
-| 28 | 19% | 71% |  |
-| 29 | 19% | 53% | Median |
-| 30 | 15% | 34% |  |
-| 31 | 10% | 19% |  |
-| 32 | 5% | 9% |  |
-| 33 | 2% | 4% |  |
-| 34 | 1.0% | 2% |  |
-| 35 | 0.6% | 1.0% |  |
-| 36 | 0.3% | 0.5% |  |
-| 37 | 0.1% | 0.2% |  |
-| 38 | 0% | 0% |  |
+| 24 | 0.2% | 100% |  |
+| 25 | 1.3% | 99.7% | Last Result |
+| 26 | 5% | 98% |  |
+| 27 | 11% | 94% |  |
+| 28 | 17% | 83% |  |
+| 29 | 20% | 66% | Median |
+| 30 | 18% | 46% |  |
+| 31 | 13% | 28% |  |
+| 32 | 8% | 15% |  |
+| 33 | 4% | 7% |  |
+| 34 | 2% | 3% |  |
+| 35 | 0.8% | 2% |  |
+| 36 | 0.5% | 0.8% |  |
+| 37 | 0.2% | 0.3% |  |
+| 38 | 0.1% | 0.1% |  |
+| 39 | 0% | 0% |  |
 
 

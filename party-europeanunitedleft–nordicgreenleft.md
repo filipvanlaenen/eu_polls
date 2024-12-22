@@ -37,13 +37,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -66,17 +66,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
-| 41 | 0.6% | 99.7% |  |
-| 42 | 1.3% | 99.1% |  |
+| 41 | 0.5% | 99.7% |  |
+| 42 | 1.2% | 99.2% |  |
 | 43 | 2% | 98% |  |
-| 44 | 4% | 95% |  |
+| 44 | 4% | 96% |  |
 | 45 | 7% | 91% |  |
-| 46 | 10% | 84% | Last Result |
+| 46 | 9% | 84% | Last Result |
 | 47 | 12% | 75% |  |
 | 48 | 13% | 63% | Median |
-| 49 | 13% | 49% |  |
+| 49 | 13% | 50% |  |
 | 50 | 12% | 36% |  |
-| 51 | 9% | 24% |  |
+| 51 | 9% | 25% |  |
 | 52 | 7% | 15% |  |
 | 53 | 4% | 8% |  |
 | 54 | 2% | 4% |  |

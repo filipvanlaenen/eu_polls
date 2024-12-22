@@ -52,6 +52,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,7 +64,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 0 | 0 | 0 | 0 | 0–1 |
-| Momentum Mozgalom | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -86,18 +87,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 2% | 98% | Last Result |
 | 78 | 4% | 95% |  |
 | 79 | 6% | 92% |  |
-| 80 | 8% | 86% |  |
+| 80 | 9% | 86% |  |
 | 81 | 11% | 77% |  |
 | 82 | 14% | 66% |  |
-| 83 | 14% | 53% | Median |
+| 83 | 14% | 52% | Median |
 | 84 | 13% | 38% |  |
 | 85 | 10% | 25% |  |
-| 86 | 7% | 15% |  |
+| 86 | 7% | 14% |  |
 | 87 | 4% | 8% |  |
 | 88 | 2% | 4% |  |
-| 89 | 1.0% | 2% |  |
-| 90 | 0.4% | 0.7% |  |
-| 91 | 0.2% | 0.3% |  |
+| 89 | 0.9% | 2% |  |
+| 90 | 0.4% | 0.6% |  |
+| 91 | 0.1% | 0.2% |  |
 | 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0% |  |
 
