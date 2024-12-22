@@ -8,7 +8,7 @@ Members registered from **9 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **28** seats (+3 seats)
+Current median: **29** seats (+4 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 28 | 25–31 | 25–32 | 24–33 | 23–35 |
-| Alternative für Deutschland | DE | | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
+| Europe of Sovereign Nations | EU | 25 | 29 | 26–31 | 25–32 | 25–33 | 24–35 |
+| Alternative für Deutschland | DE | | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
 | Nowa Nadzieja | PL | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Възраждане | BG | | 3 | 3 | 3 | 3 | 3 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,22 +38,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 0.9% | 99.8% |  |
-| 24 | 3% | 98.9% |  |
-| 25 | 7% | 96% | Last Result |
-| 26 | 12% | 89% |  |
-| 27 | 17% | 77% |  |
-| 28 | 18% | 61% | Median |
-| 29 | 16% | 43% |  |
-| 30 | 13% | 26% |  |
-| 31 | 8% | 14% |  |
-| 32 | 3% | 6% |  |
-| 33 | 1.4% | 3% |  |
-| 34 | 0.7% | 1.3% |  |
-| 35 | 0.4% | 0.7% |  |
-| 36 | 0.2% | 0.3% |  |
-| 37 | 0.1% | 0.1% |  |
+| 23 | 0.2% | 100% |  |
+| 24 | 1.1% | 99.7% |  |
+| 25 | 4% | 98.6% | Last Result |
+| 26 | 9% | 95% |  |
+| 27 | 15% | 86% |  |
+| 28 | 19% | 71% |  |
+| 29 | 19% | 53% | Median |
+| 30 | 15% | 34% |  |
+| 31 | 10% | 19% |  |
+| 32 | 5% | 9% |  |
+| 33 | 2% | 4% |  |
+| 34 | 1.0% | 2% |  |
+| 35 | 0.6% | 1.0% |  |
+| 36 | 0.3% | 0.5% |  |
+| 37 | 0.1% | 0.2% |  |
 | 38 | 0% | 0% |  |
 
 

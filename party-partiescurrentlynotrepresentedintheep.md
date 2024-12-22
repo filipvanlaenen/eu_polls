@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **21 countries**:
 
-> AT, BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, SI
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+2 seats)
+Current median: **4** seats (+3 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| Nemuno aušra [LT] (*) | LT | | 2 | 2 | 2 | 2 | 2 |
+| Parties currently not represented in the EP | EU | 1 | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bierpartei [AT] (*) | AT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -27,6 +27,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -36,7 +37,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Naša dežela [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Naša prihodnost [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,11 +60,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 28% | 100% |  |
-| 3 | 46% | 72% | Median |
-| 4 | 22% | 26% |  |
-| 5 | 4% | 4% |  |
-| 6 | 0.3% | 0.3% |  |
-| 7 | 0% | 0% |  |
+| 2 | 7% | 100% |  |
+| 3 | 37% | 93% |  |
+| 4 | 39% | 55% | Median |
+| 5 | 14% | 17% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
