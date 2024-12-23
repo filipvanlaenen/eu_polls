@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 103 | 98–108 | 97–109 | 95–110 | 93–112 |
+| Patriots for Europe | EU | 84 | 103 | 98–108 | 97–109 | 96–110 | 94–112 |
 | Rassemblement national | FR | | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
 | Partij voor de Vrijheid | NL | | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
-| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| ANO 2011 | CZ | | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–12 | 8–12 | 7–13 | 7–13 |
 | Vox | ES | | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
@@ -59,10 +59,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0.3% | 99.8% |  |
 | 94 | 0.7% | 99.5% |  |
 | 95 | 1.3% | 98.8% |  |
-| 96 | 2% | 97% |  |
+| 96 | 2% | 98% |  |
 | 97 | 3% | 95% |  |
 | 98 | 5% | 92% |  |
-| 99 | 7% | 87% |  |
+| 99 | 6% | 87% |  |
 | 100 | 8% | 80% |  |
 | 101 | 9% | 72% |  |
 | 102 | 10% | 63% |  |
@@ -70,12 +70,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 10% | 43% |  |
 | 105 | 9% | 33% |  |
 | 106 | 8% | 24% |  |
-| 107 | 6% | 16% |  |
-| 108 | 4% | 10% |  |
+| 107 | 6% | 17% |  |
+| 108 | 4% | 11% |  |
 | 109 | 3% | 6% |  |
 | 110 | 2% | 3% |  |
 | 111 | 0.9% | 2% |  |
-| 112 | 0.4% | 0.8% |  |
+| 112 | 0.5% | 0.8% |  |
 | 113 | 0.2% | 0.4% |  |
 | 114 | 0.1% | 0.2% |  |
 | 115 | 0% | 0.1% |  |
