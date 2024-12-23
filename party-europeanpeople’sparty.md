@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 180 | 173–186 | 171–187 | 170–189 | 166–192 |
+| European People’s Party | EU | 188 | 180 | 173–186 | 171–187 | 170–189 | 167–192 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 21–27 | 21–27 | 21–28 | 20–28 |
 | Partido Popular | ES | | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
@@ -37,7 +37,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3–4 |
+| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -47,13 +47,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | BoerBurgerBeweging | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Δημοκρατικός Συναγερμός | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -87,34 +87,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 163 | 0% | 100% |  |
 | 164 | 0.1% | 99.9% |  |
-| 165 | 0.1% | 99.8% |  |
+| 165 | 0.1% | 99.9% |  |
 | 166 | 0.2% | 99.7% |  |
 | 167 | 0.4% | 99.5% |  |
 | 168 | 0.6% | 99.1% |  |
-| 169 | 0.9% | 98% |  |
+| 169 | 0.9% | 98.6% |  |
 | 170 | 1.3% | 98% |  |
 | 171 | 2% | 96% |  |
-| 172 | 3% | 94% |  |
+| 172 | 2% | 95% |  |
 | 173 | 3% | 92% |  |
 | 174 | 4% | 89% |  |
-| 175 | 5% | 84% |  |
-| 176 | 6% | 79% |  |
-| 177 | 7% | 73% |  |
-| 178 | 8% | 66% |  |
-| 179 | 8% | 58% |  |
-| 180 | 8% | 50% | Median |
-| 181 | 8% | 42% |  |
-| 182 | 7% | 34% |  |
-| 183 | 6% | 27% |  |
-| 184 | 5% | 20% |  |
-| 185 | 4% | 15% |  |
-| 186 | 3% | 10% |  |
-| 187 | 2% | 7% |  |
+| 175 | 5% | 85% |  |
+| 176 | 6% | 80% |  |
+| 177 | 7% | 74% |  |
+| 178 | 8% | 67% |  |
+| 179 | 8% | 60% |  |
+| 180 | 8% | 52% | Median |
+| 181 | 8% | 43% |  |
+| 182 | 7% | 35% |  |
+| 183 | 7% | 28% |  |
+| 184 | 6% | 21% |  |
+| 185 | 5% | 16% |  |
+| 186 | 4% | 11% |  |
+| 187 | 3% | 7% |  |
 | 188 | 2% | 5% | Last Result |
-| 189 | 1.1% | 3% |  |
-| 190 | 0.7% | 2% |  |
-| 191 | 0.4% | 1.0% |  |
-| 192 | 0.2% | 0.5% |  |
+| 189 | 1.2% | 3% |  |
+| 190 | 0.8% | 2% |  |
+| 191 | 0.5% | 1.0% |  |
+| 192 | 0.3% | 0.6% |  |
 | 193 | 0.1% | 0.3% |  |
 | 194 | 0.1% | 0.1% |  |
 | 195 | 0% | 0.1% |  |

@@ -8,17 +8,17 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (-16 seats)
+Current median: **36** seats (-17 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 32–43 | 31–44 | 29–47 |
+| Greens–European Free Alliance | EU | 53 | 36 | 32–41 | 31–43 | 31–44 | 29–46 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -35,7 +35,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Βολτ Κύπρος | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -58,6 +57,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Βολτ Κύπρος | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -68,27 +68,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.2% | 100% |  |
-| 29 | 0.5% | 99.8% |  |
-| 30 | 1.3% | 99.3% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0.2% | 99.9% |  |
+| 29 | 0.6% | 99.8% |  |
+| 30 | 1.4% | 99.2% |  |
 | 31 | 3% | 98% |  |
 | 32 | 5% | 95% |  |
-| 33 | 7% | 91% |  |
-| 34 | 9% | 84% |  |
-| 35 | 11% | 75% |  |
-| 36 | 12% | 63% |  |
-| 37 | 12% | 51% | Median |
-| 38 | 10% | 40% |  |
-| 39 | 9% | 29% |  |
-| 40 | 7% | 21% |  |
-| 41 | 5% | 14% |  |
-| 42 | 4% | 9% |  |
-| 43 | 2% | 6% |  |
-| 44 | 1.4% | 3% |  |
+| 33 | 7% | 90% |  |
+| 34 | 10% | 83% |  |
+| 35 | 11% | 73% |  |
+| 36 | 12% | 61% | Median |
+| 37 | 11% | 49% |  |
+| 38 | 10% | 38% |  |
+| 39 | 8% | 28% |  |
+| 40 | 6% | 20% |  |
+| 41 | 5% | 13% |  |
+| 42 | 3% | 8% |  |
+| 43 | 2% | 5% |  |
+| 44 | 1.3% | 3% |  |
 | 45 | 0.8% | 2% |  |
-| 46 | 0.5% | 1.0% |  |
-| 47 | 0.3% | 0.5% |  |
-| 48 | 0.1% | 0.3% |  |
+| 46 | 0.4% | 0.9% |  |
+| 47 | 0.2% | 0.5% |  |
+| 48 | 0.1% | 0.2% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
