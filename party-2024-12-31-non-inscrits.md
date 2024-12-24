@@ -22,11 +22,11 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Bündnis Sahra Wagenknecht | DE | | 6 | 4–8 | 4–8 | 4–8 | 3–9 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partidul S.O.S. România | RO | | 3 | 3 | 3 | 3 | 3 |
-| HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,16 +50,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0.2% | 100% |  |
-| 20 | 1.4% | 99.7% |  |
-| 21 | 5% | 98% |  |
-| 22 | 9% | 94% |  |
-| 23 | 15% | 84% |  |
-| 24 | 20% | 70% |  |
-| 25 | 21% | 50% | Median |
-| 26 | 16% | 29% |  |
-| 27 | 9% | 13% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.8% | 1.0% |  |
+| 20 | 1.2% | 99.8% |  |
+| 21 | 4% | 98.6% |  |
+| 22 | 9% | 95% |  |
+| 23 | 14% | 86% |  |
+| 24 | 19% | 72% |  |
+| 25 | 21% | 53% | Median |
+| 26 | 17% | 32% |  |
+| 27 | 10% | 14% |  |
+| 28 | 4% | 5% |  |
+| 29 | 0.8% | 0.9% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |

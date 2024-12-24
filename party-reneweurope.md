@@ -27,7 +27,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Demokratische Partei | DE | | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Polska 2050 | PL | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -37,14 +37,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Движение за права и свободи – Ново начало | BG | | 2 | 2 | 2 | 2 | 2 |
 | Продължаваме промяната | BG | | 2 | 2 | 2 | 2 | 2 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–3 | 1–4 | 0–4 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Алианс за права и свободи | BG | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
@@ -62,11 +61,12 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Moderaterne | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Moderaterne | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
+| Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -86,17 +86,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 2% | 98% |  |
 | 79 | 4% | 96% |  |
 | 80 | 6% | 92% |  |
-| 81 | 8% | 87% |  |
-| 82 | 11% | 78% |  |
-| 83 | 13% | 67% |  |
-| 84 | 14% | 54% | Median |
-| 85 | 13% | 40% |  |
-| 86 | 10% | 27% |  |
-| 87 | 7% | 16% |  |
-| 88 | 4% | 9% |  |
+| 81 | 9% | 86% |  |
+| 82 | 12% | 78% |  |
+| 83 | 14% | 66% |  |
+| 84 | 14% | 52% | Median |
+| 85 | 13% | 38% |  |
+| 86 | 10% | 25% |  |
+| 87 | 7% | 15% |  |
+| 88 | 4% | 8% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.2% | 2% |  |
-| 91 | 0.5% | 0.9% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.4% | 0.7% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |

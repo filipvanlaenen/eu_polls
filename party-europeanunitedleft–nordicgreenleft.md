@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Independents | IE | | 1 | 1 | 1 | 1 | 1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,11 +65,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.8% |  |
+| 41 | 0.3% | 99.9% |  |
 | 42 | 0.9% | 99.5% |  |
 | 43 | 2% | 98.6% |  |
 | 44 | 4% | 97% |  |
-| 45 | 7% | 92% |  |
+| 45 | 7% | 93% |  |
 | 46 | 10% | 86% | Last Result |
 | 47 | 13% | 75% |  |
 | 48 | 15% | 62% | Median |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 6% | 11% |  |
 | 53 | 3% | 5% |  |
 | 54 | 1.4% | 2% |  |
-| 55 | 0.5% | 0.8% |  |
+| 55 | 0.6% | 0.8% |  |
 | 56 | 0.2% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |

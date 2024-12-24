@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **177** seats (-11 seats)
+Current median: **178** seats (-10 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 177 | 171–183 | 170–185 | 168–186 | 165–189 |
+| European People’s Party | EU | 188 | 178 | 172–183 | 170–185 | 168–186 | 166–189 |
 | Christlich Demokratische Union Deutschlands | DE | | 24 | 21–27 | 21–27 | 21–28 | 20–28 |
 | Partido Popular | ES | | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
-| Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–11 | 8–11 | 7–11 | 7–11 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | Christlich-Soziale Union in Bayern | DE | | 7 | 5–7 | 5–8 | 5–9 | 5–9 |
@@ -42,18 +42,19 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 2 | 2 | 2 | 2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | BoerBurgerBeweging | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovensko | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Да, България! | BG | | 1 | 1 | 1 | 1 | 1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -61,19 +62,20 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Slovensko–Za ľudí | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovensko–Za ľudí | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -85,35 +87,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 0.1% | 100% |  |
-| 163 | 0.1% | 99.9% |  |
-| 164 | 0.2% | 99.8% |  |
-| 165 | 0.3% | 99.6% |  |
-| 166 | 0.5% | 99.3% |  |
-| 167 | 0.8% | 98.8% |  |
-| 168 | 1.2% | 98% |  |
+| 163 | 0.1% | 100% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.2% | 99.8% |  |
+| 166 | 0.4% | 99.5% |  |
+| 167 | 0.6% | 99.1% |  |
+| 168 | 1.0% | 98% |  |
 | 169 | 2% | 97% |  |
-| 170 | 2% | 95% |  |
-| 171 | 3% | 93% |  |
-| 172 | 4% | 89% |  |
-| 173 | 5% | 85% |  |
-| 174 | 6% | 80% |  |
-| 175 | 7% | 74% |  |
-| 176 | 8% | 66% |  |
-| 177 | 9% | 58% | Median |
-| 178 | 9% | 49% |  |
-| 179 | 8% | 41% |  |
-| 180 | 8% | 32% |  |
+| 170 | 2% | 96% |  |
+| 171 | 3% | 94% |  |
+| 172 | 4% | 91% |  |
+| 173 | 5% | 87% |  |
+| 174 | 6% | 82% |  |
+| 175 | 7% | 75% |  |
+| 176 | 8% | 68% |  |
+| 177 | 9% | 59% |  |
+| 178 | 9% | 50% | Median |
+| 179 | 9% | 41% |  |
+| 180 | 8% | 33% |  |
 | 181 | 7% | 25% |  |
 | 182 | 5% | 18% |  |
-| 183 | 4% | 13% |  |
-| 184 | 3% | 9% |  |
-| 185 | 2% | 6% |  |
-| 186 | 1.4% | 3% |  |
-| 187 | 0.9% | 2% |  |
-| 188 | 0.5% | 1.1% | Last Result |
-| 189 | 0.3% | 0.6% |  |
-| 190 | 0.2% | 0.3% |  |
+| 183 | 4% | 12% |  |
+| 184 | 3% | 8% |  |
+| 185 | 2% | 5% |  |
+| 186 | 1.3% | 3% |  |
+| 187 | 0.8% | 2% |  |
+| 188 | 0.5% | 1.0% | Last Result |
+| 189 | 0.3% | 0.5% |  |
+| 190 | 0.1% | 0.3% |  |
 | 191 | 0.1% | 0.1% |  |
 | 192 | 0% | 0.1% |  |
 | 193 | 0% | 0% |  |
