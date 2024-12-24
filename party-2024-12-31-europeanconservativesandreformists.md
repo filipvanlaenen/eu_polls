@@ -27,7 +27,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 2 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -43,7 +43,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Partidul Național Conservator Român | RO | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -58,19 +58,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 100% |  |
 | 69 | 0.3% | 99.9% |  |
 | 70 | 1.0% | 99.6% |  |
-| 71 | 2% | 98.6% |  |
+| 71 | 3% | 98.6% |  |
 | 72 | 5% | 96% |  |
 | 73 | 8% | 91% |  |
-| 74 | 11% | 83% |  |
-| 75 | 14% | 72% |  |
-| 76 | 15% | 58% | Median |
-| 77 | 15% | 42% |  |
-| 78 | 12% | 28% | Last Result |
-| 79 | 8% | 16% |  |
-| 80 | 5% | 8% |  |
+| 74 | 12% | 83% |  |
+| 75 | 14% | 71% |  |
+| 76 | 15% | 57% | Median |
+| 77 | 14% | 41% |  |
+| 78 | 12% | 27% | Last Result |
+| 79 | 8% | 15% |  |
+| 80 | 4% | 7% |  |
 | 81 | 2% | 3% |  |
-| 82 | 0.8% | 1.2% |  |
-| 83 | 0.3% | 0.4% |  |
+| 82 | 0.7% | 1.1% |  |
+| 83 | 0.2% | 0.3% |  |
 | 84 | 0.1% | 0.1% |  |
 | 85 | 0% | 0% |  |
 
