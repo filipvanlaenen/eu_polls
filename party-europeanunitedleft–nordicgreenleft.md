@@ -18,31 +18,31 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 49 | 45–53 | 44–54 | 43–54 | 41–56 |
+| European United Left–Nordic Green Left | EU | 46 | 49 | 45–52 | 44–53 | 43–54 | 42–55 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
-| Movimento 5 Stelle | IT | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
-| Die Linke | DE | | 3 | 2–4 | 1–4 | 1–4 | 1–5 |
-| Sinn Féin | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Movimento 5 Stelle | IT | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
+| Die Linke | DE | | 3 | 2–4 | 1–4 | 1–5 | 1–5 |
+| Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3 |
 | Podemos | ES | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
-| Socialistische Partij | NL | | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–3 | 0–3 | 0–3 | 0–4 |
-| Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 1 | 1 | 1 | 1 | 1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
-| Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
-| Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -50,7 +50,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
-| Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,26 +64,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0% | 100% |  |
-| 40 | 0.1% | 99.9% |  |
-| 41 | 0.4% | 99.8% |  |
-| 42 | 0.9% | 99.4% |  |
-| 43 | 2% | 98.5% |  |
-| 44 | 4% | 97% |  |
-| 45 | 6% | 93% |  |
-| 46 | 9% | 87% | Last Result |
-| 47 | 11% | 79% |  |
-| 48 | 13% | 67% |  |
-| 49 | 14% | 54% | Median |
-| 50 | 13% | 41% |  |
-| 51 | 10% | 28% |  |
-| 52 | 8% | 18% |  |
-| 53 | 5% | 10% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.4% | 2% |  |
-| 56 | 0.6% | 1.0% |  |
-| 57 | 0.3% | 0.4% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.3% | 99.9% |  |
+| 42 | 0.7% | 99.7% |  |
+| 43 | 2% | 98.9% |  |
+| 44 | 3% | 97% |  |
+| 45 | 6% | 94% |  |
+| 46 | 10% | 88% | Last Result |
+| 47 | 13% | 78% |  |
+| 48 | 15% | 65% |  |
+| 49 | 15% | 50% | Median |
+| 50 | 13% | 35% |  |
+| 51 | 10% | 22% |  |
+| 52 | 6% | 12% |  |
+| 53 | 3% | 6% |  |
+| 54 | 2% | 3% |  |
+| 55 | 0.6% | 0.9% |  |
+| 56 | 0.2% | 0.3% |  |
+| 57 | 0.1% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 
