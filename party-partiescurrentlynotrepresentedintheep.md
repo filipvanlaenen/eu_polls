@@ -21,7 +21,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 1 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 2 | 2 | 2 | 2 |
-| Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Bierpartei [AT] (*) | AT | | 0 | 0 | 0 | 0 | 0 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -64,10 +64,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 41% | 97% |  |
-| 6 | 44% | 56% | Median |
-| 7 | 11% | 11% |  |
-| 8 | 0.8% | 0.9% |  |
-| 9 | 0% | 0% |  |
+| 5 | 37% | 97% |  |
+| 6 | 44% | 59% | Median |
+| 7 | 14% | 15% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
