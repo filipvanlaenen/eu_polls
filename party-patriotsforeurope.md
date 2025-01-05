@@ -33,6 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Φωνή Λογικής | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Motoristé sobě | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
