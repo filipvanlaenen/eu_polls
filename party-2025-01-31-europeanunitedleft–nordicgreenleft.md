@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independents | IE | | 1 | 1 | 1 | 1 | 1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -70,16 +70,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 2% | 98% |  |
 | 44 | 4% | 96% |  |
 | 45 | 7% | 92% |  |
-| 46 | 11% | 85% | Last Result |
-| 47 | 13% | 74% |  |
-| 48 | 15% | 61% | Median |
-| 49 | 14% | 46% |  |
-| 50 | 12% | 31% |  |
-| 51 | 9% | 19% |  |
-| 52 | 5% | 10% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.3% | 2% |  |
-| 55 | 0.5% | 0.8% |  |
+| 46 | 10% | 85% | Last Result |
+| 47 | 13% | 75% |  |
+| 48 | 15% | 62% | Median |
+| 49 | 15% | 47% |  |
+| 50 | 12% | 33% |  |
+| 51 | 9% | 20% |  |
+| 52 | 6% | 11% |  |
+| 53 | 3% | 6% |  |
+| 54 | 1.5% | 2% |  |
+| 55 | 0.6% | 0.9% |  |
 | 56 | 0.2% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |

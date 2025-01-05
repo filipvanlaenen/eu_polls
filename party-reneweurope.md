@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **84** seats (+7 seats)
+Current median: **83** seats (+6 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 84 | 80–87 | 79–88 | 78–89 | 76–91 |
+| Renew Europe | EU | 77 | 83 | 80–87 | 79–88 | 78–89 | 76–91 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 5 | 5 | 5 | 5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Fianna Fáil | IE | | 4 | 4 | 4 | 4 | 4 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Freie Demokratische Partei | DE | | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
+| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -40,7 +40,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–3 | 1–4 | 0–4 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,26 +79,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0.1% | 100% |  |
-| 75 | 0.2% | 99.9% |  |
-| 76 | 0.5% | 99.6% |  |
-| 77 | 1.1% | 99.1% | Last Result |
-| 78 | 2% | 98% |  |
-| 79 | 4% | 96% |  |
-| 80 | 6% | 92% |  |
-| 81 | 9% | 86% |  |
-| 82 | 12% | 77% |  |
-| 83 | 14% | 66% |  |
-| 84 | 14% | 52% | Median |
-| 85 | 13% | 38% |  |
-| 86 | 10% | 25% |  |
-| 87 | 7% | 15% |  |
-| 88 | 4% | 8% |  |
-| 89 | 2% | 4% |  |
-| 90 | 1.0% | 2% |  |
-| 91 | 0.4% | 0.7% |  |
-| 92 | 0.2% | 0.3% |  |
-| 93 | 0.1% | 0.1% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0.1% | 99.9% |  |
+| 75 | 0.3% | 99.8% |  |
+| 76 | 0.7% | 99.5% |  |
+| 77 | 1.4% | 98.9% | Last Result |
+| 78 | 3% | 98% |  |
+| 79 | 4% | 95% |  |
+| 80 | 7% | 91% |  |
+| 81 | 10% | 84% |  |
+| 82 | 12% | 74% |  |
+| 83 | 14% | 62% | Median |
+| 84 | 14% | 48% |  |
+| 85 | 12% | 34% |  |
+| 86 | 9% | 21% |  |
+| 87 | 6% | 12% |  |
+| 88 | 3% | 6% |  |
+| 89 | 2% | 3% |  |
+| 90 | 0.8% | 1.3% |  |
+| 91 | 0.3% | 0.5% |  |
+| 92 | 0.1% | 0.2% |  |
+| 93 | 0% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 

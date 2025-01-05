@@ -24,7 +24,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–11 | 8–11 | 7–11 | 7–11 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| Christlich-Soziale Union in Bayern | DE | | 7 | 5–7 | 5–8 | 5–9 | 5–9 |
+| Christlich-Soziale Union in Bayern | DE | | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 4–10 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Fine Gael | IE | | 5 | 5 | 5 | 5 | 5 |
@@ -103,19 +103,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 176 | 8% | 69% |  |
 | 177 | 9% | 61% |  |
 | 178 | 9% | 52% | Median |
-| 179 | 9% | 42% |  |
+| 179 | 9% | 43% |  |
 | 180 | 8% | 34% |  |
 | 181 | 7% | 26% |  |
 | 182 | 6% | 19% |  |
-| 183 | 4% | 13% |  |
+| 183 | 4% | 14% |  |
 | 184 | 3% | 9% |  |
 | 185 | 2% | 6% |  |
-| 186 | 1.4% | 3% |  |
+| 186 | 2% | 4% |  |
 | 187 | 0.9% | 2% |  |
-| 188 | 0.5% | 1.1% | Last Result |
+| 188 | 0.6% | 1.2% | Last Result |
 | 189 | 0.3% | 0.6% |  |
-| 190 | 0.1% | 0.3% |  |
-| 191 | 0.1% | 0.1% |  |
+| 190 | 0.2% | 0.3% |  |
+| 191 | 0.1% | 0.2% |  |
 | 192 | 0% | 0.1% |  |
 | 193 | 0% | 0% |  |
 
