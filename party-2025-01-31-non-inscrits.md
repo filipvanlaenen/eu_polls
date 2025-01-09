@@ -18,13 +18,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 24 | 22–26 | 21–27 | 20–28 | 20–29 |
-| Bündnis Sahra Wagenknecht | DE | | 5 | 4–8 | 4–8 | 3–8 | 3–8 |
+| Non-Inscrits | EU | 32 | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
+| Bündnis Sahra Wagenknecht | DE | | 5 | 4–7 | 4–8 | 3–8 | 3–8 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Partidul S.O.S. România | RO | | 3 | 3 | 3 | 3 | 3 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -49,18 +49,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.4% | 100% |  |
-| 20 | 2% | 99.6% |  |
-| 21 | 7% | 97% |  |
-| 22 | 14% | 91% |  |
-| 23 | 19% | 77% |  |
-| 24 | 20% | 59% | Median |
-| 25 | 17% | 39% |  |
-| 26 | 12% | 22% |  |
-| 27 | 6% | 9% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.5% | 0.6% |  |
-| 30 | 0.1% | 0.1% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 2% | 99.7% |  |
+| 21 | 6% | 98% |  |
+| 22 | 13% | 92% |  |
+| 23 | 20% | 79% |  |
+| 24 | 22% | 59% | Median |
+| 25 | 19% | 37% |  |
+| 26 | 11% | 18% |  |
+| 27 | 5% | 7% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
 
