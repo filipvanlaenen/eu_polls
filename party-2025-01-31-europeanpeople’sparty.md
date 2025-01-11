@@ -18,13 +18,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 176 | 170–182 | 169–184 | 167–185 | 164–188 |
+| European People’s Party | EU | 188 | 176 | 171–182 | 169–184 | 167–185 | 164–188 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–27 | 21–27 | 20–28 | 20–28 |
 | Partido Popular | ES | | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–11 | 8–11 | 7–11 | 7–11 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 4–10 |
+| Forza Italia | IT | | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6–7 | 5–7 | 5–9 | 4–9 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Fine Gael | IE | | 5 | 5 | 5 | 5 | 5 |
@@ -95,17 +95,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 0.7% | 99.0% |  |
 | 167 | 1.1% | 98% |  |
 | 168 | 2% | 97% |  |
-| 169 | 2% | 95% |  |
+| 169 | 2% | 96% |  |
 | 170 | 3% | 93% |  |
 | 171 | 4% | 90% |  |
 | 172 | 5% | 86% |  |
-| 173 | 7% | 80% |  |
+| 173 | 6% | 81% |  |
 | 174 | 8% | 74% |  |
-| 175 | 8% | 66% |  |
+| 175 | 8% | 67% |  |
 | 176 | 9% | 58% | Median |
 | 177 | 9% | 49% |  |
 | 178 | 8% | 40% |  |
-| 179 | 7% | 32% |  |
+| 179 | 8% | 32% |  |
 | 180 | 6% | 24% |  |
 | 181 | 5% | 18% |  |
 | 182 | 4% | 13% |  |
@@ -117,7 +117,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 188 | 0.3% | 0.7% | Last Result |
 | 189 | 0.2% | 0.4% |  |
 | 190 | 0.1% | 0.2% |  |
-| 191 | 0.1% | 0.1% |  |
+| 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |
 
 
