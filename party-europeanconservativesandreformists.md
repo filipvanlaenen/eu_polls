@@ -8,17 +8,17 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **76** seats (-2 seats)
+Current median: **75** seats (-3 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> BE, BG, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, PL, RO, SE, SK
+> BE, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 76 | 72–80 | 71–81 | 70–81 | 69–83 |
+| European Conservatives and Reformists | EU | 78 | 75 | 72–79 | 71–80 | 70–81 | 68–82 |
 | Fratelli d’Italia | IT | | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 18 | 17–21 | 16–21 | 16–21 | 16–21 |
 | Alianța pentru Unirea Românilor | RO | | 7 | 7 | 7 | 7 | 7 |
@@ -34,7 +34,6 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Има такъв народ | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -45,7 +44,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Partidul Național Conservator Român | RO | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -56,24 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.7% | 99.7% |  |
-| 70 | 2% | 99.0% |  |
-| 71 | 3% | 97% |  |
-| 72 | 6% | 94% |  |
-| 73 | 9% | 88% |  |
-| 74 | 11% | 80% |  |
-| 75 | 13% | 68% |  |
-| 76 | 14% | 55% | Median |
-| 77 | 13% | 41% |  |
-| 78 | 11% | 28% | Last Result |
-| 79 | 8% | 18% |  |
-| 80 | 5% | 10% |  |
-| 81 | 3% | 5% |  |
-| 82 | 1.4% | 2% |  |
-| 83 | 0.6% | 0.9% |  |
-| 84 | 0.2% | 0.3% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 68 | 0.4% | 99.9% |  |
+| 69 | 1.2% | 99.4% |  |
+| 70 | 3% | 98% |  |
+| 71 | 5% | 96% |  |
+| 72 | 8% | 91% |  |
+| 73 | 11% | 83% |  |
+| 74 | 13% | 72% |  |
+| 75 | 14% | 59% | Median |
+| 76 | 14% | 45% |  |
+| 77 | 11% | 31% |  |
+| 78 | 9% | 20% | Last Result |
+| 79 | 6% | 11% |  |
+| 80 | 3% | 6% |  |
+| 81 | 2% | 3% |  |
+| 82 | 0.7% | 1.0% |  |
+| 83 | 0.2% | 0.3% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% |  |
 
 

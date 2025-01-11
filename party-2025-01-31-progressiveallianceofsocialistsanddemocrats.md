@@ -21,7 +21,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 128 | 121–134 | 119–136 | 118–137 | 116–139 |
 | Partito Democratico | IT | | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
-| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–18 | 13–18 | 12–18 | 11–19 |
+| Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
 | Partidul Social Democrat | RO | | 9 | 9 | 9 | 9 | 9 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -29,7 +29,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Nowa Lewica | PL | | 4 | 3–4 | 2–5 | 0–5 | 0–5 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 3 | 3 | 3–4 | 3–4 |
@@ -37,7 +37,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–3 |
-| БСП – обединена левица | BG | | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
+| БСП – обединена левица | BG | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Demokratikus Koalíció | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Labour Party | IE | | 1 | 1 | 1 | 1 | 1 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
@@ -59,36 +59,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 113 | 0.1% | 100% |  |
+| 113 | 0% | 100% |  |
 | 114 | 0.1% | 99.9% |  |
-| 115 | 0.3% | 99.8% |  |
-| 116 | 0.5% | 99.5% |  |
-| 117 | 0.9% | 99.0% |  |
+| 115 | 0.2% | 99.8% |  |
+| 116 | 0.5% | 99.6% |  |
+| 117 | 0.9% | 99.1% |  |
 | 118 | 2% | 98% |  |
-| 119 | 2% | 96% |  |
+| 119 | 2% | 97% |  |
 | 120 | 3% | 94% |  |
 | 121 | 4% | 91% |  |
-| 122 | 5% | 87% |  |
+| 122 | 5% | 86% |  |
 | 123 | 6% | 81% |  |
-| 124 | 6% | 76% |  |
-| 125 | 6% | 70% |  |
-| 126 | 6% | 64% |  |
-| 127 | 6% | 58% |  |
-| 128 | 6% | 51% | Median |
-| 129 | 7% | 45% |  |
+| 124 | 6% | 75% |  |
+| 125 | 6% | 69% |  |
+| 126 | 6% | 63% |  |
+| 127 | 6% | 57% |  |
+| 128 | 7% | 51% | Median |
+| 129 | 7% | 44% |  |
 | 130 | 7% | 38% |  |
 | 131 | 7% | 31% |  |
-| 132 | 6% | 25% |  |
-| 133 | 5% | 19% |  |
+| 132 | 6% | 24% |  |
+| 133 | 5% | 18% |  |
 | 134 | 4% | 13% |  |
 | 135 | 3% | 9% |  |
-| 136 | 2% | 6% | Last Result |
-| 137 | 1.5% | 3% |  |
-| 138 | 0.9% | 2% |  |
-| 139 | 0.5% | 1.0% |  |
-| 140 | 0.3% | 0.5% |  |
+| 136 | 2% | 5% | Last Result |
+| 137 | 1.4% | 3% |  |
+| 138 | 0.8% | 2% |  |
+| 139 | 0.5% | 0.9% |  |
+| 140 | 0.2% | 0.4% |  |
 | 141 | 0.1% | 0.2% |  |
-| 142 | 0.1% | 0.1% |  |
+| 142 | 0% | 0.1% |  |
 | 143 | 0% | 0% |  |
 
 

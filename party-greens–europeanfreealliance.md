@@ -19,7 +19,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 37 | 33–42 | 32–43 | 31–45 | 30–47 |
-| Bündnis 90/Die Grünen | DE | | 13 | 11–14 | 11–15 | 10–16 | 10–16 |
+| Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–15 | 10–15 | 10–16 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
+| Volt Europa | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -70,24 +70,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
 | 29 | 0.3% | 99.9% |  |
-| 30 | 0.8% | 99.5% |  |
+| 30 | 0.9% | 99.5% |  |
 | 31 | 2% | 98.7% |  |
 | 32 | 3% | 97% |  |
-| 33 | 5% | 94% |  |
+| 33 | 6% | 93% |  |
 | 34 | 8% | 88% |  |
 | 35 | 10% | 80% |  |
 | 36 | 12% | 70% |  |
 | 37 | 12% | 58% | Median |
 | 38 | 11% | 46% |  |
-| 39 | 10% | 35% |  |
+| 39 | 9% | 35% |  |
 | 40 | 8% | 26% |  |
 | 41 | 6% | 18% |  |
 | 42 | 4% | 12% |  |
-| 43 | 3% | 7% |  |
+| 43 | 3% | 8% |  |
 | 44 | 2% | 4% |  |
-| 45 | 1.1% | 3% |  |
+| 45 | 1.2% | 3% |  |
 | 46 | 0.7% | 1.4% |  |
-| 47 | 0.4% | 0.7% |  |
+| 47 | 0.4% | 0.8% |  |
 | 48 | 0.2% | 0.4% |  |
 | 49 | 0.1% | 0.2% |  |
 | 50 | 0% | 0.1% |  |
