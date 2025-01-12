@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 85 | 81–88 | 80–90 | 79–91 | 77–92 |
+| Renew Europe | EU | 77 | 85 | 81–88 | 80–89 | 79–90 | 77–92 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 5 | 5 | 5 | 5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -48,7 +48,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -79,26 +79,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0% | 100% |  |
-| 75 | 0.1% | 99.9% |  |
-| 76 | 0.3% | 99.8% |  |
-| 77 | 0.6% | 99.6% | Last Result |
-| 78 | 1.2% | 99.0% |  |
+| 75 | 0.1% | 100% |  |
+| 76 | 0.2% | 99.9% |  |
+| 77 | 0.5% | 99.6% | Last Result |
+| 78 | 1.1% | 99.1% |  |
 | 79 | 2% | 98% |  |
 | 80 | 4% | 96% |  |
 | 81 | 6% | 92% |  |
-| 82 | 8% | 86% |  |
+| 82 | 8% | 87% |  |
 | 83 | 11% | 78% |  |
 | 84 | 13% | 67% |  |
 | 85 | 14% | 54% | Median |
 | 86 | 13% | 40% |  |
 | 87 | 10% | 27% |  |
 | 88 | 7% | 17% |  |
-| 89 | 5% | 10% |  |
+| 89 | 5% | 9% |  |
 | 90 | 3% | 5% |  |
-| 91 | 1.4% | 3% |  |
-| 92 | 0.7% | 1.1% |  |
-| 93 | 0.3% | 0.5% |  |
+| 91 | 1.3% | 2% |  |
+| 92 | 0.6% | 1.0% |  |
+| 93 | 0.3% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
