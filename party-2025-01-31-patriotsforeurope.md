@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **103** seats (+19 seats)
+Current median: **104** seats (+20 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 103 | 99–108 | 98–109 | 96–110 | 94–112 |
+| Patriots for Europe | EU | 84 | 104 | 99–108 | 98–109 | 97–110 | 95–113 |
 | Rassemblement national | FR | | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–12 | 8–12 | 7–13 | 7–13 |
 | Partij voor de Vrijheid | NL | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Vox | ES | | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
-| Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
+| Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | Chega | PT | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Motoristé sobě | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Φωνή Λογικής | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Motoristé sobě | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -59,27 +59,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0% | 100% |  |
 | 93 | 0.1% | 99.9% |  |
 | 94 | 0.3% | 99.8% |  |
-| 95 | 0.7% | 99.5% |  |
-| 96 | 1.4% | 98.8% |  |
-| 97 | 2% | 97% |  |
+| 95 | 0.6% | 99.5% |  |
+| 96 | 1.3% | 98.9% |  |
+| 97 | 2% | 98% |  |
 | 98 | 4% | 95% |  |
-| 99 | 5% | 91% |  |
-| 100 | 7% | 86% |  |
-| 101 | 9% | 79% |  |
-| 102 | 10% | 70% |  |
-| 103 | 11% | 60% | Median |
-| 104 | 11% | 49% |  |
-| 105 | 10% | 38% |  |
-| 106 | 9% | 28% |  |
-| 107 | 7% | 19% |  |
-| 108 | 5% | 12% |  |
-| 109 | 3% | 7% |  |
-| 110 | 2% | 4% |  |
-| 111 | 1.0% | 2% |  |
-| 112 | 0.5% | 0.9% |  |
-| 113 | 0.2% | 0.4% |  |
+| 99 | 5% | 92% |  |
+| 100 | 7% | 87% |  |
+| 101 | 8% | 80% |  |
+| 102 | 10% | 72% |  |
+| 103 | 11% | 62% |  |
+| 104 | 11% | 51% | Median |
+| 105 | 10% | 40% |  |
+| 106 | 9% | 30% |  |
+| 107 | 7% | 21% |  |
+| 108 | 5% | 14% |  |
+| 109 | 4% | 8% |  |
+| 110 | 2% | 5% |  |
+| 111 | 1.2% | 2% |  |
+| 112 | 0.6% | 1.1% |  |
+| 113 | 0.3% | 0.5% |  |
 | 114 | 0.1% | 0.2% |  |
-| 115 | 0% | 0.1% |  |
+| 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0% |  |
 
 
