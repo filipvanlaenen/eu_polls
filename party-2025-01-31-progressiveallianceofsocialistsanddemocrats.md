@@ -20,11 +20,11 @@ At least one member in **25 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 127 | 120–134 | 119–135 | 118–137 | 115–139 |
 | Partito Democratico | IT | | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
-| Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
+| Partido Socialista Obrero Español | ES | | 19 | 18–21 | 17–22 | 17–22 | 17–23 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
 | Partidul Social Democrat | RO | | 9 | 9 | 9 | 9 | 9 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| Partido Socialista | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Parti socialiste–Place Publique | FR | | 6 | 0–9 | 0–9 | 0–10 | 0–10 |
 | Nowa Lewica | PL | | 4 | 3–4 | 2–5 | 0–5 | 0–5 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -38,12 +38,12 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 2 | 1–3 |
 | БСП – обединена левица | BG | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Demokratikus Koalíció | HU | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Demokratikus Koalíció | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Social Democrats | IE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 1–2 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -61,33 +61,33 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 113 | 0.1% | 100% |  |
 | 114 | 0.2% | 99.9% |  |
-| 115 | 0.3% | 99.7% |  |
-| 116 | 0.7% | 99.4% |  |
+| 115 | 0.4% | 99.7% |  |
+| 116 | 0.7% | 99.3% |  |
 | 117 | 1.2% | 98.7% |  |
 | 118 | 2% | 98% |  |
 | 119 | 3% | 96% |  |
 | 120 | 4% | 93% |  |
 | 121 | 5% | 89% |  |
 | 122 | 5% | 85% |  |
-| 123 | 6% | 79% |  |
-| 124 | 6% | 73% |  |
-| 125 | 6% | 67% |  |
-| 126 | 6% | 61% |  |
-| 127 | 6% | 55% | Median |
+| 123 | 6% | 80% |  |
+| 124 | 6% | 74% |  |
+| 125 | 6% | 68% |  |
+| 126 | 6% | 62% |  |
+| 127 | 6% | 56% | Median |
 | 128 | 7% | 49% |  |
-| 129 | 7% | 42% |  |
-| 130 | 7% | 35% |  |
+| 129 | 7% | 43% |  |
+| 130 | 7% | 36% |  |
 | 131 | 6% | 29% |  |
-| 132 | 6% | 22% |  |
-| 133 | 5% | 16% |  |
-| 134 | 4% | 11% |  |
-| 135 | 3% | 7% |  |
+| 132 | 6% | 23% |  |
+| 133 | 5% | 17% |  |
+| 134 | 4% | 12% |  |
+| 135 | 3% | 8% |  |
 | 136 | 2% | 5% | Last Result |
-| 137 | 1.2% | 3% |  |
-| 138 | 0.7% | 1.4% |  |
-| 139 | 0.4% | 0.7% |  |
-| 140 | 0.2% | 0.3% |  |
-| 141 | 0.1% | 0.1% |  |
+| 137 | 1.3% | 3% |  |
+| 138 | 0.8% | 2% |  |
+| 139 | 0.4% | 0.8% |  |
+| 140 | 0.2% | 0.4% |  |
+| 141 | 0.1% | 0.2% |  |
 | 142 | 0% | 0.1% |  |
 | 143 | 0% | 0% |  |
 

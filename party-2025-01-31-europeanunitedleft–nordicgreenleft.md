@@ -18,20 +18,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 48 | 45–51 | 44–52 | 43–53 | 41–54 |
+| European United Left–Nordic Green Left | EU | 46 | 48 | 45–51 | 44–52 | 43–53 | 41–55 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 8–13 | 8–13 | 8–14 |
 | Die Linke | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
-| Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Bloco de Esquerda | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
@@ -41,6 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -66,21 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0.1% | 100% |  |
 | 41 | 0.4% | 99.8% |  |
-| 42 | 1.1% | 99.4% |  |
+| 42 | 1.2% | 99.4% |  |
 | 43 | 3% | 98% |  |
 | 44 | 5% | 96% |  |
 | 45 | 9% | 90% |  |
 | 46 | 12% | 82% | Last Result |
 | 47 | 15% | 70% |  |
-| 48 | 16% | 55% | Median |
+| 48 | 15% | 55% | Median |
 | 49 | 14% | 39% |  |
 | 50 | 11% | 26% |  |
 | 51 | 7% | 15% |  |
 | 52 | 4% | 8% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.9% | 1.4% |  |
-| 55 | 0.3% | 0.5% |  |
-| 56 | 0.1% | 0.1% |  |
+| 53 | 2% | 4% |  |
+| 54 | 0.9% | 1.5% |  |
+| 55 | 0.4% | 0.5% |  |
+| 56 | 0.1% | 0.2% |  |
 | 57 | 0% | 0% |  |
 
 
