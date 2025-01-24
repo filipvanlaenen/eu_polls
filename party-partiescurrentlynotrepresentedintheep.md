@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
+| Parties currently not represented in the EP | EU | 1 | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,13 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.7% | 100% |  |
-| 5 | 10% | 99.3% |  |
-| 6 | 30% | 89% |  |
-| 7 | 35% | 59% | Median |
-| 8 | 19% | 24% |  |
-| 9 | 5% | 5% |  |
-| 10 | 0.4% | 0.5% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 12% | 99.1% |  |
+| 6 | 34% | 87% |  |
+| 7 | 34% | 52% | Median |
+| 8 | 15% | 18% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 
