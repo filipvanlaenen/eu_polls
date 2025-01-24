@@ -31,18 +31,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
-| Domovinski pokret | HR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Partidul Național Conservator Român | RO | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
@@ -60,18 +60,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 2% | 98.6% |  |
 | 71 | 4% | 96% |  |
 | 72 | 7% | 92% |  |
-| 73 | 10% | 85% |  |
+| 73 | 10% | 84% |  |
 | 74 | 13% | 74% |  |
 | 75 | 14% | 61% | Median |
-| 76 | 13% | 48% |  |
+| 76 | 13% | 47% |  |
 | 77 | 11% | 34% |  |
 | 78 | 9% | 23% | Last Result |
 | 79 | 6% | 14% |  |
 | 80 | 4% | 8% |  |
 | 81 | 2% | 4% |  |
-| 82 | 1.1% | 2% |  |
-| 83 | 0.4% | 0.7% |  |
-| 84 | 0.2% | 0.2% |  |
+| 82 | 1.0% | 2% |  |
+| 83 | 0.4% | 0.6% |  |
+| 84 | 0.1% | 0.2% |  |
 | 85 | 0% | 0.1% |  |
 | 86 | 0% | 0% |  |
 

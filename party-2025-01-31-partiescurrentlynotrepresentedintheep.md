@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **6** seats (+5 seats)
+Current median: **7** seats (+6 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| Parties currently not represented in the EP | EU | 1 | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,13 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 14% | 98.9% |  |
-| 6 | 38% | 85% | Median |
-| 7 | 33% | 47% |  |
-| 8 | 12% | 14% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.1% | 0.1% |  |
+| 4 | 0.7% | 100% |  |
+| 5 | 10% | 99.3% |  |
+| 6 | 30% | 89% |  |
+| 7 | 35% | 59% | Median |
+| 8 | 19% | 24% |  |
+| 9 | 5% | 5% |  |
+| 10 | 0.4% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 

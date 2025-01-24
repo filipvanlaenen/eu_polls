@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (-16 seats)
+Current median: **36** seats (-17 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 32–43 | 31–44 | 30–46 |
+| Greens–European Free Alliance | EU | 53 | 36 | 33–41 | 32–42 | 31–44 | 29–46 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
-| GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -29,7 +29,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Možemo! | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Možemo! | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Volt Europa | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -56,7 +56,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Βολτ Κύπρος | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -69,27 +69,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
-| 29 | 0.3% | 99.9% |  |
-| 30 | 1.0% | 99.6% |  |
-| 31 | 2% | 98.6% |  |
-| 32 | 4% | 96% |  |
-| 33 | 7% | 92% |  |
-| 34 | 10% | 85% |  |
-| 35 | 12% | 75% |  |
-| 36 | 12% | 63% |  |
-| 37 | 12% | 50% | Median |
-| 38 | 10% | 39% |  |
-| 39 | 8% | 29% |  |
-| 40 | 7% | 20% |  |
-| 41 | 5% | 14% |  |
-| 42 | 3% | 9% |  |
-| 43 | 2% | 5% |  |
-| 44 | 1.3% | 3% |  |
-| 45 | 0.7% | 2% |  |
-| 46 | 0.4% | 0.9% |  |
-| 47 | 0.2% | 0.5% |  |
+| 29 | 0.4% | 99.9% |  |
+| 30 | 1.1% | 99.5% |  |
+| 31 | 3% | 98% |  |
+| 32 | 5% | 96% |  |
+| 33 | 8% | 91% |  |
+| 34 | 11% | 83% |  |
+| 35 | 12% | 72% |  |
+| 36 | 12% | 60% | Median |
+| 37 | 11% | 47% |  |
+| 38 | 10% | 36% |  |
+| 39 | 8% | 26% |  |
+| 40 | 6% | 18% |  |
+| 41 | 5% | 12% |  |
+| 42 | 3% | 8% |  |
+| 43 | 2% | 4% |  |
+| 44 | 1.1% | 3% |  |
+| 45 | 0.6% | 1.4% |  |
+| 46 | 0.4% | 0.7% |  |
+| 47 | 0.2% | 0.4% |  |
 | 48 | 0.1% | 0.2% |  |
-| 49 | 0.1% | 0.1% |  |
+| 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

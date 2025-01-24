@@ -18,14 +18,14 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 86 | 82–90 | 81–91 | 80–92 | 78–94 |
+| Renew Europe | EU | 77 | 86 | 82–89 | 81–91 | 80–91 | 78–93 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 5 | 5 | 5 | 5 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Democraten 66 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -83,24 +83,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0.1% | 99.9% |  |
 | 77 | 0.3% | 99.8% | Last Result |
 | 78 | 0.6% | 99.6% |  |
-| 79 | 1.1% | 99.0% |  |
+| 79 | 1.2% | 99.0% |  |
 | 80 | 2% | 98% |  |
-| 81 | 4% | 96% |  |
+| 81 | 4% | 95% |  |
 | 82 | 6% | 92% |  |
-| 83 | 8% | 87% |  |
-| 84 | 11% | 79% |  |
-| 85 | 13% | 68% |  |
-| 86 | 13% | 56% | Median |
-| 87 | 13% | 42% |  |
-| 88 | 10% | 30% |  |
-| 89 | 8% | 19% |  |
-| 90 | 5% | 11% |  |
-| 91 | 3% | 6% |  |
-| 92 | 2% | 3% |  |
-| 93 | 0.9% | 2% |  |
-| 94 | 0.4% | 0.7% |  |
-| 95 | 0.2% | 0.3% |  |
-| 96 | 0.1% | 0.1% |  |
+| 83 | 9% | 86% |  |
+| 84 | 11% | 77% |  |
+| 85 | 13% | 66% |  |
+| 86 | 14% | 53% | Median |
+| 87 | 12% | 39% |  |
+| 88 | 10% | 27% |  |
+| 89 | 7% | 17% |  |
+| 90 | 5% | 10% |  |
+| 91 | 3% | 5% |  |
+| 92 | 1.3% | 2% |  |
+| 93 | 0.6% | 1.1% |  |
+| 94 | 0.3% | 0.5% |  |
+| 95 | 0.1% | 0.2% |  |
+| 96 | 0% | 0.1% |  |
 | 97 | 0% | 0% |  |
 
 
