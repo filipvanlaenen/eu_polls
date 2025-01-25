@@ -24,10 +24,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alianța pentru Unirea Românilor | RO | | 7 | 7 | 7 | 7 | 7 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Občanská demokratická strana | CZ | | 2 | 2–4 | 2–4 | 2–5 | 1–5 |
 | Ελληνική Λύση | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -55,8 +55,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 68 | 0.1% | 100% |  |
-| 69 | 0.4% | 99.9% |  |
-| 70 | 1.1% | 99.5% |  |
+| 69 | 0.4% | 99.8% |  |
+| 70 | 1.2% | 99.4% |  |
 | 71 | 3% | 98% |  |
 | 72 | 5% | 96% |  |
 | 73 | 9% | 90% |  |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 14% | 70% |  |
 | 76 | 15% | 56% | Median |
 | 77 | 13% | 41% |  |
-| 78 | 11% | 27% | Last Result |
+| 78 | 11% | 28% | Last Result |
 | 79 | 8% | 17% |  |
 | 80 | 5% | 9% |  |
 | 81 | 3% | 4% |  |
