@@ -37,7 +37,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -61,7 +61,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -81,24 +81,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 75 | 0.1% | 100% |  |
 | 76 | 0.2% | 99.9% |  |
-| 77 | 0.4% | 99.7% | Last Result |
-| 78 | 0.8% | 99.4% |  |
-| 79 | 2% | 98.6% |  |
-| 80 | 3% | 97% |  |
-| 81 | 5% | 94% |  |
-| 82 | 7% | 90% |  |
-| 83 | 10% | 83% |  |
-| 84 | 12% | 73% |  |
-| 85 | 13% | 61% | Median |
-| 86 | 13% | 48% |  |
-| 87 | 12% | 34% |  |
-| 88 | 9% | 23% |  |
-| 89 | 6% | 14% |  |
-| 90 | 4% | 7% |  |
-| 91 | 2% | 4% |  |
-| 92 | 1.0% | 2% |  |
-| 93 | 0.5% | 0.8% |  |
-| 94 | 0.2% | 0.3% |  |
+| 77 | 0.5% | 99.7% | Last Result |
+| 78 | 1.0% | 99.2% |  |
+| 79 | 2% | 98% |  |
+| 80 | 3% | 96% |  |
+| 81 | 5% | 93% |  |
+| 82 | 8% | 88% |  |
+| 83 | 10% | 80% |  |
+| 84 | 13% | 70% |  |
+| 85 | 14% | 57% | Median |
+| 86 | 13% | 43% |  |
+| 87 | 11% | 30% |  |
+| 88 | 8% | 19% |  |
+| 89 | 5% | 11% |  |
+| 90 | 3% | 6% |  |
+| 91 | 2% | 3% |  |
+| 92 | 0.8% | 1.4% |  |
+| 93 | 0.3% | 0.6% |  |
+| 94 | 0.1% | 0.2% |  |
 | 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
 
