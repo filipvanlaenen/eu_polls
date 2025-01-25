@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 48 | 44–51 | 43–52 | 42–53 | 41–55 |
+| European United Left–Nordic Green Left | EU | 46 | 48 | 44–51 | 43–52 | 42–53 | 40–55 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 8–13 | 8–13 | 8–14 |
-| Die Linke | DE | | 4 | 1–5 | 1–5 | 1–5 | 0–5 |
-| Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Die Linke | DE | | 4 | 1–5 | 1–5 | 1–6 | 1–6 |
+| Podemos | ES | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Sinn Féin | IE | | 3 | 3 | 3 | 3 | 3–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -64,10 +64,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.3% | 99.8% |  |
-| 41 | 0.8% | 99.5% |  |
-| 42 | 2% | 98.7% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.1% | 99.9% |  |
+| 40 | 0.4% | 99.8% |  |
+| 41 | 0.9% | 99.4% |  |
+| 42 | 2% | 98.5% |  |
 | 43 | 4% | 97% |  |
 | 44 | 6% | 93% |  |
 | 45 | 9% | 87% |  |
@@ -75,13 +76,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 14% | 66% |  |
 | 48 | 14% | 52% | Median |
 | 49 | 13% | 38% |  |
-| 50 | 10% | 25% |  |
+| 50 | 10% | 26% |  |
 | 51 | 7% | 15% |  |
 | 52 | 4% | 8% |  |
 | 53 | 2% | 4% |  |
-| 54 | 1.0% | 2% |  |
-| 55 | 0.4% | 0.6% |  |
-| 56 | 0.1% | 0.2% |  |
-| 57 | 0% | 0% |  |
+| 54 | 1.1% | 2% |  |
+| 55 | 0.5% | 0.7% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 

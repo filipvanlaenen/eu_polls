@@ -30,7 +30,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Eesti Reformierakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -87,17 +87,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 80 | 3% | 96% |  |
 | 81 | 5% | 93% |  |
 | 82 | 8% | 88% |  |
-| 83 | 10% | 80% |  |
-| 84 | 13% | 70% |  |
-| 85 | 14% | 57% | Median |
+| 83 | 11% | 80% |  |
+| 84 | 13% | 69% |  |
+| 85 | 14% | 56% | Median |
 | 86 | 13% | 43% |  |
-| 87 | 11% | 30% |  |
+| 87 | 11% | 29% |  |
 | 88 | 8% | 19% |  |
 | 89 | 5% | 11% |  |
 | 90 | 3% | 6% |  |
-| 91 | 2% | 3% |  |
-| 92 | 0.8% | 1.4% |  |
-| 93 | 0.3% | 0.6% |  |
+| 91 | 1.5% | 3% |  |
+| 92 | 0.7% | 1.2% |  |
+| 93 | 0.3% | 0.5% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
