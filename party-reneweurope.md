@@ -22,7 +22,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 5 | 5 | 5 | 5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| Fianna Fáil | IE | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Fianna Fáil | IE | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -53,7 +53,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -82,24 +82,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 0% | 100% |  |
 | 75 | 0.1% | 99.9% |  |
 | 76 | 0.3% | 99.8% |  |
-| 77 | 0.6% | 99.6% | Last Result |
-| 78 | 1.2% | 99.0% |  |
+| 77 | 0.7% | 99.5% | Last Result |
+| 78 | 1.3% | 98.8% |  |
 | 79 | 2% | 98% |  |
-| 80 | 4% | 96% |  |
-| 81 | 6% | 92% |  |
-| 82 | 8% | 86% |  |
-| 83 | 11% | 78% |  |
-| 84 | 13% | 67% |  |
-| 85 | 14% | 53% | Median |
-| 86 | 13% | 39% |  |
-| 87 | 10% | 27% |  |
-| 88 | 7% | 16% |  |
-| 89 | 4% | 9% |  |
-| 90 | 2% | 5% |  |
-| 91 | 1.3% | 2% |  |
-| 92 | 0.6% | 1.1% |  |
-| 93 | 0.3% | 0.5% |  |
-| 94 | 0.1% | 0.2% |  |
+| 80 | 4% | 95% |  |
+| 81 | 6% | 91% |  |
+| 82 | 9% | 85% |  |
+| 83 | 12% | 76% |  |
+| 84 | 14% | 64% |  |
+| 85 | 14% | 50% | Median |
+| 86 | 12% | 37% |  |
+| 87 | 10% | 24% |  |
+| 88 | 7% | 15% |  |
+| 89 | 4% | 8% |  |
+| 90 | 2% | 4% |  |
+| 91 | 1.1% | 2% |  |
+| 92 | 0.5% | 0.9% |  |
+| 93 | 0.2% | 0.4% |  |
+| 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
 

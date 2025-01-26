@@ -45,7 +45,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Labour Party | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -61,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 113 | 0% | 100% |  |
 | 114 | 0.1% | 99.9% |  |
-| 115 | 0.2% | 99.9% |  |
+| 115 | 0.2% | 99.8% |  |
 | 116 | 0.4% | 99.6% |  |
 | 117 | 0.8% | 99.2% |  |
 | 118 | 1.4% | 98% |  |
@@ -76,16 +76,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 127 | 6% | 60% |  |
 | 128 | 6% | 54% | Median |
 | 129 | 7% | 47% |  |
-| 130 | 7% | 41% |  |
+| 130 | 7% | 40% |  |
 | 131 | 7% | 34% |  |
 | 132 | 6% | 27% |  |
-| 133 | 6% | 21% |  |
-| 134 | 5% | 16% |  |
+| 133 | 5% | 21% |  |
+| 134 | 5% | 15% |  |
 | 135 | 4% | 11% |  |
 | 136 | 3% | 7% | Last Result |
-| 137 | 2% | 5% |  |
+| 137 | 2% | 4% |  |
 | 138 | 1.2% | 3% |  |
-| 139 | 0.7% | 1.5% |  |
+| 139 | 0.7% | 1.4% |  |
 | 140 | 0.4% | 0.7% |  |
 | 141 | 0.2% | 0.3% |  |
 | 142 | 0.1% | 0.1% |  |
