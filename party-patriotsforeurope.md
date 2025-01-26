@@ -20,10 +20,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Patriots for Europe | EU | 84 | 103 | 98–107 | 97–108 | 96–109 | 94–111 |
 | Rassemblement national | FR | | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
-| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Partij voor de Vrijheid | NL | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| Vox | ES | | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
+| Vox | ES | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | Chega | PT | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -32,9 +32,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Motoristé sobě | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Φωνή Λογικής | GR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Motoristé sobě | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 0.4% | 99.8% |  |
 | 95 | 1.0% | 99.3% |  |
 | 96 | 2% | 98% |  |
-| 97 | 3% | 96% |  |
+| 97 | 3% | 97% |  |
 | 98 | 5% | 93% |  |
 | 99 | 7% | 88% |  |
-| 100 | 9% | 82% |  |
+| 100 | 8% | 82% |  |
 | 101 | 10% | 73% |  |
 | 102 | 11% | 63% |  |
 | 103 | 11% | 52% | Median |
 | 104 | 11% | 41% |  |
 | 105 | 9% | 30% |  |
-| 106 | 7% | 21% |  |
-| 107 | 5% | 13% |  |
+| 106 | 8% | 21% |  |
+| 107 | 6% | 13% |  |
 | 108 | 4% | 8% |  |
 | 109 | 2% | 4% |  |
 | 110 | 1.1% | 2% |  |
-| 111 | 0.5% | 0.9% |  |
+| 111 | 0.5% | 1.0% |  |
 | 112 | 0.2% | 0.4% |  |
 | 113 | 0.1% | 0.2% |  |
 | 114 | 0% | 0.1% |  |
