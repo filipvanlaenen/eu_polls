@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 3–7 | 3–8 | 2–9 |
+| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 3–7 | 3–7 | 2–8 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -61,14 +61,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 1.2% | 100% |  |
-| 3 | 11% | 98.8% |  |
-| 4 | 21% | 87% |  |
-| 5 | 25% | 67% | Median |
-| 6 | 23% | 41% |  |
-| 7 | 13% | 18% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.6% | 0.6% |  |
+| 2 | 2% | 100% |  |
+| 3 | 16% | 98% |  |
+| 4 | 23% | 83% |  |
+| 5 | 27% | 60% | Median |
+| 6 | 22% | 33% |  |
+| 7 | 9% | 12% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 
