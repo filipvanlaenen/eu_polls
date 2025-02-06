@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 175 | 169–181 | 167–183 | 166–184 | 163–187 |
-| Partido Popular | ES | | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| European People’s Party | EU | 188 | 175 | 169–181 | 168–183 | 166–184 | 163–187 |
+| Partido Popular | ES | | 24 | 22–25 | 22–25 | 21–26 | 21–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–26 | 20–26 | 20–27 | 20–29 |
 | Platforma Obywatelska | PL | | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
@@ -37,11 +37,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Erakond Isamaa | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,7 +59,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Demokrati | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -89,35 +89,36 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 160 | 0% | 100% |  |
 | 161 | 0.1% | 99.9% |  |
-| 162 | 0.2% | 99.8% |  |
-| 163 | 0.3% | 99.6% |  |
-| 164 | 0.5% | 99.3% |  |
-| 165 | 0.9% | 98.8% |  |
-| 166 | 1.3% | 98% |  |
+| 162 | 0.1% | 99.9% |  |
+| 163 | 0.3% | 99.7% |  |
+| 164 | 0.5% | 99.4% |  |
+| 165 | 0.7% | 99.0% |  |
+| 166 | 1.1% | 98% |  |
 | 167 | 2% | 97% |  |
-| 168 | 3% | 95% |  |
-| 169 | 4% | 92% |  |
-| 170 | 5% | 89% |  |
-| 171 | 6% | 84% |  |
-| 172 | 7% | 78% |  |
-| 173 | 8% | 71% |  |
-| 174 | 9% | 63% |  |
-| 175 | 9% | 55% | Median |
-| 176 | 9% | 46% |  |
-| 177 | 8% | 37% |  |
-| 178 | 7% | 29% |  |
-| 179 | 6% | 22% |  |
-| 180 | 5% | 16% |  |
-| 181 | 4% | 11% |  |
-| 182 | 3% | 8% |  |
-| 183 | 2% | 5% |  |
-| 184 | 1.3% | 3% |  |
-| 185 | 0.8% | 2% |  |
-| 186 | 0.5% | 1.2% |  |
-| 187 | 0.3% | 0.7% |  |
+| 168 | 2% | 95% |  |
+| 169 | 3% | 93% |  |
+| 170 | 4% | 90% |  |
+| 171 | 5% | 86% |  |
+| 172 | 7% | 80% |  |
+| 173 | 8% | 74% |  |
+| 174 | 8% | 66% |  |
+| 175 | 9% | 58% | Median |
+| 176 | 9% | 49% |  |
+| 177 | 8% | 40% |  |
+| 178 | 7% | 32% |  |
+| 179 | 6% | 24% |  |
+| 180 | 5% | 18% |  |
+| 181 | 4% | 13% |  |
+| 182 | 3% | 9% |  |
+| 183 | 2% | 6% |  |
+| 184 | 1.4% | 4% |  |
+| 185 | 1.0% | 2% |  |
+| 186 | 0.6% | 1.4% |  |
+| 187 | 0.4% | 0.8% |  |
 | 188 | 0.2% | 0.4% | Last Result |
 | 189 | 0.1% | 0.2% |  |
 | 190 | 0.1% | 0.1% |  |
-| 191 | 0% | 0% |  |
+| 191 | 0% | 0.1% |  |
+| 192 | 0% | 0% |  |
 
 
