@@ -18,16 +18,16 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 80 | 77–84 | 76–85 | 75–85 | 73–87 |
+| European Conservatives and Reformists | EU | 78 | 80 | 76–83 | 75–84 | 74–85 | 73–87 |
 | Fratelli d’Italia | IT | | 26 | 24–28 | 23–29 | 22–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
 | Alianța pentru Unirea Românilor | RO | | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Občanská demokratická strana | CZ | | 2 | 2–4 | 2–4 | 1–4 | 1–5 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -53,24 +53,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0.1% | 100% |  |
-| 73 | 0.4% | 99.8% |  |
-| 74 | 1.2% | 99.4% |  |
-| 75 | 3% | 98% |  |
-| 76 | 5% | 96% |  |
-| 77 | 8% | 90% |  |
-| 78 | 11% | 82% | Last Result |
-| 79 | 14% | 71% |  |
-| 80 | 14% | 57% | Median |
-| 81 | 13% | 43% |  |
-| 82 | 11% | 30% |  |
-| 83 | 8% | 19% |  |
-| 84 | 5% | 11% |  |
-| 85 | 3% | 5% |  |
-| 86 | 1.5% | 2% |  |
-| 87 | 0.6% | 0.9% |  |
-| 88 | 0.2% | 0.3% |  |
-| 89 | 0.1% | 0.1% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.6% | 99.7% |  |
+| 74 | 2% | 99.1% |  |
+| 75 | 3% | 97% |  |
+| 76 | 6% | 94% |  |
+| 77 | 9% | 88% |  |
+| 78 | 12% | 79% | Last Result |
+| 79 | 14% | 66% |  |
+| 80 | 14% | 52% | Median |
+| 81 | 13% | 38% |  |
+| 82 | 10% | 25% |  |
+| 83 | 7% | 15% |  |
+| 84 | 4% | 8% |  |
+| 85 | 2% | 4% |  |
+| 86 | 1.1% | 2% |  |
+| 87 | 0.4% | 0.6% |  |
+| 88 | 0.1% | 0.2% |  |
+| 89 | 0% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
 

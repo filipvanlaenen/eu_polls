@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **21 countries**:
+Members registered from **20 countries**:
 
-> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
 
 ## Seats
 
@@ -26,7 +26,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -64,9 +63,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 2% | 100% |  |
 | 3 | 17% | 98% |  |
 | 4 | 23% | 81% |  |
-| 5 | 27% | 59% | Median |
+| 5 | 27% | 58% | Median |
 | 6 | 21% | 32% |  |
-| 7 | 9% | 10% |  |
+| 7 | 8% | 10% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
