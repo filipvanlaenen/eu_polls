@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 49 | 45–53 | 44–54 | 43–55 | 41–56 |
+| European United Left–Nordic Green Left | EU | 46 | 49 | 45–53 | 44–54 | 43–55 | 41–57 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 8–13 | 8–13 | 8–14 |
 | Die Linke | DE | | 5 | 3–6 | 1–6 | 1–6 | 1–7 |
@@ -27,10 +27,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -66,23 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
-| 41 | 0.4% | 99.7% |  |
-| 42 | 0.9% | 99.3% |  |
-| 43 | 2% | 98% |  |
+| 41 | 0.4% | 99.8% |  |
+| 42 | 0.8% | 99.4% |  |
+| 43 | 2% | 98.6% |  |
 | 44 | 3% | 97% |  |
 | 45 | 5% | 94% |  |
 | 46 | 7% | 89% | Last Result |
-| 47 | 10% | 81% |  |
-| 48 | 13% | 71% |  |
-| 49 | 14% | 59% | Median |
-| 50 | 13% | 45% |  |
-| 51 | 11% | 32% |  |
-| 52 | 8% | 20% |  |
+| 47 | 10% | 82% |  |
+| 48 | 12% | 72% |  |
+| 49 | 14% | 60% | Median |
+| 50 | 13% | 46% |  |
+| 51 | 11% | 33% |  |
+| 52 | 9% | 21% |  |
 | 53 | 6% | 12% |  |
-| 54 | 3% | 6% |  |
+| 54 | 3% | 7% |  |
 | 55 | 2% | 3% |  |
-| 56 | 0.8% | 1.3% |  |
-| 57 | 0.3% | 0.5% |  |
+| 56 | 0.9% | 1.4% |  |
+| 57 | 0.4% | 0.5% |  |
 | 58 | 0.1% | 0.2% |  |
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |

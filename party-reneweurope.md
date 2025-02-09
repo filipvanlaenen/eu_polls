@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 84 | 80–88 | 79–89 | 78–90 | 76–92 |
+| Renew Europe | EU | 77 | 84 | 80–87 | 79–89 | 78–90 | 76–91 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -40,7 +40,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,22 +84,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0.5% | 99.6% |  |
 | 77 | 1.1% | 99.1% | Last Result |
 | 78 | 2% | 98% |  |
-| 79 | 3% | 96% |  |
-| 80 | 5% | 92% |  |
+| 79 | 4% | 96% |  |
+| 80 | 6% | 92% |  |
 | 81 | 8% | 87% |  |
 | 82 | 11% | 79% |  |
 | 83 | 13% | 68% |  |
-| 84 | 14% | 56% | Median |
-| 85 | 13% | 42% |  |
-| 86 | 11% | 29% |  |
-| 87 | 8% | 19% |  |
-| 88 | 5% | 11% |  |
-| 89 | 3% | 6% |  |
-| 90 | 2% | 3% |  |
-| 91 | 0.7% | 1.3% |  |
-| 92 | 0.3% | 0.6% |  |
+| 84 | 14% | 55% | Median |
+| 85 | 13% | 41% |  |
+| 86 | 11% | 28% |  |
+| 87 | 8% | 18% |  |
+| 88 | 5% | 10% |  |
+| 89 | 3% | 5% |  |
+| 90 | 1.4% | 3% |  |
+| 91 | 0.7% | 1.2% |  |
+| 92 | 0.3% | 0.5% |  |
 | 93 | 0.1% | 0.2% |  |
-| 94 | 0.1% | 0.1% |  |
+| 94 | 0% | 0.1% |  |
 | 95 | 0% | 0% |  |
 
 
