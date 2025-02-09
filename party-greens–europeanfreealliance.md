@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **36** seats (-17 seats)
+Current median: **37** seats (-16 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 36 | 33–41 | 32–42 | 31–43 | 30–46 |
+| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 32–43 | 31–44 | 30–46 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -47,7 +47,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -67,27 +67,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
-| 29 | 0.4% | 99.9% |  |
-| 30 | 1.2% | 99.5% |  |
-| 31 | 3% | 98% |  |
-| 32 | 5% | 95% |  |
-| 33 | 8% | 90% |  |
-| 34 | 11% | 82% |  |
-| 35 | 12% | 70% |  |
-| 36 | 12% | 58% | Median |
-| 37 | 11% | 46% |  |
-| 38 | 9% | 35% |  |
-| 39 | 8% | 25% |  |
-| 40 | 6% | 18% |  |
-| 41 | 4% | 12% |  |
-| 42 | 3% | 7% |  |
-| 43 | 2% | 4% |  |
-| 44 | 1.1% | 2% |  |
-| 45 | 0.6% | 1.4% |  |
-| 46 | 0.4% | 0.7% |  |
-| 47 | 0.2% | 0.4% |  |
+| 29 | 0.3% | 99.9% |  |
+| 30 | 0.9% | 99.6% |  |
+| 31 | 2% | 98.7% |  |
+| 32 | 4% | 96% |  |
+| 33 | 7% | 92% |  |
+| 34 | 10% | 85% |  |
+| 35 | 12% | 75% |  |
+| 36 | 12% | 63% |  |
+| 37 | 12% | 50% | Median |
+| 38 | 10% | 39% |  |
+| 39 | 8% | 29% |  |
+| 40 | 7% | 20% |  |
+| 41 | 5% | 14% |  |
+| 42 | 3% | 9% |  |
+| 43 | 2% | 5% |  |
+| 44 | 1.3% | 3% |  |
+| 45 | 0.8% | 2% |  |
+| 46 | 0.4% | 0.9% |  |
+| 47 | 0.2% | 0.5% |  |
 | 48 | 0.1% | 0.2% |  |
-| 49 | 0% | 0.1% |  |
+| 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

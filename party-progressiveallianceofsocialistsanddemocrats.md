@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **127** seats (-9 seats)
+Current median: **128** seats (-8 seats)
 
 At least one member in **25 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 127 | 120–134 | 119–135 | 118–136 | 116–139 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 128 | 121–134 | 119–136 | 118–137 | 116–139 |
 | Partito Democratico | IT | | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–18 | 13–19 |
-| Partidul Social Democrat | RO | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| Partido Socialista | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| Partidul Social Democrat | RO | | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Parti socialiste–Place Publique | FR | | 6 | 0–9 | 0–9 | 0–10 | 0–10 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nowa Lewica | PL | | 4 | 3–4 | 3–5 | 2–5 | 0–5 |
-| Socialdemokraterne | DK | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Κίνημα Αλλαγής | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -59,35 +59,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 113 | 0% | 100% |  |
-| 114 | 0.1% | 99.9% |  |
-| 115 | 0.3% | 99.8% |  |
-| 116 | 0.6% | 99.5% |  |
-| 117 | 1.1% | 98.9% |  |
-| 118 | 2% | 98% |  |
-| 119 | 3% | 96% |  |
-| 120 | 4% | 93% |  |
-| 121 | 5% | 89% |  |
-| 122 | 6% | 85% |  |
-| 123 | 6% | 79% |  |
-| 124 | 6% | 73% |  |
-| 125 | 6% | 67% |  |
-| 126 | 6% | 61% |  |
-| 127 | 6% | 55% | Median |
-| 128 | 7% | 49% |  |
-| 129 | 7% | 42% |  |
-| 130 | 7% | 35% |  |
-| 131 | 7% | 28% |  |
-| 132 | 6% | 21% |  |
-| 133 | 5% | 15% |  |
-| 134 | 4% | 10% |  |
-| 135 | 3% | 7% |  |
-| 136 | 2% | 4% | Last Result |
-| 137 | 1.1% | 2% |  |
-| 138 | 0.6% | 1.2% |  |
-| 139 | 0.3% | 0.6% |  |
-| 140 | 0.2% | 0.3% |  |
-| 141 | 0.1% | 0.1% |  |
-| 142 | 0% | 0% |  |
+| 114 | 0.1% | 100% |  |
+| 115 | 0.2% | 99.9% |  |
+| 116 | 0.4% | 99.7% |  |
+| 117 | 0.8% | 99.3% |  |
+| 118 | 1.4% | 98.5% |  |
+| 119 | 2% | 97% |  |
+| 120 | 3% | 95% |  |
+| 121 | 4% | 92% |  |
+| 122 | 5% | 87% |  |
+| 123 | 6% | 82% |  |
+| 124 | 6% | 76% |  |
+| 125 | 6% | 70% |  |
+| 126 | 6% | 64% |  |
+| 127 | 6% | 58% |  |
+| 128 | 6% | 52% | Median |
+| 129 | 7% | 46% |  |
+| 130 | 7% | 39% |  |
+| 131 | 7% | 32% |  |
+| 132 | 6% | 25% |  |
+| 133 | 6% | 19% |  |
+| 134 | 4% | 13% |  |
+| 135 | 3% | 9% |  |
+| 136 | 2% | 5% | Last Result |
+| 137 | 1.4% | 3% |  |
+| 138 | 0.8% | 2% |  |
+| 139 | 0.5% | 0.9% |  |
+| 140 | 0.2% | 0.4% |  |
+| 141 | 0.1% | 0.2% |  |
+| 142 | 0% | 0.1% |  |
+| 143 | 0% | 0% |  |
 
 

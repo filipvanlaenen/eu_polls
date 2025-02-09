@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **21 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
+> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, RO, SI
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+4 seats)
+Current median: **6** seats (+5 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,15 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 3–7 | 3–7 | 2–8 |
+| Parties currently not represented in the EP | EU | 1 | 6 | 4–8 | 3–9 | 3–9 | 2–10 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Partidul Oamenilor Tineri [RO] (*) | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -60,14 +61,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 2% | 100% |  |
-| 3 | 17% | 98% |  |
-| 4 | 23% | 81% |  |
-| 5 | 27% | 58% | Median |
-| 6 | 21% | 32% |  |
-| 7 | 8% | 10% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 9% | 99.1% |  |
+| 4 | 11% | 90% |  |
+| 5 | 15% | 79% |  |
+| 6 | 21% | 64% | Median |
+| 7 | 23% | 44% |  |
+| 8 | 15% | 21% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.9% | 0.9% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

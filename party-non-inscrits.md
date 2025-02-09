@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-10 seats)
+Current median: **21** seats (-11 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 22 | 20–24 | 19–25 | 18–25 | 17–26 |
+| Non-Inscrits | EU | 32 | 21 | 18–24 | 18–25 | 17–25 | 16–26 |
 | Bündnis Sahra Wagenknecht | DE | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
-| SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Partidul S.O.S. România | RO | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| SMER–sociálna demokracia | SK | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Partidul S.O.S. România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -37,6 +37,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -49,18 +50,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.5% | 99.9% |  |
-| 18 | 2% | 99.4% |  |
-| 19 | 6% | 97% |  |
-| 20 | 12% | 91% |  |
-| 21 | 19% | 79% |  |
-| 22 | 21% | 60% | Median |
-| 23 | 19% | 39% |  |
-| 24 | 12% | 20% |  |
-| 25 | 6% | 8% |  |
-| 26 | 2% | 2% |  |
-| 27 | 0.4% | 0.4% |  |
+| 15 | 0.3% | 100% |  |
+| 16 | 1.0% | 99.7% |  |
+| 17 | 3% | 98.7% |  |
+| 18 | 6% | 96% |  |
+| 19 | 11% | 90% |  |
+| 20 | 15% | 79% |  |
+| 21 | 18% | 64% | Median |
+| 22 | 18% | 45% |  |
+| 23 | 14% | 27% |  |
+| 24 | 8% | 13% |  |
+| 25 | 4% | 5% |  |
+| 26 | 1.1% | 1.4% |  |
+| 27 | 0.2% | 0.3% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
