@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -73,9 +73,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 5% | 95% |  |
 | 33 | 8% | 90% |  |
 | 34 | 10% | 82% |  |
-| 35 | 12% | 72% |  |
+| 35 | 12% | 71% |  |
 | 36 | 12% | 60% | Median |
-| 37 | 11% | 48% |  |
+| 37 | 11% | 47% |  |
 | 38 | 10% | 36% |  |
 | 39 | 8% | 27% |  |
 | 40 | 6% | 19% |  |
