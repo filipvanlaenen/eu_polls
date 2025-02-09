@@ -18,7 +18,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 128 | 121–134 | 120–136 | 118–137 | 116–140 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 128 | 121–134 | 120–136 | 118–137 | 116–139 |
 | Partito Democratico | IT | | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–17 | 13–18 | 13–18 | 13–19 |
@@ -62,29 +62,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 0.1% | 100% |  |
 | 115 | 0.2% | 99.9% |  |
 | 116 | 0.4% | 99.7% |  |
-| 117 | 0.7% | 99.4% |  |
+| 117 | 0.7% | 99.3% |  |
 | 118 | 1.3% | 98.6% |  |
 | 119 | 2% | 97% |  |
 | 120 | 3% | 95% |  |
 | 121 | 4% | 92% |  |
 | 122 | 5% | 88% |  |
 | 123 | 6% | 83% |  |
-| 124 | 6% | 78% |  |
-| 125 | 6% | 72% |  |
-| 126 | 6% | 66% |  |
-| 127 | 6% | 60% |  |
+| 124 | 6% | 77% |  |
+| 125 | 6% | 71% |  |
+| 126 | 6% | 65% |  |
+| 127 | 6% | 59% |  |
 | 128 | 6% | 53% | Median |
 | 129 | 7% | 47% |  |
 | 130 | 7% | 40% |  |
 | 131 | 7% | 33% |  |
-| 132 | 6% | 27% |  |
+| 132 | 6% | 26% |  |
 | 133 | 6% | 20% |  |
 | 134 | 5% | 14% |  |
-| 135 | 4% | 10% |  |
-| 136 | 3% | 6% | Last Result |
+| 135 | 3% | 10% |  |
+| 136 | 2% | 6% | Last Result |
 | 137 | 2% | 4% |  |
 | 138 | 1.0% | 2% |  |
-| 139 | 0.5% | 1.1% |  |
+| 139 | 0.5% | 1.0% |  |
 | 140 | 0.3% | 0.5% |  |
 | 141 | 0.1% | 0.2% |  |
 | 142 | 0.1% | 0.1% |  |

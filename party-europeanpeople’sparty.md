@@ -22,7 +22,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 24 | 22–25 | 22–25 | 21–26 | 21–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 20–26 | 20–26 | 19–29 |
 | Platforma Obywatelska | PL | | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
-| Tisztelet és Szabadság | HU | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Forza Italia | IT | | 7 | 5–9 | 5–10 | 5–10 | 5–11 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -42,7 +42,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -50,7 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -97,7 +97,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 2% | 97% |  |
 | 169 | 2% | 95% |  |
 | 170 | 3% | 93% |  |
-| 171 | 4% | 89% |  |
+| 171 | 4% | 90% |  |
 | 172 | 5% | 85% |  |
 | 173 | 6% | 80% |  |
 | 174 | 7% | 74% |  |
