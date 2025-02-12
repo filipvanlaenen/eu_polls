@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 6 | 4–8 | 3–9 | 3–9 | 2–10 |
-| Nemuno aušra [LT] (*) | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Parties currently not represented in the EP | EU | 1 | 6 | 3–7 | 2–8 | 2–8 | 1–9 |
+| Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -44,7 +44,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -60,17 +59,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 0.9% | 100% |  |
-| 3 | 8% | 99.1% |  |
-| 4 | 11% | 91% |  |
-| 5 | 14% | 79% |  |
-| 6 | 21% | 65% | Median |
-| 7 | 23% | 44% |  |
-| 8 | 15% | 21% |  |
-| 9 | 5% | 6% |  |
-| 10 | 0.9% | 1.0% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 1 | 0.5% | 100% | Last Result |
+| 2 | 5% | 99.5% |  |
+| 3 | 11% | 94% |  |
+| 4 | 13% | 83% |  |
+| 5 | 19% | 69% |  |
+| 6 | 23% | 51% | Median |
+| 7 | 18% | 28% |  |
+| 8 | 8% | 10% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.2% | 0.2% |  |
+| 11 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (0 seats)
+Current median: **79** seats (+1 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 78 | 74–82 | 73–83 | 72–84 | 71–86 |
-| Fratelli d’Italia | IT | | 26 | 24–28 | 23–29 | 22–29 | 22–30 |
+| European Conservatives and Reformists | EU | 78 | 79 | 75–83 | 74–84 | 73–84 | 71–86 |
+| Fratelli d’Italia | IT | | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | Zjednoczona Prawica | PL | | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
 | Alianța pentru Unirea Românilor | RO | | 10 | 8–12 | 8–12 | 7–12 | 7–13 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -30,7 +30,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 2 | 2–4 | 2–4 | 1–4 | 1–5 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -40,7 +40,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Suverēnā vara | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -53,25 +52,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.9% |  |
-| 71 | 0.7% | 99.6% |  |
-| 72 | 2% | 98.9% |  |
-| 73 | 3% | 97% |  |
-| 74 | 5% | 94% |  |
-| 75 | 7% | 89% |  |
-| 76 | 10% | 82% |  |
-| 77 | 12% | 72% |  |
-| 78 | 12% | 60% | Last Result, Median |
-| 79 | 12% | 48% |  |
-| 80 | 11% | 36% |  |
-| 81 | 9% | 25% |  |
-| 82 | 6% | 16% |  |
-| 83 | 4% | 9% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0.1% | 99.9% |  |
+| 71 | 0.4% | 99.8% |  |
+| 72 | 1.0% | 99.4% |  |
+| 73 | 2% | 98% |  |
+| 74 | 4% | 96% |  |
+| 75 | 6% | 92% |  |
+| 76 | 9% | 86% |  |
+| 77 | 11% | 77% |  |
+| 78 | 13% | 65% | Last Result |
+| 79 | 13% | 52% | Median |
+| 80 | 12% | 39% |  |
+| 81 | 10% | 27% |  |
+| 82 | 7% | 18% |  |
+| 83 | 5% | 10% |  |
 | 84 | 3% | 5% |  |
-| 85 | 1.4% | 2% |  |
+| 85 | 1.5% | 2% |  |
 | 86 | 0.6% | 1.0% |  |
-| 87 | 0.2% | 0.4% |  |
+| 87 | 0.3% | 0.4% |  |
 | 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |
 

@@ -42,7 +42,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Liberalų Sąjūdis | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -55,16 +55,15 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Konkretno | SI | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Laisvės partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Moderaterne | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -78,20 +77,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 73 | 0% | 100% |  |
-| 74 | 0.1% | 99.9% |  |
-| 75 | 0.2% | 99.8% |  |
-| 76 | 0.6% | 99.6% |  |
-| 77 | 1.1% | 99.0% | Last Result |
+| 74 | 0.1% | 100% |  |
+| 75 | 0.2% | 99.9% |  |
+| 76 | 0.5% | 99.6% |  |
+| 77 | 1.1% | 99.1% | Last Result |
 | 78 | 2% | 98% |  |
 | 79 | 4% | 96% |  |
 | 80 | 6% | 92% |  |
 | 81 | 8% | 87% |  |
 | 82 | 11% | 78% |  |
-| 83 | 13% | 68% |  |
-| 84 | 14% | 55% | Median |
-| 85 | 13% | 41% |  |
-| 86 | 10% | 28% |  |
+| 83 | 13% | 67% |  |
+| 84 | 14% | 54% | Median |
+| 85 | 13% | 40% |  |
+| 86 | 10% | 27% |  |
 | 87 | 7% | 17% |  |
 | 88 | 5% | 10% |  |
 | 89 | 3% | 5% |  |
@@ -99,7 +97,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.7% | 1.2% |  |
 | 92 | 0.3% | 0.5% |  |
 | 93 | 0.1% | 0.2% |  |
-| 94 | 0% | 0.1% |  |
+| 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
 
 
