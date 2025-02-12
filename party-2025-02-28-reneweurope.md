@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 84 | 80–87 | 79–89 | 78–90 | 76–92 |
+| Renew Europe | EU | 77 | 84 | 80–87 | 79–89 | 78–89 | 76–92 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -46,7 +46,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Azione | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -93,8 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 7% | 17% |  |
 | 88 | 5% | 10% |  |
 | 89 | 3% | 5% |  |
-| 90 | 1.4% | 3% |  |
-| 91 | 0.7% | 1.2% |  |
+| 90 | 1.3% | 2% |  |
+| 91 | 0.6% | 1.2% |  |
 | 92 | 0.3% | 0.5% |  |
 | 93 | 0.1% | 0.2% |  |
 | 94 | 0.1% | 0.1% |  |
