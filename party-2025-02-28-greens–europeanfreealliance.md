@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 36 | 32–40 | 31–42 | 31–43 | 29–45 |
+| Greens–European Free Alliance | EU | 53 | 36 | 32–40 | 31–41 | 31–43 | 29–45 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,22 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
-| 29 | 0.5% | 99.9% |  |
-| 30 | 1.5% | 99.4% |  |
+| 29 | 0.4% | 99.9% |  |
+| 30 | 1.4% | 99.5% |  |
 | 31 | 3% | 98% |  |
 | 32 | 6% | 95% |  |
 | 33 | 9% | 89% |  |
-| 34 | 12% | 79% |  |
+| 34 | 12% | 80% |  |
 | 35 | 14% | 68% |  |
 | 36 | 14% | 54% | Median |
 | 37 | 12% | 40% |  |
-| 38 | 9% | 29% |  |
-| 39 | 7% | 20% |  |
+| 38 | 9% | 28% |  |
+| 39 | 6% | 19% |  |
 | 40 | 5% | 13% |  |
 | 41 | 3% | 8% |  |
 | 42 | 2% | 5% |  |
 | 43 | 1.3% | 3% |  |
-| 44 | 0.7% | 2% |  |
+| 44 | 0.7% | 1.5% |  |
 | 45 | 0.4% | 0.8% |  |
 | 46 | 0.2% | 0.4% |  |
 | 47 | 0.1% | 0.2% |  |
