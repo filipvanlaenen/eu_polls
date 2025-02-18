@@ -18,13 +18,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 21 | 18–23 | 18–24 | 17–25 | 16–26 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 4–6 | 3–6 | 3–6 | 2–6 |
+| Non-Inscrits | EU | 32 | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
+| Bündnis Sahra Wagenknecht | DE | | 5 | 4–5 | 3–6 | 3–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Die PARTEI | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -49,19 +49,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0% | 100% |  |
-| 15 | 0.3% | 99.9% |  |
-| 16 | 1.0% | 99.7% |  |
-| 17 | 3% | 98.7% |  |
-| 18 | 7% | 96% |  |
-| 19 | 12% | 89% |  |
-| 20 | 17% | 77% |  |
-| 21 | 20% | 60% | Median |
-| 22 | 18% | 40% |  |
-| 23 | 12% | 22% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.4% | 99.9% |  |
+| 16 | 1.4% | 99.6% |  |
+| 17 | 4% | 98% |  |
+| 18 | 8% | 95% |  |
+| 19 | 13% | 87% |  |
+| 20 | 17% | 74% |  |
+| 21 | 19% | 57% | Median |
+| 22 | 17% | 38% |  |
+| 23 | 12% | 20% |  |
 | 24 | 6% | 9% |  |
 | 25 | 2% | 3% |  |
-| 26 | 0.6% | 0.7% |  |
+| 26 | 0.5% | 0.6% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
