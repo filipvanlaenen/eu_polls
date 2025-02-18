@@ -26,7 +26,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -66,23 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.2% | 100% |  |
-| 30 | 0.7% | 99.8% |  |
-| 31 | 2% | 99.1% |  |
+| 30 | 0.6% | 99.8% |  |
+| 31 | 2% | 99.2% |  |
 | 32 | 4% | 97% |  |
-| 33 | 8% | 93% |  |
-| 34 | 12% | 85% |  |
-| 35 | 14% | 73% |  |
-| 36 | 15% | 59% | Median |
-| 37 | 13% | 44% |  |
-| 38 | 10% | 31% |  |
-| 39 | 7% | 21% |  |
-| 40 | 5% | 14% |  |
-| 41 | 4% | 9% |  |
-| 42 | 2% | 5% |  |
-| 43 | 1.4% | 3% |  |
-| 44 | 0.8% | 2% |  |
-| 45 | 0.4% | 0.8% |  |
-| 46 | 0.2% | 0.4% |  |
+| 33 | 7% | 93% |  |
+| 34 | 11% | 86% |  |
+| 35 | 14% | 75% |  |
+| 36 | 15% | 61% | Median |
+| 37 | 13% | 46% |  |
+| 38 | 10% | 33% |  |
+| 39 | 8% | 23% |  |
+| 40 | 5% | 15% |  |
+| 41 | 4% | 10% |  |
+| 42 | 3% | 6% |  |
+| 43 | 2% | 3% |  |
+| 44 | 0.9% | 2% |  |
+| 45 | 0.5% | 0.9% |  |
+| 46 | 0.2% | 0.5% |  |
 | 47 | 0.1% | 0.2% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
