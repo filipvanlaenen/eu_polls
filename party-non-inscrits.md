@@ -19,7 +19,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partidul S.O.S. România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -28,7 +28,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Stabilitātei! | LV | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -50,13 +50,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
-| 15 | 0.3% | 99.9% |  |
+| 15 | 0.4% | 99.9% |  |
 | 16 | 1.4% | 99.6% |  |
 | 17 | 4% | 98% |  |
-| 18 | 8% | 95% |  |
-| 19 | 13% | 87% |  |
-| 20 | 18% | 74% |  |
-| 21 | 20% | 56% | Median |
+| 18 | 8% | 94% |  |
+| 19 | 13% | 86% |  |
+| 20 | 18% | 73% |  |
+| 21 | 19% | 55% | Median |
 | 22 | 17% | 36% |  |
 | 23 | 11% | 19% |  |
 | 24 | 6% | 8% |  |
