@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (-16 seats)
+Current median: **36** seats (-17 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 33–42 | 32–43 | 30–46 |
+| Greens–European Free Alliance | EU | 53 | 36 | 33–41 | 32–42 | 32–43 | 30–46 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| GroenLinks | NL | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -45,11 +45,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
-| 30 | 0.4% | 99.9% |  |
-| 31 | 1.3% | 99.5% |  |
+| 30 | 0.5% | 99.9% |  |
+| 31 | 1.4% | 99.4% |  |
 | 32 | 3% | 98% |  |
-| 33 | 6% | 95% |  |
-| 34 | 10% | 89% |  |
-| 35 | 13% | 79% |  |
-| 36 | 14% | 67% |  |
-| 37 | 14% | 53% | Median |
-| 38 | 12% | 39% |  |
-| 39 | 9% | 27% |  |
-| 40 | 6% | 18% |  |
-| 41 | 4% | 12% |  |
+| 33 | 7% | 94% |  |
+| 34 | 10% | 88% |  |
+| 35 | 13% | 78% |  |
+| 36 | 14% | 64% | Median |
+| 37 | 14% | 50% |  |
+| 38 | 11% | 36% |  |
+| 39 | 8% | 25% |  |
+| 40 | 6% | 17% |  |
+| 41 | 4% | 11% |  |
 | 42 | 3% | 7% |  |
 | 43 | 2% | 4% |  |
-| 44 | 1.2% | 2% |  |
-| 45 | 0.6% | 1.3% |  |
-| 46 | 0.3% | 0.7% |  |
+| 44 | 1.0% | 2% |  |
+| 45 | 0.6% | 1.1% |  |
+| 46 | 0.3% | 0.6% |  |
 | 47 | 0.2% | 0.3% |  |
-| 48 | 0.1% | 0.2% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

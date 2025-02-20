@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (+1 seats)
+Current median: **78** seats (0 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 79 | 75–83 | 74–84 | 73–85 | 72–87 |
-| Fratelli d’Italia | IT | | 27 | 25–29 | 24–29 | 23–29 | 23–30 |
-| Zjednoczona Prawica | PL | | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
-| Alianța pentru Unirea Românilor | RO | | 10 | 8–12 | 8–12 | 7–12 | 7–13 |
-| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| European Conservatives and Reformists | EU | 78 | 78 | 75–82 | 73–83 | 73–84 | 71–85 |
+| Fratelli d’Italia | IT | | 27 | 25–29 | 24–29 | 23–29 | 22–30 |
+| Zjednoczona Prawica | PL | | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| Alianța pentru Unirea Românilor | RO | | 10 | 8–12 | 8–12 | 7–12 | 7–12 |
+| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 2 | 2 |
@@ -31,10 +31,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1 |
-| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
+| Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -53,26 +54,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 70 | 0.1% | 100% |  |
-| 71 | 0.3% | 99.9% |  |
-| 72 | 0.7% | 99.6% |  |
-| 73 | 2% | 98.9% |  |
-| 74 | 3% | 97% |  |
-| 75 | 5% | 94% |  |
-| 76 | 8% | 89% |  |
-| 77 | 10% | 82% |  |
-| 78 | 12% | 71% | Last Result |
-| 79 | 13% | 59% | Median |
-| 80 | 13% | 46% |  |
-| 81 | 11% | 33% |  |
-| 82 | 9% | 22% |  |
-| 83 | 6% | 13% |  |
-| 84 | 4% | 7% |  |
-| 85 | 2% | 3% |  |
-| 86 | 0.9% | 1.4% |  |
-| 87 | 0.4% | 0.5% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.3% | 99.9% |  |
+| 71 | 0.6% | 99.6% |  |
+| 72 | 1.4% | 99.0% |  |
+| 73 | 3% | 98% |  |
+| 74 | 5% | 95% |  |
+| 75 | 7% | 90% |  |
+| 76 | 10% | 83% |  |
+| 77 | 12% | 73% |  |
+| 78 | 14% | 60% | Last Result, Median |
+| 79 | 13% | 46% |  |
+| 80 | 12% | 33% |  |
+| 81 | 9% | 21% |  |
+| 82 | 6% | 12% |  |
+| 83 | 3% | 6% |  |
+| 84 | 2% | 3% |  |
+| 85 | 0.7% | 1.1% |  |
+| 86 | 0.2% | 0.4% |  |
+| 87 | 0.1% | 0.1% |  |
+| 88 | 0% | 0% |  |
 
 
