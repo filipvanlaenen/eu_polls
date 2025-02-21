@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 175 | 168–181 | 167–183 | 165–185 | 162–188 |
-| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 20–26 | 19–29 | 19–29 |
+| European People’s Party | EU | 188 | 175 | 168–181 | 166–183 | 165–184 | 162–187 |
+| Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 20–26 | 19–26 | 19–29 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
@@ -43,7 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -59,7 +59,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Familienpartei Deutschlands | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Familienpartei Deutschlands | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -90,36 +90,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.2% | 99.8% |  |
-| 162 | 0.3% | 99.6% |  |
-| 163 | 0.5% | 99.2% |  |
-| 164 | 0.8% | 98.7% |  |
-| 165 | 1.1% | 98% |  |
+| 161 | 0.2% | 99.7% |  |
+| 162 | 0.4% | 99.5% |  |
+| 163 | 0.6% | 99.2% |  |
+| 164 | 0.8% | 98.6% |  |
+| 165 | 1.2% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 2% | 95% |  |
 | 168 | 3% | 93% |  |
-| 169 | 4% | 90% |  |
-| 170 | 5% | 86% |  |
+| 169 | 4% | 89% |  |
+| 170 | 5% | 85% |  |
 | 171 | 6% | 81% |  |
-| 172 | 7% | 76% |  |
-| 173 | 7% | 69% |  |
-| 174 | 8% | 62% |  |
-| 175 | 8% | 54% | Median |
-| 176 | 8% | 46% |  |
-| 177 | 8% | 38% |  |
-| 178 | 7% | 30% |  |
-| 179 | 6% | 24% |  |
-| 180 | 5% | 18% |  |
-| 181 | 4% | 13% |  |
-| 182 | 3% | 9% |  |
+| 172 | 7% | 75% |  |
+| 173 | 7% | 68% |  |
+| 174 | 8% | 61% |  |
+| 175 | 8% | 53% | Median |
+| 176 | 8% | 45% |  |
+| 177 | 7% | 37% |  |
+| 178 | 7% | 29% |  |
+| 179 | 6% | 23% |  |
+| 180 | 5% | 17% |  |
+| 181 | 4% | 12% |  |
+| 182 | 3% | 8% |  |
 | 183 | 2% | 6% |  |
-| 184 | 1.5% | 4% |  |
-| 185 | 1.0% | 3% |  |
-| 186 | 0.7% | 2% |  |
-| 187 | 0.4% | 1.0% |  |
-| 188 | 0.3% | 0.6% | Last Result |
-| 189 | 0.2% | 0.3% |  |
-| 190 | 0.1% | 0.2% |  |
+| 184 | 1.4% | 4% |  |
+| 185 | 0.9% | 2% |  |
+| 186 | 0.6% | 1.3% |  |
+| 187 | 0.3% | 0.7% |  |
+| 188 | 0.2% | 0.4% | Last Result |
+| 189 | 0.1% | 0.2% |  |
+| 190 | 0.1% | 0.1% |  |
 | 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |
 
