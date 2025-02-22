@@ -21,7 +21,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 175 | 168–181 | 166–183 | 165–184 | 162–187 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 20–26 | 19–26 | 19–29 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
-| Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
+| Platforma Obywatelska | PL | | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
@@ -30,12 +30,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
 | Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Slovenska demokratska stranka | SI | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Österreichische Volkspartei | AT | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Erakond Isamaa | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -43,7 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -58,7 +58,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Familienpartei Deutschlands | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -91,15 +91,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.7% |  |
-| 162 | 0.4% | 99.5% |  |
-| 163 | 0.6% | 99.2% |  |
+| 162 | 0.3% | 99.5% |  |
+| 163 | 0.5% | 99.2% |  |
 | 164 | 0.8% | 98.6% |  |
 | 165 | 1.2% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 2% | 95% |  |
 | 168 | 3% | 93% |  |
 | 169 | 4% | 89% |  |
-| 170 | 5% | 85% |  |
+| 170 | 5% | 86% |  |
 | 171 | 6% | 81% |  |
 | 172 | 7% | 75% |  |
 | 173 | 7% | 68% |  |

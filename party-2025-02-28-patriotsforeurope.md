@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 103 | 98–107 | 97–109 | 96–110 | 94–112 |
+| Patriots for Europe | EU | 84 | 103 | 98–108 | 97–109 | 96–110 | 94–112 |
 | Rassemblement national | FR | | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
 | ANO 2011 | CZ | | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–12 | 8–12 | 7–13 | 7–13 |
@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Motoristé sobě | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Φωνή Λογικής | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -59,24 +59,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0.1% | 100% |  |
 | 93 | 0.2% | 99.9% |  |
 | 94 | 0.4% | 99.8% |  |
-| 95 | 0.9% | 99.4% |  |
-| 96 | 2% | 98% |  |
+| 95 | 0.8% | 99.4% |  |
+| 96 | 2% | 98.5% |  |
 | 97 | 3% | 97% |  |
-| 98 | 5% | 94% |  |
-| 99 | 6% | 89% |  |
+| 98 | 4% | 94% |  |
+| 99 | 6% | 90% |  |
 | 100 | 8% | 83% |  |
-| 101 | 10% | 75% |  |
-| 102 | 11% | 65% |  |
-| 103 | 11% | 55% | Median |
-| 104 | 11% | 44% |  |
-| 105 | 10% | 33% |  |
+| 101 | 9% | 76% |  |
+| 102 | 11% | 66% |  |
+| 103 | 11% | 56% | Median |
+| 104 | 11% | 45% |  |
+| 105 | 10% | 34% |  |
 | 106 | 8% | 24% |  |
 | 107 | 6% | 16% |  |
 | 108 | 4% | 10% |  |
 | 109 | 3% | 6% |  |
 | 110 | 2% | 3% |  |
-| 111 | 0.8% | 2% |  |
-| 112 | 0.4% | 0.7% |  |
+| 111 | 0.9% | 2% |  |
+| 112 | 0.4% | 0.8% |  |
 | 113 | 0.2% | 0.3% |  |
 | 114 | 0.1% | 0.1% |  |
 | 115 | 0% | 0.1% |  |

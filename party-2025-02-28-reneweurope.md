@@ -37,7 +37,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Iniciativa Liberal | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -90,11 +90,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 8% | 85% |  |
 | 82 | 11% | 77% |  |
 | 83 | 12% | 66% |  |
-| 84 | 13% | 54% | Median |
+| 84 | 13% | 53% | Median |
 | 85 | 12% | 41% |  |
 | 86 | 10% | 29% |  |
-| 87 | 8% | 19% |  |
-| 88 | 5% | 12% |  |
+| 87 | 7% | 19% |  |
+| 88 | 5% | 11% |  |
 | 89 | 3% | 6% |  |
 | 90 | 2% | 3% |  |
 | 91 | 0.9% | 2% |  |
