@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **174** seats (-14 seats)
+Current median: **175** seats (-13 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 168–181 | 166–182 | 164–184 | 161–187 |
+| European People’s Party | EU | 188 | 175 | 168–181 | 166–182 | 165–184 | 161–187 |
 | Christlich Demokratische Union Deutschlands | DE | | 23 | 21–25 | 20–26 | 19–26 | 19–29 |
-| Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–25 | 19–26 |
+| Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
@@ -93,29 +93,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 161 | 0.2% | 99.7% |  |
 | 162 | 0.4% | 99.5% |  |
 | 163 | 0.6% | 99.1% |  |
-| 164 | 0.9% | 98% |  |
-| 165 | 1.4% | 97% |  |
+| 164 | 0.9% | 98.5% |  |
+| 165 | 1.3% | 98% |  |
 | 166 | 2% | 96% |  |
 | 167 | 3% | 94% |  |
 | 168 | 3% | 92% |  |
-| 169 | 4% | 88% |  |
+| 169 | 4% | 89% |  |
 | 170 | 5% | 84% |  |
 | 171 | 6% | 79% |  |
-| 172 | 7% | 72% |  |
-| 173 | 8% | 65% |  |
-| 174 | 8% | 58% | Median |
-| 175 | 8% | 50% |  |
-| 176 | 8% | 41% |  |
+| 172 | 7% | 73% |  |
+| 173 | 8% | 66% |  |
+| 174 | 8% | 58% |  |
+| 175 | 8% | 50% | Median |
+| 176 | 8% | 42% |  |
 | 177 | 7% | 34% |  |
-| 178 | 6% | 26% |  |
-| 179 | 5% | 20% |  |
+| 178 | 6% | 27% |  |
+| 179 | 5% | 21% |  |
 | 180 | 4% | 15% |  |
-| 181 | 3% | 10% |  |
+| 181 | 3% | 11% |  |
 | 182 | 2% | 7% |  |
 | 183 | 2% | 5% |  |
-| 184 | 1.1% | 3% |  |
-| 185 | 0.7% | 2% |  |
-| 186 | 0.5% | 1.0% |  |
+| 184 | 1.2% | 3% |  |
+| 185 | 0.8% | 2% |  |
+| 186 | 0.5% | 1.1% |  |
 | 187 | 0.3% | 0.6% |  |
 | 188 | 0.2% | 0.3% | Last Result |
 | 189 | 0.1% | 0.2% |  |

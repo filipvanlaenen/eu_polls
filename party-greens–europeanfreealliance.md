@@ -18,15 +18,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 36 | 33–40 | 32–42 | 31–43 | 30–45 |
+| Greens–European Free Alliance | EU | 53 | 36 | 33–40 | 32–42 | 32–43 | 30–45 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,18 +67,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.2% | 100% |  |
 | 30 | 0.6% | 99.8% |  |
 | 31 | 2% | 99.2% |  |
-| 32 | 4% | 97% |  |
+| 32 | 4% | 98% |  |
 | 33 | 7% | 94% |  |
-| 34 | 11% | 86% |  |
+| 34 | 11% | 87% |  |
 | 35 | 14% | 76% |  |
 | 36 | 15% | 62% | Median |
-| 37 | 13% | 47% |  |
+| 37 | 13% | 48% |  |
 | 38 | 11% | 34% |  |
 | 39 | 8% | 23% |  |
-| 40 | 5% | 15% |  |
+| 40 | 6% | 15% |  |
 | 41 | 4% | 10% |  |
 | 42 | 3% | 6% |  |
-| 43 | 2% | 3% |  |
+| 43 | 2% | 4% |  |
 | 44 | 0.9% | 2% |  |
 | 45 | 0.5% | 1.0% |  |
 | 46 | 0.3% | 0.5% |  |
