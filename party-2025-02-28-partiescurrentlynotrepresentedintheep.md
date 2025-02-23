@@ -22,7 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aontú [IE] (*) | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -60,15 +60,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.1% | 100% | Last Result |
-| 2 | 5% | 98.9% |  |
-| 3 | 11% | 94% |  |
-| 4 | 20% | 83% |  |
-| 5 | 28% | 63% | Median |
-| 6 | 20% | 35% |  |
-| 7 | 11% | 14% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.5% | 0.5% |  |
-| 10 | 0% | 0% |  |
+| 1 | 1.0% | 100% | Last Result |
+| 2 | 5% | 99.0% |  |
+| 3 | 10% | 94% |  |
+| 4 | 20% | 84% |  |
+| 5 | 27% | 64% | Median |
+| 6 | 21% | 37% |  |
+| 7 | 11% | 16% |  |
+| 8 | 4% | 5% |  |
+| 9 | 0.7% | 0.8% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

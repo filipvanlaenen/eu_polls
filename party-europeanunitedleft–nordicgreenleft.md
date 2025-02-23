@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (+5 seats)
+Current median: **52** seats (+6 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 51 | 47–55 | 46–56 | 45–57 | 44–59 |
+| European United Left–Nordic Green Left | EU | 46 | 52 | 48–56 | 47–57 | 46–58 | 44–59 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 7 | 4–8 | 4–8 | 4–8 | 4–9 |
-| Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
-| Podemos | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| Sinn Féin | IE | | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
+| Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -50,7 +50,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
-| Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,24 +65,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.9% |  |
-| 44 | 0.7% | 99.5% |  |
-| 45 | 2% | 98.8% |  |
-| 46 | 3% | 97% | Last Result |
-| 47 | 5% | 94% |  |
-| 48 | 7% | 89% |  |
-| 49 | 10% | 82% |  |
-| 50 | 12% | 72% |  |
-| 51 | 13% | 60% | Median |
-| 52 | 13% | 47% |  |
-| 53 | 11% | 34% |  |
-| 54 | 9% | 23% |  |
-| 55 | 6% | 14% |  |
-| 56 | 4% | 8% |  |
-| 57 | 2% | 4% |  |
-| 58 | 1.0% | 2% |  |
-| 59 | 0.4% | 0.7% |  |
-| 60 | 0.2% | 0.2% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.6% | 99.6% |  |
+| 45 | 1.3% | 99.1% |  |
+| 46 | 2% | 98% | Last Result |
+| 47 | 4% | 95% |  |
+| 48 | 6% | 91% |  |
+| 49 | 9% | 85% |  |
+| 50 | 11% | 76% |  |
+| 51 | 13% | 65% |  |
+| 52 | 13% | 52% | Median |
+| 53 | 12% | 39% |  |
+| 54 | 10% | 27% |  |
+| 55 | 7% | 18% |  |
+| 56 | 5% | 10% |  |
+| 57 | 3% | 5% |  |
+| 58 | 1.5% | 3% |  |
+| 59 | 0.7% | 1.1% |  |
+| 60 | 0.3% | 0.4% |  |
 | 61 | 0.1% | 0.1% |  |
 | 62 | 0% | 0% |  |
 
