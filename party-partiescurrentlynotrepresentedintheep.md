@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 2–7 | 2–8 | 1–9 |
+| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 2–8 | 2–8 | 1–9 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,7 +50,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Φειδίας Παναγιώτου [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -60,15 +60,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% | Last Result |
-| 2 | 5% | 99.0% |  |
+| 1 | 0.9% | 100% | Last Result |
+| 2 | 5% | 99.1% |  |
 | 3 | 10% | 94% |  |
-| 4 | 20% | 84% |  |
-| 5 | 27% | 64% | Median |
-| 6 | 21% | 37% |  |
-| 7 | 11% | 16% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.7% | 0.8% |  |
+| 4 | 19% | 85% |  |
+| 5 | 26% | 66% | Median |
+| 6 | 22% | 40% |  |
+| 7 | 12% | 18% |  |
+| 8 | 4% | 6% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

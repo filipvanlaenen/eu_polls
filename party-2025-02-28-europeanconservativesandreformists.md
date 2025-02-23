@@ -10,9 +10,9 @@ Last result: **78** seats (General Election of 26 May 2019)
 
 Current median: **78** seats (0 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> BE, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -34,6 +34,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
+| Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +44,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -54,24 +54,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.4% | 99.8% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.3% | 99.8% |  |
 | 71 | 0.8% | 99.5% |  |
-| 72 | 2% | 98.6% |  |
+| 72 | 2% | 98.7% |  |
 | 73 | 3% | 97% |  |
 | 74 | 5% | 94% |  |
 | 75 | 8% | 88% |  |
-| 76 | 11% | 80% |  |
-| 77 | 13% | 69% |  |
-| 78 | 14% | 56% | Last Result, Median |
-| 79 | 13% | 42% |  |
-| 80 | 11% | 29% |  |
-| 81 | 8% | 18% |  |
-| 82 | 5% | 10% |  |
+| 76 | 11% | 81% |  |
+| 77 | 13% | 70% |  |
+| 78 | 14% | 57% | Last Result, Median |
+| 79 | 13% | 43% |  |
+| 80 | 11% | 30% |  |
+| 81 | 8% | 19% |  |
+| 82 | 5% | 11% |  |
 | 83 | 3% | 5% |  |
 | 84 | 1.4% | 2% |  |
-| 85 | 0.6% | 0.8% |  |
+| 85 | 0.6% | 0.9% |  |
 | 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |

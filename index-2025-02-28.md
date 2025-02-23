@@ -11,15 +11,15 @@
 | Group | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#european-people’s-party">European People’s Party</a> | 188 | 174 | 168–180 |166–182 | 164–183 | 161–186 |
-| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 136 | 126 | 119–133 |118–134 | 116–136 | 114–138 |
+| <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 136 | 126 | 119–133 |117–134 | 116–136 | 114–138 |
 | <a href="#patriots-for-europe">Patriots for Europe</a> | 84 | 103 | 98–107 |97–109 | 96–110 | 94–112 |
-| <a href="#renew-europe">Renew Europe</a> | 77 | 84 | 80–88 |78–89 | 77–90 | 75–92 |
+| <a href="#renew-europe">Renew Europe</a> | 77 | 84 | 79–88 |78–89 | 77–90 | 75–92 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 78 | 78 | 74–82 |73–83 | 72–83 | 70–85 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 46 | 52 | 48–56 |47–57 | 46–58 | 44–59 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 53 | 36 | 33–41 |32–42 | 32–43 | 30–46 |
 | <a href="#europe-of-sovereign-nations">Europe of Sovereign Nations</a> | 25 | 30 | 27–34 |26–36 | 26–37 | 24–39 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 32 | 21 | 19–24 |18–24 | 17–25 | 16–26 |
-| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 1 | 5 | 3–7 |2–7 | 2–8 | 1–9 |
+| <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 1 | 5 | 3–7 |2–8 | 2–8 | 1–9 |
 
 ### European People’s Party
 
@@ -43,7 +43,7 @@
 | 169 | 5% | 87% |  |
 | 170 | 6% | 83% |  |
 | 171 | 7% | 77% |  |
-| 172 | 7% | 71% |  |
+| 172 | 7% | 70% |  |
 | 173 | 8% | 63% |  |
 | 174 | 8% | 55% | Median |
 | 175 | 8% | 47% |  |
@@ -76,8 +76,8 @@
 | 112 | 0.1% | 99.9% |  |
 | 113 | 0.2% | 99.9% |  |
 | 114 | 0.4% | 99.7% |  |
-| 115 | 0.8% | 99.3% |  |
-| 116 | 1.3% | 98% |  |
+| 115 | 0.8% | 99.2% |  |
+| 116 | 1.4% | 98% |  |
 | 117 | 2% | 97% |  |
 | 118 | 3% | 95% |  |
 | 119 | 4% | 92% |  |
@@ -96,8 +96,8 @@
 | 132 | 5% | 15% |  |
 | 133 | 4% | 11% |  |
 | 134 | 3% | 7% |  |
-| 135 | 2% | 5% |  |
-| 136 | 1.2% | 3% | Last Result |
+| 135 | 2% | 4% |  |
+| 136 | 1.1% | 3% | Last Result |
 | 137 | 0.7% | 2% |  |
 | 138 | 0.4% | 0.8% |  |
 | 139 | 0.2% | 0.4% |  |
@@ -155,24 +155,23 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.4% | 99.8% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.3% | 99.8% |  |
 | 71 | 0.8% | 99.5% |  |
-| 72 | 2% | 98.6% |  |
+| 72 | 2% | 98.7% |  |
 | 73 | 3% | 97% |  |
 | 74 | 5% | 94% |  |
 | 75 | 8% | 88% |  |
-| 76 | 11% | 80% |  |
-| 77 | 13% | 69% |  |
-| 78 | 14% | 56% | Last Result, Median |
-| 79 | 13% | 42% |  |
-| 80 | 11% | 29% |  |
-| 81 | 8% | 18% |  |
-| 82 | 5% | 10% |  |
+| 76 | 11% | 81% |  |
+| 77 | 13% | 70% |  |
+| 78 | 14% | 57% | Last Result, Median |
+| 79 | 13% | 43% |  |
+| 80 | 11% | 30% |  |
+| 81 | 8% | 19% |  |
+| 82 | 5% | 11% |  |
 | 83 | 3% | 5% |  |
 | 84 | 1.4% | 2% |  |
-| 85 | 0.6% | 0.8% |  |
+| 85 | 0.6% | 0.9% |  |
 | 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
@@ -189,18 +188,18 @@
 | 74 | 0.2% | 99.9% |  |
 | 75 | 0.4% | 99.7% |  |
 | 76 | 0.8% | 99.3% |  |
-| 77 | 1.5% | 98.6% | Last Result |
+| 77 | 2% | 98% | Last Result |
 | 78 | 3% | 97% |  |
 | 79 | 4% | 94% |  |
-| 80 | 6% | 90% |  |
-| 81 | 9% | 84% |  |
-| 82 | 11% | 75% |  |
-| 83 | 12% | 64% |  |
-| 84 | 13% | 52% | Median |
-| 85 | 12% | 39% |  |
-| 86 | 10% | 28% |  |
-| 87 | 7% | 18% |  |
-| 88 | 5% | 11% |  |
+| 80 | 7% | 90% |  |
+| 81 | 9% | 83% |  |
+| 82 | 11% | 74% |  |
+| 83 | 12% | 63% |  |
+| 84 | 13% | 51% | Median |
+| 85 | 11% | 38% |  |
+| 86 | 9% | 27% |  |
+| 87 | 7% | 17% |  |
+| 88 | 5% | 10% |  |
 | 89 | 3% | 6% |  |
 | 90 | 2% | 3% |  |
 | 91 | 0.8% | 1.4% |  |
@@ -338,15 +337,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% | Last Result |
-| 2 | 5% | 99.0% |  |
+| 1 | 0.9% | 100% | Last Result |
+| 2 | 5% | 99.1% |  |
 | 3 | 10% | 94% |  |
-| 4 | 20% | 84% |  |
-| 5 | 27% | 64% | Median |
-| 6 | 21% | 37% |  |
-| 7 | 11% | 16% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.7% | 0.8% |  |
+| 4 | 19% | 85% |  |
+| 5 | 26% | 66% | Median |
+| 6 | 22% | 40% |  |
+| 7 | 12% | 18% |  |
+| 8 | 4% | 6% |  |
+| 9 | 1.0% | 1.1% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
