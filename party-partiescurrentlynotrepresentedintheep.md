@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 2–8 | 2–8 | 1–9 |
+| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 2–7 | 2–8 | 1–9 |
 | Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -40,7 +40,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Partei des Fortschritts [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partei des Fortschritts [DE] (*) | DE | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -60,15 +60,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.9% | 100% | Last Result |
-| 2 | 5% | 99.1% |  |
+| 1 | 1.1% | 100% | Last Result |
+| 2 | 5% | 98.9% |  |
 | 3 | 10% | 94% |  |
-| 4 | 19% | 85% |  |
-| 5 | 26% | 66% | Median |
-| 6 | 22% | 40% |  |
-| 7 | 12% | 18% |  |
-| 8 | 4% | 6% |  |
-| 9 | 1.0% | 1.1% |  |
+| 4 | 20% | 84% |  |
+| 5 | 27% | 64% | Median |
+| 6 | 21% | 37% |  |
+| 7 | 11% | 16% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 

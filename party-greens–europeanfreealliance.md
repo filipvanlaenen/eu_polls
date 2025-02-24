@@ -8,7 +8,7 @@ Members registered from **22 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **36** seats (-17 seats)
+Current median: **34** seats (-19 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 36 | 33–41 | 32–42 | 32–43 | 30–46 |
-| Bündnis 90/Die Grünen | DE | | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
+| Greens–European Free Alliance | EU | 53 | 34 | 32–38 | 31–39 | 30–41 | 29–43 |
+| Bündnis 90/Die Grünen | DE | | 11 | 11 | 11 | 11 | 11 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Volt Europa | DE | | 1 | 1 | 1 | 1 | 1 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 1 | 1 | 1 | 1 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -47,7 +47,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Piratenpartei Deutschland | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Piratenpartei Deutschland | DE | | 0 | 0 | 0 | 0 | 0 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,26 +64,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% |  |
-| 30 | 0.5% | 99.8% |  |
-| 31 | 1.5% | 99.3% |  |
-| 32 | 4% | 98% |  |
-| 33 | 7% | 94% |  |
-| 34 | 10% | 88% |  |
-| 35 | 14% | 77% |  |
-| 36 | 15% | 64% | Median |
-| 37 | 14% | 49% |  |
-| 38 | 11% | 35% |  |
-| 39 | 8% | 24% |  |
-| 40 | 6% | 16% |  |
-| 41 | 4% | 10% |  |
-| 42 | 3% | 6% |  |
-| 43 | 2% | 4% |  |
-| 44 | 1.0% | 2% |  |
-| 45 | 0.5% | 1.0% |  |
-| 46 | 0.3% | 0.5% |  |
-| 47 | 0.1% | 0.3% |  |
-| 48 | 0.1% | 0.1% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.7% | 99.9% |  |
+| 30 | 3% | 99.2% |  |
+| 31 | 6% | 97% |  |
+| 32 | 12% | 90% |  |
+| 33 | 17% | 78% |  |
+| 34 | 17% | 62% | Median |
+| 35 | 14% | 44% |  |
+| 36 | 10% | 30% |  |
+| 37 | 7% | 20% |  |
+| 38 | 5% | 13% |  |
+| 39 | 4% | 8% |  |
+| 40 | 2% | 5% |  |
+| 41 | 1.3% | 3% |  |
+| 42 | 0.6% | 1.3% |  |
+| 43 | 0.3% | 0.7% |  |
+| 44 | 0.2% | 0.3% |  |
+| 45 | 0.1% | 0.1% |  |
+| 46 | 0% | 0.1% |  |
+| 47 | 0% | 0% |  |
+| 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

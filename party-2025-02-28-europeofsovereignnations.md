@@ -8,7 +8,7 @@ Members registered from **8 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **30** seats (+5 seats)
+Current median: **31** seats (+6 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 30 | 27–34 | 26–36 | 26–37 | 24–39 |
-| Alternative für Deutschland | DE | | 19 | 17–23 | 17–25 | 17–25 | 16–25 |
+| Europe of Sovereign Nations | EU | 25 | 31 | 28–33 | 28–34 | 27–35 | 27–37 |
+| Alternative für Deutschland | DE | | 20 | 20 | 20 | 20 | 20 |
 | Nowa Nadzieja | PL | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | REPUBLIKA | SK | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -37,26 +37,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.4% | 99.9% |  |
-| 25 | 1.4% | 99.5% | Last Result |
-| 26 | 4% | 98% |  |
-| 27 | 7% | 94% |  |
-| 28 | 11% | 87% |  |
-| 29 | 15% | 76% |  |
-| 30 | 15% | 61% | Median |
-| 31 | 13% | 46% |  |
-| 32 | 10% | 33% |  |
-| 33 | 7% | 22% |  |
-| 34 | 5% | 15% |  |
-| 35 | 4% | 10% |  |
-| 36 | 3% | 6% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.8% | 1.5% |  |
-| 39 | 0.4% | 0.7% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0.1% | 0.1% |  |
-| 42 | 0% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 25 | 0% | 100% | Last Result |
+| 26 | 0.4% | 99.9% |  |
+| 27 | 2% | 99.5% |  |
+| 28 | 7% | 97% |  |
+| 29 | 15% | 90% |  |
+| 30 | 22% | 75% |  |
+| 31 | 23% | 52% | Median |
+| 32 | 16% | 30% |  |
+| 33 | 8% | 14% |  |
+| 34 | 3% | 6% |  |
+| 35 | 1.5% | 3% |  |
+| 36 | 0.9% | 2% |  |
+| 37 | 0.5% | 0.8% |  |
+| 38 | 0.2% | 0.3% |  |
+| 39 | 0.1% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 
