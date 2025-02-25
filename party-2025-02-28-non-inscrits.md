@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> CZ, DE, DK, ES, FI, GR, HR, HU, LV, PL, RO, SI, SK
+> CZ, DE, DK, ES, FI, GR, HR, HU, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -25,11 +25,12 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Konfederacja Korony Polskiej | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Partidul S.O.S. România | RO | | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Die PARTEI | DE | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -55,12 +56,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 8% | 97% |  |
 | 20 | 14% | 89% |  |
 | 21 | 19% | 75% |  |
-| 22 | 22% | 55% | Median |
+| 22 | 22% | 56% | Median |
 | 23 | 18% | 34% |  |
-| 24 | 10% | 15% |  |
+| 24 | 10% | 16% |  |
 | 25 | 4% | 5% |  |
 | 26 | 1.0% | 1.1% |  |
-| 27 | 0.1% | 0.1% |  |
+| 27 | 0.1% | 0.2% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |

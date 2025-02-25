@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 167–179 | 166–180 | 164–181 | 161–184 |
+| European People’s Party | EU | 188 | 173 | 167–178 | 165–180 | 164–181 | 161–184 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–25 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 22 | 22 | 22 | 22 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
@@ -44,7 +44,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -90,28 +90,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
-| 161 | 0.3% | 99.7% |  |
-| 162 | 0.5% | 99.4% |  |
-| 163 | 0.8% | 98.9% |  |
-| 164 | 1.2% | 98% |  |
+| 161 | 0.3% | 99.6% |  |
+| 162 | 0.5% | 99.3% |  |
+| 163 | 0.8% | 98.8% |  |
+| 164 | 1.3% | 98% |  |
 | 165 | 2% | 97% |  |
-| 166 | 2% | 95% |  |
-| 167 | 3% | 93% |  |
-| 168 | 4% | 90% |  |
-| 169 | 5% | 85% |  |
-| 170 | 7% | 80% |  |
-| 171 | 8% | 73% |  |
-| 172 | 9% | 65% |  |
-| 173 | 9% | 57% | Median |
-| 174 | 9% | 48% |  |
-| 175 | 9% | 38% |  |
-| 176 | 8% | 30% |  |
-| 177 | 6% | 22% |  |
-| 178 | 5% | 16% |  |
+| 166 | 3% | 95% |  |
+| 167 | 3% | 92% |  |
+| 168 | 5% | 89% |  |
+| 169 | 6% | 84% |  |
+| 170 | 7% | 79% |  |
+| 171 | 8% | 72% |  |
+| 172 | 9% | 64% |  |
+| 173 | 9% | 55% | Median |
+| 174 | 9% | 46% |  |
+| 175 | 9% | 37% |  |
+| 176 | 8% | 29% |  |
+| 177 | 6% | 21% |  |
+| 178 | 5% | 15% |  |
 | 179 | 4% | 10% |  |
-| 180 | 3% | 7% |  |
+| 180 | 2% | 6% |  |
 | 181 | 2% | 4% |  |
-| 182 | 1.1% | 2% |  |
+| 182 | 1.0% | 2% |  |
 | 183 | 0.6% | 1.2% |  |
 | 184 | 0.3% | 0.6% |  |
 | 185 | 0.2% | 0.3% |  |

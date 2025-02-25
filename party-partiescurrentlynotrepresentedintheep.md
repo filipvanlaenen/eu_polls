@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+4 seats)
+Current median: **6** seats (+5 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 3–7 | 2–7 | 2–8 | 1–9 |
-| Nemuno aušra [LT] (*) | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Parties currently not represented in the EP | EU | 1 | 6 | 3–7 | 3–8 | 2–8 | 2–9 |
+| Nemuno aušra [LT] (*) | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,16 +60,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% | Last Result |
-| 2 | 6% | 98% |  |
-| 3 | 11% | 93% |  |
-| 4 | 21% | 82% |  |
-| 5 | 27% | 60% | Median |
-| 6 | 20% | 34% |  |
-| 7 | 10% | 14% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.5% | 0.6% |  |
-| 10 | 0.1% | 0.1% |  |
+| 1 | 0.5% | 100% | Last Result |
+| 2 | 3% | 99.5% |  |
+| 3 | 8% | 96% |  |
+| 4 | 15% | 89% |  |
+| 5 | 24% | 74% |  |
+| 6 | 24% | 50% | Median |
+| 7 | 16% | 26% |  |
+| 8 | 7% | 10% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.3% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 

@@ -1,8 +1,8 @@
 # Europe of Sovereign Nations
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> BG, CZ, DE, FR, HU, NL, PL, SK
+> BG, CZ, DE, FR, HU, LT, NL, PL, SK
 
 ## Seats
 
@@ -27,6 +27,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
+| Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
