@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **173** seats (-15 seats)
+Current median: **174** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 167–178 | 165–180 | 164–181 | 161–184 |
+| European People’s Party | EU | 188 | 174 | 168–179 | 166–180 | 165–182 | 162–184 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–25 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 22 | 22 | 22 | 22 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
-| Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 7–11 | 7–12 |
+| Tisztelet és Szabadság | HU | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6 | 6 | 6 | 6 |
@@ -42,12 +42,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Liberal Alliance | DK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -87,36 +87,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.4% | 99.6% |  |
-| 162 | 0.6% | 99.2% |  |
-| 163 | 0.9% | 98.6% |  |
-| 164 | 1.4% | 98% |  |
-| 165 | 2% | 96% |  |
-| 166 | 3% | 94% |  |
-| 167 | 4% | 92% |  |
-| 168 | 5% | 88% |  |
-| 169 | 6% | 83% |  |
-| 170 | 7% | 77% |  |
-| 171 | 8% | 70% |  |
-| 172 | 9% | 62% |  |
-| 173 | 9% | 53% | Median |
-| 174 | 9% | 44% |  |
-| 175 | 8% | 35% |  |
-| 176 | 7% | 27% |  |
-| 177 | 6% | 20% |  |
-| 178 | 5% | 14% |  |
-| 179 | 3% | 9% |  |
-| 180 | 2% | 6% |  |
-| 181 | 2% | 3% |  |
-| 182 | 0.9% | 2% |  |
-| 183 | 0.5% | 1.1% |  |
-| 184 | 0.3% | 0.5% |  |
-| 185 | 0.1% | 0.3% |  |
-| 186 | 0.1% | 0.1% |  |
+| 159 | 0.1% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.2% | 99.8% |  |
+| 162 | 0.4% | 99.6% |  |
+| 163 | 0.6% | 99.2% |  |
+| 164 | 1.0% | 98.6% |  |
+| 165 | 1.5% | 98% |  |
+| 166 | 2% | 96% |  |
+| 167 | 3% | 94% |  |
+| 168 | 4% | 91% |  |
+| 169 | 5% | 87% |  |
+| 170 | 6% | 82% |  |
+| 171 | 7% | 76% |  |
+| 172 | 9% | 68% |  |
+| 173 | 9% | 60% |  |
+| 174 | 9% | 51% | Median |
+| 175 | 9% | 41% |  |
+| 176 | 8% | 32% |  |
+| 177 | 7% | 24% |  |
+| 178 | 6% | 17% |  |
+| 179 | 4% | 11% |  |
+| 180 | 3% | 7% |  |
+| 181 | 2% | 4% |  |
+| 182 | 1.2% | 3% |  |
+| 183 | 0.7% | 1.4% |  |
+| 184 | 0.4% | 0.7% |  |
+| 185 | 0.2% | 0.3% |  |
+| 186 | 0.1% | 0.2% |  |
 | 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% | Last Result |
 
