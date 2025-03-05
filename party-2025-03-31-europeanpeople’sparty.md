@@ -30,7 +30,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
 | Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -111,13 +111,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 178 | 5% | 14% |  |
 | 179 | 3% | 9% |  |
 | 180 | 2% | 6% |  |
-| 181 | 1.5% | 3% |  |
+| 181 | 2% | 3% |  |
 | 182 | 0.9% | 2% |  |
-| 183 | 0.5% | 1.0% |  |
+| 183 | 0.5% | 1.1% |  |
 | 184 | 0.3% | 0.5% |  |
 | 185 | 0.1% | 0.3% |  |
 | 186 | 0.1% | 0.1% |  |
-| 187 | 0% | 0% |  |
+| 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% | Last Result |
 
 
