@@ -30,7 +30,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -42,7 +42,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -58,18 +58,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 0.1% | 100% |  |
 | 70 | 0.3% | 99.9% |  |
 | 71 | 0.7% | 99.6% |  |
-| 72 | 1.4% | 98.9% |  |
+| 72 | 1.5% | 98.9% |  |
 | 73 | 3% | 97% |  |
 | 74 | 5% | 95% |  |
 | 75 | 7% | 90% |  |
 | 76 | 10% | 83% |  |
-| 77 | 12% | 73% |  |
+| 77 | 12% | 72% |  |
 | 78 | 14% | 60% | Last Result, Median |
 | 79 | 13% | 47% |  |
 | 80 | 12% | 33% |  |
-| 81 | 9% | 22% |  |
+| 81 | 9% | 21% |  |
 | 82 | 6% | 13% |  |
-| 83 | 4% | 7% |  |
+| 83 | 4% | 6% |  |
 | 84 | 2% | 3% |  |
 | 85 | 0.8% | 1.2% |  |
 | 86 | 0.3% | 0.4% |  |
