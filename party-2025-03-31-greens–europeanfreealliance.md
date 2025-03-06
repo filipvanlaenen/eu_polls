@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **35** seats (-18 seats)
+Current median: **34** seats (-19 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 35 | 32–38 | 31–40 | 31–41 | 30–43 |
+| Greens–European Free Alliance | EU | 53 | 34 | 32–38 | 31–40 | 31–41 | 30–43 |
 | Bündnis 90/Die Grünen | DE | | 11 | 11 | 11 | 11 | 11 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -54,7 +54,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Βολτ Κύπρος | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0% | 100% |  |
-| 29 | 0.3% | 99.9% |  |
-| 30 | 1.5% | 99.6% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.4% | 99.9% |  |
+| 30 | 2% | 99.5% |  |
 | 31 | 5% | 98% |  |
-| 32 | 10% | 94% |  |
-| 33 | 15% | 84% |  |
-| 34 | 18% | 68% |  |
-| 35 | 16% | 50% | Median |
-| 36 | 11% | 34% |  |
-| 37 | 8% | 23% |  |
+| 32 | 10% | 93% |  |
+| 33 | 16% | 83% |  |
+| 34 | 18% | 67% | Median |
+| 35 | 16% | 49% |  |
+| 36 | 11% | 33% |  |
+| 37 | 7% | 22% |  |
 | 38 | 5% | 15% |  |
-| 39 | 4% | 10% |  |
+| 39 | 4% | 9% |  |
 | 40 | 3% | 6% |  |
-| 41 | 2% | 3% |  |
-| 42 | 0.8% | 2% |  |
+| 41 | 1.5% | 3% |  |
+| 42 | 0.7% | 2% |  |
 | 43 | 0.4% | 0.8% |  |
 | 44 | 0.2% | 0.4% |  |
 | 45 | 0.1% | 0.2% |  |
-| 46 | 0.1% | 0.1% |  |
+| 46 | 0% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
