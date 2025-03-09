@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 53 | 50–57 | 49–58 | 48–59 | 47–61 |
+| European United Left–Nordic Green Left | EU | 46 | 53 | 50–57 | 49–58 | 48–59 | 47–60 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
-| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
+| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 8 | 8 | 8 | 8 | 8 |
 | Sinn Féin | IE | | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -47,7 +47,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,24 +64,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 45 | 0.1% | 100% |  |
-| 46 | 0.3% | 99.9% | Last Result |
-| 47 | 0.8% | 99.7% |  |
-| 48 | 2% | 98.9% |  |
+| 46 | 0.2% | 99.9% | Last Result |
+| 47 | 0.7% | 99.7% |  |
+| 48 | 2% | 99.0% |  |
 | 49 | 4% | 97% |  |
 | 50 | 7% | 93% |  |
 | 51 | 10% | 87% |  |
 | 52 | 13% | 77% |  |
 | 53 | 15% | 64% | Median |
-| 54 | 14% | 49% |  |
-| 55 | 12% | 35% |  |
-| 56 | 9% | 23% |  |
+| 54 | 15% | 49% |  |
+| 55 | 13% | 35% |  |
+| 56 | 9% | 22% |  |
 | 57 | 6% | 13% |  |
 | 58 | 4% | 7% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.8% | 1.4% |  |
+| 60 | 0.8% | 1.2% |  |
 | 61 | 0.3% | 0.5% |  |
-| 62 | 0.1% | 0.2% |  |
-| 63 | 0% | 0.1% |  |
-| 64 | 0% | 0% |  |
+| 62 | 0.1% | 0.1% |  |
+| 63 | 0% | 0% |  |
 
 
