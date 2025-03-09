@@ -18,8 +18,8 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 78 | 74–82 | 73–83 | 72–84 | 70–86 |
-| Fratelli d’Italia | IT | | 27 | 25–29 | 24–30 | 24–30 | 22–32 |
+| European Conservatives and Reformists | EU | 78 | 78 | 74–81 | 73–82 | 72–83 | 70–85 |
+| Fratelli d’Italia | IT | | 27 | 25–29 | 24–30 | 23–30 | 22–31 |
 | Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | Alianța pentru Unirea Românilor | RO | | 10 | 8–12 | 8–12 | 7–12 | 7–12 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -55,27 +55,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.4% | 99.8% |  |
-| 71 | 0.9% | 99.4% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.5% | 99.7% |  |
+| 71 | 1.1% | 99.3% |  |
 | 72 | 2% | 98% |  |
-| 73 | 3% | 97% |  |
-| 74 | 6% | 93% |  |
-| 75 | 8% | 88% |  |
-| 76 | 11% | 79% |  |
-| 77 | 13% | 69% |  |
-| 78 | 13% | 56% | Last Result, Median |
-| 79 | 13% | 43% |  |
-| 80 | 11% | 31% |  |
-| 81 | 8% | 20% |  |
-| 82 | 5% | 12% |  |
-| 83 | 3% | 6% |  |
-| 84 | 2% | 3% |  |
-| 85 | 0.8% | 1.4% |  |
-| 86 | 0.4% | 0.6% |  |
-| 87 | 0.1% | 0.2% |  |
-| 88 | 0% | 0.1% |  |
-| 89 | 0% | 0% |  |
+| 73 | 4% | 96% |  |
+| 74 | 6% | 92% |  |
+| 75 | 9% | 86% |  |
+| 76 | 12% | 77% |  |
+| 77 | 13% | 65% |  |
+| 78 | 13% | 52% | Last Result, Median |
+| 79 | 12% | 38% |  |
+| 80 | 10% | 26% |  |
+| 81 | 7% | 16% |  |
+| 82 | 4% | 9% |  |
+| 83 | 2% | 5% |  |
+| 84 | 1.2% | 2% |  |
+| 85 | 0.5% | 0.9% |  |
+| 86 | 0.2% | 0.3% |  |
+| 87 | 0.1% | 0.1% |  |
+| 88 | 0% | 0% |  |
 
 
