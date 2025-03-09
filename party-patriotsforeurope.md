@@ -20,11 +20,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Patriots for Europe | EU | 84 | 102 | 98–106 | 97–107 | 96–108 | 94–110 |
 | Rassemblement national | FR | | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
-| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| ANO 2011 | CZ | | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | Partij voor de Vrijheid | NL | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | Vox | ES | | 9 | 8–10 | 8–11 | 8–11 | 8–12 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
+| Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Chega | PT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
@@ -72,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 105 | 9% | 24% |  |
 | 106 | 6% | 16% |  |
 | 107 | 4% | 9% |  |
-| 108 | 3% | 5% |  |
+| 108 | 2% | 5% |  |
 | 109 | 1.3% | 2% |  |
 | 110 | 0.6% | 1.1% |  |
 | 111 | 0.3% | 0.5% |  |
