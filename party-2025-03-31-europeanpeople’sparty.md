@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **173** seats (-15 seats)
+Current median: **174** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 167–178 | 166–180 | 164–181 | 161–184 |
+| European People’s Party | EU | 188 | 174 | 168–179 | 166–181 | 165–182 | 162–184 |
 | Partido Popular | ES | | 23 | 20–24 | 19–25 | 19–25 | 19–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 22 | 22 | 22 | 22 |
 | Platforma Obywatelska | PL | | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
+| Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6 | 6 | 6 | 6 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -39,12 +39,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Erakond Isamaa | EE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
-| Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -52,6 +52,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Slovensko | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| TOP 09 | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -66,14 +67,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| TOP 09 | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Ökologisch-Demokratische Partei | DE | | 0 | 0 | 0 | 0 | 0 |
@@ -87,36 +87,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
+| 159 | 0% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.3% | 99.7% |  |
-| 162 | 0.4% | 99.5% |  |
-| 163 | 0.7% | 99.0% |  |
-| 164 | 1.1% | 98% |  |
-| 165 | 2% | 97% |  |
-| 166 | 2% | 96% |  |
-| 167 | 3% | 93% |  |
-| 168 | 4% | 90% |  |
-| 169 | 5% | 86% |  |
-| 170 | 7% | 80% |  |
-| 171 | 8% | 74% |  |
-| 172 | 9% | 66% |  |
-| 173 | 9% | 57% | Median |
-| 174 | 9% | 48% |  |
-| 175 | 9% | 38% |  |
-| 176 | 8% | 29% |  |
-| 177 | 7% | 22% |  |
-| 178 | 5% | 15% |  |
-| 179 | 4% | 10% |  |
-| 180 | 3% | 6% |  |
-| 181 | 2% | 4% |  |
-| 182 | 1.0% | 2% |  |
-| 183 | 0.6% | 1.1% |  |
-| 184 | 0.3% | 0.5% |  |
-| 185 | 0.1% | 0.3% |  |
-| 186 | 0.1% | 0.1% |  |
-| 187 | 0% | 0% |  |
+| 161 | 0.2% | 99.8% |  |
+| 162 | 0.3% | 99.6% |  |
+| 163 | 0.5% | 99.3% |  |
+| 164 | 0.9% | 98.8% |  |
+| 165 | 1.3% | 98% |  |
+| 166 | 2% | 97% |  |
+| 167 | 3% | 95% |  |
+| 168 | 4% | 92% |  |
+| 169 | 5% | 88% |  |
+| 170 | 6% | 84% |  |
+| 171 | 7% | 78% |  |
+| 172 | 8% | 71% |  |
+| 173 | 9% | 62% |  |
+| 174 | 9% | 53% | Median |
+| 175 | 9% | 44% |  |
+| 176 | 8% | 35% |  |
+| 177 | 7% | 26% |  |
+| 178 | 6% | 19% |  |
+| 179 | 5% | 13% |  |
+| 180 | 3% | 8% |  |
+| 181 | 2% | 5% |  |
+| 182 | 1.4% | 3% |  |
+| 183 | 0.8% | 2% |  |
+| 184 | 0.4% | 0.9% |  |
+| 185 | 0.2% | 0.4% |  |
+| 186 | 0.1% | 0.2% |  |
+| 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% | Last Result |
 
 
