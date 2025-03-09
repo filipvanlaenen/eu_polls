@@ -28,7 +28,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Die PARTEI | DE | | 0 | 0 | 0 | 0 | 0 |
@@ -53,13 +53,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 0.7% | 99.9% |  |
 | 20 | 3% | 99.2% |  |
-| 21 | 7% | 96% |  |
+| 21 | 7% | 97% |  |
 | 22 | 12% | 90% |  |
-| 23 | 18% | 77% |  |
-| 24 | 20% | 59% | Median |
-| 25 | 18% | 39% |  |
+| 23 | 18% | 78% |  |
+| 24 | 20% | 60% | Median |
+| 25 | 18% | 40% |  |
 | 26 | 12% | 21% |  |
-| 27 | 6% | 8% |  |
+| 27 | 6% | 9% |  |
 | 28 | 2% | 3% |  |
 | 29 | 0.5% | 0.6% |  |
 | 30 | 0.1% | 0.1% |  |
