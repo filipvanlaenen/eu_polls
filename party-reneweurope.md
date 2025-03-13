@@ -46,7 +46,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | .Nowoczesna | PL | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 0.1% | 99.9% |  |
 | 75 | 0.2% | 99.9% |  |
 | 76 | 0.5% | 99.6% |  |
-| 77 | 1.0% | 99.2% | Last Result |
+| 77 | 1.0% | 99.1% | Last Result |
 | 78 | 2% | 98% |  |
 | 79 | 3% | 96% |  |
 | 80 | 5% | 93% |  |
@@ -90,14 +90,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 10% | 81% |  |
 | 83 | 12% | 72% |  |
 | 84 | 13% | 60% | Median |
-| 85 | 12% | 48% |  |
+| 85 | 12% | 47% |  |
 | 86 | 11% | 35% |  |
 | 87 | 9% | 24% |  |
 | 88 | 6% | 16% |  |
 | 89 | 4% | 9% |  |
 | 90 | 2% | 5% |  |
 | 91 | 1.4% | 3% |  |
-| 92 | 0.8% | 1.5% |  |
+| 92 | 0.7% | 1.4% |  |
 | 93 | 0.4% | 0.7% |  |
 | 94 | 0.2% | 0.3% |  |
 | 95 | 0.1% | 0.1% |  |
