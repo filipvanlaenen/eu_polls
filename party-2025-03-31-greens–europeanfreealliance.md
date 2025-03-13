@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (-19 seats)
+Current median: **35** seats (-18 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 34 | 32–38 | 31–40 | 30–41 | 29–43 |
+| Greens–European Free Alliance | EU | 53 | 35 | 32–39 | 31–40 | 30–41 | 29–44 |
 | Bündnis 90/Die Grünen | DE | | 11 | 11 | 11 | 11 | 11 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -69,21 +69,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.1% | 100% |  |
 | 29 | 0.5% | 99.9% |  |
 | 30 | 2% | 99.4% |  |
-| 31 | 6% | 97% |  |
-| 32 | 11% | 92% |  |
-| 33 | 16% | 81% |  |
-| 34 | 17% | 65% | Median |
-| 35 | 15% | 48% |  |
-| 36 | 11% | 34% |  |
-| 37 | 8% | 23% |  |
-| 38 | 6% | 15% |  |
-| 39 | 4% | 10% |  |
-| 40 | 3% | 6% |  |
-| 41 | 2% | 3% |  |
-| 42 | 0.8% | 2% |  |
-| 43 | 0.4% | 0.9% |  |
-| 44 | 0.2% | 0.4% |  |
-| 45 | 0.1% | 0.2% |  |
+| 31 | 5% | 97% |  |
+| 32 | 10% | 92% |  |
+| 33 | 15% | 82% |  |
+| 34 | 16% | 67% |  |
+| 35 | 14% | 51% | Median |
+| 36 | 11% | 37% |  |
+| 37 | 8% | 26% |  |
+| 38 | 6% | 18% |  |
+| 39 | 5% | 12% |  |
+| 40 | 3% | 7% |  |
+| 41 | 2% | 4% |  |
+| 42 | 0.9% | 2% |  |
+| 43 | 0.5% | 1.1% |  |
+| 44 | 0.3% | 0.6% |  |
+| 45 | 0.2% | 0.3% |  |
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |

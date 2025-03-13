@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> CZ, DE, DK, ES, FI, GR, HR, HU, LT, LV, PL, RO, SI, SK
+> CZ, DE, DK, ES, FI, GR, HR, HU, IT, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -31,6 +31,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 1 | 1 | 1 | 1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Die PARTEI | DE | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |

@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **53** seats (+7 seats)
+Current median: **54** seats (+8 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 53 | 50–57 | 49–58 | 48–59 | 47–60 |
+| European United Left–Nordic Green Left | EU | 46 | 54 | 50–57 | 49–58 | 48–59 | 47–61 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | Die Linke | DE | | 8 | 8 | 8 | 8 | 8 |
@@ -45,9 +45,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
+| Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stačilo! | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -70,17 +71,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 4% | 97% |  |
 | 50 | 6% | 94% |  |
 | 51 | 10% | 87% |  |
-| 52 | 13% | 77% |  |
-| 53 | 15% | 65% | Median |
-| 54 | 15% | 50% |  |
-| 55 | 13% | 35% |  |
-| 56 | 10% | 23% |  |
-| 57 | 6% | 13% |  |
+| 52 | 13% | 78% |  |
+| 53 | 14% | 65% |  |
+| 54 | 14% | 51% | Median |
+| 55 | 13% | 36% |  |
+| 56 | 10% | 24% |  |
+| 57 | 7% | 14% |  |
 | 58 | 4% | 7% |  |
 | 59 | 2% | 3% |  |
-| 60 | 0.8% | 1.3% |  |
-| 61 | 0.3% | 0.5% |  |
+| 60 | 0.9% | 1.5% |  |
+| 61 | 0.4% | 0.6% |  |
 | 62 | 0.1% | 0.2% |  |
-| 63 | 0% | 0% |  |
+| 63 | 0% | 0.1% |  |
+| 64 | 0% | 0% |  |
 
 
