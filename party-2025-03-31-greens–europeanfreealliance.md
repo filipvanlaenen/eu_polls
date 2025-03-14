@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **35** seats (-18 seats)
+Current median: **34** seats (-19 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 35 | 32–39 | 31–40 | 30–41 | 29–44 |
+| Greens–European Free Alliance | EU | 53 | 34 | 31–38 | 31–39 | 30–40 | 29–43 |
 | Bündnis 90/Die Grünen | DE | | 11 | 11 | 11 | 11 | 11 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -41,13 +41,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| LIVRE | PT | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0 | 0 | 0 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.1% | 100% |  |
-| 29 | 0.5% | 99.9% |  |
-| 30 | 2% | 99.4% |  |
-| 31 | 5% | 97% |  |
-| 32 | 10% | 92% |  |
-| 33 | 15% | 82% |  |
-| 34 | 16% | 67% |  |
-| 35 | 14% | 50% | Median |
-| 36 | 11% | 36% |  |
-| 37 | 8% | 25% |  |
-| 38 | 6% | 17% |  |
-| 39 | 5% | 11% |  |
-| 40 | 3% | 7% |  |
-| 41 | 2% | 4% |  |
-| 42 | 0.9% | 2% |  |
-| 43 | 0.5% | 1.0% |  |
-| 44 | 0.3% | 0.5% |  |
-| 45 | 0.2% | 0.3% |  |
-| 46 | 0.1% | 0.1% |  |
+| 28 | 0.2% | 100% |  |
+| 29 | 0.9% | 99.8% |  |
+| 30 | 3% | 99.0% |  |
+| 31 | 8% | 96% |  |
+| 32 | 14% | 88% |  |
+| 33 | 17% | 74% |  |
+| 34 | 16% | 57% | Median |
+| 35 | 12% | 41% |  |
+| 36 | 9% | 29% |  |
+| 37 | 7% | 20% |  |
+| 38 | 5% | 13% |  |
+| 39 | 4% | 8% |  |
+| 40 | 2% | 5% |  |
+| 41 | 1.1% | 2% |  |
+| 42 | 0.6% | 1.2% |  |
+| 43 | 0.3% | 0.7% |  |
+| 44 | 0.2% | 0.3% |  |
+| 45 | 0.1% | 0.1% |  |
+| 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
