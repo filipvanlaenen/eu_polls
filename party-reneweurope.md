@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (+6 seats)
+Current median: **84** seats (+7 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 83 | 79–88 | 78–89 | 77–90 | 75–92 |
+| Renew Europe | EU | 77 | 84 | 79–88 | 78–89 | 77–90 | 75–92 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Uniunea Salvați România | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -26,7 +26,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 4 | 4 | 4 | 4 | 4 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Polska 2050 | PL | | 3 | 1–3 | 1–3 | 1–4 | 0–4 |
 | Freie Wähler | DE | | 2 | 2 | 2 | 2 | 2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -80,28 +80,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 72 | 0% | 100% |  |
 | 73 | 0.1% | 99.9% |  |
-| 74 | 0.2% | 99.8% |  |
+| 74 | 0.2% | 99.9% |  |
 | 75 | 0.5% | 99.6% |  |
-| 76 | 1.0% | 99.1% |  |
+| 76 | 0.9% | 99.2% |  |
 | 77 | 2% | 98% | Last Result |
-| 78 | 3% | 96% |  |
-| 79 | 5% | 93% |  |
-| 80 | 7% | 88% |  |
-| 81 | 9% | 81% |  |
-| 82 | 11% | 72% |  |
-| 83 | 12% | 61% | Median |
-| 84 | 12% | 49% |  |
-| 85 | 11% | 37% |  |
-| 86 | 9% | 26% |  |
-| 87 | 7% | 17% |  |
-| 88 | 4% | 10% |  |
+| 78 | 3% | 97% |  |
+| 79 | 5% | 94% |  |
+| 80 | 7% | 89% |  |
+| 81 | 9% | 82% |  |
+| 82 | 11% | 73% |  |
+| 83 | 12% | 63% |  |
+| 84 | 12% | 50% | Median |
+| 85 | 11% | 38% |  |
+| 86 | 9% | 27% |  |
+| 87 | 7% | 18% |  |
+| 88 | 5% | 11% |  |
 | 89 | 3% | 6% |  |
-| 90 | 2% | 3% |  |
+| 90 | 2% | 4% |  |
 | 91 | 0.9% | 2% |  |
 | 92 | 0.5% | 0.9% |  |
 | 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
+| 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
 
 
