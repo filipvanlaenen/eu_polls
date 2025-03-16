@@ -23,7 +23,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich Demokratische Union Deutschlands | DE | | 22 | 22 | 22 | 22 | 22 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
-| Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| Aliança Democrática | PT | | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 6 | 6 | 6 | 6 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
@@ -89,10 +89,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0.1% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
-| 161 | 0.3% | 99.6% |  |
-| 162 | 0.6% | 99.3% |  |
-| 163 | 0.9% | 98.7% |  |
-| 164 | 1.3% | 98% |  |
+| 161 | 0.4% | 99.6% |  |
+| 162 | 0.6% | 99.2% |  |
+| 163 | 0.9% | 98.6% |  |
+| 164 | 1.4% | 98% |  |
 | 165 | 2% | 96% |  |
 | 166 | 3% | 94% |  |
 | 167 | 4% | 92% |  |
@@ -104,13 +104,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 173 | 9% | 53% | Median |
 | 174 | 9% | 44% |  |
 | 175 | 8% | 35% |  |
-| 176 | 7% | 27% |  |
+| 176 | 7% | 26% |  |
 | 177 | 6% | 19% |  |
 | 178 | 5% | 13% |  |
 | 179 | 3% | 9% |  |
 | 180 | 2% | 5% |  |
 | 181 | 1.4% | 3% |  |
-| 182 | 0.9% | 2% |  |
+| 182 | 0.8% | 2% |  |
 | 183 | 0.5% | 0.9% |  |
 | 184 | 0.2% | 0.5% |  |
 | 185 | 0.1% | 0.2% |  |
