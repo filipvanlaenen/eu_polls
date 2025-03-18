@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (-19 seats)
+Current median: **33** seats (-20 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 34 | 31–38 | 30–39 | 30–40 | 29–43 |
+| Greens–European Free Alliance | EU | 53 | 33 | 31–38 | 30–39 | 29–40 | 28–43 |
 | Bündnis 90/Die Grünen | DE | | 11 | 11 | 11 | 11 | 11 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -46,7 +46,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Lietuvos Žaliųjų Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratenpartei Deutschland | DE | | 0 | 0 | 0 | 0 | 0 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -67,23 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.4% | 99.9% |  |
-| 29 | 2% | 99.5% |  |
-| 30 | 5% | 98% |  |
-| 31 | 10% | 92% |  |
-| 32 | 15% | 82% |  |
-| 33 | 16% | 67% |  |
-| 34 | 14% | 51% | Median |
-| 35 | 11% | 37% |  |
-| 36 | 8% | 26% |  |
-| 37 | 6% | 18% |  |
-| 38 | 5% | 11% |  |
-| 39 | 3% | 7% |  |
-| 40 | 2% | 4% |  |
-| 41 | 0.9% | 2% |  |
-| 42 | 0.5% | 1.1% |  |
-| 43 | 0.3% | 0.6% |  |
-| 44 | 0.2% | 0.3% |  |
+| 28 | 0.5% | 99.9% |  |
+| 29 | 2% | 99.4% |  |
+| 30 | 6% | 97% |  |
+| 31 | 11% | 91% |  |
+| 32 | 15% | 80% |  |
+| 33 | 16% | 65% | Median |
+| 34 | 14% | 49% |  |
+| 35 | 10% | 35% |  |
+| 36 | 8% | 24% |  |
+| 37 | 6% | 17% |  |
+| 38 | 4% | 11% |  |
+| 39 | 3% | 6% |  |
+| 40 | 2% | 3% |  |
+| 41 | 0.8% | 2% |  |
+| 42 | 0.5% | 1.0% |  |
+| 43 | 0.3% | 0.5% |  |
+| 44 | 0.1% | 0.2% |  |
 | 45 | 0.1% | 0.1% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
