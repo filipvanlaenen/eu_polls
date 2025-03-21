@@ -8,19 +8,20 @@ Members registered from **20 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+2 seats)
+Current median: **4** seats (+3 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> GR, RO
+> CY, GR, RO
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 1–5 | 1–6 | 0–6 | 0–7 |
+| Parties currently not represented in the EP | EU | 1 | 4 | 2–6 | 2–7 | 1–7 | 1–8 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +47,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
-| Φειδίας Παναγιώτου [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
@@ -58,15 +58,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 8% | 97% | Last Result |
-| 2 | 15% | 88% |  |
-| 3 | 29% | 74% | Median |
-| 4 | 24% | 45% |  |
-| 5 | 15% | 21% |  |
-| 6 | 5% | 6% |  |
-| 7 | 1.0% | 1.1% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 1 | 3% | 100% | Last Result |
+| 2 | 8% | 97% |  |
+| 3 | 15% | 89% |  |
+| 4 | 28% | 74% | Median |
+| 5 | 24% | 46% |  |
+| 6 | 15% | 21% |  |
+| 7 | 5% | 6% |  |
+| 8 | 1.0% | 1.1% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 

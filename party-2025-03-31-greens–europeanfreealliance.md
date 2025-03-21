@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 33 | 31–38 | 30–39 | 29–40 | 28–43 |
+| Greens–European Free Alliance | EU | 53 | 33 | 30–37 | 30–39 | 29–40 | 28–42 |
 | Bündnis 90/Die Grünen | DE | | 11 | 11 | 11 | 11 | 11 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -55,8 +55,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Česká pirátská strana | CZ | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Βολτ Κύπρος | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
+| Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0–1 |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.5% | 99.9% |  |
-| 29 | 2% | 99.4% |  |
-| 30 | 6% | 97% |  |
-| 31 | 11% | 91% |  |
-| 32 | 15% | 80% |  |
-| 33 | 16% | 65% | Median |
-| 34 | 14% | 49% |  |
-| 35 | 10% | 35% |  |
-| 36 | 8% | 24% |  |
-| 37 | 6% | 17% |  |
-| 38 | 4% | 11% |  |
-| 39 | 3% | 6% |  |
-| 40 | 2% | 3% |  |
-| 41 | 0.8% | 2% |  |
-| 42 | 0.5% | 1.0% |  |
-| 43 | 0.3% | 0.5% |  |
+| 28 | 0.7% | 99.9% |  |
+| 29 | 3% | 99.2% |  |
+| 30 | 7% | 96% |  |
+| 31 | 13% | 89% |  |
+| 32 | 16% | 76% |  |
+| 33 | 16% | 60% | Median |
+| 34 | 13% | 44% |  |
+| 35 | 9% | 31% |  |
+| 36 | 7% | 21% |  |
+| 37 | 5% | 14% |  |
+| 38 | 4% | 9% |  |
+| 39 | 2% | 5% |  |
+| 40 | 1.3% | 3% |  |
+| 41 | 0.7% | 1.4% |  |
+| 42 | 0.4% | 0.8% |  |
+| 43 | 0.2% | 0.4% |  |
 | 44 | 0.1% | 0.2% |  |
-| 45 | 0.1% | 0.1% |  |
+| 45 | 0% | 0.1% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
