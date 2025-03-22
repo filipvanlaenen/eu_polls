@@ -31,7 +31,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 0–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -58,16 +58,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 100% |  |
 | 69 | 0.2% | 99.9% |  |
 | 70 | 0.6% | 99.6% |  |
-| 71 | 1.2% | 99.0% |  |
+| 71 | 1.2% | 99.1% |  |
 | 72 | 2% | 98% |  |
-| 73 | 4% | 95% |  |
+| 73 | 4% | 96% |  |
 | 74 | 6% | 92% |  |
 | 75 | 8% | 86% |  |
 | 76 | 11% | 77% |  |
-| 77 | 12% | 66% |  |
-| 78 | 13% | 54% | Last Result, Median |
-| 79 | 12% | 41% |  |
-| 80 | 10% | 29% |  |
+| 77 | 12% | 67% |  |
+| 78 | 13% | 55% | Last Result, Median |
+| 79 | 12% | 42% |  |
+| 80 | 10% | 30% |  |
 | 81 | 8% | 19% |  |
 | 82 | 5% | 11% |  |
 | 83 | 3% | 6% |  |
@@ -75,6 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0.7% | 1.2% |  |
 | 86 | 0.3% | 0.4% |  |
 | 87 | 0.1% | 0.2% |  |
-| 88 | 0% | 0% |  |
+| 88 | 0% | 0.1% |  |
+| 89 | 0% | 0% |  |
 
 
