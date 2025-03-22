@@ -16,7 +16,7 @@
 | <a href="#renew-europe">Renew Europe</a> | 77 | 83 | 79–87 |77–89 | 76–90 | 74–92 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 78 | 78 | 73–82 |72–83 | 71–84 | 69–85 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 46 | 55 | 51–59 |50–60 | 49–61 | 47–63 |
-| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 53 | 33 | 30–37 |29–38 | 28–40 | 27–42 |
+| <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 53 | 33 | 30–37 |29–39 | 28–40 | 27–42 |
 | <a href="#europe-of-sovereign-nations">Europe of Sovereign Nations</a> | 25 | 33 | 30–36 |29–37 | 29–38 | 27–40 |
 | <a href="#non-inscrits">Non-Inscrits</a> | 32 | 23 | 21–26 |20–27 | 19–28 | 18–29 |
 | <a href="#parties-currently-not-represented-in-the-ep">Parties currently not represented in the EP</a> | 1 | 4 | 2–6 |2–7 | 1–7 | 1–8 |
@@ -134,7 +134,7 @@
 | 102 | 10% | 71% |  |
 | 103 | 11% | 61% | Median |
 | 104 | 11% | 49% |  |
-| 105 | 11% | 38% |  |
+| 105 | 10% | 38% |  |
 | 106 | 9% | 28% |  |
 | 107 | 7% | 19% |  |
 | 108 | 5% | 12% |  |
@@ -165,14 +165,14 @@
 | 74 | 7% | 89% |  |
 | 75 | 9% | 82% |  |
 | 76 | 11% | 73% |  |
-| 77 | 12% | 63% |  |
+| 77 | 12% | 62% |  |
 | 78 | 12% | 50% | Last Result, Median |
 | 79 | 11% | 38% |  |
 | 80 | 9% | 27% |  |
 | 81 | 7% | 17% |  |
 | 82 | 5% | 10% |  |
 | 83 | 3% | 5% |  |
-| 84 | 2% | 3% |  |
+| 84 | 1.5% | 3% |  |
 | 85 | 0.7% | 1.1% |  |
 | 86 | 0.3% | 0.4% |  |
 | 87 | 0.1% | 0.1% |  |
@@ -229,17 +229,17 @@
 | 32 | 15% | 70% |  |
 | 33 | 14% | 55% | Median |
 | 34 | 12% | 41% |  |
-| 35 | 9% | 29% |  |
-| 36 | 7% | 20% |  |
-| 37 | 5% | 13% |  |
-| 38 | 3% | 8% |  |
+| 35 | 9% | 30% |  |
+| 36 | 7% | 21% |  |
+| 37 | 5% | 14% |  |
+| 38 | 4% | 9% |  |
 | 39 | 2% | 5% |  |
 | 40 | 1.3% | 3% |  |
-| 41 | 0.7% | 1.5% |  |
+| 41 | 0.7% | 2% |  |
 | 42 | 0.4% | 0.8% |  |
 | 43 | 0.2% | 0.4% |  |
 | 44 | 0.1% | 0.2% |  |
-| 45 | 0% | 0.1% |  |
+| 45 | 0.1% | 0.1% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
