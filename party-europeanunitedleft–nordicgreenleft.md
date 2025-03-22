@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (+8 seats)
+Current median: **55** seats (+9 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 54 | 49–58 | 48–59 | 47–60 | 45–62 |
+| European United Left–Nordic Green Left | EU | 46 | 55 | 51–59 | 50–60 | 49–61 | 47–63 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
-| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
-| Die Linke | DE | | 8 | 6–10 | 6–11 | 5–12 | 4–12 |
-| Sinn Féin | IE | | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–13 | 8–13 |
+| Die Linke | DE | | 10 | 8–11 | 7–11 | 7–11 | 7–12 |
+| Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -63,29 +63,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0% | 100% |  |
-| 44 | 0.1% | 99.9% |  |
-| 45 | 0.3% | 99.8% |  |
-| 46 | 0.8% | 99.5% | Last Result |
-| 47 | 2% | 98.6% |  |
-| 48 | 3% | 97% |  |
-| 49 | 5% | 94% |  |
-| 50 | 7% | 89% |  |
-| 51 | 9% | 82% |  |
-| 52 | 11% | 73% |  |
-| 53 | 11% | 62% |  |
-| 54 | 11% | 51% | Median |
-| 55 | 10% | 40% |  |
-| 56 | 9% | 29% |  |
-| 57 | 7% | 20% |  |
-| 58 | 5% | 13% |  |
-| 59 | 4% | 8% |  |
-| 60 | 2% | 5% |  |
-| 61 | 1.3% | 2% |  |
-| 62 | 0.7% | 1.1% |  |
-| 63 | 0.3% | 0.5% |  |
-| 64 | 0.1% | 0.2% |  |
-| 65 | 0% | 0.1% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0.1% | 99.9% | Last Result |
+| 47 | 0.4% | 99.8% |  |
+| 48 | 0.9% | 99.4% |  |
+| 49 | 2% | 98.6% |  |
+| 50 | 3% | 97% |  |
+| 51 | 5% | 93% |  |
+| 52 | 8% | 88% |  |
+| 53 | 10% | 80% |  |
+| 54 | 12% | 70% |  |
+| 55 | 13% | 57% | Median |
+| 56 | 13% | 44% |  |
+| 57 | 11% | 32% |  |
+| 58 | 8% | 21% |  |
+| 59 | 6% | 13% |  |
+| 60 | 4% | 7% |  |
+| 61 | 2% | 4% |  |
+| 62 | 0.9% | 2% |  |
+| 63 | 0.4% | 0.6% |  |
+| 64 | 0.2% | 0.2% |  |
+| 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
 
 
