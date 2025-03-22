@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 33 | 29–37 | 29–38 | 28–40 | 27–42 |
+| Greens–European Free Alliance | EU | 53 | 33 | 30–37 | 29–38 | 28–40 | 27–42 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Volt Europa | DE | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Volt Europa | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Česká pirátská strana | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -66,24 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 1.2% | 99.6% |  |
-| 28 | 3% | 98% |  |
-| 29 | 6% | 95% |  |
-| 30 | 10% | 89% |  |
-| 31 | 13% | 80% |  |
-| 32 | 14% | 67% |  |
-| 33 | 13% | 53% | Median |
-| 34 | 11% | 39% |  |
-| 35 | 9% | 28% |  |
-| 36 | 7% | 19% |  |
+| 26 | 0.2% | 100% |  |
+| 27 | 0.7% | 99.8% |  |
+| 28 | 2% | 99.1% |  |
+| 29 | 5% | 97% |  |
+| 30 | 9% | 92% |  |
+| 31 | 13% | 83% |  |
+| 32 | 15% | 70% |  |
+| 33 | 14% | 55% | Median |
+| 34 | 12% | 41% |  |
+| 35 | 9% | 29% |  |
+| 36 | 7% | 20% |  |
 | 37 | 5% | 13% |  |
 | 38 | 3% | 8% |  |
 | 39 | 2% | 5% |  |
-| 40 | 1.2% | 3% |  |
-| 41 | 0.7% | 1.4% |  |
-| 42 | 0.4% | 0.7% |  |
+| 40 | 1.3% | 3% |  |
+| 41 | 0.7% | 1.5% |  |
+| 42 | 0.4% | 0.8% |  |
 | 43 | 0.2% | 0.4% |  |
 | 44 | 0.1% | 0.2% |  |
 | 45 | 0% | 0.1% |  |

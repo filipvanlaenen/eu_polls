@@ -30,7 +30,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -66,24 +66,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0.1% | 99.9% | Last Result |
 | 47 | 0.4% | 99.8% |  |
-| 48 | 0.9% | 99.4% |  |
+| 48 | 0.8% | 99.5% |  |
 | 49 | 2% | 98.6% |  |
 | 50 | 3% | 97% |  |
-| 51 | 5% | 93% |  |
+| 51 | 5% | 94% |  |
 | 52 | 8% | 88% |  |
 | 53 | 10% | 80% |  |
 | 54 | 12% | 70% |  |
-| 55 | 13% | 57% | Median |
+| 55 | 13% | 58% | Median |
 | 56 | 13% | 44% |  |
 | 57 | 11% | 32% |  |
 | 58 | 8% | 21% |  |
-| 59 | 6% | 13% |  |
-| 60 | 4% | 7% |  |
-| 61 | 2% | 4% |  |
-| 62 | 0.9% | 2% |  |
+| 59 | 6% | 12% |  |
+| 60 | 3% | 7% |  |
+| 61 | 2% | 3% |  |
+| 62 | 0.9% | 1.5% |  |
 | 63 | 0.4% | 0.6% |  |
-| 64 | 0.2% | 0.2% |  |
-| 65 | 0.1% | 0.1% |  |
+| 64 | 0.1% | 0.2% |  |
+| 65 | 0% | 0.1% |  |
 | 66 | 0% | 0% |  |
 
 

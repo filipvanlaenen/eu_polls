@@ -23,7 +23,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -62,14 +62,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
-| 2 | 7% | 97% |  |
-| 3 | 14% | 90% |  |
-| 4 | 27% | 76% | Median |
-| 5 | 25% | 49% |  |
-| 6 | 16% | 24% |  |
-| 7 | 6% | 8% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
+| 2 | 8% | 97% |  |
+| 3 | 14% | 89% |  |
+| 4 | 28% | 75% | Median |
+| 5 | 24% | 46% |  |
+| 6 | 15% | 22% |  |
+| 7 | 6% | 7% |  |
+| 8 | 1.2% | 1.3% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 

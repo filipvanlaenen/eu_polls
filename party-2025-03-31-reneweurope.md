@@ -23,7 +23,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Uniunea Salvați România | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -81,12 +81,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% |  |
 | 74 | 0.4% | 99.7% |  |
-| 75 | 0.8% | 99.3% |  |
+| 75 | 0.7% | 99.4% |  |
 | 76 | 1.4% | 98.6% |  |
 | 77 | 2% | 97% | Last Result |
 | 78 | 4% | 95% |  |
 | 79 | 6% | 91% |  |
-| 80 | 8% | 85% |  |
+| 80 | 8% | 86% |  |
 | 81 | 10% | 78% |  |
 | 82 | 11% | 68% |  |
 | 83 | 12% | 57% | Median |
@@ -96,7 +96,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 6% | 16% |  |
 | 88 | 4% | 10% |  |
 | 89 | 3% | 6% |  |
-| 90 | 2% | 3% |  |
+| 90 | 1.5% | 3% |  |
 | 91 | 0.8% | 2% |  |
 | 92 | 0.4% | 0.8% |  |
 | 93 | 0.2% | 0.4% |  |
