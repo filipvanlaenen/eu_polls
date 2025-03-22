@@ -38,7 +38,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,7 +67,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -81,25 +81,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 0% | 100% |  |
 | 73 | 0.1% | 99.9% |  |
 | 74 | 0.2% | 99.9% |  |
-| 75 | 0.5% | 99.6% |  |
+| 75 | 0.5% | 99.7% |  |
 | 76 | 0.9% | 99.2% |  |
 | 77 | 2% | 98% | Last Result |
 | 78 | 3% | 97% |  |
 | 79 | 5% | 94% |  |
 | 80 | 7% | 89% |  |
-| 81 | 9% | 82% |  |
-| 82 | 11% | 73% |  |
-| 83 | 12% | 62% |  |
-| 84 | 12% | 50% | Median |
+| 81 | 9% | 83% |  |
+| 82 | 11% | 74% |  |
+| 83 | 12% | 63% |  |
+| 84 | 12% | 51% | Median |
 | 85 | 11% | 38% |  |
 | 86 | 9% | 27% |  |
 | 87 | 7% | 18% |  |
 | 88 | 5% | 11% |  |
-| 89 | 3% | 6% |  |
+| 89 | 3% | 7% |  |
 | 90 | 2% | 4% |  |
-| 91 | 0.9% | 2% |  |
-| 92 | 0.5% | 0.9% |  |
-| 93 | 0.2% | 0.4% |  |
+| 91 | 1.0% | 2% |  |
+| 92 | 0.5% | 1.0% |  |
+| 93 | 0.2% | 0.5% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |

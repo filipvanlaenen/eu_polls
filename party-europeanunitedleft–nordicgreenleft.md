@@ -10,15 +10,15 @@ Last result: **46** seats (General Election of 26 May 2019)
 
 Current median: **54** seats (+8 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, NL, SE
+> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, IT, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 54 | 50–57 | 49–58 | 48–59 | 47–61 |
+| European United Left–Nordic Green Left | EU | 46 | 54 | 50–57 | 49–58 | 49–59 | 47–61 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | Die Linke | DE | | 8 | 8 | 8 | 8 | 8 |
@@ -33,6 +33,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1 | 1 | 1 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,7 +51,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Stačilo! | CZ | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,24 +63,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0.1% | 100% |  |
+| 45 | 0% | 100% |  |
 | 46 | 0.2% | 99.9% | Last Result |
-| 47 | 0.7% | 99.7% |  |
-| 48 | 2% | 99.0% |  |
-| 49 | 4% | 97% |  |
-| 50 | 6% | 94% |  |
-| 51 | 10% | 87% |  |
-| 52 | 13% | 78% |  |
-| 53 | 15% | 65% |  |
-| 54 | 14% | 50% | Median |
-| 55 | 13% | 36% |  |
-| 56 | 10% | 23% |  |
-| 57 | 6% | 14% |  |
-| 58 | 4% | 7% |  |
-| 59 | 2% | 3% |  |
-| 60 | 0.9% | 1.4% |  |
-| 61 | 0.3% | 0.5% |  |
-| 62 | 0.1% | 0.2% |  |
-| 63 | 0% | 0% |  |
+| 47 | 0.6% | 99.8% |  |
+| 48 | 1.5% | 99.2% |  |
+| 49 | 3% | 98% |  |
+| 50 | 6% | 95% |  |
+| 51 | 9% | 89% |  |
+| 52 | 12% | 80% |  |
+| 53 | 14% | 68% |  |
+| 54 | 15% | 54% | Median |
+| 55 | 13% | 39% |  |
+| 56 | 10% | 26% |  |
+| 57 | 7% | 16% |  |
+| 58 | 4% | 8% |  |
+| 59 | 2% | 4% |  |
+| 60 | 1.1% | 2% |  |
+| 61 | 0.4% | 0.7% |  |
+| 62 | 0.2% | 0.2% |  |
+| 63 | 0% | 0.1% |  |
+| 64 | 0% | 0% |  |
 
 
