@@ -39,7 +39,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | БСП – обединена левица | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 112 | 0.2% | 99.8% |  |
 | 113 | 0.4% | 99.6% |  |
 | 114 | 0.7% | 99.2% |  |
-| 115 | 1.1% | 98.6% |  |
+| 115 | 1.1% | 98.5% |  |
 | 116 | 2% | 97% |  |
 | 117 | 2% | 96% |  |
 | 118 | 3% | 93% |  |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 122 | 5% | 77% |  |
 | 123 | 6% | 71% |  |
 | 124 | 6% | 66% |  |
-| 125 | 6% | 60% |  |
+| 125 | 6% | 59% |  |
 | 126 | 6% | 53% | Median |
 | 127 | 6% | 47% |  |
 | 128 | 6% | 40% |  |
@@ -85,11 +85,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 133 | 4% | 12% |  |
 | 134 | 3% | 9% |  |
 | 135 | 2% | 6% |  |
-| 136 | 1.5% | 4% | Last Result |
+| 136 | 1.4% | 4% | Last Result |
 | 137 | 1.0% | 2% |  |
-| 138 | 0.6% | 1.5% |  |
+| 138 | 0.6% | 1.4% |  |
 | 139 | 0.4% | 0.8% |  |
-| 140 | 0.2% | 0.5% |  |
+| 140 | 0.2% | 0.4% |  |
 | 141 | 0.1% | 0.2% |  |
 | 142 | 0.1% | 0.1% |  |
 | 143 | 0% | 0.1% |  |
