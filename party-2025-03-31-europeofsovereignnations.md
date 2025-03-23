@@ -20,7 +20,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Sovereign Nations | EU | 25 | 33 | 30–35 | 29–36 | 29–37 | 27–39 |
 | Alternative für Deutschland | DE | | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
-| Nowa Nadzieja | PL | | 5 | 4–6 | 3–6 | 3–7 | 3–8 |
+| Nowa Nadzieja | PL | | 5 | 3–6 | 3–6 | 3–7 | 3–8 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |

@@ -21,7 +21,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 174 | 167–180 | 166–181 | 164–183 | 161–186 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 20–23 | 19–24 | 18–24 | 18–25 |
-| Platforma Obywatelska | PL | | 18 | 17–20 | 17–21 | 16–21 | 16–22 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 17–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
 | Aliança Democrática | PT | | 8 | 6–9 | 5–9 | 5–10 | 5–10 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |

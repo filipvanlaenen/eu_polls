@@ -31,7 +31,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nowa Lewica | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Nowa Lewica | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 5% | 82% |  |
 | 122 | 5% | 77% |  |
 | 123 | 6% | 71% |  |
-| 124 | 6% | 66% |  |
+| 124 | 6% | 65% |  |
 | 125 | 6% | 59% |  |
 | 126 | 6% | 53% | Median |
 | 127 | 6% | 47% |  |
@@ -92,7 +92,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 140 | 0.2% | 0.4% |  |
 | 141 | 0.1% | 0.2% |  |
 | 142 | 0.1% | 0.1% |  |
-| 143 | 0% | 0.1% |  |
-| 144 | 0% | 0% |  |
+| 143 | 0% | 0% |  |
 
 
