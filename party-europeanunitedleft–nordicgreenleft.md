@@ -41,7 +41,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
@@ -63,9 +63,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 45 | 0% | 100% |  |
-| 46 | 0.1% | 99.9% | Last Result |
-| 47 | 0.4% | 99.8% |  |
+| 46 | 0.1% | 100% | Last Result |
+| 47 | 0.3% | 99.8% |  |
 | 48 | 0.8% | 99.5% |  |
 | 49 | 2% | 98.6% |  |
 | 50 | 3% | 97% |  |
@@ -73,7 +72,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 8% | 88% |  |
 | 53 | 10% | 80% |  |
 | 54 | 12% | 70% |  |
-| 55 | 13% | 58% | Median |
+| 55 | 13% | 57% | Median |
 | 56 | 13% | 44% |  |
 | 57 | 11% | 32% |  |
 | 58 | 8% | 21% |  |
