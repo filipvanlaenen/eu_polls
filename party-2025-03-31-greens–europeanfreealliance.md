@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **32** seats (-21 seats)
+Current median: **33** seats (-20 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 32 | 29–37 | 28–38 | 28–39 | 27–42 |
+| Greens–European Free Alliance | EU | 53 | 33 | 29–37 | 29–38 | 28–40 | 27–42 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -53,7 +53,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Volt Europa | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0–1 |
@@ -66,26 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 1.3% | 99.6% |  |
-| 28 | 3% | 98% |  |
-| 29 | 7% | 95% |  |
-| 30 | 11% | 88% |  |
-| 31 | 14% | 77% |  |
-| 32 | 14% | 63% | Median |
-| 33 | 13% | 49% |  |
-| 34 | 10% | 36% |  |
-| 35 | 8% | 25% |  |
-| 36 | 6% | 17% |  |
-| 37 | 4% | 11% |  |
-| 38 | 3% | 7% |  |
-| 39 | 2% | 4% |  |
-| 40 | 1.0% | 2% |  |
-| 41 | 0.5% | 1.1% |  |
-| 42 | 0.3% | 0.6% |  |
-| 43 | 0.2% | 0.3% |  |
-| 44 | 0.1% | 0.1% |  |
+| 26 | 0.2% | 100% |  |
+| 27 | 1.0% | 99.7% |  |
+| 28 | 3% | 98.7% |  |
+| 29 | 6% | 96% |  |
+| 30 | 10% | 90% |  |
+| 31 | 13% | 80% |  |
+| 32 | 14% | 67% |  |
+| 33 | 13% | 52% | Median |
+| 34 | 11% | 39% |  |
+| 35 | 9% | 28% |  |
+| 36 | 7% | 19% |  |
+| 37 | 5% | 13% |  |
+| 38 | 3% | 8% |  |
+| 39 | 2% | 5% |  |
+| 40 | 1.2% | 3% |  |
+| 41 | 0.6% | 1.3% |  |
+| 42 | 0.4% | 0.7% |  |
+| 43 | 0.2% | 0.4% |  |
+| 44 | 0.1% | 0.2% |  |
 | 45 | 0% | 0.1% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
