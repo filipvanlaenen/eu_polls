@@ -22,12 +22,12 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Partido Socialista Obrero Español | ES | | 20 | 18–23 | 18–25 | 18–25 | 17–25 |
 | Partito Democratico | IT | | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–17 | 13–17 | 12–18 |
-| Partidul Social Democrat | RO | | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| Partidul Social Democrat | RO | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Parti socialiste–Place Publique | FR | | 6 | 0–9 | 0–9 | 0–10 | 0–10 |
 | Partido Socialista | PT | | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | Partij van de Arbeid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -64,33 +64,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 112 | 0.2% | 99.8% |  |
 | 113 | 0.4% | 99.6% |  |
 | 114 | 0.8% | 99.2% |  |
-| 115 | 1.3% | 98% |  |
+| 115 | 1.2% | 98% |  |
 | 116 | 2% | 97% |  |
 | 117 | 3% | 95% |  |
 | 118 | 3% | 93% |  |
 | 119 | 4% | 89% |  |
 | 120 | 5% | 85% |  |
-| 121 | 5% | 80% |  |
+| 121 | 5% | 81% |  |
 | 122 | 6% | 75% |  |
 | 123 | 6% | 70% |  |
 | 124 | 6% | 64% |  |
-| 125 | 6% | 57% |  |
+| 125 | 6% | 58% |  |
 | 126 | 6% | 51% | Median |
 | 127 | 7% | 45% |  |
 | 128 | 6% | 38% |  |
 | 129 | 6% | 32% |  |
-| 130 | 6% | 25% |  |
+| 130 | 6% | 26% |  |
 | 131 | 5% | 20% |  |
 | 132 | 4% | 15% |  |
 | 133 | 3% | 11% |  |
-| 134 | 2% | 7% |  |
+| 134 | 3% | 7% |  |
 | 135 | 2% | 5% |  |
 | 136 | 1.2% | 3% | Last Result |
 | 137 | 0.8% | 2% |  |
 | 138 | 0.5% | 1.1% |  |
 | 139 | 0.3% | 0.6% |  |
 | 140 | 0.2% | 0.3% |  |
-| 141 | 0.1% | 0.1% |  |
+| 141 | 0.1% | 0.2% |  |
 | 142 | 0% | 0.1% |  |
 | 143 | 0% | 0% |  |
 

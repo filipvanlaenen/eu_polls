@@ -20,17 +20,17 @@ At least one member in **27 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 165–183 | 161–186 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
-| Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–23 | 18–23 | 18–23 | 17–24 |
+| Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
 | Aliança Democrática | PT | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
-| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Fine Gael | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
-| Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -41,7 +41,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -92,29 +92,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.9% | 98.5% |  |
 | 165 | 1.3% | 98% |  |
 | 166 | 2% | 96% |  |
-| 167 | 3% | 94% |  |
+| 167 | 3% | 95% |  |
 | 168 | 3% | 92% |  |
 | 169 | 4% | 89% |  |
 | 170 | 5% | 84% |  |
 | 171 | 6% | 79% |  |
 | 172 | 7% | 73% |  |
-| 173 | 8% | 65% |  |
+| 173 | 8% | 66% |  |
 | 174 | 8% | 58% | Median |
 | 175 | 8% | 49% |  |
 | 176 | 8% | 41% |  |
 | 177 | 7% | 33% |  |
-| 178 | 6% | 25% |  |
+| 178 | 6% | 26% |  |
 | 179 | 5% | 19% |  |
-| 180 | 4% | 13% |  |
+| 180 | 4% | 14% |  |
 | 181 | 3% | 9% |  |
 | 182 | 2% | 6% |  |
 | 183 | 2% | 4% |  |
 | 184 | 1.0% | 2% |  |
-| 185 | 0.6% | 1.3% |  |
-| 186 | 0.3% | 0.7% |  |
+| 185 | 0.6% | 1.4% |  |
+| 186 | 0.4% | 0.8% |  |
 | 187 | 0.2% | 0.4% |  |
 | 188 | 0.1% | 0.2% | Last Result |
-| 189 | 0% | 0.1% |  |
+| 189 | 0.1% | 0.1% |  |
 | 190 | 0% | 0% |  |
 
 

@@ -61,7 +61,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
-| Moderaterne | DK | | 0 | 0 | 0 | 0 | 0–1 |
+| Moderaterne | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -92,14 +92,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 11% | 70% |  |
 | 83 | 12% | 59% | Median |
 | 84 | 12% | 47% |  |
-| 85 | 10% | 36% |  |
+| 85 | 10% | 35% |  |
 | 86 | 8% | 25% |  |
 | 87 | 6% | 17% |  |
-| 88 | 4% | 11% |  |
+| 88 | 4% | 10% |  |
 | 89 | 3% | 6% |  |
 | 90 | 2% | 3% |  |
 | 91 | 0.9% | 2% |  |
-| 92 | 0.5% | 0.9% |  |
+| 92 | 0.5% | 0.8% |  |
 | 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0.1% |  |
