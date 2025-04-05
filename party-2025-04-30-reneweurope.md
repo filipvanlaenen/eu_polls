@@ -23,7 +23,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Uniunea Salvați România | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Democraten 66 | NL | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -92,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 11% | 70% |  |
 | 83 | 12% | 59% | Median |
 | 84 | 12% | 47% |  |
-| 85 | 10% | 35% |  |
+| 85 | 10% | 36% |  |
 | 86 | 8% | 25% |  |
 | 87 | 6% | 17% |  |
 | 88 | 4% | 10% |  |
