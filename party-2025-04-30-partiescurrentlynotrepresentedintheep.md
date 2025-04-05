@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **21 countries**:
+Members registered from **20 countries**:
 
-> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, RO, SI
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, RO, SI
 
 ## Seats
 
@@ -23,12 +23,11 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Frie Grønne [DK] (*) | DK | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -67,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 28% | 50% |  |
 | 6 | 15% | 22% |  |
 | 7 | 5% | 7% |  |
-| 8 | 1.2% | 1.3% |  |
+| 8 | 1.2% | 1.4% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 

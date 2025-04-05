@@ -10,9 +10,9 @@ Last result: **84** seats (General Election of 26 May 2019)
 
 Current median: **101** seats (+17 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, EE, ES, FR, GR, HU, IT, LV, NL, PL, PT
+> AT, BE, CZ, DK, EE, ES, FR, GR, HU, IT, LV, NL, PL, PT
 
 ### Confidence Intervals
 
@@ -26,15 +26,15 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Partij voor de Vrijheid | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | Lega Nord | IT | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| Chega | PT | | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ruch Narodowy | PL | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| Chega | PT | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| Ruch Narodowy | PL | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Motoristé sobě | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Φωνή Λογικής | GR | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -60,19 +60,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0.9% | 99.4% |  |
 | 94 | 2% | 98% |  |
 | 95 | 3% | 97% |  |
-| 96 | 5% | 93% |  |
-| 97 | 7% | 88% |  |
+| 96 | 5% | 94% |  |
+| 97 | 7% | 89% |  |
 | 98 | 9% | 82% |  |
 | 99 | 10% | 73% |  |
 | 100 | 11% | 63% |  |
-| 101 | 11% | 51% | Median |
-| 102 | 11% | 40% |  |
-| 103 | 9% | 29% |  |
+| 101 | 11% | 52% | Median |
+| 102 | 11% | 41% |  |
+| 103 | 9% | 30% |  |
 | 104 | 7% | 20% |  |
-| 105 | 5% | 12% |  |
+| 105 | 5% | 13% |  |
 | 106 | 3% | 7% |  |
 | 107 | 2% | 4% |  |
-| 108 | 1.0% | 2% |  |
+| 108 | 1.1% | 2% |  |
 | 109 | 0.5% | 0.9% |  |
 | 110 | 0.2% | 0.4% |  |
 | 111 | 0.1% | 0.2% |  |

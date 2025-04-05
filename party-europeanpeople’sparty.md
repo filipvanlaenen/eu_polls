@@ -18,12 +18,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 164–183 | 161–186 |
+| European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 165–183 | 161–186 |
 | Partido Popular | ES | | 23 | 21–25 | 20–25 | 19–26 | 19–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
-| Platforma Obywatelska | PL | | 19 | 17–20 | 17–20 | 16–21 | 16–22 |
+| Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
-| Aliança Democrática | PT | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| Aliança Democrática | PT | | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -41,8 +41,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -65,7 +65,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -86,34 +85,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.1% | 99.8% |  |
+| 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.7% |  |
 | 162 | 0.4% | 99.5% |  |
 | 163 | 0.6% | 99.1% |  |
-| 164 | 0.9% | 98% |  |
-| 165 | 1.4% | 97% |  |
+| 164 | 0.9% | 98.5% |  |
+| 165 | 1.3% | 98% |  |
 | 166 | 2% | 96% |  |
 | 167 | 3% | 94% |  |
 | 168 | 3% | 92% |  |
-| 169 | 4% | 88% |  |
+| 169 | 4% | 89% |  |
 | 170 | 5% | 84% |  |
-| 171 | 6% | 78% |  |
-| 172 | 7% | 72% |  |
+| 171 | 6% | 79% |  |
+| 172 | 7% | 73% |  |
 | 173 | 8% | 65% |  |
-| 174 | 8% | 57% | Median |
-| 175 | 8% | 48% |  |
-| 176 | 8% | 40% |  |
-| 177 | 7% | 32% |  |
-| 178 | 6% | 24% |  |
-| 179 | 5% | 18% |  |
+| 174 | 8% | 58% | Median |
+| 175 | 8% | 49% |  |
+| 176 | 8% | 41% |  |
+| 177 | 7% | 33% |  |
+| 178 | 6% | 25% |  |
+| 179 | 5% | 19% |  |
 | 180 | 4% | 13% |  |
 | 181 | 3% | 9% |  |
 | 182 | 2% | 6% |  |
-| 183 | 1.5% | 4% |  |
-| 184 | 0.9% | 2% |  |
-| 185 | 0.6% | 1.2% |  |
+| 183 | 2% | 4% |  |
+| 184 | 1.0% | 2% |  |
+| 185 | 0.6% | 1.3% |  |
 | 186 | 0.3% | 0.7% |  |
-| 187 | 0.2% | 0.3% |  |
+| 187 | 0.2% | 0.4% |  |
 | 188 | 0.1% | 0.2% | Last Result |
 | 189 | 0% | 0.1% |  |
 | 190 | 0% | 0% |  |

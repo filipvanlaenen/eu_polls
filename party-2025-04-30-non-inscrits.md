@@ -18,12 +18,12 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 24 | 21–27 | 21–27 | 20–28 | 19–29 |
+| Non-Inscrits | EU | 32 | 24 | 21–27 | 21–28 | 20–28 | 19–29 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| Konfederacja Korony Polskiej | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Konfederacja Korony Polskiej | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,7 +37,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -51,20 +50,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0% | 100% |  |
-| 18 | 0.3% | 99.9% |  |
+| 18 | 0.2% | 100% |  |
 | 19 | 1.0% | 99.7% |  |
-| 20 | 3% | 98.7% |  |
+| 20 | 3% | 98.8% |  |
 | 21 | 7% | 96% |  |
 | 22 | 12% | 89% |  |
-| 23 | 17% | 76% |  |
-| 24 | 19% | 60% | Median |
-| 25 | 17% | 41% |  |
-| 26 | 12% | 24% |  |
+| 23 | 17% | 77% |  |
+| 24 | 19% | 61% | Median |
+| 25 | 17% | 42% |  |
+| 26 | 12% | 25% |  |
 | 27 | 7% | 12% |  |
 | 28 | 3% | 5% |  |
-| 29 | 1.2% | 2% |  |
-| 30 | 0.3% | 0.4% |  |
+| 29 | 1.3% | 2% |  |
+| 30 | 0.4% | 0.5% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% | Last Result |
 
