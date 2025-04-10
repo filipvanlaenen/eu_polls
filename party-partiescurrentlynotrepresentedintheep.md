@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **4** seats (+3 seats)
+Current median: **5** seats (+4 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
+| Parties currently not represented in the EP | EU | 1 | 5 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -43,6 +43,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -62,12 +63,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 18% | 100% |  |
-| 4 | 32% | 82% | Median |
-| 5 | 28% | 49% |  |
+| 4 | 32% | 82% |  |
+| 5 | 28% | 50% | Median |
 | 6 | 15% | 22% |  |
-| 7 | 5% | 7% |  |
-| 8 | 1.1% | 1.3% |  |
-| 9 | 0.1% | 0.2% |  |
+| 7 | 6% | 7% |  |
+| 8 | 1.3% | 1.4% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 
