@@ -21,7 +21,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 46 | 55 | 52–59 | 51–60 | 50–61 | 48–62 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–14 | 8–14 |
-| Die Linke | DE | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
+| Die Linke | DE | | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -64,24 +64,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
-| 47 | 0.1% | 99.9% |  |
-| 48 | 0.4% | 99.8% |  |
-| 49 | 1.1% | 99.4% |  |
-| 50 | 2% | 98% |  |
-| 51 | 5% | 96% |  |
-| 52 | 8% | 91% |  |
-| 53 | 11% | 84% |  |
-| 54 | 13% | 73% |  |
-| 55 | 14% | 60% | Median |
-| 56 | 14% | 45% |  |
-| 57 | 12% | 31% |  |
-| 58 | 8% | 20% |  |
-| 59 | 5% | 11% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.4% | 99.9% |  |
+| 49 | 1.0% | 99.5% |  |
+| 50 | 2% | 98.5% |  |
+| 51 | 4% | 96% |  |
+| 52 | 7% | 92% |  |
+| 53 | 11% | 85% |  |
+| 54 | 13% | 74% |  |
+| 55 | 15% | 61% | Median |
+| 56 | 14% | 46% |  |
+| 57 | 12% | 32% |  |
+| 58 | 9% | 20% |  |
+| 59 | 6% | 12% |  |
 | 60 | 3% | 6% |  |
 | 61 | 2% | 3% |  |
 | 62 | 0.7% | 1.2% |  |
-| 63 | 0.3% | 0.4% |  |
-| 64 | 0.1% | 0.1% |  |
+| 63 | 0.3% | 0.5% |  |
+| 64 | 0.1% | 0.2% |  |
 | 65 | 0% | 0% |  |
 
 
