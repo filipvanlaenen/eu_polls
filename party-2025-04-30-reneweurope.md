@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 84 | 79–88 | 78–90 | 77–91 | 75–93 |
+| Renew Europe | EU | 77 | 84 | 80–88 | 78–90 | 77–91 | 75–93 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 27 | 23–28 | 23–29 | 22–29 | 20–31 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Uniunea Salvați România | RO | | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
@@ -42,10 +42,10 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -56,7 +56,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -65,6 +65,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partija „Laisvė ir teisingumas“ | LT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -82,27 +83,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.1% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
 | 75 | 0.4% | 99.7% |  |
-| 76 | 0.9% | 99.2% |  |
-| 77 | 2% | 98% | Last Result |
+| 76 | 0.8% | 99.3% |  |
+| 77 | 1.5% | 98.5% | Last Result |
 | 78 | 3% | 97% |  |
 | 79 | 4% | 94% |  |
 | 80 | 6% | 90% |  |
-| 81 | 8% | 84% |  |
+| 81 | 8% | 85% |  |
 | 82 | 10% | 76% |  |
-| 83 | 11% | 65% |  |
-| 84 | 12% | 54% | Median |
-| 85 | 11% | 42% |  |
-| 86 | 9% | 31% |  |
-| 87 | 7% | 22% |  |
-| 88 | 5% | 15% |  |
-| 89 | 4% | 9% |  |
-| 90 | 2% | 5% |  |
-| 91 | 1.4% | 3% |  |
-| 92 | 0.8% | 2% |  |
-| 93 | 0.4% | 0.8% |  |
+| 83 | 11% | 66% |  |
+| 84 | 12% | 55% | Median |
+| 85 | 11% | 43% |  |
+| 86 | 10% | 32% |  |
+| 87 | 8% | 23% |  |
+| 88 | 6% | 15% |  |
+| 89 | 4% | 10% |  |
+| 90 | 2% | 6% |  |
+| 91 | 2% | 3% |  |
+| 92 | 0.9% | 2% |  |
+| 93 | 0.5% | 0.9% |  |
 | 94 | 0.2% | 0.4% |  |
 | 95 | 0.1% | 0.2% |  |
-| 96 | 0% | 0.1% |  |
+| 96 | 0.1% | 0.1% |  |
 | 97 | 0% | 0% |  |
 
 
