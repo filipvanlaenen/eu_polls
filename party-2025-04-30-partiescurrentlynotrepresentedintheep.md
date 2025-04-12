@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, RO, SI
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, RO
 
 ## Seats
 
@@ -45,7 +45,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Résistons! [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |

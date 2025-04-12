@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **173** seats (-15 seats)
+Current median: **174** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 167–179 | 165–181 | 163–182 | 160–185 |
+| European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 164–183 | 161–186 |
 | Partido Popular | ES | | 23 | 21–25 | 19–26 | 19–26 | 19–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–23 | 16–23 |
 | Platforma Obywatelska | PL | | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
-| Tisztelet és Szabadság | HU | | 10 | 8–11 | 8–11 | 8–12 | 8–12 |
+| Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Νέα Δημοκρατία | GR | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -30,12 +30,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
+| Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -49,15 +49,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Slovensko | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Slovensko | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | TOP 09 | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Demokrati | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -83,38 +83,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.2% | 99.8% |  |
-| 160 | 0.3% | 99.6% |  |
-| 161 | 0.4% | 99.4% |  |
-| 162 | 0.7% | 98.9% |  |
-| 163 | 1.0% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 2% | 96% |  |
-| 166 | 3% | 94% |  |
-| 167 | 4% | 91% |  |
-| 168 | 5% | 87% |  |
-| 169 | 6% | 82% |  |
-| 170 | 7% | 77% |  |
-| 171 | 7% | 70% |  |
-| 172 | 8% | 63% |  |
-| 173 | 8% | 55% | Median |
-| 174 | 8% | 46% |  |
-| 175 | 8% | 38% |  |
-| 176 | 7% | 30% |  |
-| 177 | 6% | 23% |  |
-| 178 | 5% | 17% |  |
-| 179 | 4% | 12% |  |
-| 180 | 3% | 8% |  |
-| 181 | 2% | 5% |  |
-| 182 | 1.3% | 3% |  |
-| 183 | 0.9% | 2% |  |
-| 184 | 0.5% | 1.2% |  |
-| 185 | 0.3% | 0.6% |  |
-| 186 | 0.2% | 0.3% |  |
-| 187 | 0.1% | 0.2% |  |
-| 188 | 0% | 0.1% | Last Result |
-| 189 | 0% | 0% |  |
+| 158 | 0% | 100% |  |
+| 159 | 0.1% | 99.9% |  |
+| 160 | 0.2% | 99.8% |  |
+| 161 | 0.3% | 99.7% |  |
+| 162 | 0.4% | 99.4% |  |
+| 163 | 0.7% | 99.0% |  |
+| 164 | 1.0% | 98% |  |
+| 165 | 1.5% | 97% |  |
+| 166 | 2% | 96% |  |
+| 167 | 3% | 94% |  |
+| 168 | 4% | 91% |  |
+| 169 | 5% | 88% |  |
+| 170 | 5% | 83% |  |
+| 171 | 6% | 78% |  |
+| 172 | 7% | 71% |  |
+| 173 | 8% | 64% |  |
+| 174 | 8% | 56% | Median |
+| 175 | 8% | 48% |  |
+| 176 | 8% | 39% |  |
+| 177 | 7% | 31% |  |
+| 178 | 6% | 24% |  |
+| 179 | 5% | 18% |  |
+| 180 | 4% | 13% |  |
+| 181 | 3% | 9% |  |
+| 182 | 2% | 6% |  |
+| 183 | 1.5% | 4% |  |
+| 184 | 1.0% | 2% |  |
+| 185 | 0.6% | 1.4% |  |
+| 186 | 0.4% | 0.8% |  |
+| 187 | 0.2% | 0.4% |  |
+| 188 | 0.1% | 0.2% | Last Result |
+| 189 | 0.1% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 
