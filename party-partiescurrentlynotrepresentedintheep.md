@@ -21,7 +21,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 1 | 5 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Partidul Oamenilor Tineri [RO] (*) | RO | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
-| Aontú [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -63,13 +63,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 16% | 100% |  |
-| 4 | 31% | 84% |  |
-| 5 | 29% | 53% | Median |
-| 6 | 17% | 25% |  |
-| 7 | 6% | 8% |  |
-| 8 | 1.5% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
+| 3 | 14% | 100% |  |
+| 4 | 30% | 86% |  |
+| 5 | 29% | 56% | Median |
+| 6 | 18% | 27% |  |
+| 7 | 7% | 9% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 

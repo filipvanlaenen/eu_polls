@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **174** seats (-14 seats)
+Current median: **173** seats (-15 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 168–181 | 166–182 | 165–184 | 161–187 |
+| European People’s Party | EU | 188 | 173 | 167–179 | 165–181 | 163–183 | 160–185 |
 | Partido Popular | ES | | 23 | 21–25 | 19–26 | 19–26 | 19–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–23 | 16–23 |
 | Platforma Obywatelska | PL | | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
@@ -27,7 +27,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Fine Gael | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -37,6 +36,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Fine Gael | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -84,39 +84,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.1% | 99.8% |  |
-| 161 | 0.2% | 99.7% |  |
-| 162 | 0.4% | 99.5% |  |
-| 163 | 0.6% | 99.1% |  |
-| 164 | 0.9% | 98% |  |
-| 165 | 1.3% | 98% |  |
-| 166 | 2% | 96% |  |
-| 167 | 3% | 94% |  |
-| 168 | 3% | 92% |  |
-| 169 | 4% | 88% |  |
-| 170 | 5% | 84% |  |
-| 171 | 6% | 79% |  |
-| 172 | 7% | 73% |  |
-| 173 | 8% | 66% |  |
-| 174 | 8% | 58% | Median |
-| 175 | 8% | 50% |  |
-| 176 | 8% | 42% |  |
-| 177 | 7% | 34% |  |
-| 178 | 6% | 26% |  |
-| 179 | 5% | 20% |  |
-| 180 | 4% | 15% |  |
-| 181 | 3% | 10% |  |
-| 182 | 2% | 7% |  |
-| 183 | 2% | 4% |  |
-| 184 | 1.1% | 3% |  |
-| 185 | 0.7% | 2% |  |
-| 186 | 0.4% | 0.9% |  |
-| 187 | 0.2% | 0.5% |  |
-| 188 | 0.1% | 0.3% | Last Result |
-| 189 | 0.1% | 0.1% |  |
-| 190 | 0% | 0.1% |  |
-| 191 | 0% | 0% |  |
+| 157 | 0% | 100% |  |
+| 158 | 0.1% | 99.9% |  |
+| 159 | 0.1% | 99.8% |  |
+| 160 | 0.2% | 99.7% |  |
+| 161 | 0.4% | 99.4% |  |
+| 162 | 0.6% | 99.0% |  |
+| 163 | 0.9% | 98% |  |
+| 164 | 1.4% | 97% |  |
+| 165 | 2% | 96% |  |
+| 166 | 3% | 94% |  |
+| 167 | 3% | 92% |  |
+| 168 | 4% | 88% |  |
+| 169 | 5% | 84% |  |
+| 170 | 6% | 79% |  |
+| 171 | 7% | 72% |  |
+| 172 | 8% | 65% |  |
+| 173 | 8% | 57% | Median |
+| 174 | 8% | 49% |  |
+| 175 | 8% | 41% |  |
+| 176 | 7% | 33% |  |
+| 177 | 6% | 26% |  |
+| 178 | 5% | 19% |  |
+| 179 | 4% | 14% |  |
+| 180 | 3% | 10% |  |
+| 181 | 2% | 7% |  |
+| 182 | 2% | 4% |  |
+| 183 | 1.1% | 3% |  |
+| 184 | 0.7% | 2% |  |
+| 185 | 0.4% | 0.9% |  |
+| 186 | 0.2% | 0.5% |  |
+| 187 | 0.1% | 0.3% |  |
+| 188 | 0.1% | 0.1% | Last Result |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 

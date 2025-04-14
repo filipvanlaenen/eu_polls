@@ -10,9 +10,9 @@ Last result: **84** seats (General Election of 26 May 2019)
 
 Current median: **101** seats (+17 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DK, EE, ES, FR, GR, HU, IT, LV, NL, PL, PT
+> AT, BE, CZ, EE, ES, FR, GR, HU, IT, LV, NL, PL, PT
 
 ### Confidence Intervals
 
@@ -30,11 +30,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Motoristé sobě | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -57,24 +57,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 90 | 0% | 100% |  |
 | 91 | 0.1% | 99.9% |  |
 | 92 | 0.3% | 99.8% |  |
-| 93 | 0.7% | 99.6% |  |
-| 94 | 1.4% | 98.9% |  |
+| 93 | 0.7% | 99.5% |  |
+| 94 | 1.4% | 98.8% |  |
 | 95 | 3% | 97% |  |
 | 96 | 4% | 95% |  |
 | 97 | 6% | 91% |  |
 | 98 | 8% | 85% |  |
 | 99 | 10% | 77% |  |
-| 100 | 11% | 68% |  |
-| 101 | 11% | 57% | Median |
+| 100 | 11% | 67% |  |
+| 101 | 11% | 56% | Median |
 | 102 | 11% | 45% |  |
 | 103 | 10% | 34% |  |
 | 104 | 8% | 24% |  |
-| 105 | 6% | 16% |  |
+| 105 | 6% | 15% |  |
 | 106 | 4% | 9% |  |
-| 107 | 3% | 5% |  |
-| 108 | 1.4% | 3% |  |
-| 109 | 0.7% | 1.3% |  |
-| 110 | 0.3% | 0.6% |  |
+| 107 | 2% | 5% |  |
+| 108 | 1.3% | 3% |  |
+| 109 | 0.7% | 1.2% |  |
+| 110 | 0.3% | 0.5% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
