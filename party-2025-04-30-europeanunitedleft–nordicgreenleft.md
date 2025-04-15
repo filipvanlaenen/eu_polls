@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 55 | 52–58 | 51–60 | 50–60 | 48–62 |
+| European United Left–Nordic Green Left | EU | 46 | 55 | 51–58 | 50–59 | 50–60 | 48–62 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–14 | 8–14 |
-| Die Linke | DE | | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| Die Linke | DE | | 10 | 9–10 | 9–11 | 8–11 | 8–12 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -30,7 +30,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
-| Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0–2 |
+| Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,22 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.2% | 99.9% |  |
 | 48 | 0.5% | 99.8% |  |
-| 49 | 1.3% | 99.3% |  |
+| 49 | 1.4% | 99.2% |  |
 | 50 | 3% | 98% |  |
 | 51 | 5% | 95% |  |
-| 52 | 8% | 90% |  |
-| 53 | 11% | 82% |  |
-| 54 | 14% | 70% |  |
-| 55 | 15% | 57% | Median |
-| 56 | 13% | 42% |  |
-| 57 | 11% | 29% |  |
-| 58 | 8% | 18% |  |
-| 59 | 5% | 10% |  |
+| 52 | 9% | 90% |  |
+| 53 | 12% | 81% |  |
+| 54 | 14% | 69% |  |
+| 55 | 15% | 55% | Median |
+| 56 | 13% | 41% |  |
+| 57 | 11% | 28% |  |
+| 58 | 7% | 17% |  |
+| 59 | 5% | 9% |  |
 | 60 | 3% | 5% |  |
-| 61 | 1.4% | 2% |  |
+| 61 | 1.3% | 2% |  |
 | 62 | 0.6% | 1.0% |  |
-| 63 | 0.3% | 0.4% |  |
-| 64 | 0.1% | 0.2% |  |
+| 63 | 0.2% | 0.4% |  |
+| 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0.1% |  |
 | 66 | 0% | 0% |  |
 

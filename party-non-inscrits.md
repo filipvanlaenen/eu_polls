@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **14 countries**:
+Members registered from **13 countries**:
 
-> CZ, DE, DK, ES, FI, GR, HR, IT, LT, LV, PL, RO, SI, SK
+> DE, DK, ES, FI, GR, HR, IT, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -23,7 +23,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Konfederacja Korony Polskiej | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Konfederacja Korony Polskiej | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -41,7 +41,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -51,18 +50,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
+| 18 | 0.2% | 100% |  |
 | 19 | 0.8% | 99.8% |  |
-| 20 | 3% | 99.1% |  |
+| 20 | 3% | 99.0% |  |
 | 21 | 7% | 96% |  |
 | 22 | 13% | 89% |  |
 | 23 | 18% | 76% |  |
-| 24 | 20% | 58% | Median |
-| 25 | 17% | 38% |  |
-| 26 | 12% | 21% |  |
-| 27 | 6% | 10% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.8% | 1.0% |  |
+| 24 | 20% | 57% | Median |
+| 25 | 17% | 37% |  |
+| 26 | 11% | 21% |  |
+| 27 | 6% | 9% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.7% | 0.9% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
