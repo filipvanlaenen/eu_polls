@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 55 | 51–58 | 50–59 | 50–60 | 48–62 |
+| European United Left–Nordic Green Left | EU | 46 | 55 | 52–59 | 51–60 | 50–61 | 48–63 |
 | La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
-| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–14 | 8–14 |
+| Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
 | Die Linke | DE | | 10 | 9–10 | 9–11 | 8–11 | 8–12 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
@@ -29,11 +29,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Levica | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -48,8 +47,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
+| Partij voor de Dieren | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,23 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.2% | 99.9% |  |
 | 48 | 0.5% | 99.8% |  |
-| 49 | 1.4% | 99.2% |  |
+| 49 | 1.2% | 99.3% |  |
 | 50 | 3% | 98% |  |
 | 51 | 5% | 95% |  |
-| 52 | 9% | 90% |  |
-| 53 | 12% | 81% |  |
-| 54 | 14% | 69% |  |
-| 55 | 15% | 55% | Median |
-| 56 | 13% | 41% |  |
-| 57 | 11% | 28% |  |
-| 58 | 7% | 17% |  |
-| 59 | 5% | 9% |  |
-| 60 | 3% | 5% |  |
-| 61 | 1.3% | 2% |  |
-| 62 | 0.6% | 1.0% |  |
-| 63 | 0.2% | 0.4% |  |
-| 64 | 0.1% | 0.1% |  |
-| 65 | 0% | 0.1% |  |
+| 52 | 8% | 91% |  |
+| 53 | 11% | 83% |  |
+| 54 | 13% | 72% |  |
+| 55 | 14% | 59% | Median |
+| 56 | 13% | 45% |  |
+| 57 | 11% | 31% |  |
+| 58 | 8% | 20% |  |
+| 59 | 6% | 12% |  |
+| 60 | 3% | 6% |  |
+| 61 | 2% | 3% |  |
+| 62 | 0.8% | 1.4% |  |
+| 63 | 0.3% | 0.6% |  |
+| 64 | 0.1% | 0.2% |  |
+| 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
 
 
