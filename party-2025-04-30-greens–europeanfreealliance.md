@@ -45,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -73,13 +73,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 7% | 95% |  |
 | 31 | 12% | 88% |  |
 | 32 | 15% | 77% |  |
-| 33 | 16% | 61% | Median |
+| 33 | 16% | 62% | Median |
 | 34 | 14% | 46% |  |
 | 35 | 10% | 32% |  |
 | 36 | 7% | 22% |  |
 | 37 | 5% | 15% |  |
 | 38 | 4% | 9% |  |
-| 39 | 2% | 5% |  |
+| 39 | 2% | 6% |  |
 | 40 | 1.4% | 3% |  |
 | 41 | 0.8% | 2% |  |
 | 42 | 0.4% | 0.8% |  |
