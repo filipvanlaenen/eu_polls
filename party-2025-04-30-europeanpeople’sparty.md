@@ -30,7 +30,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.2% | 99.7% |  |
 | 160 | 0.4% | 99.5% |  |
 | 161 | 0.6% | 99.1% |  |
-| 162 | 0.8% | 98.6% |  |
+| 162 | 0.8% | 98.5% |  |
 | 163 | 1.2% | 98% |  |
 | 164 | 2% | 97% |  |
 | 165 | 2% | 95% |  |
@@ -105,7 +105,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 174 | 8% | 48% |  |
 | 175 | 7% | 40% |  |
 | 176 | 7% | 32% |  |
-| 177 | 6% | 26% |  |
+| 177 | 6% | 25% |  |
 | 178 | 5% | 19% |  |
 | 179 | 4% | 14% |  |
 | 180 | 3% | 10% |  |
@@ -113,7 +113,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 182 | 2% | 5% |  |
 | 183 | 1.1% | 3% |  |
 | 184 | 0.7% | 2% |  |
-| 185 | 0.5% | 1.0% |  |
+| 185 | 0.4% | 1.0% |  |
 | 186 | 0.3% | 0.6% |  |
 | 187 | 0.1% | 0.3% |  |
 | 188 | 0.1% | 0.2% | Last Result |
