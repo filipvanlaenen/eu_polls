@@ -31,11 +31,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -89,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0.1% | 99.8% |  |
 | 159 | 0.2% | 99.7% |  |
 | 160 | 0.4% | 99.5% |  |
-| 161 | 0.6% | 99.1% |  |
-| 162 | 0.8% | 98.5% |  |
+| 161 | 0.5% | 99.1% |  |
+| 162 | 0.8% | 98.6% |  |
 | 163 | 1.2% | 98% |  |
 | 164 | 2% | 97% |  |
 | 165 | 2% | 95% |  |
@@ -101,12 +101,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 6% | 76% |  |
 | 171 | 7% | 70% |  |
 | 172 | 8% | 63% |  |
-| 173 | 8% | 55% | Median |
+| 173 | 8% | 56% | Median |
 | 174 | 8% | 48% |  |
-| 175 | 7% | 40% |  |
-| 176 | 7% | 32% |  |
-| 177 | 6% | 25% |  |
-| 178 | 5% | 19% |  |
+| 175 | 8% | 40% |  |
+| 176 | 7% | 33% |  |
+| 177 | 6% | 26% |  |
+| 178 | 5% | 20% |  |
 | 179 | 4% | 14% |  |
 | 180 | 3% | 10% |  |
 | 181 | 2% | 7% |  |

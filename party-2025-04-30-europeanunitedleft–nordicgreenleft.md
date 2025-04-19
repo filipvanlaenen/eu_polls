@@ -43,7 +43,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
-| Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0–3 |
+| Lewica Razem | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -68,20 +68,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.5% | 99.8% |  |
 | 49 | 1.2% | 99.3% |  |
 | 50 | 3% | 98% |  |
-| 51 | 5% | 95% |  |
+| 51 | 5% | 96% |  |
 | 52 | 8% | 91% |  |
 | 53 | 11% | 83% |  |
-| 54 | 13% | 72% |  |
-| 55 | 14% | 59% | Median |
+| 54 | 13% | 73% |  |
+| 55 | 14% | 60% | Median |
 | 56 | 13% | 45% |  |
 | 57 | 11% | 32% |  |
 | 58 | 8% | 21% |  |
 | 59 | 6% | 12% |  |
 | 60 | 3% | 7% |  |
 | 61 | 2% | 3% |  |
-| 62 | 0.8% | 1.5% |  |
+| 62 | 0.9% | 2% |  |
 | 63 | 0.4% | 0.6% |  |
-| 64 | 0.2% | 0.2% |  |
+| 64 | 0.2% | 0.3% |  |
 | 65 | 0.1% | 0.1% |  |
 | 66 | 0% | 0% |  |
 
