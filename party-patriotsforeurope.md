@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **102** seats (+18 seats)
+Current median: **101** seats (+17 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 102 | 97–106 | 96–107 | 95–108 | 93–110 |
+| Patriots for Europe | EU | 84 | 101 | 97–106 | 96–107 | 95–108 | 93–110 |
 | Rassemblement national | FR | | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
@@ -55,21 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0% | 100% |  |
 | 90 | 0% | 100% |  |
-| 91 | 0.1% | 100% |  |
-| 92 | 0.2% | 99.9% |  |
-| 93 | 0.5% | 99.7% |  |
-| 94 | 1.1% | 99.1% |  |
+| 91 | 0.1% | 99.9% |  |
+| 92 | 0.3% | 99.8% |  |
+| 93 | 0.6% | 99.6% |  |
+| 94 | 1.2% | 99.0% |  |
 | 95 | 2% | 98% |  |
-| 96 | 3% | 96% |  |
-| 97 | 5% | 93% |  |
+| 96 | 4% | 96% |  |
+| 97 | 5% | 92% |  |
 | 98 | 7% | 87% |  |
-| 99 | 9% | 81% |  |
-| 100 | 10% | 72% |  |
-| 101 | 11% | 62% |  |
-| 102 | 11% | 51% | Median |
-| 103 | 11% | 39% |  |
-| 104 | 9% | 29% |  |
-| 105 | 7% | 20% |  |
+| 99 | 9% | 80% |  |
+| 100 | 10% | 71% |  |
+| 101 | 11% | 61% | Median |
+| 102 | 11% | 50% |  |
+| 103 | 10% | 39% |  |
+| 104 | 9% | 28% |  |
+| 105 | 7% | 19% |  |
 | 106 | 5% | 12% |  |
 | 107 | 3% | 7% |  |
 | 108 | 2% | 4% |  |

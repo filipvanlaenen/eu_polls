@@ -10,9 +10,9 @@ Last result: **78** seats (General Election of 26 May 2019)
 
 Current median: **77** seats (-1 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> BE, BG, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, PL, RO, SE, SK
+> BE, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, PL, RO, SE, SK
 
 ### Confidence Intervals
 
@@ -34,7 +34,6 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Има такъв народ | BG | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -45,6 +44,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -57,23 +57,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
 | 68 | 0.2% | 99.9% |  |
-| 69 | 0.4% | 99.7% |  |
-| 70 | 0.9% | 99.3% |  |
+| 69 | 0.5% | 99.7% |  |
+| 70 | 1.0% | 99.3% |  |
 | 71 | 2% | 98% |  |
-| 72 | 3% | 97% |  |
+| 72 | 3% | 96% |  |
 | 73 | 5% | 93% |  |
 | 74 | 7% | 88% |  |
 | 75 | 9% | 81% |  |
-| 76 | 11% | 72% |  |
-| 77 | 12% | 61% | Median |
+| 76 | 11% | 71% |  |
+| 77 | 12% | 60% | Median |
 | 78 | 12% | 48% | Last Result |
-| 79 | 11% | 36% |  |
-| 80 | 9% | 25% |  |
-| 81 | 7% | 16% |  |
+| 79 | 11% | 35% |  |
+| 80 | 9% | 24% |  |
+| 81 | 7% | 15% |  |
 | 82 | 4% | 9% |  |
-| 83 | 3% | 5% |  |
-| 84 | 1.3% | 2% |  |
-| 85 | 0.6% | 0.9% |  |
+| 83 | 2% | 5% |  |
+| 84 | 1.2% | 2% |  |
+| 85 | 0.5% | 0.9% |  |
 | 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0% |  |
