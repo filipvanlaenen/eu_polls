@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 167–180 | 165–182 | 164–184 | 160–186 |
+| European People’s Party | EU | 188 | 174 | 167–180 | 165–182 | 164–183 | 160–186 |
 | Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–26 | 18–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–23 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 17–21 | 17–22 | 17–23 | 16–23 |
 | Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–22 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
@@ -88,21 +88,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0.1% | 99.9% |  |
 | 159 | 0.1% | 99.8% |  |
 | 160 | 0.2% | 99.7% |  |
-| 161 | 0.4% | 99.5% |  |
+| 161 | 0.4% | 99.4% |  |
 | 162 | 0.6% | 99.1% |  |
 | 163 | 0.8% | 98.5% |  |
 | 164 | 1.2% | 98% |  |
 | 165 | 2% | 96% |  |
 | 166 | 2% | 95% |  |
-| 167 | 3% | 93% |  |
-| 168 | 4% | 90% |  |
+| 167 | 3% | 92% |  |
+| 168 | 4% | 89% |  |
 | 169 | 5% | 86% |  |
 | 170 | 6% | 81% |  |
-| 171 | 6% | 76% |  |
+| 171 | 6% | 75% |  |
 | 172 | 7% | 69% |  |
 | 173 | 8% | 62% |  |
 | 174 | 8% | 54% | Median |
-| 175 | 8% | 47% |  |
+| 175 | 8% | 46% |  |
 | 176 | 7% | 39% |  |
 | 177 | 7% | 31% |  |
 | 178 | 6% | 24% |  |
@@ -111,11 +111,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 3% | 9% |  |
 | 182 | 2% | 6% |  |
 | 183 | 2% | 4% |  |
-| 184 | 1.0% | 3% |  |
-| 185 | 0.7% | 2% |  |
-| 186 | 0.4% | 0.9% |  |
+| 184 | 1.0% | 2% |  |
+| 185 | 0.6% | 1.5% |  |
+| 186 | 0.4% | 0.8% |  |
 | 187 | 0.2% | 0.5% |  |
-| 188 | 0.1% | 0.3% | Last Result |
+| 188 | 0.1% | 0.2% | Last Result |
 | 189 | 0.1% | 0.1% |  |
 | 190 | 0% | 0.1% |  |
 | 191 | 0% | 0% |  |
