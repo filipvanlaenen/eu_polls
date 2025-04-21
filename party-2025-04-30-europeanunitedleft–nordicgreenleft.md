@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **55** seats (+9 seats)
+Current median: **58** seats (+12 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 55 | 52–59 | 51–60 | 50–61 | 48–63 |
-| La France insoumise | FR | | 12 | 10–12 | 9–13 | 9–13 | 8–14 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 52–64 | 49–67 |
+| La France insoumise | FR | | 12 | 9–14 | 9–15 | 8–15 | 8–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| Sinn Féin | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -32,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
-| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -46,11 +47,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lewica Razem | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
-| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
-| Solidarity–People Before Profit | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -64,25 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
-| 47 | 0.2% | 99.9% |  |
-| 48 | 0.5% | 99.8% |  |
-| 49 | 1.2% | 99.3% |  |
-| 50 | 3% | 98% |  |
-| 51 | 5% | 96% |  |
-| 52 | 7% | 91% |  |
-| 53 | 10% | 84% |  |
-| 54 | 13% | 73% |  |
-| 55 | 14% | 61% | Median |
-| 56 | 13% | 47% |  |
-| 57 | 11% | 34% |  |
-| 58 | 9% | 22% |  |
-| 59 | 6% | 13% |  |
-| 60 | 4% | 7% |  |
-| 61 | 2% | 4% |  |
-| 62 | 1.0% | 2% |  |
-| 63 | 0.4% | 0.7% |  |
-| 64 | 0.2% | 0.3% |  |
-| 65 | 0.1% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.1% | 99.9% |  |
+| 49 | 0.3% | 99.8% |  |
+| 50 | 0.7% | 99.5% |  |
+| 51 | 1.3% | 98.8% |  |
+| 52 | 2% | 98% |  |
+| 53 | 4% | 95% |  |
+| 54 | 5% | 92% |  |
+| 55 | 8% | 86% |  |
+| 56 | 10% | 79% |  |
+| 57 | 11% | 69% |  |
+| 58 | 12% | 57% | Median |
+| 59 | 12% | 45% |  |
+| 60 | 10% | 33% |  |
+| 61 | 8% | 23% |  |
+| 62 | 6% | 15% |  |
+| 63 | 4% | 9% |  |
+| 64 | 2% | 5% |  |
+| 65 | 1.3% | 2% |  |
+| 66 | 0.6% | 1.2% |  |
+| 67 | 0.3% | 0.5% |  |
+| 68 | 0.1% | 0.2% |  |
+| 69 | 0.1% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 

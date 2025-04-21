@@ -8,35 +8,34 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **174** seats (-14 seats)
+Current median: **170** seats (-18 seats)
 
-At least one member in **27 countries** have a median of 1 seat or more:
+At least one member in **26 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 167–180 | 165–182 | 164–183 | 160–186 |
-| Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–26 | 18–27 |
+| European People’s Party | EU | 188 | 170 | 164–176 | 163–178 | 161–179 | 158–182 |
+| Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–27 | 18–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 17–21 | 17–22 | 17–23 | 16–23 |
-| Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–22 | 15–22 |
+| Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| Partidul Național Liberal | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christen-Democratisch Appèl | NL | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Les Républicains | FR | | 5 | 0–6 | 0–7 | 0–8 | 0–8 |
 | Moderata samlingspartiet | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Slovenska demokratska stranka | SI | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
-| Fine Gael | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -56,18 +55,19 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Les Républicains | FR | | 0 | 0 | 0–5 | 0–5 | 0–6 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,40 +84,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.1% | 99.8% |  |
-| 160 | 0.2% | 99.7% |  |
-| 161 | 0.4% | 99.4% |  |
-| 162 | 0.6% | 99.1% |  |
-| 163 | 0.8% | 98.5% |  |
-| 164 | 1.2% | 98% |  |
-| 165 | 2% | 96% |  |
-| 166 | 2% | 95% |  |
-| 167 | 3% | 92% |  |
-| 168 | 4% | 89% |  |
-| 169 | 5% | 86% |  |
-| 170 | 6% | 81% |  |
-| 171 | 6% | 75% |  |
-| 172 | 7% | 69% |  |
-| 173 | 8% | 62% |  |
-| 174 | 8% | 54% | Median |
-| 175 | 8% | 46% |  |
-| 176 | 7% | 39% |  |
-| 177 | 7% | 31% |  |
-| 178 | 6% | 24% |  |
-| 179 | 5% | 18% |  |
-| 180 | 4% | 13% |  |
-| 181 | 3% | 9% |  |
-| 182 | 2% | 6% |  |
-| 183 | 2% | 4% |  |
-| 184 | 1.0% | 2% |  |
-| 185 | 0.6% | 1.5% |  |
-| 186 | 0.4% | 0.8% |  |
-| 187 | 0.2% | 0.5% |  |
-| 188 | 0.1% | 0.2% | Last Result |
-| 189 | 0.1% | 0.1% |  |
-| 190 | 0% | 0.1% |  |
-| 191 | 0% | 0% |  |
+| 155 | 0% | 100% |  |
+| 156 | 0.1% | 99.9% |  |
+| 157 | 0.1% | 99.9% |  |
+| 158 | 0.3% | 99.7% |  |
+| 159 | 0.5% | 99.4% |  |
+| 160 | 0.8% | 99.0% |  |
+| 161 | 1.2% | 98% |  |
+| 162 | 2% | 97% |  |
+| 163 | 3% | 95% |  |
+| 164 | 4% | 93% |  |
+| 165 | 5% | 89% |  |
+| 166 | 6% | 84% |  |
+| 167 | 7% | 78% |  |
+| 168 | 8% | 71% |  |
+| 169 | 9% | 63% |  |
+| 170 | 9% | 55% | Median |
+| 171 | 9% | 46% |  |
+| 172 | 8% | 38% |  |
+| 173 | 7% | 30% |  |
+| 174 | 6% | 22% |  |
+| 175 | 5% | 17% |  |
+| 176 | 4% | 12% |  |
+| 177 | 3% | 8% |  |
+| 178 | 2% | 5% |  |
+| 179 | 1.3% | 3% |  |
+| 180 | 0.9% | 2% |  |
+| 181 | 0.5% | 1.3% |  |
+| 182 | 0.3% | 0.8% |  |
+| 183 | 0.2% | 0.4% |  |
+| 184 | 0.1% | 0.2% |  |
+| 185 | 0.1% | 0.1% |  |
+| 186 | 0% | 0.1% |  |
+| 187 | 0% | 0% |  |
+| 188 | 0% | 0% | Last Result |
 
 
