@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **170** seats (-18 seats)
+Current median: **169** seats (-19 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 170 | 164–176 | 163–178 | 161–179 | 158–182 |
+| European People’s Party | EU | 188 | 169 | 164–175 | 162–177 | 161–178 | 158–181 |
 | Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–27 | 18–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–22 | 17–23 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
@@ -39,7 +39,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Liberal Alliance | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -84,38 +84,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 155 | 0% | 100% |  |
+| 155 | 0.1% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
-| 157 | 0.2% | 99.9% |  |
-| 158 | 0.3% | 99.7% |  |
-| 159 | 0.5% | 99.4% |  |
-| 160 | 0.8% | 98.9% |  |
-| 161 | 1.2% | 98% |  |
-| 162 | 2% | 97% |  |
-| 163 | 3% | 95% |  |
-| 164 | 4% | 92% |  |
-| 165 | 5% | 89% |  |
-| 166 | 6% | 84% |  |
-| 167 | 7% | 78% |  |
-| 168 | 8% | 71% |  |
-| 169 | 9% | 63% |  |
-| 170 | 9% | 54% | Median |
-| 171 | 9% | 46% |  |
-| 172 | 8% | 37% |  |
-| 173 | 7% | 29% |  |
-| 174 | 6% | 22% |  |
-| 175 | 5% | 16% |  |
-| 176 | 4% | 12% |  |
-| 177 | 3% | 8% |  |
-| 178 | 2% | 5% |  |
-| 179 | 1.3% | 3% |  |
-| 180 | 0.9% | 2% |  |
-| 181 | 0.5% | 1.3% |  |
-| 182 | 0.3% | 0.8% |  |
-| 183 | 0.2% | 0.4% |  |
-| 184 | 0.1% | 0.2% |  |
-| 185 | 0.1% | 0.1% |  |
-| 186 | 0% | 0.1% |  |
+| 157 | 0.2% | 99.8% |  |
+| 158 | 0.4% | 99.6% |  |
+| 159 | 0.6% | 99.2% |  |
+| 160 | 1.0% | 98.6% |  |
+| 161 | 2% | 98% |  |
+| 162 | 2% | 96% |  |
+| 163 | 3% | 94% |  |
+| 164 | 4% | 91% |  |
+| 165 | 6% | 86% |  |
+| 166 | 7% | 81% |  |
+| 167 | 8% | 74% |  |
+| 168 | 8% | 66% |  |
+| 169 | 9% | 58% | Median |
+| 170 | 9% | 49% |  |
+| 171 | 8% | 40% |  |
+| 172 | 7% | 32% |  |
+| 173 | 6% | 24% |  |
+| 174 | 5% | 18% |  |
+| 175 | 4% | 13% |  |
+| 176 | 3% | 9% |  |
+| 177 | 2% | 6% |  |
+| 178 | 1.5% | 4% |  |
+| 179 | 1.0% | 2% |  |
+| 180 | 0.6% | 1.5% |  |
+| 181 | 0.4% | 0.9% |  |
+| 182 | 0.2% | 0.5% |  |
+| 183 | 0.1% | 0.3% |  |
+| 184 | 0.1% | 0.1% |  |
+| 185 | 0% | 0.1% |  |
+| 186 | 0% | 0% |  |
 | 187 | 0% | 0% |  |
 | 188 | 0% | 0% | Last Result |
 

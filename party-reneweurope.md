@@ -18,13 +18,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 75–84 | 74–86 | 73–87 | 71–90 |
+| Renew Europe | EU | 77 | 79 | 75–84 | 73–86 | 72–87 | 70–90 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 19–25 | 19–26 | 18–27 | 17–28 |
 | Uniunea Salvați România | RO | | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Fianna Fáil | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -83,26 +83,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
 | 71 | 0.7% | 99.5% |  |
-| 72 | 1.3% | 98.9% |  |
-| 73 | 2% | 98% |  |
+| 72 | 1.5% | 98.7% |  |
+| 73 | 3% | 97% |  |
 | 74 | 4% | 95% |  |
 | 75 | 6% | 91% |  |
-| 76 | 7% | 86% |  |
-| 77 | 9% | 78% | Last Result |
-| 78 | 10% | 69% |  |
-| 79 | 11% | 59% | Median |
-| 80 | 10% | 48% |  |
-| 81 | 9% | 38% |  |
-| 82 | 8% | 29% |  |
-| 83 | 6% | 21% |  |
-| 84 | 5% | 14% |  |
+| 76 | 8% | 85% |  |
+| 77 | 9% | 77% | Last Result |
+| 78 | 10% | 68% |  |
+| 79 | 11% | 57% | Median |
+| 80 | 10% | 47% |  |
+| 81 | 9% | 36% |  |
+| 82 | 8% | 27% |  |
+| 83 | 6% | 19% |  |
+| 84 | 5% | 13% |  |
 | 85 | 3% | 9% |  |
-| 86 | 2% | 6% |  |
-| 87 | 2% | 4% |  |
-| 88 | 0.9% | 2% |  |
-| 89 | 0.5% | 1.1% |  |
-| 90 | 0.3% | 0.6% |  |
-| 91 | 0.2% | 0.3% |  |
+| 86 | 2% | 5% |  |
+| 87 | 1.4% | 3% |  |
+| 88 | 0.8% | 2% |  |
+| 89 | 0.5% | 1.0% |  |
+| 90 | 0.3% | 0.5% |  |
+| 91 | 0.1% | 0.3% |  |
 | 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0.1% |  |
 | 94 | 0% | 0% |  |
