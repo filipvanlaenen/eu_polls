@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 52–63 | 51–64 | 49–66 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 51–64 | 49–67 |
 | La France insoumise | FR | | 12 | 9–14 | 9–15 | 8–15 | 8–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
 | Die Linke | DE | | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
@@ -49,7 +49,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,22 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.4% | 99.7% |  |
+| 49 | 0.3% | 99.8% |  |
 | 50 | 0.7% | 99.4% |  |
-| 51 | 1.4% | 98.7% |  |
+| 51 | 1.3% | 98.7% |  |
 | 52 | 2% | 97% |  |
 | 53 | 4% | 95% |  |
 | 54 | 6% | 91% |  |
-| 55 | 8% | 85% |  |
-| 56 | 10% | 77% |  |
-| 57 | 12% | 67% |  |
+| 55 | 8% | 86% |  |
+| 56 | 10% | 78% |  |
+| 57 | 12% | 68% |  |
 | 58 | 12% | 56% | Median |
 | 59 | 12% | 44% |  |
-| 60 | 10% | 32% |  |
+| 60 | 10% | 33% |  |
 | 61 | 8% | 22% |  |
 | 62 | 6% | 14% |  |
 | 63 | 4% | 8% |  |
-| 64 | 2% | 4% |  |
+| 64 | 2% | 5% |  |
 | 65 | 1.2% | 2% |  |
 | 66 | 0.6% | 1.1% |  |
 | 67 | 0.3% | 0.5% |  |

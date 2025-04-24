@@ -18,13 +18,13 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 169 | 164–175 | 162–177 | 161–178 | 158–181 |
+| European People’s Party | EU | 188 | 169 | 164–175 | 162–177 | 161–178 | 158–182 |
 | Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–27 | 18–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christen-Democratisch Appèl | NL | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
@@ -94,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 162 | 2% | 96% |  |
 | 163 | 3% | 94% |  |
 | 164 | 4% | 91% |  |
-| 165 | 6% | 86% |  |
+| 165 | 5% | 86% |  |
 | 166 | 7% | 81% |  |
 | 167 | 8% | 74% |  |
 | 168 | 8% | 66% |  |
@@ -102,14 +102,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 9% | 49% |  |
 | 171 | 8% | 40% |  |
 | 172 | 7% | 32% |  |
-| 173 | 6% | 24% |  |
+| 173 | 6% | 25% |  |
 | 174 | 5% | 18% |  |
 | 175 | 4% | 13% |  |
 | 176 | 3% | 9% |  |
 | 177 | 2% | 6% |  |
 | 178 | 1.5% | 4% |  |
 | 179 | 1.0% | 2% |  |
-| 180 | 0.6% | 1.5% |  |
+| 180 | 0.6% | 2% |  |
 | 181 | 0.4% | 0.9% |  |
 | 182 | 0.2% | 0.5% |  |
 | 183 | 0.1% | 0.3% |  |
