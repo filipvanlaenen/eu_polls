@@ -26,7 +26,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 2–3 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
