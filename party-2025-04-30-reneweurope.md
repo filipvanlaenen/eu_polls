@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (+2 seats)
+Current median: **80** seats (+3 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 75–84 | 73–86 | 72–87 | 70–90 |
+| Renew Europe | EU | 77 | 80 | 75–85 | 74–86 | 73–88 | 71–90 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 22 | 19–25 | 19–26 | 18–27 | 17–28 |
 | Uniunea Salvați România | RO | | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -30,7 +30,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Polska 2050 | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Polska 2050 | PL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи – Ново начало | BG | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -43,7 +43,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -60,7 +60,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
+| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,32 +79,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.3% | 99.8% |  |
-| 71 | 0.7% | 99.5% |  |
-| 72 | 1.4% | 98.8% |  |
-| 73 | 2% | 97% |  |
-| 74 | 4% | 95% |  |
-| 75 | 6% | 91% |  |
-| 76 | 8% | 85% |  |
-| 77 | 9% | 78% | Last Result |
-| 78 | 10% | 69% |  |
-| 79 | 10% | 58% | Median |
-| 80 | 10% | 48% |  |
-| 81 | 9% | 38% |  |
-| 82 | 8% | 29% |  |
-| 83 | 6% | 21% |  |
-| 84 | 5% | 14% |  |
-| 85 | 3% | 10% |  |
-| 86 | 2% | 6% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.0% | 2% |  |
-| 89 | 0.6% | 1.2% |  |
-| 90 | 0.3% | 0.6% |  |
-| 91 | 0.2% | 0.3% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.5% | 99.6% |  |
+| 72 | 1.1% | 99.1% |  |
+| 73 | 2% | 98% |  |
+| 74 | 3% | 96% |  |
+| 75 | 5% | 93% |  |
+| 76 | 7% | 88% |  |
+| 77 | 8% | 81% | Last Result |
+| 78 | 10% | 73% |  |
+| 79 | 10% | 63% |  |
+| 80 | 10% | 53% | Median |
+| 81 | 10% | 43% |  |
+| 82 | 9% | 33% |  |
+| 83 | 7% | 25% |  |
+| 84 | 6% | 17% |  |
+| 85 | 4% | 12% |  |
+| 86 | 3% | 8% |  |
+| 87 | 2% | 5% |  |
+| 88 | 1.2% | 3% |  |
+| 89 | 0.8% | 2% |  |
+| 90 | 0.4% | 0.9% |  |
+| 91 | 0.2% | 0.5% |  |
 | 92 | 0.1% | 0.2% |  |
-| 93 | 0% | 0.1% |  |
+| 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 

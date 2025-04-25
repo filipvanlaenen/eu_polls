@@ -18,14 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 79 | 76–83 | 75–84 | 74–84 | 72–86 |
+| European Conservatives and Reformists | EU | 78 | 79 | 75–83 | 74–84 | 73–84 | 72–86 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 22–29 | 22–29 | 21–30 |
-| Zjednoczona Prawica | PL | | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
+| Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | Alianța pentru Unirea Românilor | RO | | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 2 | 2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Občanská demokratická strana | CZ | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0 |
+| Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -56,22 +56,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
-| 71 | 0.2% | 99.9% |  |
-| 72 | 0.6% | 99.7% |  |
-| 73 | 1.4% | 99.1% |  |
-| 74 | 3% | 98% |  |
+| 71 | 0.3% | 99.9% |  |
+| 72 | 0.7% | 99.6% |  |
+| 73 | 1.5% | 99.0% |  |
+| 74 | 3% | 97% |  |
 | 75 | 5% | 95% |  |
-| 76 | 8% | 90% |  |
-| 77 | 11% | 82% |  |
+| 76 | 8% | 89% |  |
+| 77 | 11% | 81% |  |
 | 78 | 13% | 71% | Last Result |
-| 79 | 14% | 58% | Median |
-| 80 | 14% | 44% |  |
+| 79 | 14% | 57% | Median |
+| 80 | 13% | 43% |  |
 | 81 | 11% | 30% |  |
 | 82 | 8% | 19% |  |
-| 83 | 5% | 10% |  |
+| 83 | 5% | 11% |  |
 | 84 | 3% | 5% |  |
 | 85 | 1.4% | 2% |  |
-| 86 | 0.6% | 0.8% |  |
+| 86 | 0.6% | 0.9% |  |
 | 87 | 0.2% | 0.3% |  |
 | 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |
