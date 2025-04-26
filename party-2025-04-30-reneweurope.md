@@ -23,14 +23,14 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Uniunea Salvați România | RO | | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Fianna Fáil | IE | | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Democraten 66 | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Polska 2050 | PL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Polska 2050 | PL | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи – Ново начало | BG | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -91,15 +91,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 10% | 73% |  |
 | 79 | 10% | 63% |  |
 | 80 | 10% | 53% | Median |
-| 81 | 10% | 43% |  |
-| 82 | 9% | 33% |  |
-| 83 | 7% | 25% |  |
-| 84 | 6% | 17% |  |
+| 81 | 10% | 42% |  |
+| 82 | 8% | 33% |  |
+| 83 | 7% | 24% |  |
+| 84 | 5% | 17% |  |
 | 85 | 4% | 12% |  |
 | 86 | 3% | 8% |  |
 | 87 | 2% | 5% |  |
 | 88 | 1.2% | 3% |  |
-| 89 | 0.8% | 2% |  |
+| 89 | 0.7% | 2% |  |
 | 90 | 0.4% | 0.9% |  |
 | 91 | 0.2% | 0.5% |  |
 | 92 | 0.1% | 0.2% |  |

@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 51–65 | 49–67 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 52–64 | 51–65 | 49–67 |
 | La France insoumise | FR | | 12 | 9–14 | 9–15 | 8–15 | 8–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
-| Die Linke | DE | | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| Die Linke | DE | | 9 | 8–11 | 8–11 | 8–12 | 7–12 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Podemos | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -34,7 +34,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,7 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
-| Lewica Razem | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
+| Lewica Razem | PL | | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -66,27 +66,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.3% | 99.8% |  |
+| 49 | 0.4% | 99.7% |  |
 | 50 | 0.7% | 99.4% |  |
-| 51 | 1.3% | 98.7% |  |
+| 51 | 1.4% | 98.6% |  |
 | 52 | 2% | 97% |  |
 | 53 | 4% | 95% |  |
 | 54 | 6% | 91% |  |
-| 55 | 8% | 86% |  |
+| 55 | 8% | 85% |  |
 | 56 | 10% | 78% |  |
 | 57 | 11% | 68% |  |
-| 58 | 12% | 57% | Median |
-| 59 | 12% | 45% |  |
+| 58 | 12% | 56% | Median |
+| 59 | 11% | 45% |  |
 | 60 | 10% | 33% |  |
 | 61 | 8% | 23% |  |
 | 62 | 6% | 15% |  |
 | 63 | 4% | 9% |  |
 | 64 | 2% | 5% |  |
-| 65 | 1.3% | 3% |  |
-| 66 | 0.7% | 1.2% |  |
-| 67 | 0.3% | 0.6% |  |
-| 68 | 0.1% | 0.3% |  |
+| 65 | 1.4% | 3% |  |
+| 66 | 0.8% | 1.5% |  |
+| 67 | 0.4% | 0.7% |  |
+| 68 | 0.2% | 0.3% |  |
 | 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 70 | 0% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 
