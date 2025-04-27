@@ -8,22 +8,23 @@ Members registered from **14 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-10 seats)
+Current median: **23** seats (-9 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> DE, ES, GR, LV, PL, SK
+> DE, ES, GR, LV, PL, RO, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
+| Non-Inscrits | EU | 32 | 23 | 20–27 | 19–27 | 19–28 | 18–29 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Konfederacja Korony Polskiej | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Partidul Oamenilor Tineri | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -38,8 +39,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Nye Borgerlige | DK | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Oamenilor Tineri | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
-| Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–1 |
+| Partidul S.O.S. România | RO | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -52,21 +52,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
-| 17 | 0.8% | 99.9% |  |
-| 18 | 3% | 99.1% |  |
-| 19 | 7% | 96% |  |
-| 20 | 13% | 89% |  |
-| 21 | 18% | 75% |  |
-| 22 | 19% | 57% | Median |
-| 23 | 17% | 38% |  |
-| 24 | 12% | 21% |  |
-| 25 | 6% | 10% |  |
-| 26 | 3% | 3% |  |
-| 27 | 0.8% | 1.0% |  |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
+| 17 | 0.4% | 99.9% |  |
+| 18 | 1.4% | 99.6% |  |
+| 19 | 4% | 98% |  |
+| 20 | 7% | 94% |  |
+| 21 | 10% | 87% |  |
+| 22 | 13% | 77% |  |
+| 23 | 15% | 64% | Median |
+| 24 | 15% | 49% |  |
+| 25 | 13% | 35% |  |
+| 26 | 10% | 21% |  |
+| 27 | 6% | 11% |  |
+| 28 | 3% | 5% |  |
+| 29 | 1.2% | 2% |  |
+| 30 | 0.4% | 0.4% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% | Last Result |
 
 

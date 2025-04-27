@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **169** seats (-19 seats)
+Current median: **168** seats (-20 seats)
 
 At least one member in **26 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **26 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 169 | 163–175 | 161–176 | 160–178 | 157–181 |
+| European People’s Party | EU | 188 | 168 | 162–174 | 161–176 | 159–178 | 156–181 |
 | Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–27 | 18–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Platforma Obywatelska | PL | | 18 | 16–20 | 15–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
-| Partidul Național Liberal | RO | | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christen-Democratisch Appèl | NL | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Partidul Național Liberal | RO | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -60,6 +60,7 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -87,33 +88,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0% | 100% |  |
 | 154 | 0.1% | 99.9% |  |
 | 155 | 0.1% | 99.9% |  |
-| 156 | 0.2% | 99.8% |  |
-| 157 | 0.4% | 99.6% |  |
-| 158 | 0.6% | 99.2% |  |
-| 159 | 1.0% | 98.6% |  |
-| 160 | 2% | 98% |  |
-| 161 | 2% | 96% |  |
-| 162 | 3% | 94% |  |
-| 163 | 4% | 91% |  |
-| 164 | 5% | 86% |  |
-| 165 | 6% | 81% |  |
-| 166 | 7% | 75% |  |
-| 167 | 8% | 67% |  |
-| 168 | 9% | 59% |  |
-| 169 | 9% | 50% | Median |
-| 170 | 8% | 42% |  |
-| 171 | 7% | 34% |  |
-| 172 | 6% | 26% |  |
-| 173 | 5% | 20% |  |
-| 174 | 4% | 14% |  |
-| 175 | 3% | 10% |  |
-| 176 | 2% | 7% |  |
-| 177 | 2% | 5% |  |
-| 178 | 1.1% | 3% |  |
+| 156 | 0.3% | 99.7% |  |
+| 157 | 0.5% | 99.4% |  |
+| 158 | 0.7% | 99.0% |  |
+| 159 | 1.2% | 98% |  |
+| 160 | 2% | 97% |  |
+| 161 | 3% | 95% |  |
+| 162 | 3% | 93% |  |
+| 163 | 4% | 89% |  |
+| 164 | 6% | 85% |  |
+| 165 | 7% | 79% |  |
+| 166 | 8% | 73% |  |
+| 167 | 8% | 65% |  |
+| 168 | 9% | 57% | Median |
+| 169 | 8% | 48% |  |
+| 170 | 8% | 40% |  |
+| 171 | 7% | 32% |  |
+| 172 | 6% | 25% |  |
+| 173 | 5% | 18% |  |
+| 174 | 4% | 13% |  |
+| 175 | 3% | 9% |  |
+| 176 | 2% | 6% |  |
+| 177 | 2% | 4% |  |
+| 178 | 1.0% | 3% |  |
 | 179 | 0.7% | 2% |  |
-| 180 | 0.5% | 1.1% |  |
+| 180 | 0.4% | 1.0% |  |
 | 181 | 0.3% | 0.6% |  |
-| 182 | 0.2% | 0.3% |  |
+| 182 | 0.1% | 0.3% |  |
 | 183 | 0.1% | 0.2% |  |
 | 184 | 0% | 0.1% |  |
 | 185 | 0% | 0% |  |
