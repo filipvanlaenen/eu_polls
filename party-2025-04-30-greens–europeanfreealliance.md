@@ -43,7 +43,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
-| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–6 |
+| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
-| 27 | 0.5% | 99.9% |  |
-| 28 | 2% | 99.4% |  |
+| 27 | 0.4% | 99.9% |  |
+| 28 | 1.5% | 99.4% |  |
 | 29 | 4% | 98% |  |
-| 30 | 8% | 94% |  |
+| 30 | 7% | 94% |  |
 | 31 | 12% | 87% |  |
 | 32 | 14% | 75% |  |
-| 33 | 15% | 60% | Median |
+| 33 | 14% | 61% | Median |
 | 34 | 13% | 46% |  |
-| 35 | 10% | 33% |  |
-| 36 | 8% | 23% |  |
+| 35 | 10% | 34% |  |
+| 36 | 8% | 24% |  |
 | 37 | 6% | 16% |  |
-| 38 | 4% | 10% |  |
+| 38 | 4% | 11% |  |
 | 39 | 3% | 6% |  |
-| 40 | 2% | 3% |  |
+| 40 | 2% | 4% |  |
 | 41 | 0.9% | 2% |  |
-| 42 | 0.5% | 1.0% |  |
-| 43 | 0.3% | 0.5% |  |
-| 44 | 0.1% | 0.2% |  |
+| 42 | 0.5% | 1.1% |  |
+| 43 | 0.3% | 0.6% |  |
+| 44 | 0.2% | 0.3% |  |
 | 45 | 0.1% | 0.1% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |

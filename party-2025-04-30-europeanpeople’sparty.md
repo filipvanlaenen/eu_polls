@@ -8,23 +8,24 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **168** seats (-20 seats)
+Current median: **174** seats (-14 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **27 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 168 | 162–174 | 161–176 | 159–178 | 156–181 |
+| European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 164–183 | 161–186 |
 | Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–27 | 18–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Platforma Obywatelska | PL | | 18 | 16–20 | 15–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | Forza Italia | IT | | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
+| Les Républicains | FR | | 6 | 5–8 | 5–8 | 0–8 | 0–9 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christen-Democratisch Appèl | NL | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -66,7 +67,6 @@ At least one member in **26 countries** have a median of 1 seat or more:
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
-| Les Républicains | FR | | 0 | 0 | 0–5 | 0–5 | 0–6 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -85,41 +85,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 153 | 0% | 100% |  |
-| 154 | 0.1% | 99.9% |  |
-| 155 | 0.1% | 99.9% |  |
-| 156 | 0.3% | 99.7% |  |
-| 157 | 0.5% | 99.4% |  |
-| 158 | 0.7% | 99.0% |  |
-| 159 | 1.2% | 98% |  |
-| 160 | 2% | 97% |  |
-| 161 | 3% | 95% |  |
-| 162 | 3% | 93% |  |
-| 163 | 4% | 89% |  |
-| 164 | 6% | 85% |  |
-| 165 | 7% | 79% |  |
-| 166 | 8% | 73% |  |
-| 167 | 8% | 65% |  |
-| 168 | 9% | 57% | Median |
-| 169 | 8% | 48% |  |
-| 170 | 8% | 40% |  |
-| 171 | 7% | 32% |  |
-| 172 | 6% | 25% |  |
-| 173 | 5% | 18% |  |
-| 174 | 4% | 13% |  |
-| 175 | 3% | 9% |  |
-| 176 | 2% | 6% |  |
-| 177 | 2% | 4% |  |
-| 178 | 1.0% | 3% |  |
-| 179 | 0.7% | 2% |  |
-| 180 | 0.4% | 1.0% |  |
-| 181 | 0.3% | 0.6% |  |
-| 182 | 0.1% | 0.3% |  |
-| 183 | 0.1% | 0.2% |  |
-| 184 | 0% | 0.1% |  |
-| 185 | 0% | 0% |  |
-| 186 | 0% | 0% |  |
-| 187 | 0% | 0% |  |
-| 188 | 0% | 0% | Last Result |
+| 157 | 0% | 100% |  |
+| 158 | 0.1% | 99.9% |  |
+| 159 | 0.1% | 99.9% |  |
+| 160 | 0.2% | 99.8% |  |
+| 161 | 0.3% | 99.6% |  |
+| 162 | 0.4% | 99.4% |  |
+| 163 | 0.6% | 98.9% |  |
+| 164 | 1.0% | 98% |  |
+| 165 | 1.4% | 97% |  |
+| 166 | 2% | 96% |  |
+| 167 | 3% | 94% |  |
+| 168 | 4% | 91% |  |
+| 169 | 5% | 88% |  |
+| 170 | 6% | 83% |  |
+| 171 | 7% | 77% |  |
+| 172 | 8% | 71% |  |
+| 173 | 8% | 63% |  |
+| 174 | 8% | 55% | Median |
+| 175 | 8% | 47% |  |
+| 176 | 8% | 38% |  |
+| 177 | 7% | 30% |  |
+| 178 | 6% | 23% |  |
+| 179 | 5% | 17% |  |
+| 180 | 4% | 12% |  |
+| 181 | 3% | 8% |  |
+| 182 | 2% | 6% |  |
+| 183 | 1.4% | 3% |  |
+| 184 | 0.9% | 2% |  |
+| 185 | 0.5% | 1.2% |  |
+| 186 | 0.3% | 0.7% |  |
+| 187 | 0.2% | 0.4% |  |
+| 188 | 0.1% | 0.2% | Last Result |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 
