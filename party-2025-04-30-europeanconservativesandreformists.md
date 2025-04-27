@@ -36,7 +36,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
-| Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
+| Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
