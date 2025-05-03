@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **23** seats (-9 seats)
+Current median: **24** seats (-8 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 23 | 20–27 | 19–27 | 19–28 | 18–29 |
+| Non-Inscrits | EU | 32 | 24 | 20–27 | 19–27 | 19–28 | 18–29 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -56,11 +56,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 4% | 98% |  |
 | 20 | 7% | 95% |  |
 | 21 | 10% | 88% |  |
-| 22 | 13% | 77% |  |
-| 23 | 15% | 64% | Median |
-| 24 | 15% | 50% |  |
+| 22 | 13% | 78% |  |
+| 23 | 15% | 65% |  |
+| 24 | 15% | 50% | Median |
 | 25 | 13% | 35% |  |
-| 26 | 10% | 21% |  |
+| 26 | 10% | 22% |  |
 | 27 | 6% | 11% |  |
 | 28 | 3% | 5% |  |
 | 29 | 1.2% | 2% |  |

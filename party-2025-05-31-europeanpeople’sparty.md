@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **175** seats (-13 seats)
+Current median: **174** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 175 | 168–181 | 166–182 | 165–184 | 161–187 |
+| European People’s Party | EU | 188 | 174 | 168–181 | 166–182 | 165–184 | 161–186 |
 | Partido Popular | ES | | 23 | 19–25 | 19–26 | 19–27 | 18–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | Platforma Obywatelska | PL | | 18 | 16–20 | 15–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Aliança Democrática | PT | | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
-| Forza Italia | IT | | 7 | 6–10 | 5–10 | 5–10 | 5–11 |
+| Forza Italia | IT | | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
 | Les Républicains | FR | | 6 | 5–8 | 5–8 | 0–8 | 0–9 |
 | Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Christen-Democratisch Appèl | NL | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.8% |  |
 | 161 | 0.2% | 99.7% |  |
-| 162 | 0.4% | 99.5% |  |
+| 162 | 0.4% | 99.4% |  |
 | 163 | 0.6% | 99.1% |  |
 | 164 | 0.9% | 98.5% |  |
 | 165 | 1.3% | 98% |  |
@@ -102,19 +102,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 6% | 79% |  |
 | 172 | 7% | 73% |  |
 | 173 | 8% | 66% |  |
-| 174 | 8% | 58% |  |
-| 175 | 8% | 50% | Median |
+| 174 | 8% | 58% | Median |
+| 175 | 8% | 50% |  |
 | 176 | 8% | 42% |  |
 | 177 | 7% | 34% |  |
-| 178 | 6% | 27% |  |
+| 178 | 6% | 26% |  |
 | 179 | 5% | 20% |  |
-| 180 | 4% | 15% |  |
+| 180 | 4% | 14% |  |
 | 181 | 3% | 10% |  |
 | 182 | 2% | 7% |  |
-| 183 | 2% | 5% |  |
+| 183 | 2% | 4% |  |
 | 184 | 1.1% | 3% |  |
 | 185 | 0.7% | 2% |  |
-| 186 | 0.4% | 1.0% |  |
+| 186 | 0.4% | 0.9% |  |
 | 187 | 0.2% | 0.5% |  |
 | 188 | 0.1% | 0.3% | Last Result |
 | 189 | 0.1% | 0.1% |  |
