@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> BE, BG, CY, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL
+> BE, BG, CY, DE, DK, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, SI
 
 ## Seats
 
@@ -44,6 +44,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 30% | 100% | Last Result |
 | 2 | 42% | 70% | Median |
 | 3 | 22% | 28% |  |
-| 4 | 6% | 7% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0.8% | 0.9% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
