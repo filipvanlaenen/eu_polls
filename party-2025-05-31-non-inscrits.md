@@ -18,17 +18,17 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 23 | 20–26 | 19–27 | 18–28 | 17–29 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| Non-Inscrits | EU | 32 | 23 | 20–26 | 19–27 | 18–27 | 17–29 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Konfederacja Korony Polskiej | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 1–3 | 1–3 |
+| Konfederacja Korony Polskiej | PL | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Partidul Oamenilor Tineri | RO | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -54,17 +54,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.6% | 99.9% |  |
 | 18 | 2% | 99.3% |  |
 | 19 | 5% | 97% |  |
-| 20 | 8% | 93% |  |
-| 21 | 11% | 84% |  |
-| 22 | 14% | 73% |  |
-| 23 | 15% | 59% | Median |
-| 24 | 15% | 44% |  |
-| 25 | 12% | 30% |  |
-| 26 | 9% | 17% |  |
-| 27 | 5% | 8% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.7% | 1.0% |  |
-| 30 | 0.2% | 0.2% |  |
+| 20 | 9% | 92% |  |
+| 21 | 12% | 83% |  |
+| 22 | 14% | 71% |  |
+| 23 | 15% | 57% | Median |
+| 24 | 15% | 41% |  |
+| 25 | 12% | 27% |  |
+| 26 | 8% | 15% |  |
+| 27 | 4% | 7% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.5% | 0.7% |  |
+| 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
 

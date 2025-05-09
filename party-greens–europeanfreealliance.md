@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (-20 seats)
+Current median: **34** seats (-19 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 33 | 30–38 | 30–39 | 29–40 | 28–43 |
+| Greens–European Free Alliance | EU | 53 | 34 | 30–38 | 30–39 | 29–41 | 28–43 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
-| GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -34,7 +34,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Česká pirátská strana | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Česká pirátská strana | CZ | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -67,25 +67,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
-| 27 | 0.3% | 99.9% |  |
-| 28 | 1.1% | 99.6% |  |
+| 27 | 0.4% | 99.9% |  |
+| 28 | 1.2% | 99.5% |  |
 | 29 | 3% | 98% |  |
 | 30 | 6% | 95% |  |
-| 31 | 11% | 89% |  |
-| 32 | 14% | 78% |  |
-| 33 | 15% | 64% | Median |
-| 34 | 14% | 49% |  |
-| 35 | 11% | 36% |  |
-| 36 | 8% | 25% |  |
-| 37 | 6% | 17% |  |
-| 38 | 4% | 11% |  |
-| 39 | 3% | 7% |  |
-| 40 | 2% | 4% |  |
-| 41 | 1.0% | 2% |  |
-| 42 | 0.6% | 1.2% |  |
-| 43 | 0.3% | 0.6% |  |
-| 44 | 0.2% | 0.3% |  |
-| 45 | 0.1% | 0.1% |  |
+| 31 | 10% | 89% |  |
+| 32 | 13% | 78% |  |
+| 33 | 14% | 65% |  |
+| 34 | 13% | 51% | Median |
+| 35 | 11% | 38% |  |
+| 36 | 8% | 27% |  |
+| 37 | 6% | 19% |  |
+| 38 | 5% | 13% |  |
+| 39 | 3% | 8% |  |
+| 40 | 2% | 5% |  |
+| 41 | 1.2% | 3% |  |
+| 42 | 0.7% | 1.4% |  |
+| 43 | 0.4% | 0.7% |  |
+| 44 | 0.2% | 0.4% |  |
+| 45 | 0.1% | 0.2% |  |
 | 46 | 0% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |

@@ -20,12 +20,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 58 | 53–62 | 52–63 | 51–65 | 49–67 |
 | La France insoumise | FR | | 12 | 9–13 | 9–14 | 8–15 | 8–15 |
-| Movimento 5 Stelle | IT | | 11 | 10–13 | 9–13 | 9–14 | 9–15 |
-| Die Linke | DE | | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
+| Movimento 5 Stelle | IT | | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
+| Die Linke | DE | | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–6 | 3–6 | 3–6 |
-| Podemos | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
+| Podemos | ES | | 3 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -34,7 +33,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Stačilo! | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Socialistische Partij | NL | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -44,7 +44,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0 | 0 | 0 | 0–1 |
-| Lewica Razem | PL | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -65,25 +65,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.4% | 99.7% |  |
-| 50 | 0.9% | 99.3% |  |
+| 49 | 0.5% | 99.7% |  |
+| 50 | 1.0% | 99.2% |  |
 | 51 | 2% | 98% |  |
-| 52 | 3% | 97% |  |
-| 53 | 5% | 94% |  |
-| 54 | 7% | 89% |  |
+| 52 | 3% | 96% |  |
+| 53 | 5% | 93% |  |
+| 54 | 7% | 88% |  |
 | 55 | 9% | 82% |  |
 | 56 | 11% | 73% |  |
-| 57 | 12% | 62% |  |
-| 58 | 12% | 51% | Median |
-| 59 | 11% | 39% |  |
+| 57 | 11% | 62% |  |
+| 58 | 11% | 50% | Median |
+| 59 | 10% | 39% |  |
 | 60 | 9% | 29% |  |
 | 61 | 7% | 20% |  |
 | 62 | 5% | 13% |  |
 | 63 | 3% | 8% |  |
 | 64 | 2% | 5% |  |
-| 65 | 1.2% | 3% |  |
-| 66 | 0.7% | 1.3% |  |
-| 67 | 0.3% | 0.6% |  |
+| 65 | 1.3% | 3% |  |
+| 66 | 0.7% | 1.4% |  |
+| 67 | 0.4% | 0.7% |  |
 | 68 | 0.2% | 0.3% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0.1% |  |
