@@ -24,14 +24,14 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
 | Partidul Social Democrat | RO | | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| Partido Socialista | PT | | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| Partido Socialista | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Parti socialiste–Place Publique | FR | | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
 | Partij van de Arbeid | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nowa Lewica | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Nowa Lewica | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -63,9 +63,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 112 | 0% | 100% |  |
 | 113 | 0.1% | 99.9% |  |
-| 114 | 0.1% | 99.9% |  |
+| 114 | 0.1% | 99.8% |  |
 | 115 | 0.3% | 99.7% |  |
-| 116 | 0.4% | 99.5% |  |
+| 116 | 0.4% | 99.4% |  |
 | 117 | 0.7% | 99.0% |  |
 | 118 | 1.0% | 98% |  |
 | 119 | 2% | 97% |  |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 136 | 1.4% | 3% | Last Result |
 | 137 | 0.8% | 2% |  |
 | 138 | 0.5% | 0.9% |  |
-| 139 | 0.2% | 0.4% |  |
+| 139 | 0.3% | 0.5% |  |
 | 140 | 0.1% | 0.2% |  |
 | 141 | 0.1% | 0.1% |  |
 | 142 | 0% | 0% |  |
