@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CY, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, SI
+> BE, BG, CY, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL
 
 ## Seats
 
@@ -22,7 +22,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Centrum dla Polski [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +43,6 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Zeleni Slovenije [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,12 +58,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 30% | 100% | Last Result |
-| 2 | 42% | 70% | Median |
-| 3 | 22% | 28% |  |
-| 4 | 6% | 7% |  |
-| 5 | 0.8% | 0.9% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 34% | 100% | Last Result |
+| 2 | 42% | 66% | Median |
+| 3 | 19% | 24% |  |
+| 4 | 4% | 5% |  |
+| 5 | 0.6% | 0.6% |  |
+| 6 | 0% | 0% |  |
 
 

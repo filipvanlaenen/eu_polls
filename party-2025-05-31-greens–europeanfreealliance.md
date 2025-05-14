@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (-19 seats)
+Current median: **33** seats (-20 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 34 | 30–38 | 29–39 | 29–40 | 28–43 |
+| Greens–European Free Alliance | EU | 53 | 33 | 30–38 | 29–39 | 29–40 | 28–43 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -37,7 +37,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -52,7 +52,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0–1 |
@@ -72,21 +72,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 3% | 98% |  |
 | 30 | 7% | 95% |  |
 | 31 | 11% | 88% |  |
-| 32 | 13% | 78% |  |
-| 33 | 14% | 64% |  |
-| 34 | 13% | 50% | Median |
-| 35 | 10% | 37% |  |
-| 36 | 8% | 27% |  |
-| 37 | 6% | 19% |  |
-| 38 | 5% | 12% |  |
-| 39 | 3% | 8% |  |
+| 32 | 14% | 77% |  |
+| 33 | 15% | 63% | Median |
+| 34 | 13% | 49% |  |
+| 35 | 10% | 36% |  |
+| 36 | 8% | 25% |  |
+| 37 | 6% | 18% |  |
+| 38 | 4% | 12% |  |
+| 39 | 3% | 7% |  |
 | 40 | 2% | 4% |  |
-| 41 | 1.1% | 2% |  |
-| 42 | 0.6% | 1.3% |  |
-| 43 | 0.4% | 0.7% |  |
+| 41 | 1.0% | 2% |  |
+| 42 | 0.6% | 1.2% |  |
+| 43 | 0.3% | 0.6% |  |
 | 44 | 0.2% | 0.3% |  |
-| 45 | 0.1% | 0.2% |  |
-| 46 | 0% | 0.1% |  |
+| 45 | 0.1% | 0.1% |  |
+| 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |

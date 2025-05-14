@@ -18,27 +18,27 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 80 | 75–85 | 74–86 | 73–88 | 71–90 |
+| Renew Europe | EU | 77 | 80 | 76–86 | 75–87 | 74–88 | 72–91 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 21 | 19–25 | 18–25 | 18–26 | 17–27 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Polska 2050 | PL | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| Gibanje Svoboda | SI | | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи – Ново начало | BG | | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -80,31 +80,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.5% | 99.7% |  |
-| 72 | 1.0% | 99.2% |  |
-| 73 | 2% | 98% |  |
-| 74 | 3% | 96% |  |
-| 75 | 5% | 93% |  |
-| 76 | 7% | 88% |  |
-| 77 | 9% | 81% | Last Result |
-| 78 | 10% | 72% |  |
-| 79 | 11% | 62% |  |
-| 80 | 10% | 51% | Median |
-| 81 | 10% | 41% |  |
-| 82 | 8% | 31% |  |
-| 83 | 7% | 23% |  |
-| 84 | 5% | 16% |  |
-| 85 | 4% | 11% |  |
-| 86 | 3% | 7% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.1% | 3% |  |
-| 89 | 0.7% | 1.5% |  |
-| 90 | 0.4% | 0.8% |  |
-| 91 | 0.2% | 0.4% |  |
-| 92 | 0.1% | 0.2% |  |
-| 93 | 0.1% | 0.1% |  |
-| 94 | 0% | 0% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.6% | 99.6% |  |
+| 73 | 1.2% | 99.1% |  |
+| 74 | 2% | 98% |  |
+| 75 | 4% | 96% |  |
+| 76 | 5% | 92% |  |
+| 77 | 7% | 87% | Last Result |
+| 78 | 9% | 79% |  |
+| 79 | 10% | 70% |  |
+| 80 | 11% | 60% | Median |
+| 81 | 10% | 50% |  |
+| 82 | 9% | 39% |  |
+| 83 | 8% | 30% |  |
+| 84 | 7% | 22% |  |
+| 85 | 5% | 15% |  |
+| 86 | 4% | 10% |  |
+| 87 | 3% | 7% |  |
+| 88 | 2% | 4% |  |
+| 89 | 1.1% | 2% |  |
+| 90 | 0.6% | 1.4% |  |
+| 91 | 0.4% | 0.7% |  |
+| 92 | 0.2% | 0.4% |  |
+| 93 | 0.1% | 0.2% |  |
+| 94 | 0% | 0.1% |  |
+| 95 | 0% | 0% |  |
 
 
