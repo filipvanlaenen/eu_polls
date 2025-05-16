@@ -1,14 +1,14 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **12 countries**:
 
-> DE, DK, ES, FI, GR, HR, HU, LT, LV, PL, RO, SI, SK
+> DE, DK, ES, FI, GR, HR, HU, LV, PL, RO, SI, SK
 
 ## Seats
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **23** seats (-9 seats)
+Current median: **22** seats (-10 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 23 | 19–26 | 18–27 | 18–27 | 17–29 |
+| Non-Inscrits | EU | 32 | 22 | 19–26 | 18–27 | 18–27 | 16–28 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -31,7 +31,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
-| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -50,20 +49,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.4% | 99.9% |  |
-| 17 | 1.3% | 99.5% |  |
-| 18 | 3% | 98% |  |
-| 19 | 6% | 95% |  |
-| 20 | 10% | 89% |  |
-| 21 | 12% | 79% |  |
-| 22 | 14% | 67% |  |
-| 23 | 15% | 53% | Median |
-| 24 | 14% | 38% |  |
-| 25 | 11% | 24% |  |
-| 26 | 7% | 13% |  |
-| 27 | 4% | 6% |  |
-| 28 | 2% | 2% |  |
-| 29 | 0.5% | 0.7% |  |
+| 16 | 0.6% | 99.8% |  |
+| 17 | 2% | 99.3% |  |
+| 18 | 4% | 98% |  |
+| 19 | 7% | 94% |  |
+| 20 | 10% | 87% |  |
+| 21 | 13% | 76% |  |
+| 22 | 14% | 63% | Median |
+| 23 | 15% | 49% |  |
+| 24 | 13% | 34% |  |
+| 25 | 10% | 21% |  |
+| 26 | 6% | 11% |  |
+| 27 | 3% | 5% |  |
+| 28 | 1.3% | 2% |  |
+| 29 | 0.4% | 0.5% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |

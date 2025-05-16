@@ -24,11 +24,11 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | Vox | ES | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| Partij voor de Vrijheid | NL | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| Partij voor de Vrijheid | NL | | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | Chega | PT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Latvija pirmajā vietā | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
@@ -63,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 8% | 87% |  |
 | 97 | 10% | 79% |  |
 | 98 | 11% | 69% |  |
-| 99 | 12% | 58% | Median |
+| 99 | 12% | 57% | Median |
 | 100 | 11% | 46% |  |
 | 101 | 10% | 35% |  |
 | 102 | 8% | 25% |  |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 106 | 2% | 3% |  |
 | 107 | 0.9% | 2% |  |
 | 108 | 0.5% | 0.8% |  |
-| 109 | 0.2% | 0.3% |  |
+| 109 | 0.2% | 0.4% |  |
 | 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0.1% |  |
 | 112 | 0% | 0% |  |
