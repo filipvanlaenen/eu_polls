@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LU, NL, PL, PT, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LU, NL, PL, SE, SI
 
 ## Seats
 
@@ -37,8 +37,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -65,26 +63,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.4% | 99.7% |  |
-| 50 | 0.9% | 99.3% |  |
+| 49 | 0.5% | 99.7% |  |
+| 50 | 1.1% | 99.2% |  |
 | 51 | 2% | 98% |  |
-| 52 | 3% | 97% |  |
+| 52 | 3% | 96% |  |
 | 53 | 5% | 93% |  |
-| 54 | 7% | 88% |  |
-| 55 | 9% | 81% |  |
-| 56 | 11% | 72% |  |
-| 57 | 12% | 61% | Median |
-| 58 | 12% | 50% |  |
-| 59 | 11% | 38% |  |
-| 60 | 9% | 28% |  |
-| 61 | 7% | 19% |  |
-| 62 | 5% | 12% |  |
-| 63 | 3% | 7% |  |
-| 64 | 2% | 4% |  |
-| 65 | 1.1% | 2% |  |
-| 66 | 0.6% | 1.0% |  |
-| 67 | 0.3% | 0.5% |  |
-| 68 | 0.1% | 0.2% |  |
+| 54 | 8% | 87% |  |
+| 55 | 10% | 80% |  |
+| 56 | 11% | 70% |  |
+| 57 | 12% | 59% | Median |
+| 58 | 12% | 47% |  |
+| 59 | 10% | 35% |  |
+| 60 | 8% | 25% |  |
+| 61 | 6% | 17% |  |
+| 62 | 4% | 10% |  |
+| 63 | 3% | 6% |  |
+| 64 | 2% | 3% |  |
+| 65 | 0.9% | 2% |  |
+| 66 | 0.4% | 0.8% |  |
+| 67 | 0.2% | 0.4% |  |
+| 68 | 0.1% | 0.1% |  |
 | 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |
 
