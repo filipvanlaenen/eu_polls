@@ -1,24 +1,24 @@
 # Greens–European Free Alliance
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, RO, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI
 
 ## Seats
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (-20 seats)
+Current median: **34** seats (-19 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL, SE
+> AT, BE, CZ, DE, DK, ES, FI, HR, LT, LU, LV, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 33 | 30–38 | 29–39 | 29–40 | 28–43 |
+| Greens–European Free Alliance | EU | 53 | 34 | 31–39 | 30–40 | 30–41 | 29–44 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -27,6 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| LIVRE | PT | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -45,6 +46,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,27 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.4% | 99.9% |  |
-| 28 | 1.4% | 99.5% |  |
-| 29 | 4% | 98% |  |
-| 30 | 7% | 94% |  |
-| 31 | 11% | 87% |  |
-| 32 | 14% | 76% |  |
-| 33 | 14% | 62% | Median |
-| 34 | 12% | 48% |  |
-| 35 | 10% | 35% |  |
-| 36 | 8% | 25% |  |
-| 37 | 6% | 18% |  |
-| 38 | 4% | 12% |  |
-| 39 | 3% | 7% |  |
-| 40 | 2% | 4% |  |
-| 41 | 1.0% | 2% |  |
-| 42 | 0.6% | 1.3% |  |
-| 43 | 0.4% | 0.7% |  |
-| 44 | 0.2% | 0.3% |  |
-| 45 | 0.1% | 0.1% |  |
-| 46 | 0% | 0% |  |
+| 27 | 0.1% | 100% |  |
+| 28 | 0.4% | 99.9% |  |
+| 29 | 1.4% | 99.5% |  |
+| 30 | 4% | 98% |  |
+| 31 | 7% | 94% |  |
+| 32 | 11% | 87% |  |
+| 33 | 14% | 76% |  |
+| 34 | 14% | 61% | Median |
+| 35 | 12% | 47% |  |
+| 36 | 10% | 35% |  |
+| 37 | 8% | 25% |  |
+| 38 | 6% | 17% |  |
+| 39 | 4% | 11% |  |
+| 40 | 3% | 7% |  |
+| 41 | 2% | 4% |  |
+| 42 | 1.0% | 2% |  |
+| 43 | 0.6% | 1.3% |  |
+| 44 | 0.3% | 0.7% |  |
+| 45 | 0.2% | 0.3% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |

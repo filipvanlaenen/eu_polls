@@ -1,24 +1,24 @@
 # Patriots for Europe
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> AT, BE, CZ, DK, EE, ES, FR, GR, HU, IT, LV, NL, PL, SI, SK
+> AT, BE, CZ, DK, EE, ES, FR, GR, HU, IT, LV, NL, PL, PT, SI, SK
 
 ## Seats
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **90** seats (+6 seats)
+Current median: **95** seats (+11 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, EE, ES, FR, HU, IT, LV, NL, PL
+> AT, BE, CZ, EE, ES, FR, HU, IT, LV, NL, PL, PT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 90 | 86–94 | 85–96 | 84–97 | 82–99 |
+| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–101 | 89–102 | 87–104 |
 | Rassemblement national | FR | | 30 | 28–33 | 27–34 | 26–34 | 24–36 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
@@ -26,6 +26,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | Partij voor de Vrijheid | NL | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
+| Chega | PT | | 5 | 5 | 5 | 5 | 5 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Latvija pirmajā vietā | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -36,7 +37,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Φωνή Λογικής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -47,28 +48,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 80 | 0.1% | 100% |  |
-| 81 | 0.1% | 99.9% |  |
-| 82 | 0.4% | 99.8% |  |
-| 83 | 0.8% | 99.4% |  |
-| 84 | 2% | 98.6% | Last Result |
-| 85 | 3% | 97% |  |
-| 86 | 5% | 94% |  |
-| 87 | 7% | 89% |  |
-| 88 | 10% | 82% |  |
-| 89 | 12% | 73% |  |
-| 90 | 13% | 61% | Median |
-| 91 | 12% | 48% |  |
-| 92 | 11% | 36% |  |
-| 93 | 9% | 25% |  |
-| 94 | 6% | 16% |  |
-| 95 | 4% | 10% |  |
-| 96 | 3% | 5% |  |
-| 97 | 1.5% | 3% |  |
-| 98 | 0.8% | 1.4% |  |
-| 99 | 0.4% | 0.7% |  |
-| 100 | 0.2% | 0.3% |  |
-| 101 | 0.1% | 0.1% |  |
-| 102 | 0% | 0% |  |
+| 84 | 0% | 100% | Last Result |
+| 85 | 0.1% | 100% |  |
+| 86 | 0.2% | 99.9% |  |
+| 87 | 0.4% | 99.8% |  |
+| 88 | 0.8% | 99.4% |  |
+| 89 | 2% | 98.6% |  |
+| 90 | 3% | 97% |  |
+| 91 | 5% | 94% |  |
+| 92 | 7% | 89% |  |
+| 93 | 10% | 82% |  |
+| 94 | 12% | 72% |  |
+| 95 | 13% | 60% | Median |
+| 96 | 12% | 48% |  |
+| 97 | 11% | 35% |  |
+| 98 | 9% | 25% |  |
+| 99 | 6% | 16% |  |
+| 100 | 4% | 10% |  |
+| 101 | 3% | 5% |  |
+| 102 | 1.4% | 3% |  |
+| 103 | 0.8% | 1.4% |  |
+| 104 | 0.4% | 0.6% |  |
+| 105 | 0.2% | 0.3% |  |
+| 106 | 0.1% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 

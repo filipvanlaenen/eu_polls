@@ -1,8 +1,8 @@
 # European United Left–Nordic Green Left
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LU, NL, PL, SE, SI
+> AT, BE, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LU, NL, PL, PT, SE, SI
 
 ## Seats
 
@@ -21,7 +21,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 46 | 57 | 53–62 | 52–63 | 51–64 | 49–66 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
-| Die Linke | DE | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
+| Die Linke | DE | | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Podemos | ES | | 3 | 2–4 | 2–4 | 1–4 | 1–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -37,6 +37,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
+| Coligação Democrática Unitária | PT | | 0 | 0 | 0 | 0 | 0 |
 | Eestimaa Ühendatud Vasakpartei | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,13 +68,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.5% | 99.7% |  |
 | 50 | 1.1% | 99.2% |  |
 | 51 | 2% | 98% |  |
-| 52 | 3% | 96% |  |
+| 52 | 4% | 96% |  |
 | 53 | 5% | 93% |  |
 | 54 | 8% | 87% |  |
-| 55 | 10% | 80% |  |
+| 55 | 10% | 79% |  |
 | 56 | 11% | 70% |  |
 | 57 | 12% | 59% | Median |
-| 58 | 12% | 47% |  |
+| 58 | 11% | 47% |  |
 | 59 | 10% | 35% |  |
 | 60 | 8% | 25% |  |
 | 61 | 6% | 17% |  |
@@ -80,9 +82,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 3% | 6% |  |
 | 64 | 2% | 3% |  |
 | 65 | 0.9% | 2% |  |
-| 66 | 0.4% | 0.8% |  |
+| 66 | 0.5% | 0.8% |  |
 | 67 | 0.2% | 0.4% |  |
-| 68 | 0.1% | 0.1% |  |
+| 68 | 0.1% | 0.2% |  |
 | 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |
 

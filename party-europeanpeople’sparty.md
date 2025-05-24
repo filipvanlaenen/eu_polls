@@ -1,29 +1,30 @@
 # European People’s Party
 
-Members registered from **26 countries**:
+Members registered from **27 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **172** seats (-16 seats)
+Current median: **180** seats (-8 seats)
 
-At least one member in **26 countries** have a median of 1 seat or more:
+At least one member in **27 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, RO, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 172 | 165–179 | 163–181 | 162–183 | 159–186 |
+| European People’s Party | EU | 188 | 180 | 173–187 | 171–189 | 170–191 | 167–194 |
 | Partido Popular | ES | | 24 | 21–26 | 20–26 | 20–27 | 20–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–22 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–23 | 16–23 |
 | Platforma Obywatelska | PL | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
+| Aliança Democrática | PT | | 8 | 8 | 8 | 8 | 8 |
 | Forza Italia | IT | | 7 | 5–9 | 5–9 | 5–10 | 5–11 |
 | Νέα Δημοκρατία | GR | | 7 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -83,41 +84,41 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 156 | 0.1% | 100% |  |
-| 157 | 0.1% | 99.9% |  |
-| 158 | 0.2% | 99.8% |  |
-| 159 | 0.4% | 99.6% |  |
-| 160 | 0.6% | 99.2% |  |
-| 161 | 1.0% | 98.6% |  |
-| 162 | 1.5% | 98% |  |
-| 163 | 2% | 96% |  |
-| 164 | 3% | 94% |  |
-| 165 | 4% | 91% |  |
-| 166 | 4% | 88% |  |
-| 167 | 5% | 83% |  |
-| 168 | 6% | 78% |  |
-| 169 | 6% | 72% |  |
-| 170 | 7% | 65% |  |
-| 171 | 7% | 59% |  |
-| 172 | 7% | 52% | Median |
-| 173 | 7% | 45% |  |
-| 174 | 6% | 38% |  |
-| 175 | 6% | 32% |  |
-| 176 | 5% | 26% |  |
-| 177 | 5% | 21% |  |
-| 178 | 4% | 17% |  |
-| 179 | 3% | 13% |  |
-| 180 | 3% | 9% |  |
-| 181 | 2% | 7% |  |
-| 182 | 2% | 5% |  |
-| 183 | 1.1% | 3% |  |
-| 184 | 0.7% | 2% |  |
-| 185 | 0.5% | 1.2% |  |
-| 186 | 0.3% | 0.7% |  |
-| 187 | 0.2% | 0.4% |  |
-| 188 | 0.1% | 0.2% | Last Result |
-| 189 | 0.1% | 0.1% |  |
-| 190 | 0% | 0.1% |  |
-| 191 | 0% | 0% |  |
+| 164 | 0.1% | 100% |  |
+| 165 | 0.1% | 99.9% |  |
+| 166 | 0.2% | 99.8% |  |
+| 167 | 0.3% | 99.6% |  |
+| 168 | 0.6% | 99.3% |  |
+| 169 | 0.9% | 98.7% |  |
+| 170 | 1.4% | 98% |  |
+| 171 | 2% | 96% |  |
+| 172 | 3% | 94% |  |
+| 173 | 3% | 92% |  |
+| 174 | 4% | 88% |  |
+| 175 | 5% | 84% |  |
+| 176 | 6% | 79% |  |
+| 177 | 6% | 73% |  |
+| 178 | 7% | 67% |  |
+| 179 | 7% | 60% |  |
+| 180 | 7% | 53% | Median |
+| 181 | 7% | 46% |  |
+| 182 | 6% | 40% |  |
+| 183 | 6% | 33% |  |
+| 184 | 5% | 28% |  |
+| 185 | 5% | 22% |  |
+| 186 | 4% | 18% |  |
+| 187 | 3% | 13% |  |
+| 188 | 3% | 10% | Last Result |
+| 189 | 2% | 7% |  |
+| 190 | 2% | 5% |  |
+| 191 | 1.2% | 3% |  |
+| 192 | 0.8% | 2% |  |
+| 193 | 0.5% | 1.3% |  |
+| 194 | 0.3% | 0.8% |  |
+| 195 | 0.2% | 0.4% |  |
+| 196 | 0.1% | 0.2% |  |
+| 197 | 0.1% | 0.1% |  |
+| 198 | 0% | 0.1% |  |
+| 199 | 0% | 0% |  |
 
 
