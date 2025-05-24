@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **175** seats (-13 seats)
+Current median: **179** seats (-9 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,60 +18,60 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 175 | 169–180 | 167–182 | 165–183 | 162–186 |
-| Partido Popular | ES | | 23 | 21–25 | 20–25 | 20–26 | 20–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 19–22 | 18–23 | 18–23 | 17–23 |
-| Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
+| European People’s Party | EU | 188 | 179 | 172–187 | 170–189 | 169–191 | 166–194 |
+| Partido Popular | ES | | 24 | 21–26 | 20–26 | 20–27 | 20–27 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–22 | 17–23 | 16–23 |
+| Platforma Obywatelska | PL | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
+| Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| Forza Italia | IT | | 8 | 6–9 | 5–9 | 5–10 | 5–11 |
-| Les Républicains | FR | | 6 | 5–8 | 5–8 | 0–8 | 0–9 |
-| Νέα Δημοκρατία | GR | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| Forza Italia | IT | | 7 | 5–9 | 5–9 | 5–10 | 5–11 |
+| Νέα Δημοκρατία | GR | | 7 | 5–7 | 5–8 | 5–8 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Partidul Național Liberal | RO | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Christen-Democratisch Appèl | NL | | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| Christen-Democratisch Appèl | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
+| Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Starostové a nezávislí | CZ | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Polskie Stronnictwo Ludowe | PL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Liberal Alliance | DK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Starostové a nezávislí | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Christen-Democratisch en Vlaams | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovensko | SK | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| TOP 09 | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| TOP 09 | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,37 +84,41 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
-| 160 | 0.1% | 99.9% |  |
-| 161 | 0.1% | 99.8% |  |
-| 162 | 0.2% | 99.7% |  |
-| 163 | 0.4% | 99.5% |  |
-| 164 | 0.6% | 99.1% |  |
-| 165 | 1.0% | 98% |  |
-| 166 | 1.5% | 97% |  |
-| 167 | 2% | 96% |  |
-| 168 | 3% | 94% |  |
-| 169 | 4% | 91% |  |
-| 170 | 5% | 87% |  |
-| 171 | 6% | 81% |  |
-| 172 | 8% | 75% |  |
-| 173 | 8% | 68% |  |
-| 174 | 9% | 59% |  |
-| 175 | 9% | 50% | Median |
-| 176 | 8% | 41% |  |
-| 177 | 8% | 33% |  |
-| 178 | 7% | 25% |  |
-| 179 | 5% | 19% |  |
-| 180 | 4% | 13% |  |
-| 181 | 3% | 9% |  |
-| 182 | 2% | 6% |  |
-| 183 | 1.5% | 4% |  |
-| 184 | 0.9% | 2% |  |
-| 185 | 0.5% | 1.2% |  |
-| 186 | 0.3% | 0.6% |  |
-| 187 | 0.2% | 0.3% |  |
-| 188 | 0.1% | 0.2% | Last Result |
-| 189 | 0% | 0.1% |  |
-| 190 | 0% | 0% |  |
+| 163 | 0% | 100% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.2% | 99.8% |  |
+| 166 | 0.3% | 99.6% |  |
+| 167 | 0.5% | 99.3% |  |
+| 168 | 0.8% | 98.8% |  |
+| 169 | 1.3% | 98% |  |
+| 170 | 2% | 97% |  |
+| 171 | 2% | 95% |  |
+| 172 | 3% | 92% |  |
+| 173 | 4% | 89% |  |
+| 174 | 5% | 85% |  |
+| 175 | 6% | 80% |  |
+| 176 | 6% | 75% |  |
+| 177 | 7% | 69% |  |
+| 178 | 7% | 62% |  |
+| 179 | 7% | 55% | Median |
+| 180 | 7% | 49% |  |
+| 181 | 6% | 42% |  |
+| 182 | 6% | 36% |  |
+| 183 | 5% | 30% |  |
+| 184 | 5% | 24% |  |
+| 185 | 4% | 19% |  |
+| 186 | 4% | 15% |  |
+| 187 | 3% | 11% |  |
+| 188 | 2% | 8% | Last Result |
+| 189 | 2% | 6% |  |
+| 190 | 1.4% | 4% |  |
+| 191 | 1.0% | 3% |  |
+| 192 | 0.6% | 2% |  |
+| 193 | 0.4% | 1.0% |  |
+| 194 | 0.3% | 0.6% |  |
+| 195 | 0.2% | 0.3% |  |
+| 196 | 0.1% | 0.2% |  |
+| 197 | 0% | 0.1% |  |
+| 198 | 0% | 0% |  |
 
 

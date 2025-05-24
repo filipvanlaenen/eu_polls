@@ -8,37 +8,37 @@ Members registered from **16 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **99** seats (+15 seats)
+Current median: **94** seats (+10 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DK, EE, ES, FR, GR, HU, IT, LV, NL, PL, PT
+> AT, BE, CZ, EE, ES, FR, HU, IT, LV, NL, PL, PT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 99 | 95–104 | 94–105 | 93–106 | 91–108 |
-| Rassemblement national | FR | | 33 | 31–37 | 30–37 | 30–38 | 29–40 |
-| ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
-| Vox | ES | | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
-| Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| Partij voor de Vrijheid | NL | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| Patriots for Europe | EU | 84 | 94 | 90–99 | 89–100 | 88–101 | 86–103 |
+| Rassemblement national | FR | | 30 | 28–33 | 27–34 | 26–34 | 24–36 |
+| ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 8–12 |
+| Vox | ES | | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
+| Lega Nord | IT | | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| Partij voor de Vrijheid | NL | | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | Chega | PT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
+| Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Latvija pirmajā vietā | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Dansk Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Motoristé sobě | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
+| Dansk Folkeparti | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Φωνή Λογικής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -48,34 +48,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0% | 100% | Last Result |
-| 85 | 0% | 100% |  |
-| 86 | 0% | 100% |  |
-| 87 | 0% | 100% |  |
-| 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
-| 90 | 0.2% | 99.9% |  |
-| 91 | 0.5% | 99.7% |  |
-| 92 | 1.1% | 99.2% |  |
-| 93 | 2% | 98% |  |
-| 94 | 4% | 96% |  |
-| 95 | 6% | 92% |  |
-| 96 | 8% | 87% |  |
-| 97 | 10% | 79% |  |
-| 98 | 11% | 69% |  |
-| 99 | 12% | 57% | Median |
-| 100 | 11% | 46% |  |
-| 101 | 10% | 35% |  |
-| 102 | 8% | 25% |  |
-| 103 | 6% | 17% |  |
-| 104 | 4% | 11% |  |
-| 105 | 3% | 6% |  |
-| 106 | 2% | 3% |  |
-| 107 | 0.9% | 2% |  |
-| 108 | 0.5% | 0.8% |  |
-| 109 | 0.2% | 0.4% |  |
-| 110 | 0.1% | 0.1% |  |
-| 111 | 0% | 0.1% |  |
-| 112 | 0% | 0% |  |
+| 84 | 0.1% | 100% | Last Result |
+| 85 | 0.2% | 99.9% |  |
+| 86 | 0.4% | 99.7% |  |
+| 87 | 0.8% | 99.3% |  |
+| 88 | 2% | 98% |  |
+| 89 | 3% | 97% |  |
+| 90 | 5% | 94% |  |
+| 91 | 7% | 89% |  |
+| 92 | 10% | 82% |  |
+| 93 | 11% | 72% |  |
+| 94 | 12% | 61% | Median |
+| 95 | 12% | 48% |  |
+| 96 | 11% | 36% |  |
+| 97 | 9% | 25% |  |
+| 98 | 6% | 17% |  |
+| 99 | 4% | 10% |  |
+| 100 | 3% | 6% |  |
+| 101 | 2% | 3% |  |
+| 102 | 0.8% | 2% |  |
+| 103 | 0.4% | 0.7% |  |
+| 104 | 0.2% | 0.3% |  |
+| 105 | 0.1% | 0.1% |  |
+| 106 | 0% | 0.1% |  |
+| 107 | 0% | 0% |  |
 
 
