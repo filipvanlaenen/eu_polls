@@ -71,7 +71,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -89,7 +89,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 0.2% | 99.8% |  |
 | 167 | 0.4% | 99.6% |  |
 | 168 | 0.6% | 99.2% |  |
-| 169 | 1.0% | 98.6% |  |
+| 169 | 1.0% | 98.5% |  |
 | 170 | 1.5% | 98% |  |
 | 171 | 2% | 96% |  |
 | 172 | 3% | 94% |  |
@@ -98,13 +98,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 175 | 5% | 83% |  |
 | 176 | 6% | 78% |  |
 | 177 | 6% | 72% |  |
-| 178 | 7% | 66% |  |
+| 178 | 7% | 65% |  |
 | 179 | 7% | 59% |  |
 | 180 | 7% | 52% | Median |
 | 181 | 7% | 45% |  |
-| 182 | 6% | 39% |  |
-| 183 | 6% | 33% |  |
-| 184 | 5% | 27% |  |
+| 182 | 6% | 38% |  |
+| 183 | 6% | 32% |  |
+| 184 | 5% | 26% |  |
 | 185 | 5% | 21% |  |
 | 186 | 4% | 17% |  |
 | 187 | 3% | 13% |  |
@@ -112,13 +112,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 189 | 2% | 7% |  |
 | 190 | 2% | 5% |  |
 | 191 | 1.1% | 3% |  |
-| 192 | 0.8% | 2% |  |
+| 192 | 0.7% | 2% |  |
 | 193 | 0.5% | 1.2% |  |
 | 194 | 0.3% | 0.7% |  |
 | 195 | 0.2% | 0.4% |  |
 | 196 | 0.1% | 0.2% |  |
 | 197 | 0.1% | 0.1% |  |
-| 198 | 0% | 0.1% |  |
-| 199 | 0% | 0% |  |
+| 198 | 0% | 0% |  |
 
 
