@@ -43,7 +43,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
-| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +53,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Volt Europa | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Volt Europa | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0–1 |
@@ -67,23 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.4% | 99.9% |  |
+| 28 | 0.3% | 99.9% |  |
 | 29 | 1.3% | 99.6% |  |
 | 30 | 4% | 98% |  |
-| 31 | 7% | 95% |  |
-| 32 | 11% | 87% |  |
-| 33 | 14% | 76% |  |
-| 34 | 14% | 62% | Median |
-| 35 | 12% | 48% |  |
-| 36 | 10% | 36% |  |
-| 37 | 8% | 26% |  |
-| 38 | 6% | 18% |  |
-| 39 | 4% | 12% |  |
-| 40 | 3% | 7% |  |
+| 31 | 8% | 95% |  |
+| 32 | 12% | 87% |  |
+| 33 | 15% | 75% |  |
+| 34 | 15% | 60% | Median |
+| 35 | 12% | 46% |  |
+| 36 | 10% | 33% |  |
+| 37 | 7% | 24% |  |
+| 38 | 6% | 16% |  |
+| 39 | 4% | 11% |  |
+| 40 | 3% | 6% |  |
 | 41 | 2% | 4% |  |
-| 42 | 1.1% | 2% |  |
-| 43 | 0.6% | 1.3% |  |
-| 44 | 0.4% | 0.7% |  |
+| 42 | 0.9% | 2% |  |
+| 43 | 0.5% | 1.1% |  |
+| 44 | 0.3% | 0.6% |  |
 | 45 | 0.2% | 0.3% |  |
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |

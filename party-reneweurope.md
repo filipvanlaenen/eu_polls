@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (+2 seats)
+Current median: **80** seats (+3 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,19 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 75–84 | 73–86 | 72–87 | 70–89 |
+| Renew Europe | EU | 77 | 80 | 75–84 | 74–86 | 72–87 | 70–89 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| Democraten 66 | NL | | 3 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Democraten 66 | NL | | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Polska 2050 | PL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -38,11 +39,10 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -80,31 +80,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.8% |  |
-| 70 | 0.5% | 99.5% |  |
-| 71 | 1.0% | 99.0% |  |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 4% | 94% |  |
-| 75 | 5% | 90% |  |
-| 76 | 7% | 85% |  |
-| 77 | 9% | 78% | Last Result |
-| 78 | 10% | 69% |  |
-| 79 | 11% | 59% | Median |
-| 80 | 11% | 48% |  |
-| 81 | 10% | 38% |  |
-| 82 | 8% | 28% |  |
-| 83 | 7% | 20% |  |
-| 84 | 5% | 13% |  |
-| 85 | 3% | 8% |  |
-| 86 | 2% | 5% |  |
-| 87 | 1.3% | 3% |  |
-| 88 | 0.8% | 2% |  |
-| 89 | 0.4% | 0.7% |  |
-| 90 | 0.2% | 0.3% |  |
-| 91 | 0.1% | 0.1% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.2% | 99.9% |  |
+| 70 | 0.4% | 99.7% |  |
+| 71 | 0.7% | 99.4% |  |
+| 72 | 1.2% | 98.7% |  |
+| 73 | 2% | 97% |  |
+| 74 | 3% | 95% |  |
+| 75 | 5% | 92% |  |
+| 76 | 6% | 88% |  |
+| 77 | 8% | 81% | Last Result |
+| 78 | 10% | 73% |  |
+| 79 | 11% | 63% |  |
+| 80 | 11% | 53% | Median |
+| 81 | 10% | 42% |  |
+| 82 | 9% | 32% |  |
+| 83 | 7% | 23% |  |
+| 84 | 5% | 15% |  |
+| 85 | 4% | 10% |  |
+| 86 | 3% | 6% |  |
+| 87 | 2% | 3% |  |
+| 88 | 0.9% | 2% |  |
+| 89 | 0.5% | 0.9% |  |
+| 90 | 0.2% | 0.4% |  |
+| 91 | 0.1% | 0.2% |  |
 | 92 | 0% | 0.1% |  |
 | 93 | 0% | 0% |  |
 
