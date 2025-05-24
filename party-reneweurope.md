@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 74–84 | 73–85 | 72–87 | 70–89 |
+| Renew Europe | EU | 77 | 79 | 75–84 | 73–86 | 72–87 | 70–89 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -42,7 +42,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -90,18 +90,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 4% | 94% |  |
 | 75 | 5% | 90% |  |
 | 76 | 7% | 85% |  |
-| 77 | 9% | 77% | Last Result |
+| 77 | 9% | 78% | Last Result |
 | 78 | 10% | 69% |  |
 | 79 | 11% | 59% | Median |
 | 80 | 11% | 48% |  |
 | 81 | 10% | 38% |  |
 | 82 | 8% | 28% |  |
-| 83 | 6% | 20% |  |
+| 83 | 7% | 20% |  |
 | 84 | 5% | 13% |  |
 | 85 | 3% | 8% |  |
 | 86 | 2% | 5% |  |
 | 87 | 1.3% | 3% |  |
-| 88 | 0.8% | 1.5% |  |
+| 88 | 0.8% | 2% |  |
 | 89 | 0.4% | 0.7% |  |
 | 90 | 0.2% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
