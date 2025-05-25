@@ -19,7 +19,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 180 | 173–187 | 171–189 | 170–191 | 167–194 |
-| Partido Popular | ES | | 24 | 21–26 | 20–26 | 20–27 | 20–27 |
+| Partido Popular | ES | | 24 | 21–25 | 20–26 | 20–26 | 20–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–23 | 16–23 |
 | Platforma Obywatelska | PL | | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
@@ -30,7 +30,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Partidul Național Liberal | RO | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Moderata samlingspartiet | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -38,12 +38,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Polskie Stronnictwo Ludowe | PL | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
-| Starostové a nezávislí | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
@@ -87,32 +87,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 0.1% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
 | 166 | 0.2% | 99.8% |  |
-| 167 | 0.4% | 99.6% |  |
-| 168 | 0.6% | 99.2% |  |
-| 169 | 1.0% | 98.5% |  |
-| 170 | 1.5% | 98% |  |
+| 167 | 0.3% | 99.6% |  |
+| 168 | 0.6% | 99.3% |  |
+| 169 | 0.9% | 98.7% |  |
+| 170 | 1.4% | 98% |  |
 | 171 | 2% | 96% |  |
 | 172 | 3% | 94% |  |
-| 173 | 4% | 91% |  |
+| 173 | 4% | 92% |  |
 | 174 | 4% | 88% |  |
-| 175 | 5% | 83% |  |
+| 175 | 5% | 84% |  |
 | 176 | 6% | 78% |  |
-| 177 | 6% | 72% |  |
-| 178 | 7% | 65% |  |
+| 177 | 6% | 73% |  |
+| 178 | 7% | 66% |  |
 | 179 | 7% | 59% |  |
-| 180 | 7% | 52% | Median |
-| 181 | 7% | 45% |  |
-| 182 | 6% | 38% |  |
-| 183 | 6% | 32% |  |
-| 184 | 5% | 26% |  |
-| 185 | 5% | 21% |  |
+| 180 | 7% | 53% | Median |
+| 181 | 7% | 46% |  |
+| 182 | 6% | 39% |  |
+| 183 | 6% | 33% |  |
+| 184 | 5% | 27% |  |
+| 185 | 5% | 22% |  |
 | 186 | 4% | 17% |  |
 | 187 | 3% | 13% |  |
 | 188 | 3% | 9% | Last Result |
 | 189 | 2% | 7% |  |
 | 190 | 2% | 5% |  |
 | 191 | 1.1% | 3% |  |
-| 192 | 0.7% | 2% |  |
+| 192 | 0.8% | 2% |  |
 | 193 | 0.5% | 1.2% |  |
 | 194 | 0.3% | 0.7% |  |
 | 195 | 0.2% | 0.4% |  |
