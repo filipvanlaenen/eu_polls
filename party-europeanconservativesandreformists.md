@@ -28,7 +28,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Občanská demokratická strana | CZ | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 0–2 |
@@ -36,7 +36,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
-| Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0–1 |
+| Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -63,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 3% | 96% |  |
 | 72 | 5% | 92% |  |
 | 73 | 7% | 87% |  |
-| 74 | 9% | 80% |  |
+| 74 | 9% | 81% |  |
 | 75 | 11% | 72% |  |
 | 76 | 12% | 61% | Median |
 | 77 | 12% | 49% |  |
