@@ -23,7 +23,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 7% | 24% |  |
 | 38 | 6% | 17% |  |
 | 39 | 4% | 11% |  |
-| 40 | 3% | 6% |  |
+| 40 | 3% | 7% |  |
 | 41 | 2% | 4% |  |
 | 42 | 0.9% | 2% |  |
 | 43 | 0.5% | 1.1% |  |

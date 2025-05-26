@@ -47,7 +47,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -94,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 2% | 97% |  |
 | 172 | 3% | 95% |  |
 | 173 | 3% | 92% |  |
-| 174 | 4% | 88% |  |
+| 174 | 4% | 89% |  |
 | 175 | 5% | 84% |  |
 | 176 | 6% | 79% |  |
 | 177 | 6% | 73% |  |
@@ -102,13 +102,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 7% | 60% |  |
 | 180 | 7% | 53% | Median |
 | 181 | 7% | 46% |  |
-| 182 | 6% | 39% |  |
+| 182 | 6% | 40% |  |
 | 183 | 6% | 33% |  |
 | 184 | 5% | 27% |  |
 | 185 | 5% | 22% |  |
 | 186 | 4% | 17% |  |
 | 187 | 3% | 13% |  |
-| 188 | 3% | 9% | Last Result |
+| 188 | 3% | 10% | Last Result |
 | 189 | 2% | 7% |  |
 | 190 | 2% | 5% |  |
 | 191 | 1.1% | 3% |  |
