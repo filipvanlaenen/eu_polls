@@ -19,7 +19,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 22 | 19–25 | 18–26 | 17–27 | 16–28 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–6 | 2–6 | 2–6 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -28,7 +28,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -49,20 +49,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.2% | 100% |  |
-| 16 | 0.8% | 99.8% |  |
-| 17 | 2% | 99.0% |  |
+| 16 | 0.7% | 99.8% |  |
+| 17 | 2% | 99.1% |  |
 | 18 | 5% | 97% |  |
 | 19 | 8% | 92% |  |
 | 20 | 11% | 84% |  |
-| 21 | 13% | 73% |  |
-| 22 | 15% | 60% | Median |
-| 23 | 14% | 45% |  |
-| 24 | 12% | 31% |  |
-| 25 | 9% | 19% |  |
-| 26 | 5% | 10% |  |
+| 21 | 14% | 73% |  |
+| 22 | 15% | 59% | Median |
+| 23 | 14% | 44% |  |
+| 24 | 12% | 30% |  |
+| 25 | 9% | 18% |  |
+| 26 | 5% | 9% |  |
 | 27 | 3% | 4% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.3% | 0.4% |  |
+| 28 | 0.9% | 1.2% |  |
+| 29 | 0.3% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |

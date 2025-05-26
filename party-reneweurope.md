@@ -25,13 +25,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Polska 2050 | PL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -53,8 +53,8 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independents | IE | | 0 | 0 | 0 | 0 | 0 |
+| Independent Ireland | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -83,26 +83,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 0.1% | 100% |  |
 | 69 | 0.1% | 99.9% |  |
 | 70 | 0.3% | 99.8% |  |
-| 71 | 0.6% | 99.5% |  |
-| 72 | 1.1% | 98.9% |  |
+| 71 | 0.6% | 99.4% |  |
+| 72 | 1.1% | 98.8% |  |
 | 73 | 2% | 98% |  |
 | 74 | 3% | 96% |  |
 | 75 | 4% | 93% |  |
-| 76 | 6% | 89% |  |
-| 77 | 8% | 83% | Last Result |
+| 76 | 6% | 88% |  |
+| 77 | 8% | 82% | Last Result |
 | 78 | 9% | 75% |  |
-| 79 | 10% | 66% |  |
+| 79 | 10% | 65% |  |
 | 80 | 11% | 55% | Median |
 | 81 | 10% | 44% |  |
 | 82 | 9% | 34% |  |
-| 83 | 8% | 25% |  |
+| 83 | 8% | 24% |  |
 | 84 | 6% | 17% |  |
 | 85 | 4% | 11% |  |
 | 86 | 3% | 7% |  |
 | 87 | 2% | 4% |  |
 | 88 | 1.1% | 2% |  |
-| 89 | 0.6% | 1.2% |  |
-| 90 | 0.3% | 0.6% |  |
+| 89 | 0.6% | 1.1% |  |
+| 90 | 0.3% | 0.5% |  |
 | 91 | 0.1% | 0.2% |  |
 | 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0% |  |

@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
 | Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,12 +58,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 18% | 100% | Last Result |
-| 2 | 42% | 82% | Median |
-| 3 | 29% | 39% |  |
-| 4 | 9% | 11% |  |
-| 5 | 1.4% | 2% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 21% | 100% | Last Result |
+| 2 | 45% | 79% | Median |
+| 3 | 26% | 33% |  |
+| 4 | 7% | 8% |  |
+| 5 | 0.9% | 0.9% |  |
+| 6 | 0% | 0% |  |
 
 
