@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **77** seats (-1 seats)
+Current median: **79** seats (+1 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 77 | 74–81 | 73–82 | 72–83 | 70–85 |
-| Fratelli d’Italia | IT | | 25 | 23–28 | 22–28 | 22–30 | 21–30 |
-| Zjednoczona Prawica | PL | | 17 | 16–19 | 15–19 | 15–19 | 15–19 |
-| Alianța pentru Unirea Românilor | RO | | 12 | 11–13 | 11–13 | 11–13 | 10–13 |
+| European Conservatives and Reformists | EU | 78 | 79 | 75–84 | 74–85 | 73–86 | 71–88 |
+| Fratelli d’Italia | IT | | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
+| Zjednoczona Prawica | PL | | 19 | 16–21 | 16–21 | 15–21 | 15–23 |
+| Alianța pentru Unirea Românilor | RO | | 13 | 12–15 | 11–16 | 11–16 | 11–17 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,10 +39,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
-| Juiste Antwoord 2021 | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Juiste Antwoord 2021 | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -55,24 +55,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.2% | 100% |  |
-| 70 | 0.5% | 99.8% |  |
-| 71 | 1.3% | 99.3% |  |
-| 72 | 3% | 98% |  |
-| 73 | 5% | 95% |  |
-| 74 | 8% | 90% |  |
-| 75 | 11% | 83% |  |
-| 76 | 13% | 72% |  |
-| 77 | 14% | 59% | Median |
-| 78 | 13% | 45% | Last Result |
-| 79 | 11% | 32% |  |
-| 80 | 9% | 21% |  |
-| 81 | 6% | 12% |  |
-| 82 | 3% | 7% |  |
-| 83 | 2% | 3% |  |
-| 84 | 0.8% | 1.3% |  |
-| 85 | 0.3% | 0.5% |  |
-| 86 | 0.1% | 0.2% |  |
-| 87 | 0% | 0% |  |
+| 69 | 0.1% | 100% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.5% | 99.8% |  |
+| 72 | 1.2% | 99.2% |  |
+| 73 | 2% | 98% |  |
+| 74 | 4% | 96% |  |
+| 75 | 6% | 92% |  |
+| 76 | 8% | 86% |  |
+| 77 | 9% | 78% |  |
+| 78 | 11% | 69% | Last Result |
+| 79 | 11% | 58% | Median |
+| 80 | 11% | 47% |  |
+| 81 | 10% | 36% |  |
+| 82 | 8% | 26% |  |
+| 83 | 6% | 18% |  |
+| 84 | 5% | 12% |  |
+| 85 | 3% | 7% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.0% | 2% |  |
+| 88 | 0.5% | 0.9% |  |
+| 89 | 0.2% | 0.4% |  |
+| 90 | 0.1% | 0.2% |  |
+| 91 | 0% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 

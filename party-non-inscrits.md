@@ -18,15 +18,15 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 20 | 18–23 | 17–24 | 16–24 | 15–25 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
+| Non-Inscrits | EU | 32 | 20 | 17–22 | 17–23 | 16–23 | 15–25 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–6 | 3–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Konfederacja Korony Polskiej | PL | | 1 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Konfederacja Korony Polskiej | PL | | 1 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,8 +35,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Oamenilor Tineri | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
-| Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–1 |
+| Partidul Oamenilor Tineri | RO | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Partidul S.O.S. România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -49,19 +49,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
-| 15 | 0.6% | 99.9% |  |
-| 16 | 2% | 99.3% |  |
-| 17 | 6% | 97% |  |
-| 18 | 12% | 90% |  |
-| 19 | 17% | 78% |  |
-| 20 | 19% | 62% | Median |
-| 21 | 17% | 43% |  |
-| 22 | 13% | 25% |  |
-| 23 | 8% | 13% |  |
-| 24 | 3% | 5% |  |
-| 25 | 1.2% | 2% |  |
-| 26 | 0.3% | 0.4% |  |
-| 27 | 0.1% | 0.1% |  |
+| 15 | 0.8% | 99.9% |  |
+| 16 | 3% | 99.1% |  |
+| 17 | 9% | 96% |  |
+| 18 | 16% | 87% |  |
+| 19 | 20% | 71% |  |
+| 20 | 20% | 50% | Median |
+| 21 | 15% | 31% |  |
+| 22 | 9% | 16% |  |
+| 23 | 4% | 7% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.5% | 0.6% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
