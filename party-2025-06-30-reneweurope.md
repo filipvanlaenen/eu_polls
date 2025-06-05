@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (+1 seats)
+Current median: **79** seats (+2 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 78 | 74–83 | 72–84 | 71–86 | 69–88 |
+| Renew Europe | EU | 77 | 79 | 74–83 | 73–85 | 72–86 | 69–88 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
@@ -33,12 +33,12 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2 | 2–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Polska 2050 | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
@@ -64,10 +64,12 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -79,29 +81,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.4% | 99.7% |  |
-| 70 | 0.8% | 99.2% |  |
-| 71 | 1.5% | 98% |  |
-| 72 | 2% | 97% |  |
-| 73 | 4% | 95% |  |
-| 74 | 5% | 91% |  |
-| 75 | 7% | 86% |  |
-| 76 | 9% | 79% |  |
-| 77 | 10% | 70% | Last Result |
-| 78 | 11% | 59% | Median |
-| 79 | 11% | 48% |  |
-| 80 | 10% | 37% |  |
-| 81 | 8% | 27% |  |
-| 82 | 7% | 19% |  |
-| 83 | 5% | 13% |  |
-| 84 | 3% | 8% |  |
+| 68 | 0.1% | 99.9% |  |
+| 69 | 0.3% | 99.8% |  |
+| 70 | 0.6% | 99.5% |  |
+| 71 | 1.1% | 98.9% |  |
+| 72 | 2% | 98% |  |
+| 73 | 3% | 96% |  |
+| 74 | 5% | 93% |  |
+| 75 | 6% | 88% |  |
+| 76 | 8% | 82% |  |
+| 77 | 10% | 74% | Last Result |
+| 78 | 11% | 64% |  |
+| 79 | 11% | 53% | Median |
+| 80 | 11% | 42% |  |
+| 81 | 9% | 31% |  |
+| 82 | 7% | 22% |  |
+| 83 | 5% | 14% |  |
+| 84 | 4% | 9% |  |
 | 85 | 2% | 5% |  |
-| 86 | 1.2% | 3% |  |
-| 87 | 0.7% | 1.4% |  |
-| 88 | 0.4% | 0.7% |  |
-| 89 | 0.2% | 0.3% |  |
-| 90 | 0.1% | 0.1% |  |
+| 86 | 1.5% | 3% |  |
+| 87 | 0.8% | 2% |  |
+| 88 | 0.4% | 0.8% |  |
+| 89 | 0.2% | 0.4% |  |
+| 90 | 0.1% | 0.2% |  |
 | 91 | 0% | 0.1% |  |
 | 92 | 0% | 0% |  |
 

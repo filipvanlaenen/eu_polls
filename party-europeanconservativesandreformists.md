@@ -18,9 +18,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 79 | 75–84 | 74–85 | 73–86 | 71–88 |
-| Fratelli d’Italia | IT | | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
-| Zjednoczona Prawica | PL | | 19 | 16–21 | 16–21 | 15–21 | 15–23 |
+| European Conservatives and Reformists | EU | 78 | 79 | 75–84 | 74–85 | 73–86 | 72–88 |
+| Fratelli d’Italia | IT | | 25 | 23–28 | 22–30 | 22–30 | 21–31 |
+| Zjednoczona Prawica | PL | | 18 | 16–21 | 16–21 | 16–21 | 15–22 |
 | Alianța pentru Unirea Românilor | RO | | 13 | 12–15 | 11–16 | 11–16 | 11–17 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -31,7 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1 | 0–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -55,29 +55,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.2% | 99.9% |  |
-| 71 | 0.5% | 99.8% |  |
-| 72 | 1.2% | 99.2% |  |
-| 73 | 2% | 98% |  |
-| 74 | 4% | 96% |  |
-| 75 | 6% | 92% |  |
-| 76 | 8% | 86% |  |
-| 77 | 9% | 78% |  |
-| 78 | 11% | 69% | Last Result |
-| 79 | 11% | 58% | Median |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.3% | 99.9% |  |
+| 72 | 0.9% | 99.5% |  |
+| 73 | 2% | 98.7% |  |
+| 74 | 3% | 97% |  |
+| 75 | 5% | 93% |  |
+| 76 | 8% | 88% |  |
+| 77 | 10% | 80% |  |
+| 78 | 11% | 71% | Last Result |
+| 79 | 12% | 59% | Median |
 | 80 | 11% | 47% |  |
 | 81 | 10% | 36% |  |
 | 82 | 8% | 26% |  |
-| 83 | 6% | 18% |  |
-| 84 | 5% | 12% |  |
-| 85 | 3% | 7% |  |
-| 86 | 2% | 4% |  |
-| 87 | 1.0% | 2% |  |
-| 88 | 0.5% | 0.9% |  |
-| 89 | 0.2% | 0.4% |  |
-| 90 | 0.1% | 0.2% |  |
-| 91 | 0% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 83 | 6% | 17% |  |
+| 84 | 5% | 11% |  |
+| 85 | 3% | 6% |  |
+| 86 | 2% | 3% |  |
+| 87 | 0.9% | 2% |  |
+| 88 | 0.5% | 0.8% |  |
+| 89 | 0.2% | 0.3% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
