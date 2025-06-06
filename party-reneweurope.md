@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 74–83 | 73–85 | 72–86 | 69–88 |
+| Renew Europe | EU | 77 | 79 | 74–83 | 73–84 | 72–86 | 69–88 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -37,7 +37,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,25 +83,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0.1% | 100% |  |
 | 68 | 0.1% | 99.9% |  |
 | 69 | 0.3% | 99.8% |  |
-| 70 | 0.6% | 99.5% |  |
-| 71 | 1.1% | 98.9% |  |
+| 70 | 0.7% | 99.4% |  |
+| 71 | 1.2% | 98.8% |  |
 | 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 5% | 93% |  |
-| 75 | 6% | 88% |  |
-| 76 | 8% | 82% |  |
-| 77 | 10% | 74% | Last Result |
-| 78 | 11% | 64% |  |
-| 79 | 11% | 53% | Median |
-| 80 | 11% | 41% |  |
-| 81 | 9% | 31% |  |
-| 82 | 7% | 21% |  |
-| 83 | 5% | 14% |  |
-| 84 | 4% | 9% |  |
+| 73 | 3% | 95% |  |
+| 74 | 5% | 92% |  |
+| 75 | 7% | 88% |  |
+| 76 | 8% | 81% |  |
+| 77 | 10% | 73% | Last Result |
+| 78 | 11% | 63% |  |
+| 79 | 11% | 51% | Median |
+| 80 | 11% | 40% |  |
+| 81 | 9% | 29% |  |
+| 82 | 7% | 20% |  |
+| 83 | 5% | 13% |  |
+| 84 | 3% | 8% |  |
 | 85 | 2% | 5% |  |
-| 86 | 1.4% | 3% |  |
-| 87 | 0.8% | 2% |  |
-| 88 | 0.4% | 0.8% |  |
+| 86 | 1.3% | 3% |  |
+| 87 | 0.7% | 1.4% |  |
+| 88 | 0.4% | 0.7% |  |
 | 89 | 0.2% | 0.3% |  |
 | 90 | 0.1% | 0.1% |  |
 | 91 | 0% | 0.1% |  |
