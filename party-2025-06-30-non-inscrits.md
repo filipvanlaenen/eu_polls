@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> DE, DK, ES, FI, GR, HR, HU, LV, PL, RO, SI, SK
+> DE, DK, ES, FI, GR, HR, HU, IT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -31,6 +31,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -51,16 +52,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 0.7% | 99.9% |  |
 | 16 | 3% | 99.2% |  |
-| 17 | 7% | 97% |  |
-| 18 | 13% | 90% |  |
-| 19 | 19% | 77% |  |
-| 20 | 20% | 58% | Median |
-| 21 | 17% | 37% |  |
-| 22 | 11% | 21% |  |
-| 23 | 6% | 10% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.8% | 1.1% |  |
-| 26 | 0.2% | 0.3% |  |
+| 17 | 7% | 96% |  |
+| 18 | 14% | 89% |  |
+| 19 | 19% | 75% |  |
+| 20 | 20% | 56% | Median |
+| 21 | 16% | 36% |  |
+| 22 | 11% | 19% |  |
+| 23 | 6% | 9% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.7% | 1.0% |  |
+| 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |

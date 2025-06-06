@@ -25,15 +25,15 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Polska 2050 | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -93,17 +93,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 10% | 74% | Last Result |
 | 78 | 11% | 64% |  |
 | 79 | 11% | 53% | Median |
-| 80 | 11% | 42% |  |
+| 80 | 11% | 41% |  |
 | 81 | 9% | 31% |  |
-| 82 | 7% | 22% |  |
+| 82 | 7% | 21% |  |
 | 83 | 5% | 14% |  |
 | 84 | 4% | 9% |  |
 | 85 | 2% | 5% |  |
-| 86 | 1.5% | 3% |  |
+| 86 | 1.4% | 3% |  |
 | 87 | 0.8% | 2% |  |
 | 88 | 0.4% | 0.8% |  |
-| 89 | 0.2% | 0.4% |  |
-| 90 | 0.1% | 0.2% |  |
+| 89 | 0.2% | 0.3% |  |
+| 90 | 0.1% | 0.1% |  |
 | 91 | 0% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
