@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (-19 seats)
+Current median: **35** seats (-18 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 34 | 31–38 | 30–40 | 30–41 | 29–44 |
+| Greens–European Free Alliance | EU | 53 | 35 | 32–39 | 31–40 | 30–41 | 29–44 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1 | 1 | 1 | 1 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +39,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Europa Verde | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -66,27 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 0.4% | 99.9% |  |
-| 29 | 1.4% | 99.6% |  |
-| 30 | 4% | 98% |  |
-| 31 | 8% | 94% |  |
-| 32 | 12% | 87% |  |
-| 33 | 15% | 75% |  |
-| 34 | 15% | 60% | Median |
-| 35 | 13% | 45% |  |
-| 36 | 10% | 32% |  |
-| 37 | 7% | 23% |  |
-| 38 | 5% | 15% |  |
-| 39 | 4% | 10% |  |
-| 40 | 3% | 6% |  |
-| 41 | 2% | 3% |  |
-| 42 | 0.9% | 2% |  |
-| 43 | 0.5% | 1.0% |  |
-| 44 | 0.3% | 0.5% |  |
-| 45 | 0.1% | 0.2% |  |
+| 28 | 0.2% | 100% |  |
+| 29 | 0.8% | 99.8% |  |
+| 30 | 3% | 99.0% |  |
+| 31 | 6% | 96% |  |
+| 32 | 10% | 91% |  |
+| 33 | 14% | 80% |  |
+| 34 | 15% | 66% |  |
+| 35 | 14% | 51% | Median |
+| 36 | 11% | 38% |  |
+| 37 | 8% | 27% |  |
+| 38 | 6% | 19% |  |
+| 39 | 5% | 12% |  |
+| 40 | 3% | 8% |  |
+| 41 | 2% | 4% |  |
+| 42 | 1.1% | 2% |  |
+| 43 | 0.6% | 1.3% |  |
+| 44 | 0.4% | 0.7% |  |
+| 45 | 0.2% | 0.3% |  |
 | 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
+| 47 | 0% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |

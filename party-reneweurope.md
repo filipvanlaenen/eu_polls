@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 74–83 | 73–84 | 72–86 | 69–88 |
+| Renew Europe | EU | 77 | 79 | 74–83 | 73–84 | 71–86 | 69–88 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -32,7 +32,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Polska 2050 | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -81,26 +81,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.8% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.3% | 99.7% |  |
 | 70 | 0.7% | 99.4% |  |
-| 71 | 1.2% | 98.8% |  |
-| 72 | 2% | 98% |  |
+| 71 | 1.3% | 98.7% |  |
+| 72 | 2% | 97% |  |
 | 73 | 3% | 95% |  |
 | 74 | 5% | 92% |  |
-| 75 | 7% | 88% |  |
+| 75 | 7% | 87% |  |
 | 76 | 8% | 81% |  |
-| 77 | 10% | 73% | Last Result |
-| 78 | 11% | 63% |  |
+| 77 | 10% | 72% | Last Result |
+| 78 | 11% | 62% |  |
 | 79 | 11% | 51% | Median |
-| 80 | 11% | 40% |  |
-| 81 | 9% | 29% |  |
-| 82 | 7% | 20% |  |
-| 83 | 5% | 13% |  |
+| 80 | 10% | 40% |  |
+| 81 | 9% | 30% |  |
+| 82 | 7% | 21% |  |
+| 83 | 5% | 14% |  |
 | 84 | 3% | 8% |  |
 | 85 | 2% | 5% |  |
 | 86 | 1.3% | 3% |  |
-| 87 | 0.7% | 1.4% |  |
+| 87 | 0.7% | 1.5% |  |
 | 88 | 0.4% | 0.7% |  |
 | 89 | 0.2% | 0.3% |  |
 | 90 | 0.1% | 0.1% |  |
