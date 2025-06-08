@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **79** seats (+2 seats)
+Current median: **78** seats (+1 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 79 | 74–83 | 73–85 | 71–86 | 69–88 |
+| Renew Europe | EU | 77 | 78 | 74–83 | 72–84 | 71–85 | 69–88 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Polska 2050 | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -82,29 +82,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
 | 68 | 0.2% | 99.9% |  |
-| 69 | 0.3% | 99.7% |  |
-| 70 | 0.7% | 99.4% |  |
-| 71 | 1.2% | 98.7% |  |
-| 72 | 2% | 97% |  |
-| 73 | 3% | 95% |  |
-| 74 | 5% | 92% |  |
-| 75 | 6% | 87% |  |
-| 76 | 8% | 81% |  |
-| 77 | 10% | 73% | Last Result |
-| 78 | 11% | 63% |  |
-| 79 | 11% | 52% | Median |
-| 80 | 11% | 40% |  |
-| 81 | 9% | 30% |  |
-| 82 | 7% | 21% |  |
-| 83 | 5% | 14% |  |
-| 84 | 4% | 9% |  |
-| 85 | 2% | 5% |  |
-| 86 | 1.3% | 3% |  |
-| 87 | 0.8% | 2% |  |
-| 88 | 0.4% | 0.8% |  |
-| 89 | 0.2% | 0.4% |  |
-| 90 | 0.1% | 0.2% |  |
-| 91 | 0% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 69 | 0.5% | 99.6% |  |
+| 70 | 0.9% | 99.2% |  |
+| 71 | 2% | 98% |  |
+| 72 | 3% | 97% |  |
+| 73 | 4% | 94% |  |
+| 74 | 6% | 90% |  |
+| 75 | 7% | 85% |  |
+| 76 | 9% | 77% |  |
+| 77 | 11% | 68% | Last Result |
+| 78 | 11% | 58% | Median |
+| 79 | 11% | 46% |  |
+| 80 | 10% | 35% |  |
+| 81 | 8% | 25% |  |
+| 82 | 6% | 17% |  |
+| 83 | 4% | 11% |  |
+| 84 | 3% | 7% |  |
+| 85 | 2% | 4% |  |
+| 86 | 1.0% | 2% |  |
+| 87 | 0.6% | 1.1% |  |
+| 88 | 0.3% | 0.5% |  |
+| 89 | 0.1% | 0.2% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
