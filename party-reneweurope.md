@@ -1,24 +1,24 @@
 # Renew Europe
 
-Members registered from **24 countries**:
+Members registered from **25 countries**:
 
-> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **78** seats (+1 seats)
+Current median: **79** seats (+2 seats)
 
-At least one member in **19 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, FI, FR, GR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 78 | 73–83 | 72–84 | 71–85 | 69–88 |
+| Renew Europe | EU | 77 | 79 | 74–83 | 73–85 | 71–86 | 69–88 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -44,6 +44,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Iniciativa Liberal | PT | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κίνημα Δημοκρατίας | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -80,31 +81,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0% | 100% |  |
-| 67 | 0.1% | 99.9% |  |
-| 68 | 0.2% | 99.8% |  |
-| 69 | 0.5% | 99.6% |  |
-| 70 | 1.0% | 99.1% |  |
-| 71 | 2% | 98% |  |
-| 72 | 3% | 96% |  |
-| 73 | 4% | 94% |  |
-| 74 | 6% | 90% |  |
-| 75 | 7% | 84% |  |
-| 76 | 9% | 77% |  |
-| 77 | 11% | 67% | Last Result |
-| 78 | 11% | 57% | Median |
-| 79 | 11% | 46% |  |
-| 80 | 10% | 35% |  |
-| 81 | 8% | 25% |  |
-| 82 | 6% | 17% |  |
-| 83 | 4% | 11% |  |
-| 84 | 3% | 7% |  |
-| 85 | 2% | 4% |  |
-| 86 | 1.0% | 2% |  |
-| 87 | 0.6% | 1.1% |  |
-| 88 | 0.3% | 0.5% |  |
-| 89 | 0.1% | 0.2% |  |
-| 90 | 0.1% | 0.1% |  |
-| 91 | 0% | 0% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.4% | 99.7% |  |
+| 70 | 0.8% | 99.3% |  |
+| 71 | 1.3% | 98.6% |  |
+| 72 | 2% | 97% |  |
+| 73 | 3% | 95% |  |
+| 74 | 5% | 92% |  |
+| 75 | 7% | 87% |  |
+| 76 | 8% | 80% |  |
+| 77 | 10% | 72% | Last Result |
+| 78 | 11% | 62% |  |
+| 79 | 11% | 51% | Median |
+| 80 | 10% | 40% |  |
+| 81 | 9% | 30% |  |
+| 82 | 7% | 21% |  |
+| 83 | 5% | 14% |  |
+| 84 | 4% | 9% |  |
+| 85 | 2% | 5% |  |
+| 86 | 1.4% | 3% |  |
+| 87 | 0.8% | 2% |  |
+| 88 | 0.4% | 0.8% |  |
+| 89 | 0.2% | 0.4% |  |
+| 90 | 0.1% | 0.2% |  |
+| 91 | 0% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 

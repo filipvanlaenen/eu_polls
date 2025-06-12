@@ -10,16 +10,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 Current median: **2** seats (+1 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
-> CY, GR
+> CY
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
-| Κίνημα Δημοκρατίας [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -58,12 +57,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 15% | 100% | Last Result |
-| 2 | 42% | 85% | Median |
-| 3 | 30% | 43% |  |
-| 4 | 10% | 12% |  |
-| 5 | 2% | 2% |  |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% |  |
+| 1 | 44% | 100% | Last Result |
+| 2 | 39% | 56% | Median |
+| 3 | 14% | 18% |  |
+| 4 | 3% | 3% |  |
+| 5 | 0.3% | 0.3% |  |
+| 6 | 0% | 0% |  |
 
 
