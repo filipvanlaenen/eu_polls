@@ -34,7 +34,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| Polska 2050 | PL | | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Polska 2050 | PL | | 2 | 1–3 | 0–3 | 0–3 | 0–4 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,17 +84,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 0.1% | 100% |  |
 | 68 | 0.2% | 99.9% |  |
 | 69 | 0.4% | 99.7% |  |
-| 70 | 0.8% | 99.3% |  |
+| 70 | 0.7% | 99.4% |  |
 | 71 | 1.3% | 98.6% |  |
 | 72 | 2% | 97% |  |
 | 73 | 3% | 95% |  |
 | 74 | 5% | 92% |  |
 | 75 | 7% | 87% |  |
-| 76 | 8% | 80% |  |
+| 76 | 8% | 81% |  |
 | 77 | 10% | 72% | Last Result |
-| 78 | 11% | 62% |  |
-| 79 | 11% | 51% | Median |
-| 80 | 10% | 40% |  |
+| 78 | 11% | 63% |  |
+| 79 | 11% | 52% | Median |
+| 80 | 10% | 41% |  |
 | 81 | 9% | 30% |  |
 | 82 | 7% | 21% |  |
 | 83 | 5% | 14% |  |

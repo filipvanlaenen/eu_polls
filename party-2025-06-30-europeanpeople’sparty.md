@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 181 | 174–188 | 173–190 | 171–192 | 168–195 |
+| European People’s Party | EU | 188 | 181 | 174–188 | 172–190 | 171–192 | 168–195 |
 | Partido Popular | ES | | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 16–24 |
-| Platforma Obywatelska | PL | | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
 | Tisztelet és Szabadság | HU | | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 8 | 8 | 8 | 8 | 8 |
@@ -52,7 +52,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Polskie Stronnictwo Ludowe | PL | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Polskie Stronnictwo Ludowe | PL | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | TOP 09 | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -86,18 +86,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 165 | 0% | 100% |  |
 | 166 | 0.1% | 99.9% |  |
-| 167 | 0.1% | 99.9% |  |
+| 167 | 0.2% | 99.9% |  |
 | 168 | 0.3% | 99.7% |  |
-| 169 | 0.5% | 99.5% |  |
-| 170 | 0.8% | 99.0% |  |
-| 171 | 1.2% | 98% |  |
+| 169 | 0.5% | 99.4% |  |
+| 170 | 0.8% | 98.9% |  |
+| 171 | 1.3% | 98% |  |
 | 172 | 2% | 97% |  |
 | 173 | 3% | 95% |  |
 | 174 | 3% | 92% |  |
 | 175 | 4% | 89% |  |
-| 176 | 5% | 85% |  |
-| 177 | 6% | 80% |  |
-| 178 | 7% | 74% |  |
+| 176 | 5% | 84% |  |
+| 177 | 6% | 79% |  |
+| 178 | 6% | 73% |  |
 | 179 | 7% | 67% |  |
 | 180 | 7% | 60% |  |
 | 181 | 7% | 53% | Median |
