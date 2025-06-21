@@ -29,7 +29,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -91,10 +91,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 3% | 95% |  |
 | 73 | 4% | 92% |  |
 | 74 | 6% | 88% |  |
-| 75 | 8% | 82% |  |
+| 75 | 7% | 82% |  |
 | 76 | 9% | 74% |  |
 | 77 | 10% | 65% | Last Result |
-| 78 | 10% | 55% | Median |
+| 78 | 10% | 56% | Median |
 | 79 | 10% | 45% |  |
 | 80 | 9% | 35% |  |
 | 81 | 8% | 26% |  |
