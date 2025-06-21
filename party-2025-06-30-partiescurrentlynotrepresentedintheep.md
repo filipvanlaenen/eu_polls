@@ -39,6 +39,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Odlučnost i Pravednost [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -46,7 +47,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
-| Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
+| Величие [BG] (*) | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 
 ### Probability Mass Function
@@ -59,9 +60,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 44% | 100% | Last Result |
 | 2 | 39% | 56% | Median |
-| 3 | 14% | 17% |  |
+| 3 | 15% | 18% |  |
 | 4 | 3% | 3% |  |
-| 5 | 0.2% | 0.3% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 

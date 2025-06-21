@@ -18,13 +18,13 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 35 | 32–38 | 32–40 | 31–41 | 30–43 |
-| Alternative für Deutschland | DE | | 22 | 20–24 | 20–24 | 19–24 | 19–25 |
+| Europe of Sovereign Nations | EU | 25 | 35 | 32–38 | 32–40 | 31–41 | 30–42 |
+| Alternative für Deutschland | DE | | 22 | 21–23 | 20–24 | 19–24 | 19–25 |
 | Nowa Nadzieja | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 
@@ -39,22 +39,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 100% | Last Result |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0.1% | 100% |  |
-| 29 | 0.3% | 99.9% |  |
-| 30 | 1.2% | 99.6% |  |
-| 31 | 3% | 98% |  |
-| 32 | 7% | 95% |  |
-| 33 | 13% | 88% |  |
-| 34 | 17% | 75% |  |
-| 35 | 18% | 57% | Median |
+| 28 | 0% | 100% |  |
+| 29 | 0.2% | 99.9% |  |
+| 30 | 0.9% | 99.7% |  |
+| 31 | 3% | 98.8% |  |
+| 32 | 7% | 96% |  |
+| 33 | 13% | 89% |  |
+| 34 | 18% | 76% |  |
+| 35 | 19% | 58% | Median |
 | 36 | 15% | 39% |  |
-| 37 | 10% | 24% |  |
-| 38 | 6% | 15% |  |
-| 39 | 4% | 9% |  |
+| 37 | 9% | 23% |  |
+| 38 | 5% | 14% |  |
+| 39 | 3% | 9% |  |
 | 40 | 2% | 5% |  |
 | 41 | 2% | 3% |  |
-| 42 | 0.9% | 1.4% |  |
-| 43 | 0.4% | 0.5% |  |
+| 42 | 0.8% | 1.3% |  |
+| 43 | 0.3% | 0.4% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 

@@ -19,19 +19,19 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 180 | 173–187 | 172–189 | 170–191 | 167–193 |
-| Partido Popular | ES | | 23 | 19–25 | 19–26 | 18–26 | 18–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| Partido Popular | ES | | 23 | 20–25 | 19–26 | 18–27 | 18–28 |
+| Christlich Demokratische Union Deutschlands | DE | | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
-| Tisztelet és Szabadság | HU | | 10 | 10–12 | 9–13 | 9–13 | 9–13 |
+| Tisztelet és Szabadság | HU | | 10 | 10–12 | 10–12 | 9–13 | 9–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 8 | 8 | 8 | 8 | 8 |
 | Forza Italia | IT | | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Christlich-Soziale Union in Bayern | DE | | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -86,7 +86,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.2% | 99.8% |  |
+| 166 | 0.2% | 99.9% |  |
 | 167 | 0.3% | 99.7% |  |
 | 168 | 0.5% | 99.4% |  |
 | 169 | 0.8% | 98.9% |  |
