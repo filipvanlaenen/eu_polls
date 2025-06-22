@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 20 | 17–23 | 16–24 | 16–25 | 14–26 |
+| Non-Inscrits | EU | 32 | 20 | 17–23 | 16–24 | 15–25 | 14–26 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Konfederacja Korony Polskiej | PL | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -52,13 +52,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.1% | 100% |  |
 | 14 | 0.5% | 99.9% |  |
 | 15 | 2% | 99.4% |  |
-| 16 | 4% | 98% |  |
-| 17 | 7% | 93% |  |
-| 18 | 10% | 86% |  |
-| 19 | 13% | 76% |  |
-| 20 | 15% | 63% | Median |
-| 21 | 16% | 48% |  |
-| 22 | 14% | 32% |  |
+| 16 | 4% | 97% |  |
+| 17 | 8% | 93% |  |
+| 18 | 11% | 85% |  |
+| 19 | 13% | 75% |  |
+| 20 | 15% | 61% | Median |
+| 21 | 15% | 47% |  |
+| 22 | 14% | 31% |  |
 | 23 | 10% | 18% |  |
 | 24 | 5% | 8% |  |
 | 25 | 2% | 3% |  |
