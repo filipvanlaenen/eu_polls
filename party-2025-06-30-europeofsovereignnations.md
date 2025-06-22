@@ -10,9 +10,9 @@ Last result: **25** seats (General Election of 26 May 2019)
 
 Current median: **35** seats (+10 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> BG, CZ, DE, HU, PL, SK
+> BG, CZ, DE, PL, SK
 
 ### Confidence Intervals
 
@@ -24,8 +24,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Svoboda a přímá demokracie | CZ | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Forum voor Democratie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Mi Hazánk Mozgalom | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Reconquête | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 
 ### Probability Mass Function
@@ -39,21 +39,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 100% | Last Result |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0% | 100% |  |
-| 29 | 0.2% | 99.9% |  |
-| 30 | 0.9% | 99.7% |  |
-| 31 | 3% | 98.8% |  |
+| 28 | 0.1% | 100% |  |
+| 29 | 0.3% | 99.9% |  |
+| 30 | 1.0% | 99.7% |  |
+| 31 | 3% | 98.7% |  |
 | 32 | 7% | 96% |  |
 | 33 | 13% | 89% |  |
-| 34 | 18% | 76% |  |
-| 35 | 19% | 58% | Median |
-| 36 | 15% | 39% |  |
-| 37 | 9% | 24% |  |
+| 34 | 19% | 75% |  |
+| 35 | 19% | 57% | Median |
+| 36 | 15% | 38% |  |
+| 37 | 9% | 23% |  |
 | 38 | 5% | 14% |  |
-| 39 | 3% | 9% |  |
+| 39 | 3% | 8% |  |
 | 40 | 2% | 5% |  |
 | 41 | 2% | 3% |  |
-| 42 | 0.8% | 1.3% |  |
+| 42 | 0.8% | 1.2% |  |
 | 43 | 0.3% | 0.4% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |

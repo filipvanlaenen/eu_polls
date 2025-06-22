@@ -21,8 +21,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Patriots for Europe | EU | 84 | 95 | 91–99 | 90–100 | 89–101 | 87–103 |
 | Rassemblement national | FR | | 30 | 28–33 | 27–34 | 26–34 | 24–36 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–9 | 8–9 | 7–9 | 7–10 |
 | Vox | ES | | 9 | 9–11 | 9–11 | 8–12 | 8–13 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | Lega Nord | IT | | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Partij voor de Vrijheid | NL | | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -54,20 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 0.4% | 99.7% |  |
 | 88 | 0.9% | 99.3% |  |
 | 89 | 2% | 98% |  |
-| 90 | 3% | 97% |  |
+| 90 | 3% | 96% |  |
 | 91 | 6% | 93% |  |
-| 92 | 8% | 88% |  |
+| 92 | 9% | 87% |  |
 | 93 | 11% | 79% |  |
 | 94 | 13% | 68% |  |
-| 95 | 13% | 56% | Median |
-| 96 | 12% | 42% |  |
-| 97 | 10% | 30% |  |
-| 98 | 8% | 20% |  |
+| 95 | 13% | 55% | Median |
+| 96 | 12% | 41% |  |
+| 97 | 10% | 29% |  |
+| 98 | 7% | 19% |  |
 | 99 | 5% | 12% |  |
 | 100 | 3% | 7% |  |
 | 101 | 2% | 4% |  |
 | 102 | 1.0% | 2% |  |
-| 103 | 0.5% | 0.9% |  |
+| 103 | 0.5% | 0.8% |  |
 | 104 | 0.2% | 0.4% |  |
 | 105 | 0.1% | 0.2% |  |
 | 106 | 0% | 0.1% |  |

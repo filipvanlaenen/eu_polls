@@ -18,12 +18,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 78 | 73–83 | 72–84 | 70–86 | 68–88 |
+| Renew Europe | EU | 77 | 78 | 73–82 | 71–84 | 70–85 | 68–88 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| Fianna Fáil | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -54,7 +54,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -63,7 +63,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -81,33 +81,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 65 | 0% | 100% |  |
+| 65 | 0.1% | 100% |  |
 | 66 | 0.1% | 99.9% |  |
-| 67 | 0.2% | 99.9% |  |
-| 68 | 0.4% | 99.7% |  |
-| 69 | 0.7% | 99.3% |  |
-| 70 | 1.3% | 98.5% |  |
+| 67 | 0.3% | 99.8% |  |
+| 68 | 0.5% | 99.5% |  |
+| 69 | 0.9% | 99.0% |  |
+| 70 | 2% | 98% |  |
 | 71 | 2% | 97% |  |
-| 72 | 3% | 95% |  |
-| 73 | 4% | 92% |  |
-| 74 | 6% | 88% |  |
-| 75 | 7% | 82% |  |
-| 76 | 9% | 74% |  |
-| 77 | 10% | 65% | Last Result |
-| 78 | 10% | 56% | Median |
-| 79 | 10% | 45% |  |
-| 80 | 9% | 35% |  |
-| 81 | 8% | 26% |  |
-| 82 | 6% | 18% |  |
-| 83 | 4% | 12% |  |
-| 84 | 3% | 8% |  |
-| 85 | 2% | 5% |  |
-| 86 | 1.2% | 3% |  |
-| 87 | 0.7% | 1.4% |  |
-| 88 | 0.4% | 0.7% |  |
-| 89 | 0.2% | 0.3% |  |
+| 72 | 4% | 94% |  |
+| 73 | 5% | 90% |  |
+| 74 | 7% | 85% |  |
+| 75 | 8% | 79% |  |
+| 76 | 9% | 71% |  |
+| 77 | 10% | 61% | Last Result |
+| 78 | 10% | 51% | Median |
+| 79 | 10% | 40% |  |
+| 80 | 9% | 31% |  |
+| 81 | 7% | 22% |  |
+| 82 | 5% | 15% |  |
+| 83 | 4% | 10% |  |
+| 84 | 3% | 6% |  |
+| 85 | 2% | 4% |  |
+| 86 | 1.0% | 2% |  |
+| 87 | 0.5% | 1.0% |  |
+| 88 | 0.3% | 0.5% |  |
+| 89 | 0.1% | 0.2% |  |
 | 90 | 0.1% | 0.1% |  |
-| 91 | 0% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 91 | 0% | 0% |  |
 
 

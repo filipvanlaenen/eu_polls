@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 130 | 122–136 | 120–138 | 118–139 | 116–142 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 130 | 122–136 | 120–138 | 118–139 | 115–142 |
 | Partido Socialista Obrero Español | ES | | 20 | 18–23 | 18–24 | 17–25 | 17–25 |
 | Partito Democratico | IT | | 20 | 18–22 | 18–23 | 17–24 | 16–24 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
@@ -40,7 +40,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratikus Koalíció | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
-| Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -50,7 +50,6 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Szocialisták és demokraták | HU | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -64,9 +63,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 112 | 0% | 100% |  |
 | 113 | 0.1% | 99.9% |  |
 | 114 | 0.1% | 99.9% |  |
-| 115 | 0.2% | 99.7% |  |
+| 115 | 0.3% | 99.7% |  |
 | 116 | 0.4% | 99.5% |  |
-| 117 | 0.7% | 99.1% |  |
+| 117 | 0.7% | 99.0% |  |
 | 118 | 1.0% | 98% |  |
 | 119 | 1.4% | 97% |  |
 | 120 | 2% | 96% |  |
@@ -74,14 +73,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 122 | 3% | 92% |  |
 | 123 | 3% | 89% |  |
 | 124 | 4% | 86% |  |
-| 125 | 4% | 83% |  |
+| 125 | 4% | 82% |  |
 | 126 | 5% | 78% |  |
 | 127 | 6% | 73% |  |
 | 128 | 7% | 67% |  |
-| 129 | 7% | 61% |  |
+| 129 | 7% | 60% |  |
 | 130 | 8% | 53% | Median |
 | 131 | 8% | 45% |  |
-| 132 | 8% | 38% |  |
+| 132 | 7% | 37% |  |
 | 133 | 7% | 30% |  |
 | 134 | 6% | 23% |  |
 | 135 | 5% | 17% |  |
@@ -94,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 142 | 0.3% | 0.7% |  |
 | 143 | 0.2% | 0.4% |  |
 | 144 | 0.1% | 0.2% |  |
-| 145 | 0% | 0.1% |  |
+| 145 | 0.1% | 0.1% |  |
 | 146 | 0% | 0% |  |
 
 
