@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (+3 seats)
+Current median: **80** seats (+2 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 81 | 77–85 | 75–86 | 74–87 | 72–89 |
-| Fratelli d’Italia | IT | | 26 | 23–29 | 23–29 | 22–30 | 21–31 |
-| Zjednoczona Prawica | PL | | 19 | 17–20 | 16–21 | 15–21 | 15–22 |
-| Alianța pentru Unirea Românilor | RO | | 13 | 12–15 | 11–16 | 11–16 | 11–17 |
+| European Conservatives and Reformists | EU | 78 | 80 | 76–84 | 75–85 | 74–86 | 72–88 |
+| Fratelli d’Italia | IT | | 26 | 24–28 | 23–29 | 23–29 | 21–31 |
+| Zjednoczona Prawica | PL | | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
+| Alianța pentru Unirea Românilor | RO | | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,7 +41,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Juiste Antwoord 2021 | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Suverēnā vara | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -56,27 +56,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
-| 71 | 0.1% | 99.9% |  |
+| 71 | 0.2% | 99.9% |  |
 | 72 | 0.4% | 99.8% |  |
-| 73 | 0.8% | 99.4% |  |
-| 74 | 2% | 98.6% |  |
+| 73 | 0.9% | 99.4% |  |
+| 74 | 2% | 98% |  |
 | 75 | 3% | 97% |  |
-| 76 | 4% | 94% |  |
-| 77 | 6% | 90% |  |
-| 78 | 9% | 84% | Last Result |
-| 79 | 11% | 75% |  |
-| 80 | 12% | 64% |  |
-| 81 | 12% | 52% | Median |
-| 82 | 11% | 40% |  |
-| 83 | 10% | 28% |  |
-| 84 | 7% | 19% |  |
-| 85 | 5% | 11% |  |
-| 86 | 3% | 6% |  |
-| 87 | 2% | 3% |  |
-| 88 | 0.9% | 2% |  |
-| 89 | 0.4% | 0.7% |  |
-| 90 | 0.2% | 0.3% |  |
-| 91 | 0.1% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 76 | 5% | 94% |  |
+| 77 | 7% | 88% |  |
+| 78 | 10% | 81% | Last Result |
+| 79 | 12% | 71% |  |
+| 80 | 13% | 59% | Median |
+| 81 | 12% | 46% |  |
+| 82 | 11% | 34% |  |
+| 83 | 9% | 23% |  |
+| 84 | 6% | 14% |  |
+| 85 | 4% | 8% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.2% | 2% |  |
+| 88 | 0.5% | 0.9% |  |
+| 89 | 0.2% | 0.3% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
