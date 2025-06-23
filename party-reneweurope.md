@@ -57,7 +57,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -84,23 +84,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 0.1% | 100% |  |
 | 66 | 0.2% | 99.9% |  |
 | 67 | 0.4% | 99.7% |  |
-| 68 | 0.7% | 99.3% |  |
-| 69 | 1.3% | 98.6% |  |
+| 68 | 0.7% | 99.4% |  |
+| 69 | 1.2% | 98.7% |  |
 | 70 | 2% | 97% |  |
 | 71 | 3% | 95% |  |
 | 72 | 5% | 92% |  |
 | 73 | 6% | 88% |  |
-| 74 | 8% | 81% |  |
-| 75 | 10% | 73% |  |
+| 74 | 8% | 82% |  |
+| 75 | 10% | 74% |  |
 | 76 | 11% | 64% |  |
-| 77 | 11% | 53% | Last Result, Median |
-| 78 | 10% | 42% |  |
-| 79 | 9% | 31% |  |
-| 80 | 7% | 22% |  |
+| 77 | 11% | 54% | Last Result, Median |
+| 78 | 11% | 43% |  |
+| 79 | 9% | 32% |  |
+| 80 | 8% | 23% |  |
 | 81 | 6% | 15% |  |
 | 82 | 4% | 9% |  |
-| 83 | 2% | 5% |  |
-| 84 | 1.4% | 3% |  |
+| 83 | 2% | 6% |  |
+| 84 | 1.5% | 3% |  |
 | 85 | 0.8% | 2% |  |
 | 86 | 0.4% | 0.8% |  |
 | 87 | 0.2% | 0.4% |  |

@@ -18,7 +18,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 129 | 121–136 | 119–137 | 117–139 | 114–142 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 129 | 121–135 | 119–137 | 117–139 | 114–142 |
 | Partito Democratico | IT | | 21 | 18–22 | 18–22 | 18–23 | 17–24 |
 | Partido Socialista Obrero Español | ES | | 20 | 18–23 | 18–24 | 17–25 | 16–25 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
@@ -32,7 +32,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Nowa Lewica | PL | | 3 | 0–6 | 0–6 | 0–6 | 0–6 |
+| Nowa Lewica | PL | | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -76,24 +76,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 124 | 4% | 82% |  |
 | 125 | 5% | 78% |  |
 | 126 | 6% | 73% |  |
-| 127 | 6% | 67% |  |
-| 128 | 7% | 61% |  |
-| 129 | 7% | 54% | Median |
+| 127 | 7% | 67% |  |
+| 128 | 7% | 60% |  |
+| 129 | 7% | 53% | Median |
 | 130 | 7% | 46% |  |
-| 131 | 7% | 39% |  |
-| 132 | 7% | 32% |  |
-| 133 | 6% | 25% |  |
-| 134 | 5% | 19% |  |
+| 131 | 7% | 38% |  |
+| 132 | 7% | 31% |  |
+| 133 | 6% | 24% |  |
+| 134 | 5% | 18% |  |
 | 135 | 4% | 14% |  |
 | 136 | 3% | 10% | Last Result |
 | 137 | 2% | 7% |  |
-| 138 | 2% | 5% |  |
+| 138 | 2% | 4% |  |
 | 139 | 1.1% | 3% |  |
 | 140 | 0.7% | 2% |  |
-| 141 | 0.5% | 1.1% |  |
-| 142 | 0.3% | 0.6% |  |
-| 143 | 0.2% | 0.3% |  |
-| 144 | 0.1% | 0.2% |  |
+| 141 | 0.4% | 1.0% |  |
+| 142 | 0.3% | 0.5% |  |
+| 143 | 0.1% | 0.3% |  |
+| 144 | 0.1% | 0.1% |  |
 | 145 | 0% | 0.1% |  |
 | 146 | 0% | 0% |  |
 
