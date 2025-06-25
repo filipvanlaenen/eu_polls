@@ -23,11 +23,11 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
 | Die Linke | DE | | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–5 | 2–6 | 2–6 |
-| Podemos | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
-| Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Podemos | ES | | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
+| Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Socialistische Partij | NL | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -67,27 +67,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0.1% | 100% | Last Result |
 | 47 | 0.2% | 99.9% |  |
 | 48 | 0.5% | 99.7% |  |
-| 49 | 0.9% | 99.2% |  |
+| 49 | 1.0% | 99.2% |  |
 | 50 | 2% | 98% |  |
-| 51 | 3% | 97% |  |
-| 52 | 4% | 94% |  |
+| 51 | 3% | 96% |  |
+| 52 | 5% | 93% |  |
 | 53 | 6% | 89% |  |
-| 54 | 8% | 83% |  |
-| 55 | 10% | 75% |  |
+| 54 | 8% | 82% |  |
+| 55 | 10% | 74% |  |
 | 56 | 11% | 65% |  |
 | 57 | 11% | 54% | Median |
 | 58 | 10% | 43% |  |
 | 59 | 9% | 33% |  |
-| 60 | 8% | 24% |  |
+| 60 | 7% | 24% |  |
 | 61 | 6% | 16% |  |
-| 62 | 4% | 10% |  |
-| 63 | 3% | 6% |  |
+| 62 | 4% | 11% |  |
+| 63 | 3% | 7% |  |
 | 64 | 2% | 4% |  |
-| 65 | 0.9% | 2% |  |
-| 66 | 0.5% | 0.9% |  |
-| 67 | 0.2% | 0.4% |  |
+| 65 | 1.0% | 2% |  |
+| 66 | 0.5% | 1.0% |  |
+| 67 | 0.3% | 0.5% |  |
 | 68 | 0.1% | 0.2% |  |
-| 69 | 0% | 0.1% |  |
+| 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 
 
