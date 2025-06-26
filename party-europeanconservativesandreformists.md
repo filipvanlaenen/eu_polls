@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (+2 seats)
+Current median: **81** seats (+3 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 80 | 76–84 | 75–85 | 74–86 | 72–88 |
-| Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 22–29 | 21–31 |
+| European Conservatives and Reformists | EU | 78 | 81 | 76–85 | 75–86 | 74–87 | 72–89 |
+| Fratelli d’Italia | IT | | 26 | 23–30 | 23–30 | 22–30 | 21–31 |
 | Zjednoczona Prawica | PL | | 18 | 16–20 | 16–21 | 15–21 | 15–21 |
 | Alianța pentru Unirea Românilor | RO | | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Občanská demokratická strana | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -62,20 +62,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 2% | 98.7% |  |
 | 75 | 3% | 97% |  |
 | 76 | 5% | 94% |  |
-| 77 | 7% | 89% |  |
-| 78 | 10% | 82% | Last Result |
-| 79 | 12% | 72% |  |
-| 80 | 13% | 60% | Median |
-| 81 | 13% | 47% |  |
-| 82 | 11% | 34% |  |
-| 83 | 9% | 23% |  |
-| 84 | 6% | 14% |  |
-| 85 | 4% | 8% |  |
-| 86 | 2% | 4% |  |
-| 87 | 1.1% | 2% |  |
-| 88 | 0.5% | 0.9% |  |
-| 89 | 0.2% | 0.3% |  |
-| 90 | 0.1% | 0.1% |  |
-| 91 | 0% | 0% |  |
+| 77 | 7% | 90% |  |
+| 78 | 9% | 83% | Last Result |
+| 79 | 11% | 74% |  |
+| 80 | 12% | 63% |  |
+| 81 | 12% | 51% | Median |
+| 82 | 11% | 39% |  |
+| 83 | 9% | 28% |  |
+| 84 | 7% | 19% |  |
+| 85 | 5% | 12% |  |
+| 86 | 3% | 7% |  |
+| 87 | 2% | 4% |  |
+| 88 | 1.0% | 2% |  |
+| 89 | 0.5% | 0.7% |  |
+| 90 | 0.2% | 0.3% |  |
+| 91 | 0.1% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 
