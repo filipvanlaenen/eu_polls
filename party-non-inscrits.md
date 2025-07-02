@@ -8,7 +8,7 @@ Members registered from **13 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (-14 seats)
+Current median: **20** seats (-12 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 18 | 16–21 | 15–22 | 15–22 | 14–24 |
+| Non-Inscrits | EU | 32 | 20 | 16–23 | 16–24 | 15–25 | 14–26 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -32,7 +32,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
-| Konfederacja Korony Polskiej | PL | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Konfederacja Korony Polskiej | PL | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -49,22 +49,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 1.3% | 99.7% |  |
-| 15 | 4% | 98% |  |
-| 16 | 10% | 94% |  |
-| 17 | 17% | 84% |  |
-| 18 | 21% | 66% | Median |
-| 19 | 19% | 45% |  |
-| 20 | 13% | 26% |  |
-| 21 | 7% | 12% |  |
-| 22 | 3% | 5% |  |
-| 23 | 1.4% | 2% |  |
-| 24 | 0.5% | 0.7% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0.1% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.8% | 99.8% |  |
+| 15 | 3% | 99.1% |  |
+| 16 | 6% | 96% |  |
+| 17 | 11% | 90% |  |
+| 18 | 14% | 79% |  |
+| 19 | 14% | 65% |  |
+| 20 | 13% | 51% | Median |
+| 21 | 12% | 38% |  |
+| 22 | 10% | 26% |  |
+| 23 | 8% | 16% |  |
+| 24 | 5% | 8% |  |
+| 25 | 2% | 3% |  |
+| 26 | 0.8% | 1.1% |  |
+| 27 | 0.2% | 0.3% |  |
+| 28 | 0% | 0.1% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
