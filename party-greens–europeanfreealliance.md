@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 36 | 33–41 | 32–42 | 31–43 | 30–46 |
+| Greens–European Free Alliance | EU | 53 | 36 | 33–40 | 32–42 | 31–43 | 30–46 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 9–13 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
@@ -49,7 +49,6 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
 | 29 | 0.3% | 99.9% |  |
-| 30 | 0.9% | 99.7% |  |
-| 31 | 2% | 98.8% |  |
+| 30 | 0.9% | 99.6% |  |
+| 31 | 3% | 98.7% |  |
 | 32 | 5% | 96% |  |
 | 33 | 9% | 91% |  |
-| 34 | 12% | 83% |  |
-| 35 | 14% | 70% |  |
-| 36 | 13% | 57% | Median |
-| 37 | 11% | 44% |  |
-| 38 | 9% | 33% |  |
-| 39 | 8% | 24% |  |
-| 40 | 6% | 16% |  |
-| 41 | 4% | 11% |  |
-| 42 | 3% | 6% |  |
-| 43 | 2% | 4% |  |
-| 44 | 0.9% | 2% |  |
-| 45 | 0.6% | 1.2% |  |
-| 46 | 0.3% | 0.6% |  |
-| 47 | 0.2% | 0.3% |  |
+| 34 | 13% | 81% |  |
+| 35 | 14% | 69% |  |
+| 36 | 13% | 55% | Median |
+| 37 | 11% | 42% |  |
+| 38 | 9% | 31% |  |
+| 39 | 7% | 22% |  |
+| 40 | 5% | 15% |  |
+| 41 | 4% | 9% |  |
+| 42 | 2% | 6% |  |
+| 43 | 1.4% | 3% |  |
+| 44 | 0.8% | 2% |  |
+| 45 | 0.5% | 1.0% |  |
+| 46 | 0.3% | 0.5% |  |
+| 47 | 0.1% | 0.2% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |

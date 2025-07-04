@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (+12 seats)
+Current median: **57** seats (+11 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 53–63 | 52–64 | 50–65 | 48–67 |
+| European United Left–Nordic Green Left | EU | 46 | 57 | 53–62 | 51–64 | 50–65 | 48–67 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
-| Movimento 5 Stelle | IT | | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
+| Movimento 5 Stelle | IT | | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–5 | 2–6 | 2–6 |
 | Podemos | ES | | 3 | 2–3 | 1–4 | 1–4 | 1–5 |
@@ -64,30 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0.1% | 100% | Last Result |
-| 47 | 0.1% | 99.9% |  |
-| 48 | 0.3% | 99.8% |  |
-| 49 | 0.7% | 99.4% |  |
-| 50 | 1.3% | 98.8% |  |
+| 47 | 0.2% | 99.9% |  |
+| 48 | 0.4% | 99.7% |  |
+| 49 | 0.8% | 99.4% |  |
+| 50 | 1.4% | 98.6% |  |
 | 51 | 2% | 97% |  |
-| 52 | 3% | 95% |  |
-| 53 | 5% | 92% |  |
-| 54 | 7% | 87% |  |
-| 55 | 8% | 80% |  |
-| 56 | 9% | 72% |  |
-| 57 | 10% | 62% |  |
-| 58 | 10% | 52% | Median |
-| 59 | 10% | 42% |  |
-| 60 | 9% | 32% |  |
-| 61 | 7% | 23% |  |
-| 62 | 6% | 16% |  |
-| 63 | 4% | 10% |  |
-| 64 | 3% | 6% |  |
-| 65 | 2% | 4% |  |
-| 66 | 1.0% | 2% |  |
-| 67 | 0.5% | 1.0% |  |
-| 68 | 0.3% | 0.5% |  |
-| 69 | 0.1% | 0.2% |  |
-| 70 | 0% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 52 | 4% | 95% |  |
+| 53 | 5% | 91% |  |
+| 54 | 7% | 86% |  |
+| 55 | 9% | 79% |  |
+| 56 | 10% | 70% |  |
+| 57 | 10% | 60% | Median |
+| 58 | 10% | 50% |  |
+| 59 | 10% | 40% |  |
+| 60 | 8% | 30% |  |
+| 61 | 7% | 21% |  |
+| 62 | 5% | 14% |  |
+| 63 | 4% | 9% |  |
+| 64 | 2% | 5% |  |
+| 65 | 1.5% | 3% |  |
+| 66 | 0.8% | 2% |  |
+| 67 | 0.4% | 0.7% |  |
+| 68 | 0.2% | 0.3% |  |
+| 69 | 0.1% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 
