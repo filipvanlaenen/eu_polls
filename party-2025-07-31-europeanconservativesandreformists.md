@@ -24,11 +24,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Alianța pentru Unirea Românilor | RO | | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Danmarksdemokraterne | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Občanská demokratická strana | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Juiste Antwoord 2021 | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,23 +57,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% |  |
-| 74 | 0.6% | 99.7% |  |
-| 75 | 1.3% | 99.1% |  |
+| 74 | 0.5% | 99.7% |  |
+| 75 | 1.2% | 99.2% |  |
 | 76 | 2% | 98% |  |
-| 77 | 4% | 95% |  |
+| 77 | 4% | 96% |  |
 | 78 | 7% | 91% | Last Result |
 | 79 | 9% | 85% |  |
-| 80 | 11% | 75% |  |
+| 80 | 12% | 76% |  |
 | 81 | 13% | 64% |  |
 | 82 | 13% | 51% | Median |
-| 83 | 12% | 38% |  |
-| 84 | 10% | 26% |  |
-| 85 | 7% | 17% |  |
-| 86 | 5% | 10% |  |
-| 87 | 3% | 5% |  |
-| 88 | 1.3% | 2% |  |
-| 89 | 0.6% | 1.0% |  |
-| 90 | 0.3% | 0.4% |  |
+| 83 | 12% | 37% |  |
+| 84 | 10% | 25% |  |
+| 85 | 7% | 16% |  |
+| 86 | 4% | 9% |  |
+| 87 | 2% | 5% |  |
+| 88 | 1.2% | 2% |  |
+| 89 | 0.6% | 0.9% |  |
+| 90 | 0.2% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
