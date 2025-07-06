@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **181** seats (-7 seats)
+Current median: **180** seats (-8 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 181 | 174–188 | 172–190 | 170–191 | 167–195 |
-| Partido Popular | ES | | 24 | 20–26 | 19–27 | 18–27 | 18–29 |
+| European People’s Party | EU | 188 | 180 | 173–188 | 172–190 | 170–192 | 167–195 |
+| Partido Popular | ES | | 24 | 19–26 | 19–27 | 18–28 | 18–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
 | Platforma Obywatelska | PL | | 18 | 16–19 | 16–19 | 15–20 | 14–21 |
 | Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
+| Forza Italia | IT | | 7 | 6–8 | 5–9 | 5–10 | 5–11 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Christlich-Soziale Union in Bayern | DE | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
@@ -53,7 +53,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| TOP 09 | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| TOP 09 | CZ | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -85,38 +85,38 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 164 | 0% | 100% |  |
 | 165 | 0.1% | 99.9% |  |
-| 166 | 0.1% | 99.8% |  |
-| 167 | 0.3% | 99.7% |  |
-| 168 | 0.4% | 99.4% |  |
-| 169 | 0.7% | 99.0% |  |
-| 170 | 1.1% | 98% |  |
+| 166 | 0.2% | 99.8% |  |
+| 167 | 0.3% | 99.6% |  |
+| 168 | 0.5% | 99.3% |  |
+| 169 | 0.8% | 98.8% |  |
+| 170 | 1.2% | 98% |  |
 | 171 | 2% | 97% |  |
-| 172 | 2% | 96% |  |
+| 172 | 2% | 95% |  |
 | 173 | 3% | 93% |  |
-| 174 | 4% | 91% |  |
-| 175 | 5% | 87% |  |
-| 176 | 5% | 82% |  |
-| 177 | 6% | 77% |  |
-| 178 | 7% | 71% |  |
-| 179 | 7% | 64% |  |
-| 180 | 7% | 57% |  |
-| 181 | 7% | 50% | Median |
-| 182 | 7% | 43% |  |
-| 183 | 6% | 37% |  |
-| 184 | 6% | 31% |  |
+| 174 | 4% | 90% |  |
+| 175 | 5% | 86% |  |
+| 176 | 5% | 81% |  |
+| 177 | 6% | 76% |  |
+| 178 | 7% | 70% |  |
+| 179 | 7% | 63% |  |
+| 180 | 7% | 56% | Median |
+| 181 | 7% | 50% |  |
+| 182 | 6% | 43% |  |
+| 183 | 6% | 36% |  |
+| 184 | 6% | 30% |  |
 | 185 | 5% | 25% |  |
-| 186 | 5% | 20% |  |
+| 186 | 4% | 20% |  |
 | 187 | 4% | 15% |  |
 | 188 | 3% | 11% | Last Result |
 | 189 | 2% | 8% |  |
 | 190 | 2% | 6% |  |
 | 191 | 1.4% | 4% |  |
-| 192 | 0.9% | 2% |  |
+| 192 | 1.0% | 3% |  |
 | 193 | 0.6% | 2% |  |
 | 194 | 0.4% | 0.9% |  |
 | 195 | 0.2% | 0.5% |  |
 | 196 | 0.1% | 0.3% |  |
-| 197 | 0.1% | 0.1% |  |
+| 197 | 0.1% | 0.2% |  |
 | 198 | 0% | 0.1% |  |
 | 199 | 0% | 0% |  |
 

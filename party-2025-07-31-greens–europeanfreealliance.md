@@ -21,12 +21,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 53 | 36 | 33–41 | 32–42 | 31–43 | 30–46 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 9–13 | 9–13 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 1–4 | 1–4 | 1–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -68,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.1% | 100% |  |
 | 29 | 0.2% | 99.9% |  |
 | 30 | 0.8% | 99.7% |  |
-| 31 | 2% | 98.9% |  |
+| 31 | 2% | 99.0% |  |
 | 32 | 5% | 97% |  |
 | 33 | 8% | 92% |  |
 | 34 | 12% | 84% |  |
-| 35 | 14% | 72% |  |
-| 36 | 13% | 58% | Median |
-| 37 | 11% | 45% |  |
-| 38 | 9% | 34% |  |
-| 39 | 7% | 24% |  |
+| 35 | 14% | 73% |  |
+| 36 | 14% | 59% | Median |
+| 37 | 12% | 46% |  |
+| 38 | 10% | 34% |  |
+| 39 | 8% | 24% |  |
 | 40 | 6% | 17% |  |
 | 41 | 4% | 11% |  |
 | 42 | 3% | 7% |  |
