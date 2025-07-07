@@ -36,7 +36,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Partidul S.O.S. România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,20 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.8% | 99.9% |  |
+| 14 | 0.7% | 99.9% |  |
 | 15 | 3% | 99.1% |  |
-| 16 | 6% | 96% |  |
-| 17 | 10% | 90% |  |
-| 18 | 13% | 80% |  |
-| 19 | 14% | 67% |  |
+| 16 | 6% | 97% |  |
+| 17 | 10% | 91% |  |
+| 18 | 13% | 81% |  |
+| 19 | 14% | 68% |  |
 | 20 | 13% | 54% | Median |
-| 21 | 12% | 40% |  |
+| 21 | 12% | 41% |  |
 | 22 | 11% | 28% |  |
-| 23 | 8% | 17% |  |
+| 23 | 8% | 18% |  |
 | 24 | 5% | 9% |  |
-| 25 | 2% | 4% |  |
-| 26 | 0.9% | 1.2% |  |
-| 27 | 0.3% | 0.3% |  |
+| 25 | 3% | 4% |  |
+| 26 | 1.0% | 1.3% |  |
+| 27 | 0.3% | 0.4% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
