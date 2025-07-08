@@ -54,6 +54,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | TOP 09 | CZ | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -71,7 +72,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -110,7 +110,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 188 | 3% | 13% | Last Result |
 | 189 | 3% | 9% |  |
 | 190 | 2% | 7% |  |
-| 191 | 2% | 5% |  |
+| 191 | 2% | 4% |  |
 | 192 | 1.1% | 3% |  |
 | 193 | 0.7% | 2% |  |
 | 194 | 0.5% | 1.1% |  |

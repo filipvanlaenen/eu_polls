@@ -23,7 +23,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Partito Democratico | IT | | 19 | 18–21 | 17–22 | 17–22 | 16–24 |
 | Sozialdemokratische Partei Deutschlands | DE | | 15 | 13–16 | 12–16 | 12–17 | 11–17 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
-| Partidul Social Democrat | RO | | 8 | 5–9 | 5–9 | 5–10 | 4–10 |
+| Partidul Social Democrat | RO | | 8 | 5–9 | 5–9 | 4–10 | 4–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Partido Socialista | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 0.2% | 99.7% |  |
 | 112 | 0.4% | 99.5% |  |
 | 113 | 0.6% | 99.1% |  |
-| 114 | 0.8% | 98.5% |  |
+| 114 | 0.8% | 98% |  |
 | 115 | 1.1% | 98% |  |
 | 116 | 1.5% | 97% |  |
 | 117 | 2% | 95% |  |
