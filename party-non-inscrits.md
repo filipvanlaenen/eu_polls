@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 16–23 | 15–24 | 15–24 | 14–26 |
+| Non-Inscrits | EU | 32 | 19 | 16–22 | 15–23 | 15–23 | 13–25 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -32,7 +32,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Konfederacja Korony Polskiej | PL | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Konfederacja Korony Polskiej | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -49,21 +49,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 1.3% | 99.7% |  |
-| 15 | 4% | 98% |  |
-| 16 | 8% | 94% |  |
-| 17 | 12% | 87% |  |
-| 18 | 14% | 75% |  |
-| 19 | 14% | 61% | Median |
-| 20 | 13% | 47% |  |
-| 21 | 12% | 34% |  |
-| 22 | 10% | 23% |  |
-| 23 | 7% | 13% |  |
-| 24 | 4% | 6% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.5% | 0.7% |  |
-| 27 | 0.1% | 0.2% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.5% | 99.9% |  |
+| 14 | 2% | 99.5% |  |
+| 15 | 5% | 98% |  |
+| 16 | 10% | 92% |  |
+| 17 | 15% | 82% |  |
+| 18 | 16% | 68% |  |
+| 19 | 15% | 51% | Median |
+| 20 | 13% | 36% |  |
+| 21 | 10% | 23% |  |
+| 22 | 7% | 13% |  |
+| 23 | 4% | 6% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.5% | 0.7% |  |
+| 26 | 0.1% | 0.2% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |

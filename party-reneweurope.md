@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **75** seats (-2 seats)
+Current median: **76** seats (-1 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 75 | 71–80 | 69–81 | 68–83 | 66–85 |
+| Renew Europe | EU | 77 | 76 | 71–81 | 69–82 | 68–83 | 66–86 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Progresívne Slovensko | SK | | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| Progresívne Slovensko | SK | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -66,7 +66,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska 2050 | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
+| Polska 2050 | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -81,32 +81,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0% | 100% |  |
-| 64 | 0.1% | 99.9% |  |
-| 65 | 0.2% | 99.8% |  |
-| 66 | 0.5% | 99.6% |  |
-| 67 | 0.9% | 99.1% |  |
-| 68 | 2% | 98% |  |
-| 69 | 3% | 97% |  |
-| 70 | 4% | 94% |  |
-| 71 | 6% | 90% |  |
-| 72 | 7% | 85% |  |
-| 73 | 9% | 77% |  |
-| 74 | 10% | 68% |  |
-| 75 | 11% | 58% | Median |
-| 76 | 11% | 47% |  |
-| 77 | 10% | 36% | Last Result |
-| 78 | 8% | 27% |  |
-| 79 | 6% | 19% |  |
-| 80 | 5% | 12% |  |
-| 81 | 3% | 8% |  |
-| 82 | 2% | 5% |  |
-| 83 | 1.3% | 3% |  |
-| 84 | 0.7% | 1.4% |  |
-| 85 | 0.4% | 0.7% |  |
-| 86 | 0.2% | 0.3% |  |
-| 87 | 0.1% | 0.1% |  |
-| 88 | 0% | 0.1% |  |
+| 64 | 0.1% | 100% |  |
+| 65 | 0.2% | 99.9% |  |
+| 66 | 0.4% | 99.7% |  |
+| 67 | 0.8% | 99.2% |  |
+| 68 | 1.4% | 98% |  |
+| 69 | 2% | 97% |  |
+| 70 | 3% | 95% |  |
+| 71 | 5% | 91% |  |
+| 72 | 7% | 86% |  |
+| 73 | 8% | 80% |  |
+| 74 | 10% | 71% |  |
+| 75 | 11% | 62% |  |
+| 76 | 11% | 51% | Median |
+| 77 | 10% | 41% | Last Result |
+| 78 | 9% | 31% |  |
+| 79 | 7% | 22% |  |
+| 80 | 5% | 15% |  |
+| 81 | 4% | 10% |  |
+| 82 | 3% | 6% |  |
+| 83 | 2% | 4% |  |
+| 84 | 1.0% | 2% |  |
+| 85 | 0.6% | 1.1% |  |
+| 86 | 0.3% | 0.6% |  |
+| 87 | 0.1% | 0.3% |  |
+| 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |
 
 

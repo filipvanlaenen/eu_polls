@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 181 | 174–189 | 172–191 | 171–192 | 168–195 |
+| European People’s Party | EU | 188 | 181 | 174–189 | 172–191 | 171–192 | 167–195 |
 | Partido Popular | ES | | 24 | 20–26 | 19–27 | 18–28 | 18–29 |
 | Christlich Demokratische Union Deutschlands | DE | | 21 | 20–23 | 20–24 | 19–24 | 18–25 |
-| Platforma Obywatelska | PL | | 18 | 16–19 | 16–19 | 15–20 | 14–21 |
+| Platforma Obywatelska | PL | | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
 | Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -49,11 +49,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Det Konservative Folkeparti | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| TOP 09 | CZ | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| TOP 09 | CZ | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,7 +66,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
-| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -88,11 +88,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 0.1% | 99.9% |  |
 | 167 | 0.2% | 99.7% |  |
 | 168 | 0.4% | 99.5% |  |
-| 169 | 0.6% | 99.2% |  |
-| 170 | 0.9% | 98.6% |  |
+| 169 | 0.6% | 99.1% |  |
+| 170 | 0.9% | 98% |  |
 | 171 | 1.3% | 98% |  |
 | 172 | 2% | 96% |  |
-| 173 | 2% | 95% |  |
+| 173 | 2% | 94% |  |
 | 174 | 3% | 92% |  |
 | 175 | 4% | 89% |  |
 | 176 | 5% | 85% |  |
@@ -101,10 +101,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 179 | 7% | 68% |  |
 | 180 | 7% | 61% |  |
 | 181 | 7% | 54% | Median |
-| 182 | 7% | 47% |  |
+| 182 | 7% | 48% |  |
 | 183 | 6% | 41% |  |
-| 184 | 6% | 34% |  |
-| 185 | 5% | 28% |  |
+| 184 | 6% | 35% |  |
+| 185 | 5% | 29% |  |
 | 186 | 5% | 23% |  |
 | 187 | 4% | 18% |  |
 | 188 | 4% | 14% | Last Result |
@@ -112,9 +112,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 190 | 2% | 7% |  |
 | 191 | 2% | 5% |  |
 | 192 | 1.2% | 3% |  |
-| 193 | 0.8% | 2% |  |
-| 194 | 0.5% | 1.3% |  |
-| 195 | 0.3% | 0.7% |  |
+| 193 | 0.9% | 2% |  |
+| 194 | 0.6% | 1.3% |  |
+| 195 | 0.3% | 0.8% |  |
 | 196 | 0.2% | 0.4% |  |
 | 197 | 0.1% | 0.2% |  |
 | 198 | 0.1% | 0.1% |  |
