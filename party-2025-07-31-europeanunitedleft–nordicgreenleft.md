@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 53–62 | 51–63 | 50–65 | 48–67 |
+| European United Left–Nordic Green Left | EU | 46 | 57 | 53–62 | 51–63 | 50–64 | 48–67 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -64,27 +64,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0.1% | 100% | Last Result |
 | 47 | 0.2% | 99.9% |  |
-| 48 | 0.4% | 99.8% |  |
-| 49 | 0.8% | 99.4% |  |
-| 50 | 1.5% | 98.6% |  |
+| 48 | 0.4% | 99.7% |  |
+| 49 | 0.8% | 99.3% |  |
+| 50 | 2% | 98.5% |  |
 | 51 | 3% | 97% |  |
-| 52 | 4% | 95% |  |
-| 53 | 6% | 91% |  |
+| 52 | 4% | 94% |  |
+| 53 | 6% | 90% |  |
 | 54 | 7% | 85% |  |
-| 55 | 9% | 78% |  |
-| 56 | 10% | 69% |  |
+| 55 | 9% | 77% |  |
+| 56 | 10% | 68% |  |
 | 57 | 11% | 58% | Median |
-| 58 | 11% | 48% |  |
+| 58 | 10% | 47% |  |
 | 59 | 10% | 37% |  |
 | 60 | 8% | 27% |  |
 | 61 | 6% | 19% |  |
 | 62 | 5% | 13% |  |
 | 63 | 3% | 8% |  |
 | 64 | 2% | 5% |  |
-| 65 | 1.3% | 3% |  |
-| 66 | 0.7% | 1.3% |  |
+| 65 | 1.2% | 2% |  |
+| 66 | 0.7% | 1.2% |  |
 | 67 | 0.3% | 0.6% |  |
-| 68 | 0.2% | 0.3% |  |
+| 68 | 0.1% | 0.2% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 
