@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **57** seats (+11 seats)
+Current median: **58** seats (+12 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 53–62 | 51–63 | 50–64 | 48–67 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 53–62 | 52–64 | 51–65 | 49–67 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
-| Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
-| Die Linke | DE | | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
+| Movimento 5 Stelle | IT | | 11 | 10–12 | 9–13 | 9–14 | 8–14 |
+| Die Linke | DE | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–5 | 2–6 | 2–6 |
-| Podemos | ES | | 2 | 2–3 | 1–4 | 1–4 | 1–5 |
+| Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–5 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -44,12 +44,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0 |
+| Sinistra Italiana | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Νέα Αριστερά | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,30 +62,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 46 | 0.1% | 100% | Last Result |
-| 47 | 0.2% | 99.9% |  |
-| 48 | 0.4% | 99.7% |  |
-| 49 | 0.8% | 99.3% |  |
-| 50 | 2% | 98.5% |  |
-| 51 | 3% | 97% |  |
-| 52 | 4% | 94% |  |
-| 53 | 6% | 90% |  |
-| 54 | 7% | 85% |  |
-| 55 | 9% | 77% |  |
-| 56 | 10% | 68% |  |
-| 57 | 11% | 58% | Median |
-| 58 | 10% | 47% |  |
-| 59 | 10% | 37% |  |
-| 60 | 8% | 27% |  |
-| 61 | 6% | 19% |  |
-| 62 | 5% | 13% |  |
-| 63 | 3% | 8% |  |
+| 46 | 0% | 100% | Last Result |
+| 47 | 0.1% | 99.9% |  |
+| 48 | 0.3% | 99.8% |  |
+| 49 | 0.6% | 99.6% |  |
+| 50 | 1.2% | 99.0% |  |
+| 51 | 2% | 98% |  |
+| 52 | 3% | 96% |  |
+| 53 | 5% | 92% |  |
+| 54 | 7% | 87% |  |
+| 55 | 9% | 80% |  |
+| 56 | 10% | 72% |  |
+| 57 | 11% | 62% |  |
+| 58 | 11% | 51% | Median |
+| 59 | 10% | 40% |  |
+| 60 | 9% | 30% |  |
+| 61 | 7% | 21% |  |
+| 62 | 5% | 14% |  |
+| 63 | 4% | 9% |  |
 | 64 | 2% | 5% |  |
-| 65 | 1.2% | 2% |  |
-| 66 | 0.7% | 1.2% |  |
-| 67 | 0.3% | 0.6% |  |
-| 68 | 0.1% | 0.2% |  |
-| 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0% |  |
+| 65 | 1.4% | 3% |  |
+| 66 | 0.8% | 2% |  |
+| 67 | 0.4% | 0.8% |  |
+| 68 | 0.2% | 0.4% |  |
+| 69 | 0.1% | 0.2% |  |
+| 70 | 0% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 

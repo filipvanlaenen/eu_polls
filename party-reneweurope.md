@@ -18,13 +18,13 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 75 | 71–80 | 69–82 | 68–83 | 66–85 |
+| Renew Europe | EU | 77 | 75 | 70–80 | 69–82 | 68–83 | 66–85 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Democraten 66 | NL | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -40,12 +40,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Δημοκρατίας | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Алианс за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -83,26 +83,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 63 | 0% | 100% |  |
 | 64 | 0.1% | 99.9% |  |
-| 65 | 0.2% | 99.9% |  |
+| 65 | 0.3% | 99.8% |  |
 | 66 | 0.5% | 99.6% |  |
-| 67 | 0.9% | 99.2% |  |
+| 67 | 1.0% | 99.1% |  |
 | 68 | 2% | 98% |  |
-| 69 | 2% | 97% |  |
+| 69 | 3% | 96% |  |
 | 70 | 4% | 94% |  |
-| 71 | 5% | 91% |  |
-| 72 | 7% | 85% |  |
-| 73 | 9% | 78% |  |
-| 74 | 10% | 70% |  |
-| 75 | 11% | 60% | Median |
-| 76 | 11% | 49% |  |
-| 77 | 10% | 38% | Last Result |
-| 78 | 8% | 29% |  |
-| 79 | 7% | 20% |  |
+| 71 | 5% | 90% |  |
+| 72 | 7% | 84% |  |
+| 73 | 9% | 77% |  |
+| 74 | 10% | 68% |  |
+| 75 | 11% | 58% | Median |
+| 76 | 10% | 48% |  |
+| 77 | 9% | 38% | Last Result |
+| 78 | 8% | 28% |  |
+| 79 | 6% | 20% |  |
 | 80 | 5% | 14% |  |
 | 81 | 3% | 9% |  |
-| 82 | 2% | 5% |  |
-| 83 | 1.4% | 3% |  |
-| 84 | 0.8% | 2% |  |
+| 82 | 2% | 6% |  |
+| 83 | 1.5% | 3% |  |
+| 84 | 0.9% | 2% |  |
 | 85 | 0.5% | 0.9% |  |
 | 86 | 0.2% | 0.4% |  |
 | 87 | 0.1% | 0.2% |  |

@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 33–43 | 32–44 | 30–46 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
+| Greens–European Free Alliance | EU | 53 | 37 | 33–41 | 33–43 | 32–44 | 31–47 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 9–13 | 9–13 |
 | GroenLinks | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -35,7 +35,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Pessoas–Animais–Natureza | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
-| Volt Europa | DE | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Volt Europa | DE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
 | 30 | 0.4% | 99.9% |  |
-| 31 | 1.2% | 99.5% |  |
+| 31 | 1.1% | 99.5% |  |
 | 32 | 3% | 98% |  |
-| 33 | 6% | 95% |  |
-| 34 | 10% | 89% |  |
-| 35 | 13% | 79% |  |
-| 36 | 14% | 66% |  |
-| 37 | 13% | 53% | Median |
-| 38 | 11% | 40% |  |
-| 39 | 9% | 29% |  |
-| 40 | 7% | 20% |  |
-| 41 | 5% | 14% |  |
-| 42 | 3% | 9% |  |
-| 43 | 2% | 5% |  |
-| 44 | 1.3% | 3% |  |
-| 45 | 0.8% | 2% |  |
-| 46 | 0.4% | 0.9% |  |
-| 47 | 0.2% | 0.4% |  |
-| 48 | 0.1% | 0.2% |  |
+| 33 | 6% | 96% |  |
+| 34 | 9% | 90% |  |
+| 35 | 12% | 81% |  |
+| 36 | 13% | 69% |  |
+| 37 | 13% | 56% | Median |
+| 38 | 11% | 43% |  |
+| 39 | 9% | 32% |  |
+| 40 | 7% | 23% |  |
+| 41 | 6% | 16% |  |
+| 42 | 4% | 10% |  |
+| 43 | 3% | 6% |  |
+| 44 | 2% | 3% |  |
+| 45 | 0.9% | 2% |  |
+| 46 | 0.5% | 1.1% |  |
+| 47 | 0.3% | 0.5% |  |
+| 48 | 0.2% | 0.2% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

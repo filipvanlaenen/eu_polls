@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 81 | 77–85 | 75–86 | 74–87 | 72–89 |
-| Fratelli d’Italia | IT | | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
-| Zjednoczona Prawica | PL | | 19 | 17–20 | 16–21 | 15–21 | 14–22 |
-| Alianța pentru Unirea Românilor | RO | | 13 | 12–16 | 12–16 | 12–16 | 11–17 |
+| European Conservatives and Reformists | EU | 78 | 81 | 76–85 | 75–86 | 74–87 | 72–89 |
+| Fratelli d’Italia | IT | | 25 | 22–27 | 22–28 | 21–29 | 21–29 |
+| Zjednoczona Prawica | PL | | 19 | 16–20 | 16–21 | 16–21 | 15–22 |
+| Alianța pentru Unirea Românilor | RO | | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -57,20 +57,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
 | 71 | 0.2% | 99.9% |  |
-| 72 | 0.4% | 99.8% |  |
-| 73 | 0.8% | 99.4% |  |
-| 74 | 2% | 98.6% |  |
+| 72 | 0.5% | 99.7% |  |
+| 73 | 1.0% | 99.3% |  |
+| 74 | 2% | 98% |  |
 | 75 | 3% | 97% |  |
-| 76 | 4% | 94% |  |
-| 77 | 6% | 90% |  |
-| 78 | 8% | 84% | Last Result |
-| 79 | 10% | 75% |  |
-| 80 | 12% | 65% |  |
-| 81 | 12% | 53% | Median |
+| 76 | 5% | 94% |  |
+| 77 | 7% | 89% |  |
+| 78 | 8% | 82% | Last Result |
+| 79 | 10% | 74% |  |
+| 80 | 11% | 64% |  |
+| 81 | 12% | 52% | Median |
 | 82 | 11% | 41% |  |
 | 83 | 10% | 30% |  |
-| 84 | 7% | 20% |  |
-| 85 | 5% | 12% |  |
+| 84 | 8% | 20% |  |
+| 85 | 5% | 13% |  |
 | 86 | 3% | 7% |  |
 | 87 | 2% | 4% |  |
 | 88 | 1.0% | 2% |  |
