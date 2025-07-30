@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (+12 seats)
+Current median: **59** seats (+13 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 53–62 | 52–64 | 51–65 | 49–67 |
+| European United Left–Nordic Green Left | EU | 46 | 59 | 54–63 | 53–65 | 51–66 | 49–68 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 10–12 | 9–13 | 9–14 | 8–14 |
-| Die Linke | DE | | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
+| Die Linke | DE | | 10 | 8–12 | 8–12 | 8–13 | 7–14 |
 | Sinn Féin | IE | | 5 | 3–5 | 3–5 | 2–6 | 2–6 |
-| Podemos | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–5 |
+| Podemos | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Socialistische Partij | NL | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Stačilo! | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -63,30 +63,31 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
-| 47 | 0.1% | 99.9% |  |
-| 48 | 0.3% | 99.8% |  |
-| 49 | 0.6% | 99.6% |  |
-| 50 | 1.2% | 99.0% |  |
-| 51 | 2% | 98% |  |
-| 52 | 3% | 96% |  |
-| 53 | 5% | 92% |  |
-| 54 | 7% | 87% |  |
-| 55 | 9% | 80% |  |
-| 56 | 10% | 72% |  |
-| 57 | 11% | 62% |  |
-| 58 | 11% | 51% | Median |
-| 59 | 10% | 40% |  |
-| 60 | 9% | 30% |  |
-| 61 | 7% | 21% |  |
-| 62 | 5% | 14% |  |
-| 63 | 4% | 9% |  |
-| 64 | 2% | 5% |  |
-| 65 | 1.4% | 3% |  |
-| 66 | 0.8% | 2% |  |
-| 67 | 0.4% | 0.8% |  |
-| 68 | 0.2% | 0.4% |  |
-| 69 | 0.1% | 0.2% |  |
-| 70 | 0% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.1% | 99.9% |  |
+| 49 | 0.3% | 99.8% |  |
+| 50 | 0.7% | 99.4% |  |
+| 51 | 1.3% | 98.8% |  |
+| 52 | 2% | 97% |  |
+| 53 | 4% | 95% |  |
+| 54 | 5% | 92% |  |
+| 55 | 7% | 86% |  |
+| 56 | 9% | 79% |  |
+| 57 | 10% | 71% |  |
+| 58 | 11% | 61% |  |
+| 59 | 11% | 50% | Median |
+| 60 | 10% | 40% |  |
+| 61 | 9% | 30% |  |
+| 62 | 7% | 21% |  |
+| 63 | 5% | 14% |  |
+| 64 | 4% | 9% |  |
+| 65 | 2% | 6% |  |
+| 66 | 1.5% | 3% |  |
+| 67 | 0.8% | 2% |  |
+| 68 | 0.4% | 0.8% |  |
+| 69 | 0.2% | 0.4% |  |
+| 70 | 0.1% | 0.2% |  |
+| 71 | 0% | 0.1% |  |
+| 72 | 0% | 0% |  |
 
 

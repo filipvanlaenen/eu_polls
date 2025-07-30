@@ -44,7 +44,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 
 ### Probability Mass Function
 
@@ -54,11 +54,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 38% | 100% | Last Result |
-| 2 | 43% | 62% | Median |
-| 3 | 16% | 19% |  |
-| 4 | 3% | 3% |  |
-| 5 | 0.1% | 0.1% |  |
+| 1 | 30% | 100% | Last Result |
+| 2 | 44% | 70% | Median |
+| 3 | 22% | 27% |  |
+| 4 | 4% | 5% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
