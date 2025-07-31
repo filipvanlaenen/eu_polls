@@ -18,11 +18,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 180 | 173–188 | 171–190 | 170–191 | 166–194 |
+| European People’s Party | EU | 188 | 180 | 173–187 | 171–189 | 169–191 | 166–194 |
 | Partido Popular | ES | | 24 | 19–26 | 18–27 | 18–27 | 18–28 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 19–23 | 19–23 | 18–23 | 17–25 |
 | Platforma Obywatelska | PL | | 18 | 16–20 | 16–21 | 16–21 | 15–21 |
-| Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
+| Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
@@ -30,17 +30,17 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Christen-Democratisch Appèl | NL | | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Kansallinen Kokoomus | FI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| Fine Gael | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Erakond Isamaa | EE | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -86,39 +86,38 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 0% | 100% |  |
 | 164 | 0.1% | 99.9% |  |
 | 165 | 0.1% | 99.8% |  |
-| 166 | 0.2% | 99.7% |  |
+| 166 | 0.3% | 99.7% |  |
 | 167 | 0.4% | 99.4% |  |
-| 168 | 0.6% | 99.1% |  |
+| 168 | 0.6% | 99.0% |  |
 | 169 | 0.9% | 98% |  |
-| 170 | 1.3% | 98% |  |
+| 170 | 1.4% | 97% |  |
 | 171 | 2% | 96% |  |
-| 172 | 2% | 94% |  |
+| 172 | 3% | 94% |  |
 | 173 | 3% | 92% |  |
-| 174 | 4% | 89% |  |
-| 175 | 5% | 85% |  |
-| 176 | 6% | 80% |  |
-| 177 | 6% | 74% |  |
-| 178 | 7% | 68% |  |
-| 179 | 7% | 61% |  |
-| 180 | 7% | 55% | Median |
-| 181 | 7% | 48% |  |
-| 182 | 6% | 41% |  |
-| 183 | 6% | 35% |  |
-| 184 | 5% | 29% |  |
-| 185 | 5% | 23% |  |
-| 186 | 4% | 18% |  |
-| 187 | 4% | 14% |  |
-| 188 | 3% | 11% | Last Result |
-| 189 | 2% | 8% |  |
+| 174 | 4% | 88% |  |
+| 175 | 5% | 84% |  |
+| 176 | 6% | 79% |  |
+| 177 | 6% | 73% |  |
+| 178 | 7% | 67% |  |
+| 179 | 7% | 60% |  |
+| 180 | 7% | 53% | Median |
+| 181 | 7% | 46% |  |
+| 182 | 6% | 40% |  |
+| 183 | 6% | 33% |  |
+| 184 | 5% | 27% |  |
+| 185 | 5% | 22% |  |
+| 186 | 4% | 17% |  |
+| 187 | 3% | 13% |  |
+| 188 | 3% | 10% | Last Result |
+| 189 | 2% | 7% |  |
 | 190 | 2% | 5% |  |
-| 191 | 1.3% | 4% |  |
-| 192 | 0.9% | 2% |  |
-| 193 | 0.6% | 1.4% |  |
-| 194 | 0.4% | 0.8% |  |
-| 195 | 0.2% | 0.5% |  |
+| 191 | 1.1% | 3% |  |
+| 192 | 0.8% | 2% |  |
+| 193 | 0.5% | 1.1% |  |
+| 194 | 0.3% | 0.7% |  |
+| 195 | 0.2% | 0.4% |  |
 | 196 | 0.1% | 0.2% |  |
 | 197 | 0.1% | 0.1% |  |
-| 198 | 0% | 0.1% |  |
-| 199 | 0% | 0% |  |
+| 198 | 0% | 0% |  |
 
 
