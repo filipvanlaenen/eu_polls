@@ -10,15 +10,15 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **20** seats (-12 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> DE, ES, GR, LV, PL, SK
+> DE, ES, GR, LV, PL, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 20 | 17–23 | 16–24 | 15–24 | 14–25 |
+| Non-Inscrits | EU | 32 | 20 | 17–23 | 16–24 | 15–24 | 14–26 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Konfederacja Korony Polskiej | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
@@ -27,6 +27,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Resni.ca | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,7 +40,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0–1 | 0–2 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -49,21 +49,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
+| 12 | 0% | 100% |  |
 | 13 | 0.3% | 99.9% |  |
-| 14 | 1.2% | 99.6% |  |
-| 15 | 3% | 98% |  |
+| 14 | 0.9% | 99.7% |  |
+| 15 | 2% | 98.7% |  |
 | 16 | 5% | 96% |  |
-| 17 | 8% | 90% |  |
-| 18 | 11% | 82% |  |
-| 19 | 14% | 71% |  |
-| 20 | 16% | 57% | Median |
-| 21 | 16% | 40% |  |
-| 22 | 12% | 25% |  |
-| 23 | 7% | 13% |  |
-| 24 | 4% | 5% |  |
-| 25 | 1.3% | 2% |  |
-| 26 | 0.4% | 0.4% |  |
+| 17 | 8% | 91% |  |
+| 18 | 10% | 84% |  |
+| 19 | 13% | 74% |  |
+| 20 | 16% | 60% | Median |
+| 21 | 16% | 44% |  |
+| 22 | 13% | 29% |  |
+| 23 | 9% | 15% |  |
+| 24 | 4% | 7% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.5% | 0.7% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
