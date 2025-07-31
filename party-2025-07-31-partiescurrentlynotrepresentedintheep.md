@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **17 countries**:
+Members registered from **16 countries**:
 
-> BE, BG, CY, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, SI
+> BE, BG, CY, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL
 
 ## Seats
 
@@ -18,16 +18,15 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Apvienība Jaunlatvieši [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -54,11 +53,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 26% | 100% | Last Result |
-| 2 | 44% | 74% | Median |
-| 3 | 25% | 30% |  |
-| 4 | 5% | 6% |  |
-| 5 | 0.3% | 0.3% |  |
+| 1 | 24% | 100% | Last Result |
+| 2 | 43% | 76% | Median |
+| 3 | 26% | 32% |  |
+| 4 | 6% | 7% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 

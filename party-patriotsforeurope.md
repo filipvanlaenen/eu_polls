@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **98** seats (+14 seats)
+Current median: **97** seats (+13 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 98 | 93–103 | 92–104 | 91–105 | 89–107 |
+| Patriots for Europe | EU | 84 | 97 | 93–102 | 92–103 | 90–104 | 88–107 |
 | Rassemblement national | FR | | 30 | 28–33 | 27–34 | 26–34 | 24–36 |
 | Vox | ES | | 10 | 9–13 | 9–14 | 8–14 | 7–14 |
 | ANO 2011 | CZ | | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 7–12 | 7–12 | 7–12 |
 | Lega Nord | IT | | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
-| Partij voor de Vrijheid | NL | | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| Chega | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Ruch Narodowy | PL | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
+| Partij voor de Vrijheid | NL | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
+| Chega | PT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| Ruch Narodowy | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | Vlaams Belang | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Latvija pirmajā vietā | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -37,7 +37,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Φωνή Λογικής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -50,31 +50,30 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0% | 100% | Last Result |
 | 85 | 0% | 100% |  |
-| 86 | 0% | 100% |  |
-| 87 | 0.1% | 100% |  |
-| 88 | 0.2% | 99.9% |  |
-| 89 | 0.4% | 99.7% |  |
-| 90 | 0.8% | 99.3% |  |
-| 91 | 2% | 98% |  |
-| 92 | 3% | 97% |  |
-| 93 | 4% | 94% |  |
-| 94 | 6% | 90% |  |
-| 95 | 8% | 83% |  |
-| 96 | 10% | 75% |  |
-| 97 | 11% | 65% |  |
-| 98 | 11% | 54% | Median |
-| 99 | 11% | 43% |  |
-| 100 | 9% | 33% |  |
-| 101 | 8% | 24% |  |
-| 102 | 6% | 16% |  |
-| 103 | 4% | 10% |  |
-| 104 | 3% | 6% |  |
-| 105 | 2% | 4% |  |
-| 106 | 1.0% | 2% |  |
-| 107 | 0.5% | 1.0% |  |
-| 108 | 0.3% | 0.5% |  |
-| 109 | 0.1% | 0.2% |  |
-| 110 | 0.1% | 0.1% |  |
-| 111 | 0% | 0% |  |
+| 86 | 0.1% | 100% |  |
+| 87 | 0.1% | 99.9% |  |
+| 88 | 0.3% | 99.8% |  |
+| 89 | 0.7% | 99.4% |  |
+| 90 | 1.3% | 98.8% |  |
+| 91 | 2% | 97% |  |
+| 92 | 4% | 95% |  |
+| 93 | 6% | 91% |  |
+| 94 | 8% | 86% |  |
+| 95 | 10% | 78% |  |
+| 96 | 11% | 68% |  |
+| 97 | 11% | 58% | Median |
+| 98 | 11% | 46% |  |
+| 99 | 10% | 35% |  |
+| 100 | 8% | 26% |  |
+| 101 | 6% | 18% |  |
+| 102 | 4% | 12% |  |
+| 103 | 3% | 7% |  |
+| 104 | 2% | 4% |  |
+| 105 | 1.1% | 2% |  |
+| 106 | 0.6% | 1.2% |  |
+| 107 | 0.3% | 0.6% |  |
+| 108 | 0.1% | 0.3% |  |
+| 109 | 0.1% | 0.1% |  |
+| 110 | 0% | 0% |  |
 
 

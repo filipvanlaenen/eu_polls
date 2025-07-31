@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 36 | 34–40 | 33–41 | 32–42 | 31–44 |
+| Europe of Sovereign Nations | EU | 25 | 36 | 33–40 | 33–41 | 32–42 | 31–44 |
 | Alternative für Deutschland | DE | | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
-| Nowa Nadzieja | PL | | 6 | 4–6 | 4–7 | 4–7 | 3–8 |
+| Nowa Nadzieja | PL | | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Forum voor Democratie | NL | | 0 | 0 | 0 | 0 | 0 |
+| Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 
 ### Probability Mass Function
@@ -41,17 +41,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0% | 100% |  |
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
-| 30 | 0.2% | 100% |  |
-| 31 | 0.8% | 99.8% |  |
-| 32 | 3% | 99.1% |  |
-| 33 | 6% | 96% |  |
-| 34 | 11% | 90% |  |
-| 35 | 16% | 79% |  |
-| 36 | 18% | 63% | Median |
-| 37 | 16% | 45% |  |
-| 38 | 12% | 29% |  |
-| 39 | 7% | 18% |  |
-| 40 | 4% | 11% |  |
+| 30 | 0.3% | 100% |  |
+| 31 | 1.1% | 99.7% |  |
+| 32 | 3% | 98.6% |  |
+| 33 | 7% | 95% |  |
+| 34 | 12% | 89% |  |
+| 35 | 16% | 77% |  |
+| 36 | 17% | 61% | Median |
+| 37 | 15% | 43% |  |
+| 38 | 11% | 28% |  |
+| 39 | 7% | 17% |  |
+| 40 | 4% | 10% |  |
 | 41 | 3% | 6% |  |
 | 42 | 2% | 4% |  |
 | 43 | 1.1% | 2% |  |
