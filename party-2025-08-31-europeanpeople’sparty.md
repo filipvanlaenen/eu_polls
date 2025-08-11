@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **179** seats (-9 seats)
+Current median: **178** seats (-10 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 179 | 171–186 | 169–188 | 168–190 | 164–193 |
+| European People’s Party | EU | 188 | 178 | 171–186 | 169–188 | 167–189 | 164–192 |
 | Partido Popular | ES | | 24 | 19–26 | 18–27 | 18–27 | 18–28 |
-| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–23 | 18–23 | 18–23 | 17–25 |
+| Christlich Demokratische Union Deutschlands | DE | | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | Platforma Obywatelska | PL | | 18 | 15–20 | 15–21 | 14–21 | 13–22 |
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
@@ -40,7 +40,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -83,43 +83,43 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0% | 100% |  |
+| 160 | 0% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
 | 162 | 0.1% | 99.9% |  |
-| 163 | 0.1% | 99.8% |  |
-| 164 | 0.2% | 99.7% |  |
-| 165 | 0.4% | 99.5% |  |
-| 166 | 0.6% | 99.1% |  |
-| 167 | 0.9% | 98.5% |  |
-| 168 | 1.2% | 98% |  |
-| 169 | 2% | 96% |  |
-| 170 | 2% | 95% |  |
-| 171 | 3% | 92% |  |
-| 172 | 4% | 89% |  |
-| 173 | 5% | 86% |  |
-| 174 | 5% | 81% |  |
-| 175 | 6% | 76% |  |
-| 176 | 6% | 70% |  |
-| 177 | 7% | 63% |  |
-| 178 | 7% | 57% |  |
-| 179 | 7% | 50% | Median |
-| 180 | 6% | 43% |  |
-| 181 | 6% | 37% |  |
-| 182 | 6% | 31% |  |
-| 183 | 5% | 25% |  |
-| 184 | 4% | 20% |  |
-| 185 | 4% | 16% |  |
-| 186 | 3% | 12% |  |
-| 187 | 3% | 9% |  |
-| 188 | 2% | 6% | Last Result |
-| 189 | 1.5% | 4% |  |
-| 190 | 1.0% | 3% |  |
-| 191 | 0.7% | 2% |  |
-| 192 | 0.5% | 1.1% |  |
-| 193 | 0.3% | 0.7% |  |
-| 194 | 0.2% | 0.4% |  |
-| 195 | 0.1% | 0.2% |  |
-| 196 | 0.1% | 0.1% |  |
-| 197 | 0% | 0.1% |  |
-| 198 | 0% | 0% |  |
+| 163 | 0.2% | 99.7% |  |
+| 164 | 0.3% | 99.5% |  |
+| 165 | 0.5% | 99.2% |  |
+| 166 | 0.7% | 98.7% |  |
+| 167 | 1.1% | 98% |  |
+| 168 | 1.5% | 97% |  |
+| 169 | 2% | 95% |  |
+| 170 | 3% | 93% |  |
+| 171 | 3% | 91% |  |
+| 172 | 4% | 87% |  |
+| 173 | 5% | 83% |  |
+| 174 | 6% | 78% |  |
+| 175 | 6% | 73% |  |
+| 176 | 7% | 67% |  |
+| 177 | 7% | 60% |  |
+| 178 | 7% | 53% | Median |
+| 179 | 7% | 47% |  |
+| 180 | 6% | 40% |  |
+| 181 | 6% | 34% |  |
+| 182 | 5% | 28% |  |
+| 183 | 5% | 23% |  |
+| 184 | 4% | 18% |  |
+| 185 | 4% | 14% |  |
+| 186 | 3% | 10% |  |
+| 187 | 2% | 7% |  |
+| 188 | 2% | 5% | Last Result |
+| 189 | 1.2% | 3% |  |
+| 190 | 0.9% | 2% |  |
+| 191 | 0.6% | 1.4% |  |
+| 192 | 0.4% | 0.8% |  |
+| 193 | 0.2% | 0.5% |  |
+| 194 | 0.1% | 0.3% |  |
+| 195 | 0.1% | 0.1% |  |
+| 196 | 0% | 0.1% |  |
+| 197 | 0% | 0% |  |
 
 

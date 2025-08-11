@@ -18,18 +18,18 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 76 | 71–81 | 70–82 | 68–83 | 66–86 |
+| Renew Europe | EU | 77 | 76 | 71–81 | 70–82 | 69–83 | 66–86 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Fianna Fáil | IE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Democraten 66 | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -39,7 +39,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Eesti Reformierakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,18 +83,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0.1% | 100% |  |
 | 65 | 0.2% | 99.9% |  |
-| 66 | 0.4% | 99.7% |  |
+| 66 | 0.3% | 99.7% |  |
 | 67 | 0.7% | 99.4% |  |
-| 68 | 1.3% | 98.7% |  |
-| 69 | 2% | 97% |  |
-| 70 | 3% | 95% |  |
-| 71 | 5% | 92% |  |
+| 68 | 1.2% | 98.7% |  |
+| 69 | 2% | 98% |  |
+| 70 | 3% | 96% |  |
+| 71 | 4% | 92% |  |
 | 72 | 6% | 88% |  |
-| 73 | 8% | 81% |  |
-| 74 | 9% | 73% |  |
-| 75 | 10% | 64% |  |
+| 73 | 8% | 82% |  |
+| 74 | 9% | 74% |  |
+| 75 | 10% | 65% |  |
 | 76 | 11% | 54% | Median |
-| 77 | 10% | 43% | Last Result |
+| 77 | 10% | 44% | Last Result |
 | 78 | 9% | 33% |  |
 | 79 | 7% | 24% |  |
 | 80 | 6% | 17% |  |
@@ -102,7 +102,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 3% | 7% |  |
 | 83 | 2% | 4% |  |
 | 84 | 1.1% | 2% |  |
-| 85 | 0.6% | 1.2% |  |
+| 85 | 0.6% | 1.3% |  |
 | 86 | 0.3% | 0.6% |  |
 | 87 | 0.2% | 0.3% |  |
 | 88 | 0.1% | 0.1% |  |
