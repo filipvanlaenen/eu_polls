@@ -18,8 +18,8 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 37 | 34–40 | 33–41 | 32–42 | 31–44 |
-| Alternative für Deutschland | DE | | 23 | 21–25 | 21–25 | 20–25 | 20–26 |
+| Europe of Sovereign Nations | EU | 25 | 37 | 34–40 | 33–42 | 33–43 | 31–45 |
+| Alternative für Deutschland | DE | | 23 | 21–25 | 21–25 | 20–26 | 19–26 |
 | Nowa Nadzieja | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Svoboda a přímá demokracie | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -27,6 +27,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Mi Hazánk Mozgalom | HU | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Forum voor Democratie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Reconquête | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -42,22 +43,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
 | 30 | 0.1% | 100% |  |
-| 31 | 0.6% | 99.9% |  |
-| 32 | 2% | 99.3% |  |
-| 33 | 5% | 97% |  |
-| 34 | 10% | 92% |  |
-| 35 | 14% | 82% |  |
-| 36 | 18% | 68% |  |
-| 37 | 17% | 50% | Median |
-| 38 | 13% | 33% |  |
-| 39 | 8% | 20% |  |
-| 40 | 5% | 12% |  |
-| 41 | 3% | 7% |  |
-| 42 | 2% | 4% |  |
-| 43 | 1.3% | 2% |  |
-| 44 | 0.7% | 1.0% |  |
-| 45 | 0.2% | 0.3% |  |
-| 46 | 0.1% | 0.1% |  |
+| 31 | 0.5% | 99.9% |  |
+| 32 | 2% | 99.4% |  |
+| 33 | 4% | 98% |  |
+| 34 | 8% | 94% |  |
+| 35 | 13% | 86% |  |
+| 36 | 17% | 73% |  |
+| 37 | 18% | 56% | Median |
+| 38 | 14% | 39% |  |
+| 39 | 10% | 24% |  |
+| 40 | 6% | 15% |  |
+| 41 | 4% | 9% |  |
+| 42 | 2% | 5% |  |
+| 43 | 2% | 3% |  |
+| 44 | 0.9% | 1.4% |  |
+| 45 | 0.4% | 0.5% |  |
+| 46 | 0.1% | 0.2% |  |
 | 47 | 0% | 0% |  |
 
 
