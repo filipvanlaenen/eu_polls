@@ -2,42 +2,42 @@
 
 Members registered from **19 countries**:
 
-> AT, BE, CY, CZ, DE, DK, ES, FI, FR, GR, HR, IE, IT, LU, NL, PL, PT, SE, SI
+> AT, BE, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LU, NL, PL, PT, SE, SI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **59** seats (+13 seats)
+Current median: **58** seats (+12 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> BE, CY, CZ, DE, DK, ES, FI, FR, GR, IE, IT, NL, PT, SE
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, NL, PT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 59 | 54–63 | 53–65 | 52–66 | 50–68 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–63 | 52–64 | 51–65 | 49–68 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
 | Movimento 5 Stelle | IT | | 12 | 9–13 | 9–13 | 9–14 | 8–15 |
-| Die Linke | DE | | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Podemos | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
-| Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,30 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
 | 47 | 0% | 100% |  |
-| 48 | 0.1% | 100% |  |
-| 49 | 0.2% | 99.9% |  |
-| 50 | 0.5% | 99.6% |  |
-| 51 | 1.0% | 99.1% |  |
-| 52 | 2% | 98% |  |
-| 53 | 3% | 96% |  |
-| 54 | 5% | 93% |  |
-| 55 | 7% | 88% |  |
-| 56 | 8% | 82% |  |
-| 57 | 10% | 74% |  |
-| 58 | 11% | 64% |  |
-| 59 | 11% | 53% | Median |
-| 60 | 10% | 42% |  |
-| 61 | 9% | 32% |  |
-| 62 | 7% | 23% |  |
-| 63 | 5% | 15% |  |
-| 64 | 4% | 10% |  |
-| 65 | 3% | 6% |  |
-| 66 | 2% | 3% |  |
-| 67 | 0.9% | 2% |  |
-| 68 | 0.5% | 1.0% |  |
-| 69 | 0.3% | 0.5% |  |
-| 70 | 0.1% | 0.2% |  |
-| 71 | 0.1% | 0.1% |  |
-| 72 | 0% | 0% |  |
+| 48 | 0.1% | 99.9% |  |
+| 49 | 0.3% | 99.8% |  |
+| 50 | 0.7% | 99.5% |  |
+| 51 | 1.4% | 98.7% |  |
+| 52 | 2% | 97% |  |
+| 53 | 4% | 95% |  |
+| 54 | 6% | 91% |  |
+| 55 | 8% | 85% |  |
+| 56 | 9% | 78% |  |
+| 57 | 11% | 68% |  |
+| 58 | 11% | 58% | Median |
+| 59 | 11% | 47% |  |
+| 60 | 10% | 36% |  |
+| 61 | 8% | 26% |  |
+| 62 | 6% | 18% |  |
+| 63 | 4% | 12% |  |
+| 64 | 3% | 7% |  |
+| 65 | 2% | 4% |  |
+| 66 | 1.1% | 2% |  |
+| 67 | 0.6% | 1.2% |  |
+| 68 | 0.3% | 0.6% |  |
+| 69 | 0.2% | 0.3% |  |
+| 70 | 0.1% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 
