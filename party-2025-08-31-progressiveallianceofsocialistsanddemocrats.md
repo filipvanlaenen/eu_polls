@@ -25,7 +25,7 @@ At least one member in **24 countries** have a median of 1 seat or more:
 | Parti socialiste–Place Publique | FR | | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Partidul Social Democrat | RO | | 7 | 5–8 | 5–8 | 4–8 | 4–9 |
-| Partido Socialista | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| Partido Socialista | PT | | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | Nowa Lewica | PL | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -63,8 +63,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 106 | 0.1% | 99.9% |  |
 | 107 | 0.2% | 99.8% |  |
 | 108 | 0.3% | 99.7% |  |
-| 109 | 0.5% | 99.4% |  |
-| 110 | 0.7% | 98.9% |  |
+| 109 | 0.4% | 99.4% |  |
+| 110 | 0.7% | 99.0% |  |
 | 111 | 1.0% | 98% |  |
 | 112 | 1.4% | 97% |  |
 | 113 | 2% | 96% |  |
@@ -74,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 117 | 4% | 86% |  |
 | 118 | 4% | 82% |  |
 | 119 | 5% | 78% |  |
-| 120 | 6% | 72% |  |
-| 121 | 7% | 66% |  |
+| 120 | 6% | 73% |  |
+| 121 | 7% | 67% |  |
 | 122 | 7% | 60% |  |
-| 123 | 8% | 52% | Median |
-| 124 | 8% | 44% |  |
+| 123 | 8% | 53% | Median |
+| 124 | 8% | 45% |  |
 | 125 | 8% | 37% |  |
 | 126 | 7% | 29% |  |
 | 127 | 6% | 22% |  |
@@ -89,7 +89,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 1.3% | 3% |  |
 | 133 | 0.8% | 2% |  |
 | 134 | 0.5% | 1.0% |  |
-| 135 | 0.3% | 0.6% |  |
+| 135 | 0.3% | 0.5% |  |
 | 136 | 0.1% | 0.3% | Last Result |
 | 137 | 0.1% | 0.1% |  |
 | 138 | 0% | 0.1% |  |

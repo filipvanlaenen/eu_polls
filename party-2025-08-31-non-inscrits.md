@@ -10,20 +10,19 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **20** seats (-12 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> CZ, DE, ES, GR, LV, PL, SK
+> CZ, DE, ES, GR, LV, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 20 | 17–23 | 16–24 | 15–25 | 14–26 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Konfederacja Korony Polskiej | PL | | 2 | 0–4 | 0–4 | 0–4 | 0–4 |
+| HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -32,6 +31,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
+| Konfederacja Korony Polskiej | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -56,9 +56,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 10% | 91% |  |
 | 18 | 13% | 82% |  |
 | 19 | 14% | 69% |  |
-| 20 | 14% | 55% | Median |
+| 20 | 14% | 54% | Median |
 | 21 | 14% | 40% |  |
-| 22 | 11% | 27% |  |
+| 22 | 11% | 26% |  |
 | 23 | 8% | 15% |  |
 | 24 | 4% | 7% |  |
 | 25 | 2% | 3% |  |
