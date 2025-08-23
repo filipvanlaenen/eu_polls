@@ -2,7 +2,7 @@
 
 Members registered from **13 countries**:
 
-> CZ, DE, DK, ES, FI, GR, HR, IT, LV, PL, RO, SI, SK
+> CZ, DE, DK, ES, FI, GR, HR, HU, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -19,20 +19,20 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 21 | 18–24 | 17–25 | 16–26 | 15–27 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
 | Konfederacja Korony Polskiej | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 1–3 | 1–3 |
-| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Resni.ca | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Stabilitātei! | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
-| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
+| Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -49,21 +49,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
+| 14 | 0.2% | 100% |  |
 | 15 | 0.7% | 99.8% |  |
-| 16 | 2% | 99.2% |  |
-| 17 | 4% | 97% |  |
+| 16 | 2% | 99.1% |  |
+| 17 | 5% | 97% |  |
 | 18 | 7% | 93% |  |
-| 19 | 10% | 86% |  |
-| 20 | 12% | 76% |  |
-| 21 | 14% | 64% | Median |
-| 22 | 15% | 49% |  |
-| 23 | 14% | 34% |  |
-| 24 | 10% | 20% |  |
-| 25 | 6% | 10% |  |
-| 26 | 3% | 4% |  |
-| 27 | 1.0% | 1.4% |  |
-| 28 | 0.3% | 0.4% |  |
+| 19 | 10% | 85% |  |
+| 20 | 12% | 75% |  |
+| 21 | 15% | 63% | Median |
+| 22 | 16% | 48% |  |
+| 23 | 14% | 33% |  |
+| 24 | 10% | 19% |  |
+| 25 | 6% | 9% |  |
+| 26 | 2% | 4% |  |
+| 27 | 0.9% | 1.2% |  |
+| 28 | 0.2% | 0.3% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |

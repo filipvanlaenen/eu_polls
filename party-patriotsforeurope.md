@@ -18,13 +18,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 97 | 92–101 | 91–103 | 90–104 | 88–106 |
+| Patriots for Europe | EU | 84 | 97 | 93–101 | 91–103 | 90–104 | 88–106 |
 | Rassemblement national | FR | | 30 | 28–33 | 27–34 | 26–34 | 24–36 |
 | Vox | ES | | 10 | 9–13 | 9–14 | 8–14 | 7–14 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–12 | 7–12 | 7–12 | 7–12 |
-| ANO 2011 | CZ | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–12 | 8–12 | 7–12 | 7–12 |
+| ANO 2011 | CZ | | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | Freiheitliche Partei Österreichs | AT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–10 | 5–10 |
 | Partij voor de Vrijheid | NL | | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | Chega | PT | | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | Ruch Narodowy | PL | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
@@ -53,16 +53,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0.1% | 100% |  |
 | 87 | 0.2% | 99.9% |  |
 | 88 | 0.4% | 99.7% |  |
-| 89 | 0.8% | 99.3% |  |
-| 90 | 2% | 98.5% |  |
+| 89 | 0.8% | 99.4% |  |
+| 90 | 1.5% | 98.6% |  |
 | 91 | 3% | 97% |  |
 | 92 | 4% | 94% |  |
-| 93 | 7% | 90% |  |
-| 94 | 9% | 83% |  |
-| 95 | 10% | 75% |  |
-| 96 | 11% | 64% |  |
-| 97 | 11% | 53% | Median |
-| 98 | 11% | 42% |  |
+| 93 | 6% | 90% |  |
+| 94 | 8% | 84% |  |
+| 95 | 10% | 76% |  |
+| 96 | 11% | 66% |  |
+| 97 | 11% | 54% | Median |
+| 98 | 11% | 43% |  |
 | 99 | 9% | 32% |  |
 | 100 | 7% | 23% |  |
 | 101 | 6% | 15% |  |
