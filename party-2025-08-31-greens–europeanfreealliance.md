@@ -49,7 +49,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
-| Piratska stranka Slovenije | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -76,14 +76,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 11% | 87% |  |
 | 37 | 15% | 76% |  |
 | 38 | 16% | 61% | Median |
-| 39 | 15% | 46% |  |
+| 39 | 15% | 45% |  |
 | 40 | 11% | 31% |  |
-| 41 | 8% | 20% |  |
+| 41 | 7% | 20% |  |
 | 42 | 5% | 12% |  |
 | 43 | 3% | 8% |  |
 | 44 | 2% | 5% |  |
 | 45 | 1.3% | 3% |  |
-| 46 | 0.7% | 1.3% |  |
+| 46 | 0.7% | 1.2% |  |
 | 47 | 0.3% | 0.5% |  |
 | 48 | 0.1% | 0.2% |  |
 | 49 | 0% | 0% |  |
