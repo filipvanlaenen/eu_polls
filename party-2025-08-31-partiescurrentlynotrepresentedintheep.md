@@ -23,7 +23,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
-| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -43,7 +43,6 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
-| Vladimir Prebilič [SI] (*) | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -58,12 +57,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 28% | 100% | Last Result |
-| 2 | 40% | 72% | Median |
-| 3 | 24% | 32% |  |
-| 4 | 7% | 8% |  |
-| 5 | 1.1% | 1.2% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 32% | 100% | Last Result |
+| 2 | 42% | 68% | Median |
+| 3 | 21% | 26% |  |
+| 4 | 5% | 6% |  |
+| 5 | 0.6% | 0.7% |  |
+| 6 | 0% | 0% |  |
 
 

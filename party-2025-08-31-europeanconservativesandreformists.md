@@ -18,21 +18,21 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 77–88 | 75–90 |
+| European Conservatives and Reformists | EU | 78 | 82 | 79–86 | 78–87 | 77–88 | 76–90 |
 | Fratelli d’Italia | IT | | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
-| Zjednoczona Prawica | PL | | 18 | 16–21 | 16–21 | 16–21 | 15–22 |
+| Zjednoczona Prawica | PL | | 19 | 17–21 | 17–21 | 16–21 | 16–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Občanská demokratická strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,23 +56,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 73 | 0.1% | 100% |  |
-| 74 | 0.2% | 99.9% |  |
-| 75 | 0.6% | 99.7% |  |
-| 76 | 2% | 99.1% |  |
-| 77 | 3% | 98% |  |
-| 78 | 6% | 94% | Last Result |
-| 79 | 9% | 88% |  |
-| 80 | 12% | 80% |  |
-| 81 | 13% | 68% |  |
-| 82 | 14% | 55% | Median |
-| 83 | 12% | 41% |  |
-| 84 | 10% | 29% |  |
-| 85 | 8% | 19% |  |
-| 86 | 5% | 11% |  |
-| 87 | 3% | 6% |  |
+| 74 | 0.1% | 100% |  |
+| 75 | 0.4% | 99.9% |  |
+| 76 | 1.0% | 99.5% |  |
+| 77 | 2% | 98.5% |  |
+| 78 | 5% | 96% | Last Result |
+| 79 | 8% | 92% |  |
+| 80 | 11% | 84% |  |
+| 81 | 13% | 73% |  |
+| 82 | 14% | 60% | Median |
+| 83 | 13% | 45% |  |
+| 84 | 11% | 32% |  |
+| 85 | 8% | 21% |  |
+| 86 | 6% | 12% |  |
+| 87 | 3% | 7% |  |
 | 88 | 2% | 3% |  |
-| 89 | 0.8% | 1.3% |  |
+| 89 | 0.8% | 1.4% |  |
 | 90 | 0.3% | 0.5% |  |
 | 91 | 0.1% | 0.2% |  |
 | 92 | 0% | 0.1% |  |
