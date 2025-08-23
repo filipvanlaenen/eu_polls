@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **76** seats (-1 seats)
+Current median: **75** seats (-2 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 76 | 71–81 | 69–82 | 68–84 | 66–86 |
+| Renew Europe | EU | 77 | 75 | 70–80 | 69–81 | 68–82 | 65–85 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -41,8 +41,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Δημοκρατίας | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -54,9 +55,8 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
-| Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne | DK | | 0 | 0 | 0 | 0 | 0–1 |
@@ -80,33 +80,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0% | 100% |  |
+| 63 | 0.1% | 100% |  |
 | 64 | 0.1% | 99.9% |  |
-| 65 | 0.2% | 99.9% |  |
-| 66 | 0.4% | 99.7% |  |
-| 67 | 0.8% | 99.2% |  |
-| 68 | 1.4% | 98% |  |
-| 69 | 2% | 97% |  |
-| 70 | 3% | 95% |  |
-| 71 | 5% | 92% |  |
-| 72 | 6% | 87% |  |
-| 73 | 8% | 81% |  |
-| 74 | 9% | 73% |  |
-| 75 | 10% | 64% |  |
-| 76 | 10% | 54% | Median |
-| 77 | 10% | 44% | Last Result |
-| 78 | 9% | 34% |  |
-| 79 | 7% | 26% |  |
-| 80 | 6% | 18% |  |
-| 81 | 4% | 13% |  |
-| 82 | 3% | 8% |  |
-| 83 | 2% | 5% |  |
-| 84 | 1.3% | 3% |  |
-| 85 | 0.8% | 2% |  |
-| 86 | 0.4% | 0.8% |  |
-| 87 | 0.2% | 0.4% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 65 | 0.3% | 99.8% |  |
+| 66 | 0.6% | 99.5% |  |
+| 67 | 1.1% | 98.9% |  |
+| 68 | 2% | 98% |  |
+| 69 | 3% | 96% |  |
+| 70 | 4% | 93% |  |
+| 71 | 6% | 88% |  |
+| 72 | 8% | 82% |  |
+| 73 | 10% | 74% |  |
+| 74 | 11% | 65% |  |
+| 75 | 11% | 54% | Median |
+| 76 | 10% | 43% |  |
+| 77 | 9% | 32% | Last Result |
+| 78 | 7% | 23% |  |
+| 79 | 6% | 16% |  |
+| 80 | 4% | 10% |  |
+| 81 | 3% | 6% |  |
+| 82 | 2% | 4% |  |
+| 83 | 1.0% | 2% |  |
+| 84 | 0.5% | 1.1% |  |
+| 85 | 0.3% | 0.5% |  |
+| 86 | 0.1% | 0.2% |  |
+| 87 | 0.1% | 0.1% |  |
+| 88 | 0% | 0% |  |
 
 
