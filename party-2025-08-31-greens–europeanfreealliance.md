@@ -20,7 +20,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 34–45 | 32–47 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
-| Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| Europa Verde | IT | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -78,13 +78,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 16% | 62% | Median |
 | 39 | 15% | 46% |  |
 | 40 | 11% | 31% |  |
-| 41 | 8% | 20% |  |
+| 41 | 7% | 20% |  |
 | 42 | 5% | 13% |  |
 | 43 | 3% | 8% |  |
 | 44 | 2% | 5% |  |
 | 45 | 1.3% | 3% |  |
 | 46 | 0.7% | 1.3% |  |
-| 47 | 0.4% | 0.5% |  |
+| 47 | 0.3% | 0.5% |  |
 | 48 | 0.1% | 0.2% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |

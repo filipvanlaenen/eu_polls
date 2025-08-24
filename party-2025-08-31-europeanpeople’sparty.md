@@ -26,7 +26,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | Christen-Democratisch Appèl | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
@@ -43,7 +43,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Starostové a nezávislí | CZ | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2 | 2 | 2–3 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -114,11 +114,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 188 | 2% | 6% | Last Result |
 | 189 | 1.4% | 4% |  |
 | 190 | 1.0% | 3% |  |
-| 191 | 0.6% | 2% |  |
-| 192 | 0.4% | 0.9% |  |
+| 191 | 0.7% | 2% |  |
+| 192 | 0.4% | 1.0% |  |
 | 193 | 0.2% | 0.5% |  |
 | 194 | 0.1% | 0.3% |  |
-| 195 | 0.1% | 0.1% |  |
+| 195 | 0.1% | 0.2% |  |
 | 196 | 0% | 0.1% |  |
 | 197 | 0% | 0% |  |
 

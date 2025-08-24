@@ -25,7 +25,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Občanská demokratická strana | CZ | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Občanská demokratická strana | CZ | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -58,22 +58,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 74 | 0.1% | 100% |  |
 | 75 | 0.3% | 99.9% |  |
-| 76 | 0.8% | 99.6% |  |
+| 76 | 0.8% | 99.7% |  |
 | 77 | 2% | 98.9% |  |
 | 78 | 4% | 97% | Last Result |
 | 79 | 7% | 93% |  |
 | 80 | 11% | 85% |  |
-| 81 | 14% | 75% |  |
+| 81 | 14% | 74% |  |
 | 82 | 15% | 61% | Median |
 | 83 | 14% | 46% |  |
 | 84 | 12% | 32% |  |
 | 85 | 9% | 20% |  |
-| 86 | 6% | 12% |  |
+| 86 | 5% | 11% |  |
 | 87 | 3% | 6% |  |
 | 88 | 2% | 3% |  |
-| 89 | 0.7% | 1.2% |  |
+| 89 | 0.7% | 1.1% |  |
 | 90 | 0.3% | 0.4% |  |
-| 91 | 0.1% | 0.2% |  |
+| 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
 
