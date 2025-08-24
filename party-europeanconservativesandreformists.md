@@ -18,21 +18,21 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 82 | 79–86 | 78–87 | 77–88 | 76–90 |
-| Fratelli d’Italia | IT | | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
+| European Conservatives and Reformists | EU | 78 | 82 | 79–86 | 78–87 | 77–88 | 76–89 |
+| Fratelli d’Italia | IT | | 23 | 22–26 | 21–26 | 21–27 | 20–28 |
 | Zjednoczona Prawica | PL | | 19 | 17–21 | 17–21 | 16–21 | 16–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Občanská demokratická strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Občanská demokratická strana | CZ | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Juiste Antwoord 2021 | NL | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,23 +58,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 74 | 0.1% | 100% |  |
 | 75 | 0.3% | 99.9% |  |
-| 76 | 0.9% | 99.6% |  |
-| 77 | 2% | 98.7% |  |
+| 76 | 0.8% | 99.6% |  |
+| 77 | 2% | 98.9% |  |
 | 78 | 4% | 97% | Last Result |
-| 79 | 7% | 92% |  |
-| 80 | 10% | 85% |  |
-| 81 | 13% | 75% |  |
-| 82 | 14% | 62% | Median |
-| 83 | 14% | 48% |  |
-| 84 | 12% | 34% |  |
-| 85 | 9% | 23% |  |
-| 86 | 6% | 14% |  |
-| 87 | 4% | 8% |  |
-| 88 | 2% | 4% |  |
-| 89 | 1.0% | 2% |  |
-| 90 | 0.4% | 0.7% |  |
-| 91 | 0.2% | 0.2% |  |
-| 92 | 0.1% | 0.1% |  |
-| 93 | 0% | 0% |  |
+| 79 | 7% | 93% |  |
+| 80 | 11% | 85% |  |
+| 81 | 14% | 75% |  |
+| 82 | 15% | 61% | Median |
+| 83 | 14% | 46% |  |
+| 84 | 12% | 32% |  |
+| 85 | 9% | 20% |  |
+| 86 | 6% | 12% |  |
+| 87 | 3% | 6% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.7% | 1.2% |  |
+| 90 | 0.3% | 0.4% |  |
+| 91 | 0.1% | 0.2% |  |
+| 92 | 0% | 0% |  |
 
 

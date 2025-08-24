@@ -22,10 +22,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
@@ -45,7 +45,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Κίνημα Δημοκρατίας | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -55,7 +55,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
@@ -80,10 +80,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0.1% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0.1% | 99.9% |  |
 | 65 | 0.2% | 99.9% |  |
 | 66 | 0.5% | 99.6% |  |
-| 67 | 0.9% | 99.2% |  |
+| 67 | 0.9% | 99.1% |  |
 | 68 | 2% | 98% |  |
 | 69 | 3% | 97% |  |
 | 70 | 4% | 94% |  |
@@ -96,12 +97,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 77 | 10% | 35% | Last Result |
 | 78 | 8% | 26% |  |
 | 79 | 6% | 18% |  |
-| 80 | 4% | 12% |  |
+| 80 | 4% | 11% |  |
 | 81 | 3% | 7% |  |
 | 82 | 2% | 4% |  |
 | 83 | 1.1% | 2% |  |
 | 84 | 0.6% | 1.3% |  |
-| 85 | 0.3% | 0.6% |  |
+| 85 | 0.3% | 0.7% |  |
 | 86 | 0.2% | 0.3% |  |
 | 87 | 0.1% | 0.1% |  |
 | 88 | 0% | 0.1% |  |
