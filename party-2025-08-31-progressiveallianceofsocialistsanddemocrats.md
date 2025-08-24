@@ -41,7 +41,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Nemuno aušra | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–2 |
+| Socialni demokrati | SI | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 0–1 |
 | Demokratikus Koalíció | HU | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -62,11 +62,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 105 | 0% | 100% |  |
 | 106 | 0.1% | 99.9% |  |
 | 107 | 0.1% | 99.9% |  |
-| 108 | 0.2% | 99.7% |  |
+| 108 | 0.3% | 99.7% |  |
 | 109 | 0.4% | 99.5% |  |
-| 110 | 0.7% | 99.1% |  |
+| 110 | 0.7% | 99.0% |  |
 | 111 | 1.0% | 98% |  |
-| 112 | 1.3% | 97% |  |
+| 112 | 1.4% | 97% |  |
 | 113 | 2% | 96% |  |
 | 114 | 2% | 94% |  |
 | 115 | 3% | 92% |  |
@@ -78,8 +78,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 7% | 67% |  |
 | 122 | 7% | 61% |  |
 | 123 | 8% | 53% | Median |
-| 124 | 8% | 46% |  |
-| 125 | 8% | 38% |  |
+| 124 | 8% | 45% |  |
+| 125 | 8% | 37% |  |
 | 126 | 7% | 30% |  |
 | 127 | 6% | 23% |  |
 | 128 | 5% | 17% |  |
