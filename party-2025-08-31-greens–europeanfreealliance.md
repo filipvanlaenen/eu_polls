@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 34–45 | 32–47 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 35–43 | 34–45 | 32–47 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Europa Verde | IT | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
@@ -26,13 +26,13 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Volt Europa | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -69,23 +69,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.5% | 99.9% |  |
-| 33 | 1.4% | 99.4% |  |
+| 32 | 0.4% | 99.9% |  |
+| 33 | 1.3% | 99.5% |  |
 | 34 | 3% | 98% |  |
-| 35 | 7% | 95% |  |
-| 36 | 11% | 88% |  |
-| 37 | 15% | 77% |  |
-| 38 | 16% | 62% | Median |
-| 39 | 15% | 46% |  |
-| 40 | 11% | 32% |  |
-| 41 | 8% | 20% |  |
+| 35 | 6% | 95% |  |
+| 36 | 11% | 89% |  |
+| 37 | 14% | 78% |  |
+| 38 | 16% | 64% | Median |
+| 39 | 15% | 48% |  |
+| 40 | 12% | 33% |  |
+| 41 | 8% | 21% |  |
 | 42 | 5% | 13% |  |
 | 43 | 3% | 8% |  |
 | 44 | 2% | 5% |  |
-| 45 | 1.3% | 3% |  |
-| 46 | 0.8% | 1.3% |  |
+| 45 | 1.4% | 3% |  |
+| 46 | 0.8% | 1.4% |  |
 | 47 | 0.4% | 0.6% |  |
-| 48 | 0.1% | 0.2% |  |
+| 48 | 0.2% | 0.2% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
