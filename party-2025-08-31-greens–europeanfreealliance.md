@@ -35,7 +35,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -69,7 +69,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.9% |  |
+| 32 | 0.5% | 99.9% |  |
 | 33 | 1.4% | 99.4% |  |
 | 34 | 3% | 98% |  |
 | 35 | 7% | 95% |  |
@@ -77,14 +77,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 15% | 77% |  |
 | 38 | 16% | 62% | Median |
 | 39 | 15% | 46% |  |
-| 40 | 11% | 31% |  |
-| 41 | 7% | 20% |  |
+| 40 | 11% | 32% |  |
+| 41 | 8% | 20% |  |
 | 42 | 5% | 13% |  |
 | 43 | 3% | 8% |  |
 | 44 | 2% | 5% |  |
 | 45 | 1.3% | 3% |  |
-| 46 | 0.7% | 1.3% |  |
-| 47 | 0.3% | 0.5% |  |
+| 46 | 0.8% | 1.3% |  |
+| 47 | 0.4% | 0.6% |  |
 | 48 | 0.1% | 0.2% |  |
 | 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |

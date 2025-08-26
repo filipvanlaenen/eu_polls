@@ -25,12 +25,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -80,8 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 63 | 0% | 100% |  |
-| 64 | 0.1% | 99.9% |  |
+| 64 | 0.1% | 100% |  |
 | 65 | 0.2% | 99.9% |  |
 | 66 | 0.5% | 99.6% |  |
 | 67 | 0.9% | 99.2% |  |
@@ -93,7 +92,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 9% | 77% |  |
 | 74 | 11% | 68% |  |
 | 75 | 11% | 58% | Median |
-| 76 | 11% | 46% |  |
+| 76 | 11% | 47% |  |
 | 77 | 10% | 36% | Last Result |
 | 78 | 8% | 26% |  |
 | 79 | 6% | 18% |  |
