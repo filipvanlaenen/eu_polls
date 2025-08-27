@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **75** seats (-2 seats)
+Current median: **76** seats (-1 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 75 | 71–80 | 69–81 | 68–83 | 66–85 |
+| Renew Europe | EU | 77 | 76 | 71–80 | 70–82 | 68–83 | 66–85 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -30,6 +30,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Iniciativa Liberal | PT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -38,8 +39,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -58,7 +58,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
-| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
+| Liberalerna | SE | | 0 | 0 | 0 | 0 | 0–1 |
 | Moderaterne | DK | | 0 | 0 | 0 | 0 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -82,29 +82,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0.1% | 100% |  |
 | 65 | 0.2% | 99.9% |  |
-| 66 | 0.4% | 99.7% |  |
-| 67 | 0.8% | 99.3% |  |
-| 68 | 1.4% | 98.5% |  |
+| 66 | 0.3% | 99.8% |  |
+| 67 | 0.7% | 99.4% |  |
+| 68 | 1.3% | 98.7% |  |
 | 69 | 2% | 97% |  |
-| 70 | 4% | 95% |  |
-| 71 | 5% | 91% |  |
-| 72 | 7% | 86% |  |
-| 73 | 9% | 79% |  |
-| 74 | 10% | 70% |  |
-| 75 | 11% | 60% | Median |
-| 76 | 11% | 49% |  |
-| 77 | 10% | 38% | Last Result |
-| 78 | 8% | 28% |  |
-| 79 | 7% | 19% |  |
-| 80 | 5% | 13% |  |
-| 81 | 3% | 8% |  |
+| 70 | 3% | 95% |  |
+| 71 | 5% | 92% |  |
+| 72 | 7% | 87% |  |
+| 73 | 8% | 81% |  |
+| 74 | 10% | 73% |  |
+| 75 | 11% | 63% |  |
+| 76 | 11% | 52% | Median |
+| 77 | 10% | 41% | Last Result |
+| 78 | 9% | 30% |  |
+| 79 | 7% | 21% |  |
+| 80 | 5% | 14% |  |
+| 81 | 4% | 9% |  |
 | 82 | 2% | 5% |  |
-| 83 | 1.2% | 3% |  |
-| 84 | 0.7% | 1.5% |  |
-| 85 | 0.4% | 0.8% |  |
-| 86 | 0.2% | 0.4% |  |
+| 83 | 1.4% | 3% |  |
+| 84 | 0.8% | 2% |  |
+| 85 | 0.5% | 0.9% |  |
+| 86 | 0.2% | 0.5% |  |
 | 87 | 0.1% | 0.2% |  |
-| 88 | 0% | 0.1% |  |
+| 88 | 0.1% | 0.1% |  |
 | 89 | 0% | 0% |  |
 
 
