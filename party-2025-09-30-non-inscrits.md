@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **13 countries**:
+Members registered from **14 countries**:
 
-> CZ, DE, DK, ES, FI, GR, HR, HU, LV, PL, RO, SI, SK
+> CZ, DE, DK, ES, FI, GR, HR, HU, IT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -23,12 +23,13 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Πλεύση Ελευθερίας | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Konfederacja Korony Polskiej | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -49,20 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 1.5% | 99.7% |  |
-| 15 | 5% | 98% |  |
-| 16 | 10% | 94% |  |
-| 17 | 14% | 84% |  |
-| 18 | 15% | 70% |  |
-| 19 | 15% | 55% | Median |
-| 20 | 13% | 40% |  |
-| 21 | 11% | 27% |  |
-| 22 | 8% | 16% |  |
-| 23 | 5% | 8% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.9% | 1.2% |  |
-| 26 | 0.3% | 0.3% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 1.4% | 99.8% |  |
+| 15 | 4% | 98% |  |
+| 16 | 9% | 94% |  |
+| 17 | 13% | 85% |  |
+| 18 | 15% | 73% |  |
+| 19 | 15% | 57% | Median |
+| 20 | 13% | 43% |  |
+| 21 | 11% | 29% |  |
+| 22 | 8% | 18% |  |
+| 23 | 5% | 10% |  |
+| 24 | 3% | 4% |  |
+| 25 | 1.1% | 2% |  |
+| 26 | 0.3% | 0.5% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |

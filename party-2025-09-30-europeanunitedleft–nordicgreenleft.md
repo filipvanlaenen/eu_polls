@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **58** seats (+12 seats)
+Current median: **59** seats (+13 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 54–63 | 53–64 | 52–65 | 50–67 |
+| European United Left–Nordic Green Left | EU | 46 | 59 | 55–63 | 54–64 | 53–65 | 51–68 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–11 | 8–12 | 8–13 |
-| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–13 | 8–13 | 8–14 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Podemos | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Socialistische Partij | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Parti du Travail de Belgique | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -46,8 +46,10 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | Nouveau Parti anticapitaliste | FR | | 0 | 0 | 0 | 0 | 0 |
+| Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -64,28 +66,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
-| 49 | 0.1% | 99.9% |  |
-| 50 | 0.4% | 99.8% |  |
-| 51 | 0.9% | 99.4% |  |
-| 52 | 2% | 98.6% |  |
-| 53 | 3% | 97% |  |
-| 54 | 5% | 94% |  |
-| 55 | 7% | 89% |  |
-| 56 | 9% | 82% |  |
-| 57 | 11% | 72% |  |
-| 58 | 12% | 61% | Median |
-| 59 | 12% | 49% |  |
-| 60 | 11% | 37% |  |
-| 61 | 9% | 26% |  |
-| 62 | 7% | 18% |  |
-| 63 | 5% | 11% |  |
-| 64 | 3% | 6% |  |
-| 65 | 2% | 3% |  |
-| 66 | 0.9% | 2% |  |
-| 67 | 0.4% | 0.8% |  |
-| 68 | 0.2% | 0.3% |  |
-| 69 | 0.1% | 0.1% |  |
-| 70 | 0% | 0.1% |  |
+| 49 | 0.1% | 100% |  |
+| 50 | 0.2% | 99.9% |  |
+| 51 | 0.6% | 99.6% |  |
+| 52 | 1.2% | 99.1% |  |
+| 53 | 2% | 98% |  |
+| 54 | 4% | 96% |  |
+| 55 | 6% | 92% |  |
+| 56 | 8% | 86% |  |
+| 57 | 10% | 78% |  |
+| 58 | 12% | 68% |  |
+| 59 | 12% | 56% | Median |
+| 60 | 12% | 44% |  |
+| 61 | 10% | 32% |  |
+| 62 | 8% | 22% |  |
+| 63 | 6% | 14% |  |
+| 64 | 4% | 9% |  |
+| 65 | 2% | 5% |  |
+| 66 | 1.3% | 2% |  |
+| 67 | 0.7% | 1.2% |  |
+| 68 | 0.3% | 0.5% |  |
+| 69 | 0.1% | 0.2% |  |
+| 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 
 
