@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -56,12 +56,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 26% | 100% | Last Result |
-| 2 | 40% | 74% | Median |
-| 3 | 25% | 34% |  |
-| 4 | 8% | 9% |  |
-| 5 | 1.3% | 1.5% |  |
-| 6 | 0.1% | 0.1% |  |
+| 1 | 21% | 100% | Last Result |
+| 2 | 38% | 79% | Median |
+| 3 | 28% | 41% |  |
+| 4 | 11% | 13% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
