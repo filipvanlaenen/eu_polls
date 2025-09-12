@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-14 seats)
+Current median: **38** seats (-15 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 36–42 | 35–44 | 35–45 | 33–47 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 35–43 | 34–45 | 33–47 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 8–13 |
-| Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
+| Europa Verde | IT | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Socialistisk Folkeparti | DK | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Česká pirátská strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -67,24 +67,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0.1% | 100% |  |
-| 33 | 0.5% | 99.9% |  |
-| 34 | 2% | 99.4% |  |
-| 35 | 5% | 98% |  |
-| 36 | 9% | 93% |  |
-| 37 | 14% | 84% |  |
-| 38 | 17% | 70% |  |
-| 39 | 16% | 53% | Median |
-| 40 | 13% | 37% |  |
-| 41 | 9% | 24% |  |
-| 42 | 6% | 15% |  |
-| 43 | 4% | 10% |  |
-| 44 | 3% | 6% |  |
-| 45 | 2% | 3% |  |
-| 46 | 0.9% | 2% |  |
-| 47 | 0.5% | 0.8% |  |
-| 48 | 0.2% | 0.3% |  |
-| 49 | 0.1% | 0.1% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 1.0% | 99.7% |  |
+| 34 | 3% | 98.7% |  |
+| 35 | 6% | 96% |  |
+| 36 | 11% | 90% |  |
+| 37 | 15% | 79% |  |
+| 38 | 17% | 64% | Median |
+| 39 | 15% | 47% |  |
+| 40 | 12% | 32% |  |
+| 41 | 8% | 21% |  |
+| 42 | 5% | 13% |  |
+| 43 | 3% | 8% |  |
+| 44 | 2% | 5% |  |
+| 45 | 1.4% | 3% |  |
+| 46 | 0.8% | 1.3% |  |
+| 47 | 0.4% | 0.6% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

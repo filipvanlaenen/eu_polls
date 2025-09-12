@@ -18,24 +18,24 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 16–23 | 16–24 | 15–24 | 14–26 |
+| Non-Inscrits | EU | 32 | 19 | 16–23 | 15–24 | 15–24 | 14–26 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Πλεύση Ελευθερίας | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| HLAS–sociálna demokracia | SK | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Πλεύση Ελευθερίας | GR | | 3 | 1–3 | 1–3 | 1–3 | 1–4 |
+| HLAS–sociálna demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
-| Konfederacja Korony Polskiej | PL | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Konfederacja Korony Polskiej | PL | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0–1 | 0–2 |
+| Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -50,21 +50,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 1.0% | 99.8% |  |
-| 15 | 3% | 98.9% |  |
-| 16 | 8% | 95% |  |
-| 17 | 12% | 88% |  |
-| 18 | 15% | 75% |  |
-| 19 | 15% | 60% | Median |
-| 20 | 13% | 45% |  |
-| 21 | 11% | 31% |  |
-| 22 | 9% | 20% |  |
-| 23 | 6% | 11% |  |
-| 24 | 3% | 5% |  |
-| 25 | 1.4% | 2% |  |
-| 26 | 0.4% | 0.6% |  |
-| 27 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.4% | 99.9% |  |
+| 14 | 2% | 99.6% |  |
+| 15 | 4% | 98% |  |
+| 16 | 8% | 94% |  |
+| 17 | 12% | 86% |  |
+| 18 | 15% | 74% |  |
+| 19 | 14% | 59% | Median |
+| 20 | 12% | 45% |  |
+| 21 | 10% | 32% |  |
+| 22 | 9% | 22% |  |
+| 23 | 7% | 13% |  |
+| 24 | 4% | 6% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.5% | 0.7% |  |
+| 27 | 0.1% | 0.2% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |

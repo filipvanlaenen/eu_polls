@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (+5 seats)
+Current median: **84** seats (+6 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 83 | 80–87 | 79–88 | 78–89 | 76–91 |
-| Fratelli d’Italia | IT | | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
-| Zjednoczona Prawica | PL | | 19 | 18–22 | 17–22 | 17–23 | 16–23 |
-| Alianța pentru Unirea Românilor | RO | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| European Conservatives and Reformists | EU | 78 | 84 | 80–87 | 79–88 | 78–89 | 76–91 |
+| Fratelli d’Italia | IT | | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
+| Zjednoczona Prawica | PL | | 19 | 17–22 | 17–22 | 16–23 | 16–23 |
+| Alianța pentru Unirea Românilor | RO | | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Občanská demokratická strana | CZ | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Občanská demokratická strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 1–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,26 +56,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0% | 100% |  |
-| 75 | 0.2% | 99.9% |  |
-| 76 | 0.5% | 99.8% |  |
-| 77 | 1.2% | 99.3% |  |
-| 78 | 3% | 98% | Last Result |
-| 79 | 5% | 96% |  |
-| 80 | 8% | 91% |  |
-| 81 | 11% | 83% |  |
-| 82 | 13% | 73% |  |
-| 83 | 14% | 60% | Median |
-| 84 | 13% | 46% |  |
-| 85 | 11% | 32% |  |
-| 86 | 9% | 21% |  |
-| 87 | 6% | 12% |  |
-| 88 | 3% | 7% |  |
-| 89 | 2% | 3% |  |
-| 90 | 0.8% | 1.4% |  |
-| 91 | 0.3% | 0.5% |  |
-| 92 | 0.1% | 0.2% |  |
-| 93 | 0% | 0.1% |  |
+| 75 | 0.1% | 100% |  |
+| 76 | 0.4% | 99.8% |  |
+| 77 | 0.9% | 99.5% |  |
+| 78 | 2% | 98.5% | Last Result |
+| 79 | 4% | 96% |  |
+| 80 | 6% | 93% |  |
+| 81 | 9% | 86% |  |
+| 82 | 12% | 77% |  |
+| 83 | 13% | 65% |  |
+| 84 | 13% | 52% | Median |
+| 85 | 12% | 39% |  |
+| 86 | 10% | 26% |  |
+| 87 | 7% | 17% |  |
+| 88 | 5% | 9% |  |
+| 89 | 3% | 5% |  |
+| 90 | 1.3% | 2% |  |
+| 91 | 0.6% | 0.9% |  |
+| 92 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 
