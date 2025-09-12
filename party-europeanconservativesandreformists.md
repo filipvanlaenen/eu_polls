@@ -21,7 +21,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | European Conservatives and Reformists | EU | 78 | 84 | 80–87 | 79–88 | 78–89 | 76–91 |
 | Fratelli d’Italia | IT | | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
 | Zjednoczona Prawica | PL | | 19 | 17–22 | 17–22 | 16–23 | 16–23 |
-| Alianța pentru Unirea Românilor | RO | | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| Alianța pentru Unirea Românilor | RO | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -56,23 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 75 | 0.1% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0.1% | 99.9% |  |
 | 76 | 0.4% | 99.8% |  |
-| 77 | 0.9% | 99.5% |  |
-| 78 | 2% | 98.5% | Last Result |
+| 77 | 1.0% | 99.4% |  |
+| 78 | 2% | 98% | Last Result |
 | 79 | 4% | 96% |  |
-| 80 | 6% | 93% |  |
+| 80 | 7% | 92% |  |
 | 81 | 9% | 86% |  |
-| 82 | 12% | 77% |  |
-| 83 | 13% | 65% |  |
-| 84 | 13% | 52% | Median |
-| 85 | 12% | 39% |  |
-| 86 | 10% | 26% |  |
-| 87 | 7% | 17% |  |
-| 88 | 5% | 9% |  |
-| 89 | 3% | 5% |  |
-| 90 | 1.3% | 2% |  |
-| 91 | 0.6% | 0.9% |  |
+| 82 | 12% | 76% |  |
+| 83 | 13% | 64% |  |
+| 84 | 13% | 51% | Median |
+| 85 | 12% | 37% |  |
+| 86 | 10% | 25% |  |
+| 87 | 7% | 16% |  |
+| 88 | 4% | 9% |  |
+| 89 | 2% | 5% |  |
+| 90 | 1.2% | 2% |  |
+| 91 | 0.5% | 0.8% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
