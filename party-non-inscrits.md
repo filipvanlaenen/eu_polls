@@ -18,8 +18,8 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 18 | 15–22 | 15–23 | 14–23 | 13–25 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| Non-Inscrits | EU | 32 | 18 | 16–22 | 15–23 | 15–24 | 14–25 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -38,7 +38,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -50,21 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0.7% | 99.9% |  |
-| 14 | 3% | 99.2% |  |
-| 15 | 7% | 96% |  |
-| 16 | 13% | 89% |  |
-| 17 | 17% | 76% |  |
-| 18 | 16% | 59% | Median |
-| 19 | 13% | 43% |  |
-| 20 | 10% | 30% |  |
-| 21 | 8% | 20% |  |
-| 22 | 6% | 12% |  |
-| 23 | 4% | 6% |  |
-| 24 | 2% | 2% |  |
-| 25 | 0.6% | 0.7% |  |
-| 26 | 0.1% | 0.2% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 2% | 99.6% |  |
+| 15 | 6% | 98% |  |
+| 16 | 12% | 92% |  |
+| 17 | 16% | 80% |  |
+| 18 | 17% | 64% | Median |
+| 19 | 14% | 47% |  |
+| 20 | 11% | 33% |  |
+| 21 | 9% | 23% |  |
+| 22 | 7% | 14% |  |
+| 23 | 4% | 7% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.7% | 1.0% |  |
+| 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
