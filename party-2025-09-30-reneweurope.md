@@ -30,7 +30,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -39,6 +38,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
+| Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -51,6 +51,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -83,25 +84,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0.1% | 100% |  |
 | 63 | 0.2% | 99.9% |  |
 | 64 | 0.4% | 99.7% |  |
-| 65 | 0.7% | 99.3% |  |
-| 66 | 1.3% | 98.6% |  |
+| 65 | 0.8% | 99.3% |  |
+| 66 | 1.3% | 98.5% |  |
 | 67 | 2% | 97% |  |
 | 68 | 3% | 95% |  |
 | 69 | 5% | 92% |  |
 | 70 | 6% | 87% |  |
-| 71 | 8% | 81% |  |
-| 72 | 9% | 73% |  |
+| 71 | 8% | 80% |  |
+| 72 | 10% | 72% |  |
 | 73 | 10% | 63% |  |
-| 74 | 10% | 53% | Median |
-| 75 | 10% | 43% |  |
-| 76 | 9% | 33% |  |
+| 74 | 10% | 52% | Median |
+| 75 | 10% | 42% |  |
+| 76 | 9% | 32% |  |
 | 77 | 7% | 24% | Last Result |
-| 78 | 6% | 17% |  |
+| 78 | 5% | 17% |  |
 | 79 | 4% | 11% |  |
 | 80 | 3% | 7% |  |
 | 81 | 2% | 4% |  |
 | 82 | 1.1% | 2% |  |
-| 83 | 0.6% | 1.3% |  |
+| 83 | 0.6% | 1.2% |  |
 | 84 | 0.3% | 0.6% |  |
 | 85 | 0.2% | 0.3% |  |
 | 86 | 0.1% | 0.1% |  |
