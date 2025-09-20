@@ -21,16 +21,16 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 77 | 74 | 69–79 | 68–80 | 66–81 | 64–84 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Uniunea Salvați România | RO | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Democraten 66 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -84,20 +84,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0.1% | 100% |  |
 | 63 | 0.2% | 99.9% |  |
 | 64 | 0.4% | 99.7% |  |
-| 65 | 0.8% | 99.3% |  |
-| 66 | 1.3% | 98.5% |  |
+| 65 | 0.7% | 99.3% |  |
+| 66 | 1.3% | 98.6% |  |
 | 67 | 2% | 97% |  |
 | 68 | 3% | 95% |  |
 | 69 | 5% | 92% |  |
 | 70 | 6% | 87% |  |
-| 71 | 8% | 80% |  |
-| 72 | 10% | 72% |  |
+| 71 | 8% | 81% |  |
+| 72 | 9% | 73% |  |
 | 73 | 10% | 63% |  |
-| 74 | 10% | 52% | Median |
+| 74 | 10% | 53% | Median |
 | 75 | 10% | 42% |  |
-| 76 | 9% | 32% |  |
+| 76 | 9% | 33% |  |
 | 77 | 7% | 24% | Last Result |
-| 78 | 5% | 17% |  |
+| 78 | 6% | 17% |  |
 | 79 | 4% | 11% |  |
 | 80 | 3% | 7% |  |
 | 81 | 2% | 4% |  |

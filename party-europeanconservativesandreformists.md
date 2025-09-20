@@ -32,7 +32,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Alternativ Demokratesch Reformpartei | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,16 +62,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 0.8% | 99.5% | Last Result |
 | 79 | 2% | 98.7% |  |
 | 80 | 3% | 97% |  |
-| 81 | 4% | 94% |  |
+| 81 | 5% | 94% |  |
 | 82 | 7% | 90% |  |
 | 83 | 9% | 83% |  |
 | 84 | 11% | 74% |  |
-| 85 | 12% | 64% |  |
+| 85 | 12% | 63% |  |
 | 86 | 12% | 51% | Median |
 | 87 | 11% | 39% |  |
 | 88 | 10% | 27% |  |
 | 89 | 7% | 18% |  |
-| 90 | 5% | 11% |  |
+| 90 | 5% | 10% |  |
 | 91 | 3% | 6% |  |
 | 92 | 2% | 3% |  |
 | 93 | 0.7% | 1.1% |  |
