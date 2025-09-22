@@ -44,7 +44,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 0.1% | 100% |  |
 | 63 | 0.2% | 99.9% |  |
 | 64 | 0.4% | 99.7% |  |
-| 65 | 0.7% | 99.3% |  |
+| 65 | 0.7% | 99.4% |  |
 | 66 | 1.3% | 98.6% |  |
 | 67 | 2% | 97% |  |
 | 68 | 3% | 95% |  |
