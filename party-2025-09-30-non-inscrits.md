@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 18 | 15–21 | 14–22 | 14–23 | 13–24 |
+| Non-Inscrits | EU | 32 | 18 | 15–22 | 15–23 | 14–23 | 13–25 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -38,7 +38,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -50,21 +50,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
-| 13 | 1.2% | 99.8% |  |
-| 14 | 5% | 98.6% |  |
-| 15 | 10% | 94% |  |
-| 16 | 16% | 84% |  |
-| 17 | 17% | 68% |  |
-| 18 | 14% | 51% | Median |
-| 19 | 12% | 37% |  |
-| 20 | 9% | 26% |  |
-| 21 | 7% | 16% |  |
-| 22 | 5% | 9% |  |
-| 23 | 2% | 4% |  |
-| 24 | 1.1% | 2% |  |
-| 25 | 0.4% | 0.5% |  |
-| 26 | 0.1% | 0.1% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.8% | 99.9% |  |
+| 14 | 3% | 99.1% |  |
+| 15 | 8% | 96% |  |
+| 16 | 14% | 88% |  |
+| 17 | 17% | 75% |  |
+| 18 | 16% | 58% | Median |
+| 19 | 13% | 42% |  |
+| 20 | 10% | 30% |  |
+| 21 | 8% | 20% |  |
+| 22 | 6% | 11% |  |
+| 23 | 3% | 6% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.6% | 0.8% |  |
+| 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
