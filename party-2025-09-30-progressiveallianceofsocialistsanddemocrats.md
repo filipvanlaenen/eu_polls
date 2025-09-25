@@ -23,7 +23,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Partito Democratico | IT | | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Partido Socialista | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -65,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 0.2% | 99.8% |  |
 | 109 | 0.3% | 99.6% |  |
 | 110 | 0.5% | 99.3% |  |
-| 111 | 0.7% | 98.8% |  |
+| 111 | 0.7% | 98.9% |  |
 | 112 | 1.0% | 98% |  |
 | 113 | 1.4% | 97% |  |
 | 114 | 2% | 96% |  |
@@ -74,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 117 | 3% | 89% |  |
 | 118 | 4% | 86% |  |
 | 119 | 4% | 82% |  |
-| 120 | 5% | 77% |  |
+| 120 | 5% | 78% |  |
 | 121 | 6% | 72% |  |
-| 122 | 7% | 66% |  |
+| 122 | 7% | 67% |  |
 | 123 | 7% | 60% |  |
-| 124 | 8% | 52% | Median |
+| 124 | 8% | 53% | Median |
 | 125 | 8% | 45% |  |
 | 126 | 7% | 37% |  |
 | 127 | 7% | 30% |  |
