@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **74** seats (-3 seats)
+Current median: **73** seats (-4 seats)
 
 At least one member in **19 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 74 | 69–78 | 68–80 | 66–81 | 64–83 |
+| Renew Europe | EU | 77 | 73 | 69–78 | 68–80 | 66–81 | 64–83 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -28,14 +28,14 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Eesti Keskerakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -72,7 +72,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Δημοκρατίας | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Алианс за права и свободи | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -84,28 +84,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 62 | 0.1% | 100% |  |
 | 63 | 0.2% | 99.9% |  |
-| 64 | 0.4% | 99.8% |  |
+| 64 | 0.4% | 99.7% |  |
 | 65 | 0.7% | 99.4% |  |
-| 66 | 1.3% | 98.7% |  |
+| 66 | 1.3% | 98.6% |  |
 | 67 | 2% | 97% |  |
 | 68 | 3% | 95% |  |
 | 69 | 5% | 92% |  |
 | 70 | 7% | 87% |  |
-| 71 | 8% | 81% |  |
-| 72 | 10% | 72% |  |
-| 73 | 11% | 62% |  |
-| 74 | 11% | 52% | Median |
-| 75 | 10% | 41% |  |
-| 76 | 9% | 31% |  |
-| 77 | 7% | 22% | Last Result |
-| 78 | 5% | 15% |  |
-| 79 | 4% | 10% |  |
-| 80 | 3% | 6% |  |
-| 81 | 2% | 3% |  |
-| 82 | 0.9% | 2% |  |
-| 83 | 0.5% | 0.9% |  |
-| 84 | 0.2% | 0.4% |  |
-| 85 | 0.1% | 0.2% |  |
+| 71 | 9% | 80% |  |
+| 72 | 10% | 71% |  |
+| 73 | 11% | 61% | Median |
+| 74 | 11% | 50% |  |
+| 75 | 10% | 39% |  |
+| 76 | 8% | 29% |  |
+| 77 | 7% | 21% | Last Result |
+| 78 | 5% | 14% |  |
+| 79 | 4% | 9% |  |
+| 80 | 2% | 5% |  |
+| 81 | 1.4% | 3% |  |
+| 82 | 0.8% | 2% |  |
+| 83 | 0.4% | 0.8% |  |
+| 84 | 0.2% | 0.3% |  |
+| 85 | 0.1% | 0.1% |  |
 | 86 | 0% | 0.1% |  |
 | 87 | 0% | 0% |  |
 

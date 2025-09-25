@@ -46,7 +46,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -60,7 +59,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0.1% | 99.9% |  |
 | 77 | 0.3% | 99.8% |  |
 | 78 | 0.7% | 99.5% | Last Result |
-| 79 | 1.3% | 98.8% |  |
+| 79 | 1.3% | 98.9% |  |
 | 80 | 2% | 98% |  |
 | 81 | 4% | 95% |  |
 | 82 | 6% | 91% |  |
@@ -68,11 +67,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 10% | 77% |  |
 | 85 | 12% | 67% |  |
 | 86 | 12% | 55% | Median |
-| 87 | 12% | 42% |  |
+| 87 | 12% | 43% |  |
 | 88 | 10% | 31% |  |
-| 89 | 8% | 20% |  |
-| 90 | 6% | 12% |  |
-| 91 | 3% | 7% |  |
+| 89 | 8% | 21% |  |
+| 90 | 6% | 13% |  |
+| 91 | 4% | 7% |  |
 | 92 | 2% | 3% |  |
 | 93 | 0.9% | 1.4% |  |
 | 94 | 0.4% | 0.5% |  |

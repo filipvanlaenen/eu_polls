@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **177** seats (-11 seats)
+Current median: **176** seats (-12 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 177 | 169–184 | 168–186 | 166–188 | 162–191 |
+| European People’s Party | EU | 188 | 176 | 169–184 | 167–186 | 166–188 | 162–191 |
 | Partido Popular | ES | | 23 | 21–25 | 17–26 | 16–26 | 16–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–22 | 17–23 | 16–23 |
 | Platforma Obywatelska | PL | | 19 | 17–20 | 17–20 | 16–21 | 16–22 |
@@ -31,7 +31,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Partidul Național Liberal | RO | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
-| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -73,7 +73,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
-| Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -87,36 +87,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.1% | 99.8% |  |
 | 162 | 0.2% | 99.7% |  |
-| 163 | 0.4% | 99.5% |  |
-| 164 | 0.5% | 99.1% |  |
-| 165 | 0.8% | 98.6% |  |
+| 163 | 0.4% | 99.4% |  |
+| 164 | 0.6% | 99.1% |  |
+| 165 | 0.8% | 98.5% |  |
 | 166 | 1.2% | 98% |  |
 | 167 | 2% | 97% |  |
 | 168 | 2% | 95% |  |
 | 169 | 3% | 93% |  |
 | 170 | 4% | 90% |  |
-| 171 | 4% | 86% |  |
-| 172 | 5% | 82% |  |
+| 171 | 5% | 86% |  |
+| 172 | 5% | 81% |  |
 | 173 | 6% | 76% |  |
-| 174 | 6% | 71% |  |
+| 174 | 6% | 70% |  |
 | 175 | 7% | 64% |  |
-| 176 | 7% | 57% |  |
-| 177 | 7% | 51% | Median |
-| 178 | 6% | 44% |  |
+| 176 | 7% | 57% | Median |
+| 177 | 7% | 50% |  |
+| 178 | 6% | 43% |  |
 | 179 | 6% | 37% |  |
 | 180 | 6% | 31% |  |
-| 181 | 5% | 26% |  |
-| 182 | 5% | 20% |  |
+| 181 | 5% | 25% |  |
+| 182 | 4% | 20% |  |
 | 183 | 4% | 16% |  |
 | 184 | 3% | 12% |  |
 | 185 | 3% | 9% |  |
 | 186 | 2% | 6% |  |
-| 187 | 1.5% | 4% |  |
+| 187 | 1.4% | 4% |  |
 | 188 | 1.0% | 3% | Last Result |
 | 189 | 0.7% | 2% |  |
 | 190 | 0.4% | 1.0% |  |
 | 191 | 0.3% | 0.6% |  |
-| 192 | 0.2% | 0.3% |  |
+| 192 | 0.1% | 0.3% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
