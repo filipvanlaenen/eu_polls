@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 34–41 | 34–43 | 33–44 | 32–46 |
+| Greens–European Free Alliance | EU | 53 | 37 | 34–41 | 34–42 | 33–44 | 31–46 |
 | Bündnis 90/Die Grünen | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -27,8 +27,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Česká pirátská strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Ecolo | BE-FRC | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Česká pirátská strana | CZ | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -41,6 +40,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -66,21 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
-| 31 | 0.3% | 99.9% |  |
-| 32 | 1.1% | 99.5% |  |
+| 31 | 0.4% | 99.9% |  |
+| 32 | 1.2% | 99.5% |  |
 | 33 | 3% | 98% |  |
-| 34 | 6% | 96% |  |
-| 35 | 10% | 90% |  |
-| 36 | 14% | 79% |  |
-| 37 | 16% | 65% | Median |
-| 38 | 15% | 49% |  |
-| 39 | 12% | 34% |  |
-| 40 | 8% | 22% |  |
-| 41 | 5% | 14% |  |
-| 42 | 3% | 9% |  |
+| 34 | 6% | 95% |  |
+| 35 | 11% | 89% |  |
+| 36 | 15% | 78% |  |
+| 37 | 16% | 63% | Median |
+| 38 | 15% | 47% |  |
+| 39 | 11% | 32% |  |
+| 40 | 8% | 21% |  |
+| 41 | 5% | 13% |  |
+| 42 | 3% | 8% |  |
 | 43 | 2% | 5% |  |
-| 44 | 1.5% | 3% |  |
-| 45 | 0.8% | 1.5% |  |
+| 44 | 1.4% | 3% |  |
+| 45 | 0.8% | 1.4% |  |
 | 46 | 0.4% | 0.6% |  |
 | 47 | 0.2% | 0.2% |  |
 | 48 | 0.1% | 0.1% |  |

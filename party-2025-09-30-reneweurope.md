@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 73 | 69–78 | 67–80 | 66–81 | 64–83 |
+| Renew Europe | EU | 77 | 73 | 68–78 | 67–79 | 66–80 | 64–82 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Fianna Fáil | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -31,8 +31,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -42,6 +41,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -65,7 +65,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska 2050 | PL | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Polska 2050 | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -82,31 +82,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0.1% | 100% |  |
-| 63 | 0.2% | 99.9% |  |
-| 64 | 0.4% | 99.7% |  |
-| 65 | 0.8% | 99.4% |  |
-| 66 | 1.4% | 98.6% |  |
-| 67 | 2% | 97% |  |
-| 68 | 3% | 95% |  |
-| 69 | 5% | 92% |  |
-| 70 | 7% | 86% |  |
-| 71 | 9% | 80% |  |
-| 72 | 10% | 71% |  |
-| 73 | 11% | 61% | Median |
-| 74 | 11% | 50% |  |
-| 75 | 10% | 39% |  |
-| 76 | 8% | 29% |  |
-| 77 | 7% | 20% | Last Result |
-| 78 | 5% | 14% |  |
-| 79 | 3% | 9% |  |
-| 80 | 2% | 5% |  |
-| 81 | 1.4% | 3% |  |
-| 82 | 0.8% | 2% |  |
-| 83 | 0.4% | 0.7% |  |
-| 84 | 0.2% | 0.3% |  |
+| 61 | 0% | 100% |  |
+| 62 | 0.1% | 99.9% |  |
+| 63 | 0.3% | 99.8% |  |
+| 64 | 0.6% | 99.6% |  |
+| 65 | 1.1% | 99.0% |  |
+| 66 | 2% | 98% |  |
+| 67 | 3% | 96% |  |
+| 68 | 4% | 93% |  |
+| 69 | 6% | 89% |  |
+| 70 | 8% | 82% |  |
+| 71 | 10% | 74% |  |
+| 72 | 11% | 65% |  |
+| 73 | 11% | 54% | Median |
+| 74 | 10% | 43% |  |
+| 75 | 9% | 32% |  |
+| 76 | 7% | 23% |  |
+| 77 | 6% | 16% | Last Result |
+| 78 | 4% | 10% |  |
+| 79 | 3% | 6% |  |
+| 80 | 2% | 4% |  |
+| 81 | 1.0% | 2% |  |
+| 82 | 0.5% | 1.0% |  |
+| 83 | 0.3% | 0.5% |  |
+| 84 | 0.1% | 0.2% |  |
 | 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0.1% |  |
-| 87 | 0% | 0% |  |
+| 86 | 0% | 0% |  |
 
 

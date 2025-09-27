@@ -18,14 +18,14 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 18 | 15–21 | 14–22 | 14–23 | 13–25 |
+| Non-Inscrits | EU | 32 | 18 | 15–22 | 15–23 | 14–23 | 13–25 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| Πλεύση Ελευθερίας | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Πλεύση Ελευθερίας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -50,20 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.3% | 100% |  |
-| 13 | 1.4% | 99.7% |  |
-| 14 | 4% | 98% |  |
-| 15 | 9% | 94% |  |
-| 16 | 14% | 85% |  |
-| 17 | 17% | 70% |  |
-| 18 | 15% | 54% | Median |
-| 19 | 12% | 39% |  |
-| 20 | 10% | 27% |  |
-| 21 | 8% | 17% |  |
-| 22 | 5% | 10% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 1.1% | 99.7% |  |
+| 14 | 4% | 98.6% |  |
+| 15 | 8% | 95% |  |
+| 16 | 13% | 87% |  |
+| 17 | 15% | 75% |  |
+| 18 | 14% | 60% | Median |
+| 19 | 13% | 46% |  |
+| 20 | 12% | 33% |  |
+| 21 | 9% | 21% |  |
+| 22 | 6% | 12% |  |
 | 23 | 3% | 5% |  |
-| 24 | 1.3% | 2% |  |
-| 25 | 0.4% | 0.6% |  |
+| 24 | 1.4% | 2% |  |
+| 25 | 0.5% | 0.7% |  |
 | 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
