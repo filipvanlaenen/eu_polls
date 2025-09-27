@@ -27,7 +27,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Česká pirátská strana | CZ | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.4% | 99.9% |  |
-| 32 | 1.2% | 99.5% |  |
+| 32 | 1.3% | 99.5% |  |
 | 33 | 3% | 98% |  |
 | 34 | 6% | 95% |  |
 | 35 | 11% | 89% |  |
@@ -82,8 +82,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 1.4% | 3% |  |
 | 45 | 0.8% | 1.4% |  |
 | 46 | 0.4% | 0.6% |  |
-| 47 | 0.2% | 0.2% |  |
-| 48 | 0.1% | 0.1% |  |
+| 47 | 0.1% | 0.2% |  |
+| 48 | 0% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

@@ -34,7 +34,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Partij van de Arbeid | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | БСП – обединена левица | BG | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
@@ -65,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 108 | 0.2% | 99.8% |  |
 | 109 | 0.3% | 99.7% |  |
 | 110 | 0.4% | 99.4% |  |
-| 111 | 0.7% | 98.9% |  |
+| 111 | 0.7% | 99.0% |  |
 | 112 | 1.0% | 98% |  |
 | 113 | 1.3% | 97% |  |
 | 114 | 2% | 96% |  |
@@ -76,11 +76,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 4% | 83% |  |
 | 120 | 5% | 78% |  |
 | 121 | 6% | 73% |  |
-| 122 | 7% | 67% |  |
+| 122 | 7% | 68% |  |
 | 123 | 7% | 61% |  |
 | 124 | 8% | 54% | Median |
 | 125 | 8% | 46% |  |
-| 126 | 8% | 38% |  |
+| 126 | 8% | 39% |  |
 | 127 | 7% | 31% |  |
 | 128 | 6% | 24% |  |
 | 129 | 5% | 18% |  |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 131 | 3% | 9% |  |
 | 132 | 2% | 6% |  |
 | 133 | 1.5% | 4% |  |
-| 134 | 0.9% | 2% |  |
+| 134 | 1.0% | 2% |  |
 | 135 | 0.6% | 1.3% |  |
 | 136 | 0.3% | 0.7% | Last Result |
 | 137 | 0.2% | 0.4% |  |
