@@ -26,7 +26,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -51,15 +51,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.2% | 100% |  |
-| 13 | 0.9% | 99.8% |  |
-| 14 | 3% | 98.9% |  |
+| 13 | 0.8% | 99.8% |  |
+| 14 | 3% | 99.0% |  |
 | 15 | 6% | 96% |  |
 | 16 | 9% | 90% |  |
 | 17 | 11% | 81% |  |
-| 18 | 13% | 70% |  |
-| 19 | 15% | 57% | Median |
+| 18 | 12% | 70% |  |
+| 19 | 15% | 58% | Median |
 | 20 | 15% | 43% |  |
-| 21 | 13% | 27% |  |
+| 21 | 13% | 28% |  |
 | 22 | 8% | 15% |  |
 | 23 | 4% | 6% |  |
 | 24 | 2% | 2% |  |
