@@ -26,7 +26,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Christen-Democratisch Appèl | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| Forza Italia | IT | | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
+| Forza Italia | IT | | 6 | 5–8 | 5–8 | 4–9 | 4–10 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -41,12 +41,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Erakond Isamaa | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 2–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -89,7 +89,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.7% |  |
 | 162 | 0.4% | 99.5% |  |
-| 163 | 0.5% | 99.1% |  |
+| 163 | 0.5% | 99.2% |  |
 | 164 | 0.8% | 98.6% |  |
 | 165 | 1.1% | 98% |  |
 | 166 | 2% | 97% |  |
@@ -115,10 +115,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 186 | 2% | 6% |  |
 | 187 | 1.4% | 4% |  |
 | 188 | 1.0% | 3% | Last Result |
-| 189 | 0.6% | 2% |  |
+| 189 | 0.7% | 2% |  |
 | 190 | 0.4% | 1.0% |  |
 | 191 | 0.3% | 0.6% |  |
-| 192 | 0.1% | 0.3% |  |
+| 192 | 0.2% | 0.3% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |
