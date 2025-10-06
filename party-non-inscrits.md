@@ -38,7 +38,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 

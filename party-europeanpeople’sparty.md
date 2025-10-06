@@ -25,7 +25,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
-| Christen-Democratisch Appèl | NL | | 6 | 6 | 5–6 | 5–7 | 5–7 |
+| Christen-Democratisch Appèl | NL | | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | Forza Italia | IT | | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -34,7 +34,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -88,22 +88,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.7% |  |
-| 162 | 0.3% | 99.5% |  |
-| 163 | 0.5% | 99.2% |  |
+| 162 | 0.4% | 99.5% |  |
+| 163 | 0.5% | 99.1% |  |
 | 164 | 0.8% | 98.6% |  |
 | 165 | 1.1% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 2% | 95% |  |
 | 168 | 3% | 93% |  |
-| 169 | 3% | 91% |  |
+| 169 | 3% | 90% |  |
 | 170 | 4% | 87% |  |
 | 171 | 5% | 83% |  |
-| 172 | 5% | 79% |  |
+| 172 | 5% | 78% |  |
 | 173 | 6% | 73% |  |
 | 174 | 6% | 67% |  |
 | 175 | 7% | 61% |  |
 | 176 | 7% | 54% | Median |
-| 177 | 6% | 48% |  |
+| 177 | 6% | 47% |  |
 | 178 | 6% | 41% |  |
 | 179 | 6% | 35% |  |
 | 180 | 5% | 29% |  |
@@ -115,10 +115,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 186 | 2% | 6% |  |
 | 187 | 1.4% | 4% |  |
 | 188 | 1.0% | 3% | Last Result |
-| 189 | 0.7% | 2% |  |
+| 189 | 0.6% | 2% |  |
 | 190 | 0.4% | 1.0% |  |
 | 191 | 0.3% | 0.6% |  |
-| 192 | 0.2% | 0.3% |  |
+| 192 | 0.1% | 0.3% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0% | 0.1% |  |
 | 195 | 0% | 0% |  |

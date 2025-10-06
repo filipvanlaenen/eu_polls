@@ -21,7 +21,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 124 | 116–130 | 114–132 | 112–133 | 109–136 |
 | Partido Socialista Obrero Español | ES | | 19 | 17–22 | 16–23 | 16–23 | 15–24 |
 | Partito Democratico | IT | | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
