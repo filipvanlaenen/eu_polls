@@ -19,15 +19,15 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 124 | 116–130 | 114–132 | 112–133 | 109–136 |
-| Partido Socialista Obrero Español | ES | | 19 | 17–22 | 16–23 | 16–23 | 15–24 |
+| Partido Socialista Obrero Español | ES | | 19 | 17–22 | 16–23 | 16–23 | 16–24 |
 | Partito Democratico | IT | | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 11–16 | 11–17 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Partido Socialista | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nowa Lewica | PL | | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| Nowa Lewica | PL | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -41,7 +41,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Nemuno aušra | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 0–1 |
 | Demokratikus Koalíció | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,40 +60,41 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 106 | 0.1% | 100% |  |
+| 105 | 0% | 100% |  |
+| 106 | 0.1% | 99.9% |  |
 | 107 | 0.1% | 99.9% |  |
 | 108 | 0.2% | 99.8% |  |
 | 109 | 0.3% | 99.6% |  |
-| 110 | 0.5% | 99.4% |  |
-| 111 | 0.7% | 98.9% |  |
+| 110 | 0.5% | 99.3% |  |
+| 111 | 0.7% | 98.8% |  |
 | 112 | 1.0% | 98% |  |
-| 113 | 1.3% | 97% |  |
+| 113 | 1.4% | 97% |  |
 | 114 | 2% | 96% |  |
 | 115 | 2% | 94% |  |
 | 116 | 3% | 92% |  |
 | 117 | 3% | 89% |  |
 | 118 | 4% | 86% |  |
-| 119 | 4% | 83% |  |
-| 120 | 5% | 78% |  |
-| 121 | 6% | 73% |  |
-| 122 | 6% | 68% |  |
-| 123 | 7% | 61% |  |
-| 124 | 7% | 54% | Median |
-| 125 | 8% | 47% |  |
-| 126 | 7% | 39% |  |
-| 127 | 7% | 32% |  |
-| 128 | 6% | 25% |  |
-| 129 | 5% | 19% |  |
-| 130 | 4% | 14% |  |
-| 131 | 3% | 10% |  |
+| 119 | 4% | 82% |  |
+| 120 | 5% | 77% |  |
+| 121 | 6% | 72% |  |
+| 122 | 7% | 66% |  |
+| 123 | 7% | 60% |  |
+| 124 | 8% | 53% | Median |
+| 125 | 8% | 45% |  |
+| 126 | 7% | 37% |  |
+| 127 | 7% | 30% |  |
+| 128 | 6% | 23% |  |
+| 129 | 5% | 18% |  |
+| 130 | 4% | 13% |  |
+| 131 | 3% | 9% |  |
 | 132 | 2% | 6% |  |
-| 133 | 2% | 4% |  |
-| 134 | 1.0% | 2% |  |
-| 135 | 0.6% | 1.4% |  |
-| 136 | 0.4% | 0.8% | Last Result |
+| 133 | 1.4% | 4% |  |
+| 134 | 0.9% | 2% |  |
+| 135 | 0.6% | 1.3% |  |
+| 136 | 0.3% | 0.7% | Last Result |
 | 137 | 0.2% | 0.4% |  |
 | 138 | 0.1% | 0.2% |  |
-| 139 | 0.1% | 0.1% |  |
+| 139 | 0% | 0.1% |  |
 | 140 | 0% | 0% |  |
 
 
