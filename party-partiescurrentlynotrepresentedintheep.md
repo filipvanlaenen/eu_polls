@@ -23,7 +23,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -59,11 +59,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 18% | 100% | Last Result |
-| 2 | 49% | 82% | Median |
-| 3 | 27% | 33% |  |
-| 4 | 6% | 6% |  |
-| 5 | 0.5% | 0.6% |  |
-| 6 | 0% | 0% |  |
+| 1 | 15% | 100% | Last Result |
+| 2 | 45% | 85% | Median |
+| 3 | 30% | 40% |  |
+| 4 | 9% | 10% |  |
+| 5 | 1.2% | 1.3% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
