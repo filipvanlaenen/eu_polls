@@ -18,21 +18,21 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 124 | 116–130 | 114–131 | 113–133 | 110–135 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 124 | 116–130 | 114–132 | 113–133 | 110–136 |
 | Partido Socialista Obrero Español | ES | | 19 | 17–22 | 17–23 | 16–23 | 16–24 |
 | Partito Democratico | IT | | 18 | 17–20 | 17–20 | 16–21 | 15–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 11–16 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–15 | 12–15 | 11–16 | 11–16 |
 | Parti socialiste–Place Publique | FR | | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Partido Socialista | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Nowa Lewica | PL | | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Partit Laburista | MT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Lietuvos socialdemokratų partija | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Nowa Lewica | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -60,28 +60,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 106 | 0% | 100% |  |
-| 107 | 0.1% | 99.9% |  |
+| 107 | 0.1% | 100% |  |
 | 108 | 0.1% | 99.9% |  |
 | 109 | 0.2% | 99.8% |  |
-| 110 | 0.4% | 99.5% |  |
-| 111 | 0.6% | 99.1% |  |
-| 112 | 0.9% | 98% |  |
+| 110 | 0.4% | 99.6% |  |
+| 111 | 0.6% | 99.2% |  |
+| 112 | 0.9% | 98.6% |  |
 | 113 | 1.3% | 98% |  |
 | 114 | 2% | 96% |  |
-| 115 | 2% | 94% |  |
-| 116 | 3% | 92% |  |
+| 115 | 2% | 95% |  |
+| 116 | 3% | 93% |  |
 | 117 | 3% | 90% |  |
-| 118 | 4% | 86% |  |
+| 118 | 4% | 87% |  |
 | 119 | 4% | 83% |  |
 | 120 | 5% | 79% |  |
 | 121 | 6% | 74% |  |
-| 122 | 7% | 68% |  |
-| 123 | 7% | 61% |  |
+| 122 | 7% | 69% |  |
+| 123 | 7% | 62% |  |
 | 124 | 8% | 54% | Median |
-| 125 | 8% | 46% |  |
-| 126 | 8% | 37% |  |
-| 127 | 7% | 30% |  |
+| 125 | 8% | 47% |  |
+| 126 | 8% | 38% |  |
+| 127 | 7% | 31% |  |
 | 128 | 6% | 23% |  |
 | 129 | 5% | 17% |  |
 | 130 | 4% | 12% |  |
@@ -89,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 132 | 2% | 5% |  |
 | 133 | 1.3% | 3% |  |
 | 134 | 0.8% | 2% |  |
-| 135 | 0.5% | 0.9% |  |
+| 135 | 0.5% | 1.0% |  |
 | 136 | 0.3% | 0.5% | Last Result |
 | 137 | 0.1% | 0.2% |  |
 | 138 | 0.1% | 0.1% |  |

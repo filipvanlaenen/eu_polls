@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **177** seats (-11 seats)
+Current median: **176** seats (-12 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 177 | 169–184 | 167–186 | 165–188 | 162–191 |
+| European People’s Party | EU | 188 | 176 | 169–184 | 167–186 | 165–188 | 162–191 |
 | Partido Popular | ES | | 23 | 18–25 | 17–26 | 16–26 | 16–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
-| Platforma Obywatelska | PL | | 18 | 17–20 | 16–21 | 15–21 | 15–22 |
+| Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 15–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -70,7 +70,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -84,39 +84,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
+| 159 | 0.1% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
-| 162 | 0.3% | 99.7% |  |
-| 163 | 0.4% | 99.4% |  |
-| 164 | 0.6% | 99.0% |  |
-| 165 | 0.9% | 98% |  |
-| 166 | 1.3% | 97% |  |
+| 162 | 0.3% | 99.6% |  |
+| 163 | 0.5% | 99.3% |  |
+| 164 | 0.7% | 98.8% |  |
+| 165 | 1.0% | 98% |  |
+| 166 | 1.4% | 97% |  |
 | 167 | 2% | 96% |  |
 | 168 | 2% | 94% |  |
-| 169 | 3% | 92% |  |
-| 170 | 4% | 89% |  |
-| 171 | 4% | 86% |  |
-| 172 | 5% | 81% |  |
-| 173 | 6% | 76% |  |
-| 174 | 6% | 71% |  |
-| 175 | 6% | 64% |  |
-| 176 | 7% | 58% |  |
-| 177 | 7% | 51% | Median |
-| 178 | 6% | 45% |  |
-| 179 | 6% | 38% |  |
-| 180 | 6% | 32% |  |
-| 181 | 5% | 27% |  |
-| 182 | 5% | 21% |  |
-| 183 | 4% | 17% |  |
-| 184 | 3% | 13% |  |
-| 185 | 3% | 10% |  |
-| 186 | 2% | 7% |  |
-| 187 | 2% | 5% |  |
-| 188 | 1.2% | 3% | Last Result |
-| 189 | 0.8% | 2% |  |
-| 190 | 0.5% | 1.3% |  |
-| 191 | 0.3% | 0.8% |  |
+| 169 | 3% | 91% |  |
+| 170 | 4% | 88% |  |
+| 171 | 5% | 84% |  |
+| 172 | 5% | 80% |  |
+| 173 | 6% | 74% |  |
+| 174 | 6% | 69% |  |
+| 175 | 7% | 62% |  |
+| 176 | 7% | 56% | Median |
+| 177 | 7% | 49% |  |
+| 178 | 6% | 43% |  |
+| 179 | 6% | 36% |  |
+| 180 | 5% | 30% |  |
+| 181 | 5% | 25% |  |
+| 182 | 4% | 20% |  |
+| 183 | 4% | 16% |  |
+| 184 | 3% | 12% |  |
+| 185 | 3% | 9% |  |
+| 186 | 2% | 6% |  |
+| 187 | 1.5% | 4% |  |
+| 188 | 1.0% | 3% | Last Result |
+| 189 | 0.7% | 2% |  |
+| 190 | 0.5% | 1.1% |  |
+| 191 | 0.3% | 0.7% |  |
 | 192 | 0.2% | 0.4% |  |
 | 193 | 0.1% | 0.2% |  |
 | 194 | 0.1% | 0.1% |  |
