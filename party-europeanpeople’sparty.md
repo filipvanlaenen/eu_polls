@@ -20,7 +20,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 176 | 169–184 | 167–186 | 165–188 | 162–191 |
 | Partido Popular | ES | | 23 | 18–25 | 17–26 | 16–26 | 16–27 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | Platforma Obywatelska | PL | | 18 | 17–20 | 16–20 | 15–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Les Républicains | FR | | 9 | 7–16 | 6–16 | 6–17 | 6–17 |
@@ -41,12 +41,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Erakond Isamaa | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -65,6 +65,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristdemokraterna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kristendemokraterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nieuw Sociaal Contract | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -84,35 +85,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0.1% | 100% |  |
+| 158 | 0% | 100% |  |
+| 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
 | 162 | 0.3% | 99.6% |  |
-| 163 | 0.5% | 99.3% |  |
-| 164 | 0.7% | 98.8% |  |
-| 165 | 1.0% | 98% |  |
-| 166 | 1.4% | 97% |  |
-| 167 | 2% | 96% |  |
-| 168 | 2% | 94% |  |
+| 163 | 0.5% | 99.2% |  |
+| 164 | 0.7% | 98.7% |  |
+| 165 | 1.1% | 98% |  |
+| 166 | 1.5% | 97% |  |
+| 167 | 2% | 95% |  |
+| 168 | 3% | 93% |  |
 | 169 | 3% | 91% |  |
 | 170 | 4% | 88% |  |
 | 171 | 5% | 84% |  |
-| 172 | 5% | 80% |  |
+| 172 | 5% | 79% |  |
 | 173 | 6% | 74% |  |
-| 174 | 6% | 69% |  |
+| 174 | 6% | 68% |  |
 | 175 | 7% | 62% |  |
-| 176 | 7% | 56% | Median |
-| 177 | 7% | 49% |  |
-| 178 | 6% | 43% |  |
+| 176 | 7% | 55% | Median |
+| 177 | 6% | 48% |  |
+| 178 | 6% | 42% |  |
 | 179 | 6% | 36% |  |
 | 180 | 5% | 30% |  |
-| 181 | 5% | 25% |  |
+| 181 | 5% | 24% |  |
 | 182 | 4% | 20% |  |
-| 183 | 4% | 16% |  |
+| 183 | 4% | 15% |  |
 | 184 | 3% | 12% |  |
-| 185 | 3% | 9% |  |
+| 185 | 2% | 9% |  |
 | 186 | 2% | 6% |  |
-| 187 | 1.5% | 4% |  |
+| 187 | 1.4% | 4% |  |
 | 188 | 1.0% | 3% | Last Result |
 | 189 | 0.7% | 2% |  |
 | 190 | 0.5% | 1.1% |  |
