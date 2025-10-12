@@ -23,12 +23,12 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
 | GroenLinks | NL | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -39,7 +39,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -74,15 +74,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 9% | 92% |  |
 | 36 | 14% | 82% |  |
 | 37 | 16% | 69% |  |
-| 38 | 16% | 52% | Median |
-| 39 | 13% | 36% |  |
+| 38 | 16% | 53% | Median |
+| 39 | 13% | 37% |  |
 | 40 | 9% | 24% |  |
 | 41 | 6% | 15% |  |
 | 42 | 4% | 9% |  |
 | 43 | 2% | 6% |  |
 | 44 | 2% | 3% |  |
-| 45 | 0.9% | 2% |  |
-| 46 | 0.5% | 0.7% |  |
+| 45 | 1.0% | 2% |  |
+| 46 | 0.5% | 0.8% |  |
 | 47 | 0.2% | 0.3% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
