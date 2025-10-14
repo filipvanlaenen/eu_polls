@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 16–22 | 15–23 | 14–23 | 13–24 |
+| Non-Inscrits | EU | 32 | 19 | 16–22 | 15–22 | 14–23 | 13–24 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Konfederacja Korony Polskiej | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -27,7 +27,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Πλεύση Ελευθερίας | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,14 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 4% | 97% |  |
 | 16 | 6% | 94% |  |
 | 17 | 10% | 87% |  |
-| 18 | 14% | 77% |  |
-| 19 | 18% | 63% | Median |
-| 20 | 18% | 45% |  |
-| 21 | 14% | 26% |  |
-| 22 | 8% | 13% |  |
+| 18 | 15% | 77% |  |
+| 19 | 19% | 63% | Median |
+| 20 | 18% | 44% |  |
+| 21 | 13% | 26% |  |
+| 22 | 7% | 12% |  |
 | 23 | 3% | 5% |  |
-| 24 | 1.2% | 2% |  |
-| 25 | 0.4% | 0.5% |  |
+| 24 | 1.1% | 2% |  |
+| 25 | 0.3% | 0.4% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
