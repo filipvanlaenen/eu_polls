@@ -18,8 +18,8 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 34–43 | 33–44 | 32–46 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 9–13 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 33–44 | 32–46 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–13 | 9–13 | 9–13 |
 | Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -33,7 +33,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
+| Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Vladimir Prebilič | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +46,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -67,15 +67,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.2% | 100% |  |
-| 32 | 0.7% | 99.8% |  |
-| 33 | 2% | 99.1% |  |
-| 34 | 5% | 97% |  |
-| 35 | 9% | 92% |  |
-| 36 | 13% | 84% |  |
-| 37 | 16% | 71% |  |
-| 38 | 16% | 55% | Median |
-| 39 | 13% | 38% |  |
-| 40 | 9% | 25% |  |
+| 32 | 0.6% | 99.8% |  |
+| 33 | 2% | 99.2% |  |
+| 34 | 4% | 97% |  |
+| 35 | 8% | 93% |  |
+| 36 | 13% | 85% |  |
+| 37 | 16% | 72% |  |
+| 38 | 17% | 56% | Median |
+| 39 | 14% | 39% |  |
+| 40 | 10% | 26% |  |
 | 41 | 6% | 16% |  |
 | 42 | 4% | 10% |  |
 | 43 | 3% | 6% |  |
