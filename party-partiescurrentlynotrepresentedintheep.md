@@ -8,7 +8,7 @@ Members registered from **21 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+2 seats)
+Current median: **2** seats (+1 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 1–4 | 1–4 | 1–5 | 1–5 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–4 | 1–4 | 1–5 | 1–5 |
 | Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,7 +50,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
-| Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
+| Величие [BG] (*) | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -60,12 +60,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 11% | 100% | Last Result |
-| 2 | 37% | 89% |  |
-| 3 | 35% | 52% | Median |
-| 4 | 14% | 18% |  |
-| 5 | 3% | 3% |  |
-| 6 | 0.3% | 0.3% |  |
+| 1 | 16% | 100% | Last Result |
+| 2 | 38% | 84% | Median |
+| 3 | 31% | 46% |  |
+| 4 | 12% | 15% |  |
+| 5 | 2% | 3% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **125** seats (-11 seats)
+Current median: **124** seats (-12 seats)
 
 At least one member in **23 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 125 | 117–131 | 115–133 | 113–134 | 110–137 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 124 | 117–131 | 115–132 | 113–134 | 110–137 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–22 | 17–25 | 17–25 | 16–26 |
 | Partito Democratico | IT | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
@@ -38,12 +38,12 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| БСП – обединена левица | BG | | 2 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1 | 1 | 1 | 1 |
 | Social Democrats | IE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 0–1 |
+| БСП – обединена левица | BG | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Demokratikus Koalíció | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -60,41 +60,40 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 107 | 0% | 100% |  |
+| 107 | 0.1% | 100% |  |
 | 108 | 0.1% | 99.9% |  |
 | 109 | 0.2% | 99.8% |  |
-| 110 | 0.3% | 99.7% |  |
-| 111 | 0.5% | 99.4% |  |
-| 112 | 0.8% | 98.9% |  |
-| 113 | 1.1% | 98% |  |
-| 114 | 1.5% | 97% |  |
-| 115 | 2% | 96% |  |
-| 116 | 2% | 94% |  |
+| 110 | 0.3% | 99.6% |  |
+| 111 | 0.5% | 99.3% |  |
+| 112 | 0.8% | 98.7% |  |
+| 113 | 1.2% | 98% |  |
+| 114 | 2% | 97% |  |
+| 115 | 2% | 95% |  |
+| 116 | 2% | 93% |  |
 | 117 | 3% | 91% |  |
 | 118 | 3% | 88% |  |
-| 119 | 4% | 85% |  |
-| 120 | 4% | 81% |  |
-| 121 | 5% | 77% |  |
-| 122 | 6% | 72% |  |
-| 123 | 7% | 65% |  |
-| 124 | 8% | 59% |  |
-| 125 | 8% | 51% | Median |
-| 126 | 8% | 43% |  |
-| 127 | 7% | 35% |  |
-| 128 | 7% | 28% |  |
-| 129 | 6% | 21% |  |
-| 130 | 4% | 16% |  |
-| 131 | 3% | 11% |  |
-| 132 | 3% | 8% |  |
+| 119 | 4% | 84% |  |
+| 120 | 5% | 80% |  |
+| 121 | 5% | 76% |  |
+| 122 | 6% | 70% |  |
+| 123 | 7% | 64% |  |
+| 124 | 8% | 57% | Median |
+| 125 | 8% | 49% |  |
+| 126 | 8% | 41% |  |
+| 127 | 7% | 33% |  |
+| 128 | 6% | 26% |  |
+| 129 | 5% | 20% |  |
+| 130 | 4% | 14% |  |
+| 131 | 3% | 10% |  |
+| 132 | 2% | 7% |  |
 | 133 | 2% | 5% |  |
-| 134 | 1.3% | 3% |  |
-| 135 | 0.8% | 2% |  |
-| 136 | 0.5% | 1.3% | Last Result |
-| 137 | 0.3% | 0.7% |  |
+| 134 | 1.1% | 3% |  |
+| 135 | 0.7% | 2% |  |
+| 136 | 0.5% | 1.1% | Last Result |
+| 137 | 0.3% | 0.6% |  |
 | 138 | 0.2% | 0.4% |  |
 | 139 | 0.1% | 0.2% |  |
-| 140 | 0.1% | 0.1% |  |
-| 141 | 0% | 0.1% |  |
-| 142 | 0% | 0% |  |
+| 140 | 0% | 0.1% |  |
+| 141 | 0% | 0% |  |
 
 

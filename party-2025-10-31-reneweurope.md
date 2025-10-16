@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 72 | 68–77 | 67–78 | 65–79 | 63–81 |
+| Renew Europe | EU | 77 | 72 | 68–77 | 66–78 | 65–79 | 63–81 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 20 | 17–22 | 15–22 | 15–23 | 14–24 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Uniunea Salvați România | RO | | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
@@ -38,7 +38,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
@@ -84,20 +84,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0.1% | 100% |  |
 | 62 | 0.2% | 99.9% |  |
-| 63 | 0.4% | 99.8% |  |
-| 64 | 0.7% | 99.4% |  |
-| 65 | 1.3% | 98.7% |  |
+| 63 | 0.4% | 99.7% |  |
+| 64 | 0.8% | 99.4% |  |
+| 65 | 1.4% | 98.6% |  |
 | 66 | 2% | 97% |  |
 | 67 | 4% | 95% |  |
-| 68 | 5% | 92% |  |
+| 68 | 5% | 91% |  |
 | 69 | 7% | 86% |  |
 | 70 | 9% | 79% |  |
 | 71 | 11% | 70% |  |
 | 72 | 12% | 60% | Median |
 | 73 | 11% | 48% |  |
 | 74 | 10% | 37% |  |
-| 75 | 9% | 27% |  |
-| 76 | 7% | 18% |  |
+| 75 | 9% | 26% |  |
+| 76 | 6% | 18% |  |
 | 77 | 5% | 11% | Last Result |
 | 78 | 3% | 7% |  |
 | 79 | 2% | 4% |  |
