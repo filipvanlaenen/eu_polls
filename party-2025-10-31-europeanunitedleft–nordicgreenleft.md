@@ -21,7 +21,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 46 | 58 | 53–62 | 52–63 | 51–65 | 49–67 |
 | La France insoumise | FR | | 12 | 9–14 | 9–14 | 9–15 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
-| Die Linke | DE | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
+| Die Linke | DE | | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
@@ -49,7 +49,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Parti communiste français | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Radnička fronta | HR | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -70,7 +70,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 2% | 98.6% |  |
 | 52 | 3% | 97% |  |
 | 53 | 4% | 94% |  |
-| 54 | 7% | 90% |  |
+| 54 | 6% | 90% |  |
 | 55 | 9% | 83% |  |
 | 56 | 10% | 75% |  |
 | 57 | 11% | 64% |  |
@@ -79,11 +79,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 9% | 30% |  |
 | 61 | 7% | 21% |  |
 | 62 | 5% | 14% |  |
-| 63 | 4% | 8% |  |
+| 63 | 4% | 9% |  |
 | 64 | 2% | 5% |  |
 | 65 | 1.3% | 3% |  |
-| 66 | 0.7% | 1.3% |  |
-| 67 | 0.3% | 0.6% |  |
+| 66 | 0.7% | 1.4% |  |
+| 67 | 0.4% | 0.7% |  |
 | 68 | 0.2% | 0.3% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
