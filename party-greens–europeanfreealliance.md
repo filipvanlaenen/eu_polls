@@ -23,7 +23,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -56,7 +56,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
-| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0–1 |
+| Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

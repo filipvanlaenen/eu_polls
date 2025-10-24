@@ -21,27 +21,27 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 176 | 169–183 | 167–184 | 165–186 | 162–189 |
 | Partido Popular | ES | | 23 | 18–25 | 14–26 | 14–26 | 14–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
-| Platforma Obywatelska | PL | | 18 | 17–22 | 17–22 | 16–22 | 16–24 |
+| Platforma Obywatelska | PL | | 18 | 17–22 | 16–22 | 16–22 | 16–24 |
 | Les Républicains | FR | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Christen-Democratisch Appèl | NL | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| Forza Italia | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Partidul Național Liberal | RO | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| Österreichische Volkspartei | AT | | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 2 | 2–3 | 1–3 |
 | Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Uniunea Democrată Maghiară din România | RO | | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -110,15 +110,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 180 | 6% | 26% |  |
 | 181 | 5% | 20% |  |
 | 182 | 4% | 15% |  |
-| 183 | 3% | 11% |  |
+| 183 | 3% | 10% |  |
 | 184 | 2% | 7% |  |
 | 185 | 2% | 5% |  |
 | 186 | 1.2% | 3% |  |
-| 187 | 0.8% | 2% |  |
+| 187 | 0.7% | 2% |  |
 | 188 | 0.5% | 1.0% | Last Result |
 | 189 | 0.3% | 0.6% |  |
 | 190 | 0.1% | 0.3% |  |
-| 191 | 0.1% | 0.1% |  |
+| 191 | 0.1% | 0.2% |  |
 | 192 | 0% | 0.1% |  |
 | 193 | 0% | 0% |  |
 

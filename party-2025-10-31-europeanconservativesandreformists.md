@@ -18,9 +18,9 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 84 | 80–87 | 79–88 | 79–89 | 77–91 |
-| Fratelli d’Italia | IT | | 25 | 23–27 | 23–27 | 22–27 | 21–28 |
-| Zjednoczona Prawica | PL | | 17 | 16–20 | 16–20 | 16–20 | 15–21 |
+| European Conservatives and Reformists | EU | 78 | 84 | 81–88 | 80–89 | 79–90 | 77–92 |
+| Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–28 | 21–30 |
+| Zjednoczona Prawica | PL | | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–17 | 11–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -56,23 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 75 | 0.1% | 100% |  |
 | 76 | 0.2% | 99.9% |  |
-| 77 | 0.6% | 99.7% |  |
-| 78 | 1.4% | 99.1% | Last Result |
+| 77 | 0.5% | 99.7% |  |
+| 78 | 1.3% | 99.2% | Last Result |
 | 79 | 3% | 98% |  |
 | 80 | 5% | 95% |  |
 | 81 | 8% | 90% |  |
-| 82 | 11% | 81% |  |
-| 83 | 14% | 70% |  |
-| 84 | 14% | 56% | Median |
-| 85 | 13% | 42% |  |
-| 86 | 11% | 28% |  |
-| 87 | 8% | 18% |  |
-| 88 | 5% | 10% |  |
-| 89 | 3% | 5% |  |
-| 90 | 1.3% | 2% |  |
-| 91 | 0.6% | 0.9% |  |
-| 92 | 0.2% | 0.3% |  |
-| 93 | 0.1% | 0.1% |  |
-| 94 | 0% | 0% |  |
+| 82 | 11% | 83% |  |
+| 83 | 13% | 72% |  |
+| 84 | 14% | 58% | Median |
+| 85 | 13% | 44% |  |
+| 86 | 11% | 30% |  |
+| 87 | 8% | 19% |  |
+| 88 | 5% | 11% |  |
+| 89 | 3% | 6% |  |
+| 90 | 2% | 3% |  |
+| 91 | 0.7% | 1.2% |  |
+| 92 | 0.3% | 0.5% |  |
+| 93 | 0.1% | 0.2% |  |
+| 94 | 0% | 0.1% |  |
+| 95 | 0% | 0% |  |
 
 
