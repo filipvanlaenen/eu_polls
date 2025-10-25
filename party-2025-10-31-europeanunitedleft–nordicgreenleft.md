@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–64 | 52–65 | 50–67 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 52–64 | 50–67 |
 | La France insoumise | FR | | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
@@ -48,7 +48,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Parti communiste français | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialistische Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.1% | 100% |  |
 | 49 | 0.3% | 99.9% |  |
 | 50 | 0.6% | 99.6% |  |
-| 51 | 1.3% | 99.0% |  |
-| 52 | 2% | 98% |  |
+| 51 | 1.4% | 98.9% |  |
+| 52 | 3% | 98% |  |
 | 53 | 4% | 95% |  |
 | 54 | 6% | 91% |  |
-| 55 | 8% | 85% |  |
-| 56 | 10% | 77% |  |
-| 57 | 11% | 67% |  |
-| 58 | 12% | 55% | Median |
-| 59 | 11% | 43% |  |
-| 60 | 10% | 32% |  |
-| 61 | 8% | 23% |  |
-| 62 | 6% | 15% |  |
-| 63 | 4% | 9% |  |
+| 55 | 9% | 85% |  |
+| 56 | 11% | 76% |  |
+| 57 | 12% | 65% |  |
+| 58 | 12% | 54% | Median |
+| 59 | 11% | 42% |  |
+| 60 | 10% | 31% |  |
+| 61 | 7% | 21% |  |
+| 62 | 5% | 14% |  |
+| 63 | 4% | 8% |  |
 | 64 | 2% | 5% |  |
-| 65 | 1.4% | 3% |  |
-| 66 | 0.8% | 1.4% |  |
-| 67 | 0.4% | 0.7% |  |
-| 68 | 0.2% | 0.3% |  |
+| 65 | 1.2% | 2% |  |
+| 66 | 0.6% | 1.2% |  |
+| 67 | 0.3% | 0.5% |  |
+| 68 | 0.1% | 0.2% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 
