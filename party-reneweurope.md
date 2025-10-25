@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 66 | 62–71 | 60–72 | 60–73 | 58–76 |
+| Renew Europe | EU | 77 | 66 | 62–71 | 61–72 | 60–73 | 58–76 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 10–17 | 9–17 | 9–18 | 8–19 |
 | Democraten 66 | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -82,23 +82,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.1% | 100% |  |
 | 57 | 0.2% | 99.9% |  |
 | 58 | 0.6% | 99.7% |  |
-| 59 | 1.4% | 99.1% |  |
+| 59 | 1.4% | 99.2% |  |
 | 60 | 3% | 98% |  |
 | 61 | 5% | 95% |  |
 | 62 | 7% | 90% |  |
 | 63 | 9% | 83% |  |
 | 64 | 10% | 74% |  |
-| 65 | 10% | 63% |  |
+| 65 | 10% | 64% |  |
 | 66 | 10% | 53% | Median |
 | 67 | 9% | 43% |  |
 | 68 | 8% | 34% |  |
 | 69 | 7% | 26% |  |
-| 70 | 6% | 18% |  |
+| 70 | 6% | 19% |  |
 | 71 | 5% | 12% |  |
 | 72 | 3% | 8% |  |
 | 73 | 2% | 4% |  |
 | 74 | 1.2% | 2% |  |
-| 75 | 0.6% | 1.1% |  |
+| 75 | 0.6% | 1.2% |  |
 | 76 | 0.3% | 0.5% |  |
 | 77 | 0.1% | 0.2% | Last Result |
 | 78 | 0.1% | 0.1% |  |
