@@ -18,14 +18,14 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 52–65 | 50–67 |
-| La France insoumise | FR | | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–64 | 52–65 | 50–67 |
+| La France insoumise | FR | | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -34,12 +34,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independents 4 Change | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independents 4 Change | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 100% |  |
 | 49 | 0.2% | 99.9% |  |
-| 50 | 0.6% | 99.7% |  |
-| 51 | 1.3% | 99.1% |  |
+| 50 | 0.5% | 99.7% |  |
+| 51 | 1.2% | 99.1% |  |
 | 52 | 2% | 98% |  |
-| 53 | 4% | 95% |  |
-| 54 | 6% | 91% |  |
-| 55 | 9% | 85% |  |
-| 56 | 11% | 77% |  |
-| 57 | 12% | 66% |  |
-| 58 | 12% | 54% | Median |
-| 59 | 11% | 42% |  |
-| 60 | 10% | 31% |  |
-| 61 | 7% | 21% |  |
-| 62 | 5% | 14% |  |
-| 63 | 4% | 8% |  |
+| 53 | 4% | 96% |  |
+| 54 | 6% | 92% |  |
+| 55 | 8% | 86% |  |
+| 56 | 10% | 78% |  |
+| 57 | 12% | 67% |  |
+| 58 | 12% | 56% | Median |
+| 59 | 11% | 44% |  |
+| 60 | 10% | 32% |  |
+| 61 | 8% | 23% |  |
+| 62 | 6% | 15% |  |
+| 63 | 4% | 9% |  |
 | 64 | 2% | 5% |  |
-| 65 | 1.3% | 3% |  |
-| 66 | 0.7% | 1.3% |  |
-| 67 | 0.3% | 0.6% |  |
-| 68 | 0.2% | 0.2% |  |
+| 65 | 1.4% | 3% |  |
+| 66 | 0.7% | 1.4% |  |
+| 67 | 0.4% | 0.6% |  |
+| 68 | 0.2% | 0.3% |  |
 | 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 

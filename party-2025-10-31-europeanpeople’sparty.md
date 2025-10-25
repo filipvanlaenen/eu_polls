@@ -21,8 +21,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 176 | 169–183 | 167–184 | 165–186 | 162–189 |
 | Partido Popular | ES | | 23 | 18–25 | 14–26 | 14–26 | 14–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
-| Platforma Obywatelska | PL | | 18 | 17–22 | 16–22 | 16–22 | 16–24 |
-| Les Républicains | FR | | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
+| Platforma Obywatelska | PL | | 18 | 17–23 | 17–23 | 16–23 | 16–23 |
+| Les Républicains | FR | | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -38,7 +38,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Starostové a nezávislí | CZ | | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -50,7 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -88,36 +88,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.2% | 99.8% |  |
-| 162 | 0.3% | 99.6% |  |
-| 163 | 0.4% | 99.3% |  |
-| 164 | 0.6% | 98.8% |  |
-| 165 | 0.9% | 98% |  |
-| 166 | 1.2% | 97% |  |
+| 161 | 0.2% | 99.7% |  |
+| 162 | 0.3% | 99.5% |  |
+| 163 | 0.5% | 99.2% |  |
+| 164 | 0.7% | 98.7% |  |
+| 165 | 1.0% | 98% |  |
+| 166 | 1.3% | 97% |  |
 | 167 | 2% | 96% |  |
 | 168 | 2% | 94% |  |
 | 169 | 3% | 92% |  |
-| 170 | 3% | 90% |  |
-| 171 | 4% | 86% |  |
-| 172 | 5% | 82% |  |
-| 173 | 6% | 77% |  |
-| 174 | 7% | 71% |  |
-| 175 | 7% | 64% |  |
-| 176 | 8% | 57% | Median |
-| 177 | 8% | 49% |  |
-| 178 | 8% | 41% |  |
-| 179 | 7% | 33% |  |
+| 170 | 4% | 89% |  |
+| 171 | 4% | 85% |  |
+| 172 | 5% | 81% |  |
+| 173 | 6% | 76% |  |
+| 174 | 7% | 70% |  |
+| 175 | 7% | 63% |  |
+| 176 | 8% | 55% | Median |
+| 177 | 8% | 48% |  |
+| 178 | 7% | 40% |  |
+| 179 | 7% | 32% |  |
 | 180 | 6% | 26% |  |
 | 181 | 5% | 20% |  |
-| 182 | 4% | 15% |  |
+| 182 | 4% | 14% |  |
 | 183 | 3% | 10% |  |
 | 184 | 2% | 7% |  |
 | 185 | 2% | 5% |  |
 | 186 | 1.2% | 3% |  |
-| 187 | 0.7% | 2% |  |
-| 188 | 0.5% | 1.0% | Last Result |
+| 187 | 0.8% | 2% |  |
+| 188 | 0.5% | 1.1% | Last Result |
 | 189 | 0.3% | 0.6% |  |
-| 190 | 0.1% | 0.3% |  |
+| 190 | 0.2% | 0.3% |  |
 | 191 | 0.1% | 0.2% |  |
 | 192 | 0% | 0.1% |  |
 | 193 | 0% | 0% |  |
