@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 34–40 | 33–40 | 33–41 | 31–42 |
+| Greens–European Free Alliance | EU | 53 | 37 | 34–40 | 33–40 | 33–41 | 32–42 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–13 | 9–13 | 9–13 |
 | Europa Verde | IT | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -51,7 +51,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
-| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -68,18 +68,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.4% | 99.9% |  |
-| 32 | 1.4% | 99.5% |  |
+| 32 | 1.3% | 99.5% |  |
 | 33 | 4% | 98% |  |
-| 34 | 8% | 95% |  |
+| 34 | 7% | 95% |  |
 | 35 | 13% | 87% |  |
 | 36 | 17% | 74% |  |
 | 37 | 19% | 57% | Median |
 | 38 | 16% | 38% |  |
-| 39 | 11% | 21% |  |
+| 39 | 11% | 22% |  |
 | 40 | 6% | 10% |  |
 | 41 | 3% | 4% |  |
-| 42 | 0.9% | 1.3% |  |
-| 43 | 0.3% | 0.3% |  |
+| 42 | 1.0% | 1.3% |  |
+| 43 | 0.3% | 0.4% |  |
 | 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |

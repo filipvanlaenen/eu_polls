@@ -36,9 +36,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
-| SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
+| SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Slovenská národná strana | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -63,22 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 3% | 97% |  |
 | 97 | 4% | 94% |  |
 | 98 | 6% | 90% |  |
-| 99 | 8% | 83% |  |
-| 100 | 10% | 75% |  |
-| 101 | 11% | 65% |  |
+| 99 | 8% | 84% |  |
+| 100 | 10% | 76% |  |
+| 101 | 11% | 66% |  |
 | 102 | 11% | 55% | Median |
 | 103 | 10% | 44% |  |
-| 104 | 9% | 33% |  |
-| 105 | 8% | 24% |  |
+| 104 | 9% | 34% |  |
+| 105 | 8% | 25% |  |
 | 106 | 6% | 17% |  |
 | 107 | 4% | 11% |  |
 | 108 | 3% | 7% |  |
 | 109 | 2% | 4% |  |
-| 110 | 1.0% | 2% |  |
-| 111 | 0.5% | 1.0% |  |
+| 110 | 1.1% | 2% |  |
+| 111 | 0.6% | 1.1% |  |
 | 112 | 0.3% | 0.5% |  |
 | 113 | 0.1% | 0.2% |  |
-| 114 | 0% | 0.1% |  |
+| 114 | 0.1% | 0.1% |  |
 | 115 | 0% | 0% |  |
 
 
