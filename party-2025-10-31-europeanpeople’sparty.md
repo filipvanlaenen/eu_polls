@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 176 | 169–182 | 167–184 | 165–186 | 162–189 |
+| European People’s Party | EU | 188 | 176 | 169–182 | 167–184 | 165–186 | 161–189 |
 | Partido Popular | ES | | 23 | 18–25 | 14–26 | 14–26 | 14–27 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 16–22 | 16–23 |
 | Platforma Obywatelska | PL | | 18 | 17–23 | 17–23 | 16–23 | 16–23 |
@@ -35,7 +35,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4–5 | 4–5 | 4–5 |
-| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -87,16 +87,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.1% | 99.9% |  |
+| 160 | 0.1% | 99.8% |  |
 | 161 | 0.2% | 99.7% |  |
 | 162 | 0.3% | 99.5% |  |
 | 163 | 0.5% | 99.2% |  |
-| 164 | 0.7% | 98.7% |  |
+| 164 | 0.7% | 98.6% |  |
 | 165 | 1.0% | 98% |  |
-| 166 | 1.3% | 97% |  |
+| 166 | 1.4% | 97% |  |
 | 167 | 2% | 96% |  |
 | 168 | 2% | 94% |  |
-| 169 | 3% | 92% |  |
+| 169 | 3% | 91% |  |
 | 170 | 4% | 89% |  |
 | 171 | 5% | 85% |  |
 | 172 | 5% | 80% |  |
@@ -105,18 +105,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 175 | 8% | 62% |  |
 | 176 | 8% | 54% | Median |
 | 177 | 8% | 46% |  |
-| 178 | 7% | 39% |  |
+| 178 | 7% | 38% |  |
 | 179 | 7% | 31% |  |
 | 180 | 6% | 24% |  |
-| 181 | 5% | 19% |  |
-| 182 | 4% | 14% |  |
+| 181 | 5% | 18% |  |
+| 182 | 4% | 13% |  |
 | 183 | 3% | 10% |  |
-| 184 | 2% | 7% |  |
+| 184 | 2% | 6% |  |
 | 185 | 2% | 4% |  |
 | 186 | 1.1% | 3% |  |
 | 187 | 0.7% | 2% |  |
 | 188 | 0.4% | 1.0% | Last Result |
-| 189 | 0.3% | 0.5% |  |
+| 189 | 0.2% | 0.5% |  |
 | 190 | 0.1% | 0.3% |  |
 | 191 | 0.1% | 0.1% |  |
 | 192 | 0% | 0.1% |  |

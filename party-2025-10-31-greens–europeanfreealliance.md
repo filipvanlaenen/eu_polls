@@ -10,9 +10,9 @@ Last result: **53** seats (General Election of 26 May 2019)
 
 Current median: **37** seats (-16 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, BE, CZ, DE, DK, ES, FI, HR, IT, LT, LV, NL, PT, SE, SI
+> AT, BE, CZ, DE, DK, ES, FI, HR, IT, LT, LV, NL, PT, SE
 
 ### Confidence Intervals
 
@@ -34,7 +34,6 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Vladimir Prebilič | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -52,6 +51,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Vladimir Prebilič | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,18 +69,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0.1% | 100% |  |
 | 31 | 0.3% | 99.9% |  |
 | 32 | 1.1% | 99.6% |  |
-| 33 | 3% | 98% |  |
+| 33 | 3% | 98.5% |  |
 | 34 | 7% | 95% |  |
 | 35 | 13% | 88% |  |
 | 36 | 18% | 75% |  |
-| 37 | 19% | 57% | Median |
-| 38 | 17% | 37% |  |
+| 37 | 19% | 58% | Median |
+| 38 | 17% | 38% |  |
 | 39 | 11% | 21% |  |
 | 40 | 6% | 10% |  |
 | 41 | 3% | 4% |  |
-| 42 | 0.8% | 1.1% |  |
+| 42 | 0.9% | 1.2% |  |
 | 43 | 0.2% | 0.3% |  |
-| 44 | 0% | 0.1% |  |
+| 44 | 0.1% | 0.1% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
 | 47 | 0% | 0% |  |
