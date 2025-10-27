@@ -28,7 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 100% |  |
 | 49 | 0.3% | 99.9% |  |
-| 50 | 0.6% | 99.6% |  |
+| 50 | 0.7% | 99.6% |  |
 | 51 | 1.4% | 98.9% |  |
 | 52 | 3% | 98% |  |
 | 53 | 4% | 95% |  |
@@ -74,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 9% | 84% |  |
 | 56 | 11% | 76% |  |
 | 57 | 12% | 65% |  |
-| 58 | 12% | 54% | Median |
+| 58 | 12% | 53% | Median |
 | 59 | 11% | 42% |  |
-| 60 | 10% | 30% |  |
+| 60 | 9% | 30% |  |
 | 61 | 7% | 21% |  |
-| 62 | 5% | 14% |  |
+| 62 | 5% | 13% |  |
 | 63 | 4% | 8% |  |
 | 64 | 2% | 5% |  |
 | 65 | 1.2% | 2% |  |

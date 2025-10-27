@@ -41,7 +41,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Liberal Alliance | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2 | 2 | 2 |
 | TOP 09 | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -98,16 +98,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 168 | 2% | 94% |  |
 | 169 | 3% | 92% |  |
 | 170 | 4% | 89% |  |
-| 171 | 4% | 85% |  |
-| 172 | 5% | 81% |  |
+| 171 | 5% | 85% |  |
+| 172 | 5% | 80% |  |
 | 173 | 6% | 75% |  |
 | 174 | 7% | 69% |  |
 | 175 | 8% | 62% |  |
 | 176 | 8% | 54% | Median |
-| 177 | 8% | 47% |  |
+| 177 | 8% | 46% |  |
 | 178 | 7% | 39% |  |
 | 179 | 7% | 31% |  |
-| 180 | 6% | 25% |  |
+| 180 | 6% | 24% |  |
 | 181 | 5% | 19% |  |
 | 182 | 4% | 14% |  |
 | 183 | 3% | 10% |  |

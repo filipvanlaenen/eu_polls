@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 63–72 | 62–73 | 61–75 | 59–77 |
+| Renew Europe | EU | 77 | 67 | 63–72 | 61–73 | 61–75 | 59–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 10–17 | 9–17 | 9–18 | 8–19 |
 | Democraten 66 | NL | | 4 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -57,7 +57,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
-| Moderaterne | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Moderaterne | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -86,20 +86,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 3% | 98% |  |
 | 62 | 5% | 95% |  |
 | 63 | 7% | 90% |  |
-| 64 | 9% | 84% |  |
-| 65 | 10% | 75% |  |
-| 66 | 10% | 65% |  |
+| 64 | 9% | 83% |  |
+| 65 | 10% | 74% |  |
+| 66 | 10% | 64% |  |
 | 67 | 10% | 54% | Median |
 | 68 | 9% | 44% |  |
 | 69 | 8% | 35% |  |
 | 70 | 7% | 27% |  |
-| 71 | 6% | 20% |  |
+| 71 | 6% | 19% |  |
 | 72 | 5% | 13% |  |
 | 73 | 3% | 8% |  |
 | 74 | 2% | 5% |  |
 | 75 | 1.3% | 3% |  |
-| 76 | 0.7% | 1.4% |  |
-| 77 | 0.4% | 0.7% | Last Result |
+| 76 | 0.7% | 1.3% |  |
+| 77 | 0.4% | 0.6% | Last Result |
 | 78 | 0.2% | 0.3% |  |
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |
