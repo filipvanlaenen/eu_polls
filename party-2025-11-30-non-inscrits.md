@@ -18,15 +18,15 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 16–22 | 15–22 | 15–23 | 13–24 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Non-Inscrits | EU | 32 | 19 | 16–21 | 15–22 | 15–23 | 13–24 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Konfederacja Korony Polskiej | PL | | 3 | 3–4 | 3–4 | 0–5 | 0–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -52,21 +52,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
+| 12 | 0.2% | 100% |  |
 | 13 | 0.5% | 99.8% |  |
 | 14 | 1.3% | 99.3% |  |
 | 15 | 3% | 98% |  |
 | 16 | 7% | 95% |  |
-| 17 | 13% | 88% |  |
-| 18 | 18% | 75% |  |
-| 19 | 19% | 56% | Median |
-| 20 | 16% | 37% |  |
-| 21 | 11% | 21% |  |
-| 22 | 6% | 10% |  |
+| 17 | 14% | 88% |  |
+| 18 | 19% | 74% |  |
+| 19 | 20% | 55% | Median |
+| 20 | 16% | 36% |  |
+| 21 | 10% | 20% |  |
+| 22 | 6% | 9% |  |
 | 23 | 3% | 4% |  |
-| 24 | 1.0% | 1.4% |  |
-| 25 | 0.3% | 0.4% |  |
-| 26 | 0.1% | 0.1% |  |
+| 24 | 0.9% | 1.1% |  |
+| 25 | 0.2% | 0.3% |  |
+| 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
