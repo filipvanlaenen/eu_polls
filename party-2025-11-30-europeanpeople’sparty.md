@@ -18,17 +18,17 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 167–180 | 165–182 | 163–184 | 160–186 |
+| European People’s Party | EU | 188 | 174 | 167–181 | 165–182 | 163–184 | 160–187 |
 | Partido Popular | ES | | 21 | 14–23 | 14–23 | 14–23 | 13–24 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–21 | 17–22 | 17–23 |
-| Platforma Obywatelska | PL | | 19 | 17–21 | 17–23 | 17–23 | 16–25 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–22 | 17–22 | 17–23 |
+| Platforma Obywatelska | PL | | 18 | 17–21 | 17–23 | 17–23 | 16–25 |
 | Les Républicains | FR | | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
 | Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
-| Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | Christen-Democratisch Appèl | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Граждани за европейско развитие на България | BG | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -36,7 +36,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
@@ -88,7 +88,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0% | 100% |  |
 | 158 | 0.1% | 99.9% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.3% | 99.7% |  |
+| 160 | 0.2% | 99.7% |  |
 | 161 | 0.4% | 99.5% |  |
 | 162 | 0.7% | 99.1% |  |
 | 163 | 1.0% | 98% |  |
@@ -97,25 +97,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 2% | 94% |  |
 | 167 | 3% | 92% |  |
 | 168 | 4% | 89% |  |
-| 169 | 5% | 85% |  |
-| 170 | 5% | 80% |  |
-| 171 | 6% | 75% |  |
-| 172 | 7% | 69% |  |
-| 173 | 7% | 62% |  |
+| 169 | 4% | 85% |  |
+| 170 | 5% | 81% |  |
+| 171 | 6% | 76% |  |
+| 172 | 7% | 70% |  |
+| 173 | 7% | 63% |  |
 | 174 | 8% | 55% | Median |
-| 175 | 8% | 47% |  |
-| 176 | 7% | 39% |  |
-| 177 | 7% | 32% |  |
-| 178 | 6% | 25% |  |
-| 179 | 5% | 19% |  |
+| 175 | 8% | 48% |  |
+| 176 | 7% | 40% |  |
+| 177 | 7% | 33% |  |
+| 178 | 6% | 26% |  |
+| 179 | 5% | 20% |  |
 | 180 | 4% | 14% |  |
 | 181 | 3% | 10% |  |
 | 182 | 2% | 7% |  |
-| 183 | 2% | 4% |  |
+| 183 | 2% | 5% |  |
 | 184 | 1.1% | 3% |  |
 | 185 | 0.7% | 2% |  |
-| 186 | 0.4% | 0.9% |  |
-| 187 | 0.2% | 0.5% |  |
+| 186 | 0.4% | 1.0% |  |
+| 187 | 0.3% | 0.5% |  |
 | 188 | 0.1% | 0.3% | Last Result |
 | 189 | 0.1% | 0.1% |  |
 | 190 | 0% | 0.1% |  |
