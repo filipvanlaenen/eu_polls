@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HU, IE, IT, LT, LU, LV, MT, NL, PL, SI
+> BE, BG, CY, CZ, DE, DK, EE, ES, FR, GR, HU, IE, IT, LT, LU, LV, MT, NL, SI
 
 ## Seats
 
@@ -23,7 +23,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Bezpartyjni Samorządowcy [PL] (*) | PL | | 0 | 0 | 0 | 0 | 0 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -60,11 +59,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% | Last Result |
-| 2 | 41% | 81% | Median |
-| 3 | 29% | 40% |  |
-| 4 | 9% | 10% |  |
-| 5 | 1.3% | 1.4% |  |
+| 1 | 14% | 100% | Last Result |
+| 2 | 38% | 86% | Median |
+| 3 | 34% | 49% |  |
+| 4 | 12% | 14% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

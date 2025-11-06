@@ -18,13 +18,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 64–73 | 63–75 | 62–76 | 60–78 |
+| Renew Europe | EU | 77 | 68 | 63–73 | 62–75 | 61–76 | 60–78 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 10–17 | 9–17 | 9–18 | 8–19 |
 | Democraten 66 | NL | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
-| Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Fianna Fáil | IE | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -38,19 +38,19 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
-| Eesti Reformierakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -80,29 +80,29 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
-| 59 | 0.2% | 99.9% |  |
-| 60 | 0.6% | 99.7% |  |
-| 61 | 1.3% | 99.1% |  |
-| 62 | 3% | 98% |  |
+| 59 | 0.3% | 99.9% |  |
+| 60 | 0.7% | 99.6% |  |
+| 61 | 2% | 99.0% |  |
+| 62 | 3% | 97% |  |
 | 63 | 5% | 95% |  |
-| 64 | 7% | 91% |  |
-| 65 | 9% | 84% |  |
-| 66 | 10% | 75% |  |
-| 67 | 10% | 65% |  |
-| 68 | 10% | 55% | Median |
+| 64 | 7% | 90% |  |
+| 65 | 9% | 83% |  |
+| 66 | 10% | 74% |  |
+| 67 | 10% | 64% |  |
+| 68 | 10% | 54% | Median |
 | 69 | 9% | 45% |  |
 | 70 | 8% | 36% |  |
 | 71 | 7% | 27% |  |
 | 72 | 6% | 20% |  |
 | 73 | 5% | 14% |  |
-| 74 | 4% | 9% |  |
+| 74 | 3% | 9% |  |
 | 75 | 2% | 5% |  |
 | 76 | 1.4% | 3% |  |
-| 77 | 0.8% | 1.5% | Last Result |
-| 78 | 0.4% | 0.7% |  |
-| 79 | 0.2% | 0.3% |  |
-| 80 | 0.1% | 0.1% |  |
-| 81 | 0% | 0.1% |  |
+| 77 | 0.9% | 2% | Last Result |
+| 78 | 0.5% | 0.9% |  |
+| 79 | 0.2% | 0.4% |  |
+| 80 | 0.1% | 0.2% |  |
+| 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 
 
