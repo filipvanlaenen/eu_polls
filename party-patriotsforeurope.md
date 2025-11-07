@@ -18,17 +18,17 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 101 | 96–105 | 95–106 | 94–108 | 92–110 |
+| Patriots for Europe | EU | 84 | 101 | 96–105 | 95–106 | 94–107 | 92–109 |
 | Rassemblement national | FR | | 31 | 28–34 | 27–35 | 26–35 | 26–36 |
 | Vox | ES | | 13 | 10–14 | 10–14 | 10–14 | 10–15 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 7–12 | 7–12 |
 | ANO 2011 | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Lega Nord | IT | | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| Lega Nord | IT | | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | Partij voor de Vrijheid | NL | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | Chega | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Dansk Folkeparti | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -55,25 +55,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 0% | 100% |  |
 | 89 | 0% | 100% |  |
 | 90 | 0.1% | 100% |  |
-| 91 | 0.1% | 99.9% |  |
+| 91 | 0.2% | 99.9% |  |
 | 92 | 0.4% | 99.8% |  |
 | 93 | 0.8% | 99.4% |  |
 | 94 | 2% | 98.6% |  |
 | 95 | 3% | 97% |  |
-| 96 | 4% | 94% |  |
+| 96 | 5% | 94% |  |
 | 97 | 7% | 90% |  |
 | 98 | 9% | 83% |  |
-| 99 | 10% | 75% |  |
-| 100 | 11% | 64% |  |
-| 101 | 12% | 53% | Median |
-| 102 | 11% | 41% |  |
+| 99 | 11% | 74% |  |
+| 100 | 12% | 64% |  |
+| 101 | 12% | 52% | Median |
+| 102 | 11% | 40% |  |
 | 103 | 9% | 30% |  |
 | 104 | 7% | 21% |  |
 | 105 | 5% | 14% |  |
-| 106 | 4% | 9% |  |
+| 106 | 4% | 8% |  |
 | 107 | 2% | 5% |  |
-| 108 | 1.3% | 3% |  |
-| 109 | 0.7% | 1.2% |  |
+| 108 | 1.3% | 2% |  |
+| 109 | 0.7% | 1.1% |  |
 | 110 | 0.3% | 0.5% |  |
 | 111 | 0.1% | 0.2% |  |
 | 112 | 0% | 0.1% |  |
