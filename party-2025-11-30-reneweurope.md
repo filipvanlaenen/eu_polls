@@ -31,7 +31,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -44,7 +44,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -79,12 +79,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0.1% | 100% |  |
+| 57 | 0% | 100% |  |
+| 58 | 0.1% | 99.9% |  |
 | 59 | 0.4% | 99.8% |  |
 | 60 | 1.0% | 99.4% |  |
 | 61 | 2% | 98% |  |
 | 62 | 4% | 96% |  |
-| 63 | 6% | 93% |  |
+| 63 | 6% | 92% |  |
 | 64 | 8% | 87% |  |
 | 65 | 9% | 79% |  |
 | 66 | 10% | 69% |  |
@@ -98,8 +99,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 74 | 3% | 7% |  |
 | 75 | 2% | 4% |  |
 | 76 | 1.1% | 2% |  |
-| 77 | 0.6% | 1.3% | Last Result |
-| 78 | 0.3% | 0.7% |  |
+| 77 | 0.7% | 1.3% | Last Result |
+| 78 | 0.4% | 0.7% |  |
 | 79 | 0.2% | 0.3% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0.1% |  |

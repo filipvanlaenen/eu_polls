@@ -18,10 +18,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–64 | 52–65 | 51–67 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 52–64 | 51–66 |
 | La France insoumise | FR | | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
-| Die Linke | DE | | 10 | 9–12 | 8–12 | 8–12 | 7–13 |
+| Die Linke | DE | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -30,7 +30,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -43,7 +43,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -66,26 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
 | 49 | 0.1% | 100% |  |
-| 50 | 0.3% | 99.9% |  |
-| 51 | 0.7% | 99.6% |  |
-| 52 | 2% | 98.9% |  |
-| 53 | 3% | 97% |  |
-| 54 | 5% | 94% |  |
-| 55 | 8% | 89% |  |
-| 56 | 10% | 82% |  |
-| 57 | 12% | 72% |  |
-| 58 | 13% | 60% | Median |
-| 59 | 12% | 47% |  |
-| 60 | 11% | 35% |  |
-| 61 | 9% | 25% |  |
-| 62 | 6% | 16% |  |
-| 63 | 4% | 10% |  |
-| 64 | 3% | 6% |  |
-| 65 | 2% | 3% |  |
-| 66 | 0.8% | 1.5% |  |
-| 67 | 0.4% | 0.7% |  |
-| 68 | 0.2% | 0.3% |  |
-| 69 | 0.1% | 0.1% |  |
+| 50 | 0.3% | 99.8% |  |
+| 51 | 0.8% | 99.5% |  |
+| 52 | 2% | 98.7% |  |
+| 53 | 4% | 97% |  |
+| 54 | 6% | 93% |  |
+| 55 | 9% | 87% |  |
+| 56 | 11% | 79% |  |
+| 57 | 13% | 68% |  |
+| 58 | 13% | 55% | Median |
+| 59 | 12% | 42% |  |
+| 60 | 10% | 30% |  |
+| 61 | 7% | 20% |  |
+| 62 | 5% | 12% |  |
+| 63 | 3% | 7% |  |
+| 64 | 2% | 4% |  |
+| 65 | 1.0% | 2% |  |
+| 66 | 0.5% | 0.9% |  |
+| 67 | 0.2% | 0.4% |  |
+| 68 | 0.1% | 0.2% |  |
+| 69 | 0% | 0.1% |  |
 | 70 | 0% | 0% |  |
 
 
