@@ -19,18 +19,18 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 78 | 84 | 80–87 | 79–88 | 78–89 | 77–91 |
-| Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
+| Fratelli d’Italia | IT | | 25 | 23–28 | 23–28 | 22–29 | 21–29 |
 | Zjednoczona Prawica | PL | | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3 | 3 | 3 |
-| Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1 | 0–2 | 0–2 |
@@ -40,6 +40,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,23 +57,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 75 | 0.1% | 100% |  |
 | 76 | 0.3% | 99.9% |  |
-| 77 | 0.8% | 99.6% |  |
-| 78 | 2% | 98.8% | Last Result |
-| 79 | 4% | 97% |  |
+| 77 | 0.7% | 99.6% |  |
+| 78 | 2% | 98.9% | Last Result |
+| 79 | 3% | 97% |  |
 | 80 | 6% | 94% |  |
-| 81 | 9% | 87% |  |
-| 82 | 12% | 78% |  |
-| 83 | 14% | 66% |  |
-| 84 | 14% | 52% | Median |
-| 85 | 13% | 37% |  |
-| 86 | 10% | 24% |  |
-| 87 | 7% | 14% |  |
-| 88 | 4% | 8% |  |
-| 89 | 2% | 4% |  |
-| 90 | 0.9% | 2% |  |
-| 91 | 0.4% | 0.6% |  |
-| 92 | 0.1% | 0.2% |  |
-| 93 | 0% | 0.1% |  |
+| 81 | 9% | 88% |  |
+| 82 | 12% | 79% |  |
+| 83 | 14% | 67% |  |
+| 84 | 14% | 53% | Median |
+| 85 | 13% | 39% |  |
+| 86 | 10% | 26% |  |
+| 87 | 7% | 16% |  |
+| 88 | 5% | 9% |  |
+| 89 | 3% | 5% |  |
+| 90 | 1.3% | 2% |  |
+| 91 | 0.6% | 0.9% |  |
+| 92 | 0.2% | 0.3% |  |
+| 93 | 0.1% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 
