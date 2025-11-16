@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 54–61 | 53–62 | 52–63 | 50–66 |
+| European United Left–Nordic Green Left | EU | 46 | 57 | 54–61 | 53–62 | 52–63 | 50–65 |
 | La France insoumise | FR | | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
@@ -43,7 +43,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Lewica Razem | PL | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -70,21 +70,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 1.3% | 99.2% |  |
 | 52 | 3% | 98% |  |
 | 53 | 5% | 95% |  |
-| 54 | 7% | 91% |  |
+| 54 | 8% | 90% |  |
 | 55 | 10% | 83% |  |
-| 56 | 12% | 73% |  |
-| 57 | 13% | 61% | Median |
-| 58 | 13% | 47% |  |
-| 59 | 11% | 34% |  |
-| 60 | 9% | 23% |  |
-| 61 | 6% | 15% |  |
-| 62 | 4% | 9% |  |
-| 63 | 2% | 5% |  |
-| 64 | 1.3% | 2% |  |
-| 65 | 0.6% | 1.2% |  |
-| 66 | 0.3% | 0.5% |  |
+| 56 | 13% | 72% |  |
+| 57 | 14% | 60% | Median |
+| 58 | 13% | 46% |  |
+| 59 | 11% | 33% |  |
+| 60 | 8% | 22% |  |
+| 61 | 6% | 14% |  |
+| 62 | 4% | 8% |  |
+| 63 | 2% | 4% |  |
+| 64 | 1.1% | 2% |  |
+| 65 | 0.6% | 1.0% |  |
+| 66 | 0.2% | 0.4% |  |
 | 67 | 0.1% | 0.2% |  |
-| 68 | 0.1% | 0.1% |  |
+| 68 | 0% | 0.1% |  |
 | 69 | 0% | 0% |  |
 
 

@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LU, LV, MT, NL, SI
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, MT, NL, SI
 
 ## Seats
 
@@ -37,7 +37,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,7 +61,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 19% | 100% | Last Result |
 | 2 | 42% | 81% | Median |
 | 3 | 30% | 39% |  |
-| 4 | 8% | 10% |  |
+| 4 | 9% | 10% |  |
 | 5 | 1.1% | 1.1% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

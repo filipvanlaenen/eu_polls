@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **176** seats (-12 seats)
+Current median: **177** seats (-11 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 176 | 170–182 | 169–183 | 167–185 | 165–187 |
+| European People’s Party | EU | 188 | 177 | 171–182 | 170–184 | 168–185 | 166–188 |
 | Partido Popular | ES | | 22 | 19–23 | 19–24 | 19–25 | 18–25 |
+| Platforma Obywatelska | PL | | 20 | 18–22 | 17–23 | 17–24 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
-| Platforma Obywatelska | PL | | 19 | 17–22 | 17–23 | 17–23 | 16–25 |
+| Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Les Républicains | FR | | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
-| Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
 | Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -44,7 +44,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2 | 2 | 2 |
 | TOP 09 | CZ | | 2 | 2 | 2 | 2 | 2 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,34 +84,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 0% | 100% |  |
-| 163 | 0.1% | 99.9% |  |
-| 164 | 0.2% | 99.8% |  |
-| 165 | 0.4% | 99.6% |  |
-| 166 | 0.7% | 99.3% |  |
-| 167 | 1.1% | 98.6% |  |
-| 168 | 2% | 97% |  |
-| 169 | 3% | 96% |  |
-| 170 | 4% | 93% |  |
-| 171 | 5% | 89% |  |
-| 172 | 6% | 84% |  |
-| 173 | 7% | 78% |  |
-| 174 | 8% | 71% |  |
-| 175 | 9% | 63% |  |
-| 176 | 9% | 54% | Median |
-| 177 | 9% | 45% |  |
-| 178 | 8% | 36% |  |
-| 179 | 7% | 28% |  |
-| 180 | 6% | 21% |  |
-| 181 | 5% | 15% |  |
-| 182 | 4% | 11% |  |
-| 183 | 3% | 7% |  |
-| 184 | 2% | 4% |  |
-| 185 | 1.1% | 3% |  |
-| 186 | 0.7% | 2% |  |
-| 187 | 0.4% | 0.9% |  |
-| 188 | 0.2% | 0.5% | Last Result |
-| 189 | 0.1% | 0.2% |  |
+| 163 | 0.1% | 100% |  |
+| 164 | 0.1% | 99.9% |  |
+| 165 | 0.2% | 99.8% |  |
+| 166 | 0.4% | 99.5% |  |
+| 167 | 0.8% | 99.1% |  |
+| 168 | 1.3% | 98% |  |
+| 169 | 2% | 97% |  |
+| 170 | 3% | 95% |  |
+| 171 | 4% | 92% |  |
+| 172 | 5% | 88% |  |
+| 173 | 7% | 83% |  |
+| 174 | 8% | 76% |  |
+| 175 | 9% | 68% |  |
+| 176 | 9% | 60% |  |
+| 177 | 9% | 51% | Median |
+| 178 | 9% | 42% |  |
+| 179 | 8% | 33% |  |
+| 180 | 7% | 25% |  |
+| 181 | 5% | 18% |  |
+| 182 | 4% | 13% |  |
+| 183 | 3% | 9% |  |
+| 184 | 2% | 6% |  |
+| 185 | 1.4% | 3% |  |
+| 186 | 0.9% | 2% |  |
+| 187 | 0.5% | 1.1% |  |
+| 188 | 0.3% | 0.6% | Last Result |
+| 189 | 0.2% | 0.3% |  |
 | 190 | 0.1% | 0.1% |  |
 | 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |

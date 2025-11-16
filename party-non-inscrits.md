@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 16–22 | 16–23 | 15–23 | 14–25 |
+| Non-Inscrits | EU | 32 | 19 | 16–22 | 16–23 | 15–23 | 13–25 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Konfederacja Korony Polskiej | PL | | 3 | 3–4 | 3–5 | 0–5 | 0–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -29,7 +29,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
-| Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -52,20 +52,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.4% | 99.9% |  |
-| 14 | 1.0% | 99.5% |  |
-| 15 | 3% | 98.5% |  |
+| 13 | 0.4% | 99.8% |  |
+| 14 | 1.1% | 99.4% |  |
+| 15 | 3% | 98% |  |
 | 16 | 6% | 96% |  |
-| 17 | 12% | 90% |  |
-| 18 | 17% | 77% |  |
-| 19 | 19% | 60% | Median |
-| 20 | 17% | 41% |  |
-| 21 | 12% | 24% |  |
+| 17 | 12% | 89% |  |
+| 18 | 17% | 78% |  |
+| 19 | 19% | 61% | Median |
+| 20 | 17% | 42% |  |
+| 21 | 12% | 26% |  |
 | 22 | 7% | 13% |  |
-| 23 | 4% | 5% |  |
-| 24 | 1.4% | 2% |  |
-| 25 | 0.4% | 0.6% |  |
-| 26 | 0.1% | 0.1% |  |
+| 23 | 4% | 6% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.5% | 0.7% |  |
+| 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
