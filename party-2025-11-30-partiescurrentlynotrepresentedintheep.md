@@ -19,7 +19,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
-| Οδυσσέας Μιχαηλίδης [CY] (*) | CY | | 1 | 1 | 1 | 1 | 1 |
+| Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη [CY] (*) | CY | | 1 | 1 | 1 | 1 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -47,7 +47,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
-| Φειδίας Παναγιώτου [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -58,12 +57,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% | Last Result |
-| 2 | 42% | 81% | Median |
-| 3 | 30% | 39% |  |
-| 4 | 9% | 10% |  |
-| 5 | 1.1% | 1.1% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 0.4% | 100% |  |
+| 1 | 20% | 99.6% | Last Result |
+| 2 | 42% | 80% | Median |
+| 3 | 29% | 37% |  |
+| 4 | 8% | 9% |  |
+| 5 | 0.9% | 1.0% |  |
+| 6 | 0% | 0% |  |
 
 

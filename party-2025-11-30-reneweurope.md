@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 63–74 | 62–75 | 61–76 | 60–79 |
+| Renew Europe | EU | 77 | 68 | 64–74 | 62–76 | 62–77 | 60–79 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 10–17 | 9–17 | 9–18 | 8–19 |
 | Democraten 66 | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -31,21 +31,22 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
-| Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Demokratična stranka upokojencev Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,7 +68,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
-| Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -83,30 +83,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
-| 59 | 0.3% | 99.8% |  |
-| 60 | 0.8% | 99.5% |  |
-| 61 | 2% | 98.7% |  |
-| 62 | 3% | 97% |  |
-| 63 | 5% | 94% |  |
-| 64 | 7% | 89% |  |
-| 65 | 8% | 82% |  |
-| 66 | 9% | 74% |  |
-| 67 | 10% | 65% |  |
-| 68 | 9% | 55% | Median |
-| 69 | 9% | 46% |  |
-| 70 | 8% | 37% |  |
-| 71 | 7% | 29% |  |
-| 72 | 6% | 21% |  |
-| 73 | 5% | 15% |  |
-| 74 | 4% | 10% |  |
-| 75 | 3% | 6% |  |
-| 76 | 2% | 4% |  |
-| 77 | 1.0% | 2% | Last Result |
-| 78 | 0.6% | 1.2% |  |
-| 79 | 0.3% | 0.6% |  |
-| 80 | 0.2% | 0.3% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0.1% |  |
+| 59 | 0.3% | 99.9% |  |
+| 60 | 0.6% | 99.6% |  |
+| 61 | 1.4% | 99.0% |  |
+| 62 | 3% | 98% |  |
+| 63 | 4% | 95% |  |
+| 64 | 6% | 91% |  |
+| 65 | 8% | 85% |  |
+| 66 | 9% | 77% |  |
+| 67 | 9% | 68% |  |
+| 68 | 9% | 59% | Median |
+| 69 | 9% | 49% |  |
+| 70 | 9% | 40% |  |
+| 71 | 8% | 32% |  |
+| 72 | 7% | 24% |  |
+| 73 | 5% | 18% |  |
+| 74 | 4% | 12% |  |
+| 75 | 3% | 8% |  |
+| 76 | 2% | 5% |  |
+| 77 | 1.3% | 3% | Last Result |
+| 78 | 0.8% | 2% |  |
+| 79 | 0.5% | 0.9% |  |
+| 80 | 0.2% | 0.4% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 
 
