@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **57** seats (+11 seats)
+Current median: **58** seats (+12 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 54–61 | 53–62 | 52–63 | 50–65 |
+| European United Left–Nordic Green Left | EU | 46 | 58 | 54–61 | 53–63 | 52–64 | 50–66 |
 | La France insoumise | FR | | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
-| Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
-| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 7–12 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Podemos | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -52,7 +52,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
-| Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Νέα Αριστερά | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -66,25 +66,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0.1% | 100% |  |
 | 49 | 0.2% | 99.9% |  |
-| 50 | 0.5% | 99.7% |  |
-| 51 | 1.3% | 99.2% |  |
-| 52 | 3% | 98% |  |
-| 53 | 5% | 95% |  |
-| 54 | 7% | 91% |  |
-| 55 | 10% | 83% |  |
-| 56 | 12% | 73% |  |
-| 57 | 14% | 60% | Median |
-| 58 | 13% | 47% |  |
-| 59 | 11% | 34% |  |
-| 60 | 9% | 23% |  |
-| 61 | 6% | 14% |  |
-| 62 | 4% | 8% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.2% | 2% |  |
-| 65 | 0.6% | 1.0% |  |
-| 66 | 0.3% | 0.4% |  |
+| 50 | 0.4% | 99.8% |  |
+| 51 | 1.1% | 99.3% |  |
+| 52 | 2% | 98% |  |
+| 53 | 4% | 96% |  |
+| 54 | 7% | 92% |  |
+| 55 | 9% | 85% |  |
+| 56 | 12% | 76% |  |
+| 57 | 13% | 64% |  |
+| 58 | 13% | 50% | Median |
+| 59 | 12% | 37% |  |
+| 60 | 9% | 25% |  |
+| 61 | 7% | 16% |  |
+| 62 | 4% | 9% |  |
+| 63 | 3% | 5% |  |
+| 64 | 1.4% | 3% |  |
+| 65 | 0.7% | 1.2% |  |
+| 66 | 0.3% | 0.5% |  |
 | 67 | 0.1% | 0.2% |  |
-| 68 | 0% | 0.1% |  |
+| 68 | 0.1% | 0.1% |  |
 | 69 | 0% | 0% |  |
 
 

@@ -28,7 +28,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -56,24 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 75 | 0.1% | 100% |  |
-| 76 | 0.3% | 99.9% |  |
+| 76 | 0.2% | 99.9% |  |
 | 77 | 0.6% | 99.6% |  |
 | 78 | 1.4% | 99.0% | Last Result |
 | 79 | 3% | 98% |  |
 | 80 | 5% | 95% |  |
 | 81 | 7% | 90% |  |
-| 82 | 10% | 83% |  |
+| 82 | 9% | 83% |  |
 | 83 | 12% | 74% |  |
 | 84 | 13% | 62% | Median |
-| 85 | 13% | 49% |  |
+| 85 | 13% | 50% |  |
 | 86 | 11% | 37% |  |
-| 87 | 9% | 25% |  |
-| 88 | 7% | 16% |  |
+| 87 | 9% | 26% |  |
+| 88 | 7% | 17% |  |
 | 89 | 4% | 10% |  |
 | 90 | 3% | 6% |  |
-| 91 | 1.5% | 3% |  |
+| 91 | 2% | 3% |  |
 | 92 | 0.8% | 1.4% |  |
-| 93 | 0.4% | 0.6% |  |
+| 93 | 0.4% | 0.7% |  |
 | 94 | 0.2% | 0.3% |  |
 | 95 | 0.1% | 0.1% |  |
 | 96 | 0% | 0% |  |
