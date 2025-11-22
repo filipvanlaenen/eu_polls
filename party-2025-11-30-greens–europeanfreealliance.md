@@ -19,7 +19,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 37 | 35–41 | 34–43 | 33–44 | 32–46 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| PROGRESĪVIE | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -72,19 +72,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 3% | 99.0% |  |
 | 34 | 6% | 96% |  |
 | 35 | 11% | 90% |  |
-| 36 | 16% | 79% |  |
-| 37 | 17% | 63% | Median |
-| 38 | 15% | 46% |  |
-| 39 | 11% | 31% |  |
-| 40 | 7% | 20% |  |
-| 41 | 5% | 13% |  |
-| 42 | 3% | 8% |  |
+| 36 | 15% | 79% |  |
+| 37 | 17% | 64% | Median |
+| 38 | 15% | 47% |  |
+| 39 | 11% | 32% |  |
+| 40 | 7% | 21% |  |
+| 41 | 5% | 14% |  |
+| 42 | 3% | 9% |  |
 | 43 | 2% | 5% |  |
-| 44 | 1.5% | 3% |  |
-| 45 | 0.8% | 1.3% |  |
-| 46 | 0.4% | 0.5% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0.1% |  |
+| 44 | 2% | 3% |  |
+| 45 | 0.8% | 1.5% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.2% | 0.2% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
