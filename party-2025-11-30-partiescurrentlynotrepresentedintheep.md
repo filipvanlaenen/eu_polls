@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 0–5 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη [CY] (*) | CY | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,10 +59,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% |  |
 | 1 | 20% | 99.5% | Last Result |
-| 2 | 41% | 80% | Median |
+| 2 | 42% | 80% | Median |
 | 3 | 29% | 38% |  |
-| 4 | 8% | 10% |  |
-| 5 | 1.1% | 1.2% |  |
+| 4 | 8% | 9% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
