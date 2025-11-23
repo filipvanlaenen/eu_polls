@@ -23,8 +23,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη [CY] (*) | CY | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -61,10 +61,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.2% | 100% |  |
 | 1 | 10% | 99.8% | Last Result |
 | 2 | 30% | 90% |  |
-| 3 | 35% | 59% | Median |
-| 4 | 19% | 24% |  |
-| 5 | 5% | 5% |  |
-| 6 | 0.6% | 0.6% |  |
+| 3 | 35% | 60% | Median |
+| 4 | 19% | 25% |  |
+| 5 | 5% | 6% |  |
+| 6 | 0.6% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
