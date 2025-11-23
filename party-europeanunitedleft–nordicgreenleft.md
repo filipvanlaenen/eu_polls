@@ -46,7 +46,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0–5 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -67,22 +67,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.1% | 100% |  |
 | 49 | 0.3% | 99.9% |  |
 | 50 | 0.7% | 99.6% |  |
-| 51 | 2% | 98.9% |  |
+| 51 | 1.5% | 99.0% |  |
 | 52 | 3% | 97% |  |
-| 53 | 5% | 94% |  |
+| 53 | 5% | 95% |  |
 | 54 | 8% | 89% |  |
-| 55 | 11% | 81% |  |
-| 56 | 12% | 70% |  |
-| 57 | 13% | 58% | Median |
-| 58 | 12% | 45% |  |
-| 59 | 10% | 32% |  |
-| 60 | 8% | 22% |  |
+| 55 | 10% | 82% |  |
+| 56 | 12% | 71% |  |
+| 57 | 13% | 59% | Median |
+| 58 | 12% | 46% |  |
+| 59 | 11% | 33% |  |
+| 60 | 8% | 23% |  |
 | 61 | 6% | 14% |  |
-| 62 | 4% | 8% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.2% | 2% |  |
-| 65 | 0.6% | 1.0% |  |
-| 66 | 0.3% | 0.4% |  |
+| 62 | 4% | 9% |  |
+| 63 | 2% | 5% |  |
+| 64 | 1.3% | 2% |  |
+| 65 | 0.6% | 1.1% |  |
+| 66 | 0.3% | 0.5% |  |
 | 67 | 0.1% | 0.2% |  |
 | 68 | 0% | 0.1% |  |
 | 69 | 0% | 0% |  |

@@ -25,7 +25,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3 | 3 | 3 |
-| Juiste Antwoord 2021 | NL | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Juiste Antwoord 2021 | NL | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
@@ -55,23 +55,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0% | 100% |  |
+| 74 | 0.1% | 100% |  |
 | 75 | 0.2% | 99.9% |  |
-| 76 | 0.4% | 99.8% |  |
+| 76 | 0.5% | 99.7% |  |
 | 77 | 1.1% | 99.3% |  |
 | 78 | 2% | 98% | Last Result |
 | 79 | 4% | 96% |  |
-| 80 | 6% | 92% |  |
-| 81 | 9% | 86% |  |
-| 82 | 11% | 77% |  |
-| 83 | 13% | 65% |  |
-| 84 | 13% | 52% | Median |
-| 85 | 12% | 39% |  |
+| 80 | 7% | 92% |  |
+| 81 | 9% | 85% |  |
+| 82 | 12% | 76% |  |
+| 83 | 13% | 64% |  |
+| 84 | 13% | 51% | Median |
+| 85 | 12% | 38% |  |
 | 86 | 10% | 27% |  |
-| 87 | 7% | 18% |  |
+| 87 | 7% | 17% |  |
 | 88 | 5% | 10% |  |
 | 89 | 3% | 6% |  |
-| 90 | 2% | 3% |  |
+| 90 | 1.5% | 3% |  |
 | 91 | 0.8% | 1.4% |  |
 | 92 | 0.4% | 0.6% |  |
 | 93 | 0.2% | 0.3% |  |
