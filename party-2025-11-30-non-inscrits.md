@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **19** seats (-13 seats)
+Current median: **18** seats (-14 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,16 +18,16 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 16–22 | 15–23 | 14–23 | 13–25 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–4 | 2–5 | 2–5 | 2–6 |
-| Konfederacja Korony Polskiej | PL | | 3 | 3–5 | 0–5 | 0–5 | 0–5 |
+| Non-Inscrits | EU | 32 | 18 | 15–21 | 14–22 | 13–23 | 12–24 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Konfederacja Korony Polskiej | PL | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -39,7 +39,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Άμεσης Δημοκρατίας | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -52,22 +52,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 0.3% | 99.9% |  |
-| 13 | 0.8% | 99.6% |  |
-| 14 | 2% | 98.7% |  |
-| 15 | 4% | 97% |  |
-| 16 | 8% | 93% |  |
-| 17 | 13% | 85% |  |
-| 18 | 17% | 71% |  |
-| 19 | 17% | 55% | Median |
-| 20 | 15% | 37% |  |
-| 21 | 11% | 22% |  |
-| 22 | 6% | 12% |  |
-| 23 | 3% | 5% |  |
-| 24 | 1.4% | 2% |  |
-| 25 | 0.5% | 0.6% |  |
-| 26 | 0.1% | 0.2% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 0.9% | 99.7% |  |
+| 13 | 2% | 98.8% |  |
+| 14 | 4% | 97% |  |
+| 15 | 7% | 93% |  |
+| 16 | 10% | 86% |  |
+| 17 | 15% | 76% |  |
+| 18 | 17% | 61% | Median |
+| 19 | 16% | 44% |  |
+| 20 | 12% | 29% |  |
+| 21 | 8% | 16% |  |
+| 22 | 5% | 8% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.8% | 1.1% |  |
+| 25 | 0.3% | 0.3% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |

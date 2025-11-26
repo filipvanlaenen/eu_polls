@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 69 | 64–74 | 62–75 | 61–77 | 60–79 |
+| Renew Europe | EU | 77 | 69 | 64–74 | 63–76 | 62–77 | 60–79 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 9–18 | 9–19 |
 | Democraten 66 | NL | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
@@ -38,11 +38,10 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
-| Iniciativa Liberal | PT | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
-| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -67,6 +66,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
+| Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -82,30 +82,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
-| 59 | 0.3% | 99.9% |  |
-| 60 | 0.7% | 99.6% |  |
-| 61 | 1.5% | 98.8% |  |
-| 62 | 3% | 97% |  |
+| 59 | 0.2% | 99.9% |  |
+| 60 | 0.6% | 99.7% |  |
+| 61 | 1.3% | 99.1% |  |
+| 62 | 2% | 98% |  |
 | 63 | 4% | 95% |  |
-| 64 | 6% | 91% |  |
-| 65 | 7% | 85% |  |
-| 66 | 8% | 78% |  |
-| 67 | 9% | 69% |  |
-| 68 | 10% | 60% |  |
-| 69 | 10% | 50% | Median |
-| 70 | 9% | 41% |  |
-| 71 | 8% | 31% |  |
-| 72 | 7% | 23% |  |
-| 73 | 5% | 17% |  |
-| 74 | 4% | 11% |  |
-| 75 | 3% | 7% |  |
+| 64 | 5% | 92% |  |
+| 65 | 7% | 86% |  |
+| 66 | 8% | 79% |  |
+| 67 | 9% | 71% |  |
+| 68 | 10% | 62% |  |
+| 69 | 10% | 52% | Median |
+| 70 | 9% | 43% |  |
+| 71 | 8% | 33% |  |
+| 72 | 7% | 25% |  |
+| 73 | 6% | 18% |  |
+| 74 | 4% | 12% |  |
+| 75 | 3% | 8% |  |
 | 76 | 2% | 5% |  |
-| 77 | 1.2% | 3% | Last Result |
-| 78 | 0.7% | 1.5% |  |
-| 79 | 0.4% | 0.8% |  |
+| 77 | 1.3% | 3% | Last Result |
+| 78 | 0.8% | 2% |  |
+| 79 | 0.4% | 0.9% |  |
 | 80 | 0.2% | 0.4% |  |
 | 81 | 0.1% | 0.2% |  |
-| 82 | 0% | 0.1% |  |
+| 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
 
 

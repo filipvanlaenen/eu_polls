@@ -18,18 +18,18 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 34–41 | 34–42 | 33–44 | 32–46 |
+| Greens–European Free Alliance | EU | 53 | 37 | 34–41 | 34–42 | 33–43 | 32–45 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| LIVRE | PT | | 1 | 1 | 1 | 1–2 | 0–2 |
+| LIVRE | PT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Možemo! | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -46,7 +46,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,24 +67,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.2% | 100% |  |
-| 32 | 1.0% | 99.7% |  |
-| 33 | 3% | 98.7% |  |
-| 34 | 7% | 96% |  |
-| 35 | 12% | 89% |  |
-| 36 | 16% | 77% |  |
-| 37 | 17% | 61% | Median |
-| 38 | 14% | 44% |  |
-| 39 | 10% | 30% |  |
-| 40 | 7% | 19% |  |
-| 41 | 5% | 13% |  |
+| 30 | 0.1% | 100% |  |
+| 31 | 0.3% | 99.9% |  |
+| 32 | 1.1% | 99.7% |  |
+| 33 | 3% | 98.5% |  |
+| 34 | 7% | 95% |  |
+| 35 | 13% | 88% |  |
+| 36 | 16% | 75% |  |
+| 37 | 17% | 59% | Median |
+| 38 | 14% | 42% |  |
+| 39 | 10% | 28% |  |
+| 40 | 6% | 18% |  |
+| 41 | 4% | 12% |  |
 | 42 | 3% | 8% |  |
-| 43 | 2% | 5% |  |
-| 44 | 1.4% | 3% |  |
-| 45 | 0.7% | 1.2% |  |
-| 46 | 0.3% | 0.5% |  |
+| 43 | 2% | 4% |  |
+| 44 | 1.3% | 2% |  |
+| 45 | 0.7% | 1.1% |  |
+| 46 | 0.3% | 0.4% |  |
 | 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0.1% |  |
+| 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
