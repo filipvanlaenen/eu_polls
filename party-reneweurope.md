@@ -18,9 +18,9 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 70 | 66–75 | 65–77 | 64–78 | 62–80 |
+| Renew Europe | EU | 77 | 70 | 65–74 | 64–76 | 63–77 | 62–79 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 9–18 | 9–19 |
-| Democraten 66 | NL | | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Democraten 66 | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -33,17 +33,17 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
-| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
-| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -82,29 +82,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 60 | 0.1% | 100% |  |
-| 61 | 0.2% | 99.9% |  |
-| 62 | 0.6% | 99.7% |  |
-| 63 | 1.3% | 99.1% |  |
-| 64 | 3% | 98% |  |
-| 65 | 4% | 95% |  |
-| 66 | 6% | 91% |  |
-| 67 | 8% | 85% |  |
-| 68 | 9% | 77% |  |
-| 69 | 10% | 68% |  |
-| 70 | 10% | 58% | Median |
-| 71 | 10% | 48% |  |
-| 72 | 9% | 38% |  |
-| 73 | 8% | 29% |  |
-| 74 | 7% | 21% |  |
-| 75 | 5% | 14% |  |
-| 76 | 3% | 9% |  |
-| 77 | 2% | 6% | Last Result |
-| 78 | 1.5% | 3% |  |
-| 79 | 0.9% | 2% |  |
-| 80 | 0.5% | 0.9% |  |
-| 81 | 0.2% | 0.4% |  |
-| 82 | 0.1% | 0.2% |  |
-| 83 | 0% | 0.1% |  |
-| 84 | 0% | 0% |  |
+| 61 | 0.3% | 99.9% |  |
+| 62 | 0.7% | 99.6% |  |
+| 63 | 2% | 98.9% |  |
+| 64 | 3% | 97% |  |
+| 65 | 5% | 94% |  |
+| 66 | 7% | 89% |  |
+| 67 | 9% | 83% |  |
+| 68 | 10% | 74% |  |
+| 69 | 11% | 64% |  |
+| 70 | 11% | 53% | Median |
+| 71 | 10% | 42% |  |
+| 72 | 9% | 32% |  |
+| 73 | 8% | 23% |  |
+| 74 | 6% | 16% |  |
+| 75 | 4% | 10% |  |
+| 76 | 3% | 5% |  |
+| 77 | 1.5% | 3% | Last Result |
+| 78 | 0.8% | 1.4% |  |
+| 79 | 0.4% | 0.7% |  |
+| 80 | 0.2% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 

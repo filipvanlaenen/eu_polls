@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **18** seats (-14 seats)
+Current median: **19** seats (-13 seats)
 
 At least one member in **5 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 18 | 15–22 | 14–22 | 13–23 | 12–25 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
-| Konfederacja Korony Polskiej | PL | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Non-Inscrits | EU | 32 | 19 | 15–22 | 14–23 | 14–23 | 12–25 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| Konfederacja Korony Polskiej | PL | | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -55,20 +55,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.2% | 100% |  |
 | 12 | 0.7% | 99.8% |  |
 | 13 | 2% | 99.1% |  |
-| 14 | 3% | 97% |  |
-| 15 | 5% | 94% |  |
+| 14 | 3% | 98% |  |
+| 15 | 5% | 95% |  |
 | 16 | 9% | 89% |  |
-| 17 | 14% | 80% |  |
-| 18 | 16% | 66% | Median |
-| 19 | 16% | 50% |  |
+| 17 | 13% | 80% |  |
+| 18 | 16% | 67% |  |
+| 19 | 16% | 50% | Median |
 | 20 | 13% | 34% |  |
-| 21 | 10% | 20% |  |
+| 21 | 10% | 21% |  |
 | 22 | 6% | 11% |  |
 | 23 | 3% | 5% |  |
-| 24 | 1.3% | 2% |  |
-| 25 | 0.5% | 0.7% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0% | 0% |  |
+| 24 | 1.4% | 2% |  |
+| 25 | 0.5% | 0.8% |  |
+| 26 | 0.2% | 0.2% |  |
+| 27 | 0% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
