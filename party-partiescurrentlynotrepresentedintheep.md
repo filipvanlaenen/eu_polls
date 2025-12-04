@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 1–4 | 1–5 | 1–5 | 1–6 |
+| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 1–5 | 1–5 | 1–6 |
 | Politiskā kustība „Bez partijām“ [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη [CY] (*) | CY | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -58,8 +58,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 10% | 99.7% | Last Result |
+| 0 | 0.2% | 100% |  |
+| 1 | 10% | 99.8% | Last Result |
 | 2 | 30% | 90% |  |
 | 3 | 35% | 60% | Median |
 | 4 | 19% | 25% |  |

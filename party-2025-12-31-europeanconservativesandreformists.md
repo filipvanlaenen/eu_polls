@@ -1,8 +1,8 @@
 # European Conservatives and Reformists
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DK, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
@@ -18,20 +18,20 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 84 | 80–88 | 79–89 | 79–90 | 77–92 |
-| Fratelli d’Italia | IT | | 25 | 23–27 | 22–28 | 22–29 | 20–29 |
-| Zjednoczona Prawica | PL | | 17 | 16–19 | 16–20 | 16–22 | 15–22 |
+| European Conservatives and Reformists | EU | 78 | 84 | 80–88 | 79–89 | 78–90 | 77–92 |
+| Fratelli d’Italia | IT | | 25 | 23–28 | 22–28 | 22–29 | 21–29 |
+| Zjednoczona Prawica | PL | | 17 | 16–19 | 16–20 | 15–22 | 15–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3 | 3 | 3 |
-| Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 2 | 2 |
+| Juiste Antwoord 2021 | NL | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Suverēnā vara | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -39,11 +39,12 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0–4 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
+| Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
@@ -55,26 +56,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 75 | 0.1% | 100% |  |
-| 76 | 0.2% | 99.9% |  |
-| 77 | 0.6% | 99.6% |  |
-| 78 | 1.4% | 99.0% | Last Result |
-| 79 | 3% | 98% |  |
-| 80 | 5% | 95% |  |
-| 81 | 8% | 90% |  |
-| 82 | 11% | 82% |  |
-| 83 | 13% | 71% |  |
-| 84 | 14% | 59% | Median |
-| 85 | 13% | 45% |  |
-| 86 | 11% | 32% |  |
-| 87 | 8% | 21% |  |
-| 88 | 6% | 13% |  |
-| 89 | 3% | 7% |  |
-| 90 | 2% | 4% |  |
-| 91 | 1.0% | 2% |  |
-| 92 | 0.5% | 0.9% |  |
-| 93 | 0.2% | 0.4% |  |
-| 94 | 0.1% | 0.2% |  |
-| 95 | 0% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 76 | 0.3% | 99.9% |  |
+| 77 | 0.7% | 99.5% |  |
+| 78 | 2% | 98.8% | Last Result |
+| 79 | 3% | 97% |  |
+| 80 | 5% | 94% |  |
+| 81 | 8% | 89% |  |
+| 82 | 11% | 80% |  |
+| 83 | 13% | 69% |  |
+| 84 | 14% | 56% | Median |
+| 85 | 13% | 42% |  |
+| 86 | 10% | 29% |  |
+| 87 | 7% | 19% |  |
+| 88 | 5% | 11% |  |
+| 89 | 3% | 6% |  |
+| 90 | 2% | 3% |  |
+| 91 | 0.9% | 2% |  |
+| 92 | 0.4% | 0.8% |  |
+| 93 | 0.2% | 0.3% |  |
+| 94 | 0.1% | 0.1% |  |
+| 95 | 0% | 0% |  |
 
 
