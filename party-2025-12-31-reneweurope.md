@@ -8,17 +8,17 @@ Members registered from **25 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **70** seats (-7 seats)
+Current median: **71** seats (-6 seats)
 
-At least one member in **19 countries** have a median of 1 seat or more:
+At least one member in **20 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+> AT, BE, BG, CY, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 70 | 65–74 | 64–76 | 63–77 | 62–79 |
+| Renew Europe | EU | 77 | 71 | 66–76 | 65–77 | 64–78 | 63–80 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 9–18 | 9–19 |
 | Democraten 66 | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -38,12 +38,13 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 0–1 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +67,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0–3 |
-| Radikale Venstre | DK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -81,28 +82,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
-| 61 | 0.3% | 99.9% |  |
-| 62 | 0.7% | 99.6% |  |
-| 63 | 2% | 98.9% |  |
-| 64 | 3% | 97% |  |
-| 65 | 5% | 94% |  |
-| 66 | 7% | 89% |  |
-| 67 | 9% | 83% |  |
-| 68 | 10% | 74% |  |
-| 69 | 11% | 64% |  |
-| 70 | 11% | 53% | Median |
-| 71 | 10% | 42% |  |
-| 72 | 9% | 32% |  |
-| 73 | 8% | 23% |  |
-| 74 | 6% | 16% |  |
-| 75 | 4% | 10% |  |
-| 76 | 3% | 5% |  |
-| 77 | 1.5% | 3% | Last Result |
-| 78 | 0.8% | 1.4% |  |
-| 79 | 0.4% | 0.7% |  |
-| 80 | 0.2% | 0.3% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 61 | 0.1% | 100% |  |
+| 62 | 0.3% | 99.9% |  |
+| 63 | 0.7% | 99.6% |  |
+| 64 | 2% | 98.9% |  |
+| 65 | 3% | 97% |  |
+| 66 | 5% | 95% |  |
+| 67 | 7% | 90% |  |
+| 68 | 9% | 83% |  |
+| 69 | 10% | 74% |  |
+| 70 | 10% | 64% |  |
+| 71 | 11% | 54% | Median |
+| 72 | 10% | 43% |  |
+| 73 | 9% | 33% |  |
+| 74 | 8% | 24% |  |
+| 75 | 6% | 16% |  |
+| 76 | 4% | 10% |  |
+| 77 | 3% | 6% | Last Result |
+| 78 | 2% | 3% |  |
+| 79 | 0.9% | 2% |  |
+| 80 | 0.4% | 0.8% |  |
+| 81 | 0.2% | 0.4% |  |
+| 82 | 0.1% | 0.2% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0% |  |
 
 

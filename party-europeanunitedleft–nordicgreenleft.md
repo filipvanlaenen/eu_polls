@@ -20,12 +20,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 57 | 53–61 | 52–62 | 51–63 | 49–65 |
 | La France insoumise | FR | | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
-| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Die Linke | DE | | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -52,7 +52,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
-| Νέα Αριστερά | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Νέα Αριστερά | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -69,20 +69,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 1.0% | 99.4% |  |
 | 51 | 2% | 98% |  |
 | 52 | 4% | 96% |  |
-| 53 | 6% | 93% |  |
+| 53 | 7% | 92% |  |
 | 54 | 9% | 86% |  |
-| 55 | 12% | 77% |  |
-| 56 | 13% | 65% |  |
-| 57 | 13% | 52% | Median |
-| 58 | 12% | 39% |  |
-| 59 | 9% | 27% |  |
+| 55 | 12% | 76% |  |
+| 56 | 13% | 64% |  |
+| 57 | 13% | 51% | Median |
+| 58 | 12% | 38% |  |
+| 59 | 9% | 26% |  |
 | 60 | 7% | 17% |  |
-| 61 | 5% | 11% |  |
+| 61 | 4% | 10% |  |
 | 62 | 3% | 6% |  |
 | 63 | 2% | 3% |  |
-| 64 | 0.8% | 1.5% |  |
+| 64 | 0.8% | 1.4% |  |
 | 65 | 0.4% | 0.6% |  |
-| 66 | 0.2% | 0.3% |  |
+| 66 | 0.1% | 0.2% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 

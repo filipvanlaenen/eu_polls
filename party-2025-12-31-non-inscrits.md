@@ -10,24 +10,25 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **19** seats (-13 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> DE, ES, GR, PL, SK
+> CY, DE, ES, GR, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 19 | 15–22 | 14–23 | 14–23 | 12–25 |
+| Non-Inscrits | EU | 32 | 19 | 15–22 | 14–23 | 13–23 | 12–25 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Konfederacja Korony Polskiej | PL | | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Άμεσης Δημοκρατίας | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +42,6 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Άμεσης Δημοκρατίας | CY | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -52,21 +52,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.7% | 99.8% |  |
-| 13 | 2% | 99.1% |  |
-| 14 | 3% | 98% |  |
-| 15 | 5% | 95% |  |
-| 16 | 9% | 89% |  |
-| 17 | 13% | 80% |  |
-| 18 | 16% | 67% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.3% | 99.9% |  |
+| 12 | 0.8% | 99.6% |  |
+| 13 | 2% | 98.9% |  |
+| 14 | 3% | 97% |  |
+| 15 | 6% | 94% |  |
+| 16 | 9% | 88% |  |
+| 17 | 13% | 79% |  |
+| 18 | 16% | 66% |  |
 | 19 | 16% | 50% | Median |
-| 20 | 13% | 34% |  |
+| 20 | 13% | 35% |  |
 | 21 | 10% | 21% |  |
-| 22 | 6% | 11% |  |
-| 23 | 3% | 5% |  |
-| 24 | 1.4% | 2% |  |
-| 25 | 0.5% | 0.8% |  |
+| 22 | 6% | 12% |  |
+| 23 | 3% | 6% |  |
+| 24 | 1.5% | 2% |  |
+| 25 | 0.6% | 0.8% |  |
 | 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0.1% |  |
 | 28 | 0% | 0% |  |

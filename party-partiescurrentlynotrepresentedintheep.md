@@ -8,19 +8,18 @@ Members registered from **17 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **3** seats (+2 seats)
+Current median: **2** seats (+1 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> BG, CY, LV
+> BG, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 3 | 2–4 | 1–5 | 1–5 | 1–6 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 0–4 | 0–4 | 0–5 |
 | Politiskā kustība „Bez partijām“ [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
-| Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη [CY] (*) | CY | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,13 +57,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 10% | 99.8% | Last Result |
-| 2 | 30% | 90% |  |
-| 3 | 35% | 60% | Median |
-| 4 | 19% | 25% |  |
-| 5 | 5% | 6% |  |
-| 6 | 0.7% | 0.7% |  |
-| 7 | 0% | 0% |  |
+| 0 | 9% | 100% |  |
+| 1 | 30% | 91% | Last Result |
+| 2 | 36% | 61% | Median |
+| 3 | 20% | 25% |  |
+| 4 | 5% | 6% |  |
+| 5 | 0.7% | 0.7% |  |
+| 6 | 0% | 0% |  |
 
 
