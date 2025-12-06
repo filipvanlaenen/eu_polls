@@ -10,18 +10,18 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 Current median: **2** seats (+1 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, LV
+> BG, IE, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 0–4 | 0–4 | 0–5 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–4 | 0–4 | 0–5 |
+| Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Politiskā kustība „Bez partijām“ [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Aontú [IE] (*) | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -57,12 +57,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 30% | 91% | Last Result |
-| 2 | 36% | 61% | Median |
-| 3 | 20% | 25% |  |
-| 4 | 5% | 6% |  |
-| 5 | 0.7% | 0.7% |  |
-| 6 | 0% | 0% |  |
+| 0 | 5% | 100% |  |
+| 1 | 23% | 95% | Last Result |
+| 2 | 37% | 72% | Median |
+| 3 | 26% | 35% |  |
+| 4 | 8% | 9% |  |
+| 5 | 1.1% | 1.2% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
