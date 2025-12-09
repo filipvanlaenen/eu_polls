@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (-16 seats)
+Current median: **38** seats (-15 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 35–41 | 34–43 | 33–44 | 32–46 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 33–44 | 32–46 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
+| Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -43,7 +43,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -67,24 +67,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.6% | 99.9% |  |
-| 33 | 2% | 99.3% |  |
+| 31 | 0.2% | 100% |  |
+| 32 | 0.7% | 99.8% |  |
+| 33 | 2% | 99.1% |  |
 | 34 | 5% | 97% |  |
-| 35 | 11% | 92% |  |
-| 36 | 16% | 81% |  |
-| 37 | 18% | 66% | Median |
-| 38 | 16% | 48% |  |
-| 39 | 11% | 32% |  |
-| 40 | 7% | 21% |  |
-| 41 | 5% | 14% |  |
-| 42 | 3% | 9% |  |
-| 43 | 2% | 5% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.8% | 1.4% |  |
-| 46 | 0.4% | 0.6% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0.1% |  |
+| 35 | 9% | 92% |  |
+| 36 | 14% | 83% |  |
+| 37 | 17% | 69% |  |
+| 38 | 16% | 52% | Median |
+| 39 | 12% | 36% |  |
+| 40 | 8% | 24% |  |
+| 41 | 6% | 16% |  |
+| 42 | 4% | 10% |  |
+| 43 | 3% | 6% |  |
+| 44 | 2% | 4% |  |
+| 45 | 1.0% | 2% |  |
+| 46 | 0.5% | 0.8% |  |
+| 47 | 0.2% | 0.3% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

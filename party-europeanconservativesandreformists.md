@@ -20,7 +20,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 78 | 84 | 80–88 | 79–89 | 78–90 | 76–92 |
 | Fratelli d’Italia | IT | | 26 | 23–28 | 22–28 | 22–29 | 21–29 |
-| Zjednoczona Prawica | PL | | 17 | 15–19 | 15–20 | 14–22 | 14–22 |
+| Zjednoczona Prawica | PL | | 17 | 15–19 | 14–20 | 14–22 | 13–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -42,7 +42,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -57,25 +57,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 74 | 0.1% | 100% |  |
 | 75 | 0.2% | 99.9% |  |
-| 76 | 0.4% | 99.7% |  |
-| 77 | 0.9% | 99.3% |  |
+| 76 | 0.6% | 99.6% |  |
+| 77 | 1.2% | 99.1% |  |
 | 78 | 2% | 98% | Last Result |
-| 79 | 3% | 97% |  |
-| 80 | 5% | 93% |  |
-| 81 | 8% | 88% |  |
-| 82 | 11% | 80% |  |
-| 83 | 13% | 69% |  |
-| 84 | 14% | 56% | Median |
-| 85 | 13% | 42% |  |
-| 86 | 10% | 30% |  |
-| 87 | 8% | 19% |  |
-| 88 | 5% | 12% |  |
-| 89 | 3% | 7% |  |
+| 79 | 4% | 96% |  |
+| 80 | 6% | 92% |  |
+| 81 | 9% | 85% |  |
+| 82 | 11% | 76% |  |
+| 83 | 13% | 65% |  |
+| 84 | 13% | 52% | Median |
+| 85 | 12% | 39% |  |
+| 86 | 9% | 27% |  |
+| 87 | 7% | 17% |  |
+| 88 | 4% | 11% |  |
+| 89 | 3% | 6% |  |
 | 90 | 2% | 3% |  |
 | 91 | 0.9% | 2% |  |
-| 92 | 0.5% | 0.8% |  |
-| 93 | 0.2% | 0.3% |  |
+| 92 | 0.5% | 0.9% |  |
+| 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 95 | 0% | 0.1% |  |
+| 96 | 0% | 0% |  |
 
 
