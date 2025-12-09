@@ -18,7 +18,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 42 | 37–45 | 36–46 | 35–47 | 33–49 |
+| Europe of Sovereign Nations | EU | 25 | 42 | 37–46 | 36–46 | 35–47 | 33–49 |
 | Alternative für Deutschland | DE | | 24 | 22–27 | 22–27 | 21–28 | 20–28 |
 | Reconquête | FR | | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Nowa Nadzieja | PL | | 4 | 2–6 | 2–6 | 2–6 | 0–7 |
@@ -44,19 +44,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0.1% | 100% |  |
 | 32 | 0.2% | 99.9% |  |
-| 33 | 0.6% | 99.7% |  |
-| 34 | 1.2% | 99.1% |  |
+| 33 | 0.5% | 99.7% |  |
+| 34 | 1.2% | 99.2% |  |
 | 35 | 2% | 98% |  |
 | 36 | 4% | 96% |  |
 | 37 | 5% | 92% |  |
-| 38 | 7% | 86% |  |
+| 38 | 7% | 87% |  |
 | 39 | 8% | 80% |  |
 | 40 | 9% | 72% |  |
-| 41 | 11% | 63% |  |
-| 42 | 12% | 52% | Median |
-| 43 | 12% | 40% |  |
-| 44 | 10% | 28% |  |
-| 45 | 8% | 18% |  |
+| 41 | 10% | 63% |  |
+| 42 | 12% | 53% | Median |
+| 43 | 12% | 41% |  |
+| 44 | 11% | 29% |  |
+| 45 | 8% | 19% |  |
 | 46 | 5% | 10% |  |
 | 47 | 3% | 5% |  |
 | 48 | 1.3% | 2% |  |
