@@ -18,8 +18,8 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 67–76 | 65–77 | 65–78 | 63–80 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–18 | 10–18 | 9–19 |
+| Renew Europe | EU | 77 | 71 | 66–76 | 65–77 | 64–78 | 63–80 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 10–18 | 8–19 |
 | Democraten 66 | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -83,28 +83,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0.1% | 100% |  |
-| 62 | 0.2% | 99.9% |  |
-| 63 | 0.6% | 99.7% |  |
-| 64 | 1.4% | 99.1% |  |
-| 65 | 3% | 98% |  |
+| 62 | 0.3% | 99.9% |  |
+| 63 | 0.7% | 99.6% |  |
+| 64 | 2% | 99.0% |  |
+| 65 | 3% | 97% |  |
 | 66 | 5% | 95% |  |
 | 67 | 7% | 90% |  |
-| 68 | 8% | 84% |  |
-| 69 | 10% | 75% |  |
-| 70 | 10% | 66% |  |
-| 71 | 10% | 56% | Median |
-| 72 | 10% | 45% |  |
-| 73 | 9% | 35% |  |
-| 74 | 8% | 26% |  |
-| 75 | 6% | 18% |  |
-| 76 | 5% | 12% |  |
-| 77 | 3% | 7% | Last Result |
-| 78 | 2% | 4% |  |
-| 79 | 1.0% | 2% |  |
-| 80 | 0.5% | 1.0% |  |
-| 81 | 0.3% | 0.5% |  |
+| 68 | 9% | 83% |  |
+| 69 | 10% | 74% |  |
+| 70 | 10% | 65% |  |
+| 71 | 10% | 54% | Median |
+| 72 | 10% | 44% |  |
+| 73 | 9% | 34% |  |
+| 74 | 8% | 25% |  |
+| 75 | 6% | 17% |  |
+| 76 | 4% | 11% |  |
+| 77 | 3% | 6% | Last Result |
+| 78 | 2% | 3% |  |
+| 79 | 0.9% | 2% |  |
+| 80 | 0.5% | 0.8% |  |
+| 81 | 0.2% | 0.4% |  |
 | 82 | 0.1% | 0.2% |  |
-| 83 | 0.1% | 0.1% |  |
+| 83 | 0% | 0.1% |  |
 | 84 | 0% | 0% |  |
 
 
