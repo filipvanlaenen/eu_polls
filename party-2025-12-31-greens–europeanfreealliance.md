@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 33–44 | 32–46 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 34–43 | 33–44 | 32–46 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
-| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -71,19 +71,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0.7% | 99.8% |  |
 | 33 | 2% | 99.1% |  |
 | 34 | 5% | 97% |  |
-| 35 | 9% | 92% |  |
-| 36 | 14% | 83% |  |
-| 37 | 17% | 69% |  |
-| 38 | 16% | 52% | Median |
-| 39 | 12% | 36% |  |
-| 40 | 8% | 24% |  |
-| 41 | 5% | 16% |  |
-| 42 | 4% | 10% |  |
-| 43 | 3% | 6% |  |
+| 35 | 10% | 92% |  |
+| 36 | 14% | 82% |  |
+| 37 | 17% | 68% |  |
+| 38 | 16% | 51% | Median |
+| 39 | 12% | 35% |  |
+| 40 | 8% | 23% |  |
+| 41 | 5% | 15% |  |
+| 42 | 3% | 10% |  |
+| 43 | 2% | 6% |  |
 | 44 | 2% | 4% |  |
 | 45 | 1.0% | 2% |  |
-| 46 | 0.5% | 0.8% |  |
-| 47 | 0.2% | 0.3% |  |
+| 46 | 0.5% | 0.9% |  |
+| 47 | 0.2% | 0.4% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
