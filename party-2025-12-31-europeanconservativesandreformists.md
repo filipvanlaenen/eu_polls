@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 83 | 80–87 | 79–88 | 78–90 | 76–92 |
+| European Conservatives and Reformists | EU | 78 | 83 | 79–87 | 78–88 | 77–89 | 76–91 |
 | Fratelli d’Italia | IT | | 26 | 23–27 | 22–27 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 16 | 15–19 | 15–20 | 14–22 | 14–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
@@ -45,7 +45,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -56,26 +56,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 74 | 0.1% | 100% |  |
-| 75 | 0.3% | 99.9% |  |
-| 76 | 0.6% | 99.6% |  |
-| 77 | 1.3% | 99.0% |  |
-| 78 | 3% | 98% | Last Result |
-| 79 | 4% | 95% |  |
-| 80 | 7% | 91% |  |
-| 81 | 10% | 84% |  |
-| 82 | 12% | 74% |  |
-| 83 | 14% | 61% | Median |
-| 84 | 13% | 48% |  |
-| 85 | 11% | 34% |  |
-| 86 | 9% | 23% |  |
-| 87 | 6% | 14% |  |
-| 88 | 4% | 9% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.3% | 3% |  |
-| 91 | 0.7% | 1.3% |  |
-| 92 | 0.4% | 0.6% |  |
-| 93 | 0.2% | 0.3% |  |
-| 94 | 0.1% | 0.1% |  |
+| 75 | 0.3% | 99.8% |  |
+| 76 | 0.8% | 99.5% |  |
+| 77 | 2% | 98.8% |  |
+| 78 | 3% | 97% | Last Result |
+| 79 | 5% | 94% |  |
+| 80 | 8% | 89% |  |
+| 81 | 11% | 81% |  |
+| 82 | 13% | 70% |  |
+| 83 | 14% | 57% | Median |
+| 84 | 13% | 43% |  |
+| 85 | 11% | 30% |  |
+| 86 | 8% | 19% |  |
+| 87 | 5% | 12% |  |
+| 88 | 3% | 7% |  |
+| 89 | 2% | 4% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.6% | 1.0% |  |
+| 92 | 0.3% | 0.4% |  |
+| 93 | 0.1% | 0.2% |  |
+| 94 | 0% | 0.1% |  |
 | 95 | 0% | 0% |  |
 
 
