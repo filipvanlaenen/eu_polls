@@ -22,7 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Politiskā kustība „Bez partijām“ [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +42,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -59,11 +59,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
-| 1 | 21% | 95% | Last Result |
-| 2 | 35% | 74% | Median |
-| 3 | 26% | 38% |  |
-| 4 | 8% | 13% |  |
-| 5 | 2% | 5% |  |
+| 1 | 22% | 95% | Last Result |
+| 2 | 36% | 73% | Median |
+| 3 | 25% | 37% |  |
+| 4 | 7% | 12% |  |
+| 5 | 1.4% | 5% |  |
 | 6 | 1.1% | 3% |  |
 | 7 | 1.2% | 2% |  |
 | 8 | 0.7% | 1.0% |  |
