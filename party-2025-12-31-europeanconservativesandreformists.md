@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (+5 seats)
+Current median: **84** seats (+6 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 83 | 79–87 | 78–88 | 77–89 | 76–91 |
+| European Conservatives and Reformists | EU | 78 | 84 | 80–88 | 78–89 | 77–90 | 76–92 |
 | Fratelli d’Italia | IT | | 26 | 23–27 | 22–27 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 16 | 15–19 | 15–20 | 14–22 | 14–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 3 | 3 | 3 | 3 |
 | Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -40,12 +40,11 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
-| Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0 |
+| Има такъв народ | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
 
@@ -56,26 +55,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 74 | 0.1% | 100% |  |
-| 75 | 0.3% | 99.8% |  |
-| 76 | 0.8% | 99.5% |  |
-| 77 | 2% | 98.8% |  |
+| 75 | 0.3% | 99.9% |  |
+| 76 | 0.7% | 99.6% |  |
+| 77 | 1.4% | 98.9% |  |
 | 78 | 3% | 97% | Last Result |
-| 79 | 5% | 94% |  |
-| 80 | 8% | 89% |  |
-| 81 | 11% | 81% |  |
-| 82 | 13% | 70% |  |
-| 83 | 14% | 57% | Median |
-| 84 | 13% | 43% |  |
-| 85 | 11% | 30% |  |
-| 86 | 8% | 19% |  |
-| 87 | 5% | 12% |  |
-| 88 | 3% | 7% |  |
-| 89 | 2% | 4% |  |
-| 90 | 1.0% | 2% |  |
-| 91 | 0.6% | 1.0% |  |
-| 92 | 0.3% | 0.4% |  |
-| 93 | 0.1% | 0.2% |  |
-| 94 | 0% | 0.1% |  |
+| 79 | 4% | 95% |  |
+| 80 | 7% | 90% |  |
+| 81 | 9% | 84% |  |
+| 82 | 11% | 74% |  |
+| 83 | 13% | 63% |  |
+| 84 | 13% | 50% | Median |
+| 85 | 11% | 37% |  |
+| 86 | 9% | 26% |  |
+| 87 | 7% | 17% |  |
+| 88 | 4% | 10% |  |
+| 89 | 3% | 6% |  |
+| 90 | 2% | 3% |  |
+| 91 | 0.9% | 2% |  |
+| 92 | 0.4% | 0.7% |  |
+| 93 | 0.2% | 0.3% |  |
+| 94 | 0.1% | 0.1% |  |
 | 95 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 69 | 65–74 | 64–75 | 63–76 | 61–78 |
+| Renew Europe | EU | 77 | 69 | 65–74 | 63–75 | 63–76 | 61–78 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 10–18 | 8–19 |
 | Democraten 66 | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -28,29 +28,27 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2–3 |
+| Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 1–3 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Les Engagés | BE-FRC | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Les Engagés | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
+| Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
-| Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -61,11 +59,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne | DK | | 0 | 0 | 0 | 0 | 0 |
 | Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
-| Open Vlaamse Liberalen en Democraten | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska 2050 | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
+| Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -83,25 +80,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
 | 60 | 0.2% | 99.9% |  |
-| 61 | 0.5% | 99.7% |  |
-| 62 | 1.3% | 99.2% |  |
+| 61 | 0.6% | 99.7% |  |
+| 62 | 1.4% | 99.1% |  |
 | 63 | 3% | 98% |  |
 | 64 | 5% | 95% |  |
-| 65 | 7% | 91% |  |
-| 66 | 9% | 84% |  |
-| 67 | 10% | 76% |  |
-| 68 | 10% | 66% |  |
-| 69 | 10% | 56% | Median |
+| 65 | 7% | 90% |  |
+| 66 | 9% | 83% |  |
+| 67 | 10% | 75% |  |
+| 68 | 10% | 65% |  |
+| 69 | 10% | 55% | Median |
 | 70 | 10% | 45% |  |
 | 71 | 9% | 35% |  |
-| 72 | 8% | 26% |  |
+| 72 | 8% | 25% |  |
 | 73 | 6% | 17% |  |
-| 74 | 5% | 11% |  |
+| 74 | 4% | 11% |  |
 | 75 | 3% | 6% |  |
 | 76 | 2% | 4% |  |
-| 77 | 0.9% | 2% | Last Result |
-| 78 | 0.5% | 0.9% |  |
-| 79 | 0.2% | 0.4% |  |
+| 77 | 1.0% | 2% | Last Result |
+| 78 | 0.5% | 1.0% |  |
+| 79 | 0.3% | 0.5% |  |
 | 80 | 0.1% | 0.2% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
