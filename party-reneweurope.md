@@ -21,16 +21,16 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Renew Europe | EU | 77 | 69 | 65–74 | 64–75 | 63–76 | 61–78 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 10–18 | 8–19 |
 | Democraten 66 | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 1–3 |
@@ -80,26 +80,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 60 | 0.1% | 100% |  |
 | 61 | 0.4% | 99.8% |  |
-| 62 | 0.9% | 99.5% |  |
-| 63 | 2% | 98.5% |  |
-| 64 | 4% | 97% |  |
-| 65 | 6% | 93% |  |
-| 66 | 8% | 87% |  |
-| 67 | 9% | 79% |  |
-| 68 | 10% | 70% |  |
-| 69 | 10% | 59% | Median |
-| 70 | 10% | 49% |  |
-| 71 | 10% | 39% |  |
-| 72 | 9% | 29% |  |
-| 73 | 7% | 20% |  |
-| 74 | 5% | 13% |  |
-| 75 | 3% | 8% |  |
+| 62 | 1.0% | 99.4% |  |
+| 63 | 2% | 98% |  |
+| 64 | 4% | 96% |  |
+| 65 | 6% | 92% |  |
+| 66 | 8% | 86% |  |
+| 67 | 10% | 78% |  |
+| 68 | 10% | 69% |  |
+| 69 | 10% | 58% | Median |
+| 70 | 10% | 48% |  |
+| 71 | 10% | 38% |  |
+| 72 | 9% | 28% |  |
+| 73 | 7% | 19% |  |
+| 74 | 5% | 12% |  |
+| 75 | 3% | 7% |  |
 | 76 | 2% | 4% |  |
-| 77 | 1.1% | 2% | Last Result |
-| 78 | 0.6% | 1.1% |  |
-| 79 | 0.3% | 0.5% |  |
+| 77 | 1.0% | 2% | Last Result |
+| 78 | 0.5% | 1.0% |  |
+| 79 | 0.3% | 0.4% |  |
 | 80 | 0.1% | 0.2% |  |
-| 81 | 0.1% | 0.1% |  |
+| 81 | 0% | 0.1% |  |
 | 82 | 0% | 0% |  |
 
 
