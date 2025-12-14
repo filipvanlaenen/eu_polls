@@ -22,7 +22,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Alternative für Deutschland | DE | | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | Nowa Nadzieja | PL | | 4 | 2–5 | 2–6 | 2–6 | 0–6 |
 | Reconquête | FR | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
-| Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Възраждане | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Forum voor Democratie | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 2 | 2 | 2 | 2 |

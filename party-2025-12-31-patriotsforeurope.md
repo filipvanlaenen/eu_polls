@@ -38,7 +38,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -60,7 +60,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 4% | 95% |  |
 | 94 | 5% | 91% |  |
 | 95 | 7% | 85% |  |
-| 96 | 8% | 79% |  |
+| 96 | 8% | 78% |  |
 | 97 | 9% | 70% |  |
 | 98 | 10% | 61% |  |
 | 99 | 10% | 51% | Median |

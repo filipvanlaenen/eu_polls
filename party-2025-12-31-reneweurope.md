@@ -34,7 +34,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 1–3 |
-| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -82,16 +82,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 0.2% | 99.9% |  |
 | 61 | 0.5% | 99.8% |  |
 | 62 | 1.2% | 99.3% |  |
-| 63 | 3% | 98% |  |
+| 63 | 2% | 98% |  |
 | 64 | 4% | 96% |  |
 | 65 | 7% | 91% |  |
-| 66 | 9% | 84% |  |
+| 66 | 9% | 85% |  |
 | 67 | 10% | 76% |  |
 | 68 | 10% | 66% |  |
 | 69 | 10% | 56% | Median |
-| 70 | 10% | 45% |  |
+| 70 | 10% | 46% |  |
 | 71 | 10% | 35% |  |
-| 72 | 8% | 25% |  |
+| 72 | 8% | 26% |  |
 | 73 | 7% | 17% |  |
 | 74 | 5% | 11% |  |
 | 75 | 3% | 6% |  |
