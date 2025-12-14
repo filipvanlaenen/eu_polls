@@ -18,19 +18,19 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 69 | 65–74 | 63–75 | 63–76 | 61–78 |
+| Renew Europe | EU | 77 | 69 | 65–74 | 64–75 | 63–76 | 61–78 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 10–17 | 10–17 | 10–18 | 8–19 |
 | Democraten 66 | NL | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Progresívne Slovensko | SK | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 1–3 |
@@ -44,7 +44,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -52,7 +52,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -78,26 +78,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.2% | 99.9% |  |
-| 61 | 0.6% | 99.7% |  |
-| 62 | 1.4% | 99.1% |  |
-| 63 | 3% | 98% |  |
-| 64 | 5% | 95% |  |
-| 65 | 7% | 90% |  |
-| 66 | 9% | 83% |  |
-| 67 | 10% | 75% |  |
-| 68 | 10% | 65% |  |
-| 69 | 10% | 55% | Median |
-| 70 | 10% | 45% |  |
-| 71 | 9% | 35% |  |
-| 72 | 8% | 25% |  |
-| 73 | 6% | 17% |  |
-| 74 | 4% | 11% |  |
-| 75 | 3% | 6% |  |
+| 60 | 0.1% | 100% |  |
+| 61 | 0.4% | 99.8% |  |
+| 62 | 0.9% | 99.5% |  |
+| 63 | 2% | 98.5% |  |
+| 64 | 4% | 97% |  |
+| 65 | 6% | 93% |  |
+| 66 | 8% | 87% |  |
+| 67 | 9% | 79% |  |
+| 68 | 10% | 70% |  |
+| 69 | 10% | 59% | Median |
+| 70 | 10% | 49% |  |
+| 71 | 10% | 39% |  |
+| 72 | 9% | 29% |  |
+| 73 | 7% | 20% |  |
+| 74 | 5% | 13% |  |
+| 75 | 3% | 8% |  |
 | 76 | 2% | 4% |  |
-| 77 | 1.0% | 2% | Last Result |
-| 78 | 0.5% | 1.0% |  |
+| 77 | 1.1% | 2% | Last Result |
+| 78 | 0.6% | 1.1% |  |
 | 79 | 0.3% | 0.5% |  |
 | 80 | 0.1% | 0.2% |  |
 | 81 | 0.1% | 0.1% |  |

@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, IE, IT, LU, LV, MT, NL, SI
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, IE, IT, LU, LV, MT, NL, SI, SK
 
 ## Seats
 
@@ -22,7 +22,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Politiskā kustība „Bez partijām“ [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -39,6 +39,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -60,9 +61,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 16% | 97% | Last Result |
 | 2 | 34% | 81% | Median |
 | 3 | 30% | 47% |  |
-| 4 | 11% | 17% |  |
-| 5 | 2% | 6% |  |
-| 6 | 1.0% | 4% |  |
+| 4 | 11% | 16% |  |
+| 5 | 2% | 5% |  |
+| 6 | 1.0% | 3% |  |
 | 7 | 1.2% | 3% |  |
 | 8 | 0.9% | 1.3% |  |
 | 9 | 0.3% | 0.4% |  |
