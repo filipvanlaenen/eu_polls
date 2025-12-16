@@ -20,18 +20,18 @@ At least one member in **23 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 124 | 119–130 | 117–131 | 116–132 | 113–135 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
-| Partito Democratico | IT | | 19 | 17–20 | 16–20 | 16–20 | 15–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
+| Partito Democratico | IT | | 19 | 17–20 | 16–20 | 16–21 | 15–21 |
+| Sozialdemokratische Partei Deutschlands | DE | | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
 | Parti socialiste–Place Publique | FR | | 10 | 7–13 | 6–13 | 6–13 | 6–14 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Partido Socialista | PT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nowa Lewica | PL | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Socialdemokraterne | DK | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Parti Socialiste | BE-FRC | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Socialdemokraterne | DK | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -42,7 +42,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Δημοκρατικό Κόμμα | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | БСП – обединена левица | BG | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Demokratikus Koalíció | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -63,8 +63,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 0.1% | 99.9% |  |
 | 112 | 0.2% | 99.9% |  |
 | 113 | 0.3% | 99.7% |  |
-| 114 | 0.6% | 99.4% |  |
-| 115 | 1.0% | 98.8% |  |
+| 114 | 0.6% | 99.3% |  |
+| 115 | 1.0% | 98.7% |  |
 | 116 | 2% | 98% |  |
 | 117 | 2% | 96% |  |
 | 118 | 3% | 94% |  |
@@ -73,16 +73,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 121 | 7% | 80% |  |
 | 122 | 8% | 73% |  |
 | 123 | 9% | 65% |  |
-| 124 | 9% | 57% | Median |
-| 125 | 9% | 48% |  |
-| 126 | 8% | 39% |  |
+| 124 | 9% | 56% | Median |
+| 125 | 9% | 47% |  |
+| 126 | 8% | 38% |  |
 | 127 | 8% | 30% |  |
-| 128 | 7% | 23% |  |
+| 128 | 6% | 22% |  |
 | 129 | 5% | 16% |  |
-| 130 | 4% | 11% |  |
+| 130 | 4% | 10% |  |
 | 131 | 3% | 7% |  |
 | 132 | 2% | 4% |  |
-| 133 | 1.1% | 2% |  |
+| 133 | 1.0% | 2% |  |
 | 134 | 0.6% | 1.1% |  |
 | 135 | 0.3% | 0.5% |  |
 | 136 | 0.1% | 0.2% | Last Result |

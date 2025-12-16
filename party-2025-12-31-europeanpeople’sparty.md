@@ -26,29 +26,29 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 10 | 5–12 | 5–12 | 5–13 | 0–13 |
 | Aliança Democrática | PT | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Partidul Național Liberal | RO | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Christen-Democratisch Appèl | NL | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–5 | 3–5 |
+| Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 1–2 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 2–3 | 1–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2 | 2 | 2 |
 | TOP 09 | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -103,18 +103,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 172 | 6% | 77% |  |
 | 173 | 6% | 72% |  |
 | 174 | 7% | 65% |  |
-| 175 | 7% | 58% |  |
+| 175 | 7% | 59% |  |
 | 176 | 7% | 51% | Median |
 | 177 | 7% | 44% |  |
-| 178 | 7% | 36% |  |
+| 178 | 7% | 37% |  |
 | 179 | 6% | 29% |  |
 | 180 | 6% | 23% |  |
 | 181 | 5% | 17% |  |
-| 182 | 4% | 12% |  |
+| 182 | 4% | 13% |  |
 | 183 | 3% | 9% |  |
 | 184 | 2% | 6% |  |
-| 185 | 1.4% | 4% |  |
-| 186 | 0.9% | 2% |  |
+| 185 | 1.5% | 4% |  |
+| 186 | 1.0% | 2% |  |
 | 187 | 0.6% | 1.3% |  |
 | 188 | 0.3% | 0.7% | Last Result |
 | 189 | 0.2% | 0.4% |  |
