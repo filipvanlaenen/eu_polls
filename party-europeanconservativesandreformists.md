@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 83 | 80–88 | 79–89 | 78–90 | 76–92 |
+| European Conservatives and Reformists | EU | 78 | 83 | 80–87 | 79–89 | 78–90 | 76–92 |
 | Fratelli d’Italia | IT | | 26 | 23–27 | 22–27 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 16 | 15–19 | 15–20 | 14–22 | 14–22 |
 | Alianța pentru Unirea Românilor | RO | | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
@@ -27,7 +27,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 3 | 3 | 3 | 3 | 3 |
 | Juiste Antwoord 2021 | NL | | 2 | 2 | 2 | 2 | 2–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,17 +61,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 3% | 98% | Last Result |
 | 79 | 4% | 95% |  |
 | 80 | 7% | 91% |  |
-| 81 | 9% | 84% |  |
-| 82 | 12% | 75% |  |
+| 81 | 10% | 84% |  |
+| 82 | 12% | 74% |  |
 | 83 | 13% | 63% | Median |
-| 84 | 13% | 50% |  |
-| 85 | 11% | 37% |  |
-| 86 | 9% | 26% |  |
-| 87 | 7% | 17% |  |
+| 84 | 13% | 49% |  |
+| 85 | 11% | 36% |  |
+| 86 | 9% | 25% |  |
+| 87 | 6% | 16% |  |
 | 88 | 4% | 10% |  |
-| 89 | 3% | 6% |  |
-| 90 | 2% | 3% |  |
-| 91 | 0.8% | 2% |  |
+| 89 | 3% | 5% |  |
+| 90 | 1.5% | 3% |  |
+| 91 | 0.8% | 1.4% |  |
 | 92 | 0.4% | 0.7% |  |
 | 93 | 0.2% | 0.3% |  |
 | 94 | 0.1% | 0.1% |  |
