@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **176** seats (-12 seats)
+Current median: **175** seats (-13 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 176 | 168–182 | 166–184 | 164–185 | 161–188 |
+| European People’s Party | EU | 188 | 175 | 168–182 | 166–183 | 164–185 | 160–188 |
 | Partido Popular | ES | | 23 | 16–24 | 16–25 | 16–25 | 15–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 16–21 | 16–21 | 15–23 |
-| Platforma Obywatelska | PL | | 19 | 17–22 | 17–23 | 17–23 | 16–23 |
+| Platforma Obywatelska | PL | | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–12 | 8–12 | 8–12 |
 | Les Républicains | FR | | 10 | 5–12 | 5–12 | 5–13 | 0–13 |
 | Aliança Democrática | PT | | 8 | 6–9 | 6–9 | 5–10 | 5–10 |
@@ -33,11 +33,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Hrvatska demokratska zajednica | HR | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–4 | 3–5 |
-| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
+| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 1–2 |
@@ -91,34 +91,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.2% | 99.7% |  |
 | 161 | 0.3% | 99.5% |  |
 | 162 | 0.4% | 99.2% |  |
-| 163 | 0.6% | 98.8% |  |
+| 163 | 0.6% | 98.7% |  |
 | 164 | 0.9% | 98% |  |
 | 165 | 1.2% | 97% |  |
 | 166 | 2% | 96% |  |
 | 167 | 2% | 94% |  |
 | 168 | 3% | 92% |  |
-| 169 | 3% | 90% |  |
+| 169 | 3% | 89% |  |
 | 170 | 4% | 86% |  |
 | 171 | 5% | 82% |  |
 | 172 | 6% | 77% |  |
-| 173 | 6% | 72% |  |
-| 174 | 7% | 66% |  |
-| 175 | 7% | 59% |  |
-| 176 | 7% | 52% | Median |
-| 177 | 7% | 44% |  |
-| 178 | 7% | 37% |  |
-| 179 | 6% | 30% |  |
-| 180 | 6% | 23% |  |
-| 181 | 5% | 18% |  |
-| 182 | 4% | 13% |  |
-| 183 | 3% | 9% |  |
-| 184 | 2% | 6% |  |
-| 185 | 1.5% | 4% |  |
-| 186 | 1.0% | 2% |  |
-| 187 | 0.6% | 1.3% |  |
-| 188 | 0.3% | 0.7% | Last Result |
-| 189 | 0.2% | 0.4% |  |
-| 190 | 0.1% | 0.2% |  |
+| 173 | 6% | 71% |  |
+| 174 | 7% | 64% |  |
+| 175 | 7% | 57% | Median |
+| 176 | 8% | 50% |  |
+| 177 | 7% | 42% |  |
+| 178 | 7% | 35% |  |
+| 179 | 6% | 28% |  |
+| 180 | 6% | 21% |  |
+| 181 | 5% | 16% |  |
+| 182 | 4% | 11% |  |
+| 183 | 3% | 8% |  |
+| 184 | 2% | 5% |  |
+| 185 | 1.3% | 3% |  |
+| 186 | 0.8% | 2% |  |
+| 187 | 0.5% | 1.0% |  |
+| 188 | 0.3% | 0.5% | Last Result |
+| 189 | 0.1% | 0.3% |  |
+| 190 | 0.1% | 0.1% |  |
 | 191 | 0% | 0.1% |  |
 | 192 | 0% | 0% |  |
 

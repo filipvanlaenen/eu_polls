@@ -24,7 +24,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | ANO 2011 | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
 | Chega | PT | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Partij voor de Vrijheid | NL | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 1–4 | 0–5 |
@@ -37,7 +37,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -53,29 +53,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0% | 100% |  |
 | 87 | 0.1% | 100% |  |
 | 88 | 0.2% | 99.9% |  |
-| 89 | 0.4% | 99.7% |  |
-| 90 | 0.9% | 99.3% |  |
+| 89 | 0.5% | 99.7% |  |
+| 90 | 1.0% | 99.2% |  |
 | 91 | 2% | 98% |  |
-| 92 | 3% | 97% |  |
+| 92 | 3% | 96% |  |
 | 93 | 4% | 94% |  |
-| 94 | 6% | 90% |  |
-| 95 | 7% | 84% |  |
-| 96 | 9% | 77% |  |
-| 97 | 9% | 68% |  |
-| 98 | 10% | 59% | Median |
-| 99 | 9% | 49% |  |
-| 100 | 9% | 40% |  |
-| 101 | 8% | 31% |  |
-| 102 | 6% | 23% |  |
-| 103 | 5% | 17% |  |
-| 104 | 4% | 12% |  |
-| 105 | 3% | 8% |  |
+| 94 | 6% | 89% |  |
+| 95 | 8% | 83% |  |
+| 96 | 9% | 76% |  |
+| 97 | 10% | 67% |  |
+| 98 | 10% | 57% | Median |
+| 99 | 9% | 48% |  |
+| 100 | 9% | 38% |  |
+| 101 | 8% | 30% |  |
+| 102 | 6% | 22% |  |
+| 103 | 5% | 16% |  |
+| 104 | 4% | 11% |  |
+| 105 | 3% | 7% |  |
 | 106 | 2% | 5% |  |
-| 107 | 1.3% | 3% |  |
+| 107 | 1.2% | 3% |  |
 | 108 | 0.8% | 2% |  |
-| 109 | 0.5% | 0.9% |  |
+| 109 | 0.4% | 0.8% |  |
 | 110 | 0.2% | 0.4% |  |
-| 111 | 0.1% | 0.2% |  |
+| 111 | 0.1% | 0.1% |  |
 | 112 | 0% | 0.1% |  |
 | 113 | 0% | 0% |  |
 
