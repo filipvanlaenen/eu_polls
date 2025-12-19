@@ -47,7 +47,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
@@ -62,7 +62,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 23% | 94% | Last Result |
 | 2 | 34% | 71% | Median |
 | 3 | 23% | 37% |  |
-| 4 | 8% | 14% |  |
+| 4 | 8% | 13% |  |
 | 5 | 2% | 5% |  |
 | 6 | 1.2% | 3% |  |
 | 7 | 1.1% | 2% |  |
