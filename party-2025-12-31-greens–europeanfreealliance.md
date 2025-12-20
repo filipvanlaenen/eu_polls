@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-15 seats)
+Current median: **39** seats (-14 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 34–45 | 32–47 |
+| Greens–European Free Alliance | EU | 53 | 39 | 35–44 | 35–45 | 34–46 | 33–48 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | Europa Verde | IT | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -42,7 +42,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
-| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
+| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -68,25 +68,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.5% | 99.9% |  |
-| 33 | 2% | 99.4% |  |
-| 34 | 4% | 98% |  |
-| 35 | 9% | 93% |  |
-| 36 | 13% | 85% |  |
-| 37 | 16% | 71% |  |
-| 38 | 16% | 55% | Median |
-| 39 | 13% | 40% |  |
-| 40 | 9% | 27% |  |
-| 41 | 6% | 18% |  |
-| 42 | 4% | 12% |  |
-| 43 | 3% | 7% |  |
-| 44 | 2% | 5% |  |
-| 45 | 1.3% | 3% |  |
-| 46 | 0.7% | 1.2% |  |
-| 47 | 0.3% | 0.5% |  |
-| 48 | 0.1% | 0.2% |  |
-| 49 | 0% | 0.1% |  |
-| 50 | 0% | 0% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 1.1% | 99.6% |  |
+| 34 | 3% | 98% |  |
+| 35 | 6% | 95% |  |
+| 36 | 9% | 90% |  |
+| 37 | 11% | 81% |  |
+| 38 | 11% | 70% |  |
+| 39 | 10% | 59% | Median |
+| 40 | 9% | 48% |  |
+| 41 | 9% | 39% |  |
+| 42 | 8% | 30% |  |
+| 43 | 8% | 22% |  |
+| 44 | 6% | 14% |  |
+| 45 | 4% | 8% |  |
+| 46 | 2% | 4% |  |
+| 47 | 1.2% | 2% |  |
+| 48 | 0.5% | 0.7% |  |
+| 49 | 0.2% | 0.2% |  |
+| 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |

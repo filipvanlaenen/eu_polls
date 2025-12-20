@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 2 | 1–4 | 0–5 | 0–6 | 0–8 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–4 | 0–4 | 0–4 | 0–6 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Politiskā kustība „Bez partijām“ [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Морал, Единство, Чест [BG] (*) | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -32,7 +32,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| La France humaniste [FR] (*) | FR | | 0 | 0 | 0–4 | 0–5 | 0–5 |
+| La France humaniste [FR] (*) | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -60,15 +60,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% |  |
 | 1 | 24% | 94% | Last Result |
-| 2 | 34% | 71% | Median |
-| 3 | 23% | 37% |  |
-| 4 | 8% | 13% |  |
-| 5 | 2% | 5% |  |
-| 6 | 1.2% | 3% |  |
-| 7 | 1.1% | 2% |  |
-| 8 | 0.7% | 1.0% |  |
-| 9 | 0.2% | 0.3% |  |
-| 10 | 0% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 2 | 35% | 70% | Median |
+| 3 | 24% | 34% |  |
+| 4 | 8% | 10% |  |
+| 5 | 1.5% | 2% |  |
+| 6 | 0.2% | 0.6% |  |
+| 7 | 0.2% | 0.3% |  |
+| 8 | 0.1% | 0.2% |  |
+| 9 | 0% | 0% |  |
 
 
