@@ -24,7 +24,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | ANO 2011 | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Chega | PT | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Partij voor de Vrijheid | NL | | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 1–4 | 0–5 |
