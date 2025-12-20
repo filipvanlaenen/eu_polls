@@ -38,7 +38,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1 |
 | Open Vlaamse Liberalen en Democraten | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -50,6 +50,9 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,7 +66,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -80,17 +83,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0.1% | 100% |  |
 | 62 | 0.3% | 99.9% |  |
-| 63 | 0.7% | 99.6% |  |
-| 64 | 2% | 98.9% |  |
+| 63 | 0.8% | 99.5% |  |
+| 64 | 2% | 98.7% |  |
 | 65 | 3% | 97% |  |
 | 66 | 5% | 94% |  |
-| 67 | 7% | 90% |  |
-| 68 | 9% | 83% |  |
-| 69 | 11% | 74% |  |
-| 70 | 12% | 63% |  |
-| 71 | 12% | 51% | Median |
-| 72 | 11% | 40% |  |
-| 73 | 9% | 29% |  |
+| 67 | 7% | 89% |  |
+| 68 | 9% | 81% |  |
+| 69 | 11% | 72% |  |
+| 70 | 12% | 62% |  |
+| 71 | 12% | 50% | Median |
+| 72 | 11% | 39% |  |
+| 73 | 9% | 28% |  |
 | 74 | 7% | 19% |  |
 | 75 | 5% | 12% |  |
 | 76 | 3% | 7% |  |

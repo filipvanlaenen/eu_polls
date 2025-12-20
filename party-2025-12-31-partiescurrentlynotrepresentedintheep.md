@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **20 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, IE, IT, LT, LU, LV, MT, NL, SI, SK
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, SI, SK
 
 ## Seats
 
@@ -29,6 +29,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -37,6 +39,8 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -61,7 +65,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 6% | 100% |  |
 | 1 | 24% | 94% | Last Result |
 | 2 | 35% | 70% | Median |
-| 3 | 24% | 34% |  |
+| 3 | 24% | 35% |  |
 | 4 | 8% | 10% |  |
 | 5 | 1.5% | 2% |  |
 | 6 | 0.2% | 0.6% |  |
