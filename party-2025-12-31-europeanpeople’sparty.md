@@ -50,7 +50,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 1 | 1 | 1 | 1 | 1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -66,7 +66,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Szövetség | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -89,34 +89,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0.1% | 99.9% |  |
 | 159 | 0.1% | 99.8% |  |
 | 160 | 0.2% | 99.6% |  |
-| 161 | 0.4% | 99.4% |  |
+| 161 | 0.3% | 99.4% |  |
 | 162 | 0.5% | 99.1% |  |
-| 163 | 0.7% | 98.5% |  |
+| 163 | 0.7% | 98.6% |  |
 | 164 | 1.0% | 98% |  |
 | 165 | 1.4% | 97% |  |
 | 166 | 2% | 95% |  |
-| 167 | 2% | 93% |  |
+| 167 | 2% | 94% |  |
 | 168 | 3% | 91% |  |
 | 169 | 4% | 88% |  |
 | 170 | 5% | 84% |  |
 | 171 | 5% | 80% |  |
-| 172 | 6% | 74% |  |
+| 172 | 6% | 75% |  |
 | 173 | 7% | 68% |  |
-| 174 | 7% | 61% |  |
+| 174 | 7% | 62% |  |
 | 175 | 8% | 54% | Median |
-| 176 | 8% | 46% |  |
+| 176 | 8% | 47% |  |
 | 177 | 7% | 39% |  |
-| 178 | 7% | 31% |  |
+| 178 | 7% | 32% |  |
 | 179 | 6% | 25% |  |
-| 180 | 5% | 18% |  |
-| 181 | 4% | 13% |  |
+| 180 | 5% | 19% |  |
+| 181 | 4% | 14% |  |
 | 182 | 3% | 9% |  |
 | 183 | 2% | 6% |  |
 | 184 | 2% | 4% |  |
 | 185 | 1.0% | 2% |  |
 | 186 | 0.6% | 1.3% |  |
 | 187 | 0.3% | 0.7% |  |
-| 188 | 0.2% | 0.3% | Last Result |
+| 188 | 0.2% | 0.4% | Last Result |
 | 189 | 0.1% | 0.2% |  |
 | 190 | 0% | 0.1% |  |
 | 191 | 0% | 0% |  |
