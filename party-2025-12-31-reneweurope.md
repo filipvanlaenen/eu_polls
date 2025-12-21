@@ -22,14 +22,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
 | Democraten 66 | NL | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Freie Demokratische Partei | DE | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -84,18 +84,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.1% | 100% |  |
 | 62 | 0.3% | 99.9% |  |
 | 63 | 0.7% | 99.6% |  |
-| 64 | 2% | 98.8% |  |
+| 64 | 2% | 98.9% |  |
 | 65 | 3% | 97% |  |
 | 66 | 5% | 94% |  |
 | 67 | 7% | 89% |  |
 | 68 | 9% | 82% |  |
 | 69 | 11% | 73% |  |
 | 70 | 11% | 63% |  |
-| 71 | 12% | 51% | Median |
+| 71 | 12% | 52% | Median |
 | 72 | 11% | 40% |  |
 | 73 | 9% | 29% |  |
 | 74 | 7% | 20% |  |
-| 75 | 5% | 12% |  |
+| 75 | 5% | 13% |  |
 | 76 | 3% | 7% |  |
 | 77 | 2% | 4% | Last Result |
 | 78 | 1.1% | 2% |  |
