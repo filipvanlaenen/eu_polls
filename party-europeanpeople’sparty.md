@@ -34,14 +34,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4–5 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Liberal Alliance | DK | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Liberal Alliance | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2 | 2 | 2 |
 | TOP 09 | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -84,8 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 155 | 0% | 100% |  |
-| 156 | 0% | 99.9% |  |
+| 156 | 0% | 100% |  |
 | 157 | 0.1% | 99.9% |  |
 | 158 | 0.1% | 99.8% |  |
 | 159 | 0.2% | 99.7% |  |
@@ -103,7 +102,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 171 | 7% | 72% |  |
 | 172 | 7% | 66% |  |
 | 173 | 8% | 58% |  |
-| 174 | 8% | 50% | Median |
+| 174 | 8% | 51% | Median |
 | 175 | 8% | 43% |  |
 | 176 | 7% | 35% |  |
 | 177 | 6% | 28% |  |
