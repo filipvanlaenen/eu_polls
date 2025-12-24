@@ -45,7 +45,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | БСП – обединена левица | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Demokratikus Koalíció | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokratikus Koalíció | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 0.5% | 99.4% |  |
 | 115 | 0.9% | 98.9% |  |
 | 116 | 1.5% | 98% |  |
-| 117 | 2% | 97% |  |
+| 117 | 2% | 96% |  |
 | 118 | 3% | 94% |  |
 | 119 | 4% | 91% |  |
 | 120 | 6% | 87% |  |
@@ -74,16 +74,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 122 | 8% | 74% |  |
 | 123 | 9% | 66% |  |
 | 124 | 9% | 57% | Median |
-| 125 | 9% | 48% |  |
+| 125 | 9% | 47% |  |
 | 126 | 9% | 38% |  |
 | 127 | 8% | 29% |  |
 | 128 | 7% | 21% |  |
-| 129 | 5% | 15% |  |
-| 130 | 4% | 10% |  |
-| 131 | 3% | 6% |  |
-| 132 | 2% | 3% |  |
+| 129 | 5% | 14% |  |
+| 130 | 4% | 9% |  |
+| 131 | 2% | 6% |  |
+| 132 | 1.5% | 3% |  |
 | 133 | 0.9% | 2% |  |
-| 134 | 0.5% | 0.9% |  |
+| 134 | 0.4% | 0.8% |  |
 | 135 | 0.2% | 0.4% |  |
 | 136 | 0.1% | 0.2% | Last Result |
 | 137 | 0% | 0.1% |  |

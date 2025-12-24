@@ -20,12 +20,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 56 | 52–61 | 51–62 | 50–63 | 49–65 |
 | La France insoumise | FR | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
-| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Podemos | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0.1% | 100% |  |
 | 48 | 0.3% | 99.9% |  |
 | 49 | 0.7% | 99.6% |  |
-| 50 | 2% | 99.0% |  |
+| 50 | 2% | 98.9% |  |
 | 51 | 3% | 97% |  |
-| 52 | 5% | 95% |  |
+| 52 | 5% | 94% |  |
 | 53 | 7% | 90% |  |
 | 54 | 10% | 82% |  |
 | 55 | 11% | 73% |  |
@@ -82,7 +82,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 2% | 4% |  |
 | 64 | 1.0% | 2% |  |
 | 65 | 0.5% | 0.8% |  |
-| 66 | 0.2% | 0.4% |  |
+| 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 
