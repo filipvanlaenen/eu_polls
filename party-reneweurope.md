@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
+| Renew Europe | EU | 77 | 71 | 67–75 | 66–76 | 65–77 | 63–80 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
 | Democraten 66 | NL | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -45,7 +45,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -84,20 +84,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 0.5% | 99.7% |  |
 | 64 | 1.2% | 99.2% |  |
 | 65 | 2% | 98% |  |
-| 66 | 4% | 95% |  |
+| 66 | 4% | 96% |  |
 | 67 | 6% | 91% |  |
 | 68 | 8% | 85% |  |
 | 69 | 10% | 77% |  |
-| 70 | 11% | 66% |  |
-| 71 | 12% | 55% | Median |
-| 72 | 11% | 43% |  |
-| 73 | 10% | 32% |  |
-| 74 | 8% | 22% |  |
-| 75 | 6% | 14% |  |
-| 76 | 4% | 8% |  |
+| 70 | 11% | 67% |  |
+| 71 | 12% | 56% | Median |
+| 72 | 11% | 44% |  |
+| 73 | 10% | 33% |  |
+| 74 | 8% | 23% |  |
+| 75 | 6% | 15% |  |
+| 76 | 4% | 9% |  |
 | 77 | 2% | 5% | Last Result |
-| 78 | 1.2% | 2% |  |
-| 79 | 0.6% | 1.1% |  |
+| 78 | 1.3% | 2% |  |
+| 79 | 0.6% | 1.2% |  |
 | 80 | 0.3% | 0.5% |  |
 | 81 | 0.1% | 0.2% |  |
 | 82 | 0.1% | 0.1% |  |
