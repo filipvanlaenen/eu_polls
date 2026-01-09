@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (+10 seats)
+Current median: **57** seats (+11 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 56 | 52–60 | 51–62 | 50–63 | 48–65 |
+| European United Left–Nordic Green Left | EU | 46 | 57 | 52–61 | 51–62 | 50–63 | 49–65 |
 | La France insoumise | FR | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
-| Die Linke | DE | | 10 | 8–11 | 8–12 | 8–12 | 7–12 |
+| Die Linke | DE | | 10 | 9–12 | 8–12 | 8–12 | 8–12 |
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -31,8 +31,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,27 +62,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
-| 47 | 0.1% | 99.9% |  |
-| 48 | 0.4% | 99.8% |  |
-| 49 | 0.9% | 99.4% |  |
-| 50 | 2% | 98% |  |
-| 51 | 4% | 97% |  |
-| 52 | 6% | 93% |  |
-| 53 | 8% | 87% |  |
-| 54 | 10% | 79% |  |
-| 55 | 12% | 69% |  |
-| 56 | 12% | 58% | Median |
-| 57 | 12% | 46% |  |
-| 58 | 10% | 34% |  |
-| 59 | 8% | 24% |  |
-| 60 | 6% | 16% |  |
-| 61 | 4% | 10% |  |
-| 62 | 3% | 6% |  |
-| 63 | 2% | 3% |  |
-| 64 | 0.8% | 1.4% |  |
-| 65 | 0.4% | 0.6% |  |
-| 66 | 0.2% | 0.3% |  |
-| 67 | 0.1% | 0.1% |  |
-| 68 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.3% | 99.9% |  |
+| 49 | 0.7% | 99.6% |  |
+| 50 | 1.5% | 98.9% |  |
+| 51 | 3% | 97% |  |
+| 52 | 5% | 95% |  |
+| 53 | 7% | 90% |  |
+| 54 | 9% | 83% |  |
+| 55 | 11% | 74% |  |
+| 56 | 12% | 63% |  |
+| 57 | 12% | 51% | Median |
+| 58 | 11% | 39% |  |
+| 59 | 9% | 28% |  |
+| 60 | 7% | 19% |  |
+| 61 | 5% | 12% |  |
+| 62 | 3% | 7% |  |
+| 63 | 2% | 4% |  |
+| 64 | 1.1% | 2% |  |
+| 65 | 0.6% | 1.0% |  |
+| 66 | 0.3% | 0.4% |  |
+| 67 | 0.1% | 0.2% |  |
+| 68 | 0% | 0.1% |  |
+| 69 | 0% | 0% |  |
 
 

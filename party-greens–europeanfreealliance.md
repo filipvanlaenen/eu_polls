@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-14 seats)
+Current median: **40** seats (-13 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 35–44 | 35–45 | 34–46 | 32–48 |
-| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
+| Greens–European Free Alliance | EU | 53 | 40 | 36–44 | 35–46 | 34–46 | 32–48 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–14 | 10–14 | 9–14 |
 | Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 0–5 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -34,10 +34,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -68,23 +68,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.8% |  |
-| 33 | 1.3% | 99.4% |  |
+| 32 | 0.4% | 99.9% |  |
+| 33 | 1.2% | 99.5% |  |
 | 34 | 3% | 98% |  |
-| 35 | 6% | 95% |  |
+| 35 | 5% | 96% |  |
 | 36 | 8% | 90% |  |
-| 37 | 10% | 81% |  |
-| 38 | 11% | 71% |  |
-| 39 | 10% | 60% | Median |
-| 40 | 9% | 49% |  |
-| 41 | 9% | 40% |  |
-| 42 | 8% | 31% |  |
-| 43 | 8% | 23% |  |
-| 44 | 6% | 15% |  |
-| 45 | 4% | 9% |  |
+| 37 | 10% | 82% |  |
+| 38 | 11% | 72% |  |
+| 39 | 11% | 61% |  |
+| 40 | 10% | 51% | Median |
+| 41 | 9% | 41% |  |
+| 42 | 8% | 32% |  |
+| 43 | 8% | 24% |  |
+| 44 | 6% | 16% |  |
+| 45 | 5% | 10% |  |
 | 46 | 3% | 5% |  |
-| 47 | 1.3% | 2% |  |
-| 48 | 0.6% | 0.8% |  |
+| 47 | 1.5% | 2% |  |
+| 48 | 0.6% | 1.0% |  |
 | 49 | 0.2% | 0.3% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
