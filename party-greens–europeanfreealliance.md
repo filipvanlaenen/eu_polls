@@ -43,7 +43,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 5% | 10% |  |
 | 46 | 3% | 5% |  |
 | 47 | 1.5% | 2% |  |
-| 48 | 0.6% | 1.0% |  |
+| 48 | 0.6% | 0.9% |  |
 | 49 | 0.2% | 0.3% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
