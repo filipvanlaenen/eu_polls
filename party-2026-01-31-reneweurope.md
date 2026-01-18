@@ -18,14 +18,14 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 71 | 67–75 | 65–77 | 65–78 | 63–80 |
+| Renew Europe | EU | 77 | 71 | 66–75 | 65–77 | 64–78 | 63–80 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
 | Democraten 66 | NL | | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -37,7 +37,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Venstre | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
@@ -65,7 +65,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0–3 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Δημοκρατίας | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -80,28 +80,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 61 | 0.1% | 100% |  |
-| 62 | 0.2% | 99.9% |  |
-| 63 | 0.6% | 99.6% |  |
-| 64 | 1.4% | 99.0% |  |
-| 65 | 3% | 98% |  |
-| 66 | 4% | 95% |  |
-| 67 | 6% | 91% |  |
-| 68 | 8% | 84% |  |
-| 69 | 10% | 76% |  |
-| 70 | 11% | 66% |  |
-| 71 | 11% | 55% | Median |
-| 72 | 11% | 44% |  |
-| 73 | 10% | 33% |  |
-| 74 | 8% | 23% |  |
-| 75 | 6% | 15% |  |
-| 76 | 4% | 10% |  |
-| 77 | 3% | 6% | Last Result |
-| 78 | 2% | 3% |  |
-| 79 | 0.8% | 2% |  |
+| 62 | 0.3% | 99.8% |  |
+| 63 | 0.8% | 99.5% |  |
+| 64 | 2% | 98.7% |  |
+| 65 | 3% | 97% |  |
+| 66 | 5% | 94% |  |
+| 67 | 7% | 89% |  |
+| 68 | 9% | 83% |  |
+| 69 | 10% | 74% |  |
+| 70 | 11% | 64% |  |
+| 71 | 11% | 53% | Median |
+| 72 | 11% | 42% |  |
+| 73 | 9% | 31% |  |
+| 74 | 7% | 22% |  |
+| 75 | 5% | 14% |  |
+| 76 | 4% | 9% |  |
+| 77 | 2% | 5% | Last Result |
+| 78 | 1.4% | 3% |  |
+| 79 | 0.8% | 1.4% |  |
 | 80 | 0.4% | 0.7% |  |
 | 81 | 0.2% | 0.3% |  |
 | 82 | 0.1% | 0.1% |  |
-| 83 | 0% | 0.1% |  |
-| 84 | 0% | 0% |  |
+| 83 | 0% | 0% |  |
 
 
