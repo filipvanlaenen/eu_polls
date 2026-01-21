@@ -21,14 +21,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 53 | 40 | 36–44 | 35–45 | 34–46 | 33–48 |
 | Bündnis 90/Die Grünen | DE | | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
+| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Socialistisk Folkeparti | DK | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 1–3 | 1–3 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2 | 2 | 2 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -69,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
 | 32 | 0.2% | 99.9% |  |
-| 33 | 0.9% | 99.7% |  |
-| 34 | 2% | 98.8% |  |
+| 33 | 0.8% | 99.7% |  |
+| 34 | 2% | 98.9% |  |
 | 35 | 5% | 97% |  |
 | 36 | 8% | 92% |  |
 | 37 | 11% | 84% |  |
@@ -83,9 +83,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 7% | 16% |  |
 | 45 | 5% | 10% |  |
 | 46 | 3% | 5% |  |
-| 47 | 1.4% | 2% |  |
+| 47 | 1.3% | 2% |  |
 | 48 | 0.5% | 0.8% |  |
-| 49 | 0.2% | 0.3% |  |
+| 49 | 0.2% | 0.2% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
