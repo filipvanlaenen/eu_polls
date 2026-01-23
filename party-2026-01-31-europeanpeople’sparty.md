@@ -18,17 +18,17 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 166–180 | 163–181 | 162–183 | 158–186 |
-| Partido Popular | ES | | 22 | 15–24 | 15–24 | 15–25 | 15–25 |
+| European People’s Party | EU | 188 | 173 | 166–180 | 164–181 | 162–183 | 159–186 |
+| Partido Popular | ES | | 22 | 16–24 | 15–24 | 15–25 | 15–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
 | Platforma Obywatelska | PL | | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
-| Tisztelet és Szabadság | HU | | 11 | 9–12 | 8–12 | 8–13 | 8–13 |
+| Tisztelet és Szabadság | HU | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Les Républicains | FR | | 8 | 5–11 | 5–12 | 5–12 | 0–13 |
 | Aliança Democrática | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
-| Partidul Național Liberal | RO | | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| Forza Italia | IT | | 6 | 6–8 | 5–8 | 5–9 | 4–9 |
+| Partidul Național Liberal | RO | | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Граждани за европейско развитие на България | BG | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -40,7 +40,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Starostové a nezávislí | CZ | | 2 | 2 | 2 | 2 | 2 |
 | TOP 09 | CZ | | 2 | 2 | 2 | 2 | 2 |
@@ -83,33 +83,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 154 | 0% | 100% |  |
-| 155 | 0% | 99.9% |  |
+| 155 | 0% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
-| 157 | 0.1% | 99.8% |  |
-| 158 | 0.2% | 99.7% |  |
-| 159 | 0.4% | 99.4% |  |
-| 160 | 0.6% | 99.0% |  |
-| 161 | 0.8% | 98% |  |
-| 162 | 1.1% | 98% |  |
-| 163 | 2% | 96% |  |
-| 164 | 2% | 95% |  |
-| 165 | 3% | 93% |  |
-| 166 | 3% | 90% |  |
-| 167 | 4% | 87% |  |
-| 168 | 5% | 83% |  |
-| 169 | 5% | 79% |  |
-| 170 | 6% | 73% |  |
-| 171 | 7% | 67% |  |
-| 172 | 7% | 60% |  |
-| 173 | 7% | 53% | Median |
-| 174 | 7% | 46% |  |
-| 175 | 7% | 38% |  |
-| 176 | 6% | 31% |  |
-| 177 | 6% | 25% |  |
-| 178 | 5% | 19% |  |
-| 179 | 4% | 14% |  |
-| 180 | 3% | 10% |  |
+| 157 | 0.1% | 99.9% |  |
+| 158 | 0.2% | 99.8% |  |
+| 159 | 0.3% | 99.6% |  |
+| 160 | 0.4% | 99.3% |  |
+| 161 | 0.6% | 98.9% |  |
+| 162 | 0.9% | 98% |  |
+| 163 | 1.2% | 97% |  |
+| 164 | 2% | 96% |  |
+| 165 | 2% | 95% |  |
+| 166 | 3% | 92% |  |
+| 167 | 4% | 89% |  |
+| 168 | 4% | 86% |  |
+| 169 | 5% | 81% |  |
+| 170 | 6% | 76% |  |
+| 171 | 7% | 70% |  |
+| 172 | 7% | 63% |  |
+| 173 | 8% | 56% | Median |
+| 174 | 8% | 48% |  |
+| 175 | 7% | 40% |  |
+| 176 | 7% | 33% |  |
+| 177 | 6% | 26% |  |
+| 178 | 5% | 20% |  |
+| 179 | 4% | 15% |  |
+| 180 | 3% | 11% |  |
 | 181 | 2% | 7% |  |
 | 182 | 2% | 5% |  |
 | 183 | 1.2% | 3% |  |

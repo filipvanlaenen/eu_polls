@@ -20,8 +20,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Patriots for Europe | EU | 84 | 99 | 94–104 | 93–105 | 92–107 | 90–109 |
 | Rassemblement national | FR | | 32 | 29–36 | 28–38 | 27–39 | 26–39 |
-| Vox | ES | | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
+| Vox | ES | | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
+| Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
 | ANO 2011 | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -30,10 +30,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
+| Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Motoristé sobě | CZ | | 1 | 1 | 1 | 1 | 1 |
-| Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Φωνή Λογικής | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,22 +52,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
-| 88 | 0.1% | 99.9% |  |
-| 89 | 0.3% | 99.8% |  |
-| 90 | 0.6% | 99.6% |  |
-| 91 | 1.2% | 98.9% |  |
+| 88 | 0.1% | 100% |  |
+| 89 | 0.2% | 99.9% |  |
+| 90 | 0.5% | 99.7% |  |
+| 91 | 1.1% | 99.2% |  |
 | 92 | 2% | 98% |  |
-| 93 | 4% | 95% |  |
-| 94 | 5% | 92% |  |
-| 95 | 7% | 87% |  |
-| 96 | 8% | 80% |  |
-| 97 | 10% | 71% |  |
-| 98 | 10% | 62% |  |
-| 99 | 10% | 51% | Median |
-| 100 | 10% | 41% |  |
-| 101 | 8% | 32% |  |
-| 102 | 7% | 23% |  |
-| 103 | 5% | 16% |  |
+| 93 | 3% | 96% |  |
+| 94 | 5% | 93% |  |
+| 95 | 7% | 88% |  |
+| 96 | 8% | 81% |  |
+| 97 | 10% | 73% |  |
+| 98 | 11% | 63% |  |
+| 99 | 11% | 53% | Median |
+| 100 | 10% | 42% |  |
+| 101 | 9% | 32% |  |
+| 102 | 7% | 24% |  |
+| 103 | 5% | 17% |  |
 | 104 | 4% | 11% |  |
 | 105 | 3% | 7% |  |
 | 106 | 2% | 4% |  |
@@ -76,7 +76,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 109 | 0.4% | 0.7% |  |
 | 110 | 0.2% | 0.3% |  |
 | 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0.1% |  |
-| 113 | 0% | 0% |  |
+| 112 | 0% | 0% |  |
 
 
