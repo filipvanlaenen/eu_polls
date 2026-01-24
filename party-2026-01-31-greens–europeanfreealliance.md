@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **40** seats (-13 seats)
+Current median: **39** seats (-14 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 40 | 36–45 | 35–46 | 34–46 | 33–48 |
+| Greens–European Free Alliance | EU | 53 | 39 | 36–44 | 35–45 | 34–46 | 33–48 |
 | Bündnis 90/Die Grünen | DE | | 12 | 11–13 | 10–14 | 10–14 | 9–15 |
 | Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -30,7 +30,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Česká pirátská strana | CZ | | 2 | 2 | 2 | 2 | 2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| LIVRE | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| LIVRE | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
@@ -45,13 +45,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
-| Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0 | 0 | 0 | 0 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
-| Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0–1 |
+| Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -67,26 +67,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.8% | 99.7% |  |
-| 34 | 2% | 98.9% |  |
-| 35 | 5% | 97% |  |
-| 36 | 8% | 92% |  |
-| 37 | 10% | 84% |  |
-| 38 | 11% | 74% |  |
-| 39 | 11% | 63% |  |
-| 40 | 10% | 52% | Median |
-| 41 | 9% | 42% |  |
-| 42 | 9% | 34% |  |
-| 43 | 8% | 25% |  |
-| 44 | 7% | 17% |  |
-| 45 | 5% | 10% |  |
-| 46 | 3% | 5% |  |
-| 47 | 2% | 2% |  |
-| 48 | 0.7% | 1.0% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0.1% | 0.1% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 1.0% | 99.6% |  |
+| 34 | 3% | 98.6% |  |
+| 35 | 5% | 96% |  |
+| 36 | 9% | 91% |  |
+| 37 | 11% | 82% |  |
+| 38 | 11% | 71% |  |
+| 39 | 10% | 59% | Median |
+| 40 | 9% | 49% |  |
+| 41 | 9% | 40% |  |
+| 42 | 8% | 31% |  |
+| 43 | 8% | 23% |  |
+| 44 | 6% | 15% |  |
+| 45 | 4% | 9% |  |
+| 46 | 2% | 4% |  |
+| 47 | 1.2% | 2% |  |
+| 48 | 0.5% | 0.7% |  |
+| 49 | 0.2% | 0.2% |  |
+| 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |
