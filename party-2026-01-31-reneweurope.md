@@ -18,15 +18,15 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 70 | 66–74 | 64–75 | 64–76 | 62–79 |
+| Renew Europe | EU | 77 | 70 | 66–74 | 65–75 | 64–76 | 62–79 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
 | Democraten 66 | NL | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–5 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| Uniunea Salvați România | RO | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
-| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| Gibanje Svoboda | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Продължаваме промяната | BG | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 2 |
@@ -39,12 +39,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Anders | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -80,25 +80,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
+| 60 | 0% | 100% |  |
 | 61 | 0.2% | 99.9% |  |
-| 62 | 0.6% | 99.7% |  |
-| 63 | 1.4% | 99.1% |  |
-| 64 | 3% | 98% |  |
-| 65 | 5% | 95% |  |
-| 66 | 7% | 90% |  |
-| 67 | 9% | 84% |  |
-| 68 | 10% | 75% |  |
-| 69 | 11% | 65% |  |
-| 70 | 12% | 53% | Median |
-| 71 | 11% | 42% |  |
-| 72 | 10% | 31% |  |
-| 73 | 8% | 21% |  |
-| 74 | 5% | 13% |  |
+| 62 | 0.5% | 99.8% |  |
+| 63 | 1.2% | 99.3% |  |
+| 64 | 2% | 98% |  |
+| 65 | 4% | 96% |  |
+| 66 | 6% | 91% |  |
+| 67 | 8% | 85% |  |
+| 68 | 10% | 77% |  |
+| 69 | 11% | 66% |  |
+| 70 | 12% | 55% | Median |
+| 71 | 11% | 43% |  |
+| 72 | 10% | 32% |  |
+| 73 | 8% | 22% |  |
+| 74 | 6% | 14% |  |
 | 75 | 4% | 8% |  |
-| 76 | 2% | 4% |  |
+| 76 | 2% | 5% |  |
 | 77 | 1.2% | 2% | Last Result |
-| 78 | 0.6% | 1.1% |  |
+| 78 | 0.6% | 1.2% |  |
 | 79 | 0.3% | 0.5% |  |
 | 80 | 0.1% | 0.2% |  |
 | 81 | 0.1% | 0.1% |  |

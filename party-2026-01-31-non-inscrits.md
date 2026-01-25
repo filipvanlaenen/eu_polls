@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **23** seats (-9 seats)
+Current median: **22** seats (-10 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 23 | 20–25 | 20–26 | 19–27 | 18–28 |
-| Konfederacja Korony Polskiej | PL | | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
+| Non-Inscrits | EU | 32 | 22 | 20–25 | 19–25 | 19–26 | 18–27 |
+| Konfederacja Korony Polskiej | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Движение за права и свободи – Ново начало | BG | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,7 +39,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -53,21 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0% | 100% |  |
-| 17 | 0.2% | 99.9% |  |
-| 18 | 1.0% | 99.7% |  |
-| 19 | 3% | 98.7% |  |
-| 20 | 8% | 95% |  |
-| 21 | 14% | 87% |  |
-| 22 | 19% | 73% |  |
-| 23 | 20% | 54% | Median |
-| 24 | 16% | 34% |  |
-| 25 | 10% | 19% |  |
-| 26 | 5% | 9% |  |
-| 27 | 2% | 3% |  |
-| 28 | 0.8% | 1.1% |  |
-| 29 | 0.2% | 0.3% |  |
-| 30 | 0% | 0.1% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.3% | 99.9% |  |
+| 18 | 1.3% | 99.6% |  |
+| 19 | 4% | 98% |  |
+| 20 | 10% | 94% |  |
+| 21 | 17% | 84% |  |
+| 22 | 21% | 68% | Median |
+| 23 | 20% | 47% |  |
+| 24 | 14% | 27% |  |
+| 25 | 8% | 13% |  |
+| 26 | 3% | 5% |  |
+| 27 | 1.1% | 2% |  |
+| 28 | 0.3% | 0.4% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
 
