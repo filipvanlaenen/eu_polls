@@ -24,20 +24,20 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
 | ANO 2011 | CZ | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Chega | PT | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Partij voor de Vrijheid | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Dansk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Dansk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Motoristé sobě | CZ | | 1 | 1 | 1 | 1 | 1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -54,20 +54,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 0% | 100% |  |
 | 88 | 0% | 100% |  |
 | 89 | 0.1% | 100% |  |
-| 90 | 0.3% | 99.9% |  |
+| 90 | 0.3% | 99.8% |  |
 | 91 | 0.6% | 99.6% |  |
-| 92 | 1.2% | 99.0% |  |
+| 92 | 1.3% | 98.9% |  |
 | 93 | 2% | 98% |  |
-| 94 | 4% | 96% |  |
+| 94 | 4% | 95% |  |
 | 95 | 5% | 92% |  |
-| 96 | 7% | 87% |  |
-| 97 | 9% | 80% |  |
-| 98 | 10% | 71% |  |
-| 99 | 11% | 61% | Median |
-| 100 | 11% | 50% |  |
+| 96 | 7% | 86% |  |
+| 97 | 9% | 79% |  |
+| 98 | 10% | 70% |  |
+| 99 | 11% | 60% | Median |
+| 100 | 10% | 50% |  |
 | 101 | 10% | 39% |  |
 | 102 | 8% | 30% |  |
-| 103 | 7% | 22% |  |
+| 103 | 7% | 21% |  |
 | 104 | 5% | 15% |  |
 | 105 | 4% | 10% |  |
 | 106 | 2% | 6% |  |

@@ -8,7 +8,7 @@ Members registered from **20 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **1** seats (0 seats)
+Current median: **2** seats (+1 seats)
 
 At least one member in **1 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 1 | 0–3 | 0–3 | 0–3 | 0–5 |
+| Parties currently not represented in the EP | EU | 1 | 2 | 1–3 | 1–3 | 0–4 | 0–5 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -63,14 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 39% | 86% | Last Result, Median |
-| 2 | 32% | 47% |  |
-| 3 | 12% | 14% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0.2% | 0.6% |  |
-| 6 | 0.2% | 0.4% |  |
-| 7 | 0.1% | 0.2% |  |
+| 0 | 5% | 100% |  |
+| 1 | 38% | 95% | Last Result |
+| 2 | 39% | 57% | Median |
+| 3 | 15% | 18% |  |
+| 4 | 3% | 3% |  |
+| 5 | 0.2% | 0.7% |  |
+| 6 | 0.2% | 0.5% |  |
+| 7 | 0.2% | 0.3% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
