@@ -18,10 +18,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 69 | 64–73 | 63–74 | 62–76 | 61–78 |
+| Renew Europe | EU | 77 | 69 | 65–73 | 63–75 | 63–76 | 61–78 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
-| Democraten 66 | NL | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5 | 5 | 5 | 4–5 |
+| Democraten 66 | NL | | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–3 | 1–4 | 1–4 | 1–5 |
@@ -81,25 +81,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
-| 60 | 0.3% | 99.8% |  |
-| 61 | 0.7% | 99.5% |  |
-| 62 | 2% | 98.8% |  |
-| 63 | 3% | 97% |  |
-| 64 | 5% | 94% |  |
-| 65 | 7% | 90% |  |
-| 66 | 9% | 83% |  |
-| 67 | 10% | 75% |  |
-| 68 | 11% | 64% |  |
-| 69 | 11% | 53% | Median |
-| 70 | 11% | 42% |  |
-| 71 | 9% | 31% |  |
-| 72 | 8% | 22% |  |
-| 73 | 6% | 14% |  |
-| 74 | 4% | 8% |  |
+| 60 | 0.3% | 99.9% |  |
+| 61 | 0.7% | 99.6% |  |
+| 62 | 1.4% | 98.9% |  |
+| 63 | 3% | 98% |  |
+| 64 | 4% | 95% |  |
+| 65 | 6% | 91% |  |
+| 66 | 8% | 84% |  |
+| 67 | 10% | 76% |  |
+| 68 | 11% | 66% |  |
+| 69 | 11% | 55% | Median |
+| 70 | 11% | 44% |  |
+| 71 | 10% | 33% |  |
+| 72 | 8% | 23% |  |
+| 73 | 6% | 15% |  |
+| 74 | 4% | 9% |  |
 | 75 | 2% | 5% |  |
-| 76 | 1.3% | 3% |  |
-| 77 | 0.7% | 1.3% | Last Result |
-| 78 | 0.3% | 0.6% |  |
+| 76 | 1.4% | 3% |  |
+| 77 | 0.8% | 1.4% | Last Result |
+| 78 | 0.4% | 0.7% |  |
 | 79 | 0.2% | 0.3% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
