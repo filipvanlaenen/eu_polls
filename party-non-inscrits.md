@@ -1,31 +1,35 @@
 # Non-Inscrits
 
-Members registered from **6 countries**:
+Members registered from **8 countries**:
 
-> DE, DK, ES, FI, IT, SI
+> DE, DK, ES, FI, HR, IT, SI, SK
 
 ## Seats
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (-27 seats)
+Current median: **9** seats (-23 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> DE, ES
+> DE, ES, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 5 | 3–6 | 3–7 | 3–7 | 2–8 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
+| Non-Inscrits | EU | 32 | 9 | 7–11 | 7–11 | 6–12 | 5–13 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 1–4 | 0–5 | 0–5 | 0–6 |
+| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -36,19 +40,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% |  |
-| 3 | 11% | 99.5% |  |
-| 4 | 32% | 89% |  |
-| 5 | 34% | 57% | Median |
-| 6 | 17% | 23% |  |
-| 7 | 4% | 5% |  |
-| 8 | 0.7% | 0.8% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 3% | 99.4% |  |
+| 7 | 7% | 96% |  |
+| 8 | 16% | 89% |  |
+| 9 | 29% | 73% | Median |
+| 10 | 27% | 44% |  |
+| 11 | 13% | 17% |  |
+| 12 | 3% | 4% |  |
+| 13 | 0.5% | 0.6% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |

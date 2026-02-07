@@ -1,8 +1,8 @@
 # Patriots for Europe
 
-Members registered from **7 countries**:
+Members registered from **8 countries**:
 
-> AT, DK, EE, ES, IT, NL, SI
+> AT, DK, EE, ES, IT, NL, SI, SK
 
 ## Seats
 
@@ -18,14 +18,16 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 34 | 32–36 | 31–36 | 31–37 | 30–38 |
+| Patriots for Europe | EU | 84 | 34 | 32–36 | 31–37 | 31–37 | 30–38 |
 | Vox | ES | | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | Partij voor de Vrijheid | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
+| Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -36,17 +38,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
-| 30 | 1.1% | 99.9% |  |
-| 31 | 6% | 98.7% |  |
-| 32 | 15% | 93% |  |
-| 33 | 23% | 78% |  |
-| 34 | 24% | 55% | Median |
-| 35 | 17% | 31% |  |
-| 36 | 9% | 13% |  |
-| 37 | 3% | 4% |  |
-| 38 | 0.9% | 1.2% |  |
-| 39 | 0.2% | 0.2% |  |
-| 40 | 0% | 0% |  |
+| 30 | 0.9% | 99.9% |  |
+| 31 | 5% | 99.0% |  |
+| 32 | 13% | 94% |  |
+| 33 | 22% | 82% |  |
+| 34 | 25% | 59% | Median |
+| 35 | 19% | 35% |  |
+| 36 | 10% | 16% |  |
+| 37 | 4% | 6% |  |
+| 38 | 1.3% | 2% |  |
+| 39 | 0.3% | 0.4% |  |
+| 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |

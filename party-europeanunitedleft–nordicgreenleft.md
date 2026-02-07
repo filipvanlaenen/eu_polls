@@ -28,10 +28,11 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -45,17 +46,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 27 | 0.1% | 100% |  |
-| 28 | 0.5% | 99.9% |  |
-| 29 | 2% | 99.4% |  |
+| 28 | 0.6% | 99.9% |  |
+| 29 | 2% | 99.2% |  |
 | 30 | 6% | 97% |  |
-| 31 | 12% | 92% |  |
-| 32 | 18% | 80% |  |
+| 31 | 12% | 91% |  |
+| 32 | 18% | 79% |  |
 | 33 | 21% | 61% | Median |
 | 34 | 18% | 40% |  |
 | 35 | 12% | 22% |  |
 | 36 | 6% | 10% |  |
 | 37 | 3% | 4% |  |
-| 38 | 0.9% | 1.2% |  |
+| 38 | 0.8% | 1.1% |  |
 | 39 | 0.2% | 0.3% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
