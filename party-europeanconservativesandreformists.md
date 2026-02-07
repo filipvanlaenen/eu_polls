@@ -1,28 +1,31 @@
 # European Conservatives and Reformists
 
-Members registered from **4 countries**:
+Members registered from **6 countries**:
 
-> DK, EE, FI, SE
+> DK, EE, FI, IT, NL, SE
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (-70 seats)
+Current median: **36** seats (-42 seats)
 
-At least one member in **3 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> DK, FI, SE
+> DK, FI, IT, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| European Conservatives and Reformists | EU | 78 | 36 | 34–38 | 33–38 | 33–39 | 31–40 |
+| Fratelli d’Italia | IT | | 25 | 23–27 | 23–27 | 22–28 | 21–28 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Juiste Antwoord 2021 | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -32,41 +35,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 10% | 100% |  |
-| 8 | 68% | 90% | Median |
-| 9 | 21% | 22% |  |
-| 10 | 0.7% | 0.7% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
+| 30 | 0.1% | 100% |  |
+| 31 | 0.4% | 99.9% |  |
+| 32 | 2% | 99.5% |  |
+| 33 | 6% | 98% |  |
+| 34 | 14% | 91% |  |
+| 35 | 21% | 77% |  |
+| 36 | 22% | 56% | Median |
+| 37 | 19% | 33% |  |
+| 38 | 10% | 14% |  |
+| 39 | 3% | 4% |  |
+| 40 | 0.7% | 0.7% |  |
+| 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
 | 44 | 0% | 0% |  |

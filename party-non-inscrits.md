@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **4 countries**:
+Members registered from **6 countries**:
 
-> DE, DK, ES, FI
+> DE, DK, ES, FI, IT, SI
 
 ## Seats
 
@@ -18,13 +18,15 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| Non-Inscrits | EU | 32 | 5 | 3–6 | 3–7 | 3–7 | 2–8 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Se Acabó La Fiesta | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
+| Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -34,14 +36,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 10% | 99.6% |  |
-| 4 | 36% | 90% |  |
-| 5 | 36% | 53% | Median |
-| 6 | 15% | 17% |  |
-| 7 | 2% | 3% |  |
-| 8 | 0.4% | 0.4% |  |
-| 9 | 0% | 0% |  |
+| 2 | 0.5% | 100% |  |
+| 3 | 11% | 99.5% |  |
+| 4 | 32% | 89% |  |
+| 5 | 34% | 57% | Median |
+| 6 | 17% | 23% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.7% | 0.8% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

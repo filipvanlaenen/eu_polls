@@ -1,28 +1,31 @@
 # Patriots for Europe
 
-Members registered from **4 countries**:
+Members registered from **7 countries**:
 
-> AT, DK, EE, ES
+> AT, DK, EE, ES, IT, NL, SI
 
 ## Seats
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-62 seats)
+Current median: **34** seats (-50 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> AT, DK, EE, ES
+> AT, DK, EE, ES, IT, NL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
-| Vox | ES | | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| Patriots for Europe | EU | 84 | 34 | 32–36 | 31–36 | 31–37 | 30–38 |
+| Vox | ES | | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| Partij voor de Vrijheid | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -32,27 +35,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.2% | 100% |  |
-| 20 | 3% | 99.8% |  |
-| 21 | 20% | 96% |  |
-| 22 | 37% | 77% | Median |
-| 23 | 26% | 39% |  |
-| 24 | 10% | 13% |  |
-| 25 | 2% | 3% |  |
-| 26 | 0.4% | 0.4% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
+| 29 | 0.1% | 100% |  |
+| 30 | 1.1% | 99.9% |  |
+| 31 | 6% | 98.7% |  |
+| 32 | 15% | 93% |  |
+| 33 | 23% | 78% |  |
+| 34 | 24% | 55% | Median |
+| 35 | 17% | 31% |  |
+| 36 | 9% | 13% |  |
+| 37 | 3% | 4% |  |
+| 38 | 0.9% | 1.2% |  |
+| 39 | 0.2% | 0.2% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |

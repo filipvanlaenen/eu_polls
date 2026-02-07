@@ -1,38 +1,46 @@
 # Renew Europe
 
-Members registered from **7 countries**:
+Members registered from **10 countries**:
 
-> AT, DE, DK, EE, ES, FI, SE
+> AT, DE, DK, EE, ES, FI, IT, NL, SE, SI
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (-61 seats)
+Current median: **31** seats (-46 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, FI, SE
+> AT, DE, DK, EE, FI, NL, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
+| Renew Europe | EU | 77 | 31 | 29–34 | 28–35 | 28–36 | 27–37 |
+| Democraten 66 | NL | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Gibanje Svoboda | SI | | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Venstre | DK | | 2 | 2 | 2 | 2 | 1–3 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
+| Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Moderaterne | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -42,34 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
-| 13 | 3% | 99.8% |  |
-| 14 | 13% | 97% |  |
-| 15 | 26% | 84% |  |
-| 16 | 28% | 58% | Median |
-| 17 | 19% | 30% |  |
-| 18 | 8% | 10% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% |  |
-| 33 | 0% | 0% |  |
-| 34 | 0% | 0% |  |
-| 35 | 0% | 0% |  |
-| 36 | 0% | 0% |  |
-| 37 | 0% | 0% |  |
-| 38 | 0% | 0% |  |
-| 39 | 0% | 0% |  |
+| 26 | 0.3% | 100% |  |
+| 27 | 1.5% | 99.7% |  |
+| 28 | 5% | 98% |  |
+| 29 | 12% | 93% |  |
+| 30 | 19% | 81% |  |
+| 31 | 22% | 62% | Median |
+| 32 | 18% | 40% |  |
+| 33 | 11% | 23% |  |
+| 34 | 6% | 12% |  |
+| 35 | 3% | 6% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.8% | 1.2% |  |
+| 38 | 0.3% | 0.4% |  |
+| 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
