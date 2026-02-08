@@ -18,10 +18,10 @@ At least one member in **1 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Parties currently not represented in the EP | EU | 1 | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -44,10 +44,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% |  |
-| 1 | 52% | 75% | Last Result, Median |
-| 2 | 20% | 23% |  |
-| 3 | 3% | 3% |  |
+| 0 | 27% | 100% |  |
+| 1 | 54% | 73% | Last Result, Median |
+| 2 | 17% | 19% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

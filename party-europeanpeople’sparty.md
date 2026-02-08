@@ -22,29 +22,29 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Partido Popular | ES | | 22 | 16–24 | 15–25 | 15–25 | 15–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 16–21 | 16–22 | 16–22 |
 | Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| Erakond Isamaa | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokrati | SI | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -62,21 +62,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 79 | 0.2% | 99.9% |  |
 | 80 | 0.4% | 99.7% |  |
 | 81 | 0.7% | 99.3% |  |
-| 82 | 1.2% | 98.6% |  |
+| 82 | 1.2% | 98.5% |  |
 | 83 | 2% | 97% |  |
-| 84 | 2% | 96% |  |
+| 84 | 2% | 95% |  |
 | 85 | 3% | 93% |  |
 | 86 | 4% | 90% |  |
-| 87 | 5% | 87% |  |
-| 88 | 7% | 82% |  |
-| 89 | 9% | 75% |  |
-| 90 | 11% | 66% |  |
-| 91 | 12% | 55% | Median |
-| 92 | 12% | 43% |  |
-| 93 | 10% | 31% |  |
-| 94 | 8% | 21% |  |
-| 95 | 6% | 13% |  |
-| 96 | 4% | 7% |  |
+| 87 | 5% | 86% |  |
+| 88 | 7% | 81% |  |
+| 89 | 9% | 74% |  |
+| 90 | 11% | 65% |  |
+| 91 | 12% | 54% | Median |
+| 92 | 12% | 42% |  |
+| 93 | 10% | 30% |  |
+| 94 | 8% | 20% |  |
+| 95 | 5% | 12% |  |
+| 96 | 3% | 7% |  |
 | 97 | 2% | 4% |  |
 | 98 | 1.0% | 2% |  |
 | 99 | 0.5% | 0.8% |  |

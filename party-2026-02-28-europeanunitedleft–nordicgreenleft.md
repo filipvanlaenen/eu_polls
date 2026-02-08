@@ -23,7 +23,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Podemos | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -50,8 +50,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.2% | 100% |  |
-| 32 | 0.7% | 99.8% |  |
-| 33 | 2% | 99.1% |  |
+| 32 | 0.6% | 99.8% |  |
+| 33 | 2% | 99.2% |  |
 | 34 | 4% | 97% |  |
 | 35 | 8% | 93% |  |
 | 36 | 12% | 85% |  |

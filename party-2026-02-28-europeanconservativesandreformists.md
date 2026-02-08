@@ -8,7 +8,7 @@ Members registered from **8 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-39 seats)
+Current median: **38** seats (-40 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 39 | 36–41 | 36–42 | 35–42 | 34–43 |
+| European Conservatives and Reformists | EU | 78 | 38 | 36–41 | 36–41 | 35–42 | 34–43 |
 | Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Juiste Antwoord 2021 | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Juiste Antwoord 2021 | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -43,16 +43,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0.1% | 100% |  |
-| 34 | 0.7% | 99.9% |  |
-| 35 | 3% | 99.2% |  |
-| 36 | 7% | 97% |  |
-| 37 | 16% | 89% |  |
-| 38 | 22% | 74% |  |
-| 39 | 22% | 52% | Median |
-| 40 | 16% | 30% |  |
-| 41 | 9% | 14% |  |
-| 42 | 4% | 5% |  |
-| 43 | 1.1% | 1.3% |  |
+| 34 | 0.8% | 99.9% |  |
+| 35 | 3% | 99.1% |  |
+| 36 | 9% | 96% |  |
+| 37 | 17% | 87% |  |
+| 38 | 22% | 70% | Median |
+| 39 | 21% | 48% |  |
+| 40 | 15% | 28% |  |
+| 41 | 8% | 13% |  |
+| 42 | 3% | 5% |  |
+| 43 | 1.0% | 1.2% |  |
 | 44 | 0.2% | 0.2% |  |
 | 45 | 0% | 0% |  |
 | 46 | 0% | 0% |  |
