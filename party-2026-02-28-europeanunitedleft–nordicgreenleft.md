@@ -1,26 +1,27 @@
 # European United Left–Nordic Green Left
 
-Members registered from **10 countries**:
+Members registered from **11 countries**:
 
-> AT, DE, DK, EE, ES, FI, IT, NL, SE, SI
+> AT, DE, DK, EE, ES, FI, IE, IT, NL, SE, SI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (-13 seats)
+Current median: **38** seats (-8 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, FI, IT, SE
+> DE, DK, ES, FI, IE, IT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 33 | 31–36 | 30–36 | 29–37 | 28–38 |
-| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
+| European United Left–Nordic Green Left | EU | 46 | 38 | 35–41 | 34–42 | 33–42 | 32–44 |
 | Die Linke | DE | | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
+| Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Podemos | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -30,12 +31,15 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
+| Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -45,25 +49,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
-| 28 | 0.6% | 99.9% |  |
-| 29 | 2% | 99.2% |  |
-| 30 | 6% | 97% |  |
-| 31 | 12% | 91% |  |
-| 32 | 18% | 79% |  |
-| 33 | 21% | 61% | Median |
-| 34 | 18% | 40% |  |
-| 35 | 12% | 22% |  |
-| 36 | 6% | 10% |  |
-| 37 | 3% | 4% |  |
-| 38 | 0.8% | 1.1% |  |
-| 39 | 0.2% | 0.3% |  |
-| 40 | 0% | 0% |  |
-| 41 | 0% | 0% |  |
-| 42 | 0% | 0% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
+| 31 | 0.2% | 100% |  |
+| 32 | 0.7% | 99.8% |  |
+| 33 | 2% | 99.1% |  |
+| 34 | 4% | 97% |  |
+| 35 | 8% | 93% |  |
+| 36 | 12% | 85% |  |
+| 37 | 16% | 73% |  |
+| 38 | 17% | 57% | Median |
+| 39 | 15% | 40% |  |
+| 40 | 12% | 25% |  |
+| 41 | 7% | 13% |  |
+| 42 | 4% | 6% |  |
+| 43 | 2% | 2% |  |
+| 44 | 0.5% | 0.7% |  |
+| 45 | 0.1% | 0.2% |  |
 | 46 | 0% | 0% | Last Result |
 
 

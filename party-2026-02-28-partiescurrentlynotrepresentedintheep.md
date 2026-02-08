@@ -1,30 +1,32 @@
 # Parties currently not represented in the EP
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> DE, EE, ES, HR, IT, NL, SI, SK
+> DE, EE, ES, HR, IE, IT, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **0** seats (-1 seats)
+Current median: **1** seats (0 seats)
 
-At least one member in **0 countries** have a median of 1 seat or more:
+At least one member in **1 countries** have a median of 1 seat or more:
 
-> 
+> IE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Parties currently not represented in the EP | EU | 1 | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
+| Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -42,10 +44,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 28% | 32% | Last Result |
-| 2 | 4% | 4% |  |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 25% | 100% |  |
+| 1 | 52% | 75% | Last Result, Median |
+| 2 | 20% | 23% |  |
+| 3 | 3% | 3% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

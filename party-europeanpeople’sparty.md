@@ -1,34 +1,35 @@
 # European People’s Party
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, IT, NL, SE, SI, SK
+> AT, DE, DK, EE, ES, FI, HR, IE, IT, NL, SE, SI, SK
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **87** seats (-101 seats)
+Current median: **91** seats (-97 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, HR, IT, NL, SE, SI, SK
+> AT, DE, DK, EE, ES, FI, HR, IE, IT, NL, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 87 | 82–91 | 80–92 | 79–93 | 77–95 |
+| European People’s Party | EU | 188 | 91 | 86–95 | 84–96 | 82–97 | 80–99 |
 | Partido Popular | ES | | 22 | 16–24 | 15–25 | 15–25 | 15–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 16–21 | 16–21 | 16–22 |
-| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 16–21 | 16–22 | 16–22 |
+| Forza Italia | IT | | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
-| Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Erakond Isamaa | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokrati | SI | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -37,9 +38,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1 | 1 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| 50Plus | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -57,34 +58,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0% | 100% |  |
-| 75 | 0.1% | 99.9% |  |
-| 76 | 0.3% | 99.8% |  |
-| 77 | 0.6% | 99.5% |  |
-| 78 | 1.0% | 98.9% |  |
-| 79 | 2% | 98% |  |
-| 80 | 2% | 96% |  |
-| 81 | 3% | 94% |  |
-| 82 | 3% | 92% |  |
-| 83 | 4% | 88% |  |
-| 84 | 6% | 84% |  |
-| 85 | 8% | 78% |  |
-| 86 | 10% | 70% |  |
-| 87 | 12% | 60% | Median |
-| 88 | 12% | 48% |  |
-| 89 | 11% | 35% |  |
-| 90 | 9% | 24% |  |
-| 91 | 6% | 15% |  |
-| 92 | 4% | 9% |  |
-| 93 | 2% | 4% |  |
-| 94 | 1.2% | 2% |  |
-| 95 | 0.6% | 0.9% |  |
-| 96 | 0.2% | 0.4% |  |
-| 97 | 0.1% | 0.1% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% |  |
-| 101 | 0% | 0% |  |
+| 78 | 0.1% | 100% |  |
+| 79 | 0.2% | 99.9% |  |
+| 80 | 0.4% | 99.7% |  |
+| 81 | 0.7% | 99.3% |  |
+| 82 | 1.2% | 98.6% |  |
+| 83 | 2% | 97% |  |
+| 84 | 2% | 96% |  |
+| 85 | 3% | 93% |  |
+| 86 | 4% | 90% |  |
+| 87 | 5% | 87% |  |
+| 88 | 7% | 82% |  |
+| 89 | 9% | 75% |  |
+| 90 | 11% | 66% |  |
+| 91 | 12% | 55% | Median |
+| 92 | 12% | 43% |  |
+| 93 | 10% | 31% |  |
+| 94 | 8% | 21% |  |
+| 95 | 6% | 13% |  |
+| 96 | 4% | 7% |  |
+| 97 | 2% | 4% |  |
+| 98 | 1.0% | 2% |  |
+| 99 | 0.5% | 0.8% |  |
+| 100 | 0.2% | 0.3% |  |
+| 101 | 0.1% | 0.1% |  |
 | 102 | 0% | 0% |  |
 | 103 | 0% | 0% |  |
 | 104 | 0% | 0% |  |

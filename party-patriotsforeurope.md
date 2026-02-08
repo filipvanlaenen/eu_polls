@@ -8,7 +8,7 @@ Members registered from **8 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **34** seats (-50 seats)
+Current median: **33** seats (-51 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 34 | 32–36 | 31–37 | 31–37 | 30–38 |
+| Patriots for Europe | EU | 84 | 33 | 31–35 | 31–36 | 31–37 | 30–38 |
 | Vox | ES | | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| Partij voor de Vrijheid | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Lega Nord | IT | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -37,18 +37,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% |  |
-| 30 | 0.9% | 99.9% |  |
-| 31 | 5% | 99.0% |  |
-| 32 | 13% | 94% |  |
-| 33 | 22% | 82% |  |
-| 34 | 25% | 59% | Median |
-| 35 | 19% | 35% |  |
-| 36 | 10% | 16% |  |
-| 37 | 4% | 6% |  |
-| 38 | 1.3% | 2% |  |
-| 39 | 0.3% | 0.4% |  |
-| 40 | 0.1% | 0.1% |  |
+| 29 | 0.3% | 100% |  |
+| 30 | 2% | 99.7% |  |
+| 31 | 8% | 98% |  |
+| 32 | 18% | 90% |  |
+| 33 | 25% | 72% | Median |
+| 34 | 23% | 47% |  |
+| 35 | 14% | 24% |  |
+| 36 | 7% | 9% |  |
+| 37 | 2% | 3% |  |
+| 38 | 0.6% | 0.7% |  |
+| 39 | 0.1% | 0.1% |  |
+| 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |
