@@ -1,32 +1,35 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **12 countries**:
+Members registered from **14 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, NL, SE, SI
+> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, MT, NL, SE, SI
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (-55 seats)
+Current median: **88** seats (-48 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **14 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, NL, SE, SI
+> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, MT, NL, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 81 | 78–86 | 77–87 | 76–88 | 74–91 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 88 | 84–92 | 83–94 | 82–95 | 80–97 |
 | Partido Socialista Obrero Español | ES | | 19 | 17–22 | 17–24 | 16–24 | 16–24 |
 | Partito Democratico | IT | | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Socialdemokraterne | DK | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3–4 |
+| Lietuvos socialdemokratų partija | LT | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Social Democrats | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -41,35 +44,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0.1% | 100% |  |
-| 73 | 0.2% | 99.9% |  |
-| 74 | 0.6% | 99.7% |  |
-| 75 | 1.3% | 99.1% |  |
-| 76 | 3% | 98% |  |
-| 77 | 5% | 95% |  |
-| 78 | 7% | 90% |  |
-| 79 | 10% | 83% |  |
-| 80 | 12% | 73% |  |
-| 81 | 13% | 61% | Median |
-| 82 | 12% | 49% |  |
-| 83 | 11% | 37% |  |
-| 84 | 8% | 26% |  |
-| 85 | 6% | 18% |  |
-| 86 | 4% | 12% |  |
-| 87 | 3% | 7% |  |
-| 88 | 2% | 4% |  |
-| 89 | 1.2% | 2% |  |
-| 90 | 0.7% | 1.3% |  |
-| 91 | 0.4% | 0.6% |  |
-| 92 | 0.2% | 0.2% |  |
-| 93 | 0.1% | 0.1% |  |
-| 94 | 0% | 0% |  |
-| 95 | 0% | 0% |  |
-| 96 | 0% | 0% |  |
-| 97 | 0% | 0% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% |  |
+| 79 | 0.1% | 100% |  |
+| 80 | 0.3% | 99.8% |  |
+| 81 | 0.9% | 99.5% |  |
+| 82 | 2% | 98.6% |  |
+| 83 | 3% | 97% |  |
+| 84 | 6% | 93% |  |
+| 85 | 8% | 88% |  |
+| 86 | 11% | 79% |  |
+| 87 | 12% | 68% |  |
+| 88 | 13% | 56% | Median |
+| 89 | 12% | 43% |  |
+| 90 | 10% | 32% |  |
+| 91 | 7% | 22% |  |
+| 92 | 5% | 15% |  |
+| 93 | 4% | 10% |  |
+| 94 | 2% | 6% |  |
+| 95 | 2% | 4% |  |
+| 96 | 1.0% | 2% |  |
+| 97 | 0.5% | 1.0% |  |
+| 98 | 0.3% | 0.4% |  |
+| 99 | 0.1% | 0.2% |  |
+| 100 | 0% | 0.1% |  |
 | 101 | 0% | 0% |  |
 | 102 | 0% | 0% |  |
 | 103 | 0% | 0% |  |

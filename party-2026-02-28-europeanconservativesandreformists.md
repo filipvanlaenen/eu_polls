@@ -1,36 +1,38 @@
 # European Conservatives and Reformists
 
-Members registered from **8 countries**:
+Members registered from **9 countries**:
 
-> DK, EE, FI, HR, IT, NL, SE, SK
+> DK, EE, FI, HR, IT, LT, NL, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-40 seats)
+Current median: **40** seats (-38 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> DK, FI, HR, IT, NL, SE, SK
+> DK, FI, HR, IT, LT, NL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 38 | 36–41 | 36–41 | 35–42 | 34–43 |
+| European Conservatives and Reformists | EU | 78 | 40 | 37–42 | 37–43 | 36–43 | 35–45 |
 | Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Juiste Antwoord 2021 | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 
@@ -42,20 +44,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
-| 34 | 0.8% | 99.9% |  |
-| 35 | 3% | 99.1% |  |
-| 36 | 9% | 96% |  |
-| 37 | 17% | 87% |  |
-| 38 | 22% | 70% | Median |
-| 39 | 21% | 48% |  |
-| 40 | 15% | 28% |  |
-| 41 | 8% | 13% |  |
-| 42 | 3% | 5% |  |
-| 43 | 1.0% | 1.2% |  |
-| 44 | 0.2% | 0.2% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.7% | 99.9% |  |
+| 36 | 3% | 99.1% |  |
+| 37 | 8% | 96% |  |
+| 38 | 15% | 89% |  |
+| 39 | 21% | 73% |  |
+| 40 | 20% | 53% | Median |
+| 41 | 16% | 33% |  |
+| 42 | 10% | 17% |  |
+| 43 | 5% | 7% |  |
+| 44 | 2% | 2% |  |
+| 45 | 0.5% | 0.6% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
