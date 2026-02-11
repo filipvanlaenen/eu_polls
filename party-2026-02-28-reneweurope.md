@@ -23,9 +23,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
-| Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -62,20 +62,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.1% | 100% |  |
-| 33 | 0.4% | 99.9% |  |
-| 34 | 2% | 99.5% |  |
+| 33 | 0.5% | 99.9% |  |
+| 34 | 2% | 99.4% |  |
 | 35 | 4% | 98% |  |
-| 36 | 9% | 94% |  |
+| 36 | 8% | 94% |  |
 | 37 | 14% | 85% |  |
 | 38 | 18% | 71% |  |
-| 39 | 18% | 53% | Median |
+| 39 | 18% | 54% | Median |
 | 40 | 15% | 35% |  |
 | 41 | 10% | 20% |  |
-| 42 | 5% | 10% |  |
+| 42 | 6% | 11% |  |
 | 43 | 3% | 5% |  |
-| 44 | 1.2% | 2% |  |
+| 44 | 1.3% | 2% |  |
 | 45 | 0.6% | 0.9% |  |
-| 46 | 0.2% | 0.3% |  |
+| 46 | 0.2% | 0.4% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
