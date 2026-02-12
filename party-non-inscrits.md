@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> DE, DK, ES, FI, HR, IT, LT, SI, SK
+> DE, DK, ES, FI, HR, HU, IT, LT, SI, SK
 
 ## Seats
 
@@ -27,6 +27,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
+| Jobbik | HU | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |

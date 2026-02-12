@@ -1,8 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, MT, NL, SE, SI
+> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, MT, NL, SE, SI
 
 ## Seats
 
@@ -34,7 +34,9 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Social Democrats | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Demokratikus Koalíció | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -44,29 +46,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 78 | 0% | 100% |  |
-| 79 | 0.1% | 99.9% |  |
+| 79 | 0.1% | 100% |  |
 | 80 | 0.4% | 99.8% |  |
-| 81 | 0.9% | 99.4% |  |
-| 82 | 2% | 98.5% |  |
+| 81 | 0.9% | 99.5% |  |
+| 82 | 2% | 98.6% |  |
 | 83 | 4% | 97% |  |
 | 84 | 6% | 93% |  |
-| 85 | 9% | 87% |  |
-| 86 | 11% | 78% |  |
-| 87 | 12% | 67% |  |
-| 88 | 13% | 55% | Median |
-| 89 | 11% | 42% |  |
-| 90 | 9% | 31% |  |
+| 85 | 8% | 87% |  |
+| 86 | 11% | 79% |  |
+| 87 | 12% | 68% |  |
+| 88 | 13% | 56% | Median |
+| 89 | 11% | 43% |  |
+| 90 | 10% | 32% |  |
 | 91 | 7% | 22% |  |
-| 92 | 5% | 14% |  |
-| 93 | 4% | 9% |  |
+| 92 | 5% | 15% |  |
+| 93 | 4% | 10% |  |
 | 94 | 2% | 6% |  |
 | 95 | 2% | 3% |  |
 | 96 | 0.9% | 2% |  |
 | 97 | 0.5% | 0.9% |  |
 | 98 | 0.2% | 0.4% |  |
-| 99 | 0.1% | 0.1% |  |
-| 100 | 0% | 0% |  |
+| 99 | 0.1% | 0.2% |  |
+| 100 | 0% | 0.1% |  |
 | 101 | 0% | 0% |  |
 | 102 | 0% | 0% |  |
 | 103 | 0% | 0% |  |

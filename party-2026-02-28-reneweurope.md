@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, NL, SE, SI, SK
+> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, NL, SE, SI, SK
 
 ## Seats
 
@@ -48,6 +48,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
+| Momentum Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |

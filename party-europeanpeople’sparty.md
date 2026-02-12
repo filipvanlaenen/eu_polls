@@ -1,26 +1,27 @@
 # European People’s Party
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, MT, NL, SE, SI, SK
+> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, MT, NL, SE, SI, SK
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **96** seats (-92 seats)
+Current median: **107** seats (-81 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, MT, NL, SE, SI, SK
+> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, MT, NL, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 96 | 91–101 | 89–102 | 88–103 | 86–105 |
+| European People’s Party | EU | 188 | 107 | 102–112 | 100–113 | 98–114 | 96–116 |
 | Partido Popular | ES | | 22 | 16–24 | 15–25 | 15–25 | 15–26 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
+| Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -47,6 +48,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Erakond Parempoolsed | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szövetség | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -60,43 +62,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0.1% | 100% |  |
-| 84 | 0.1% | 99.9% |  |
-| 85 | 0.3% | 99.8% |  |
-| 86 | 0.5% | 99.5% |  |
-| 87 | 0.9% | 99.0% |  |
-| 88 | 1.4% | 98% |  |
-| 89 | 2% | 97% |  |
-| 90 | 3% | 95% |  |
-| 91 | 3% | 92% |  |
-| 92 | 4% | 89% |  |
-| 93 | 6% | 84% |  |
-| 94 | 8% | 79% |  |
-| 95 | 10% | 71% |  |
-| 96 | 11% | 61% | Median |
-| 97 | 12% | 50% |  |
-| 98 | 11% | 38% |  |
-| 99 | 9% | 27% |  |
-| 100 | 7% | 18% |  |
-| 101 | 5% | 11% |  |
-| 102 | 3% | 6% |  |
-| 103 | 2% | 3% |  |
-| 104 | 0.8% | 1.4% |  |
-| 105 | 0.4% | 0.6% |  |
-| 106 | 0.2% | 0.2% |  |
-| 107 | 0.1% | 0.1% |  |
-| 108 | 0% | 0% |  |
-| 109 | 0% | 0% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
-| 119 | 0% | 0% |  |
+| 93 | 0.1% | 100% |  |
+| 94 | 0.1% | 99.9% |  |
+| 95 | 0.2% | 99.8% |  |
+| 96 | 0.4% | 99.6% |  |
+| 97 | 0.7% | 99.1% |  |
+| 98 | 1.1% | 98% |  |
+| 99 | 2% | 97% |  |
+| 100 | 2% | 96% |  |
+| 101 | 3% | 93% |  |
+| 102 | 4% | 90% |  |
+| 103 | 5% | 86% |  |
+| 104 | 7% | 81% |  |
+| 105 | 8% | 75% |  |
+| 106 | 10% | 66% |  |
+| 107 | 11% | 57% | Median |
+| 108 | 11% | 46% |  |
+| 109 | 10% | 36% |  |
+| 110 | 8% | 26% |  |
+| 111 | 6% | 17% |  |
+| 112 | 5% | 11% |  |
+| 113 | 3% | 6% |  |
+| 114 | 2% | 4% |  |
+| 115 | 1.0% | 2% |  |
+| 116 | 0.5% | 0.8% |  |
+| 117 | 0.2% | 0.4% |  |
+| 118 | 0.1% | 0.1% |  |
+| 119 | 0% | 0.1% |  |
 | 120 | 0% | 0% |  |
 | 121 | 0% | 0% |  |
 | 122 | 0% | 0% |  |
