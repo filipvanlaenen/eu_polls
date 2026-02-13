@@ -18,15 +18,15 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 38 | 35–41 | 34–41 | 33–42 | 32–44 |
+| European United Left–Nordic Green Left | EU | 46 | 38 | 35–40 | 34–41 | 33–42 | 32–43 |
 | Die Linke | DE | | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| Movimento 5 Stelle | IT | | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
+| Movimento 5 Stelle | IT | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Podemos | ES | | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -35,9 +35,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -50,19 +48,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.2% | 100% |  |
-| 32 | 0.7% | 99.8% |  |
-| 33 | 2% | 99.1% |  |
+| 32 | 0.6% | 99.8% |  |
+| 33 | 2% | 99.2% |  |
 | 34 | 5% | 97% |  |
 | 35 | 9% | 92% |  |
-| 36 | 13% | 84% |  |
-| 37 | 17% | 71% |  |
-| 38 | 17% | 54% | Median |
-| 39 | 15% | 37% |  |
-| 40 | 11% | 22% |  |
-| 41 | 6% | 11% |  |
-| 42 | 3% | 5% |  |
-| 43 | 1.2% | 2% |  |
-| 44 | 0.4% | 0.5% |  |
+| 36 | 14% | 83% |  |
+| 37 | 18% | 69% |  |
+| 38 | 18% | 51% | Median |
+| 39 | 15% | 33% |  |
+| 40 | 10% | 18% |  |
+| 41 | 5% | 9% |  |
+| 42 | 2% | 3% |  |
+| 43 | 0.8% | 1.1% |  |
+| 44 | 0.2% | 0.3% |  |
 | 45 | 0.1% | 0.1% |  |
 | 46 | 0% | 0% | Last Result |
 

@@ -18,8 +18,8 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 40 | 37–42 | 37–43 | 36–43 | 35–45 |
-| Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
+| European Conservatives and Reformists | EU | 78 | 40 | 37–42 | 37–43 | 36–44 | 35–45 |
+| Fratelli d’Italia | IT | | 25 | 23–27 | 22–29 | 22–29 | 21–29 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Juiste Antwoord 2021 | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 2–3 |
@@ -44,19 +44,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0.8% | 99.8% |  |
-| 36 | 3% | 99.0% |  |
+| 34 | 0.2% | 100% |  |
+| 35 | 0.9% | 99.8% |  |
+| 36 | 3% | 98.9% |  |
 | 37 | 8% | 96% |  |
 | 38 | 15% | 88% |  |
-| 39 | 21% | 73% |  |
-| 40 | 20% | 52% | Median |
-| 41 | 16% | 32% |  |
-| 42 | 10% | 16% |  |
-| 43 | 5% | 7% |  |
-| 44 | 2% | 2% |  |
-| 45 | 0.4% | 0.5% |  |
-| 46 | 0.1% | 0.1% |  |
+| 39 | 19% | 73% |  |
+| 40 | 20% | 54% | Median |
+| 41 | 15% | 34% |  |
+| 42 | 9% | 19% |  |
+| 43 | 5% | 10% |  |
+| 44 | 3% | 5% |  |
+| 45 | 1.3% | 2% |  |
+| 46 | 0.3% | 0.3% |  |
 | 47 | 0% | 0% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
