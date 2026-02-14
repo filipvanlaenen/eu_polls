@@ -8,7 +8,7 @@ Members registered from **9 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **42** seats (-42 seats)
+Current median: **43** seats (-41 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 42 | 40–45 | 39–46 | 39–47 | 38–48 |
+| Patriots for Europe | EU | 84 | 43 | 40–45 | 39–46 | 39–47 | 38–48 |
 | Vox | ES | | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–12 | 8–12 | 8–12 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -42,15 +42,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 1.1% | 99.8% |  |
 | 39 | 4% | 98.7% |  |
 | 40 | 9% | 95% |  |
-| 41 | 16% | 85% |  |
-| 42 | 20% | 69% | Median |
-| 43 | 19% | 50% |  |
-| 44 | 15% | 31% |  |
-| 45 | 9% | 16% |  |
-| 46 | 5% | 7% |  |
+| 41 | 16% | 86% |  |
+| 42 | 19% | 70% |  |
+| 43 | 19% | 51% | Median |
+| 44 | 15% | 32% |  |
+| 45 | 9% | 17% |  |
+| 46 | 5% | 8% |  |
 | 47 | 2% | 3% |  |
 | 48 | 0.6% | 0.8% |  |
-| 49 | 0.1% | 0.2% |  |
+| 49 | 0.2% | 0.2% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

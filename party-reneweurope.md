@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-38 seats)
+Current median: **38** seats (-39 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 39 | 36–42 | 35–43 | 34–44 | 33–46 |
+| Renew Europe | EU | 77 | 38 | 36–42 | 35–43 | 34–44 | 33–46 |
 | Democraten 66 | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Progresívne Slovensko | SK | | 4 | 4 | 4 | 3–5 | 3–5 |
@@ -68,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 5% | 97% |  |
 | 36 | 10% | 91% |  |
 | 37 | 14% | 82% |  |
-| 38 | 17% | 67% |  |
-| 39 | 17% | 50% | Median |
+| 38 | 17% | 67% | Median |
+| 39 | 17% | 50% |  |
 | 40 | 13% | 33% |  |
 | 41 | 9% | 20% |  |
 | 42 | 5% | 11% |  |
 | 43 | 3% | 6% |  |
 | 44 | 2% | 3% |  |
 | 45 | 0.8% | 1.3% |  |
-| 46 | 0.4% | 0.5% |  |
+| 46 | 0.3% | 0.5% |  |
 | 47 | 0.1% | 0.2% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
