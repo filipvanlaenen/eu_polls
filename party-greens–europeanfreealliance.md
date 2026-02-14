@@ -18,17 +18,17 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 32 | 29–34 | 29–35 | 28–36 | 27–37 |
+| Greens–European Free Alliance | EU | 53 | 32 | 29–35 | 29–35 | 28–36 | 27–37 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
-| Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Europa Verde | IT | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–4 | 2–4 | 1–4 | 1–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Miljöpartiet de gröna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Volt Europa | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +38,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Lehet Más a Politika | HU | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Párbeszéd | HU | | 0 | 0 | 0 | 0 | 0 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -52,20 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.3% | 99.9% |  |
-| 27 | 1.1% | 99.7% |  |
-| 28 | 3% | 98.5% |  |
-| 29 | 8% | 95% |  |
-| 30 | 13% | 88% |  |
-| 31 | 18% | 75% |  |
-| 32 | 19% | 57% | Median |
-| 33 | 16% | 38% |  |
-| 34 | 11% | 21% |  |
-| 35 | 6% | 10% |  |
+| 26 | 0.2% | 100% |  |
+| 27 | 1.0% | 99.7% |  |
+| 28 | 3% | 98.7% |  |
+| 29 | 7% | 96% |  |
+| 30 | 12% | 89% |  |
+| 31 | 17% | 76% |  |
+| 32 | 19% | 59% | Median |
+| 33 | 17% | 39% |  |
+| 34 | 12% | 23% |  |
+| 35 | 7% | 11% |  |
 | 36 | 3% | 4% |  |
-| 37 | 0.9% | 1.2% |  |
-| 38 | 0.2% | 0.3% |  |
+| 37 | 1.0% | 1.4% |  |
+| 38 | 0.3% | 0.4% |  |
 | 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |

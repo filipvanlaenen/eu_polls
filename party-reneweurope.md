@@ -34,7 +34,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -63,22 +63,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.2% | 100% |  |
-| 33 | 0.7% | 99.8% |  |
-| 34 | 2% | 99.1% |  |
+| 33 | 0.8% | 99.8% |  |
+| 34 | 2% | 99.0% |  |
 | 35 | 5% | 97% |  |
-| 36 | 9% | 92% |  |
-| 37 | 14% | 83% |  |
-| 38 | 17% | 69% |  |
-| 39 | 17% | 52% | Median |
-| 40 | 13% | 36% |  |
-| 41 | 9% | 22% |  |
-| 42 | 6% | 13% |  |
-| 43 | 3% | 7% |  |
-| 44 | 2% | 4% |  |
-| 45 | 1.1% | 2% |  |
-| 46 | 0.5% | 0.7% |  |
-| 47 | 0.2% | 0.3% |  |
-| 48 | 0.1% | 0.1% |  |
+| 36 | 10% | 91% |  |
+| 37 | 14% | 82% |  |
+| 38 | 17% | 67% |  |
+| 39 | 17% | 50% | Median |
+| 40 | 13% | 33% |  |
+| 41 | 9% | 20% |  |
+| 42 | 5% | 11% |  |
+| 43 | 3% | 6% |  |
+| 44 | 2% | 3% |  |
+| 45 | 0.8% | 1.3% |  |
+| 46 | 0.4% | 0.5% |  |
+| 47 | 0.1% | 0.2% |  |
+| 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
