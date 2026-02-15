@@ -18,36 +18,36 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 107 | 102–112 | 100–113 | 98–114 | 96–116 |
+| European People’s Party | EU | 188 | 107 | 102–112 | 100–113 | 99–114 | 96–116 |
 | Partido Popular | ES | | 22 | 16–24 | 15–25 | 15–25 | 15–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
 | Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Forza Italia | IT | | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
-| Erakond Isamaa | EE | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokrati | SI | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Parempoolsed | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Szövetség | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Mindenki Magyarországa Mozgalom | HU | | 0 | 0 | 0 | 0 | 0 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -62,29 +62,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 93 | 0% | 100% |  |
-| 94 | 0.1% | 99.9% |  |
-| 95 | 0.2% | 99.8% |  |
-| 96 | 0.4% | 99.6% |  |
-| 97 | 0.7% | 99.2% |  |
-| 98 | 1.1% | 98.5% |  |
-| 99 | 2% | 97% |  |
+| 94 | 0.1% | 100% |  |
+| 95 | 0.2% | 99.9% |  |
+| 96 | 0.3% | 99.8% |  |
+| 97 | 0.6% | 99.4% |  |
+| 98 | 1.0% | 98.8% |  |
+| 99 | 1.4% | 98% |  |
 | 100 | 2% | 96% |  |
 | 101 | 3% | 94% |  |
-| 102 | 4% | 91% |  |
-| 103 | 5% | 87% |  |
-| 104 | 6% | 82% |  |
-| 105 | 8% | 76% |  |
-| 106 | 9% | 68% |  |
-| 107 | 10% | 59% | Median |
-| 108 | 11% | 48% |  |
-| 109 | 10% | 37% |  |
-| 110 | 9% | 27% |  |
+| 102 | 3% | 92% |  |
+| 103 | 5% | 88% |  |
+| 104 | 6% | 84% |  |
+| 105 | 8% | 78% |  |
+| 106 | 10% | 70% |  |
+| 107 | 11% | 60% | Median |
+| 108 | 11% | 49% |  |
+| 109 | 10% | 38% |  |
+| 110 | 9% | 28% |  |
 | 111 | 7% | 19% |  |
 | 112 | 5% | 12% |  |
 | 113 | 3% | 7% |  |
 | 114 | 2% | 4% |  |
-| 115 | 1.1% | 2% |  |
+| 115 | 1.0% | 2% |  |
 | 116 | 0.5% | 0.9% |  |
 | 117 | 0.2% | 0.4% |  |
 | 118 | 0.1% | 0.2% |  |

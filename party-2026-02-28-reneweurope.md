@@ -18,12 +18,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 38 | 36–42 | 35–43 | 34–44 | 33–46 |
+| Renew Europe | EU | 77 | 38 | 36–42 | 35–43 | 34–44 | 33–45 |
 | Democraten 66 | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Progresívne Slovensko | SK | | 4 | 4 | 4 | 3–5 | 3–5 |
+| Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -62,20 +62,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0.2% | 100% |  |
-| 33 | 0.8% | 99.8% |  |
-| 34 | 2% | 99.0% |  |
-| 35 | 5% | 97% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 0.9% | 99.7% |  |
+| 34 | 3% | 98.8% |  |
+| 35 | 6% | 96% |  |
 | 36 | 10% | 91% |  |
-| 37 | 14% | 82% |  |
-| 38 | 17% | 67% | Median |
-| 39 | 17% | 50% |  |
-| 40 | 13% | 33% |  |
-| 41 | 9% | 20% |  |
+| 37 | 15% | 81% |  |
+| 38 | 17% | 66% | Median |
+| 39 | 17% | 49% |  |
+| 40 | 13% | 32% |  |
+| 41 | 9% | 19% |  |
 | 42 | 5% | 11% |  |
 | 43 | 3% | 6% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.8% | 1.3% |  |
+| 44 | 1.5% | 3% |  |
+| 45 | 0.7% | 1.2% |  |
 | 46 | 0.3% | 0.5% |  |
 | 47 | 0.1% | 0.2% |  |
 | 48 | 0% | 0% |  |
