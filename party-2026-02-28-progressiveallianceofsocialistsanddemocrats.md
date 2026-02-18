@@ -1,8 +1,8 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> AT, BG, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, MT, NL, RO, SE, SI
+> AT, BG, CZ, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, MT, NL, RO, SE, SI
 
 ## Seats
 
@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 97 | 93–102 | 92–103 | 91–105 | 89–107 |
-| Partido Socialista Obrero Español | ES | | 19 | 17–23 | 17–24 | 16–24 | 16–24 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 97 | 93–102 | 92–104 | 91–105 | 89–107 |
+| Partido Socialista Obrero Español | ES | | 19 | 17–23 | 17–24 | 17–24 | 16–24 |
 | Partito Democratico | IT | | 19 | 17–21 | 16–22 | 16–22 | 15–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–17 | 12–17 | 11–17 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -38,6 +38,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Magyar Szocialista Párt | HU | | 0 | 0 | 0 | 0 | 0 |
+| Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | БСП – обединена левица | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -49,25 +50,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 87 | 0.1% | 100% |  |
-| 88 | 0.2% | 99.9% |  |
-| 89 | 0.6% | 99.6% |  |
-| 90 | 1.2% | 99.0% |  |
-| 91 | 2% | 98% |  |
-| 92 | 4% | 95% |  |
-| 93 | 6% | 91% |  |
-| 94 | 8% | 85% |  |
-| 95 | 10% | 77% |  |
-| 96 | 11% | 67% |  |
-| 97 | 11% | 56% | Median |
-| 98 | 11% | 44% |  |
-| 99 | 9% | 34% |  |
-| 100 | 7% | 24% |  |
-| 101 | 6% | 17% |  |
-| 102 | 4% | 11% |  |
-| 103 | 3% | 7% |  |
-| 104 | 2% | 4% |  |
-| 105 | 1.2% | 3% |  |
-| 106 | 0.7% | 1.4% |  |
+| 88 | 0.1% | 99.9% |  |
+| 89 | 0.4% | 99.8% |  |
+| 90 | 0.8% | 99.4% |  |
+| 91 | 2% | 98.6% |  |
+| 92 | 3% | 97% |  |
+| 93 | 5% | 94% |  |
+| 94 | 7% | 89% |  |
+| 95 | 9% | 82% |  |
+| 96 | 11% | 72% |  |
+| 97 | 12% | 61% | Median |
+| 98 | 11% | 50% |  |
+| 99 | 10% | 39% |  |
+| 100 | 8% | 28% |  |
+| 101 | 7% | 20% |  |
+| 102 | 5% | 13% |  |
+| 103 | 3% | 9% |  |
+| 104 | 2% | 5% |  |
+| 105 | 1.4% | 3% |  |
+| 106 | 0.8% | 2% |  |
 | 107 | 0.4% | 0.7% |  |
 | 108 | 0.2% | 0.3% |  |
 | 109 | 0.1% | 0.1% |  |
