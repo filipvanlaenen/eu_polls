@@ -1,37 +1,39 @@
 # Renew Europe
 
-Members registered from **15 countries**:
+Members registered from **17 countries**:
 
-> AT, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, NL, SE, SI, SK
+> AT, BG, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, NL, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-39 seats)
+Current median: **45** seats (-32 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, FI, IE, LT, NL, SE, SI, SK
+> AT, BG, DE, DK, EE, FI, IE, LT, NL, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 38 | 36–42 | 35–43 | 34–44 | 33–45 |
+| Renew Europe | EU | 77 | 45 | 42–48 | 41–49 | 40–50 | 39–52 |
 | Democraten 66 | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–4 | 1–4 | 1–4 | 1–4 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1 | 1–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
@@ -51,8 +53,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Radikale Venstre | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
+| Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -62,30 +66,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.9% |  |
-| 33 | 0.9% | 99.7% |  |
-| 34 | 3% | 98.8% |  |
-| 35 | 6% | 96% |  |
-| 36 | 10% | 91% |  |
-| 37 | 15% | 81% |  |
-| 38 | 17% | 66% | Median |
-| 39 | 17% | 49% |  |
-| 40 | 13% | 32% |  |
-| 41 | 9% | 19% |  |
-| 42 | 5% | 11% |  |
-| 43 | 3% | 6% |  |
-| 44 | 1.5% | 3% |  |
-| 45 | 0.7% | 1.2% |  |
-| 46 | 0.3% | 0.5% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
+| 37 | 0.1% | 100% |  |
+| 38 | 0.3% | 99.9% |  |
+| 39 | 1.0% | 99.6% |  |
+| 40 | 3% | 98.6% |  |
+| 41 | 6% | 96% |  |
+| 42 | 10% | 90% |  |
+| 43 | 14% | 81% |  |
+| 44 | 16% | 67% |  |
+| 45 | 16% | 51% | Median |
+| 46 | 13% | 35% |  |
+| 47 | 9% | 22% |  |
+| 48 | 6% | 13% |  |
+| 49 | 3% | 7% |  |
+| 50 | 2% | 4% |  |
+| 51 | 1.0% | 2% |  |
+| 52 | 0.5% | 0.8% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |

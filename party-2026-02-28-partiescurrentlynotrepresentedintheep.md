@@ -1,24 +1,25 @@
 # Parties currently not represented in the EP
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> DE, EE, ES, HR, HU, IE, IT, LT, MT, NL, SI, SK
+> BG, DE, EE, ES, HR, HU, IE, IT, LT, MT, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **1** seats (0 seats)
+Current median: **8** seats (+7 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> IE
+> BG, IE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| Партия на Румен Радев [BG] (*) | BG | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -30,7 +31,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -39,6 +40,8 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
+| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -48,11 +51,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 54% | 73% | Last Result, Median |
-| 2 | 17% | 19% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 9% | 99.8% |  |
+| 7 | 36% | 91% |  |
+| 8 | 42% | 55% | Median |
+| 9 | 11% | 13% |  |
+| 10 | 1.2% | 1.3% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
