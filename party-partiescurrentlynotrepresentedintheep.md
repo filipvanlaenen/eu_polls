@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> BG, CZ, DE, EE, ES, HR, HU, IE, IT, LT, MT, NL, SI, SK
+> BG, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, MT, NL, SI, SK
 
 ## Seats
 
@@ -41,6 +41,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
 
@@ -59,8 +60,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.1% | 100% |  |
 | 6 | 8% | 99.9% |  |
 | 7 | 34% | 92% |  |
-| 8 | 42% | 58% | Median |
-| 9 | 14% | 16% |  |
+| 8 | 43% | 57% | Median |
+| 9 | 13% | 15% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

@@ -1,37 +1,38 @@
 # Progressive Alliance of Socialists and Democrats
 
-Members registered from **18 countries**:
+Members registered from **19 countries**:
 
-> AT, BG, CZ, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, MT, NL, RO, SE, SI
+> AT, BG, CZ, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, MT, NL, RO, SE, SI
 
 ## Seats
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **97** seats (-39 seats)
+Current median: **100** seats (-36 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, EE, ES, FI, HR, IE, IT, LT, MT, NL, RO, SE, SI
+> AT, DE, DK, EE, ES, FI, GR, HR, IE, IT, LT, MT, NL, RO, SE, SI
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 97 | 93–102 | 92–104 | 91–105 | 89–107 |
-| Partido Socialista Obrero Español | ES | | 19 | 17–23 | 17–24 | 17–24 | 16–24 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 100 | 96–105 | 95–106 | 94–107 | 92–109 |
 | Partito Democratico | IT | | 19 | 17–21 | 16–22 | 16–22 | 15–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 13–17 | 12–17 | 11–17 |
+| Partido Socialista Obrero Español | ES | | 18 | 17–22 | 17–23 | 16–24 | 15–24 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Socialdemokraterne | DK | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partij van de Arbeid | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Social Democrats | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -49,32 +50,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 87 | 0.1% | 100% |  |
-| 88 | 0.1% | 99.9% |  |
-| 89 | 0.4% | 99.8% |  |
-| 90 | 0.8% | 99.4% |  |
-| 91 | 2% | 98.6% |  |
-| 92 | 3% | 97% |  |
-| 93 | 5% | 94% |  |
-| 94 | 7% | 89% |  |
-| 95 | 9% | 82% |  |
-| 96 | 11% | 72% |  |
-| 97 | 12% | 61% | Median |
-| 98 | 11% | 50% |  |
-| 99 | 10% | 39% |  |
-| 100 | 8% | 28% |  |
-| 101 | 7% | 20% |  |
-| 102 | 5% | 13% |  |
-| 103 | 3% | 9% |  |
-| 104 | 2% | 5% |  |
-| 105 | 1.4% | 3% |  |
-| 106 | 0.8% | 2% |  |
-| 107 | 0.4% | 0.7% |  |
-| 108 | 0.2% | 0.3% |  |
-| 109 | 0.1% | 0.1% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
+| 90 | 0.1% | 100% |  |
+| 91 | 0.3% | 99.9% |  |
+| 92 | 0.6% | 99.6% |  |
+| 93 | 1.2% | 99.0% |  |
+| 94 | 2% | 98% |  |
+| 95 | 4% | 96% |  |
+| 96 | 6% | 92% |  |
+| 97 | 8% | 86% |  |
+| 98 | 10% | 77% |  |
+| 99 | 12% | 67% |  |
+| 100 | 12% | 56% | Median |
+| 101 | 11% | 44% |  |
+| 102 | 9% | 33% |  |
+| 103 | 7% | 23% |  |
+| 104 | 6% | 16% |  |
+| 105 | 4% | 10% |  |
+| 106 | 3% | 6% |  |
+| 107 | 2% | 4% |  |
+| 108 | 1.0% | 2% |  |
+| 109 | 0.6% | 1.1% |  |
+| 110 | 0.3% | 0.5% |  |
+| 111 | 0.1% | 0.2% |  |
+| 112 | 0.1% | 0.1% |  |
 | 113 | 0% | 0% |  |
 | 114 | 0% | 0% |  |
 | 115 | 0% | 0% |  |

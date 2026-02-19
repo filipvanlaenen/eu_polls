@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> AT, BG, DE, DK, EE, ES, FI, HR, HU, IE, IT, LT, NL, RO, SE, SI, SK
+> AT, BG, DE, DK, EE, ES, FI, GR, HR, HU, IE, IT, LT, NL, RO, SE, SI, SK
 
 ## Seats
 
@@ -19,13 +19,13 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 77 | 45 | 42–48 | 41–49 | 40–50 | 39–52 |
-| Democraten 66 | NL | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| Democraten 66 | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
-| Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Gibanje Svoboda | SI | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -56,6 +56,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij–Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -66,23 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 0.1% | 100% |  |
-| 38 | 0.3% | 99.9% |  |
-| 39 | 1.0% | 99.7% |  |
-| 40 | 3% | 98.7% |  |
-| 41 | 6% | 96% |  |
-| 42 | 10% | 91% |  |
-| 43 | 14% | 81% |  |
-| 44 | 16% | 67% |  |
-| 45 | 16% | 51% | Median |
-| 46 | 13% | 36% |  |
-| 47 | 9% | 23% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0.2% | 99.9% |  |
+| 39 | 0.9% | 99.7% |  |
+| 40 | 2% | 98.8% |  |
+| 41 | 5% | 96% |  |
+| 42 | 9% | 91% |  |
+| 43 | 13% | 82% |  |
+| 44 | 16% | 68% |  |
+| 45 | 16% | 52% | Median |
+| 46 | 13% | 37% |  |
+| 47 | 10% | 23% |  |
 | 48 | 6% | 14% |  |
 | 49 | 4% | 8% |  |
 | 50 | 2% | 4% |  |
 | 51 | 1.1% | 2% |  |
 | 52 | 0.5% | 0.9% |  |
-| 53 | 0.2% | 0.3% |  |
+| 53 | 0.2% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |

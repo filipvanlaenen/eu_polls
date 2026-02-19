@@ -1,43 +1,46 @@
 # European United Left–Nordic Green Left
 
-Members registered from **11 countries**:
+Members registered from **12 countries**:
 
-> AT, DE, DK, EE, ES, FI, IE, IT, NL, SE, SI
+> AT, DE, DK, EE, ES, FI, GR, IE, IT, NL, SE, SI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-8 seats)
+Current median: **40** seats (-6 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> DE, DK, ES, FI, IE, IT, SE
+> DE, DK, ES, FI, GR, IE, IT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 38 | 35–41 | 34–42 | 34–43 | 32–44 |
-| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–12 | 8–14 |
-| Die Linke | DE | | 10 | 9–11 | 8–13 | 8–13 | 8–14 |
+| European United Left–Nordic Green Left | EU | 46 | 40 | 37–43 | 36–44 | 35–44 | 34–46 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–12 | 8–14 |
+| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
-| Podemos | ES | | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Vasemmistoliitto | FI | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0 |
+| Socialistische Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -47,22 +50,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.9% |  |
-| 33 | 1.3% | 99.4% |  |
-| 34 | 3% | 98% |  |
-| 35 | 6% | 95% |  |
-| 36 | 10% | 89% |  |
-| 37 | 14% | 78% |  |
-| 38 | 17% | 64% | Median |
-| 39 | 16% | 47% |  |
-| 40 | 13% | 31% |  |
-| 41 | 9% | 18% |  |
-| 42 | 5% | 9% |  |
-| 43 | 2% | 4% |  |
-| 44 | 1.0% | 1.4% |  |
-| 45 | 0.3% | 0.4% |  |
-| 46 | 0.1% | 0.1% | Last Result |
-| 47 | 0% | 0% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.2% | 99.9% |  |
+| 34 | 0.7% | 99.7% |  |
+| 35 | 2% | 99.0% |  |
+| 36 | 4% | 97% |  |
+| 37 | 8% | 93% |  |
+| 38 | 12% | 85% |  |
+| 39 | 16% | 73% |  |
+| 40 | 17% | 57% | Median |
+| 41 | 15% | 40% |  |
+| 42 | 11% | 25% |  |
+| 43 | 7% | 13% |  |
+| 44 | 4% | 6% |  |
+| 45 | 2% | 2% |  |
+| 46 | 0.6% | 0.8% | Last Result |
+| 47 | 0.2% | 0.2% |  |
+| 48 | 0% | 0% |  |
 
 
