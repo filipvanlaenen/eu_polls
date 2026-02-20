@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **15 countries**:
+Members registered from **14 countries**:
 
-> BG, CZ, DE, EE, ES, GR, HR, HU, IE, IT, LT, MT, NL, SI, SK
+> BG, CZ, DE, EE, ES, GR, HR, IE, IT, LT, MT, NL, SI, SK
 
 ## Seats
 
@@ -30,10 +30,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Második Reformkor [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Nép Pártján [HU] (*) | HU | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -59,7 +57,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
 | 6 | 8% | 99.9% |  |
-| 7 | 34% | 92% |  |
+| 7 | 35% | 92% |  |
 | 8 | 43% | 57% | Median |
 | 9 | 13% | 15% |  |
 | 10 | 2% | 2% |  |

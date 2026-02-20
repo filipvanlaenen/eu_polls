@@ -18,8 +18,8 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 60 | 57–64 | 56–64 | 55–65 | 53–67 |
-| Fratelli d’Italia | IT | | 25 | 23–27 | 21–28 | 21–28 | 21–29 |
+| European Conservatives and Reformists | EU | 78 | 60 | 57–64 | 56–65 | 55–65 | 53–67 |
+| Fratelli d’Italia | IT | | 25 | 23–28 | 21–28 | 21–28 | 21–29 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -48,24 +48,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0.2% | 100% |  |
-| 53 | 0.5% | 99.8% |  |
-| 54 | 1.4% | 99.3% |  |
-| 55 | 3% | 98% |  |
-| 56 | 5% | 95% |  |
-| 57 | 8% | 90% |  |
-| 58 | 11% | 82% |  |
-| 59 | 13% | 71% |  |
-| 60 | 15% | 58% | Median |
-| 61 | 14% | 43% |  |
-| 62 | 11% | 30% |  |
-| 63 | 8% | 18% |  |
-| 64 | 5% | 10% |  |
-| 65 | 3% | 5% |  |
-| 66 | 1.3% | 2% |  |
-| 67 | 0.5% | 0.7% |  |
-| 68 | 0.2% | 0.2% |  |
-| 69 | 0% | 0% |  |
+| 52 | 0.1% | 100% |  |
+| 53 | 0.4% | 99.8% |  |
+| 54 | 1.1% | 99.4% |  |
+| 55 | 2% | 98% |  |
+| 56 | 4% | 96% |  |
+| 57 | 7% | 91% |  |
+| 58 | 10% | 84% |  |
+| 59 | 13% | 74% |  |
+| 60 | 14% | 61% | Median |
+| 61 | 14% | 46% |  |
+| 62 | 12% | 32% |  |
+| 63 | 9% | 20% |  |
+| 64 | 6% | 11% |  |
+| 65 | 3% | 6% |  |
+| 66 | 2% | 2% |  |
+| 67 | 0.6% | 0.9% |  |
+| 68 | 0.2% | 0.3% |  |
+| 69 | 0.1% | 0.1% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
