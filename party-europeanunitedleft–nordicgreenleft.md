@@ -18,7 +18,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 41 | 38–45 | 37–45 | 37–46 | 35–48 |
+| European United Left–Nordic Green Left | EU | 46 | 41 | 38–44 | 37–45 | 37–46 | 35–48 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
@@ -31,7 +31,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -59,19 +59,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0.6% | 99.8% |  |
 | 36 | 2% | 99.2% |  |
 | 37 | 3% | 98% |  |
-| 38 | 6% | 94% |  |
-| 39 | 10% | 88% |  |
-| 40 | 14% | 78% |  |
-| 41 | 16% | 64% | Median |
-| 42 | 16% | 48% |  |
-| 43 | 13% | 32% |  |
-| 44 | 9% | 19% |  |
-| 45 | 5% | 10% |  |
-| 46 | 3% | 5% | Last Result |
-| 47 | 1.2% | 2% |  |
-| 48 | 0.5% | 0.7% |  |
+| 38 | 7% | 94% |  |
+| 39 | 11% | 88% |  |
+| 40 | 14% | 77% |  |
+| 41 | 16% | 63% | Median |
+| 42 | 16% | 46% |  |
+| 43 | 13% | 31% |  |
+| 44 | 9% | 18% |  |
+| 45 | 5% | 9% |  |
+| 46 | 3% | 4% | Last Result |
+| 47 | 1.1% | 2% |  |
+| 48 | 0.4% | 0.7% |  |
 | 49 | 0.2% | 0.2% |  |
-| 50 | 0.1% | 0.1% |  |
+| 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
 

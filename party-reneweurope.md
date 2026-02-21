@@ -18,12 +18,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 46 | 43–50 | 42–51 | 42–52 | 40–54 |
+| Renew Europe | EU | 77 | 46 | 43–50 | 43–51 | 42–52 | 41–54 |
 | Democraten 66 | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 3 | 1–4 | 1–4 | 1–4 | 1–5 |
+| Fianna Fáil | IE | | 3 | 2–4 | 1–4 | 1–4 | 1–5 |
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -71,17 +71,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.9% |  |
-| 41 | 1.4% | 99.4% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 1.1% | 99.6% |  |
 | 42 | 3% | 98% |  |
-| 43 | 6% | 95% |  |
-| 44 | 10% | 88% |  |
-| 45 | 14% | 78% |  |
-| 46 | 16% | 64% | Median |
-| 47 | 15% | 48% |  |
+| 43 | 6% | 96% |  |
+| 44 | 10% | 89% |  |
+| 45 | 14% | 79% |  |
+| 46 | 16% | 65% | Median |
+| 47 | 15% | 49% |  |
 | 48 | 12% | 34% |  |
 | 49 | 9% | 22% |  |
-| 50 | 6% | 13% |  |
+| 50 | 6% | 14% |  |
 | 51 | 4% | 8% |  |
 | 52 | 2% | 4% |  |
 | 53 | 1.1% | 2% |  |

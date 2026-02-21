@@ -33,7 +33,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Fine Gael | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 136 | 0.1% | 100% |  |
+| 136 | 0% | 100% |  |
 | 137 | 0.1% | 99.9% |  |
 | 138 | 0.2% | 99.8% |  |
 | 139 | 0.4% | 99.6% |  |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 144 | 3% | 94% |  |
 | 145 | 4% | 91% |  |
 | 146 | 6% | 86% |  |
-| 147 | 7% | 80% |  |
-| 148 | 8% | 73% |  |
+| 147 | 7% | 81% |  |
+| 148 | 8% | 74% |  |
 | 149 | 9% | 65% |  |
 | 150 | 10% | 56% | Median |
 | 151 | 10% | 46% |  |
@@ -94,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 8% | 27% |  |
 | 154 | 6% | 20% |  |
 | 155 | 5% | 13% |  |
-| 156 | 3% | 8% |  |
+| 156 | 3% | 9% |  |
 | 157 | 2% | 5% |  |
 | 158 | 1.4% | 3% |  |
 | 159 | 0.8% | 2% |  |
