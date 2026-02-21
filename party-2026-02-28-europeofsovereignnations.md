@@ -1,26 +1,27 @@
 # Europe of Sovereign Nations
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> BG, CZ, DE, HU, NL, SK
+> BG, CZ, DE, HU, NL, PL, SK
 
 ## Seats
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **30** seats (+5 seats)
+Current median: **35** seats (+10 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> BG, CZ, DE, HU, NL, SK
+> BG, CZ, DE, HU, NL, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 30 | 28–32 | 27–33 | 27–34 | 26–35 |
+| Europe of Sovereign Nations | EU | 25 | 35 | 32–37 | 32–38 | 31–39 | 30–40 |
 | Alternative für Deutschland | DE | | 23 | 22–25 | 22–25 | 21–26 | 20–28 |
-| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Nowa Nadzieja | PL | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Svoboda a přímá demokracie | CZ | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -34,19 +35,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.2% | 100% | Last Result |
-| 26 | 1.0% | 99.8% |  |
-| 27 | 4% | 98.7% |  |
-| 28 | 10% | 95% |  |
-| 29 | 18% | 85% |  |
-| 30 | 23% | 67% | Median |
-| 31 | 21% | 44% |  |
-| 32 | 14% | 23% |  |
-| 33 | 6% | 10% |  |
-| 34 | 2% | 3% |  |
-| 35 | 0.7% | 1.0% |  |
-| 36 | 0.2% | 0.3% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 25 | 0% | 100% | Last Result |
+| 26 | 0% | 100% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0.2% | 100% |  |
+| 30 | 0.9% | 99.8% |  |
+| 31 | 3% | 98.8% |  |
+| 32 | 8% | 96% |  |
+| 33 | 14% | 88% |  |
+| 34 | 20% | 74% |  |
+| 35 | 21% | 54% | Median |
+| 36 | 16% | 33% |  |
+| 37 | 10% | 17% |  |
+| 38 | 5% | 7% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.6% | 0.8% |  |
+| 41 | 0.2% | 0.2% |  |
+| 42 | 0% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
