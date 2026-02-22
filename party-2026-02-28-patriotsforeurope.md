@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 57 | 54–59 | 53–60 | 53–61 | 51–62 |
+| Patriots for Europe | EU | 84 | 57 | 54–59 | 53–60 | 52–61 | 51–62 |
 | Vox | ES | | 13 | 11–14 | 11–15 | 10–15 | 10–15 |
 | ANO 2011 | CZ | | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
@@ -44,16 +44,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.1% | 100% |  |
-| 51 | 0.5% | 99.8% |  |
+| 51 | 0.6% | 99.8% |  |
 | 52 | 2% | 99.3% |  |
-| 53 | 5% | 98% |  |
+| 53 | 5% | 97% |  |
 | 54 | 9% | 93% |  |
 | 55 | 15% | 84% |  |
 | 56 | 18% | 69% |  |
 | 57 | 18% | 51% | Median |
 | 58 | 15% | 33% |  |
 | 59 | 10% | 18% |  |
-| 60 | 5% | 9% |  |
+| 60 | 5% | 8% |  |
 | 61 | 2% | 3% |  |
 | 62 | 0.8% | 1.1% |  |
 | 63 | 0.2% | 0.3% |  |

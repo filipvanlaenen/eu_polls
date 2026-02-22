@@ -18,9 +18,9 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 41 | 38–44 | 37–45 | 37–46 | 35–48 |
+| European United Left–Nordic Green Left | EU | 46 | 41 | 38–45 | 37–46 | 37–46 | 35–48 |
 | Movimento 5 Stelle | IT | | 11 | 9–11 | 9–12 | 8–12 | 8–13 |
-| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–13 | 8–13 |
+| Die Linke | DE | | 10 | 9–11 | 8–13 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Podemos | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
@@ -28,7 +28,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -41,7 +41,7 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Lewica Razem | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Socialistische Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
@@ -56,22 +56,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0% | 100% |  |
 | 34 | 0.2% | 99.9% |  |
-| 35 | 0.6% | 99.8% |  |
-| 36 | 2% | 99.2% |  |
-| 37 | 4% | 98% |  |
-| 38 | 7% | 94% |  |
-| 39 | 11% | 87% |  |
-| 40 | 14% | 77% |  |
-| 41 | 16% | 62% | Median |
-| 42 | 16% | 46% |  |
-| 43 | 13% | 31% |  |
-| 44 | 9% | 18% |  |
-| 45 | 5% | 9% |  |
-| 46 | 3% | 4% | Last Result |
-| 47 | 1.1% | 2% |  |
-| 48 | 0.4% | 0.6% |  |
-| 49 | 0.1% | 0.2% |  |
-| 50 | 0% | 0.1% |  |
+| 35 | 0.5% | 99.8% |  |
+| 36 | 1.4% | 99.3% |  |
+| 37 | 3% | 98% |  |
+| 38 | 6% | 95% |  |
+| 39 | 10% | 89% |  |
+| 40 | 13% | 79% |  |
+| 41 | 16% | 65% | Median |
+| 42 | 16% | 50% |  |
+| 43 | 13% | 34% |  |
+| 44 | 10% | 21% |  |
+| 45 | 6% | 11% |  |
+| 46 | 3% | 5% | Last Result |
+| 47 | 1.4% | 2% |  |
+| 48 | 0.6% | 0.8% |  |
+| 49 | 0.2% | 0.3% |  |
+| 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 
 
