@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (-31 seats)
+Current median: **47** seats (-30 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 46 | 43–50 | 43–51 | 42–52 | 41–54 |
+| Renew Europe | EU | 77 | 47 | 43–50 | 43–51 | 42–52 | 41–54 |
 | Democraten 66 | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -38,7 +38,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -48,7 +48,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -75,20 +75,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 41 | 1.1% | 99.6% |  |
 | 42 | 3% | 98% |  |
 | 43 | 6% | 96% |  |
-| 44 | 10% | 89% |  |
-| 45 | 14% | 79% |  |
-| 46 | 16% | 65% | Median |
-| 47 | 15% | 49% |  |
-| 48 | 12% | 34% |  |
-| 49 | 9% | 22% |  |
+| 44 | 10% | 90% |  |
+| 45 | 14% | 80% |  |
+| 46 | 16% | 66% |  |
+| 47 | 15% | 50% | Median |
+| 48 | 12% | 35% |  |
+| 49 | 9% | 23% |  |
 | 50 | 6% | 14% |  |
 | 51 | 4% | 8% |  |
-| 52 | 2% | 4% |  |
-| 53 | 1.1% | 2% |  |
-| 54 | 0.5% | 0.9% |  |
-| 55 | 0.2% | 0.4% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.2% | 2% |  |
+| 54 | 0.6% | 1.0% |  |
+| 55 | 0.3% | 0.4% |  |
 | 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |

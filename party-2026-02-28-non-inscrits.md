@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 22 | 19–25 | 18–26 | 18–27 | 16–29 |
+| Non-Inscrits | EU | 32 | 22 | 19–25 | 18–27 | 18–28 | 16–29 |
 | Konfederacja Korony Polskiej | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -32,7 +32,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Futuro Nazionale | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Futuro Nazionale | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -57,17 +57,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 4% | 98% |  |
 | 19 | 7% | 94% |  |
 | 20 | 11% | 87% |  |
-| 21 | 15% | 76% |  |
-| 22 | 17% | 61% | Median |
-| 23 | 16% | 44% |  |
-| 24 | 12% | 28% |  |
-| 25 | 8% | 16% |  |
-| 26 | 4% | 8% |  |
-| 27 | 2% | 4% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.5% | 0.8% |  |
-| 30 | 0.2% | 0.3% |  |
-| 31 | 0.1% | 0.1% |  |
+| 21 | 15% | 77% |  |
+| 22 | 17% | 62% | Median |
+| 23 | 16% | 45% |  |
+| 24 | 12% | 29% |  |
+| 25 | 8% | 17% |  |
+| 26 | 5% | 10% |  |
+| 27 | 3% | 5% |  |
+| 28 | 1.4% | 3% |  |
+| 29 | 0.7% | 1.1% |  |
+| 30 | 0.3% | 0.5% |  |
+| 31 | 0.1% | 0.2% |  |
 | 32 | 0% | 0% | Last Result |
 
 

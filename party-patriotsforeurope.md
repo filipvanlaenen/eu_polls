@@ -23,7 +23,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| Lega Nord | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 0–1 |
@@ -44,19 +44,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.1% | 100% |  |
-| 51 | 0.5% | 99.9% |  |
-| 52 | 2% | 99.4% |  |
-| 53 | 4% | 98% |  |
-| 54 | 8% | 94% |  |
-| 55 | 14% | 85% |  |
-| 56 | 18% | 72% |  |
-| 57 | 18% | 54% | Median |
-| 58 | 15% | 36% |  |
-| 59 | 10% | 20% |  |
-| 60 | 6% | 10% |  |
-| 61 | 3% | 4% |  |
-| 62 | 1.0% | 1.4% |  |
-| 63 | 0.3% | 0.4% |  |
+| 51 | 0.5% | 99.8% |  |
+| 52 | 2% | 99.3% |  |
+| 53 | 5% | 98% |  |
+| 54 | 9% | 93% |  |
+| 55 | 15% | 84% |  |
+| 56 | 18% | 69% |  |
+| 57 | 18% | 51% | Median |
+| 58 | 15% | 33% |  |
+| 59 | 10% | 18% |  |
+| 60 | 5% | 9% |  |
+| 61 | 2% | 3% |  |
+| 62 | 0.8% | 1.1% |  |
+| 63 | 0.2% | 0.3% |  |
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
