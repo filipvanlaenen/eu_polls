@@ -18,7 +18,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 6–8 | 6–9 | 6–9 | 6–10 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | Партия на Румен Радев [BG] (*) | BG | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -42,7 +42,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
-| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0–1 |
+| Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -57,11 +57,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 10% | 99.9% |  |
-| 7 | 39% | 90% |  |
-| 8 | 42% | 50% | Median |
+| 6 | 9% | 99.9% |  |
+| 7 | 39% | 91% |  |
+| 8 | 44% | 53% | Median |
 | 9 | 8% | 9% |  |
-| 10 | 0.6% | 0.7% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
 

@@ -18,17 +18,17 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 33 | 30–36 | 30–37 | 29–37 | 28–39 |
+| Greens–European Free Alliance | EU | 53 | 33 | 30–36 | 30–36 | 29–37 | 28–38 |
 | Bündnis 90/Die Grünen | DE | | 11 | 9–13 | 9–14 | 9–14 | 9–14 |
 | Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Volt Europa | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
@@ -37,7 +37,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
+| Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -57,19 +57,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.2% | 100% |  |
-| 28 | 0.9% | 99.8% |  |
-| 29 | 3% | 98.9% |  |
-| 30 | 7% | 96% |  |
-| 31 | 12% | 89% |  |
-| 32 | 17% | 78% |  |
-| 33 | 19% | 61% | Median |
-| 34 | 17% | 42% |  |
-| 35 | 12% | 26% |  |
-| 36 | 8% | 13% |  |
-| 37 | 4% | 6% |  |
-| 38 | 1.5% | 2% |  |
-| 39 | 0.4% | 0.6% |  |
+| 27 | 0.3% | 100% |  |
+| 28 | 1.1% | 99.7% |  |
+| 29 | 3% | 98.6% |  |
+| 30 | 8% | 95% |  |
+| 31 | 13% | 88% |  |
+| 32 | 17% | 75% |  |
+| 33 | 19% | 57% | Median |
+| 34 | 16% | 38% |  |
+| 35 | 11% | 22% |  |
+| 36 | 7% | 11% |  |
+| 37 | 3% | 5% |  |
+| 38 | 1.1% | 2% |  |
+| 39 | 0.3% | 0.4% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% |  |

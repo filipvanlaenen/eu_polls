@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (-31 seats)
+Current median: **47** seats (-30 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,27 +18,27 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 46 | 43–50 | 43–51 | 42–52 | 41–54 |
+| Renew Europe | EU | 77 | 47 | 44–50 | 43–51 | 42–53 | 41–54 |
 | Democraten 66 | NL | | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 3 | 2–4 | 1–4 | 1–4 | 1–5 |
+| Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -70,25 +70,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 39 | 0.1% | 100% |  |
-| 40 | 0.4% | 99.9% |  |
-| 41 | 1.2% | 99.5% |  |
-| 42 | 3% | 98% |  |
-| 43 | 6% | 95% |  |
-| 44 | 10% | 89% |  |
-| 45 | 14% | 79% |  |
-| 46 | 16% | 65% | Median |
-| 47 | 15% | 49% |  |
-| 48 | 12% | 35% |  |
-| 49 | 9% | 23% |  |
-| 50 | 6% | 14% |  |
-| 51 | 4% | 8% |  |
-| 52 | 2% | 4% |  |
-| 53 | 1.2% | 2% |  |
-| 54 | 0.6% | 1.0% |  |
-| 55 | 0.3% | 0.4% |  |
-| 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 40 | 0.1% | 100% |  |
+| 41 | 0.6% | 99.8% |  |
+| 42 | 2% | 99.3% |  |
+| 43 | 5% | 97% |  |
+| 44 | 9% | 93% |  |
+| 45 | 13% | 84% |  |
+| 46 | 16% | 70% |  |
+| 47 | 16% | 54% | Median |
+| 48 | 13% | 38% |  |
+| 49 | 10% | 25% |  |
+| 50 | 7% | 16% |  |
+| 51 | 4% | 9% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.4% | 3% |  |
+| 54 | 0.7% | 1.1% |  |
+| 55 | 0.3% | 0.5% |  |
+| 56 | 0.1% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |

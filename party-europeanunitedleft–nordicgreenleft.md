@@ -18,16 +18,17 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 42 | 38–45 | 37–46 | 37–47 | 35–48 |
+| European United Left–Nordic Green Left | EU | 46 | 42 | 38–45 | 37–46 | 37–46 | 35–48 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 10 | 9–11 | 8–13 | 8–13 | 8–13 |
-| Sinn Féin | IE | | 5 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Sinn Féin | IE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Podemos | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,7 +36,6 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
-| Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
@@ -60,16 +60,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 1.4% | 99.3% |  |
 | 37 | 3% | 98% |  |
 | 38 | 6% | 95% |  |
-| 39 | 9% | 89% |  |
-| 40 | 13% | 80% |  |
-| 41 | 15% | 67% |  |
-| 42 | 16% | 52% | Median |
-| 43 | 13% | 36% |  |
-| 44 | 10% | 23% |  |
-| 45 | 6% | 13% |  |
+| 39 | 10% | 89% |  |
+| 40 | 13% | 79% |  |
+| 41 | 15% | 66% |  |
+| 42 | 16% | 51% | Median |
+| 43 | 13% | 35% |  |
+| 44 | 10% | 22% |  |
+| 45 | 6% | 12% |  |
 | 46 | 3% | 6% | Last Result |
-| 47 | 2% | 3% |  |
-| 48 | 0.7% | 1.0% |  |
+| 47 | 2% | 2% |  |
+| 48 | 0.6% | 0.9% |  |
 | 49 | 0.2% | 0.3% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
