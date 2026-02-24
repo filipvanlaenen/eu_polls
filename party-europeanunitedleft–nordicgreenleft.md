@@ -8,7 +8,7 @@ Members registered from **14 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **42** seats (-4 seats)
+Current median: **41** seats (-5 seats)
 
 At least one member in **9 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 42 | 38–45 | 37–46 | 37–46 | 35–48 |
+| European United Left–Nordic Green Left | EU | 46 | 41 | 38–45 | 37–45 | 37–46 | 35–48 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–12 | 8–13 |
-| Die Linke | DE | | 10 | 9–11 | 8–13 | 8–13 | 8–13 |
+| Die Linke | DE | | 10 | 9–11 | 9–13 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Podemos | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
@@ -39,9 +39,9 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
-| Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0% | 100% |  |
 | 34 | 0.2% | 99.9% |  |
-| 35 | 0.5% | 99.8% |  |
-| 36 | 1.4% | 99.3% |  |
+| 35 | 0.6% | 99.8% |  |
+| 36 | 1.5% | 99.2% |  |
 | 37 | 3% | 98% |  |
-| 38 | 6% | 95% |  |
-| 39 | 10% | 89% |  |
-| 40 | 13% | 79% |  |
-| 41 | 15% | 66% |  |
-| 42 | 16% | 51% | Median |
-| 43 | 13% | 35% |  |
-| 44 | 10% | 22% |  |
-| 45 | 6% | 12% |  |
-| 46 | 3% | 6% | Last Result |
-| 47 | 2% | 2% |  |
-| 48 | 0.6% | 0.9% |  |
-| 49 | 0.2% | 0.3% |  |
+| 38 | 6% | 94% |  |
+| 39 | 10% | 88% |  |
+| 40 | 14% | 78% |  |
+| 41 | 16% | 65% | Median |
+| 42 | 16% | 49% |  |
+| 43 | 13% | 33% |  |
+| 44 | 9% | 20% |  |
+| 45 | 6% | 10% |  |
+| 46 | 3% | 5% | Last Result |
+| 47 | 1.3% | 2% |  |
+| 48 | 0.5% | 0.7% |  |
+| 49 | 0.2% | 0.2% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
 

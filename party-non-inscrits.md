@@ -20,7 +20,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 23 | 20–26 | 20–27 | 19–28 | 18–30 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -32,7 +32,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Futuro Nazionale | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| Futuro Nazionale | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,19 +52,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.8% | 99.8% |  |
-| 19 | 3% | 99.1% |  |
-| 20 | 7% | 96% |  |
-| 21 | 13% | 89% |  |
-| 22 | 18% | 76% |  |
-| 23 | 19% | 58% | Median |
-| 24 | 16% | 39% |  |
-| 25 | 10% | 24% |  |
-| 26 | 6% | 13% |  |
-| 27 | 3% | 7% |  |
+| 18 | 0.7% | 99.9% |  |
+| 19 | 3% | 99.2% |  |
+| 20 | 7% | 97% |  |
+| 21 | 13% | 90% |  |
+| 22 | 18% | 77% |  |
+| 23 | 19% | 59% | Median |
+| 24 | 16% | 40% |  |
+| 25 | 11% | 25% |  |
+| 26 | 6% | 14% |  |
+| 27 | 4% | 8% |  |
 | 28 | 2% | 4% |  |
-| 29 | 1.0% | 2% |  |
-| 30 | 0.5% | 0.7% |  |
+| 29 | 1.1% | 2% |  |
+| 30 | 0.5% | 0.8% |  |
 | 31 | 0.2% | 0.3% |  |
 | 32 | 0.1% | 0.1% | Last Result |
 | 33 | 0% | 0% |  |
