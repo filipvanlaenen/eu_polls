@@ -14,7 +14,7 @@
 | <a href="#progressive-alliance-of-socialists-and-democrats">Progressive Alliance of Socialists and Democrats</a> | 136 | 105 | 101–110 |100–111 | 99–113 | 97–115 |
 | <a href="#european-conservatives-and-reformists">European Conservatives and Reformists</a> | 78 | 76 | 72–79 |71–81 | 70–81 | 69–83 |
 | <a href="#patriots-for-europe">Patriots for Europe</a> | 84 | 57 | 54–60 |53–61 | 52–62 | 51–63 |
-| <a href="#renew-europe">Renew Europe</a> | 77 | 46 | 43–50 |43–51 | 42–52 | 41–54 |
+| <a href="#renew-europe">Renew Europe</a> | 77 | 46 | 44–50 |43–51 | 42–52 | 41–54 |
 | <a href="#european-united-left–nordic-green-left">European United Left–Nordic Green Left</a> | 46 | 41 | 38–45 |37–45 | 37–46 | 35–48 |
 | <a href="#europe-of-sovereign-nations">Europe of Sovereign Nations</a> | 25 | 35 | 32–37 |32–38 | 31–39 | 30–40 |
 | <a href="#greens–european-free-alliance">Greens–European Free Alliance</a> | 53 | 33 | 31–36 |30–36 | 29–37 | 28–38 |
@@ -44,11 +44,11 @@
 | 147 | 8% | 77% |  |
 | 148 | 9% | 70% |  |
 | 149 | 10% | 61% |  |
-| 150 | 10% | 52% | Median |
+| 150 | 10% | 51% | Median |
 | 151 | 9% | 42% |  |
 | 152 | 9% | 32% |  |
 | 153 | 7% | 24% |  |
-| 154 | 6% | 17% |  |
+| 154 | 6% | 16% |  |
 | 155 | 4% | 11% |  |
 | 156 | 3% | 7% |  |
 | 157 | 2% | 4% |  |
