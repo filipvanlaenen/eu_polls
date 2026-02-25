@@ -1,27 +1,29 @@
 # European United Left–Nordic Green Left
 
-Members registered from **14 countries**:
+Members registered from **18 countries**:
 
-> AT, CY, DE, DK, EE, ES, FI, GR, IE, IT, NL, PL, SE, SI
+> AT, BE, CY, DE, DK, EE, ES, FI, FR, GR, IE, IT, LU, NL, PL, PT, SE, SI
 
 ## Seats
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **41** seats (-5 seats)
+Current median: **56** seats (+10 seats)
 
-At least one member in **9 countries** have a median of 1 seat or more:
+At least one member in **11 countries** have a median of 1 seat or more:
 
-> CY, DE, DK, ES, FI, GR, IE, IT, SE
+> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 41 | 38–45 | 37–45 | 37–46 | 35–48 |
+| European United Left–Nordic Green Left | EU | 46 | 56 | 53–60 | 52–61 | 51–62 | 49–64 |
+| La France insoumise | FR | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Die Linke | DE | | 10 | 9–11 | 9–13 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -30,19 +32,24 @@ At least one member in **9 countries** have a median of 1 seat or more:
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
+| Coligação Democrática Unitária | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
+| Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
@@ -54,24 +61,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0% | 100% |  |
-| 34 | 0.2% | 99.9% |  |
-| 35 | 0.6% | 99.8% |  |
-| 36 | 1.5% | 99.2% |  |
-| 37 | 3% | 98% |  |
-| 38 | 6% | 94% |  |
-| 39 | 10% | 88% |  |
-| 40 | 14% | 78% |  |
-| 41 | 16% | 65% | Median |
-| 42 | 16% | 49% |  |
-| 43 | 13% | 33% |  |
-| 44 | 9% | 20% |  |
-| 45 | 6% | 10% |  |
-| 46 | 3% | 5% | Last Result |
-| 47 | 1.3% | 2% |  |
-| 48 | 0.5% | 0.7% |  |
-| 49 | 0.2% | 0.2% |  |
-| 50 | 0.1% | 0.1% |  |
-| 51 | 0% | 0% |  |
+| 46 | 0% | 100% | Last Result |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.6% | 99.7% |  |
+| 50 | 1.3% | 99.1% |  |
+| 51 | 3% | 98% |  |
+| 52 | 5% | 95% |  |
+| 53 | 7% | 91% |  |
+| 54 | 10% | 84% |  |
+| 55 | 12% | 74% |  |
+| 56 | 13% | 62% | Median |
+| 57 | 13% | 48% |  |
+| 58 | 12% | 35% |  |
+| 59 | 9% | 23% |  |
+| 60 | 6% | 14% |  |
+| 61 | 4% | 8% |  |
+| 62 | 2% | 4% |  |
+| 63 | 1.1% | 2% |  |
+| 64 | 0.5% | 0.7% |  |
+| 65 | 0.2% | 0.3% |  |
+| 66 | 0.1% | 0.1% |  |
+| 67 | 0% | 0% |  |
 
 

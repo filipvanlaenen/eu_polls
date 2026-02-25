@@ -1,37 +1,42 @@
 # European Conservatives and Reformists
 
-Members registered from **15 countries**:
+Members registered from **19 countries**:
 
-> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, NL, PL, RO, SE, SK
+> BE, BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **76** seats (-2 seats)
+Current median: **83** seats (+5 seats)
 
-At least one member in **13 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> CY, CZ, DK, FI, GR, HR, IT, LT, NL, PL, RO, SE, SK
+> BE, CY, CZ, DK, FI, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 76 | 72–79 | 71–81 | 70–81 | 69–83 |
+| European Conservatives and Reformists | EU | 78 | 83 | 79–87 | 78–88 | 77–89 | 76–91 |
 | Fratelli d’Italia | IT | | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | Zjednoczona Prawica | PL | | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Juiste Antwoord 2021 | NL | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Suverēnā vara | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
+| Debout la France | FR | | 0 | 0 | 0 | 0 | 0–4 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -50,25 +55,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.1% | 100% |  |
-| 68 | 0.3% | 99.9% |  |
-| 69 | 0.7% | 99.7% |  |
-| 70 | 2% | 99.0% |  |
-| 71 | 3% | 97% |  |
-| 72 | 6% | 94% |  |
-| 73 | 9% | 88% |  |
-| 74 | 12% | 80% |  |
-| 75 | 13% | 68% |  |
-| 76 | 14% | 55% | Median |
-| 77 | 13% | 41% |  |
-| 78 | 10% | 28% | Last Result |
-| 79 | 8% | 18% |  |
-| 80 | 5% | 10% |  |
-| 81 | 3% | 5% |  |
-| 82 | 1.4% | 2% |  |
-| 83 | 0.6% | 1.0% |  |
-| 84 | 0.2% | 0.4% |  |
-| 85 | 0.1% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 74 | 0.1% | 100% |  |
+| 75 | 0.3% | 99.9% |  |
+| 76 | 0.7% | 99.6% |  |
+| 77 | 2% | 98.9% |  |
+| 78 | 3% | 97% | Last Result |
+| 79 | 6% | 94% |  |
+| 80 | 8% | 88% |  |
+| 81 | 11% | 80% |  |
+| 82 | 13% | 69% |  |
+| 83 | 14% | 56% | Median |
+| 84 | 13% | 43% |  |
+| 85 | 11% | 30% |  |
+| 86 | 8% | 20% |  |
+| 87 | 5% | 12% |  |
+| 88 | 3% | 6% |  |
+| 89 | 2% | 3% |  |
+| 90 | 0.8% | 1.4% |  |
+| 91 | 0.4% | 0.6% |  |
+| 92 | 0.1% | 0.2% |  |
+| 93 | 0% | 0.1% |  |
+| 94 | 0% | 0% |  |
 
 
