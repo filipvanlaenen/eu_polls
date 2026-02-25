@@ -37,7 +37,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
 | Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 2–3 |
+| Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 2 |
 | Liberal Alliance | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokrati | SI | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -89,11 +89,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 147 | 8% | 77% |  |
 | 148 | 9% | 70% |  |
 | 149 | 10% | 61% |  |
-| 150 | 10% | 52% | Median |
+| 150 | 10% | 51% | Median |
 | 151 | 9% | 42% |  |
 | 152 | 9% | 32% |  |
 | 153 | 7% | 24% |  |
-| 154 | 6% | 17% |  |
+| 154 | 6% | 16% |  |
 | 155 | 4% | 11% |  |
 | 156 | 3% | 7% |  |
 | 157 | 2% | 4% |  |

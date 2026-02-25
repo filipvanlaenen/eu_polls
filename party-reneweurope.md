@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 46 | 43–50 | 43–51 | 42–52 | 41–54 |
+| Renew Europe | EU | 77 | 46 | 44–50 | 43–51 | 42–52 | 41–54 |
 | Democraten 66 | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Freie Demokratische Partei | DE | | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
@@ -26,7 +26,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
