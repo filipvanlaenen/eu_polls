@@ -24,13 +24,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 9 | 8–11 | 8–12 | 8–12 | 8–12 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| Lega Nord | IT | | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
+| Lega Nord | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | Chega | PT | | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | Partij voor de Vrijheid | NL | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | Vlaams Belang | BE-VLG | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Dansk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Dansk Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -56,7 +56,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0.1% | 100% |  |
 | 90 | 0.2% | 99.9% |  |
 | 91 | 0.5% | 99.6% |  |
-| 92 | 1.1% | 99.1% |  |
+| 92 | 1.0% | 99.1% |  |
 | 93 | 2% | 98% |  |
 | 94 | 3% | 96% |  |
 | 95 | 5% | 93% |  |

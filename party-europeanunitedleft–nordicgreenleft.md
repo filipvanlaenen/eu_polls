@@ -18,10 +18,10 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 56 | 52–59 | 51–61 | 50–61 | 49–63 |
+| European United Left–Nordic Green Left | EU | 46 | 56 | 52–60 | 51–61 | 50–62 | 49–63 |
 | La France insoumise | FR | | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
-| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
-| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–13 | 7–13 |
+| Movimento 5 Stelle | IT | | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
+| Die Linke | DE | | 10 | 9–11 | 8–12 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -31,7 +31,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,23 +64,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.3% | 99.9% |  |
-| 49 | 0.8% | 99.5% |  |
-| 50 | 2% | 98.7% |  |
+| 49 | 0.8% | 99.6% |  |
+| 50 | 2% | 98.8% |  |
 | 51 | 3% | 97% |  |
 | 52 | 6% | 94% |  |
 | 53 | 9% | 88% |  |
-| 54 | 11% | 79% |  |
+| 54 | 11% | 80% |  |
 | 55 | 13% | 68% |  |
-| 56 | 14% | 54% | Median |
-| 57 | 13% | 40% |  |
+| 56 | 14% | 55% | Median |
+| 57 | 13% | 41% |  |
 | 58 | 10% | 28% |  |
-| 59 | 7% | 17% |  |
+| 59 | 8% | 18% |  |
 | 60 | 5% | 10% |  |
 | 61 | 3% | 5% |  |
-| 62 | 1.4% | 2% |  |
-| 63 | 0.6% | 1.0% |  |
+| 62 | 1.4% | 3% |  |
+| 63 | 0.7% | 1.1% |  |
 | 64 | 0.3% | 0.4% |  |
-| 65 | 0.1% | 0.1% |  |
+| 65 | 0.1% | 0.2% |  |
 | 66 | 0% | 0.1% |  |
 | 67 | 0% | 0% |  |
 
