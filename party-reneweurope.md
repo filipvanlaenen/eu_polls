@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (-9 seats)
+Current median: **67** seats (-10 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 63–72 | 62–74 | 61–75 | 59–77 |
+| Renew Europe | EU | 77 | 67 | 63–72 | 62–74 | 61–75 | 59–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
 | Democraten 66 | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
@@ -45,7 +45,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -82,18 +82,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
 | 59 | 0.5% | 99.7% |  |
-| 60 | 1.1% | 99.3% |  |
+| 60 | 1.1% | 99.2% |  |
 | 61 | 2% | 98% |  |
-| 62 | 3% | 96% |  |
-| 63 | 5% | 93% |  |
+| 62 | 4% | 96% |  |
+| 63 | 5% | 92% |  |
 | 64 | 7% | 87% |  |
 | 65 | 9% | 80% |  |
 | 66 | 10% | 71% |  |
-| 67 | 11% | 61% |  |
-| 68 | 11% | 50% | Median |
+| 67 | 11% | 61% | Median |
+| 68 | 11% | 50% |  |
 | 69 | 10% | 39% |  |
 | 70 | 9% | 29% |  |
-| 71 | 7% | 21% |  |
+| 71 | 7% | 20% |  |
 | 72 | 5% | 14% |  |
 | 73 | 3% | 9% |  |
 | 74 | 2% | 5% |  |
