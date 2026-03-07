@@ -18,21 +18,21 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
+| Non-Inscrits | EU | 32 | 24 | 21–27 | 21–28 | 20–29 | 19–31 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Движение за права и свободи – Ново начало | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Άμεσης Δημοκρατίας | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Futuro Nazionale | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Futuro Nazionale | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +41,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -54,20 +54,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.2% | 100% |  |
-| 19 | 0.9% | 99.8% |  |
-| 20 | 3% | 98.9% |  |
-| 21 | 8% | 96% |  |
-| 22 | 14% | 88% |  |
-| 23 | 18% | 74% |  |
-| 24 | 19% | 56% | Median |
-| 25 | 15% | 37% |  |
-| 26 | 10% | 22% |  |
-| 27 | 6% | 12% |  |
-| 28 | 3% | 6% |  |
-| 29 | 2% | 3% |  |
-| 30 | 0.8% | 1.3% |  |
-| 31 | 0.3% | 0.5% |  |
-| 32 | 0.1% | 0.2% | Last Result |
-| 33 | 0% | 0% |  |
+| 19 | 1.1% | 99.7% |  |
+| 20 | 3% | 98.6% |  |
+| 21 | 8% | 95% |  |
+| 22 | 13% | 87% |  |
+| 23 | 17% | 74% |  |
+| 24 | 18% | 57% | Median |
+| 25 | 14% | 39% |  |
+| 26 | 10% | 25% |  |
+| 27 | 6% | 15% |  |
+| 28 | 4% | 8% |  |
+| 29 | 2% | 4% |  |
+| 30 | 1.2% | 2% |  |
+| 31 | 0.5% | 0.8% |  |
+| 32 | 0.2% | 0.3% | Last Result |
+| 33 | 0.1% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 

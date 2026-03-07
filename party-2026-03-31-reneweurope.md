@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **67** seats (-10 seats)
+Current median: **68** seats (-9 seats)
 
 At least one member in **20 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 63–72 | 62–73 | 61–74 | 59–77 |
+| Renew Europe | EU | 77 | 68 | 63–72 | 62–74 | 61–75 | 59–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
 | Democraten 66 | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| Freie Demokratische Partei | DE | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Freie Demokratische Partei | DE | | 3 | 1–4 | 0–5 | 0–5 | 0–5 |
+| Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Gibanje Svoboda | SI | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -37,7 +37,7 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Anders | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Centerpartiet | SE | | 1 | 1 | 1 | 1 | 0–1 |
+| Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -45,10 +45,10 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 1 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -81,27 +81,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
-| 59 | 0.5% | 99.7% |  |
-| 60 | 1.1% | 99.2% |  |
+| 59 | 0.4% | 99.8% |  |
+| 60 | 1.0% | 99.3% |  |
 | 61 | 2% | 98% |  |
-| 62 | 4% | 96% |  |
-| 63 | 5% | 92% |  |
-| 64 | 7% | 87% |  |
-| 65 | 9% | 79% |  |
-| 66 | 10% | 70% |  |
-| 67 | 11% | 60% | Median |
-| 68 | 11% | 49% |  |
-| 69 | 10% | 37% |  |
-| 70 | 9% | 27% |  |
-| 71 | 7% | 19% |  |
-| 72 | 5% | 12% |  |
-| 73 | 3% | 7% |  |
-| 74 | 2% | 4% |  |
-| 75 | 1.1% | 2% |  |
-| 76 | 0.6% | 1.1% |  |
-| 77 | 0.3% | 0.5% | Last Result |
-| 78 | 0.1% | 0.2% |  |
-| 79 | 0.1% | 0.1% |  |
-| 80 | 0% | 0% |  |
+| 62 | 3% | 96% |  |
+| 63 | 5% | 93% |  |
+| 64 | 7% | 88% |  |
+| 65 | 9% | 81% |  |
+| 66 | 10% | 73% |  |
+| 67 | 11% | 63% |  |
+| 68 | 11% | 52% | Median |
+| 69 | 10% | 41% |  |
+| 70 | 9% | 31% |  |
+| 71 | 7% | 22% |  |
+| 72 | 5% | 15% |  |
+| 73 | 4% | 10% |  |
+| 74 | 2% | 6% |  |
+| 75 | 2% | 3% |  |
+| 76 | 0.9% | 2% |  |
+| 77 | 0.5% | 1.0% | Last Result |
+| 78 | 0.3% | 0.5% |  |
+| 79 | 0.1% | 0.2% |  |
+| 80 | 0.1% | 0.1% |  |
+| 81 | 0% | 0% |  |
 
 
