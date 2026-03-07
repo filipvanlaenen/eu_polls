@@ -23,7 +23,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Možemo! | HR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -68,21 +68,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.2% | 100% |  |
 | 32 | 0.6% | 99.8% |  |
-| 33 | 2% | 99.1% |  |
+| 33 | 2% | 99.2% |  |
 | 34 | 4% | 97% |  |
-| 35 | 7% | 93% |  |
-| 36 | 10% | 86% |  |
-| 37 | 11% | 76% |  |
+| 35 | 7% | 94% |  |
+| 36 | 10% | 87% |  |
+| 37 | 11% | 77% |  |
 | 38 | 11% | 65% |  |
 | 39 | 10% | 54% | Median |
-| 40 | 9% | 44% |  |
-| 41 | 9% | 35% |  |
+| 40 | 9% | 45% |  |
+| 41 | 9% | 36% |  |
 | 42 | 8% | 27% |  |
 | 43 | 7% | 19% |  |
 | 44 | 5% | 12% |  |
 | 45 | 3% | 6% |  |
 | 46 | 2% | 3% |  |
-| 47 | 0.8% | 1.2% |  |
+| 47 | 0.8% | 1.3% |  |
 | 48 | 0.3% | 0.4% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |

@@ -30,7 +30,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Nowa Lewica | PL | | 4 | 3–6 | 3–6 | 3–6 | 0–6 |
 | Socialdemokraterne | DK | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| Sozialdemokratische Partei Österreichs | AT | | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Parti Socialiste | BE-FRC | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3–4 |
@@ -67,22 +67,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 2% | 97% |  |
 | 120 | 3% | 95% |  |
 | 121 | 4% | 92% |  |
-| 122 | 5% | 88% |  |
+| 122 | 5% | 87% |  |
 | 123 | 7% | 82% |  |
-| 124 | 8% | 76% |  |
-| 125 | 8% | 68% |  |
-| 126 | 9% | 60% |  |
-| 127 | 9% | 51% | Median |
-| 128 | 9% | 42% |  |
+| 124 | 8% | 75% |  |
+| 125 | 9% | 68% |  |
+| 126 | 9% | 59% |  |
+| 127 | 9% | 50% | Median |
+| 128 | 9% | 41% |  |
 | 129 | 8% | 33% |  |
 | 130 | 7% | 25% |  |
-| 131 | 5% | 19% |  |
+| 131 | 5% | 18% |  |
 | 132 | 4% | 13% |  |
 | 133 | 3% | 9% |  |
 | 134 | 2% | 6% |  |
 | 135 | 1.5% | 4% |  |
-| 136 | 1.0% | 2% | Last Result |
-| 137 | 0.6% | 1.3% |  |
+| 136 | 0.9% | 2% | Last Result |
+| 137 | 0.6% | 1.2% |  |
 | 138 | 0.3% | 0.7% |  |
 | 139 | 0.2% | 0.3% |  |
 | 140 | 0.1% | 0.2% |  |
