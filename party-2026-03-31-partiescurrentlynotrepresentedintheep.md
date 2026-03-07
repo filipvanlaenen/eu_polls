@@ -46,6 +46,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -69,8 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 8% | 99.9% |  |
 | 7 | 35% | 92% |  |
 | 8 | 43% | 57% | Median |
-| 9 | 13% | 14% |  |
-| 10 | 1.2% | 2% |  |
+| 9 | 12% | 14% |  |
+| 10 | 1.1% | 2% |  |
 | 11 | 0.1% | 0.6% |  |
 | 12 | 0.2% | 0.4% |  |
 | 13 | 0.2% | 0.3% |  |

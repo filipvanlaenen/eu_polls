@@ -19,13 +19,13 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 39 | 35–44 | 34–45 | 33–46 | 32–47 |
-| Bündnis 90/Die Grünen | DE | | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
+| Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
 | Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
-| Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Možemo! | HR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
@@ -34,7 +34,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
-| Volt Europa | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -66,24 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 0.3% | 99.9% |  |
-| 32 | 0.9% | 99.6% |  |
-| 33 | 2% | 98.7% |  |
-| 34 | 5% | 96% |  |
-| 35 | 8% | 92% |  |
-| 36 | 10% | 84% |  |
-| 37 | 11% | 73% |  |
-| 38 | 11% | 62% |  |
-| 39 | 10% | 52% | Median |
-| 40 | 9% | 42% |  |
-| 41 | 8% | 33% |  |
-| 42 | 8% | 25% |  |
-| 43 | 7% | 17% |  |
-| 44 | 5% | 10% |  |
-| 45 | 3% | 5% |  |
+| 31 | 0.2% | 100% |  |
+| 32 | 0.6% | 99.8% |  |
+| 33 | 2% | 99.1% |  |
+| 34 | 4% | 97% |  |
+| 35 | 7% | 93% |  |
+| 36 | 10% | 86% |  |
+| 37 | 11% | 76% |  |
+| 38 | 11% | 65% |  |
+| 39 | 10% | 54% | Median |
+| 40 | 9% | 44% |  |
+| 41 | 9% | 35% |  |
+| 42 | 8% | 27% |  |
+| 43 | 7% | 19% |  |
+| 44 | 5% | 12% |  |
+| 45 | 3% | 6% |  |
 | 46 | 2% | 3% |  |
-| 47 | 0.7% | 1.0% |  |
+| 47 | 0.8% | 1.2% |  |
 | 48 | 0.3% | 0.4% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
