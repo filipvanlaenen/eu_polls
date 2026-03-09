@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 34–43 | 34–45 | 33–46 | 31–47 |
+| Greens–European Free Alliance | EU | 53 | 39 | 35–44 | 34–45 | 33–46 | 31–47 |
 | Bündnis 90/Die Grünen | DE | | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
 | Europa Verde | IT | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
-| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
@@ -50,7 +50,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0 |
+| Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.5% | 99.8% |  |
-| 32 | 1.3% | 99.3% |  |
+| 32 | 1.3% | 99.4% |  |
 | 33 | 3% | 98% |  |
 | 34 | 5% | 95% |  |
 | 35 | 8% | 90% |  |

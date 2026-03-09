@@ -28,7 +28,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Independents | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -45,7 +45,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -72,18 +72,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 9% | 82% |  |
 | 55 | 11% | 73% |  |
 | 56 | 12% | 62% | Median |
-| 57 | 12% | 50% |  |
-| 58 | 11% | 38% |  |
+| 57 | 12% | 49% |  |
+| 58 | 11% | 37% |  |
 | 59 | 9% | 27% |  |
 | 60 | 7% | 18% |  |
 | 61 | 5% | 11% |  |
 | 62 | 3% | 7% |  |
 | 63 | 2% | 4% |  |
 | 64 | 1.0% | 2% |  |
-| 65 | 0.5% | 0.9% |  |
+| 65 | 0.5% | 0.8% |  |
 | 66 | 0.2% | 0.4% |  |
 | 67 | 0.1% | 0.1% |  |
-| 68 | 0% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 68 | 0% | 0% |  |
 
 

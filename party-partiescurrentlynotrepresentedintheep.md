@@ -19,7 +19,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–9 | 6–9 | 6–11 |
-| Прогресивна България [BG] (*) | BG | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| Прогресивна България [BG] (*) | BG | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -66,8 +66,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 10% | 99.9% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 10% | 99.8% |  |
 | 7 | 36% | 90% |  |
 | 8 | 40% | 54% | Median |
 | 9 | 12% | 14% |  |

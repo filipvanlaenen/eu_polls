@@ -18,12 +18,12 @@ At least one member in **20 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 62–71 | 61–73 | 60–74 | 58–76 |
+| Renew Europe | EU | 77 | 67 | 63–72 | 61–73 | 60–74 | 59–76 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 11–17 | 11–17 | 11–18 | 10–19 |
-| Democraten 66 | NL | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| Democraten 66 | NL | | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Uniunea Salvați România | RO | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Freie Demokratische Partei | DE | | 3 | 1–4 | 0–5 | 0–5 | 0–5 |
 | Gibanje Svoboda | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -32,7 +32,8 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Freie Wähler | DE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | .Nowoczesna | PL | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Anders | BE-VLG | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -42,7 +43,6 @@ At least one member in **20 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 1 | 1 | 1 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -80,28 +80,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.3% | 99.8% |  |
-| 59 | 0.8% | 99.5% |  |
-| 60 | 2% | 98.7% |  |
+| 58 | 0.3% | 99.9% |  |
+| 59 | 0.7% | 99.6% |  |
+| 60 | 1.5% | 98.9% |  |
 | 61 | 3% | 97% |  |
-| 62 | 5% | 94% |  |
-| 63 | 6% | 90% |  |
-| 64 | 8% | 83% |  |
-| 65 | 10% | 75% |  |
-| 66 | 11% | 65% |  |
-| 67 | 11% | 54% | Median |
-| 68 | 11% | 43% |  |
-| 69 | 9% | 33% |  |
-| 70 | 8% | 23% |  |
-| 71 | 6% | 16% |  |
-| 72 | 4% | 10% |  |
-| 73 | 3% | 6% |  |
-| 74 | 2% | 3% |  |
-| 75 | 0.9% | 2% |  |
-| 76 | 0.5% | 0.9% |  |
-| 77 | 0.2% | 0.4% | Last Result |
+| 62 | 4% | 95% |  |
+| 63 | 6% | 91% |  |
+| 64 | 8% | 84% |  |
+| 65 | 10% | 76% |  |
+| 66 | 11% | 67% |  |
+| 67 | 11% | 56% | Median |
+| 68 | 11% | 45% |  |
+| 69 | 10% | 35% |  |
+| 70 | 8% | 25% |  |
+| 71 | 6% | 17% |  |
+| 72 | 4% | 11% |  |
+| 73 | 3% | 7% |  |
+| 74 | 2% | 4% |  |
+| 75 | 1.0% | 2% |  |
+| 76 | 0.6% | 1.0% |  |
+| 77 | 0.3% | 0.5% | Last Result |
 | 78 | 0.1% | 0.2% |  |
-| 79 | 0% | 0.1% |  |
+| 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |
 
 
