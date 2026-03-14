@@ -31,17 +31,17 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Socialdemokraterne | DK | | 4 | 4 | 4 | 3–5 | 3–5 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Parti Socialiste | BE-FRC | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partij van de Arbeid | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Social Democrats | IE | | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
+| Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Vooruit | BE-VLG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokratikus Koalíció | HU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,20 +60,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 113 | 0.1% | 100% |  |
 | 114 | 0.1% | 99.9% |  |
-| 115 | 0.3% | 99.8% |  |
-| 116 | 0.5% | 99.5% |  |
-| 117 | 0.9% | 99.0% |  |
-| 118 | 1.5% | 98% |  |
-| 119 | 2% | 97% |  |
+| 115 | 0.3% | 99.7% |  |
+| 116 | 0.5% | 99.4% |  |
+| 117 | 0.9% | 98.9% |  |
+| 118 | 2% | 98% |  |
+| 119 | 2% | 96% |  |
 | 120 | 3% | 94% |  |
 | 121 | 4% | 91% |  |
 | 122 | 6% | 87% |  |
 | 123 | 7% | 81% |  |
 | 124 | 8% | 74% |  |
-| 125 | 9% | 67% |  |
+| 125 | 9% | 66% |  |
 | 126 | 9% | 58% | Median |
 | 127 | 9% | 49% |  |
-| 128 | 9% | 40% |  |
+| 128 | 8% | 40% |  |
 | 129 | 8% | 31% |  |
 | 130 | 6% | 24% |  |
 | 131 | 5% | 17% |  |
