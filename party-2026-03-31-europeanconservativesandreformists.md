@@ -27,11 +27,11 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Juiste Antwoord 2021 | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| Ελληνική Λύση | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suverēnā vara | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,22 +58,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 73 | 0.1% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
-| 75 | 0.5% | 99.6% |  |
-| 76 | 1.0% | 99.1% |  |
+| 75 | 0.5% | 99.7% |  |
+| 76 | 0.9% | 99.2% |  |
 | 77 | 2% | 98% |  |
 | 78 | 3% | 96% | Last Result |
 | 79 | 5% | 93% |  |
 | 80 | 7% | 88% |  |
-| 81 | 10% | 81% |  |
-| 82 | 11% | 71% |  |
+| 81 | 9% | 81% |  |
+| 82 | 12% | 72% |  |
 | 83 | 13% | 60% | Median |
-| 84 | 12% | 47% |  |
+| 84 | 13% | 48% |  |
 | 85 | 11% | 35% |  |
 | 86 | 9% | 24% |  |
 | 87 | 6% | 15% |  |
 | 88 | 4% | 8% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.2% | 2% |  |
+| 90 | 1.1% | 2% |  |
 | 91 | 0.5% | 0.8% |  |
 | 92 | 0.2% | 0.3% |  |
 | 93 | 0.1% | 0.1% |  |
