@@ -23,9 +23,9 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 8–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -73,13 +73,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 11% | 71% |  |
 | 56 | 12% | 59% | Median |
 | 57 | 12% | 47% |  |
-| 58 | 10% | 36% |  |
+| 58 | 10% | 35% |  |
 | 59 | 8% | 25% |  |
-| 60 | 6% | 17% |  |
+| 60 | 6% | 16% |  |
 | 61 | 4% | 10% |  |
 | 62 | 3% | 6% |  |
 | 63 | 2% | 3% |  |
-| 64 | 0.9% | 2% |  |
+| 64 | 0.8% | 2% |  |
 | 65 | 0.4% | 0.7% |  |
 | 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |

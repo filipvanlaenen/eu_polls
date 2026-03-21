@@ -18,12 +18,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 35–44 | 34–46 | 33–47 | 32–49 |
+| Greens–European Free Alliance | EU | 53 | 39 | 35–44 | 34–46 | 33–47 | 32–48 |
 | Bündnis 90/Die Grünen | DE | | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
 | Europa Verde | IT | | 4 | 3–4 | 2–5 | 2–5 | 2–6 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
-| Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -68,26 +68,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.3% | 99.9% |  |
-| 32 | 0.9% | 99.6% |  |
+| 32 | 1.0% | 99.5% |  |
 | 33 | 2% | 98.6% |  |
-| 34 | 4% | 97% |  |
-| 35 | 6% | 93% |  |
-| 36 | 8% | 86% |  |
-| 37 | 10% | 78% |  |
-| 38 | 10% | 68% |  |
-| 39 | 10% | 58% | Median |
-| 40 | 9% | 48% |  |
-| 41 | 9% | 39% |  |
-| 42 | 8% | 30% |  |
-| 43 | 7% | 22% |  |
-| 44 | 6% | 15% |  |
-| 45 | 4% | 10% |  |
-| 46 | 3% | 6% |  |
-| 47 | 2% | 3% |  |
-| 48 | 0.8% | 1.3% |  |
+| 34 | 4% | 96% |  |
+| 35 | 7% | 92% |  |
+| 36 | 9% | 86% |  |
+| 37 | 10% | 77% |  |
+| 38 | 10% | 67% |  |
+| 39 | 10% | 57% | Median |
+| 40 | 9% | 47% |  |
+| 41 | 9% | 38% |  |
+| 42 | 8% | 29% |  |
+| 43 | 7% | 21% |  |
+| 44 | 5% | 14% |  |
+| 45 | 4% | 9% |  |
+| 46 | 2% | 5% |  |
+| 47 | 1.4% | 3% |  |
+| 48 | 0.7% | 1.2% |  |
 | 49 | 0.3% | 0.5% |  |
 | 50 | 0.1% | 0.2% |  |
-| 51 | 0% | 0.1% |  |
+| 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |
 
