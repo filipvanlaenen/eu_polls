@@ -38,7 +38,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 2–3 |
-| Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Starostové a nezávislí | CZ | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 2 | 2 |
 | Erakond Isamaa | EE | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -64,13 +64,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
-| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| TOP 09 | CZ | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
 | Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -86,7 +86,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 0% | 100% |  |
 | 156 | 0.1% | 99.9% |  |
 | 157 | 0.1% | 99.9% |  |
-| 158 | 0.2% | 99.7% |  |
+| 158 | 0.2% | 99.8% |  |
 | 159 | 0.3% | 99.6% |  |
 | 160 | 0.5% | 99.2% |  |
 | 161 | 0.7% | 98.8% |  |
@@ -114,7 +114,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 183 | 0.7% | 2% |  |
 | 184 | 0.4% | 0.9% |  |
 | 185 | 0.2% | 0.5% |  |
-| 186 | 0.1% | 0.3% |  |
+| 186 | 0.1% | 0.2% |  |
 | 187 | 0.1% | 0.1% |  |
 | 188 | 0% | 0.1% | Last Result |
 | 189 | 0% | 0% |  |

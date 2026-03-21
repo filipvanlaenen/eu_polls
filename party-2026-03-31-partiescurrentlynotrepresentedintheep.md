@@ -39,6 +39,7 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
+| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,11 +73,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 36% | 83% | Median |
 | 8 | 33% | 47% |  |
 | 9 | 11% | 13% |  |
-| 10 | 1.5% | 2% |  |
+| 10 | 2% | 2% |  |
 | 11 | 0.2% | 0.6% |  |
 | 12 | 0.2% | 0.4% |  |
 | 13 | 0.2% | 0.2% |  |
-| 14 | 0% | 0.1% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 
