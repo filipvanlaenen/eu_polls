@@ -20,14 +20,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 38 | 34–42 | 33–43 | 33–44 | 31–46 |
 | Bündnis 90/Die Grünen | DE | | 12 | 11–14 | 10–15 | 10–15 | 9–16 |
-| Europa Verde | IT | | 4 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Europa Verde | IT | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | GroenLinks | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 2 | 2–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | LIVRE | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -68,16 +68,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.5% | 99.8% |  |
-| 32 | 2% | 99.3% |  |
-| 33 | 4% | 98% |  |
+| 32 | 1.5% | 99.3% |  |
+| 33 | 3% | 98% |  |
 | 34 | 7% | 94% |  |
 | 35 | 10% | 88% |  |
 | 36 | 13% | 78% |  |
-| 37 | 14% | 64% |  |
+| 37 | 14% | 65% |  |
 | 38 | 14% | 50% | Median |
 | 39 | 11% | 37% |  |
 | 40 | 9% | 25% |  |
-| 41 | 6% | 17% |  |
+| 41 | 6% | 16% |  |
 | 42 | 4% | 10% |  |
 | 43 | 3% | 6% |  |
 | 44 | 2% | 4% |  |

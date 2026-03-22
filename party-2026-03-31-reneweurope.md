@@ -37,9 +37,8 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Laisvės partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,6 +58,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
+| Laisvės partija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -80,24 +80,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.1% | 100% |  |
-| 57 | 0.4% | 99.9% |  |
-| 58 | 1.0% | 99.5% |  |
-| 59 | 2% | 98% |  |
-| 60 | 4% | 96% |  |
-| 61 | 7% | 92% |  |
-| 62 | 10% | 84% |  |
-| 63 | 12% | 74% |  |
-| 64 | 13% | 62% | Median |
-| 65 | 13% | 48% |  |
-| 66 | 11% | 36% |  |
-| 67 | 9% | 25% |  |
-| 68 | 6% | 16% |  |
-| 69 | 4% | 10% |  |
-| 70 | 3% | 6% |  |
-| 71 | 2% | 3% |  |
-| 72 | 0.8% | 2% |  |
-| 73 | 0.4% | 0.7% |  |
-| 74 | 0.2% | 0.3% |  |
+| 57 | 0.4% | 99.8% |  |
+| 58 | 1.2% | 99.4% |  |
+| 59 | 3% | 98% |  |
+| 60 | 5% | 96% |  |
+| 61 | 8% | 91% |  |
+| 62 | 11% | 83% |  |
+| 63 | 13% | 72% |  |
+| 64 | 13% | 59% | Median |
+| 65 | 13% | 46% |  |
+| 66 | 11% | 33% |  |
+| 67 | 8% | 23% |  |
+| 68 | 6% | 15% |  |
+| 69 | 4% | 9% |  |
+| 70 | 2% | 5% |  |
+| 71 | 1.4% | 3% |  |
+| 72 | 0.7% | 1.3% |  |
+| 73 | 0.3% | 0.6% |  |
+| 74 | 0.1% | 0.2% |  |
 | 75 | 0.1% | 0.1% |  |
 | 76 | 0% | 0% |  |
 | 77 | 0% | 0% | Last Result |

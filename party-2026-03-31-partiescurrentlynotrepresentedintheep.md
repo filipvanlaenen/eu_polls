@@ -8,19 +8,20 @@ Members registered from **19 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **7** seats (+6 seats)
+Current median: **8** seats (+7 seats)
 
-At least one member in **2 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, IE
+> BG, IE, LT
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
 | Прогресивна България [BG] (*) | BG | | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -38,7 +39,6 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -69,13 +69,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 15% | 98% |  |
-| 7 | 36% | 83% | Median |
-| 8 | 34% | 47% |  |
-| 9 | 11% | 13% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.1% | 0.1% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 12% | 98.6% |  |
+| 7 | 32% | 86% |  |
+| 8 | 34% | 55% | Median |
+| 9 | 16% | 21% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.4% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 
