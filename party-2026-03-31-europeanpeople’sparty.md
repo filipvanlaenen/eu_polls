@@ -18,23 +18,23 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 168–180 | 167–181 | 165–183 | 162–185 |
+| European People’s Party | EU | 188 | 174 | 168–180 | 167–182 | 165–183 | 162–186 |
 | Partido Popular | ES | | 21 | 16–23 | 16–23 | 16–24 | 16–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 20 | 18–21 | 18–22 | 17–24 | 17–24 |
 | Platforma Obywatelska | PL | | 20 | 18–23 | 18–23 | 17–24 | 17–25 |
 | Tisztelet és Szabadság | HU | | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | Les Républicains | FR | | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
-| Aliança Democrática | PT | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–4 | 3–5 |
-| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Slovenska demokratska stranka | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
-| Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -55,9 +55,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικός Συναγερμός | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| 50Plus | NL | | 0 | 0 | 0 | 0 | 0 |
+| 50Plus | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
-| ChristenUnie | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -83,36 +83,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
+| 159 | 0.1% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
 | 162 | 0.3% | 99.6% |  |
 | 163 | 0.5% | 99.3% |  |
-| 164 | 0.8% | 98.9% |  |
+| 164 | 0.8% | 98.8% |  |
 | 165 | 1.2% | 98% |  |
 | 166 | 2% | 97% |  |
 | 167 | 2% | 95% |  |
 | 168 | 3% | 93% |  |
 | 169 | 4% | 89% |  |
 | 170 | 5% | 85% |  |
-| 171 | 7% | 80% |  |
-| 172 | 8% | 73% |  |
-| 173 | 8% | 65% |  |
-| 174 | 9% | 57% | Median |
-| 175 | 9% | 48% |  |
-| 176 | 8% | 39% |  |
-| 177 | 8% | 31% |  |
-| 178 | 6% | 23% |  |
-| 179 | 5% | 17% |  |
-| 180 | 4% | 12% |  |
+| 171 | 6% | 80% |  |
+| 172 | 7% | 73% |  |
+| 173 | 8% | 66% |  |
+| 174 | 9% | 58% | Median |
+| 175 | 9% | 49% |  |
+| 176 | 8% | 40% |  |
+| 177 | 8% | 32% |  |
+| 178 | 6% | 24% |  |
+| 179 | 5% | 18% |  |
+| 180 | 4% | 13% |  |
 | 181 | 3% | 8% |  |
 | 182 | 2% | 5% |  |
-| 183 | 1.2% | 3% |  |
-| 184 | 0.8% | 2% |  |
-| 185 | 0.4% | 0.9% |  |
-| 186 | 0.2% | 0.5% |  |
-| 187 | 0.1% | 0.2% |  |
+| 183 | 1.4% | 3% |  |
+| 184 | 0.9% | 2% |  |
+| 185 | 0.5% | 1.1% |  |
+| 186 | 0.3% | 0.6% |  |
+| 187 | 0.2% | 0.3% |  |
 | 188 | 0.1% | 0.1% | Last Result |
-| 189 | 0% | 0% |  |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 

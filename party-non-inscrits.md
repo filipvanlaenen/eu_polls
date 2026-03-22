@@ -41,7 +41,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -54,19 +54,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
-| 17 | 0.6% | 99.9% |  |
-| 18 | 2% | 99.3% |  |
+| 17 | 0.6% | 99.8% |  |
+| 18 | 2% | 99.2% |  |
 | 19 | 6% | 97% |  |
 | 20 | 11% | 91% |  |
 | 21 | 16% | 80% |  |
-| 22 | 17% | 64% | Median |
-| 23 | 15% | 47% |  |
-| 24 | 12% | 31% |  |
-| 25 | 8% | 20% |  |
-| 26 | 5% | 12% |  |
+| 22 | 17% | 63% | Median |
+| 23 | 15% | 46% |  |
+| 24 | 11% | 31% |  |
+| 25 | 8% | 19% |  |
+| 26 | 5% | 11% |  |
 | 27 | 3% | 6% |  |
 | 28 | 2% | 3% |  |
-| 29 | 0.8% | 1.2% |  |
+| 29 | 0.7% | 1.1% |  |
 | 30 | 0.3% | 0.4% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% | Last Result |

@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (+8 seats)
+Current median: **55** seats (+9 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 54 | 51–59 | 50–60 | 49–61 | 47–63 |
+| European United Left–Nordic Green Left | EU | 46 | 55 | 51–59 | 50–60 | 49–61 | 47–63 |
 | Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 8–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
 | La France insoumise | FR | | 10 | 9–11 | 8–12 | 8–13 | 8–14 |
@@ -45,7 +45,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -63,25 +63,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 45 | 0.1% | 100% |  |
 | 46 | 0.2% | 99.9% | Last Result |
-| 47 | 0.6% | 99.7% |  |
-| 48 | 1.3% | 99.1% |  |
-| 49 | 3% | 98% |  |
-| 50 | 5% | 95% |  |
-| 51 | 7% | 91% |  |
-| 52 | 10% | 83% |  |
-| 53 | 12% | 74% |  |
-| 54 | 13% | 62% | Median |
-| 55 | 12% | 49% |  |
-| 56 | 11% | 37% |  |
-| 57 | 9% | 26% |  |
-| 58 | 7% | 17% |  |
-| 59 | 4% | 10% |  |
-| 60 | 3% | 6% |  |
-| 61 | 2% | 3% |  |
-| 62 | 0.8% | 1.5% |  |
-| 63 | 0.4% | 0.7% |  |
-| 64 | 0.2% | 0.3% |  |
-| 65 | 0.1% | 0.1% |  |
-| 66 | 0% | 0% |  |
+| 47 | 0.5% | 99.8% |  |
+| 48 | 1.1% | 99.3% |  |
+| 49 | 2% | 98% |  |
+| 50 | 4% | 96% |  |
+| 51 | 6% | 92% |  |
+| 52 | 9% | 85% |  |
+| 53 | 11% | 77% |  |
+| 54 | 12% | 65% |  |
+| 55 | 13% | 53% | Median |
+| 56 | 11% | 40% |  |
+| 57 | 10% | 29% |  |
+| 58 | 7% | 19% |  |
+| 59 | 5% | 12% |  |
+| 60 | 3% | 7% |  |
+| 61 | 2% | 4% |  |
+| 62 | 1.0% | 2% |  |
+| 63 | 0.5% | 0.9% |  |
+| 64 | 0.2% | 0.4% |  |
+| 65 | 0.1% | 0.2% |  |
+| 66 | 0% | 0.1% |  |
+| 67 | 0% | 0% |  |
 
 
