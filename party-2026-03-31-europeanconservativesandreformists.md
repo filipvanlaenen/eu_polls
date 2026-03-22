@@ -36,13 +36,13 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suverēnā vara | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Debout la France | FR | | 0 | 0 | 0 | 0 | 0–4 |
+| Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
 | Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -58,25 +58,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 73 | 0.1% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
-| 75 | 0.4% | 99.7% |  |
+| 75 | 0.5% | 99.7% |  |
 | 76 | 1.0% | 99.3% |  |
 | 77 | 2% | 98% |  |
 | 78 | 3% | 96% | Last Result |
 | 79 | 5% | 93% |  |
-| 80 | 8% | 88% |  |
+| 80 | 8% | 87% |  |
 | 81 | 10% | 80% |  |
-| 82 | 12% | 70% |  |
-| 83 | 13% | 58% | Median |
-| 84 | 12% | 45% |  |
-| 85 | 11% | 33% |  |
-| 86 | 8% | 22% |  |
-| 87 | 6% | 14% |  |
-| 88 | 4% | 8% |  |
+| 82 | 12% | 69% |  |
+| 83 | 13% | 57% | Median |
+| 84 | 12% | 44% |  |
+| 85 | 11% | 32% |  |
+| 86 | 8% | 21% |  |
+| 87 | 6% | 13% |  |
+| 88 | 4% | 7% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.1% | 2% |  |
-| 91 | 0.5% | 0.8% |  |
-| 92 | 0.2% | 0.3% |  |
-| 93 | 0.1% | 0.1% |  |
+| 90 | 1.0% | 2% |  |
+| 91 | 0.4% | 0.6% |  |
+| 92 | 0.2% | 0.2% |  |
+| 93 | 0% | 0.1% |  |
 | 94 | 0% | 0% |  |
 
 
