@@ -18,12 +18,12 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
-| Прогресивна България [BG] (*) | BG | | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| Прогресивна България [BG] (*) | BG | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -69,13 +69,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.4% | 100% |  |
-| 6 | 13% | 98.6% |  |
-| 7 | 33% | 86% |  |
-| 8 | 33% | 53% | Median |
-| 9 | 16% | 20% |  |
-| 10 | 4% | 4% |  |
-| 11 | 0.4% | 0.4% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 13% | 99.5% |  |
+| 7 | 35% | 87% |  |
+| 8 | 35% | 52% | Median |
+| 9 | 14% | 17% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
