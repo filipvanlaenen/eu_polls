@@ -21,7 +21,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Progressive Alliance of Socialists and Democrats | EU | 136 | 125 | 120–130 | 119–132 | 118–133 | 115–135 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–23 | 17–23 | 17–23 | 16–23 |
 | Partito Democratico | IT | | 19 | 17–20 | 16–21 | 15–21 | 15–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
+| Sozialdemokratische Partei Deutschlands | DE | | 14 | 12–16 | 12–16 | 11–16 | 10–17 |
 | Parti socialiste–Place Publique | FR | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | Partidul Social Democrat | RO | | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -57,11 +57,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 113 | 0.1% | 100% |  |
-| 114 | 0.1% | 99.9% |  |
+| 112 | 0% | 100% |  |
+| 113 | 0.1% | 99.9% |  |
+| 114 | 0.2% | 99.9% |  |
 | 115 | 0.3% | 99.7% |  |
 | 116 | 0.6% | 99.4% |  |
-| 117 | 1.0% | 98.9% |  |
+| 117 | 1.0% | 98.8% |  |
 | 118 | 2% | 98% |  |
 | 119 | 3% | 96% |  |
 | 120 | 4% | 93% |  |
@@ -73,13 +74,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 126 | 10% | 48% |  |
 | 127 | 9% | 38% |  |
 | 128 | 8% | 29% |  |
-| 129 | 7% | 20% |  |
+| 129 | 7% | 21% |  |
 | 130 | 5% | 14% |  |
 | 131 | 4% | 9% |  |
-| 132 | 2% | 5% |  |
+| 132 | 2% | 6% |  |
 | 133 | 1.5% | 3% |  |
-| 134 | 0.8% | 2% |  |
-| 135 | 0.5% | 0.8% |  |
+| 134 | 0.9% | 2% |  |
+| 135 | 0.5% | 0.9% |  |
 | 136 | 0.2% | 0.4% | Last Result |
 | 137 | 0.1% | 0.2% |  |
 | 138 | 0% | 0.1% |  |
