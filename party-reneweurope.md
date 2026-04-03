@@ -25,7 +25,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Gibanje Svoboda | SI | | 4 | 4 | 4 | 4 | 4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| Fianna Fáil | IE | | 3 | 3–4 | 3–4 | 2–4 | 1–5 |
 | Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 2 |
@@ -53,7 +53,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independent Ireland | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -80,23 +80,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
-| 60 | 0.4% | 99.9% |  |
-| 61 | 1.1% | 99.5% |  |
-| 62 | 3% | 98% |  |
+| 60 | 0.3% | 99.9% |  |
+| 61 | 1.0% | 99.6% |  |
+| 62 | 3% | 98.6% |  |
 | 63 | 5% | 96% |  |
-| 64 | 9% | 90% |  |
+| 64 | 9% | 91% |  |
 | 65 | 12% | 82% |  |
-| 66 | 13% | 70% |  |
-| 67 | 13% | 57% | Median |
-| 68 | 12% | 44% |  |
-| 69 | 10% | 31% |  |
-| 70 | 8% | 21% |  |
-| 71 | 6% | 14% |  |
-| 72 | 4% | 8% |  |
+| 66 | 14% | 70% |  |
+| 67 | 14% | 56% | Median |
+| 68 | 12% | 42% |  |
+| 69 | 10% | 30% |  |
+| 70 | 7% | 20% |  |
+| 71 | 5% | 12% |  |
+| 72 | 3% | 7% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.2% | 2% |  |
-| 75 | 0.6% | 1.0% |  |
-| 76 | 0.2% | 0.4% |  |
+| 74 | 1.1% | 2% |  |
+| 75 | 0.5% | 0.8% |  |
+| 76 | 0.2% | 0.3% |  |
 | 77 | 0.1% | 0.1% | Last Result |
 | 78 | 0% | 0% |  |
 
