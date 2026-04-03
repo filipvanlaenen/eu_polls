@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (+5 seats)
+Current median: **82** seats (+4 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 83 | 79–86 | 78–87 | 77–88 | 76–90 |
-| Fratelli d’Italia | IT | | 25 | 23–27 | 22–27 | 22–28 | 21–29 |
-| Zjednoczona Prawica | PL | | 15 | 13–18 | 13–18 | 13–19 | 13–19 |
-| Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 76–88 | 75–90 |
+| Fratelli d’Italia | IT | | 25 | 22–27 | 21–27 | 21–27 | 20–28 |
+| Zjednoczona Prawica | PL | | 16 | 14–18 | 13–19 | 13–19 | 13–19 |
+| Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -32,9 +32,9 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suverēnā vara | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,25 +56,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 74 | 0.1% | 100% |  |
-| 75 | 0.2% | 99.9% |  |
-| 76 | 0.7% | 99.7% |  |
-| 77 | 2% | 99.0% |  |
-| 78 | 3% | 97% | Last Result |
-| 79 | 6% | 94% |  |
-| 80 | 9% | 88% |  |
-| 81 | 12% | 79% |  |
-| 82 | 14% | 67% |  |
-| 83 | 14% | 53% | Median |
-| 84 | 13% | 39% |  |
-| 85 | 10% | 26% |  |
-| 86 | 7% | 16% |  |
-| 87 | 4% | 9% |  |
-| 88 | 3% | 5% |  |
-| 89 | 1.2% | 2% |  |
-| 90 | 0.5% | 0.8% |  |
-| 91 | 0.2% | 0.3% |  |
-| 92 | 0.1% | 0.1% |  |
-| 93 | 0% | 0% |  |
+| 73 | 0.1% | 100% |  |
+| 74 | 0.3% | 99.9% |  |
+| 75 | 0.8% | 99.5% |  |
+| 76 | 2% | 98.8% |  |
+| 77 | 3% | 97% |  |
+| 78 | 5% | 94% | Last Result |
+| 79 | 7% | 89% |  |
+| 80 | 10% | 82% |  |
+| 81 | 12% | 72% |  |
+| 82 | 13% | 60% | Median |
+| 83 | 13% | 47% |  |
+| 84 | 11% | 34% |  |
+| 85 | 9% | 22% |  |
+| 86 | 6% | 13% |  |
+| 87 | 4% | 7% |  |
+| 88 | 2% | 4% |  |
+| 89 | 0.9% | 2% |  |
+| 90 | 0.4% | 0.6% |  |
+| 91 | 0.1% | 0.2% |  |
+| 92 | 0% | 0% |  |
 
 

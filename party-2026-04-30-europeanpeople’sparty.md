@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **173** seats (-15 seats)
+Current median: **174** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 167–179 | 165–180 | 163–182 | 161–184 |
-| Partido Popular | ES | | 22 | 16–25 | 16–25 | 16–26 | 16–27 |
+| European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 164–183 | 161–186 |
+| Partido Popular | ES | | 22 | 16–25 | 16–26 | 16–26 | 16–27 |
 | Platforma Obywatelska | PL | | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 17–22 | 16–23 |
 | Tisztelet és Szabadság | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | Les Républicains | FR | | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
-| Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| Partidul Național Liberal | RO | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| Граждани за европейско развитие на България | BG | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4 | 4 | 4 | 4 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| Граждани за европейско развитие на България | BG | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -46,14 +46,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
+| Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Liberal Alliance | DK | | 1 | 1 | 1 | 1 | 1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -61,7 +60,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,7 +72,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
-| Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Демократична България | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -83,37 +83,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0.1% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.4% | 99.5% |  |
-| 162 | 0.7% | 99.1% |  |
-| 163 | 1.1% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 2% | 96% |  |
-| 166 | 3% | 94% |  |
-| 167 | 4% | 91% |  |
-| 168 | 5% | 87% |  |
-| 169 | 6% | 82% |  |
-| 170 | 7% | 76% |  |
-| 171 | 8% | 69% |  |
-| 172 | 8% | 61% |  |
-| 173 | 9% | 53% | Median |
-| 174 | 8% | 44% |  |
-| 175 | 8% | 35% |  |
-| 176 | 7% | 28% |  |
-| 177 | 6% | 21% |  |
-| 178 | 5% | 15% |  |
-| 179 | 3% | 10% |  |
-| 180 | 2% | 7% |  |
-| 181 | 2% | 4% |  |
-| 182 | 1.1% | 3% |  |
-| 183 | 0.7% | 2% |  |
-| 184 | 0.4% | 0.9% |  |
-| 185 | 0.2% | 0.5% |  |
-| 186 | 0.1% | 0.2% |  |
-| 187 | 0.1% | 0.1% |  |
-| 188 | 0% | 0.1% | Last Result |
-| 189 | 0% | 0% |  |
+| 159 | 0.1% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.3% | 99.8% |  |
+| 162 | 0.4% | 99.5% |  |
+| 163 | 0.7% | 99.1% |  |
+| 164 | 1.1% | 98% |  |
+| 165 | 2% | 97% |  |
+| 166 | 2% | 96% |  |
+| 167 | 3% | 94% |  |
+| 168 | 4% | 91% |  |
+| 169 | 4% | 87% |  |
+| 170 | 5% | 83% |  |
+| 171 | 6% | 77% |  |
+| 172 | 7% | 71% |  |
+| 173 | 8% | 64% |  |
+| 174 | 8% | 56% | Median |
+| 175 | 8% | 48% |  |
+| 176 | 8% | 40% |  |
+| 177 | 7% | 32% |  |
+| 178 | 6% | 24% |  |
+| 179 | 5% | 18% |  |
+| 180 | 4% | 13% |  |
+| 181 | 3% | 9% |  |
+| 182 | 2% | 6% |  |
+| 183 | 1.5% | 4% |  |
+| 184 | 0.9% | 2% |  |
+| 185 | 0.6% | 1.3% |  |
+| 186 | 0.3% | 0.7% |  |
+| 187 | 0.2% | 0.4% |  |
+| 188 | 0.1% | 0.2% | Last Result |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 

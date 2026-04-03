@@ -18,16 +18,16 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 125 | 119–130 | 118–131 | 117–133 | 114–135 |
-| Partido Socialista Obrero Español | ES | | 19 | 18–23 | 17–23 | 17–23 | 16–23 |
-| Partito Democratico | IT | | 18 | 17–20 | 17–21 | 15–21 | 15–22 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 125 | 120–130 | 118–132 | 117–133 | 114–135 |
+| Partido Socialista Obrero Español | ES | | 19 | 17–23 | 17–23 | 17–23 | 16–23 |
+| Partito Democratico | IT | | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 14 | 11–16 | 10–16 | 10–16 | 9–17 |
 | Parti socialiste–Place Publique | FR | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
-| Partidul Social Democrat | RO | | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
+| Partidul Social Democrat | RO | | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | Partido Socialista | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| Nowa Lewica | PL | | 4 | 2–5 | 0–5 | 0–5 | 0–6 |
+| Nowa Lewica | PL | | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | Socialdemokraterne | DK | | 4 | 4 | 4 | 4 | 4 |
 | Socijaldemokratska partija Hrvatske | HR | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -47,7 +47,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sociāldemokrātiskā partija “Saskaņa” | LV | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
-| БСП – обединена левица | BG | | 0 | 0 | 0 | 0 | 0–1 |
+| БСП – обединена левица | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -59,32 +59,32 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 111 | 0% | 100% |  |
 | 112 | 0.1% | 99.9% |  |
-| 113 | 0.2% | 99.8% |  |
-| 114 | 0.4% | 99.6% |  |
-| 115 | 0.7% | 99.3% |  |
-| 116 | 1.1% | 98.6% |  |
+| 113 | 0.2% | 99.9% |  |
+| 114 | 0.3% | 99.7% |  |
+| 115 | 0.6% | 99.4% |  |
+| 116 | 1.0% | 98.9% |  |
 | 117 | 2% | 98% |  |
-| 118 | 3% | 96% |  |
-| 119 | 4% | 93% |  |
-| 120 | 5% | 89% |  |
-| 121 | 7% | 84% |  |
-| 122 | 8% | 78% |  |
-| 123 | 9% | 70% |  |
-| 124 | 10% | 61% |  |
-| 125 | 10% | 51% | Median |
-| 126 | 9% | 41% |  |
-| 127 | 8% | 32% |  |
-| 128 | 7% | 24% |  |
-| 129 | 6% | 17% |  |
-| 130 | 4% | 11% |  |
-| 131 | 3% | 7% |  |
-| 132 | 2% | 4% |  |
-| 133 | 1.2% | 3% |  |
-| 134 | 0.7% | 1.4% |  |
-| 135 | 0.4% | 0.7% |  |
-| 136 | 0.2% | 0.3% | Last Result |
-| 137 | 0.1% | 0.1% |  |
-| 138 | 0% | 0.1% |  |
+| 118 | 2% | 96% |  |
+| 119 | 4% | 94% |  |
+| 120 | 5% | 90% |  |
+| 121 | 6% | 86% |  |
+| 122 | 8% | 79% |  |
+| 123 | 9% | 72% |  |
+| 124 | 9% | 63% |  |
+| 125 | 10% | 54% | Median |
+| 126 | 9% | 44% |  |
+| 127 | 8% | 35% |  |
+| 128 | 7% | 27% |  |
+| 129 | 6% | 19% |  |
+| 130 | 5% | 14% |  |
+| 131 | 3% | 9% |  |
+| 132 | 2% | 6% |  |
+| 133 | 1.5% | 3% |  |
+| 134 | 0.9% | 2% |  |
+| 135 | 0.5% | 1.0% |  |
+| 136 | 0.3% | 0.5% | Last Result |
+| 137 | 0.1% | 0.2% |  |
+| 138 | 0.1% | 0.1% |  |
 | 139 | 0% | 0% |  |
 
 

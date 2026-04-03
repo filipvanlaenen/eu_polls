@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-10 seats)
+Current median: **21** seats (-11 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 22 | 19–25 | 18–26 | 18–27 | 17–28 |
-| Konfederacja Korony Polskiej | PL | | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
+| Non-Inscrits | EU | 32 | 21 | 18–24 | 17–26 | 16–26 | 14–28 |
+| Konfederacja Korony Polskiej | PL | | 4 | 3–5 | 0–6 | 0–6 | 0–6 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Движение за права и свободи – Ново начало | BG | | 2 | 2 | 2–3 | 1–3 | 0–3 |
+| Движение за права и свободи – Ново начало | BG | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -39,7 +39,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
-| Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0 |
+| Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stabilitātei! | LV | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -53,21 +53,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.4% | 99.9% |  |
-| 17 | 1.3% | 99.5% |  |
-| 18 | 4% | 98% |  |
-| 19 | 8% | 95% |  |
-| 20 | 14% | 87% |  |
-| 21 | 18% | 73% |  |
-| 22 | 18% | 55% | Median |
-| 23 | 14% | 37% |  |
-| 24 | 9% | 22% |  |
-| 25 | 6% | 13% |  |
-| 26 | 4% | 7% |  |
-| 27 | 2% | 3% |  |
-| 28 | 1.0% | 1.4% |  |
-| 29 | 0.3% | 0.5% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 0.5% | 99.8% |  |
+| 15 | 1.1% | 99.3% |  |
+| 16 | 2% | 98% |  |
+| 17 | 3% | 96% |  |
+| 18 | 5% | 93% |  |
+| 19 | 9% | 88% |  |
+| 20 | 14% | 79% |  |
+| 21 | 17% | 65% | Median |
+| 22 | 17% | 48% |  |
+| 23 | 13% | 31% |  |
+| 24 | 8% | 18% |  |
+| 25 | 5% | 10% |  |
+| 26 | 3% | 5% |  |
+| 27 | 1.4% | 2% |  |
+| 28 | 0.7% | 1.0% |  |
+| 29 | 0.2% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
