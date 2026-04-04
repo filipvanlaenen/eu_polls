@@ -30,11 +30,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1 | 1 | 1–2 | 0–2 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -45,7 +45,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Levica | SI | | 0 | 0 | 0 | 0 | 0 |
 | Lewica Razem | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Partij voor de Dieren | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Partij voor de Dieren | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -67,17 +67,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 1.2% | 99.3% |  |
 | 49 | 3% | 98% |  |
 | 50 | 5% | 95% |  |
-| 51 | 8% | 90% |  |
-| 52 | 11% | 82% |  |
-| 53 | 14% | 71% |  |
-| 54 | 14% | 57% | Median |
-| 55 | 13% | 43% |  |
-| 56 | 11% | 30% |  |
-| 57 | 8% | 19% |  |
-| 58 | 5% | 11% |  |
+| 51 | 8% | 91% |  |
+| 52 | 11% | 83% |  |
+| 53 | 13% | 71% |  |
+| 54 | 14% | 58% | Median |
+| 55 | 13% | 44% |  |
+| 56 | 11% | 31% |  |
+| 57 | 8% | 20% |  |
+| 58 | 5% | 12% |  |
 | 59 | 3% | 6% |  |
 | 60 | 2% | 3% |  |
-| 61 | 0.8% | 2% |  |
+| 61 | 0.9% | 2% |  |
 | 62 | 0.4% | 0.7% |  |
 | 63 | 0.2% | 0.3% |  |
 | 64 | 0.1% | 0.1% |  |

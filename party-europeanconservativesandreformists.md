@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **82** seats (+4 seats)
+Current median: **83** seats (+5 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 76–88 | 75–90 |
+| European Conservatives and Reformists | EU | 78 | 83 | 79–87 | 78–88 | 77–89 | 75–90 |
 | Fratelli d’Italia | IT | | 25 | 22–27 | 21–27 | 21–28 | 20–28 |
 | Zjednoczona Prawica | PL | | 16 | 14–18 | 13–19 | 13–19 | 13–19 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Juiste Antwoord 2021 | NL | | 3 | 3 | 3 | 3–4 | 3–4 |
+| Juiste Antwoord 2021 | NL | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -57,25 +57,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 73 | 0.1% | 100% |  |
-| 74 | 0.3% | 99.9% |  |
-| 75 | 0.7% | 99.6% |  |
-| 76 | 2% | 98.8% |  |
-| 77 | 3% | 97% |  |
-| 78 | 5% | 95% | Last Result |
-| 79 | 7% | 90% |  |
-| 80 | 10% | 83% |  |
-| 81 | 12% | 73% |  |
-| 82 | 13% | 61% | Median |
-| 83 | 13% | 48% |  |
-| 84 | 12% | 35% |  |
-| 85 | 9% | 23% |  |
-| 86 | 6% | 14% |  |
-| 87 | 4% | 8% |  |
-| 88 | 2% | 4% |  |
-| 89 | 1.0% | 2% |  |
-| 90 | 0.4% | 0.6% |  |
-| 91 | 0.1% | 0.2% |  |
-| 92 | 0% | 0.1% |  |
+| 74 | 0.2% | 99.9% |  |
+| 75 | 0.5% | 99.7% |  |
+| 76 | 1.1% | 99.2% |  |
+| 77 | 2% | 98% |  |
+| 78 | 4% | 96% | Last Result |
+| 79 | 6% | 92% |  |
+| 80 | 8% | 86% |  |
+| 81 | 11% | 78% |  |
+| 82 | 13% | 67% |  |
+| 83 | 13% | 55% | Median |
+| 84 | 12% | 41% |  |
+| 85 | 10% | 29% |  |
+| 86 | 8% | 19% |  |
+| 87 | 5% | 11% |  |
+| 88 | 3% | 6% |  |
+| 89 | 2% | 3% |  |
+| 90 | 0.7% | 1.1% |  |
+| 91 | 0.3% | 0.4% |  |
+| 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0% |  |
 
 

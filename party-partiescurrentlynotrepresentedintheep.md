@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **7** seats (+6 seats)
+Current median: **8** seats (+7 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | Прогресивна България [BG] (*) | BG | | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,10 +69,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 13% | 99.7% |  |
-| 7 | 37% | 87% | Median |
-| 8 | 35% | 50% |  |
-| 9 | 13% | 15% |  |
+| 6 | 12% | 99.7% |  |
+| 7 | 37% | 88% |  |
+| 8 | 35% | 51% | Median |
+| 9 | 14% | 16% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
