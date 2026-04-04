@@ -19,7 +19,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 21 | 18–24 | 17–25 | 16–26 | 14–28 |
-| Konfederacja Korony Polskiej | PL | | 4 | 3–5 | 0–6 | 0–6 | 0–6 |
+| Konfederacja Korony Polskiej | PL | | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | HLAS–sociálna demokracia | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Άμεσης Δημοκρατίας | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Futuro Nazionale | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Futuro Nazionale | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -56,18 +56,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.2% | 99.9% |  |
 | 14 | 0.6% | 99.7% |  |
-| 15 | 1.3% | 99.2% |  |
-| 16 | 2% | 98% |  |
+| 15 | 1.4% | 99.1% |  |
+| 16 | 3% | 98% |  |
 | 17 | 4% | 95% |  |
-| 18 | 6% | 92% |  |
-| 19 | 10% | 86% |  |
+| 18 | 6% | 91% |  |
+| 19 | 10% | 85% |  |
 | 20 | 15% | 76% |  |
-| 21 | 19% | 60% | Median |
+| 21 | 19% | 61% | Median |
 | 22 | 17% | 42% |  |
 | 23 | 12% | 25% |  |
-| 24 | 7% | 14% |  |
-| 25 | 4% | 7% |  |
-| 26 | 2% | 4% |  |
+| 24 | 7% | 13% |  |
+| 25 | 3% | 7% |  |
+| 26 | 2% | 3% |  |
 | 27 | 1.0% | 2% |  |
 | 28 | 0.4% | 0.6% |  |
 | 29 | 0.1% | 0.2% |  |

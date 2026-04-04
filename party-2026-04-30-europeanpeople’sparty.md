@@ -18,15 +18,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 174 | 168–180 | 166–182 | 164–183 | 162–186 |
+| European People’s Party | EU | 188 | 174 | 168–180 | 166–181 | 164–183 | 162–185 |
 | Partido Popular | ES | | 22 | 16–25 | 16–26 | 16–26 | 16–27 |
 | Platforma Obywatelska | PL | | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
-| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–21 | 18–22 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
 | Tisztelet és Szabadság | HU | | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | Les Républicains | FR | | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -53,7 +53,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 1 | 1 | 1 | 1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -73,6 +72,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
+| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -86,32 +86,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.2% | 99.8% |  |
-| 162 | 0.4% | 99.6% |  |
+| 162 | 0.4% | 99.5% |  |
 | 163 | 0.7% | 99.1% |  |
 | 164 | 1.1% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 2% | 96% |  |
-| 167 | 3% | 94% |  |
+| 167 | 3% | 93% |  |
 | 168 | 4% | 91% |  |
-| 169 | 4% | 87% |  |
-| 170 | 5% | 83% |  |
-| 171 | 6% | 77% |  |
-| 172 | 7% | 71% |  |
-| 173 | 8% | 64% |  |
-| 174 | 8% | 56% | Median |
-| 175 | 8% | 47% |  |
-| 176 | 8% | 39% |  |
-| 177 | 7% | 31% |  |
+| 169 | 5% | 87% |  |
+| 170 | 6% | 82% |  |
+| 171 | 7% | 77% |  |
+| 172 | 7% | 70% |  |
+| 173 | 8% | 63% |  |
+| 174 | 8% | 55% | Median |
+| 175 | 8% | 46% |  |
+| 176 | 8% | 38% |  |
+| 177 | 7% | 30% |  |
 | 178 | 6% | 23% |  |
-| 179 | 5% | 17% |  |
-| 180 | 4% | 12% |  |
+| 179 | 5% | 16% |  |
+| 180 | 4% | 11% |  |
 | 181 | 3% | 8% |  |
 | 182 | 2% | 5% |  |
-| 183 | 1.3% | 3% |  |
+| 183 | 1.2% | 3% |  |
 | 184 | 0.8% | 2% |  |
-| 185 | 0.5% | 1.0% |  |
-| 186 | 0.3% | 0.5% |  |
-| 187 | 0.1% | 0.3% |  |
+| 185 | 0.4% | 0.9% |  |
+| 186 | 0.2% | 0.5% |  |
+| 187 | 0.1% | 0.2% |  |
 | 188 | 0.1% | 0.1% | Last Result |
 | 189 | 0% | 0.1% |  |
 | 190 | 0% | 0% |  |
