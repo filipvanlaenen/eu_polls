@@ -18,7 +18,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 64–70 | 63–72 | 62–73 | 61–75 |
+| Renew Europe | EU | 77 | 67 | 64–71 | 63–72 | 62–73 | 61–75 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | Democraten 66 | NL | | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
@@ -34,7 +34,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Venstre | DK | | 2 | 2 | 2 | 2 | 2 |
-| Продължаваме промяната | BG | | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| Продължаваме промяната | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
@@ -82,21 +82,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 0.1% | 100% |  |
 | 60 | 0.3% | 99.9% |  |
 | 61 | 1.0% | 99.6% |  |
-| 62 | 3% | 98.6% |  |
-| 63 | 6% | 96% |  |
-| 64 | 9% | 90% |  |
+| 62 | 3% | 98.7% |  |
+| 63 | 5% | 96% |  |
+| 64 | 9% | 91% |  |
 | 65 | 13% | 81% |  |
-| 66 | 15% | 68% |  |
-| 67 | 15% | 53% | Median |
-| 68 | 12% | 38% |  |
-| 69 | 9% | 26% |  |
-| 70 | 7% | 16% |  |
+| 66 | 15% | 69% |  |
+| 67 | 15% | 54% | Median |
+| 68 | 13% | 39% |  |
+| 69 | 10% | 27% |  |
+| 70 | 7% | 17% |  |
 | 71 | 4% | 10% |  |
 | 72 | 3% | 6% |  |
 | 73 | 2% | 3% |  |
 | 74 | 0.8% | 1.4% |  |
 | 75 | 0.4% | 0.6% |  |
-| 76 | 0.1% | 0.2% |  |
+| 76 | 0.2% | 0.2% |  |
 | 77 | 0.1% | 0.1% | Last Result |
 | 78 | 0% | 0% |  |
 
