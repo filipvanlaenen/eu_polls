@@ -26,7 +26,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Uniunea Salvați România | RO | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| Freie Demokratische Partei | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -49,11 +49,11 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -81,20 +81,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
 | 60 | 0.3% | 99.9% |  |
-| 61 | 1.0% | 99.6% |  |
+| 61 | 0.9% | 99.6% |  |
 | 62 | 3% | 98.7% |  |
 | 63 | 5% | 96% |  |
 | 64 | 9% | 91% |  |
-| 65 | 13% | 81% |  |
+| 65 | 13% | 82% |  |
 | 66 | 15% | 69% |  |
 | 67 | 15% | 54% | Median |
-| 68 | 13% | 39% |  |
+| 68 | 13% | 40% |  |
 | 69 | 10% | 27% |  |
 | 70 | 7% | 17% |  |
-| 71 | 4% | 10% |  |
+| 71 | 5% | 10% |  |
 | 72 | 3% | 6% |  |
 | 73 | 2% | 3% |  |
-| 74 | 0.8% | 1.4% |  |
+| 74 | 0.8% | 1.5% |  |
 | 75 | 0.4% | 0.6% |  |
 | 76 | 0.2% | 0.2% |  |
 | 77 | 0.1% | 0.1% | Last Result |

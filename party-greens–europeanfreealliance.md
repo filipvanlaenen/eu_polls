@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-14 seats)
+Current median: **38** seats (-15 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 35–43 | 34–44 | 33–45 | 32–48 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–43 | 34–44 | 33–45 | 32–47 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
 | Europa Verde | IT | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 3 | 2–3 | 1–4 | 1–4 | 1–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | PROGRESĪVIE | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2 |
@@ -40,7 +40,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
-| Green Party | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0–1 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -69,25 +69,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.3% | 99.9% |  |
-| 32 | 0.9% | 99.5% |  |
-| 33 | 2% | 98.6% |  |
-| 34 | 4% | 96% |  |
+| 32 | 0.9% | 99.6% |  |
+| 33 | 2% | 98.7% |  |
+| 34 | 4% | 97% |  |
 | 35 | 7% | 92% |  |
-| 36 | 10% | 85% |  |
+| 36 | 10% | 86% |  |
 | 37 | 12% | 76% |  |
-| 38 | 13% | 64% |  |
-| 39 | 13% | 50% | Median |
-| 40 | 11% | 38% |  |
-| 41 | 9% | 26% |  |
+| 38 | 14% | 63% | Median |
+| 39 | 13% | 50% |  |
+| 40 | 11% | 37% |  |
+| 41 | 9% | 25% |  |
 | 42 | 6% | 17% |  |
-| 43 | 4% | 11% |  |
-| 44 | 3% | 7% |  |
+| 43 | 4% | 10% |  |
+| 44 | 3% | 6% |  |
 | 45 | 2% | 4% |  |
 | 46 | 1.0% | 2% |  |
-| 47 | 0.6% | 1.1% |  |
+| 47 | 0.6% | 1.0% |  |
 | 48 | 0.3% | 0.5% |  |
 | 49 | 0.1% | 0.2% |  |
-| 50 | 0.1% | 0.1% |  |
+| 50 | 0% | 0.1% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |
