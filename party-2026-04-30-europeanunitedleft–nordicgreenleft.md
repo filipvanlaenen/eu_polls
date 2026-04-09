@@ -20,7 +20,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 54 | 51–58 | 50–59 | 49–60 | 47–62 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
-| Die Linke | DE | | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
+| Die Linke | DE | | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
 | La France insoumise | FR | | 10 | 9–11 | 8–12 | 8–13 | 8–14 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -67,7 +67,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 2% | 98% |  |
 | 50 | 4% | 96% |  |
 | 51 | 7% | 92% |  |
-| 52 | 11% | 84% |  |
+| 52 | 10% | 84% |  |
 | 53 | 13% | 74% |  |
 | 54 | 14% | 61% | Median |
 | 55 | 13% | 47% |  |
