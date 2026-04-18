@@ -31,7 +31,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -39,11 +39,11 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
+| Drito | HR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| NL Marija Selak Raspudić | HR | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Има такъв народ | BG | | 0 | 0 | 0 | 0 | 0 |
 | Синя България | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -59,23 +59,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.1% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
 | 73 | 0.5% | 99.7% |  |
-| 74 | 1.1% | 99.2% |  |
+| 74 | 1.2% | 99.1% |  |
 | 75 | 2% | 98% |  |
 | 76 | 4% | 96% |  |
 | 77 | 6% | 92% |  |
-| 78 | 8% | 87% | Last Result |
-| 79 | 10% | 79% |  |
-| 80 | 12% | 69% |  |
-| 81 | 12% | 57% | Median |
-| 82 | 12% | 45% |  |
-| 83 | 11% | 33% |  |
-| 84 | 8% | 23% |  |
-| 85 | 6% | 14% |  |
-| 86 | 4% | 8% |  |
+| 78 | 8% | 86% | Last Result |
+| 79 | 10% | 78% |  |
+| 80 | 12% | 68% |  |
+| 81 | 12% | 56% | Median |
+| 82 | 12% | 43% |  |
+| 83 | 10% | 31% |  |
+| 84 | 8% | 21% |  |
+| 85 | 6% | 13% |  |
+| 86 | 4% | 7% |  |
 | 87 | 2% | 4% |  |
-| 88 | 1.2% | 2% |  |
-| 89 | 0.5% | 0.9% |  |
-| 90 | 0.2% | 0.3% |  |
+| 88 | 1.0% | 2% |  |
+| 89 | 0.4% | 0.7% |  |
+| 90 | 0.2% | 0.2% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
 
