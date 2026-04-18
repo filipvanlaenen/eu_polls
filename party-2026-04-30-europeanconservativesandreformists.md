@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **82** seats (+4 seats)
+Current median: **81** seats (+3 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 76–88 | 74–90 |
-| Fratelli d’Italia | IT | | 25 | 22–27 | 22–27 | 21–28 | 20–28 |
-| Zjednoczona Prawica | PL | | 16 | 14–18 | 13–18 | 13–19 | 13–19 |
+| European Conservatives and Reformists | EU | 78 | 81 | 77–85 | 76–86 | 75–87 | 73–89 |
+| Fratelli d’Italia | IT | | 24 | 22–26 | 21–27 | 21–28 | 20–28 |
+| Zjednoczona Prawica | PL | | 16 | 13–18 | 12–18 | 12–19 | 12–19 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | Sverigedemokraterna | SE | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -56,27 +56,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0.1% | 100% |  |
-| 73 | 0.2% | 99.9% |  |
-| 74 | 0.4% | 99.7% |  |
-| 75 | 1.0% | 99.3% |  |
-| 76 | 2% | 98% |  |
-| 77 | 4% | 96% |  |
-| 78 | 6% | 93% | Last Result |
-| 79 | 8% | 87% |  |
-| 80 | 10% | 79% |  |
-| 81 | 12% | 69% |  |
-| 82 | 13% | 56% | Median |
-| 83 | 12% | 43% |  |
-| 84 | 11% | 31% |  |
-| 85 | 8% | 20% |  |
-| 86 | 6% | 12% |  |
-| 87 | 3% | 7% |  |
-| 88 | 2% | 3% |  |
-| 89 | 0.9% | 1.4% |  |
-| 90 | 0.4% | 0.5% |  |
-| 91 | 0.1% | 0.2% |  |
-| 92 | 0% | 0.1% |  |
-| 93 | 0% | 0% |  |
+| 71 | 0.1% | 100% |  |
+| 72 | 0.2% | 99.9% |  |
+| 73 | 0.5% | 99.7% |  |
+| 74 | 1.1% | 99.2% |  |
+| 75 | 2% | 98% |  |
+| 76 | 4% | 96% |  |
+| 77 | 6% | 92% |  |
+| 78 | 8% | 87% | Last Result |
+| 79 | 10% | 79% |  |
+| 80 | 12% | 69% |  |
+| 81 | 12% | 57% | Median |
+| 82 | 12% | 45% |  |
+| 83 | 11% | 33% |  |
+| 84 | 8% | 23% |  |
+| 85 | 6% | 14% |  |
+| 86 | 4% | 8% |  |
+| 87 | 2% | 4% |  |
+| 88 | 1.2% | 2% |  |
+| 89 | 0.5% | 0.9% |  |
+| 90 | 0.2% | 0.3% |  |
+| 91 | 0.1% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 
