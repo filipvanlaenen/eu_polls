@@ -26,7 +26,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Chega | PT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | Lega Nord | IT | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–7 | 4–7 | 4–7 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–7 | 4–7 | 4–7 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Latvija pirmajā vietā | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -37,7 +37,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
-| SME RODINA | SK | | 0 | 0 | 0 | 0 | 0–1 |
+| SME RODINA | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | Slovenská národná strana | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -62,23 +62,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 0% | 100% |  |
 | 95 | 0.1% | 100% |  |
 | 96 | 0.2% | 99.9% |  |
-| 97 | 0.5% | 99.7% |  |
-| 98 | 1.1% | 99.2% |  |
+| 97 | 0.6% | 99.6% |  |
+| 98 | 1.3% | 99.0% |  |
 | 99 | 2% | 98% |  |
-| 100 | 4% | 96% |  |
-| 101 | 6% | 92% |  |
-| 102 | 9% | 86% |  |
-| 103 | 11% | 77% |  |
-| 104 | 12% | 66% |  |
-| 105 | 13% | 53% | Median |
-| 106 | 12% | 40% |  |
-| 107 | 10% | 29% |  |
-| 108 | 7% | 19% |  |
-| 109 | 5% | 12% |  |
-| 110 | 3% | 7% |  |
-| 111 | 2% | 4% |  |
-| 112 | 1.0% | 2% |  |
-| 113 | 0.5% | 0.8% |  |
+| 100 | 4% | 95% |  |
+| 101 | 7% | 91% |  |
+| 102 | 9% | 84% |  |
+| 103 | 11% | 75% |  |
+| 104 | 13% | 63% |  |
+| 105 | 12% | 51% | Median |
+| 106 | 11% | 38% |  |
+| 107 | 9% | 27% |  |
+| 108 | 7% | 18% |  |
+| 109 | 5% | 11% |  |
+| 110 | 3% | 6% |  |
+| 111 | 2% | 3% |  |
+| 112 | 0.9% | 2% |  |
+| 113 | 0.4% | 0.7% |  |
 | 114 | 0.2% | 0.3% |  |
 | 115 | 0.1% | 0.1% |  |
 | 116 | 0% | 0% |  |
