@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **103** seats (+19 seats)
+Current median: **104** seats (+20 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 103 | 100–107 | 99–108 | 98–109 | 96–111 |
+| Patriots for Europe | EU | 84 | 104 | 100–108 | 99–109 | 98–110 | 96–111 |
 | Rassemblement national | FR | | 36 | 34–38 | 34–40 | 33–40 | 31–40 |
 | Vox | ES | | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
-| ANO 2011 | CZ | | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
+| ANO 2011 | CZ | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 8 | 8 | 8 | 8 | 8 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Chega | PT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -33,9 +33,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti | DK | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
+| Motoristé sobě | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -62,23 +62,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 94 | 0.1% | 100% |  |
 | 95 | 0.2% | 99.9% |  |
 | 96 | 0.5% | 99.7% |  |
-| 97 | 1.2% | 99.1% |  |
-| 98 | 3% | 98% |  |
-| 99 | 5% | 95% |  |
-| 100 | 7% | 91% |  |
-| 101 | 10% | 84% |  |
-| 102 | 12% | 73% |  |
-| 103 | 13% | 61% | Median |
-| 104 | 13% | 48% |  |
-| 105 | 11% | 35% |  |
-| 106 | 9% | 24% |  |
-| 107 | 6% | 15% |  |
-| 108 | 4% | 9% |  |
-| 109 | 2% | 5% |  |
-| 110 | 1.3% | 2% |  |
-| 111 | 0.6% | 1.0% |  |
-| 112 | 0.2% | 0.4% |  |
-| 113 | 0.1% | 0.1% |  |
-| 114 | 0% | 0% |  |
+| 97 | 1.1% | 99.3% |  |
+| 98 | 2% | 98% |  |
+| 99 | 4% | 96% |  |
+| 100 | 7% | 92% |  |
+| 101 | 9% | 85% |  |
+| 102 | 12% | 76% |  |
+| 103 | 13% | 64% |  |
+| 104 | 13% | 51% | Median |
+| 105 | 12% | 38% |  |
+| 106 | 9% | 26% |  |
+| 107 | 7% | 17% |  |
+| 108 | 5% | 10% |  |
+| 109 | 3% | 6% |  |
+| 110 | 2% | 3% |  |
+| 111 | 0.7% | 1.2% |  |
+| 112 | 0.3% | 0.5% |  |
+| 113 | 0.1% | 0.2% |  |
+| 114 | 0% | 0.1% |  |
+| 115 | 0% | 0% |  |
 
 

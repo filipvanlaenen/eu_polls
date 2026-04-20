@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 175 | 171–181 | 169–182 | 168–183 | 166–186 |
+| European People’s Party | EU | 188 | 175 | 170–180 | 169–182 | 168–183 | 166–185 |
 | Partido Popular | ES | | 22 | 21–25 | 20–25 | 20–26 | 19–27 |
 | Platforma Obywatelska | PL | | 20 | 19–23 | 18–23 | 18–24 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
@@ -33,7 +33,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 3–4 | 3–5 |
 | Slovenska demokratska stranka | SI | | 4 | 4 | 4 | 4 | 4 |
-| Starostové a nezávislí | CZ | | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| Starostové a nezávislí | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Граждани за европейско развитие на България | BG | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
@@ -52,7 +52,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Liberal Alliance | DK | | 1 | 1 | 1 | 1 | 1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Δημοκρατικός Συναγερμός | CY | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Δημοκρατικός Συναγερμός | CY | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -83,33 +83,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 163 | 0% | 100% |  |
+| 163 | 0.1% | 100% |  |
 | 164 | 0.1% | 99.9% |  |
-| 165 | 0.2% | 99.8% |  |
-| 166 | 0.5% | 99.6% |  |
-| 167 | 0.9% | 99.2% |  |
+| 165 | 0.3% | 99.8% |  |
+| 166 | 0.6% | 99.5% |  |
+| 167 | 1.1% | 99.0% |  |
 | 168 | 2% | 98% |  |
-| 169 | 3% | 97% |  |
-| 170 | 4% | 94% |  |
-| 171 | 5% | 90% |  |
-| 172 | 7% | 85% |  |
-| 173 | 8% | 78% |  |
-| 174 | 10% | 70% |  |
-| 175 | 10% | 60% | Median |
-| 176 | 10% | 50% |  |
-| 177 | 9% | 40% |  |
-| 178 | 8% | 31% |  |
-| 179 | 7% | 22% |  |
-| 180 | 5% | 16% |  |
-| 181 | 4% | 10% |  |
-| 182 | 3% | 7% |  |
-| 183 | 2% | 4% |  |
-| 184 | 1.0% | 2% |  |
-| 185 | 0.6% | 1.2% |  |
-| 186 | 0.3% | 0.6% |  |
-| 187 | 0.2% | 0.3% |  |
+| 169 | 3% | 96% |  |
+| 170 | 4% | 93% |  |
+| 171 | 6% | 89% |  |
+| 172 | 8% | 83% |  |
+| 173 | 9% | 75% |  |
+| 174 | 10% | 66% |  |
+| 175 | 10% | 56% | Median |
+| 176 | 10% | 46% |  |
+| 177 | 9% | 36% |  |
+| 178 | 8% | 27% |  |
+| 179 | 6% | 20% |  |
+| 180 | 5% | 13% |  |
+| 181 | 3% | 9% |  |
+| 182 | 2% | 6% |  |
+| 183 | 1.4% | 3% |  |
+| 184 | 0.9% | 2% |  |
+| 185 | 0.5% | 1.0% |  |
+| 186 | 0.3% | 0.5% |  |
+| 187 | 0.1% | 0.2% |  |
 | 188 | 0.1% | 0.1% | Last Result |
-| 189 | 0% | 0.1% |  |
-| 190 | 0% | 0% |  |
+| 189 | 0% | 0% |  |
 
 

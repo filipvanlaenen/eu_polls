@@ -40,10 +40,11 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
+| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka ZAUPANJE [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -71,9 +72,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 5% | 100% |  |
 | 7 | 25% | 95% |  |
 | 8 | 40% | 70% | Median |
-| 9 | 24% | 31% |  |
+| 9 | 24% | 30% |  |
 | 10 | 6% | 7% |  |
-| 11 | 0.7% | 0.7% |  |
+| 11 | 0.6% | 0.7% |  |
 | 12 | 0% | 0% |  |
 
 
