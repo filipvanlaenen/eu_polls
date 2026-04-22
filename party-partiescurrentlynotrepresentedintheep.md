@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **12** seats (+11 seats)
+Current median: **11** seats (+10 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
+| Parties currently not represented in the EP | EU | 1 | 11 | 10–13 | 10–13 | 10–14 | 10–15 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
 | Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -35,7 +35,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| La France humaniste [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| La France humaniste [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -52,7 +52,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -73,13 +73,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 13% | 100% |  |
-| 11 | 27% | 87% |  |
-| 12 | 22% | 60% | Median |
-| 13 | 28% | 38% |  |
-| 14 | 9% | 10% |  |
-| 15 | 0.9% | 1.0% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 10 | 22% | 100% |  |
+| 11 | 44% | 78% | Median |
+| 12 | 19% | 34% |  |
+| 13 | 11% | 14% |  |
+| 14 | 3% | 4% |  |
+| 15 | 0.4% | 0.6% |  |
+| 16 | 0.1% | 0.2% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 

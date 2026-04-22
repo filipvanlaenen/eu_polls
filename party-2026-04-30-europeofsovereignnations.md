@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 38 | 35–42 | 34–44 | 33–45 | 32–46 |
+| Europe of Sovereign Nations | EU | 25 | 38 | 35–43 | 34–44 | 33–45 | 32–47 |
 | Alternative für Deutschland | DE | | 24 | 23–27 | 22–27 | 22–28 | 21–28 |
 | Nowa Nadzieja | PL | | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | Forum voor Democratie | NL | | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | REPUBLIKA | SK | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 1 | 1 |
-| Reconquête | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| Reconquête | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Възраждане | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -43,23 +43,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0.2% | 100% |  |
-| 32 | 0.8% | 99.8% |  |
-| 33 | 2% | 99.0% |  |
-| 34 | 5% | 96% |  |
-| 35 | 9% | 91% |  |
-| 36 | 12% | 82% |  |
-| 37 | 14% | 69% |  |
-| 38 | 13% | 56% | Median |
-| 39 | 11% | 43% |  |
-| 40 | 9% | 32% |  |
-| 41 | 8% | 22% |  |
-| 42 | 6% | 15% |  |
-| 43 | 4% | 9% |  |
-| 44 | 3% | 5% |  |
-| 45 | 2% | 3% |  |
-| 46 | 0.8% | 1.1% |  |
-| 47 | 0.3% | 0.4% |  |
-| 48 | 0.1% | 0.1% |  |
+| 32 | 0.7% | 99.8% |  |
+| 33 | 2% | 99.1% |  |
+| 34 | 5% | 97% |  |
+| 35 | 8% | 92% |  |
+| 36 | 11% | 84% |  |
+| 37 | 12% | 73% |  |
+| 38 | 12% | 61% | Median |
+| 39 | 11% | 49% |  |
+| 40 | 10% | 38% |  |
+| 41 | 9% | 29% |  |
+| 42 | 7% | 20% |  |
+| 43 | 5% | 13% |  |
+| 44 | 4% | 8% |  |
+| 45 | 2% | 4% |  |
+| 46 | 1.2% | 2% |  |
+| 47 | 0.5% | 0.6% |  |
+| 48 | 0.1% | 0.2% |  |
 | 49 | 0% | 0% |  |
 
 
