@@ -19,13 +19,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 171 | 163–177 | 161–179 | 159–180 | 155–183 |
-| Partido Popular | ES | | 22 | 17–24 | 16–25 | 16–26 | 16–27 |
+| Partido Popular | ES | | 22 | 17–24 | 17–25 | 16–26 | 16–27 |
 | Platforma Obywatelska | PL | | 20 | 19–23 | 18–23 | 18–24 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | Tisztelet és Szabadság | HU | | 12 | 12 | 12 | 12 | 12 |
 | Aliança Democrática | PT | | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | Les Républicains | FR | | 7 | 0–11 | 0–11 | 0–12 | 0–13 |
-| Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -83,26 +83,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 151 | 0% | 100% |  |
-| 152 | 0.1% | 99.9% |  |
+| 152 | 0% | 100% |  |
 | 153 | 0.1% | 99.9% |  |
-| 154 | 0.2% | 99.8% |  |
-| 155 | 0.3% | 99.6% |  |
+| 154 | 0.1% | 99.8% |  |
+| 155 | 0.2% | 99.7% |  |
 | 156 | 0.4% | 99.4% |  |
-| 157 | 0.6% | 99.0% |  |
-| 158 | 0.8% | 98% |  |
+| 157 | 0.5% | 99.1% |  |
+| 158 | 0.8% | 98.5% |  |
 | 159 | 1.1% | 98% |  |
 | 160 | 1.5% | 97% |  |
 | 161 | 2% | 95% |  |
 | 162 | 2% | 93% |  |
 | 163 | 3% | 91% |  |
 | 164 | 3% | 88% |  |
-| 165 | 4% | 84% |  |
-| 166 | 5% | 80% |  |
+| 165 | 4% | 85% |  |
+| 166 | 5% | 81% |  |
 | 167 | 5% | 76% |  |
 | 168 | 6% | 71% |  |
 | 169 | 6% | 65% |  |
-| 170 | 7% | 58% |  |
+| 170 | 7% | 59% |  |
 | 171 | 7% | 52% | Median |
 | 172 | 7% | 44% |  |
 | 173 | 7% | 37% |  |

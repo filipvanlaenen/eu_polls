@@ -67,7 +67,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij–Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
-| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -88,11 +88,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 7% | 89% |  |
 | 66 | 9% | 81% |  |
 | 67 | 10% | 72% |  |
-| 68 | 11% | 61% |  |
+| 68 | 11% | 62% |  |
 | 69 | 10% | 51% | Median |
 | 70 | 8% | 41% |  |
 | 71 | 7% | 33% |  |
-| 72 | 5% | 26% |  |
+| 72 | 5% | 27% |  |
 | 73 | 4% | 21% |  |
 | 74 | 4% | 17% |  |
 | 75 | 3% | 13% |  |
