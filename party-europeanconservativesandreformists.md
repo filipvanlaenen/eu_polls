@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (+3 seats)
+Current median: **80** seats (+2 seats)
 
 At least one member in **16 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 81 | 77–85 | 76–86 | 75–87 | 73–89 |
+| European Conservatives and Reformists | EU | 78 | 80 | 76–84 | 75–85 | 74–86 | 72–88 |
 | Fratelli d’Italia | IT | | 24 | 22–26 | 21–27 | 21–28 | 20–28 |
 | Zjednoczona Prawica | PL | | 16 | 13–18 | 12–18 | 12–19 | 12–19 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
@@ -27,15 +27,15 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Danmarksdemokraterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 0–1 | 0–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
+| Ελληνική Λύση | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
 | Domovinski pokret | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,27 +56,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.4% | 99.8% |  |
-| 74 | 0.9% | 99.4% |  |
-| 75 | 2% | 98% |  |
-| 76 | 3% | 97% |  |
-| 77 | 5% | 93% |  |
-| 78 | 8% | 88% | Last Result |
-| 79 | 10% | 80% |  |
-| 80 | 12% | 70% |  |
-| 81 | 13% | 59% | Median |
-| 82 | 12% | 46% |  |
-| 83 | 11% | 34% |  |
-| 84 | 9% | 23% |  |
-| 85 | 6% | 14% |  |
-| 86 | 4% | 8% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.1% | 2% |  |
-| 89 | 0.5% | 0.8% |  |
-| 90 | 0.2% | 0.3% |  |
-| 91 | 0.1% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.5% | 99.7% |  |
+| 73 | 1.1% | 99.2% |  |
+| 74 | 2% | 98% |  |
+| 75 | 4% | 96% |  |
+| 76 | 6% | 92% |  |
+| 77 | 8% | 87% |  |
+| 78 | 10% | 79% | Last Result |
+| 79 | 12% | 69% |  |
+| 80 | 12% | 57% | Median |
+| 81 | 12% | 45% |  |
+| 82 | 11% | 33% |  |
+| 83 | 8% | 22% |  |
+| 84 | 6% | 14% |  |
+| 85 | 4% | 8% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.1% | 2% |  |
+| 88 | 0.5% | 0.8% |  |
+| 89 | 0.2% | 0.3% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
