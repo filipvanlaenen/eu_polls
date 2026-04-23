@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 11 | 10–13 | 10–13 | 10–14 | 10–15 |
+| Parties currently not represented in the EP | EU | 1 | 11 | 10–13 | 10–13 | 10–14 | 10–16 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
 | Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -74,13 +74,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 22% | 100% |  |
-| 11 | 45% | 78% | Median |
-| 12 | 19% | 33% |  |
-| 13 | 11% | 14% |  |
+| 11 | 44% | 78% | Median |
+| 12 | 19% | 34% |  |
+| 13 | 10% | 15% |  |
 | 14 | 3% | 4% |  |
-| 15 | 0.4% | 0.6% |  |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 15 | 0.5% | 1.1% |  |
+| 16 | 0.3% | 0.6% |  |
+| 17 | 0.1% | 0.2% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

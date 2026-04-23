@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 56 | 52–60 | 51–61 | 50–62 | 49–64 |
+| European United Left–Nordic Green Left | EU | 46 | 56 | 52–60 | 51–61 | 51–62 | 49–64 |
 | La France insoumise | FR | | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | Die Linke | DE | | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -26,7 +26,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 0–3 | 0–3 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Vasemmistoliitto | FI | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -63,19 +63,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
-| 48 | 0.3% | 99.9% |  |
-| 49 | 0.7% | 99.6% |  |
-| 50 | 2% | 99.0% |  |
-| 51 | 3% | 97% |  |
-| 52 | 5% | 94% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.7% | 99.7% |  |
+| 50 | 1.5% | 99.0% |  |
+| 51 | 3% | 98% |  |
+| 52 | 5% | 95% |  |
 | 53 | 8% | 89% |  |
-| 54 | 10% | 81% |  |
-| 55 | 12% | 71% |  |
+| 54 | 11% | 81% |  |
+| 55 | 13% | 71% |  |
 | 56 | 13% | 58% | Median |
 | 57 | 13% | 45% |  |
-| 58 | 11% | 33% |  |
+| 58 | 11% | 32% |  |
 | 59 | 8% | 22% |  |
-| 60 | 6% | 14% |  |
+| 60 | 6% | 13% |  |
 | 61 | 4% | 8% |  |
 | 62 | 2% | 4% |  |
 | 63 | 1.1% | 2% |  |

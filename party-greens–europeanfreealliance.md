@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | LIVRE | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Alternattiva Demokratika–Partit Demokratiku | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -72,10 +72,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.9% | 99.6% |  |
 | 34 | 2% | 98.7% |  |
 | 35 | 4% | 97% |  |
-| 36 | 8% | 92% |  |
+| 36 | 7% | 92% |  |
 | 37 | 11% | 85% |  |
 | 38 | 14% | 74% |  |
-| 39 | 15% | 59% | Median |
+| 39 | 15% | 60% | Median |
 | 40 | 14% | 44% |  |
 | 41 | 11% | 30% |  |
 | 42 | 8% | 19% |  |
