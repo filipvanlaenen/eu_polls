@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **100** seats (+16 seats)
+Current median: **99** seats (+15 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,22 +18,22 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 100 | 95–105 | 94–106 | 93–107 | 91–109 |
+| Patriots for Europe | EU | 84 | 99 | 94–104 | 93–105 | 92–106 | 90–108 |
 | Rassemblement national | FR | | 35 | 31–38 | 30–39 | 30–40 | 28–40 |
 | Vox | ES | | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | ANO 2011 | CZ | | 9 | 9–10 | 9–10 | 8–11 | 8–11 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Chega | PT | | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| Lega Nord | IT | | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| Lega Nord | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| Chega | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–7 | 4–7 | 4–7 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Latvija pirmajā vietā | LV | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Latvija pirmajā vietā | LV | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Motoristé sobě | CZ | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nemuno aušra | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -53,30 +53,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0% | 100% |  |
-| 88 | 0% | 100% |  |
-| 89 | 0.1% | 100% |  |
-| 90 | 0.2% | 99.9% |  |
-| 91 | 0.5% | 99.7% |  |
-| 92 | 1.0% | 99.2% |  |
-| 93 | 2% | 98% |  |
-| 94 | 3% | 96% |  |
-| 95 | 5% | 94% |  |
-| 96 | 6% | 89% |  |
-| 97 | 8% | 83% |  |
-| 98 | 9% | 75% |  |
-| 99 | 10% | 65% |  |
-| 100 | 11% | 55% | Median |
-| 101 | 10% | 44% |  |
-| 102 | 9% | 34% |  |
-| 103 | 8% | 25% |  |
-| 104 | 6% | 17% |  |
-| 105 | 4% | 11% |  |
-| 106 | 3% | 6% |  |
-| 107 | 2% | 3% |  |
-| 108 | 0.9% | 2% |  |
-| 109 | 0.4% | 0.7% |  |
-| 110 | 0.2% | 0.3% |  |
-| 111 | 0.1% | 0.1% |  |
-| 112 | 0% | 0% |  |
+| 88 | 0.1% | 100% |  |
+| 89 | 0.2% | 99.9% |  |
+| 90 | 0.4% | 99.7% |  |
+| 91 | 0.9% | 99.3% |  |
+| 92 | 2% | 98% |  |
+| 93 | 3% | 97% |  |
+| 94 | 4% | 94% |  |
+| 95 | 6% | 90% |  |
+| 96 | 8% | 84% |  |
+| 97 | 9% | 76% |  |
+| 98 | 10% | 67% |  |
+| 99 | 11% | 56% | Median |
+| 100 | 10% | 46% |  |
+| 101 | 10% | 35% |  |
+| 102 | 8% | 26% |  |
+| 103 | 6% | 18% |  |
+| 104 | 5% | 11% |  |
+| 105 | 3% | 7% |  |
+| 106 | 2% | 4% |  |
+| 107 | 1.0% | 2% |  |
+| 108 | 0.5% | 0.8% |  |
+| 109 | 0.2% | 0.3% |  |
+| 110 | 0.1% | 0.1% |  |
+| 111 | 0% | 0% |  |
 
 
