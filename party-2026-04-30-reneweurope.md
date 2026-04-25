@@ -28,7 +28,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Fianna Fáil | IE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
+| Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
@@ -81,18 +81,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0.1% | 100% |  |
 | 59 | 0.3% | 99.9% |  |
-| 60 | 0.8% | 99.6% |  |
-| 61 | 2% | 98.8% |  |
+| 60 | 0.8% | 99.5% |  |
+| 61 | 2% | 98.7% |  |
 | 62 | 3% | 97% |  |
 | 63 | 5% | 94% |  |
 | 64 | 7% | 89% |  |
 | 65 | 9% | 82% |  |
 | 66 | 10% | 73% |  |
-| 67 | 11% | 63% |  |
+| 67 | 11% | 62% |  |
 | 68 | 10% | 52% | Median |
-| 69 | 8% | 43% |  |
+| 69 | 8% | 42% |  |
 | 70 | 7% | 34% |  |
-| 71 | 5% | 28% |  |
+| 71 | 5% | 27% |  |
 | 72 | 4% | 22% |  |
 | 73 | 4% | 18% |  |
 | 74 | 3% | 14% |  |
@@ -102,7 +102,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 1.5% | 4% |  |
 | 79 | 1.0% | 2% |  |
 | 80 | 0.6% | 1.4% |  |
-| 81 | 0.4% | 0.8% |  |
+| 81 | 0.4% | 0.7% |  |
 | 82 | 0.2% | 0.4% |  |
 | 83 | 0.1% | 0.2% |  |
 | 84 | 0% | 0.1% |  |

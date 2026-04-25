@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 125 | 120–131 | 118–133 | 117–134 | 115–138 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 125 | 120–131 | 118–133 | 117–134 | 114–138 |
 | Partido Socialista Obrero Español | ES | | 19 | 18–26 | 17–26 | 17–27 | 16–27 |
 | Partito Democratico | IT | | 19 | 18–21 | 17–21 | 17–21 | 16–23 |
 | Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
@@ -40,7 +40,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 0–1 |
 | Demokratikus Koalíció | HU | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 115 | 0.5% | 99.5% |  |
 | 116 | 0.9% | 99.0% |  |
 | 117 | 2% | 98% |  |
-| 118 | 3% | 97% |  |
+| 118 | 3% | 96% |  |
 | 119 | 4% | 94% |  |
 | 120 | 5% | 90% |  |
 | 121 | 7% | 85% |  |
@@ -74,12 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 125 | 9% | 52% | Median |
 | 126 | 9% | 43% |  |
 | 127 | 8% | 34% |  |
-| 128 | 6% | 26% |  |
+| 128 | 6% | 27% |  |
 | 129 | 5% | 20% |  |
 | 130 | 4% | 15% |  |
 | 131 | 3% | 11% |  |
 | 132 | 2% | 8% |  |
-| 133 | 2% | 5% |  |
+| 133 | 2% | 6% |  |
 | 134 | 1.3% | 4% |  |
 | 135 | 0.9% | 2% |  |
 | 136 | 0.6% | 2% | Last Result |
