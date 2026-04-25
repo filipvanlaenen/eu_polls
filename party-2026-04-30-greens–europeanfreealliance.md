@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 35–42 | 34–44 | 34–45 | 32–47 |
+| Greens–European Free Alliance | EU | 53 | 39 | 35–42 | 34–43 | 34–45 | 32–47 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | Europa Verde | IT | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -45,7 +45,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -78,13 +78,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 15% | 67% |  |
 | 39 | 15% | 52% | Median |
 | 40 | 13% | 37% |  |
-| 41 | 10% | 24% |  |
+| 41 | 9% | 24% |  |
 | 42 | 6% | 15% |  |
 | 43 | 4% | 9% |  |
 | 44 | 2% | 5% |  |
 | 45 | 1.3% | 3% |  |
 | 46 | 0.8% | 1.4% |  |
-| 47 | 0.4% | 0.7% |  |
+| 47 | 0.4% | 0.6% |  |
 | 48 | 0.2% | 0.3% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
