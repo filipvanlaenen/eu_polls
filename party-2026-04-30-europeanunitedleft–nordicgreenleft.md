@@ -18,7 +18,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 56 | 52–60 | 51–61 | 50–62 | 48–64 |
+| European United Left–Nordic Green Left | EU | 46 | 56 | 52–60 | 51–61 | 50–62 | 49–64 |
 | La France insoumise | FR | | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -42,7 +42,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Levica | SI | | 0 | 0 | 0 | 0 | 0 |
+| Levica | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -69,16 +69,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 3% | 97% |  |
 | 52 | 6% | 93% |  |
 | 53 | 8% | 88% |  |
-| 54 | 11% | 80% |  |
+| 54 | 10% | 80% |  |
 | 55 | 12% | 69% |  |
 | 56 | 13% | 57% | Median |
 | 57 | 12% | 44% |  |
-| 58 | 10% | 32% |  |
+| 58 | 10% | 33% |  |
 | 59 | 8% | 22% |  |
 | 60 | 6% | 14% |  |
 | 61 | 4% | 8% |  |
 | 62 | 2% | 5% |  |
-| 63 | 1.2% | 2% |  |
+| 63 | 1.3% | 2% |  |
 | 64 | 0.6% | 1.1% |  |
 | 65 | 0.3% | 0.5% |  |
 | 66 | 0.1% | 0.2% |  |
