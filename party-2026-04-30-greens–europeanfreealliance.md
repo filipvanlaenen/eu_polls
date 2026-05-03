@@ -25,7 +25,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2 | 1–3 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Možemo! | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
@@ -68,17 +68,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.9% |  |
-| 33 | 1.0% | 99.5% |  |
+| 32 | 0.4% | 99.8% |  |
+| 33 | 1.1% | 99.5% |  |
 | 34 | 2% | 98% |  |
 | 35 | 5% | 96% |  |
 | 36 | 9% | 91% |  |
 | 37 | 12% | 82% |  |
 | 38 | 15% | 70% |  |
 | 39 | 16% | 55% | Median |
-| 40 | 14% | 39% |  |
+| 40 | 13% | 39% |  |
 | 41 | 10% | 26% |  |
-| 42 | 6% | 16% |  |
+| 42 | 7% | 16% |  |
 | 43 | 4% | 9% |  |
 | 44 | 2% | 5% |  |
 | 45 | 1.4% | 3% |  |

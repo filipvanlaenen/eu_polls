@@ -21,14 +21,14 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 46 | 57 | 53–61 | 52–62 | 51–63 | 49–65 |
 | La France insoumise | FR | | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
-| Die Linke | DE | | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
+| Die Linke | DE | | 10 | 9–11 | 9–12 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 0–3 | 0–3 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
@@ -67,23 +67,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.6% | 99.7% |  |
 | 50 | 1.4% | 99.1% |  |
 | 51 | 3% | 98% |  |
-| 52 | 4% | 95% |  |
+| 52 | 5% | 95% |  |
 | 53 | 7% | 91% |  |
 | 54 | 9% | 84% |  |
 | 55 | 11% | 75% |  |
 | 56 | 12% | 64% |  |
 | 57 | 12% | 52% | Median |
-| 58 | 11% | 40% |  |
-| 59 | 9% | 29% |  |
-| 60 | 7% | 20% |  |
-| 61 | 5% | 13% |  |
+| 58 | 11% | 39% |  |
+| 59 | 9% | 28% |  |
+| 60 | 7% | 19% |  |
+| 61 | 5% | 12% |  |
 | 62 | 3% | 7% |  |
 | 63 | 2% | 4% |  |
 | 64 | 1.1% | 2% |  |
-| 65 | 0.6% | 1.0% |  |
-| 66 | 0.3% | 0.4% |  |
-| 67 | 0.1% | 0.2% |  |
-| 68 | 0% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 65 | 0.5% | 0.9% |  |
+| 66 | 0.2% | 0.4% |  |
+| 67 | 0.1% | 0.1% |  |
+| 68 | 0% | 0% |  |
 
 
