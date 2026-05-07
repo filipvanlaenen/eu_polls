@@ -32,7 +32,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
-| Futuro Nazionale | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Futuro Nazionale | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -55,22 +55,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
 | 15 | 0.5% | 99.8% |  |
-| 16 | 2% | 99.3% |  |
+| 16 | 1.5% | 99.4% |  |
 | 17 | 4% | 98% |  |
 | 18 | 8% | 94% |  |
 | 19 | 12% | 86% |  |
 | 20 | 15% | 74% |  |
-| 21 | 15% | 60% | Median |
-| 22 | 13% | 45% |  |
-| 23 | 11% | 32% |  |
-| 24 | 8% | 21% |  |
-| 25 | 6% | 13% |  |
-| 26 | 4% | 7% |  |
-| 27 | 2% | 4% |  |
-| 28 | 1.0% | 2% |  |
-| 29 | 0.4% | 0.7% |  |
-| 30 | 0.2% | 0.2% |  |
-| 31 | 0% | 0.1% |  |
+| 21 | 16% | 59% | Median |
+| 22 | 13% | 43% |  |
+| 23 | 10% | 30% |  |
+| 24 | 8% | 19% |  |
+| 25 | 5% | 12% |  |
+| 26 | 3% | 7% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.9% | 1.4% |  |
+| 29 | 0.4% | 0.5% |  |
+| 30 | 0.1% | 0.2% |  |
+| 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |
 
 

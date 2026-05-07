@@ -19,14 +19,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 173 | 165–180 | 163–181 | 161–183 | 158–186 |
-| Partido Popular | ES | | 22 | 17–23 | 17–24 | 16–24 | 16–25 |
+| Partido Popular | ES | | 22 | 17–23 | 17–24 | 16–24 | 16–24 |
 | Platforma Obywatelska | PL | | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 15 | 14–15 | 14–15 | 14–16 | 14–16 |
 | Les Républicains | FR | | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
-| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -85,23 +85,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 154 | 0% | 100% |  |
 | 155 | 0.1% | 99.9% |  |
-| 156 | 0.1% | 99.8% |  |
+| 156 | 0.1% | 99.9% |  |
 | 157 | 0.2% | 99.7% |  |
 | 158 | 0.3% | 99.5% |  |
 | 159 | 0.5% | 99.2% |  |
-| 160 | 0.7% | 98.7% |  |
-| 161 | 1.0% | 98% |  |
+| 160 | 0.7% | 98.8% |  |
+| 161 | 0.9% | 98% |  |
 | 162 | 1.3% | 97% |  |
 | 163 | 2% | 96% |  |
 | 164 | 2% | 94% |  |
 | 165 | 3% | 92% |  |
 | 166 | 3% | 89% |  |
 | 167 | 4% | 86% |  |
-| 168 | 4% | 82% |  |
+| 168 | 4% | 83% |  |
 | 169 | 5% | 78% |  |
 | 170 | 5% | 73% |  |
 | 171 | 6% | 68% |  |
-| 172 | 7% | 61% |  |
+| 172 | 7% | 62% |  |
 | 173 | 7% | 55% | Median |
 | 174 | 7% | 48% |  |
 | 175 | 7% | 41% |  |
@@ -109,7 +109,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 177 | 6% | 27% |  |
 | 178 | 5% | 21% |  |
 | 179 | 4% | 15% |  |
-| 180 | 3% | 11% |  |
+| 180 | 4% | 11% |  |
 | 181 | 3% | 7% |  |
 | 182 | 2% | 5% |  |
 | 183 | 1.2% | 3% |  |

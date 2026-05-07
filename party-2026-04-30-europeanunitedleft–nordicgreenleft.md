@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **57** seats (+11 seats)
+Current median: **56** seats (+10 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 53–61 | 52–62 | 51–63 | 49–65 |
+| European United Left–Nordic Green Left | EU | 46 | 56 | 53–61 | 51–62 | 51–63 | 49–65 |
 | La France insoumise | FR | | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 9–12 | 8–13 | 8–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 0–3 | 0–3 | 0–3 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
@@ -46,12 +46,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Socialistische Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Κόμμα για τα Ζώα Κύπρου | CY | | 0 | 0 | 0 | 0 | 0 |
-| Νέα Αριστερά | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -64,26 +63,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.6% | 99.7% |  |
-| 50 | 1.3% | 99.1% |  |
-| 51 | 2% | 98% |  |
-| 52 | 4% | 95% |  |
-| 53 | 7% | 91% |  |
-| 54 | 9% | 85% |  |
-| 55 | 11% | 76% |  |
-| 56 | 12% | 65% |  |
-| 57 | 12% | 53% | Median |
-| 58 | 11% | 41% |  |
-| 59 | 9% | 30% |  |
-| 60 | 7% | 20% |  |
-| 61 | 5% | 13% |  |
-| 62 | 3% | 8% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.1% | 2% |  |
-| 65 | 0.6% | 1.0% |  |
-| 66 | 0.3% | 0.4% |  |
-| 67 | 0.1% | 0.2% |  |
-| 68 | 0% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 49 | 0.6% | 99.6% |  |
+| 50 | 1.4% | 99.0% |  |
+| 51 | 3% | 98% |  |
+| 52 | 5% | 95% |  |
+| 53 | 7% | 90% |  |
+| 54 | 9% | 83% |  |
+| 55 | 11% | 74% |  |
+| 56 | 12% | 62% | Median |
+| 57 | 12% | 50% |  |
+| 58 | 11% | 38% |  |
+| 59 | 9% | 27% |  |
+| 60 | 7% | 18% |  |
+| 61 | 5% | 11% |  |
+| 62 | 3% | 6% |  |
+| 63 | 2% | 3% |  |
+| 64 | 0.9% | 2% |  |
+| 65 | 0.4% | 0.7% |  |
+| 66 | 0.2% | 0.3% |  |
+| 67 | 0.1% | 0.1% |  |
+| 68 | 0% | 0% |  |
 
 
