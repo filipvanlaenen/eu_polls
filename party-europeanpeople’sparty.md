@@ -20,7 +20,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 173 | 165–179 | 162–181 | 160–182 | 157–185 |
 | Partido Popular | ES | | 22 | 17–23 | 17–24 | 16–24 | 16–24 |
-| Platforma Obywatelska | PL | | 20 | 19–23 | 18–24 | 18–24 | 17–24 |
+| Platforma Obywatelska | PL | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
 | Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 15 | 14–15 | 14–15 | 14–16 | 14–16 |
 | Les Républicains | FR | | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
@@ -68,7 +68,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -96,7 +96,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 163 | 2% | 95% |  |
 | 164 | 2% | 93% |  |
 | 165 | 3% | 90% |  |
-| 166 | 3% | 88% |  |
+| 166 | 3% | 87% |  |
 | 167 | 4% | 84% |  |
 | 168 | 5% | 80% |  |
 | 169 | 5% | 75% |  |
@@ -107,18 +107,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 174 | 7% | 44% |  |
 | 175 | 7% | 37% |  |
 | 176 | 6% | 30% |  |
-| 177 | 6% | 24% |  |
-| 178 | 5% | 18% |  |
+| 177 | 6% | 23% |  |
+| 178 | 5% | 17% |  |
 | 179 | 4% | 13% |  |
 | 180 | 3% | 9% |  |
 | 181 | 2% | 6% |  |
-| 182 | 2% | 4% |  |
-| 183 | 1.0% | 2% |  |
-| 184 | 0.6% | 1.4% |  |
-| 185 | 0.4% | 0.8% |  |
+| 182 | 1.5% | 4% |  |
+| 183 | 0.9% | 2% |  |
+| 184 | 0.6% | 1.3% |  |
+| 185 | 0.3% | 0.7% |  |
 | 186 | 0.2% | 0.4% |  |
 | 187 | 0.1% | 0.2% |  |
-| 188 | 0.1% | 0.1% | Last Result |
+| 188 | 0% | 0.1% | Last Result |
 | 189 | 0% | 0% |  |
 
 

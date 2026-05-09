@@ -20,13 +20,13 @@ At least one member in **5 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 12 | 11–14 | 10–15 | 10–16 | 10–17 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
-| Partia Mateusza Morawieckiego [PL] (*) | PL | | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Partia Mateusza Morawieckiego [PL] (*) | PL | | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -77,13 +77,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 10% | 100% |  |
 | 11 | 29% | 90% |  |
 | 12 | 29% | 61% | Median |
-| 13 | 15% | 33% |  |
-| 14 | 9% | 18% |  |
+| 13 | 15% | 32% |  |
+| 14 | 9% | 17% |  |
 | 15 | 5% | 9% |  |
 | 16 | 2% | 4% |  |
-| 17 | 1.0% | 1.4% |  |
-| 18 | 0.3% | 0.5% |  |
-| 19 | 0.1% | 0.2% |  |
+| 17 | 0.9% | 1.3% |  |
+| 18 | 0.3% | 0.4% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
