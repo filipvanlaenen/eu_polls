@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, SI, SK
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, SI, SK
 
 ## Seats
 
@@ -10,22 +10,24 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 Current median: **12** seats (+11 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **5 countries** have a median of 1 seat or more:
 
-> BG, GR, IE, LV
+> BG, GR, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 12 | 10–13 | 10–14 | 10–15 | 10–16 |
+| Parties currently not represented in the EP | EU | 1 | 12 | 11–14 | 10–15 | 10–16 | 10–17 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
+| Partia Mateusza Morawieckiego [PL] (*) | PL | | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -73,15 +75,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 10% | 100% |  |
-| 11 | 32% | 90% |  |
-| 12 | 34% | 58% | Median |
-| 13 | 16% | 24% |  |
-| 14 | 6% | 8% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.5% | 0.9% |  |
-| 17 | 0.2% | 0.4% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 11 | 29% | 90% |  |
+| 12 | 29% | 61% | Median |
+| 13 | 15% | 33% |  |
+| 14 | 9% | 18% |  |
+| 15 | 5% | 9% |  |
+| 16 | 2% | 4% |  |
+| 17 | 1.0% | 1.4% |  |
+| 18 | 0.3% | 0.5% |  |
+| 19 | 0.1% | 0.2% |  |
+| 20 | 0% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 
