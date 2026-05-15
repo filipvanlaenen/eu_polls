@@ -18,13 +18,13 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 172 | 164–179 | 162–180 | 160–182 | 157–184 |
+| European People’s Party | EU | 188 | 172 | 164–178 | 162–180 | 160–181 | 157–184 |
 | Partido Popular | ES | | 22 | 17–23 | 17–24 | 16–24 | 16–24 |
 | Platforma Obywatelska | PL | | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
 | Christlich Demokratische Union Deutschlands | DE | | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
 | Tisztelet és Szabadság | HU | | 15 | 14–15 | 14–15 | 14–16 | 14–16 |
 | Les Républicains | FR | | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
-| Νέα Δημοκρατία | GR | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
 | Partidul Național Liberal | RO | | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
@@ -86,7 +86,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0% | 100% |  |
 | 154 | 0.1% | 99.9% |  |
 | 155 | 0.1% | 99.9% |  |
-| 156 | 0.2% | 99.8% |  |
+| 156 | 0.2% | 99.7% |  |
 | 157 | 0.3% | 99.6% |  |
 | 158 | 0.5% | 99.3% |  |
 | 159 | 0.7% | 98.8% |  |
@@ -99,25 +99,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 166 | 4% | 86% |  |
 | 167 | 4% | 82% |  |
 | 168 | 5% | 78% |  |
-| 169 | 5% | 73% |  |
+| 169 | 6% | 73% |  |
 | 170 | 6% | 68% |  |
-| 171 | 7% | 62% |  |
+| 171 | 7% | 61% |  |
 | 172 | 7% | 55% | Median |
-| 173 | 7% | 48% |  |
+| 173 | 7% | 47% |  |
 | 174 | 7% | 40% |  |
 | 175 | 7% | 33% |  |
 | 176 | 6% | 26% |  |
-| 177 | 5% | 20% |  |
+| 177 | 5% | 19% |  |
 | 178 | 4% | 14% |  |
 | 179 | 3% | 10% |  |
-| 180 | 2% | 7% |  |
+| 180 | 2% | 6% |  |
 | 181 | 2% | 4% |  |
-| 182 | 1.1% | 3% |  |
-| 183 | 0.7% | 1.5% |  |
-| 184 | 0.4% | 0.8% |  |
+| 182 | 1.1% | 2% |  |
+| 183 | 0.6% | 1.4% |  |
+| 184 | 0.4% | 0.7% |  |
 | 185 | 0.2% | 0.4% |  |
 | 186 | 0.1% | 0.2% |  |
-| 187 | 0.1% | 0.1% |  |
+| 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% | Last Result |
 
 

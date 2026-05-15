@@ -10,18 +10,17 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 Current median: **12** seats (+11 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> BG, GR, IE, LV, PL
+> BG, IE, LV, PL
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 12 | 11–14 | 10–15 | 10–16 | 10–17 |
+| Parties currently not represented in the EP | EU | 1 | 12 | 10–14 | 10–15 | 10–15 | 10–17 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
 | Partia Mateusza Morawieckiego [PL] (*) | PL | | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
-| Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +52,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -74,17 +73,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 10% | 100% |  |
-| 11 | 29% | 90% |  |
-| 12 | 29% | 61% | Median |
-| 13 | 15% | 32% |  |
-| 14 | 9% | 17% |  |
-| 15 | 5% | 9% |  |
-| 16 | 2% | 4% |  |
-| 17 | 0.9% | 1.3% |  |
-| 18 | 0.3% | 0.4% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 10 | 11% | 100% |  |
+| 11 | 33% | 89% |  |
+| 12 | 31% | 56% | Median |
+| 13 | 13% | 25% |  |
+| 14 | 6% | 12% |  |
+| 15 | 4% | 7% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.5% | 0.6% |  |
+| 18 | 0.1% | 0.2% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
