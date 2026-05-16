@@ -18,7 +18,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 12 | 10–16 | 10–17 | 10–18 | 10–20 |
+| Parties currently not represented in the EP | EU | 1 | 12 | 11–16 | 10–17 | 10–18 | 10–20 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
 | Partia Mateusza Morawieckiego [PL] (*) | PL | | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Κόμμα Αλέξη Τσίπρα [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -27,7 +27,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -76,17 +76,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 10% | 100% |  |
-| 11 | 31% | 90% |  |
-| 12 | 28% | 59% | Median |
-| 13 | 10% | 31% |  |
-| 14 | 5% | 21% |  |
-| 15 | 5% | 16% |  |
-| 16 | 4% | 11% |  |
+| 11 | 30% | 90% |  |
+| 12 | 28% | 61% | Median |
+| 13 | 10% | 33% |  |
+| 14 | 6% | 23% |  |
+| 15 | 5% | 17% |  |
+| 16 | 5% | 11% |  |
 | 17 | 4% | 7% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.7% | 1.5% |  |
-| 20 | 0.5% | 0.8% |  |
-| 21 | 0.2% | 0.3% |  |
+| 19 | 0.8% | 2% |  |
+| 20 | 0.6% | 0.9% |  |
+| 21 | 0.3% | 0.4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
