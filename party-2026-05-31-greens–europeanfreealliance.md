@@ -18,16 +18,16 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–44 | 34–45 | 32–47 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 33–44 | 32–46 |
 | Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
-| Europa Verde | IT | | 3 | 3–6 | 2–6 | 2–6 | 2–6 |
-| GroenLinks | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2 | 2 | 2–3 | 2–3 |
+| GroenLinks | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Movimiento Sumar–Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Možemo! | HR | | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 1 | 1 | 1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -54,7 +54,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | déi gréng | LU | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
+| Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0–1 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
 | Сияние | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -66,26 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0% | 100% |  |
+| 30 | 0.1% | 100% |  |
 | 31 | 0.2% | 99.9% |  |
-| 32 | 0.6% | 99.8% |  |
-| 33 | 2% | 99.2% |  |
-| 34 | 4% | 98% |  |
-| 35 | 6% | 94% |  |
-| 36 | 10% | 88% |  |
-| 37 | 13% | 77% |  |
-| 38 | 15% | 64% | Median |
-| 39 | 14% | 49% |  |
-| 40 | 12% | 35% |  |
-| 41 | 9% | 23% |  |
-| 42 | 6% | 15% |  |
-| 43 | 4% | 9% |  |
-| 44 | 2% | 5% |  |
-| 45 | 1.4% | 3% |  |
-| 46 | 0.8% | 1.5% |  |
-| 47 | 0.4% | 0.7% |  |
-| 48 | 0.2% | 0.3% |  |
-| 49 | 0.1% | 0.1% |  |
+| 32 | 0.7% | 99.7% |  |
+| 33 | 2% | 98.9% |  |
+| 34 | 4% | 97% |  |
+| 35 | 7% | 93% |  |
+| 36 | 11% | 86% |  |
+| 37 | 14% | 75% |  |
+| 38 | 15% | 61% | Median |
+| 39 | 14% | 45% |  |
+| 40 | 11% | 31% |  |
+| 41 | 8% | 20% |  |
+| 42 | 5% | 12% |  |
+| 43 | 3% | 7% |  |
+| 44 | 2% | 4% |  |
+| 45 | 1.1% | 2% |  |
+| 46 | 0.6% | 1.1% |  |
+| 47 | 0.3% | 0.5% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

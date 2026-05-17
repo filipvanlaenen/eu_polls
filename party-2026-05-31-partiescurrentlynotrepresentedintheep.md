@@ -1,33 +1,32 @@
 # Parties currently not represented in the EP
 
-Members registered from **20 countries**:
+Members registered from **19 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, PL, SI, SK
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **12** seats (+11 seats)
+Current median: **11** seats (+10 seats)
 
-At least one member in **5 countries** have a median of 1 seat or more:
+At least one member in **4 countries** have a median of 1 seat or more:
 
-> BG, GR, IE, LV, PL
+> BG, GR, IE, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 12 | 11–16 | 10–17 | 10–18 | 10–20 |
+| Parties currently not represented in the EP | EU | 1 | 11 | 10–15 | 10–17 | 10–17 | 10–18 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
-| Partia Mateusza Morawieckiego [PL] (*) | PL | | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Κόμμα Αλέξη Τσίπρα [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
-| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -42,7 +41,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
@@ -54,6 +53,7 @@ At least one member in **5 countries** have a median of 1 seat or more:
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
+| Σήκου πάνω! [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -75,19 +75,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 10% | 100% |  |
-| 11 | 30% | 90% |  |
-| 12 | 28% | 61% | Median |
-| 13 | 10% | 33% |  |
-| 14 | 6% | 23% |  |
-| 15 | 5% | 17% |  |
-| 16 | 5% | 11% |  |
-| 17 | 4% | 7% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.8% | 2% |  |
-| 20 | 0.6% | 0.9% |  |
-| 21 | 0.3% | 0.4% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 10 | 13% | 100% |  |
+| 11 | 38% | 87% | Median |
+| 12 | 31% | 48% |  |
+| 13 | 7% | 18% |  |
+| 14 | 0.5% | 11% |  |
+| 15 | 1.4% | 11% |  |
+| 16 | 4% | 9% |  |
+| 17 | 4% | 5% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.2% | 0.3% |  |
+| 20 | 0% | 0.1% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
