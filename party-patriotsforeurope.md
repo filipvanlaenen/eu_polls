@@ -23,7 +23,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vox | ES | | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Lega Nord | IT | | 6 | 5–7 | 5–8 | 4–9 | 4–10 |
+| Lega Nord | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–10 |
 | Chega | PT | | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -63,7 +63,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 7% | 87% |  |
 | 96 | 8% | 81% |  |
 | 97 | 10% | 72% |  |
-| 98 | 11% | 63% |  |
+| 98 | 11% | 62% |  |
 | 99 | 11% | 52% | Median |
 | 100 | 10% | 41% |  |
 | 101 | 9% | 31% |  |
@@ -72,9 +72,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 4% | 9% |  |
 | 105 | 2% | 5% |  |
 | 106 | 1.4% | 3% |  |
-| 107 | 0.8% | 1.4% |  |
-| 108 | 0.4% | 0.6% |  |
-| 109 | 0.2% | 0.3% |  |
+| 107 | 0.7% | 1.3% |  |
+| 108 | 0.3% | 0.6% |  |
+| 109 | 0.1% | 0.2% |  |
 | 110 | 0.1% | 0.1% |  |
 | 111 | 0% | 0% |  |
 

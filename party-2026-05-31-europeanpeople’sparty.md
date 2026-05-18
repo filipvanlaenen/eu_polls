@@ -26,7 +26,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Les Républicains | FR | | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
+| Forza Italia | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | Christlich-Soziale Union in Bayern | DE | | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5 | 5–6 | 5–6 |
@@ -90,7 +90,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0.3% | 99.6% |  |
 | 158 | 0.5% | 99.3% |  |
 | 159 | 0.7% | 98.8% |  |
-| 160 | 1.0% | 98% |  |
+| 160 | 0.9% | 98% |  |
 | 161 | 1.3% | 97% |  |
 | 162 | 2% | 96% |  |
 | 163 | 2% | 94% |  |
@@ -103,17 +103,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 170 | 6% | 67% |  |
 | 171 | 7% | 61% |  |
 | 172 | 7% | 54% | Median |
-| 173 | 8% | 47% |  |
-| 174 | 7% | 39% |  |
+| 173 | 7% | 47% |  |
+| 174 | 7% | 40% |  |
 | 175 | 7% | 32% |  |
 | 176 | 6% | 25% |  |
 | 177 | 5% | 19% |  |
 | 178 | 4% | 14% |  |
-| 179 | 3% | 9% |  |
+| 179 | 3% | 10% |  |
 | 180 | 2% | 6% |  |
 | 181 | 2% | 4% |  |
 | 182 | 1.0% | 2% |  |
-| 183 | 0.6% | 1.3% |  |
+| 183 | 0.6% | 1.4% |  |
 | 184 | 0.4% | 0.7% |  |
 | 185 | 0.2% | 0.4% |  |
 | 186 | 0.1% | 0.2% |  |
