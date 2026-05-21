@@ -41,7 +41,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 0–1 |
+| Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Demokratikus Koalíció | HU | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -62,7 +62,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 113 | 0.1% | 99.9% |  |
 | 114 | 0.2% | 99.9% |  |
 | 115 | 0.4% | 99.6% |  |
-| 116 | 0.8% | 99.2% |  |
+| 116 | 0.9% | 99.2% |  |
 | 117 | 2% | 98% |  |
 | 118 | 3% | 97% |  |
 | 119 | 4% | 94% |  |
