@@ -43,6 +43,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
