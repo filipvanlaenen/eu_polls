@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 165–180 | 163–181 | 161–183 | 157–185 |
+| European People’s Party | EU | 188 | 173 | 165–180 | 163–181 | 161–182 | 157–185 |
 | Partido Popular | ES | | 22 | 17–23 | 17–24 | 16–24 | 16–24 |
 | Platforma Obywatelska | PL | | 21 | 19–22 | 18–23 | 18–23 | 18–24 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–20 | 15–20 | 14–22 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 15–20 | 14–22 |
 | Tisztelet és Szabadság | HU | | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
 | Les Républicains | FR | | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
@@ -37,7 +37,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Fine Gael | IE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
-| Partit Nazzjonalista | MT | | 3 | 3 | 3 | 2–3 | 2–3 |
+| Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Граждани за европейско развитие на България | BG | | 3 | 3 | 3 | 3 | 3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -48,7 +48,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1–2 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -87,37 +87,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 155 | 0.1% | 99.9% |  |
 | 156 | 0.1% | 99.8% |  |
 | 157 | 0.2% | 99.7% |  |
-| 158 | 0.3% | 99.5% |  |
-| 159 | 0.5% | 99.2% |  |
-| 160 | 0.7% | 98.6% |  |
-| 161 | 1.0% | 98% |  |
+| 158 | 0.4% | 99.4% |  |
+| 159 | 0.5% | 99.1% |  |
+| 160 | 0.8% | 98.5% |  |
+| 161 | 1.1% | 98% |  |
 | 162 | 1.4% | 97% |  |
-| 163 | 2% | 96% |  |
-| 164 | 2% | 94% |  |
-| 165 | 3% | 92% |  |
-| 166 | 3% | 89% |  |
-| 167 | 4% | 86% |  |
+| 163 | 2% | 95% |  |
+| 164 | 2% | 93% |  |
+| 165 | 3% | 91% |  |
+| 166 | 3% | 88% |  |
+| 167 | 4% | 85% |  |
 | 168 | 4% | 82% |  |
-| 169 | 5% | 78% |  |
-| 170 | 5% | 74% |  |
+| 169 | 5% | 77% |  |
+| 170 | 5% | 73% |  |
 | 171 | 6% | 68% |  |
-| 172 | 6% | 63% |  |
-| 173 | 7% | 56% | Median |
-| 174 | 7% | 49% |  |
-| 175 | 7% | 42% |  |
-| 176 | 7% | 35% |  |
-| 177 | 6% | 28% |  |
-| 178 | 6% | 21% |  |
-| 179 | 5% | 16% |  |
-| 180 | 4% | 11% |  |
-| 181 | 3% | 7% |  |
-| 182 | 2% | 5% |  |
-| 183 | 1.2% | 3% |  |
-| 184 | 0.7% | 2% |  |
-| 185 | 0.4% | 0.9% |  |
-| 186 | 0.2% | 0.5% |  |
+| 172 | 6% | 62% |  |
+| 173 | 7% | 55% | Median |
+| 174 | 7% | 48% |  |
+| 175 | 7% | 41% |  |
+| 176 | 7% | 33% |  |
+| 177 | 6% | 26% |  |
+| 178 | 6% | 20% |  |
+| 179 | 4% | 15% |  |
+| 180 | 3% | 10% |  |
+| 181 | 2% | 7% |  |
+| 182 | 2% | 4% |  |
+| 183 | 1.1% | 2% |  |
+| 184 | 0.7% | 1.4% |  |
+| 185 | 0.4% | 0.8% |  |
+| 186 | 0.2% | 0.4% |  |
 | 187 | 0.1% | 0.2% |  |
-| 188 | 0.1% | 0.1% | Last Result |
+| 188 | 0% | 0.1% | Last Result |
 | 189 | 0% | 0% |  |
 
 

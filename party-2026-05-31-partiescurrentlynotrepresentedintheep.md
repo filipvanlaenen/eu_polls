@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **19 countries**:
+Members registered from **18 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, MT, NL, SI, SK
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **11** seats (+10 seats)
+Current median: **12** seats (+11 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 11 | 10–15 | 10–17 | 10–17 | 10–18 |
+| Parties currently not represented in the EP | EU | 1 | 12 | 11–17 | 11–18 | 11–18 | 10–19 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
-| Κόμμα Αλέξη Τσίπρα [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ξεκινάμε [GR] (*) | GR | | 2 | 2 | 2 | 2 | 2 |
+| Κόμμα Αλέξη Τσίπρα [GR] (*) | GR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Ξεκινάμε [GR] (*) | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -44,7 +44,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
-| Partit Momentum [MT] (*) | MT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -75,18 +74,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 13% | 100% |  |
-| 11 | 38% | 87% | Median |
-| 12 | 31% | 49% |  |
-| 13 | 7% | 18% |  |
-| 14 | 0.6% | 11% |  |
-| 15 | 1.4% | 11% |  |
-| 16 | 4% | 9% |  |
-| 17 | 4% | 5% |  |
-| 18 | 1.3% | 2% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0.1% |  |
+| 10 | 1.4% | 100% |  |
+| 11 | 25% | 98.6% |  |
+| 12 | 42% | 73% | Median |
+| 13 | 11% | 31% |  |
+| 14 | 1.0% | 20% |  |
+| 15 | 0.2% | 19% |  |
+| 16 | 3% | 19% |  |
+| 17 | 8% | 15% |  |
+| 18 | 6% | 7% |  |
+| 19 | 1.3% | 2% |  |
+| 20 | 0.1% | 0.3% |  |
 | 21 | 0% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 

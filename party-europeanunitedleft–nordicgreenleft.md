@@ -36,7 +36,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Bloco de Esquerda | PT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
@@ -62,10 +62,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0% | 100% | Last Result |
 | 47 | 0.1% | 100% |  |
 | 48 | 0.2% | 99.9% |  |
-| 49 | 0.4% | 99.8% |  |
-| 50 | 0.9% | 99.4% |  |
+| 49 | 0.4% | 99.7% |  |
+| 50 | 1.0% | 99.3% |  |
 | 51 | 2% | 98% |  |
-| 52 | 3% | 96% |  |
+| 52 | 4% | 96% |  |
 | 53 | 6% | 93% |  |
 | 54 | 8% | 87% |  |
 | 55 | 10% | 79% |  |
@@ -78,9 +78,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 4% | 9% |  |
 | 63 | 2% | 5% |  |
 | 64 | 1.4% | 3% |  |
-| 65 | 0.7% | 1.3% |  |
-| 66 | 0.3% | 0.6% |  |
-| 67 | 0.1% | 0.2% |  |
+| 65 | 0.8% | 1.4% |  |
+| 66 | 0.4% | 0.6% |  |
+| 67 | 0.2% | 0.3% |  |
 | 68 | 0.1% | 0.1% |  |
 | 69 | 0% | 0% |  |
 
