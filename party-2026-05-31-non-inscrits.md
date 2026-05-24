@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **21** seats (-11 seats)
+Current median: **22** seats (-10 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 21 | 18–25 | 17–26 | 16–27 | 14–29 |
+| Non-Inscrits | EU | 32 | 22 | 18–26 | 17–27 | 16–28 | 14–30 |
 | Konfederacja Korony Polskiej | PL | | 5 | 3–6 | 3–6 | 0–7 | 0–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -41,7 +41,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -54,26 +54,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0.2% | 99.9% |  |
-| 14 | 0.5% | 99.7% |  |
-| 15 | 0.9% | 99.2% |  |
-| 16 | 2% | 98% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.3% | 99.8% |  |
+| 15 | 0.7% | 99.5% |  |
+| 16 | 1.3% | 98.8% |  |
 | 17 | 3% | 97% |  |
-| 18 | 7% | 93% |  |
-| 19 | 11% | 87% |  |
-| 20 | 14% | 76% |  |
-| 21 | 14% | 62% | Median |
-| 22 | 13% | 48% |  |
-| 23 | 11% | 35% |  |
-| 24 | 9% | 25% |  |
-| 25 | 7% | 16% |  |
-| 26 | 5% | 9% |  |
-| 27 | 3% | 5% |  |
-| 28 | 1.3% | 2% |  |
-| 29 | 0.6% | 0.8% |  |
-| 30 | 0.2% | 0.3% |  |
-| 31 | 0.1% | 0.1% |  |
+| 18 | 5% | 95% |  |
+| 19 | 9% | 90% |  |
+| 20 | 12% | 81% |  |
+| 21 | 14% | 69% |  |
+| 22 | 14% | 55% | Median |
+| 23 | 12% | 42% |  |
+| 24 | 10% | 30% |  |
+| 25 | 8% | 20% |  |
+| 26 | 6% | 13% |  |
+| 27 | 4% | 7% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.9% | 1.5% |  |
+| 30 | 0.4% | 0.6% |  |
+| 31 | 0.1% | 0.2% |  |
 | 32 | 0% | 0% | Last Result |
 
 

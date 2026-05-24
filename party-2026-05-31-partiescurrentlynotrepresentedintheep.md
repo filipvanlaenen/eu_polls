@@ -32,6 +32,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
