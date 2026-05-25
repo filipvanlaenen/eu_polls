@@ -8,17 +8,17 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (-9 seats)
+Current median: **67** seats (-10 seats)
 
-At least one member in **19 countries** have a median of 1 seat or more:
+At least one member in **18 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PT, RO, SE, SI, SK
+> AT, BE, BG, DE, DK, EE, FI, FR, IE, LT, LU, LV, NL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 63–75 | 62–77 | 61–79 | 59–82 |
+| Renew Europe | EU | 77 | 67 | 62–74 | 61–76 | 60–78 | 58–81 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 15 | 12–22 | 11–23 | 11–24 | 10–25 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
@@ -44,7 +44,6 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Anders | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -67,6 +66,7 @@ At least one member in **19 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
+| Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
@@ -79,35 +79,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.4% | 99.8% |  |
-| 60 | 1.0% | 99.3% |  |
-| 61 | 2% | 98% |  |
-| 62 | 3% | 97% |  |
-| 63 | 5% | 93% |  |
-| 64 | 7% | 88% |  |
-| 65 | 8% | 82% |  |
-| 66 | 10% | 73% |  |
-| 67 | 10% | 64% |  |
-| 68 | 9% | 54% | Median |
-| 69 | 8% | 45% |  |
-| 70 | 7% | 37% |  |
-| 71 | 6% | 30% |  |
-| 72 | 5% | 24% |  |
-| 73 | 4% | 20% |  |
-| 74 | 4% | 15% |  |
-| 75 | 3% | 12% |  |
-| 76 | 2% | 9% |  |
-| 77 | 2% | 6% | Last Result |
-| 78 | 1.5% | 4% |  |
-| 79 | 1.1% | 3% |  |
-| 80 | 0.8% | 2% |  |
-| 81 | 0.5% | 1.1% |  |
-| 82 | 0.3% | 0.7% |  |
-| 83 | 0.2% | 0.4% |  |
-| 84 | 0.1% | 0.2% |  |
-| 85 | 0% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 56 | 0.1% | 100% |  |
+| 57 | 0.2% | 99.9% |  |
+| 58 | 0.4% | 99.8% |  |
+| 59 | 0.9% | 99.4% |  |
+| 60 | 2% | 98% |  |
+| 61 | 3% | 97% |  |
+| 62 | 5% | 94% |  |
+| 63 | 7% | 89% |  |
+| 64 | 8% | 82% |  |
+| 65 | 9% | 74% |  |
+| 66 | 10% | 64% |  |
+| 67 | 9% | 54% | Median |
+| 68 | 8% | 45% |  |
+| 69 | 7% | 37% |  |
+| 70 | 6% | 30% |  |
+| 71 | 5% | 25% |  |
+| 72 | 4% | 20% |  |
+| 73 | 4% | 16% |  |
+| 74 | 3% | 12% |  |
+| 75 | 2% | 9% |  |
+| 76 | 2% | 7% |  |
+| 77 | 2% | 5% | Last Result |
+| 78 | 1.1% | 3% |  |
+| 79 | 0.8% | 2% |  |
+| 80 | 0.5% | 1.2% |  |
+| 81 | 0.3% | 0.7% |  |
+| 82 | 0.2% | 0.4% |  |
+| 83 | 0.1% | 0.2% |  |
+| 84 | 0% | 0.1% |  |
+| 85 | 0% | 0% |  |
 
 

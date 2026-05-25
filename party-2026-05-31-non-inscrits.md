@@ -8,17 +8,17 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-10 seats)
+Current median: **21** seats (-11 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> BG, CY, DE, ES, GR, PL, SK
+> BG, DE, ES, GR, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 22 | 18–26 | 17–27 | 16–28 | 14–30 |
+| Non-Inscrits | EU | 32 | 21 | 18–25 | 17–26 | 16–27 | 14–29 |
 | Konfederacja Korony Polskiej | PL | | 5 | 3–6 | 3–6 | 0–7 | 0–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -27,7 +27,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| Άμεσης Δημοκρατίας | CY | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Движение за права и свободи – Ново начало | BG | | 1 | 1 | 1 | 1 | 1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,6 +43,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Άμεσης Δημοκρατίας | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -54,25 +54,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.3% | 99.8% |  |
-| 15 | 0.7% | 99.5% |  |
-| 16 | 1.3% | 98.8% |  |
-| 17 | 3% | 97% |  |
-| 18 | 5% | 95% |  |
-| 19 | 9% | 90% |  |
-| 20 | 12% | 81% |  |
-| 21 | 14% | 69% |  |
-| 22 | 14% | 55% | Median |
-| 23 | 12% | 42% |  |
-| 24 | 10% | 30% |  |
-| 25 | 8% | 20% |  |
-| 26 | 6% | 13% |  |
-| 27 | 4% | 7% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.9% | 1.5% |  |
-| 30 | 0.4% | 0.6% |  |
-| 31 | 0.1% | 0.2% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.3% | 99.9% |  |
+| 14 | 0.6% | 99.6% |  |
+| 15 | 1.1% | 99.0% |  |
+| 16 | 2% | 98% |  |
+| 17 | 4% | 96% |  |
+| 18 | 8% | 91% |  |
+| 19 | 12% | 84% |  |
+| 20 | 14% | 72% |  |
+| 21 | 14% | 58% | Median |
+| 22 | 12% | 44% |  |
+| 23 | 10% | 32% |  |
+| 24 | 8% | 22% |  |
+| 25 | 6% | 14% |  |
+| 26 | 4% | 8% |  |
+| 27 | 2% | 4% |  |
+| 28 | 1.1% | 2% |  |
+| 29 | 0.4% | 0.6% |  |
+| 30 | 0.1% | 0.2% |  |
+| 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% | Last Result |
 
 
