@@ -25,7 +25,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -76,16 +76,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 1.4% | 100% |  |
-| 11 | 25% | 98.6% |  |
-| 12 | 42% | 73% | Median |
-| 13 | 11% | 31% |  |
-| 14 | 1.0% | 20% |  |
+| 11 | 26% | 98.6% |  |
+| 12 | 43% | 73% | Median |
+| 13 | 11% | 30% |  |
+| 14 | 0.9% | 20% |  |
 | 15 | 0.2% | 19% |  |
 | 16 | 3% | 19% |  |
 | 17 | 8% | 15% |  |
 | 18 | 6% | 7% |  |
 | 19 | 1.3% | 2% |  |
-| 20 | 0.1% | 0.3% |  |
+| 20 | 0.1% | 0.2% |  |
 | 21 | 0% | 0.1% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |

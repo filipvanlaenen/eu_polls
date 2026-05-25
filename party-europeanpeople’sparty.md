@@ -21,7 +21,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 173 | 164–179 | 162–181 | 160–182 | 157–185 |
 | Partido Popular | ES | | 22 | 17–23 | 17–24 | 16–24 | 16–24 |
 | Platforma Obywatelska | PL | | 21 | 19–22 | 18–23 | 18–23 | 18–24 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 15–20 | 14–22 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 16–19 | 15–19 | 15–20 | 15–22 |
 | Tisztelet és Szabadság | HU | | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
 | Les Républicains | FR | | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
@@ -33,7 +33,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Starostové a nezávislí | CZ | | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Fine Gael | IE | | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3–4 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -90,13 +90,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0.3% | 99.5% |  |
 | 158 | 0.5% | 99.2% |  |
 | 159 | 0.7% | 98.7% |  |
-| 160 | 1.0% | 98% |  |
+| 160 | 0.9% | 98% |  |
 | 161 | 1.3% | 97% |  |
 | 162 | 2% | 96% |  |
 | 163 | 2% | 94% |  |
 | 164 | 3% | 92% |  |
-| 165 | 3% | 89% |  |
-| 166 | 3% | 86% |  |
+| 165 | 3% | 90% |  |
+| 166 | 3% | 87% |  |
 | 167 | 4% | 83% |  |
 | 168 | 4% | 79% |  |
 | 169 | 5% | 75% |  |
