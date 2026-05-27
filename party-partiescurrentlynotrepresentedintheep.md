@@ -21,7 +21,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 1 | 12 | 11–18 | 11–19 | 11–19 | 10–20 |
 | Прогресивна България [BG] (*) | BG | | 10 | 10 | 10 | 10 | 10 |
 | Κόμμα Αλέξη Τσίπρα [GR] (*) | GR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| Ξεκινάμε [GR] (*) | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Ξεκινάμε [GR] (*) | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 4% | 30% |  |
 | 17 | 9% | 27% |  |
 | 18 | 9% | 18% |  |
-| 19 | 7% | 9% |  |
+| 19 | 6% | 9% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.2% | 0.4% |  |
 | 22 | 0.1% | 0.2% |  |
