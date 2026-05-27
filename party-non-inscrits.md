@@ -10,26 +10,26 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **21** seats (-11 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> BG, DE, ES, GR, PL, SK
+> BG, DE, ES, GR, LT, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 21 | 18–25 | 17–26 | 16–27 | 14–29 |
+| Non-Inscrits | EU | 32 | 21 | 18–25 | 17–26 | 16–27 | 13–29 |
 | Konfederacja Korony Polskiej | PL | | 5 | 3–6 | 3–6 | 0–7 | 0–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 2 | 1–2 | 0–2 | 0–3 | 0–3 |
+| Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Движение за права и свободи – Ново начало | BG | | 1 | 1 | 1 | 1 | 1 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
-| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Futuro Nazionale | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,25 +55,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.3% | 99.9% |  |
-| 14 | 0.6% | 99.6% |  |
-| 15 | 1.1% | 99.0% |  |
-| 16 | 2% | 98% |  |
-| 17 | 4% | 96% |  |
-| 18 | 8% | 92% |  |
-| 19 | 11% | 84% |  |
-| 20 | 14% | 73% |  |
-| 21 | 14% | 59% | Median |
-| 22 | 12% | 46% |  |
-| 23 | 10% | 34% |  |
-| 24 | 8% | 23% |  |
-| 25 | 6% | 15% |  |
-| 26 | 4% | 9% |  |
+| 13 | 0.3% | 99.8% |  |
+| 14 | 0.6% | 99.5% |  |
+| 15 | 1.3% | 98.9% |  |
+| 16 | 3% | 98% |  |
+| 17 | 5% | 95% |  |
+| 18 | 8% | 90% |  |
+| 19 | 11% | 82% |  |
+| 20 | 13% | 71% |  |
+| 21 | 13% | 58% | Median |
+| 22 | 12% | 44% |  |
+| 23 | 10% | 32% |  |
+| 24 | 8% | 22% |  |
+| 25 | 6% | 14% |  |
+| 26 | 4% | 8% |  |
 | 27 | 2% | 4% |  |
-| 28 | 1.2% | 2% |  |
+| 28 | 1.1% | 2% |  |
 | 29 | 0.5% | 0.7% |  |
 | 30 | 0.2% | 0.2% |  |
-| 31 | 0.1% | 0.1% |  |
+| 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% | Last Result |
 
 
