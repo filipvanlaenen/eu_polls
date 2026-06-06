@@ -19,16 +19,16 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 172 | 163–179 | 161–181 | 159–182 | 155–185 |
-| Partido Popular | ES | | 23 | 17–25 | 17–26 | 16–26 | 16–27 |
+| Partido Popular | ES | | 23 | 17–25 | 17–26 | 17–26 | 16–27 |
 | Platforma Obywatelska | PL | | 20 | 18–23 | 18–25 | 18–25 | 17–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
-| Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–17 | 14–17 | 14–17 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
+| Tisztelet és Szabadság | HU | | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
 | Les Républicains | FR | | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
-| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| Forza Italia | IT | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Forza Italia | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | Partidul Național Liberal | RO | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| Νέα Δημοκρατία | GR | | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Hrvatska demokratska zajednica | HR | | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | Christen-Democratisch Appèl | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4–5 | 3–5 |
@@ -49,7 +49,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -64,9 +64,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Magyar Szövetség | SK | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -88,9 +89,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 153 | 0.1% | 99.8% |  |
 | 154 | 0.2% | 99.7% |  |
 | 155 | 0.3% | 99.5% |  |
-| 156 | 0.4% | 99.2% |  |
-| 157 | 0.6% | 98.8% |  |
-| 158 | 0.8% | 98% |  |
+| 156 | 0.4% | 99.3% |  |
+| 157 | 0.5% | 98.9% |  |
+| 158 | 0.7% | 98% |  |
 | 159 | 1.0% | 98% |  |
 | 160 | 1.3% | 97% |  |
 | 161 | 2% | 95% |  |
@@ -100,13 +101,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 165 | 3% | 86% |  |
 | 166 | 4% | 83% |  |
 | 167 | 4% | 79% |  |
-| 168 | 5% | 74% |  |
+| 168 | 5% | 75% |  |
 | 169 | 5% | 70% |  |
-| 170 | 6% | 64% |  |
+| 170 | 6% | 65% |  |
 | 171 | 6% | 59% |  |
-| 172 | 6% | 52% | Median |
+| 172 | 6% | 53% | Median |
 | 173 | 7% | 46% |  |
-| 174 | 6% | 40% |  |
+| 174 | 7% | 40% |  |
 | 175 | 6% | 33% |  |
 | 176 | 6% | 27% |  |
 | 177 | 5% | 21% |  |
@@ -121,6 +122,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 186 | 0.2% | 0.4% |  |
 | 187 | 0.1% | 0.2% |  |
 | 188 | 0.1% | 0.1% | Last Result |
-| 189 | 0% | 0% |  |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
 
 

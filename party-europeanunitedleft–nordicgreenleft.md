@@ -20,17 +20,18 @@ At least one member in **12 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 52–64 | 50–66 |
 | La France insoumise | FR | | 12 | 10–14 | 9–14 | 9–14 | 8–15 |
-| Movimento 5 Stelle | IT | | 11 | 10–13 | 9–14 | 9–14 | 9–14 |
-| Die Linke | DE | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| Movimento 5 Stelle | IT | | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
+| Die Linke | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -38,7 +39,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -49,7 +49,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -61,20 +61,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
 | 47 | 0% | 100% |  |
-| 48 | 0.1% | 100% |  |
-| 49 | 0.2% | 99.9% |  |
-| 50 | 0.5% | 99.7% |  |
-| 51 | 1.2% | 99.2% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0.1% | 99.9% |  |
+| 50 | 0.4% | 99.8% |  |
+| 51 | 1.0% | 99.4% |  |
 | 52 | 2% | 98% |  |
 | 53 | 4% | 96% |  |
-| 54 | 7% | 91% |  |
-| 55 | 9% | 85% |  |
-| 56 | 11% | 76% |  |
-| 57 | 12% | 65% |  |
-| 58 | 12% | 52% | Median |
-| 59 | 11% | 40% |  |
-| 60 | 9% | 29% |  |
-| 61 | 7% | 19% |  |
+| 54 | 6% | 93% |  |
+| 55 | 9% | 86% |  |
+| 56 | 11% | 78% |  |
+| 57 | 13% | 67% |  |
+| 58 | 13% | 54% | Median |
+| 59 | 12% | 41% |  |
+| 60 | 10% | 29% |  |
+| 61 | 7% | 20% |  |
 | 62 | 5% | 12% |  |
 | 63 | 3% | 7% |  |
 | 64 | 2% | 4% |  |
