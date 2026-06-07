@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (-9 seats)
+Current median: **70** seats (-7 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 63–75 | 62–77 | 61–79 | 59–82 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 15 | 12–22 | 11–23 | 11–24 | 10–25 |
+| Renew Europe | EU | 77 | 70 | 66–75 | 64–76 | 63–77 | 61–79 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 14–19 | 13–20 | 12–20 | 12–21 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Freie Demokratische Partei | DE | | 4 | 3–6 | 3–6 | 2–6 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–6 | 2–7 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Uniunea Salvați România | RO | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
@@ -41,7 +41,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Anders | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -77,35 +77,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.5% | 99.7% |  |
-| 60 | 1.0% | 99.2% |  |
-| 61 | 2% | 98% |  |
-| 62 | 3% | 96% |  |
-| 63 | 5% | 93% |  |
-| 64 | 7% | 88% |  |
-| 65 | 8% | 81% |  |
-| 66 | 10% | 73% |  |
-| 67 | 10% | 63% |  |
-| 68 | 9% | 53% | Median |
-| 69 | 8% | 44% |  |
-| 70 | 7% | 36% |  |
-| 71 | 6% | 29% |  |
-| 72 | 5% | 23% |  |
-| 73 | 4% | 19% |  |
-| 74 | 3% | 15% |  |
-| 75 | 3% | 11% |  |
-| 76 | 2% | 8% |  |
-| 77 | 2% | 6% | Last Result |
-| 78 | 1.5% | 4% |  |
-| 79 | 1.0% | 3% |  |
-| 80 | 0.7% | 2% |  |
-| 81 | 0.4% | 1.0% |  |
-| 82 | 0.3% | 0.5% |  |
-| 83 | 0.1% | 0.3% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0.1% |  |
-| 86 | 0% | 0% |  |
+| 59 | 0.1% | 100% |  |
+| 60 | 0.2% | 99.9% |  |
+| 61 | 0.4% | 99.7% |  |
+| 62 | 0.8% | 99.3% |  |
+| 63 | 2% | 98% |  |
+| 64 | 3% | 97% |  |
+| 65 | 4% | 94% |  |
+| 66 | 6% | 90% |  |
+| 67 | 7% | 85% |  |
+| 68 | 9% | 77% |  |
+| 69 | 10% | 68% |  |
+| 70 | 11% | 58% | Median |
+| 71 | 11% | 47% |  |
+| 72 | 10% | 36% |  |
+| 73 | 8% | 26% |  |
+| 74 | 6% | 17% |  |
+| 75 | 4% | 11% |  |
+| 76 | 3% | 7% |  |
+| 77 | 2% | 4% | Last Result |
+| 78 | 1.0% | 2% |  |
+| 79 | 0.5% | 1.0% |  |
+| 80 | 0.3% | 0.5% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0.1% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 

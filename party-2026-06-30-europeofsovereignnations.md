@@ -8,7 +8,7 @@ Members registered from **9 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (+13 seats)
+Current median: **39** seats (+14 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 38 | 35–43 | 35–44 | 34–45 | 33–46 |
-| Alternative für Deutschland | DE | | 25 | 24–27 | 24–28 | 23–28 | 22–29 |
-| Nowa Nadzieja | PL | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| Europe of Sovereign Nations | EU | 25 | 39 | 36–44 | 35–45 | 34–45 | 33–47 |
+| Alternative für Deutschland | DE | | 26 | 24–27 | 24–28 | 23–29 | 22–29 |
+| Nowa Nadzieja | PL | | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Reconquête | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Reconquête | FR | | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане | BG | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -44,23 +44,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
-| 32 | 0.2% | 100% |  |
-| 33 | 1.0% | 99.8% |  |
+| 32 | 0.2% | 99.9% |  |
+| 33 | 0.9% | 99.7% |  |
 | 34 | 3% | 98.8% |  |
-| 35 | 7% | 96% |  |
-| 36 | 12% | 88% |  |
-| 37 | 14% | 77% |  |
-| 38 | 14% | 63% | Median |
-| 39 | 12% | 49% |  |
-| 40 | 10% | 37% |  |
-| 41 | 8% | 28% |  |
-| 42 | 7% | 19% |  |
-| 43 | 6% | 13% |  |
-| 44 | 4% | 7% |  |
-| 45 | 2% | 3% |  |
-| 46 | 0.9% | 1.2% |  |
-| 47 | 0.2% | 0.3% |  |
-| 48 | 0% | 0.1% |  |
+| 35 | 5% | 96% |  |
+| 36 | 9% | 91% |  |
+| 37 | 12% | 82% |  |
+| 38 | 14% | 71% |  |
+| 39 | 13% | 57% | Median |
+| 40 | 11% | 44% |  |
+| 41 | 9% | 33% |  |
+| 42 | 7% | 25% |  |
+| 43 | 7% | 17% |  |
+| 44 | 5% | 11% |  |
+| 45 | 3% | 6% |  |
+| 46 | 2% | 2% |  |
+| 47 | 0.6% | 0.8% |  |
+| 48 | 0.2% | 0.2% |  |
 | 49 | 0% | 0% |  |
 
 
