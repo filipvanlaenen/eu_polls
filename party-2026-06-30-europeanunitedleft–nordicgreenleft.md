@@ -19,9 +19,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 58 | 54–62 | 53–63 | 52–64 | 51–66 |
-| La France insoumise | FR | | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
+| La France insoumise | FR | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
-| Die Linke | DE | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
+| Die Linke | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Sinn Féin | IE | | 5 | 4–5 | 4–5 | 3–6 | 3–6 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -32,7 +32,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -48,9 +48,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -64,25 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
 | 49 | 0.1% | 100% |  |
-| 50 | 0.3% | 99.9% |  |
-| 51 | 0.7% | 99.6% |  |
-| 52 | 2% | 98.9% |  |
-| 53 | 4% | 97% |  |
+| 50 | 0.2% | 99.9% |  |
+| 51 | 0.7% | 99.7% |  |
+| 52 | 2% | 99.0% |  |
+| 53 | 3% | 97% |  |
 | 54 | 6% | 94% |  |
-| 55 | 9% | 87% |  |
-| 56 | 12% | 78% |  |
-| 57 | 14% | 66% |  |
-| 58 | 14% | 53% | Median |
-| 59 | 12% | 39% |  |
-| 60 | 10% | 27% |  |
-| 61 | 7% | 17% |  |
-| 62 | 5% | 10% |  |
-| 63 | 3% | 6% |  |
-| 64 | 1.5% | 3% |  |
-| 65 | 0.7% | 1.3% |  |
-| 66 | 0.3% | 0.6% |  |
-| 67 | 0.1% | 0.2% |  |
-| 68 | 0.1% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 55 | 8% | 89% |  |
+| 56 | 11% | 80% |  |
+| 57 | 13% | 69% |  |
+| 58 | 13% | 56% | Median |
+| 59 | 12% | 43% |  |
+| 60 | 10% | 31% |  |
+| 61 | 8% | 21% |  |
+| 62 | 5% | 13% |  |
+| 63 | 3% | 8% |  |
+| 64 | 2% | 4% |  |
+| 65 | 1.1% | 2% |  |
+| 66 | 0.5% | 1.0% |  |
+| 67 | 0.3% | 0.4% |  |
+| 68 | 0.1% | 0.2% |  |
+| 69 | 0% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 

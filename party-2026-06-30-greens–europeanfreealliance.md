@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 36–42 | 36–43 | 35–44 | 34–46 |
-| Bündnis 90/Die Grünen | DE | | 14 | 13–15 | 12–16 | 12–16 | 11–18 |
+| Greens–European Free Alliance | EU | 53 | 39 | 36–42 | 35–43 | 35–44 | 33–46 |
+| Bündnis 90/Die Grünen | DE | | 14 | 12–15 | 11–16 | 11–16 | 11–18 |
 | Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -34,7 +34,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -66,21 +66,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0.1% | 100% |  |
-| 33 | 0.3% | 99.9% |  |
-| 34 | 1.0% | 99.7% |  |
-| 35 | 3% | 98.7% |  |
-| 36 | 7% | 96% |  |
-| 37 | 12% | 89% |  |
-| 38 | 17% | 76% |  |
-| 39 | 19% | 59% | Median |
-| 40 | 16% | 40% |  |
-| 41 | 11% | 24% |  |
-| 42 | 7% | 13% |  |
+| 33 | 0.5% | 99.8% |  |
+| 34 | 2% | 99.3% |  |
+| 35 | 4% | 98% |  |
+| 36 | 8% | 94% |  |
+| 37 | 13% | 86% |  |
+| 38 | 17% | 73% |  |
+| 39 | 18% | 56% | Median |
+| 40 | 15% | 38% |  |
+| 41 | 10% | 23% |  |
+| 42 | 6% | 13% |  |
 | 43 | 3% | 6% |  |
 | 44 | 2% | 3% |  |
-| 45 | 0.8% | 1.3% |  |
-| 46 | 0.3% | 0.5% |  |
-| 47 | 0.1% | 0.2% |  |
+| 45 | 0.8% | 1.4% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.2% | 0.3% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |

@@ -21,14 +21,14 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Non-Inscrits | EU | 32 | 22 | 18–25 | 17–26 | 16–27 | 15–28 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Futuro Nazionale | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 1–5 | 1–6 |
-| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 2 | 2 | 2 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Πλεύση Ελευθερίας | GR | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1 | 1 | 1 | 1–2 |
 | Движение за права и свободи – Ново начало | BG | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -44,7 +44,7 @@ At least one member in **8 countries** have a median of 1 seat or more:
 | Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Άμεσης Δημοκρατίας | CY | | 0 | 0 | 0 | 0 | 0 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -54,23 +54,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.4% | 99.9% |  |
-| 15 | 1.2% | 99.5% |  |
-| 16 | 3% | 98% |  |
-| 17 | 5% | 96% |  |
-| 18 | 7% | 91% |  |
-| 19 | 9% | 83% |  |
-| 20 | 11% | 74% |  |
-| 21 | 12% | 64% |  |
-| 22 | 13% | 51% | Median |
-| 23 | 13% | 38% |  |
-| 24 | 10% | 25% |  |
-| 25 | 7% | 15% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.7% | 99.8% |  |
+| 16 | 2% | 99.2% |  |
+| 17 | 5% | 97% |  |
+| 18 | 7% | 93% |  |
+| 19 | 9% | 85% |  |
+| 20 | 10% | 76% |  |
+| 21 | 12% | 66% |  |
+| 22 | 13% | 54% | Median |
+| 23 | 13% | 40% |  |
+| 24 | 11% | 27% |  |
+| 25 | 8% | 16% |  |
 | 26 | 4% | 8% |  |
 | 27 | 2% | 3% |  |
 | 28 | 0.9% | 1.3% |  |
-| 29 | 0.3% | 0.5% |  |
+| 29 | 0.3% | 0.4% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 | 32 | 0% | 0% | Last Result |

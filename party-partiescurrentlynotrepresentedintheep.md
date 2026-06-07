@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+15 seats)
+Current median: **15** seats (+14 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 16 | 11–17 | 10–18 | 9–18 | 9–19 |
+| Parties currently not represented in the EP | EU | 1 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | Прогресивна България [BG] (*) | BG | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| Κόμμα Αλέξη Τσίπρα [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ξεκινάμε [GR] (*) | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -71,19 +71,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.2% | 100% |  |
-| 9 | 3% | 99.8% |  |
-| 10 | 5% | 97% |  |
-| 11 | 2% | 92% |  |
-| 12 | 0.5% | 89% |  |
-| 13 | 0.7% | 89% |  |
-| 14 | 8% | 88% |  |
-| 15 | 22% | 80% |  |
-| 16 | 28% | 58% | Median |
-| 17 | 21% | 30% |  |
-| 18 | 8% | 9% |  |
-| 19 | 1.3% | 1.4% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 1.2% | 100% |  |
+| 14 | 15% | 98.8% |  |
+| 15 | 37% | 83% | Median |
+| 16 | 32% | 46% |  |
+| 17 | 12% | 14% |  |
+| 18 | 2% | 2% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
 
 
