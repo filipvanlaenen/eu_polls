@@ -28,7 +28,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -54,22 +54,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 73 | 0.1% | 100% |  |
-| 74 | 0.4% | 99.8% |  |
-| 75 | 1.1% | 99.4% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0.2% | 99.9% |  |
+| 74 | 0.5% | 99.8% |  |
+| 75 | 1.2% | 99.3% |  |
 | 76 | 2% | 98% |  |
-| 77 | 4% | 96% |  |
-| 78 | 7% | 92% | Last Result |
-| 79 | 10% | 85% |  |
-| 80 | 12% | 75% |  |
-| 81 | 14% | 62% | Median |
-| 82 | 13% | 49% |  |
-| 83 | 12% | 35% |  |
-| 84 | 9% | 24% |  |
-| 85 | 6% | 15% |  |
+| 77 | 5% | 96% |  |
+| 78 | 7% | 91% | Last Result |
+| 79 | 10% | 84% |  |
+| 80 | 13% | 74% |  |
+| 81 | 14% | 61% | Median |
+| 82 | 13% | 47% |  |
+| 83 | 11% | 34% |  |
+| 84 | 9% | 23% |  |
+| 85 | 6% | 14% |  |
 | 86 | 4% | 8% |  |
 | 87 | 2% | 4% |  |
-| 88 | 1.2% | 2% |  |
+| 88 | 1.1% | 2% |  |
 | 89 | 0.5% | 0.8% |  |
 | 90 | 0.2% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
