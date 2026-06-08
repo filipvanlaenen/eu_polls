@@ -18,7 +18,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 81 | 78–85 | 77–86 | 76–87 | 74–89 |
+| European Conservatives and Reformists | EU | 78 | 81 | 77–85 | 76–86 | 76–87 | 74–89 |
 | Fratelli d’Italia | IT | | 24 | 22–26 | 21–27 | 21–28 | 20–29 |
 | Zjednoczona Prawica | PL | | 15 | 13–17 | 13–17 | 13–18 | 13–18 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
@@ -28,7 +28,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Juiste Antwoord 2021 | NL | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -54,24 +54,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 72 | 0% | 100% |  |
+| 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% |  |
-| 74 | 0.5% | 99.8% |  |
-| 75 | 1.2% | 99.3% |  |
-| 76 | 2% | 98% |  |
-| 77 | 5% | 96% |  |
-| 78 | 7% | 91% | Last Result |
-| 79 | 10% | 84% |  |
-| 80 | 13% | 74% |  |
-| 81 | 14% | 61% | Median |
-| 82 | 13% | 47% |  |
-| 83 | 11% | 34% |  |
-| 84 | 9% | 23% |  |
-| 85 | 6% | 14% |  |
-| 86 | 4% | 8% |  |
+| 74 | 0.6% | 99.7% |  |
+| 75 | 1.4% | 99.1% |  |
+| 76 | 3% | 98% |  |
+| 77 | 5% | 95% |  |
+| 78 | 8% | 90% | Last Result |
+| 79 | 11% | 82% |  |
+| 80 | 13% | 71% |  |
+| 81 | 14% | 58% | Median |
+| 82 | 13% | 45% |  |
+| 83 | 11% | 32% |  |
+| 84 | 8% | 21% |  |
+| 85 | 6% | 13% |  |
+| 86 | 4% | 7% |  |
 | 87 | 2% | 4% |  |
-| 88 | 1.1% | 2% |  |
-| 89 | 0.5% | 0.8% |  |
+| 88 | 1.0% | 2% |  |
+| 89 | 0.4% | 0.7% |  |
 | 90 | 0.2% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |

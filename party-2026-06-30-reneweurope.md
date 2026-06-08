@@ -22,21 +22,21 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 14–19 | 13–20 | 13–20 | 12–21 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Uniunea Salvați România | RO | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
-| Fianna Fáil | IE | | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Fianna Fáil | IE | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Independent Ireland | IE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Independent Ireland | IE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 1 |
@@ -53,7 +53,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -66,7 +66,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
-| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |
+| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -79,28 +79,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 59 | 0.1% | 100% |  |
 | 60 | 0.2% | 99.9% |  |
-| 61 | 0.4% | 99.8% |  |
-| 62 | 0.9% | 99.4% |  |
+| 61 | 0.5% | 99.7% |  |
+| 62 | 1.1% | 99.2% |  |
 | 63 | 2% | 98% |  |
-| 64 | 3% | 97% |  |
-| 65 | 5% | 94% |  |
-| 66 | 6% | 89% |  |
-| 67 | 8% | 83% |  |
-| 68 | 10% | 74% |  |
-| 69 | 11% | 65% |  |
-| 70 | 11% | 54% | Median |
-| 71 | 11% | 43% |  |
-| 72 | 9% | 32% |  |
-| 73 | 7% | 23% |  |
-| 74 | 6% | 15% |  |
-| 75 | 4% | 10% |  |
-| 76 | 3% | 6% |  |
-| 77 | 2% | 3% | Last Result |
-| 78 | 0.9% | 2% |  |
-| 79 | 0.5% | 0.9% |  |
+| 64 | 3% | 96% |  |
+| 65 | 5% | 93% |  |
+| 66 | 7% | 88% |  |
+| 67 | 9% | 81% |  |
+| 68 | 10% | 72% |  |
+| 69 | 11% | 62% |  |
+| 70 | 11% | 51% | Median |
+| 71 | 10% | 40% |  |
+| 72 | 9% | 30% |  |
+| 73 | 7% | 21% |  |
+| 74 | 5% | 14% |  |
+| 75 | 4% | 9% |  |
+| 76 | 2% | 5% |  |
+| 77 | 1.4% | 3% | Last Result |
+| 78 | 0.8% | 2% |  |
+| 79 | 0.4% | 0.8% |  |
 | 80 | 0.2% | 0.4% |  |
 | 81 | 0.1% | 0.2% |  |
-| 82 | 0.1% | 0.1% |  |
+| 82 | 0% | 0.1% |  |
 | 83 | 0% | 0% |  |
 
 
