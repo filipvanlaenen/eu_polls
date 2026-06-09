@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **122** seats (-14 seats)
+Current median: **121** seats (-15 seats)
 
 At least one member in **22 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 122 | 116–128 | 114–130 | 113–132 | 111–135 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 121 | 116–128 | 114–130 | 113–132 | 110–135 |
 | Partido Socialista Obrero Español | ES | | 19 | 17–26 | 16–26 | 16–26 | 15–27 |
 | Partito Democratico | IT | | 18 | 16–20 | 15–21 | 15–21 | 14–23 |
 | Sozialdemokratische Partei Deutschlands | DE | | 12 | 10–13 | 10–13 | 9–14 | 9–14 |
@@ -33,7 +33,7 @@ At least one member in **22 countries** have a median of 1 seat or more:
 | Sozialdemokratische Partei Österreichs | AT | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partij van de Arbeid | NL | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Partit Laburista | MT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti Socialiste | BE-FRC | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Social Democrats | IE | | 2 | 1–3 | 1–3 | 1–3 | 0–3 |
@@ -66,26 +66,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 2% | 97% |  |
 | 115 | 3% | 95% |  |
 | 116 | 4% | 92% |  |
-| 117 | 6% | 88% |  |
+| 117 | 6% | 87% |  |
 | 118 | 7% | 82% |  |
 | 119 | 8% | 75% |  |
 | 120 | 9% | 67% |  |
-| 121 | 9% | 59% |  |
-| 122 | 8% | 50% | Median |
-| 123 | 8% | 42% |  |
+| 121 | 9% | 59% | Median |
+| 122 | 8% | 50% |  |
+| 123 | 8% | 41% |  |
 | 124 | 7% | 34% |  |
 | 125 | 6% | 27% |  |
 | 126 | 5% | 21% |  |
-| 127 | 4% | 17% |  |
+| 127 | 4% | 16% |  |
 | 128 | 3% | 13% |  |
 | 129 | 3% | 9% |  |
 | 130 | 2% | 7% |  |
 | 131 | 2% | 5% |  |
-| 132 | 1.2% | 3% |  |
+| 132 | 1.1% | 3% |  |
 | 133 | 0.8% | 2% |  |
 | 134 | 0.5% | 1.2% |  |
 | 135 | 0.3% | 0.7% |  |
-| 136 | 0.2% | 0.4% | Last Result |
+| 136 | 0.2% | 0.3% | Last Result |
 | 137 | 0.1% | 0.2% |  |
 | 138 | 0% | 0.1% |  |
 | 139 | 0% | 0% |  |
