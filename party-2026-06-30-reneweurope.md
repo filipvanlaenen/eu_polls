@@ -45,7 +45,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Anders | BE-VLG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -55,12 +55,11 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
-| Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -84,18 +83,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 2% | 98% |  |
 | 64 | 3% | 96% |  |
 | 65 | 5% | 93% |  |
-| 66 | 7% | 88% |  |
-| 67 | 9% | 81% |  |
+| 66 | 7% | 87% |  |
+| 67 | 9% | 80% |  |
 | 68 | 10% | 72% |  |
-| 69 | 11% | 62% |  |
-| 70 | 11% | 51% | Median |
+| 69 | 11% | 61% |  |
+| 70 | 11% | 50% | Median |
 | 71 | 10% | 40% |  |
-| 72 | 9% | 30% |  |
+| 72 | 9% | 29% |  |
 | 73 | 7% | 21% |  |
 | 74 | 5% | 14% |  |
-| 75 | 4% | 9% |  |
+| 75 | 3% | 9% |  |
 | 76 | 2% | 5% |  |
-| 77 | 1.4% | 3% | Last Result |
+| 77 | 1.3% | 3% | Last Result |
 | 78 | 0.8% | 2% |  |
 | 79 | 0.4% | 0.8% |  |
 | 80 | 0.2% | 0.4% |  |
