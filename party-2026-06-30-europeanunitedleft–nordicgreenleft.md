@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 54–61 | 53–62 | 52–63 | 50–65 |
+| European United Left–Nordic Green Left | EU | 46 | 57 | 53–62 | 52–63 | 52–64 | 50–66 |
 | La France insoumise | FR | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
-| Movimento 5 Stelle | IT | | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
-| Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
@@ -44,12 +44,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
-| Solidarity–People Before Profit | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
+| Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -61,27 +63,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
 | 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0.1% | 100% |  |
-| 50 | 0.4% | 99.8% |  |
-| 51 | 1.2% | 99.4% |  |
+| 48 | 0.1% | 100% |  |
+| 49 | 0.2% | 99.9% |  |
+| 50 | 0.6% | 99.7% |  |
+| 51 | 1.4% | 99.1% |  |
 | 52 | 3% | 98% |  |
-| 53 | 5% | 96% |  |
-| 54 | 8% | 91% |  |
-| 55 | 11% | 83% |  |
-| 56 | 13% | 73% |  |
-| 57 | 14% | 60% | Median |
-| 58 | 13% | 46% |  |
-| 59 | 11% | 34% |  |
-| 60 | 8% | 22% |  |
-| 61 | 6% | 14% |  |
-| 62 | 4% | 8% |  |
-| 63 | 2% | 4% |  |
-| 64 | 1.2% | 2% |  |
-| 65 | 0.6% | 1.0% |  |
-| 66 | 0.3% | 0.4% |  |
-| 67 | 0.1% | 0.2% |  |
-| 68 | 0% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 53 | 5% | 95% |  |
+| 54 | 7% | 90% |  |
+| 55 | 10% | 83% |  |
+| 56 | 11% | 73% |  |
+| 57 | 12% | 62% | Median |
+| 58 | 12% | 50% |  |
+| 59 | 11% | 38% |  |
+| 60 | 9% | 27% |  |
+| 61 | 7% | 18% |  |
+| 62 | 5% | 11% |  |
+| 63 | 3% | 6% |  |
+| 64 | 2% | 4% |  |
+| 65 | 0.9% | 2% |  |
+| 66 | 0.5% | 0.9% |  |
+| 67 | 0.2% | 0.4% |  |
+| 68 | 0.1% | 0.2% |  |
+| 69 | 0% | 0.1% |  |
+| 70 | 0% | 0% |  |
 
 

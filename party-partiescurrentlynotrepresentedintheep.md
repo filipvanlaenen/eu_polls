@@ -18,11 +18,11 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 16 | 14–17 | 10–18 | 10–18 | 9–19 |
+| Parties currently not represented in the EP | EU | 1 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | Прогресивна България [BG] (*) | BG | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Aontú [IE] (*) | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -43,14 +43,15 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0–1 |
-| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -72,19 +73,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.1% | 100% |  |
-| 9 | 2% | 99.9% |  |
-| 10 | 5% | 98% |  |
-| 11 | 2% | 93% |  |
-| 12 | 0.3% | 91% |  |
-| 13 | 0.5% | 91% |  |
-| 14 | 7% | 90% |  |
-| 15 | 24% | 83% |  |
-| 16 | 30% | 59% | Median |
-| 17 | 21% | 29% |  |
-| 18 | 7% | 8% |  |
-| 19 | 0.9% | 1.0% |  |
-| 20 | 0.1% | 0.1% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 3% | 99.9% |  |
+| 15 | 18% | 97% |  |
+| 16 | 34% | 79% | Median |
+| 17 | 30% | 45% |  |
+| 18 | 12% | 15% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 
 
