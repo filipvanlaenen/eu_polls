@@ -18,9 +18,9 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
+| Parties currently not represented in the EP | EU | 1 | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | Прогресивна България [BG] (*) | BG | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -46,7 +46,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -79,12 +79,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 3% | 99.9% |  |
-| 15 | 18% | 97% |  |
-| 16 | 34% | 79% | Median |
-| 17 | 30% | 45% |  |
-| 18 | 12% | 15% |  |
-| 19 | 2% | 3% |  |
+| 14 | 2% | 99.9% |  |
+| 15 | 17% | 98% |  |
+| 16 | 33% | 81% | Median |
+| 17 | 32% | 48% |  |
+| 18 | 13% | 16% |  |
+| 19 | 3% | 3% |  |
 | 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 

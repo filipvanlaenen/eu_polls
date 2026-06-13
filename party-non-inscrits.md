@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **22** seats (-10 seats)
+Current median: **21** seats (-11 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 22 | 18–25 | 17–26 | 16–27 | 15–28 |
+| Non-Inscrits | EU | 32 | 21 | 17–25 | 17–26 | 16–27 | 15–28 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
-| Futuro Nazionale | IT | | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | SMER–sociálna demokracia | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–4 | 1–5 | 1–6 |
+| Futuro Nazionale | IT | | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,21 +55,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.3% | 99.9% |  |
-| 15 | 1.1% | 99.6% |  |
-| 16 | 3% | 98.5% |  |
-| 17 | 5% | 96% |  |
-| 18 | 8% | 91% |  |
-| 19 | 9% | 83% |  |
-| 20 | 11% | 74% |  |
-| 21 | 12% | 63% |  |
-| 22 | 13% | 51% | Median |
-| 23 | 13% | 37% |  |
-| 24 | 10% | 24% |  |
-| 25 | 7% | 14% |  |
-| 26 | 4% | 7% |  |
+| 14 | 0.4% | 99.9% |  |
+| 15 | 1.3% | 99.5% |  |
+| 16 | 3% | 98% |  |
+| 17 | 6% | 95% |  |
+| 18 | 9% | 89% |  |
+| 19 | 10% | 81% |  |
+| 20 | 11% | 70% |  |
+| 21 | 12% | 59% | Median |
+| 22 | 13% | 47% |  |
+| 23 | 12% | 35% |  |
+| 24 | 10% | 22% |  |
+| 25 | 6% | 13% |  |
+| 26 | 4% | 6% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.7% | 1.1% |  |
+| 28 | 0.7% | 1.0% |  |
 | 29 | 0.2% | 0.3% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
