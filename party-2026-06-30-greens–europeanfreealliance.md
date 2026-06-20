@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 33–43 | 33–43 | 31–45 |
-| Bündnis 90/Die Grünen | DE | | 14 | 12–15 | 9–16 | 9–17 | 9–18 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 34–42 | 33–43 | 32–45 |
+| Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–16 | 11–16 | 9–18 |
 | Europa Verde | IT | | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -36,14 +36,14 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
 | Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -65,26 +65,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 29 | 0.1% | 100% |  |
-| 30 | 0.2% | 99.9% |  |
-| 31 | 0.7% | 99.7% |  |
-| 32 | 1.5% | 99.0% |  |
-| 33 | 3% | 98% |  |
-| 34 | 4% | 95% |  |
-| 35 | 7% | 91% |  |
-| 36 | 11% | 84% |  |
-| 37 | 14% | 73% |  |
-| 38 | 16% | 59% | Median |
-| 39 | 15% | 43% |  |
-| 40 | 11% | 29% |  |
-| 41 | 8% | 17% |  |
-| 42 | 5% | 10% |  |
-| 43 | 3% | 5% |  |
-| 44 | 1.3% | 2% |  |
-| 45 | 0.6% | 1.1% |  |
-| 46 | 0.3% | 0.5% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0.1% |  |
+| 30 | 0.1% | 100% |  |
+| 31 | 0.3% | 99.9% |  |
+| 32 | 0.9% | 99.5% |  |
+| 33 | 2% | 98.6% |  |
+| 34 | 4% | 97% |  |
+| 35 | 8% | 93% |  |
+| 36 | 12% | 85% |  |
+| 37 | 16% | 73% |  |
+| 38 | 17% | 57% | Median |
+| 39 | 15% | 40% |  |
+| 40 | 11% | 25% |  |
+| 41 | 7% | 14% |  |
+| 42 | 4% | 8% |  |
+| 43 | 2% | 4% |  |
+| 44 | 1.0% | 2% |  |
+| 45 | 0.5% | 0.8% |  |
+| 46 | 0.2% | 0.3% |  |
+| 47 | 0.1% | 0.1% |  |
+| 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
