@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **57** seats (+11 seats)
+Current median: **60** seats (+14 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,36 +18,37 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 57 | 53–61 | 52–63 | 51–64 | 50–66 |
+| European United Left–Nordic Green Left | EU | 46 | 60 | 56–64 | 55–65 | 55–66 | 53–68 |
 | La France insoumise | FR | | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
 | Movimento 5 Stelle | IT | | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
-| Die Linke | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
-| Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
+| Die Linke | DE | | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
+| Sinn Féin | IE | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Social Democrats | IE | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Podemos | ES | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Coligação Democrática Unitária | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Movimiento Sumar–Izquierda Unida | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
-| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Partei Mensch Umwelt Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
-| Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Lewica Razem | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
-| Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0 | 0 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -63,27 +64,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 46 | 0% | 100% | Last Result |
 | 47 | 0% | 100% |  |
-| 48 | 0.1% | 100% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 0.7% | 99.6% |  |
-| 51 | 2% | 98.9% |  |
-| 52 | 3% | 97% |  |
-| 53 | 5% | 94% |  |
-| 54 | 8% | 89% |  |
-| 55 | 10% | 81% |  |
-| 56 | 12% | 70% |  |
-| 57 | 13% | 58% | Median |
-| 58 | 12% | 46% |  |
-| 59 | 10% | 34% |  |
-| 60 | 8% | 23% |  |
-| 61 | 6% | 15% |  |
-| 62 | 4% | 9% |  |
-| 63 | 2% | 5% |  |
-| 64 | 1.4% | 3% |  |
-| 65 | 0.7% | 1.4% |  |
-| 66 | 0.4% | 0.6% |  |
-| 67 | 0.2% | 0.3% |  |
-| 68 | 0.1% | 0.1% |  |
-| 69 | 0% | 0% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0% | 100% |  |
+| 50 | 0% | 100% |  |
+| 51 | 0.1% | 100% |  |
+| 52 | 0.2% | 99.9% |  |
+| 53 | 0.6% | 99.7% |  |
+| 54 | 2% | 99.1% |  |
+| 55 | 3% | 98% |  |
+| 56 | 5% | 94% |  |
+| 57 | 8% | 89% |  |
+| 58 | 11% | 81% |  |
+| 59 | 13% | 70% |  |
+| 60 | 14% | 57% | Median |
+| 61 | 13% | 43% |  |
+| 62 | 11% | 30% |  |
+| 63 | 8% | 20% |  |
+| 64 | 5% | 12% |  |
+| 65 | 3% | 7% |  |
+| 66 | 2% | 3% |  |
+| 67 | 0.9% | 2% |  |
+| 68 | 0.4% | 0.7% |  |
+| 69 | 0.2% | 0.3% |  |
+| 70 | 0.1% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 
