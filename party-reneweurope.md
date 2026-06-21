@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (-9 seats)
+Current median: **70** seats (-7 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 64–73 | 63–74 | 62–75 | 60–77 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 14–19 | 13–20 | 13–20 | 12–21 |
+| Renew Europe | EU | 77 | 70 | 65–74 | 64–75 | 63–76 | 62–79 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 14–19 | 14–20 | 14–20 | 13–21 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Uniunea Salvați România | RO | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 2 | 2 | 2 | 2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -48,8 +48,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Dreptate și Respect în Europa Pentru Toți | RO | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -62,6 +62,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -75,29 +76,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0% | 100% |  |
-| 59 | 0.2% | 99.9% |  |
-| 60 | 0.4% | 99.8% |  |
-| 61 | 1.0% | 99.4% |  |
-| 62 | 2% | 98% |  |
-| 63 | 3% | 97% |  |
-| 64 | 5% | 93% |  |
-| 65 | 7% | 88% |  |
-| 66 | 9% | 81% |  |
-| 67 | 11% | 71% |  |
-| 68 | 12% | 61% | Median |
-| 69 | 12% | 49% |  |
-| 70 | 11% | 37% |  |
-| 71 | 9% | 27% |  |
-| 72 | 7% | 18% |  |
-| 73 | 5% | 11% |  |
-| 74 | 3% | 6% |  |
-| 75 | 2% | 4% |  |
-| 76 | 0.9% | 2% |  |
-| 77 | 0.5% | 0.9% | Last Result |
-| 78 | 0.2% | 0.4% |  |
-| 79 | 0.1% | 0.2% |  |
-| 80 | 0% | 0.1% |  |
-| 81 | 0% | 0% |  |
+| 60 | 0.1% | 100% |  |
+| 61 | 0.3% | 99.9% |  |
+| 62 | 0.7% | 99.6% |  |
+| 63 | 1.5% | 98.9% |  |
+| 64 | 3% | 97% |  |
+| 65 | 5% | 95% |  |
+| 66 | 7% | 90% |  |
+| 67 | 9% | 83% |  |
+| 68 | 11% | 74% |  |
+| 69 | 12% | 63% |  |
+| 70 | 12% | 51% | Median |
+| 71 | 11% | 39% |  |
+| 72 | 9% | 29% |  |
+| 73 | 7% | 20% |  |
+| 74 | 5% | 13% |  |
+| 75 | 3% | 8% |  |
+| 76 | 2% | 4% |  |
+| 77 | 1.2% | 2% | Last Result |
+| 78 | 0.6% | 1.2% |  |
+| 79 | 0.3% | 0.6% |  |
+| 80 | 0.1% | 0.3% |  |
+| 81 | 0.1% | 0.1% |  |
+| 82 | 0% | 0% |  |
 
 
