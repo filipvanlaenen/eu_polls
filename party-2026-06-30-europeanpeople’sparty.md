@@ -20,8 +20,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 172 | 166–177 | 165–179 | 163–180 | 161–183 |
 | Partido Popular | ES | | 23 | 20–25 | 19–26 | 19–26 | 18–27 |
-| Platforma Obywatelska | PL | | 19 | 18–22 | 18–23 | 17–23 | 16–23 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–20 | 13–22 |
+| Platforma Obywatelska | PL | | 20 | 18–22 | 18–23 | 17–23 | 16–23 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–18 | 14–19 | 14–20 | 13–22 |
 | Tisztelet és Szabadság | HU | | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
 | Les Républicains | FR | | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -60,7 +60,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
-| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0–1 |
@@ -84,7 +84,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0% | 100% |  |
+| 158 | 0.1% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
 | 161 | 0.4% | 99.6% |  |
@@ -93,24 +93,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 2% | 97% |  |
 | 165 | 3% | 96% |  |
 | 166 | 4% | 93% |  |
-| 167 | 5% | 89% |  |
-| 168 | 6% | 84% |  |
-| 169 | 7% | 78% |  |
-| 170 | 9% | 71% |  |
-| 171 | 9% | 62% |  |
-| 172 | 9% | 53% | Median |
+| 167 | 5% | 90% |  |
+| 168 | 6% | 85% |  |
+| 169 | 7% | 79% |  |
+| 170 | 8% | 71% |  |
+| 171 | 9% | 63% |  |
+| 172 | 9% | 54% | Median |
 | 173 | 9% | 44% |  |
 | 174 | 8% | 35% |  |
-| 175 | 7% | 26% |  |
-| 176 | 6% | 19% |  |
-| 177 | 4% | 14% |  |
+| 175 | 7% | 27% |  |
+| 176 | 6% | 20% |  |
+| 177 | 5% | 14% |  |
 | 178 | 3% | 9% |  |
 | 179 | 2% | 6% |  |
-| 180 | 1.5% | 4% |  |
+| 180 | 1.5% | 3% |  |
 | 181 | 0.9% | 2% |  |
 | 182 | 0.5% | 1.1% |  |
 | 183 | 0.3% | 0.6% |  |
-| 184 | 0.2% | 0.3% |  |
+| 184 | 0.1% | 0.3% |  |
 | 185 | 0.1% | 0.1% |  |
 | 186 | 0% | 0.1% |  |
 | 187 | 0% | 0% |  |
