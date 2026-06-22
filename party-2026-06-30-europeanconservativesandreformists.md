@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **80** seats (+2 seats)
+Current median: **79** seats (+1 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 80 | 77–84 | 76–85 | 75–86 | 73–87 |
-| Fratelli d’Italia | IT | | 24 | 22–26 | 21–27 | 20–27 | 20–29 |
+| European Conservatives and Reformists | EU | 78 | 79 | 76–83 | 75–84 | 74–85 | 72–87 |
+| Fratelli d’Italia | IT | | 24 | 22–26 | 21–26 | 20–26 | 20–28 |
 | Zjednoczona Prawica | PL | | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Juiste Antwoord 2021 | NL | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Perussuomalaiset | FI | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
+| Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -43,7 +43,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 
@@ -56,24 +56,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
-| 72 | 0.2% | 99.9% |  |
-| 73 | 0.6% | 99.7% |  |
-| 74 | 1.3% | 99.1% |  |
-| 75 | 3% | 98% |  |
-| 76 | 5% | 95% |  |
-| 77 | 7% | 90% |  |
-| 78 | 10% | 83% | Last Result |
-| 79 | 13% | 73% |  |
-| 80 | 14% | 60% | Median |
-| 81 | 13% | 46% |  |
-| 82 | 12% | 33% |  |
-| 83 | 9% | 21% |  |
-| 84 | 6% | 13% |  |
-| 85 | 4% | 7% |  |
-| 86 | 2% | 3% |  |
-| 87 | 0.8% | 1.3% |  |
-| 88 | 0.3% | 0.5% |  |
-| 89 | 0.1% | 0.2% |  |
+| 72 | 0.4% | 99.8% |  |
+| 73 | 1.0% | 99.4% |  |
+| 74 | 2% | 98% |  |
+| 75 | 4% | 96% |  |
+| 76 | 7% | 92% |  |
+| 77 | 10% | 85% |  |
+| 78 | 13% | 75% | Last Result |
+| 79 | 14% | 62% | Median |
+| 80 | 14% | 48% |  |
+| 81 | 12% | 35% |  |
+| 82 | 9% | 23% |  |
+| 83 | 6% | 13% |  |
+| 84 | 4% | 7% |  |
+| 85 | 2% | 3% |  |
+| 86 | 0.9% | 1.5% |  |
+| 87 | 0.4% | 0.6% |  |
+| 88 | 0.1% | 0.2% |  |
+| 89 | 0% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
 

@@ -1,28 +1,27 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, NL, SI, SK
+> BE, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **16** seats (+15 seats)
+Current median: **9** seats (+8 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> BG, GR, IE, LV
+> GR, IE, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
-| Прогресивна България [BG] (*) | BG | | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| Parties currently not represented in the EP | EU | 1 | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Aontú [IE] (*) | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -42,7 +41,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -71,21 +70,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 4% | 99.8% |  |
-| 15 | 19% | 96% |  |
-| 16 | 34% | 77% | Median |
-| 17 | 30% | 43% |  |
-| 18 | 11% | 14% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 6 | 1.4% | 100% |  |
+| 7 | 12% | 98.6% |  |
+| 8 | 30% | 86% |  |
+| 9 | 34% | 57% | Median |
+| 10 | 18% | 23% |  |
+| 11 | 4% | 5% |  |
+| 12 | 0.3% | 0.3% |  |
+| 13 | 0% | 0% |  |
 
 
