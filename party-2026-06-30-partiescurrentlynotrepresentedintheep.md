@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+7 seats)
+Current median: **9** seats (+8 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 7–10 | 6–10 | 6–11 | 5–11 |
-| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Parties currently not represented in the EP | EU | 1 | 9 | 7–10 | 6–10 | 6–11 | 5–11 |
+| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -69,14 +69,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.6% | 100% |  |
-| 6 | 6% | 99.4% |  |
-| 7 | 17% | 94% |  |
-| 8 | 30% | 77% | Median |
-| 9 | 30% | 47% |  |
-| 10 | 14% | 17% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.1% | 0.2% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 5% | 99.5% |  |
+| 7 | 15% | 95% |  |
+| 8 | 27% | 80% |  |
+| 9 | 30% | 53% | Median |
+| 10 | 17% | 22% |  |
+| 11 | 4% | 5% |  |
+| 12 | 0.4% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
 

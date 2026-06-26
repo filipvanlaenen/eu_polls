@@ -18,18 +18,18 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 172 | 166–177 | 165–179 | 164–180 | 161–183 |
+| European People’s Party | EU | 188 | 172 | 167–178 | 165–180 | 164–181 | 161–184 |
 | Partido Popular | ES | | 23 | 20–25 | 19–26 | 19–26 | 18–27 |
 | Platforma Obywatelska | PL | | 20 | 18–23 | 18–24 | 17–25 | 17–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–18 | 15–19 | 15–19 | 15–20 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–20 | 13–22 |
 | Tisztelet és Szabadság | HU | | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
 | Les Républicains | FR | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Partidul Național Liberal | RO | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Starostové a nezávislí | CZ | | 4 | 4 | 3–4 | 3–5 | 3–5 |
@@ -39,7 +39,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Граждани за европейско развитие на България | BG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Граждани за европейско развитие на България | BG | | 3 | 3 | 3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -50,10 +50,11 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
-| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +66,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0–1 |
-| Magyar Szövetség | SK | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
 | Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -73,7 +74,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
-| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -86,34 +86,34 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.9% |  |
+| 160 | 0.1% | 99.9% |  |
 | 161 | 0.3% | 99.7% |  |
-| 162 | 0.6% | 99.4% |  |
-| 163 | 1.0% | 98.8% |  |
-| 164 | 2% | 98% |  |
-| 165 | 3% | 96% |  |
-| 166 | 4% | 94% |  |
-| 167 | 5% | 90% |  |
-| 168 | 6% | 85% |  |
-| 169 | 8% | 79% |  |
-| 170 | 9% | 71% |  |
-| 171 | 9% | 62% |  |
-| 172 | 10% | 53% | Median |
-| 173 | 9% | 43% |  |
-| 174 | 8% | 34% |  |
-| 175 | 7% | 26% |  |
-| 176 | 6% | 19% |  |
-| 177 | 4% | 13% |  |
-| 178 | 3% | 9% |  |
-| 179 | 2% | 5% |  |
-| 180 | 1.4% | 3% |  |
-| 181 | 0.9% | 2% |  |
-| 182 | 0.5% | 1.0% |  |
-| 183 | 0.3% | 0.5% |  |
-| 184 | 0.1% | 0.3% |  |
-| 185 | 0.1% | 0.1% |  |
-| 186 | 0% | 0.1% |  |
-| 187 | 0% | 0% |  |
+| 162 | 0.5% | 99.5% |  |
+| 163 | 0.8% | 99.0% |  |
+| 164 | 1.3% | 98% |  |
+| 165 | 2% | 97% |  |
+| 166 | 3% | 95% |  |
+| 167 | 4% | 92% |  |
+| 168 | 5% | 88% |  |
+| 169 | 7% | 82% |  |
+| 170 | 8% | 75% |  |
+| 171 | 9% | 68% |  |
+| 172 | 9% | 59% | Median |
+| 173 | 9% | 50% |  |
+| 174 | 9% | 40% |  |
+| 175 | 8% | 32% |  |
+| 176 | 7% | 24% |  |
+| 177 | 5% | 17% |  |
+| 178 | 4% | 12% |  |
+| 179 | 3% | 8% |  |
+| 180 | 2% | 5% |  |
+| 181 | 1.3% | 3% |  |
+| 182 | 0.8% | 2% |  |
+| 183 | 0.5% | 1.0% |  |
+| 184 | 0.3% | 0.5% |  |
+| 185 | 0.1% | 0.3% |  |
+| 186 | 0.1% | 0.1% |  |
+| 187 | 0% | 0.1% |  |
 | 188 | 0% | 0% | Last Result |
 
 
