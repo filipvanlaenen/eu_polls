@@ -21,9 +21,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 172 | 167–178 | 165–180 | 164–181 | 161–184 |
 | Partido Popular | ES | | 23 | 20–25 | 19–26 | 19–26 | 18–27 |
 | Platforma Obywatelska | PL | | 20 | 18–23 | 18–24 | 17–25 | 17–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 15–19 | 14–20 | 13–22 |
+| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 14–19 | 14–20 | 13–22 |
 | Tisztelet és Szabadság | HU | | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
-| Les Républicains | FR | | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| Les Républicains | FR | | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
@@ -39,22 +39,21 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Граждани за европейско развитие на България | BG | | 3 | 3 | 3 | 2–3 | 2–4 |
+| Граждани за европейско развитие на България | BG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Latvijas Reģionu Apvienība | LV | | 1 | 1 | 1 | 1 | 1 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -74,6 +73,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
+| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -89,20 +89,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.3% | 99.7% |  |
 | 162 | 0.5% | 99.5% |  |
-| 163 | 0.8% | 99.0% |  |
-| 164 | 1.3% | 98% |  |
+| 163 | 0.9% | 99.0% |  |
+| 164 | 1.4% | 98% |  |
 | 165 | 2% | 97% |  |
 | 166 | 3% | 95% |  |
-| 167 | 4% | 92% |  |
-| 168 | 5% | 88% |  |
+| 167 | 4% | 91% |  |
+| 168 | 6% | 87% |  |
 | 169 | 7% | 82% |  |
 | 170 | 8% | 75% |  |
-| 171 | 9% | 68% |  |
-| 172 | 9% | 59% | Median |
-| 173 | 9% | 50% |  |
+| 171 | 9% | 67% |  |
+| 172 | 9% | 58% | Median |
+| 173 | 9% | 49% |  |
 | 174 | 9% | 40% |  |
-| 175 | 8% | 32% |  |
-| 176 | 7% | 24% |  |
+| 175 | 8% | 31% |  |
+| 176 | 6% | 24% |  |
 | 177 | 5% | 17% |  |
 | 178 | 4% | 12% |  |
 | 179 | 3% | 8% |  |
@@ -110,7 +110,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 181 | 1.3% | 3% |  |
 | 182 | 0.8% | 2% |  |
 | 183 | 0.5% | 1.0% |  |
-| 184 | 0.3% | 0.5% |  |
+| 184 | 0.3% | 0.6% |  |
 | 185 | 0.1% | 0.3% |  |
 | 186 | 0.1% | 0.1% |  |
 | 187 | 0% | 0.1% |  |

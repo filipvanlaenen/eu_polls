@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **38** seats (-15 seats)
+Current median: **37** seats (-16 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 34–41 | 33–42 | 33–43 | 31–45 |
-| Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–15 | 10–16 | 9–18 |
-| Europa Verde | IT | | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
+| Greens–European Free Alliance | EU | 53 | 37 | 34–41 | 33–42 | 33–43 | 31–45 |
+| Bündnis 90/Die Grünen | DE | | 13 | 11–15 | 11–15 | 11–16 | 9–18 |
+| Europa Verde | IT | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -67,20 +67,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.2% | 100% |  |
 | 31 | 0.5% | 99.8% |  |
-| 32 | 1.4% | 99.2% |  |
+| 32 | 1.5% | 99.3% |  |
 | 33 | 3% | 98% |  |
-| 34 | 6% | 95% |  |
-| 35 | 9% | 89% |  |
-| 36 | 13% | 79% |  |
-| 37 | 15% | 66% |  |
-| 38 | 16% | 51% | Median |
-| 39 | 13% | 35% |  |
-| 40 | 10% | 22% |  |
-| 41 | 6% | 13% |  |
-| 42 | 3% | 7% |  |
+| 34 | 6% | 94% |  |
+| 35 | 10% | 88% |  |
+| 36 | 14% | 78% |  |
+| 37 | 16% | 64% | Median |
+| 38 | 15% | 48% |  |
+| 39 | 13% | 33% |  |
+| 40 | 9% | 20% |  |
+| 41 | 5% | 11% |  |
+| 42 | 3% | 6% |  |
 | 43 | 2% | 3% |  |
-| 44 | 0.9% | 2% |  |
-| 45 | 0.4% | 0.7% |  |
+| 44 | 0.8% | 1.4% |  |
+| 45 | 0.4% | 0.6% |  |
 | 46 | 0.2% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |

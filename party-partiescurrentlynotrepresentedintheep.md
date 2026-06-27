@@ -37,7 +37,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
-| La France humaniste [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -73,10 +72,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 5% | 99.5% |  |
 | 7 | 15% | 95% |  |
 | 8 | 27% | 80% |  |
-| 9 | 30% | 53% | Median |
+| 9 | 30% | 52% | Median |
 | 10 | 17% | 22% |  |
 | 11 | 4% | 5% |  |
-| 12 | 0.4% | 0.5% |  |
+| 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 
 
