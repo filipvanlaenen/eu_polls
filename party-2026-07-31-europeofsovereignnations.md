@@ -1,25 +1,26 @@
 # Europe of Sovereign Nations
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> BG, CZ, DE, FR, HU, LT, NL, PL, SK
+> BG, CZ, DE, FR, HU, IT, LT, NL, PL, SK
 
 ## Seats
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **40** seats (+15 seats)
+Current median: **45** seats (+20 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> CZ, DE, HU, NL, PL, SK
+> CZ, DE, HU, IT, NL, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 40 | 36–45 | 35–46 | 35–47 | 33–48 |
-| Alternative für Deutschland | DE | | 27 | 24–28 | 24–29 | 23–29 | 23–30 |
+| Europe of Sovereign Nations | EU | 25 | 45 | 41–50 | 40–51 | 39–52 | 38–53 |
+| Alternative für Deutschland | DE | | 27 | 24–28 | 24–29 | 24–29 | 23–30 |
+| Futuro Nazionale | IT | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Nowa Nadzieja | PL | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | REPUBLIKA | SK | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -44,25 +45,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
 | 31 | 0% | 100% |  |
-| 32 | 0.1% | 100% |  |
-| 33 | 0.4% | 99.9% |  |
-| 34 | 1.4% | 99.4% |  |
-| 35 | 3% | 98% |  |
-| 36 | 6% | 95% |  |
-| 37 | 9% | 89% |  |
-| 38 | 11% | 80% |  |
-| 39 | 12% | 69% |  |
-| 40 | 11% | 56% | Median |
-| 41 | 9% | 45% |  |
-| 42 | 8% | 36% |  |
-| 43 | 8% | 28% |  |
-| 44 | 7% | 20% |  |
-| 45 | 6% | 12% |  |
-| 46 | 4% | 6% |  |
-| 47 | 2% | 3% |  |
-| 48 | 0.7% | 0.9% |  |
-| 49 | 0.2% | 0.3% |  |
-| 50 | 0% | 0.1% |  |
-| 51 | 0% | 0% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.2% | 99.9% |  |
+| 38 | 0.7% | 99.7% |  |
+| 39 | 2% | 99.0% |  |
+| 40 | 4% | 97% |  |
+| 41 | 6% | 93% |  |
+| 42 | 9% | 87% |  |
+| 43 | 11% | 78% |  |
+| 44 | 11% | 67% |  |
+| 45 | 11% | 56% | Median |
+| 46 | 10% | 45% |  |
+| 47 | 9% | 35% |  |
+| 48 | 8% | 27% |  |
+| 49 | 7% | 19% |  |
+| 50 | 5% | 12% |  |
+| 51 | 4% | 7% |  |
+| 52 | 2% | 3% |  |
+| 53 | 0.9% | 1.4% |  |
+| 54 | 0.3% | 0.5% |  |
+| 55 | 0.1% | 0.1% |  |
+| 56 | 0% | 0% |  |
 
 

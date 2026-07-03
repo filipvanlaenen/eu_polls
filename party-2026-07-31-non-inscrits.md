@@ -8,21 +8,20 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **31** seats (-1 seats)
+Current median: **27** seats (-5 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> BG, DE, ES, GR, IT, LT, PL, SK
+> BG, DE, ES, GR, LT, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 31 | 27–34 | 26–35 | 25–36 | 23–37 |
+| Non-Inscrits | EU | 32 | 27 | 24–29 | 23–30 | 23–31 | 21–32 |
 | Прогресивна България | BG | | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
-| Futuro Nazionale | IT | | 4 | 3–6 | 0–6 | 0–7 | 0–7 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 2–5 | 2–5 | 1–5 | 1–6 |
 | Konfederacja Korony Polskiej | PL | | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 1–5 | 1–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -54,24 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.4% | 99.8% |  |
-| 24 | 0.9% | 99.4% |  |
-| 25 | 2% | 98.5% |  |
-| 26 | 3% | 97% |  |
-| 27 | 5% | 94% |  |
-| 28 | 8% | 89% |  |
-| 29 | 12% | 81% |  |
-| 30 | 16% | 68% |  |
-| 31 | 16% | 53% | Median |
-| 32 | 14% | 37% | Last Result |
-| 33 | 10% | 23% |  |
-| 34 | 6% | 12% |  |
-| 35 | 3% | 6% |  |
-| 36 | 2% | 3% |  |
-| 37 | 0.7% | 1.0% |  |
-| 38 | 0.2% | 0.3% |  |
-| 39 | 0.1% | 0.1% |  |
-| 40 | 0% | 0% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.4% | 99.9% |  |
+| 22 | 2% | 99.5% |  |
+| 23 | 5% | 98% |  |
+| 24 | 9% | 93% |  |
+| 25 | 14% | 84% |  |
+| 26 | 18% | 70% |  |
+| 27 | 18% | 52% | Median |
+| 28 | 15% | 34% |  |
+| 29 | 10% | 19% |  |
+| 30 | 5% | 9% |  |
+| 31 | 3% | 4% |  |
+| 32 | 1.0% | 1.4% | Last Result |
+| 33 | 0.3% | 0.4% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 
