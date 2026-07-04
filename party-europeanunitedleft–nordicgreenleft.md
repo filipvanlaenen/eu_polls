@@ -26,7 +26,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Social Democrats | IE | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
 | 50 | 0% | 100% |  |
-| 51 | 0% | 100% |  |
+| 51 | 0.1% | 100% |  |
 | 52 | 0.2% | 99.9% |  |
-| 53 | 0.6% | 99.8% |  |
+| 53 | 0.6% | 99.7% |  |
 | 54 | 1.4% | 99.2% |  |
 | 55 | 3% | 98% |  |
 | 56 | 5% | 95% |  |

@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **68** seats (-9 seats)
+Current median: **69** seats (-8 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 68 | 65–73 | 64–74 | 63–75 | 61–77 |
+| Renew Europe | EU | 77 | 69 | 65–73 | 64–74 | 63–75 | 61–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–19 | 14–19 | 14–19 | 13–20 |
 | Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
@@ -37,7 +37,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Independent Ireland | IE | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -79,22 +79,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 0.1% | 100% |  |
 | 60 | 0.2% | 99.9% |  |
 | 61 | 0.6% | 99.7% |  |
-| 62 | 1.4% | 99.1% |  |
+| 62 | 1.3% | 99.1% |  |
 | 63 | 3% | 98% |  |
 | 64 | 5% | 95% |  |
-| 65 | 7% | 90% |  |
-| 66 | 10% | 83% |  |
+| 65 | 7% | 91% |  |
+| 66 | 9% | 84% |  |
 | 67 | 12% | 74% |  |
-| 68 | 13% | 62% | Median |
-| 69 | 12% | 50% |  |
-| 70 | 11% | 37% |  |
-| 71 | 9% | 26% |  |
-| 72 | 7% | 17% |  |
+| 68 | 13% | 63% |  |
+| 69 | 12% | 50% | Median |
+| 70 | 11% | 38% |  |
+| 71 | 9% | 27% |  |
+| 72 | 7% | 18% |  |
 | 73 | 5% | 11% |  |
 | 74 | 3% | 6% |  |
-| 75 | 2% | 3% |  |
+| 75 | 2% | 4% |  |
 | 76 | 0.9% | 2% |  |
-| 77 | 0.5% | 0.8% | Last Result |
+| 77 | 0.5% | 0.9% | Last Result |
 | 78 | 0.2% | 0.4% |  |
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0% | 0.1% |  |
