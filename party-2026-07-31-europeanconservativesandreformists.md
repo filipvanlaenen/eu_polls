@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 80 | 76–83 | 75–84 | 74–85 | 73–87 |
-| Fratelli d’Italia | IT | | 24 | 21–25 | 21–26 | 20–27 | 19–28 |
+| European Conservatives and Reformists | EU | 78 | 80 | 76–83 | 75–85 | 74–85 | 73–87 |
+| Fratelli d’Italia | IT | | 24 | 21–26 | 21–27 | 20–27 | 19–28 |
 | Zjednoczona Prawica | PL | | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -33,7 +33,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Most nezavisnih lista | HR | | 1 | 1 | 1 | 1 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Suverēnā vara | LV | | 1 | 1 | 1 | 1 | 0–1 |
+| Suverēnā vara | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Danmarksdemokraterne | DK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -57,22 +57,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
 | 72 | 0.3% | 99.9% |  |
-| 73 | 0.7% | 99.6% |  |
-| 74 | 2% | 98.9% |  |
+| 73 | 0.8% | 99.5% |  |
+| 74 | 2% | 98.8% |  |
 | 75 | 3% | 97% |  |
-| 76 | 5% | 94% |  |
-| 77 | 8% | 89% |  |
-| 78 | 11% | 81% | Last Result |
-| 79 | 14% | 70% |  |
-| 80 | 15% | 56% | Median |
-| 81 | 14% | 41% |  |
+| 76 | 6% | 94% |  |
+| 77 | 8% | 88% |  |
+| 78 | 11% | 80% | Last Result |
+| 79 | 14% | 69% |  |
+| 80 | 14% | 55% | Median |
+| 81 | 13% | 41% |  |
 | 82 | 11% | 28% |  |
 | 83 | 8% | 17% |  |
-| 84 | 5% | 9% |  |
+| 84 | 5% | 10% |  |
 | 85 | 3% | 5% |  |
-| 86 | 1.2% | 2% |  |
-| 87 | 0.5% | 0.8% |  |
-| 88 | 0.2% | 0.3% |  |
+| 86 | 1.4% | 2% |  |
+| 87 | 0.6% | 1.0% |  |
+| 88 | 0.3% | 0.4% |  |
 | 89 | 0.1% | 0.1% |  |
 | 90 | 0% | 0% |  |
 
