@@ -29,7 +29,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–2 |
+| Dansk Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nemuno aušra | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -51,8 +51,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0.1% | 100% | Last Result |
 | 85 | 0.2% | 99.9% |  |
-| 86 | 0.4% | 99.7% |  |
-| 87 | 1.0% | 99.3% |  |
+| 86 | 0.5% | 99.7% |  |
+| 87 | 1.0% | 99.2% |  |
 | 88 | 2% | 98% |  |
 | 89 | 4% | 96% |  |
 | 90 | 6% | 93% |  |
@@ -60,14 +60,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 10% | 79% |  |
 | 93 | 12% | 69% |  |
 | 94 | 13% | 57% | Median |
-| 95 | 12% | 44% |  |
+| 95 | 12% | 45% |  |
 | 96 | 11% | 32% |  |
-| 97 | 8% | 21% |  |
+| 97 | 8% | 22% |  |
 | 98 | 6% | 13% |  |
 | 99 | 4% | 7% |  |
-| 100 | 2% | 3% |  |
-| 101 | 0.9% | 1.4% |  |
-| 102 | 0.4% | 0.5% |  |
+| 100 | 2% | 4% |  |
+| 101 | 1.0% | 2% |  |
+| 102 | 0.4% | 0.6% |  |
 | 103 | 0.1% | 0.2% |  |
 | 104 | 0% | 0.1% |  |
 | 105 | 0% | 0% |  |

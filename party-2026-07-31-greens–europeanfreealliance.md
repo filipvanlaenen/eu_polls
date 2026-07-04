@@ -21,12 +21,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 34–42 | 33–43 | 32–45 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–16 | 11–16 | 9–18 |
 | Europa Verde | IT | | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 2 | 1–2 | 1–3 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,20 +67,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.3% | 99.9% |  |
-| 32 | 1.0% | 99.5% |  |
-| 33 | 2% | 98.5% |  |
+| 32 | 0.9% | 99.6% |  |
+| 33 | 2% | 98.7% |  |
 | 34 | 5% | 96% |  |
-| 35 | 9% | 91% |  |
-| 36 | 13% | 82% |  |
-| 37 | 16% | 69% |  |
-| 38 | 16% | 53% | Median |
-| 39 | 14% | 37% |  |
-| 40 | 10% | 23% |  |
-| 41 | 6% | 13% |  |
-| 42 | 3% | 7% |  |
-| 43 | 2% | 3% |  |
-| 44 | 0.9% | 2% |  |
-| 45 | 0.4% | 0.7% |  |
+| 35 | 8% | 92% |  |
+| 36 | 13% | 83% |  |
+| 37 | 16% | 71% |  |
+| 38 | 16% | 55% | Median |
+| 39 | 14% | 39% |  |
+| 40 | 11% | 25% |  |
+| 41 | 7% | 14% |  |
+| 42 | 4% | 8% |  |
+| 43 | 2% | 4% |  |
+| 44 | 1.0% | 2% |  |
+| 45 | 0.5% | 0.8% |  |
 | 46 | 0.2% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
