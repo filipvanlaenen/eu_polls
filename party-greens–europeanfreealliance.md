@@ -20,7 +20,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 34–42 | 33–43 | 31–45 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–16 | 11–16 | 9–18 |
-| Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| PROGRESĪVIE | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -69,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.4% | 99.9% |  |
 | 32 | 1.1% | 99.5% |  |
 | 33 | 3% | 98% |  |
-| 34 | 5% | 96% |  |
-| 35 | 9% | 90% |  |
-| 36 | 13% | 81% |  |
-| 37 | 16% | 68% |  |
+| 34 | 6% | 96% |  |
+| 35 | 10% | 90% |  |
+| 36 | 14% | 81% |  |
+| 37 | 16% | 67% |  |
 | 38 | 16% | 51% | Median |
-| 39 | 13% | 36% |  |
-| 40 | 10% | 22% |  |
+| 39 | 13% | 34% |  |
+| 40 | 9% | 21% |  |
 | 41 | 6% | 12% |  |
-| 42 | 3% | 7% |  |
+| 42 | 3% | 6% |  |
 | 43 | 2% | 3% |  |
-| 44 | 0.8% | 2% |  |
-| 45 | 0.4% | 0.7% |  |
-| 46 | 0.2% | 0.3% |  |
+| 44 | 0.8% | 1.4% |  |
+| 45 | 0.4% | 0.6% |  |
+| 46 | 0.2% | 0.2% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
 | 49 | 0% | 0% |  |

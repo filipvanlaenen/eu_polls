@@ -44,7 +44,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Naše Česko [CZ] (*) | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
-| Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -72,10 +72,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 7% | 98% |  |
 | 7 | 17% | 91% |  |
 | 8 | 26% | 74% | Median |
-| 9 | 26% | 48% |  |
-| 10 | 16% | 22% |  |
+| 9 | 26% | 47% |  |
+| 10 | 15% | 21% |  |
 | 11 | 5% | 6% |  |
-| 12 | 0.9% | 1.0% |  |
+| 12 | 0.8% | 0.9% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
