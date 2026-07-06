@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **60** seats (+14 seats)
+Current median: **61** seats (+15 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,26 +18,26 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 60 | 57–65 | 56–66 | 55–67 | 53–69 |
+| European United Left–Nordic Green Left | EU | 46 | 61 | 57–65 | 56–66 | 55–67 | 53–69 |
 | La France insoumise | FR | | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
 | Die Linke | DE | | 11 | 9–12 | 9–12 | 8–13 | 8–13 |
-| Movimento 5 Stelle | IT | | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
+| Movimento 5 Stelle | IT | | 11 | 10–12 | 9–13 | 9–13 | 8–15 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | Social Democrats | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Podemos | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
-| Euskal Herria Bildu | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -67,26 +67,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0% | 100% |  |
 | 50 | 0% | 100% |  |
 | 51 | 0% | 100% |  |
-| 52 | 0.2% | 99.9% |  |
-| 53 | 0.5% | 99.8% |  |
-| 54 | 1.2% | 99.3% |  |
-| 55 | 3% | 98% |  |
-| 56 | 5% | 95% |  |
-| 57 | 7% | 91% |  |
-| 58 | 10% | 84% |  |
-| 59 | 12% | 74% |  |
-| 60 | 13% | 62% | Median |
-| 61 | 13% | 50% |  |
-| 62 | 11% | 37% |  |
-| 63 | 9% | 26% |  |
-| 64 | 7% | 17% |  |
-| 65 | 4% | 10% |  |
-| 66 | 3% | 6% |  |
-| 67 | 2% | 3% |  |
-| 68 | 0.8% | 2% |  |
-| 69 | 0.4% | 0.7% |  |
-| 70 | 0.2% | 0.3% |  |
-| 71 | 0.1% | 0.1% |  |
-| 72 | 0% | 0% |  |
+| 52 | 0.1% | 99.9% |  |
+| 53 | 0.4% | 99.8% |  |
+| 54 | 1.0% | 99.4% |  |
+| 55 | 2% | 98% |  |
+| 56 | 4% | 96% |  |
+| 57 | 6% | 92% |  |
+| 58 | 9% | 86% |  |
+| 59 | 11% | 77% |  |
+| 60 | 12% | 66% |  |
+| 61 | 13% | 54% | Median |
+| 62 | 11% | 41% |  |
+| 63 | 10% | 30% |  |
+| 64 | 7% | 20% |  |
+| 65 | 5% | 13% |  |
+| 66 | 3% | 7% |  |
+| 67 | 2% | 4% |  |
+| 68 | 1.1% | 2% |  |
+| 69 | 0.5% | 1.0% |  |
+| 70 | 0.3% | 0.4% |  |
+| 71 | 0.1% | 0.2% |  |
+| 72 | 0% | 0.1% |  |
+| 73 | 0% | 0% |  |
 
 
