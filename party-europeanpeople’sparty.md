@@ -18,24 +18,24 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 172 | 167–177 | 166–179 | 164–180 | 162–183 |
-| Partido Popular | ES | | 23 | 21–24 | 21–24 | 21–25 | 21–26 |
+| European People’s Party | EU | 188 | 172 | 166–177 | 165–178 | 164–180 | 161–182 |
+| Partido Popular | ES | | 23 | 20–24 | 19–25 | 19–25 | 18–26 |
 | Platforma Obywatelska | PL | | 20 | 18–22 | 17–22 | 16–23 | 16–23 |
-| Christlich Demokratische Union Deutschlands | DE | | 17 | 15–19 | 14–19 | 14–20 | 13–22 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 14–19 | 14–20 | 13–22 |
 | Tisztelet és Szabadság | HU | | 15 | 14–17 | 14–17 | 14–17 | 14–17 |
 | Les Républicains | FR | | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
-| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–9 |
+| Forza Italia | IT | | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | Partidul Național Liberal | RO | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
-| Christlich-Soziale Union in Bayern | DE | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 4–6 | 3–6 | 3–7 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Starostové a nezávislí | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| Kansallinen Kokoomus | FI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -84,34 +84,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
-| 160 | 0.1% | 99.9% |  |
-| 161 | 0.2% | 99.9% |  |
-| 162 | 0.4% | 99.7% |  |
-| 163 | 0.7% | 99.3% |  |
-| 164 | 1.3% | 98.6% |  |
-| 165 | 2% | 97% |  |
-| 166 | 3% | 95% |  |
-| 167 | 4% | 92% |  |
-| 168 | 6% | 88% |  |
-| 169 | 7% | 82% |  |
-| 170 | 9% | 74% |  |
-| 171 | 10% | 65% |  |
-| 172 | 10% | 56% | Median |
-| 173 | 10% | 46% |  |
-| 174 | 9% | 36% |  |
-| 175 | 8% | 27% |  |
-| 176 | 6% | 20% |  |
-| 177 | 5% | 14% |  |
-| 178 | 3% | 9% |  |
-| 179 | 2% | 6% |  |
-| 180 | 1.5% | 3% |  |
-| 181 | 0.9% | 2% |  |
-| 182 | 0.5% | 1.0% |  |
-| 183 | 0.3% | 0.5% |  |
-| 184 | 0.1% | 0.3% |  |
+| 158 | 0% | 100% |  |
+| 159 | 0.1% | 99.9% |  |
+| 160 | 0.2% | 99.8% |  |
+| 161 | 0.4% | 99.7% |  |
+| 162 | 0.7% | 99.3% |  |
+| 163 | 1.1% | 98.6% |  |
+| 164 | 2% | 98% |  |
+| 165 | 3% | 96% |  |
+| 166 | 4% | 93% |  |
+| 167 | 5% | 89% |  |
+| 168 | 7% | 84% |  |
+| 169 | 8% | 77% |  |
+| 170 | 9% | 69% |  |
+| 171 | 10% | 60% |  |
+| 172 | 10% | 50% | Median |
+| 173 | 9% | 41% |  |
+| 174 | 8% | 32% |  |
+| 175 | 7% | 24% |  |
+| 176 | 5% | 17% |  |
+| 177 | 4% | 12% |  |
+| 178 | 3% | 8% |  |
+| 179 | 2% | 5% |  |
+| 180 | 1.2% | 3% |  |
+| 181 | 0.8% | 2% |  |
+| 182 | 0.4% | 0.9% |  |
+| 183 | 0.2% | 0.5% |  |
+| 184 | 0.1% | 0.2% |  |
 | 185 | 0.1% | 0.1% |  |
-| 186 | 0% | 0.1% |  |
+| 186 | 0% | 0% |  |
 | 187 | 0% | 0% |  |
 | 188 | 0% | 0% | Last Result |
 
