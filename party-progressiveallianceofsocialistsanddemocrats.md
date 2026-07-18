@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 119 | 114–124 | 113–126 | 112–127 | 110–130 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 119 | 114–124 | 113–125 | 112–127 | 110–130 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–21 | 16–24 | 16–24 | 15–25 |
-| Partito Democratico | IT | | 18 | 16–21 | 16–22 | 15–22 | 15–22 |
+| Partito Democratico | IT | | 18 | 16–20 | 16–21 | 15–21 | 15–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–13 | 10–14 | 10–15 | 9–15 |
-| Parti socialiste–Place Publique | FR | | 9 | 8–10 | 7–11 | 7–11 | 6–11 |
+| Parti socialiste–Place Publique | FR | | 9 | 7–10 | 7–11 | 7–11 | 6–11 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -60,28 +60,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 107 | 0% | 100% |  |
 | 108 | 0.1% | 99.9% |  |
 | 109 | 0.3% | 99.8% |  |
-| 110 | 0.6% | 99.5% |  |
-| 111 | 1.2% | 98.9% |  |
+| 110 | 0.6% | 99.6% |  |
+| 111 | 1.1% | 99.0% |  |
 | 112 | 2% | 98% |  |
 | 113 | 3% | 96% |  |
-| 114 | 5% | 92% |  |
-| 115 | 7% | 87% |  |
-| 116 | 9% | 80% |  |
-| 117 | 10% | 72% |  |
-| 118 | 10% | 62% |  |
-| 119 | 10% | 51% | Median |
-| 120 | 9% | 41% |  |
+| 114 | 5% | 93% |  |
+| 115 | 7% | 88% |  |
+| 116 | 8% | 81% |  |
+| 117 | 10% | 73% |  |
+| 118 | 11% | 63% |  |
+| 119 | 11% | 53% | Median |
+| 120 | 10% | 42% |  |
 | 121 | 8% | 32% |  |
 | 122 | 7% | 24% |  |
 | 123 | 5% | 17% |  |
-| 124 | 4% | 12% |  |
+| 124 | 4% | 11% |  |
 | 125 | 3% | 8% |  |
 | 126 | 2% | 5% |  |
-| 127 | 1.3% | 3% |  |
+| 127 | 1.2% | 3% |  |
 | 128 | 0.8% | 2% |  |
-| 129 | 0.5% | 1.1% |  |
-| 130 | 0.3% | 0.6% |  |
-| 131 | 0.2% | 0.3% |  |
+| 129 | 0.5% | 1.0% |  |
+| 130 | 0.3% | 0.5% |  |
+| 131 | 0.1% | 0.3% |  |
 | 132 | 0.1% | 0.1% |  |
 | 133 | 0% | 0.1% |  |
 | 134 | 0% | 0% |  |
