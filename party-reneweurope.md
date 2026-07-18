@@ -36,7 +36,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -65,7 +65,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
-| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |
+| Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0–1 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -79,7 +79,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
 | 59 | 0.5% | 99.7% |  |
-| 60 | 1.0% | 99.2% |  |
+| 60 | 1.0% | 99.3% |  |
 | 61 | 2% | 98% |  |
 | 62 | 3% | 96% |  |
 | 63 | 5% | 93% |  |
@@ -95,7 +95,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 3% | 8% |  |
 | 74 | 2% | 5% |  |
 | 75 | 1.3% | 3% |  |
-| 76 | 0.7% | 1.4% |  |
+| 76 | 0.7% | 1.5% |  |
 | 77 | 0.4% | 0.7% | Last Result |
 | 78 | 0.2% | 0.3% |  |
 | 79 | 0.1% | 0.2% |  |
