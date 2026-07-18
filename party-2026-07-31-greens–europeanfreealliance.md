@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–41 | 34–42 | 33–43 | 31–45 |
-| Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–16 | 10–16 | 9–17 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 33–44 | 32–46 |
+| Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–16 | 11–16 | 9–17 |
 | Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Česká pirátská strana | CZ | | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -40,7 +40,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
+| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -67,23 +67,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.4% | 99.9% |  |
-| 32 | 1.1% | 99.5% |  |
+| 32 | 1.0% | 99.5% |  |
 | 33 | 3% | 98% |  |
-| 34 | 6% | 96% |  |
-| 35 | 9% | 90% |  |
-| 36 | 13% | 81% |  |
-| 37 | 16% | 67% |  |
-| 38 | 16% | 51% | Median |
-| 39 | 14% | 35% |  |
-| 40 | 10% | 22% |  |
-| 41 | 6% | 12% |  |
-| 42 | 3% | 6% |  |
-| 43 | 2% | 3% |  |
-| 44 | 0.7% | 1.2% |  |
-| 45 | 0.3% | 0.5% |  |
-| 46 | 0.1% | 0.2% |  |
-| 47 | 0.1% | 0.1% |  |
-| 48 | 0% | 0% |  |
+| 34 | 5% | 96% |  |
+| 35 | 9% | 91% |  |
+| 36 | 12% | 82% |  |
+| 37 | 15% | 70% |  |
+| 38 | 15% | 55% | Median |
+| 39 | 13% | 40% |  |
+| 40 | 10% | 27% |  |
+| 41 | 7% | 17% |  |
+| 42 | 4% | 10% |  |
+| 43 | 3% | 6% |  |
+| 44 | 2% | 3% |  |
+| 45 | 0.9% | 2% |  |
+| 46 | 0.4% | 0.7% |  |
+| 47 | 0.2% | 0.3% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

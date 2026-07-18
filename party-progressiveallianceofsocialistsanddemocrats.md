@@ -8,7 +8,7 @@ Members registered from **25 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **120** seats (-16 seats)
+Current median: **119** seats (-17 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 120 | 115–125 | 114–127 | 112–128 | 110–131 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 119 | 114–123 | 113–125 | 112–126 | 110–128 |
 | Partido Socialista Obrero Español | ES | | 18 | 17–21 | 16–22 | 16–23 | 15–23 |
 | Partito Democratico | IT | | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
 | Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–13 | 10–14 | 10–15 | 9–15 |
-| Parti socialiste–Place Publique | FR | | 9 | 8–13 | 8–14 | 8–15 | 7–15 |
+| Parti socialiste–Place Publique | FR | | 9 | 8–10 | 8–11 | 7–11 | 6–12 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -56,33 +56,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 108 | 0.1% | 100% |  |
-| 109 | 0.2% | 99.9% |  |
-| 110 | 0.3% | 99.8% |  |
-| 111 | 0.7% | 99.4% |  |
-| 112 | 1.4% | 98.7% |  |
-| 113 | 2% | 97% |  |
-| 114 | 4% | 95% |  |
-| 115 | 5% | 91% |  |
-| 116 | 7% | 86% |  |
-| 117 | 8% | 79% |  |
-| 118 | 9% | 71% |  |
-| 119 | 10% | 61% |  |
-| 120 | 10% | 51% | Median |
-| 121 | 9% | 41% |  |
-| 122 | 8% | 32% |  |
-| 123 | 7% | 24% |  |
-| 124 | 5% | 17% |  |
-| 125 | 4% | 12% |  |
-| 126 | 3% | 8% |  |
-| 127 | 2% | 5% |  |
-| 128 | 1.3% | 3% |  |
-| 129 | 0.8% | 2% |  |
-| 130 | 0.5% | 1.0% |  |
-| 131 | 0.3% | 0.6% |  |
-| 132 | 0.1% | 0.3% |  |
-| 133 | 0.1% | 0.1% |  |
-| 134 | 0% | 0.1% |  |
+| 107 | 0% | 100% |  |
+| 108 | 0.1% | 99.9% |  |
+| 109 | 0.3% | 99.8% |  |
+| 110 | 0.6% | 99.6% |  |
+| 111 | 1.1% | 99.0% |  |
+| 112 | 2% | 98% |  |
+| 113 | 3% | 96% |  |
+| 114 | 5% | 93% |  |
+| 115 | 7% | 88% |  |
+| 116 | 9% | 81% |  |
+| 117 | 10% | 72% |  |
+| 118 | 11% | 62% |  |
+| 119 | 11% | 51% | Median |
+| 120 | 10% | 41% |  |
+| 121 | 9% | 31% |  |
+| 122 | 7% | 22% |  |
+| 123 | 5% | 15% |  |
+| 124 | 4% | 10% |  |
+| 125 | 3% | 6% |  |
+| 126 | 2% | 4% |  |
+| 127 | 0.9% | 2% |  |
+| 128 | 0.5% | 1.0% |  |
+| 129 | 0.3% | 0.5% |  |
+| 130 | 0.1% | 0.2% |  |
+| 131 | 0.1% | 0.1% |  |
+| 132 | 0% | 0% |  |
+| 133 | 0% | 0% |  |
+| 134 | 0% | 0% |  |
 | 135 | 0% | 0% |  |
 | 136 | 0% | 0% | Last Result |
 
