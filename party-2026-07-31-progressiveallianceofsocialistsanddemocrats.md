@@ -38,7 +38,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–1 |
+| Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Demokratikus Koalíció | HU | | 0 | 0 | 0 | 0 | 0 |
@@ -63,18 +63,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 1.1% | 99.0% |  |
 | 112 | 2% | 98% |  |
 | 113 | 3% | 96% |  |
-| 114 | 5% | 92% |  |
-| 115 | 7% | 87% |  |
+| 114 | 5% | 93% |  |
+| 115 | 7% | 88% |  |
 | 116 | 9% | 81% |  |
 | 117 | 10% | 72% |  |
 | 118 | 11% | 62% |  |
 | 119 | 11% | 51% | Median |
 | 120 | 10% | 40% |  |
-| 121 | 9% | 30% |  |
+| 121 | 9% | 31% |  |
 | 122 | 7% | 22% |  |
 | 123 | 5% | 15% |  |
 | 124 | 4% | 10% |  |
-| 125 | 2% | 6% |  |
+| 125 | 3% | 6% |  |
 | 126 | 2% | 4% |  |
 | 127 | 0.9% | 2% |  |
 | 128 | 0.5% | 1.0% |  |

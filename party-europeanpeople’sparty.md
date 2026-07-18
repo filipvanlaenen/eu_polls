@@ -37,9 +37,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Slovenska demokratska stranka | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Граждани за европейско развитие на България | BG | | 3 | 3 | 3 | 2–3 | 2–4 |
+| Граждани за европейско развитие на България | BG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -54,11 +54,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
-| Demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
+| Demokrati | SI | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0 | 0 |
 | Forța Dreptei | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -74,6 +73,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
+| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -87,25 +87,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0.1% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
 | 160 | 0.2% | 99.8% |  |
-| 161 | 0.5% | 99.6% |  |
-| 162 | 0.8% | 99.1% |  |
+| 161 | 0.5% | 99.5% |  |
+| 162 | 0.9% | 99.1% |  |
 | 163 | 1.4% | 98% |  |
 | 164 | 2% | 97% |  |
-| 165 | 3% | 95% |  |
+| 165 | 3% | 94% |  |
 | 166 | 5% | 91% |  |
-| 167 | 6% | 87% |  |
-| 168 | 8% | 81% |  |
+| 167 | 6% | 86% |  |
+| 168 | 8% | 80% |  |
 | 169 | 9% | 73% |  |
-| 170 | 9% | 64% |  |
-| 171 | 10% | 55% | Median |
+| 170 | 10% | 64% |  |
+| 171 | 10% | 54% | Median |
 | 172 | 9% | 45% |  |
-| 173 | 9% | 36% |  |
+| 173 | 9% | 35% |  |
 | 174 | 7% | 27% |  |
-| 175 | 6% | 20% |  |
-| 176 | 5% | 14% |  |
+| 175 | 6% | 19% |  |
+| 176 | 5% | 13% |  |
 | 177 | 3% | 9% |  |
 | 178 | 2% | 6% |  |
-| 179 | 1.5% | 3% |  |
+| 179 | 1.4% | 3% |  |
 | 180 | 0.9% | 2% |  |
 | 181 | 0.5% | 1.1% |  |
 | 182 | 0.3% | 0.6% |  |

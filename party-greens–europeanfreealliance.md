@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Česká pirátská strana | CZ | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 9% | 91% |  |
 | 36 | 12% | 82% |  |
 | 37 | 15% | 69% |  |
-| 38 | 15% | 54% | Median |
+| 38 | 15% | 55% | Median |
 | 39 | 13% | 40% |  |
 | 40 | 10% | 27% |  |
 | 41 | 7% | 17% |  |
