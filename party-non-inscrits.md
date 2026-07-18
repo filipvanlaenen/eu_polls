@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **16 countries**:
+Members registered from **15 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, GR, HR, IT, LT, LV, PL, RO, SI, SK
+> BG, CY, CZ, DE, DK, ES, FI, GR, HR, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -27,10 +27,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Darbo Partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
-| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -57,14 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.2% | 99.9% |  |
 | 22 | 1.1% | 99.7% |  |
 | 23 | 3% | 98.6% |  |
-| 24 | 8% | 95% |  |
+| 24 | 7% | 95% |  |
 | 25 | 13% | 88% |  |
 | 26 | 17% | 75% |  |
-| 27 | 18% | 58% | Median |
-| 28 | 15% | 40% |  |
-| 29 | 11% | 25% |  |
+| 27 | 18% | 59% | Median |
+| 28 | 15% | 41% |  |
+| 29 | 11% | 26% |  |
 | 30 | 7% | 14% |  |
-| 31 | 4% | 6% |  |
+| 31 | 4% | 7% |  |
 | 32 | 2% | 3% | Last Result |
 | 33 | 0.7% | 1.0% |  |
 | 34 | 0.2% | 0.3% |  |
