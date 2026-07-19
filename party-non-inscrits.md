@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, GR, HR, LT, LV, PL, RO, SI, SK
+> BG, CY, CZ, DE, DK, ES, FI, GR, HR, IT, LT, LV, PL, RO, SI, SK
 
 ## Seats
 
@@ -30,6 +30,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Se Acabó La Fiesta | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -53,14 +54,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.2% | 100% |  |
-| 22 | 1.1% | 99.7% |  |
+| 22 | 1.0% | 99.7% |  |
 | 23 | 3% | 98.7% |  |
 | 24 | 7% | 95% |  |
 | 25 | 13% | 88% |  |
-| 26 | 17% | 75% |  |
+| 26 | 17% | 76% |  |
 | 27 | 18% | 59% | Median |
 | 28 | 16% | 41% |  |
-| 29 | 11% | 26% |  |
+| 29 | 12% | 26% |  |
 | 30 | 7% | 14% |  |
 | 31 | 4% | 7% |  |
 | 32 | 2% | 3% | Last Result |

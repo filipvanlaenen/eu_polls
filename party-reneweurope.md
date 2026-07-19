@@ -25,7 +25,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Uniunea Salvați România | RO | | 4 | 3–6 | 3–7 | 3–7 | 3–8 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

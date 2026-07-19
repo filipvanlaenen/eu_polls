@@ -18,14 +18,14 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 92–99 | 90–100 | 89–101 | 87–103 |
+| Patriots for Europe | EU | 84 | 95 | 92–99 | 91–100 | 90–101 | 88–103 |
 | Rassemblement national | FR | | 32 | 30–35 | 30–35 | 29–35 | 28–37 |
 | Vox | ES | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | Chega | PT | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Lega Nord | IT | | 5 | 4–7 | 4–7 | 4–8 | 0–8 |
+| Lega Nord | IT | | 5 | 4–6 | 4–7 | 3–7 | 0–8 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -50,19 +50,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0% | 100% | Last Result |
-| 85 | 0.1% | 100% |  |
+| 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
 | 87 | 0.3% | 99.8% |  |
-| 88 | 0.7% | 99.5% |  |
-| 89 | 1.4% | 98.8% |  |
-| 90 | 3% | 97% |  |
-| 91 | 5% | 95% |  |
-| 92 | 7% | 90% |  |
-| 93 | 10% | 83% |  |
-| 94 | 12% | 73% |  |
-| 95 | 13% | 61% | Median |
+| 88 | 0.6% | 99.5% |  |
+| 89 | 1.3% | 98.9% |  |
+| 90 | 3% | 98% |  |
+| 91 | 4% | 95% |  |
+| 92 | 7% | 91% |  |
+| 93 | 10% | 84% |  |
+| 94 | 12% | 74% |  |
+| 95 | 14% | 62% | Median |
 | 96 | 13% | 48% |  |
-| 97 | 11% | 35% |  |
+| 97 | 12% | 35% |  |
 | 98 | 9% | 23% |  |
 | 99 | 6% | 14% |  |
 | 100 | 4% | 8% |  |
