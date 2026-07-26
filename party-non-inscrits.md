@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **27** seats (-5 seats)
+Current median: **28** seats (-4 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 24–30 | 24–31 | 23–32 | 22–33 |
+| Non-Inscrits | EU | 32 | 28 | 25–30 | 24–31 | 23–32 | 22–33 |
 | Прогресивна България | BG | | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
-| Konfederacja Korony Polskiej | PL | | 4 | 3–7 | 3–7 | 3–7 | 3–8 |
+| Konfederacja Korony Polskiej | PL | | 6 | 4–7 | 4–7 | 3–8 | 3–8 |
+| Bündnis Sahra Wagenknecht | DE | | 4 | 2–5 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Darbo Partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Πλεύση Ελευθερίας | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -36,7 +36,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Latvijas Krievu savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
-| Partidul S.O.S. România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska demokratska stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -53,21 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.2% | 100% |  |
-| 22 | 0.9% | 99.8% |  |
-| 23 | 3% | 98.9% |  |
-| 24 | 6% | 96% |  |
-| 25 | 11% | 90% |  |
-| 26 | 16% | 78% |  |
-| 27 | 18% | 63% | Median |
-| 28 | 16% | 45% |  |
-| 29 | 12% | 29% |  |
-| 30 | 8% | 17% |  |
-| 31 | 5% | 8% |  |
-| 32 | 2% | 4% | Last Result |
-| 33 | 0.9% | 1.4% |  |
-| 34 | 0.3% | 0.5% |  |
-| 35 | 0.1% | 0.1% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.5% | 99.9% |  |
+| 23 | 2% | 99.3% |  |
+| 24 | 5% | 97% |  |
+| 25 | 10% | 92% |  |
+| 26 | 14% | 83% |  |
+| 27 | 17% | 69% |  |
+| 28 | 17% | 51% | Median |
+| 29 | 15% | 34% |  |
+| 30 | 10% | 19% |  |
+| 31 | 6% | 9% |  |
+| 32 | 3% | 4% | Last Result |
+| 33 | 0.9% | 1.2% |  |
+| 34 | 0.2% | 0.3% |  |
+| 35 | 0% | 0.1% |  |
 | 36 | 0% | 0% |  |
 
 
