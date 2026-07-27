@@ -19,9 +19,9 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 78 | 80 | 76–84 | 74–86 | 73–87 | 71–89 |
-| Fratelli d’Italia | IT | | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 12–15 | 12–15 | 11–16 | 11–16 |
-| Zjednoczona Prawica | PL | | 14 | 12–18 | 11–18 | 11–19 | 10–20 |
+| Zjednoczona Prawica | PL | | 14 | 11–18 | 10–18 | 10–19 | 10–20 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Juiste Antwoord 2021 | NL | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -58,12 +58,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 69 | 0.1% | 100% |  |
-| 70 | 0.1% | 99.9% |  |
-| 71 | 0.4% | 99.8% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0.4% | 99.7% |  |
 | 72 | 0.8% | 99.4% |  |
-| 73 | 1.5% | 98.7% |  |
+| 73 | 2% | 98.6% |  |
 | 74 | 3% | 97% |  |
-| 75 | 4% | 95% |  |
+| 75 | 4% | 94% |  |
 | 76 | 6% | 90% |  |
 | 77 | 8% | 84% |  |
 | 78 | 10% | 76% | Last Result |

@@ -18,7 +18,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 63–72 | 62–74 | 61–75 | 59–77 |
+| Renew Europe | EU | 77 | 67 | 63–72 | 62–74 | 61–75 | 59–78 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
 | Democraten 66 | NL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
@@ -44,7 +44,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0 | 0–3 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -53,14 +53,14 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
 | Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska 2050 | PL | | 0 | 0 | 0 | 0–2 | 0–3 |
+| Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0–3 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -82,21 +82,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 2% | 98% |  |
 | 62 | 4% | 96% |  |
 | 63 | 6% | 92% |  |
-| 64 | 8% | 87% |  |
+| 64 | 7% | 87% |  |
 | 65 | 9% | 79% |  |
 | 66 | 10% | 70% |  |
-| 67 | 11% | 59% | Median |
+| 67 | 11% | 60% | Median |
 | 68 | 10% | 49% |  |
 | 69 | 9% | 38% |  |
 | 70 | 8% | 29% |  |
-| 71 | 6% | 21% |  |
-| 72 | 5% | 14% |  |
-| 73 | 4% | 9% |  |
+| 71 | 7% | 21% |  |
+| 72 | 5% | 15% |  |
+| 73 | 4% | 10% |  |
 | 74 | 2% | 6% |  |
-| 75 | 1.5% | 3% |  |
+| 75 | 2% | 3% |  |
 | 76 | 0.9% | 2% |  |
-| 77 | 0.5% | 0.9% | Last Result |
-| 78 | 0.2% | 0.4% |  |
+| 77 | 0.5% | 1.0% | Last Result |
+| 78 | 0.3% | 0.5% |  |
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
