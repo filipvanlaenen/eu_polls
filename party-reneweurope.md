@@ -18,14 +18,14 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 63–72 | 62–74 | 61–75 | 59–78 |
+| Renew Europe | EU | 77 | 67 | 63–72 | 62–73 | 61–75 | 59–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
-| Democraten 66 | NL | | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| Democraten 66 | NL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Uniunea Salvați România | RO | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -46,7 +46,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Zaļo un Zemnieku savienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,28 +77,28 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
-| 59 | 0.5% | 99.7% |  |
-| 60 | 1.1% | 99.2% |  |
+| 59 | 0.6% | 99.7% |  |
+| 60 | 1.3% | 99.1% |  |
 | 61 | 2% | 98% |  |
-| 62 | 4% | 96% |  |
-| 63 | 6% | 92% |  |
-| 64 | 7% | 87% |  |
-| 65 | 9% | 79% |  |
-| 66 | 10% | 70% |  |
-| 67 | 11% | 60% | Median |
-| 68 | 10% | 49% |  |
-| 69 | 9% | 38% |  |
-| 70 | 8% | 29% |  |
-| 71 | 7% | 21% |  |
-| 72 | 5% | 15% |  |
-| 73 | 4% | 10% |  |
-| 74 | 2% | 6% |  |
-| 75 | 2% | 3% |  |
-| 76 | 0.9% | 2% |  |
-| 77 | 0.5% | 1.0% | Last Result |
-| 78 | 0.3% | 0.5% |  |
+| 62 | 4% | 95% |  |
+| 63 | 6% | 91% |  |
+| 64 | 8% | 85% |  |
+| 65 | 10% | 77% |  |
+| 66 | 11% | 67% |  |
+| 67 | 11% | 57% | Median |
+| 68 | 10% | 46% |  |
+| 69 | 9% | 35% |  |
+| 70 | 8% | 26% |  |
+| 71 | 6% | 19% |  |
+| 72 | 5% | 13% |  |
+| 73 | 3% | 8% |  |
+| 74 | 2% | 5% |  |
+| 75 | 1.3% | 3% |  |
+| 76 | 0.7% | 1.5% |  |
+| 77 | 0.4% | 0.7% | Last Result |
+| 78 | 0.2% | 0.4% |  |
 | 79 | 0.1% | 0.2% |  |
-| 80 | 0.1% | 0.1% |  |
+| 80 | 0% | 0.1% |  |
 | 81 | 0% | 0% |  |
 
 
