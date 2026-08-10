@@ -28,7 +28,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,11 +55,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.2% | 100% |  |
 | 22 | 0.8% | 99.8% |  |
-| 23 | 3% | 99.0% |  |
-| 24 | 6% | 96% |  |
-| 25 | 11% | 91% |  |
+| 23 | 2% | 99.1% |  |
+| 24 | 6% | 97% |  |
+| 25 | 10% | 91% |  |
 | 26 | 15% | 80% |  |
-| 27 | 17% | 65% | Median |
+| 27 | 17% | 66% | Median |
 | 28 | 17% | 48% |  |
 | 29 | 14% | 31% |  |
 | 30 | 9% | 17% |  |
