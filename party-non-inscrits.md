@@ -21,14 +21,14 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Non-Inscrits | EU | 32 | 27 | 25–30 | 24–31 | 23–32 | 22–33 |
 | Прогресивна България | BG | | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–7 | 3–7 | 3–8 | 3–8 |
-| Bündnis Sahra Wagenknecht | DE | | 4 | 2–5 | 2–5 | 1–5 | 1–6 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Darbo Partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Πλεύση Ελευθερίας | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Democrazia Sovrana e Popolare | IT | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -54,19 +54,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.2% | 100% |  |
-| 22 | 0.9% | 99.8% |  |
-| 23 | 3% | 98.9% |  |
+| 22 | 0.8% | 99.8% |  |
+| 23 | 3% | 99.0% |  |
 | 24 | 6% | 96% |  |
-| 25 | 10% | 90% |  |
+| 25 | 11% | 91% |  |
 | 26 | 15% | 80% |  |
 | 27 | 17% | 65% | Median |
 | 28 | 17% | 48% |  |
 | 29 | 14% | 31% |  |
-| 30 | 9% | 18% |  |
+| 30 | 9% | 17% |  |
 | 31 | 5% | 8% |  |
 | 32 | 2% | 3% | Last Result |
-| 33 | 0.8% | 1.0% |  |
-| 34 | 0.2% | 0.3% |  |
+| 33 | 0.7% | 0.9% |  |
+| 34 | 0.2% | 0.2% |  |
 | 35 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **63** seats (+17 seats)
+Current median: **64** seats (+18 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,21 +18,21 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 63 | 59–68 | 58–69 | 57–71 | 55–73 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 59–68 | 58–70 | 57–71 | 55–73 |
 | La France insoumise | FR | | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
-| Die Linke | DE | | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
+| Die Linke | DE | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Social Democrats | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 0–3 | 0–3 | 0–3 |
+| Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -68,26 +68,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 0% | 100% |  |
 | 51 | 0% | 100% |  |
 | 52 | 0% | 100% |  |
-| 53 | 0.1% | 100% |  |
-| 54 | 0.2% | 99.9% |  |
-| 55 | 0.4% | 99.7% |  |
-| 56 | 1.0% | 99.3% |  |
-| 57 | 2% | 98% |  |
-| 58 | 3% | 96% |  |
-| 59 | 5% | 93% |  |
-| 60 | 7% | 88% |  |
-| 61 | 9% | 81% |  |
-| 62 | 11% | 71% |  |
-| 63 | 11% | 61% | Median |
-| 64 | 11% | 50% |  |
-| 65 | 10% | 38% |  |
-| 66 | 9% | 28% |  |
-| 67 | 7% | 20% |  |
-| 68 | 5% | 13% |  |
-| 69 | 3% | 8% |  |
+| 53 | 0% | 100% |  |
+| 54 | 0.1% | 99.9% |  |
+| 55 | 0.3% | 99.8% |  |
+| 56 | 0.8% | 99.5% |  |
+| 57 | 2% | 98.7% |  |
+| 58 | 3% | 97% |  |
+| 59 | 5% | 94% |  |
+| 60 | 7% | 90% |  |
+| 61 | 9% | 83% |  |
+| 62 | 10% | 74% |  |
+| 63 | 11% | 64% |  |
+| 64 | 11% | 52% | Median |
+| 65 | 11% | 41% |  |
+| 66 | 9% | 30% |  |
+| 67 | 7% | 21% |  |
+| 68 | 5% | 14% |  |
+| 69 | 4% | 9% |  |
 | 70 | 2% | 5% |  |
-| 71 | 1.3% | 3% |  |
-| 72 | 0.7% | 1.4% |  |
+| 71 | 1.4% | 3% |  |
+| 72 | 0.8% | 1.4% |  |
 | 73 | 0.4% | 0.7% |  |
 | 74 | 0.2% | 0.3% |  |
 | 75 | 0.1% | 0.1% |  |
