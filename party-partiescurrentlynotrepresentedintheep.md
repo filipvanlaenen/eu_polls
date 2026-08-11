@@ -34,6 +34,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Gobzema saraksts [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -48,7 +49,6 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Platforma 21 [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 2% | 99.9% |  |
 | 6 | 12% | 98% |  |
 | 7 | 28% | 86% |  |
-| 8 | 26% | 57% | Median |
+| 8 | 27% | 58% | Median |
 | 9 | 11% | 31% |  |
 | 10 | 5% | 20% |  |
 | 11 | 7% | 15% |  |

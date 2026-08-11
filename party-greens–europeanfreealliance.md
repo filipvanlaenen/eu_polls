@@ -31,7 +31,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1–2 | 1–2 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -71,9 +71,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 4% | 98% |  |
 | 35 | 7% | 94% |  |
 | 36 | 11% | 87% |  |
-| 37 | 15% | 76% |  |
-| 38 | 16% | 61% | Median |
-| 39 | 15% | 45% |  |
+| 37 | 14% | 76% |  |
+| 38 | 16% | 62% | Median |
+| 39 | 15% | 46% |  |
 | 40 | 12% | 31% |  |
 | 41 | 8% | 19% |  |
 | 42 | 5% | 11% |  |

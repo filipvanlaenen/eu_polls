@@ -18,7 +18,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 63–72 | 61–74 | 60–75 | 59–77 |
+| Renew Europe | EU | 77 | 67 | 62–72 | 61–74 | 60–75 | 59–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
 | Democraten 66 | NL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
@@ -43,7 +43,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Zaļo un Zemnieku savienība | LV | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -76,27 +76,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
-| 58 | 0.3% | 99.9% |  |
-| 59 | 0.7% | 99.6% |  |
-| 60 | 1.4% | 98.9% |  |
+| 58 | 0.3% | 99.8% |  |
+| 59 | 0.8% | 99.5% |  |
+| 60 | 2% | 98.8% |  |
 | 61 | 3% | 97% |  |
-| 62 | 4% | 95% |  |
-| 63 | 6% | 91% |  |
+| 62 | 4% | 94% |  |
+| 63 | 6% | 90% |  |
 | 64 | 8% | 84% |  |
-| 65 | 10% | 76% |  |
-| 66 | 10% | 67% |  |
-| 67 | 11% | 56% | Median |
-| 68 | 10% | 46% |  |
-| 69 | 9% | 36% |  |
-| 70 | 8% | 27% |  |
+| 65 | 10% | 75% |  |
+| 66 | 11% | 66% |  |
+| 67 | 11% | 55% | Median |
+| 68 | 10% | 45% |  |
+| 69 | 9% | 35% |  |
+| 70 | 7% | 26% |  |
 | 71 | 6% | 19% |  |
-| 72 | 5% | 13% |  |
-| 73 | 3% | 9% |  |
+| 72 | 4% | 13% |  |
+| 73 | 3% | 8% |  |
 | 74 | 2% | 5% |  |
-| 75 | 1.4% | 3% |  |
+| 75 | 1.3% | 3% |  |
 | 76 | 0.8% | 2% |  |
-| 77 | 0.5% | 0.9% | Last Result |
-| 78 | 0.2% | 0.5% |  |
+| 77 | 0.4% | 0.9% | Last Result |
+| 78 | 0.2% | 0.4% |  |
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
