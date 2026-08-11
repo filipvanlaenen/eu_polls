@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 165–176 | 164–177 | 162–179 | 160–181 |
+| European People’s Party | EU | 188 | 171 | 166–176 | 164–178 | 163–179 | 160–181 |
 | Partido Popular | ES | | 23 | 20–25 | 19–25 | 18–26 | 17–27 |
 | Platforma Obywatelska | PL | | 19 | 17–21 | 17–21 | 17–21 | 16–23 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
@@ -42,15 +42,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 2 |
+| Latvijas Reģionu Apvienība | LV | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
+| Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 0–1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Latvijas Reģionu Apvienība | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,34 +83,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.2% | 99.8% |  |
-| 160 | 0.4% | 99.6% |  |
-| 161 | 0.7% | 99.3% |  |
-| 162 | 1.1% | 98.6% |  |
-| 163 | 2% | 97% |  |
-| 164 | 3% | 96% |  |
-| 165 | 4% | 93% |  |
-| 166 | 5% | 89% |  |
-| 167 | 7% | 84% |  |
-| 168 | 8% | 77% |  |
-| 169 | 9% | 69% |  |
-| 170 | 10% | 60% |  |
-| 171 | 10% | 51% | Median |
-| 172 | 9% | 41% |  |
-| 173 | 8% | 32% |  |
-| 174 | 7% | 24% |  |
-| 175 | 5% | 17% |  |
-| 176 | 4% | 11% |  |
-| 177 | 3% | 7% |  |
-| 178 | 2% | 5% |  |
-| 179 | 1.2% | 3% |  |
-| 180 | 0.7% | 1.4% |  |
-| 181 | 0.4% | 0.7% |  |
-| 182 | 0.2% | 0.4% |  |
+| 158 | 0.1% | 100% |  |
+| 159 | 0.1% | 99.9% |  |
+| 160 | 0.3% | 99.8% |  |
+| 161 | 0.5% | 99.5% |  |
+| 162 | 0.9% | 99.0% |  |
+| 163 | 1.4% | 98% |  |
+| 164 | 2% | 97% |  |
+| 165 | 3% | 94% |  |
+| 166 | 5% | 91% |  |
+| 167 | 6% | 87% |  |
+| 168 | 7% | 81% |  |
+| 169 | 9% | 73% |  |
+| 170 | 9% | 65% |  |
+| 171 | 10% | 55% | Median |
+| 172 | 9% | 46% |  |
+| 173 | 9% | 36% |  |
+| 174 | 8% | 27% |  |
+| 175 | 6% | 20% |  |
+| 176 | 5% | 14% |  |
+| 177 | 3% | 9% |  |
+| 178 | 2% | 6% |  |
+| 179 | 1.5% | 3% |  |
+| 180 | 0.9% | 2% |  |
+| 181 | 0.5% | 1.0% |  |
+| 182 | 0.3% | 0.5% |  |
 | 183 | 0.1% | 0.2% |  |
-| 184 | 0% | 0.1% |  |
+| 184 | 0.1% | 0.1% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |
 | 187 | 0% | 0% |  |

@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+7 seats)
+Current median: **9** seats (+8 seats)
 
 At least one member in **4 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 6–11 | 6–12 | 6–13 | 5–14 |
+| Parties currently not represented in the EP | EU | 1 | 9 | 8–13 | 8–13 | 7–14 | 7–15 |
 | Partia Mateusza Morawieckiego [PL] (*) | PL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 2 | 2 | 2 | 2 | 2 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Aontú [IE] (*) | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Mēs mainām noteikumus [LV] (*) | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -44,6 +44,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -70,18 +71,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 2% | 99.9% |  |
-| 6 | 12% | 98% |  |
-| 7 | 28% | 86% |  |
-| 8 | 27% | 58% | Median |
-| 9 | 11% | 31% |  |
-| 10 | 5% | 20% |  |
-| 11 | 7% | 15% |  |
-| 12 | 6% | 9% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.5% | 0.5% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 4% | 99.8% |  |
+| 8 | 21% | 96% |  |
+| 9 | 36% | 75% | Median |
+| 10 | 17% | 39% |  |
+| 11 | 4% | 22% |  |
+| 12 | 6% | 18% |  |
+| 13 | 8% | 12% |  |
+| 14 | 4% | 5% |  |
+| 15 | 0.9% | 1.0% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 

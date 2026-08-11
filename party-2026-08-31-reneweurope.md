@@ -18,7 +18,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 67 | 62–72 | 61–74 | 60–75 | 59–77 |
+| Renew Europe | EU | 77 | 67 | 62–72 | 61–73 | 60–75 | 58–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
 | Democraten 66 | NL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
@@ -54,7 +54,6 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–3 |
-| Kustība Par! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
@@ -75,30 +74,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0.3% | 99.8% |  |
-| 59 | 0.8% | 99.5% |  |
-| 60 | 2% | 98.8% |  |
+| 56 | 0% | 100% |  |
+| 57 | 0.1% | 99.9% |  |
+| 58 | 0.4% | 99.8% |  |
+| 59 | 0.9% | 99.4% |  |
+| 60 | 2% | 98% |  |
 | 61 | 3% | 97% |  |
-| 62 | 4% | 94% |  |
-| 63 | 6% | 90% |  |
-| 64 | 8% | 84% |  |
-| 65 | 10% | 75% |  |
-| 66 | 11% | 66% |  |
-| 67 | 11% | 55% | Median |
-| 68 | 10% | 45% |  |
-| 69 | 9% | 35% |  |
-| 70 | 7% | 26% |  |
-| 71 | 6% | 19% |  |
-| 72 | 4% | 13% |  |
+| 62 | 5% | 94% |  |
+| 63 | 7% | 89% |  |
+| 64 | 9% | 82% |  |
+| 65 | 10% | 74% |  |
+| 66 | 11% | 64% |  |
+| 67 | 10% | 53% | Median |
+| 68 | 10% | 43% |  |
+| 69 | 9% | 33% |  |
+| 70 | 7% | 24% |  |
+| 71 | 6% | 17% |  |
+| 72 | 4% | 12% |  |
 | 73 | 3% | 8% |  |
 | 74 | 2% | 5% |  |
-| 75 | 1.3% | 3% |  |
-| 76 | 0.8% | 2% |  |
-| 77 | 0.4% | 0.9% | Last Result |
+| 75 | 1.2% | 3% |  |
+| 76 | 0.7% | 1.5% |  |
+| 77 | 0.4% | 0.8% | Last Result |
 | 78 | 0.2% | 0.4% |  |
 | 79 | 0.1% | 0.2% |  |
-| 80 | 0.1% | 0.1% |  |
+| 80 | 0% | 0.1% |  |
 | 81 | 0% | 0% |  |
 
 
