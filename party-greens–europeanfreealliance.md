@@ -20,12 +20,12 @@ At least one member in **13 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–43 | 34–44 | 32–46 |
 | Bündnis 90/Die Grünen | DE | | 13 | 12–15 | 11–16 | 11–16 | 11–17 |
-| Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
-| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Možemo! | HR | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Možemo! | HR | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 1–2 | 0–2 |
@@ -71,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 4% | 98% |  |
 | 35 | 7% | 94% |  |
 | 36 | 11% | 87% |  |
-| 37 | 15% | 75% |  |
+| 37 | 15% | 76% |  |
 | 38 | 16% | 61% | Median |
 | 39 | 15% | 45% |  |
 | 40 | 12% | 31% |  |

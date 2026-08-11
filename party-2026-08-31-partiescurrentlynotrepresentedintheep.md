@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 6–11 | 6–12 | 6–12 | 5–13 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 6–11 | 6–12 | 6–13 | 5–14 |
 | Partia Mateusza Morawieckiego [PL] (*) | PL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -72,15 +72,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 2% | 99.9% |  |
-| 6 | 14% | 98% |  |
-| 7 | 30% | 84% |  |
-| 8 | 25% | 54% | Median |
-| 9 | 9% | 28% |  |
+| 6 | 12% | 98% |  |
+| 7 | 28% | 86% |  |
+| 8 | 26% | 57% | Median |
+| 9 | 11% | 31% |  |
 | 10 | 5% | 20% |  |
 | 11 | 7% | 15% |  |
-| 12 | 6% | 8% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.4% | 0.4% |  |
-| 15 | 0% | 0% |  |
+| 12 | 6% | 9% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.5% | 0.5% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 

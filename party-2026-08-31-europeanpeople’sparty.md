@@ -27,14 +27,14 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Starostové a nezávislí | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 3–4 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
@@ -44,7 +44,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
-| 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -55,6 +54,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | Demokrati | SI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -72,8 +74,6 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
-| Да, България! | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Демократична България | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -87,17 +87,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 158 | 0.1% | 99.9% |  |
 | 159 | 0.2% | 99.8% |  |
 | 160 | 0.4% | 99.6% |  |
-| 161 | 0.7% | 99.2% |  |
-| 162 | 1.2% | 98.5% |  |
+| 161 | 0.7% | 99.3% |  |
+| 162 | 1.1% | 98.6% |  |
 | 163 | 2% | 97% |  |
-| 164 | 3% | 95% |  |
+| 164 | 3% | 96% |  |
 | 165 | 4% | 93% |  |
 | 166 | 5% | 89% |  |
-| 167 | 7% | 83% |  |
+| 167 | 7% | 84% |  |
 | 168 | 8% | 77% |  |
 | 169 | 9% | 69% |  |
 | 170 | 10% | 60% |  |
-| 171 | 10% | 50% | Median |
+| 171 | 10% | 51% | Median |
 | 172 | 9% | 41% |  |
 | 173 | 8% | 32% |  |
 | 174 | 7% | 24% |  |
