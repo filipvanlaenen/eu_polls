@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 166–176 | 164–178 | 163–179 | 160–181 |
+| European People’s Party | EU | 188 | 171 | 165–176 | 164–178 | 163–179 | 160–181 |
 | Partido Popular | ES | | 23 | 20–25 | 19–25 | 18–26 | 17–27 |
-| Platforma Obywatelska | PL | | 19 | 17–21 | 17–21 | 17–21 | 16–23 |
+| Platforma Obywatelska | PL | | 18 | 17–21 | 17–22 | 16–22 | 15–23 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 15–16 | 14–16 | 14–17 | 14–17 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–10 | 4–10 |
@@ -69,7 +69,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -83,28 +83,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0.1% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
+| 157 | 0% | 100% |  |
+| 158 | 0.1% | 99.9% |  |
+| 159 | 0.2% | 99.9% |  |
 | 160 | 0.3% | 99.7% |  |
-| 161 | 0.5% | 99.5% |  |
-| 162 | 0.9% | 98.9% |  |
+| 161 | 0.6% | 99.4% |  |
+| 162 | 1.0% | 98.8% |  |
 | 163 | 2% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 3% | 94% |  |
-| 166 | 5% | 91% |  |
-| 167 | 6% | 86% |  |
-| 168 | 8% | 80% |  |
-| 169 | 9% | 72% |  |
-| 170 | 10% | 63% |  |
-| 171 | 10% | 54% | Median |
-| 172 | 9% | 44% |  |
-| 173 | 9% | 35% |  |
-| 174 | 7% | 26% |  |
-| 175 | 6% | 19% |  |
+| 164 | 3% | 96% |  |
+| 165 | 4% | 94% |  |
+| 166 | 5% | 90% |  |
+| 167 | 6% | 85% |  |
+| 168 | 8% | 79% |  |
+| 169 | 9% | 71% |  |
+| 170 | 9% | 62% |  |
+| 171 | 10% | 53% | Median |
+| 172 | 9% | 43% |  |
+| 173 | 8% | 34% |  |
+| 174 | 7% | 25% |  |
+| 175 | 6% | 18% |  |
 | 176 | 4% | 13% |  |
 | 177 | 3% | 8% |  |
 | 178 | 2% | 5% |  |
-| 179 | 1.4% | 3% |  |
+| 179 | 1.3% | 3% |  |
 | 180 | 0.8% | 2% |  |
 | 181 | 0.5% | 0.9% |  |
 | 182 | 0.2% | 0.5% |  |

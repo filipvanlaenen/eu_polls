@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **18 countries**:
+Members registered from **17 countries**:
 
-> BE, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, NL, PL, SI, SK
+> BE, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LT, LU, LV, NL, SI, SK
 
 ## Seats
 
@@ -10,16 +10,15 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 Current median: **9** seats (+8 seats)
 
-At least one member in **4 countries** have a median of 1 seat or more:
+At least one member in **3 countries** have a median of 1 seat or more:
 
-> GR, IE, LV, PL
+> GR, IE, LV
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 9 | 8–13 | 8–13 | 7–14 | 7–15 |
-| Partia Mateusza Morawieckiego [PL] (*) | PL | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| Parties currently not represented in the EP | EU | 1 | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 2 | 2 | 2 | 2 | 2 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -74,16 +73,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.2% | 100% |  |
-| 7 | 4% | 99.8% |  |
-| 8 | 21% | 96% |  |
-| 9 | 36% | 75% | Median |
-| 10 | 17% | 39% |  |
-| 11 | 4% | 22% |  |
-| 12 | 6% | 18% |  |
-| 13 | 8% | 12% |  |
-| 14 | 4% | 5% |  |
-| 15 | 0.8% | 0.9% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 7 | 5% | 99.8% |  |
+| 8 | 26% | 95% |  |
+| 9 | 45% | 68% | Median |
+| 10 | 20% | 24% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 

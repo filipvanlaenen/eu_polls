@@ -58,7 +58,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0–3 |
+| Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -83,19 +83,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 6% | 91% |  |
 | 63 | 8% | 85% |  |
 | 64 | 10% | 77% |  |
-| 65 | 11% | 68% |  |
+| 65 | 11% | 67% |  |
 | 66 | 11% | 57% | Median |
-| 67 | 10% | 47% |  |
+| 67 | 10% | 46% |  |
 | 68 | 9% | 36% |  |
 | 69 | 8% | 27% |  |
-| 70 | 6% | 20% |  |
+| 70 | 6% | 19% |  |
 | 71 | 5% | 13% |  |
-| 72 | 3% | 9% |  |
+| 72 | 3% | 8% |  |
 | 73 | 2% | 5% |  |
-| 74 | 1.4% | 3% |  |
+| 74 | 1.3% | 3% |  |
 | 75 | 0.8% | 2% |  |
-| 76 | 0.5% | 0.9% |  |
-| 77 | 0.2% | 0.5% | Last Result |
+| 76 | 0.4% | 0.9% |  |
+| 77 | 0.2% | 0.4% | Last Result |
 | 78 | 0.1% | 0.2% |  |
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |
