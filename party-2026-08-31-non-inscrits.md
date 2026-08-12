@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **28** seats (-4 seats)
+Current median: **27** seats (-5 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 28 | 25–30 | 24–31 | 23–32 | 22–33 |
+| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–31 | 23–32 | 22–33 |
 | Прогресивна България | BG | | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–7 | 3–7 | 3–8 | 3–8 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Darbo Partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -56,15 +56,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 2% | 99.3% |  |
 | 24 | 5% | 97% |  |
 | 25 | 10% | 92% |  |
-| 26 | 14% | 83% |  |
-| 27 | 17% | 69% |  |
-| 28 | 17% | 51% | Median |
-| 29 | 15% | 34% |  |
-| 30 | 10% | 19% |  |
-| 31 | 6% | 9% |  |
+| 26 | 15% | 81% |  |
+| 27 | 18% | 66% | Median |
+| 28 | 18% | 49% |  |
+| 29 | 14% | 31% |  |
+| 30 | 9% | 17% |  |
+| 31 | 5% | 7% |  |
 | 32 | 2% | 3% | Last Result |
-| 33 | 0.8% | 1.1% |  |
-| 34 | 0.2% | 0.3% |  |
+| 33 | 0.6% | 0.7% |  |
+| 34 | 0.1% | 0.2% |  |
 | 35 | 0% | 0% |  |
 
 

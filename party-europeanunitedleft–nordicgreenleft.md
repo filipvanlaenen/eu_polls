@@ -20,7 +20,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 64 | 59–68 | 58–70 | 57–71 | 55–73 |
 | La France insoumise | FR | | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
-| Die Linke | DE | | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
+| Die Linke | DE | | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Social Democrats | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -28,11 +28,11 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
+| Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
-| Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
+| Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–3 | 0–3 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
@@ -71,27 +71,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 0% | 100% |  |
 | 54 | 0.1% | 99.9% |  |
 | 55 | 0.4% | 99.8% |  |
-| 56 | 0.8% | 99.4% |  |
+| 56 | 0.9% | 99.4% |  |
 | 57 | 2% | 98.6% |  |
 | 58 | 3% | 97% |  |
 | 59 | 5% | 94% |  |
 | 60 | 7% | 89% |  |
-| 61 | 9% | 83% |  |
-| 62 | 10% | 74% |  |
-| 63 | 11% | 64% |  |
+| 61 | 9% | 82% |  |
+| 62 | 10% | 73% |  |
+| 63 | 11% | 63% |  |
 | 64 | 11% | 52% | Median |
-| 65 | 10% | 41% |  |
-| 66 | 9% | 31% |  |
-| 67 | 7% | 22% |  |
+| 65 | 10% | 40% |  |
+| 66 | 9% | 30% |  |
+| 67 | 7% | 21% |  |
 | 68 | 5% | 14% |  |
 | 69 | 4% | 9% |  |
 | 70 | 2% | 5% |  |
 | 71 | 1.4% | 3% |  |
-| 72 | 0.8% | 2% |  |
+| 72 | 0.8% | 1.5% |  |
 | 73 | 0.4% | 0.7% |  |
 | 74 | 0.2% | 0.3% |  |
 | 75 | 0.1% | 0.1% |  |
-| 76 | 0% | 0.1% |  |
-| 77 | 0% | 0% |  |
+| 76 | 0% | 0% |  |
 
 
