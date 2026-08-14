@@ -35,8 +35,8 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Продължаваме промяната | BG | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -74,14 +74,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0% | 100% |  |
-| 56 | 0.1% | 99.9% |  |
+| 56 | 0.1% | 100% |  |
 | 57 | 0.3% | 99.8% |  |
 | 58 | 0.8% | 99.5% |  |
 | 59 | 2% | 98.7% |  |
 | 60 | 3% | 97% |  |
 | 61 | 5% | 94% |  |
-| 62 | 6% | 90% |  |
+| 62 | 7% | 90% |  |
 | 63 | 8% | 83% |  |
 | 64 | 10% | 75% |  |
 | 65 | 11% | 65% |  |

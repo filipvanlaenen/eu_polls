@@ -24,7 +24,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Nowa Nadzieja | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | Forum voor Democratie | NL | | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | REPUBLIKA | SK | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -53,20 +53,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0% | 100% |  |
 | 38 | 0.1% | 100% |  |
 | 39 | 0.3% | 99.9% |  |
-| 40 | 1.1% | 99.5% |  |
-| 41 | 3% | 98% |  |
-| 42 | 7% | 95% |  |
+| 40 | 1.0% | 99.6% |  |
+| 41 | 3% | 98.6% |  |
+| 42 | 6% | 96% |  |
 | 43 | 11% | 89% |  |
-| 44 | 15% | 77% |  |
-| 45 | 17% | 62% | Median |
-| 46 | 16% | 45% |  |
-| 47 | 13% | 29% |  |
-| 48 | 8% | 16% |  |
-| 49 | 4% | 8% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.8% | 1.4% |  |
-| 52 | 0.3% | 0.6% |  |
-| 53 | 0.1% | 0.2% |  |
+| 44 | 15% | 79% |  |
+| 45 | 17% | 64% | Median |
+| 46 | 16% | 47% |  |
+| 47 | 13% | 31% |  |
+| 48 | 9% | 18% |  |
+| 49 | 5% | 9% |  |
+| 50 | 2% | 4% |  |
+| 51 | 0.9% | 2% |  |
+| 52 | 0.4% | 0.6% |  |
+| 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 

@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 92–99 | 90–100 | 90–101 | 87–103 |
+| Patriots for Europe | EU | 84 | 95 | 92–99 | 90–100 | 89–101 | 87–103 |
 | Rassemblement national | FR | | 32 | 30–35 | 30–35 | 29–35 | 28–37 |
 | Vox | ES | | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
-| ANO 2011 | CZ | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Chega | PT | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -35,7 +35,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Nemuno aušra | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -54,21 +54,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 0.1% | 99.9% |  |
 | 87 | 0.3% | 99.8% |  |
 | 88 | 0.7% | 99.5% |  |
-| 89 | 1.3% | 98.8% |  |
-| 90 | 3% | 98% |  |
-| 91 | 4% | 95% |  |
+| 89 | 1.4% | 98.8% |  |
+| 90 | 3% | 97% |  |
+| 91 | 5% | 95% |  |
 | 92 | 7% | 90% |  |
 | 93 | 10% | 83% |  |
-| 94 | 12% | 74% |  |
-| 95 | 14% | 61% | Median |
-| 96 | 13% | 48% |  |
-| 97 | 11% | 34% |  |
-| 98 | 9% | 23% |  |
-| 99 | 6% | 14% |  |
-| 100 | 4% | 8% |  |
+| 94 | 13% | 72% |  |
+| 95 | 14% | 60% | Median |
+| 96 | 13% | 46% |  |
+| 97 | 11% | 32% |  |
+| 98 | 8% | 21% |  |
+| 99 | 6% | 13% |  |
+| 100 | 3% | 7% |  |
 | 101 | 2% | 4% |  |
-| 102 | 1.1% | 2% |  |
-| 103 | 0.5% | 0.9% |  |
+| 102 | 0.9% | 2% |  |
+| 103 | 0.4% | 0.7% |  |
 | 104 | 0.2% | 0.3% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
