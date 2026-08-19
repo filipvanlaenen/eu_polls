@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **171** seats (-17 seats)
+Current median: **172** seats (-16 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 166–176 | 164–178 | 163–179 | 160–182 |
-| Partido Popular | ES | | 23 | 20–25 | 19–25 | 18–26 | 17–27 |
+| European People’s Party | EU | 188 | 172 | 166–177 | 165–178 | 164–179 | 161–182 |
+| Partido Popular | ES | | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
 | Platforma Obywatelska | PL | | 19 | 18–21 | 17–21 | 16–22 | 15–23 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 15–16 | 14–16 | 14–17 | 14–17 |
@@ -43,17 +43,17 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Latvijas Reģionu Apvienība | LV | | 2 | 2 | 2 | 2 | 2 |
+| Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nova Slovenija–Krščanski demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovensko | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -83,35 +83,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.3% | 99.7% |  |
-| 161 | 0.5% | 99.4% |  |
-| 162 | 1.0% | 98.9% |  |
-| 163 | 2% | 98% |  |
-| 164 | 2% | 96% |  |
-| 165 | 4% | 94% |  |
-| 166 | 5% | 90% |  |
-| 167 | 6% | 86% |  |
-| 168 | 8% | 79% |  |
-| 169 | 9% | 72% |  |
-| 170 | 9% | 63% |  |
-| 171 | 10% | 53% | Median |
-| 172 | 9% | 44% |  |
-| 173 | 8% | 34% |  |
-| 174 | 7% | 26% |  |
-| 175 | 6% | 19% |  |
-| 176 | 4% | 13% |  |
-| 177 | 3% | 9% |  |
-| 178 | 2% | 5% |  |
-| 179 | 1.4% | 3% |  |
-| 180 | 0.8% | 2% |  |
-| 181 | 0.5% | 1.0% |  |
-| 182 | 0.3% | 0.5% |  |
-| 183 | 0.1% | 0.2% |  |
-| 184 | 0.1% | 0.1% |  |
-| 185 | 0% | 0% |  |
+| 159 | 0.1% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.3% | 99.8% |  |
+| 162 | 0.5% | 99.5% |  |
+| 163 | 1.0% | 98.9% |  |
+| 164 | 2% | 98% |  |
+| 165 | 3% | 96% |  |
+| 166 | 4% | 94% |  |
+| 167 | 5% | 90% |  |
+| 168 | 7% | 85% |  |
+| 169 | 8% | 78% |  |
+| 170 | 9% | 69% |  |
+| 171 | 10% | 60% |  |
+| 172 | 10% | 50% | Median |
+| 173 | 9% | 40% |  |
+| 174 | 8% | 31% |  |
+| 175 | 7% | 23% |  |
+| 176 | 5% | 16% |  |
+| 177 | 4% | 11% |  |
+| 178 | 3% | 7% |  |
+| 179 | 2% | 4% |  |
+| 180 | 1.1% | 2% |  |
+| 181 | 0.6% | 1.3% |  |
+| 182 | 0.3% | 0.7% |  |
+| 183 | 0.2% | 0.3% |  |
+| 184 | 0.1% | 0.2% |  |
+| 185 | 0% | 0.1% |  |
 | 186 | 0% | 0% |  |
 | 187 | 0% | 0% |  |
 | 188 | 0% | 0% | Last Result |
