@@ -32,7 +32,6 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| Venstre | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Продължаваме промяната | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -44,6 +43,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Venstre | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
@@ -76,27 +76,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.1% | 100% |  |
-| 57 | 0.2% | 99.9% |  |
-| 58 | 0.6% | 99.7% |  |
-| 59 | 1.3% | 99.1% |  |
+| 57 | 0.3% | 99.9% |  |
+| 58 | 0.6% | 99.6% |  |
+| 59 | 1.3% | 99.0% |  |
 | 60 | 2% | 98% |  |
 | 61 | 4% | 95% |  |
 | 62 | 6% | 91% |  |
-| 63 | 8% | 86% |  |
-| 64 | 9% | 78% |  |
-| 65 | 10% | 68% |  |
-| 66 | 11% | 58% | Median |
-| 67 | 10% | 47% |  |
-| 68 | 9% | 37% |  |
-| 69 | 8% | 28% |  |
-| 70 | 6% | 20% |  |
-| 71 | 5% | 14% |  |
+| 63 | 8% | 85% |  |
+| 64 | 10% | 77% |  |
+| 65 | 11% | 67% |  |
+| 66 | 11% | 57% | Median |
+| 67 | 10% | 46% |  |
+| 68 | 9% | 36% |  |
+| 69 | 8% | 27% |  |
+| 70 | 6% | 19% |  |
+| 71 | 5% | 13% |  |
 | 72 | 3% | 9% |  |
-| 73 | 2% | 6% |  |
+| 73 | 2% | 5% |  |
 | 74 | 1.4% | 3% |  |
 | 75 | 0.8% | 2% |  |
-| 76 | 0.5% | 0.9% |  |
-| 77 | 0.2% | 0.5% | Last Result |
+| 76 | 0.4% | 0.9% |  |
+| 77 | 0.2% | 0.4% | Last Result |
 | 78 | 0.1% | 0.2% |  |
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |

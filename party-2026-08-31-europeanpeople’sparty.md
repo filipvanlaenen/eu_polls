@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **172** seats (-16 seats)
+Current median: **171** seats (-17 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 172 | 166–177 | 165–178 | 164–179 | 161–182 |
+| European People’s Party | EU | 188 | 171 | 166–177 | 165–178 | 164–179 | 161–182 |
 | Partido Popular | ES | | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
 | Platforma Obywatelska | PL | | 19 | 18–21 | 17–21 | 16–22 | 15–23 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
@@ -48,7 +48,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Demokrati | SK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -86,22 +86,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 159 | 0.1% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
 | 161 | 0.3% | 99.8% |  |
-| 162 | 0.5% | 99.5% |  |
+| 162 | 0.6% | 99.5% |  |
 | 163 | 1.0% | 98.9% |  |
 | 164 | 2% | 98% |  |
 | 165 | 3% | 96% |  |
 | 166 | 4% | 94% |  |
 | 167 | 5% | 90% |  |
-| 168 | 7% | 85% |  |
-| 169 | 8% | 78% |  |
+| 168 | 7% | 84% |  |
+| 169 | 8% | 77% |  |
 | 170 | 9% | 69% |  |
-| 171 | 10% | 60% |  |
-| 172 | 10% | 50% | Median |
+| 171 | 10% | 60% | Median |
+| 172 | 10% | 50% |  |
 | 173 | 9% | 40% |  |
-| 174 | 8% | 31% |  |
-| 175 | 7% | 23% |  |
+| 174 | 8% | 30% |  |
+| 175 | 7% | 22% |  |
 | 176 | 5% | 16% |  |
-| 177 | 4% | 11% |  |
+| 177 | 4% | 10% |  |
 | 178 | 3% | 7% |  |
 | 179 | 2% | 4% |  |
 | 180 | 1.1% | 2% |  |
