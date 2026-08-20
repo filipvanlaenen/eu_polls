@@ -24,7 +24,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -77,9 +77,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 1.4% | 100% |  |
 | 8 | 22% | 98.6% |  |
 | 9 | 50% | 77% | Median |
-| 10 | 24% | 27% |  |
-| 11 | 3% | 4% |  |
-| 12 | 0.2% | 0.2% |  |
+| 10 | 23% | 26% |  |
+| 11 | 3% | 3% |  |
+| 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
