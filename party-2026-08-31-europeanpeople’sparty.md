@@ -38,7 +38,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| Граждани за европейско развитие на България | BG | | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| Граждани за европейско развитие на България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2–3 | 2–3 | 2–3 |

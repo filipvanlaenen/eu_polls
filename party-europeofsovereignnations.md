@@ -8,7 +8,7 @@ Members registered from **10 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **45** seats (+20 seats)
+Current median: **46** seats (+21 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 45 | 43–49 | 42–49 | 41–50 | 40–52 |
+| Europe of Sovereign Nations | EU | 25 | 46 | 43–49 | 42–49 | 41–50 | 40–52 |
 | Alternative für Deutschland | DE | | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
 | Futuro Nazionale | IT | | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | Nowa Nadzieja | PL | | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
@@ -28,7 +28,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Mi Hazánk Mozgalom | HU | | 1 | 1 | 1 | 0–2 | 0–2 |
 | Reconquête | FR | | 0 | 0 | 0 | 0 | 0–5 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
-| Възраждане | BG | | 0 | 0 | 0 | 0 | 0–1 |
+| Възраждане | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -52,20 +52,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
 | 38 | 0.1% | 100% |  |
-| 39 | 0.3% | 99.9% |  |
-| 40 | 0.9% | 99.6% |  |
-| 41 | 3% | 98.7% |  |
+| 39 | 0.2% | 99.9% |  |
+| 40 | 0.9% | 99.7% |  |
+| 41 | 3% | 98.8% |  |
 | 42 | 6% | 96% |  |
-| 43 | 10% | 90% |  |
-| 44 | 14% | 80% |  |
-| 45 | 17% | 66% | Median |
-| 46 | 16% | 49% |  |
-| 47 | 14% | 33% |  |
-| 48 | 9% | 19% |  |
-| 49 | 5% | 10% |  |
+| 43 | 10% | 91% |  |
+| 44 | 14% | 81% |  |
+| 45 | 17% | 67% |  |
+| 46 | 16% | 50% | Median |
+| 47 | 14% | 34% |  |
+| 48 | 10% | 20% |  |
+| 49 | 6% | 11% |  |
 | 50 | 3% | 5% |  |
-| 51 | 1.1% | 2% |  |
-| 52 | 0.4% | 0.8% |  |
+| 51 | 1.2% | 2% |  |
+| 52 | 0.5% | 0.8% |  |
 | 53 | 0.2% | 0.3% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
