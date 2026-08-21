@@ -18,8 +18,8 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 36–43 | 35–44 | 35–45 | 33–47 |
-| Bündnis 90/Die Grünen | DE | | 14 | 12–15 | 11–15 | 11–16 | 11–16 |
+| Greens–European Free Alliance | EU | 53 | 39 | 36–43 | 36–44 | 35–45 | 34–47 |
+| Bündnis 90/Die Grünen | DE | | 14 | 12–15 | 12–15 | 11–16 | 11–16 |
 | Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
@@ -27,7 +27,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | PROGRESĪVIE | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 1–2 | 1–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,21 +65,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0.2% | 100% |  |
-| 33 | 0.6% | 99.8% |  |
-| 34 | 2% | 99.2% |  |
-| 35 | 4% | 98% |  |
-| 36 | 7% | 94% |  |
-| 37 | 11% | 87% |  |
-| 38 | 14% | 76% |  |
-| 39 | 16% | 62% | Median |
-| 40 | 15% | 47% |  |
-| 41 | 12% | 31% |  |
-| 42 | 8% | 19% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.4% | 99.9% |  |
+| 34 | 1.2% | 99.5% |  |
+| 35 | 3% | 98% |  |
+| 36 | 6% | 95% |  |
+| 37 | 10% | 89% |  |
+| 38 | 14% | 79% |  |
+| 39 | 16% | 65% | Median |
+| 40 | 16% | 49% |  |
+| 41 | 13% | 33% |  |
+| 42 | 9% | 20% |  |
 | 43 | 5% | 11% |  |
 | 44 | 3% | 6% |  |
-| 45 | 1.5% | 3% |  |
-| 46 | 0.8% | 1.4% |  |
+| 45 | 2% | 3% |  |
+| 46 | 0.8% | 2% |  |
 | 47 | 0.4% | 0.7% |  |
 | 48 | 0.2% | 0.3% |  |
 | 49 | 0.1% | 0.1% |  |
