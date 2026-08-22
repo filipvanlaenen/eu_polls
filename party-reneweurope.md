@@ -18,10 +18,10 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 66 | 62–71 | 61–73 | 60–74 | 58–76 |
+| Renew Europe | EU | 77 | 66 | 62–71 | 61–73 | 60–74 | 58–77 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
 | Democraten 66 | NL | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–6 | 3–6 | 3–7 | 3–7 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -29,7 +29,6 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Fianna Fáil | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -37,6 +36,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -77,26 +77,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 56 | 0.1% | 100% |  |
 | 57 | 0.2% | 99.9% |  |
-| 58 | 0.6% | 99.7% |  |
-| 59 | 1.3% | 99.1% |  |
+| 58 | 0.5% | 99.7% |  |
+| 59 | 1.2% | 99.2% |  |
 | 60 | 2% | 98% |  |
-| 61 | 4% | 95% |  |
-| 62 | 6% | 91% |  |
-| 63 | 8% | 85% |  |
-| 64 | 10% | 78% |  |
-| 65 | 11% | 68% |  |
-| 66 | 11% | 57% | Median |
-| 67 | 10% | 47% |  |
-| 68 | 9% | 36% |  |
-| 69 | 8% | 27% |  |
-| 70 | 6% | 19% |  |
-| 71 | 5% | 13% |  |
-| 72 | 3% | 9% |  |
-| 73 | 2% | 5% |  |
-| 74 | 1.4% | 3% |  |
-| 75 | 0.8% | 2% |  |
-| 76 | 0.4% | 0.9% |  |
-| 77 | 0.2% | 0.4% | Last Result |
+| 61 | 4% | 96% |  |
+| 62 | 6% | 92% |  |
+| 63 | 8% | 86% |  |
+| 64 | 9% | 79% |  |
+| 65 | 10% | 69% |  |
+| 66 | 11% | 59% | Median |
+| 67 | 10% | 48% |  |
+| 68 | 9% | 38% |  |
+| 69 | 8% | 29% |  |
+| 70 | 6% | 21% |  |
+| 71 | 5% | 14% |  |
+| 72 | 4% | 9% |  |
+| 73 | 2% | 6% |  |
+| 74 | 2% | 3% |  |
+| 75 | 0.9% | 2% |  |
+| 76 | 0.5% | 1.0% |  |
+| 77 | 0.3% | 0.5% | Last Result |
 | 78 | 0.1% | 0.2% |  |
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |

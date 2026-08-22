@@ -21,7 +21,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | European People’s Party | EU | 188 | 171 | 166–176 | 164–177 | 163–178 | 161–181 |
 | Partido Popular | ES | | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
 | Platforma Obywatelska | PL | | 19 | 18–21 | 17–21 | 16–22 | 15–23 |
-| Christlich Demokratische Union Deutschlands | DE | | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–10 | 4–10 |
 | Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -29,7 +29,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Starostové a nezávislí | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -93,20 +93,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 165 | 3% | 95% |  |
 | 166 | 5% | 91% |  |
 | 167 | 6% | 87% |  |
-| 168 | 8% | 80% |  |
-| 169 | 9% | 72% |  |
-| 170 | 10% | 63% |  |
-| 171 | 10% | 53% | Median |
+| 168 | 8% | 81% |  |
+| 169 | 9% | 73% |  |
+| 170 | 10% | 64% |  |
+| 171 | 10% | 54% | Median |
 | 172 | 10% | 43% |  |
-| 173 | 9% | 33% |  |
-| 174 | 7% | 24% |  |
+| 173 | 9% | 34% |  |
+| 174 | 7% | 25% |  |
 | 175 | 6% | 17% |  |
-| 176 | 4% | 11% |  |
+| 176 | 4% | 12% |  |
 | 177 | 3% | 7% |  |
 | 178 | 2% | 4% |  |
-| 179 | 1.1% | 2% |  |
-| 180 | 0.6% | 1.2% |  |
-| 181 | 0.3% | 0.6% |  |
+| 179 | 1.2% | 2% |  |
+| 180 | 0.7% | 1.3% |  |
+| 181 | 0.4% | 0.7% |  |
 | 182 | 0.2% | 0.3% |  |
 | 183 | 0.1% | 0.1% |  |
 | 184 | 0% | 0.1% |  |
