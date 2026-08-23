@@ -18,7 +18,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
+| Parties currently not represented in the EP | EU | 1 | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 2 | 2 | 2 | 2 | 2 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -43,7 +43,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0 | 0 | 0 | 0 |
+| Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -74,12 +74,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.4% | 100% |  |
-| 8 | 22% | 98.6% |  |
-| 9 | 50% | 76% | Median |
-| 10 | 23% | 26% |  |
-| 11 | 3% | 3% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 7 | 0.8% | 100% |  |
+| 8 | 14% | 99.2% |  |
+| 9 | 39% | 86% | Median |
+| 10 | 35% | 47% |  |
+| 11 | 11% | 12% |  |
+| 12 | 1.3% | 1.3% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
