@@ -31,7 +31,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
-| Glas upokojencev [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Gobzema saraksts [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +40,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | La France humaniste [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
-| Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Nacionalinis Susivienijimas [LT] (*) | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |

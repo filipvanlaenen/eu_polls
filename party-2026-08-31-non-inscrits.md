@@ -8,17 +8,17 @@ Members registered from **15 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **27** seats (-5 seats)
+Current median: **28** seats (-4 seats)
 
-At least one member in **7 countries** have a median of 1 seat or more:
+At least one member in **8 countries** have a median of 1 seat or more:
 
-> BG, DE, ES, GR, LT, PL, SK
+> BG, DE, ES, GR, LT, PL, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
+| Non-Inscrits | EU | 32 | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | Прогресивна България | BG | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 1–6 |
@@ -28,6 +28,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Slovenska demokratska stranka | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -37,7 +38,6 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Slovenska demokratska stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Άμεσης Δημοκρατίας | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -51,19 +51,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.3% | 99.9% |  |
-| 23 | 1.4% | 99.6% |  |
-| 24 | 4% | 98% |  |
-| 25 | 10% | 94% |  |
-| 26 | 16% | 85% |  |
-| 27 | 20% | 68% | Median |
-| 28 | 20% | 48% |  |
-| 29 | 15% | 28% |  |
-| 30 | 8% | 14% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.0% | 99.7% |  |
+| 24 | 3% | 98.7% |  |
+| 25 | 8% | 95% |  |
+| 26 | 15% | 87% |  |
+| 27 | 21% | 71% |  |
+| 28 | 21% | 51% | Median |
+| 29 | 16% | 30% |  |
+| 30 | 9% | 14% |  |
 | 31 | 4% | 5% |  |
 | 32 | 1.3% | 2% | Last Result |
-| 33 | 0.4% | 0.5% |  |
+| 33 | 0.3% | 0.4% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
 

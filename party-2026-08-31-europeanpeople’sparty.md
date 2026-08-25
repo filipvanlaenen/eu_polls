@@ -24,20 +24,20 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–10 | 4–10 |
-| Partidul Național Liberal | RO | | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Moderata samlingspartiet | SE | | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | Starostové a nezávislí | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | Граждани за европейско развитие на България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,7 +59,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0 | 0 | 0 | 0–1 |
-| Demokrati | SI | | 0 | 0 | 0 | 0 | 0–1 |
+| Demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -85,29 +85,29 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 159 | 0.1% | 100% |  |
 | 160 | 0.1% | 99.9% |  |
-| 161 | 0.3% | 99.7% |  |
-| 162 | 0.5% | 99.4% |  |
-| 163 | 1.0% | 98.9% |  |
+| 161 | 0.3% | 99.8% |  |
+| 162 | 0.5% | 99.5% |  |
+| 163 | 0.9% | 99.0% |  |
 | 164 | 2% | 98% |  |
-| 165 | 3% | 96% |  |
+| 165 | 2% | 97% |  |
 | 166 | 4% | 94% |  |
 | 167 | 5% | 90% |  |
 | 168 | 7% | 85% |  |
-| 169 | 8% | 78% |  |
-| 170 | 9% | 70% |  |
+| 169 | 8% | 79% |  |
+| 170 | 9% | 71% |  |
 | 171 | 10% | 61% |  |
 | 172 | 10% | 51% | Median |
-| 173 | 10% | 40% |  |
-| 174 | 8% | 31% |  |
+| 173 | 10% | 41% |  |
+| 174 | 9% | 32% |  |
 | 175 | 7% | 23% |  |
 | 176 | 5% | 16% |  |
-| 177 | 4% | 10% |  |
-| 178 | 3% | 6% |  |
+| 177 | 4% | 11% |  |
+| 178 | 3% | 7% |  |
 | 179 | 2% | 4% |  |
 | 180 | 1.0% | 2% |  |
-| 181 | 0.5% | 1.1% |  |
-| 182 | 0.3% | 0.5% |  |
-| 183 | 0.1% | 0.2% |  |
+| 181 | 0.6% | 1.1% |  |
+| 182 | 0.3% | 0.6% |  |
+| 183 | 0.1% | 0.3% |  |
 | 184 | 0.1% | 0.1% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |
