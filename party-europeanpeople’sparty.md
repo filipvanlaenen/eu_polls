@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **171** seats (-17 seats)
+Current median: **172** seats (-16 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 166–176 | 164–177 | 163–178 | 161–181 |
+| European People’s Party | EU | 188 | 172 | 167–177 | 165–178 | 164–179 | 161–182 |
 | Partido Popular | ES | | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
-| Platforma Obywatelska | PL | | 19 | 18–21 | 17–21 | 16–22 | 15–23 |
+| Platforma Obywatelska | PL | | 19 | 18–21 | 17–22 | 17–22 | 16–24 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Les Républicains | FR | | 8 | 6–9 | 5–9 | 5–10 | 4–10 |
@@ -69,7 +69,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Magyar Szövetség | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0 | 0–3 | 0–3 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -83,33 +83,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0.1% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.5% | 99.5% |  |
-| 162 | 0.9% | 99.1% |  |
-| 163 | 1.5% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 4% | 94% |  |
-| 166 | 5% | 91% |  |
-| 167 | 7% | 86% |  |
-| 168 | 8% | 79% |  |
-| 169 | 9% | 71% |  |
-| 170 | 10% | 62% |  |
-| 171 | 10% | 52% | Median |
-| 172 | 10% | 42% |  |
-| 173 | 9% | 32% |  |
-| 174 | 7% | 23% |  |
-| 175 | 6% | 16% |  |
-| 176 | 4% | 11% |  |
-| 177 | 3% | 7% |  |
-| 178 | 2% | 4% |  |
-| 179 | 1.0% | 2% |  |
-| 180 | 0.6% | 1.2% |  |
-| 181 | 0.3% | 0.6% |  |
-| 182 | 0.2% | 0.3% |  |
-| 183 | 0.1% | 0.1% |  |
-| 184 | 0% | 0.1% |  |
+| 159 | 0.1% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.3% | 99.7% |  |
+| 162 | 0.5% | 99.4% |  |
+| 163 | 1.0% | 98.9% |  |
+| 164 | 2% | 98% |  |
+| 165 | 3% | 96% |  |
+| 166 | 4% | 94% |  |
+| 167 | 5% | 90% |  |
+| 168 | 7% | 85% |  |
+| 169 | 8% | 78% |  |
+| 170 | 9% | 70% |  |
+| 171 | 10% | 61% |  |
+| 172 | 10% | 51% | Median |
+| 173 | 10% | 40% |  |
+| 174 | 8% | 31% |  |
+| 175 | 7% | 23% |  |
+| 176 | 5% | 16% |  |
+| 177 | 4% | 10% |  |
+| 178 | 3% | 6% |  |
+| 179 | 2% | 4% |  |
+| 180 | 1.0% | 2% |  |
+| 181 | 0.5% | 1.1% |  |
+| 182 | 0.3% | 0.5% |  |
+| 183 | 0.1% | 0.2% |  |
+| 184 | 0.1% | 0.1% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |
 | 187 | 0% | 0% |  |

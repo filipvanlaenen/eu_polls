@@ -43,7 +43,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Lewica Razem | PL | | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -75,20 +75,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 2% | 98.7% |  |
 | 57 | 3% | 97% |  |
 | 58 | 5% | 94% |  |
-| 59 | 7% | 90% |  |
+| 59 | 7% | 89% |  |
 | 60 | 9% | 83% |  |
-| 61 | 10% | 74% |  |
-| 62 | 11% | 64% |  |
-| 63 | 11% | 52% | Median |
-| 64 | 11% | 41% |  |
+| 61 | 11% | 74% |  |
+| 62 | 11% | 63% |  |
+| 63 | 12% | 52% | Median |
+| 64 | 11% | 40% |  |
 | 65 | 9% | 30% |  |
 | 66 | 7% | 21% |  |
-| 67 | 5% | 14% |  |
+| 67 | 5% | 13% |  |
 | 68 | 4% | 8% |  |
 | 69 | 2% | 5% |  |
 | 70 | 1.3% | 3% |  |
 | 71 | 0.7% | 1.3% |  |
-| 72 | 0.4% | 0.6% |  |
+| 72 | 0.3% | 0.6% |  |
 | 73 | 0.2% | 0.3% |  |
 | 74 | 0.1% | 0.1% |  |
 | 75 | 0% | 0% |  |

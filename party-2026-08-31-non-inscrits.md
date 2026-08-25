@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **28** seats (-4 seats)
+Current median: **27** seats (-5 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 28 | 25–31 | 25–32 | 24–32 | 23–34 |
+| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
 | Прогресивна България | BG | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| Konfederacja Korony Polskiej | PL | | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -51,20 +51,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 0.8% | 99.8% |  |
-| 24 | 3% | 99.0% |  |
-| 25 | 7% | 96% |  |
-| 26 | 12% | 89% |  |
-| 27 | 17% | 77% |  |
-| 28 | 19% | 60% | Median |
-| 29 | 16% | 41% |  |
-| 30 | 12% | 24% |  |
-| 31 | 7% | 13% |  |
-| 32 | 3% | 5% | Last Result |
-| 33 | 1.4% | 2% |  |
-| 34 | 0.5% | 0.6% |  |
-| 35 | 0.1% | 0.1% |  |
-| 36 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.3% | 99.9% |  |
+| 23 | 1.4% | 99.6% |  |
+| 24 | 4% | 98% |  |
+| 25 | 10% | 94% |  |
+| 26 | 16% | 85% |  |
+| 27 | 20% | 68% | Median |
+| 28 | 20% | 48% |  |
+| 29 | 15% | 28% |  |
+| 30 | 8% | 14% |  |
+| 31 | 4% | 5% |  |
+| 32 | 1.3% | 2% | Last Result |
+| 33 | 0.4% | 0.5% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 

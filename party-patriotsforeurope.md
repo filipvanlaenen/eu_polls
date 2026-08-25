@@ -28,7 +28,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Lega Nord | IT | | 5 | 4–7 | 4–8 | 3–8 | 0–8 |
 | Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Ruch Narodowy | PL | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Ruch Narodowy | PL | | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1–2 |
@@ -52,14 +52,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% | Last Result |
 | 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
-| 87 | 0.2% | 99.8% |  |
+| 87 | 0.3% | 99.8% |  |
 | 88 | 0.6% | 99.6% |  |
-| 89 | 1.2% | 99.0% |  |
+| 89 | 1.3% | 99.0% |  |
 | 90 | 2% | 98% |  |
 | 91 | 4% | 95% |  |
 | 92 | 7% | 91% |  |
 | 93 | 10% | 84% |  |
-| 94 | 12% | 75% |  |
+| 94 | 12% | 74% |  |
 | 95 | 14% | 62% | Median |
 | 96 | 13% | 48% |  |
 | 97 | 12% | 35% |  |
