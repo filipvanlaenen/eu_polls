@@ -25,12 +25,12 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Chega | PT | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
-| Lega Nord | IT | | 5 | 4–8 | 4–8 | 0–8 | 0–8 |
+| Lega Nord | IT | | 5 | 4–8 | 4–8 | 4–8 | 0–8 |
 | Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2 |
-| Nemuno aušra | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,22 +50,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 84 | 0% | 100% | Last Result |
-| 85 | 0.1% | 100% |  |
+| 85 | 0% | 100% |  |
 | 86 | 0.1% | 99.9% |  |
-| 87 | 0.3% | 99.8% |  |
-| 88 | 0.5% | 99.5% |  |
-| 89 | 1.0% | 99.0% |  |
+| 87 | 0.2% | 99.9% |  |
+| 88 | 0.4% | 99.7% |  |
+| 89 | 0.9% | 99.2% |  |
 | 90 | 2% | 98% |  |
-| 91 | 3% | 96% |  |
+| 91 | 3% | 97% |  |
 | 92 | 5% | 93% |  |
-| 93 | 8% | 87% |  |
-| 94 | 10% | 80% |  |
-| 95 | 12% | 69% |  |
+| 93 | 8% | 88% |  |
+| 94 | 11% | 80% |  |
+| 95 | 13% | 70% |  |
 | 96 | 13% | 57% | Median |
-| 97 | 12% | 44% |  |
+| 97 | 13% | 44% |  |
 | 98 | 11% | 31% |  |
-| 99 | 8% | 21% |  |
-| 100 | 6% | 13% |  |
+| 99 | 8% | 20% |  |
+| 100 | 5% | 12% |  |
 | 101 | 3% | 7% |  |
 | 102 | 2% | 4% |  |
 | 103 | 1.0% | 2% |  |

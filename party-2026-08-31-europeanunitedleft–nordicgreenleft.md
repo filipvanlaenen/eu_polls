@@ -21,13 +21,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | European United Left–Nordic Green Left | EU | 46 | 63 | 58–67 | 57–68 | 56–70 | 54–72 |
 | La France insoumise | FR | | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
 | Die Linke | DE | | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
-| Movimento 5 Stelle | IT | | 11 | 9–13 | 9–13 | 8–13 | 8–14 |
+| Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Social Democrats | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | Vasemmistoliitto | FI | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
