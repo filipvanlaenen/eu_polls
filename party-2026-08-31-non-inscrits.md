@@ -10,9 +10,9 @@ Last result: **32** seats (General Election of 26 May 2019)
 
 Current median: **27** seats (-5 seats)
 
-At least one member in **8 countries** have a median of 1 seat or more:
+At least one member in **6 countries** have a median of 1 seat or more:
 
-> BG, DE, ES, GR, LT, PL, SI, SK
+> BG, DE, ES, GR, PL, SK
 
 ### Confidence Intervals
 
@@ -20,24 +20,24 @@ At least one member in **8 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Non-Inscrits | EU | 32 | 27 | 25–30 | 24–30 | 24–31 | 23–32 |
 | Прогресивна България | BG | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 1–6 |
+| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Darbo Partija | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| Slovenska demokratska stranka | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
+| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Die PARTEI | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Partidul S.O.S. România | RO | | 0 | 0 | 0 | 0 | 0 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
-| Resni.ca | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenska demokratska stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Άμεσης Δημοκρατίας | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -51,20 +51,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0% | 100% |  |
-| 22 | 0.3% | 99.9% |  |
-| 23 | 1.2% | 99.7% |  |
-| 24 | 4% | 98% |  |
-| 25 | 9% | 95% |  |
-| 26 | 16% | 85% |  |
-| 27 | 21% | 69% | Median |
-| 28 | 20% | 48% |  |
-| 29 | 15% | 28% |  |
-| 30 | 8% | 13% |  |
-| 31 | 3% | 5% |  |
-| 32 | 1.1% | 1.5% | Last Result |
-| 33 | 0.3% | 0.4% |  |
-| 34 | 0.1% | 0.1% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.4% | 99.9% |  |
+| 23 | 2% | 99.6% |  |
+| 24 | 5% | 98% |  |
+| 25 | 11% | 93% |  |
+| 26 | 18% | 82% |  |
+| 27 | 22% | 65% | Median |
+| 28 | 19% | 43% |  |
+| 29 | 13% | 24% |  |
+| 30 | 7% | 11% |  |
+| 31 | 3% | 4% |  |
+| 32 | 0.9% | 1.1% | Last Result |
+| 33 | 0.2% | 0.3% |  |
+| 34 | 0% | 0.1% |  |
 | 35 | 0% | 0% |  |
 
 

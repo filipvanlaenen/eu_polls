@@ -8,7 +8,7 @@ Members registered from **23 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-14 seats)
+Current median: **40** seats (-13 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,23 +18,23 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
+| Greens–European Free Alliance | EU | 53 | 40 | 36–43 | 35–44 | 35–45 | 33–47 |
 | Bündnis 90/Die Grünen | DE | | 14 | 12–15 | 11–15 | 11–16 | 10–16 |
-| Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–6 |
+| Europa Verde | IT | | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | GroenLinks | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | PROGRESĪVIE | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
-| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–3 |
+| Socialistisk Folkeparti | DK | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–3 | 1–3 | 1–3 |
-| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,23 +65,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.9% |  |
-| 33 | 0.7% | 99.6% |  |
-| 34 | 2% | 98.9% |  |
-| 35 | 4% | 97% |  |
-| 36 | 7% | 93% |  |
-| 37 | 10% | 87% |  |
-| 38 | 14% | 76% |  |
-| 39 | 16% | 62% | Median |
-| 40 | 15% | 47% |  |
-| 41 | 12% | 32% |  |
-| 42 | 8% | 19% |  |
-| 43 | 5% | 11% |  |
-| 44 | 3% | 6% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0.2% | 99.9% |  |
+| 33 | 0.5% | 99.8% |  |
+| 34 | 1.4% | 99.2% |  |
+| 35 | 3% | 98% |  |
+| 36 | 6% | 95% |  |
+| 37 | 9% | 89% |  |
+| 38 | 13% | 80% |  |
+| 39 | 16% | 67% |  |
+| 40 | 16% | 52% | Median |
+| 41 | 14% | 36% |  |
+| 42 | 10% | 22% |  |
+| 43 | 6% | 13% |  |
+| 44 | 3% | 7% |  |
 | 45 | 2% | 3% |  |
-| 46 | 0.8% | 1.5% |  |
-| 47 | 0.4% | 0.7% |  |
+| 46 | 0.9% | 2% |  |
+| 47 | 0.5% | 0.8% |  |
 | 48 | 0.2% | 0.3% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |

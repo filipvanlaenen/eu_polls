@@ -18,10 +18,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 115 | 111–120 | 110–121 | 108–122 | 106–124 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 115 | 111–120 | 110–121 | 109–122 | 107–124 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
-| Partito Democratico | IT | | 18 | 16–20 | 16–20 | 15–20 | 14–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 12 | 10–13 | 10–14 | 10–15 | 9–16 |
+| Partito Democratico | IT | | 18 | 16–20 | 15–20 | 15–20 | 15–21 |
+| Sozialdemokratische Partei Deutschlands | DE | | 12 | 10–14 | 10–15 | 10–15 | 9–16 |
 | Parti socialiste–Place Publique | FR | | 9 | 7–10 | 7–11 | 7–11 | 6–11 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -34,12 +34,12 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Partij van de Arbeid | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Lietuvos socialdemokratų partija | LT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Κίνημα Αλλαγής | GR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 0–1 | 0–2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Demokratikus Koalíció | HU | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -58,26 +58,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 104 | 0.1% | 100% |  |
+| 104 | 0% | 100% |  |
 | 105 | 0.1% | 99.9% |  |
 | 106 | 0.3% | 99.8% |  |
-| 107 | 0.7% | 99.4% |  |
-| 108 | 1.3% | 98.7% |  |
-| 109 | 2% | 97% |  |
-| 110 | 4% | 95% |  |
-| 111 | 6% | 91% |  |
-| 112 | 8% | 86% |  |
-| 113 | 10% | 78% |  |
-| 114 | 11% | 69% |  |
-| 115 | 11% | 58% | Median |
-| 116 | 11% | 46% |  |
+| 107 | 0.6% | 99.5% |  |
+| 108 | 1.2% | 98.9% |  |
+| 109 | 2% | 98% |  |
+| 110 | 4% | 96% |  |
+| 111 | 5% | 92% |  |
+| 112 | 7% | 86% |  |
+| 113 | 9% | 79% |  |
+| 114 | 11% | 70% |  |
+| 115 | 12% | 59% | Median |
+| 116 | 11% | 47% |  |
 | 117 | 10% | 35% |  |
 | 118 | 8% | 25% |  |
 | 119 | 6% | 17% |  |
 | 120 | 4% | 11% |  |
 | 121 | 3% | 6% |  |
-| 122 | 2% | 4% |  |
-| 123 | 1.0% | 2% |  |
+| 122 | 2% | 3% |  |
+| 123 | 0.9% | 2% |  |
 | 124 | 0.5% | 0.9% |  |
 | 125 | 0.2% | 0.4% |  |
 | 126 | 0.1% | 0.2% |  |
