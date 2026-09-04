@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–100 | 89–101 | 87–103 |
+| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–101 | 89–101 | 87–103 |
 | Rassemblement national | FR | | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
 | Vox | ES | | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -30,7 +30,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2 |
-| Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Nemuno aušra | LT | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,17 +59,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 5% | 93% |  |
 | 92 | 7% | 88% |  |
 | 93 | 10% | 80% |  |
-| 94 | 11% | 70% |  |
+| 94 | 11% | 71% |  |
 | 95 | 12% | 59% | Median |
 | 96 | 12% | 47% |  |
 | 97 | 11% | 35% |  |
 | 98 | 9% | 24% |  |
-| 99 | 6% | 15% |  |
+| 99 | 6% | 16% |  |
 | 100 | 4% | 9% |  |
-| 101 | 2% | 5% |  |
-| 102 | 1.3% | 2% |  |
-| 103 | 0.6% | 1.1% |  |
-| 104 | 0.3% | 0.4% |  |
+| 101 | 3% | 5% |  |
+| 102 | 1.4% | 2% |  |
+| 103 | 0.7% | 1.1% |  |
+| 104 | 0.3% | 0.5% |  |
 | 105 | 0.1% | 0.2% |  |
 | 106 | 0% | 0.1% |  |
 | 107 | 0% | 0% |  |
