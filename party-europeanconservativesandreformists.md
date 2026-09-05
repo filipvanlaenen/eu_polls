@@ -22,7 +22,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Fratelli d’Italia | IT | | 23 | 20–24 | 20–25 | 19–25 | 19–26 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | Zjednoczona Prawica | PL | | 13 | 11–16 | 10–17 | 10–17 | 9–18 |
-| Juiste Antwoord 2021 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Juiste Antwoord 2021 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -48,7 +48,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Nacionalinis Susivienijimas | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -60,11 +60,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 71 | 0.1% | 100% |  |
 | 72 | 0.2% | 99.9% |  |
-| 73 | 0.5% | 99.6% |  |
+| 73 | 0.5% | 99.7% |  |
 | 74 | 1.1% | 99.1% |  |
 | 75 | 2% | 98% |  |
 | 76 | 4% | 96% |  |
-| 77 | 6% | 92% |  |
+| 77 | 5% | 92% |  |
 | 78 | 8% | 87% | Last Result |
 | 79 | 10% | 79% |  |
 | 80 | 12% | 69% |  |
@@ -73,10 +73,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 11% | 32% |  |
 | 84 | 8% | 22% |  |
 | 85 | 6% | 13% |  |
-| 86 | 4% | 8% |  |
+| 86 | 4% | 7% |  |
 | 87 | 2% | 4% |  |
-| 88 | 1.1% | 2% |  |
-| 89 | 0.5% | 0.9% |  |
+| 88 | 1.0% | 2% |  |
+| 89 | 0.5% | 0.8% |  |
 | 90 | 0.2% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |

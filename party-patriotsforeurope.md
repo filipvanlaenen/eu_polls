@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–100 | 89–101 | 87–103 |
+| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–100 | 89–101 | 86–103 |
 | Rassemblement national | FR | | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
 | Vox | ES | | 12 | 11–14 | 11–14 | 10–14 | 10–14 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -26,7 +26,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Chega | PT | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | Lega Nord | IT | | 5 | 4–8 | 4–8 | 4–8 | 0–8 |
-| Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2 |
@@ -49,29 +49,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 84 | 0% | 100% | Last Result |
+| 84 | 0.1% | 100% | Last Result |
 | 85 | 0.1% | 99.9% |  |
-| 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.6% |  |
-| 88 | 0.9% | 99.2% |  |
+| 86 | 0.3% | 99.8% |  |
+| 87 | 0.6% | 99.5% |  |
+| 88 | 1.3% | 98.8% |  |
 | 89 | 2% | 98% |  |
-| 90 | 3% | 96% |  |
-| 91 | 5% | 93% |  |
-| 92 | 8% | 88% |  |
-| 93 | 10% | 80% |  |
-| 94 | 12% | 70% |  |
-| 95 | 12% | 59% | Median |
-| 96 | 12% | 46% |  |
-| 97 | 11% | 34% |  |
-| 98 | 9% | 24% |  |
-| 99 | 6% | 15% |  |
-| 100 | 4% | 9% |  |
-| 101 | 2% | 5% |  |
-| 102 | 1.3% | 2% |  |
-| 103 | 0.6% | 1.1% |  |
-| 104 | 0.3% | 0.4% |  |
-| 105 | 0.1% | 0.2% |  |
-| 106 | 0% | 0.1% |  |
-| 107 | 0% | 0% |  |
+| 90 | 4% | 95% |  |
+| 91 | 6% | 91% |  |
+| 92 | 9% | 85% |  |
+| 93 | 11% | 76% |  |
+| 94 | 12% | 66% |  |
+| 95 | 12% | 54% | Median |
+| 96 | 12% | 42% |  |
+| 97 | 10% | 30% |  |
+| 98 | 8% | 20% |  |
+| 99 | 5% | 13% |  |
+| 100 | 3% | 7% |  |
+| 101 | 2% | 4% |  |
+| 102 | 1.0% | 2% |  |
+| 103 | 0.5% | 0.8% |  |
+| 104 | 0.2% | 0.3% |  |
+| 105 | 0.1% | 0.1% |  |
+| 106 | 0% | 0% |  |
 
 
