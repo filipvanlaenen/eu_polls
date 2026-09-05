@@ -19,7 +19,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European United Left–Nordic Green Left | EU | 46 | 64 | 59–69 | 58–70 | 57–71 | 55–73 |
-| La France insoumise | FR | | 15 | 13–18 | 12–18 | 12–18 | 11–19 |
+| La France insoumise | FR | | 15 | 13–18 | 12–18 | 12–18 | 11–20 |
 | Die Linke | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |

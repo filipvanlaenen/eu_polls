@@ -20,7 +20,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 2 | 2 | 2 | 1–2 | 1–2 |
+| Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
@@ -73,10 +73,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.4% | 100% |  |
-| 7 | 11% | 99.6% |  |
-| 8 | 33% | 88% |  |
-| 9 | 45% | 55% | Median |
+| 6 | 0.2% | 100% |  |
+| 7 | 11% | 99.8% |  |
+| 8 | 33% | 89% |  |
+| 9 | 46% | 56% | Median |
 | 10 | 10% | 10% |  |
 | 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
