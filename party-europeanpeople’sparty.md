@@ -18,9 +18,9 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 166–176 | 165–178 | 163–179 | 161–181 |
+| European People’s Party | EU | 188 | 171 | 166–176 | 165–178 | 164–179 | 161–181 |
 | Partido Popular | ES | | 23 | 21–25 | 20–26 | 19–26 | 19–27 |
-| Platforma Obywatelska | PL | | 19 | 17–21 | 16–22 | 16–22 | 15–24 |
+| Koalicja Obywatelska | PL | | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
@@ -48,7 +48,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -69,7 +69,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0 | 0 | 0 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -85,26 +85,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 158 | 0% | 100% |  |
 | 159 | 0.1% | 99.9% |  |
-| 160 | 0.2% | 99.8% |  |
-| 161 | 0.4% | 99.7% |  |
-| 162 | 0.7% | 99.3% |  |
-| 163 | 1.2% | 98.6% |  |
-| 164 | 2% | 97% |  |
-| 165 | 3% | 95% |  |
-| 166 | 4% | 92% |  |
-| 167 | 6% | 88% |  |
-| 168 | 7% | 82% |  |
-| 169 | 9% | 75% |  |
-| 170 | 10% | 66% |  |
-| 171 | 10% | 56% | Median |
-| 172 | 10% | 46% |  |
-| 173 | 9% | 36% |  |
-| 174 | 8% | 27% |  |
-| 175 | 6% | 19% |  |
+| 160 | 0.2% | 99.9% |  |
+| 161 | 0.3% | 99.7% |  |
+| 162 | 0.6% | 99.4% |  |
+| 163 | 1.1% | 98.7% |  |
+| 164 | 2% | 98% |  |
+| 165 | 3% | 96% |  |
+| 166 | 4% | 93% |  |
+| 167 | 6% | 89% |  |
+| 168 | 7% | 83% |  |
+| 169 | 9% | 76% |  |
+| 170 | 10% | 67% |  |
+| 171 | 10% | 57% | Median |
+| 172 | 10% | 47% |  |
+| 173 | 9% | 37% |  |
+| 174 | 8% | 28% |  |
+| 175 | 6% | 20% |  |
 | 176 | 5% | 13% |  |
 | 177 | 3% | 8% |  |
 | 178 | 2% | 5% |  |
-| 179 | 1.3% | 3% |  |
+| 179 | 1.4% | 3% |  |
 | 180 | 0.8% | 2% |  |
 | 181 | 0.4% | 0.8% |  |
 | 182 | 0.2% | 0.4% |  |
