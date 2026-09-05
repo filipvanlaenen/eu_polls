@@ -24,12 +24,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| Les Républicains | FR | | 7 | 6–9 | 5–9 | 5–9 | 4–11 |
+| Les Républicains | FR | | 7 | 6–9 | 5–9 | 5–10 | 4–11 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Starostové a nezávislí | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -95,16 +95,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 167 | 5% | 89% |  |
 | 168 | 7% | 84% |  |
 | 169 | 8% | 77% |  |
-| 170 | 10% | 68% |  |
+| 170 | 10% | 69% |  |
 | 171 | 10% | 59% | Median |
 | 172 | 10% | 49% |  |
 | 173 | 9% | 39% |  |
-| 174 | 8% | 29% |  |
+| 174 | 8% | 30% |  |
 | 175 | 7% | 21% |  |
 | 176 | 5% | 15% |  |
-| 177 | 4% | 9% |  |
+| 177 | 4% | 10% |  |
 | 178 | 2% | 6% |  |
-| 179 | 2% | 3% |  |
+| 179 | 2% | 4% |  |
 | 180 | 0.9% | 2% |  |
 | 181 | 0.5% | 1.0% |  |
 | 182 | 0.3% | 0.5% |  |

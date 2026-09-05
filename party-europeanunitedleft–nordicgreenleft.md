@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 64 | 59–68 | 58–70 | 57–71 | 55–73 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 59–69 | 58–70 | 57–71 | 55–73 |
 | La France insoumise | FR | | 15 | 13–18 | 12–18 | 12–18 | 11–19 |
 | Die Linke | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
@@ -33,7 +33,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Klima Tierschutz | DE | | 1 | 1 | 0–2 | 0–2 | 0–2 |
+| Partei Mensch Klima Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1 | 1–2 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -75,7 +75,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.8% | 99.4% |  |
 | 57 | 2% | 98.5% |  |
 | 58 | 3% | 97% |  |
-| 59 | 5% | 94% |  |
+| 59 | 4% | 94% |  |
 | 60 | 6% | 90% |  |
 | 61 | 8% | 83% |  |
 | 62 | 10% | 75% |  |
