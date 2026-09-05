@@ -18,19 +18,19 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 25–29 | 24–30 | 24–31 | 23–32 |
+| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–30 | 23–31 | 22–32 |
 | Прогресивна България | BG | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | Bündnis Sahra Wagenknecht | DE | | 4 | 2–4 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Die PARTEI | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -39,7 +39,6 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Resni.ca | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska demokratska stranka | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
-| Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Άμεσης Δημοκρατίας | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0 | 0 | 0 |
 
@@ -52,18 +51,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.4% | 99.9% |  |
-| 23 | 2% | 99.5% |  |
-| 24 | 5% | 98% |  |
+| 22 | 0.5% | 99.9% |  |
+| 23 | 2% | 99.4% |  |
+| 24 | 5% | 97% |  |
 | 25 | 11% | 92% |  |
-| 26 | 18% | 81% |  |
-| 27 | 22% | 63% | Median |
-| 28 | 19% | 41% |  |
-| 29 | 13% | 22% |  |
-| 30 | 6% | 10% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.8% | 1.0% | Last Result |
-| 33 | 0.2% | 0.2% |  |
-| 34 | 0% | 0% |  |
+| 26 | 17% | 81% |  |
+| 27 | 20% | 64% | Median |
+| 28 | 19% | 44% |  |
+| 29 | 13% | 25% |  |
+| 30 | 7% | 12% |  |
+| 31 | 3% | 5% |  |
+| 32 | 1.0% | 1.4% | Last Result |
+| 33 | 0.3% | 0.3% |  |
+| 34 | 0.1% | 0.1% |  |
+| 35 | 0% | 0% |  |
 
 

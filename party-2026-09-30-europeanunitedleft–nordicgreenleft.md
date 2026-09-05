@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **63** seats (+17 seats)
+Current median: **64** seats (+18 seats)
 
 At least one member in **10 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 63 | 59–67 | 58–69 | 57–70 | 55–72 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 59–68 | 58–70 | 57–71 | 55–73 |
 | La France insoumise | FR | | 15 | 13–18 | 12–18 | 12–18 | 11–20 |
 | Die Linke | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Social Democrats | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -42,7 +42,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0 | 0 | 0 | 0 |
+| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Pace Terra Dignità | IT | | 0 | 0 | 0 | 0 | 0 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,26 +71,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0.1% | 100% |  |
 | 54 | 0.2% | 99.9% |  |
-| 55 | 0.5% | 99.7% |  |
-| 56 | 1.1% | 99.2% |  |
-| 57 | 2% | 98% |  |
-| 58 | 4% | 96% |  |
-| 59 | 6% | 92% |  |
-| 60 | 8% | 86% |  |
-| 61 | 10% | 79% |  |
-| 62 | 11% | 69% |  |
-| 63 | 12% | 57% | Median |
-| 64 | 11% | 46% |  |
-| 65 | 10% | 34% |  |
-| 66 | 8% | 24% |  |
-| 67 | 6% | 16% |  |
-| 68 | 4% | 10% |  |
-| 69 | 3% | 6% |  |
-| 70 | 2% | 3% |  |
-| 71 | 0.8% | 1.4% |  |
-| 72 | 0.4% | 0.6% |  |
-| 73 | 0.2% | 0.3% |  |
-| 74 | 0.1% | 0.1% |  |
-| 75 | 0% | 0% |  |
+| 55 | 0.4% | 99.8% |  |
+| 56 | 0.9% | 99.4% |  |
+| 57 | 2% | 98.5% |  |
+| 58 | 3% | 97% |  |
+| 59 | 5% | 94% |  |
+| 60 | 7% | 89% |  |
+| 61 | 9% | 83% |  |
+| 62 | 10% | 74% |  |
+| 63 | 11% | 64% |  |
+| 64 | 11% | 53% | Median |
+| 65 | 11% | 42% |  |
+| 66 | 9% | 31% |  |
+| 67 | 7% | 22% |  |
+| 68 | 5% | 15% |  |
+| 69 | 4% | 9% |  |
+| 70 | 2% | 5% |  |
+| 71 | 1.5% | 3% |  |
+| 72 | 0.8% | 2% |  |
+| 73 | 0.4% | 0.8% |  |
+| 74 | 0.2% | 0.3% |  |
+| 75 | 0.1% | 0.1% |  |
+| 76 | 0% | 0.1% |  |
+| 77 | 0% | 0% |  |
 
 
