@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **9** seats (+8 seats)
+Current median: **8** seats (+7 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 2 | 2 | 2 | 2 | 1–2 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 1 | 0–1 |
+| Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -41,7 +41,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
+| Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nič od tega [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -71,13 +71,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0.2% | 100% |  |
-| 7 | 11% | 99.8% |  |
-| 8 | 33% | 89% |  |
-| 9 | 45% | 56% | Median |
-| 10 | 10% | 10% |  |
-| 11 | 0.6% | 0.6% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 7% | 99.9% |  |
+| 7 | 21% | 93% |  |
+| 8 | 36% | 72% | Median |
+| 9 | 28% | 35% |  |
+| 10 | 6% | 7% |  |
+| 11 | 0.4% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 
