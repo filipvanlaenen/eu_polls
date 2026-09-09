@@ -22,19 +22,19 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Bündnis 90/Die Grünen | DE | | 14 | 12–16 | 11–16 | 11–16 | 10–17 |
 | Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
 | Progressief Nederland | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Miljöpartiet de gröna | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Možemo! | HR | | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | Socialistisk Folkeparti | DK | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Česká pirátská strana | CZ | | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | PROGRESĪVIE | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Volt Europa | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Ecolo | BE-FRC | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -65,23 +65,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0% | 100% |  |
-| 31 | 0.2% | 99.9% |  |
-| 32 | 0.5% | 99.8% |  |
-| 33 | 1.2% | 99.3% |  |
-| 34 | 3% | 98% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.4% | 99.8% |  |
+| 33 | 1.1% | 99.4% |  |
+| 34 | 2% | 98% |  |
 | 35 | 5% | 96% |  |
 | 36 | 8% | 91% |  |
 | 37 | 12% | 83% |  |
 | 38 | 15% | 71% |  |
 | 39 | 16% | 56% | Median |
 | 40 | 14% | 40% |  |
-| 41 | 11% | 26% |  |
+| 41 | 11% | 25% |  |
 | 42 | 7% | 15% |  |
 | 43 | 4% | 8% |  |
 | 44 | 2% | 4% |  |
 | 45 | 1.0% | 2% |  |
-| 46 | 0.5% | 0.9% |  |
+| 46 | 0.5% | 0.8% |  |
 | 47 | 0.2% | 0.4% |  |
 | 48 | 0.1% | 0.2% |  |
 | 49 | 0% | 0.1% |  |
