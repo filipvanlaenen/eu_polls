@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (+11 seats)
+Current median: **94** seats (+10 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 90–99 | 88–100 | 87–101 | 85–102 |
+| Patriots for Europe | EU | 84 | 94 | 90–99 | 89–100 | 87–101 | 85–102 |
 | Rassemblement national | FR | | 32 | 28–34 | 27–35 | 27–35 | 27–36 |
 | Vox | ES | | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -29,7 +29,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
-| Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 2–3 |
+| Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -59,19 +59,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 4% | 95% |  |
 | 90 | 5% | 91% |  |
 | 91 | 7% | 86% |  |
-| 92 | 8% | 79% |  |
-| 93 | 10% | 71% |  |
-| 94 | 11% | 61% |  |
-| 95 | 11% | 51% | Median |
-| 96 | 11% | 39% |  |
-| 97 | 10% | 28% |  |
-| 98 | 8% | 19% |  |
-| 99 | 5% | 11% |  |
-| 100 | 3% | 6% |  |
-| 101 | 2% | 3% |  |
-| 102 | 0.8% | 1.2% |  |
-| 103 | 0.3% | 0.5% |  |
-| 104 | 0.1% | 0.2% |  |
+| 92 | 9% | 79% |  |
+| 93 | 10% | 70% |  |
+| 94 | 11% | 60% | Median |
+| 95 | 12% | 49% |  |
+| 96 | 11% | 37% |  |
+| 97 | 9% | 26% |  |
+| 98 | 7% | 17% |  |
+| 99 | 5% | 10% |  |
+| 100 | 3% | 5% |  |
+| 101 | 1.5% | 3% |  |
+| 102 | 0.7% | 1.1% |  |
+| 103 | 0.3% | 0.4% |  |
+| 104 | 0.1% | 0.1% |  |
 | 105 | 0% | 0% |  |
 
 

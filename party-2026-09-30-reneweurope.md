@@ -19,7 +19,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Renew Europe | EU | 77 | 66 | 62–70 | 61–72 | 60–73 | 58–75 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
@@ -40,15 +40,16 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Venstre | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Venstre | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -80,26 +81,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.1% | 100% |  |
 | 57 | 0.2% | 99.9% |  |
 | 58 | 0.5% | 99.7% |  |
-| 59 | 1.1% | 99.3% |  |
+| 59 | 1.2% | 99.1% |  |
 | 60 | 2% | 98% |  |
 | 61 | 4% | 96% |  |
 | 62 | 6% | 92% |  |
-| 63 | 8% | 87% |  |
-| 64 | 10% | 79% |  |
-| 65 | 12% | 69% |  |
-| 66 | 12% | 57% | Median |
-| 67 | 11% | 45% |  |
-| 68 | 10% | 33% |  |
-| 69 | 8% | 23% |  |
-| 70 | 6% | 15% |  |
-| 71 | 4% | 10% |  |
-| 72 | 3% | 6% |  |
-| 73 | 2% | 3% |  |
-| 74 | 0.8% | 2% |  |
-| 75 | 0.4% | 0.8% |  |
+| 63 | 8% | 86% |  |
+| 64 | 10% | 77% |  |
+| 65 | 12% | 67% |  |
+| 66 | 12% | 55% | Median |
+| 67 | 11% | 43% |  |
+| 68 | 10% | 32% |  |
+| 69 | 8% | 22% |  |
+| 70 | 6% | 14% |  |
+| 71 | 4% | 9% |  |
+| 72 | 2% | 5% |  |
+| 73 | 1.4% | 3% |  |
+| 74 | 0.8% | 1.4% |  |
+| 75 | 0.4% | 0.7% |  |
 | 76 | 0.2% | 0.3% |  |
 | 77 | 0.1% | 0.1% | Last Result |
-| 78 | 0% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 78 | 0% | 0% |  |
 
 

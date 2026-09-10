@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **81** seats (+3 seats)
+Current median: **82** seats (+4 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 81 | 77–85 | 76–86 | 75–87 | 73–89 |
+| European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 76–88 | 74–90 |
 | Fratelli d’Italia | IT | | 22 | 21–24 | 20–25 | 20–25 | 19–25 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | Zjednoczona Prawica | PL | | 13 | 11–17 | 10–17 | 10–17 | 9–18 |
@@ -30,10 +30,10 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Rozwój Plus | PL | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Ελληνική Λύση | GR | | 2 | 2 | 2 | 1–2 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Danmarksdemokraterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Most nezavisnih lista | HR | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1–2 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
@@ -58,27 +58,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0% | 100% |  |
-| 72 | 0.1% | 99.9% |  |
-| 73 | 0.4% | 99.8% |  |
-| 74 | 0.8% | 99.4% |  |
-| 75 | 2% | 98.6% |  |
-| 76 | 3% | 97% |  |
-| 77 | 5% | 94% |  |
-| 78 | 7% | 89% | Last Result |
-| 79 | 10% | 82% |  |
-| 80 | 12% | 72% |  |
-| 81 | 13% | 60% | Median |
-| 82 | 13% | 47% |  |
-| 83 | 11% | 35% |  |
-| 84 | 9% | 23% |  |
-| 85 | 6% | 15% |  |
-| 86 | 4% | 8% |  |
-| 87 | 2% | 4% |  |
-| 88 | 1.2% | 2% |  |
-| 89 | 0.6% | 1.0% |  |
-| 90 | 0.2% | 0.4% |  |
-| 91 | 0.1% | 0.1% |  |
-| 92 | 0% | 0% |  |
+| 72 | 0.1% | 100% |  |
+| 73 | 0.2% | 99.9% |  |
+| 74 | 0.6% | 99.6% |  |
+| 75 | 1.2% | 99.1% |  |
+| 76 | 2% | 98% |  |
+| 77 | 4% | 96% |  |
+| 78 | 6% | 92% | Last Result |
+| 79 | 8% | 86% |  |
+| 80 | 11% | 77% |  |
+| 81 | 13% | 67% |  |
+| 82 | 13% | 54% | Median |
+| 83 | 12% | 41% |  |
+| 84 | 10% | 29% |  |
+| 85 | 7% | 19% |  |
+| 86 | 5% | 11% |  |
+| 87 | 3% | 6% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.9% | 1.5% |  |
+| 90 | 0.4% | 0.6% |  |
+| 91 | 0.2% | 0.2% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
 
 
