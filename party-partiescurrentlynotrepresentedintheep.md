@@ -45,7 +45,6 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nič od tega [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
-| Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -71,13 +70,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 7% | 99.9% |  |
-| 7 | 21% | 93% |  |
-| 8 | 36% | 72% | Median |
-| 9 | 29% | 36% |  |
-| 10 | 7% | 8% |  |
-| 11 | 0.6% | 0.6% |  |
+| 5 | 0% | 100% |  |
+| 6 | 6% | 100% |  |
+| 7 | 20% | 94% |  |
+| 8 | 35% | 74% | Median |
+| 9 | 30% | 40% |  |
+| 10 | 9% | 10% |  |
+| 11 | 0.8% | 0.8% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
