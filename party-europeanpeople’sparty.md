@@ -18,18 +18,18 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 166–176 | 164–177 | 163–179 | 161–181 |
+| European People’s Party | EU | 188 | 171 | 166–176 | 164–178 | 163–179 | 161–181 |
 | Partido Popular | ES | | 23 | 20–24 | 20–24 | 20–25 | 19–25 |
 | Koalicja Obywatelska | PL | | 19 | 17–21 | 16–22 | 16–22 | 15–24 |
-| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
+| Christlich Demokratische Union Deutschlands | DE | | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Les Républicains | FR | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| Christlich-Soziale Union in Bayern | DE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Starostové a nezávislí | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -49,7 +49,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
-| Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -60,7 +60,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Demokrati | SI | | 0 | 0 | 0 | 0 | 0 |
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
-| Erakond Parempoolsed | EE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Erakond Parempoolsed | EE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -88,24 +88,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 160 | 0.2% | 99.8% |  |
 | 161 | 0.4% | 99.6% |  |
 | 162 | 0.8% | 99.2% |  |
-| 163 | 1.4% | 98% |  |
+| 163 | 1.3% | 98% |  |
 | 164 | 2% | 97% |  |
 | 165 | 3% | 95% |  |
 | 166 | 5% | 92% |  |
 | 167 | 6% | 87% |  |
 | 168 | 8% | 81% |  |
 | 169 | 9% | 73% |  |
-| 170 | 10% | 64% |  |
+| 170 | 10% | 65% |  |
 | 171 | 10% | 55% | Median |
 | 172 | 10% | 45% |  |
 | 173 | 9% | 35% |  |
-| 174 | 8% | 26% |  |
+| 174 | 8% | 27% |  |
 | 175 | 6% | 19% |  |
-| 176 | 4% | 13% |  |
+| 176 | 5% | 13% |  |
 | 177 | 3% | 8% |  |
 | 178 | 2% | 5% |  |
 | 179 | 1.3% | 3% |  |
-| 180 | 0.7% | 2% |  |
+| 180 | 0.8% | 2% |  |
 | 181 | 0.4% | 0.8% |  |
 | 182 | 0.2% | 0.4% |  |
 | 183 | 0.1% | 0.2% |  |

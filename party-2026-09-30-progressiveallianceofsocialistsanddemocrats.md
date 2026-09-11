@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **116** seats (-20 seats)
+Current median: **115** seats (-21 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,14 +18,14 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 116 | 111–121 | 110–122 | 109–124 | 106–126 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 115 | 111–120 | 109–122 | 108–123 | 106–125 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
-| Partito Democratico | IT | | 17 | 16–20 | 16–20 | 15–20 | 15–20 |
-| Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–15 | 10–15 | 10–16 |
+| Partito Democratico | IT | | 17 | 16–19 | 16–20 | 16–21 | 16–22 |
+| Sozialdemokratische Partei Deutschlands | DE | | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | Parti socialiste–Place Publique | FR | | 10 | 8–12 | 7–13 | 7–14 | 6–14 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | Nowa Lewica | PL | | 4 | 3–5 | 3–6 | 3–6 | 0–6 |
 | Socialdemokraterne | DK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -44,6 +44,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Demokratikus Koalíció | HU | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Lietuvos regionų partija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Partito Socialista Italiano | IT | | 0 | 0 | 0 | 0 | 0 |
 | Saskaņas Centrs | LV | | 0 | 0 | 0 | 0 | 0 |
 | Sociální demokracie | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Σοσιαλδημοκρατών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -60,29 +61,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 0.1% | 100% |  |
 | 105 | 0.1% | 99.9% |  |
 | 106 | 0.3% | 99.8% |  |
-| 107 | 0.6% | 99.5% |  |
-| 108 | 1.2% | 98.8% |  |
-| 109 | 2% | 98% |  |
-| 110 | 3% | 95% |  |
-| 111 | 5% | 92% |  |
-| 112 | 7% | 87% |  |
-| 113 | 8% | 80% |  |
-| 114 | 9% | 72% |  |
-| 115 | 10% | 63% |  |
-| 116 | 10% | 53% | Median |
-| 117 | 10% | 42% |  |
-| 118 | 9% | 33% |  |
-| 119 | 7% | 24% |  |
-| 120 | 6% | 17% |  |
-| 121 | 4% | 11% |  |
-| 122 | 3% | 7% |  |
-| 123 | 2% | 4% |  |
-| 124 | 1.2% | 3% |  |
-| 125 | 0.7% | 1.4% |  |
-| 126 | 0.4% | 0.7% |  |
-| 127 | 0.2% | 0.3% |  |
-| 128 | 0.1% | 0.2% |  |
-| 129 | 0% | 0.1% |  |
+| 107 | 0.7% | 99.4% |  |
+| 108 | 1.4% | 98.7% |  |
+| 109 | 2% | 97% |  |
+| 110 | 4% | 95% |  |
+| 111 | 6% | 91% |  |
+| 112 | 7% | 85% |  |
+| 113 | 9% | 78% |  |
+| 114 | 10% | 69% |  |
+| 115 | 11% | 59% | Median |
+| 116 | 10% | 48% |  |
+| 117 | 10% | 37% |  |
+| 118 | 8% | 28% |  |
+| 119 | 6% | 20% |  |
+| 120 | 5% | 13% |  |
+| 121 | 3% | 9% |  |
+| 122 | 2% | 5% |  |
+| 123 | 1.4% | 3% |  |
+| 124 | 0.8% | 2% |  |
+| 125 | 0.4% | 0.8% |  |
+| 126 | 0.2% | 0.4% |  |
+| 127 | 0.1% | 0.2% |  |
+| 128 | 0% | 0.1% |  |
+| 129 | 0% | 0% |  |
 | 130 | 0% | 0% |  |
 | 131 | 0% | 0% |  |
 | 132 | 0% | 0% |  |

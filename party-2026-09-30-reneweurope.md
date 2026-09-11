@@ -24,28 +24,29 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Fianna Fáil | IE | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Fianna Fáil | IE | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Les Engagés | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–3 | 1–3 | 1–4 |
+| Eesti Keskerakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Azione | IT | | 0 | 0 | 0 | 0 | 0–4 |
+| Azione | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,7 +59,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
@@ -77,27 +78,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.1% | 100% |  |
-| 57 | 0.2% | 99.9% |  |
-| 58 | 0.6% | 99.7% |  |
-| 59 | 1.2% | 99.1% |  |
-| 60 | 2% | 98% |  |
-| 61 | 4% | 95% |  |
-| 62 | 7% | 91% |  |
-| 63 | 9% | 85% |  |
-| 64 | 11% | 76% |  |
-| 65 | 13% | 64% |  |
-| 66 | 13% | 52% | Median |
-| 67 | 12% | 39% |  |
-| 68 | 10% | 27% |  |
-| 69 | 7% | 17% |  |
-| 70 | 5% | 10% |  |
-| 71 | 3% | 6% |  |
-| 72 | 2% | 3% |  |
-| 73 | 0.8% | 1.3% |  |
-| 74 | 0.3% | 0.6% |  |
-| 75 | 0.1% | 0.2% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0% | Last Result |
+| 56 | 0% | 100% |  |
+| 57 | 0.1% | 99.9% |  |
+| 58 | 0.3% | 99.8% |  |
+| 59 | 0.8% | 99.5% |  |
+| 60 | 2% | 98.7% |  |
+| 61 | 3% | 97% |  |
+| 62 | 5% | 94% |  |
+| 63 | 8% | 89% |  |
+| 64 | 10% | 81% |  |
+| 65 | 12% | 71% |  |
+| 66 | 13% | 59% | Median |
+| 67 | 12% | 46% |  |
+| 68 | 11% | 34% |  |
+| 69 | 9% | 23% |  |
+| 70 | 6% | 15% |  |
+| 71 | 4% | 9% |  |
+| 72 | 2% | 5% |  |
+| 73 | 1.2% | 2% |  |
+| 74 | 0.6% | 1.1% |  |
+| 75 | 0.3% | 0.5% |  |
+| 76 | 0.1% | 0.2% |  |
+| 77 | 0% | 0.1% | Last Result |
+| 78 | 0% | 0% |  |
 
 

@@ -18,13 +18,13 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 1 | 0–1 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -45,7 +45,9 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nič od tega [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Progetto Civico Italia [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -72,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 6% | 100% |  |
-| 7 | 20% | 94% |  |
-| 8 | 35% | 74% | Median |
-| 9 | 30% | 40% |  |
-| 10 | 9% | 10% |  |
-| 11 | 0.8% | 0.8% |  |
+| 7 | 19% | 94% |  |
+| 8 | 34% | 75% | Median |
+| 9 | 30% | 41% |  |
+| 10 | 10% | 11% |  |
+| 11 | 0.7% | 0.7% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
