@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **66** seats (-11 seats)
+Current median: **67** seats (-10 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 66 | 62–70 | 61–71 | 60–72 | 58–74 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
+| Renew Europe | EU | 77 | 67 | 63–71 | 62–72 | 61–74 | 59–76 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–6 | 3–7 | 3–7 | 3–7 |
@@ -46,7 +46,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Azione | IT | | 0 | 0 | 0 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -78,28 +78,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0% | 100% |  |
-| 57 | 0.1% | 99.9% |  |
-| 58 | 0.3% | 99.8% |  |
-| 59 | 0.8% | 99.5% |  |
-| 60 | 2% | 98.7% |  |
-| 61 | 3% | 97% |  |
-| 62 | 5% | 94% |  |
-| 63 | 8% | 89% |  |
-| 64 | 10% | 81% |  |
-| 65 | 12% | 71% |  |
-| 66 | 13% | 59% | Median |
-| 67 | 12% | 46% |  |
-| 68 | 11% | 34% |  |
-| 69 | 9% | 23% |  |
-| 70 | 6% | 15% |  |
-| 71 | 4% | 9% |  |
-| 72 | 2% | 5% |  |
-| 73 | 1.2% | 2% |  |
-| 74 | 0.6% | 1.1% |  |
-| 75 | 0.3% | 0.5% |  |
-| 76 | 0.1% | 0.2% |  |
-| 77 | 0% | 0.1% | Last Result |
-| 78 | 0% | 0% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.2% | 99.9% |  |
+| 59 | 0.6% | 99.7% |  |
+| 60 | 1.2% | 99.1% |  |
+| 61 | 2% | 98% |  |
+| 62 | 4% | 95% |  |
+| 63 | 6% | 91% |  |
+| 64 | 9% | 85% |  |
+| 65 | 11% | 77% |  |
+| 66 | 12% | 66% |  |
+| 67 | 12% | 54% | Median |
+| 68 | 11% | 42% |  |
+| 69 | 10% | 31% |  |
+| 70 | 7% | 21% |  |
+| 71 | 5% | 14% |  |
+| 72 | 4% | 8% |  |
+| 73 | 2% | 5% |  |
+| 74 | 1.3% | 3% |  |
+| 75 | 0.7% | 1.3% |  |
+| 76 | 0.3% | 0.6% |  |
+| 77 | 0.2% | 0.3% | Last Result |
+| 78 | 0.1% | 0.1% |  |
+| 79 | 0% | 0% |  |
 
 
