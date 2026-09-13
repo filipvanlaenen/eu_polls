@@ -25,17 +25,17 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | Chega | PT | | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
-| Lega Nord | IT | | 5 | 4–5 | 0–5 | 0–6 | 0–6 |
+| Lega Nord | IT | | 4 | 4–5 | 0–5 | 0–6 | 0–6 |
 | Partij voor de Vrijheid | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Ruch Narodowy | PL | | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | Vlaams Belang | BE-VLG | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Ruch Narodowy | PL | | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Chez Nous | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
-| Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Přísaha | CZ | | 0 | 0 | 0 | 0 | 0 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -51,22 +51,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 82 | 0% | 100% |  |
 | 83 | 0.1% | 99.9% |  |
-| 84 | 0.2% | 99.8% | Last Result |
-| 85 | 0.4% | 99.7% |  |
-| 86 | 0.7% | 99.3% |  |
-| 87 | 1.3% | 98.6% |  |
+| 84 | 0.2% | 99.9% | Last Result |
+| 85 | 0.3% | 99.7% |  |
+| 86 | 0.7% | 99.4% |  |
+| 87 | 1.2% | 98.7% |  |
 | 88 | 2% | 97% |  |
 | 89 | 3% | 95% |  |
 | 90 | 5% | 92% |  |
 | 91 | 7% | 87% |  |
-| 92 | 8% | 80% |  |
-| 93 | 10% | 71% |  |
-| 94 | 11% | 61% |  |
-| 95 | 12% | 50% | Median |
+| 92 | 8% | 81% |  |
+| 93 | 10% | 72% |  |
+| 94 | 11% | 62% |  |
+| 95 | 12% | 51% | Median |
 | 96 | 11% | 39% |  |
-| 97 | 10% | 27% |  |
-| 98 | 7% | 18% |  |
-| 99 | 5% | 10% |  |
+| 97 | 10% | 28% |  |
+| 98 | 8% | 18% |  |
+| 99 | 5% | 11% |  |
 | 100 | 3% | 6% |  |
 | 101 | 2% | 3% |  |
 | 102 | 0.7% | 1.1% |  |

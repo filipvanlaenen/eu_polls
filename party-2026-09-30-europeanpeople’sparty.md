@@ -18,21 +18,21 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 166–176 | 164–177 | 163–179 | 161–181 |
+| European People’s Party | EU | 188 | 171 | 166–176 | 165–178 | 164–179 | 161–182 |
 | Partido Popular | ES | | 23 | 20–24 | 20–24 | 20–25 | 19–25 |
-| Koalicja Obywatelska | PL | | 19 | 17–21 | 16–22 | 16–22 | 15–24 |
+| Koalicja Obywatelska | PL | | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
 | Christlich Demokratische Union Deutschlands | DE | | 16 | 14–17 | 14–17 | 13–18 | 13–19 |
 | Tisztelet és Szabadság | HU | | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Les Républicains | FR | | 7 | 7–9 | 6–10 | 6–10 | 5–11 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | Aliança Democrática | PT | | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| Forza Italia | IT | | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Fine Gael | IE | | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | Moderata samlingspartiet | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Starostové a nezávislí | CZ | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Starostové a nezávislí | CZ | | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 2–3 |
@@ -69,7 +69,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partidul Mișcarea Populară | RO | | 0 | 0 | 0 | 0 | 0 |
-| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Uniunea Democrată Maghiară din România | RO | | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -83,33 +83,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 158 | 0.1% | 100% |  |
-| 159 | 0.1% | 99.9% |  |
-| 160 | 0.3% | 99.8% |  |
-| 161 | 0.5% | 99.5% |  |
-| 162 | 0.9% | 99.0% |  |
-| 163 | 2% | 98% |  |
-| 164 | 2% | 97% |  |
-| 165 | 4% | 94% |  |
-| 166 | 5% | 91% |  |
-| 167 | 6% | 86% |  |
-| 168 | 8% | 79% |  |
-| 169 | 9% | 71% |  |
-| 170 | 10% | 62% |  |
-| 171 | 10% | 53% | Median |
-| 172 | 9% | 43% |  |
-| 173 | 8% | 34% |  |
-| 174 | 7% | 25% |  |
-| 175 | 6% | 18% |  |
-| 176 | 4% | 12% |  |
-| 177 | 3% | 8% |  |
-| 178 | 2% | 5% |  |
-| 179 | 1.3% | 3% |  |
-| 180 | 0.7% | 2% |  |
-| 181 | 0.4% | 0.8% |  |
-| 182 | 0.2% | 0.4% |  |
+| 159 | 0.1% | 100% |  |
+| 160 | 0.1% | 99.9% |  |
+| 161 | 0.3% | 99.8% |  |
+| 162 | 0.5% | 99.5% |  |
+| 163 | 1.0% | 98.9% |  |
+| 164 | 2% | 98% |  |
+| 165 | 3% | 96% |  |
+| 166 | 4% | 94% |  |
+| 167 | 5% | 90% |  |
+| 168 | 7% | 84% |  |
+| 169 | 8% | 77% |  |
+| 170 | 10% | 69% |  |
+| 171 | 10% | 59% | Median |
+| 172 | 10% | 49% |  |
+| 173 | 9% | 39% |  |
+| 174 | 8% | 30% |  |
+| 175 | 7% | 22% |  |
+| 176 | 5% | 15% |  |
+| 177 | 4% | 10% |  |
+| 178 | 3% | 6% |  |
+| 179 | 2% | 4% |  |
+| 180 | 0.9% | 2% |  |
+| 181 | 0.5% | 1.0% |  |
+| 182 | 0.3% | 0.5% |  |
 | 183 | 0.1% | 0.2% |  |
-| 184 | 0% | 0.1% |  |
+| 184 | 0.1% | 0.1% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |
 | 187 | 0% | 0% |  |

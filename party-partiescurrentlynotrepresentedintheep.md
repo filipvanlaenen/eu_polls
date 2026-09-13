@@ -42,12 +42,13 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Mēs mainām noteikumus [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0–1 |
-| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0–1 |
+| Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nič od tega [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progetto Civico Italia [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -72,13 +73,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 7% | 100% |  |
-| 7 | 21% | 93% |  |
-| 8 | 36% | 72% | Median |
-| 9 | 29% | 36% |  |
-| 10 | 7% | 8% |  |
-| 11 | 0.4% | 0.5% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 7% | 99.9% |  |
+| 7 | 22% | 93% |  |
+| 8 | 37% | 71% | Median |
+| 9 | 28% | 34% |  |
+| 10 | 6% | 6% |  |
+| 11 | 0.3% | 0.4% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
