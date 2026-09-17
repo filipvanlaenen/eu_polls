@@ -18,17 +18,17 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 116 | 111–121 | 110–122 | 109–124 | 107–126 |
-| Partido Socialista Obrero Español | ES | | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
-| Partito Democratico | IT | | 18 | 16–21 | 16–21 | 16–21 | 15–22 |
-| Sozialdemokratische Partei Deutschlands | DE | | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
-| Parti socialiste–Place Publique | FR | | 9 | 8–12 | 7–13 | 7–14 | 6–14 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 116 | 111–121 | 109–123 | 108–124 | 106–127 |
+| Partido Socialista Obrero Español | ES | | 18 | 16–21 | 16–22 | 16–23 | 15–24 |
+| Partito Democratico | IT | | 18 | 17–21 | 16–21 | 16–21 | 15–22 |
+| Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–14 | 9–15 | 9–15 |
+| Parti socialiste–Place Publique | FR | | 9 | 7–12 | 6–13 | 6–14 | 5–14 |
 | Partido Socialista | PT | | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | Partidul Social Democrat | RO | | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | Nowa Lewica | PL | | 4 | 3–5 | 3–6 | 3–6 | 0–6 |
-| Socialdemokraterne | DK | | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Parti Socialiste | BE-FRC | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -58,32 +58,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 105 | 0.1% | 100% |  |
-| 106 | 0.2% | 99.9% |  |
-| 107 | 0.5% | 99.7% |  |
-| 108 | 1.0% | 99.2% |  |
-| 109 | 2% | 98% |  |
-| 110 | 3% | 96% |  |
-| 111 | 4% | 94% |  |
-| 112 | 6% | 89% |  |
-| 113 | 8% | 83% |  |
-| 114 | 9% | 75% |  |
-| 115 | 10% | 65% |  |
-| 116 | 11% | 55% | Median |
-| 117 | 10% | 44% |  |
-| 118 | 9% | 34% |  |
-| 119 | 8% | 25% |  |
-| 120 | 6% | 18% |  |
-| 121 | 4% | 12% |  |
-| 122 | 3% | 8% |  |
-| 123 | 2% | 5% |  |
-| 124 | 1.2% | 3% |  |
-| 125 | 0.7% | 1.4% |  |
-| 126 | 0.4% | 0.7% |  |
-| 127 | 0.2% | 0.3% |  |
-| 128 | 0.1% | 0.2% |  |
-| 129 | 0% | 0.1% |  |
-| 130 | 0% | 0% |  |
+| 103 | 0% | 100% |  |
+| 104 | 0.1% | 99.9% |  |
+| 105 | 0.2% | 99.9% |  |
+| 106 | 0.4% | 99.7% |  |
+| 107 | 0.8% | 99.3% |  |
+| 108 | 1.4% | 98% |  |
+| 109 | 2% | 97% |  |
+| 110 | 3% | 95% |  |
+| 111 | 5% | 91% |  |
+| 112 | 6% | 87% |  |
+| 113 | 8% | 80% |  |
+| 114 | 9% | 73% |  |
+| 115 | 10% | 64% |  |
+| 116 | 10% | 54% | Median |
+| 117 | 9% | 44% |  |
+| 118 | 8% | 35% |  |
+| 119 | 7% | 27% |  |
+| 120 | 6% | 19% |  |
+| 121 | 4% | 14% |  |
+| 122 | 3% | 9% |  |
+| 123 | 2% | 6% |  |
+| 124 | 1.5% | 4% |  |
+| 125 | 0.9% | 2% |  |
+| 126 | 0.5% | 1.1% |  |
+| 127 | 0.3% | 0.6% |  |
+| 128 | 0.2% | 0.3% |  |
+| 129 | 0.1% | 0.1% |  |
+| 130 | 0% | 0.1% |  |
 | 131 | 0% | 0% |  |
 | 132 | 0% | 0% |  |
 | 133 | 0% | 0% |  |

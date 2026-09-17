@@ -19,12 +19,12 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
-| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 1 | 0–1 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
@@ -73,13 +73,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 7% | 99.9% |  |
-| 7 | 22% | 93% |  |
-| 8 | 37% | 71% | Median |
-| 9 | 28% | 34% |  |
-| 10 | 6% | 6% |  |
-| 11 | 0.3% | 0.4% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 9% | 99.8% |  |
+| 7 | 28% | 91% |  |
+| 8 | 35% | 63% | Median |
+| 9 | 22% | 27% |  |
+| 10 | 5% | 6% |  |
+| 11 | 0.4% | 0.5% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

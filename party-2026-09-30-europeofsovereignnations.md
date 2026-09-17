@@ -18,15 +18,15 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 47 | 44–50 | 44–51 | 43–52 | 42–54 |
-| Alternative für Deutschland | DE | | 27 | 25–29 | 24–29 | 24–29 | 22–30 |
-| Futuro Nazionale | IT | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| Europe of Sovereign Nations | EU | 25 | 47 | 44–51 | 44–52 | 43–54 | 42–56 |
+| Alternative für Deutschland | DE | | 27 | 25–29 | 24–30 | 24–30 | 22–31 |
+| Futuro Nazionale | IT | | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Nowa Nadzieja | PL | | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
-| Reconquête | FR | | 0 | 0 | 0 | 0–4 | 0–5 |
+| Reconquête | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане | BG | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -55,22 +55,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
 | 40 | 0.1% | 100% |  |
-| 41 | 0.3% | 99.9% |  |
-| 42 | 1.0% | 99.6% |  |
-| 43 | 3% | 98.5% |  |
-| 44 | 6% | 96% |  |
-| 45 | 11% | 89% |  |
-| 46 | 16% | 78% |  |
-| 47 | 18% | 62% | Median |
-| 48 | 16% | 45% |  |
-| 49 | 12% | 28% |  |
-| 50 | 8% | 16% |  |
-| 51 | 4% | 8% |  |
-| 52 | 2% | 4% |  |
-| 53 | 0.9% | 2% |  |
-| 54 | 0.4% | 0.8% |  |
-| 55 | 0.2% | 0.4% |  |
-| 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 41 | 0.4% | 99.9% |  |
+| 42 | 1.1% | 99.5% |  |
+| 43 | 3% | 98% |  |
+| 44 | 6% | 95% |  |
+| 45 | 10% | 89% |  |
+| 46 | 14% | 79% |  |
+| 47 | 16% | 65% | Median |
+| 48 | 15% | 49% |  |
+| 49 | 12% | 34% |  |
+| 50 | 8% | 22% |  |
+| 51 | 6% | 14% |  |
+| 52 | 4% | 8% |  |
+| 53 | 2% | 5% |  |
+| 54 | 1.3% | 3% |  |
+| 55 | 0.7% | 1.3% |  |
+| 56 | 0.3% | 0.6% |  |
+| 57 | 0.2% | 0.2% |  |
+| 58 | 0.1% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 

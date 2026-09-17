@@ -18,15 +18,15 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
+| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–31 | 24–31 | 22–32 |
 | Прогресивна България | BG | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
-| Bündnis Sahra Wagenknecht | DE | | 3 | 2–4 | 2–5 | 2–5 | 1–6 |
+| Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 1 | 1 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,14 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 2% | 99.5% |  |
 | 24 | 4% | 98% |  |
 | 25 | 9% | 94% |  |
-| 26 | 16% | 84% |  |
+| 26 | 15% | 84% |  |
 | 27 | 20% | 69% | Median |
 | 28 | 20% | 49% |  |
 | 29 | 15% | 29% |  |
-| 30 | 8% | 14% |  |
+| 30 | 9% | 14% |  |
 | 31 | 4% | 5% |  |
 | 32 | 1.2% | 2% | Last Result |
-| 33 | 0.3% | 0.4% |  |
+| 33 | 0.3% | 0.3% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
 
