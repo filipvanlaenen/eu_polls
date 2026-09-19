@@ -10,9 +10,9 @@ Last result: **46** seats (General Election of 26 May 2019)
 
 Current median: **64** seats (+18 seats)
 
-At least one member in **11 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> BE, CY, DE, DK, ES, FI, FR, GR, IE, IT, SE
+> BE, CY, DE, DK, ES, FI, FR, IE, IT, SE
 
 ### Confidence Intervals
 
@@ -35,7 +35,6 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -50,6 +49,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0 |
 | Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0 | 0 | 0 | 0–1 |
 
@@ -70,27 +70,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
 | 54 | 0% | 100% |  |
-| 55 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
 | 56 | 0.4% | 99.8% |  |
-| 57 | 1.0% | 99.4% |  |
+| 57 | 1.1% | 99.4% |  |
 | 58 | 2% | 98% |  |
 | 59 | 4% | 96% |  |
-| 60 | 6% | 93% |  |
-| 61 | 8% | 87% |  |
-| 62 | 10% | 79% |  |
-| 63 | 11% | 69% |  |
-| 64 | 12% | 58% | Median |
+| 60 | 6% | 92% |  |
+| 61 | 8% | 86% |  |
+| 62 | 10% | 78% |  |
+| 63 | 11% | 68% |  |
+| 64 | 12% | 57% | Median |
 | 65 | 11% | 46% |  |
 | 66 | 10% | 35% |  |
-| 67 | 8% | 26% |  |
-| 68 | 6% | 18% |  |
+| 67 | 8% | 25% |  |
+| 68 | 6% | 17% |  |
 | 69 | 4% | 11% |  |
 | 70 | 3% | 7% |  |
 | 71 | 2% | 4% |  |
 | 72 | 1.1% | 2% |  |
 | 73 | 0.6% | 1.1% |  |
-| 74 | 0.3% | 0.6% |  |
-| 75 | 0.1% | 0.3% |  |
+| 74 | 0.3% | 0.5% |  |
+| 75 | 0.1% | 0.2% |  |
 | 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 

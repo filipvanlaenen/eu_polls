@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **8** seats (+7 seats)
+Current median: **7** seats (+6 seats)
 
 At least one member in **3 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
-| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Parties currently not represented in the EP | EU | 1 | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
+| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 1 | 0–1 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -74,13 +74,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 9% | 99.8% |  |
-| 7 | 28% | 91% |  |
-| 8 | 35% | 63% | Median |
-| 9 | 22% | 27% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.4% | 0.5% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 6 | 14% | 99.8% |  |
+| 7 | 39% | 86% | Median |
+| 8 | 35% | 47% |  |
+| 9 | 11% | 12% |  |
+| 10 | 1.1% | 1.2% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

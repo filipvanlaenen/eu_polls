@@ -18,7 +18,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 165–176 | 164–177 | 163–179 | 160–181 |
+| European People’s Party | EU | 188 | 171 | 165–176 | 164–177 | 162–178 | 160–181 |
 | Partido Popular | ES | | 22 | 19–24 | 18–24 | 18–24 | 17–25 |
 | Koalicja Obywatelska | PL | | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
 | Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–18 | 13–19 |
@@ -39,12 +39,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Latvijas Reģionu Apvienība | LV | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Граждани за европейско развитие на България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 1–3 |
 | Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -86,30 +86,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 157 | 0% | 100% |  |
 | 158 | 0.1% | 99.9% |  |
 | 159 | 0.2% | 99.9% |  |
-| 160 | 0.3% | 99.7% |  |
-| 161 | 0.6% | 99.4% |  |
-| 162 | 1.0% | 98.8% |  |
-| 163 | 2% | 98% |  |
+| 160 | 0.4% | 99.7% |  |
+| 161 | 0.7% | 99.3% |  |
+| 162 | 1.1% | 98.6% |  |
+| 163 | 2% | 97% |  |
 | 164 | 3% | 96% |  |
 | 165 | 4% | 93% |  |
-| 166 | 5% | 90% |  |
-| 167 | 6% | 85% |  |
-| 168 | 8% | 78% |  |
-| 169 | 9% | 71% |  |
-| 170 | 10% | 62% |  |
-| 171 | 10% | 52% | Median |
-| 172 | 9% | 42% |  |
-| 173 | 8% | 33% |  |
-| 174 | 7% | 25% |  |
-| 175 | 6% | 18% |  |
-| 176 | 4% | 12% |  |
-| 177 | 3% | 8% |  |
-| 178 | 2% | 5% |  |
-| 179 | 1.2% | 3% |  |
-| 180 | 0.7% | 1.5% |  |
-| 181 | 0.4% | 0.7% |  |
-| 182 | 0.2% | 0.4% |  |
-| 183 | 0.1% | 0.2% |  |
+| 166 | 5% | 89% |  |
+| 167 | 7% | 84% |  |
+| 168 | 8% | 77% |  |
+| 169 | 9% | 69% |  |
+| 170 | 10% | 60% |  |
+| 171 | 10% | 50% | Median |
+| 172 | 9% | 40% |  |
+| 173 | 8% | 31% |  |
+| 174 | 7% | 23% |  |
+| 175 | 5% | 16% |  |
+| 176 | 4% | 11% |  |
+| 177 | 3% | 7% |  |
+| 178 | 2% | 4% |  |
+| 179 | 1.1% | 2% |  |
+| 180 | 0.6% | 1.3% |  |
+| 181 | 0.3% | 0.6% |  |
+| 182 | 0.2% | 0.3% |  |
+| 183 | 0.1% | 0.1% |  |
 | 184 | 0% | 0.1% |  |
 | 185 | 0% | 0% |  |
 | 186 | 0% | 0% |  |
