@@ -18,10 +18,10 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 171 | 165–176 | 164–177 | 163–179 | 160–181 |
-| Partido Popular | ES | | 22 | 19–24 | 18–24 | 18–24 | 17–25 |
+| European People’s Party | EU | 188 | 171 | 166–176 | 164–178 | 163–179 | 161–181 |
+| Partido Popular | ES | | 22 | 19–24 | 19–24 | 18–25 | 17–25 |
 | Koalicja Obywatelska | PL | | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
-| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–18 | 13–19 |
+| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
 | Tisztelet és Szabadság | HU | | 15 | 13–16 | 13–16 | 13–17 | 13–17 |
 | Partidul Național Liberal | RO | | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | Les Républicains | FR | | 7 | 7–9 | 6–9 | 6–10 | 6–10 |
@@ -43,15 +43,15 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 2 | 2 | 1–3 |
+| Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
-| Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Det Konservative Folkeparti | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Kristdemokraterna | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Да, България! | BG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Демократична България | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | 50Plus | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -83,32 +83,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 157 | 0% | 100% |  |
-| 158 | 0.1% | 99.9% |  |
-| 159 | 0.2% | 99.9% |  |
-| 160 | 0.3% | 99.7% |  |
-| 161 | 0.6% | 99.4% |  |
-| 162 | 1.1% | 98.8% |  |
-| 163 | 2% | 98% |  |
-| 164 | 3% | 96% |  |
-| 165 | 4% | 93% |  |
-| 166 | 5% | 90% |  |
-| 167 | 6% | 85% |  |
-| 168 | 8% | 78% |  |
-| 169 | 9% | 70% |  |
-| 170 | 10% | 61% |  |
-| 171 | 10% | 52% | Median |
-| 172 | 9% | 42% |  |
-| 173 | 8% | 33% |  |
-| 174 | 7% | 25% |  |
-| 175 | 6% | 17% |  |
-| 176 | 4% | 12% |  |
+| 158 | 0.1% | 100% |  |
+| 159 | 0.1% | 99.9% |  |
+| 160 | 0.3% | 99.8% |  |
+| 161 | 0.5% | 99.5% |  |
+| 162 | 0.9% | 99.1% |  |
+| 163 | 1.4% | 98% |  |
+| 164 | 2% | 97% |  |
+| 165 | 3% | 95% |  |
+| 166 | 5% | 91% |  |
+| 167 | 6% | 87% |  |
+| 168 | 7% | 81% |  |
+| 169 | 9% | 73% |  |
+| 170 | 10% | 64% |  |
+| 171 | 10% | 55% | Median |
+| 172 | 10% | 45% |  |
+| 173 | 9% | 35% |  |
+| 174 | 8% | 26% |  |
+| 175 | 6% | 19% |  |
+| 176 | 5% | 13% |  |
 | 177 | 3% | 8% |  |
 | 178 | 2% | 5% |  |
-| 179 | 1.2% | 3% |  |
-| 180 | 0.7% | 1.4% |  |
-| 181 | 0.4% | 0.7% |  |
-| 182 | 0.2% | 0.3% |  |
+| 179 | 1.3% | 3% |  |
+| 180 | 0.8% | 2% |  |
+| 181 | 0.4% | 0.8% |  |
+| 182 | 0.2% | 0.4% |  |
 | 183 | 0.1% | 0.2% |  |
 | 184 | 0% | 0.1% |  |
 | 185 | 0% | 0% |  |

@@ -18,11 +18,11 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 66 | 62–71 | 60–72 | 59–74 | 58–76 |
+| Renew Europe | EU | 77 | 66 | 61–71 | 60–72 | 59–73 | 57–76 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–21 | 14–21 | 14–22 | 13–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -35,7 +35,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -43,8 +43,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Venstre | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
+| Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -78,29 +78,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.1% | 100% |  |
-| 57 | 0.3% | 99.8% |  |
-| 58 | 0.7% | 99.6% |  |
-| 59 | 1.5% | 98.8% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.2% | 99.9% |  |
+| 57 | 0.4% | 99.8% |  |
+| 58 | 1.0% | 99.3% |  |
+| 59 | 2% | 98% |  |
 | 60 | 3% | 97% |  |
-| 61 | 4% | 95% |  |
-| 62 | 6% | 90% |  |
-| 63 | 8% | 84% |  |
-| 64 | 10% | 75% |  |
-| 65 | 11% | 65% |  |
-| 66 | 11% | 54% | Median |
-| 67 | 10% | 43% |  |
-| 68 | 9% | 33% |  |
-| 69 | 7% | 24% |  |
-| 70 | 6% | 17% |  |
-| 71 | 4% | 11% |  |
+| 61 | 5% | 93% |  |
+| 62 | 7% | 88% |  |
+| 63 | 9% | 81% |  |
+| 64 | 10% | 72% |  |
+| 65 | 11% | 62% |  |
+| 66 | 11% | 51% | Median |
+| 67 | 10% | 40% |  |
+| 68 | 8% | 31% |  |
+| 69 | 7% | 22% |  |
+| 70 | 5% | 15% |  |
+| 71 | 4% | 10% |  |
 | 72 | 3% | 7% |  |
-| 73 | 2% | 5% |  |
-| 74 | 1.2% | 3% |  |
-| 75 | 0.7% | 1.4% |  |
-| 76 | 0.4% | 0.8% |  |
-| 77 | 0.2% | 0.4% | Last Result |
-| 78 | 0.1% | 0.2% |  |
+| 73 | 2% | 4% |  |
+| 74 | 1.0% | 2% |  |
+| 75 | 0.6% | 1.3% |  |
+| 76 | 0.3% | 0.6% |  |
+| 77 | 0.2% | 0.3% | Last Result |
+| 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0.1% |  |
 | 80 | 0% | 0% |  |
 

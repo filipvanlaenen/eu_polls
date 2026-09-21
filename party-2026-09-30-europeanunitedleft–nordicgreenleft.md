@@ -24,14 +24,14 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–12 | 9–14 |
 | Sinn Féin | IE | | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Social Democrats | IE | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Podemos | ES | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -70,16 +70,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
 | 54 | 0% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
+| 55 | 0.1% | 100% |  |
 | 56 | 0.4% | 99.8% |  |
-| 57 | 1.1% | 99.4% |  |
+| 57 | 1.0% | 99.4% |  |
 | 58 | 2% | 98% |  |
 | 59 | 4% | 96% |  |
-| 60 | 6% | 92% |  |
-| 61 | 8% | 86% |  |
-| 62 | 10% | 78% |  |
-| 63 | 11% | 68% |  |
-| 64 | 12% | 57% | Median |
+| 60 | 6% | 93% |  |
+| 61 | 8% | 87% |  |
+| 62 | 10% | 79% |  |
+| 63 | 11% | 69% |  |
+| 64 | 12% | 58% | Median |
 | 65 | 11% | 46% |  |
 | 66 | 10% | 35% |  |
 | 67 | 8% | 25% |  |

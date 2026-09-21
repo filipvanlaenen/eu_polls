@@ -24,12 +24,12 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Die PARTEI | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -52,17 +52,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.5% | 99.9% |  |
-| 23 | 2% | 99.4% |  |
-| 24 | 5% | 97% |  |
-| 25 | 10% | 92% |  |
-| 26 | 16% | 82% |  |
-| 27 | 20% | 66% | Median |
-| 28 | 19% | 46% |  |
-| 29 | 14% | 26% |  |
-| 30 | 8% | 12% |  |
+| 22 | 0.7% | 99.8% |  |
+| 23 | 2% | 99.1% |  |
+| 24 | 6% | 97% |  |
+| 25 | 11% | 91% |  |
+| 26 | 17% | 79% |  |
+| 27 | 20% | 63% | Median |
+| 28 | 18% | 43% |  |
+| 29 | 13% | 25% |  |
+| 30 | 7% | 12% |  |
 | 31 | 3% | 4% |  |
-| 32 | 1.0% | 1.2% | Last Result |
+| 32 | 0.9% | 1.2% | Last Result |
 | 33 | 0.2% | 0.3% |  |
 | 34 | 0% | 0% |  |
 
