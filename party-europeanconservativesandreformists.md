@@ -28,7 +28,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Rozwój Plus | PL | | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| Ελληνική Λύση | GR | | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
@@ -58,15 +58,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 73 | 0% | 100% |  |
+| 73 | 0.1% | 100% |  |
 | 74 | 0.2% | 99.9% |  |
 | 75 | 0.5% | 99.8% |  |
 | 76 | 1.2% | 99.3% |  |
 | 77 | 3% | 98% |  |
 | 78 | 5% | 95% | Last Result |
-| 79 | 8% | 91% |  |
-| 80 | 11% | 83% |  |
-| 81 | 13% | 72% |  |
+| 79 | 8% | 90% |  |
+| 80 | 11% | 82% |  |
+| 81 | 13% | 71% |  |
 | 82 | 14% | 58% | Median |
 | 83 | 13% | 44% |  |
 | 84 | 11% | 30% |  |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 86 | 5% | 11% |  |
 | 87 | 3% | 6% |  |
 | 88 | 2% | 3% |  |
-| 89 | 0.8% | 1.3% |  |
+| 89 | 0.8% | 1.2% |  |
 | 90 | 0.3% | 0.5% |  |
 | 91 | 0.1% | 0.2% |  |
 | 92 | 0% | 0.1% |  |
