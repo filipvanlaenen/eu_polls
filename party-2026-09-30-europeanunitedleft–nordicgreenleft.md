@@ -18,7 +18,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 64 | 60–69 | 59–70 | 58–71 | 56–74 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 60–69 | 59–70 | 58–71 | 56–73 |
 | La France insoumise | FR | | 15 | 14–18 | 13–19 | 13–19 | 12–20 |
 | Die Linke | DE | | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–12 | 9–12 | 9–14 |
@@ -31,18 +31,18 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
 | Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
-| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0 |
-| Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Coligação Democrática Unitária | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Partij voor de Dieren | NL | | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -69,26 +69,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0% | 100% |  |
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
-| 54 | 0% | 100% |  |
-| 55 | 0.1% | 100% |  |
-| 56 | 0.4% | 99.8% |  |
-| 57 | 1.0% | 99.4% |  |
-| 58 | 2% | 98% |  |
-| 59 | 4% | 96% |  |
-| 60 | 6% | 93% |  |
-| 61 | 8% | 87% |  |
-| 62 | 10% | 79% |  |
-| 63 | 11% | 69% |  |
-| 64 | 12% | 58% | Median |
-| 65 | 11% | 46% |  |
-| 66 | 10% | 35% |  |
-| 67 | 8% | 25% |  |
-| 68 | 6% | 17% |  |
-| 69 | 4% | 11% |  |
-| 70 | 3% | 7% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.6% | 99.7% |  |
+| 57 | 1.3% | 99.2% |  |
+| 58 | 3% | 98% |  |
+| 59 | 4% | 95% |  |
+| 60 | 6% | 91% |  |
+| 61 | 8% | 85% |  |
+| 62 | 10% | 76% |  |
+| 63 | 11% | 66% |  |
+| 64 | 11% | 55% | Median |
+| 65 | 11% | 44% |  |
+| 66 | 9% | 33% |  |
+| 67 | 8% | 24% |  |
+| 68 | 6% | 16% |  |
+| 69 | 4% | 10% |  |
+| 70 | 3% | 6% |  |
 | 71 | 2% | 4% |  |
-| 72 | 1.1% | 2% |  |
-| 73 | 0.6% | 1.1% |  |
+| 72 | 1.0% | 2% |  |
+| 73 | 0.5% | 1.0% |  |
 | 74 | 0.3% | 0.5% |  |
 | 75 | 0.1% | 0.2% |  |
 | 76 | 0.1% | 0.1% |  |

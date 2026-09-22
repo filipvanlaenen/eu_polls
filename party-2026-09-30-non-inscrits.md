@@ -18,14 +18,14 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 27 | 25–30 | 24–30 | 23–31 | 22–32 |
+| Non-Inscrits | EU | 32 | 27 | 24–29 | 23–30 | 23–30 | 22–31 |
 | Прогресивна България | BG | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| Konfederacja Korony Polskiej | PL | | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 1–6 |
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Πλεύση Ελευθερίας | GR | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -51,19 +51,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0.1% | 100% |  |
-| 22 | 0.7% | 99.8% |  |
-| 23 | 2% | 99.1% |  |
-| 24 | 6% | 97% |  |
-| 25 | 11% | 91% |  |
-| 26 | 17% | 79% |  |
-| 27 | 20% | 63% | Median |
-| 28 | 18% | 43% |  |
-| 29 | 13% | 25% |  |
-| 30 | 7% | 12% |  |
-| 31 | 3% | 4% |  |
-| 32 | 0.9% | 1.2% | Last Result |
-| 33 | 0.2% | 0.3% |  |
+| 21 | 0.3% | 100% |  |
+| 22 | 1.3% | 99.7% |  |
+| 23 | 4% | 98% |  |
+| 24 | 9% | 94% |  |
+| 25 | 15% | 85% |  |
+| 26 | 20% | 70% |  |
+| 27 | 20% | 50% | Median |
+| 28 | 15% | 31% |  |
+| 29 | 9% | 15% |  |
+| 30 | 4% | 6% |  |
+| 31 | 1.4% | 2% |  |
+| 32 | 0.4% | 0.4% | Last Result |
+| 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
 

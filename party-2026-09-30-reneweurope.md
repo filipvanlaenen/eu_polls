@@ -18,14 +18,14 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 66 | 61–71 | 60–72 | 59–73 | 57–76 |
+| Renew Europe | EU | 77 | 66 | 61–71 | 60–72 | 59–73 | 58–76 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–21 | 14–21 | 14–22 | 13–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
-| Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Fianna Fáil | IE | | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
+| Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Centerpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -35,13 +35,13 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Anders | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 1 |
-| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Moderaterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -78,28 +78,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0.1% | 100% |  |
-| 56 | 0.2% | 99.9% |  |
-| 57 | 0.4% | 99.8% |  |
-| 58 | 1.0% | 99.3% |  |
-| 59 | 2% | 98% |  |
+| 56 | 0.1% | 100% |  |
+| 57 | 0.3% | 99.8% |  |
+| 58 | 0.8% | 99.5% |  |
+| 59 | 2% | 98.7% |  |
 | 60 | 3% | 97% |  |
-| 61 | 5% | 93% |  |
-| 62 | 7% | 88% |  |
-| 63 | 9% | 81% |  |
-| 64 | 10% | 72% |  |
-| 65 | 11% | 62% |  |
-| 66 | 11% | 51% | Median |
-| 67 | 10% | 40% |  |
-| 68 | 8% | 31% |  |
-| 69 | 7% | 22% |  |
-| 70 | 5% | 15% |  |
-| 71 | 4% | 10% |  |
+| 61 | 5% | 94% |  |
+| 62 | 7% | 89% |  |
+| 63 | 9% | 83% |  |
+| 64 | 10% | 74% |  |
+| 65 | 11% | 63% |  |
+| 66 | 11% | 52% | Median |
+| 67 | 10% | 41% |  |
+| 68 | 9% | 31% |  |
+| 69 | 7% | 23% |  |
+| 70 | 5% | 16% |  |
+| 71 | 4% | 11% |  |
 | 72 | 3% | 7% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.0% | 2% |  |
+| 74 | 1.1% | 2% |  |
 | 75 | 0.6% | 1.3% |  |
-| 76 | 0.3% | 0.6% |  |
+| 76 | 0.3% | 0.7% |  |
 | 77 | 0.2% | 0.3% | Last Result |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0.1% |  |
