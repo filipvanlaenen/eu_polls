@@ -18,13 +18,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 47 | 44–50 | 43–52 | 42–53 | 41–55 |
-| Alternative für Deutschland | DE | | 27 | 25–29 | 24–29 | 24–30 | 22–31 |
-| Futuro Nazionale | IT | | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
-| Nowa Nadzieja | PL | | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
-| Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| Europe of Sovereign Nations | EU | 25 | 47 | 44–51 | 43–52 | 42–53 | 41–55 |
+| Alternative für Deutschland | DE | | 27 | 25–29 | 24–30 | 24–31 | 22–31 |
+| Futuro Nazionale | IT | | 7 | 6–8 | 5–8 | 5–8 | 4–9 |
+| Nowa Nadzieja | PL | | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
+| Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
-| Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Reconquête | FR | | 0 | 0 | 0–5 | 0–5 | 0–5 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
@@ -56,21 +56,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 0.1% | 100% |  |
 | 40 | 0.2% | 99.9% |  |
 | 41 | 0.7% | 99.7% |  |
-| 42 | 2% | 99.0% |  |
+| 42 | 2% | 99.1% |  |
 | 43 | 5% | 97% |  |
-| 44 | 9% | 92% |  |
-| 45 | 13% | 83% |  |
-| 46 | 16% | 69% |  |
-| 47 | 15% | 53% | Median |
-| 48 | 13% | 38% |  |
-| 49 | 9% | 25% |  |
-| 50 | 6% | 16% |  |
+| 44 | 9% | 93% |  |
+| 45 | 13% | 84% |  |
+| 46 | 16% | 71% |  |
+| 47 | 16% | 55% | Median |
+| 48 | 13% | 39% |  |
+| 49 | 9% | 26% |  |
+| 50 | 6% | 17% |  |
 | 51 | 4% | 10% |  |
 | 52 | 3% | 6% |  |
 | 53 | 2% | 3% |  |
-| 54 | 0.8% | 2% |  |
-| 55 | 0.4% | 0.8% |  |
-| 56 | 0.2% | 0.3% |  |
+| 54 | 0.9% | 2% |  |
+| 55 | 0.5% | 0.8% |  |
+| 56 | 0.2% | 0.4% |  |
 | 57 | 0.1% | 0.1% |  |
 | 58 | 0% | 0% |  |
 

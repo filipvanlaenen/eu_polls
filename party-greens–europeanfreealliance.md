@@ -18,10 +18,10 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 36–43 | 35–44 | 35–45 | 33–46 |
-| Bündnis 90/Die Grünen | DE | | 14 | 13–17 | 12–18 | 12–18 | 11–18 |
-| Europa Verde | IT | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
-| Progressief Nederland | NL | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Greens–European Free Alliance | EU | 53 | 39 | 36–42 | 35–43 | 34–44 | 33–46 |
+| Bündnis 90/Die Grünen | DE | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| Europa Verde | IT | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Die Grünen–Die Grüne Alternative | AT | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Možemo! | HR | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -65,23 +65,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0.1% | 100% |  |
-| 33 | 0.5% | 99.8% |  |
-| 34 | 1.5% | 99.4% |  |
-| 35 | 4% | 98% |  |
+| 32 | 0.2% | 100% |  |
+| 33 | 0.6% | 99.8% |  |
+| 34 | 2% | 99.1% |  |
+| 35 | 4% | 97% |  |
 | 36 | 7% | 94% |  |
 | 37 | 11% | 87% |  |
 | 38 | 14% | 76% |  |
 | 39 | 16% | 62% | Median |
-| 40 | 14% | 46% |  |
-| 41 | 12% | 32% |  |
-| 42 | 8% | 20% |  |
-| 43 | 6% | 12% |  |
-| 44 | 3% | 6% |  |
-| 45 | 2% | 3% |  |
-| 46 | 0.8% | 1.3% |  |
-| 47 | 0.3% | 0.5% |  |
-| 48 | 0.1% | 0.1% |  |
+| 40 | 15% | 47% |  |
+| 41 | 13% | 32% |  |
+| 42 | 9% | 19% |  |
+| 43 | 5% | 10% |  |
+| 44 | 3% | 5% |  |
+| 45 | 1.2% | 2% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.1% | 0.2% |  |
+| 48 | 0% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
