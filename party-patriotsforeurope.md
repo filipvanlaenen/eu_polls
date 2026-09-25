@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–101 | 89–101 | 86–103 |
+| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–101 | 89–101 | 87–103 |
 | Rassemblement national | FR | | 31 | 28–34 | 27–34 | 27–34 | 27–35 |
 | Vox | ES | | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
