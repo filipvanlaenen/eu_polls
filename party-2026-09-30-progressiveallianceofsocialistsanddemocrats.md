@@ -18,10 +18,10 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 116 | 111–121 | 110–123 | 109–124 | 107–127 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 116 | 111–122 | 110–123 | 109–124 | 107–127 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–21 | 16–22 | 16–22 | 15–23 |
 | Partito Democratico | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
+| Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–15 | 10–15 | 9–15 |
 | Parti socialiste–Place Publique | FR | | 9 | 7–12 | 6–13 | 6–14 | 5–14 |
 | Partido Socialista | PT | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Partidul Social Democrat | RO | | 7 | 6–10 | 6–10 | 6–10 | 6–11 |
@@ -58,32 +58,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 104 | 0.1% | 100% |  |
+| 104 | 0% | 100% |  |
 | 105 | 0.1% | 99.9% |  |
-| 106 | 0.3% | 99.8% |  |
-| 107 | 0.5% | 99.5% |  |
-| 108 | 1.0% | 99.0% |  |
+| 106 | 0.2% | 99.8% |  |
+| 107 | 0.5% | 99.6% |  |
+| 108 | 1.0% | 99.1% |  |
 | 109 | 2% | 98% |  |
 | 110 | 3% | 96% |  |
-| 111 | 4% | 93% |  |
-| 112 | 6% | 89% |  |
+| 111 | 4% | 94% |  |
+| 112 | 6% | 90% |  |
 | 113 | 7% | 84% |  |
-| 114 | 9% | 76% |  |
-| 115 | 10% | 68% |  |
-| 116 | 10% | 58% | Median |
-| 117 | 10% | 48% |  |
-| 118 | 9% | 38% |  |
-| 119 | 8% | 29% |  |
-| 120 | 6% | 21% |  |
+| 114 | 9% | 77% |  |
+| 115 | 10% | 69% |  |
+| 116 | 10% | 59% | Median |
+| 117 | 10% | 49% |  |
+| 118 | 9% | 39% |  |
+| 119 | 8% | 30% |  |
+| 120 | 7% | 22% |  |
 | 121 | 5% | 15% |  |
 | 122 | 4% | 10% |  |
-| 123 | 2% | 6% |  |
+| 123 | 3% | 7% |  |
 | 124 | 2% | 4% |  |
-| 125 | 1.0% | 2% |  |
-| 126 | 0.6% | 1.2% |  |
-| 127 | 0.3% | 0.6% |  |
+| 125 | 1.1% | 2% |  |
+| 126 | 0.6% | 1.3% |  |
+| 127 | 0.3% | 0.7% |  |
 | 128 | 0.2% | 0.3% |  |
-| 129 | 0.1% | 0.1% |  |
+| 129 | 0.1% | 0.2% |  |
 | 130 | 0% | 0.1% |  |
 | 131 | 0% | 0% |  |
 | 132 | 0% | 0% |  |

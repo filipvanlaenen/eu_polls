@@ -33,7 +33,7 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| Partei Mensch Klima Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -69,22 +69,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0% | 100% |  |
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
-| 54 | 0.1% | 100% |  |
+| 54 | 0% | 100% |  |
 | 55 | 0.2% | 99.9% |  |
 | 56 | 0.4% | 99.8% |  |
-| 57 | 1.0% | 99.3% |  |
+| 57 | 1.0% | 99.4% |  |
 | 58 | 2% | 98% |  |
-| 59 | 4% | 96% |  |
-| 60 | 6% | 93% |  |
-| 61 | 8% | 87% |  |
-| 62 | 10% | 79% |  |
+| 59 | 3% | 96% |  |
+| 60 | 5% | 93% |  |
+| 61 | 8% | 88% |  |
+| 62 | 10% | 80% |  |
 | 63 | 11% | 70% |  |
-| 64 | 12% | 58% | Median |
+| 64 | 12% | 59% | Median |
 | 65 | 11% | 47% |  |
 | 66 | 10% | 36% |  |
 | 67 | 8% | 26% |  |
 | 68 | 6% | 18% |  |
-| 69 | 4% | 11% |  |
+| 69 | 5% | 11% |  |
 | 70 | 3% | 7% |  |
 | 71 | 2% | 4% |  |
 | 72 | 1.0% | 2% |  |

@@ -22,7 +22,7 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 15–21 | 15–21 | 14–22 | 13–23 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Democraten 66 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Freie Demokratische Partei | DE | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Fianna Fáil | IE | | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -77,29 +77,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0% | 100% |  |
+| 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
-| 59 | 0.5% | 99.8% |  |
-| 60 | 1.2% | 99.3% |  |
+| 59 | 0.6% | 99.7% |  |
+| 60 | 1.3% | 99.2% |  |
 | 61 | 3% | 98% |  |
-| 62 | 5% | 96% |  |
-| 63 | 7% | 91% |  |
-| 64 | 10% | 84% |  |
-| 65 | 12% | 74% |  |
-| 66 | 13% | 61% | Median |
-| 67 | 12% | 49% |  |
-| 68 | 10% | 37% |  |
-| 69 | 8% | 26% |  |
-| 70 | 6% | 18% |  |
-| 71 | 4% | 12% |  |
+| 62 | 5% | 95% |  |
+| 63 | 8% | 90% |  |
+| 64 | 10% | 82% |  |
+| 65 | 12% | 72% |  |
+| 66 | 13% | 60% | Median |
+| 67 | 12% | 47% |  |
+| 68 | 10% | 35% |  |
+| 69 | 8% | 25% |  |
+| 70 | 6% | 17% |  |
+| 71 | 4% | 11% |  |
 | 72 | 3% | 7% |  |
 | 73 | 2% | 4% |  |
-| 74 | 1.2% | 2% |  |
-| 75 | 0.6% | 1.3% |  |
+| 74 | 1.1% | 2% |  |
+| 75 | 0.6% | 1.2% |  |
 | 76 | 0.3% | 0.6% |  |
 | 77 | 0.2% | 0.3% | Last Result |
 | 78 | 0.1% | 0.1% |  |
-| 79 | 0% | 0.1% |  |
-| 80 | 0% | 0% |  |
+| 79 | 0% | 0% |  |
 
 
