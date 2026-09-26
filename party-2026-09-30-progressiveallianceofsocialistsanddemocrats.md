@@ -8,7 +8,7 @@ Members registered from **26 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **117** seats (-19 seats)
+Current median: **116** seats (-20 seats)
 
 At least one member in **21 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **21 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 117 | 112–122 | 110–123 | 109–125 | 107–127 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 116 | 111–121 | 110–123 | 109–124 | 107–127 |
 | Partido Socialista Obrero Español | ES | | 18 | 16–21 | 16–22 | 16–22 | 15–23 |
-| Partito Democratico | IT | | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
+| Partito Democratico | IT | | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
 | Parti socialiste–Place Publique | FR | | 9 | 7–12 | 6–13 | 6–14 | 5–14 |
 | Partido Socialista | PT | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -39,7 +39,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Vooruit | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Lëtzebuerger Sozialistesch Aarbechterpartei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati | SI | | 1 | 1 | 1 | 1 | 0–2 |
-| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικό Κόμμα | CY | | 1 | 1 | 1 | 1 | 1 |
 | Demokratikus Koalíció | HU | | 0 | 0 | 0 | 0 | 0 |
 | Labour Party | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -58,32 +58,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 104 | 0% | 100% |  |
+| 104 | 0.1% | 100% |  |
 | 105 | 0.1% | 99.9% |  |
-| 106 | 0.2% | 99.9% |  |
-| 107 | 0.4% | 99.7% |  |
-| 108 | 0.8% | 99.3% |  |
-| 109 | 1.4% | 98% |  |
-| 110 | 2% | 97% |  |
-| 111 | 4% | 95% |  |
-| 112 | 5% | 91% |  |
-| 113 | 7% | 86% |  |
-| 114 | 8% | 79% |  |
-| 115 | 9% | 71% |  |
-| 116 | 10% | 62% |  |
-| 117 | 10% | 51% | Median |
-| 118 | 9% | 41% |  |
-| 119 | 8% | 32% |  |
-| 120 | 7% | 24% |  |
-| 121 | 5% | 17% |  |
-| 122 | 4% | 11% |  |
-| 123 | 3% | 7% |  |
+| 106 | 0.3% | 99.8% |  |
+| 107 | 0.5% | 99.5% |  |
+| 108 | 1.0% | 99.0% |  |
+| 109 | 2% | 98% |  |
+| 110 | 3% | 96% |  |
+| 111 | 4% | 93% |  |
+| 112 | 6% | 89% |  |
+| 113 | 7% | 84% |  |
+| 114 | 9% | 76% |  |
+| 115 | 10% | 68% |  |
+| 116 | 10% | 58% | Median |
+| 117 | 10% | 48% |  |
+| 118 | 9% | 38% |  |
+| 119 | 8% | 29% |  |
+| 120 | 6% | 21% |  |
+| 121 | 5% | 15% |  |
+| 122 | 4% | 10% |  |
+| 123 | 2% | 6% |  |
 | 124 | 2% | 4% |  |
-| 125 | 1.2% | 3% |  |
-| 126 | 0.7% | 1.5% |  |
-| 127 | 0.4% | 0.8% |  |
-| 128 | 0.2% | 0.4% |  |
-| 129 | 0.1% | 0.2% |  |
+| 125 | 1.0% | 2% |  |
+| 126 | 0.6% | 1.2% |  |
+| 127 | 0.3% | 0.6% |  |
+| 128 | 0.2% | 0.3% |  |
+| 129 | 0.1% | 0.1% |  |
 | 130 | 0% | 0.1% |  |
 | 131 | 0% | 0% |  |
 | 132 | 0% | 0% |  |

@@ -18,7 +18,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 39 | 36–42 | 35–43 | 34–44 | 33–45 |
+| Greens–European Free Alliance | EU | 53 | 39 | 36–42 | 35–43 | 34–43 | 33–45 |
 | Bündnis 90/Die Grünen | DE | | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | Europa Verde | IT | | 3 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -33,7 +33,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Groen | BE-VLG | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 1 |
-| PROGRESĪVIE | LV | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
@@ -66,20 +66,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.9% |  |
-| 33 | 0.9% | 99.6% |  |
-| 34 | 2% | 98.7% |  |
+| 32 | 0.4% | 99.9% |  |
+| 33 | 1.1% | 99.5% |  |
+| 34 | 3% | 98% |  |
 | 35 | 5% | 96% |  |
-| 36 | 9% | 91% |  |
-| 37 | 12% | 83% |  |
-| 38 | 15% | 71% |  |
-| 39 | 16% | 56% | Median |
-| 40 | 14% | 40% |  |
-| 41 | 11% | 25% |  |
-| 42 | 7% | 14% |  |
-| 43 | 4% | 7% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.7% | 1.0% |  |
+| 36 | 9% | 90% |  |
+| 37 | 13% | 81% |  |
+| 38 | 15% | 69% |  |
+| 39 | 16% | 53% | Median |
+| 40 | 14% | 38% |  |
+| 41 | 11% | 24% |  |
+| 42 | 7% | 13% |  |
+| 43 | 4% | 6% |  |
+| 44 | 2% | 2% |  |
+| 45 | 0.6% | 0.9% |  |
 | 46 | 0.2% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
