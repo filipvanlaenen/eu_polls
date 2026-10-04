@@ -18,10 +18,10 @@ At least one member in **3 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 42 | 38–45 | 38–45 | 37–46 | 36–47 |
+| Patriots for Europe | EU | 84 | 42 | 39–45 | 38–45 | 37–46 | 37–47 |
 | Rassemblement national | FR | | 31 | 28–34 | 27–34 | 27–35 | 27–36 |
 | Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
-| Dansk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Dansk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -36,16 +36,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 4% | 99.5% |  |
 | 38 | 6% | 96% |  |
 | 39 | 7% | 90% |  |
-| 40 | 14% | 83% |  |
-| 41 | 17% | 69% |  |
-| 42 | 15% | 52% | Median |
-| 43 | 14% | 37% |  |
-| 44 | 12% | 23% |  |
-| 45 | 7% | 11% |  |
-| 46 | 3% | 4% |  |
-| 47 | 0.7% | 1.0% |  |
+| 40 | 12% | 83% |  |
+| 41 | 15% | 71% |  |
+| 42 | 15% | 56% | Median |
+| 43 | 14% | 40% |  |
+| 44 | 14% | 26% |  |
+| 45 | 9% | 13% |  |
+| 46 | 3% | 3% |  |
+| 47 | 0.6% | 0.8% |  |
 | 48 | 0.2% | 0.2% |  |
-| 49 | 0% | 0.1% |  |
+| 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

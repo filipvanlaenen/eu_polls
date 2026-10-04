@@ -8,7 +8,7 @@ Members registered from **8 countries**:
 
 Last result: **136** seats (General Election of 26 May 2019)
 
-Current median: **39** seats (-97 seats)
+Current median: **40** seats (-96 seats)
 
 At least one member in **8 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **8 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Progressive Alliance of Socialists and Democrats | EU | 136 | 39 | 36–43 | 35–44 | 34–45 | 33–46 |
+| Progressive Alliance of Socialists and Democrats | EU | 136 | 40 | 36–43 | 35–44 | 35–45 | 33–47 |
 | Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 10–15 | 10–15 | 9–15 |
-| Parti socialiste–Place Publique | FR | | 9 | 6–12 | 6–13 | 5–14 | 4–14 |
+| Parti socialiste–Place Publique | FR | | 9 | 6–12 | 6–13 | 5–14 | 5–14 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6 | 6 | 6 | 6 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
@@ -40,21 +40,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0% | 100% |  |
 | 30 | 0.1% | 99.9% |  |
 | 31 | 0.1% | 99.9% |  |
-| 32 | 0.3% | 99.8% |  |
-| 33 | 0.7% | 99.5% |  |
-| 34 | 2% | 98.8% |  |
-| 35 | 4% | 97% |  |
-| 36 | 7% | 93% |  |
-| 37 | 10% | 87% |  |
-| 38 | 13% | 77% |  |
-| 39 | 15% | 64% | Median |
-| 40 | 15% | 50% |  |
-| 41 | 13% | 35% |  |
-| 42 | 10% | 22% |  |
-| 43 | 6% | 13% |  |
+| 32 | 0.2% | 99.8% |  |
+| 33 | 0.5% | 99.6% |  |
+| 34 | 1.3% | 99.1% |  |
+| 35 | 3% | 98% |  |
+| 36 | 6% | 95% |  |
+| 37 | 9% | 89% |  |
+| 38 | 12% | 80% |  |
+| 39 | 15% | 68% |  |
+| 40 | 15% | 53% | Median |
+| 41 | 14% | 38% |  |
+| 42 | 10% | 24% |  |
+| 43 | 6% | 14% |  |
 | 44 | 4% | 7% |  |
-| 45 | 2% | 3% |  |
-| 46 | 1.0% | 1.4% |  |
+| 45 | 2% | 4% |  |
+| 46 | 1.0% | 2% |  |
 | 47 | 0.4% | 0.5% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |

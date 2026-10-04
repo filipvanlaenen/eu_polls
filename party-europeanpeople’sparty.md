@@ -18,21 +18,21 @@ At least one member in **9 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 48 | 46–51 | 45–52 | 44–53 | 44–55 |
+| European People’s Party | EU | 188 | 48 | 46–51 | 45–52 | 44–53 | 43–55 |
 | Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–18 | 13–19 | 13–19 |
-| Les Républicains | FR | | 7 | 7–9 | 6–9 | 6–10 | 6–11 |
+| Les Républicains | FR | | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 4 |
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | Christlich-Soziale Partei | BE-DEG | | 1 | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 1 |
 | Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Demokrati | SI | | 0 | 0 | 0 | 0 | 0–1 |
-| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokrati | SI | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
@@ -43,21 +43,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.4% | 100% |  |
-| 44 | 2% | 99.6% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.5% | 99.9% |  |
+| 44 | 2% | 99.5% |  |
 | 45 | 7% | 97% |  |
 | 46 | 13% | 90% |  |
 | 47 | 17% | 78% |  |
-| 48 | 17% | 61% | Median |
-| 49 | 15% | 44% |  |
+| 48 | 18% | 61% | Median |
+| 49 | 16% | 43% |  |
 | 50 | 11% | 28% |  |
-| 51 | 8% | 17% |  |
-| 52 | 5% | 9% |  |
-| 53 | 3% | 5% |  |
-| 54 | 1.4% | 2% |  |
-| 55 | 0.6% | 0.8% |  |
-| 56 | 0.2% | 0.3% |  |
-| 57 | 0% | 0.1% |  |
+| 51 | 7% | 16% |  |
+| 52 | 4% | 9% |  |
+| 53 | 2% | 4% |  |
+| 54 | 1.3% | 2% |  |
+| 55 | 0.5% | 0.7% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |

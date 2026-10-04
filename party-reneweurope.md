@@ -8,7 +8,7 @@ Members registered from **7 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **33** seats (-44 seats)
+Current median: **32** seats (-45 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,17 +18,17 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 33 | 29–37 | 29–38 | 28–39 | 27–40 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 13–20 | 13–21 | 12–22 | 12–23 |
+| Renew Europe | EU | 77 | 32 | 29–37 | 29–38 | 28–38 | 27–40 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 16 | 13–20 | 13–21 | 13–22 | 12–23 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
-| Moderaterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Venstre | DK | | 1 | 1 | 1 | 1 | 1 |
+| Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -41,22 +41,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.9% |  |
-| 27 | 1.3% | 99.6% |  |
-| 28 | 3% | 98% |  |
-| 29 | 6% | 95% |  |
-| 30 | 8% | 90% |  |
-| 31 | 12% | 81% |  |
-| 32 | 15% | 70% |  |
-| 33 | 15% | 55% | Median |
-| 34 | 13% | 39% |  |
-| 35 | 9% | 26% |  |
-| 36 | 6% | 17% |  |
-| 37 | 5% | 11% |  |
+| 26 | 0.2% | 100% |  |
+| 27 | 1.0% | 99.8% |  |
+| 28 | 3% | 98.7% |  |
+| 29 | 6% | 96% |  |
+| 30 | 10% | 89% |  |
+| 31 | 14% | 79% |  |
+| 32 | 16% | 66% | Median |
+| 33 | 15% | 50% |  |
+| 34 | 12% | 35% |  |
+| 35 | 8% | 23% |  |
+| 36 | 6% | 16% |  |
+| 37 | 5% | 10% |  |
 | 38 | 3% | 6% |  |
-| 39 | 2% | 3% |  |
-| 40 | 0.7% | 0.9% |  |
+| 39 | 2% | 2% |  |
+| 40 | 0.6% | 0.9% |  |
 | 41 | 0.2% | 0.2% |  |
 | 42 | 0% | 0.1% |  |
 | 43 | 0% | 0% |  |
