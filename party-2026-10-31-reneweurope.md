@@ -1,37 +1,50 @@
 # Renew Europe
 
-Members registered from **7 countries**:
+Members registered from **13 countries**:
 
-> AT, CY, DE, DK, FR, SE, SI
+> AT, BG, CY, DE, DK, EE, ES, FR, IT, NL, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **32** seats (-45 seats)
+Current median: **49** seats (-28 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **10 countries** have a median of 1 seat or more:
 
-> AT, DE, DK, FR, SE, SI
+> AT, BG, DE, DK, EE, FR, NL, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 32 | 29–37 | 29–38 | 28–38 | 27–40 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 16 | 13–20 | 13–21 | 13–22 | 12–23 |
+| Renew Europe | EU | 77 | 49 | 44–53 | 43–55 | 42–56 | 41–58 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 17 | 13–21 | 13–21 | 13–22 | 12–23 |
+| Democraten 66 | NL | | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Progresívne Slovensko | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
+| Продължаваме промяната | BG | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Freie Wähler | DE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
 | Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
+| Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -41,41 +54,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.2% | 100% |  |
-| 27 | 1.0% | 99.8% |  |
-| 28 | 3% | 98.7% |  |
-| 29 | 6% | 96% |  |
-| 30 | 10% | 89% |  |
-| 31 | 14% | 79% |  |
-| 32 | 16% | 66% | Median |
-| 33 | 15% | 50% |  |
-| 34 | 12% | 35% |  |
-| 35 | 8% | 23% |  |
-| 36 | 6% | 16% |  |
-| 37 | 5% | 10% |  |
-| 38 | 3% | 6% |  |
-| 39 | 2% | 2% |  |
-| 40 | 0.6% | 0.9% |  |
-| 41 | 0.2% | 0.2% |  |
-| 42 | 0% | 0.1% |  |
-| 43 | 0% | 0% |  |
-| 44 | 0% | 0% |  |
-| 45 | 0% | 0% |  |
-| 46 | 0% | 0% |  |
-| 47 | 0% | 0% |  |
-| 48 | 0% | 0% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
-| 54 | 0% | 0% |  |
-| 55 | 0% | 0% |  |
-| 56 | 0% | 0% |  |
-| 57 | 0% | 0% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.2% | 99.9% |  |
+| 41 | 0.7% | 99.7% |  |
+| 42 | 2% | 99.1% |  |
+| 43 | 3% | 97% |  |
+| 44 | 5% | 94% |  |
+| 45 | 7% | 90% |  |
+| 46 | 8% | 83% |  |
+| 47 | 9% | 75% |  |
+| 48 | 10% | 66% |  |
+| 49 | 11% | 55% | Median |
+| 50 | 11% | 44% |  |
+| 51 | 10% | 33% |  |
+| 52 | 8% | 24% |  |
+| 53 | 6% | 16% |  |
+| 54 | 4% | 10% |  |
+| 55 | 3% | 6% |  |
+| 56 | 1.5% | 3% |  |
+| 57 | 0.8% | 1.5% |  |
+| 58 | 0.4% | 0.7% |  |
+| 59 | 0.2% | 0.3% |  |
+| 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
