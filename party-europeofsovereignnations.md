@@ -1,8 +1,8 @@
 # Europe of Sovereign Nations
 
-Members registered from **6 countries**:
+Members registered from **7 countries**:
 
-> BG, DE, FR, IT, NL, SK
+> BG, DE, FR, IT, LT, NL, SK
 
 ## Seats
 
@@ -19,11 +19,12 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Sovereign Nations | EU | 25 | 39 | 36–44 | 36–45 | 35–46 | 34–48 |
-| Alternative für Deutschland | DE | | 26 | 25–29 | 24–29 | 24–30 | 23–31 |
+| Alternative für Deutschland | DE | | 26 | 25–29 | 25–30 | 24–30 | 23–31 |
 | Futuro Nazionale | IT | | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | Forum voor Democratie | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Reconquête | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане | BG | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 
 ### Probability Mass Function
@@ -43,11 +44,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0% | 100% |  |
 | 33 | 0.2% | 100% |  |
-| 34 | 0.8% | 99.7% |  |
-| 35 | 3% | 98.9% |  |
-| 36 | 8% | 96% |  |
-| 37 | 13% | 88% |  |
-| 38 | 16% | 75% |  |
+| 34 | 0.7% | 99.8% |  |
+| 35 | 3% | 99.1% |  |
+| 36 | 8% | 97% |  |
+| 37 | 14% | 89% |  |
+| 38 | 17% | 75% |  |
 | 39 | 15% | 59% | Median |
 | 40 | 12% | 44% |  |
 | 41 | 9% | 32% |  |
@@ -57,7 +58,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 3% | 6% |  |
 | 46 | 2% | 3% |  |
 | 47 | 0.9% | 2% |  |
-| 48 | 0.4% | 0.7% |  |
+| 48 | 0.5% | 0.8% |  |
 | 49 | 0.2% | 0.3% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
