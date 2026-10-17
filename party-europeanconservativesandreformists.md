@@ -1,26 +1,27 @@
 # European Conservatives and Reformists
 
-Members registered from **11 countries**:
+Members registered from **13 countries**:
 
-> BG, CY, DK, EE, FI, FR, IT, LT, NL, SE, SK
+> BG, CY, CZ, DK, EE, FI, FR, GR, IT, LT, NL, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **41** seats (-37 seats)
+Current median: **46** seats (-32 seats)
 
-At least one member in **10 countries** have a median of 1 seat or more:
+At least one member in **12 countries** have a median of 1 seat or more:
 
-> BG, CY, DK, EE, FI, IT, LT, NL, SE, SK
+> BG, CY, CZ, DK, EE, FI, GR, IT, LT, NL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 41 | 38–44 | 38–45 | 37–46 | 36–47 |
-| Fratelli d’Italia | IT | | 22 | 21–25 | 20–26 | 19–26 | 19–27 |
+| European Conservatives and Reformists | EU | 78 | 46 | 43–49 | 42–49 | 42–50 | 40–52 |
+| Fratelli d’Italia | IT | | 22 | 20–24 | 20–25 | 19–26 | 19–27 |
 | Juiste Antwoord 2021 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 4 | 4 | 4 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -29,12 +30,13 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Nacionalinis Susivienijimas | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
+| Ελληνική Λύση | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -44,26 +46,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0.3% | 99.9% |  |
-| 36 | 1.1% | 99.6% |  |
-| 37 | 3% | 98.5% |  |
-| 38 | 7% | 95% |  |
-| 39 | 12% | 88% |  |
-| 40 | 16% | 76% |  |
-| 41 | 18% | 60% | Median |
-| 42 | 16% | 43% |  |
-| 43 | 12% | 27% |  |
-| 44 | 8% | 15% |  |
-| 45 | 5% | 8% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.8% | 1.0% |  |
-| 48 | 0.2% | 0.2% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% |  |
-| 53 | 0% | 0% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.5% | 99.9% |  |
+| 41 | 1.5% | 99.4% |  |
+| 42 | 4% | 98% |  |
+| 43 | 8% | 94% |  |
+| 44 | 13% | 86% |  |
+| 45 | 18% | 73% |  |
+| 46 | 19% | 55% | Median |
+| 47 | 16% | 37% |  |
+| 48 | 10% | 21% |  |
+| 49 | 6% | 10% |  |
+| 50 | 3% | 5% |  |
+| 51 | 1.2% | 2% |  |
+| 52 | 0.5% | 0.6% |  |
+| 53 | 0.1% | 0.2% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
