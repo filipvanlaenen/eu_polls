@@ -21,7 +21,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Greens–European Free Alliance | EU | 53 | 33 | 30–36 | 29–37 | 29–38 | 27–39 |
 | Bündnis 90/Die Grünen | DE | | 14 | 12–16 | 12–16 | 12–17 | 12–18 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 1–3 | 1–3 | 1–3 | 1–4 |
-| Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| Europa Verde | IT | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Socialistisk Folkeparti | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -32,7 +32,7 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
 | Volt Europa | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
-| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | LIVRE | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0 | 0 | 0 |
@@ -56,19 +56,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
 | 27 | 0.4% | 99.9% |  |
-| 28 | 1.4% | 99.5% |  |
-| 29 | 4% | 98% |  |
-| 30 | 7% | 94% |  |
-| 31 | 12% | 87% |  |
-| 32 | 15% | 76% |  |
-| 33 | 17% | 60% | Median |
-| 34 | 16% | 43% |  |
-| 35 | 12% | 28% |  |
-| 36 | 8% | 15% |  |
-| 37 | 4% | 7% |  |
+| 28 | 1.3% | 99.5% |  |
+| 29 | 3% | 98% |  |
+| 30 | 7% | 95% |  |
+| 31 | 11% | 88% |  |
+| 32 | 15% | 77% |  |
+| 33 | 17% | 62% | Median |
+| 34 | 16% | 45% |  |
+| 35 | 13% | 29% |  |
+| 36 | 9% | 17% |  |
+| 37 | 5% | 8% |  |
 | 38 | 2% | 3% |  |
-| 39 | 0.7% | 1.1% |  |
-| 40 | 0.2% | 0.3% |  |
+| 39 | 0.8% | 1.2% |  |
+| 40 | 0.3% | 0.4% |  |
 | 41 | 0.1% | 0.1% |  |
 | 42 | 0% | 0% |  |
 | 43 | 0% | 0% |  |

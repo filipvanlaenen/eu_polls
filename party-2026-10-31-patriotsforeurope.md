@@ -24,12 +24,12 @@ At least one member in **11 countries** have a median of 1 seat or more:
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | Freiheitliche Partei Österreichs | AT | | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | Chega | PT | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
-| Lega Nord | IT | | 5 | 4–7 | 3–7 | 0–8 | 0–8 |
+| Lega Nord | IT | | 5 | 4–6 | 3–7 | 0–7 | 0–8 |
 | Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Φωνή Λογικής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Φωνή Λογικής | GR | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Motoristé sobě | CZ | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | SME RODINA | SK | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -46,7 +46,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 73 | 0.1% | 100% |  |
 | 74 | 0.1% | 99.9% |  |
 | 75 | 0.3% | 99.7% |  |
-| 76 | 0.6% | 99.5% |  |
+| 76 | 0.6% | 99.4% |  |
 | 77 | 1.1% | 98.9% |  |
 | 78 | 2% | 98% |  |
 | 79 | 3% | 96% |  |
@@ -61,9 +61,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 88 | 9% | 22% |  |
 | 89 | 6% | 14% |  |
 | 90 | 4% | 7% |  |
-| 91 | 2% | 4% |  |
-| 92 | 0.9% | 2% |  |
-| 93 | 0.4% | 0.6% |  |
+| 91 | 2% | 3% |  |
+| 92 | 0.9% | 1.5% |  |
+| 93 | 0.4% | 0.5% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0.1% |  |
 | 96 | 0% | 0% |  |
