@@ -21,6 +21,7 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Parties currently not represented in the EP | EU | 1 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
+| Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -43,7 +44,6 @@ At least one member in **1 countries** have a median of 1 seat or more:
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σήκου πάνω! [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Συμμαχία Ελλήνων [GR] (*) | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -58,11 +58,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 67% | 97% | Median |
-| 6 | 26% | 30% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.2% | 0.2% |  |
+| 4 | 4% | 100% |  |
+| 5 | 62% | 96% | Median |
+| 6 | 29% | 34% |  |
+| 7 | 5% | 5% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 

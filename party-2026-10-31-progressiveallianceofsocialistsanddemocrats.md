@@ -23,14 +23,14 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Partito Democratico | IT | | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
 | Sozialdemokratische Partei Deutschlands | DE | | 13 | 11–14 | 10–15 | 10–15 | 9–15 |
 | Parti socialiste–Place Publique | FR | | 9 | 7–13 | 6–14 | 6–15 | 5–16 |
-| Partido Socialista | PT | | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
+| Partido Socialista | PT | | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | Sveriges socialdemokratiska arbetareparti | SE | | 6 | 6 | 6 | 6 | 6 |
 | Socialdemokraterne | DK | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue | FI | | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Κίνημα Αλλαγής | GR | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Socialni demokrati | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Sotsiaaldemokraatlik Erakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -52,21 +52,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0.1% | 99.9% |  |
 | 85 | 0.2% | 99.8% |  |
 | 86 | 0.4% | 99.6% |  |
-| 87 | 0.8% | 99.3% |  |
-| 88 | 1.4% | 98.5% |  |
-| 89 | 2% | 97% |  |
+| 87 | 0.8% | 99.2% |  |
+| 88 | 1.5% | 98% |  |
+| 89 | 3% | 97% |  |
 | 90 | 4% | 95% |  |
 | 91 | 6% | 91% |  |
 | 92 | 8% | 85% |  |
-| 93 | 9% | 78% |  |
+| 93 | 9% | 77% |  |
 | 94 | 10% | 68% |  |
 | 95 | 11% | 58% | Median |
-| 96 | 10% | 48% |  |
+| 96 | 10% | 47% |  |
 | 97 | 9% | 37% |  |
 | 98 | 8% | 28% |  |
 | 99 | 6% | 20% |  |
 | 100 | 5% | 14% |  |
-| 101 | 4% | 9% |  |
+| 101 | 3% | 9% |  |
 | 102 | 2% | 5% |  |
 | 103 | 1.4% | 3% |  |
 | 104 | 0.8% | 2% |  |

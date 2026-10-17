@@ -8,7 +8,7 @@ Members registered from **16 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **50** seats (-27 seats)
+Current median: **51** seats (-26 seats)
 
 At least one member in **13 countries** have a median of 1 seat or more:
 
@@ -18,20 +18,20 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 50 | 47–54 | 46–55 | 46–56 | 44–58 |
+| Renew Europe | EU | 77 | 51 | 48–54 | 47–55 | 46–56 | 45–58 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 15 | 13–17 | 13–18 | 12–18 | 11–20 |
 | Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Centerpartiet | SE | | 2 | 2 | 2 | 2 | 2 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
 | Продължаваме промяната | BG | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
 | Liberalerna | SE | | 1 | 1 | 1 | 1 | 1 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,25 +59,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.2% | 100% |  |
-| 44 | 0.6% | 99.8% |  |
-| 45 | 2% | 99.2% |  |
-| 46 | 4% | 98% |  |
-| 47 | 7% | 94% |  |
-| 48 | 10% | 88% |  |
-| 49 | 14% | 77% |  |
-| 50 | 15% | 64% | Median |
-| 51 | 14% | 48% |  |
-| 52 | 12% | 34% |  |
-| 53 | 9% | 22% |  |
-| 54 | 6% | 14% |  |
-| 55 | 4% | 8% |  |
-| 56 | 2% | 4% |  |
-| 57 | 1.1% | 2% |  |
-| 58 | 0.5% | 0.9% |  |
-| 59 | 0.2% | 0.4% |  |
-| 60 | 0.1% | 0.1% |  |
-| 61 | 0% | 0% |  |
+| 43 | 0.1% | 100% |  |
+| 44 | 0.3% | 99.9% |  |
+| 45 | 1.1% | 99.6% |  |
+| 46 | 3% | 98% |  |
+| 47 | 5% | 96% |  |
+| 48 | 9% | 90% |  |
+| 49 | 13% | 81% |  |
+| 50 | 15% | 68% |  |
+| 51 | 15% | 53% | Median |
+| 52 | 13% | 38% |  |
+| 53 | 10% | 25% |  |
+| 54 | 7% | 16% |  |
+| 55 | 4% | 9% |  |
+| 56 | 2% | 5% |  |
+| 57 | 1.3% | 2% |  |
+| 58 | 0.7% | 1.1% |  |
+| 59 | 0.3% | 0.5% |  |
+| 60 | 0.1% | 0.2% |  |
+| 61 | 0% | 0.1% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
 | 64 | 0% | 0% |  |

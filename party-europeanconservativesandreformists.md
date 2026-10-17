@@ -18,9 +18,9 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 46 | 43–49 | 42–49 | 42–50 | 40–52 |
+| European Conservatives and Reformists | EU | 78 | 46 | 43–49 | 43–50 | 42–51 | 41–52 |
 | Fratelli d’Italia | IT | | 22 | 20–24 | 20–25 | 19–26 | 19–27 |
-| Juiste Antwoord 2021 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 4 | 4 | 4 |
 | Perussuomalaiset | FI | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -36,7 +36,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0 | 0–1 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -47,21 +47,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
-| 40 | 0.5% | 99.9% |  |
-| 41 | 1.5% | 99.4% |  |
-| 42 | 4% | 98% |  |
-| 43 | 8% | 94% |  |
-| 44 | 13% | 86% |  |
-| 45 | 18% | 73% |  |
-| 46 | 19% | 55% | Median |
-| 47 | 16% | 37% |  |
-| 48 | 10% | 21% |  |
-| 49 | 6% | 10% |  |
-| 50 | 3% | 5% |  |
-| 51 | 1.2% | 2% |  |
-| 52 | 0.5% | 0.6% |  |
-| 53 | 0.1% | 0.2% |  |
-| 54 | 0% | 0% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 1.2% | 99.6% |  |
+| 42 | 3% | 98% |  |
+| 43 | 7% | 95% |  |
+| 44 | 11% | 89% |  |
+| 45 | 16% | 77% |  |
+| 46 | 19% | 61% | Median |
+| 47 | 17% | 43% |  |
+| 48 | 12% | 26% |  |
+| 49 | 7% | 13% |  |
+| 50 | 4% | 6% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.7% | 0.9% |  |
+| 53 | 0.2% | 0.3% |  |
+| 54 | 0% | 0.1% |  |
 | 55 | 0% | 0% |  |
 | 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
