@@ -10,9 +10,9 @@ Last result: **46** seats (General Election of 26 May 2019)
 
 Current median: **60** seats (+14 seats)
 
-At least one member in **10 countries** have a median of 1 seat or more:
+At least one member in **9 countries** have a median of 1 seat or more:
 
-> CY, DE, DK, ES, FI, FR, GR, IE, IT, SE
+> CY, DE, DK, ES, FI, FR, IE, IT, SE
 
 ### Confidence Intervals
 
@@ -33,7 +33,6 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -46,8 +45,9 @@ At least one member in **10 countries** have a median of 1 seat or more:
 | Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
+| Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Νέα Αριστερά | GR | | 0 | 0 | 0 | 0 | 0 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0 | 0 | 0 | 0–1 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -61,26 +61,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 0% | 100% |  |
 | 48 | 0% | 100% |  |
 | 49 | 0% | 100% |  |
-| 50 | 0% | 100% |  |
+| 50 | 0.1% | 100% |  |
 | 51 | 0.2% | 99.9% |  |
-| 52 | 0.4% | 99.8% |  |
-| 53 | 1.0% | 99.3% |  |
+| 52 | 0.5% | 99.7% |  |
+| 53 | 1.2% | 99.2% |  |
 | 54 | 2% | 98% |  |
 | 55 | 4% | 96% |  |
-| 56 | 6% | 93% |  |
-| 57 | 8% | 87% |  |
-| 58 | 10% | 79% |  |
-| 59 | 12% | 68% |  |
-| 60 | 12% | 57% | Median |
-| 61 | 12% | 44% |  |
-| 62 | 10% | 33% |  |
-| 63 | 8% | 22% |  |
-| 64 | 6% | 14% |  |
-| 65 | 4% | 8% |  |
+| 56 | 6% | 92% |  |
+| 57 | 8% | 86% |  |
+| 58 | 10% | 77% |  |
+| 59 | 12% | 67% |  |
+| 60 | 12% | 55% | Median |
+| 61 | 12% | 43% |  |
+| 62 | 10% | 31% |  |
+| 63 | 8% | 21% |  |
+| 64 | 6% | 13% |  |
+| 65 | 4% | 7% |  |
 | 66 | 2% | 4% |  |
-| 67 | 1.2% | 2% |  |
-| 68 | 0.5% | 0.9% |  |
-| 69 | 0.2% | 0.4% |  |
+| 67 | 1.0% | 2% |  |
+| 68 | 0.5% | 0.8% |  |
+| 69 | 0.2% | 0.3% |  |
 | 70 | 0.1% | 0.1% |  |
 | 71 | 0% | 0% |  |
 
