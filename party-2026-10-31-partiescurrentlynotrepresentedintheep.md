@@ -1,34 +1,40 @@
 # Parties currently not represented in the EP
 
-Members registered from **12 countries**:
+Members registered from **14 countries**:
 
-> BG, CY, CZ, DE, EE, ES, FR, GR, IT, NL, SI, SK
+> BG, CY, CZ, DE, EE, ES, FR, GR, IE, IT, LU, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **5** seats (+4 seats)
+Current median: **6** seats (+5 seats)
 
-At least one member in **1 countries** have a median of 1 seat or more:
+At least one member in **2 countries** have a median of 1 seat or more:
 
-> GR
+> GR, IE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| Parties currently not represented in the EP | EU | 1 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Aontú [IE] (*) | IE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1 | 1 | 1 | 1 |
 | Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
+| Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
+| Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
 | La France humaniste [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
+| Liberté – Fräiheet! [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -58,11 +64,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 67% | 97% | Median |
-| 6 | 27% | 30% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.2% | 0.2% |  |
-| 9 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 5% | 99.9% |  |
+| 6 | 65% | 95% | Median |
+| 7 | 26% | 29% |  |
+| 8 | 3% | 4% |  |
+| 9 | 0.2% | 0.2% |  |
+| 10 | 0% | 0% |  |
 
 
