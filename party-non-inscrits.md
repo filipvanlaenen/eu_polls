@@ -29,7 +29,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Slovenska demokratska stranka | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Πλεύση Ελευθερίας | GR | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
-| Darbo Partija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -50,14 +50,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.3% | 100% |  |
 | 17 | 1.4% | 99.7% |  |
 | 18 | 5% | 98% |  |
-| 19 | 11% | 94% |  |
-| 20 | 18% | 83% |  |
-| 21 | 22% | 65% | Median |
-| 22 | 20% | 43% |  |
-| 23 | 13% | 23% |  |
-| 24 | 7% | 10% |  |
+| 19 | 11% | 93% |  |
+| 20 | 18% | 82% |  |
+| 21 | 22% | 64% | Median |
+| 22 | 20% | 42% |  |
+| 23 | 13% | 22% |  |
+| 24 | 6% | 9% |  |
 | 25 | 2% | 3% |  |
-| 26 | 0.6% | 0.7% |  |
+| 26 | 0.5% | 0.6% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |

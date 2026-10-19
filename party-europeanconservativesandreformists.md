@@ -18,7 +18,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 48 | 45–50 | 44–51 | 43–52 | 42–54 |
+| European Conservatives and Reformists | EU | 78 | 48 | 45–50 | 44–51 | 43–52 | 42–53 |
 | Fratelli d’Italia | IT | | 23 | 20–24 | 20–25 | 19–26 | 19–27 |
 | Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -29,14 +29,14 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Danmarksdemokraterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Nacionalinis Susivienijimas | LT | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Nacionalinis Susivienijimas | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Движение за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0 | 0 | 0 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -47,23 +47,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 40 | 0% | 100% |  |
+| 40 | 0.1% | 100% |  |
 | 41 | 0.2% | 99.9% |  |
-| 42 | 0.7% | 99.7% |  |
-| 43 | 2% | 99.0% |  |
+| 42 | 0.9% | 99.7% |  |
+| 43 | 2% | 98.8% |  |
 | 44 | 5% | 97% |  |
-| 45 | 8% | 92% |  |
-| 46 | 13% | 84% |  |
-| 47 | 17% | 71% |  |
-| 48 | 18% | 54% | Median |
-| 49 | 16% | 36% |  |
-| 50 | 10% | 20% |  |
-| 51 | 6% | 10% |  |
+| 45 | 9% | 91% |  |
+| 46 | 14% | 82% |  |
+| 47 | 18% | 68% |  |
+| 48 | 18% | 51% | Median |
+| 49 | 15% | 33% |  |
+| 50 | 9% | 18% |  |
+| 51 | 5% | 9% |  |
 | 52 | 2% | 4% |  |
-| 53 | 1.0% | 2% |  |
-| 54 | 0.4% | 0.6% |  |
+| 53 | 0.9% | 1.4% |  |
+| 54 | 0.3% | 0.5% |  |
 | 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0.1% |  |
+| 56 | 0% | 0% |  |
 | 57 | 0% | 0% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |

@@ -8,7 +8,7 @@ Members registered from **9 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **43** seats (+18 seats)
+Current median: **42** seats (+17 seats)
 
 At least one member in **6 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 43 | 39–47 | 39–48 | 38–49 | 37–51 |
+| Europe of Sovereign Nations | EU | 25 | 42 | 39–47 | 39–48 | 38–49 | 37–51 |
 | Alternative für Deutschland | DE | | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
 | Futuro Nazionale | IT | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Forum voor Democratie | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -50,13 +50,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 100% |  |
 | 35 | 0.1% | 100% |  |
 | 36 | 0.3% | 99.9% |  |
-| 37 | 0.9% | 99.7% |  |
+| 37 | 1.0% | 99.6% |  |
 | 38 | 3% | 98.7% |  |
 | 39 | 6% | 96% |  |
 | 40 | 11% | 90% |  |
 | 41 | 14% | 79% |  |
-| 42 | 15% | 65% |  |
-| 43 | 13% | 50% | Median |
+| 42 | 15% | 65% | Median |
+| 43 | 13% | 50% |  |
 | 44 | 10% | 37% |  |
 | 45 | 8% | 27% |  |
 | 46 | 6% | 19% |  |
@@ -64,7 +64,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 3% | 8% |  |
 | 49 | 2% | 4% |  |
 | 50 | 1.2% | 2% |  |
-| 51 | 0.6% | 0.9% |  |
+| 51 | 0.5% | 0.9% |  |
 | 52 | 0.2% | 0.3% |  |
 | 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0% |  |
