@@ -18,11 +18,11 @@ At least one member in **23 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 132 | 127–137 | 125–139 | 123–140 | 121–143 |
+| European People’s Party | EU | 188 | 132 | 127–137 | 125–139 | 123–140 | 120–143 |
 | Partido Popular | ES | | 23 | 20–24 | 15–25 | 15–25 | 15–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–18 | 13–19 | 13–19 |
+| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–19 | 13–19 | 12–20 |
 | Tisztelet és Szabadság | HU | | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
-| Les Républicains | FR | | 7 | 6–11 | 5–12 | 5–12 | 5–13 |
+| Les Républicains | FR | | 7 | 6–11 | 5–11 | 5–12 | 5–13 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | Aliança Democrática | PT | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
@@ -39,6 +39,7 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Граждани за европейско развитие на България | BG | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Chrëschtlech-Sozial Vollekspartei | LU | | 2 | 2 | 2 | 1–2 | 1–2 |
 | Erakond Isamaa | EE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| Liberal Alliance | DK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Slovensko | SK | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Δημοκρατικός Συναγερμός | CY | | 2 | 2 | 2 | 2 | 2 |
 | 50Plus | NL | | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -46,7 +47,6 @@ At least one member in **23 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 1 |
-| Liberal Alliance | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -72,33 +72,33 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 118 | 0.1% | 100% |  |
-| 119 | 0.1% | 99.9% |  |
-| 120 | 0.3% | 99.8% |  |
-| 121 | 0.4% | 99.5% |  |
-| 122 | 0.7% | 99.1% |  |
-| 123 | 0.9% | 98% |  |
-| 124 | 1.3% | 97% |  |
+| 119 | 0.2% | 99.9% |  |
+| 120 | 0.3% | 99.7% |  |
+| 121 | 0.5% | 99.4% |  |
+| 122 | 0.7% | 99.0% |  |
+| 123 | 1.0% | 98% |  |
+| 124 | 1.4% | 97% |  |
 | 125 | 2% | 96% |  |
 | 126 | 3% | 94% |  |
-| 127 | 4% | 92% |  |
-| 128 | 5% | 88% |  |
-| 129 | 7% | 83% |  |
-| 130 | 8% | 76% |  |
-| 131 | 10% | 67% |  |
-| 132 | 10% | 58% | Median |
-| 133 | 10% | 48% |  |
-| 134 | 9% | 38% |  |
-| 135 | 8% | 29% |  |
-| 136 | 6% | 21% |  |
-| 137 | 5% | 15% |  |
-| 138 | 4% | 10% |  |
+| 127 | 4% | 91% |  |
+| 128 | 5% | 87% |  |
+| 129 | 7% | 82% |  |
+| 130 | 9% | 75% |  |
+| 131 | 10% | 66% |  |
+| 132 | 10% | 56% | Median |
+| 133 | 10% | 46% |  |
+| 134 | 9% | 36% |  |
+| 135 | 8% | 28% |  |
+| 136 | 6% | 20% |  |
+| 137 | 5% | 14% |  |
+| 138 | 3% | 9% |  |
 | 139 | 2% | 6% |  |
 | 140 | 2% | 4% |  |
-| 141 | 1.0% | 2% |  |
-| 142 | 0.6% | 1.2% |  |
+| 141 | 0.9% | 2% |  |
+| 142 | 0.5% | 1.1% |  |
 | 143 | 0.3% | 0.6% |  |
 | 144 | 0.2% | 0.3% |  |
-| 145 | 0.1% | 0.2% |  |
+| 145 | 0.1% | 0.1% |  |
 | 146 | 0% | 0.1% |  |
 | 147 | 0% | 0% |  |
 | 148 | 0% | 0% |  |
