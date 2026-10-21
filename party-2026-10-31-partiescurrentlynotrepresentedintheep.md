@@ -23,8 +23,8 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
@@ -65,12 +65,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 22% | 98.9% |  |
-| 6 | 52% | 77% | Median |
-| 7 | 22% | 25% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.2% | 0.2% |  |
+| 4 | 1.0% | 100% |  |
+| 5 | 21% | 99.0% |  |
+| 6 | 50% | 78% | Median |
+| 7 | 23% | 28% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 

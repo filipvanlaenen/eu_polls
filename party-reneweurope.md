@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **54** seats (-23 seats)
+Current median: **53** seats (-24 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,10 +18,10 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 54 | 49–58 | 47–59 | 46–60 | 45–62 |
+| Renew Europe | EU | 77 | 53 | 49–58 | 47–59 | 46–60 | 44–62 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 9–16 | 8–17 | 8–17 | 7–17 |
 | Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -42,7 +42,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
@@ -64,25 +64,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.1% | 100% |  |
-| 44 | 0.3% | 99.9% |  |
-| 45 | 0.8% | 99.5% |  |
-| 46 | 2% | 98.7% |  |
-| 47 | 2% | 97% |  |
-| 48 | 3% | 95% |  |
-| 49 | 4% | 92% |  |
-| 50 | 6% | 87% |  |
-| 51 | 8% | 82% |  |
-| 52 | 10% | 74% |  |
-| 53 | 12% | 64% |  |
-| 54 | 13% | 52% | Median |
-| 55 | 12% | 39% |  |
-| 56 | 10% | 27% |  |
-| 57 | 7% | 18% |  |
-| 58 | 5% | 11% |  |
+| 42 | 0.1% | 100% |  |
+| 43 | 0.2% | 99.9% |  |
+| 44 | 0.5% | 99.7% |  |
+| 45 | 1.0% | 99.3% |  |
+| 46 | 2% | 98% |  |
+| 47 | 3% | 97% |  |
+| 48 | 3% | 94% |  |
+| 49 | 5% | 91% |  |
+| 50 | 6% | 86% |  |
+| 51 | 8% | 80% |  |
+| 52 | 10% | 72% |  |
+| 53 | 12% | 61% | Median |
+| 54 | 12% | 49% |  |
+| 55 | 11% | 37% |  |
+| 56 | 9% | 26% |  |
+| 57 | 7% | 17% |  |
+| 58 | 4% | 10% |  |
 | 59 | 3% | 6% |  |
 | 60 | 2% | 3% |  |
-| 61 | 0.9% | 2% |  |
+| 61 | 0.8% | 2% |  |
 | 62 | 0.4% | 0.7% |  |
 | 63 | 0.2% | 0.3% |  |
 | 64 | 0.1% | 0.1% |  |
