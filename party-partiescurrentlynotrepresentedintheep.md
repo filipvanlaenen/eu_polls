@@ -1,14 +1,14 @@
 # Parties currently not represented in the EP
 
-Members registered from **14 countries**:
+Members registered from **15 countries**:
 
-> BG, CY, CZ, DE, EE, ES, FR, GR, IE, IT, LU, NL, SI, SK
+> BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, NL, SI, SK
 
 ## Seats
 
 Last result: **1** seats (General Election of 26 May 2019)
 
-Current median: **6** seats (+5 seats)
+Current median: **7** seats (+6 seats)
 
 At least one member in **2 countries** have a median of 1 seat or more:
 
@@ -18,18 +18,20 @@ At least one member in **2 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| Parties currently not represented in the EP | EU | 1 | 7 | 6–8 | 5–8 | 5–8 | 4–9 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1 | 1–2 | 0–2 | 0–2 |
-| Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
+| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska seljačka stranka [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska stranka umirovljenika [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independents [IE] (*) | IE | | 0 | 0 | 0 | 0 | 0 |
 | Kommunistesch Partei Lëtzebuerg [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | Koos [EE] (*) | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -38,19 +40,21 @@ At least one member in **2 countries** have a median of 1 seat or more:
 | Lutte Ouvrière [FR] (*) | FR | | 0 | 0 | 0 | 0 | 0 |
 | Mi, socialisti! [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Naše Česko [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
+| Nezavisna Platforma Sjever [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Nič od tega [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Ora! [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Partito Progressista [IT] (*) | IT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Progetto Civico Italia [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Právo Respekt Odbornost [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Právo na pravdu [SK] (*) | SK | | 0 | 0 | 0 | 0 | 0 |
+| Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σήκου πάνω! [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
-| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Σπαρτιάτες [GR] (*) | GR | | 0 | 0 | 0 | 0 | 0 |
 | Величие [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 | Морал, Единство, Чест [BG] (*) | BG | | 0 | 0 | 0 | 0 | 0 |
 
@@ -65,12 +69,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.0% | 100% |  |
-| 5 | 21% | 99.0% |  |
-| 6 | 50% | 78% | Median |
-| 7 | 23% | 28% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.3% | 0.3% |  |
+| 4 | 1.4% | 100% |  |
+| 5 | 8% | 98.6% |  |
+| 6 | 40% | 90% |  |
+| 7 | 39% | 50% | Median |
+| 8 | 10% | 11% |  |
+| 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 
 

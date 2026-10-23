@@ -18,13 +18,13 @@ At least one member in **6 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 42 | 39–46 | 39–47 | 38–48 | 37–50 |
-| Alternative für Deutschland | DE | | 27 | 25–29 | 25–29 | 24–30 | 23–32 |
+| Europe of Sovereign Nations | EU | 25 | 42 | 40–46 | 39–47 | 38–48 | 37–50 |
+| Alternative für Deutschland | DE | | 27 | 25–29 | 25–29 | 24–30 | 24–31 |
 | Futuro Nazionale | IT | | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | Forum voor Democratie | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Mi Hazánk Mozgalom | HU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Reconquête | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
@@ -49,16 +49,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0% | 100% |  |
 | 34 | 0% | 100% |  |
 | 35 | 0% | 100% |  |
-| 36 | 0.2% | 100% |  |
-| 37 | 0.9% | 99.8% |  |
-| 38 | 3% | 98.9% |  |
-| 39 | 7% | 96% |  |
-| 40 | 12% | 89% |  |
-| 41 | 16% | 77% |  |
-| 42 | 17% | 61% | Median |
-| 43 | 15% | 44% |  |
-| 44 | 11% | 29% |  |
-| 45 | 7% | 18% |  |
+| 36 | 0.1% | 100% |  |
+| 37 | 0.7% | 99.8% |  |
+| 38 | 3% | 99.1% |  |
+| 39 | 6% | 97% |  |
+| 40 | 12% | 90% |  |
+| 41 | 16% | 78% |  |
+| 42 | 17% | 62% | Median |
+| 43 | 15% | 45% |  |
+| 44 | 11% | 30% |  |
+| 45 | 7% | 19% |  |
 | 46 | 5% | 11% |  |
 | 47 | 3% | 7% |  |
 | 48 | 2% | 4% |  |

@@ -1,31 +1,32 @@
 # European People’s Party
 
-Members registered from **23 countries**:
+Members registered from **24 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HU, IE, IT, LT, LU, MT, NL, PT, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PT, SE, SI, SK
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **133** seats (-55 seats)
+Current median: **136** seats (-52 seats)
 
-At least one member in **23 countries** have a median of 1 seat or more:
+At least one member in **24 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HU, IE, IT, LT, LU, MT, NL, PT, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, MT, NL, PT, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 133 | 128–138 | 126–140 | 125–141 | 123–143 |
-| Partido Popular | ES | | 26 | 21–26 | 21–26 | 21–26 | 21–26 |
-| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 12–17 | 12–17 | 12–18 |
-| Tisztelet és Szabadság | HU | | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
-| Les Républicains | FR | | 7 | 6–11 | 5–11 | 5–12 | 5–13 |
-| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| European People’s Party | EU | 188 | 136 | 131–141 | 129–143 | 127–144 | 124–146 |
+| Partido Popular | ES | | 22 | 20–24 | 15–25 | 15–25 | 15–26 |
+| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
+| Tisztelet és Szabadság | HU | | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
+| Les Républicains | FR | | 7 | 5–11 | 5–12 | 5–12 | 5–13 |
+| Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Aliança Democrática | PT | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | Forza Italia | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Starostové a nezávislí | CZ | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 4 |
@@ -73,33 +74,33 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 121 | 0% | 100% |  |
 | 122 | 0.1% | 99.9% |  |
-| 123 | 0.3% | 99.8% |  |
-| 124 | 0.7% | 99.5% |  |
-| 125 | 1.4% | 98.7% |  |
-| 126 | 2% | 97% |  |
-| 127 | 4% | 95% |  |
-| 128 | 5% | 91% |  |
-| 129 | 6% | 86% |  |
-| 130 | 8% | 80% |  |
-| 131 | 8% | 72% |  |
-| 132 | 9% | 64% |  |
-| 133 | 9% | 55% | Median |
-| 134 | 9% | 45% |  |
-| 135 | 8% | 36% |  |
-| 136 | 7% | 28% |  |
-| 137 | 6% | 20% |  |
-| 138 | 5% | 14% |  |
-| 139 | 3% | 9% |  |
-| 140 | 2% | 6% |  |
-| 141 | 2% | 3% |  |
-| 142 | 0.9% | 2% |  |
-| 143 | 0.5% | 1.0% |  |
-| 144 | 0.3% | 0.5% |  |
-| 145 | 0.1% | 0.2% |  |
-| 146 | 0.1% | 0.1% |  |
-| 147 | 0% | 0% |  |
-| 148 | 0% | 0% |  |
-| 149 | 0% | 0% |  |
+| 123 | 0.1% | 99.9% |  |
+| 124 | 0.3% | 99.7% |  |
+| 125 | 0.4% | 99.5% |  |
+| 126 | 0.7% | 99.0% |  |
+| 127 | 1.0% | 98% |  |
+| 128 | 1.4% | 97% |  |
+| 129 | 2% | 96% |  |
+| 130 | 3% | 94% |  |
+| 131 | 4% | 91% |  |
+| 132 | 6% | 87% |  |
+| 133 | 7% | 81% |  |
+| 134 | 8% | 74% |  |
+| 135 | 9% | 66% |  |
+| 136 | 10% | 56% | Median |
+| 137 | 10% | 46% |  |
+| 138 | 9% | 37% |  |
+| 139 | 8% | 28% |  |
+| 140 | 6% | 20% |  |
+| 141 | 5% | 14% |  |
+| 142 | 4% | 9% |  |
+| 143 | 2% | 6% |  |
+| 144 | 1.5% | 3% |  |
+| 145 | 0.9% | 2% |  |
+| 146 | 0.5% | 0.9% |  |
+| 147 | 0.2% | 0.4% |  |
+| 148 | 0.1% | 0.2% |  |
+| 149 | 0% | 0.1% |  |
 | 150 | 0% | 0% |  |
 | 151 | 0% | 0% |  |
 | 152 | 0% | 0% |  |

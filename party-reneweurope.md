@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **19 countries**:
+Members registered from **20 countries**:
 
-> AT, BG, CY, DE, DK, EE, ES, FI, FR, GR, IE, IT, LT, LU, NL, PT, SE, SI, SK
+> AT, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, NL, PT, SE, SI, SK
 
 ## Seats
 
@@ -18,8 +18,8 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 53 | 49–58 | 47–59 | 46–60 | 44–62 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 9–16 | 8–17 | 8–17 | 7–17 |
+| Renew Europe | EU | 77 | 53 | 49–57 | 47–58 | 46–60 | 44–61 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 9–15 | 8–16 | 8–16 | 7–17 |
 | Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -41,15 +41,19 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
+| Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -66,27 +70,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
 | 43 | 0.2% | 99.9% |  |
-| 44 | 0.5% | 99.7% |  |
-| 45 | 1.0% | 99.3% |  |
+| 44 | 0.4% | 99.8% |  |
+| 45 | 0.9% | 99.3% |  |
 | 46 | 2% | 98% |  |
-| 47 | 3% | 97% |  |
+| 47 | 2% | 97% |  |
 | 48 | 3% | 94% |  |
-| 49 | 5% | 91% |  |
-| 50 | 6% | 86% |  |
-| 51 | 8% | 80% |  |
-| 52 | 10% | 72% |  |
-| 53 | 12% | 61% | Median |
-| 54 | 12% | 49% |  |
-| 55 | 11% | 37% |  |
-| 56 | 9% | 26% |  |
-| 57 | 7% | 17% |  |
-| 58 | 4% | 10% |  |
-| 59 | 3% | 6% |  |
-| 60 | 2% | 3% |  |
-| 61 | 0.8% | 2% |  |
-| 62 | 0.4% | 0.7% |  |
-| 63 | 0.2% | 0.3% |  |
-| 64 | 0.1% | 0.1% |  |
+| 49 | 4% | 91% |  |
+| 50 | 6% | 87% |  |
+| 51 | 8% | 81% |  |
+| 52 | 11% | 73% |  |
+| 53 | 13% | 63% | Median |
+| 54 | 13% | 50% |  |
+| 55 | 12% | 37% |  |
+| 56 | 9% | 25% |  |
+| 57 | 7% | 16% |  |
+| 58 | 4% | 9% |  |
+| 59 | 2% | 5% |  |
+| 60 | 1.4% | 3% |  |
+| 61 | 0.7% | 1.2% |  |
+| 62 | 0.3% | 0.5% |  |
+| 63 | 0.1% | 0.2% |  |
+| 64 | 0% | 0.1% |  |
 | 65 | 0% | 0% |  |
 | 66 | 0% | 0% |  |
 | 67 | 0% | 0% |  |
