@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **49** seats (-29 seats)
+Current median: **50** seats (-28 seats)
 
 At least one member in **14 countries** have a median of 1 seat or more:
 
@@ -18,8 +18,8 @@ At least one member in **14 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 49 | 46–52 | 45–53 | 45–54 | 43–55 |
-| Fratelli d’Italia | IT | | 23 | 20–24 | 20–25 | 19–26 | 19–27 |
+| European Conservatives and Reformists | EU | 78 | 50 | 47–53 | 46–54 | 45–54 | 44–56 |
+| Fratelli d’Italia | IT | | 23 | 22–25 | 20–26 | 20–26 | 18–28 |
 | Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 4 | 4 | 4 |
@@ -53,21 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 42 | 0.1% | 100% |  |
-| 43 | 0.4% | 99.9% |  |
-| 44 | 1.3% | 99.4% |  |
-| 45 | 3% | 98% |  |
-| 46 | 7% | 95% |  |
-| 47 | 11% | 88% |  |
-| 48 | 15% | 77% |  |
-| 49 | 18% | 62% | Median |
-| 50 | 17% | 44% |  |
-| 51 | 13% | 27% |  |
-| 52 | 8% | 14% |  |
-| 53 | 4% | 7% |  |
-| 54 | 2% | 3% |  |
-| 55 | 0.7% | 1.0% |  |
-| 56 | 0.2% | 0.4% |  |
-| 57 | 0.1% | 0.1% |  |
+| 43 | 0.3% | 99.9% |  |
+| 44 | 0.8% | 99.6% |  |
+| 45 | 2% | 98.8% |  |
+| 46 | 3% | 97% |  |
+| 47 | 6% | 94% |  |
+| 48 | 11% | 87% |  |
+| 49 | 16% | 76% |  |
+| 50 | 18% | 61% | Median |
+| 51 | 17% | 42% |  |
+| 52 | 13% | 25% |  |
+| 53 | 7% | 13% |  |
+| 54 | 3% | 5% |  |
+| 55 | 1.3% | 2% |  |
+| 56 | 0.4% | 0.6% |  |
+| 57 | 0.1% | 0.2% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |

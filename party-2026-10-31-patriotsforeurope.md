@@ -18,14 +18,14 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 90 | 86–94 | 85–95 | 84–96 | 82–98 |
+| Patriots for Europe | EU | 84 | 90 | 87–94 | 86–95 | 85–96 | 83–98 |
 | Rassemblement national | FR | | 32 | 30–35 | 29–35 | 29–36 | 28–37 |
 | Vox | ES | | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | Freiheitliche Partei Österreichs | AT | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | Chega | PT | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Lega Nord | IT | | 5 | 4–6 | 3–7 | 0–7 | 0–8 |
+| Lega Nord | IT | | 5 | 4–6 | 4–6 | 4–8 | 0–8 |
 | Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | Dansk Folkeparti | DK | | 2 | 2 | 2 | 2 | 1–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -45,28 +45,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 79 | 0% | 100% |  |
-| 80 | 0.1% | 99.9% |  |
-| 81 | 0.2% | 99.8% |  |
-| 82 | 0.4% | 99.6% |  |
-| 83 | 0.9% | 99.2% |  |
-| 84 | 2% | 98% | Last Result |
-| 85 | 3% | 97% |  |
-| 86 | 5% | 94% |  |
-| 87 | 7% | 89% |  |
-| 88 | 9% | 82% |  |
-| 89 | 12% | 73% |  |
-| 90 | 13% | 61% | Median |
+| 81 | 0.1% | 100% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.6% | 99.7% |  |
+| 84 | 1.3% | 99.1% | Last Result |
+| 85 | 3% | 98% |  |
+| 86 | 5% | 95% |  |
+| 87 | 7% | 91% |  |
+| 88 | 10% | 84% |  |
+| 89 | 12% | 74% |  |
+| 90 | 13% | 62% | Median |
 | 91 | 13% | 48% |  |
 | 92 | 12% | 35% |  |
-| 93 | 9% | 24% |  |
+| 93 | 9% | 23% |  |
 | 94 | 6% | 14% |  |
 | 95 | 4% | 8% |  |
 | 96 | 2% | 4% |  |
 | 97 | 1.0% | 2% |  |
-| 98 | 0.4% | 0.7% |  |
-| 99 | 0.2% | 0.2% |  |
-| 100 | 0.1% | 0.1% |  |
+| 98 | 0.4% | 0.6% |  |
+| 99 | 0.1% | 0.2% |  |
+| 100 | 0% | 0.1% |  |
 | 101 | 0% | 0% |  |
 
 
