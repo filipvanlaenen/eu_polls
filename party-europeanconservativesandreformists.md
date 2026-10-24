@@ -1,29 +1,31 @@
 # European Conservatives and Reformists
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, SE, SK
+> BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **51** seats (-27 seats)
+Current median: **67** seats (-11 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, LU, LV, NL, SE, SK
+> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 51 | 48–54 | 47–55 | 46–55 | 45–56 |
-| Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–26 | 19–26 |
+| European Conservatives and Reformists | EU | 78 | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
+| Zjednoczona Prawica | PL | | 13 | 12–16 | 12–17 | 12–17 | 11–17 |
 | Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 4 | 4 | 4 | 4 |
+| Sverigedemokraterna | SE | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| Rozwój Plus | PL | | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -53,39 +55,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.2% | 100% |  |
-| 45 | 0.7% | 99.8% |  |
-| 46 | 2% | 99.1% |  |
-| 47 | 5% | 97% |  |
-| 48 | 8% | 93% |  |
-| 49 | 12% | 84% |  |
-| 50 | 15% | 72% |  |
-| 51 | 16% | 57% | Median |
-| 52 | 16% | 41% |  |
-| 53 | 12% | 25% |  |
-| 54 | 8% | 13% |  |
-| 55 | 4% | 5% |  |
-| 56 | 1.3% | 2% |  |
-| 57 | 0.3% | 0.4% |  |
-| 58 | 0.1% | 0.1% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
-| 61 | 0% | 0% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% |  |
-| 71 | 0% | 0% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
+| 57 | 0% | 100% |  |
+| 58 | 0.2% | 99.9% |  |
+| 59 | 0.4% | 99.8% |  |
+| 60 | 1.0% | 99.4% |  |
+| 61 | 2% | 98% |  |
+| 62 | 4% | 96% |  |
+| 63 | 6% | 93% |  |
+| 64 | 8% | 87% |  |
+| 65 | 11% | 79% |  |
+| 66 | 12% | 68% |  |
+| 67 | 13% | 56% | Median |
+| 68 | 12% | 43% |  |
+| 69 | 10% | 31% |  |
+| 70 | 8% | 21% |  |
+| 71 | 6% | 12% |  |
+| 72 | 3% | 7% |  |
+| 73 | 2% | 3% |  |
+| 74 | 0.9% | 1.5% |  |
+| 75 | 0.4% | 0.5% |  |
+| 76 | 0.1% | 0.2% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% | Last Result |
 

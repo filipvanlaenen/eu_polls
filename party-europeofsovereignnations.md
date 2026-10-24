@@ -1,31 +1,32 @@
 # Europe of Sovereign Nations
 
-Members registered from **9 countries**:
+Members registered from **10 countries**:
 
-> BG, CZ, DE, FR, HU, IT, LT, NL, SK
+> BG, CZ, DE, FR, HU, IT, LT, NL, PL, SK
 
 ## Seats
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **42** seats (+17 seats)
+Current median: **46** seats (+21 seats)
 
-At least one member in **6 countries** have a median of 1 seat or more:
+At least one member in **7 countries** have a median of 1 seat or more:
 
-> CZ, DE, HU, IT, NL, SK
+> CZ, DE, HU, IT, NL, PL, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 42 | 39–45 | 38–47 | 38–48 | 37–50 |
+| Europe of Sovereign Nations | EU | 25 | 46 | 43–50 | 42–52 | 42–53 | 41–55 |
 | Alternative für Deutschland | DE | | 27 | 25–29 | 25–29 | 24–30 | 24–31 |
 | Futuro Nazionale | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
+| Nowa Nadzieja | PL | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Forum voor Democratie | NL | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| Reconquête | FR | | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| Reconquête | FR | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Tautos ir teisingumo sąjunga (centristai, tautininkai) | LT | | 0 | 0 | 0 | 0 | 0 |
 | Trikolóra hnutí občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Възраждане | BG | | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -48,24 +49,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
 | 34 | 0% | 100% |  |
-| 35 | 0.1% | 100% |  |
-| 36 | 0.3% | 99.9% |  |
-| 37 | 1.5% | 99.6% |  |
-| 38 | 4% | 98% |  |
-| 39 | 9% | 94% |  |
-| 40 | 14% | 85% |  |
-| 41 | 16% | 71% |  |
-| 42 | 16% | 54% | Median |
-| 43 | 13% | 38% |  |
-| 44 | 9% | 25% |  |
-| 45 | 6% | 16% |  |
-| 46 | 4% | 9% |  |
-| 47 | 2% | 5% |  |
-| 48 | 1.4% | 3% |  |
-| 49 | 0.8% | 1.4% |  |
-| 50 | 0.4% | 0.6% |  |
-| 51 | 0.2% | 0.3% |  |
-| 52 | 0.1% | 0.1% |  |
-| 53 | 0% | 0% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0.1% | 100% |  |
+| 40 | 0.3% | 99.9% |  |
+| 41 | 1.2% | 99.6% |  |
+| 42 | 3% | 98% |  |
+| 43 | 7% | 95% |  |
+| 44 | 12% | 88% |  |
+| 45 | 15% | 76% |  |
+| 46 | 15% | 62% | Median |
+| 47 | 14% | 46% |  |
+| 48 | 11% | 33% |  |
+| 49 | 8% | 22% |  |
+| 50 | 5% | 14% |  |
+| 51 | 4% | 9% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.5% | 3% |  |
+| 54 | 0.8% | 2% |  |
+| 55 | 0.4% | 0.7% |  |
+| 56 | 0.2% | 0.3% |  |
+| 57 | 0.1% | 0.1% |  |
+| 58 | 0% | 0% |  |
 
 

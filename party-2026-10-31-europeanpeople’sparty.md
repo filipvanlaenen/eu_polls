@@ -1,36 +1,37 @@
 # European People’s Party
 
-Members registered from **25 countries**:
+Members registered from **26 countries**:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, SE, SI, SK
 
 ## Seats
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **141** seats (-47 seats)
+Current median: **162** seats (-26 seats)
 
-At least one member in **25 countries** have a median of 1 seat or more:
+At least one member in **26 countries** have a median of 1 seat or more:
 
-> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PT, SE, SI, SK
+> AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 141 | 136–146 | 134–148 | 133–149 | 130–151 |
+| European People’s Party | EU | 188 | 162 | 156–167 | 154–169 | 153–170 | 150–172 |
 | Partido Popular | ES | | 22 | 20–24 | 15–25 | 15–25 | 15–26 |
+| Koalicja Obywatelska | PL | | 19 | 18–21 | 18–21 | 17–22 | 16–23 |
 | Christlich Demokratische Union Deutschlands | DE | | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
 | Tisztelet és Szabadság | HU | | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
-| Les Républicains | FR | | 7 | 5–11 | 5–12 | 5–12 | 5–13 |
+| Les Républicains | FR | | 8 | 5–11 | 5–12 | 5–12 | 5–13 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Aliança Democrática | PT | | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| Forza Italia | IT | | 5 | 5–6 | 4–7 | 4–7 | 4–8 |
+| Forza Italia | IT | | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | Hrvatska demokratska zajednica | HR | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Moderata samlingspartiet | SE | | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | Starostové a nezávislí | CZ | | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Christlich-Soziale Union in Bayern | DE | | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | Latvijas Reģionu Apvienība | LV | | 4 | 4 | 4 | 4 | 4 |
-| Moderata samlingspartiet | SE | | 4 | 4 | 4 | 4 | 4 |
 | Österreichische Volkspartei | AT | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -49,7 +50,7 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Det Konservative Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Jaunā VIENOTĪBA | LV | | 1 | 1 | 1 | 1 | 1 |
 | Kresťanskodemokratické hnutie | SK | | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| Kristdemokraterna | SE | | 1 | 1 | 1 | 1 | 1 |
+| Kristdemokraterna | SE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Демократична България | BG | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | BoerBurgerBeweging | NL | | 0 | 0 | 0 | 0 | 0 |
 | ChristenUnie | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,12 +58,14 @@ At least one member in **25 countries** have a median of 1 seat or more:
 | Demokrati | SK | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti 200 | EE | | 0 | 0 | 0 | 0 | 0 |
 | Erakond Parempoolsed | EE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Inicjatywa Polska | PL | | 0 | 0 | 0 | 0 | 0–1 |
 | Jaunā konservatīvā partija | LV | | 0 | 0 | 0 | 0 | 0 |
 | Kristillisdemokraatit | FI | | 0 | 0 | 0 | 0 | 0 |
 | Křesťanská a demokratická unie–Československá strana lidová | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Szövetség | SK | | 0 | 0 | 0 | 0 | 0–1 |
 | Noi Moderati | IT | | 0 | 0 | 0 | 0 | 0 |
 | Nova Slovenija–Krščanski demokrati | SI | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Polskie Stronnictwo Ludowe | PL | | 0 | 0 | 0 | 0 | 0 |
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
@@ -75,55 +78,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 127 | 0.1% | 100% |  |
-| 128 | 0.1% | 99.9% |  |
-| 129 | 0.2% | 99.8% |  |
-| 130 | 0.4% | 99.5% |  |
-| 131 | 0.6% | 99.1% |  |
-| 132 | 0.9% | 98.5% |  |
-| 133 | 1.3% | 98% |  |
-| 134 | 2% | 96% |  |
-| 135 | 3% | 94% |  |
-| 136 | 4% | 92% |  |
-| 137 | 5% | 88% |  |
-| 138 | 7% | 83% |  |
-| 139 | 8% | 76% |  |
-| 140 | 9% | 67% |  |
-| 141 | 10% | 58% | Median |
-| 142 | 10% | 48% |  |
-| 143 | 9% | 38% |  |
-| 144 | 8% | 29% |  |
-| 145 | 7% | 21% |  |
-| 146 | 5% | 15% |  |
-| 147 | 4% | 10% |  |
-| 148 | 2% | 6% |  |
-| 149 | 2% | 3% |  |
-| 150 | 0.9% | 2% |  |
-| 151 | 0.5% | 0.9% |  |
-| 152 | 0.2% | 0.4% |  |
-| 153 | 0.1% | 0.2% |  |
-| 154 | 0% | 0.1% |  |
-| 155 | 0% | 0% |  |
-| 156 | 0% | 0% |  |
-| 157 | 0% | 0% |  |
-| 158 | 0% | 0% |  |
-| 159 | 0% | 0% |  |
-| 160 | 0% | 0% |  |
-| 161 | 0% | 0% |  |
-| 162 | 0% | 0% |  |
-| 163 | 0% | 0% |  |
-| 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% |  |
-| 167 | 0% | 0% |  |
-| 168 | 0% | 0% |  |
-| 169 | 0% | 0% |  |
-| 170 | 0% | 0% |  |
-| 171 | 0% | 0% |  |
-| 172 | 0% | 0% |  |
-| 173 | 0% | 0% |  |
-| 174 | 0% | 0% |  |
-| 175 | 0% | 0% |  |
+| 146 | 0% | 100% |  |
+| 147 | 0.1% | 99.9% |  |
+| 148 | 0.1% | 99.9% |  |
+| 149 | 0.2% | 99.7% |  |
+| 150 | 0.4% | 99.5% |  |
+| 151 | 0.6% | 99.1% |  |
+| 152 | 0.9% | 98.6% |  |
+| 153 | 1.3% | 98% |  |
+| 154 | 2% | 96% |  |
+| 155 | 3% | 95% |  |
+| 156 | 4% | 92% |  |
+| 157 | 5% | 88% |  |
+| 158 | 6% | 83% |  |
+| 159 | 7% | 77% |  |
+| 160 | 9% | 70% |  |
+| 161 | 9% | 61% |  |
+| 162 | 9% | 52% | Median |
+| 163 | 9% | 43% |  |
+| 164 | 8% | 34% |  |
+| 165 | 7% | 25% |  |
+| 166 | 6% | 18% |  |
+| 167 | 4% | 13% |  |
+| 168 | 3% | 8% |  |
+| 169 | 2% | 5% |  |
+| 170 | 1.3% | 3% |  |
+| 171 | 0.8% | 2% |  |
+| 172 | 0.4% | 0.9% |  |
+| 173 | 0.2% | 0.4% |  |
+| 174 | 0.1% | 0.2% |  |
+| 175 | 0% | 0.1% |  |
 | 176 | 0% | 0% |  |
 | 177 | 0% | 0% |  |
 | 178 | 0% | 0% |  |
