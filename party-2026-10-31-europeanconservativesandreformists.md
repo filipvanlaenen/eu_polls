@@ -1,25 +1,25 @@
 # European Conservatives and Reformists
 
-Members registered from **15 countries**:
+Members registered from **16 countries**:
 
-> BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, NL, SE, SK
+> BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **50** seats (-28 seats)
+Current median: **51** seats (-27 seats)
 
-At least one member in **14 countries** have a median of 1 seat or more:
+At least one member in **15 countries** have a median of 1 seat or more:
 
-> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, LU, NL, SE, SK
+> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, LU, LV, NL, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 50 | 47–53 | 46–54 | 45–54 | 44–56 |
-| Fratelli d’Italia | IT | | 23 | 22–25 | 20–26 | 20–26 | 18–28 |
+| European Conservatives and Reformists | EU | 78 | 51 | 48–54 | 47–55 | 46–55 | 45–56 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–26 | 19–26 |
 | Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 4 | 4 | 4 |
@@ -31,6 +31,7 @@ At least one member in **14 countries** have a median of 1 seat or more:
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionalinis Susivienijimas | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
 | Движение за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -52,23 +53,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 42 | 0.1% | 100% |  |
-| 43 | 0.3% | 99.9% |  |
-| 44 | 0.8% | 99.6% |  |
-| 45 | 2% | 98.8% |  |
-| 46 | 3% | 97% |  |
-| 47 | 6% | 94% |  |
-| 48 | 11% | 87% |  |
-| 49 | 16% | 76% |  |
-| 50 | 18% | 61% | Median |
-| 51 | 17% | 42% |  |
-| 52 | 13% | 25% |  |
-| 53 | 7% | 13% |  |
-| 54 | 3% | 5% |  |
-| 55 | 1.3% | 2% |  |
-| 56 | 0.4% | 0.6% |  |
-| 57 | 0.1% | 0.2% |  |
-| 58 | 0% | 0% |  |
+| 44 | 0.2% | 100% |  |
+| 45 | 0.7% | 99.8% |  |
+| 46 | 2% | 99.1% |  |
+| 47 | 5% | 97% |  |
+| 48 | 8% | 93% |  |
+| 49 | 12% | 84% |  |
+| 50 | 15% | 72% |  |
+| 51 | 16% | 57% | Median |
+| 52 | 16% | 41% |  |
+| 53 | 12% | 25% |  |
+| 54 | 8% | 13% |  |
+| 55 | 4% | 5% |  |
+| 56 | 1.3% | 2% |  |
+| 57 | 0.3% | 0.4% |  |
+| 58 | 0.1% | 0.1% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |

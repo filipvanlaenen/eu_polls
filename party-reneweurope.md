@@ -1,8 +1,8 @@
 # Renew Europe
 
-Members registered from **20 countries**:
+Members registered from **21 countries**:
 
-> AT, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, NL, PT, SE, SI, SK
+> AT, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, NL, PT, SE, SI, SK
 
 ## Seats
 
@@ -40,7 +40,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -51,9 +51,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
+| Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |
@@ -75,7 +77,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 2% | 98% |  |
 | 47 | 3% | 97% |  |
 | 48 | 4% | 94% |  |
-| 49 | 5% | 91% |  |
+| 49 | 5% | 90% |  |
 | 50 | 6% | 86% |  |
 | 51 | 8% | 80% |  |
 | 52 | 11% | 71% |  |

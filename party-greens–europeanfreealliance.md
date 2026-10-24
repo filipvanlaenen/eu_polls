@@ -1,27 +1,27 @@
 # Greens–European Free Alliance
 
-Members registered from **20 countries**:
+Members registered from **21 countries**:
 
-> AT, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, NL, PT, SE, SI
+> AT, BG, CY, CZ, DE, DK, EE, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, NL, PT, SE, SI
 
 ## Seats
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **37** seats (-16 seats)
+Current median: **38** seats (-15 seats)
 
-At least one member in **12 countries** have a median of 1 seat or more:
+At least one member in **13 countries** have a median of 1 seat or more:
 
-> AT, CZ, DE, DK, ES, FI, HR, IT, LT, LU, NL, SE
+> AT, CZ, DE, DK, ES, FI, HR, IT, LT, LU, LV, NL, SE
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 37 | 34–41 | 33–42 | 32–43 | 31–46 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–44 | 34–45 | 32–47 |
 | Bündnis 90/Die Grünen | DE | | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Europa Verde | IT | | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| Europa Verde | IT | | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Možemo! | HR | | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -31,6 +31,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Demokratų sąjunga „Vardan Lietuvos“ | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Esquerra Republicana de Catalunya–Catalunya Sí | ES | | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | Miljöpartiet de gröna | SE | | 1 | 1 | 1 | 1 | 1 |
+| PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1 |
 | Volt Europa | DE | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -62,26 +63,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.2% | 100% |  |
-| 31 | 0.7% | 99.8% |  |
-| 32 | 2% | 99.1% |  |
-| 33 | 5% | 97% |  |
-| 34 | 9% | 92% |  |
-| 35 | 13% | 83% |  |
-| 36 | 16% | 70% |  |
-| 37 | 15% | 54% | Median |
-| 38 | 13% | 39% |  |
-| 39 | 9% | 26% |  |
-| 40 | 6% | 17% |  |
-| 41 | 4% | 11% |  |
-| 42 | 3% | 7% |  |
-| 43 | 2% | 4% |  |
-| 44 | 1.2% | 2% |  |
-| 45 | 0.7% | 1.2% |  |
-| 46 | 0.3% | 0.5% |  |
-| 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.5% | 99.8% |  |
+| 33 | 2% | 99.3% |  |
+| 34 | 4% | 98% |  |
+| 35 | 8% | 94% |  |
+| 36 | 12% | 86% |  |
+| 37 | 15% | 75% |  |
+| 38 | 15% | 60% | Median |
+| 39 | 14% | 44% |  |
+| 40 | 10% | 31% |  |
+| 41 | 7% | 20% |  |
+| 42 | 5% | 13% |  |
+| 43 | 3% | 8% |  |
+| 44 | 2% | 5% |  |
+| 45 | 1.4% | 3% |  |
+| 46 | 0.9% | 2% |  |
+| 47 | 0.5% | 0.8% |  |
+| 48 | 0.2% | 0.3% |  |
+| 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |

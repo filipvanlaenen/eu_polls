@@ -1,8 +1,8 @@
 # Non-Inscrits
 
-Members registered from **12 countries**:
+Members registered from **13 countries**:
 
-> BG, CY, CZ, DE, DK, ES, FI, GR, HR, LT, SI, SK
+> BG, CY, CZ, DE, DK, ES, FI, GR, HR, LT, LV, SI, SK
 
 ## Seats
 
@@ -36,6 +36,7 @@ At least one member in **6 countries** have a median of 1 seat or more:
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
 | Pravo i Pravda | HR | | 0 | 0 | 0 | 0 | 0 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
+| Stabilitātei! | LV | | 0 | 0 | 0 | 0 | 0 |
 | Strana svobodných občanů | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Άμεσης Δημοκρατίας | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ | GR | | 0 | 0 | 0 | 0 | 0–1 |
