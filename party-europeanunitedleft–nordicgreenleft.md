@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **62** seats (+16 seats)
+Current median: **61** seats (+15 seats)
 
 At least one member in **11 countries** have a median of 1 seat or more:
 
@@ -18,13 +18,13 @@ At least one member in **11 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 62 | 58–66 | 57–67 | 56–69 | 54–71 |
+| European United Left–Nordic Green Left | EU | 46 | 61 | 57–66 | 56–67 | 55–68 | 54–70 |
 | La France insoumise | FR | | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Social Democrats | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–4 | 1–4 | 1–4 | 1–4 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
 | Podemos | ES | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
@@ -66,27 +66,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 0% | 100% |  |
 | 51 | 0% | 100% |  |
 | 52 | 0.1% | 100% |  |
-| 53 | 0.2% | 99.9% |  |
-| 54 | 0.6% | 99.6% |  |
-| 55 | 1.2% | 99.1% |  |
-| 56 | 2% | 98% |  |
-| 57 | 4% | 95% |  |
-| 58 | 6% | 91% |  |
-| 59 | 8% | 85% |  |
-| 60 | 10% | 77% |  |
-| 61 | 12% | 66% |  |
-| 62 | 12% | 55% | Median |
-| 63 | 11% | 43% |  |
-| 64 | 10% | 31% |  |
-| 65 | 8% | 22% |  |
-| 66 | 6% | 14% |  |
-| 67 | 4% | 9% |  |
-| 68 | 2% | 5% |  |
-| 69 | 1.3% | 3% |  |
-| 70 | 0.7% | 1.3% |  |
-| 71 | 0.3% | 0.6% |  |
-| 72 | 0.2% | 0.2% |  |
-| 73 | 0.1% | 0.1% |  |
+| 53 | 0.3% | 99.8% |  |
+| 54 | 0.7% | 99.5% |  |
+| 55 | 2% | 98.8% |  |
+| 56 | 3% | 97% |  |
+| 57 | 5% | 94% |  |
+| 58 | 7% | 90% |  |
+| 59 | 9% | 83% |  |
+| 60 | 11% | 73% |  |
+| 61 | 12% | 62% | Median |
+| 62 | 12% | 50% |  |
+| 63 | 11% | 38% |  |
+| 64 | 9% | 27% |  |
+| 65 | 7% | 18% |  |
+| 66 | 5% | 11% |  |
+| 67 | 3% | 7% |  |
+| 68 | 2% | 4% |  |
+| 69 | 1.0% | 2% |  |
+| 70 | 0.5% | 0.9% |  |
+| 71 | 0.2% | 0.4% |  |
+| 72 | 0.1% | 0.2% |  |
+| 73 | 0% | 0.1% |  |
 | 74 | 0% | 0% |  |
 
 

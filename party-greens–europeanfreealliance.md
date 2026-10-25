@@ -18,10 +18,10 @@ At least one member in **13 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–44 | 34–45 | 32–48 |
+| Greens–European Free Alliance | EU | 53 | 38 | 35–42 | 34–44 | 33–45 | 32–48 |
 | Bündnis 90/Die Grünen | DE | | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| Europa Verde | IT | | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
+| Europa Verde | IT | | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Catalunya en Comú–Més–Compromís–Más País–Chunta | ES | | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | Catalunya en Comú–Més–Más País–Chunta | ES | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -51,7 +51,7 @@ At least one member in **13 countries** have a median of 1 seat or more:
 | Strana zelených | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Sănătate, Educație, Natură, Sustenabilitate | RO | | 0 | 0 | 0 | 0 | 0–2 |
 | VESNA–Zelena stranka | SI | | 0 | 0 | 0 | 0 | 0 |
-| Volt Europa | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Volt Europa | NL | | 0 | 0 | 0 | 0 | 0 |
 | Volt Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Βολτ Κύπρος | CY | | 0 | 0 | 0 | 0 | 0 |
 | Κίνημα Οικολόγων—Συνεργασία Πολιτών | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -67,17 +67,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0% | 100% |  |
 | 31 | 0.2% | 99.9% |  |
-| 32 | 0.6% | 99.8% |  |
-| 33 | 2% | 99.2% |  |
-| 34 | 4% | 98% |  |
+| 32 | 0.6% | 99.7% |  |
+| 33 | 2% | 99.1% |  |
+| 34 | 4% | 97% |  |
 | 35 | 7% | 94% |  |
 | 36 | 10% | 87% |  |
 | 37 | 13% | 77% |  |
-| 38 | 14% | 64% | Median |
-| 39 | 14% | 50% |  |
-| 40 | 12% | 36% |  |
-| 41 | 9% | 24% |  |
-| 42 | 6% | 16% |  |
+| 38 | 14% | 63% | Median |
+| 39 | 14% | 49% |  |
+| 40 | 11% | 35% |  |
+| 41 | 8% | 24% |  |
+| 42 | 6% | 15% |  |
 | 43 | 4% | 10% |  |
 | 44 | 2% | 6% |  |
 | 45 | 2% | 4% |  |
