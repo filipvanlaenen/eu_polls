@@ -1,31 +1,32 @@
 # European Conservatives and Reformists
 
-Members registered from **17 countries**:
+Members registered from **18 countries**:
 
-> BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BG, CY, CZ, DK, EE, FI, FR, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ## Seats
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **67** seats (-11 seats)
+Current median: **80** seats (+2 seats)
 
-At least one member in **16 countries** have a median of 1 seat or more:
+At least one member in **17 countries** have a median of 1 seat or more:
 
-> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, LU, LV, NL, PL, SE, SK
+> BG, CY, CZ, DK, EE, FI, GR, HR, IT, LT, LU, LV, NL, PL, RO, SE, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 67 | 63–71 | 62–72 | 61–73 | 59–75 |
-| Fratelli d’Italia | IT | | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
-| Zjednoczona Prawica | PL | | 13 | 12–16 | 12–17 | 12–17 | 11–17 |
-| Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| European Conservatives and Reformists | EU | 78 | 80 | 76–84 | 75–85 | 74–86 | 72–88 |
+| Fratelli d’Italia | IT | | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
+| Alianța pentru Unirea Românilor | RO | | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| Zjednoczona Prawica | PL | | 13 | 11–16 | 10–16 | 10–17 | 9–17 |
+| Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–6 |
 | Občanská demokratická strana | CZ | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| Rozwój Plus | PL | | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| Rozwój Plus | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
 | Danmarksdemokraterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -45,6 +46,7 @@ At least one member in **16 countries** have a median of 1 seat or more:
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
 | Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
 | Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
 
 ### Probability Mass Function
@@ -55,27 +57,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.4% | 99.8% |  |
-| 60 | 1.0% | 99.4% |  |
-| 61 | 2% | 98% |  |
-| 62 | 4% | 96% |  |
-| 63 | 6% | 93% |  |
-| 64 | 8% | 87% |  |
-| 65 | 11% | 79% |  |
-| 66 | 12% | 68% |  |
-| 67 | 13% | 56% | Median |
-| 68 | 12% | 43% |  |
-| 69 | 10% | 31% |  |
-| 70 | 8% | 21% |  |
-| 71 | 6% | 12% |  |
-| 72 | 3% | 7% |  |
-| 73 | 2% | 3% |  |
-| 74 | 0.9% | 1.5% |  |
-| 75 | 0.4% | 0.5% |  |
-| 76 | 0.1% | 0.2% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% | Last Result |
+| 70 | 0.1% | 100% |  |
+| 71 | 0.2% | 99.9% |  |
+| 72 | 0.4% | 99.7% |  |
+| 73 | 0.9% | 99.3% |  |
+| 74 | 2% | 98% |  |
+| 75 | 3% | 97% |  |
+| 76 | 5% | 93% |  |
+| 77 | 8% | 88% |  |
+| 78 | 10% | 80% | Last Result |
+| 79 | 12% | 70% |  |
+| 80 | 13% | 58% | Median |
+| 81 | 12% | 46% |  |
+| 82 | 11% | 33% |  |
+| 83 | 8% | 22% |  |
+| 84 | 6% | 14% |  |
+| 85 | 4% | 8% |  |
+| 86 | 2% | 4% |  |
+| 87 | 1.2% | 2% |  |
+| 88 | 0.6% | 1.0% |  |
+| 89 | 0.3% | 0.4% |  |
+| 90 | 0.1% | 0.2% |  |
+| 91 | 0% | 0.1% |  |
+| 92 | 0% | 0% |  |
 
 

@@ -1,45 +1,47 @@
 # Renew Europe
 
-Members registered from **22 countries**:
+Members registered from **23 countries**:
 
-> AT, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, NL, PL, PT, SE, SI, SK
+> AT, BG, CY, DE, DK, EE, ES, FI, FR, GR, HR, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
 
 ## Seats
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **52** seats (-25 seats)
+Current median: **55** seats (-22 seats)
 
-At least one member in **15 countries** have a median of 1 seat or more:
+At least one member in **16 countries** have a median of 1 seat or more:
 
-> AT, BG, DE, DK, EE, FI, FR, IE, LT, LU, NL, PT, SE, SI, SK
+> AT, BG, DE, DK, EE, FI, FR, IE, LT, LU, NL, PT, RO, SE, SI, SK
 
 ### Confidence Intervals
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 52 | 47–56 | 46–57 | 45–58 | 43–60 |
+| Renew Europe | EU | 77 | 55 | 50–59 | 49–61 | 48–62 | 46–64 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 9–15 | 8–16 | 8–16 | 7–17 |
 | Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
-| Gibanje Svoboda | SI | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | Fianna Fáil | IE | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
+| Gibanje Svoboda | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| Uniunea Salvați România | RO | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
-| Продължаваме промяната | BG | | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| Продължаваме промяната | BG | | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | Centerpartiet | SE | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Eesti Keskerakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
+| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Azione–Partito Liberaldemocratico | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -48,20 +50,21 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
-| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
+| Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Latvijas attīstībai | LV | | 0 | 0 | 0 | 0 | 0 |
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
+| Più Europa–Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
+| Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκρατική Παράταξη | CY | | 0 | 0 | 0 | 0 | 0 |
-| Алианс за права и свободи | BG | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
@@ -71,32 +74,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0.1% | 100% |  |
-| 42 | 0.3% | 99.9% |  |
-| 43 | 0.6% | 99.6% |  |
-| 44 | 1.1% | 99.0% |  |
-| 45 | 2% | 98% |  |
-| 46 | 3% | 96% |  |
-| 47 | 4% | 93% |  |
-| 48 | 6% | 89% |  |
-| 49 | 7% | 83% |  |
-| 50 | 10% | 76% |  |
-| 51 | 12% | 66% |  |
-| 52 | 13% | 55% | Median |
-| 53 | 12% | 42% |  |
-| 54 | 11% | 29% |  |
-| 55 | 8% | 19% |  |
-| 56 | 5% | 11% |  |
-| 57 | 3% | 6% |  |
-| 58 | 2% | 3% |  |
-| 59 | 0.7% | 1.3% |  |
-| 60 | 0.3% | 0.6% |  |
-| 61 | 0.2% | 0.2% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% |  |
-| 65 | 0% | 0% |  |
-| 66 | 0% | 0% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0.1% | 99.9% |  |
+| 45 | 0.3% | 99.8% |  |
+| 46 | 0.6% | 99.5% |  |
+| 47 | 1.1% | 98.9% |  |
+| 48 | 2% | 98% |  |
+| 49 | 3% | 96% |  |
+| 50 | 4% | 93% |  |
+| 51 | 6% | 89% |  |
+| 52 | 8% | 83% |  |
+| 53 | 10% | 76% |  |
+| 54 | 11% | 66% |  |
+| 55 | 12% | 55% | Median |
+| 56 | 11% | 43% |  |
+| 57 | 10% | 32% |  |
+| 58 | 8% | 22% |  |
+| 59 | 5% | 14% |  |
+| 60 | 4% | 9% |  |
+| 61 | 2% | 5% |  |
+| 62 | 1.4% | 3% |  |
+| 63 | 0.7% | 1.3% |  |
+| 64 | 0.4% | 0.6% |  |
+| 65 | 0.2% | 0.2% |  |
+| 66 | 0.1% | 0.1% |  |
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |
