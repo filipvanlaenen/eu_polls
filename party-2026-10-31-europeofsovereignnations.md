@@ -20,7 +20,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Europe of Sovereign Nations | EU | 25 | 46 | 43–50 | 42–51 | 41–53 | 40–55 |
 | Alternative für Deutschland | DE | | 26 | 24–29 | 23–29 | 23–30 | 23–31 |
-| Futuro Nazionale | IT | | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
+| Futuro Nazionale | IT | | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | Nowa Nadzieja | PL | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Forum voor Democratie | NL | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
