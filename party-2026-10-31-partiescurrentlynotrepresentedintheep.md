@@ -24,7 +24,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| Adelante Andalucía [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Adelante Andalucía [ES] (*) | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
@@ -75,11 +75,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 1.2% | 100% |  |
-| 6 | 8% | 98.7% |  |
-| 7 | 37% | 91% |  |
-| 8 | 40% | 54% | Median |
-| 9 | 13% | 14% |  |
-| 10 | 1.3% | 1.3% |  |
-| 11 | 0% | 0% |  |
+| 6 | 7% | 98.8% |  |
+| 7 | 36% | 91% |  |
+| 8 | 40% | 55% | Median |
+| 9 | 14% | 16% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 

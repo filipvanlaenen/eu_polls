@@ -29,7 +29,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Rozwój Plus | PL | | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -59,18 +59,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 70 | 0.1% | 100% |  |
 | 71 | 0.1% | 99.9% |  |
-| 72 | 0.4% | 99.8% |  |
+| 72 | 0.3% | 99.8% |  |
 | 73 | 0.8% | 99.4% |  |
-| 74 | 2% | 98.6% |  |
+| 74 | 2% | 98.7% |  |
 | 75 | 3% | 97% |  |
 | 76 | 5% | 94% |  |
 | 77 | 7% | 89% |  |
 | 78 | 10% | 82% | Last Result |
-| 79 | 12% | 71% |  |
+| 79 | 12% | 72% |  |
 | 80 | 13% | 59% | Median |
 | 81 | 13% | 46% |  |
 | 82 | 11% | 33% |  |
-| 83 | 8% | 22% |  |
+| 83 | 9% | 22% |  |
 | 84 | 6% | 14% |  |
 | 85 | 4% | 8% |  |
 | 86 | 2% | 4% |  |
