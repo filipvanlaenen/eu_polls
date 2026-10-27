@@ -1,8 +1,8 @@
 # Parties currently not represented in the EP
 
-Members registered from **16 countries**:
+Members registered from **17 countries**:
 
-> BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, SI, SK
+> BE, BG, CY, CZ, DE, EE, ES, FR, GR, HR, IE, IT, LU, LV, NL, SI, SK
 
 ## Seats
 
@@ -29,6 +29,7 @@ At least one member in **3 countries** have a median of 1 seat or more:
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0–1 |
 | De Nederlandse Alliantie [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
+| DéFI [BE-FRC] (*) | BE-FRC | | 0 | 0 | 0 | 0 | 0 |
 | Déi Konservativ [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
 | FOKUS – za Slovenijo s ciljem [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Fokus [LU] (*) | LU | | 0 | 0 | 0 | 0 | 0 |
