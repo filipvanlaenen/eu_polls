@@ -18,18 +18,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 97 | 93–101 | 92–103 | 91–104 | 89–105 |
+| Patriots for Europe | EU | 84 | 97 | 93–101 | 92–102 | 91–103 | 89–105 |
 | Rassemblement national | FR | | 32 | 29–35 | 29–35 | 28–35 | 27–36 |
 | Vox | ES | | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| Freiheitliche Partei Österreichs | AT | | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
+| Freiheitliche Partei Österreichs | AT | | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
 | Chega | PT | | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| Lega Nord | IT | | 5 | 4–6 | 3–6 | 0–7 | 0–8 |
-| Partij voor de Vrijheid | NL | | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| Lega Nord | IT | | 5 | 4–6 | 4–7 | 3–7 | 0–8 |
+| Partij voor de Vrijheid | NL | | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
 | Vlaams Belang | BE-VLG | | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | Ruch Narodowy | PL | | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| Dansk Folkeparti | DK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| Dansk Folkeparti | DK | | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | Nemuno aušra | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond | EE | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Latvija pirmajā vietā | LV | | 1 | 1 | 1 | 1 | 1 |
@@ -43,9 +43,9 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2026-10-31-seats-pmf-patriotsforeurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2026-11-30-seats-pmf-patriotsforeurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2026-10-31.html) for Patriots for Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2026-11-30.html) for Patriots for Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -53,27 +53,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 85 | 0% | 100% |  |
 | 86 | 0% | 100% |  |
 | 87 | 0.1% | 99.9% |  |
-| 88 | 0.3% | 99.8% |  |
-| 89 | 0.5% | 99.6% |  |
-| 90 | 1.0% | 99.0% |  |
+| 88 | 0.2% | 99.9% |  |
+| 89 | 0.4% | 99.7% |  |
+| 90 | 0.9% | 99.2% |  |
 | 91 | 2% | 98% |  |
 | 92 | 3% | 96% |  |
 | 93 | 5% | 93% |  |
-| 94 | 7% | 88% |  |
-| 95 | 10% | 81% |  |
-| 96 | 11% | 71% |  |
-| 97 | 12% | 60% | Median |
-| 98 | 12% | 47% |  |
-| 99 | 11% | 36% |  |
-| 100 | 9% | 25% |  |
-| 101 | 6% | 16% |  |
-| 102 | 4% | 10% |  |
-| 103 | 3% | 5% |  |
-| 104 | 1.4% | 3% |  |
-| 105 | 0.7% | 1.2% |  |
-| 106 | 0.3% | 0.5% |  |
-| 107 | 0.1% | 0.2% |  |
-| 108 | 0% | 0.1% |  |
-| 109 | 0% | 0% |  |
+| 94 | 8% | 88% |  |
+| 95 | 10% | 80% |  |
+| 96 | 12% | 70% |  |
+| 97 | 12% | 58% | Median |
+| 98 | 12% | 45% |  |
+| 99 | 11% | 33% |  |
+| 100 | 8% | 23% |  |
+| 101 | 6% | 14% |  |
+| 102 | 4% | 8% |  |
+| 103 | 2% | 4% |  |
+| 104 | 1.2% | 2% |  |
+| 105 | 0.6% | 0.9% |  |
+| 106 | 0.2% | 0.4% |  |
+| 107 | 0.1% | 0.1% |  |
+| 108 | 0% | 0% |  |
 
 

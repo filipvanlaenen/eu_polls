@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **59** seats (-18 seats)
+Current median: **58** seats (-19 seats)
 
 At least one member in **17 countries** have a median of 1 seat or more:
 
@@ -18,15 +18,15 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 59 | 55–63 | 54–64 | 53–65 | 51–67 |
+| Renew Europe | EU | 77 | 58 | 55–62 | 54–63 | 53–64 | 51–66 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 12–15 | 11–16 | 11–16 | 9–17 |
-| Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Volkspartij voor Vrijheid en Democratie | NL | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Fianna Fáil | IE | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| Volkspartij voor Vrijheid en Democratie | NL | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Mouvement Réformateur | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Suomen Keskusta | FI | | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -41,9 +41,9 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Azione–Partito Liberaldemocratico | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
@@ -71,34 +71,34 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-2026-10-31-seats-pmf-reneweurope.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-2026-11-30-seats-pmf-reneweurope.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average-2026-10-31.html) for Renew Europe.
+The following table shows the probability mass function per seat for the [poll average](average-2026-11-30.html) for Renew Europe.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 49 | 0% | 100% |  |
-| 50 | 0.1% | 99.9% |  |
-| 51 | 0.4% | 99.8% |  |
-| 52 | 0.9% | 99.5% |  |
-| 53 | 2% | 98.6% |  |
-| 54 | 4% | 97% |  |
-| 55 | 6% | 93% |  |
-| 56 | 9% | 87% |  |
-| 57 | 11% | 79% |  |
-| 58 | 13% | 67% |  |
-| 59 | 13% | 54% | Median |
-| 60 | 12% | 41% |  |
-| 61 | 10% | 29% |  |
-| 62 | 7% | 20% |  |
-| 63 | 5% | 12% |  |
-| 64 | 3% | 7% |  |
-| 65 | 2% | 4% |  |
-| 66 | 1.1% | 2% |  |
-| 67 | 0.6% | 1.1% |  |
-| 68 | 0.3% | 0.5% |  |
-| 69 | 0.1% | 0.2% |  |
-| 70 | 0% | 0.1% |  |
+| 49 | 0.1% | 100% |  |
+| 50 | 0.2% | 99.9% |  |
+| 51 | 0.6% | 99.7% |  |
+| 52 | 1.3% | 99.1% |  |
+| 53 | 3% | 98% |  |
+| 54 | 5% | 95% |  |
+| 55 | 8% | 90% |  |
+| 56 | 11% | 83% |  |
+| 57 | 13% | 72% |  |
+| 58 | 14% | 59% | Median |
+| 59 | 13% | 45% |  |
+| 60 | 11% | 32% |  |
+| 61 | 8% | 21% |  |
+| 62 | 6% | 13% |  |
+| 63 | 3% | 8% |  |
+| 64 | 2% | 4% |  |
+| 65 | 1.1% | 2% |  |
+| 66 | 0.6% | 1.1% |  |
+| 67 | 0.3% | 0.5% |  |
+| 68 | 0.1% | 0.2% |  |
+| 69 | 0.1% | 0.1% |  |
+| 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
 | 73 | 0% | 0% |  |
