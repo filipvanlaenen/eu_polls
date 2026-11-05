@@ -18,10 +18,10 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 58 | 55–62 | 54–63 | 53–64 | 51–66 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 14 | 12–15 | 11–16 | 11–16 | 9–17 |
+| Renew Europe | EU | 77 | 58 | 54–62 | 53–63 | 52–64 | 50–66 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 13 | 11–15 | 11–15 | 11–16 | 9–16 |
 | Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Fianna Fáil | IE | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
@@ -36,17 +36,17 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Iniciativa Liberal | PT | | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Azione–Partito Liberaldemocratico | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,27 +77,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 49 | 0.1% | 100% |  |
-| 50 | 0.2% | 99.9% |  |
-| 51 | 0.6% | 99.7% |  |
-| 52 | 1.3% | 99.1% |  |
-| 53 | 3% | 98% |  |
-| 54 | 5% | 95% |  |
-| 55 | 8% | 90% |  |
-| 56 | 11% | 83% |  |
-| 57 | 13% | 72% |  |
-| 58 | 14% | 59% | Median |
-| 59 | 13% | 45% |  |
-| 60 | 11% | 32% |  |
-| 61 | 8% | 21% |  |
-| 62 | 6% | 13% |  |
-| 63 | 3% | 8% |  |
-| 64 | 2% | 4% |  |
-| 65 | 1.1% | 2% |  |
-| 66 | 0.6% | 1.1% |  |
-| 67 | 0.3% | 0.5% |  |
-| 68 | 0.1% | 0.2% |  |
-| 69 | 0.1% | 0.1% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0.2% | 99.9% |  |
+| 50 | 0.4% | 99.8% |  |
+| 51 | 1.1% | 99.3% |  |
+| 52 | 2% | 98% |  |
+| 53 | 4% | 96% |  |
+| 54 | 7% | 92% |  |
+| 55 | 10% | 85% |  |
+| 56 | 12% | 76% |  |
+| 57 | 13% | 64% |  |
+| 58 | 13% | 50% | Median |
+| 59 | 11% | 38% |  |
+| 60 | 9% | 26% |  |
+| 61 | 7% | 17% |  |
+| 62 | 4% | 11% |  |
+| 63 | 3% | 6% |  |
+| 64 | 2% | 3% |  |
+| 65 | 0.9% | 2% |  |
+| 66 | 0.5% | 0.8% |  |
+| 67 | 0.2% | 0.3% |  |
+| 68 | 0.1% | 0.1% |  |
+| 69 | 0% | 0% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% |  |
 | 72 | 0% | 0% |  |
