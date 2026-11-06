@@ -19,7 +19,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European People’s Party | EU | 188 | 172 | 166–178 | 164–179 | 163–181 | 160–184 |
-| Partido Popular | ES | | 22 | 19–24 | 16–24 | 15–25 | 15–26 |
+| Partido Popular | ES | | 22 | 19–23 | 16–24 | 15–25 | 15–26 |
 | Koalicja Obywatelska | PL | | 20 | 17–22 | 17–23 | 16–23 | 16–24 |
 | Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–19 | 12–20 | 12–20 |
 | Tisztelet és Szabadság | HU | | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
@@ -36,7 +36,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Österreichische Volkspartei | AT | | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | Christen-Democratisch Appèl | NL | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| Kansallinen Kokoomus | FI | | 3 | 3 | 3 | 3 | 2–3 |
+| Kansallinen Kokoomus | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Slovenska demokratska stranka | SI | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -93,23 +93,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 164 | 2% | 96% |  |
 | 165 | 3% | 94% |  |
 | 166 | 4% | 91% |  |
-| 167 | 5% | 88% |  |
+| 167 | 5% | 87% |  |
 | 168 | 6% | 83% |  |
 | 169 | 7% | 77% |  |
-| 170 | 8% | 70% |  |
-| 171 | 8% | 62% |  |
-| 172 | 9% | 54% | Median |
-| 173 | 8% | 45% |  |
+| 170 | 8% | 69% |  |
+| 171 | 9% | 61% |  |
+| 172 | 9% | 53% | Median |
+| 173 | 8% | 44% |  |
 | 174 | 8% | 36% |  |
-| 175 | 7% | 29% |  |
-| 176 | 6% | 22% |  |
-| 177 | 5% | 16% |  |
-| 178 | 4% | 11% |  |
-| 179 | 3% | 8% |  |
+| 175 | 7% | 28% |  |
+| 176 | 6% | 21% |  |
+| 177 | 5% | 15% |  |
+| 178 | 3% | 11% |  |
+| 179 | 3% | 7% |  |
 | 180 | 2% | 5% |  |
 | 181 | 1.2% | 3% |  |
-| 182 | 0.8% | 2% |  |
-| 183 | 0.5% | 1.1% |  |
+| 182 | 0.7% | 2% |  |
+| 183 | 0.5% | 1.0% |  |
 | 184 | 0.3% | 0.6% |  |
 | 185 | 0.2% | 0.3% |  |
 | 186 | 0.1% | 0.2% |  |

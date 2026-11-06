@@ -62,7 +62,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Più Europa–Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
-| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0 |
+| Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
 | Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -80,14 +80,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0% | 100% |  |
 | 49 | 0.2% | 99.9% |  |
 | 50 | 0.4% | 99.8% |  |
-| 51 | 1.1% | 99.3% |  |
+| 51 | 1.0% | 99.4% |  |
 | 52 | 2% | 98% |  |
 | 53 | 4% | 96% |  |
 | 54 | 7% | 92% |  |
 | 55 | 10% | 85% |  |
 | 56 | 12% | 76% |  |
 | 57 | 13% | 64% |  |
-| 58 | 13% | 50% | Median |
+| 58 | 13% | 51% | Median |
 | 59 | 11% | 38% |  |
 | 60 | 9% | 26% |  |
 | 61 | 7% | 17% |  |

@@ -37,7 +37,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Podemos | ES | | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
-| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
@@ -74,21 +74,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 56 | 0.5% | 99.7% |  |
 | 57 | 1.0% | 99.2% |  |
 | 58 | 2% | 98% |  |
-| 59 | 3% | 96% |  |
-| 60 | 5% | 93% |  |
+| 59 | 4% | 96% |  |
+| 60 | 6% | 93% |  |
 | 61 | 8% | 87% |  |
-| 62 | 10% | 80% |  |
-| 63 | 12% | 70% |  |
-| 64 | 12% | 58% | Median |
+| 62 | 10% | 79% |  |
+| 63 | 12% | 69% |  |
+| 64 | 13% | 57% | Median |
 | 65 | 12% | 45% |  |
 | 66 | 10% | 33% |  |
-| 67 | 8% | 23% |  |
-| 68 | 6% | 15% |  |
-| 69 | 4% | 9% |  |
+| 67 | 8% | 22% |  |
+| 68 | 6% | 14% |  |
+| 69 | 4% | 8% |  |
 | 70 | 2% | 5% |  |
-| 71 | 1.3% | 2% |  |
+| 71 | 1.2% | 2% |  |
 | 72 | 0.6% | 1.1% |  |
-| 73 | 0.3% | 0.5% |  |
+| 73 | 0.3% | 0.4% |  |
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0% | 0.1% |  |
 | 76 | 0% | 0% |  |
