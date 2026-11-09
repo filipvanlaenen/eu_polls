@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 64 | 60–68 | 59–69 | 58–70 | 56–72 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 60–68 | 58–69 | 58–70 | 56–72 |
 | La France insoumise | FR | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Movimiento Sumar–Izquierda Unida | ES | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Social Democrats | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
+| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
@@ -70,25 +70,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
 | 54 | 0.1% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
-| 56 | 0.6% | 99.6% |  |
-| 57 | 1.2% | 99.1% |  |
-| 58 | 2% | 98% |  |
-| 59 | 4% | 96% |  |
-| 60 | 6% | 92% |  |
-| 61 | 8% | 86% |  |
-| 62 | 11% | 77% |  |
-| 63 | 12% | 66% |  |
-| 64 | 12% | 54% | Median |
-| 65 | 12% | 42% |  |
-| 66 | 10% | 30% |  |
-| 67 | 8% | 20% |  |
-| 68 | 5% | 13% |  |
+| 55 | 0.3% | 99.8% |  |
+| 56 | 0.7% | 99.6% |  |
+| 57 | 1.4% | 98.9% |  |
+| 58 | 3% | 98% |  |
+| 59 | 4% | 95% |  |
+| 60 | 6% | 91% |  |
+| 61 | 9% | 84% |  |
+| 62 | 11% | 75% |  |
+| 63 | 12% | 65% |  |
+| 64 | 12% | 52% | Median |
+| 65 | 11% | 40% |  |
+| 66 | 10% | 29% |  |
+| 67 | 7% | 19% |  |
+| 68 | 5% | 12% |  |
 | 69 | 3% | 7% |  |
 | 70 | 2% | 4% |  |
 | 71 | 1.0% | 2% |  |
-| 72 | 0.5% | 0.9% |  |
-| 73 | 0.2% | 0.4% |  |
+| 72 | 0.5% | 0.8% |  |
+| 73 | 0.2% | 0.3% |  |
 | 74 | 0.1% | 0.1% |  |
 | 75 | 0% | 0% |  |
 
