@@ -18,13 +18,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 64 | 60–68 | 58–69 | 58–70 | 56–72 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 60–68 | 58–69 | 57–70 | 55–72 |
 | La France insoumise | FR | | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
-| Die Linke | DE | | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| Die Linke | DE | | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| Movimiento Sumar–Izquierda Unida | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Social Democrats | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
-| Movimiento Sumar–Izquierda Unida | ES | | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
@@ -36,7 +36,8 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Podemos | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Podemos | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
@@ -46,7 +47,6 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
-| Socialistische Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
 | déi Lénk | LU | | 0 | 0 | 0 | 0 | 0 |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής | GR | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,24 +69,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0% | 100% |  |
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
-| 54 | 0.1% | 100% |  |
+| 54 | 0.1% | 99.9% |  |
 | 55 | 0.3% | 99.8% |  |
-| 56 | 0.7% | 99.6% |  |
-| 57 | 1.4% | 98.9% |  |
-| 58 | 3% | 98% |  |
+| 56 | 0.7% | 99.5% |  |
+| 57 | 1.5% | 98.7% |  |
+| 58 | 3% | 97% |  |
 | 59 | 4% | 95% |  |
-| 60 | 6% | 91% |  |
-| 61 | 9% | 84% |  |
-| 62 | 11% | 75% |  |
-| 63 | 12% | 65% |  |
-| 64 | 12% | 52% | Median |
-| 65 | 11% | 40% |  |
-| 66 | 10% | 29% |  |
+| 60 | 7% | 90% |  |
+| 61 | 9% | 83% |  |
+| 62 | 11% | 74% |  |
+| 63 | 12% | 64% |  |
+| 64 | 12% | 51% | Median |
+| 65 | 11% | 39% |  |
+| 66 | 9% | 28% |  |
 | 67 | 7% | 19% |  |
-| 68 | 5% | 12% |  |
+| 68 | 5% | 11% |  |
 | 69 | 3% | 7% |  |
-| 70 | 2% | 4% |  |
-| 71 | 1.0% | 2% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.9% | 2% |  |
 | 72 | 0.5% | 0.8% |  |
 | 73 | 0.2% | 0.3% |  |
 | 74 | 0.1% | 0.1% |  |
