@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 25 | 23–28 | 22–29 | 21–30 | 20–31 |
+| Non-Inscrits | EU | 32 | 25 | 22–28 | 22–29 | 21–30 | 20–31 |
 | Прогресивна България | BG | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–7 | 3–8 | 3–8 | 3–8 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
@@ -56,14 +56,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 6% | 96% |  |
 | 23 | 11% | 90% |  |
 | 24 | 16% | 79% |  |
-| 25 | 18% | 64% | Median |
-| 26 | 17% | 46% |  |
+| 25 | 18% | 63% | Median |
+| 26 | 16% | 45% |  |
 | 27 | 13% | 29% |  |
-| 28 | 8% | 17% |  |
+| 28 | 8% | 16% |  |
 | 29 | 5% | 8% |  |
 | 30 | 2% | 3% |  |
-| 31 | 0.9% | 1.2% |  |
-| 32 | 0.3% | 0.4% | Last Result |
+| 31 | 0.8% | 1.2% |  |
+| 32 | 0.3% | 0.3% | Last Result |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 

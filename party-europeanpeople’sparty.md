@@ -8,7 +8,7 @@ Members registered from **27 countries**:
 
 Last result: **188** seats (General Election of 26 May 2019)
 
-Current median: **173** seats (-15 seats)
+Current median: **174** seats (-14 seats)
 
 At least one member in **27 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **27 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European People’s Party | EU | 188 | 173 | 167–179 | 166–180 | 165–182 | 162–185 |
-| Partido Popular | ES | | 22 | 20–23 | 19–23 | 19–24 | 18–25 |
+| European People’s Party | EU | 188 | 174 | 168–183 | 167–186 | 166–189 | 163–192 |
+| Partido Popular | ES | | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | Koalicja Obywatelska | PL | | 20 | 17–22 | 17–23 | 16–23 | 16–24 |
-| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 13–19 | 12–20 | 12–20 |
+| Christlich Demokratische Union Deutschlands | DE | | 15 | 13–17 | 12–19 | 12–20 | 12–20 |
 | Tisztelet és Szabadság | HU | | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
-| Les Républicains | FR | | 8 | 6–10 | 5–11 | 5–11 | 5–12 |
+| Les Républicains | FR | | 9 | 7–20 | 6–20 | 6–20 | 5–22 |
 | Νέα Δημοκρατία | GR | | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | Partidul Național Liberal | RO | | 6 | 6–8 | 5–8 | 5–9 | 5–9 |
 | Aliança Democrática | PT | | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
@@ -38,7 +38,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Fine Gael | IE | | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Kansallinen Kokoomus | FI | | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | Partit Nazzjonalista | MT | | 3 | 3 | 3 | 3 | 3 |
-| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| Slovenska demokratska stranka | SI | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Tėvynės sąjunga–Lietuvos krikščionys demokratai | LT | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Граждани за европейско развитие на България | BG | | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | Christen-Democratisch en Vlaams | BE-VLG | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -82,36 +82,43 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
-| 160 | 0.1% | 99.9% |  |
-| 161 | 0.2% | 99.9% |  |
-| 162 | 0.3% | 99.7% |  |
-| 163 | 0.6% | 99.3% |  |
-| 164 | 1.0% | 98.7% |  |
-| 165 | 2% | 98% |  |
-| 166 | 3% | 96% |  |
-| 167 | 4% | 93% |  |
-| 168 | 5% | 90% |  |
-| 169 | 6% | 85% |  |
-| 170 | 7% | 79% |  |
-| 171 | 8% | 71% |  |
-| 172 | 9% | 63% |  |
-| 173 | 9% | 54% | Median |
-| 174 | 9% | 45% |  |
-| 175 | 8% | 36% |  |
-| 176 | 7% | 28% |  |
-| 177 | 6% | 21% |  |
-| 178 | 5% | 15% |  |
-| 179 | 3% | 10% |  |
-| 180 | 2% | 7% |  |
-| 181 | 2% | 4% |  |
-| 182 | 1.1% | 3% |  |
-| 183 | 0.7% | 2% |  |
-| 184 | 0.4% | 0.9% |  |
-| 185 | 0.2% | 0.5% |  |
-| 186 | 0.1% | 0.3% |  |
-| 187 | 0.1% | 0.1% |  |
-| 188 | 0% | 0.1% | Last Result |
-| 189 | 0% | 0% |  |
+| 160 | 0% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.2% | 99.8% |  |
+| 163 | 0.4% | 99.6% |  |
+| 164 | 0.6% | 99.3% |  |
+| 165 | 1.1% | 98.6% |  |
+| 166 | 2% | 98% |  |
+| 167 | 3% | 96% |  |
+| 168 | 4% | 93% |  |
+| 169 | 5% | 90% |  |
+| 170 | 6% | 85% |  |
+| 171 | 7% | 79% |  |
+| 172 | 8% | 73% |  |
+| 173 | 8% | 65% |  |
+| 174 | 8% | 57% | Median |
+| 175 | 7% | 49% |  |
+| 176 | 7% | 42% |  |
+| 177 | 6% | 35% |  |
+| 178 | 5% | 29% |  |
+| 179 | 4% | 24% |  |
+| 180 | 3% | 20% |  |
+| 181 | 3% | 17% |  |
+| 182 | 2% | 14% |  |
+| 183 | 2% | 12% |  |
+| 184 | 2% | 10% |  |
+| 185 | 2% | 8% |  |
+| 186 | 1.4% | 6% |  |
+| 187 | 1.2% | 5% |  |
+| 188 | 1.0% | 4% | Last Result |
+| 189 | 0.8% | 3% |  |
+| 190 | 0.6% | 2% |  |
+| 191 | 0.4% | 1.2% |  |
+| 192 | 0.3% | 0.8% |  |
+| 193 | 0.2% | 0.5% |  |
+| 194 | 0.1% | 0.3% |  |
+| 195 | 0.1% | 0.2% |  |
+| 196 | 0% | 0.1% |  |
+| 197 | 0% | 0% |  |
 
 
