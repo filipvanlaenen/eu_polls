@@ -8,7 +8,7 @@ Members registered from **15 countries**:
 
 Last result: **32** seats (General Election of 26 May 2019)
 
-Current median: **25** seats (-7 seats)
+Current median: **26** seats (-6 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Non-Inscrits | EU | 32 | 25 | 23–28 | 22–29 | 21–30 | 20–31 |
+| Non-Inscrits | EU | 32 | 26 | 23–28 | 22–29 | 21–30 | 20–31 |
 | Прогресивна България | BG | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–7 | 3–8 | 3–8 | 3–8 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–6 | 2–6 |
@@ -50,19 +50,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.2% | 100% |  |
-| 20 | 0.9% | 99.8% |  |
-| 21 | 3% | 98.9% |  |
-| 22 | 6% | 96% |  |
-| 23 | 11% | 90% |  |
-| 24 | 16% | 79% |  |
-| 25 | 18% | 63% | Median |
-| 26 | 17% | 46% |  |
-| 27 | 13% | 29% |  |
-| 28 | 8% | 16% |  |
-| 29 | 5% | 8% |  |
-| 30 | 2% | 3% |  |
-| 31 | 0.8% | 1.2% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 0.6% | 99.8% |  |
+| 21 | 2% | 99.2% |  |
+| 22 | 5% | 97% |  |
+| 23 | 10% | 92% |  |
+| 24 | 15% | 82% |  |
+| 25 | 18% | 68% |  |
+| 26 | 17% | 50% | Median |
+| 27 | 14% | 33% |  |
+| 28 | 9% | 19% |  |
+| 29 | 5% | 9% |  |
+| 30 | 3% | 4% |  |
+| 31 | 1.0% | 1.5% |  |
 | 32 | 0.3% | 0.4% | Last Result |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |

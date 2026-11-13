@@ -18,9 +18,9 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 56 | 51–60 | 49–62 | 48–63 | 46–65 |
+| Renew Europe | EU | 77 | 56 | 51–60 | 50–62 | 48–63 | 46–65 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 7–14 | 7–15 | 6–15 | 6–16 |
-| Freie Demokratische Partei | DE | | 4 | 2–5 | 2–5 | 2–6 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Democraten 66 | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Fianna Fáil | IE | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
@@ -38,16 +38,16 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
-| Liberalų Sąjūdis | LT | | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| Azione–Partito Liberaldemocratico | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
 | Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,7 +59,6 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Liberalerna | SE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Partito Liberaldemocratico | IT | | 0 | 0 | 0 | 0 | 0 |
 | Più Europa | IT | | 0 | 0 | 0 | 0 | 0 |
-| Più Europa–Italia Viva | IT | | 0 | 0 | 0 | 0 | 0 |
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
@@ -79,25 +78,25 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 44 | 0.1% | 100% |  |
 | 45 | 0.2% | 99.9% |  |
-| 46 | 0.4% | 99.7% |  |
-| 47 | 0.8% | 99.3% |  |
-| 48 | 1.4% | 98% |  |
+| 46 | 0.4% | 99.8% |  |
+| 47 | 0.8% | 99.4% |  |
+| 48 | 1.4% | 98.6% |  |
 | 49 | 2% | 97% |  |
 | 50 | 3% | 95% |  |
 | 51 | 4% | 92% |  |
-| 52 | 6% | 88% |  |
-| 53 | 7% | 82% |  |
+| 52 | 5% | 88% |  |
+| 53 | 7% | 83% |  |
 | 54 | 9% | 75% |  |
-| 55 | 11% | 65% |  |
-| 56 | 12% | 54% | Median |
+| 55 | 11% | 66% |  |
+| 56 | 12% | 55% | Median |
 | 57 | 11% | 43% |  |
-| 58 | 10% | 31% |  |
+| 58 | 10% | 32% |  |
 | 59 | 8% | 22% |  |
-| 60 | 5% | 14% |  |
+| 60 | 6% | 14% |  |
 | 61 | 4% | 9% |  |
 | 62 | 2% | 5% |  |
 | 63 | 1.4% | 3% |  |
-| 64 | 0.8% | 1.4% |  |
+| 64 | 0.8% | 1.5% |  |
 | 65 | 0.4% | 0.7% |  |
 | 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.1% |  |

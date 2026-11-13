@@ -8,7 +8,7 @@ Members registered from **11 countries**:
 
 Last result: **25** seats (General Election of 26 May 2019)
 
-Current median: **46** seats (+21 seats)
+Current median: **45** seats (+20 seats)
 
 At least one member in **7 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 46 | 42–49 | 41–50 | 40–51 | 39–54 |
-| Alternative für Deutschland | DE | | 27 | 24–29 | 23–29 | 23–30 | 22–31 |
-| Futuro Nazionale | IT | | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| Europe of Sovereign Nations | EU | 25 | 45 | 42–49 | 41–50 | 40–51 | 39–53 |
+| Alternative für Deutschland | DE | | 26 | 23–28 | 23–29 | 23–30 | 22–31 |
+| Futuro Nazionale | IT | | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
 | Nowa Nadzieja | PL | | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
 | Forum voor Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -52,26 +52,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0% | 100% |  |
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
-| 37 | 0% | 100% |  |
+| 37 | 0.1% | 100% |  |
 | 38 | 0.2% | 99.9% |  |
-| 39 | 0.6% | 99.8% |  |
-| 40 | 2% | 99.1% |  |
-| 41 | 3% | 97% |  |
-| 42 | 6% | 94% |  |
-| 43 | 9% | 88% |  |
-| 44 | 12% | 79% |  |
-| 45 | 14% | 67% |  |
-| 46 | 15% | 53% | Median |
-| 47 | 13% | 38% |  |
-| 48 | 10% | 25% |  |
-| 49 | 7% | 15% |  |
-| 50 | 4% | 9% |  |
-| 51 | 2% | 5% |  |
-| 52 | 1.2% | 2% |  |
-| 53 | 0.7% | 1.2% |  |
-| 54 | 0.3% | 0.6% |  |
+| 39 | 0.8% | 99.7% |  |
+| 40 | 2% | 98.8% |  |
+| 41 | 4% | 97% |  |
+| 42 | 7% | 92% |  |
+| 43 | 11% | 85% |  |
+| 44 | 14% | 75% |  |
+| 45 | 15% | 61% | Median |
+| 46 | 14% | 46% |  |
+| 47 | 12% | 31% |  |
+| 48 | 8% | 20% |  |
+| 49 | 5% | 12% |  |
+| 50 | 3% | 6% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.9% | 2% |  |
+| 53 | 0.5% | 0.8% |  |
+| 54 | 0.2% | 0.4% |  |
 | 55 | 0.1% | 0.2% |  |
-| 56 | 0.1% | 0.1% |  |
+| 56 | 0% | 0.1% |  |
 | 57 | 0% | 0% |  |
 
 
