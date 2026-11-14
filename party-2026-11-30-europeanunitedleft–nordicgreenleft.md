@@ -18,7 +18,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 64 | 59–68 | 58–69 | 57–70 | 55–73 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 59–68 | 58–70 | 57–71 | 55–73 |
 | La France insoumise | FR | | 15 | 13–18 | 12–19 | 12–19 | 11–20 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | Die Linke | DE | | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
@@ -28,7 +28,7 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | Vasemmistoliitto | FI | | 2 | 2 | 2 | 2 | 2 |
-| Vänsterpartiet | SE | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -38,13 +38,13 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Podemos | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0–1 |
+| Bloco de Esquerda | PT | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vasakliit | EE | | 0 | 0 | 0 | 0 | 0 |
 | Independents 4 Change | IE | | 0 | 0 | 0 | 0 | 0 |
 | Independents | IE | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Kommunistische Partei Österreichs | AT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| Lewica Razem | PL | | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | Parti communiste français | FR | | 0 | 0 | 0 | 0 | 0 |
 | Potere al Popolo | IT | | 0 | 0 | 0 | 0 | 0 |
 | Solidarity–People Before Profit | IE | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -70,26 +70,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0.1% | 100% |  |
 | 54 | 0.2% | 99.9% |  |
-| 55 | 0.5% | 99.7% |  |
-| 56 | 1.0% | 99.2% |  |
+| 55 | 0.4% | 99.7% |  |
+| 56 | 0.9% | 99.3% |  |
 | 57 | 2% | 98% |  |
-| 58 | 3% | 96% |  |
-| 59 | 5% | 93% |  |
-| 60 | 7% | 88% |  |
-| 61 | 9% | 81% |  |
-| 62 | 10% | 72% |  |
-| 63 | 11% | 62% |  |
-| 64 | 11% | 51% | Median |
-| 65 | 10% | 39% |  |
-| 66 | 9% | 29% |  |
-| 67 | 7% | 20% |  |
-| 68 | 5% | 13% |  |
-| 69 | 3% | 8% |  |
+| 58 | 3% | 97% |  |
+| 59 | 5% | 94% |  |
+| 60 | 7% | 89% |  |
+| 61 | 8% | 83% |  |
+| 62 | 10% | 74% |  |
+| 63 | 11% | 64% |  |
+| 64 | 11% | 53% | Median |
+| 65 | 11% | 42% |  |
+| 66 | 9% | 31% |  |
+| 67 | 7% | 22% |  |
+| 68 | 5% | 15% |  |
+| 69 | 4% | 9% |  |
 | 70 | 2% | 5% |  |
-| 71 | 1.2% | 2% |  |
-| 72 | 0.7% | 1.2% |  |
-| 73 | 0.3% | 0.6% |  |
-| 74 | 0.1% | 0.2% |  |
+| 71 | 1.4% | 3% |  |
+| 72 | 0.8% | 1.5% |  |
+| 73 | 0.4% | 0.7% |  |
+| 74 | 0.2% | 0.3% |  |
 | 75 | 0.1% | 0.1% |  |
 | 76 | 0% | 0% |  |
 
