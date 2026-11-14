@@ -62,7 +62,6 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Polska 2050 | PL | | 0 | 0 | 0 | 0 | 0 |
 | Reînnoim Proiectul European al României | RO | | 0 | 0 | 0 | 0 | 0 |
 | Svenska folkpartiet i Finland | FI | | 0 | 0 | 0 | 0 | 0–1 |
-| Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 | Zeleni Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Αξιοπρέπεια Λογοδοσία Μεταρρύθμιση Ανάπτυξη | CY | | 0 | 0 | 0 | 0 | 0 |
 | Δημοκράτες–Προοδευτικό Κέντρο | GR | | 0 | 0 | 0 | 0 | 0 |

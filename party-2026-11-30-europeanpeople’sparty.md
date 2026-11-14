@@ -73,6 +73,7 @@ At least one member in **27 countries** have a median of 1 seat or more:
 | Slovenska ljudska stranka | SI | | 0 | 0 | 0 | 0 | 0 |
 | TOP 09 | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Za ľudí | SK | | 0 | 0 | 0 | 0 | 0 |
+| Zaļo un Zemnieku savienība | LV | | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
