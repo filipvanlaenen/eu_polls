@@ -8,7 +8,7 @@ Members registered from **19 countries**:
 
 Last result: **78** seats (General Election of 26 May 2019)
 
-Current median: **83** seats (+5 seats)
+Current median: **82** seats (+4 seats)
 
 At least one member in **18 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **18 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European Conservatives and Reformists | EU | 78 | 83 | 79–87 | 78–88 | 77–89 | 75–91 |
-| Fratelli d’Italia | IT | | 23 | 21–26 | 21–26 | 20–27 | 20–28 |
+| European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 76–88 | 75–90 |
+| Fratelli d’Italia | IT | | 23 | 21–24 | 20–26 | 20–26 | 19–28 |
 | Alianța pentru Unirea Românilor | RO | | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | Zjednoczona Prawica | PL | | 14 | 10–17 | 10–17 | 10–17 | 9–18 |
-| Juiste Antwoord 2021 | NL | | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| Juiste Antwoord 2021 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -30,8 +30,8 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Rozwój Plus | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Most nezavisnih lista | HR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionalinis Susivienijimas | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -59,27 +59,26 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 73 | 0.1% | 100% |  |
-| 74 | 0.2% | 99.9% |  |
-| 75 | 0.5% | 99.7% |  |
-| 76 | 1.0% | 99.3% |  |
-| 77 | 2% | 98% |  |
-| 78 | 4% | 96% | Last Result |
-| 79 | 6% | 93% |  |
-| 80 | 8% | 87% |  |
-| 81 | 10% | 79% |  |
-| 82 | 12% | 69% |  |
-| 83 | 12% | 57% | Median |
-| 84 | 12% | 45% |  |
-| 85 | 10% | 33% |  |
-| 86 | 8% | 23% |  |
-| 87 | 6% | 15% |  |
-| 88 | 4% | 9% |  |
-| 89 | 2% | 5% |  |
-| 90 | 1.3% | 2% |  |
-| 91 | 0.7% | 1.1% |  |
-| 92 | 0.3% | 0.5% |  |
-| 93 | 0.1% | 0.2% |  |
-| 94 | 0% | 0.1% |  |
-| 95 | 0% | 0% |  |
+| 74 | 0.3% | 99.8% |  |
+| 75 | 0.7% | 99.6% |  |
+| 76 | 2% | 98.9% |  |
+| 77 | 3% | 97% |  |
+| 78 | 5% | 94% | Last Result |
+| 79 | 8% | 89% |  |
+| 80 | 10% | 82% |  |
+| 81 | 12% | 72% |  |
+| 82 | 13% | 59% | Median |
+| 83 | 13% | 46% |  |
+| 84 | 11% | 33% |  |
+| 85 | 8% | 23% |  |
+| 86 | 6% | 14% |  |
+| 87 | 4% | 8% |  |
+| 88 | 2% | 5% |  |
+| 89 | 1.2% | 2% |  |
+| 90 | 0.6% | 1.1% |  |
+| 91 | 0.3% | 0.5% |  |
+| 92 | 0.1% | 0.2% |  |
+| 93 | 0% | 0.1% |  |
+| 94 | 0% | 0% |  |
 
 

@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **77** seats (General Election of 26 May 2019)
 
-Current median: **56** seats (-21 seats)
+Current median: **55** seats (-22 seats)
 
 At least one member in **17 countries** have a median of 1 seat or more:
 
@@ -18,9 +18,9 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 56 | 51–60 | 49–61 | 48–62 | 46–65 |
+| Renew Europe | EU | 77 | 55 | 51–60 | 49–61 | 48–62 | 46–65 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 7–14 | 7–15 | 6–15 | 6–16 |
-| Freie Demokratische Partei | DE | | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
+| Freie Demokratische Partei | DE | | 4 | 2–5 | 2–6 | 2–6 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Democraten 66 | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Fianna Fáil | IE | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
@@ -35,18 +35,18 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Centerpartiet | SE | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 0–1 |
-| Eesti Reformierakond | EE | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Eesti Reformierakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Moderaterne | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Radikale Venstre | DK | | 1 | 1 | 1 | 0–1 | 0–1 |
-| Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
 | Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
-| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0–1 |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -77,27 +77,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 44 | 0.1% | 100% |  |
 | 45 | 0.2% | 99.9% |  |
-| 46 | 0.4% | 99.7% |  |
-| 47 | 0.9% | 99.3% |  |
-| 48 | 1.5% | 98% |  |
+| 46 | 0.5% | 99.6% |  |
+| 47 | 1.0% | 99.1% |  |
+| 48 | 2% | 98% |  |
 | 49 | 2% | 97% |  |
-| 50 | 3% | 95% |  |
-| 51 | 4% | 91% |  |
-| 52 | 6% | 87% |  |
-| 53 | 8% | 81% |  |
-| 54 | 10% | 73% |  |
-| 55 | 11% | 63% |  |
-| 56 | 12% | 51% | Median |
-| 57 | 11% | 40% |  |
-| 58 | 9% | 29% |  |
-| 59 | 7% | 20% |  |
+| 50 | 3% | 94% |  |
+| 51 | 5% | 91% |  |
+| 52 | 6% | 86% |  |
+| 53 | 8% | 80% |  |
+| 54 | 10% | 71% |  |
+| 55 | 11% | 61% | Median |
+| 56 | 11% | 50% |  |
+| 57 | 10% | 38% |  |
+| 58 | 9% | 28% |  |
+| 59 | 7% | 19% |  |
 | 60 | 5% | 13% |  |
 | 61 | 3% | 8% |  |
-| 62 | 2% | 5% |  |
+| 62 | 2% | 4% |  |
 | 63 | 1.2% | 2% |  |
-| 64 | 0.7% | 1.3% |  |
+| 64 | 0.7% | 1.2% |  |
 | 65 | 0.3% | 0.6% |  |
-| 66 | 0.2% | 0.3% |  |
+| 66 | 0.1% | 0.2% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |
 | 69 | 0% | 0% |  |

@@ -18,13 +18,14 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Adelante Andalucía [ES] (*) | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Adelante Andalucía [ES] (*) | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
 | Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Associazione Schierarsi [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | DENK [NL] (*) | NL | | 0 | 0 | 0 | 0 | 0 |
@@ -77,11 +78,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.8% | 100% |  |
 | 6 | 5% | 99.2% |  |
 | 7 | 25% | 94% |  |
-| 8 | 37% | 69% | Median |
-| 9 | 23% | 32% |  |
-| 10 | 7% | 8% |  |
-| 11 | 1.1% | 1.2% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 8 | 40% | 69% | Median |
+| 9 | 24% | 29% |  |
+| 10 | 5% | 6% |  |
+| 11 | 0.4% | 0.4% |  |
+| 12 | 0% | 0% |  |
 
 
