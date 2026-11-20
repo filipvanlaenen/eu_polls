@@ -18,7 +18,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
 | Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Adelante Andalucía [ES] (*) | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -75,13 +75,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.8% | 100% |  |
-| 6 | 5% | 99.2% |  |
-| 7 | 25% | 94% |  |
-| 8 | 40% | 69% | Median |
-| 9 | 24% | 29% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.4% | 0.4% |  |
+| 5 | 0.7% | 100% |  |
+| 6 | 5% | 99.3% |  |
+| 7 | 24% | 94% |  |
+| 8 | 38% | 70% | Median |
+| 9 | 25% | 32% |  |
+| 10 | 7% | 7% |  |
+| 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 55 | 51–60 | 49–61 | 48–62 | 46–65 |
+| Renew Europe | EU | 77 | 55 | 51–60 | 49–61 | 48–62 | 46–64 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 7–14 | 7–15 | 6–15 | 6–16 |
 | Freie Demokratische Partei | DE | | 4 | 2–5 | 2–6 | 2–6 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -43,7 +43,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -76,27 +76,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 44 | 0.1% | 100% |  |
-| 45 | 0.2% | 99.9% |  |
-| 46 | 0.5% | 99.6% |  |
-| 47 | 1.0% | 99.1% |  |
+| 45 | 0.3% | 99.9% |  |
+| 46 | 0.6% | 99.6% |  |
+| 47 | 1.1% | 99.0% |  |
 | 48 | 2% | 98% |  |
-| 49 | 2% | 97% |  |
-| 50 | 3% | 94% |  |
-| 51 | 5% | 91% |  |
-| 52 | 6% | 86% |  |
-| 53 | 8% | 80% |  |
-| 54 | 10% | 71% |  |
-| 55 | 11% | 61% | Median |
-| 56 | 11% | 50% |  |
-| 57 | 10% | 38% |  |
-| 58 | 9% | 28% |  |
-| 59 | 7% | 19% |  |
-| 60 | 5% | 13% |  |
-| 61 | 3% | 8% |  |
+| 49 | 3% | 96% |  |
+| 50 | 4% | 94% |  |
+| 51 | 5% | 90% |  |
+| 52 | 7% | 85% |  |
+| 53 | 9% | 78% |  |
+| 54 | 11% | 70% |  |
+| 55 | 12% | 59% | Median |
+| 56 | 12% | 47% |  |
+| 57 | 10% | 36% |  |
+| 58 | 8% | 25% |  |
+| 59 | 6% | 17% |  |
+| 60 | 4% | 11% |  |
+| 61 | 3% | 6% |  |
 | 62 | 2% | 4% |  |
-| 63 | 1.2% | 2% |  |
-| 64 | 0.7% | 1.2% |  |
-| 65 | 0.3% | 0.6% |  |
+| 63 | 0.9% | 2% |  |
+| 64 | 0.5% | 1.0% |  |
+| 65 | 0.3% | 0.5% |  |
 | 66 | 0.1% | 0.2% |  |
 | 67 | 0.1% | 0.1% |  |
 | 68 | 0% | 0% |  |

@@ -25,13 +25,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Junts per Catalunya | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Se Acabó La Fiesta | ES | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Slovenska demokratska stranka | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | Πλεύση Ελευθερίας | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
+| Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Komunistická strana Čech a Moravy–Spojení demokraté - Sdružení nezávislých–Stačilo! | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Kotleba–Ľudová strana Naše Slovensko | SK | | 0 | 0 | 0 | 0 | 0 |
 | Liike Nyt | FI | | 0 | 0 | 0 | 0 | 0 |
@@ -50,19 +50,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.2% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.2% | 99.9% |  |
 | 20 | 0.9% | 99.7% |  |
 | 21 | 3% | 98.8% |  |
 | 22 | 6% | 96% |  |
-| 23 | 10% | 91% |  |
-| 24 | 15% | 81% |  |
+| 23 | 10% | 90% |  |
+| 24 | 15% | 80% |  |
 | 25 | 17% | 66% | Median |
-| 26 | 17% | 49% |  |
-| 27 | 14% | 32% |  |
+| 26 | 17% | 48% |  |
+| 27 | 14% | 31% |  |
 | 28 | 9% | 18% |  |
 | 29 | 5% | 9% |  |
 | 30 | 2% | 3% |  |
-| 31 | 0.9% | 1.2% |  |
+| 31 | 0.8% | 1.2% |  |
 | 32 | 0.2% | 0.3% | Last Result |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
