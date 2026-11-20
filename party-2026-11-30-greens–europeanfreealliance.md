@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 41 | 38–45 | 37–47 | 36–48 | 35–50 |
+| Greens–European Free Alliance | EU | 53 | 41 | 37–44 | 37–44 | 36–45 | 34–47 |
 | Bündnis 90/Die Grünen | DE | | 15 | 13–16 | 13–17 | 13–17 | 11–18 |
 | Progressief Nederland | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -34,18 +34,18 @@ At least one member in **15 countries** have a median of 1 seat or more:
 | LIVRE | PT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | PROGRESĪVIE | LV | | 1 | 1 | 1 | 1 | 1 |
 | Socialistisk Folkeparti | DK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vihreä liitto | FI | | 1 | 1 | 1 | 1 | 1–2 |
+| Vihreä liitto | FI | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Volt Europa | DE | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | déi gréng | LU | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Alternativet | DK | | 0 | 0 | 0 | 0 | 0 |
 | Bloque Nacionalista Galego–Nós Candidatura Galega | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Erakond Eestimaa Rohelised | EE | | 0 | 0 | 0 | 0 | 0 |
 | Green Party | IE | | 0 | 0 | 0 | 0 | 0 |
-| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
+| Les Écologistes – Europe Écologie Les Verts | FR | | 0 | 0 | 0 | 0 | 0 |
 | Magyar Kétfarkú Kutya Párt | HU | | 0 | 0 | 0 | 0 | 0 |
 | Moravané | CZ | | 0 | 0 | 0 | 0 | 0 |
-| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0 |
-| Pessoas–Animais–Natureza | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Partia Zieloni | PL | | 0 | 0 | 0 | 0 | 0–1 |
+| Pessoas–Animais–Natureza | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Piratepartei Lëtzebuerg | LU | | 0 | 0 | 0 | 0 | 0 |
 | Piratska stranka Slovenije | SI | | 0 | 0 | 0 | 0 | 0 |
 | Prerod – Stranka Vladimirja Prebiliča | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -67,25 +67,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 33 | 0.1% | 100% |  |
-| 34 | 0.3% | 99.9% |  |
-| 35 | 1.0% | 99.5% |  |
-| 36 | 2% | 98.6% |  |
-| 37 | 5% | 96% |  |
-| 38 | 8% | 92% |  |
-| 39 | 11% | 84% |  |
-| 40 | 14% | 73% |  |
-| 41 | 14% | 59% | Median |
-| 42 | 13% | 44% |  |
-| 43 | 10% | 31% |  |
-| 44 | 7% | 21% |  |
-| 45 | 5% | 14% |  |
-| 46 | 3% | 9% |  |
-| 47 | 2% | 6% |  |
-| 48 | 1.5% | 3% |  |
-| 49 | 0.9% | 2% |  |
-| 50 | 0.5% | 0.9% |  |
-| 51 | 0.2% | 0.4% |  |
-| 52 | 0.1% | 0.2% |  |
+| 34 | 0.4% | 99.8% |  |
+| 35 | 1.2% | 99.4% |  |
+| 36 | 3% | 98% |  |
+| 37 | 6% | 95% |  |
+| 38 | 9% | 90% |  |
+| 39 | 13% | 81% |  |
+| 40 | 16% | 67% |  |
+| 41 | 16% | 51% | Median |
+| 42 | 14% | 35% |  |
+| 43 | 10% | 21% |  |
+| 44 | 6% | 11% |  |
+| 45 | 3% | 5% |  |
+| 46 | 1.3% | 2% |  |
+| 47 | 0.4% | 0.6% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0% | 0% |  |
+| 50 | 0% | 0% |  |
+| 51 | 0% | 0% |  |
+| 52 | 0% | 0% |  |
 | 53 | 0% | 0% | Last Result |
 
 
