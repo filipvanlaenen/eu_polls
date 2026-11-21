@@ -8,7 +8,7 @@ Members registered from **17 countries**:
 
 Last result: **84** seats (General Election of 26 May 2019)
 
-Current median: **95** seats (+11 seats)
+Current median: **96** seats (+12 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,11 +18,11 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Patriots for Europe | EU | 84 | 95 | 91–99 | 90–101 | 89–101 | 87–103 |
+| Patriots for Europe | EU | 84 | 96 | 91–100 | 90–101 | 89–102 | 87–103 |
 | Rassemblement national | FR | | 30 | 28–33 | 27–33 | 26–33 | 25–34 |
 | Vox | ES | | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | ANO 2011 | CZ | | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
-| Freiheitliche Partei Österreichs | AT | | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| Freiheitliche Partei Österreichs | AT | | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | Chega | PT | | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | Fidesz–Kereszténydemokrata Néppárt | HU | | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | Lega Nord | IT | | 5 | 4–6 | 4–6 | 3–8 | 0–8 |
@@ -52,24 +52,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 0% | 100% | Last Result |
 | 85 | 0.1% | 99.9% |  |
 | 86 | 0.2% | 99.9% |  |
-| 87 | 0.4% | 99.6% |  |
-| 88 | 0.9% | 99.2% |  |
+| 87 | 0.4% | 99.7% |  |
+| 88 | 0.9% | 99.3% |  |
 | 89 | 2% | 98% |  |
 | 90 | 3% | 97% |  |
 | 91 | 5% | 94% |  |
 | 92 | 7% | 89% |  |
-| 93 | 9% | 82% |  |
-| 94 | 11% | 73% |  |
-| 95 | 12% | 62% | Median |
-| 96 | 12% | 50% |  |
-| 97 | 11% | 37% |  |
-| 98 | 9% | 26% |  |
+| 93 | 9% | 83% |  |
+| 94 | 11% | 74% |  |
+| 95 | 12% | 63% |  |
+| 96 | 12% | 51% | Median |
+| 97 | 11% | 38% |  |
+| 98 | 10% | 27% |  |
 | 99 | 7% | 17% |  |
 | 100 | 5% | 10% |  |
 | 101 | 3% | 5% |  |
-| 102 | 1.4% | 2% |  |
-| 103 | 0.6% | 1.0% |  |
-| 104 | 0.2% | 0.4% |  |
+| 102 | 1.5% | 3% |  |
+| 103 | 0.7% | 1.1% |  |
+| 104 | 0.3% | 0.4% |  |
 | 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
 
