@@ -8,7 +8,7 @@ Members registered from **24 countries**:
 
 Last result: **53** seats (General Election of 26 May 2019)
 
-Current median: **41** seats (-12 seats)
+Current median: **40** seats (-13 seats)
 
 At least one member in **15 countries** have a median of 1 seat or more:
 
@@ -18,7 +18,7 @@ At least one member in **15 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Greens–European Free Alliance | EU | 53 | 41 | 37–44 | 37–44 | 36–45 | 34–47 |
+| Greens–European Free Alliance | EU | 53 | 40 | 37–43 | 36–44 | 35–45 | 34–46 |
 | Bündnis 90/Die Grünen | DE | | 15 | 13–16 | 13–17 | 13–17 | 11–17 |
 | Progressief Nederland | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Die Grünen–Die Grüne Alternative | AT | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -66,21 +66,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
-| 34 | 0.4% | 99.8% |  |
-| 35 | 1.2% | 99.4% |  |
-| 36 | 3% | 98% |  |
-| 37 | 6% | 95% |  |
-| 38 | 10% | 90% |  |
-| 39 | 14% | 80% |  |
-| 40 | 16% | 66% |  |
-| 41 | 16% | 50% | Median |
-| 42 | 14% | 34% |  |
-| 43 | 10% | 20% |  |
-| 44 | 6% | 11% |  |
-| 45 | 3% | 5% |  |
-| 46 | 1.2% | 2% |  |
-| 47 | 0.4% | 0.6% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.2% | 99.9% |  |
+| 34 | 0.7% | 99.7% |  |
+| 35 | 2% | 99.0% |  |
+| 36 | 4% | 97% |  |
+| 37 | 7% | 94% |  |
+| 38 | 11% | 87% |  |
+| 39 | 14% | 76% |  |
+| 40 | 16% | 62% | Median |
+| 41 | 15% | 45% |  |
+| 42 | 13% | 30% |  |
+| 43 | 9% | 17% |  |
+| 44 | 5% | 9% |  |
+| 45 | 2% | 4% |  |
+| 46 | 1.0% | 1.4% |  |
+| 47 | 0.3% | 0.4% |  |
 | 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |

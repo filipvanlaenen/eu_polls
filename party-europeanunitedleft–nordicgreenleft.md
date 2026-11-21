@@ -8,7 +8,7 @@ Members registered from **18 countries**:
 
 Last result: **46** seats (General Election of 26 May 2019)
 
-Current median: **65** seats (+19 seats)
+Current median: **64** seats (+18 seats)
 
 At least one member in **12 countries** have a median of 1 seat or more:
 
@@ -18,12 +18,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| European United Left–Nordic Green Left | EU | 46 | 65 | 61–69 | 60–70 | 59–71 | 57–73 |
+| European United Left–Nordic Green Left | EU | 46 | 64 | 60–68 | 59–69 | 58–70 | 56–72 |
 | La France insoumise | FR | | 17 | 14–19 | 14–19 | 14–19 | 13–20 |
 | Movimento 5 Stelle | IT | | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | Die Linke | DE | | 10 | 8–11 | 8–11 | 8–12 | 7–13 |
 | Sinn Féin | IE | | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| Movimiento Sumar–Izquierda Unida | ES | | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| Movimiento Sumar–Izquierda Unida | ES | | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | Social Democrats | IE | | 3 | 1–3 | 1–3 | 1–3 | 0–3 |
 | Parti du Travail de Belgique | BE-FRC | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Sinistra Italiana | IT | | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -31,12 +31,12 @@ At least one member in **12 countries** have a median of 1 seat or more:
 | Vänsterpartiet | SE | | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | Ανορθωτικό Κόμμα Εργαζόμενου Λαού | CY | | 2 | 2 | 2 | 2 | 2 |
 | Enhedslisten–De Rød-Grønne | DK | | 1 | 1 | 1 | 1 | 1–2 |
-| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Euskal Herria Bildu | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica | SI | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Partei Mensch Klima Tierschutz | DE | | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | Partij van de Arbeid van België | BE-VLG | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Partij voor de Dieren | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Podemos | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| Podemos | ES | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | Socialistische Partij | NL | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Bloco de Esquerda | PT | | 0 | 0 | 0 | 0 | 0–1 |
 | Coligação Democrática Unitária | PT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -69,28 +69,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0% | 100% |  |
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
-| 54 | 0% | 100% |  |
-| 55 | 0.1% | 100% |  |
-| 56 | 0.2% | 99.9% |  |
-| 57 | 0.6% | 99.6% |  |
-| 58 | 1.3% | 99.0% |  |
-| 59 | 3% | 98% |  |
-| 60 | 4% | 95% |  |
-| 61 | 7% | 91% |  |
-| 62 | 9% | 84% |  |
-| 63 | 11% | 75% |  |
-| 64 | 12% | 64% |  |
-| 65 | 13% | 52% | Median |
-| 66 | 11% | 39% |  |
-| 67 | 9% | 28% |  |
-| 68 | 7% | 18% |  |
-| 69 | 5% | 11% |  |
-| 70 | 3% | 6% |  |
-| 71 | 2% | 3% |  |
-| 72 | 0.9% | 2% |  |
-| 73 | 0.4% | 0.7% |  |
-| 74 | 0.2% | 0.3% |  |
-| 75 | 0.1% | 0.1% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.5% | 99.7% |  |
+| 57 | 1.0% | 99.2% |  |
+| 58 | 2% | 98% |  |
+| 59 | 3% | 96% |  |
+| 60 | 5% | 93% |  |
+| 61 | 8% | 87% |  |
+| 62 | 10% | 80% |  |
+| 63 | 12% | 70% |  |
+| 64 | 12% | 58% | Median |
+| 65 | 12% | 45% |  |
+| 66 | 10% | 33% |  |
+| 67 | 8% | 23% |  |
+| 68 | 6% | 15% |  |
+| 69 | 4% | 9% |  |
+| 70 | 2% | 5% |  |
+| 71 | 1.3% | 2% |  |
+| 72 | 0.7% | 1.2% |  |
+| 73 | 0.3% | 0.5% |  |
+| 74 | 0.1% | 0.2% |  |
+| 75 | 0% | 0.1% |  |
 | 76 | 0% | 0% |  |
 
 
