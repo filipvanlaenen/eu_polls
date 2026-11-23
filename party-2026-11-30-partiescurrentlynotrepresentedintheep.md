@@ -18,13 +18,13 @@ At least one member in **4 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parties currently not represented in the EP | EU | 1 | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
-| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| Parties currently not represented in the EP | EU | 1 | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
+| Ελληνική Αριστερή Συμπαράταξη [GR] (*) | GR | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Adelante Andalucía [ES] (*) | ES | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Aontú [IE] (*) | IE | | 1 | 1 | 1 | 0–1 | 0–1 |
 | Suverēnā vara–Apvienība Jaunlatvieši [LV] (*) | LV | | 1 | 1 | 1 | 1 | 1 |
-| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| Ελπίδα για την Δημοκρατία [GR] (*) | GR | | 1 | 1 | 1 | 0–1 | 0–1 |
+| Συμμαχία Ελλήνων [GR] (*) | GR | | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | Associazione Schierarsi [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
 | Austošā Saule Latvijai [LV] (*) | LV | | 0 | 0 | 0 | 0 | 0 |
 | Basisdemokratische Partei Deutschland [DE] (*) | DE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -56,6 +56,7 @@ At least one member in **4 countries** have a median of 1 seat or more:
 | Stranka antikorupcije, razvoja i transparentnosti [HR] (*) | HR | | 0 | 0 | 0 | 0 | 0 |
 | Stranka generacij [SI] (*) | SI | | 0 | 0 | 0 | 0 | 0 |
 | Sud chiama Nord [IT] (*) | IT | | 0 | 0 | 0 | 0 | 0 |
+| Unión del Pueblo Navarro [ES] (*) | ES | | 0 | 0 | 0 | 0 | 0 |
 | Česká strana národně sociální [CZ] (*) | CZ | | 0 | 0 | 0 | 0 | 0 |
 | Ενεργοί Πολίτες–Κίνημα Ενωμένων Κυπρίων Κυνηγών [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
 | Σήκου πάνω! [CY] (*) | CY | | 0 | 0 | 0 | 0 | 0 |
@@ -75,13 +76,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.7% | 100% |  |
-| 6 | 5% | 99.2% |  |
-| 7 | 25% | 94% |  |
-| 8 | 38% | 70% | Median |
-| 9 | 24% | 31% |  |
-| 10 | 7% | 7% |  |
-| 11 | 0.7% | 0.8% |  |
-| 12 | 0% | 0% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 4% | 99.8% |  |
+| 7 | 23% | 96% |  |
+| 8 | 36% | 73% | Median |
+| 9 | 24% | 36% |  |
+| 10 | 10% | 12% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 

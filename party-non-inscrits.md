@@ -22,13 +22,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 | Прогресивна България | BG | | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | Konfederacja Korony Polskiej | PL | | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
 | Bündnis Sahra Wagenknecht | DE | | 3 | 2–5 | 2–5 | 2–5 | 2–6 |
-| SMER–sociálna demokracia | SK | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| SMER–sociálna demokracia | SK | | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Die PARTEI | DE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | HLAS–sociálna demokracia | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Se Acabó La Fiesta | ES | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | Slovenska demokratska stranka | SI | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Κομμουνιστικό Κόμμα Ελλάδας | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
-| Πλεύση Ελευθερίας | GR | | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| Πλεύση Ελευθερίας | GR | | 1 | 1 | 1 | 1–2 | 0–2 |
 | Borgernes Parti | DK | | 0 | 0 | 0 | 0 | 0 |
 | Darbo Partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
 | Junts per Catalunya | ES | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -50,20 +50,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
-| 19 | 0.3% | 99.9% |  |
-| 20 | 1.2% | 99.6% |  |
-| 21 | 3% | 98% |  |
-| 22 | 7% | 95% |  |
-| 23 | 13% | 88% |  |
-| 24 | 17% | 75% |  |
-| 25 | 19% | 58% | Median |
-| 26 | 16% | 40% |  |
+| 19 | 0.2% | 100% |  |
+| 20 | 0.9% | 99.8% |  |
+| 21 | 3% | 98.8% |  |
+| 22 | 7% | 96% |  |
+| 23 | 12% | 89% |  |
+| 24 | 17% | 77% |  |
+| 25 | 19% | 59% | Median |
+| 26 | 17% | 40% |  |
 | 27 | 12% | 23% |  |
-| 28 | 7% | 12% |  |
+| 28 | 7% | 11% |  |
 | 29 | 3% | 5% |  |
-| 30 | 1.2% | 2% |  |
-| 31 | 0.4% | 0.5% |  |
+| 30 | 1.1% | 2% |  |
+| 31 | 0.3% | 0.4% |  |
 | 32 | 0.1% | 0.1% | Last Result |
 | 33 | 0% | 0% |  |
 

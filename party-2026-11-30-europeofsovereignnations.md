@@ -18,13 +18,13 @@ At least one member in **7 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Europe of Sovereign Nations | EU | 25 | 45 | 42–48 | 41–50 | 41–51 | 39–53 |
+| Europe of Sovereign Nations | EU | 25 | 45 | 42–48 | 41–49 | 41–50 | 39–53 |
 | Alternative für Deutschland | DE | | 27 | 25–28 | 24–29 | 24–30 | 23–31 |
 | Futuro Nazionale | IT | | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | Nowa Nadzieja | PL | | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | Forum voor Democratie | NL | | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
-| Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| Mi Hazánk Mozgalom | HU | | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
+| REPUBLIKA | SK | | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Svoboda a přímá demokracie | CZ | | 2 | 1–2 | 1–2 | 0–2 | 0–3 |
 | Reconquête | FR | | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | Resni.ca | SI | | 0 | 0 | 0 | 0 | 0 |
@@ -53,22 +53,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 0% | 100% |  |
 | 36 | 0% | 100% |  |
 | 37 | 0% | 100% |  |
-| 38 | 0.1% | 99.9% |  |
+| 38 | 0.2% | 99.9% |  |
 | 39 | 0.5% | 99.8% |  |
-| 40 | 1.4% | 99.3% |  |
+| 40 | 2% | 99.3% |  |
 | 41 | 4% | 98% |  |
 | 42 | 7% | 94% |  |
-| 43 | 11% | 87% |  |
-| 44 | 15% | 76% |  |
-| 45 | 17% | 61% | Median |
-| 46 | 15% | 44% |  |
-| 47 | 12% | 29% |  |
-| 48 | 8% | 17% |  |
-| 49 | 4% | 10% |  |
+| 43 | 12% | 86% |  |
+| 44 | 15% | 75% |  |
+| 45 | 17% | 59% | Median |
+| 46 | 15% | 42% |  |
+| 47 | 11% | 27% |  |
+| 48 | 7% | 16% |  |
+| 49 | 4% | 9% |  |
 | 50 | 2% | 5% |  |
-| 51 | 1.4% | 3% |  |
-| 52 | 0.7% | 1.3% |  |
-| 53 | 0.3% | 0.6% |  |
+| 51 | 1.2% | 2% |  |
+| 52 | 0.6% | 1.1% |  |
+| 53 | 0.3% | 0.5% |  |
 | 54 | 0.1% | 0.2% |  |
 | 55 | 0.1% | 0.1% |  |
 | 56 | 0% | 0% |  |

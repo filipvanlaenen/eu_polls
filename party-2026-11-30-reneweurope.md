@@ -18,12 +18,12 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 56 | 51–60 | 49–62 | 48–63 | 46–65 |
-| Renaissance–Mouvement démocrate–Horizons | FR | | 12 | 7–14 | 7–15 | 6–15 | 6–16 |
+| Renew Europe | EU | 77 | 56 | 51–60 | 50–61 | 49–63 | 47–65 |
+| Renaissance–Mouvement démocrate–Horizons | FR | | 11 | 8–14 | 7–15 | 7–15 | 6–16 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 2–5 | 2–6 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Democraten 66 | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Fianna Fáil | IE | | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
+| Fianna Fáil | IE | | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
 | Gibanje Svoboda | SI | | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -36,6 +36,7 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | Demokratesch Partei | LU | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Reformierakond | EE | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Independent Ireland | IE | | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | Iniciativa Liberal | PT | | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | Les Engagés | BE-FRC | | 1 | 1 | 1 | 1–2 | 1–2 |
 | Liberalų Sąjūdis | LT | | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -43,15 +44,15 @@ At least one member in **17 countries** have a median of 1 seat or more:
 | NEOS–Das Neue Österreich und Liberales Forum | AT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Radikale Venstre | DK | | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | Venstre | DK | | 1 | 1 | 1 | 1 | 0–1 |
-| Azione | IT | | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| Azione | IT | | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | Centar | HR | | 0 | 0 | 0 | 0 | 0 |
 | Coalición Canaria–Partido Nacionalista Canario | ES | | 0 | 0 | 0 | 0 | 0 |
 | Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | ES | | 0 | 0 | 0 | 0–1 | 0–1 |
 | Fokus na bitno | HR | | 0 | 0 | 0 | 0 | 0 |
+| Građansko-liberalni savez | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska narodna stranka–liberalni demokrati | HR | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatska socijalno-liberalna stranka | HR | | 0 | 0 | 0 | 0 | 0 |
-| Independent Ireland | IE | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| Independents | IE | | 0 | 0 | 0 | 0 | 0–1 |
+| Independents | IE | | 0 | 0 | 0 | 0 | 0 |
 | Istarski demokratski sabor | HR | | 0 | 0 | 0 | 0 | 0 |
 | Italia Viva | IT | | 0 | 0 | 0 | 0 | 0–4 |
 | Laisvės partija | LT | | 0 | 0 | 0 | 0 | 0–1 |
@@ -74,29 +75,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 44 | 0.1% | 100% |  |
-| 45 | 0.2% | 99.9% |  |
-| 46 | 0.4% | 99.7% |  |
-| 47 | 0.8% | 99.3% |  |
-| 48 | 1.5% | 98% |  |
-| 49 | 2% | 97% |  |
-| 50 | 3% | 95% |  |
-| 51 | 5% | 91% |  |
-| 52 | 6% | 87% |  |
-| 53 | 8% | 81% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0.2% | 99.9% |  |
+| 47 | 0.5% | 99.7% |  |
+| 48 | 1.0% | 99.3% |  |
+| 49 | 2% | 98% |  |
+| 50 | 3% | 96% |  |
+| 51 | 5% | 93% |  |
+| 52 | 7% | 88% |  |
+| 53 | 9% | 82% |  |
 | 54 | 10% | 73% |  |
-| 55 | 11% | 63% |  |
-| 56 | 11% | 53% | Median |
-| 57 | 11% | 41% |  |
-| 58 | 9% | 30% |  |
-| 59 | 7% | 21% |  |
-| 60 | 5% | 14% |  |
-| 61 | 4% | 9% |  |
+| 55 | 11% | 62% |  |
+| 56 | 11% | 51% | Median |
+| 57 | 11% | 40% |  |
+| 58 | 9% | 29% |  |
+| 59 | 7% | 20% |  |
+| 60 | 5% | 13% |  |
+| 61 | 3% | 8% |  |
 | 62 | 2% | 5% |  |
 | 63 | 1.3% | 3% |  |
-| 64 | 0.8% | 2% |  |
-| 65 | 0.4% | 0.8% |  |
-| 66 | 0.2% | 0.4% |  |
+| 64 | 0.7% | 1.4% |  |
+| 65 | 0.4% | 0.7% |  |
+| 66 | 0.2% | 0.3% |  |
 | 67 | 0.1% | 0.2% |  |
 | 68 | 0% | 0.1% |  |
 | 69 | 0% | 0% |  |
