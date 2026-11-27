@@ -32,7 +32,7 @@ At least one member in **21 countries** have a median of 1 seat or more:
 | Parti Socialiste | BE-FRC | | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | Partit Laburista | MT | | 3 | 3 | 3 | 3 | 3 |
 | Progressief Nederland | NL | | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| Socijaldemokratska partija Hrvatske | HR | | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | Sozialdemokratische Partei Österreichs | AT | | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | Κίνημα Αλλαγής | GR | | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | Lietuvos socialdemokratų partija | LT | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -61,21 +61,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 107 | 0% | 100% |  |
 | 108 | 0.1% | 99.9% |  |
 | 109 | 0.2% | 99.9% |  |
-| 110 | 0.4% | 99.7% |  |
-| 111 | 0.7% | 99.3% |  |
-| 112 | 1.2% | 98.7% |  |
+| 110 | 0.3% | 99.7% |  |
+| 111 | 0.6% | 99.4% |  |
+| 112 | 1.1% | 98.8% |  |
 | 113 | 2% | 98% |  |
 | 114 | 3% | 96% |  |
 | 115 | 4% | 93% |  |
-| 116 | 6% | 88% |  |
+| 116 | 6% | 89% |  |
 | 117 | 7% | 83% |  |
-| 118 | 9% | 75% |  |
-| 119 | 10% | 66% |  |
+| 118 | 9% | 76% |  |
+| 119 | 10% | 67% |  |
 | 120 | 10% | 57% | Median |
-| 121 | 10% | 46% |  |
-| 122 | 9% | 36% |  |
-| 123 | 8% | 27% |  |
-| 124 | 6% | 19% |  |
+| 121 | 10% | 47% |  |
+| 122 | 9% | 37% |  |
+| 123 | 8% | 28% |  |
+| 124 | 6% | 20% |  |
 | 125 | 5% | 13% |  |
 | 126 | 3% | 9% |  |
 | 127 | 2% | 5% |  |
