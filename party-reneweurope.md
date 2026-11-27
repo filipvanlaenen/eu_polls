@@ -18,13 +18,13 @@ At least one member in **17 countries** have a median of 1 seat or more:
 
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Renew Europe | EU | 77 | 56 | 51–60 | 50–61 | 49–62 | 48–64 |
+| Renew Europe | EU | 77 | 56 | 52–60 | 50–61 | 49–62 | 48–65 |
 | Renaissance–Mouvement démocrate–Horizons | FR | | 11 | 8–12 | 7–13 | 7–13 | 6–14 |
 | Democraten 66 | NL | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Freie Demokratische Partei | DE | | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
 | Progresívne Slovensko | SK | | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | Fianna Fáil | IE | | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
-| Gibanje Svoboda | SI | | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| Gibanje Svoboda | SI | | 3 | 3 | 3 | 2–4 | 2–4 |
 | Uniunea Salvați România | RO | | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
 | Volkspartij voor Vrijheid en Democratie | NL | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Freie Wähler | DE | | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -78,13 +78,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 0.1% | 99.9% |  |
 | 47 | 0.3% | 99.8% |  |
 | 48 | 0.7% | 99.5% |  |
-| 49 | 2% | 98.8% |  |
+| 49 | 1.5% | 98.8% |  |
 | 50 | 3% | 97% |  |
-| 51 | 5% | 94% |  |
+| 51 | 4% | 95% |  |
 | 52 | 7% | 90% |  |
 | 53 | 9% | 83% |  |
-| 54 | 11% | 74% |  |
-| 55 | 12% | 63% |  |
+| 54 | 11% | 75% |  |
+| 55 | 12% | 64% |  |
 | 56 | 12% | 51% | Median |
 | 57 | 11% | 39% |  |
 | 58 | 9% | 28% |  |
@@ -93,7 +93,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 3% | 7% |  |
 | 62 | 2% | 4% |  |
 | 63 | 1.0% | 2% |  |
-| 64 | 0.5% | 1.0% |  |
+| 64 | 0.6% | 1.1% |  |
 | 65 | 0.3% | 0.5% |  |
 | 66 | 0.1% | 0.2% |  |
 | 67 | 0.1% | 0.1% |  |
