@@ -19,25 +19,24 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Party | Area | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | European Conservatives and Reformists | EU | 78 | 82 | 78–86 | 77–87 | 76–88 | 74–90 |
-| Fratelli d’Italia | IT | | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
+| Fratelli d’Italia | IT | | 23 | 21–26 | 20–26 | 20–26 | 19–27 |
+| Zjednoczona Prawica | PL | | 14 | 10–17 | 10–17 | 9–17 | 8–18 |
 | Alianța pentru Unirea Românilor | RO | | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
-| Zjednoczona Prawica | PL | | 13 | 10–17 | 10–17 | 10–17 | 9–18 |
-| Juiste Antwoord 2021 | NL | | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| Juiste Antwoord 2021 | NL | | 4 | 4–6 | 4–6 | 4–6 | 3–6 |
+| Sverigedemokraterna | SE | | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | Nieuw-Vlaamse Alliantie | BE-VLG | | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | Občanská demokratická strana | CZ | | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | Perussuomalaiset | FI | | 3 | 3 | 3 | 2–3 | 2–3 |
-| Rozwój Plus | PL | | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | Most nezavisnih lista | HR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| Ελληνική Λύση | GR | | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Alternativ Demokratesch Reformpartei | LU | | 1 | 1 | 1 | 1 | 0–1 |
-| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 0–1 |
+| Danmarksdemokraterne | DK | | 1 | 1 | 1 | 1 | 1 |
 | Eesti Keskerakond | EE | | 1 | 1 | 1 | 1 | 1–2 |
 | Lietuvos valstiečių ir žaliųjų sąjunga | LT | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Nacionalinis Susivienijimas | LT | | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | Nacionālā apvienība „Visu Latvijai!”–„Tēvzemei un Brīvībai/LNNK” | LV | | 1 | 1 | 1 | 1 | 1 |
 | Sloboda a Solidarita | SK | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Εθνικό Λαϊκό Μέτωπο | CY | | 1 | 1 | 1 | 1 | 1 |
-| Ελληνική Λύση | GR | | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | Движение за права и свободи | BG | | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | Debout la France | FR | | 0 | 0 | 0 | 0 | 0 |
 | Dom i Nacionalno Okupljanje | HR | | 0 | 0 | 0 | 0 | 0 |
@@ -46,9 +45,10 @@ At least one member in **18 countries** have a median of 1 seat or more:
 | Eesti Rahvuslased ja Konservatiivid | EE | | 0 | 0 | 0 | 0 | 0 |
 | Hrvatski suverenisti | HR | | 0 | 0 | 0 | 0 | 0 |
 | Kresťanská únia | SK | | 0 | 0 | 0 | 0 | 0 |
-| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| Lietuvos lenkų rinkimų akcija | LT | | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | Partidul Oamenilor Tineri | RO | | 0 | 0 | 0 | 0 | 0 |
-| Staatkundig Gereformeerde Partij | NL | | 0 | 0 | 0 | 0–1 | 0–1 |
+| Rozwój Plus | PL | | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| Staatkundig Gereformeerde Partij | NL | | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -60,22 +60,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 72 | 0.1% | 100% |  |
 | 73 | 0.2% | 99.9% |  |
-| 74 | 0.5% | 99.7% |  |
-| 75 | 1.1% | 99.2% |  |
+| 74 | 0.4% | 99.8% |  |
+| 75 | 1.0% | 99.3% |  |
 | 76 | 2% | 98% |  |
 | 77 | 4% | 96% |  |
-| 78 | 6% | 92% | Last Result |
-| 79 | 9% | 86% |  |
-| 80 | 11% | 77% |  |
-| 81 | 13% | 66% |  |
-| 82 | 13% | 53% | Median |
-| 83 | 12% | 40% |  |
-| 84 | 10% | 28% |  |
-| 85 | 7% | 19% |  |
-| 86 | 5% | 11% |  |
-| 87 | 3% | 6% |  |
+| 78 | 6% | 93% | Last Result |
+| 79 | 9% | 87% |  |
+| 80 | 11% | 78% |  |
+| 81 | 13% | 67% |  |
+| 82 | 13% | 54% | Median |
+| 83 | 12% | 42% |  |
+| 84 | 10% | 30% |  |
+| 85 | 8% | 20% |  |
+| 86 | 5% | 12% |  |
+| 87 | 3% | 7% |  |
 | 88 | 2% | 3% |  |
-| 89 | 0.8% | 1.4% |  |
+| 89 | 0.9% | 1.5% |  |
 | 90 | 0.4% | 0.6% |  |
 | 91 | 0.1% | 0.2% |  |
 | 92 | 0% | 0.1% |  |
